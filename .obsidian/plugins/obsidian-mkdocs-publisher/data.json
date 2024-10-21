@@ -1,11 +1,11 @@
 {
   "github": {
-    "user": "rathermercurial",
-    "repo": "quartz-test",
+    "user": "superbenefit",
+    "repo": "knowledge-garden",
     "branch": "v4",
     "automaticallyMergePR": false,
     "dryRun": {
-      "enable": true,
+      "enable": false,
       "folderName": "test-publish"
     },
     "tokenPath": "%configDir%/plugins/%pluginID%/env",
@@ -38,7 +38,7 @@
       "excluded": []
     },
     "folderNote": {
-      "enable": false,
+      "enable": true,
       "rename": "index.md",
       "addTitle": {
         "enable": false,
@@ -68,25 +68,30 @@
     "attachments": true,
     "overrideAttachments": [],
     "keySendFile": [],
-    "notes": false,
+    "notes": true,
     "folder": "",
-    "convertEmbedToLinks": "keep",
+    "convertEmbedToLinks": "bake",
     "charConvert": "->",
     "unHandledObsidianExt": [],
     "sendSimpleLinks": true,
-    "forcePush": true
+    "forcePush": true,
+    "useObsidianFolder": true,
+    "bake": {
+      "textBefore": "",
+      "textAfter": ""
+    }
   },
   "plugin": {
     "shareKey": "publish",
-    "fileMenu": false,
-    "editorMenu": false,
+    "fileMenu": true,
+    "editorMenu": true,
     "excludedFolder": [
       "drafts",
       "templates"
     ],
     "copyLink": {
       "enable": false,
-      "links": "",
+      "links": "knowledge.superbenefit.org",
       "removePart": [],
       "addCmd": false,
       "transform": {
