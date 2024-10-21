@@ -1,5 +1,11 @@
 # Ignore environment files
+.env
 .obsidian/plugins/obsidian-mkdocs-publisher/env
 
 # ignore trash
 .trash/
+
+# ignore obsidian customization files
+.obsidian/themes
+.obsidian/appearance.json
+.obsidian/workspace.json
