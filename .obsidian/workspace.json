@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/test-note.md",
+                "file": "artifacts/artifacts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "test-note"
+              "title": "artifacts"
             },
             "group": "c5671cf84bf00de6"
           },
@@ -50,13 +50,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/test-note.md",
+                "file": "artifacts/artifacts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "test-note"
+              "title": "artifacts"
             },
             "group": "c5671cf84bf00de6"
           },
@@ -234,8 +234,8 @@
   },
   "active": "f5f1448c5f49edf2",
   "lastOpenFiles": [
-    "notes/notes.md",
     "notes/test-note.md",
+    "notes/notes.md",
     "library/library.md",
     "index.md",
     "templates/Folder Note.md",
