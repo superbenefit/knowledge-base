@@ -10,3 +10,8 @@
 .obsidian/appearance.json
 .obsidian/workspace.json
 .obsidian/workspaces.json
+
+# ignore new plugin changes
+
+.obsidian\community-plugins.json
+.obsidian\plugins
