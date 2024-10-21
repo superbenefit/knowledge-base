@@ -2,5 +2,5 @@
   "remoteURL": "https://github.com/superbenefit/knowledge-base",
   "gitLocation": "",
   "syncinterval": 0,
-  "isSyncOnLoad": false
+  "isSyncOnLoad": true
 }
