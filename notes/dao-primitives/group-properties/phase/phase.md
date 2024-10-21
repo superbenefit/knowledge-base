@@ -10,10 +10,10 @@ Different groups go through specific phases in their development. The more these
 
 For applying the DAO primitives we consider groups to have 5 distinct phases:
 
-- [Conversation/ideation](notes/dao-primitives/groups/phase/conversation.md) - no constraints.
-- [Formation](notes/dao-primitives/groups/phase/formation.md) - early engagement with minimal process.
-- [Organisation](notes/dao-primitives/groups/phase/organization.md) - formal structure/state.
-- [Coordination](notes/dao-primitives/groups/phase/coordination.md) - integration into operating networks.
+- [Conversation/ideation](notes/dao-primitives/group-properties/phase/conversation.md) - no constraints.
+- [Formation](notes/dao-primitives/group-properties/phase/formation.md) - early engagement with minimal process.
+- [Organisation](notes/dao-primitives/group-properties/phase/organization.md) - formal structure/state.
+- [Coordination](notes/dao-primitives/group-properties/phase/coordination.md) - integration into operating networks.
 - Completion - graceful closing down when no longer needed.   
 
 ![](https://lh7-us.googleusercontent.com/j0nSD1q5RzXjiI61tlRtfwgsGEXqZN5lo1ta-arOtaM_alOCo8PM7L4hvh9OHtO_I9POD2IXKVldbk7v1dYB1T8Oz94kX5ooWdaz-2uf7EJ2dKZFPYcb-h8_rTjAl2X-P4qJDICzWfJQ6hRMbSkfZao)

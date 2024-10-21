@@ -34,8 +34,13 @@
     "replacePath": [],
     "autoclean": {
       "includeAttachments": true,
-      "enable": false,
-      "excluded": []
+      "enable": true,
+      "excluded": [
+        ".github",
+        ".obsidian",
+        ".trash",
+        ".gitignore"
+      ]
     },
     "folderNote": {
       "enable": true,
@@ -101,9 +106,9 @@
       }
     },
     "noticeError": false,
-    "displayModalRepoEditing": false,
+    "displayModalRepoEditing": true,
     "setFrontmatterKey": "Set",
     "migrated": true
   },
-  "tabsId": "github-configuration"
+  "tabsId": "upload-configuration"
 }
