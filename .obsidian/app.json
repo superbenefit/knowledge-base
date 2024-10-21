@@ -1,0 +1,12 @@
+{
+  "useMarkdownLinks": false,
+  "newLinkFormat": "absolute",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "drafts",
+  "attachmentFolderPath": "attachments",
+  "livePreview": false,
+  "trashOption": "local",
+  "tabSize": 2,
+  "defaultViewMode": "source"
+}

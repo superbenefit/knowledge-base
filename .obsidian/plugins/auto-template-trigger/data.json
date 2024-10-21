@@ -1,0 +1,20 @@
+{
+  "folderSpecificTemplates": [
+    {
+      "folderPath": "notes",
+      "templateName": "Note Template"
+    },
+    {
+      "folderPath": "lexicon",
+      "templateName": "Tag Page Template"
+    },
+    {
+      "folderPath": "library",
+      "templateName": "Link Template"
+    },
+    {
+      "folderPath": "drafts",
+      "templateName": "Note Template"
+    }
+  ]
+}

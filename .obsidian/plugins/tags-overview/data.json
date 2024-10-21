@@ -1,0 +1,24 @@
+{
+  "filterAnd": true,
+  "displayType": "list",
+  "sortTags": "name",
+  "sortFiles": "name",
+  "keepFilters": true,
+  "displayHeaders": false,
+  "storedFilters": "",
+  "showNested": false,
+  "showRelatedTags": true,
+  "showCalendarDates": true,
+  "dateFormat": "YYYY-MM-DD",
+  "tableColumns": [
+    {
+      "type": "name"
+    },
+    {
+      "type": "modified",
+      "align": "right"
+    }
+  ],
+  "propertyFilters": [],
+  "savedFilters": []
+}

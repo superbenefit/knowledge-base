@@ -1,0 +1,282 @@
+{
+  "main": {
+    "id": "897c2b56aa7b07c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5dd4fc2211cb4302",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5f1448c5f49edf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "library/library.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "library"
+            },
+            "group": "c5671cf84bf00de6"
+          },
+          {
+            "id": "775b69ecbf05871c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/dao-primitives/pattern-library/cell-pattern.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "cell-pattern"
+            }
+          }
+        ]
+      },
+      {
+        "id": "63060f7fe5dbbab1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22f34cea8fe8c46d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "library/library.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "library"
+            },
+            "group": "c5671cf84bf00de6"
+          },
+          {
+            "id": "9f4a925e70a44ed4",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__note",
+              "state": {},
+              "icon": "notepad-text",
+              "title": "note"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "94cec4af83269599",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdeed2181df100a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebbfd294ecc40c7f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2e1b61953867cdc5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"draft\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ee39bc4d70fbf168",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab43fec7a8793f07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7ac906e8e1dba0e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/test note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for test note"
+            }
+          },
+          {
+            "id": "505f55ece059d422",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notes/test note.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from test note"
+            }
+          },
+          {
+            "id": "541626461b6c2f31",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notes/test note.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of test note"
+            }
+          },
+          {
+            "id": "af3c7e586ac7d7a1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5502a41395fcca13",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8e133e652b10b7ec",
+            "type": "leaf",
+            "state": {
+              "type": "tags-overview-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "tags-overview:Tags overview": false,
+      "obsidian42-brat:BRAT": false,
+      "quartz-syncer:Quartz Syncer Publication Center": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "yet-another-obsidian-synchronizer:YAOS": false
+    }
+  },
+  "active": "f5f1448c5f49edf2",
+  "lastOpenFiles": [
+    "index.md",
+    "templates/Folder Note.md",
+    "templates/Pattern Template.md",
+    "notes/notes.md",
+    "library/library.md",
+    "library/10 tools for a zero carbon world.md",
+    "drafts/drafts.md",
+    "tags/tags.md",
+    "artifacts/artifacts.md",
+    "tags/playbooks.md",
+    "tags/defi.md",
+    "tags/decentralization.md",
+    "tags/blockchain.md",
+    "tags/actions.md",
+    "notes/dao-primitives/pattern-library/cell-pattern.md",
+    "notes/dao-primitives/index.md",
+    "notes/dao-primitives/DAO Primitives Canvas.canvas",
+    "notes/dao-primitives/pattern-library/Fractal Scaling.md",
+    "notes/dao-primitives/pattern-library/Community Governance.md",
+    "notes/dao-primitives/pattern-library/circle-pattern.md",
+    "notes/dao-primitives/pattern-library/index.md",
+    "templates/types/note.md",
+    "templates/Tag Page Template.md",
+    "drafts/Untitled 1.md",
+    "templates/types/draft.md",
+    "drafts/Untitled.md",
+    "templates/Note Template.md",
+    "templates/Untitled/Untitled",
+    "templates/types",
+    "drafts",
+    "attachments/os-canvas.png",
+    "attachments/579f6eae-90e2-4d25-8ea9-acc11901e252.png",
+    "tags/groups/phase",
+    "tags/groups",
+    "attachments/group-scales.png",
+    "attachments/group-scale (2).png",
+    "notes/dao-primitives/groups/scale",
+    "notes/dao-primitives/groups/phase",
+    "notes/dao-primitives/groups",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "notes/dao-primitives/protocols",
+    "attachments/PL_Toolkit_Report_v7.pdf",
+    "attachments/pasted image 0.png"
+  ]
+}

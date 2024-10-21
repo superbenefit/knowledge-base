@@ -1,0 +1,104 @@
+{
+  "github": {
+    "user": "rathermercurial",
+    "repo": "quartz-test",
+    "branch": "v4",
+    "automaticallyMergePR": false,
+    "dryRun": {
+      "enable": true,
+      "folderName": "test-publish"
+    },
+    "tokenPath": "%configDir%/plugins/%pluginID%/env",
+    "api": {
+      "tiersForApi": "Github Free/Pro/Team (default)",
+      "hostname": ""
+    },
+    "workflow": {
+      "commitMessage": "[OBSIDIAN] Merge ",
+      "name": ""
+    },
+    "otherRepo": [],
+    "verifiedRepo": true,
+    "rateLimit": 4998
+  },
+  "upload": {
+    "behavior": "obsidian",
+    "defaultName": "content",
+    "rootFolder": "",
+    "yamlFolderKey": "",
+    "frontmatterTitle": {
+      "enable": false,
+      "key": "title"
+    },
+    "replaceTitle": [],
+    "replacePath": [],
+    "autoclean": {
+      "includeAttachments": true,
+      "enable": false,
+      "excluded": []
+    },
+    "folderNote": {
+      "enable": false,
+      "rename": "index.md",
+      "addTitle": {
+        "enable": false,
+        "key": "title"
+      }
+    },
+    "metadataExtractorPath": ""
+  },
+  "conversion": {
+    "hardbreak": false,
+    "dataview": true,
+    "censorText": [],
+    "tags": {
+      "inline": false,
+      "exclude": [],
+      "fields": []
+    },
+    "links": {
+      "internal": true,
+      "unshared": false,
+      "wiki": true,
+      "slugify": "disable",
+      "unlink": false
+    }
+  },
+  "embed": {
+    "attachments": true,
+    "overrideAttachments": [],
+    "keySendFile": [],
+    "notes": false,
+    "folder": "",
+    "convertEmbedToLinks": "keep",
+    "charConvert": "->",
+    "unHandledObsidianExt": [],
+    "sendSimpleLinks": true,
+    "forcePush": true
+  },
+  "plugin": {
+    "shareKey": "publish",
+    "fileMenu": false,
+    "editorMenu": false,
+    "excludedFolder": [
+      "drafts",
+      "templates"
+    ],
+    "copyLink": {
+      "enable": false,
+      "links": "",
+      "removePart": [],
+      "addCmd": false,
+      "transform": {
+        "toUri": true,
+        "slugify": "lower",
+        "applyRegex": []
+      }
+    },
+    "noticeError": false,
+    "displayModalRepoEditing": false,
+    "setFrontmatterKey": "Set",
+    "migrated": true
+  },
+  "tabsId": "github-configuration"
+}

@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "[\"index\":True]",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:artifacts ",
+      "color": {
+        "a": 1,
+        "rgb": 16749824
+      }
+    },
+    {
+      "query": "path:notes  ",
+      "color": {
+        "a": 1,
+        "rgb": 16766208
+      }
+    },
+    {
+      "query": "path:tags",
+      "color": {
+        "a": 1,
+        "rgb": 1741614
+      }
+    },
+    {
+      "query": "[\"type\":Org]",
+      "color": {
+        "a": 1,
+        "rgb": 3700141
+      }
+    },
+    {
+      "query": "path:library  ",
+      "color": {
+        "a": 1,
+        "rgb": 16080045
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 0.9421875,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.0885416666666667,
+  "repelStrength": 14.375,
+  "linkStrength": 1,
+  "linkDistance": 275,
+  "scale": 0.059326171875000284,
+  "close": true
+}
