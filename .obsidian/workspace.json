@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "library/library.md",
+                "file": "notes/test-note.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "library"
+              "title": "test-note"
             },
             "group": "c5671cf84bf00de6"
           },
@@ -50,13 +50,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "library/library.md",
+                "file": "notes/test-note.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "library"
+              "title": "test-note"
             },
             "group": "c5671cf84bf00de6"
           },
@@ -234,11 +234,12 @@
   },
   "active": "f5f1448c5f49edf2",
   "lastOpenFiles": [
+    "notes/notes.md",
+    "notes/test-note.md",
+    "library/library.md",
     "index.md",
     "templates/Folder Note.md",
     "templates/Pattern Template.md",
-    "notes/notes.md",
-    "library/library.md",
     "library/10 tools for a zero carbon world.md",
     "drafts/drafts.md",
     "tags/tags.md",
@@ -260,7 +261,6 @@
     "drafts/Untitled 1.md",
     "templates/types/draft.md",
     "drafts/Untitled.md",
-    "templates/Note Template.md",
     "templates/Untitled/Untitled",
     "templates/types",
     "drafts",
