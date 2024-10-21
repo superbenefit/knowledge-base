@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"affde8766be550c4","type":"text","text":"# DAO Primitives Articles","x":-182,"y":-240,"width":382,"height":100,"color":"5"},
+		{"id":"5ca6ae033150f14e","type":"file","file":"artifacts/DAOs - From fractal primitives to network scale..md","x":-263,"y":200,"width":544,"height":820},
+		{"id":"8ee8b2bc7fa3324d","type":"file","file":"artifacts/Scale and the levers that provide DAOs their power.md","x":-960,"y":200,"width":600,"height":820},
+		{"id":"e245a78d8e234107","type":"file","file":"artifacts/DAOs aren't things... they are flows..md","x":-1600,"y":200,"width":560,"height":820},
+		{"id":"1c2352a8eb7711dd","type":"file","file":"artifacts/Minimum Viable Permissionless-ness.md","x":360,"y":200,"width":600,"height":820},
+		{"id":"86162a570cc2d5b4","type":"file","file":"artifacts/Building DAOs as scalable networks.md","x":1013,"y":200,"width":587,"height":820},
+		{"id":"214fa90bba4cc5ca","type":"file","file":"attachments/pasted image 0.png","x":-1651,"y":-800,"width":3251,"height":490}
+	],
+	"edges":[
+		{"id":"7593bd66cf29b1fb","fromNode":"affde8766be550c4","fromSide":"bottom","toNode":"e245a78d8e234107","toSide":"top"},
+		{"id":"bb81f1ecabb6dcc5","fromNode":"affde8766be550c4","fromSide":"bottom","toNode":"8ee8b2bc7fa3324d","toSide":"top"},
+		{"id":"aed3137b27e7385c","fromNode":"affde8766be550c4","fromSide":"bottom","toNode":"5ca6ae033150f14e","toSide":"top"},
+		{"id":"02dd60c816489745","fromNode":"affde8766be550c4","fromSide":"bottom","toNode":"1c2352a8eb7711dd","toSide":"top"},
+		{"id":"4558ef0f8a69abd4","fromNode":"affde8766be550c4","fromSide":"bottom","toNode":"86162a570cc2d5b4","toSide":"top"}
+	]
+}
