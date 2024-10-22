@@ -146,3 +146,4 @@ _We are learning as these experiments evolve and are deeply appreciative of the 
 - Previous: [Minimum Viable Permissionless-ness](artifacts/Minimum%20Viable%20Permissionless-ness.md)
     
 - Next: …coming soon…
+- .
