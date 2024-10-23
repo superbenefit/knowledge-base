@@ -1,12 +1,12 @@
 # SuperBenefit Knowledge Base
 
-A local-first markdown repository designed for collaborative knowledge management, using Obsidian for editing, git for version control, and Quartz for publishing.
+A local-first markdown repository designed for collaborative knowledge management and collective sensemaking. Using Obsidian for editing, git for version control, and Quartz for publishing, this knowledge garden enables both deep individual work and shared understanding.
 
 ## Repository Overview
 
 This repo is a collection of [Markdown](https://www.markdownguide.org/) files, organized using [Obsidian](https://obsidian.md/) and published with [Quartz](https://quartz.jzhao.xyz/). The primary markdown syntax used is [CommonMark](https://commonmark.org/), with some added flavor for [Obsidian](https://help.obsidian.md/Editing+and+formatting/Obsidian+Flavored+Markdown) and [GitHub](https://help.obsidian.md/Editing+and+formatting/Obsidian+Flavored+Markdown).
 
-This knowledge base can be synced to your computer using [git](https://www.atlassian.com/git/tutorials/what-is-git), and modified using a text or code editor. We recommend using [Obsidian](https://obsidian.md/) for exploring and editing the knowledge base, and [VS Code](https://code.visualstudio.com/) for editing plugin files, etc. Both are free, [open-source](https://en.wikipedia.org/wiki/Open_source) and highly customizable. This can be described as a [local-first](https://www.inkandswitch.com/local-first/) workflow.
+This knowledge base uses a local-first workflow - files are stored on your computer and synced using [git](https://www.atlassian.com/git/tutorials/what-is-git). We recommend using [Obsidian](https://obsidian.md/) for exploring and editing the knowledge base, and [VS Code](https://code.visualstudio.com/) for editing plugin files, etc. Both are free, [open-source](https://en.wikipedia.org/wiki/Open_source) and highly customizable.
 
 Content from this knowledge base can be uploaded to the [knowledge garden](https://github.com/superbenefit/knowledge-garden), which is published [here](https://knowledge.superbenefit.org).
 
@@ -16,21 +16,27 @@ This repository is built around several key principles:
 
 1. **Local-First Workflow**
    - Files stored locally as markdown, enabling offline work
-   - Git for version control and collaboration
-   - Sync to personal devices for direct editing
-   - Published online while maintaining local control
+   - Simple git sync for collaboration
+   - Work directly on your device
+   - Control over your content while sharing publicly
 
 2. **Networked Knowledge**
-   - Flat hierarchy with semantic connections
-   - Focus on relationships between ideas
+   - Organic discovery through relationships
+   - Focus on connections between ideas
    - Flexible organization through metadata
-   - Graph-based navigation and discovery
+   - Visual graph exploration
 
 3. **Progressive Documentation**
-   - Clear workflow from drafts to published content
-   - Separation of working notes and finished artifacts
-   - Structured metadata for organization
+   - Natural flow from drafts to published content
+   - Space for both working notes and finished artifacts
+   - Structured but flexible metadata
    - Templates for consistency
+
+4. **Collective Intelligence**
+   - Support for both individual deep work and group sensemaking
+   - Rich onboarding through connected content
+   - Shared terminology and concepts
+   - Collaborative knowledge building
 
 ## Technical Stack
 
@@ -39,37 +45,38 @@ This repository is built around several key principles:
 - **Version Control**: [git](https://www.atlassian.com/git/tutorials/what-is-git)
 - **Publishing**: [Quartz](https://quartz.jzhao.xyz/)
 
-## Repository Structure
+## Content Structure
 
 ```
 knowledge-base/
 ├── artifacts/     # Published, finalized content
-├── library/      # External references with commentary
 ├── notes/        # Working documents by project
 │   ├── dao-primitives/
 │   └── rpp/
+├── drafts/      # Work-in-progress documents
+├── library/      # External references with commentary
 ├── tags/         # Tag definitions and terminology
-├── templates/    # Document templates and schemas
-│   └── types/   # Metadata type definitions
-└── drafts/      # Work-in-progress documents
+├── templates/    # Document templates
+└── types/        # Metadata type definitions
 ```
 
 ## How It Works
 
 ### Document Organization
-- Uses metadata (YAML frontmatter) instead of deep folder structures
-- Links documents through wiki-style references `[[document-name]]`
-- Organizes content through tags defined in `tags/`
-- Creates relationships through bidirectional links
+- "Get in where you fit in" - don't overthink placement
+- Link documents through wiki-style references `[[document-name]]`
+- Use metadata and tags over folder hierarchy
+- Create rich relationships through bidirectional links
 
 ### Document Types
 
-We use a structured type system to organize different kinds of content:
+We use a structured but flexible type system:
 
 1. **Notes** (`type: note`)
    - Working documents and documentation
    - Project-specific content
    - Research and analysis
+   - Start here when unsure
 
 2. **Links** (`type: link`)
    - External resource documentation
@@ -102,13 +109,11 @@ description: Brief description
 type: [note|link|pattern|tag|index]
 publish: true/false
 tags:
-  - relevant_tag
-  - another_tag
+  - tag
+  - another-tag
 # Additional fields based on type
 ---
 ```
-
-## Technical Stack
 
 ### Core Tools
 - **Content**: CommonMark + Obsidian Markdown extensions
@@ -143,29 +148,30 @@ git clone [repository-url]
 - Set up tag management
 
 3. **Start Contributing**
-- Create new documents using templates
-- Follow the content workflow
-- Use appropriate metadata schemas
+- Begin with drafts - they're private to your machine
+- Use templates when helpful
+- Don't worry too much about organization
+- Focus on creating connections
 
-## Content Workflow
+## Content Creation
 
-1. **Creating Content**
-   - Start in `drafts/`
-   - Use appropriate template
-   - Fill in required metadata
-   - Add content and links
+1. **Starting Out**
+   - Use the drafts folder freely
+   - Begin with simple notes
+   - Link to related content
+   - Add basic metadata
 
 2. **Development**
-   - Move to `notes/` when active
-   - Organize in project folders
-   - Link to related content
-   - Add tags and references
+   - Move to project folders when ready
+   - Build relationships between documents
+   - Collaborate through git sync
+   - Focus on connections
 
 3. **Publication**
-   - Move to `artifacts/` when complete
-   - Update metadata
-   - Ensure all links work
-   - Tag and categorize properly
+   - Move finished work to artifacts
+   - Ensure metadata is complete
+   - Verify links work
+   - Tag appropriately
 
 ## Templating System
 
@@ -179,7 +185,7 @@ git clone [repository-url]
    - Folder Note Template
 
 2. **Type Definitions**
-Located in `templates/types/`:
+Located in `types/`:
    - note.md
    - link.md
    - pattern.md
@@ -229,5 +235,5 @@ Located in `templates/types/`:
 
 For questions or issues:
 1. Check existing documentation
-2. Open an issue
-3. Join community discussions
+2. Ask in community channels
+3. Open an issue if needed
