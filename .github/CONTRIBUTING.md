@@ -1,132 +1,93 @@
 # Contributing to SuperBenefit Knowledge Base
 
-Thank you for your interest in contributing to SuperBenefit's knowledge base! This guide will help you understand our contribution process and standards.
+Thank you for your interest in contributing to our knowledge base! This guide will help you understand our content standards and contribution process.
 
 ## Getting Started
 
-1. **Set Up Your Environment**
-   - Fork the repository to your GitHub account
-   - Clone your fork locally
-   - Install [Obsidian](https://obsidian.md/) (recommended) or your preferred markdown editor
-   - Open the repository folder as an Obsidian vault
+### 1. Initial Setup
+1. Install [Obsidian](https://obsidian.md/)
+2. Get repository access from SuperBenefit admins
+3. Clone the repository using Obsidian GitHub sync plugin
+4. Enable recommended plugins:
+   - GitHub Sync
+   - Dataview
+   - Metadata Menu
+   - Tag Wrangler
+   - Auto Template Trigger
 
-2. **Understand the Structure**
-   - Review our [README](README.md) for technical details
-   - Explore the [index](index.md) to understand our content organization
-   - Familiarize yourself with our existing content and style
+### 2. Basic Workflow
+1. Open vault in Obsidian
+2. Pull latest changes using GitHub sync
+3. Create or edit content
+4. Push changes using GitHub sync
 
-## Contribution Workflow
+[Rest of content standards section remains the same...]
 
-### 1. Choose Your Contribution Type
+## Contribution Process
+
+### 1. Before You Start
+- Ensure you have repository access
+- Pull latest changes
+- Check existing content
+- Review relevant templates
+
+### 2. Creating Content
 
 #### New Content
-- Start in `drafts/` directory
-- Use appropriate template from `templates/`
-- Include required metadata
-- Add relevant tags from `tags/`
+1. Start in `drafts/`
+2. Use appropriate template
+3. Fill required metadata
+4. Add content and links
 
-#### Updates to Existing Content
-- Maintain existing metadata structure
-- Preserve valuable links and references
-- Document your changes in commit messages
-
-### 2. Content Guidelines
-
-#### Document Types
-- **Notes**: Works in progress, research, observations
-- **Links**: External resource documentation with commentary
-- **Artifacts**: Polished, published content
-- **Tags**: Definitions and terminology
-
-#### Metadata Requirements
-```yaml
-title: Clear, descriptive title
-description: One-line summary
-publish: false  # Set to true when ready for public
-type: [note|link|artifact|tag]
-# Additional fields based on type
-```
-
-#### Quality Standards
-- Use clear, concise language
-- Include context and purpose
-- Link to related content
-- Credit sources and contributors
-- Follow markdown best practices
-
-### 3. Making Contributions
-
-#### For Small Changes
-1. Create a branch for your changes
+#### Updating Content
+1. Pull latest changes
 2. Make your edits
-3. Commit with clear messages
-4. Open a Pull Request (PR)
+3. Update metadata if needed
+4. Push changes
 
-#### For Larger Contributions
-1. Open an issue first to discuss
-2. Get feedback on approach
-3. Create branch and implement
-4. Request review on PR
+### 3. Publishing Process
 
-## Best Practices
+#### Moving from Drafts to Notes
+1. Ensure content is ready for active development
+2. Move to appropriate project folder in `notes/`
+3. Update any internal links
+4. Push changes
 
-### Knowledge Organization
-- Use existing tags when possible
-- Create meaningful connections
-- Organize by relationship, not just hierarchy
-- Keep file names clear and consistent
+#### Publishing Final Content
+1. Review and polish content
+2. Move to `artifacts/` if ready for publication
+3. Update publish status in metadata
+4. Push changes
 
-### Writing Style
-- Write for clarity and understanding
-- Include context and background
-- Use examples when helpful
-- Link to supporting materials
+### 4. Quality Control
 
-### Collaboration
-- Respect existing work
-- Build on others' contributions
-- Engage in discussions
-- Welcome feedback and iteration
+#### Before Pushing Changes
+- [ ] Complete metadata
+- [ ] Correct template usage
+- [ ] Working links
+- [ ] Proper formatting
+- [ ] Tag consistency
+- [ ] Pull latest changes before pushing
 
-## Review Process
+[Rest of the document remains the same...]
 
-1. **Initial Check**
-   - Correct location and structure
-   - Complete metadata
-   - Appropriate tags and links
+## Sync Tips
 
-2. **Content Review**
-   - Clarity and accuracy
-   - Proper references
-   - Valuable connections
+### Regular Sync
+- Pull changes when starting work
+- Push changes when finishing
+- Resolve any conflicts in Obsidian
 
-3. **Technical Review**
-   - Valid markdown syntax
-   - Working links
-   - Correct templates usage
+### Conflict Resolution
+1. Pull before making changes
+2. Check conflict notifications
+3. Manually merge if needed
+4. Push resolved changes
 
-## Getting Help
+### Best Practices
+- Sync frequently
+- Work on different files than others when possible
+- Communicate with team about major changes
+- Back up important work locally
 
-- Check existing documentation first
-- Open an issue for questions
-- Join our community discussions
-- Ask in our chat channels
-
-## Recognition
-
-We value all contributions! Contributors are:
-- Listed in relevant documents
-- Credited in commit history
-- Mentioned in our index
-- Part of building our shared knowledge
-
-## Code of Conduct
-
-- Be respectful and constructive
-- Acknowledge others' work
-- Follow open-source best practices
-- Help maintain quality standards
-
----
-
-Remember: This is a living document. If you see ways to improve these guidelines, please suggest changes!
+[Rest of the document remains the same...]

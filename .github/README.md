@@ -42,13 +42,16 @@ This repository is built around several key principles:
 ## Repository Structure
 
 ```
-.
-├── drafts/          # Work-in-progress documents
-├── notes/           # Active working documents by project
-├── artifacts/       # Published, finalized content
-├── library/         # External references with commentary
-├── tags/           # Tag definitions and terminology
-└── templates/       # Document templates and schemas
+knowledge-base/
+├── artifacts/     # Published, finalized content
+├── library/      # External references with commentary
+├── notes/        # Working documents by project
+│   ├── dao-primitives/
+│   └── rpp/
+├── tags/         # Tag definitions and terminology
+├── templates/    # Document templates and schemas
+│   └── types/   # Metadata type definitions
+└── drafts/      # Work-in-progress documents
 ```
 
 ## How It Works
@@ -59,70 +62,172 @@ This repository is built around several key principles:
 - Organizes content through tags defined in `tags/`
 - Creates relationships through bidirectional links
 
-### Metadata Structure
+### Document Types
+
+We use a structured type system to organize different kinds of content:
+
+1. **Notes** (`type: note`)
+   - Working documents and documentation
+   - Project-specific content
+   - Research and analysis
+
+2. **Links** (`type: link`)
+   - External resource documentation
+   - Includes source URL and author info
+   - Contains summary and commentary
+
+3. **Patterns** (`type: pattern`)
+   - Reusable solutions or approaches
+   - Implementation guidelines
+   - Usage examples
+
+4. **Tags** (`type: tag`)
+   - Terminology definitions
+   - Concept explanations
+   - Relationship mappings
+
+5. **Indices** (`type: index`)
+   - Directory listings
+   - Category overviews
+   - Navigation aids
+
+### Metadata Schema
+
+All documents use YAML frontmatter for metadata:
+
 ```yaml
-title: Document title
+---
+title: Document Title
 description: Brief description
+type: [note|link|pattern|tag|index]
 publish: true/false
-type: [note|link|index|etc]
-# Additional fields based on document type
+tags:
+  - relevant_tag
+  - another_tag
+# Additional fields based on type
+---
 ```
 
-### Navigation Methods
-1. Graph view (relationships between documents)
-2. Tag-based filtering
-3. Full-text search
-4. Wiki-style links
+## Technical Stack
+
+### Core Tools
+- **Content**: CommonMark + Obsidian Markdown extensions
+- **Editor**: [Obsidian](https://obsidian.md/) (recommended)
+- **Version Control**: git
+- **Templates**: Custom templates for different content types
+
+### Obsidian Plugins
+- `dataview` - Advanced querying
+- `metadata-menu` - Metadata management
+- `tag-wrangler` - Tag organization
+- `auto-template-trigger` - Template automation
+- Additional plugins for specific functionalities
 
 ## Getting Started
 
 1. **Setup Local Environment**
-   ```bash
-   # Clone repository
-   git clone [repository-url]
-   
-   # Open in Obsidian
-   # 1. Open Obsidian
-   # 2. Choose "Open folder as vault"
-   # 3. Select cloned repository folder
-   ```
+```bash
+# Clone repository
+git clone [repository-url]
 
-2. **Basic Workflow**
-   - Create/edit documents in Obsidian or preferred editor
-   - Use templates from `templates/` for new documents
-   - Commit changes using git
-   - Push to shared repository when ready
+# Open in Obsidian
+# 1. Open Obsidian
+# 2. Choose "Open folder as vault"
+# 3. Select cloned repository folder
+```
 
-3. **Publishing Content**
-   - Documents marked `publish: true` will be included in the public garden
-   - Build and deploy handled by Quartz
-   - Published at [knowledge.superbenefit.org](https://knowledge.superbenefit.org)
+2. **Configure Obsidian**
+- Install recommended plugins
+- Enable templates
+- Configure metadata menu
+- Set up tag management
 
-## Contributing
+3. **Start Contributing**
+- Create new documents using templates
+- Follow the content workflow
+- Use appropriate metadata schemas
 
-1. **New Content**
+## Content Workflow
+
+1. **Creating Content**
    - Start in `drafts/`
    - Use appropriate template
-   - Include required metadata
-   - Add relevant tags and links
+   - Fill in required metadata
+   - Add content and links
 
-2. **Editing Existing Content**
-   - Maintain metadata structure
-   - Preserve existing links
-   - Update relationships as needed
-   - Keep document types consistent
+2. **Development**
+   - Move to `notes/` when active
+   - Organize in project folders
+   - Link to related content
+   - Add tags and references
 
-3. **Publishing**
-   - Move finalized content to appropriate directory
-   - Update publish status in metadata
-   - Ensure all links and references work
-   - Commit and push changes
+3. **Publication**
+   - Move to `artifacts/` when complete
+   - Update metadata
+   - Ensure all links work
+   - Tag and categorize properly
+
+## Templating System
+
+### Available Templates
+
+1. **Basic Templates**
+   - Note Template
+   - Link Template
+   - Pattern Template
+   - Tag Page Template
+   - Folder Note Template
+
+2. **Type Definitions**
+Located in `templates/types/`:
+   - note.md
+   - link.md
+   - pattern.md
+   - resource.md
+   - protocol.md
+   - practice.md
+   - primitive.md
+   - index.md
+   - tag.md
+
+### Using Templates
+
+1. **New Documents**
+   - Use template picker in Obsidian
+   - Fill in required fields
+   - Follow type-specific guidelines
+
+2. **Type Definitions**
+   - Define metadata schema
+   - Set required fields
+   - Specify validation rules
+
+## Navigation
+
+1. **Graph View**
+   - Visual relationship mapping
+   - Content exploration
+   - Connection discovery
+
+2. **Tags**
+   - Categorical organization
+   - Concept relationships
+   - Topic grouping
+
+3. **Search**
+   - Full-text search
+   - Metadata queries
+   - Tag filtering
 
 ## Additional Resources
 
-- [Obsidian Documentation](https://help.obsidian.md/)
-- [Quartz Documentation](https://quartz.jzhao.xyz/)
-- [Git Tutorial](https://www.atlassian.com/git/tutorials)
-- [CommonMark Spec](https://commonmark.org/)
+- See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines
+- Check [index.md](index.md) for content overview
+- Visit project documentation for specific guidelines
 
-For content guidelines and documentation about specific projects or areas, see the [index](index.md).
+## Support
+
+For questions or issues:
+1. Check existing documentation
+2. Open an issue
+3. Join community discussions
