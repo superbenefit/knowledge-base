@@ -1,4 +1,5 @@
 ---
+type: note
 title: Group Facilitation Framework
 author: 
 tags: 

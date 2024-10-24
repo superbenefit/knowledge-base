@@ -1,10 +1,11 @@
 ---
 title: 
 description: 
-publish: true
+publish: "true"
 type: Pattern
 function: 
 group-scale: 
+
 group-phase: 
 tags:
   - patterns

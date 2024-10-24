@@ -1,29 +1,33 @@
 ---
 limit: 20
 mapWithTag: false
-icon: dam
+icon: package
 tagNames: 
 filesPaths: 
 bookmarksGroups: 
 excludes: 
-extends: 
+extends: note
 savedViews: []
 favoriteView: 
 fieldsOrder:
   - n9wpUH
   - yiCDQi
   - Oknta7
-version: "2.6"
+version: "2.12"
 fields:
   - name: group-scale
     type: Select
     options:
-      sourceType: ValuesList
+      sourceType: ValuesFromDVQuery
       valuesList:
         "1": collaboration
         "2": coordiantion
         "3": constituency
         "4": network
+      valuesFromDVQuery: |-
+        list file.title
+        from "notes/dao-primitives/group-properties/scale"
+        where file.name != "scale"
     path: ""
     id: yiCDQi
   - name: group-phase

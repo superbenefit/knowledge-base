@@ -13,8 +13,7 @@ fieldsOrder:
   - anCEWM
   - Pgb5mz
   - 5tGepk
-  - h695Qt
-version: "2.12"
+version: "2.13"
 fields:
   - name: publish
     type: Boolean
@@ -26,11 +25,6 @@ fields:
     options: {}
     path: ""
     id: anCEWM
-  - name: type
-    type: Input
-    options: {}
-    path: ""
-    id: h695Qt
   - name: description
     type: Input
     options: {}

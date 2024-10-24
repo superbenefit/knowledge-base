@@ -1,6 +1,6 @@
 ---
 limit: 20
-mapWithTag: false
+mapWithTag: true
 icon: layout-template
 tagNames:
   - patterns
@@ -8,9 +8,9 @@ filesPaths:
   - notes/dao-primitives/patterns
 bookmarksGroups: 
 excludes: 
-extends: resource
+extends: resources/resource
 savedViews: []
 favoriteView: 
 fieldsOrder: []
-version: "2.3"
+version: "2.4"
 ---

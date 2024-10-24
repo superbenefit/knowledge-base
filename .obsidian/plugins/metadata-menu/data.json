@@ -29,6 +29,6 @@
   "showFileClassSelectInModal": true,
   "chooseFileClassAtFileCreation": false,
   "autoInsertFieldsAtFileClassInsertion": true,
-  "fileClassIcon": "package",
+  "fileClassIcon": "box",
   "isAutoCalculationEnabled": true
 }

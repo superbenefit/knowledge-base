@@ -1,7 +1,7 @@
 ---
 title: 
 description: 
-publish: true
+publish: "true"
 type: index
 ---
 

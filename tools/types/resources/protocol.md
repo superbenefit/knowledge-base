@@ -1,15 +1,15 @@
 ---
 limit: 20
 mapWithTag: true
-icon: file-heart
+icon: file-cog
 tagNames:
-  - practices
+  - protocols
 filesPaths: 
 bookmarksGroups: 
 excludes: 
-extends: resource
+extends: resources/resource
 savedViews: []
 favoriteView: 
 fieldsOrder: []
-version: "2.1"
+version: "2.3"
 ---

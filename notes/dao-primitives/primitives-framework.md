@@ -19,12 +19,12 @@ Below is a practical framework for using these concepts to inform our approach t
 
 ### Entities
 
-
+Organizations [[tags/governance|govern]] and use [[tags/resources]] to [[power|empower]] agents to take action in 
 
 *For practical purposes, these concepts are loosely organized in alignment with the [REA ontology](https://en.wikipedia.org/wiki/Resources%2C_Events%2C_Agents) for information systems. It's not that important, so feel free to remix them however you like.*
 
 #### Resources
-Resources form the foundation of all DAO operations, encompassing both tangible and intangible assets that can be managed and exchanged within the network. [[Resources]] are collectively managed through decentralized networks to achieve shared objectives.
+Resources form the foundation of all DAO operations, encompassing both tangible and intangible assets that can be managed and exchanged within the network. [[tags/resources]] are collectively managed through decentralized networks to achieve shared objectives.
 
 [[Platforms]] create the underlying structure that enables DAO operations, combining technical and organizational frameworks to facilitate coordination:
 

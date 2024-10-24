@@ -1,10 +1,11 @@
 ---
 title: Primitives
+publish: "true"
 tags:
   - primitives
 aliases:
   - "#primitives"
-publish: "true"
+  - primitives
 ---
 
 Primitives are the most basic, foundational elements or operations in any system or domain, serving as the essential building blocks from which more complex structures, processes, or concepts are created.
@@ -24,6 +25,12 @@ In systems design and #organization , #primitives refer to the most basic, found
 ### Primitives in web3
 
 In #web3 tooling, primitives refer to basic building blocks or fundamental components that developers use to create decentralized applications (dApps) and blockchain-based systems. These include elements like tokens, wallets, smart contracts, consensus mechanisms, and decentralized identities, which serve as reusable, interoperable pieces of code or protocols. By combining and extending these primitives, developers can efficiently build more complex applications and services within the decentralized ecosystem.
+
+### Primitives in this repository
+
+Some notes in this knowledge garden represent primitives, and include metadata to help you navigate and discover them.
+
+Notes which represent #primitives are indicated using the [[tools/types/resources/primitive]] file class (`type: primitive`). This file class (a subclass of [[tools/types/resource/resource]] and [[link]] ) contains several metadata fields which are either inherited or unique.
 
 ---
 

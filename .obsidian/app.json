@@ -8,5 +8,8 @@
   "livePreview": false,
   "trashOption": "local",
   "tabSize": 2,
-  "defaultViewMode": "source"
+  "defaultViewMode": "source",
+  "userIgnoreFilters": [
+    "/(?i)(^|\\/)readme[^\\/]*$/"
+  ]
 }
