@@ -10,26 +10,11 @@ extends: note
 savedViews: []
 favoriteView: 
 fieldsOrder:
+  - vYZLK3
   - n9wpUH
-  - yiCDQi
   - Oknta7
-version: "2.12"
+version: "2.14"
 fields:
-  - name: group-scale
-    type: Select
-    options:
-      sourceType: ValuesFromDVQuery
-      valuesList:
-        "1": collaboration
-        "2": coordiantion
-        "3": constituency
-        "4": network
-      valuesFromDVQuery: |-
-        list file.title
-        from "notes/dao-primitives/group-properties/scale"
-        where file.name != "scale"
-    path: ""
-    id: yiCDQi
   - name: group-phase
     type: Select
     options:
@@ -49,4 +34,21 @@ fields:
       valuesList: {}
     path: ""
     id: n9wpUH
+  - name: group-scale
+    type: Select
+    options:
+      sourceType: ValuesFromDVQuery
+      valuesList: {}
+      valuesFromDVQuery: |
+        const folder = "notes/dao-primitives/group-properties/scale";
+        const excludedFile = "scale.md";
+
+        // Get all files in the specified folder
+        let files = dv.pages(folder)
+            .where(p => p.file.name !== excludedFile);
+
+        // Create a list of titles for each file, excluding the one
+        dv.list(files.map(f => f.file.title));
+    path: ""
+    id: vYZLK3
 ---
