@@ -11,6 +11,10 @@
     {
       "folderPath": "library",
       "templateName": "Link Template"
+    },
+    {
+      "folderPath": "notes/dao-primitives/patterns",
+      "templateName": "Pattern Template"
     }
   ]
 }
