@@ -1,7 +1,8 @@
 ---
 title: Sustainability
 harvester: 
-tags: sustainability
+tags:
+  - qualities
 aliases:
   - "#sustainability"
 publish: "true"

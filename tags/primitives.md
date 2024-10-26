@@ -2,10 +2,12 @@
 title: Primitives
 publish: "true"
 tags:
-  - primitives
+  - resources
 aliases:
   - "#primitives"
   - primitives
+  - "#primitive"
+  - primitive
 ---
 
 Primitives are the most basic, foundational elements or operations in any system or domain, serving as the essential building blocks from which more complex structures, processes, or concepts are created.
@@ -30,7 +32,7 @@ In #web3 tooling, primitives refer to basic building blocks or fundamental compo
 
 Some notes in this knowledge garden represent primitives, and include metadata to help you navigate and discover them.
 
-Notes which represent #primitives are indicated using the [[tools/types/resources/primitive]] file class (`type: primitive`). This file class (a subclass of [[tools/types/resource/resource]] and [[link]] ) contains several metadata fields which are either inherited or unique.
+Notes which represent #primitives are indicated using the [[tools/types/primitive]] file class (`type: primitive`). This file class (a subclass of [[tools/types/resource/resource]] and [[link]] ) contains several metadata fields which are either inherited or unique.
 
 ---
 
@@ -40,4 +42,4 @@ Organizations can benefit from primitives by leveraging these basic building blo
 
 These elements are simple, repeatable, and can be applied across different departments or projects, allowing the organization to maintain consistency while adapting to various challenges. By utilizing these foundational building blocks, organizations can ensure that their operations are efficient, flexible, and aligned with their strategic goals.
 
-At SuperBenefit, we're exploring the potential and practical uses of web3 primitives in the [[notes/dao-primitives/dao-primitives|DAO Primitives Project]]. For help choosing the patterns, practices and primitives for your project, check out the [[notes/dao-primitives/group-facilitation|group facilitation framework]]. You can learn more about our approach in the [[notes/dao-primitives/primitives-framework|conceptual framework]].
+At SuperBenefit, we're exploring the potential and practical uses of web3 primitives in the [[notes/dao-primitives/dao-primitives|DAO Primitives Project]]. For help choosing the patterns, practices and primitives for your project, check out the [[notes/dao-primitives/group-facilitation|group facilitation framework]]. You can learn more about our approach in the [[notes/dao-primitives/framework/framework|conceptual framework]].

@@ -1,7 +1,7 @@
 ---
 title: Policies
 harvester: 
-tags: policies
+tags: []
 aliases:
   - "#policies"
 publish: "true"

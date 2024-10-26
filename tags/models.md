@@ -1,7 +1,7 @@
 ---
 title: Models
 harvester: 
-tags: models
+tags: []
 aliases:
   - "#models"
 publish: "true"

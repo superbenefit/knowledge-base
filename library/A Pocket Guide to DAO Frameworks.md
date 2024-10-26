@@ -3,7 +3,6 @@ title: A Pocket Guide to DAO Frameworks
 source: https://mirror.xyz/morereese.eth/85QxsC_e650TYvojH51GbLpo93hhAjBi1xJspiU25b0
 author:
   - MoreReese
-type: Guide
 tags:
   - governance
   - daos

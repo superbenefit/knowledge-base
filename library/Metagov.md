@@ -3,7 +3,6 @@ title: Metagov
 source: https://metagov.org/
 author:
   - Metagov
-type: Org
 tags:
   - metagovernance
 publish: "true"

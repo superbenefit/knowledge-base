@@ -8,11 +8,11 @@ filesPaths:
   - tags
 bookmarksGroups: 
 excludes: 
-extends: note
+extends: 
 savedViews: []
 favoriteView: 
 fieldsOrder: []
-version: "2.3"
+version: "2.4"
 ---
 ---
 ---

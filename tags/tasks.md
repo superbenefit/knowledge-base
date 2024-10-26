@@ -3,7 +3,7 @@ title: Tasks
 publish: "true"
 type: tag
 tags:
-  - tasks
+  - agreements
 aliases:
   - "#tasks"
 ---

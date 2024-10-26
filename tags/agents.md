@@ -1,7 +1,7 @@
 ---
 title: Agents
 harvester: 
-tags: agents
+tags: []
 aliases:
   - "#agents"
 publish: "true"

@@ -1,7 +1,8 @@
 ---
 title: Modules
 harvester: 
-tags: modules
+tags:
+  - primitives
 aliases:
   - "#modules"
 publish: "true"

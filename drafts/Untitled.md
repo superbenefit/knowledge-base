@@ -1,6 +1,6 @@
 ---
 title: 
 description: 
-publish: false
-type: note
+publish: "false"
+type: primitive
 ---

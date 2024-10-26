@@ -1,7 +1,7 @@
 ---
 title: Teams
 harvester: 
-tags: teams
+tags: []
 aliases:
   - "#teams"
 publish: "true"

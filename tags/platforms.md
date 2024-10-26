@@ -1,7 +1,8 @@
 ---
 title: Platforms
 harvester: 
-tags: platforms
+tags:
+  - resources
 aliases:
   - "#platforms"
 publish: "true"

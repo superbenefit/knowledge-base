@@ -1,7 +1,7 @@
 ---
 title: Frameworks
 tags:
-  - frameworks
+  - resources
 aliases:
   - "#frameworks"
 publish: "true"

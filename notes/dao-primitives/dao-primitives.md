@@ -83,7 +83,7 @@ _We believe that this combination highly innovative high context small teams, co
 
 **From these we have derived 4 initial organisational structures that can be used to design organisational systems.** 
 
-These are DAO's, [Cells](notes/dao-primitives/pattern-library/cell-pattern.md), Roles, and Tasks. Using the above conceptual framework as a guide, these primitive structures can be composed together to deliver governance and operational needs of many different organisational types. It is important to note that these are the initial structures that we have been experimenting with. You can develop other structures that can be used to operationalise entities/groups, networks and agreements in a DAO context. However, at this stage–given the complexity of implementing new organisational designs, practices and tool-sets–we think it is valuable to start with a simple set of structures out of which many different organisational types can be composed.
+These are DAO's, [Cells](notes/dao-primitives/patterns/cell-pattern.md), Roles, and Tasks. Using the above conceptual framework as a guide, these primitive structures can be composed together to deliver governance and operational needs of many different organisational types. It is important to note that these are the initial structures that we have been experimenting with. You can develop other structures that can be used to operationalise entities/groups, networks and agreements in a DAO context. However, at this stage–given the complexity of implementing new organisational designs, practices and tool-sets–we think it is valuable to start with a simple set of structures out of which many different organisational types can be composed.
 
 1. **DAOs** - purpose aligned networks of small autonomous teams. These are the larger networks of smaller entities that coordinate their activities towards a shared purpose. If the network is large then the DAO will hold the constituency scale governance for the whole network. 
 
@@ -101,9 +101,9 @@ You can dive deeper into primitive structures here
 
 A Group facilitation process use to design and implement new organisational models. This consists of..... 
 
-1. **[[notes/dao-primitives/group-properties/scale/scale|Group Scale]]** - human systems function differently at different scales. The group scale model helps us leverage this understanding to design an organisational system that function effectively. Whether a group is a small scale collaboration, a larger coordinating organisation or a large-scale constituency, different group scale need different tools and practices to be effective. 
-2. **[[notes/dao-primitives/group-properties/phase/phase|Group Phase]]** - groups go through different phases as they develop. Understanding these allows us to design the tools, practices or a group to match the needs of the current phase of the group and change with the group as it evolves. 
-3. **[[notes/dao-primitives/group-properties/group-state|Group State]]** - for decentralised organising to be effective, entities (groups of different sizes) within a network need to be interoperable and universally addressable across the network. To do this we use the concept of group _state_. Every entity maintains a _state_ which allows a group to have an existence that is both separate/independent from the larger network, but also integrated into the larger network based agreements made with other entities in the network.
+1. **[[notes/dao-primitives/framework/scale/scale|Group Scale]]** - human systems function differently at different scales. The group scale model helps us leverage this understanding to design an organisational system that function effectively. Whether a group is a small scale collaboration, a larger coordinating organisation or a large-scale constituency, different group scale need different tools and practices to be effective. 
+2. **[[notes/dao-primitives/framework/phase/phase|Group Phase]]** - groups go through different phases as they develop. Understanding these allows us to design the tools, practices or a group to match the needs of the current phase of the group and change with the group as it evolves. 
+3. **[[notes/dao-primitives/framework/state|Group State]]** - for decentralised organising to be effective, entities (groups of different sizes) within a network need to be interoperable and universally addressable across the network. To do this we use the concept of group _state_. Every entity maintains a _state_ which allows a group to have an existence that is both separate/independent from the larger network, but also integrated into the larger network based agreements made with other entities in the network.
 
 
 - You can dive deeper into the facilitation framework [here](https://app.charmverse.io/superbenefit/dao-primitives-facilitation-framework-new-7995486527060971)     
@@ -157,3 +157,30 @@ Using the above concepts, structures, facilitation framework and pattern library
 You can dive deeper into how the primitives work together [**here**](https://app.charmverse.io/superbenefit/how-primitives-can-work-together-793997676063832) 
 
 ---
+
+## DAO Primitives Index
+
+%% Begin Waypoint %%
+- [[DAO Primitives.canvas]]
+- **[[framework]]**
+  - **[[phase]]**
+    - [[conversation|Conversation Phase]]
+    - [[coordination|Coordination Phase]]
+    - [[formation|Formation Phase]]
+    - [[organization|Organization Phase]]
+  - **[[scale]]**
+    - [[collaboration|Collaboration Scale]]
+    - [[constituency|Constituency Scale]]
+    - [[coordination|Coordination Scale]]
+    - [[network|Network Scale]]
+  - [[state|Group State]]
+- [[group-facilitation|Group Facilitation Framework]]
+- **[[library]]**
+- **[[patterns]]**
+  - [[cell-pattern|Cell (Pattern)]]
+  - [[circle-pattern|Circle]]
+  - [[Community Governance|Community Governance]]
+  - [[Operational Governance|Operational Governance]]
+  - [[Stakeholder Governance|Stakeholder Governance]]
+
+%% End Waypoint %%

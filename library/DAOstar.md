@@ -1,9 +1,11 @@
 ---
 title: DAOstar
 source: https://metagov.org/projects/daostar
-author: Metagov
-type: Project
-tags: daos
+author:
+  - Metagov
+type: 
+tags:
+  - daos
 publish: "true"
 ---
 

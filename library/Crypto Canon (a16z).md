@@ -7,7 +7,6 @@ author:
   - Denis Nazarov
   - Jesse Walden
   - Ali Yahya
-type: Reading List
 tags:
   - web3
 publish: "true"

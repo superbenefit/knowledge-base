@@ -6,7 +6,7 @@ tagNames:
 filesPaths: 
 bookmarksGroups: 
 excludes: 
-extends: note
+extends: 
 savedViews: []
 favoriteView: 
 fieldsOrder: []

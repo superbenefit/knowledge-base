@@ -10,6 +10,7 @@
   "tabSize": 2,
   "defaultViewMode": "source",
   "userIgnoreFilters": [
-    "/(?i)(^|\\/)readme[^\\/]*$/"
+    "/(?i)(^|\\/)readme[^\\/]*$/",
+    "/^tools\\/.*$/"
   ]
 }

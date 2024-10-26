@@ -3,8 +3,7 @@ title: Refizz
 publish: false
 type: tag
 harvester: 
-tags:
-  - refizz
+tags: []
 aliases:
   - "#refizz"
 ---
@@ -15,4 +14,4 @@ To **refizz** something is to improve, update, refresh or otherwise iterate on s
 
 ## Uses of "Refizz"
 
-![[attachments/refizz-genesis.jpg]]
+![[attachments/refizz-genesis.png]]

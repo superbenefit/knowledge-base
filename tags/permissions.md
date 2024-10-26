@@ -1,7 +1,7 @@
 ---
 title: Permissions
 harvester: 
-tags: permissions
+tags: []
 aliases:
   - "#permissions"
 publish: "true"

@@ -1,7 +1,10 @@
 ---
 title: Roles
+type: 
 harvester: 
-tags: roles
+tags:
+  - agreements
+  - resources
 aliases:
   - "#roles"
 publish: "true"

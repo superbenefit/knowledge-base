@@ -1,8 +1,7 @@
 ---
 title: Resources
 harvester: 
-tags:
-  - resources
+tags: []
 aliases:
   - "#resources"
 publish: "true"
