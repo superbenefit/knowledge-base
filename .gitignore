@@ -11,9 +11,9 @@
 .obsidian/workspace.json
 .obsidian/workspaces.json
 
-# # ignore new plugin changes
-# .obsidian/community-plugins.json
-# .obsidian/plugins/
+# ignore new plugin changes
+.obsidian/community-plugins.json
+.obsidian/plugins/
 
-# # ignore obsidian changes
-# .obsidian/
+# ignore obsidian changes
+.obsidian/
