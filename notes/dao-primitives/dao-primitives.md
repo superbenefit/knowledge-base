@@ -175,7 +175,6 @@ You can dive deeper into how the primitives work together [**here**](https://app
     - [[network|Network Scale]]
   - [[state|Group State]]
 - [[group-facilitation|Group Facilitation Framework]]
-- **[[library]]**
 - **[[patterns]]**
   - [[cell-pattern|Cell (Pattern)]]
   - [[circle-pattern|Circle]]

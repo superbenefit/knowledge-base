@@ -5,5 +5,9 @@ publish: "true"
 type: primitive
 group-scale: 
 group-phase: 
-function:
+quality: 
+function: 
+scale: 
+phase: 
+tags:
 ---

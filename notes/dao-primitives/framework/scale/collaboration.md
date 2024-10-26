@@ -20,9 +20,10 @@ $= dv.list(
     dv.pages()
     .where(p => 
         (p.type === "pattern" || (Array.isArray(p.type) && p.type.includes("pattern"))) &&
-        (p.scale === "collaboration" || (Array.isArray(p.scale) && p.scale.includes("collaboration")))
+        (p.scale === "collaboration" || (Array.isArray(p.scale) && p.scale.includes("collaboration"))) &&
+        !p.file.path.startsWith("tools/") &&
+        !p.file.path.startsWith("drafts/")
     )
-    .map(p => dv.fileLink(p.file.path, p.title))
+    .map(p => `[[${p.file.path}|${p.title}]]`)
 )
-
 ```

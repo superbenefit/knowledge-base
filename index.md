@@ -2,7 +2,6 @@
 title: SuperBenefit Knowledge Garden
 draft: false
 publish: true
-index: true
 ---
 
 Welcome to SuperBenefit's knowledge garden - a living collection of our community's shared understanding, research, and insights. This space serves as both an internal tool for our DAO's collaborative learning and a contribution to the wider knowledge commons.

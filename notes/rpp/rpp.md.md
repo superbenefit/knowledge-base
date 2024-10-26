@@ -1,6 +1,5 @@
 ---
 title: Reimagining Power
-index: true
 description: ""
 publish: "true"
 ---
