@@ -1,24 +1,10 @@
----
-limit: 50
-mapWithTag: false
-icon: view
-tagNames: 
-filesPaths: 
-bookmarksGroups: 
-excludes: 
-extends: 
-savedViews: []
-favoriteView: 
-fieldsOrder: []
-version: "2.0"
----
 # Types Directory
 
 This directory contains metadata type definitions (fileClasses) that specify structured metadata for different kinds of documents in our knowledge base. These types help maintain consistent structure and enable powerful querying and organization.
 
 ## Overview
 
-Types (fileClasses) define:
+Types (fileClasses) define important information about a document:
 - What metadata fields a document should have
 - What values those fields can contain
 - How those fields can be edited
