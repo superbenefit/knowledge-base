@@ -1,16 +1,16 @@
 ---
-title: Coordination Scale
+title: Network Scale
 tags: 
 aliases: []
 description: ""
 publish: "true"
 ---
 
-Coordination Scale (A type of [[notes/dao-primitives/framework/scale/scale|group scale]]) will be defined soon... ^e8603e
+Network Scale (a type of [[notes/primitives/framework/scale/scale|group scale]]) will be defined soon... ^4e39bd
 
 ---
 
-## Coordination Scale Patterns
+## Network Scale Patterns
 
 
 
@@ -20,7 +20,7 @@ $= dv.list(
     dv.pages()
     .where(p => 
         (p.type === "pattern" || (Array.isArray(p.type) && p.type.includes("pattern"))) &&
-        (p.scale === "coordination" || (Array.isArray(p.scale) && p.scale.includes("coordination"))) &&
+        (p.scale === "network" || (Array.isArray(p.scale) && p.scale.includes("network"))) &&
         !p.file.path.startsWith("tools/") &&
         !p.file.path.startsWith("drafts/")
     )

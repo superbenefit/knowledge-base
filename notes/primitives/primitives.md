@@ -14,9 +14,9 @@ The DAO Primitives project at SuperBenefit explores the landscape of social and 
 
 # **Introduction**
 
-The DAO Primitive Model is a set of design [[tags/primitives|primitives]] and [[notes/dao-primitives/patterns/patterns|patterns]] for building [[tags/daos|DAOs]] and other onchain organizations. It includes a set of un-opinionated building blocks (primitives) out of which a DAO structure can be designed. These primitives allow for the deliberate design of [[governance]] and operational systems that can coherently scale as the activities of the DAO grow in size and complexity.
+The DAO Primitive Model is a set of design [[tags/primitives|primitives]] and [[notes/primitives/patterns/patterns|patterns]] for building [[tags/daos|DAOs]] and other onchain organizations. It includes a set of un-opinionated building blocks (primitives) out of which a DAO structure can be designed. These primitives allow for the deliberate design of [[governance]] and operational systems that can coherently scale as the activities of the DAO grow in size and complexity.
 
-The Primitives act as a handful of generic building blocks that, through a facilitated process, can be composed together into a governance and operational structure to serve the needs and preferences of a coordinating collective. The primitives are implemented using more opinionated coordination patterns and technical [[tags/modules|modules]] (these are housed in a [[notes/dao-primitives/patterns/patterns|pattern library]]) to produce practical and scalable [[tags/systems|systems]]. The resulting governance and operational structure may end up being called a “DAO” but we anticipate the term “DAO” becoming less and less useful as we collectively experiment in and map these emerging coordination approaches.
+The Primitives act as a handful of generic building blocks that, through a facilitated process, can be composed together into a governance and operational structure to serve the needs and preferences of a coordinating collective. The primitives are implemented using more opinionated coordination patterns and technical [[tags/modules|modules]] (these are housed in a [[notes/primitives/patterns/patterns|pattern library]]) to produce practical and scalable [[tags/systems|systems]]. The resulting governance and operational structure may end up being called a “DAO” but we anticipate the term “DAO” becoming less and less useful as we collectively experiment in and map these emerging coordination approaches.
 
 ---
 
@@ -83,7 +83,7 @@ _We believe that this combination highly innovative high context small teams, co
 
 **From these we have derived 4 initial organisational structures that can be used to design organisational systems.** 
 
-These are DAO's, [Cells](notes/dao-primitives/patterns/cell-pattern.md), Roles, and Tasks. Using the above conceptual framework as a guide, these primitive structures can be composed together to deliver governance and operational needs of many different organisational types. It is important to note that these are the initial structures that we have been experimenting with. You can develop other structures that can be used to operationalise entities/groups, networks and agreements in a DAO context. However, at this stage–given the complexity of implementing new organisational designs, practices and tool-sets–we think it is valuable to start with a simple set of structures out of which many different organisational types can be composed.
+These are DAO's, [Cells](notes/primitives/patterns/cell-pattern.md), Roles, and Tasks. Using the above conceptual framework as a guide, these primitive structures can be composed together to deliver governance and operational needs of many different organisational types. It is important to note that these are the initial structures that we have been experimenting with. You can develop other structures that can be used to operationalise entities/groups, networks and agreements in a DAO context. However, at this stage–given the complexity of implementing new organisational designs, practices and tool-sets–we think it is valuable to start with a simple set of structures out of which many different organisational types can be composed.
 
 1. **DAOs** - purpose aligned networks of small autonomous teams. These are the larger networks of smaller entities that coordinate their activities towards a shared purpose. If the network is large then the DAO will hold the constituency scale governance for the whole network. 
 
@@ -101,17 +101,17 @@ You can dive deeper into primitive structures here
 
 A Group facilitation process use to design and implement new organisational models. This consists of..... 
 
-1. **[[notes/dao-primitives/framework/scale/scale|Group Scale]]** - human systems function differently at different scales. The group scale model helps us leverage this understanding to design an organisational system that function effectively. Whether a group is a small scale collaboration, a larger coordinating organisation or a large-scale constituency, different group scale need different tools and practices to be effective. 
-2. **[[notes/dao-primitives/framework/phase/phase|Group Phase]]** - groups go through different phases as they develop. Understanding these allows us to design the tools, practices or a group to match the needs of the current phase of the group and change with the group as it evolves. 
-3. **[[notes/dao-primitives/framework/state|Group State]]** - for decentralised organising to be effective, entities (groups of different sizes) within a network need to be interoperable and universally addressable across the network. To do this we use the concept of group _state_. Every entity maintains a _state_ which allows a group to have an existence that is both separate/independent from the larger network, but also integrated into the larger network based agreements made with other entities in the network.
+1. **[[notes/primitives/framework/scale/scale|Group Scale]]** - human systems function differently at different scales. The group scale model helps us leverage this understanding to design an organisational system that function effectively. Whether a group is a small scale collaboration, a larger coordinating organisation or a large-scale constituency, different group scale need different tools and practices to be effective. 
+2. **[[notes/primitives/framework/phase/phase|Group Phase]]** - groups go through different phases as they develop. Understanding these allows us to design the tools, practices or a group to match the needs of the current phase of the group and change with the group as it evolves. 
+3. **[[notes/primitives/framework/state|Group State]]** - for decentralised organising to be effective, entities (groups of different sizes) within a network need to be interoperable and universally addressable across the network. To do this we use the concept of group _state_. Every entity maintains a _state_ which allows a group to have an existence that is both separate/independent from the larger network, but also integrated into the larger network based agreements made with other entities in the network.
 
 
 - You can dive deeper into the facilitation framework [here](https://app.charmverse.io/superbenefit/dao-primitives-facilitation-framework-new-7995486527060971)     
 
-### **3. [[notes/dao-primitives/patterns/patterns|Pattern Library]]**
+### **3. [[notes/primitives/patterns/patterns|Pattern Library]]**
 
 A **library** of coordination #patterns and software #modules with which the above organisational designs can be reliably implemented. For novel governance mechanisms to be tried and begin to succeed, having well tested combinations of social patterns and technical tools to deliver them is going to be crucially important. As more experiments are conducted the pattern library will flesh out the emerging best practice for achieving different organisational dynamics. 
-You can dive deeper into the pattern library [[notes/dao-primitives/patterns/patterns|here]].
+You can dive deeper into the pattern library [[notes/primitives/patterns/patterns|here]].
 
 # **How the primitives work together**
 
@@ -161,25 +161,25 @@ You can dive deeper into how the primitives work together [**here**](https://app
 ## DAO Primitives Index
 
 %% Begin Waypoint %%
-- [[DAO Primitives.canvas]]
-- **[[framework]]**
-  - **[[phase]]**
-    - [[conversation|Conversation Phase]]
-    - [[coordination|Coordination Phase]]
-    - [[formation|Formation Phase]]
-    - [[organization|Organization Phase]]
-  - **[[scale]]**
-    - [[collaboration|Collaboration Scale]]
-    - [[constituency|Constituency Scale]]
-    - [[coordination|Coordination Scale]]
-    - [[network|Network Scale]]
-  - [[state|Group State]]
-- [[group-facilitation|Group Facilitation Framework]]
-- **[[patterns]]**
-  - [[cell-pattern|Cell (Pattern)]]
-  - [[circle-pattern|Circle]]
-  - [[Community Governance|Community Governance]]
-  - [[Operational Governance|Operational Governance]]
-  - [[Stakeholder Governance|Stakeholder Governance]]
+- [[notes/primitives/DAO Primitives.canvas]]
+- **[[notes/primitives/framework/framework]]**
+  - **[[notes/primitives/framework/phase/phase]]**
+    - [[notes/primitives/framework/phase/conversation|Conversation Phase]]
+    - [[notes/primitives/framework/phase/coordination|Coordination Phase]]
+    - [[notes/primitives/framework/phase/formation|Formation Phase]]
+    - [[notes/primitives/framework/phase/organization|Organization Phase]]
+  - **[[notes/primitives/framework/scale/scale]]**
+    - [[notes/primitives/framework/scale/collaboration|Collaboration Scale]]
+    - [[notes/primitives/framework/scale/constituency|Constituency Scale]]
+    - [[notes/primitives/framework/phase/coordination|Coordination Scale]]
+    - [[notes/primitives/framework/scale/network|Network Scale]]
+  - [[notes/primitives/framework/state|Group State]]
+- [[notes/primitives/group-facilitation|Group Facilitation Framework]]
+- **[[notes/primitives/patterns/patterns]]**
+  - [[notes/primitives/patterns/cell-pattern|Cell (Pattern)]]
+  - [[notes/primitives/patterns/circle-pattern|Circle]]
+  - [[notes/primitives/patterns/Community Governance|Community Governance]]
+  - [[notes/primitives/patterns/Operational Governance|Operational Governance]]
+  - [[notes/primitives/patterns/Stakeholder Governance|Stakeholder Governance]]
 
 %% End Waypoint %%

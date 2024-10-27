@@ -15,7 +15,7 @@ fieldsOrder:
   - dEXTlc
   - 9zPLbb
   - 5SD9jH
-version: "2.31"
+version: "2.32"
 fields:
   - name: scale
     type: Multi
@@ -23,7 +23,7 @@ fields:
       sourceType: ValuesFromDVQuery
       valuesList: {}
       valuesFromDVQuery: |-
-        $= dv.pages('"notes/dao-primitives/framework/scale"')
+        $= dv.pages('"notes/primitives/framework/scale"')
             .where(p => !["scale", "index", "readme"].includes(p.file.name))
             .map(p => p.file.name)
     path: ""
@@ -34,7 +34,7 @@ fields:
       sourceType: ValuesFromDVQuery
       valuesList: {}
       valuesFromDVQuery: |-
-        $= dv.pages('"notes/dao-primitives/framework/phase"')
+        $= dv.pages('"notes/primitives/framework/phase"')
             .where(p => !["phase", "index", "readme"].includes(p.file.name))
             .map(p => p.file.name)
     path: ""

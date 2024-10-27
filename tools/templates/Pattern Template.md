@@ -12,6 +12,6 @@ tags:
 
 intro
 
-This document presents a [pattern](notes/dao-primitives/patterns/patterns.md) for...
+This document presents a [pattern](notes/primitives/patterns/patterns.md) for...
 
 ---

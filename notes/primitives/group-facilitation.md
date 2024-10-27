@@ -21,9 +21,9 @@ From design and set of agreements we can choose from the pattern library the dif
 
 ![[tags/playbooks#^01503a|playbooks]]
 
-#### [[notes/dao-primitives/patterns/patterns|Patterns]]
+#### [[notes/primitives/patterns/patterns|Patterns]]
 
-![[notes/dao-primitives/patterns/patterns#^152f26|patterns]]
+![[notes/primitives/patterns/patterns#^152f26|patterns]]
 
 Patterns typically contain the following:
 
@@ -35,15 +35,15 @@ Patterns typically contain the following:
 
 #### Group Scale
 
-![[notes/dao-primitives/framework/scale/scale]]
+![[notes/primitives/framework/scale/scale]]
 
 #### Group Phase
 
-![[notes/dao-primitives/framework/phase/phase]]
+![[notes/primitives/framework/phase/phase]]
 
 #### Group State
 
-![[notes/dao-primitives/framework/state]]
+![[notes/primitives/framework/state]]
 
 ---
 

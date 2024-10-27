@@ -92,7 +92,7 @@ Each agent type maintains:
 ---
 
 ## Integration Patterns
-[[notes/dao-primitives/patterns/patterns|Integration Patterns]] describe how these components work together to create cohesive, functional systems. The framework enables:
+[[notes/primitives/patterns/patterns|Integration Patterns]] describe how these components work together to create cohesive, functional systems. The framework enables:
 
 * **Structural & Operational Integration**
     * Nested hierarchies and network relationships
@@ -105,8 +105,8 @@ Each agent type maintains:
 
 It's a good idea to work with your organization or community to select a pattern they'd like to follow at first.. But it can be hard to consider a broad range of complex possibilities with a large group. One important step in pattern selection is to narrow the selection to just the most relevant options before presenting them to the community.
 
-We recommend following the [[group-facilitation|Group Facilitation Framework]] to identify the patterns, practices and primitives which might be relevant to your project.
+We recommend following the [[notes/primitives/group-facilitation|Group Facilitation Framework]] to identify the patterns, practices and primitives which might be relevant to your project.
 
 ---
 
-*Note: This framework is part of the [[dao-primitives|DAO Primitives Project]] and aligns with our goal of creating practical resources for DAO implementation.*
+*Note: This framework is part of the [[notes/primitives/primitives|DAO Primitives Project]] and aligns with our goal of creating practical resources for DAO implementation.*

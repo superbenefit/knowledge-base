@@ -1,16 +1,16 @@
 ---
-title: Network Scale
+title: Collaboration Scale
 tags: 
 aliases: []
 description: ""
 publish: "true"
 ---
 
-Network Scale (a type of [[notes/dao-primitives/framework/scale/scale|group scale]]) will be defined soon... ^4e39bd
+**Collaboration Scale** is a level of [[notes/primitives/framework/scale/scale|group scale]].. ^c0c7b2
 
 ---
 
-## Network Scale Patterns
+## Collaboration Scale Patterns
 
 
 
@@ -20,7 +20,7 @@ $= dv.list(
     dv.pages()
     .where(p => 
         (p.type === "pattern" || (Array.isArray(p.type) && p.type.includes("pattern"))) &&
-        (p.scale === "network" || (Array.isArray(p.scale) && p.scale.includes("network"))) &&
+        (p.scale === "collaboration" || (Array.isArray(p.scale) && p.scale.includes("collaboration"))) &&
         !p.file.path.startsWith("tools/") &&
         !p.file.path.startsWith("drafts/")
     )

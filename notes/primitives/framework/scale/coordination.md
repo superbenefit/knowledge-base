@@ -1,16 +1,16 @@
 ---
-title: Collaboration Scale
+title: Coordination Scale
 tags: 
 aliases: []
 description: ""
 publish: "true"
 ---
 
-**Collaboration Scale** is a level of [[notes/dao-primitives/framework/scale/scale|group scale]].. ^c0c7b2
+Coordination Scale (A type of [[notes/primitives/framework/scale/scale|group scale]]) will be defined soon... ^e8603e
 
 ---
 
-## Collaboration Scale Patterns
+## Coordination Scale Patterns
 
 
 
@@ -20,7 +20,7 @@ $= dv.list(
     dv.pages()
     .where(p => 
         (p.type === "pattern" || (Array.isArray(p.type) && p.type.includes("pattern"))) &&
-        (p.scale === "collaboration" || (Array.isArray(p.scale) && p.scale.includes("collaboration"))) &&
+        (p.scale === "coordination" || (Array.isArray(p.scale) && p.scale.includes("coordination"))) &&
         !p.file.path.startsWith("tools/") &&
         !p.file.path.startsWith("drafts/")
     )

@@ -22,7 +22,7 @@ tags:
 
 A cell is an autonomous, collaborative group.
 
-This document presents a [pattern](notes/dao-primitives/patterns/patterns.md) for small teams operating within [[tags/purpose|purpose-aligned]] organizations and networks.
+This document presents a [pattern](notes/primitives/patterns/patterns.md) for small teams operating within [[tags/purpose|purpose-aligned]] organizations and networks.
 
 ---
 
