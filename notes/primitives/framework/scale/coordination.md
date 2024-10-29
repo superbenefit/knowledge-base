@@ -6,7 +6,7 @@ description: ""
 publish: "true"
 ---
 
-Coordination Scale (A type of [[notes/primitives/framework/scale/scale|group scale]]) will be defined soon... ^e8603e
+Coordination Scale will be defined soon... ^e8603e
 
 ---
 

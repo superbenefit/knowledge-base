@@ -63,7 +63,7 @@
     },
     "links": {
       "internal": true,
-      "unshared": false,
+      "unshared": true,
       "wiki": true,
       "slugify": "disable",
       "unlink": false
@@ -92,7 +92,9 @@
     "editorMenu": true,
     "excludedFolder": [
       "drafts",
-      "templates"
+      "templates",
+      "tools",
+      "trash"
     ],
     "copyLink": {
       "enable": false,
@@ -105,7 +107,7 @@
         "applyRegex": []
       }
     },
-    "noticeError": false,
+    "noticeError": true,
     "displayModalRepoEditing": true,
     "setFrontmatterKey": "Set",
     "migrated": true

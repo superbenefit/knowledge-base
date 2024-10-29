@@ -109,4 +109,4 @@ We recommend following the [[notes/primitives/group-facilitation|Group Facilitat
 
 ---
 
-*Note: This framework is part of the [[notes/primitives/primitives|DAO Primitives Project]] and aligns with our goal of creating practical resources for DAO implementation.*
+*Note: This framework is part of the [primitives](notes/primitives/primitives.md) and aligns with our goal of creating practical resources for DAO implementation.*

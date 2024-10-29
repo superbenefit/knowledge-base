@@ -6,7 +6,7 @@ description: ""
 publish: "true"
 ---
 
-Network Scale (a type of [[notes/primitives/framework/scale/scale|group scale]]) will be defined soon... ^4e39bd
+Network Scale will be defined soon... ^4e39bd
 
 ---
 
