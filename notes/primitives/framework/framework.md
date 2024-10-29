@@ -74,7 +74,17 @@ Each agent type maintains:
 
 ### Group Properties
 
-
+- **[Group Phase](notes/primitives/framework/phase/phase.md)**
+  - [Conversation Phase](notes/primitives/framework/phase/conversation.md)
+  - [Coordination Phase](notes/primitives/framework/phase/coordination.md)
+  - [Formation Phase](notes/primitives/framework/phase/formation.md)
+  - [Organization Phase](notes/primitives/framework/phase/organization.md)
+- **[Group Scale](notes/primitives/framework/scale/scale.md)**
+  - [Collaboration Scale](notes/primitives/framework/scale/collaboration.md)
+  - [Constituency Scale](notes/primitives/framework/scale/constituency.md)
+  - [Coordination Scale](notes/primitives/framework/scale/coordination.md)
+  - [Network Scale](notes/primitives/framework/scale/network.md)
+- [Group State](notes/primitives/framework/state.md)
 
 ---
 

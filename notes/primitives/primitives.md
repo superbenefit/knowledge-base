@@ -161,14 +161,14 @@ You can dive deeper into how the primitives work together [**here**](https://app
 ## DAO Primitives Index
 
 %% Begin Waypoint %%
-- [[DAO Primitives.canvas]]
-- **[[framework]]**
-- [[group-facilitation|Group Facilitation Framework]]
-- **[[patterns]]**
-  - [[cell-pattern|Cell (Pattern)]]
-  - [[circle-pattern|Circle]]
-  - [[Community Governance|Community Governance]]
-  - [[Operational Governance|Operational Governance]]
-  - [[Stakeholder Governance|Stakeholder Governance]]
+- [DAO Primitives.canvas](./DAO%20Primitives.canvas)
+- **[framework](./framework/framework.md)**
+- [Group Facilitation Framework](./group-facilitation.md)
+- **[patterns](./patterns/patterns.md)**
+  - [Cell (Pattern)](./patterns/cell-pattern.md)
+  - [Circle](./patterns/circle-pattern.md)
+  - [Community Governance](./patterns/Community%20Governance.md)
+  - [Operational Governance](./patterns/Operational%20Governance.md)
+  - [Stakeholder Governance](./patterns/Stakeholder%20Governance.md)
 
 %% End Waypoint %%
