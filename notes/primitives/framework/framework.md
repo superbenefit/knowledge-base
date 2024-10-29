@@ -74,20 +74,7 @@ Each agent type maintains:
 
 ### Group Properties
 
-#### [Group Scale](app://obsidian.md/tags/groups/scale/index.md)
 
-- [Constituency Scale](app://obsidian.md/tags/groups/scale/Constituency%20Scale.md)
-- [Coordination Scale](app://obsidian.md/tags/groups/scale/Coordination%20Scale.md)
-- [Group Scale](app://obsidian.md/tags/groups/scale/index.md)
-- [Network Scale](app://obsidian.md/tags/groups/scale/Network%20Scale.md)
-
-#### [Group Phase](app://obsidian.md/tags/groups/phase/index.md)
-
-- [Conversation Phase](app://obsidian.md/tags/groups/phase/conversation.md)
-- [Formation Phase](app://obsidian.md/tags/groups/phase/formation.md)
-- [Organization](app://obsidian.md/tags/groups/phase/organization.md)
-- [Coordination](app://obsidian.md/tags/groups/phase/coordination.md)
-- [Group State](app://obsidian.md/tags/groups/state.md)
 
 ---
 
@@ -108,5 +95,3 @@ It's a good idea to work with your organization or community to select a pattern
 We recommend following the [[notes/primitives/group-facilitation|Group Facilitation Framework]] to identify the patterns, practices and primitives which might be relevant to your project.
 
 ---
-
-*Note: This framework is part of the [primitives](notes/primitives/primitives.md) and aligns with our goal of creating practical resources for DAO implementation.*

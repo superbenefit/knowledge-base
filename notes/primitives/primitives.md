@@ -1,5 +1,5 @@
 ---
-title: DAO Primitives Project
+title: DAO Primitives
 description: Notes for the DAO Primitives project at SuperBenefit
 publish: "true"
 type: index
@@ -161,25 +161,14 @@ You can dive deeper into how the primitives work together [**here**](https://app
 ## DAO Primitives Index
 
 %% Begin Waypoint %%
-- [[notes/primitives/DAO Primitives.canvas]]
-- **[[notes/primitives/framework/framework]]**
-  - **[[notes/primitives/framework/phase/phase]]**
-    - [[notes/primitives/framework/phase/conversation|Conversation Phase]]
-    - [[notes/primitives/framework/phase/coordination|Coordination Phase]]
-    - [[notes/primitives/framework/phase/formation|Formation Phase]]
-    - [[notes/primitives/framework/phase/organization|Organization Phase]]
-  - **[[notes/primitives/framework/scale/scale]]**
-    - [[notes/primitives/framework/scale/collaboration|Collaboration Scale]]
-    - [[notes/primitives/framework/scale/constituency|Constituency Scale]]
-    - [[notes/primitives/framework/phase/coordination|Coordination Scale]]
-    - [[notes/primitives/framework/scale/network|Network Scale]]
-  - [[notes/primitives/framework/state|Group State]]
-- [[notes/primitives/group-facilitation|Group Facilitation Framework]]
-- **[[notes/primitives/patterns/patterns]]**
-  - [[notes/primitives/patterns/cell-pattern|Cell (Pattern)]]
-  - [[notes/primitives/patterns/circle-pattern|Circle]]
-  - [[notes/primitives/patterns/Community Governance|Community Governance]]
-  - [[notes/primitives/patterns/Operational Governance|Operational Governance]]
-  - [[notes/primitives/patterns/Stakeholder Governance|Stakeholder Governance]]
+- [[DAO Primitives.canvas]]
+- **[[framework]]**
+- [[group-facilitation|Group Facilitation Framework]]
+- **[[patterns]]**
+  - [[cell-pattern|Cell (Pattern)]]
+  - [[circle-pattern|Circle]]
+  - [[Community Governance|Community Governance]]
+  - [[Operational Governance|Operational Governance]]
+  - [[Stakeholder Governance|Stakeholder Governance]]
 
 %% End Waypoint %%
