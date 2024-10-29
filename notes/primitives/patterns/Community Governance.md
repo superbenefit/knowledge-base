@@ -1,7 +1,7 @@
 ---
 title: Community Governance
 description: ""
-publish: "true"
+publish: "false"
 type: pattern, practice
 scale:
   - constituency
