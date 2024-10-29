@@ -163,12 +163,23 @@ You can dive deeper into how the primitives work together [**here**](https://app
 %% Begin Waypoint %%
 - [DAO Primitives.canvas](./DAO%20Primitives.canvas)
 - **[framework](./framework/framework.md)**
+  - **[phase](./framework/phase/phase.md)**
+    - [Conversation Phase](./framework/phase/conversation.md)
+    - [Coordination Phase](./framework/phase/coordination.md)
+    - [Formation Phase](./framework/phase/formation.md)
+    - [Organization Phase](./framework/phase/organization.md)
+  - **[scale](./framework/scale/scale.md)**
+    - [Collaboration Scale](./framework/scale/collaboration.md)
+    - [Constituency Scale](./framework/scale/constituency.md)
+    - [Coordination Scale](./framework/scale/coordination.md)
+    - [Network Scale](./framework/scale/network.md)
+  - [Group State](./framework/state.md)
 - [Group Facilitation Framework](./group-facilitation.md)
 - **[patterns](./patterns/patterns.md)**
   - [Cell (Pattern)](./patterns/cell-pattern.md)
   - [Circle](./patterns/circle-pattern.md)
   - [Community Governance](./patterns/Community%20Governance.md)
-  - [Operational Governance](./patterns/Operational%20Governance.md)
+  - [Operational Governance](./patterns/operational-governance.md)
   - [Stakeholder Governance](./patterns/Stakeholder%20Governance.md)
 
 %% End Waypoint %%

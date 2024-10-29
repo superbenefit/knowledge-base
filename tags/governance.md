@@ -22,7 +22,7 @@ Articles on governance:
 
 - [Community Governance](notes/primitives/patterns/Community%20Governance.md)
 - [Stakeholder Governance](notes/primitives/patterns/Stakeholder%20Governance.md)
-- [Operational Governance](notes/primitives/patterns/Operational%20Governance.md)
+- [operational-governance](notes/primitives/patterns/operational-governance.md)
 
 ## Governance Frameworks
 
