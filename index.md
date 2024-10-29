@@ -1,6 +1,5 @@
 ---
 title: SuperBenefit Knowledge Garden
-draft: false
 publish: true
 ---
 
