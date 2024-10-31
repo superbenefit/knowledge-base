@@ -36,19 +36,25 @@ Similarly, our shared language evolves through use. New terms emerge organically
 
 ### Setting Up Your Environment
 
-1. **Install Obsidian**
+#### Install Obsidian
+
    Obsidian is our primary tool for working with the knowledge garden. It's free, open-source, and works directly with markdown files on your computer. Download it from [obsidian.md](https://obsidian.md/).
+   
+   It's a good idea to familiarize yourself with Obsidian if you haven't already. It's pretty complex for a note-taking tool, but has some powerful features to help organize knowledge. Plus, working with markdown files and metadata is a useful skill in web3.
+   
+   ![](https://youtu.be/OUrOfIqvGS4?feature=shared)
 
-2. **Get Repository Access**
-   Reach out to SuperBenefit admins to get access to our repository. They'll help you set up the necessary permissions and share connection details.
+#### Clone This Repository
 
-3. **Essential Plugins**
-   Once Obsidian is set up, you'll need a few key plugins:
-   - GitHub Sync for version control
-   - Dataview for advanced content queries
-   - Metadata Menu for managing document properties
-   - Tag Wrangler for lexicon organization
-   - Auto Template Trigger for consistent document creation
+You'll need to clone this repository to work with the knowledge base on your local computer. If you just want to read and/or repurpose the contents, check out the [main Readme page](README.md) for instructions. 
+
+If you want to modify the knowledge base or add new notes, you'll need to interact with the remote repository on [GitHub](https://github.com/superbenefit/knowledge-base/). The workflow for syncing and saving files is very simple, but you'll still need a GitHub account and some basic familiarity with Git:
+
+![](https://youtu.be/mJ-qvsxPHpY?feature=shared&t=55)
+
+#### Get Repository Access
+
+Reach out to SuperBenefit admins to get access to our repository. They'll help you set up the necessary permissions and share connection details.
 
 ### Basic Workflow
 
