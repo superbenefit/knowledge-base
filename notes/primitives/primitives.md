@@ -181,5 +181,6 @@ You can dive deeper into how the primitives work together [**here**](https://app
   - [Community Governance](./patterns/Community%20Governance.md)
   - [Operational Governance](./patterns/operational-governance.md)
   - [Stakeholder Governance](./patterns/Stakeholder%20Governance.md)
+  - [Untitled](./patterns/Untitled.md)
 
 %% End Waypoint %%

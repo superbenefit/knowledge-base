@@ -1,4 +1,4 @@
-# Templates Directory
+# Using Templates
 
 This directory contains template files used to create new documents with consistent structure and metadata. Templates work in conjunction with our type system to provide both structured metadata and formatted content.
 
@@ -29,6 +29,8 @@ Alternatively:
 - Use `Ctrl/Cmd + T` shortcut
 - Click template icon in left sidebar
 - Use template folder in file explorer
+
+![](https://youtu.be/b-TJYCrYOWQ)
 
 ## Available Templates
 
