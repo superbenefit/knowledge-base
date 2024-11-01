@@ -1,4 +1,4 @@
-# Tools Directory
+# Tools & Plugins
 
 This directory contains the building blocks that help maintain consistency and structure in our knowledge garden. Whether you're creating new content, organizing information, or setting up metadata, these tools make it easier to contribute effectively to our shared knowledge base.
 
