@@ -1,5 +1,6 @@
 ---
 title: Anticapture
+description: An operational framework for digital governance of shared resources.
 url: https://spengrah.mirror.xyz/f6bZ6cPxJpP-4K_NB7JcjbU0XblJcaf7kVLD75dOYRQ
 author:
   - Spencer Graham
@@ -7,7 +8,21 @@ tags:
   - frameworks
   - governance
   - daos
+curator:
+  - rathermercurial.eth
 publish: "true"
+type: link, practice
+functions:
+  - governance
+qualities: 
+scale:
+  - coordination
+  - constituency
+  - network
+phase:
+  - organization
+  - coordination
+  - formation
 ---
 
 [Anticapture](https://spengrah.mirror.xyz/f6bZ6cPxJpP-4K_NB7JcjbU0XblJcaf7kVLD75dOYRQ) is a framework for designing decentralized governance systems that resist monopolization and corruption by distributing decision-making power across autonomous agents.
