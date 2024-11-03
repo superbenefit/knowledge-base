@@ -1,6 +1,6 @@
 ---
 title: DAOs & Creators - Resources to Get Started Today
-source: https://kinjal.mirror.xyz/eD3-Sgv2h50j-kwjHQCOnwqMKqSLTfnrqrtNypU-P5k
+url: https://kinjal.mirror.xyz/eD3-Sgv2h50j-kwjHQCOnwqMKqSLTfnrqrtNypU-P5k
 author:
   - Kinjal Shah
 tags:

@@ -1,6 +1,6 @@
 ---
 title: OpenCivics Collaborative Initiative – Specification Template 2.0
-source: https://opencivics.notion.site/Collaborative-Initiative-Specification-Template-2-0-85394bd901684a3783b2a55dfa78ae88
+url: https://opencivics.notion.site/Collaborative-Initiative-Specification-Template-2-0-85394bd901684a3783b2a55dfa78ae88
 author:
   - OpenCivics
 tags:

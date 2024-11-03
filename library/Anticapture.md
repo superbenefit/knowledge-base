@@ -1,6 +1,6 @@
 ---
 title: Anticapture
-source: https://spengrah.mirror.xyz/f6bZ6cPxJpP-4K_NB7JcjbU0XblJcaf7kVLD75dOYRQ
+url: https://spengrah.mirror.xyz/f6bZ6cPxJpP-4K_NB7JcjbU0XblJcaf7kVLD75dOYRQ
 author:
   - Spencer Graham
 tags:

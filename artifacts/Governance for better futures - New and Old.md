@@ -1,6 +1,6 @@
 ---
 title: Governance for better futures - New and Old
-source: https://superbenefit.mirror.xyz/uf-c2rynYK0ODKQmJGLj5tc8TU4_V1L76Lbp_71Sh3s
+url: https://superbenefit.mirror.xyz/uf-c2rynYK0ODKQmJGLj5tc8TU4_V1L76Lbp_71Sh3s
 author:
   - Alex Hannant
   - SuperBenefit

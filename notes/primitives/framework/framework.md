@@ -102,6 +102,6 @@ Each agent type maintains:
 
 It's a good idea to work with your organization or community to select a pattern they'd like to follow at first.. But it can be hard to consider a broad range of complex possibilities with a large group. One important step in pattern selection is to narrow the selection to just the most relevant options before presenting them to the community.
 
-We recommend following the [[notes/primitives/group-facilitation|Group Facilitation Framework]] to identify the patterns, practices and primitives which might be relevant to your project.
+We recommend following the [[notes/primitives/framework/group-facilitation|Group Facilitation Framework]] to identify the patterns, practices and primitives which might be relevant to your project.
 
 ---

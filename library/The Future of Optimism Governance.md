@@ -1,6 +1,6 @@
 ---
 title: The Future of Optimism Governance
-source: https://optimism.mirror.xyz/PLrAQgE1EGRo7GRrFoztplFChnUZda4DFGW3dkQayxY
+url: https://optimism.mirror.xyz/PLrAQgE1EGRo7GRrFoztplFChnUZda4DFGW3dkQayxY
 author: []
 type: Article
 tags:

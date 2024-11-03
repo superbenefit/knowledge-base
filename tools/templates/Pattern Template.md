@@ -1,17 +1,40 @@
 ---
 title: 
 description: 
-publish: "true"
-type: pattern
-group-scale: 
-function: 
-group-phase: 
+url: 
 tags:
   - patterns
+publish: "false"
+type: pattern
+functions: 
+qualities: 
+scale: 
+phase: 
+primitives:
 ---
 
-intro
+<% tp.frontmatter.description %>
 
-This document presents a [pattern](notes/primitives/patterns/patterns.md) for...
+%% Introduce the pattern here %%
 
 ---
+
+%% Add your content here %%
+
+---
+
+## Elements of <% tp.frontmatter.title %>
+
+%% Introduce the tools, rules and practices used in this pattern here %%
+
+### Practices
+
+%% Add a templater-enabled dataview query for practices %%
+
+### Protocols
+
+%% Add a templater-enabled dataview query for protocols %%
+
+### Primitives
+
+%% Add a templater-enabled dataview query for primitives %%

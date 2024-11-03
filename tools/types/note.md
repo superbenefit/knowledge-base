@@ -12,8 +12,10 @@ favoriteView:
 fieldsOrder:
   - anCEWM
   - Pgb5mz
+  - RzOKpI
+  - ka05Sv
   - 5tGepk
-version: "2.13"
+version: "2.18"
 fields:
   - name: publish
     type: Boolean
@@ -30,4 +32,14 @@ fields:
     options: {}
     path: ""
     id: Pgb5mz
+  - name: harvester
+    type: Input
+    options: {}
+    path: ""
+    id: RzOKpI
+  - name: curator
+    type: Input
+    options: {}
+    path: ""
+    id: ka05Sv
 ---

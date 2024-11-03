@@ -1,6 +1,6 @@
 ---
 title: Crypto Canon
-source: https://a16z.com/2018/02/10/crypto-readings-resources/
+url: https://a16z.com/2018/02/10/crypto-readings-resources/
 author:
   - Sonal Chokshi
   - Chris Dixon

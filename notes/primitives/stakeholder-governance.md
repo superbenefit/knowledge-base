@@ -1,18 +1,24 @@
 ---
 title: Stakeholder Governance
-harvester: 
-description: ""
+description: A governance practice prioritizing the rights and affordances of stakeholders in a smart contract.
 publish: "true"
+type: practice
+functions:
+  - governance
+qualities:
+  - autonomy
+  - decentralization
 scale:
   - coordination
-  - constituency
   - network
+  - collaboration
 phase:
   - formation
   - organization
-function:
-  - governance
-quality:
+---
+
+A governance practice prioritizing the rights and affordances of stakeholders in a smart contract.
+
 ---
 
 In web3, **Stakeholder Governance** is the practice of [governing](tags/governance.md) common-pool resources by coordinating potentially diverse groups of stakeholders who contribute resources to collectively-owned smart contracts.
@@ -23,7 +29,7 @@ Such groups are _purpose-aligned_, using their shared resources to accomplish co
 
 In web3, **Stakeholder Governance** is primarily used as a secure way for financial contributors to pool and cooperatively allocate funds in the form of **grants**. This is often performed under the banner of [a single DAO](https://molochdao.com/) but can also be [part of a larger community](https://match.optimism.io/). Stakeholder groups can also form spontaneously as a result of a [crowdfund](https://juicebox.money/success-stories/constitutiondao) or [governance decision](https://nouns.wtf/fork).
 
-In contrast with other forms of collective ownership in web3, such as [Community Governance](notes/primitives/patterns/Community%20Governance.md) or [Stakeholder Governance](notes/primitives/patterns/Stakeholder%20Governance.md), **Stakeholder Governance** prioritizes the rights and security of the Stakeholders (in this context, those who contribute resources such as money, labor, social capital or other forms of value to the common pool) over that of other entities (such as states, grantees, speculators, fans or customers) in the administration of shared resources.
+In contrast with other forms of collective ownership in web3, such as [Community Governance](notes/primitives/patterns/Community%20Governance.md) or [stakeholder-governance](notes/primitives/stakeholder-governance.md), **Stakeholder Governance** prioritizes the rights and security of the Stakeholders (in this context, those who contribute resources such as money, labor, social capital or other forms of value to the common pool) over that of other entities (such as states, grantees, speculators, fans or customers) in the administration of shared resources.
 
 ## Benefits of web3 Stakeholder Governance
 
@@ -96,3 +102,18 @@ If you know some frens who also want to familiarize themselves with stakeholder 
 ### Partner With a DAO
 
 Some service DAOs, such as SuperBenefit, offer facilitation to partners and outside stakeholders who seek a guided web3 experience. This offers mature organizations the opportunity to explore web3 coordination and decentralized governance without the barrier of developing these initiatives internally.
+
+---
+
+## Patterns Using Stakeholder Governance
+
+%% Describe how this primitive is used in patterns here %%
+
+```dataview
+LIST description
+WHERE contains(primitives, "stakeholder-governance") 
+AND (
+    !contains(file.path, "tools/") 
+    AND !contains(file.path, "drafts/")
+)
+```

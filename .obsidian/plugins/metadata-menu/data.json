@@ -1,12 +1,24 @@
 {
-  "presetFields": [],
+  "presetFields": [
+    {
+      "type": "Input",
+      "tagName": "single",
+      "icon": "pencil",
+      "tooltip": "Accepts any value",
+      "colorClass": "single",
+      "options": {},
+      "name": "url",
+      "id": "4po4Pf",
+      "path": ""
+    }
+  ],
   "fileClassQueries": [],
   "displayFieldsInContextMenu": true,
   "globallyIgnoredFields": [],
   "classFilesPath": "tools/types/",
   "isAutosuggestEnabled": true,
   "fileClassAlias": "type",
-  "settingsVersion": "5.9",
+  "settingsVersion": "5.10",
   "globalFileClass": "note",
   "firstDayOfWeek": 1,
   "enableLinks": true,

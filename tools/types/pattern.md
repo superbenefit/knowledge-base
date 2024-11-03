@@ -11,6 +11,21 @@ excludes:
 extends: resource
 savedViews: []
 favoriteView: 
-fieldsOrder: []
-version: "2.4"
+fieldsOrder:
+  - vdL6Dy
+  - twcD1t
+  - bsCPl4
+version: "2.22"
+fields:
+  - name: primitives
+    type: Multi
+    options:
+      sourceType: ValuesFromDVQuery
+      valuesList: {}
+      valuesFromDVQuery: |-
+        $= dv.pages()
+            .where(p => p.type && (p.type.includes("primitive") || p.type.includes("module") || p.type.includes("practice") || p.type.includes("protocol")) && !p.file.path.startsWith("tools"))
+            .map(p => p.file.name);
+    path: ""
+    id: twcD1t
 ---

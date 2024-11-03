@@ -2,8 +2,7 @@
 limit: 20
 mapWithTag: true
 icon: package
-tagNames:
-  - resources
+tagNames: 
 filesPaths: 
 bookmarksGroups: 
 excludes: 
@@ -11,11 +10,11 @@ extends:
 savedViews: []
 favoriteView: 
 fieldsOrder:
-  - 8QLYWX
   - dEXTlc
+  - 8QLYWX
   - 9zPLbb
   - 5SD9jH
-version: "2.32"
+version: "2.49"
 fields:
   - name: scale
     type: Multi
@@ -25,7 +24,7 @@ fields:
       valuesFromDVQuery: |-
         $= dv.pages('"notes/primitives/framework/scale"')
             .where(p => !["scale", "index", "readme"].includes(p.file.name))
-            .map(p => p.file.name)
+            .map(p => p.file.name);
     path: ""
     id: 9zPLbb
   - name: phase
@@ -36,29 +35,29 @@ fields:
       valuesFromDVQuery: |-
         $= dv.pages('"notes/primitives/framework/phase"')
             .where(p => !["phase", "index", "readme"].includes(p.file.name))
-            .map(p => p.file.name)
+            .map(p => p.file.name);
     path: ""
     id: 5SD9jH
-  - name: function
+  - name: functions
     type: Multi
     options:
       sourceType: ValuesFromDVQuery
       valuesList: {}
       valuesFromDVQuery: |-
         $= dv.pages('"tags"')
-            .where(p => p.tags && p.tags.includes("functions") && !["functions", "index", "readme"].includes(p.file.name))
-            .map(p => p.file.name)
+            .where(p => p.file.tags && p.file.tags.some(tag => tag.includes("functions")))
+            .map(p => p.file.name);
     path: ""
     id: dEXTlc
-  - name: quality
+  - name: qualities
     type: Multi
     options:
       sourceType: ValuesFromDVQuery
       valuesList: {}
       valuesFromDVQuery: |-
         $= dv.pages('"tags"')
-            .where(p => p.tags && p.tags.includes("qualities") && !["qualities", "index", "readme"].includes(p.file.name))
-            .map(p => p.file.name)
+            .where(p => p.file.tags && p.file.tags.some(tag => tag.includes("qualities")))
+            .map(p => p.file.name);
     path: ""
     id: 8QLYWX
 ---

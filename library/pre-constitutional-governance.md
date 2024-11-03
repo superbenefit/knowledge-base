@@ -3,7 +3,7 @@ title: Pre-Constitutional Governance
 description: A template and methodology for initializing your organization's governance.
 publish: "true"
 type: link
-source: https://solosalon.clinamenic.com/4
+url: https://solosalon.clinamenic.com/4
 author:
   - Spencer Saar Cavanaugh
 tags:

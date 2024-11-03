@@ -1,6 +1,6 @@
 ---
 title: Building DAOs as scalable networks
-source: https://superbenefit.mirror.xyz/Gx_rXSPOyt2sydHwlStfbrgVqYt6P3k5huT3xyZAolo
+url: https://superbenefit.mirror.xyz/Gx_rXSPOyt2sydHwlStfbrgVqYt6P3k5huT3xyZAolo
 author:
   - Rowan Yeoman
 tags:
@@ -25,7 +25,7 @@ The problem with this refocusing however, is that we can’t escape the fact tha
 
 Over the past year at SuperBenefit we have been working on DAO governance design that is focused on redesigning both the small innovation units building in web3 and also the larger networks that they operate inside. The goal is to create DAOs as coherent wholes that are made up of networked smaller nodes formed into complex systems that can scale.
 
-We have been exploring DAO primitives, and have found unique and valuable territory in applying them at network scales. These primitive building blocks can allow the growth of DAOs as autonomous teams of people - working groups, pods, sub-DAOs (we refer to them as [Cells](notes/primitives/patterns/cell-pattern.md) for the sake of the metaphor of evolving complex organisms), being coordinated as collectively intelligent purpose driven networks. This embraces the fact that small teams are the fundamental atomic unit of crypto/web3, but places them inside the larger context of purpose driven **network economies**. You can track this research through this series of articles:
+We have been exploring DAO primitives, and have found unique and valuable territory in applying them at network scales. These primitive building blocks can allow the growth of DAOs as autonomous teams of people - working groups, pods, sub-DAOs (we refer to them as [Cells](notes/primitives/patterns/test-pattern.md) for the sake of the metaphor of evolving complex organisms), being coordinated as collectively intelligent purpose driven networks. This embraces the fact that small teams are the fundamental atomic unit of crypto/web3, but places them inside the larger context of purpose driven **network economies**. You can track this research through this series of articles:
 
 - **[DAOs aren’t things they are flows](https://superbenefit.mirror.xyz/3-ESNDLcf44dZ6VteaqZSpQuTL0oouSxlLJwuAlcQ_s)**
     
@@ -94,7 +94,7 @@ As more working groups (Cells) are created, Governance splits into two different
 
 1. **[Community Governance](notes/primitives/patterns/Community%20Governance.md)** - safeguards the purpose of the network
     
-2. **[Stakeholder Governance](notes/primitives/patterns/Stakeholder%20Governance.md)** - gives flexibility, autonomy and modern incentive design to produce innovation and scale
+2. **[stakeholder-governance](notes/primitives/stakeholder-governance.md)** - gives flexibility, autonomy and modern incentive design to produce innovation and scale
     
 
 ![](https://superbenefit.mirror.xyz/_next/image?url=https%3A%2F%2Fimages.mirror-media.xyz%2Fpublication-images%2Fe8XTKLhYwcB4nY9F6QxH4.png&w=3840&q=75)

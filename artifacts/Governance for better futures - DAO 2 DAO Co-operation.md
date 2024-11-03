@@ -1,6 +1,6 @@
 ---
 title: Governance for better futures - DAO 2 DAO Co-operation
-source: https://superbenefit.mirror.xyz/ReJ2QiTJh34veQvwLHZJJdMIFDF8Ri9SM6A3dcXRuKk
+url: https://superbenefit.mirror.xyz/ReJ2QiTJh34veQvwLHZJJdMIFDF8Ri9SM6A3dcXRuKk
 author:
   - Alex Hannant
 tags:

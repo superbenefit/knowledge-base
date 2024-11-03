@@ -1,6 +1,6 @@
 ---
 title: Governance for better futures - Meta-governance
-source: https://superbenefit.mirror.xyz/yyY2khsoDSgCBaLSIJMeT6xNPJ0c9d2T83rYyt6UfX8
+url: https://superbenefit.mirror.xyz/yyY2khsoDSgCBaLSIJMeT6xNPJ0c9d2T83rYyt6UfX8
 author:
   - Alex Hannant
   - SuperBenefit

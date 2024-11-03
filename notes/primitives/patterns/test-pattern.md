@@ -1,23 +1,21 @@
 ---
-title: Cell (Pattern)
-description: ""
-author:
-  - Rowan Yeoman
-  - ananth.eth
-  - rathermercurial.eth
+title: Test Pattern
+description: This pattern is a test
+url: 
+tags:
+  - patterns
 publish: "false"
 type: pattern
-function:
-  - governance
-quality:
-  - decentralization
-scale:
-  - collaboration
 phase:
   - organization
   - coordination
-tags:
-  - patterns
+scale:
+  - collaboration
+primitives:
+  - test-module
+  - test-protocol
+  - test-primitive
+  - test-practice
 ---
 
 A cell is an autonomous, collaborative group.

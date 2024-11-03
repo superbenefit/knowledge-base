@@ -21,7 +21,7 @@ Articles on governance:
 ## Types of Governance
 
 - [Community Governance](notes/primitives/patterns/Community%20Governance.md)
-- [Stakeholder Governance](notes/primitives/patterns/Stakeholder%20Governance.md)
+- [stakeholder-governance](notes/primitives/stakeholder-governance.md)
 - [operational-governance](notes/primitives/patterns/operational-governance.md)
 
 ## Governance Frameworks

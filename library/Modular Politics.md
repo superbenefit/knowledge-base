@@ -8,7 +8,7 @@ author:
   - SETH FREY
   - JOSHUA Z. TAN
   - AMY X. ZHANG
-source: https://arxiv.org/pdf/2005.13701.pdf
+url: https://arxiv.org/pdf/2005.13701.pdf
 publish: "true"
 ---
 
