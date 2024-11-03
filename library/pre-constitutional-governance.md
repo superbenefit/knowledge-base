@@ -1,13 +1,26 @@
 ---
 title: Pre-Constitutional Governance
 description: A template and methodology for initializing your organization's governance.
-publish: "true"
-type: link
 url: https://solosalon.clinamenic.com/4
 author:
   - Spencer Saar Cavanaugh
 tags:
   - governance
+curator:
+  - rathermercurial.eth
+publish: "true"
+type: link, practice
+functions:
+  - governance
+qualities:
+  - autonomy
+  - decentralization
+scale:
+  - coordination
+  - collaboration
+phase:
+  - conversation
+  - formation
 ---
 
 This article introduces a foundational framework for groups moving from unstructured beginnings to formal governance. It emphasizes the importance of transparent, well-documented decisions to ensure legitimacy and reduce ambiguities that could impact future operations. It also provides a flexible, platform-independent template to help establish essential governance procedures as a stable starting point.

@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "author": "multitext",
-    "harvester": "multitext"
+    "harvester": "multitext",
+    "curator": "multitext"
   }
 }
