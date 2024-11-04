@@ -18,11 +18,21 @@ primitives:
   - test-practice
 ---
 
-A cell is an autonomous, collaborative group.
+<% tp.frontmatter.description %>
 
-This document is a test of pattern template functionality, and should not be published
+%% Introduce the pattern here %%
 
 ---
+
+%% Add your content here %%
+
+---
+
+## Elements of <% tp.frontmatter.title %>
+
+%% Introduce the tools, rules and practices used in this pattern here %%
+
+### <% tp.frontmatter.title %> Primitives
 
 ```dataviewjs
 const ext = dv.pages('"tools/types"')
