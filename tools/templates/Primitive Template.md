@@ -28,7 +28,7 @@ phase:
 
 ```dataview
 LIST description
-WHERE contains(primitives, "<% tp.file.title %>") 
+WHERE contains(primitives, this.file.name)
 AND (
     !contains(file.path, "tools/") 
     AND !contains(file.path, "drafts/")

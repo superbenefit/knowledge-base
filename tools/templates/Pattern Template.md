@@ -27,14 +27,27 @@ primitives:
 
 %% Introduce the tools, rules and practices used in this pattern here %%
 
-### Practices
+### <% tp.frontmatter.title %> Primitives
 
-%% Add a templater-enabled dataview query for practices %%
+```dataviewjs
+const ext = dv.pages('"tools/types"')
+    .where(t => t.extends === "primitive")
+    .map(t => t.file.name);
 
-### Protocols
-
-%% Add a templater-enabled dataview query for protocols %%
-
-### Primitives
-
-%% Add a templater-enabled dataview query for primitives %%
+dv.table(
+    ["Primitive", "Description"],
+    dv.pages()
+        .where(p => 
+            p.type && 
+            (p.type.includes("primitive") || ext.some(n => p.type.includes(n))) &&
+            dv.current().primitives && dv.current().primitives.includes(p.file.name) &&
+            !p.file.path.startsWith("tools/") && 
+            !p.file.path.startsWith("drafts/")
+        )
+        .sort(p => p.title, 'asc')
+        .map(p => [
+            `**[${p.title}](${p.file.path})**`,  
+            p.description
+        ])
+);
+```

@@ -26,4 +26,4 @@ Articles on governance:
 
 ## Governance Frameworks
 
-- [Anticapture](library/Anticapture.md)
+- [anticapture](library/anticapture.md)

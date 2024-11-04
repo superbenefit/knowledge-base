@@ -40,7 +40,7 @@ Here is where I would describe how this primitive is used in various patterns.
 
 ```dataview
 LIST description
-WHERE contains(primitives, "test-primitive") 
+WHERE contains(primitives, this.file.name)
 AND (
     !contains(file.path, "tools/") 
     AND !contains(file.path, "drafts/")
