@@ -1,6 +1,6 @@
 ---
-title: 
-description: 
+title: title
+description: description
 author: 
 tags: 
 harvester: 
@@ -9,7 +9,7 @@ publish: "false"
 type: note
 ---
 
-<% tp.frontmatter.description %>
+description
 
 %% Introduce your note here. %%
 

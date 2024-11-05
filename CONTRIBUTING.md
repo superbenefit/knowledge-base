@@ -60,6 +60,8 @@ Reach out to SuperBenefit admins to get access to our repository. They'll help y
 
 Open the vault in Obsidian by selecting File > Open Vault and choosing the repository folder. The GitHub Sync plugin helps you stay current with others' work - pull latest changes before you start, make your edits, then push your changes when done.
 
+
+
 ### Documents & Metadata
 
 Our garden uses markdown files with YAML frontmatter for all content. Check out our [type definitions](tools/types/readme.md) for detailed information about document structure and metadata requirements for different kinds of content.
