@@ -12,10 +12,8 @@ extends: resource
 savedViews: []
 favoriteView: 
 fieldsOrder:
-  - vdL6Dy
   - twcD1t
-  - bsCPl4
-version: "2.22"
+version: "2.23"
 fields:
   - name: primitives
     type: Multi

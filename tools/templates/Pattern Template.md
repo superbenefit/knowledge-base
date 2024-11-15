@@ -51,3 +51,18 @@ dv.table(
         ])
 );
 ```
+
+---
+
+## <% tp.frontmatter.title %> Strategies
+
+%% Describe how this Pattern is used in strategies/playbooks here %%
+
+```dataview
+LIST description
+WHERE contains(patterns, this.file.name)
+AND (
+    !contains(file.path, "tools/") 
+    AND !contains(file.path, "drafts/")
+)
+```

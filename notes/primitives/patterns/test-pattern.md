@@ -1,6 +1,6 @@
 ---
 title: Test Pattern
-description: This pattern is a test
+description: This is a test pattern
 url: 
 tags:
   - patterns
@@ -18,7 +18,7 @@ primitives:
   - test-practice
 ---
 
-<% tp.frontmatter.description %>
+This pattern is a test
 
 %% Introduce the pattern here %%
 
@@ -28,11 +28,11 @@ primitives:
 
 ---
 
-## Elements of <% tp.frontmatter.title %>
+## Elements of Test Pattern
 
 %% Introduce the tools, rules and practices used in this pattern here %%
 
-### <% tp.frontmatter.title %> Primitives
+### Test Pattern Primitives
 
 ```dataviewjs
 const ext = dv.pages('"tools/types"')
@@ -112,3 +112,17 @@ SORT title
 ```
  %%
 
+---
+
+## Test Pattern Strategies
+
+%% Describe how this Pattern is used in strategies/playbooks here %%
+
+```dataview
+LIST description
+WHERE contains(patterns, this.file.name)
+AND (
+    !contains(file.path, "tools/") 
+    AND !contains(file.path, "drafts/")
+)
+```
