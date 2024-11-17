@@ -1,6 +1,6 @@
 # SuperBenefit Knowledge Base
 
-A local-first markdown vault for collaborative knowledge management and collective sensemaking.
+A local-first markdown vault for collaborative knowledge management and collective sensemaking. This repository serves both as a collaborative workspace and a public knowledge garden, enabling us to develop and share knowledge in ways that respect both individual thought processes and collective understanding.
 
 > [!IMPORTANT]
 > Much of this documentation is machine-generated, and may not be all that useful or accurate. 
@@ -9,71 +9,25 @@ A local-first markdown vault for collaborative knowledge management and collecti
 
 This repo is a collection of [Markdown](https://www.markdownguide.org/) files, organized using [Obsidian](https://obsidian.md/) and published with [Quartz](https://quartz.jzhao.xyz/). The primary markdown syntax used is [CommonMark](https://commonmark.org/), with some added flavor for [Obsidian](https://help.obsidian.md/Editing+and+formatting/Obsidian+Flavored+Markdown) and [GitHub](https://help.obsidian.md/Editing+and+formatting/Obsidian+Flavored+Markdown).
 
-Content from this knowledge base can be uploaded to the [knowledge garden](https://github.com/superbenefit/knowledge-garden), which is published [here](https://knowledge.superbenefit.org).
+Our [public knowledge garden](https://knowledge.superbenefit.org) shares curated artifacts and insights from this work, while this repository contains the complete workspace where that knowledge develops. This dual nature - private workspace and public garden - enables us to balance open sharing with the messy reality of knowledge development.
 
-### Software Tools
+## Why This Design?
 
-This knowledge base uses a local-first workflow - files are stored on your computer and synced using [git](https://www.atlassian.com/git/tutorials/what-is-git). We recommend using [Obsidian](https://obsidian.md/) for exploring and editing the knowledge base, and [VS Code](https://code.visualstudio.com/) for editing plugin files, etc. Both are free, [open-source](https://en.wikipedia.org/wiki/Open_source) and highly customizable.
+Knowledge gardens are fundamentally different from traditional documentation systems. Rather than enforcing rigid structures or final forms, we've built a system that lets knowledge evolve naturally while maintaining clear paths for development and sharing.
 
-- **Content**: [CommonMark](https://commonmark.org/) with [Obsidian](https://help.obsidian.md/Editing+and+formatting/Obsidian+Flavored+Markdown) and [GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) markdown extensions
-- **Editor**: [Obsidian](https://obsidian.md/) (recommended) or any text editor
-- **Version Control**: [git](https://www.atlassian.com/git/tutorials/what-is-git)
+Four key principles shape how we create and share knowledge:
 
-#### File Mgmt & Indexing
+- **Local-First**: All content lives as markdown files on contributors' devices, syncing through [git](https://www.atlassian.com/git/tutorials/what-is-git). This preserves individual autonomy while enabling collaboration. By keeping content in simple text files under personal control, we enable both independent thought and collective development.
 
-- [Folder Notes](https://lostpaul.github.io/obsidian-folder-notes/) - index pages for sub-directories
-- [Waypoints](https://github.com/IdreesInc/Waypoint) - Lightweight content maps for folder notes
+- **Networked Knowledge**: Rather than rigid hierarchies, we connect information through wiki-links and metadata. Related ideas find each other naturally through these associations. This organic structure lets us discover relationships between concepts that might be hidden in traditional organizational schemes.
 
-#### Metadata & Lookups:
+- **Progressive Documentation**: Knowledge evolves from rough drafts to collaborative development to polished artifacts. Our directory structure reflects this natural progression, providing appropriate spaces for each stage of development while maintaining clear paths between them.
 
-- [Obsidian Dataview](https://blacksmithgu.github.io/obsidian-dataview/) - Advanced querying
-- [Metadata Menu](https://mdelobelle.github.io/metadatamenu/) - Metadata management
-- Additional QOL plugins like [Multi-Properties](https://github.com/technohiker/obsidian-multi-properties), [Tag Wrangler](https://github.com/pjeby/tag-wrangler), [Auto Template Trigger](https://github.com/numeroflip/obsidian-auto-template-trigger), etc.
+- **Collective Intelligence**: By balancing individual work with group development, we build shared understanding while preserving diverse perspectives. Our system supports both deep solo work and collaborative refinement, using shared language to bridge individual insights and collective knowledge.
 
-#### Sync & Publish:
+## Repository Structure 
 
-- [Obsidian GitHub Sync](https://github.com/kevinmkchin/Obsidian-GitHub-Sync) - Sync changes to/from the GitHub repository
-- [Enveloppe](https://enveloppe.github.io/) - Push changes to [Quartz](https://github.com/jackyzha0/quartz) for review & publication
-
-### Why This Design?
-
-This repository is built around several key principles that shape how we create and share knowledge together.
-
-- A **local-first workflow** means your content lives on your device as markdown files. Work offline freely, then use git to sync and collaborate. You maintain control while sharing with the community.
-
-- We structure around **networked knowledge** rather than rigid hierarchies. Follow connections between ideas through flexible metadata and visual graphs, enabling organic discovery of related concepts.
-
-- **Progressive documentation** acknowledges that knowledge evolves. Content flows naturally from drafts to polished artifacts, supported by templates and flexible metadata that grows with your work.
-
-- **Collective intelligence** balances individual and group needs. The system supports both deep solo work and collaborative sense-making, using shared language to build understanding together. This enables true collaborative knowledge building while preserving individual autonomy.
-
-## Using This Knowledge Base
-
-This repository serves as both a collaborative workspace and a public knowledge garden. You can browse the published content online or work with the files directly on your computer.
-
-### Viewing Notes & Artifacts
-
-The easiest way to explore our knowledge garden is through our website at [knowledge.superbenefit.org](https://knowledge.superbenefit.org), which provides search and navigation features.
-
-For local viewing, clone this repository to your computer and open it as a vault in [Obsidian](https://obsidian.md). This gives you full access to all content and features.
-
-### Contributing Knowledge
-
-To contribute, you'll need to use Obsidian to edit files locally and git to sync your changes. If you're new to this process, start with our [contribution guide](CONTRIBUTING.md) which walks through the setup and workflow.
-
-### Re-using This Repository
-
-Simply fork the repository on GitHub if you want to adapt this system for your own use. You can modify the structure, tools, and content to match your needs - starting with updating the README and configuration files.
-
-## Content Structure
-
-We keep organization simple and flexible: add content where it makes sense to you and don't overthink placement. 
-
-Instead of relying on folders, we connect information through wiki-style references (like `[[document-name]]`) and metadata tags. These create a web of bidirectional links that help related content find each other naturally. The structure emerges from these connections rather than from rigid organization.
-
-### File Organization
-
-The most basic type of organization is *file location*. Files are organized in the vault according to the nature of their content:
+Understanding how knowledge flows through this system is key to using it effectively. Rather than enforcing strict categorization, we provide spaces optimized for different stages of knowledge development.
 
 ```
 knowledge-base/
@@ -88,38 +42,46 @@ knowledge-base/
     ├── templates/    # Document templates
     └── types/        # Metadata type definitions
 ```
-Check out the [content index](/index.md) for more information on each directory.
 
-### Navigation
+Knowledge typically develops through natural stages: from individual drafts, through project-specific collaborative work, into published artifacts. Throughout this progression, ideas are connected by our shared vocabulary and enriched by references to external knowledge. Rather than enforce strict organization, we let structure emerge through wiki-style document links, consistent metadata, topic tags, and project relationships.
 
-There are a variety of ways to discover knowledge in the vault:
+Each directory's `readme.md` provides detailed guidance about its role in this ecosystem.
+
+## Working with the Knowledge Base
+
+The repository supports several ways of discovering and connecting knowledge:
 
 - **[Graph](https://help.obsidian.md/Plugins/Graph+view)**: Discover content relationships visually
-- **[Canvas](https://help.obsidian.md/Plugins/Canvas)**: Create and share canvases with your team.
+- **[Canvas](https://help.obsidian.md/Plugins/Canvas)**: Create and share canvases with your team
 - **[Tags](https://help.obsidian.md/Editing+and+formatting/Tags)**: Explore relationships between concepts and topics
 - **[Search](https://help.obsidian.md/Plugins/Search)**: Full text lookups and metadata queries
 - **[Explorer](https://help.obsidian.md/Plugins/File+explorer)**: View the file tree without relationships
 
-## Documents
+### Browsing Published Knowledge
 
-Content is written in Markdown and organized using metadata and internal links. Documents typically progress from drafts to published artifacts based on their development and community input.
+Our [public knowledge garden](https://knowledge.superbenefit.org) offers several entry points to our work. You can explore curated content on our website, follow concept relationships through [topic maps](tags/tags.md), or dive into specific project documentation in [artifacts](artifacts/artifacts.md). This layered access helps you find relevant information whether you're looking for quick insights or deep understanding.
 
-### Templates & Metadata Tools
+### Contributing to Projects
 
-The [tools directory](tools/readme.md) supports consistent document creation and organization:
+Contributing to the knowledge base starts with developing ideas in your private drafts. From there, you can collaborate in project workspaces and help refine content for publication. See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed workflows that will help you participate effectively.
 
-- [Templates](tools/templates/readme.md) offer common starting points for different types of content
-- [Types](tools/types/readme.md) define metadata schemas that help organize and connect related documents
+### Building Your Own
+
+This system is designed to be adaptable. You can fork this repository to create your own knowledge garden, customizing the structure and tools to match your needs. Our approach to knowledge management can be adapted to many different contexts while maintaining the core benefits of progressive documentation and networked learning.
 
 ## Additional Resources
 
-- See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines
-- Check [index.md](index.md) for content overview
-- Look for `readme.md` files inside directories to better understand their contents
+- Project overviews in [index.md](index.md)
+- Directory-specific guides in local readme files
+- Technical details in [tools](tools/readme.md)
+- Templates for different content types in [tools/templates](tools/templates/readme.md)
+- Metadata schemas in [tools/types](tools/types/readme.md)
 
-## Support
-
-For questions or issues:
+For support:
 1. Check existing documentation
 2. Ask in community channels
-3. Open an issue if needed
+3. Open GitHub issues
+
+---
+
+This knowledge base grows through community contribution. Every addition enriches our collective understanding by adding not just content, but new connections and perspectives to our shared knowledge.
