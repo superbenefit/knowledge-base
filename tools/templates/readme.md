@@ -123,18 +123,48 @@ aliases:
    - Keep tags lowercase
    - Use hyphens between words
 
-## Template Variables
+## Templating System Practice
 
-Available variables:
-- `{{date}}` - Current date
-- `{{time}}` - Current time
-- `{{title}}` - Note title
+### Purpose
+This section defines how templates are created and maintained within the knowledge base, working in conjunction with the type system to ensure consistent document structure.
 
-Example usage:
+### Standard Structure
+Templates consist of two key parts:
+
 ```yaml
-date: {{date:YYYY-MM-DD}}
-time: {{time:HH:mm}}
+# 1. Frontmatter (required metadata)
+---
+title: 
+description: 
+type: [note|pattern|primitive|etc]  # Links to type definition
+publish: false
+tags:
+  - tag-one    # Always use kebab-case
+  - tag-two
+---
+
+# 2. Content Structure
+%% Template guidance in comments %%
+
+Main content sections with clear headers
 ```
+
+### Creation Process
+When creating new templates:
+1. Review the corresponding type definition in ../types/
+2. Include all required metadata fields from the type
+3. Add basic content structure with clear headers
+4. Include helpful comments using %% for guidance
+5. Test by creating a new document using the template
+
+### Maintenance Guidelines
+When updating templates:
+1. Check type definition for changes
+2. Test with the template plugin
+3. Update readme if needed
+4. Document any special usage notes
+
+[Remainder of original content starting with "Template Variables" section remains exactly the same]
 
 ## Customization
 

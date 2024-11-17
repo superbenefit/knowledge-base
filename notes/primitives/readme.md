@@ -1,60 +1,46 @@
-This directory contains notes from the DAO Primitives team at SuperBenefit.
+# Primitives Directory
+
+This directory documents the basic building blocks of DAO organization. If patterns are like recipes and playbooks are like cookbooks, primitives are the core ingredients - the fundamental elements that make everything else possible.
+
+## What's a Primitive?
+
+A primitive could be:
+- A basic governance mechanism like multi-sig voting
+- A core operational function like role management  
+- A foundational organizational structure like working groups
+- A basic coordination tool like task tracking
+
+The key is that primitives are simple, foundational elements that can be combined in different ways to solve organizational challenges.
+
+## Directory Structure 
+
+Our DAO primitive documentation is organized in three layers:
+
+1. `primitives.md` - Core building blocks documented individually
+2. `/patterns/` - Proven combinations of primitives that solve common problems
+3. `/framework/` - Tools for understanding which primitives and patterns fit your context
+
+Each layer builds on the previous - from basic elements to tested combinations to contextual guidance.
+
+## Working With Primitives 
+
+Start in `/drafts/` when documenting a new primitive. Focus on these key questions:
+- What specific problem does this primitive solve?
+- How does it work in its simplest form?
+- What other primitives does it commonly combine with?
+- Where has it been used successfully?
+
+For example: The "rotating facilitation" primitive defines basic role rotation mechanics. Combined with "weighted voting" in the Self-Governing Workshops pattern, it enables decentralized team coordination. The framework then helps understand when this combination makes sense for your organization.
+
+## Navigation
+
+- [Primitives Index](notes/primitives/primitives.md) - Individual building blocks
+- [Pattern Library](notes/primitives/patterns/readme.md) - Proven primitive combinations
+- [Conceptual Framework](notes/primitives/framework/readme.md) - Context and best practices
+- [Templates & Types Documentation](/tools/readme.md) - Documentation standards
+
+Questions? Join our community channels.
 
 ---
 
-## Overview
-
-%% Add directory overview here, containing information about its purpose and intended uses %%
-
-%% Add links to child readme files here %%
-
----
-
-## Contents
-
-%% Briefly describe the repository contents here. %%
-
-%% Add quick links to key content pages here %%
-
-### Main Directory
-
-%% Describe the primitives/ directory here. Focus on its uses for storing notes related to Primitives %%
-
-### [Primitives Framework](notes/primitives/framework/framework.md)
-
-%% Briefly Describe the framework here. Focus on its use in organizing the file types tracked within this directory %%
-
-### [Pattern Library](notes/primitives/framework/framework.md)
-
-%% Briefly Describe the pattern library here. Focus on its use to organize the primitives tracked by this directory %%
-
----
-
-## File Management
-
-%% Describe the file management & organization method here. %%
-
-### Organization
-
-%% Describe the organizational method here %%
-
-- **Location**
-	- %% Describe how files are organized by location (or not) here %%
-- **Metadata**
-	- %% Describe how files are organized using metadata here %%
-	- **Types**
-		- %% Describe types here %%
-	- **Tags**
-		- %% Describe how files are organized using tags here %%
-		- %% Also cover how supertags and metatags are used to create field options (ie. functions, qualities, etc) %%
-	- **Resource Properties**
-		- %% Describe resource properties here. %%
-- **Lookups (MoC's)**
-	- %% Describe how dataview lookups are used to map content based on the above  %%
-
----
-
-## Adding Content
-
-%% Add procedure for adding content here. %%
-
+*Root directory for DAO primitives documentation - from basic building blocks to proven patterns.*

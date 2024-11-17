@@ -17,20 +17,27 @@ patterns:
 
 <% tp.frontmatter.description %>
 
-%% Introduce the playbook - provide executive summary of purpose, scope, and intended audience %%
+%%
+This section provides the executive summary of your playbook. Include:
+- Clear statement of playbook purpose (what problems it solves)
+- Target audience and their needs
+- Scope boundaries (what's in/out)
+- Expected outcomes and benefits
+Keep this section concise (2-3 paragraphs) but compelling. %%
 
 ---
 
 ## Context & Orientation
 
-%% 
-- Problem space overview
-- Target audience and use cases
-- Key challenges addressed
-- Prerequisites and assumptions
-- Essential terminology (linked to lexicon)
-- Core principles and success factors
-%%
+%% This foundational section establishes the complete framework for understanding the playbook:
+- Problem space: Define the specific challenges and opportunities being addressed
+- Target audience: Describe who will use this playbook and their roles/responsibilities
+- Use cases: List 2-3 primary scenarios where this playbook applies
+- Prerequisites: Note required knowledge, resources, or organizational conditions
+- Key terms: Link to lexicon entries for domain-specific terminology
+- Core principles: List 3-5 fundamental principles that guide pattern selection and implementation
+
+TIP: This section should give readers everything they need to determine if this playbook is relevant for their needs. %%
  
 ---
 
@@ -75,62 +82,63 @@ patterns:
 
 ## Pattern Interactions
 
-%% 
+%% Critical relationship guidance:
 - How these patterns work together
 - Common combinations and their effects
-- Dependencies and prerequisites 
-%%
+- Dependencies and prerequisites
+- Potential conflicts to watch for
+- Synergistic effects to leverage %%
 
 ---
 
 ## Implementation Guide
 
-%% 
+%% Practical implementation guidance:
 - Sequence of pattern adoption
 - Required primitives and their combinations
 - Technical and resource requirements
 - Critical success factors
 - Risk management approaches
 - Assessment frameworks and tools
-%%
+
+TIP: Focus on concrete, actionable steps rather than theory %%
 
 ---
 
 ## Case Studies & Examples
 
-%% 
-- Relevant case studies showing patterns in action
-- Implementation variations and adaptations
-- Success stories and lessons learned
-- Challenges faced and solutions found
-- References to specific patterns and primitives used
-%%
+%% Real-world implementation examples:
+- Select diverse, relevant case studies
+- Document pattern adaptations
+- Share success metrics and results
+- Include lessons learned
+- Reference specific patterns used %%
 
-%% Dataview query matching relevant case studies
- %%
+%% Dataview query matching relevant case studies %%
  
 ---
 
 ## Sustaining & Evolving
 
-%% 
+%% Long-term success guidance:
 - Governance and decision-making frameworks
 - Community engagement strategies
 - Impact measurement approaches
 - Adaptation and scaling considerations
 - Change management practices
-%%
+
+TIP: Focus on maintaining and improving the implemented patterns over time %%
 
 ---
 
 ## Connect & Contribute
 
-%% 
+%% Community engagement guidelines:
 - How to contribute improvements
 - Support resources and channels
 - Community participation guidelines
 - Updates and roadmap
-%%
+- Future development plans %%
  
 ---
 
