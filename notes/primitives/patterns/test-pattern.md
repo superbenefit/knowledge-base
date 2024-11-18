@@ -6,16 +6,11 @@ tags:
   - patterns
 publish: "false"
 type: pattern
-phase:
-  - organization
-  - coordination
-scale:
-  - collaboration
-primitives:
-  - test-module
-  - test-protocol
-  - test-primitive
-  - test-practice
+primitives: 
+scale: 
+phase: 
+functions: 
+qualities: 
 ---
 
 This pattern is a test

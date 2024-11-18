@@ -15,6 +15,7 @@ qualities:
 scale: 
 phase: 
 patterns:
+  - patterns-pattern
 ---
 
 A playbook for creating playbooks at SuperBenefit

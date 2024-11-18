@@ -1,36 +1,36 @@
 # Contributing to SuperBenefit's Knowledge Garden
 
-This guide will help you understand what a knowledge garden is, how ours works, and how you can become part of our collective learning journey.
+This guide will help you understand what a knowledge garden is, how ours works, and how you can become part of our collective learning journey. Think of this as your introduction to both the art and craft of digital gardening - where technical tools meet organic growth.
 
 ## What is a Knowledge Garden?
 
-A knowledge garden is a collaborative space where ideas grow and evolve through community contribution. Unlike traditional documentation:
+A knowledge garden is a collaborative space where ideas grow and evolve through community contribution. Unlike traditional documentation, where content is static and final, our garden is alive with constant growth and change.
 
-A knowledge garden is fundamentally different from traditional documentation. Ideas evolve organically through iteration and connection rather than being finalized and static. Content exists in various stages of development, from early thoughts to polished conclusions. Most importantly, the connections between concepts are as vital as the concepts themselves - understanding emerges through collective exploration and curation.
+Ideas evolve organically through iteration and connection rather than being finalized and static. You might plant a seed of an idea in your drafts, tend it through collaboration in working notes, and eventually see it bloom into a published artifact. Most importantly, the connections between concepts are as vital as the concepts themselves - understanding emerges through collective exploration and curation.
 
-Our knowledge garden serves as both an internal tool for SuperBenefit's collaborative learning and a contribution to the wider knowledge commons.
+Our knowledge garden serves both as an internal tool for SuperBenefit's collaborative learning and a contribution to the wider knowledge commons. Like any healthy garden, it needs diverse perspectives and regular tending to thrive.
 
 ## How Our Garden Grows
 
 ### Types of Content
 
-Our garden contains several types of content that serve different purposes in our collective knowledge:
+Just as a garden has different areas for different types of plants, our knowledge space has specialized areas for content at various stages of growth:
 
-**[Local Drafts](drafts/drafts.md)** (`drafts/`) are where new ideas begin. This is your private workspace for developing thoughts, conducting initial research, and experimenting with concepts before they're ready for wider collaboration. Think of it as your personal garden plot where you can try things out.
+**[Local Drafts](drafts/drafts.md)** (`drafts/`) are your personal seedbed. Here's where new ideas begin - your private workspace for developing thoughts, conducting initial research, and experimenting with concepts before they're ready for wider collaboration. Think of it as your personal garden plot where you can try things out, using tools like templates and metadata to give structure to your emerging thoughts.
 
-**[Working Notes](notes/notes.md)** (`notes/`) represent active collaboration spaces organized by project or topic. Here's where we develop ideas together, document our ongoing work, and build shared understanding through group contribution. Working notes are living documents that capture our learning process.
+**[Working Notes](notes/notes.md)** (`notes/`) are our community plots, organized by project and topic. Here's where we develop ideas together, document our ongoing work, and build shared understanding through group contribution. These living documents capture our learning process, enriched by tools like Dataview for connecting related concepts and Obsidian's graph view for visualizing relationships.
 
-**[Published Artifacts](artifacts/artifacts.md)** (`artifacts/`) contain our refined, public-facing knowledge. These are the polished results of our collaborative work - carefully cultivated ideas that have been reviewed and validated by the community. Artifacts represent our best current understanding of topics and are ready to share with the wider world.
+**[Published Artifacts](artifacts/artifacts.md)** (`artifacts/`) are our mature gardens - carefully tended and ready for visitors. These polished results of our collaborative work represent our best current understanding, reviewed and validated by the community. Creating an artifact isn't about reaching a final, unchangeable state - it's about marking a moment of clarity in our ongoing exploration.
 
-**[Lexicon](tags/tags.md)** (`tags/`) is our shared vocabulary and conceptual framework. As we work together, we develop specific ways of describing ideas and their relationships. The lexicon captures these evolving definitions, ensuring we have a common language for discussion and documentation. It grows organically as our understanding deepens.
+**[Lexicon](tags/tags.md)** (`tags/`) is our gardening vocabulary. As we work together, we develop specific ways of describing ideas and their relationships. The lexicon grows naturally alongside our understanding, helping us communicate more precisely about complex topics. Tags and connections emerge from use, creating an organic map of our knowledge.
 
-**[Link Library](library/library.md)** (`library/`) connects our work to the broader knowledge commons. Here we document external resources that inform our work, along with our analysis and interpretation of them. The link library helps us build on existing knowledge while tracking how external ideas influence our thinking.
+**[Link Library](library/library.md)** (`library/`) is like our collection of neighboring gardens. We document external resources that inform our work, adding our own analysis and interpretation. This helps us understand how our garden connects to and builds upon the broader knowledge commons.
 
 ### How Knowledge Develops
 
-Ideas in our garden grow through natural progression. A draft might start as personal notes from your research, develop into a collaborative working document as others contribute their insights, and eventually mature into a published artifact that represents our collective understanding.
+Ideas grow through natural cycles in our garden. A draft might begin as personal notes from your research, blossom into a collaborative working document as others contribute their insights, and eventually mature into a published artifact that represents our collective understanding.
 
-Similarly, our shared language evolves through use. New terms emerge organically in our work, get refined through discussion and application, and eventually become well-defined concepts in our lexicon. This parallel growth of content and vocabulary helps us build increasingly sophisticated ways to think and talk about our work together.
+Our shared language grows similarly - new terms emerge naturally in our work, get refined through discussion and application, and gradually become well-defined concepts in our lexicon. This parallel growth of content and vocabulary helps us develop increasingly sophisticated ways to think and talk about our work together.
 
 ## Getting Started
 
@@ -60,40 +60,28 @@ Reach out to SuperBenefit admins to get access to our repository. They'll help y
 
 Open the vault in Obsidian by selecting File > Open Vault and choosing the repository folder. The GitHub Sync plugin helps you stay current with others' work - pull latest changes before you start, make your edits, then push your changes when done.
 
-
-
 ### Documents & Metadata
 
-Our garden uses markdown files with YAML frontmatter for all content. Check out our [type definitions](tools/types/readme.md) for detailed information about document structure and metadata requirements for different kinds of content.
-
-### File Management Tools
-
-We provide tools to help maintain consistency:
-
-- [Templates](tools/templates/readme.md) for creating new documents
-- [Type definitions](tools/types/readme.md) explaining document standards
-- Folder notes for navigation and context
-
-See the [tools documentation](tools/readme.md) for detailed instructions on using these resources.
+Every document in our garden has both visible content and helpful metadata that helps it find its place in the ecosystem. Our [type definitions](tools/types/readme.md) provide patterns for different kinds of content, but don't let the structure overshadow the substance. The most important thing is capturing and connecting ideas effectively.
 
 ## Ways to Contribute
 
 - **Tend Existing Content**
-	- Start by helping maintain and improve what's already in the garden. Clarify explanations, update outdated information, fix broken links, or add helpful examples. This is a great way to familiarize yourself with our content while making valuable contributions.
+  Start by helping maintain what's already growing. Clarify explanations, update outdated information, fix broken links, or add helpful examples. This helps you learn the garden while making valuable contributions.
 
 - **Plant New Ideas**
-	- When you're ready to add new content, begin in your drafts folder. Work on your ideas privately until they're ready for collaboration. Use templates to maintain consistency, and don't forget to connect your work to related concepts through links and tags.
+  When you're ready, start growing your own ideas in your drafts folder. Let them develop naturally, using our templates and tags to give them structure. Connect your thoughts to related concepts as they mature.
 
 - **Cultivate Connections**
-	- One of the most valuable contributions is helping ideas find each other. Create meaningful links between related documents, add relevant tags, and help build topic maps that show how different pieces of knowledge connect.
+  Some of the most valuable gardening is helping ideas find each other. Create meaningful links between documents, add relevant tags, and help build topic maps that show how different pieces of knowledge relate.
 
 - **Help Others Grow**
-	- Guide others in their contributions by reviewing drafts, providing feedback, and sharing your expertise. Welcome new contributors and help them find their place in the garden.
+  Welcome new gardeners, help them find their way around, and share what you've learned. Review others' work thoughtfully and share your expertise generously.
 
 ## Our Guiding Principles
 
 ### Growth Over Perfection
-Don't wait for perfection - share your work early and iterate based on feedback. Learning happens through doing, and every contribution can be refined over time.
+Don't wait for perfection - share your work early and let it improve through feedback and iteration. Learning happens through doing, and every contribution can be refined over time.
 
 ### Connection Over Organization
 Focus on creating meaningful relationships between ideas rather than perfect organizational structures. Use links and tags to help related concepts find each other naturally.
@@ -104,8 +92,7 @@ Write for understanding. Provide context, use clear language, and include exampl
 ## Getting Help
 
 When you need assistance:
-
-1. Check existing documentation and templates first
+1. Check existing documentation and templates
 2. Ask questions in our community channels
 3. Reach out directly to experienced contributors
 

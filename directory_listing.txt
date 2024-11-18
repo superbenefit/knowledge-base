@@ -1,0 +1,23 @@
+ Volume in drive F is localnotes
+ Volume Serial Number is 7AA7-3460
+
+ Directory of F:\projects\sb-knowledge-base
+
+10/18/2024  11:07 AM    <DIR>          .
+10/18/2024  11:07 AM    <DIR>          ..
+10/12/2024  07:10 PM    <DIR>          .obsidian
+10/18/2024  01:37 PM    <DIR>          .trash
+10/18/2024  09:56 PM    <DIR>          artifacts
+10/18/2024  09:56 PM    <DIR>          attachments
+10/18/2024  09:56 PM    <DIR>          library
+10/20/2024  01:46 AM    <DIR>          notes
+10/18/2024  09:56 PM    <DIR>          tags
+10/31/2024  12:19 AM               403 .gitignore
+10/20/2024  06:05 PM    <DIR>          drafts
+11/04/2024  12:30 PM             2,073 index.md
+10/23/2024  02:33 AM    <DIR>          tools
+11/16/2024  10:51 PM             7,957 CONTRIBUTING.md
+11/16/2024  08:56 PM             6,634 README.md
+11/17/2024  06:34 PM                34 directory_listing.txt
+               5 File(s)         17,101 bytes
+              11 Dir(s)  56,739,102,720 bytes free
