@@ -1,6 +1,6 @@
 # Patterns Directory
 
-Welcome to the patterns directory, your practical guide to implementing organizational patterns. While our [main patterns index](patterns.md) explores the theory and relationships between patterns, this guide focuses on how to use, document, and contribute to our pattern library.
+Welcome to the patterns directory, your practical guide to implementing organizational patterns. While our [main patterns index](notes/patterns/patterns.md) explores the theory and relationships between patterns, this guide focuses on how to use, document, and contribute to our pattern library.
 
 ## Getting Started
 
@@ -56,7 +56,7 @@ Join our community channels for help with:
 - Specific organizational challenges
 - Pattern adaptation and evolution
 
-For deeper exploration of pattern theory and relationships, visit our [pattern index](patterns.md) in the knowledge garden.
+For deeper exploration of pattern theory and relationships, visit our [pattern index](notes/patterns/patterns.md) in the knowledge garden.
 
 ---
 

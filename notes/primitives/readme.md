@@ -35,7 +35,7 @@ For example: The "rotating facilitation" primitive defines basic role rotation m
 ## Navigation
 
 - [Primitives Index](notes/primitives/primitives.md) - Individual building blocks
-- [Pattern Library](notes/primitives/patterns/readme.md) - Proven primitive combinations
+- [Pattern Library](notes/patterns/readme.md) - Proven primitive combinations
 - [Conceptual Framework](notes/primitives/framework/readme.md) - Context and best practices
 - [Templates & Types Documentation](/tools/readme.md) - Documentation standards
 

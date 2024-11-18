@@ -7,7 +7,7 @@ tags:
 publish: "false"
 type: pattern
 functions: 
-qualities: 
+qualities: []
 scale: 
 phase: 
 primitives:

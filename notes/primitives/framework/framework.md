@@ -89,7 +89,7 @@ Each agent type maintains:
 ---
 
 ## Integration Patterns
-[[notes/primitives/patterns/patterns|Integration Patterns]] describe how these components work together to create cohesive, functional systems. The framework enables:
+[[notes/patterns/patterns|Integration Patterns]] describe how these components work together to create cohesive, functional systems. The framework enables:
 
 * **Structural & Operational Integration**
     * Nested hierarchies and network relationships
