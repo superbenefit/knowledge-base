@@ -21,9 +21,9 @@ From design and set of agreements we can choose from the pattern library the dif
 
 ![[tags/playbooks#^01503a|playbooks]]
 
-#### [[notes/primitives/patterns/patterns|Patterns]]
+#### [[notes/patterns/patterns|Patterns]]
 
-![[notes/primitives/patterns/patterns#^152f26|patterns]]
+![[notes/patterns/patterns#^152f26|patterns]]
 
 Patterns typically contain the following:
 
