@@ -1,13 +1,12 @@
 ---
 title: Crypto Canon
-source: https://a16z.com/2018/02/10/crypto-readings-resources/
+url: https://a16z.com/2018/02/10/crypto-readings-resources/
 author:
   - Sonal Chokshi
   - Chris Dixon
   - Denis Nazarov
   - Jesse Walden
   - Ali Yahya
-type: Reading List
 tags:
   - web3
 publish: "true"

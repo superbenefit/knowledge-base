@@ -5,7 +5,6 @@
     "tags": "tags",
     "author": "multitext",
     "harvester": "multitext",
-    "groupScale": "multitext",
-    "groupPhase": "multitext"
+    "curator": "multitext"
   }
 }

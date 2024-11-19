@@ -1,9 +1,8 @@
 ---
 title: Decentralised Tech & the Future of Organising
-source: https://richdecibels.substack.com/p/9-decentralised-tech-and-the-future
+url: https://richdecibels.substack.com/p/9-decentralised-tech-and-the-future
 author:
   - Richard Bartlett
-type: Reading List
 tags:
   - impact
   - organization

@@ -1,7 +1,8 @@
 ---
 title: Agreements
 harvester: 
-tags: agreements
+tags:
+  - actions
 aliases:
   - "#agreements"
 publish: "true"

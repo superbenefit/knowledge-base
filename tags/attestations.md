@@ -1,7 +1,9 @@
 ---
 title: Attestations
-harvester: Shannon Lanigan
-tags: attestations
+harvester:
+  - Shannon Lanigan
+tags:
+  - actions
 aliases:
   - "#attestations"
 publish: "true"

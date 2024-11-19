@@ -1,6 +1,6 @@
 ---
 title: DAOs - From fractal primitives to network scale.
-source: https://superbenefit.mirror.xyz/zyP-6GZQz-DWcdbAa-4sqRiY58P1WvYvIs_2zNa9oYo
+url: https://superbenefit.mirror.xyz/zyP-6GZQz-DWcdbAa-4sqRiY58P1WvYvIs_2zNa9oYo
 author:
   - yeoro.eth
   - lewwwk.eth
@@ -48,13 +48,13 @@ DAO structures need to start simply but then be able to grow into massive comple
 
 SuperBenefitDAO recently hosted a [conversation on metagovernance](https://superbenefit.mirror.xyz/yyY2khsoDSgCBaLSIJMeT6xNPJ0c9d2T83rYyt6UfX8) with Gabagool.eth, BPetes.eth and Justinehy.eth. As we explored the topic of metagovernance, one theme that came through strongly was the idea that we need to keep coming back to the magic that we all saw in DAOs in the first place. The magic of small groups of inspired people working together on something that matters to them – and the simple primitives that make this possible. From here we work our way up to complex governance and metagovernance, but we keep this simple starting point in focus. This is a great signpost for us to think about the simple primitives out of which complex DAO networks can emerge.
 
-### DAOs as fractal networks of connected [cells](notes/dao-primitives/pattern-library/cell-pattern.md)
+### DAOs as fractal networks of connected [cells](notes/patterns/test-pattern.md)
 
 When a core team of people come together to start a DAO, pretty quickly they feel the need to create sub-teams as a way of separating tasks and managing accountability. As soon as this happens, they have begun the complex and difficult journey of experimental org design.
 
 The mental model that rescues us from this becoming a morass of incoherent and unscalable structure is that of **fractal design**. Rather than umbrellaing these teams inside an entity (like a company does), we can think of these smaller teams as being identical in type to the DAO that birthed them. Each starts as a **DAO primitive**; a version of the DAO created out of itself, in order to get things done. All of these **DAO cells** exist in relationship with one another in a complex and emerging network.
 
-Call them subDAOs, Pods, Fractals, Working Groups, Circles – I’ll refer to them as [Cells](notes/dao-primitives/pattern-library/cell-pattern.md) in this article because that works nicely with a biological metaphor, but the naming of them is neither here nor there – the mental model is to understand them as their own independent DAO cells that are defined by their relationships with other cells in the DAO network.
+Call them subDAOs, Pods, Fractals, Working Groups, Circles – I’ll refer to them as [Cells](notes/patterns/test-pattern.md) in this article because that works nicely with a biological metaphor, but the naming of them is neither here nor there – the mental model is to understand them as their own independent DAO cells that are defined by their relationships with other cells in the DAO network.
 
 This notion of DAO cells as the primitive starting point for DAO networks is the basis for DAOs being able to leverage both of the scaling dynamics laid out in the [previous article](https://superbenefit.mirror.xyz/unisNGUtHyRF7Zcp9CBbC-VhICOvVm0uzTFJUPX-Icg).
 

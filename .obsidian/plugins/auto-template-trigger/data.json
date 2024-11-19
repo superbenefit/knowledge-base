@@ -11,6 +11,18 @@
     {
       "folderPath": "library",
       "templateName": "Link Template"
+    },
+    {
+      "folderPath": "notes/primitives/patterns",
+      "templateName": "Pattern Template"
+    },
+    {
+      "folderPath": "notes/primitives",
+      "templateName": "Primitive Template"
+    },
+    {
+      "folderPath": "drafts",
+      "templateName": "Note Template"
     }
   ]
 }

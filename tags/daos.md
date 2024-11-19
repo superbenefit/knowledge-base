@@ -1,6 +1,6 @@
 ---
 title: DAOs
-tags: daos
+tags: []
 aliases:
   - "#daos"
 publish: "true"

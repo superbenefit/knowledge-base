@@ -1,7 +1,8 @@
 ---
 title: Decentralization
-tags: decentralization
-Aliases:
+tags:
+  - qualities
+aliases:
   - "#decentralization"
 publish: "true"
 ---

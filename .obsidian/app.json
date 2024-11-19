@@ -1,5 +1,5 @@
 {
-  "useMarkdownLinks": false,
+  "useMarkdownLinks": true,
   "newLinkFormat": "absolute",
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
@@ -8,5 +8,9 @@
   "livePreview": false,
   "trashOption": "local",
   "tabSize": 2,
-  "defaultViewMode": "source"
+  "defaultViewMode": "source",
+  "userIgnoreFilters": [
+    "/(?i)(^|\\/)readme[^\\/]*$/",
+    "/^tools\\/.*$/"
+  ]
 }

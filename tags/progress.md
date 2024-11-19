@@ -1,7 +1,8 @@
 ---
 title: Progress
 harvester: 
-tags: progress
+tags:
+  - agreements
 aliases:
   - "#progress"
 publish: "true"

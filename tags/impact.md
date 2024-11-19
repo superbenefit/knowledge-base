@@ -1,7 +1,7 @@
 ---
 title: Impact
 harvester: 
-tags: impact
+tags: []
 aliases:
   - "#impact"
 publish: "true"

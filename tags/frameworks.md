@@ -1,7 +1,7 @@
 ---
 title: Frameworks
 tags:
-  - frameworks
+  - resources
 aliases:
   - "#frameworks"
 publish: "true"
@@ -11,7 +11,7 @@ publish: "true"
 
 Some popular frameworks are: 
 
-- [Anticapture](library/Anticapture.md)
+- [anticapture](library/anticapture.md)
 - [Modular Politics](library/Modular%20Politics.md)
 
 Frameworks developed at SuperBenefit:

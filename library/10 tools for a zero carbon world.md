@@ -1,8 +1,7 @@
 ---
 title: 10 tools for systems change to a zero carbon world
-source: https://futurestewards.com/wp-content/uploads/2021/12/10-tools-for-systems-change-to-a-zero-carbon-world.pdf
+url: https://futurestewards.com/wp-content/uploads/2021/12/10-tools-for-systems-change-to-a-zero-carbon-world.pdf
 author: ""
-type: Guide
 tags: transformation
 publish: "true"
 ---

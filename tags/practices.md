@@ -1,7 +1,8 @@
 ---
 title: Practices
 harvester: 
-tags: practices
+tags:
+  - agreements
 aliases:
   - "#practices"
 publish: "true"

@@ -1,7 +1,8 @@
 ---
 title: Goals
 harvester: 
-tags: goals
+tags:
+  - agreements
 aliases:
   - "#goals"
 publish: "true"

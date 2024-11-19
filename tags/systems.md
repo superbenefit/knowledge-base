@@ -1,7 +1,7 @@
 ---
 title: Systems
 harvester: 
-tags: systems
+tags: []
 aliases:
   - "#systems"
 publish: "true"

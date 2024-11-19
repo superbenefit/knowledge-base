@@ -1,7 +1,8 @@
 ---
 title: Purpose
 harvester: 
-tags: purpose
+tags:
+  - agreements
 aliases:
   - "#purpose"
 publish: "true"

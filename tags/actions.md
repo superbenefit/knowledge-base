@@ -1,7 +1,7 @@
 ---
 title: Actions
 harvester: 
-tags: actions
+tags: []
 aliases:
   - "#actions"
 publish: "true"

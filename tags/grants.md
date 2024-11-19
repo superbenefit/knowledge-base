@@ -1,7 +1,9 @@
 ---
 title: Grants
 harvester: 
-tags: grants
+tags:
+  - functions
+  - actions
 aliases:
   - "#grants"
 publish: "true"

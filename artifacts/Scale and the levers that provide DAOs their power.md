@@ -1,6 +1,6 @@
 ---
 title: Scale and the levers that provide DAOs their power
-source: https://superbenefit.mirror.xyz/unisNGUtHyRF7Zcp9CBbC-VhICOvVm0uzTFJUPX-Icg
+url: https://superbenefit.mirror.xyz/unisNGUtHyRF7Zcp9CBbC-VhICOvVm0uzTFJUPX-Icg
 author:
   - yeoro.eth
   - lewwwk.eth

@@ -1,11 +1,11 @@
 ---
 title: Non-Fungible Tokens (NFTs)
 harvester: 
-tags:
-  - nfts
+tags: 
 aliases:
   - "#nfts"
   - "#nft"
+  - nfts
 publish: "true"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Autonomy
 tags:
-  - autonomy
+  - qualities
 aliases:
   - "#autonomy"
 publish: "true"

@@ -1,7 +1,7 @@
 ---
 title: networks
 harvester: 
-tags: networks
+tags: []
 aliases:
   - "#networks"
 publish: "true"

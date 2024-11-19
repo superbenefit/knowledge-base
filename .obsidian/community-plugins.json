@@ -1,9 +1,10 @@
 [
-  "auto-template-trigger",
   "tags-overview",
   "dataview",
   "obsidian-mkdocs-publisher",
   "folder-notes",
   "metadata-menu",
-  "github-sync"
+  "github-sync",
+  "templater-obsidian",
+  "auto-template-trigger"
 ]

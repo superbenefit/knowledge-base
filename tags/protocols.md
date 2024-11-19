@@ -1,7 +1,8 @@
 ---
 title: Protocols
 harvester: 
-tags: protocols
+tags:
+  - primitives
 aliases:
   - "#protocols"
 publish: "true"

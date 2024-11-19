@@ -2,7 +2,7 @@
 title: Delegation
 harvester: 
 tags:
-  - delegation
+  - actions
 aliases:
   - "#delegation"
 publish: "true"

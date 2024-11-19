@@ -1,6 +1,6 @@
 ---
 title: Exploring governance for better futures
-source: https://superbenefit.mirror.xyz/Bcsl19CZ67amLJY_bee5dUy0DEboZykuMQqw58wGlGI
+url: https://superbenefit.mirror.xyz/Bcsl19CZ67amLJY_bee5dUy0DEboZykuMQqw58wGlGI
 author:
   - heenal.eth
   - michellebaldwin.eth

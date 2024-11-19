@@ -1,6 +1,6 @@
 ---
 title: DAO Governance - Challenges, Ideas and Tools
-source: https://blog.tally.xyz/dao-governance-challenges-ideas-and-tools-1504fd82be24
+url: https://blog.tally.xyz/dao-governance-challenges-ideas-and-tools-1504fd82be24
 author:
   - Tally
 type: Article

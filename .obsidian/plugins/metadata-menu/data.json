@@ -1,12 +1,25 @@
 {
-  "presetFields": [],
+  "presetFields": [
+    {
+      "type": "Input",
+      "tagName": "single",
+      "icon": "pencil",
+      "tooltip": "Accepts any value",
+      "colorClass": "single",
+      "options": {},
+      "name": "url",
+      "id": "4po4Pf",
+      "path": ""
+    }
+  ],
   "fileClassQueries": [],
   "displayFieldsInContextMenu": true,
   "globallyIgnoredFields": [],
-  "classFilesPath": "templates/types/",
+  "classFilesPath": "tools/types/",
   "isAutosuggestEnabled": true,
   "fileClassAlias": "type",
-  "settingsVersion": "5.0",
+  "settingsVersion": "5.10",
+  "globalFileClass": "note",
   "firstDayOfWeek": 1,
   "enableLinks": true,
   "enableTabHeader": true,
@@ -16,7 +29,7 @@
   "enableFileExplorer": true,
   "enableSearch": true,
   "enableProperties": true,
-  "tableViewMaxRecords": 20,
+  "tableViewMaxRecords": 50,
   "frontmatterListDisplay": "asList",
   "fileClassExcludedFolders": [],
   "showIndexingStatusInStatusBar": true,
@@ -29,6 +42,6 @@
   "showFileClassSelectInModal": true,
   "chooseFileClassAtFileCreation": false,
   "autoInsertFieldsAtFileClassInsertion": true,
-  "fileClassIcon": "package",
+  "fileClassIcon": "notepad-text",
   "isAutoCalculationEnabled": true
 }

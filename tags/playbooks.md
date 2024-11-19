@@ -1,7 +1,7 @@
 ---
 title: Playbooks
 harvester: 
-tags: 
+tags: []
 aliases:
   - "#playbooks"
 publish: "true"

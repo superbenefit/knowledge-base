@@ -1,7 +1,7 @@
 ---
 title: Decentralized Finance (DeFi)
 harvester: 
-tags: defi
+tags: []
 aliases:
   - "#defi"
 publish: "true"

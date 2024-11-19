@@ -2,9 +2,9 @@
 title: Power
 publish: true
 type: tag
-harvester: heenal
-tags: 
-  - power
+harvester:
+  - heenal
+tags: []
 aliases:
   - "#power"
 ---

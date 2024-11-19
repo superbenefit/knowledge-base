@@ -1,0 +1,18 @@
+{
+  "waypointFlag": "%% Waypoint %%",
+  "landmarkFlag": "%% Landmark %%",
+  "stopScanAtFolderNotes": false,
+  "showFolderNotes": false,
+  "showNonMarkdownFiles": true,
+  "debugLogging": false,
+  "useWikiLinks": false,
+  "useFrontMatterTitle": true,
+  "showEnclosingNote": false,
+  "folderNoteType": "INSIDE_FOLDER",
+  "ignorePaths": [
+    "_attachments",
+    "_tools"
+  ],
+  "useSpaces": true,
+  "numSpaces": 2
+}

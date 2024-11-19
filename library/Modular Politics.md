@@ -8,11 +8,11 @@ author:
   - SETH FREY
   - JOSHUA Z. TAN
   - AMY X. ZHANG
-source: https://arxiv.org/pdf/2005.13701.pdf
+url: https://arxiv.org/pdf/2005.13701.pdf
 publish: "true"
 ---
 
-[Modular Politics Framework](https://arxiv.org/pdf/2005.13701.pdf) by [Metagov](library/Metagov.md)
+[Modular Politics Framework](https://arxiv.org/pdf/2005.13701.pdf) by [metagov](library/metagov.md)
 
 NATHAN SCHNEIDER, University of Colorado Boulder, USA
 PRIMAVERA DE FILIPPI, Harvard University, USA and CNRS, France

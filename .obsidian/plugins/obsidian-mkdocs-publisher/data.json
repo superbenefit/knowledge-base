@@ -63,7 +63,7 @@
     },
     "links": {
       "internal": true,
-      "unshared": false,
+      "unshared": true,
       "wiki": true,
       "slugify": "disable",
       "unlink": false
@@ -92,7 +92,9 @@
     "editorMenu": true,
     "excludedFolder": [
       "drafts",
-      "templates"
+      "templates",
+      "tools",
+      "trash"
     ],
     "copyLink": {
       "enable": false,
@@ -105,10 +107,14 @@
         "applyRegex": []
       }
     },
-    "noticeError": false,
+    "noticeError": true,
     "displayModalRepoEditing": true,
     "setFrontmatterKey": "Set",
     "migrated": true
   },
+<<<<<<< HEAD
   "tabsId": "github-configuration"
+=======
+  "tabsId": "plugin-settings"
+>>>>>>> 0a72839ccbaad393dea664727d87a34cd93e1440
 }

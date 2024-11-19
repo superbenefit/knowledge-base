@@ -1,7 +1,8 @@
 ---
 title: Decisions
 harvester: 
-tags: decisions
+tags:
+  - actions
 aliases:
   - "#decisions"
 publish: "true"
