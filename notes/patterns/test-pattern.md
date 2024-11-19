@@ -6,7 +6,8 @@ tags:
   - patterns
 publish: "false"
 type: pattern
-primitives: 
+primitives:
+  - test-primitive
 scale: 
 phase: 
 functions: 

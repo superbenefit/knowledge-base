@@ -39,15 +39,6 @@ primitives: List of primitives this pattern uses
 
 Document your pattern with clear examples, implementation guidance, and real-world cases. Once your draft is ready, submit it for community review.
 
-## Directory Structure
-
-```
-patterns/
-├── drafts/     # Work in progress patterns
-├── tools/      # Documentation tools and templates
-└── index.md    # Main pattern reference
-```
-
 ## Questions and Support
 
 Join our community channels for help with:
