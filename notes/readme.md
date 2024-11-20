@@ -10,9 +10,11 @@ This is our working documentation space where active research and project develo
 - Develops conceptual frameworks for understanding scale and evolution
 - See the project's [readme](primitives/readme.md) for details
 
-### Reimagining Power Project
-- `/rpp/` - Project documentation and research
-- See project directory for details
+### Pattern Library
+- `/patterns/` - Documentation of organizational patterns
+- Captures proven combinations of primitives
+- Provides implementation guidance
+- Links theory to practice
 
 ## Working Here
 

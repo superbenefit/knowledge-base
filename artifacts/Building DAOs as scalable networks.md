@@ -94,7 +94,7 @@ As more working groups (Cells) are created, Governance splits into two different
 
 1. **[Community Governance](notes/primitives/patterns/Community%20Governance.md)** - safeguards the purpose of the network
     
-2. **[stakeholder-governance](notes/primitives/stakeholder-governance.md)** - gives flexibility, autonomy and modern incentive design to produce innovation and scale
+2. **[stakeholder-governance](drafts/stakeholder-governance.md)** - gives flexibility, autonomy and modern incentive design to produce innovation and scale
     
 
 ![](https://superbenefit.mirror.xyz/_next/image?url=https%3A%2F%2Fimages.mirror-media.xyz%2Fpublication-images%2Fe8XTKLhYwcB4nY9F6QxH4.png&w=3840&q=75)

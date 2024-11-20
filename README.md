@@ -31,21 +31,49 @@ Understanding how knowledge flows through this system is key to using it effecti
 
 ```
 knowledge-base/
-├── library/      # External references with commentary
-├── tags/         # Tag definitions and terminology
-├── artifacts/     # Published, finalized content
-├── notes/        # Working documents by project (indexed)
-│   ├── primitives/        # DAO Primitives Project
-│   └── rpp/        # Reimagining Power project
+├── artifacts/     # Published, curated content and validated knowledge
+├── attachments/  # Media files, images, and supporting content
 ├── drafts/      # Work-in-progress notes (not indexed)
-├── tools/        # Knowledge management utilities
-    ├── templates/    # Document templates
-    └── types/        # Metadata type definitions
+├── library/     # External references with community commentary
+├── notes/       # Working documents by project
+│   ├── patterns/        # Documentation of organizational patterns
+│   └── primitives/     # DAO Primitives Project
+│       └── framework/  # Conceptual frameworks and models
+├── tags/        # Term definitions and shared vocabulary
+└── tools/       # Knowledge management utilities
+    ├── templates/   # Document templates and structures
+    └── types/      # Metadata type definitions
 ```
 
-Knowledge typically develops through natural stages: from individual drafts, through project-specific collaborative work, into published artifacts. Throughout this progression, ideas are connected by our shared vocabulary and enriched by references to external knowledge. Rather than enforce strict organization, we let structure emerge through wiki-style document links, consistent metadata, topic tags, and project relationships.
+Knowledge typically develops through natural stages: from individual drafts, through project-specific collaborative work, into published artifacts. Throughout this progression, ideas are connected by our shared vocabulary and enriched by references to external knowledge. Rather than enforce strict organization, we let structure emerge through:
+- Wiki-style document links 
+- Consistent metadata schemas
+- Topic tags and relationships
+- Project-specific organization
 
-Each directory's `readme.md` provides detailed guidance about its role in this ecosystem.
+Each directory serves a specific purpose in our knowledge ecosystem:
+
+### Core Content Areas
+
+- **artifacts/** - Published, refined content that represents our collective understanding. Contains finished research, documentation, and community-validated knowledge.
+
+- **drafts/** - Private workspace for developing thoughts and initial research. This is where new ideas begin before they're ready for wider collaboration.
+
+- **notes/** - Working documents organized by project. This is where active development happens and where ideas mature through collaboration.
+
+### Support and Organization
+
+- **attachments/** - Media files, images, diagrams, and other supporting content used throughout the knowledge base.
+
+- **library/** - External references and resources, enriched with community commentary and analysis.
+
+- **tags/** - Our shared vocabulary and conceptual framework, including term definitions and relationships.
+
+- **tools/** - Knowledge management utilities, including:
+  - templates/ - Standard document structures
+  - types/ - Metadata schemas and definitions
+
+Each directory's `readme.md` provides additional guidance about its specific role and usage guidelines.
 
 ## Working with the Knowledge Base
 

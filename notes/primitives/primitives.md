@@ -161,26 +161,17 @@ You can dive deeper into how the primitives work together [**here**](https://app
 ## DAO Primitives Index
 
 %% Begin Waypoint %%
-- [DAO Primitives.canvas](notes/primitives/framework/DAO%20Primitives.canvas)
-- **[framework](./framework/framework.md)**
-  - **[phase](./framework/phase/phase.md)**
-    - [Conversation Phase](./framework/phase/conversation.md)
-    - [Coordination Phase](./framework/phase/coordination.md)
-    - [Formation Phase](./framework/phase/formation.md)
-    - [Organization Phase](./framework/phase/organization.md)
-  - **[scale](./framework/scale/scale.md)**
-    - [Collaboration Scale](./framework/scale/collaboration.md)
-    - [Constituency Scale](./framework/scale/constituency.md)
-    - [Coordination Scale](./framework/scale/coordination.md)
-    - [Network Scale](./framework/scale/network.md)
-  - [Group State](./framework/state.md)
-- [Group Facilitation Framework](notes/primitives/framework/group-facilitation.md)
-- **[patterns](notes/patterns/patterns.md)**
-  - [Cell (Pattern)](notes/patterns/test-pattern.md)
-  - [Circle](./patterns/circle-pattern.md)
-  - [Community Governance](./patterns/Community%20Governance.md)
-  - [Operational Governance](./patterns/operational-governance.md)
-  - [stakeholder-governance](notes/primitives/stakeholder-governance.md)
-  - [readme](notes/patterns/readme.md)
+- **framework/**
+  - **phase/**
+    - [Conversation Phase](phase/conversation.md)
+    - [Coordination Phase](phase/coordination.md)
+    - [Formation Phase](phase/formation.md)
+    - [Organization Phase](phase/organization.md)
+  - **scale/**
+    - [Collaboration Scale](scale/collaboration.md)
+    - [Constituency Scale](scale/constituency.md)
+    - [Coordination Scale](scale/coordination.md)
+    - [Network Scale](scale/network.md)
+  - [Group State](state.md)
 
 %% End Waypoint %%
