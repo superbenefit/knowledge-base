@@ -163,10 +163,10 @@ You can dive deeper into how the primitives work together [**here**](https://app
 %% Begin Waypoint %%
 - **framework/**
   - **phase/**
-    - [Conversation Phase](phase/conversation.md)
-    - [Coordination Phase](phase/coordination.md)
-    - [Formation Phase](phase/formation.md)
-    - [Organization Phase](phase/organization.md)
+    - [Conversation Phase](notes/primitives/framework/phase/1.%20conversation.md)
+    - [Coordination Phase](notes/primitives/framework/phase/4.%20coordination.md)
+    - [Formation Phase](notes/primitives/framework/phase/2.%20formation.md)
+    - [Organization Phase](notes/primitives/framework/phase/3.%20organization.md)
   - **scale/**
     - [Collaboration Scale](scale/collaboration.md)
     - [Constituency Scale](scale/constituency.md)

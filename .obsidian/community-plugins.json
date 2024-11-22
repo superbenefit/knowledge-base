@@ -4,7 +4,7 @@
   "obsidian-mkdocs-publisher",
   "folder-notes",
   "metadata-menu",
-  "github-sync",
   "templater-obsidian",
-  "auto-template-trigger"
+  "auto-template-trigger",
+  "github-sync"
 ]
