@@ -80,9 +80,3 @@ Community patterns focus on making playbooks truly useful to their intended audi
 
 ### Making Patterns Work Together
 Understanding how patterns interact improves playbook effectiveness. Organization patterns provide structure. Community patterns keep content relevant. Technical patterns guide implementation, while governance patterns inform decisions. These interactions create comprehensive, practical guidance.
-
----
-
-## Credits
-
-[To be populated with contributors and sources]

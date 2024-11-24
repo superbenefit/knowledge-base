@@ -1,39 +1,44 @@
+*This directory helps bridge theory and practice by showing how primitives and patterns apply in different organizational contexts.*
+
 # Framework Directory
 
-This directory contains our conceptual framework for understanding how DAO primitives and patterns operate at different phases and scales of organization. While `framework.md` provides the theoretical model, this directory houses the practical documentation of how groups evolve and scale.
+This directory houses the practical application of the DAO Primitives conceptual framework, guiding you through the phases and scales of organizational development. The theoretical model is described in [`framework.md`](framework.md).
 
-## Directory Focus
+## Understanding Organizational Context: Phase, Scale, and State
 
-The framework helps answer critical questions about DAO organization:
-- What phase is your group in? (conversation, coordination, formation, organization)
-- What scale are you operating at? (collaboration, constituency, coordination, network)  
-- How do these factors affect which primitives and patterns will be most useful?
+This framework helps you understand and navigate the complexities of organizational development by focusing on three key aspects:
 
-## Directory Structure
+* **Phase:** The stage of development your group is currently in.  This influences the tools, practices, and approaches that will be most effective.  The phases are: Conversation, Coordination, Formation, and Organization.  [`/phase/`](phase/) contains detailed documentation for each phase.
 
-- `/phase/` - Documentation of group development stages
-- `/scale/` - Analysis of different organizational scales
-- `state.md` - Understanding group conditions and transitions
-- `group-facilitation.md` - Practical guidance for group development
+* **Scale:** The size and complexity of your organization.  Different scales require different strategies and approaches.  The scales are: Collaboration, Constituency, Coordination, and Network.  [`/scale/`](scale/) provides detailed analysis for each scale.
 
-We use this framework to help groups:
-1. Identify their current phase and scale
-2. Select appropriate primitives and patterns
-3. Plan for growth and transitions
-4. Maintain effective coordination as they evolve
-
-## Practical Application
-
-Think of this framework as a map - it helps you:
-- Diagnose where your group is now
-- Identify what tools and approaches fit your context
-- Plan for upcoming transitions
-- Avoid common pitfalls at each stage
-
-For example, a group in the conversation phase at collaboration scale needs different primitives than one in the organization phase at network scale. This framework helps make those distinctions clear.
-
-See `/tools/types/` for documentation standards when contributing to framework materials.
+* **State:** The overall properties and characteristics of your organization at a given point in time.  Understanding your organization's state is crucial for making informed decisions and planning for future growth.  [`state.md`](state.md) provides a comprehensive overview of group states and transitions.
 
 ---
 
-*This directory helps bridge theory and practice by showing how primitives and patterns apply in different organizational contexts.*
+## Using the Framework: A Practical Roadmap
+
+This framework offers a practical roadmap for building and managing effective organizations. It guides you through:
+
+1.  **Diagnosing Your Current State:** Identifying your group's current phase and scale.
+2.  **Selecting Appropriate Tools:** Choosing the primitives and patterns best suited to your context.
+3.  **Planning for Growth:** Anticipating and planning for upcoming transitions.
+4.  **Maintaining Coordination:** Ensuring effective coordination as your organization evolves.
+
+
+## Example: Contextualizing Phase and Scale
+
+A group in the *Conversation Phase* at a *Collaboration Scale* will have vastly different needs and priorities than a group in the *Organization Phase* at a *Network Scale*. This framework helps clarify these distinctions, guiding you towards the most effective strategies and tools.
+
+
+## Further Resources
+
+*   **Group Facilitation:**  [`group-facilitation.md`](group-facilitation.md) provides practical guidance for navigating group development.
+*   **Documentation Standards:**  Refer to [`/tools/types/`](../tools/types/) for contribution guidelines.
+
+---
+
+##  Further Resources
+
+*   **Group Facilitation:**  [`group-facilitation.md`](group-facilitation.md) provides practical guidance for navigating group development.
+*   **Documentation Standards:**  See [`/tools/types/`](../tools/types/) for contribution guidelines.

@@ -1,57 +1,62 @@
-# Primitives Directory
+# Primitives Directory: Building Blocks for Effective Organization
 
-This directory documents the basic building blocks of DAO organization. If patterns are like recipes and playbooks are like cookbooks, primitives are the core ingredients - the fundamental elements that make everything else possible.
-
-## What's a Primitive?
-
-A primitive could be:
-- A basic governance mechanism like multi-sig voting
-- A core operational function like role management  
-- A foundational organizational structure like working groups
-- A basic coordination tool like task tracking
-
-The key is that primitives are simple, foundational elements that can be combined in different ways to solve organizational challenges.
-
-## Directory Structure 
-
-Our DAO primitive documentation is organized in three layers:
-
-1. Core Concepts - Foundational building blocks of DAO organization
-2. Framework - Tools for understanding context and application
-   - Phase - Group development stages
-   - Scale - Organizational scaling models
-   - State - Group properties and transitions
-3. Patterns - Proven combinations that solve common problems
-
-Each layer builds on the previous - from basic elements to tested combinations to contextual guidance.
-
-## Working With Primitives 
-
-Start in `/drafts/` when documenting a new primitive. Focus on these key questions:
-- What specific problem does this primitive solve?
-- How does it work in its simplest form?
-- What other primitives does it commonly combine with?
-- Where has it been used successfully?
-
-For example: Role rotation mechanics combined with weighted voting enables decentralized team coordination. The framework helps understand when these combinations make sense for your organization.
-
-## Project Navigation
-
-- Core Documentation: `primitives.md`
-- Framework Documentation: `framework/`
-  - Group Phase: `framework/phase/`
-  - Group Scale: `framework/scale/`
-  - Group State: `framework/state.md`
-- Pattern Library: `../patterns/`
-
-## Related Resources
-
-- Document templates: `/tools/templates/`
-- Metadata schemas: `/tools/types/`
-- Contribution guide: `/CONTRIBUTING.md`
-
-Questions? Join our community channels.
+This directory documents fundamental building blocks for creating and managing effective organizations, whether they are onchain or offchain.  We use the term "primitives" to refer to these core components.  Just as recipes rely on basic ingredients, and cookbooks organize recipes, effective organizations are built from simple, reusable components.
 
 ---
 
-*Root directory for DAO primitives documentation - from basic building blocks to proven patterns.*
+## What is a Primitive?
+
+A primitive is a simple, foundational element or process that can be combined in various ways to achieve complex organizational goals.  Examples include:
+
+* **Governance Mechanisms:**  Methods for making decisions and allocating resources (e.g., voting systems, consensus-building processes).
+* **Operational Functions:** Core processes for managing tasks and workflows (e.g., role assignment, task management, resource allocation).
+* **Organizational Structures:** Ways of organizing people and resources (e.g., teams, committees, hierarchies).
+* **Coordination Tools:** Methods for facilitating communication and collaboration (e.g., communication platforms, shared documentation systems).
+
+---
+
+## Directory Structure: A Layered Approach
+
+Our documentation is organized into three interconnected layers:
+
+1. **Core Concepts:**  This layer defines the fundamental building blocks of organizational design.  These are the essential elements upon which all other aspects of organizational structure and function are built. [Link to `primitives.md`]
+
+2. **Framework:** This layer provides tools and models for understanding how primitives operate in different contexts. It helps you analyze your organization's current state, identify suitable tools and approaches, plan transitions, and avoid common pitfalls. This includes models for:
+
+    * **Phase:**  Stages of organizational development (e.g., initial formation, growth, maturity). [Link to `framework/phase/` directory]
+    * **Scale:**  The size and complexity of the organization (e.g., small team, large network). [Link to `framework/scale/` directory]
+    * **State:**  The properties and characteristics of the organization at a given point in time. [Link to `framework/state.md`]
+
+3. **Patterns:** This layer documents proven combinations of primitives that solve common organizational challenges. These patterns represent practical, tested solutions that can be adapted and implemented in various contexts. [Link to `../patterns/` directory]
+
+---
+
+## Working with Primitives: A Practical Guide
+
+When documenting a new primitive, start by creating a draft in the `/drafts/` directory.  Consider these key questions:
+
+1. What specific problem does this primitive solve?
+2. How does it work in its simplest form?
+3. What other primitives does it commonly combine with?
+4. Where has it been used successfully (provide examples)?
+
+For example:  Role rotation mechanisms combined with weighted voting can enable more equitable and efficient decision-making in a decentralized setting.  The framework helps determine when these combinations are most effective.
+
+---
+
+## Project Navigation
+
+* **Core Documentation:** [notes/primitives.md](notes/primitives.md)
+* **Framework Documentation:** [notes/primitives/framework/](notes/primitives/framework/)
+    * Group Phase: [notes/primitives/framework/phase/](notes/primitives/framework/phase/)
+    * Group Scale: [notes/primitives/framework/scale/](notes/primitives/framework/scale/)
+    * Group State: [notes/primitives/framework/state.md](notes/primitives/framework/state.md)
+* **Pattern Library:** [notes/patterns/](notes/patterns/)
+
+---
+
+## Related Resources
+
+* Document templates: [tools/templates/](tools/templates/)
+* Metadata schemas: [tools/types/](tools/types/)
+* Contribution guide: [CONTRIBUTING.md](CONTRIBUTING.md)

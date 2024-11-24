@@ -51,7 +51,7 @@ These community plugins are required for the functionality of various features i
 
 ### Dataview
 We use dataview to query this vault's contents for creating custom views.
-![](tools/plugin-notes/dataview.md)
+![](tools/plugin-notes/dataview/dataview.md)
 
 ### Templater
 We use templater to populate dynamic content within this vault. 

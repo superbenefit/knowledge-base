@@ -1,40 +1,36 @@
+*Active research and project development space - where ideas evolve into artifacts.*
+
 # Notes Directory
 
-This is our working documentation space where active research and project development happens. Unlike the polished content in `/artifacts/`, this directory contains in-progress work and project-specific materials.
-
-## Active Projects
-
-### DAO Primitives Project
-- `/primitives/` - Research into DAO building blocks, patterns, and frameworks
-- Documents fundamental components of DAO organization
-- Develops conceptual frameworks for understanding scale and evolution
-- See the project's [readme](primitives/readme.md) for details
-
-### Pattern Library
-- `/patterns/` - Documentation of organizational patterns
-- Captures proven combinations of primitives
-- Provides implementation guidance
-- Links theory to practice
-
-## Working Here
-
-The notes directory is where ideas develop before becoming published artifacts. This means:
-- Content is actively evolving
-- Documentation can be experimental
-- Cross-linking between projects is encouraged
-- New insights feed into published materials
-
-Start new work in `/drafts/` before moving it here. Once content is refined and validated, consider moving it to `/artifacts/` for publication.
-
-## Contributing
-
-- Use templates from `/tools/templates/`
-- Follow standards in `/tools/types/`
-- Start experimental content in `/drafts/`
-- Link liberally to related materials
-
-Questions? Join our community channels.
+This directory serves as the active workspace for developing knowledge resources related to DAO organization.  Unlike the polished content in `/artifacts/`, this directory contains in-progress work and project-specific materials.  Knowledge typically flows from `/drafts/` to `/notes/`, then to `/artifacts/` after refinement and community validation.
 
 ---
 
-*Active research and project development space - where ideas evolve into artifacts.*
+## Active Projects
+
+This directory currently focuses on three key areas:
+
+* **DAO Primitives Project (`/primitives/`):** Research into the fundamental building blocks of DAO organization, including core concepts, frameworks for understanding context and application (phase, scale, state), and the relationships between primitives and patterns.  [See the project's README](primitives/readme.md) for details.
+
+* **Pattern Library (`/patterns/`):** Documentation of reusable solutions to common organizational challenges.  These patterns combine primitives into practical implementations. [See the project's README](patterns/readme.md) for details.
+
+* **Playbook Development (`/playbooks/`):** Creation of comprehensive guides for implementing specific DAO structures or solutions.  Playbooks combine patterns and primitives into complete, practical resources. [See the project's README](playbooks/readme.md) for details.
+
+---
+
+## Contributing
+
+The `/notes/` directory is the heart of our collaborative knowledge-building process. Your contributions here directly shape the development of our learning resources and help us refine our understanding of DAO organization.  By contributing, you're not just adding content; you're actively participating in the evolution of our collective knowledge and helping to create valuable resources for our stakeholders.
+
+Here's how you can contribute:
+
+1. **Identify an Area of Focus:** Choose a project within the `/notes/` directory (e.g., DAO Primitives, Patterns, Playbooks) that aligns with your interests and expertise.
+
+2. **Review Existing Documentation:** Familiarize yourself with the existing content and structure within your chosen area.  This will help you identify gaps, inconsistencies, or areas for improvement.
+
+3. **Develop Your Contribution:** Use the appropriate templates from `/tools/templates/` and follow the metadata standards in `/tools/types/` to create your contribution.
+
+4. **Submit Your Contribution:**  Once your contribution is ready, follow the detailed guidelines in our [CONTRIBUTING.md](CONTRIBUTING.md) file to submit it for review and integration into the knowledge base.
+
+
+Your contributions are invaluable to our collective learning and the creation of high-quality resources.  We encourage you to participate actively in this process.
