@@ -21,7 +21,7 @@ This scale is characterized by high levels of interdependence, complex communica
 * **Distributed Governance:**  Governance mechanisms are distributed across the network, often involving multiple decision-making bodies.
 * **Adaptability:**  The network must be adaptable to changing circumstances and the evolving needs of its constituent organizations.
 
-### Challenges at the Network Scale
+### Challenges at Network Scale
 
 * **Communication and Coordination:**  Maintaining effective communication and coordination across a large and diverse network can be extremely challenging.
 * **Governance:**  Establishing and maintaining effective governance mechanisms across multiple organizations is complex.
