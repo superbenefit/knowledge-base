@@ -162,17 +162,10 @@ You can dive deeper into how the primitives work together [**here**](https://app
 ## DAO Primitives Index
 
 %% Begin Waypoint %%
-- **framework/**
-  - **phase/**
-    - [Conversation Phase](phase/conversation.md)
-    - [Coordination Phase](phase/coordination.md)
-    - [Formation Phase](phase/formation.md)
-    - [Organization Phase](phase/organization.md)
-  - **scale/**
-    - [Collaboration Scale](scale/collaboration.md)
-    - [Constituency Scale](scale/constituency.md)
-    - [Coordination Scale](scale/coordination.md)
-    - [Network Scale](scale/network.md)
-  - [Group State](state.md)
+- **[framework](./framework/framework.md)**
+- [Test Module](./test-module.md)
+- [Test Practice](./test-practice.md)
+- [Test Primitive](./test-primitive.md)
+- [Test Protocol](./test-protocol.md)
 
 %% End Waypoint %%

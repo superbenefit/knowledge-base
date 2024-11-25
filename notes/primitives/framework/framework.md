@@ -1,11 +1,19 @@
 ---
 title: DAO Primitves Conceptual Framework
 description: A simple framework for using concepts related to DAO primitives.
-publish: true
+publish: "true"
 type: note
 ---
 
 This framework organizes the foundational concepts used in [[tags/daos|DAO]] design and operation. It serves as a practical guide for understanding how these components interact within decentralized organizations.
+
+%% Begin Waypoint %%
+- [Group Facilitation Guide](./group-facilitation.md)
+- **[phase](./phase/phase.md)**
+- **[scale](./scale/scale.md)**
+- [Group State](./state.md)
+
+%% End Waypoint %%
 
 ---
 
