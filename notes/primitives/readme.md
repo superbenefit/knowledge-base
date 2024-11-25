@@ -15,7 +15,7 @@ A primitive is a simple, foundational element or process that can be combined in
 
 ---
 
-## Directory Structure: A Layered Approach
+## Directory Structure
 
 Our documentation is organized into three interconnected layers:
 
@@ -29,9 +29,13 @@ Our documentation is organized into three interconnected layers:
 
 3. **Patterns:** This layer documents proven combinations of primitives that solve common organizational challenges. These patterns represent practical, tested solutions that can be adapted and implemented in various contexts. [Link to `../patterns/` directory]
 
+### Test Files
+
+Several unpublished test files are present in the notes directory. These are for testing out the functionality of various file types in-situ. Please use them as needed for your projects, but please avoid overwriting others' content wherever possible.
+
 ---
 
-## Working with Primitives: A Practical Guide
+## Working with Primitives
 
 When documenting a new primitive, start by creating a draft in the `/drafts/` directory.  Consider these key questions:
 

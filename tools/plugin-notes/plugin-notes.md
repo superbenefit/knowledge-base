@@ -55,7 +55,7 @@ We use dataview to query this vault's contents for creating custom views.
 
 ### Templater
 We use templater to populate dynamic content within this vault. 
-![](tools/plugin-notes/templater.md)
+![](tools/plugin-notes/templater/templater.md)
 
 ### Metadata Menu
 We use Metadata Menu to standardize file metadata across the vault

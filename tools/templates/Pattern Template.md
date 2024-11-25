@@ -13,48 +13,29 @@ phase:
 primitives:
 ---
 
-<% tp.frontmatter.description %>
+<% tp.frontmatter.description || "No description provided" %>
 
 %% Introduce the pattern here %%
 
 ---
 
-%% Add your content here %%
+## Problem / Solution Context
+
+%% Introduce the problem space / related function here %%
+
+### Solution Landscape
+
+%% Describe the various approaches to the problem/function here. Be sure to link alternative patterns if they exist %%
+
+%% Optional: add a segue to help the reader understand when this pattern might be more useful than the alternatives %%
 
 ---
 
-## Elements of <% tp.frontmatter.title %>
+## Pattern Documentation
 
-%% Introduce the tools, rules and practices used in this pattern here %%
+%% Document the Pattern here %%
 
-### <% tp.frontmatter.title %> Primitives
-
-```dataviewjs
-const ext = dv.pages('"tools/types"')
-    .where(t => t.extends === "primitive")
-    .map(t => t.file.name);
-
-dv.table(
-    ["Primitive", "Description"],
-    dv.pages()
-        .where(p => 
-            p.type && 
-            (p.type.includes("primitive") || ext.some(n => p.type.includes(n))) &&
-            dv.current().primitives && dv.current().primitives.includes(p.file.name) &&
-            !p.file.path.startsWith("tools/") && 
-            !p.file.path.startsWith("drafts/")
-        )
-        .sort(p => p.title, 'asc')
-        .map(p => [
-            `**[${p.title}](${p.file.path})**`,  
-            p.description
-        ])
-);
-```
-
----
-
-## <% tp.frontmatter.title %> Strategies
+### Strategies for using This Pattern
 
 %% Describe how this Pattern is used in strategies/playbooks here %%
 
@@ -66,3 +47,29 @@ AND (
     AND !contains(file.path, "drafts/")
 )
 ```
+
+### Primitives Used in This Pattern
+
+%% Add an overview of primitives used here %%
+
+%% Add a dataview query for related primitives here %%
+
+---
+
+## This Pattern in Practice
+
+%% Describe how this pattern is used / expressed in practice %%
+
+### Case Studies
+
+%% Add case studies here %%
+
+### Insights, Risks and Opportunities
+
+%% Analyze the case studies and share insights. Include considerations for risk management and highlight opportunities to leverage this pattern to produce impact (in the context of SuperBenefit's mission and the interests of its network peers). %%
+
+---
+
+## Resources, References, and Further Reading
+
+%% Add a list of references used in this pattern, further learning on the topic, tools and other helpful info here. %%

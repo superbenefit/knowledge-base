@@ -27,7 +27,7 @@ From a technical perspective, state will consist of a basket of attestations tha
 
 For example, a task or role contains the agreements about the nature of the task and agreement by the person or entity who is being assigned/accepting the task or role. For a Cell, the _state_ contains the shared agreements held by the core team and also commitments that the team makes to entities outside the Cell. And for a DAO the _state_ is defined by the community agreeing on how the DAO is to operate.
 
-#### Elements of Group State
+### Elements of Group State
 
 A simple articulation of this _state_ could be covered by the following categories:
 

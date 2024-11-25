@@ -9,7 +9,7 @@ This framework organizes the foundational concepts used in [[tags/daos|DAO]] des
 
 ---
 
-## Key Concepts: Understanding Your Organization's Journey
+## Key Concepts
 
 This framework helps you navigate the complexities of organizational development by considering your group's phase, scale, and state.  By understanding these three key aspects, you can make informed decisions about the tools, approaches, and structures that best suit your organization's needs.
 
@@ -91,6 +91,3 @@ To effectively leverage the Pattern Library, follow these steps:
 3.  **Review and Adapt:**  Carefully review the selected patterns to understand their underlying principles and implementation details.  Adapt the patterns to your specific context, ensuring they align with your group's goals and constraints.
 
 4.  **Implement and Iterate:**  Implement the chosen patterns and monitor their effectiveness.  Iterate on your implementation based on feedback and experience, refining your approach as needed.
-
-
-The Pattern Library is organized to facilitate this process, providing clear descriptions, examples, and guidance on implementation.  By following these steps, you can effectively leverage the Pattern Library to build robust and adaptable organizational systems.
