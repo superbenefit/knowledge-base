@@ -39,10 +39,9 @@ Unlike the Collaboration and Coordination Scales, which focus on smaller, more t
 * **Governance Frameworks:**  Clear governance frameworks are essential for guiding decision-making and ensuring accountability.
 * **Transparency and Communication:**  Transparency and open communication are crucial for maintaining trust and engagement.
 
-## Constituency Scale Patterns
+### Constituency Scale Patterns
 
-%% This query is busted af. Please replace with a better one if you can.  %%
-```
+```dataviewjs
 $= dv.list(
     dv.pages()
     .where(p => 
@@ -54,6 +53,27 @@ $= dv.list(
     .map(p => `[[${p.file.path}|${p.title}]]`)
 )
 ```
+
+### Constituency Scale Primitives
+
+```dataviewjs
+const ext = dv.pages('"tools/types"')
+  .where(t => t.file.frontmatter?.extends === "primitive")
+  .map(t => t.file.name);
+
+$= dv.list(
+  dv.pages()
+    .where(p =>
+      (p.type === "primitive" || (Array.isArray(p.type) && p.type.includes("primitive"))) &&
+      (p.scale && p.scale.some(s => s.includes("constituency"))) &&
+      (p.type.includes("primitive") || ext.some(n => p.type.toLowerCase().includes(n))) &&
+      !p.file.path.startsWith("tools/") &&
+      !p.file.path.startsWith("drafts/")
+    )
+    .map(p => `[[${p.file.path}|${p.title}]]`)
+);
+```
+
 
 ## Successful Constituency Scale Outcomes
 

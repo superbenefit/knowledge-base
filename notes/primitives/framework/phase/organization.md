@@ -36,18 +36,37 @@ The Organization Phase builds upon the [formation phase](notes/primitives/framew
 
 ### Organization Phase Patterns
 
-%% This query is busted af. Please replace with a better one if you can.  %%
-```
+```dataviewjs
 $= dv.list(
     dv.pages()
     .where(p => 
         (p.type === "pattern" || (Array.isArray(p.type) && p.type.includes("pattern"))) &&
-        (p.phase === "organization" || (Array.isArray(p.scale) && p.phase.includes("organization"))) &&
+        (p.phase === "organization" || (Array.isArray(p.phase) && p.phase.includes("organization"))) &&
         !p.file.path.startsWith("tools/") &&
         !p.file.path.startsWith("drafts/")
     )
     .map(p => `[[${p.file.path}|${p.title}]]`)
 )
+```
+
+### Organization Phase Primitives
+
+```dataviewjs
+const ext = dv.pages('"tools/types"')
+  .where(t => t.file.frontmatter?.extends === "primitive")
+  .map(t => t.file.name);
+
+$= dv.list(
+  dv.pages()
+    .where(p =>
+      (p.type === "primitive" || (Array.isArray(p.type) && p.type.includes("primitive"))) &&
+      (p.phase && p.phase.some(s => s.includes("organization"))) &&
+      (p.type.includes("primitive") || ext.some(n => p.type.includes(n))) &&
+      !p.file.path.startsWith("tools/") &&
+      !p.file.path.startsWith("drafts/")
+    )
+    .map(p => `[[${p.file.path}|${p.title}]]`)
+);
 ```
 
 ---

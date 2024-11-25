@@ -41,8 +41,7 @@ While the exact upper limit of group size is flexible, Coordination Scale groups
 
 ### Coordination Scale Patterns
 
-%% This query is busted af. Please replace with a better one if you can.  %%
-```
+```dataviewjs
 $= dv.list(
     dv.pages()
     .where(p => 
@@ -53,6 +52,26 @@ $= dv.list(
     )
     .map(p => `[[${p.file.path}|${p.title}]]`)
 )
+```
+
+### Coordination Scale Primitives
+
+```dataviewjs
+const ext = dv.pages('"tools/types"')
+  .where(t => t.file.frontmatter?.extends === "primitive")
+  .map(t => t.file.name);
+
+$= dv.list(
+  dv.pages()
+    .where(p =>
+      (p.type === "primitive" || (Array.isArray(p.type) && p.type.includes("primitive"))) &&
+      (p.scale && p.scale.some(s => s.includes("coordination"))) &&
+      (p.type.includes("primitive") || ext.some(n => p.type.toLowerCase().includes(n))) &&
+      !p.file.path.startsWith("tools/") &&
+      !p.file.path.startsWith("drafts/")
+    )
+    .map(p => `[[${p.file.path}|${p.title}]]`)
+);
 ```
 
 ---

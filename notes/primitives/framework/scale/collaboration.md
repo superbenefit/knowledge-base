@@ -30,15 +30,46 @@ The Collaboration Scale represents the smallest and most fundamental level of gr
 
 ## Tools and Practices for Collaboration Scale
 
-* **Face-to-face Meetings:**  Regular meetings allow for direct interaction and discussion.
-* **Collaborative Workspaces:**  Shared online platforms facilitate communication and collaboration.
-* **Communication Protocols:**  Clear communication protocols ensure that information is shared effectively.
-* **Decision-Making Processes:**  Simple and transparent decision-making processes are essential.
-* **Conflict Resolution Mechanisms:**  Mechanisms for resolving conflicts and disagreements are necessary.
 
-%% ### Collaboration Scale Patterns
 
-Add dataview queries for related patterns here. Repeat for primitives, etc. %%
+### Collaboration Scale Patterns
+
+
+
+```dataviewjs
+$= dv.list(
+    dv.pages()
+    .where(p => 
+        (p.type === "pattern" || (Array.isArray(p.type) && p.type.includes("pattern"))) &&
+        (p.scale === "collaboration" || (Array.isArray(p.scale) && p.scale.includes("collaboration"))) &&
+        !p.file.path.startsWith("tools/") &&
+        !p.file.path.startsWith("drafts/")
+    )
+    .map(p => `[[${p.file.path}|${p.title}]]`)
+)
+```
+
+### Collaboration Scale Primitives
+
+
+
+```dataviewjs
+const ext = dv.pages('"tools/types"')
+  .where(t => t.file.frontmatter?.extends === "primitive")
+  .map(t => t.file.name);
+
+$= dv.list(
+  dv.pages()
+    .where(p =>
+      (p.type === "primitive" || (Array.isArray(p.type) && p.type.includes("primitive"))) &&
+      (p.scale && p.scale.some(s => s.includes("collaboration"))) &&
+      (p.type.includes("primitive") || ext.some(n => p.type.toLowerCase().includes(n))) &&
+      !p.file.path.startsWith("tools/") &&
+      !p.file.path.startsWith("drafts/")
+    )
+    .map(p => `[[${p.file.path}|${p.title}]]`)
+);
+```
 
 ---
 
