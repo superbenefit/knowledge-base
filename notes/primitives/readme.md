@@ -1,4 +1,4 @@
-# Primitives Directory: Building Blocks for Effective Organization
+# Primitives Directory
 
 This directory documents fundamental building blocks for creating and managing effective organizations, whether they are onchain or offchain.  We use the term "primitives" to refer to these core components.  Just as recipes rely on basic ingredients, and cookbooks organize recipes, effective organizations are built from simple, reusable components.
 

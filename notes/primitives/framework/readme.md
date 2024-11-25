@@ -26,15 +26,9 @@ This framework offers a practical roadmap for building and managing effective or
 4.  **Maintaining Coordination:** Ensuring effective coordination as your organization evolves.
 
 
-## Example: Contextualizing Phase and Scale
+### Example: Contextualizing Phase and Scale
 
 A group in the *Conversation Phase* at a *Collaboration Scale* will have vastly different needs and priorities than a group in the *Organization Phase* at a *Network Scale*. This framework helps clarify these distinctions, guiding you towards the most effective strategies and tools.
-
-
-## Further Resources
-
-*   **Group Facilitation:**  [`group-facilitation.md`](group-facilitation.md) provides practical guidance for navigating group development.
-*   **Documentation Standards:**  Refer to [`/tools/types/`](../tools/types/) for contribution guidelines.
 
 ---
 
