@@ -4,7 +4,11 @@ title: Group Facilitation Guide
 author: 
 tags: 
 description: ""
-publish: "true"
+publish: "false"
+---
+
+**This document is a work in progress. It's just an outline for now. Feel free to work on it.**
+
 ---
 
 **I. Introduction**

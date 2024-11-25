@@ -1,35 +1,27 @@
-# Dataview
+This repository uses Dataview, a powerful query engine for Obsidian, to create dynamic views and analyze information across notes.  Unlike basic linking, Dataview allows for complex data relationships, filtering, and aggregation.  Within this repository, Dataview is used extensively to:
 
-A database-like tool for making advanced queries in Obsidian that enables powerful data organization, filtering, and visualization across your vault.
+*   **Index and Query Metadata:**  Dataview indexes metadata from YAML frontmatter and inline fields, enabling sophisticated queries to retrieve and organize information.  This includes automatic indexing of tags, bullet points, and tasks.
 
-[dataview-metadata](attachments/dataview-metadata.md)
-[dataview-queries](attachments/dataview-queries.md)
-[dataviewjs-reference](attachments/dataviewjs-reference.md)
+*   **Create Dynamic Views:**  Dataview generates dynamic views of data, such as tables and lists, that automatically update as the underlying notes change.  This allows for the creation of interactive dashboards and summaries of information.
 
-Dataview transforms your Obsidian vault into a queryable knowledge base, allowing you to create dynamic views, track information across notes, and build complex data relationships. It acts as both a metadata index and a query engine, making it possible to surface and organize information in ways that basic linking can't achieve.
+*   **Aggregate and Analyze Data:**  Dataview facilitates data aggregation and analysis across multiple notes, enabling the tracking of information, identification of trends, and the creation of insightful summaries.
 
-![](https://youtu.be/JTObSymEvWA)
+*   **Leverage the Dataview Query Language (DQL):**  This repository utilizes DQL for creating complex queries, filtering data, sorting results, and grouping information.  This allows for highly customized views and analyses.
 
-Dataview can be complicated to use, and requires a bit of learning. Check out the [official documentation](https://blacksmithgu.github.io/obsidian-dataview/) before attempting to build or work with queries in this vault.
+*   **Utilize Inline Statements and JavaScript Queries:**  In addition to DQL, inline statements and JavaScript queries are employed for more flexible and customized data manipulation and display.
+
+This documentation provides examples and best practices for using Dataview within this specific repository.  For a comprehensive understanding of Dataview's capabilities, refer to the [official documentation](https://blacksmithgu.github.io/obsidian-dataview/).  This repository's use of Dataview is documented in detail in the following files:
+
+*   [Metadata](attachments/dataview-metadata.md):  Explains how to add metadata to your notes for querying.
+*   [Queries](attachments/dataview-queries.md):  Provides examples of Dataview Query Language (DQL) and other query methods.
+*   [JavaScript API](attachments/dataviewjs-reference.md):  Details the JavaScript API for advanced customization.
 
 ---
 
-# Dataview Overview
-
-Dataview is a live index and query engine for personal knowledge bases. It enables metadata querying, filtering, sorting and grouping of notes through the Dataview Query Language.
-
-## Key Capabilities
-
-- Track and aggregate data from daily notes
-- Automatically collect and sort tagged content
-- Find pages by date associations
-- Identify untagged pages for followup
-- Create dynamic views of events and data
-- Scale to hundreds of thousands of notes
-- Run custom JavaScript against the Dataview API
-
 ## Important Note: Display vs Editing
 Dataview is focused on displaying and calculating data, not editing notes/metadata (with the exception of task completion).
+
+---
 
 ## Core Components
 
@@ -89,24 +81,7 @@ Basic components:
 - Optional FROM statement
 - Optional Data Commands
 
-Simple example:
-```dataview
-LIST
-```
-
-More complex example:
-```dataview
-TABLE author, published, file.inlinks AS "Mentions"
-FROM #poems
-```
-
-#### Data Operations
-
-Queries can perform calculations without modifying source data:
-```dataview
-TABLE author, date(now).year - published AS "Age in Yrs", length(file.inlinks) AS "Counts of Mentions"
-FROM #poems
-```
+---
 
 ## Best Practices
 

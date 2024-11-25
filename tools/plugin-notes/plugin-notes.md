@@ -59,4 +59,4 @@ We use templater to populate dynamic content within this vault.
 
 ### Metadata Menu
 We use Metadata Menu to standardize file metadata across the vault
-![](tools/plugin-notes/metadata-menu.md)
+![](tools/plugin-notes/metadata-menu/metadata-menu.md)
