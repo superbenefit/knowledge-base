@@ -29,7 +29,7 @@
   "enableFileExplorer": true,
   "enableSearch": true,
   "enableProperties": true,
-  "tableViewMaxRecords": 50,
+  "tableViewMaxRecords": 40,
   "frontmatterListDisplay": "asList",
   "fileClassExcludedFolders": [],
   "showIndexingStatusInStatusBar": true,

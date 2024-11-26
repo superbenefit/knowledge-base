@@ -18,11 +18,11 @@
       "name": ""
     },
     "otherRepo": [],
-    "verifiedRepo": false,
-    "rateLimit": 5000
+    "verifiedRepo": true,
+    "rateLimit": 4941
   },
   "upload": {
-    "behavior": "fixed",
+    "behavior": "obsidian",
     "defaultName": "content",
     "rootFolder": "",
     "yamlFolderKey": "",
@@ -38,7 +38,7 @@
       "excluded": []
     },
     "folderNote": {
-      "enable": false,
+      "enable": true,
       "rename": "index.md",
       "addTitle": {
         "enable": false,
@@ -63,7 +63,7 @@
       "internal": true,
       "unshared": false,
       "wiki": true,
-      "slugify": "lower",
+      "slugify": "disable",
       "unlink": true
     }
   },
@@ -108,5 +108,5 @@
     "setFrontmatterKey": "Set",
     "migrated": true
   },
-  "tabsId": "plugin-settings"
+  "tabsId": "text-conversion"
 }

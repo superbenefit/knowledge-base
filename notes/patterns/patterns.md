@@ -63,7 +63,7 @@ To effectively use this library, start by identifying the specific organizationa
 
 ## Pattern Index
 
-```
+```dataviewjs
 $= dv.list(
     dv.pages()
     .where(p => 

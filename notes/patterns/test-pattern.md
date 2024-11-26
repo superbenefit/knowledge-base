@@ -6,8 +6,7 @@ tags:
   - patterns
 publish: "false"
 type: pattern
-primitives:
-  - test-primitive
+primitives: test-primitive
 scale:
   - collaboration
   - constituency
