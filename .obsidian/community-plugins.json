@@ -7,5 +7,6 @@
   "templater-obsidian",
   "auto-template-trigger",
   "khoj",
-  "waypoint"
+  "waypoint",
+  "github-sync"
 ]
