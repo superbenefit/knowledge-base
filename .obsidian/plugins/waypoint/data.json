@@ -1,7 +1,7 @@
 {
   "waypointFlag": "%% Waypoint %%",
   "landmarkFlag": "%% Landmark %%",
-  "stopScanAtFolderNotes": false,
+  "stopScanAtFolderNotes": true,
   "showFolderNotes": false,
   "showNonMarkdownFiles": true,
   "debugLogging": false,
@@ -11,7 +11,9 @@
   "folderNoteType": "INSIDE_FOLDER",
   "ignorePaths": [
     "_attachments",
-    "_tools"
+    "_tools",
+    "_drafts",
+    ".readme"
   ],
   "useSpaces": true,
   "numSpaces": 2

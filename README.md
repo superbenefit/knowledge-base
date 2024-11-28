@@ -2,9 +2,6 @@
 
 A local-first markdown vault for collaborative knowledge management and collective sensemaking. This repository serves both as a collaborative workspace and a public knowledge garden, enabling us to develop and share knowledge in ways that respect both individual thought processes and collective understanding.
 
-> [!IMPORTANT]
-> Much of this documentation is machine-generated, and may not be all that useful or accurate. 
-
 ## Repository Overview
 
 This repo is a collection of [Markdown](https://www.markdownguide.org/) files, organized using [Obsidian](https://obsidian.md/) and published with [Quartz](https://quartz.jzhao.xyz/). The primary markdown syntax used is [CommonMark](https://commonmark.org/), with some added flavor for [Obsidian](https://help.obsidian.md/Editing+and+formatting/Obsidian+Flavored+Markdown) and [GitHub](https://help.obsidian.md/Editing+and+formatting/Obsidian+Flavored+Markdown).

@@ -1,6 +1,10 @@
+*Part of the DAO Primitives Framework - Building better organizations through proven patterns*
+
 # Patterns Directory
 
-Welcome to the patterns directory, your practical guide to implementing organizational patterns. While our [main patterns index](notes/patterns/patterns.md) explores the theory and relationships between patterns, this guide focuses on how to use, document, and contribute to our pattern library.
+This directory provides a practical guide to implementing organizational patterns. While our [main patterns index](notes/patterns/patterns.md) explores the theoretical underpinnings and relationships between patterns, this README focuses on how to use, document, and contribute to our pattern library.
+
+---
 
 ## Getting Started
 
@@ -8,13 +12,15 @@ Patterns bridge the gap between theory and practice in organizational design. Ea
 
 ### Finding the Right Pattern
 
-Start by identifying your current needs:
-1. Browse the patterns directory for solutions that match your challenge
-2. Check the scale and phase annotations to ensure fit
-3. Review the implementation examples and case studies
-4. Consider how the pattern might interact with your existing practices
+To find the patterns most relevant to your needs, follow these steps:
 
-Our pattern collection grows through community contribution and refinement. Each pattern documents not just what works, but why it works and how it can be adapted to different contexts.
+1. **Identify Your Challenge:** Clearly define the specific organizational problem you're trying to solve.
+2. **Browse the Directory:** Explore the patterns directory, looking for solutions that address your challenge.
+3. **Check Annotations:** Pay attention to the `scale` and `phase` annotations to ensure the pattern is appropriate for your organization's size and stage of development.
+4. **Review Examples and Case Studies:** Examine the implementation examples and case studies provided to understand how the pattern has been successfully applied in different contexts.
+5. **Consider Interactions:**  Think about how the pattern might interact with your existing organizational practices and structures.
+
+---
 
 ## Contributing
 
@@ -39,16 +45,6 @@ primitives: List of primitives this pattern uses
 
 Document your pattern with clear examples, implementation guidance, and real-world cases. Once your draft is ready, submit it for community review.
 
-## Questions and Support
-
-Join our community channels for help with:
-- Pattern selection and implementation
-- Documentation and contribution
-- Specific organizational challenges
-- Pattern adaptation and evolution
-
-For deeper exploration of pattern theory and relationships, visit our [pattern index](notes/patterns/patterns.md) in the knowledge garden.
-
 ---
 
-*Part of the DAO Primitives Framework - Building better organizations through proven patterns*
+For deeper exploration of pattern theory and relationships, visit our [pattern index](notes/patterns/patterns.md) in the knowledge garden.

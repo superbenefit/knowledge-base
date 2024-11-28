@@ -14,12 +14,12 @@
       "hostname": ""
     },
     "workflow": {
-      "commitMessage": "[PUBLISHER] Merge",
+      "commitMessage": "[BASE] Merge",
       "name": ""
     },
     "otherRepo": [],
-    "verifiedRepo": false,
-    "rateLimit": 0
+    "verifiedRepo": true,
+    "rateLimit": 4941
   },
   "upload": {
     "behavior": "fixed",
@@ -34,7 +34,7 @@
     "replacePath": [],
     "autoclean": {
       "includeAttachments": true,
-      "enable": false,
+      "enable": true,
       "excluded": []
     },
     "folderNote": {
@@ -54,33 +54,44 @@
     "tags": {
       "inline": false,
       "exclude": [],
-      "fields": []
+      "fields": [
+        "functions",
+        "qualities"
+      ]
     },
     "links": {
-      "internal": false,
+      "internal": true,
       "unshared": false,
-      "wiki": false,
+      "wiki": true,
       "slugify": "disable",
-      "unlink": false
+      "unlink": true
     }
   },
   "embed": {
     "attachments": true,
     "overrideAttachments": [],
     "keySendFile": [],
-    "notes": false,
-    "folder": "",
+    "notes": true,
+    "folder": "attachments",
     "convertEmbedToLinks": "keep",
     "charConvert": "->",
     "unHandledObsidianExt": [],
     "sendSimpleLinks": true,
-    "forcePush": true
+    "forcePush": false,
+    "useObsidianFolder": false,
+    "bake": {
+      "textBefore": "",
+      "textAfter": ""
+    }
   },
   "plugin": {
-    "shareKey": "share",
-    "fileMenu": false,
+    "shareKey": "publish",
+    "fileMenu": true,
     "editorMenu": false,
-    "excludedFolder": [],
+    "excludedFolder": [
+      "_drafts",
+      "_tools"
+    ],
     "copyLink": {
       "enable": false,
       "links": "",
@@ -93,8 +104,9 @@
       }
     },
     "noticeError": false,
-    "displayModalRepoEditing": false,
+    "displayModalRepoEditing": true,
     "setFrontmatterKey": "Set",
     "migrated": true
-  }
+  },
+  "tabsId": "text-conversion"
 }

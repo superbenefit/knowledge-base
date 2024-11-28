@@ -51,12 +51,12 @@ These community plugins are required for the functionality of various features i
 
 ### Dataview
 We use dataview to query this vault's contents for creating custom views.
-![](tools/plugin-notes/dataview.md)
+![](tools/plugin-notes/dataview/dataview.md)
 
 ### Templater
 We use templater to populate dynamic content within this vault. 
-![](tools/plugin-notes/templater.md)
+![](tools/plugin-notes/templater/templater.md)
 
 ### Metadata Menu
 We use Metadata Menu to standardize file metadata across the vault
-![](tools/plugin-notes/metadata-menu.md)
+![](tools/plugin-notes/metadata-menu/metadata-menu.md)

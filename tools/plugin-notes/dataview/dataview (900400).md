@@ -1,6 +1,7 @@
 ---
 title: 
 description: 
-publish: false
-type: 
+publish: "false"
+type: index
 ---
+

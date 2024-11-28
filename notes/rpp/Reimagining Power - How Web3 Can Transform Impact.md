@@ -2,7 +2,7 @@
 title: Reimagining Power - How Web3 Can Transform Impact
 tags: impact
 description: ""
-publish: "true"
+publish: "false"
 ---
 
 Intro coming soon.. ^5b4dff

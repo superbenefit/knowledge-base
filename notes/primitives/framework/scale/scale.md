@@ -1,33 +1,32 @@
 ---
 title: Group Scale
-description: ""
+tags: 
+aliases: []
+description: "A framework outlining the four key scales of group organization, tailored for DAO contexts."
 publish: "true"
 ---
 
-**Group Scale** is a [group property](tags/groups/index.md#^6009b0) referring to the relative size of an group's active membership, and is an important factor in the selection of [primitives](tags/primitives.md). ^624978
+Human systems function differently at different scales. Understanding these differences is crucial for designing organizational systems that function effectively, regardless of size. This framework identifies four key scales of group organization, each with its own characteristics, challenges, and best practices:
+
+- [Collaboration Scale](./collaboration.md)
+- [Coordination Scale](./coordination.md)
+- [Constituency Scale](./constituency.md)
+- [Network Scale](./network.md)
 
 ---
 
-Human groups function in fundamentally different ways at different scales. When we design systems for groups to work together. The scale at which this happens is critical to how a particular group pattern will function.
+## Collaboration Scale
 
-Any frameworks we draw from to design human systems needs to account for scale to have any chance of success. 
+The [collaboration scale](notes/primitives/framework/scale/collaboration.md) represents the smallest and most fundamental level of group organization. It is characterized by direct, face-to-face interaction among a small number of individuals (generally under 10) working together towards a shared goal.  Effective collaboration at this scale relies on strong interpersonal relationships, clear communication, and shared understanding. 
 
-![[attachments/group-scale (2).png]]
+## Coordination Scale
 
-We use the above group scale model to inform how we combine the different primitives. It is based on modern organisational/anthropological models but very simplified to be easy to apply. It maps 3 basic group scales:
+The [coordination scale](notes/primitives/framework/scale/coordination.md) involves multiple teams or smaller groups working together towards a shared goal, requiring more sophisticated coordination mechanisms and communication strategies.  This scale typically ranges from 10 to 100 individuals, although this can vary depending on the complexity of the task and the effectiveness of coordination mechanisms.  
 
-- **[Collaboration Scale](tags/groups/scale/Collaboration%20Scale.md)**
-- **[Coordination Scale](tags/groups/scale/Coordination%20Scale.md)**
-- **[Constituency Scale](tags/groups/scale/Constituency%20Scale.md)**
+## Constituency Scale
 
-> [!NOTE]
-> _It is important to note the size listed for the different scales is an upper limit but not a lower limit. For example, trying to collaborate at numbers greater than 10 is generally impossible, however it is possible for a small team of less than 10 people to operate in coordination or constituency scale governance structures._
+The [constituency scale](notes/primitives/framework/scale/constituency.md) encompasses a large and diverse group of stakeholders who share a common interest or benefit from the organization's activities.  Unlike smaller scales, this scale emphasizes participation, representation, and collective decision-making across a wider community.  
 
-![[attachments/group-scales.png]]
+## Network Scale
 
-
-
-
-
-
-
+The [network scale](notes/primitives/framework/scale/network.md) represents the largest and most complex level of group organization, encompassing a system of interconnected organizations or groups working together towards shared or complementary goals. This scale is characterized by high levels of interdependence, complex communication flows, and the need for robust mechanisms for coordination and governance across multiple entities. 
