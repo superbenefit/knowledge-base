@@ -10,11 +10,12 @@ extends:
 savedViews: []
 favoriteView: 
 fieldsOrder:
+  - ypTk3j
   - dEXTlc
   - 8QLYWX
   - 9zPLbb
   - 5SD9jH
-version: "2.50"
+version: "2.51"
 fields:
   - name: scale
     type: Multi
@@ -60,4 +61,30 @@ fields:
             .map(p => p.file.name);
     path: ""
     id: 8QLYWX
+  - name: primitives
+    type: Multi
+    options:
+      sourceType: ValuesFromDVQuery
+      valuesList: {}
+      valuesFromDVQuery: |-
+        const ext = dv.pages('"tools/types"')
+            .where(t => t.extends === "primitive")
+            .map(t => t.file.name);
+
+        dv.table(
+            ["Primitive", "Description"],
+            dv.pages()
+                .where(p => 
+                    p.type && 
+                    (p.type.includes("primitive") || ext.some(n => p.type.includes(n))) &&
+                    !p.file.path.startsWith("tools/") && 
+                    !p.file.path.startsWith("drafts/")
+                )
+                .sort(p => p.title, 'asc')
+                .map(p => [
+                    `**[${p.title}](${p.file.path})**`
+                ])
+        );
+    path: ""
+    id: ypTk3j
 ---

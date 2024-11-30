@@ -35,6 +35,28 @@ primitives:
 
 %% Document the Pattern here %%
 
+### Mechanism
+
+%% Describe how the pattern works %%
+
+### Affordances
+
+%% Describe affordances here %%
+
+### Insights, Risks and Opportunities
+
+%% Analyze the case studies and share insights. Include considerations for risk management and highlight opportunities to leverage this pattern to produce impact (in the context of SuperBenefit's mission and the interests of its network peers). %%
+
+---
+
+## This Pattern in Practice
+
+%% Describe how this pattern is used / expressed in practice %%
+
+### Case Studies
+
+%% Add case studies here %%
+
 ### Strategies for using This Pattern
 
 %% Describe how this Pattern is used in strategies/playbooks here %%
@@ -53,20 +75,6 @@ AND (
 %% Add an overview of primitives used here %%
 
 %% Add a dataview query for related primitives here %%
-
----
-
-## This Pattern in Practice
-
-%% Describe how this pattern is used / expressed in practice %%
-
-### Case Studies
-
-%% Add case studies here %%
-
-### Insights, Risks and Opportunities
-
-%% Analyze the case studies and share insights. Include considerations for risk management and highlight opportunities to leverage this pattern to produce impact (in the context of SuperBenefit's mission and the interests of its network peers). %%
 
 ---
 

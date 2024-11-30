@@ -34,7 +34,29 @@ This pattern is a test
 %% Add your content here %%
 
 ---
+test:
+```dataviewjs
+const ext = dv.pages('"tools/types"')
+    .where(t => t.extends === "primitive")
+    .map(t => t.file.name);
 
+dv.table(
+    ["Primitive", "Description"],
+    dv.pages()
+        .where(p => 
+            p.type && 
+            (p.type.includes("primitive") || ext.some(n => p.type.includes(n))) &&
+            !p.file.path.startsWith("tools/") && 
+            !p.file.path.startsWith("drafts/")
+        )
+        .sort(p => p.title, 'asc')
+        .map(p => [
+            `**[${p.title}](${p.file.path})**`
+        ])
+);
+```
+
+---
 ## Elements of Test Pattern
 
 %% Introduce the tools, rules and practices used in this pattern here %%
