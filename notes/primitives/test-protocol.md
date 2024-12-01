@@ -5,7 +5,7 @@ description: This is a test protocol
 harvester: 
 curator: 
 publish: "false"
-type: primitive, protocol
+type: protocol
 scale:
   - collaboration
   - constituency

@@ -1,7 +1,7 @@
 {
   "folderSpecificTemplates": [
     {
-      "folderPath": "notes",
+      "folderPath": "/",
       "templateName": "Note Template"
     },
     {
@@ -13,7 +13,7 @@
       "templateName": "Link Template"
     },
     {
-      "folderPath": "notes/primitives/patterns",
+      "folderPath": "notes/patterns",
       "templateName": "Pattern Template"
     },
     {
@@ -21,8 +21,12 @@
       "templateName": "Primitive Template"
     },
     {
-      "folderPath": "drafts",
-      "templateName": "Note Template"
+      "folderPath": "notes/playbooks",
+      "templateName": "Playbook Template"
+    },
+    {
+      "folderPath": "notes/studies",
+      "templateName": "Study Template"
     }
   ]
 }

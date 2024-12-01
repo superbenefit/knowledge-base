@@ -5,7 +5,7 @@ description: This is a test practice
 harvester: 
 curator: 
 publish: "false"
-type: primitive, practice
+type: practice
 scale:
   - collaboration
   - constituency

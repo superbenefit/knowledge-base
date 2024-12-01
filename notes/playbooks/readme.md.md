@@ -8,7 +8,7 @@ This directory contains in-progress work on playbooks—actionable guides that c
 A playbook is a living document that provides step-by-step guidance for achieving specific organizational goals.  Unlike static documentation, playbooks are designed to evolve and adapt as organizations learn and grow.  They bring together technical details, governance frameworks, and community insights into clear, actionable steps.
 
 
-## Playbook Structure and Content
+### Playbook Structure and Content
 
 Each playbook in this directory follows a consistent structure, typically including:
 
@@ -20,16 +20,64 @@ Each playbook in this directory follows a consistent structure, typically includ
 * **Community Input:**  Feedback and contributions from the community.
 * **Appendix:**  Additional resources, templates, or supplementary materials.
 
+---
+
+##  Using the Playbook Library
+
+### Querying Playbooks
+
+Playbooks can be queried in a dataview query like this:
+```
+LIST description
+WHERE 
+    type AND
+    (
+        contains(type, "playbook") OR
+        (type = "playbook")
+    ) AND
+    !contains(file.path, "tools/") AND
+    !contains(file.path, "drafts/")
+```
+
+An example of this pattern in a dataviewjs query would be:
+```
+dv.list(
+    dv.pages()
+        .where(p => 
+            (Array.isArray(p.type) 
+                ? p.type.some(t => t.includes("playbook")) 
+                : p.type?.includes("playbook")) &&
+            !p.file.path.includes("tools/") &&
+            !p.file.path.includes("drafts/")
+        )
+        .map(p => p.file.name)
+);
+```
+
+%% Here is the bare query for fileclass field values:
+```javascript
+dv.pages()
+    .where(p => 
+        (Array.isArray(p.type) ? p.type.some(t => t.includes("playbook")) : p.type?.includes("playbook")) &&
+        !p.file.path.includes("tools/") &&
+        !p.file.path.includes("drafts/")
+    )
+    .map(p => p.file.name);
+```
+ %%
+
+---
 
 ## Contributing to the Playbook Library
 
-We welcome contributions that help our playbook library grow and evolve.  If you have experience implementing a successful strategy or solution, consider documenting it as a playbook.  To contribute:
+We welcome contributions that help our playbooks grow and evolve.  If you have experience implementing a successful strategy or solution, consider documenting it as a playbook.  To contribute:
 
 1. **Create a Draft:** Start by creating a new file in the `/drafts/` directory.
 2. **Follow the Template:** Use the appropriate template from `/tools/templates/` to ensure consistency.
 3. **Document Thoroughly:**  Provide clear, step-by-step instructions, implementation details, and relevant examples.
 4. **Submit for Review:** Once your draft is complete, submit it for community review and feedback.
 
+---
 
 ## Getting Support and Asking Questions
 
@@ -40,7 +88,3 @@ Join our community channels for assistance with:
 * Addressing specific organizational challenges
 * Adapting and evolving existing playbooks
 
-
----
-
-*Part of the DAO Primitives Framework—Building better organizations through proven playbooks*

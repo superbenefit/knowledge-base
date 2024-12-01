@@ -60,18 +60,3 @@ To effectively use this library, start by identifying the specific organizationa
 * **Phase of development:** What stage of development is your organization in?
 * **Specific challenges:** What are the precise problems you're trying to solve?
 * **Context:** What are the cultural and technical aspects of your environment?
-
-## Pattern Index
-
-```dataviewjs
-$= dv.list(
-    dv.pages()
-    .where(p => 
-        (p.type === "pattern" || (Array.isArray(p.type) && p.type.includes("pattern"))) &&
-        !p.file.path.startsWith("tools/") &&
-        !p.file.path.startsWith("drafts/") &&
-        p.publish === true
-    )
-.map(p => `[[${p.file.path}|${p.title}]]`)
-)
-```
