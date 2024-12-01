@@ -20,6 +20,48 @@ To find the patterns most relevant to your needs, follow these steps:
 4. **Review Examples and Case Studies:** Examine the implementation examples and case studies provided to understand how the pattern has been successfully applied in different contexts.
 5. **Consider Interactions:**  Think about how the pattern might interact with your existing organizational practices and structures.
 
+### Querying Patterns
+
+Patterns can be queried in a dataview query like this:
+``` 
+LIST description
+WHERE 
+    type AND
+    (
+        contains(type, "pattern") OR
+        (type = "pattern")
+    ) AND
+    !contains(file.path, "tools/") AND
+    !contains(file.path, "drafts/")
+```
+
+An example of this pattern in a dataviewjs query would be:
+```
+dv.list(
+    dv.pages()
+        .where(p => 
+            (Array.isArray(p.type) 
+                ? p.type.some(t => t.includes("pattern")) 
+                : p.type?.includes("pattern")) &&
+            !p.file.path.includes("tools/") &&
+            !p.file.path.includes("drafts/")
+        )
+        .map(p => p.file.name)
+);
+```
+
+%% 
+Here is the bare query for fileclass field values:
+```javascript
+dv.pages()
+    .where(p => 
+        (Array.isArray(p.type) ? p.type.some(t => t.includes("pattern")) : p.type?.includes("pattern")) &&
+        !p.file.path.includes("tools/") &&
+        !p.file.path.includes("drafts/")
+    )
+    .map(p => p.file.name);
+```
+ %%
 ---
 
 ## Contributing

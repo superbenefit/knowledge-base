@@ -48,25 +48,62 @@ For example:  Role rotation mechanisms combined with weighted voting can enable 
 
 ### Querying Primitives
 
-Primitives in this vault can be queried with [dataview](tools/plugin-notes/dataview/dataview.md). Since Primitives are an extended fileclass, a special dataviewjs query is needed to future-proof queries for file with type::primitive in their frontmatter:
+Primitives can be queried using dataviewjs queries. Because the Primitive fileclass is extended (into practices, protocols, modules, etc.), regular dataview queries aren't suitable. We need to check the frontmatter of several fileclass notes to find the current list of primitive type extensions, which can only be done with dataviewjs.
 
-```dataviewjs
-const ext = dv.pages('"tools/types"')
-    .where(t => t.extends === "primitive")
-    .map(t => t.file.name);
-
+An example of this pattern in a dataviewjs query would be:
+```
 dv.list(
     dv.pages()
         .where(p => 
-            p.type && 
-            (p.type.includes("primitive") || ext.some(n => p.type.includes(n))) &&
-            !p.file.path.startsWith("tools/") && 
+            p.type &&
+            (
+                Array.isArray(p.type)
+                    ? p.type.includes("primitive") ||
+                      p.type.some(t => 
+                          dv.pages('"tools/types"')
+                              .where(t => t.extends === "primitive")
+                              .map(t => t.file.name)
+                              .includes(t)
+                      )
+                    : p.type === "primitive" ||
+                      dv.pages('"tools/types"')
+                          .where(t => t.extends === "primitive")
+                          .map(t => t.file.name)
+                          .includes(p.type)
+            ) &&
+            !p.file.path.startsWith("tools/") &&
             !p.file.path.startsWith("drafts/")
         )
         .map(p => p.file.name)
 );
-``` 
+```
 
+%%  Here is the bare query for fileclass field values:
+```javascript
+dv.pages()
+    .where(p => 
+        p.type &&
+        (
+            Array.isArray(p.type)
+                ? p.type.includes("primitive") ||
+                  p.type.some(t => 
+                      dv.pages('"tools/types"')
+                          .where(t => t.extends === "primitive")
+                          .map(t => t.file.name)
+                          .includes(t)
+                  )
+                : p.type === "primitive" ||
+                  dv.pages('"tools/types"')
+                      .where(t => t.extends === "primitive")
+                      .map(t => t.file.name)
+                      .includes(p.type)
+        ) &&
+        !p.file.path.startsWith("tools/") &&
+        !p.file.path.startsWith("drafts/")
+    )
+    .map(p => p.file.name);
+```
+ %%
 ---
 
 ## Project Navigation
