@@ -46,6 +46,27 @@ When documenting a new primitive, start by creating a draft in the `/drafts/` di
 
 For example:  Role rotation mechanisms combined with weighted voting can enable more equitable and efficient decision-making in a decentralized setting.  The framework helps determine when these combinations are most effective.
 
+### Querying Primitives
+
+Primitives in this vault can be queried with [dataview](tools/plugin-notes/dataview/dataview.md). Since Primitives are an extended fileclass, a special dataviewjs query is needed to future-proof queries for file with type::primitive in their frontmatter:
+
+```dataviewjs
+const ext = dv.pages('"tools/types"')
+    .where(t => t.extends === "primitive")
+    .map(t => t.file.name);
+
+dv.list(
+    dv.pages()
+        .where(p => 
+            p.type && 
+            (p.type.includes("primitive") || ext.some(n => p.type.includes(n))) &&
+            !p.file.path.startsWith("tools/") && 
+            !p.file.path.startsWith("drafts/")
+        )
+        .map(p => p.file.name)
+);
+``` 
+
 ---
 
 ## Project Navigation

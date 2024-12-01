@@ -34,14 +34,17 @@ To effectively use this library, start by identifying the specific organizationa
 * **Methods and Approaches:** What strategies and techniques were employed?
 * **Outcomes and Results:** What were the successes and challenges encountered?
 
-
----
-
-## Case Study Index
+### Querying Case Studies
 
 ```dataviewjs
-$= dv.list( dv.pages()
-  .where(p => p.type === "study" && !p.file.path.startsWith("tools/") && !p.file.path.startsWith("drafts/") && p.publish === true)
-  .map(p => `[[${p.file.path}|${p.title}]]`)
-)
+dv.list(
+    dv.pages()
+        .where(p => 
+            p.type?.includes("study") &&
+            !p.file.path.includes("tools/") &&
+            !p.file.path.includes("drafts/")
+        )
+        .map(p => p.file.name)
+);
 ```
+

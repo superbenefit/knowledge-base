@@ -56,6 +56,23 @@ dv.table(
 );
 ```
 
+--
+
+```dataviewjs
+const ext = dv.pages('"tools/types"')
+    .where(t => t.extends === "primitive")
+    .map(t => t.file.name);
+
+dv.pages()
+    .where(p => 
+        p.type && 
+        (p.type.includes("primitive") || ext.some(n => p.type.includes(n))) &&
+        !p.file.path.startsWith("tools/") && 
+        !p.file.path.startsWith("drafts/")
+    )
+    .map(p => p.file.name);
+```
+
 ---
 ## Elements of Test Pattern
 

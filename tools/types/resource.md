@@ -18,7 +18,7 @@ fieldsOrder:
   - 8QLYWX
   - 9zPLbb
   - 5SD9jH
-version: "2.56"
+version: "2.72"
 fields:
   - name: scale
     type: Multi
@@ -70,24 +70,28 @@ fields:
       sourceType: ValuesFromDVQuery
       valuesList: {}
       valuesFromDVQuery: |-
-        const ext = dv.pages('"tools/types"')
-            .where(t => t.extends === "primitive")
-            .map(t => t.file.name);
-
-        dv.table(
-            ["Primitive", "Description"],
-            dv.pages()
-                .where(p => 
-                    p.type && 
-                    (p.type.includes("primitive") || ext.some(n => p.type.includes(n))) &&
-                    !p.file.path.startsWith("tools/") && 
-                    !p.file.path.startsWith("drafts/")
-                )
-                .sort(p => p.title, 'asc')
-                .map(p => [
-                    `**[${p.title}](${p.file.path})**`
-                ])
-        );
+        dv.pages()
+            .where(p => 
+                p.type &&
+                (
+                    Array.isArray(p.type)
+                        ? p.type.includes("primitive") ||
+                          p.type.some(t => 
+                              dv.pages('"tools/types"')
+                                  .where(t => t.extends === "primitive")
+                                  .map(t => t.file.name)
+                                  .includes(t)
+                          )
+                        : p.type === "primitive" ||
+                          dv.pages('"tools/types"')
+                              .where(t => t.extends === "primitive")
+                              .map(t => t.file.name)
+                              .includes(p.type)
+                ) &&
+                !p.file.path.startsWith("tools/") &&
+                !p.file.path.startsWith("drafts/")
+            )
+            .map(p => p.file.name);
     path: ""
     id: ypTk3j
   - name: patterns
@@ -96,10 +100,13 @@ fields:
       sourceType: ValuesFromDVQuery
       valuesList: {}
       valuesFromDVQuery: |-
-        LIST file.name
-        WHERE contains(type, "pattern")
-        AND !contains(file.path, "tools/")
-        AND !contains(file.path, "drafts/")
+        dv.pages()
+            .where(p => 
+                (Array.isArray(p.type) ? p.type.some(t => t.includes("pattern")) : p.type?.includes("pattern")) &&
+                !p.file.path.includes("tools/") &&
+                !p.file.path.includes("drafts/")
+            )
+            .map(p => p.file.name);
     path: ""
     id: bDuOpX
   - name: playbooks
@@ -108,10 +115,13 @@ fields:
       sourceType: ValuesFromDVQuery
       valuesList: {}
       valuesFromDVQuery: |-
-        LIST file.name
-        WHERE contains(type, "playbook")
-        AND !contains(file.path, "tools/")
-        AND !contains(file.path, "drafts/")
+        dv.pages()
+            .where(p => 
+                (Array.isArray(p.type) ? p.type.some(t => t.includes("playbook")) : p.type?.includes("playbook")) &&
+                !p.file.path.includes("tools/") &&
+                !p.file.path.includes("drafts/")
+            )
+            .map(p => p.file.name);
     path: ""
     id: FAfyBY
   - name: studies
@@ -120,10 +130,13 @@ fields:
       sourceType: ValuesFromDVQuery
       valuesList: {}
       valuesFromDVQuery: |-
-        LIST file.name
-        WHERE contains(type, "study")
-        AND !contains(file.path, "tools/")
-        AND !contains(file.path, "drafts/")
+        dv.pages()
+            .where(p => 
+                (Array.isArray(p.type) ? p.type.some(t => t.includes("study")) : p.type?.includes("study")) &&
+                !p.file.path.includes("tools/") &&
+                !p.file.path.includes("drafts/")
+            )
+            .map(p => p.file.name);
     path: ""
     id: pf7xkF
 ---

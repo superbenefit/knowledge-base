@@ -61,6 +61,20 @@ To effectively use this library, start by identifying the specific organizationa
 * **Specific challenges:** What are the precise problems you're trying to solve?
 * **Context:** What are the cultural and technical aspects of your environment?
 
+### Querying Patterns
+
+```dataviewjs
+dv.list(
+    dv.pages()
+        .where(p => 
+            p.type?.includes("pattern") &&
+            !p.file.path.includes("tools/") &&
+            !p.file.path.includes("drafts/")
+        )
+        .map(p => p.file.name)
+);
+```
+
 ## Pattern Index
 
 ```dataviewjs

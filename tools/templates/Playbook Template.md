@@ -10,9 +10,11 @@ publish:
 type: playbook
 functions: 
 qualities: 
+patterns: 
+primitives: 
+studies: 
 scale: 
-phase: 
-patterns:
+phase:
 ---
 
 <% tp.frontmatter.description %>

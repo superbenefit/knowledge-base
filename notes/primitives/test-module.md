@@ -5,7 +5,7 @@ description: This is a test module
 harvester: 
 curator: 
 publish: "false"
-type: primitive, module
+type: module
 scale:
   - collaboration
   - constituency

@@ -9,12 +9,28 @@ curator:
 harvester: 
 publish: "false"
 type: playbook
-functions: 
-qualities: 
-scale: 
-phase: 
-patterns:
-  - test-pattern
+functions:
+  - governance
+  - grants
+  - transformation
+qualities:
+  - autonomy
+  - decentralization
+scale:
+  - collaboration
+  - constituency
+  - coordination
+  - network
+phase:
+  - conversation
+  - coordination
+  - formation
+  - organization
+  - completion
+patterns: []
+primitives: 
+playbooks: 
+studies:
 ---
 
 <% tp.frontmatter.description %>
