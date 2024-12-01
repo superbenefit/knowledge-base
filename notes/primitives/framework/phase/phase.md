@@ -12,6 +12,7 @@ Groups evolve through distinct phases, each demanding unique tools and approache
 - [Formation Phase](./formation.md)
 - [Organization Phase](./organization.md)
 - [Coordination Phase](./coordination.md)
+- [Completion Phase].(./completion.md)
 
 ---
 
