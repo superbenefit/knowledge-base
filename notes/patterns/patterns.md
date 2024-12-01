@@ -63,11 +63,27 @@ To effectively use this library, start by identifying the specific organizationa
 
 ### Querying Patterns
 
-```dataviewjs
+Patterns can be queried in a dataview query like this:
+```
+LIST description
+WHERE 
+    type AND
+    (
+        contains(type, "pattern") OR
+        (type = "pattern")
+    ) AND
+    !contains(file.path, "tools/") AND
+    !contains(file.path, "drafts/")
+```
+
+An example of this pattern in a dataviewjs query would be:
+```
 dv.list(
     dv.pages()
         .where(p => 
-            p.type?.includes("pattern") &&
+            (Array.isArray(p.type) 
+                ? p.type.some(t => t.includes("pattern")) 
+                : p.type?.includes("pattern")) &&
             !p.file.path.includes("tools/") &&
             !p.file.path.includes("drafts/")
         )
@@ -75,17 +91,13 @@ dv.list(
 );
 ```
 
-## Pattern Index
-
-```dataviewjs
-$= dv.list(
-    dv.pages()
+Here is the bare query for fileclass field values:
+```javascript
+dv.pages()
     .where(p => 
-        (p.type === "pattern" || (Array.isArray(p.type) && p.type.includes("pattern"))) &&
-        !p.file.path.startsWith("tools/") &&
-        !p.file.path.startsWith("drafts/") &&
-        p.publish === true
+        (Array.isArray(p.type) ? p.type.some(t => t.includes("pattern")) : p.type?.includes("pattern")) &&
+        !p.file.path.includes("tools/") &&
+        !p.file.path.includes("drafts/")
     )
-.map(p => `[[${p.file.path}|${p.title}]]`)
-)
+    .map(p => p.file.name);
 ```
