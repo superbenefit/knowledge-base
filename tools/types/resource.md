@@ -10,12 +10,15 @@ extends:
 savedViews: []
 favoriteView: 
 fieldsOrder:
+  - pf7xkF
+  - FAfyBY
+  - bDuOpX
   - ypTk3j
   - dEXTlc
   - 8QLYWX
   - 9zPLbb
   - 5SD9jH
-version: "2.51"
+version: "2.56"
 fields:
   - name: scale
     type: Multi
@@ -87,4 +90,40 @@ fields:
         );
     path: ""
     id: ypTk3j
+  - name: patterns
+    type: Multi
+    options:
+      sourceType: ValuesFromDVQuery
+      valuesList: {}
+      valuesFromDVQuery: |-
+        LIST file.name
+        WHERE contains(type, "pattern")
+        AND !contains(file.path, "tools/")
+        AND !contains(file.path, "drafts/")
+    path: ""
+    id: bDuOpX
+  - name: playbooks
+    type: Multi
+    options:
+      sourceType: ValuesFromDVQuery
+      valuesList: {}
+      valuesFromDVQuery: |-
+        LIST file.name
+        WHERE contains(type, "playbook")
+        AND !contains(file.path, "tools/")
+        AND !contains(file.path, "drafts/")
+    path: ""
+    id: FAfyBY
+  - name: studies
+    type: Multi
+    options:
+      sourceType: ValuesFromDVQuery
+      valuesList: {}
+      valuesFromDVQuery: |-
+        LIST file.name
+        WHERE contains(type, "study")
+        AND !contains(file.path, "tools/")
+        AND !contains(file.path, "drafts/")
+    path: ""
+    id: pf7xkF
 ---

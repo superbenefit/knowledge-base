@@ -35,7 +35,7 @@
     },
     {
       "type": "folder",
-      "path": "templates",
+      "path": "tools",
       "subFolders": true,
       "disableSync": true,
       "disableAutoCreate": true,
@@ -88,7 +88,7 @@
     "explorer": true,
     "path": true
   },
-  "settingsTab": "file_explorer",
+  "settingsTab": "exclude_folders",
   "supportedFileTypes": [
     "md"
   ],

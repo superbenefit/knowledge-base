@@ -7,12 +7,12 @@ tagNames:
 filesPaths: 
 bookmarksGroups: 
 excludes: 
-extends: 
+extends: resource
 savedViews: []
 favoriteView: 
 fieldsOrder:
   - D3j1km
-version: "2.4"
+version: "2.5"
 fields:
   - name: case
     type: Multi
