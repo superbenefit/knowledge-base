@@ -6,14 +6,15 @@ tags:
   - patterns
 publish: "false"
 type: pattern
+studies: 
+primitives: 
 functions: 
 qualities: 
 scale: 
-phase: 
-primitives:
+phase:
 ---
 
-<% tp.frontmatter.description || "No description provided" %>
+<% tp.frontmatter.description || "%% Please add a ddescription %%" %>
 
 %% Introduce the pattern here %%
 
@@ -31,7 +32,7 @@ primitives:
 
 ---
 
-## Pattern Documentation
+## How <% tp.frontmatter.title || "This Pattern" %> Works
 
 %% Document the Pattern here %%
 
@@ -39,25 +40,21 @@ primitives:
 
 %% Describe how the pattern works %%
 
-### Affordances
+#### Affordances
 
 %% Describe affordances here %%
 
-### Insights, Risks and Opportunities
+### Risks and Opportunities
 
 %% Analyze the case studies and share insights. Include considerations for risk management and highlight opportunities to leverage this pattern to produce impact (in the context of SuperBenefit's mission and the interests of its network peers). %%
 
 ---
 
-## This Pattern in Practice
+## <% tp.frontmatter.title || "This Pattern" %> in Practice
 
 %% Describe how this pattern is used / expressed in practice %%
 
-### Case Studies
-
-%% Add case studies here %%
-
-### Strategies for using This Pattern
+### Strategies for <% tp.frontmatter.title || "This Pattern" %>
 
 %% Describe how this Pattern is used in strategies/playbooks here %%
 
@@ -68,13 +65,62 @@ AND (
     !contains(file.path, "tools/") 
     AND !contains(file.path, "drafts/")
 )
+AND (
+    contains(type, "playbook") OR
+    (type = "playbook")
+)
 ```
 
-### Primitives Used in This Pattern
+### Implementation
+
+Add implementation details here
+
+#### Primitives for <% tp.frontmatter.title || "This Pattern" %>
 
 %% Add an overview of primitives used here %%
 
-%% Add a dataview query for related primitives here %%
+```dataviewjs
+const ext = dv.pages('"tools/types"')
+    .where(t => t.extends === "primitive")
+    .map(t => t.file.name);
+
+dv.table(
+    ["Primitive", "Description"],
+    dv.pages()
+        .where(p => 
+            p.type && 
+            (p.type.includes("primitive") || ext.some(n => p.type.includes(n))) &&
+            dv.current().primitives && dv.current().primitives.includes(p.file.name) &&
+            !p.file.path.startsWith("tools/") && 
+            !p.file.path.startsWith("drafts/")
+        )
+        .sort(p => p.title, 'asc')
+        .map(p => [
+            `**[${p.title}](${p.file.path})**`,  
+            p.description
+        ])
+);
+```
+
+---
+
+## <% tp.frontmatter.title || "This Pattern" %> Case Studies
+
+%% Add insights from case studies here %%
+
+```dataview
+LIST description
+WHERE (
+    (contains(patterns, this.file.name) OR patterns = this.file.name)
+) 
+AND (
+    contains(type, "study") OR type = "study"
+)
+AND (
+    !contains(file.path, "tools/") 
+    AND !contains(file.path, "drafts/")
+)
+```
 
 ---
 

@@ -68,3 +68,9 @@ dv.pages()
     .map(p => p.file.name);
 ```
  %%
+
+---
+
+## Contributing to Case Studies
+
+%% Add instructions for contributing case studies here %%

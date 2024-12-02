@@ -27,10 +27,8 @@ phase:
   - formation
   - organization
   - completion
-patterns: []
-primitives: 
-playbooks: 
-studies:
+patterns:
+  - test-pattern
 ---
 
 <% tp.frontmatter.description %>

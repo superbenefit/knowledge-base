@@ -7,7 +7,14 @@ harvester:
 curator: 
 publish: "false"
 type: study
-case:
+case: 
+patterns:
+  - test-pattern
+primitives:
+  - test-primitive
+  - test-practice
+  - test-module
+  - test-protocol
 ---
 
 description

@@ -1,33 +1,39 @@
 ---
-title: Private Payments
+title: Privacy-Preserving Crypto Payments
 description: A pattern for implementing secure, private payment systems to support social impact projects in challenging environments
 author:
-  - 
+  - rathermercurial.eth
+url: 
 tags:
-  - privacy
-  - security
-harvester: 
-curator: 
-publish: "false"
+  - patterns
+publish: "true"
 type: pattern
+studies: 
 primitives: 
+functions:
+  - payments
+  - privacy
+  - grants
+qualities:
+  - privacy
 scale:
   - collaboration
   - constituency
   - coordination
   - network
 phase:
-  - coordination
   - organization
-functions: 
-qualities: 
+  - coordination
+  - completion
 ---
 
-A system for distributing resources privately and reliably in challenging contexts, using smart contracts and cryptocurrency infrastructure. This enables organizations to work effectively when traditional financial systems are compromised or inaccessible.
+*A pattern for implementing secure, private payment systems to support social impact projects in challenging environments*
+
+**Privacy Payments** are systems for distributing resources privately and reliably in challenging contexts, using smart contracts and cryptocurrency infrastructure. This enables organizations to work effectively when traditional financial systems are compromised or inaccessible.
 
 ---
 
-## Context
+## Problem / Solution Context
 
 Both grassroots projects and institutional funders face increasing challenges in resource distribution. Traditional banking infrastructure can become inaccessible due to political pressure, infrastructure breakdown, or systemic exclusion. Even when accessible, financial surveillance may put recipients at risk or prevent funders from supporting critical work.
 
@@ -46,7 +52,27 @@ This pattern becomes relevant when any of these conditions are present:
 - Restrictions imposed by authoritarian governments to control civil society funding
 - Regions classified under international sanctions where humanitarian exemptions apply
 
-## Challenges & Solutions
+### Solution Landscape
+
+%% Describe the various approaches to the problem/function here. Be sure to link alternative patterns if they exist %%
+
+%% Optional: add a segue to help the reader understand when this pattern might be more useful than the alternatives %%
+
+---
+
+## How Privacy Payments Work
+
+%% Document the Pattern here %%
+
+### Mechanism
+
+%% Describe how the pattern works %%
+
+#### Affordances
+
+%% Describe affordances here %%
+
+### Risks and Opportunities
 
 Key challenges fall into three categories:
 
@@ -69,7 +95,13 @@ Key challenges fall into three categories:
 
 Organizations have successfully implemented measures like incorporating Tor or VPNs into their operational workflows to obscure transaction origination points.
 
-### Strategies Incorporating Private Payments
+---
+
+## Privacy Payments in Practice
+
+%% Describe how this pattern is used / expressed in practice %%
+
+### Strategies for Privacy-Preserving Crypto Payments
 
 %% Describe how this Pattern is used in strategies/playbooks here %%
 
@@ -80,11 +112,13 @@ AND (
     !contains(file.path, "tools/") 
     AND !contains(file.path, "drafts/")
 )
+AND (
+    contains(type, "playbook") OR
+    (type = "playbook")
+)
 ```
 
----
-
-## Implementation
+### Implementation
 
 The foundation of this pattern consists of three interconnected systems:
 
@@ -112,11 +146,11 @@ The foundation of this pattern consists of three interconnected systems:
 
 Implementation strategies vary:
 - Institutional funders often establish a separate legal entity to handle cryptocurrency operations, ensuring clear separation from traditional financial activities.
-- Grassroots organizations may begin with pilots focused on a specific, immediate need, gradually scaling infrastructure as capacity and familiarity grow.
+- Grassroots organizations may begin with pilots focused on a specific, immediate need, gradually scaling infrastructure as capacity and familiarity grow
 
-### Primitives for Private Payments
+#### Primitives for Privacy-Preserving Crypto Payments
 
-%% Introduce the tools, rules and practices used in this pattern here %%
+%% Add an overview of primitives used here %%
 
 ```dataviewjs
 const ext = dv.pages('"tools/types"')
@@ -141,21 +175,27 @@ dv.table(
 );
 ```
 
+### Privacy Payments Case Studies
+
+%% Add insights from case studies here %%
+
+```dataview
+LIST description
+WHERE (
+    (contains(patterns, this.file.name) OR patterns = this.file.name)
+) 
+AND (
+    contains(type, "study") OR type = "study"
+)
+AND (
+    !contains(file.path, "tools/") 
+    AND !contains(file.path, "drafts/")
+)
+```
 
 ---
 
-## Case Studies
-
-%% Case studies are crucial to illustrate the real-world applications and challenges of these patterns. Successful examples include:
-
-1. A grassroots aid network in Eastern Europe implemented privacy-focused wallets (Monero for anonymity, Bitcoin with coinjoins for liquidity) to support displaced individuals without revealing donor or recipient identities.
-2. A philanthropic foundation operating in a sanctioned region used a multisig wallet and privacy-preserving smart contracts to distribute emergency grants while meeting jurisdictional compliance.
-
-Detailed technical documentation and measurable outcomes for these cases can help inform broader adoption. %%
-
----
-
-## References
+## Resources, References, and Further Reading
 
 - https://www.privacyguides.org/en/advanced/payments/
 
