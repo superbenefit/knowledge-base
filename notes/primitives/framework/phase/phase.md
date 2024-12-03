@@ -12,7 +12,8 @@ Groups evolve through distinct phases, each demanding unique tools and approache
 - [Formation Phase](./formation.md)
 - [Organization Phase](./organization.md)
 - [Coordination Phase](./coordination.md)
-- [Completion Phase].(./completion.md)
+- [Completion Phase](./completion.md)
+
 
 ---
 
@@ -26,4 +27,4 @@ This framework, applied within the context of DAO primitives (Entities/Groups, N
 
 **4. [Coordination Phase](notes/primitives/framework/phase/coordination.md):** This phase focuses on integrating the group into networks and collaborating with other groups.  It builds upon the Organization Phase, shifting from internal focus to external collaboration, resource sharing, and alignment with broader network goals. The primary goal is to maximize the group's impact and effectiveness within a larger ecosystem. [Learn more](notes/primitives/framework/scale/coordination.md)
 
-
+**4. [Completion Phase](notes/primitives/framework/phase/completion.md)** Manages the structured dissolution of groups that have served their purpose within an organization. Key elements include documenting learnings, transferring responsibilities and funds, communicating changes, and formal closure procedures. This prevents organizational debt through proper resource redistribution while addressing challenges like knowledge preservation, trapped funds, and credential management. [Learn more](notes/primitives/framework/scale/completion.md)
