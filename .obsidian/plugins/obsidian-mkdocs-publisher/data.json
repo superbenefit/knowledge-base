@@ -1,9 +1,9 @@
 {
   "github": {
-    "user": "",
-    "repo": "",
-    "branch": "main",
-    "automaticallyMergePR": true,
+    "user": "superbenefit",
+    "repo": "knowledge-garden",
+    "branch": "v4",
+    "automaticallyMergePR": false,
     "dryRun": {
       "enable": false,
       "folderName": "enveloppe"
@@ -19,11 +19,11 @@
     },
     "otherRepo": [],
     "verifiedRepo": true,
-    "rateLimit": 4941
+    "rateLimit": 0
   },
   "upload": {
-    "behavior": "fixed",
-    "defaultName": "",
+    "behavior": "obsidian",
+    "defaultName": "content",
     "rootFolder": "",
     "yamlFolderKey": "",
     "frontmatterTitle": {
@@ -38,7 +38,7 @@
       "excluded": []
     },
     "folderNote": {
-      "enable": false,
+      "enable": true,
       "rename": "index.md",
       "addTitle": {
         "enable": false,
@@ -108,5 +108,5 @@
     "setFrontmatterKey": "Set",
     "migrated": true
   },
-  "tabsId": "text-conversion"
+  "tabsId": "plugin-settings"
 }
