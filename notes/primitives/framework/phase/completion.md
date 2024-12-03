@@ -29,18 +29,18 @@ Every group consumes resources - whether that's team members' time, financial as
 * **Loss of Access Credentials:** As groups change, specific authorities granted to groups or members of groups can become confused and potentially lost. E.g login access to an organizations social accounts or software subscriptions can be lost. There needs to be a clear handover of these credentials to prevent this happening. 
 
 ---
-
+//To be completed//
 ## Tools and Practices
 
 
 
-### Conversation Phase Patterns
+### Completion Phase Patterns
 
-### Conversation Phase Primitives
+### Completion Phase Primitives
 
 ---
 
-## Successful Conversation Phase Outcomes
+## Successful Completion Phase Outcomes
 
 
 
