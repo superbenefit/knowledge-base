@@ -1,3 +1,4 @@
+
 ---
 title: Privacy-Preserving Crypto Payments
 description: A pattern for implementing secure, private payment systems to support social impact projects in challenging environments
@@ -6,7 +7,7 @@ author:
 url: 
 tags:
   - patterns
-publish: "false"
+publish: "true"
 type: pattern
 studies: 
 primitives: 
