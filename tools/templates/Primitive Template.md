@@ -26,20 +26,11 @@ phase:
 
 ---
 
-## Getting Started with <% tp.frontmatter.title %>
+## Implementing <% tp.frontmatter.title %>
 
     Prerequisites: Skills, knowledge, or resources needed.
     Setup Guide: Step-by-step instructions for initial configuration or access.
     Quick Start: Simple first tasks or experiments to build familiarity.
-
----
-
-## Implementation and Best Practices
-
-    Technical and Security Considerations: Requirements, risks, and precautions (e.g., data protection, key management).
-    Integration: Guidance on incorporating the primitive into workflows or systems.
-    Scalability: Tips for scaling or handling increased usage.
-    Optimization: Common pitfalls to avoid and advice for effective use.
 
 ### <% tp.frontmatter.title %> Implementation Patterns
 
@@ -53,6 +44,13 @@ AND (
     AND !contains(file.path, "drafts/")
 )
 ```
+
+### Best Practices
+
+    Technical and Security Considerations: Requirements, risks, and precautions (e.g., data protection, key management).
+    Integration: Guidance on incorporating the primitive into workflows or systems.
+    Scalability: Tips for scaling or handling increased usage.
+    Optimization: Common pitfalls to avoid and advice for effective use.
 
 ---
 
