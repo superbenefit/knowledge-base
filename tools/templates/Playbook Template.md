@@ -47,7 +47,7 @@ TIP: This section should give readers everything they need to determine if this 
 
 %% Brief introduction explaining how patterns help solve problems in this specific domain %%
 
-## Core Pattern Set
+### Core Pattern Set
 
 %% Overview of which patterns were selected for this playbook and why %%
 
@@ -55,7 +55,7 @@ TIP: This section should give readers everything they need to determine if this 
 
 %% Brief instructions for improving the pattern library %%
 
-### Pattern Group A: `[Functional Area]`
+#### Pattern Group A: `[Functional Area]`
 
 %% 
 - Context and challenges this group addresses
@@ -105,6 +105,21 @@ TIP: This section should give readers everything they need to determine if this 
 
 TIP: Focus on concrete, actionable steps rather than theory %%
 
+### Initial Design & Setup
+
+%% Initial deployment instructions %%
+
+### Sustaining & Evolving
+
+%% Long-term success guidance:
+- Governance and decision-making frameworks
+- Community engagement strategies
+- Impact measurement approaches
+- Adaptation and scaling considerations
+- Change management practices
+
+TIP: Focus on maintaining and improving the implemented patterns over time %%
+
 ---
 
 ## Case Studies & Examples
@@ -117,19 +132,6 @@ TIP: Focus on concrete, actionable steps rather than theory %%
 - Reference specific patterns used %%
 
 %% Dataview query matching relevant case studies %%
- 
----
-
-## Sustaining & Evolving
-
-%% Long-term success guidance:
-- Governance and decision-making frameworks
-- Community engagement strategies
-- Impact measurement approaches
-- Adaptation and scaling considerations
-- Change management practices
-
-TIP: Focus on maintaining and improving the implemented patterns over time %%
 
 ---
 
