@@ -10,6 +10,7 @@ publish: "true"
 
 The Conversation Phase is the foundational [stage](notes/primitives/framework/phase/phase.md) of group development, characterized by open exploration and idea generation. It's a period of brainstorming, sharing perspectives, and identifying potential synergies before formal structures or processes are established. The primary goal is to establish a shared vision and understanding, laying the groundwork for future phases.
 
+
 ## Key Characteristics
 
 * **Open Exploration:** Minimal constraints and a focus on free-flowing discussion and idea generation. All perspectives are valued, and critical evaluation is generally deferred to later phases.
