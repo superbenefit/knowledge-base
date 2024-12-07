@@ -1,5 +1,5 @@
 ---
-title: Community Notes
+title: Notes
 description: Explore our collaborative knowledge base
 publish: true
 type: index

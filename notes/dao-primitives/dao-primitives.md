@@ -1,5 +1,5 @@
 ---
-title: The DAO Primitives Project
+title: DAO Primitives Project
 description: Notes for the DAO Primitives project at SuperBenefit
 publish: "true"
 type: index
