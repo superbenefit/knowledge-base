@@ -1,0 +1,38 @@
+Folder PATH listing for volume localnotes
+Volume serial number is 7AA7-3460
+F:.
+³   artifacts.md
+³   readme.md
+³   artifacts-directory.txt
+³   
+ÃÄÄÄarticles
+³       articles.md
+³       Minimum Viable Permissionless-ness.md
+³       Building DAOs as scalable networks.md
+³       DAOs - From fractal primitives to network scale..md
+³       DAOs aren't things... they are flows..md
+³       Exploring governance for better futures.md
+³       Governance for better futures - DAO 2 DAO Co-operation.md
+³       Governance for better futures - Meta-governance.md
+³       Governance for better futures - New and Old.md
+³       Scale and the levers that provide DAOs their power.md
+³       
+ÃÄÄÄpatterns
+³       patterns.md
+³       readme.md
+³       privacy-payments.md
+³       
+ÃÄÄÄplaybooks
+³       playbooks.md
+³       readme.md.md
+³       
+ÃÄÄÄstudies
+³       studies.md
+³       readme.md
+³       
+ÃÄÄÄpapers
+³       papers.md
+³       
+ÀÄÄÄprimitives
+        primitives.md
+        

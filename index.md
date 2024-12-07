@@ -34,7 +34,7 @@ Our shared vocabulary and conceptual framework, including:
 - Common concepts and their context
 - Evolving terminology
 
-### [Library](library/library.md)
+### [Library](links/links.md)
 Curated external resources and our engagement with them:
 - Referenced articles and papers
 - Commentary and analysis

@@ -15,29 +15,25 @@ This section organizes the knowledge we're actively developing.  You'll find not
 
 * **Collaborative Work:**  These notes represent ongoing work, so you might find some ideas that are still under development.  We encourage you to explore, provide feedback, and contribute your own insights!
 
-* **Connections to Other Resources:**  This section is closely linked to our [library](library/library.md) of external resources, our [lexicon](tags/tags.md) of shared terms and concepts, and our [published artifacts](artifacts/artifacts.md) of completed work.
+* **Connections to Other Resources:**  This section is closely linked to our [links](links/links.md) of external resources, our [lexicon](tags/tags.md) of shared terms and concepts, and our [published artifacts](artifacts/artifacts.md) of completed work.
 
 ---
 
 ## Explore Our Work
 
-We organize our work into several key areas:
 
-
-### 1. DAO Primitives Research (`/primitives/`)
+### 1. DAO Primitives Project (`/dao-primitives/`)
 
 This section explores the fundamental building blocks of effective organizations.  We investigate core concepts, frameworks for understanding organizational context, and the relationships between these building blocks and practical solutions.  Learn about governance mechanisms, operational functions, organizational structures, and coordination tools.
 
-### 2. Pattern Library (`/patterns/`)
+### 2. Reimagining Power Project (`/patterns/`)
 
 Here you'll find documented solutions to common organizational challenges.  These patterns combine fundamental building blocks into practical implementations, providing tested approaches for various situations.  Discover proven strategies for effective organization and management.
 
-### 3. Playbook Development (`/playbooks/`)
-
-This section contains comprehensive guides for implementing specific organizational structures and solutions.  Playbooks combine patterns and building blocks into complete, practical resources, providing step-by-step instructions for achieving specific goals.  Find actionable guides for building and managing effective organizations.
+---
 
 ## Related Resources
 
-* **[Library](library/library.md):**  External resources and references that inform our work.
+* **[Library](links/links.md):**  External resources and references that inform our work.
 * **[Lexicon](tags/tags.md):**  Our shared vocabulary and conceptual framework.
 * **[Artifacts](artifacts/artifacts.md):**  Published, refined content representing our collective understanding.
