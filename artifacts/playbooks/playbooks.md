@@ -7,7 +7,6 @@ type: index
 
 This directory contains practical guides for building and managing effective organizations.  Each playbook combines organizational patterns and primitives into a comprehensive resource.
 
-
 ## Playbooks: Patterns and Primitives in Action
 
 Playbooks build upon the foundational elements found in other parts of this knowledge base:

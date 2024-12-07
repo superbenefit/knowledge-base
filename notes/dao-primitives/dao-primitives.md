@@ -162,6 +162,7 @@ You can dive deeper into how the primitives work together [**here**](https://app
 ## DAO Primitives Index
 
 %% Begin Waypoint %%
+- [DAO Primitives Tasks](./DAO%20Primitives%20Tasks.md)
 - **[framework](./framework/framework.md)**
 - **[test-resources](./test-resources/test-resources.md)**
 
