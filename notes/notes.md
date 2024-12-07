@@ -1,5 +1,5 @@
 ---
-title: SuperBenefit Community Notes
+title: Community Notes
 description: Explore our collaborative knowledge base
 publish: true
 type: index
@@ -26,7 +26,7 @@ This section organizes the knowledge we're actively developing.  You'll find not
 
 This section explores the fundamental building blocks of effective organizations.  We investigate core concepts, frameworks for understanding organizational context, and the relationships between these building blocks and practical solutions.  Learn about governance mechanisms, operational functions, organizational structures, and coordination tools.
 
-### 2. Reimagining Power Project (`/patterns/`)
+### 2. Reimagining Power Project (`/rpp/`)
 
 Here you'll find documented solutions to common organizational challenges.  These patterns combine fundamental building blocks into practical implementations, providing tested approaches for various situations.  Discover proven strategies for effective organization and management.
 
