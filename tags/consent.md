@@ -6,7 +6,7 @@ curator:
 publish: true
 type: tag
 aliases:
-  - "#consent>"
+  - "#consent"
 tags:
 - agreements
 - decisions
