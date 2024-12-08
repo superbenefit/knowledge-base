@@ -7,7 +7,11 @@ aliases: []
 description: "The final phase of group development, focused on gracefully closing entities that are no longer needed."
 publish: "false"
 ---  
+<<<<<<< HEAD:notes/primitives/framework/phase/completion.md
+The Completion Phase marks the final [stage](notes/primitives/framework/phase/phase.md)  of group development, focusing on the thoughtful conclusion of groups that no longer effectively serve the network. Just as biological organisms shed unnecessary structures, organizations and networks must remove groups that have served their purpose. 
+=======
 The Completion Phase marks the final [stage](notes/dao-primitives/framework/phase/phase.md)  of group development, focusing on the thoughtful conclusion of groups that no longer effectively serve the network. Just as biological organisms shed unnecessary structures, organizations and networks must remove groups that have served their purpose.
+>>>>>>> 9b9ae63b1cf0e53900523fcbc6ce92e5124a0b4d:notes/dao-primitives/framework/phase/completion.md
 
 Every group consumes resources - whether that's team members' time, financial assets, or communication bandwidth. When a group's purpose is fulfilled, a clear process for winding down operations ensures these resources can be redirected where needed. Without such processes, organizations accumulate organizational debt, becoming rigid and inefficient. This directly undermines the flexible decision-making and resource allocation that these structures aim to achieve.
 
@@ -29,18 +33,18 @@ Every group consumes resources - whether that's team members' time, financial as
 * **Loss of Access Credentials:** As groups change, specific authorities granted to groups or members of groups can become confused and potentially lost. E.g login access to an organizations social accounts or software subscriptions can be lost. There needs to be a clear handover of these credentials to prevent this happening. 
 
 ---
-
+//To be completed//
 ## Tools and Practices
 
 
 
-### Conversation Phase Patterns
+### Completion Phase Patterns
 
-### Conversation Phase Primitives
+### Completion Phase Primitives
 
 ---
 
-## Successful Conversation Phase Outcomes
+## Successful Completion Phase Outcomes
 
 
 
