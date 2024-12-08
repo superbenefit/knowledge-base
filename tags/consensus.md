@@ -1,7 +1,8 @@
 ---
 title: Consensus
 description: "Consensus" as it is used in Consensus based decision-making
-harvester: yeoro.eth
+harvester: 
+- yeoro.eth
 curator: 
 publish: true
 type: tag
