@@ -24,24 +24,6 @@ Four key principles shape how we create and share knowledge:
 
 ## Repository Structure 
 
-Understanding how knowledge flows through this system is key to using it effectively. Rather than enforcing strict categorization, we provide spaces optimized for different stages of knowledge development.
-
-```
-knowledge-base/
-├── artifacts/     # Published, curated content and validated knowledge
-├── attachments/  # Media files, images, and supporting content
-├── drafts/      # Work-in-progress notes (not indexed)
-├── library/     # External references with community commentary
-├── notes/       # Working documents by project
-│   ├── patterns/        # Documentation of organizational patterns
-│   └── primitives/     # DAO Primitives Project
-│       └── framework/  # Conceptual frameworks and models
-├── tags/        # Term definitions and shared vocabulary
-└── tools/       # Knowledge management utilities
-    ├── templates/   # Document templates and structures
-    └── types/      # Metadata type definitions
-```
-
 Knowledge typically develops through natural stages: from individual drafts, through project-specific collaborative work, into published artifacts. Throughout this progression, ideas are connected by our shared vocabulary and enriched by references to external knowledge. Rather than enforce strict organization, we let structure emerge through:
 - Wiki-style document links 
 - Consistent metadata schemas

@@ -73,12 +73,12 @@ Start by creating a new file in the `/drafts/` directory using this structure:
 ```yaml
 title: Pattern Name
 description: A concise description of what the pattern achieves
-url: Optional link to external resources
+url: Optional link for patterns defined elsewhere on the web
 tags:
   - patterns
 publish: false
 type: pattern
-functions: What organizational functions this pattern serves
+functions: What functions this pattern serves
 qualities: Key characteristics and benefits
 scale: What organizational scale this works at
 phase: Which development phases it's suitable for
@@ -86,6 +86,44 @@ primitives: List of primitives this pattern uses
 ```
 
 Document your pattern with clear examples, implementation guidance, and real-world cases. Once your draft is ready, submit it for community review.
+
+### Documenting Patterns
+
+- **Identify a Repeatable Solution:**
+    
+	- Begin by identifying a solution that has proven successful in multiple, varied situations. Look for recurring themes and practices that consistently deliver positive outcomes. Document these instances meticulously, noting the common elements and specific contexts.
+    
+- **Define the Problem and Context:**
+    
+	- Clearly articulate the problem the solution addresses. Define the context thoroughly, including prerequisites, limitations, or dependencies.
+    
+- **Describe the Solution's Mechanism:**
+    
+	- Explain how the solution works, breaking down the process into manageable steps. Use clear language, avoiding jargon; use visual aids if necessary.
+    
+- **Analyze Affordances, Risks, and Opportunities:**
+    
+	- Identify the solution's capabilities and benefits (affordances). Analyze potential risks and challenges. Explore opportunities for broader impact.
+    
+- **Document Implementation Strategies:**
+    
+	- Describe different ways the solution can be implemented and adapted. Provide practical examples and guidance.
+    
+- **Specify Required Primitives:**
+    
+	- Identify the fundamental building blocks (primitives) the solution relies upon. Explain how these primitives interact.
+    
+- **Gather and Analyze Case Studies:**
+    
+	- Collect real-world examples documenting context, implementation, challenges, outcomes, and lessons learned. Analyze these case studies to refine the pattern.
+    
+- **Refine and Iterate:**
+    
+	- Review and refine the pattern based on feedback and new insights. Patterns evolve as new information becomes available.
+    
+- **Curate Resources and References:**
+    
+	- Compile relevant resources, including links to documentation and related patterns.
 
 ---
 
