@@ -24,7 +24,7 @@ Just as a garden has different areas for different types of plants, our knowledg
 
 **[Lexicon](tags/tags.md)** (`tags/`) is our gardening vocabulary. As we work together, we develop specific ways of describing ideas and their relationships. The lexicon grows naturally alongside our understanding, helping us communicate more precisely about complex topics. Tags and connections emerge from use, creating an organic map of our knowledge.
 
-**[Link Library](library/library.md)** (`library/`) is like our collection of neighboring gardens. We document external resources that inform our work, adding our own analysis and interpretation. This helps us understand how our garden connects to and builds upon the broader knowledge commons.
+**[Link Library](links/links.md)** (`library/`) is like our collection of neighboring gardens. We document external resources that inform our work, adding our own analysis and interpretation. This helps us understand how our garden connects to and builds upon the broader knowledge commons.
 
 ### How Knowledge Develops
 

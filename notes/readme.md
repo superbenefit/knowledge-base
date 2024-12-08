@@ -10,11 +10,7 @@ This directory serves as the active workspace for developing knowledge resources
 
 This directory currently focuses on three key areas:
 
-* **DAO Primitives Project (`/primitives/`):** Research into the fundamental building blocks of DAO organization, including core concepts, frameworks for understanding context and application (phase, scale, state), and the relationships between primitives and patterns.  [See the project's README](primitives/readme.md) for details.
-
-* **Pattern Library (`/patterns/`):** Documentation of reusable solutions to common organizational challenges.  These patterns combine primitives into practical implementations. [See the project's README](patterns/readme.md) for details.
-
-* **Playbook Development (`/playbooks/`):** Creation of comprehensive guides for implementing specific DAO structures or solutions.  Playbooks combine patterns and primitives into complete, practical resources. [See the project's README](playbooks/readme.md) for details.
+* **DAO Primitives Project (`/primitives/`):** Research into the fundamental building blocks of DAO organization, including core concepts, frameworks for understanding context and application (phase, scale, state), and the relationships between primitives and patterns.  [See the project's README](notes/dao-primitives/readme.md) for details.
 
 ---
 
