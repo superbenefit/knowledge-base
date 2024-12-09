@@ -1,9 +1,9 @@
 ---
 title: Consent
-description: "Consent", as used in consent based decison-making
+description: *Consent*, as used in consent based decison-making
 harvester: 
   - yeoro.eth
-publish: "false"
+publish: false
 type: tag
 aliases:
   - "#consent"
