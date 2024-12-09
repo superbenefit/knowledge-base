@@ -64,6 +64,10 @@ We welcome contributions that help our playbooks grow and evolve.  If you have e
 3. **Document Thoroughly:**  Provide clear, step-by-step instructions, implementation details, and relevant examples.
 4. **Submit for Review:** Once your draft is complete, submit it for community review and feedback.
 
+### Using the [Playbook Template](tools/templates/Playbook%20Template.md) 
+
+The [playbook template](tools/templates/Playbook%20Template.md) can be used to create a pre-populated Obsidian note for playbooks.
+
 ### Assembling Playbooks
 
 You can use these instructions to assemble a playbook based on the provided template, one section at a time. This is a suggested starting place only, so please check with your team to determine the appropriate workflow for your playbook.

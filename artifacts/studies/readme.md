@@ -74,3 +74,7 @@ dv.pages()
 ## Contributing to Case Studies
 
 %% Add instructions for contributing case studies here %%
+
+### Using the [Case Study Template](tools/templates/Study%20Template.md) 
+
+The [study template](tools/templates/Study%20Template.md) can be used to create a pre-populated Obsidian note for case studies.

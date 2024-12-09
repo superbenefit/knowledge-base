@@ -85,7 +85,11 @@ phase: Which development phases it's suitable for
 primitives: List of primitives this pattern uses
 ```
 
-Document your pattern with clear examples, implementation guidance, and real-world cases. Once your draft is ready, submit it for community review.
+Document your pattern with clear examples, implementation guidance, and real-world cases. Once your draft is ready, submit it for community review
+
+### Using the [Pattern Template](tools/templates/Pattern%20Template.md) 
+
+The [pattern template](tools/templates/Pattern%20Template.md) can be used to create a pre-populated Obsidian note for patterns.
 
 ### Documenting Patterns
 
