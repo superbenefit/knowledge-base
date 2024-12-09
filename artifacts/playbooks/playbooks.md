@@ -11,7 +11,7 @@ This directory contains practical guides for building and managing effective org
 
 Playbooks build upon the foundational elements found in other parts of this knowledge base:
 
-* **Primitives:** Playbooks utilize core organizational building blocks (governance mechanisms, operational functions, etc.) described in the [Primitives directory](notes/dao-primitives/readme.md).
+* **Primitives:** Playbooks utilize core organizational building blocks (governance mechanisms, operational functions, etc.) described in the [Primitives directory](artifacts/primitives/readme.md).
 
 * **Patterns:** Playbooks leverage proven solutions to common organizational challenges (documented in the [Patterns directory](artifacts/patterns/readme.md)).  They show how to combine primitives effectively to achieve specific goals.
 

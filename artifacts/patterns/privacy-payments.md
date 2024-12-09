@@ -29,7 +29,7 @@ phase:
 
 *A pattern for implementing secure, private payment systems to support social impact projects in challenging environments*
 
-**Privacy Payments** are systems for distributing resources privately and reliably in challenging contexts, using smart contracts and cryptocurrency infrastructure. This enables organizations to work effectively when traditional financial systems are compromised or inaccessible.
+**Privacy Payments** are systems for [distributing resources](tags/payments.md) [privately](tags/privacy.md) and reliably in challenging contexts, using smart contracts and [cryptographically-secured infrastructure](tags/blockchain.md). This enables organizations to work effectively when traditional financial systems are compromised or inaccessible.
 
 ---
 
