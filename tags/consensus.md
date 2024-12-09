@@ -1,15 +1,15 @@
 ---
 title: Consensus
-description: "Consensus" as it is used in Consensus based decision-making
-harvester: yeoro.eth
-curator: 
-publish: true
-type: tag
+description: Consensus, as it is used in Consensus based decision-making
+harvester: 
+  - yeoro.eth
+publish: false
+type: "tag"
 aliases:
   - "#consensus"
 tags: 
-  - agreements
-  - decisions
+  - "agreements"
+  - "decisions"
 ---
 
 This is a definition of "consensus" as it is used in Consensus Based Decision-making.
