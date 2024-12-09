@@ -10,7 +10,7 @@ aliases:
   - "#consent"
 tags:
   - "agreements"
-  - "decisionss"
+  - "decisions"
 ---
 
 This is a definition of "consent" as the core principle in Consent Based Decision-making.
