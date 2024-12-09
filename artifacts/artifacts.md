@@ -1,5 +1,5 @@
 ---
-title: Artifacts
+title: SuperBenefit Artifacts
 description: Published knowledge artifacts from the SuperBenefit community
 publish: true
 type: index

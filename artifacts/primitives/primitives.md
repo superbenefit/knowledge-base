@@ -1,5 +1,5 @@
 ---
-title: Primitives
+title: SuperBenefit's Primitives
 description: Core components of decentralized organizing
 author: 
 tags: 

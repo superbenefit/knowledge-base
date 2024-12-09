@@ -1,5 +1,5 @@
 ---
-title: Pattern Library
+title: SuperBenefit Pattern Library
 description: Explore our collection of reusable organizational patterns
 publish: "true"
 type: index
