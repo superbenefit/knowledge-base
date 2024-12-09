@@ -4,7 +4,7 @@ description: "Consensus", as it is used in Consensus based decision-making
 harvester: 
 	- yeoro.eth
 curator: 
-publish: "true"
+publish: "false"
 type: "tag"
 aliases:
   - "#consensus"
