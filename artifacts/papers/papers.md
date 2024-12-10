@@ -1,6 +1,6 @@
 ---
 title: Research Papers & Essays
-description: description
+description: Papers & Essays from the SueprBenefit community
 author: 
 tags: 
 harvester: 
