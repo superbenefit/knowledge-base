@@ -3,7 +3,7 @@ title: Consent
 description: Consent, as used in consent based decison-making
 harvester: 
   - yeoro.eth
-publish: false
+publish: true
 type: tag
 aliases:
   - "#consent"
