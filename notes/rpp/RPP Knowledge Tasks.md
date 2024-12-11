@@ -6,6 +6,11 @@ kanban-plugin: board
 
 ## To-Do
 
+- [ ] Create Wallets Pattern
+- [ ] Create Difi Pattern
+- [ ] Create RailGun (defi protocol) Primitive
+- [ ] Create Burner Wallets primitive
+- [ ] Create Treasury management Primitive
 
 
 ## Planned
@@ -14,6 +19,14 @@ kanban-plugin: board
 
 ## In-Progress
 
+- [ ] Create Cell (working group) Pattern ^9tyowr
+	- [cell-working-group](notes/rpp/working-drafts/cell-working-group.md)
+- [ ] Create Circle Primitive [circle](notes/rpp/working-drafts/circle.md)
+- [ ] Create Decider Primitive 
+	- [decider](notes/rpp/working-drafts/decider.md)
+- [ ] Create Nucleus Primitive
+	- [nucleus](notes/rpp/working-drafts/nucleus.md)
+- [ ] Create State Pattern
 
 
 ## In-Review
