@@ -8,6 +8,9 @@
 # ignore trash
 .trash/
 
+# ignore archive
+tools/archive/
+
 # ignore drafts
 drafts/
 
