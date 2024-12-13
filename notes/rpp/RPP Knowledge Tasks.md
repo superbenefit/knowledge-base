@@ -7,7 +7,7 @@ kanban-plugin: board
 ## To-Do
 
 - [ ] Create Wallets Tag Page
-- [ ] Create Defi Pattern
+- [ ] Create Defi Tag Page
 - [ ] Create RailGun (defi protocol) Primitive
 - [ ] Create Burner Wallets primitive (practice)
 - [ ] Create Treasury management Tag Page
