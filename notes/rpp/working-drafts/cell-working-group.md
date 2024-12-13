@@ -139,7 +139,10 @@ There are four primary ways new Cells form in DAO networks:
 4. **Permissionless Formation**
 	Groups within a DAO or network can form Cells without requiring approval from others. These teams can establish a Cell and begin coordinating with other Cells and the broader network. Their success depends on demonstrating value to the network and maintaining trusted governance as outlined in their Cell State. 
 
-%% Describe how the pattern works %%
+
+## Implementation 
+
+The [state](notes/rpp/working-drafts/state.md) pattern outlines how to set up a Cell using Cell State as the vehicle for its core structure. 
 
 #### Affordances
 

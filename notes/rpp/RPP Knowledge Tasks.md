@@ -27,6 +27,7 @@ kanban-plugin: board
 - [ ] Create Nucleus Primitive
 	- [nucleus](notes/rpp/working-drafts/nucleus.md)
 - [ ] Create State Pattern
+	- [state](notes/rpp/working-drafts/state.md)
 
 
 ## In-Review
