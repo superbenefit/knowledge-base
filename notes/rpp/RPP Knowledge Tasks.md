@@ -14,6 +14,8 @@ kanban-plugin: board
 	- [defi](tags/defi.md)
 - [ ] Create Treasury management Tag Page
 	- [treasury](tags/treasury.md)
+- [ ] Windfall Protocol primitive page
+	- [windfall-protocol](artifacts/primitives/windfall-protocol.md)
 
 
 ## Planned

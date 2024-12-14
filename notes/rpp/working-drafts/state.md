@@ -9,18 +9,17 @@ tags:
 publish: "false"
 type: pattern
 studies: 
-primitives: 
+primitives:
   - nucleus
-  - circle 
+  - circle
 functions: 
 qualities: 
-scale: 
+scale:
   - collaboration
   - coordination
-
 phase:
   - formation
-  - organisation
+  - organization
   - coordination
   - completion
 ---
