@@ -7,14 +7,20 @@ kanban-plugin: board
 ## To-Do
 
 - [ ] Create Wallets Tag Page
-- [ ] Create Defi Tag Page
-- [ ] Create RailGun (defi protocol) Primitive
+	- [wallets](tags/wallets.md)
 - [ ] Create Burner Wallets primitive (practice)
+- [ ] Create RailGun (defi protocol) Primitive
+- [ ] Create Defi Tag Page
+	- [defi](tags/defi.md)
 - [ ] Create Treasury management Tag Page
+	- [treasury](tags/treasury.md)
 
 
 ## Planned
 
+- [ ] BioFi Tag Page
+	
+	- [biofi](tags/biofi.md)
 
 
 ## In-Progress
