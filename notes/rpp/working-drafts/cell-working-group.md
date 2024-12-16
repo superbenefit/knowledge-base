@@ -142,7 +142,7 @@ There are four primary ways new Cells form in DAO networks:
 
 ## Implementation 
 
-The [state](notes/rpp/working-drafts/state.md) pattern outlines how to set up a Cell using Cell State as the vehicle for its core structure. 
+The [group state](notes/rpp/working-drafts/group%20state.md) pattern outlines how to set up a Cell using Cell State as the vehicle for its core structure. 
 
 #### Affordances
 

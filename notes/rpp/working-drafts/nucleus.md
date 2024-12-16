@@ -92,7 +92,7 @@ Here are some guidelines for creating an effective team/group nucleus:
 
   [OpenCivics Collaborative Initiative – Specification Template](links/OpenCivics%20Collaborative%20Initiative%20–%20Specification%20Template.md)
 
-[state](notes/rpp/working-drafts/state.md)
+[group state](notes/rpp/working-drafts/group%20state.md)
 
 State - pattern (to be created)
 
