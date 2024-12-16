@@ -10,8 +10,11 @@ tags:
   - teams
 publish: "false"
 type: primitive
-functions: 
-qualities: 
+functions:
+  - governance
+qualities:
+  - decentralization
+  - autonomy
 scale: 
   - collaboration
 phase:
@@ -92,7 +95,7 @@ Here are some guidelines for creating an effective team/group nucleus:
 
   [OpenCivics Collaborative Initiative – Specification Template](links/OpenCivics%20Collaborative%20Initiative%20–%20Specification%20Template.md)
 
-[state](notes/rpp/working-drafts/state.md)
+[state](notes/rpp/working-docs/state.md)
 
 State - pattern (to be created)
 

@@ -18,7 +18,7 @@ fieldsOrder:
   - 8QLYWX
   - 9zPLbb
   - 5SD9jH
-version: "2.76"
+version: "2.77"
 fields:
   - name: scale
     type: Multi

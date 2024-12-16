@@ -1,8 +1,9 @@
 ---
-title: Decisions
+title: Decisions & Decision-making
 harvester: 
 tags:
   - actions
+  - functions
 aliases:
   - "#decisions"
 publish: "true"

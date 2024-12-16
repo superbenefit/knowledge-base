@@ -11,9 +11,11 @@ type: pattern
 studies: 
 primitives:
   - nucleus
-  - circle
-functions: 
-qualities: 
+functions:
+  - governance
+qualities:
+  - decentralization
+  - autonomy
 scale:
   - collaboration
   - coordination

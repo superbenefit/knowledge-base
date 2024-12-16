@@ -1,5 +1,5 @@
 ---
-type: primitive, practice
+type: protocol
 publish: "false"
 title: Decider
 description: A social protocol for small team decision-making

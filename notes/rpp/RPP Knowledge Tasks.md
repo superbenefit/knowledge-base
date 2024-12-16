@@ -30,14 +30,14 @@ kanban-plugin: board
 ## In-Progress
 
 - [ ] Create Cell (working group) Pattern ^9tyowr
-	- [cell-working-group](notes/rpp/working-drafts/cell-working-group.md)
-- [ ] Create Circle Primitive [circle](notes/rpp/working-drafts/circle.md)
+	- [cell-working-group](notes/rpp/working-docs/cell-working-group.md)
+- [ ] Create Circle Primitive [circle](notes/rpp/working-docs/circle.md)
 - [ ] Create Decider Primitive 
-	- [decider](notes/rpp/working-drafts/decider.md)
+	- [decider](notes/rpp/working-docs/decider.md)
 - [ ] Create Nucleus Primitive
-	- [nucleus](notes/rpp/working-drafts/nucleus.md)
+	- [nucleus](notes/rpp/working-docs/nucleus.md)
 - [ ] Create State Pattern
-	- [state](notes/rpp/working-drafts/state.md)
+	- [state](notes/rpp/working-docs/state.md)
 
 
 ## Iterating
