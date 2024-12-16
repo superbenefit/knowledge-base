@@ -8,7 +8,7 @@ This repo is a collection of [Markdown](https://www.markdownguide.org/) files, o
 
 Our [public knowledge garden](https://knowledge.superbenefit.org) shares curated artifacts and insights from this work, while this repository contains the complete workspace where that knowledge develops. This dual nature - private workspace and public garden - enables us to balance open sharing with the messy reality of knowledge development.
 
-## Why This Design?
+### Why This Design?
 
 Knowledge gardens are fundamentally different from traditional documentation systems. Rather than enforcing rigid structures or final forms, we've built a system that lets knowledge evolve naturally while maintaining clear paths for development and sharing.
 
@@ -21,6 +21,8 @@ Four key principles shape how we create and share knowledge:
 - **Progressive Documentation**: Knowledge evolves from rough drafts to collaborative development to polished artifacts. Our directory structure reflects this natural progression, providing appropriate spaces for each stage of development while maintaining clear paths between them.
 
 - **Collective Intelligence**: By balancing individual work with group development, we build shared understanding while preserving diverse perspectives. Our system supports both deep solo work and collaborative refinement, using shared language to bridge individual insights and collective knowledge.
+
+---
 
 ## Repository Structure 
 
@@ -44,7 +46,7 @@ Each directory serves a specific purpose in our knowledge ecosystem:
 
 - **attachments/** - Media files, images, diagrams, and other supporting content used throughout the knowledge base.
 
-- **library/** - External references and resources, enriched with community commentary and analysis.
+- **links/** - External references and resources, enriched with community commentary and analysis.
 
 - **tags/** - Our shared vocabulary and conceptual framework, including term definitions and relationships.
 

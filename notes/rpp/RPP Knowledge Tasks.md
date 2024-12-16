@@ -16,11 +16,13 @@ kanban-plugin: board
 	- [treasury](tags/treasury.md)
 - [ ] Windfall Protocol primitive page
 	- [windfall-protocol](artifacts/primitives/windfall-protocol.md)
+- [ ] Create MycoFi pattern
+	- [mycofi](tags/mycofi.md)
 
 
 ## Planned
 
-- [ ] BioFi Tag Page
+- [ ] BioFi Pattern
 	
 	- [biofi](tags/biofi.md)
 
@@ -38,11 +40,13 @@ kanban-plugin: board
 	- [state](notes/rpp/working-drafts/state.md)
 
 
-## In-Review
+## Iterating
+
+- [ ] Privacy Payments Pattern
+	- [privacy-payments](artifacts/patterns/privacy-payments.md)
 
 
-
-## Published
+## Complete
 
 
 
