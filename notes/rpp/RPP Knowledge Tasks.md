@@ -7,34 +7,46 @@ kanban-plugin: board
 ## To-Do
 
 - [ ] Create Wallets Tag Page
-- [ ] Create Defi Tag Page
-- [ ] Create RailGun (defi protocol) Primitive
+	- [wallets](tags/wallets.md)
 - [ ] Create Burner Wallets primitive (practice)
+- [ ] Create RailGun (defi protocol) Primitive
+- [ ] Create Defi Tag Page
+	- [defi](tags/defi.md)
 - [ ] Create Treasury management Tag Page
+	- [treasury](tags/treasury.md)
+- [ ] Windfall Protocol primitive page
+	- [windfall-protocol](artifacts/primitives/windfall-protocol.md)
+- [ ] Create MycoFi pattern
+	- [mycofi](tags/mycofi.md)
 
 
 ## Planned
 
+- [ ] BioFi Pattern
+	
+	- [biofi](tags/biofi.md)
 
 
 ## In-Progress
 
 - [ ] Create Cell (working group) Pattern ^9tyowr
-	- [cell-working-group](notes/rpp/working-drafts/cell-working-group.md)
-- [ ] Create Circle Primitive [circle](notes/rpp/working-drafts/circle.md)
+	- [cell-working-group](notes/rpp/working-docs/cell-working-group.md)
+- [ ] Create Circle Primitive [circle](notes/rpp/working-docs/circle.md)
 - [ ] Create Decider Primitive 
-	- [decider](notes/rpp/working-drafts/decider.md)
+	- [decider](notes/rpp/working-docs/decider.md)
 - [ ] Create Nucleus Primitive
-	- [nucleus](notes/rpp/working-drafts/nucleus.md)
+	- [nucleus](notes/rpp/working-docs/nucleus.md)
 - [ ] Create State Pattern
-	- [group state](notes/rpp/working-drafts/group%20state.md)
+	- [state](notes/rpp/working-docs/state.md)
 
 
-## In-Review
+## Iterating
+
+- [ ] Privacy Payments Pattern
+	- [privacy-payments](artifacts/patterns/privacy-payments.md)
 
 
-
-## Published
+## Complete
 
 
 

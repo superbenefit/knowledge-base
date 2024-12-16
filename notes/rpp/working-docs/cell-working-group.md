@@ -9,12 +9,22 @@ tags:
 publish: "false"
 type: pattern
 studies: 
-primitives: 
-  - circle 
-functions: 
-qualities: 
-scale: 
+primitives:
+  - nucleus
+  - decider
+functions:
+  - governance
+qualities:
+  - decentralization
+  - autonomy
+  - decision-making
+scale:
+  - collaboration
 phase:
+  - organization
+  - coordination
+patterns:
+  - state
 ---
 Tasks for Rowan 
 1. Create Nucleus doc
@@ -142,7 +152,7 @@ There are four primary ways new Cells form in DAO networks:
 
 ## Implementation 
 
-The [group state](notes/rpp/working-drafts/group%20state.md) pattern outlines how to set up a Cell using Cell State as the vehicle for its core structure. 
+The [state](notes/rpp/working-docs/state.md) pattern outlines how to set up a Cell using Cell State as the vehicle for its core structure. 
 
 #### Affordances
 

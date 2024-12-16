@@ -1,6 +1,6 @@
 ---
-title: 
-description: Circle, a working group structure used in sociocracy. 
+title: Circle
+description: Circle, a working group structure used in sociocracy.
 url: 
 author:
   - yeoro.eth
@@ -8,17 +8,21 @@ tags:
   - primitives
   - teams
 publish: "false"
-type: primitive
+type: pattern
 functions:
   - governance
 qualities:
   - autonomy
   - decentralization
-  - decision-making
-scale: 
+scale:
   - collaboration
   - coordination
 phase:
+  - organization
+  - coordination
+patterns:
+  - cell-working-group
+  - state
 ---
 
 A circle is a semi-autonomous, purpose-aligned team unit that operates through distributed decision-making using sociocratic governance principles.
