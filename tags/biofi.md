@@ -8,8 +8,8 @@ type: pattern
 aliases:
   - "#biofi"
 tags:
-  - "#refi"
-  - "#bioregionalism"
+  - "refi"
+  - "bioregionalism"
   - patterns
 url: 
 studies: 
