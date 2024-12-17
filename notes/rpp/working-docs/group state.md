@@ -165,8 +165,19 @@ AND (
 
 ### Implementation
 
-Template 
-Technical implementation 
+**Template** 
+- 
+- Use this template as a starting point for designing an appropriate group state document for a team. Select categories to include from the Components of Group State section and base
+- This template can serve 5 purposes across the lifecycle of a group:
+	1. As a collaborative document to start to gather thoughts and intentions for the group in the [conversation](notes/dao-primitives/framework/phase/conversation.md) phase
+	2. As a proposal template for a formal proposal approve the establishment of the team in the [formation](notes/dao-primitives/framework/phase/formation.md)
+	3. As the structure within which to develop and record the team's specific agreements and plans during [organization](notes/dao-primitives/framework/phase/organization.md) phase
+	4. As the capture of the ongoing evolving current state of the operating group. Visible, public (to the extent that this is practical) interface for those coordinating with the group through [coordination](notes/dao-primitives/framework/scale/coordination.md) phase
+	5. As the final record that archives what the group has achieved and who contributed to these achievements through [completion](notes/dao-primitives/framework/phase/completion.md)
+- If available, ask for facilitation support to decide on what to include and the level of depth/detail to include based on the group's [[phase]] and the coordination requirements of the network that the group will operate in. 
+
+
+*Technical implementation* 
 
 
 ## Examples
