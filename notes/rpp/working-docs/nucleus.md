@@ -8,6 +8,7 @@ tags:
   - primitives
   - cell 
   - teams
+  - group-state
 publish: "false"
 type: primitive
 functions:
@@ -26,7 +27,7 @@ phase:
 
 
 ## Nucleus Overview
-For decentralized coordination using small autonomous [[teams]] to be successful, groups need a mechanism to capture and display a clear articulation of the group's current "state". The nucleus primitive serves this role of capturing and maintaining a group's state. 
+For decentralized coordination using small autonomous [[teams]] to be successful, groups need a mechanism to capture and display a clear articulation of the group's current "state". The nucleus primitive serves this role of capturing and maintaining a [group's state](tags/group-state.md). 
 
 A team/group's nucleus will usually be in the form of a digital document of some sort. 
 
