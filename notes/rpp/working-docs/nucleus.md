@@ -93,7 +93,7 @@ Here are some guidelines for creating an effective team/group nucleus:
 
 ## Reviews and Case Studies
 
-  [OpenCivics Collaborative Initiative – Specification Template](links/OpenCivics%20Collaborative%20Initiative%20–%20Specification%20Template.md)
+  [OpenCivics Collaborative Initiative – Specification Template](https://github.com/superbenefit/knowledge-base/blob/main/links/OpenCivics%20Collaborative%20Initiative%20%E2%80%93%20Specification%20Template.md)
 
 [state](notes/rpp/working-docs/state.md)
 
