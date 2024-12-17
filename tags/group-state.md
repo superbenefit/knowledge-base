@@ -7,20 +7,19 @@ publish:
   - true
 type: tag
 aliases:
-  - "#<% tp.file.name %>"
+  - "#group-state"
 tags:
 ---
 
-*<% tp.frontmatter.description || "%% Please add a description %%" %>*
 
 Group state describes the structured capture of essential group information in a way that provides for internal coherence within the group, and the possibility of coordination between the group and other entities in purpose aligned networks of small autonomous teams. 
 
 ---
-## Group state 
+## Use of "Group state" 
 
 The concept of group state is borrowed from computer science. We use “state” to describe the current configuration of an entity at any point in time.
 
-Entities having a clearly defined and interpretable state is fundamental for decentralised coordination to occur. It allows an entity or group to have a coherent accurate view/description of itself that others in the network can engage with.
+Entities having a clearly defined and interpretable state is fundamental for decentralized coordination to occur. It allows an entity or group to have a coherent accurate view/description of itself that others in the network can engage with.
 
 An entity’s _state_ is a secure, (ideally version-controlled) up-to-date description of the intentions, agreements and activities of an entity that provides a mechanism for others to coordinate with it - e.g discover it, trust it, partner with it, share resources with it etc
 
