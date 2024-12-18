@@ -18,9 +18,12 @@ For instruction on how to use this template please refer to the [group-state](no
 ---
 
 
-## Introduction
-- A short overview of the Cell and its context
+**Cell name:**
+**Date of creation:**
+**Description:**
 
+
+---
 
 ## Purpose
 
@@ -36,6 +39,7 @@ For instruction on how to use this template please refer to the [group-state](no
 **Design/intentions**
  - 
 
+---
 
 
 
@@ -57,7 +61,7 @@ For instruction on how to use this template please refer to the [group-state](no
 **Treasury management**
 - 
 
-
+---
 
 
 ## Progress
@@ -71,3 +75,4 @@ For instruction on how to use this template please refer to the [group-state](no
 **Project/progress management**
 - 
 
+---

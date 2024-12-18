@@ -8,7 +8,9 @@ publish:
 type: tag
 aliases:
   - "#group-state"
-tags:
+tags: 
+  - state
+  - nucleus 
 ---
 
 

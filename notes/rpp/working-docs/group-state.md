@@ -10,6 +10,8 @@ tags:
   - group-state
 publish: "false"
 type: pattern
+aliases:
+  - "#group-state"
 studies: 
 primitives: 
   - nucleus
