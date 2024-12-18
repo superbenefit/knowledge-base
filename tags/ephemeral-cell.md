@@ -4,7 +4,7 @@ description: A temporary Cell that is created to achieve a specific short-term g
 harvester: 
 curator:
   - yeoro.eth
-publish: 
+publish: "true"
 type: tag
 aliases:
   - "#ephemeral-cell"
