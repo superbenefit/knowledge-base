@@ -11,7 +11,7 @@ This framework organizes the foundational concepts used in [[tags/daos|DAO]] des
 
 - **[Group Phase](notes/dao-primitives/framework/phase/phase.md)**
 - **[Group Scale](notes/dao-primitives/framework/scale/scale.md)**
-- [Group State](notes/dao-primitives/framework/state.md)
+- **[Group State](notes/dao-primitives/framework/state.md)**
 
 ---
 
