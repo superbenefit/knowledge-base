@@ -96,7 +96,7 @@ Consistency is important - with room for autonomy
 	- Details of relationship to the larger DAO/network. Including commitments/compliance to/with the larger network, e.g adherence to a DAO wide code of conduct
 	- Details of formal agreements with other Cells/entities in the larger DAO/network
 	
-- **Formal structure** - legal or formal structure of the group e.g a partnership, UNA, DUNA including details of legal compliance/obligations
+- **Formal structure** - legal or onchain formal structure of the group e.g a UNA, DUNA, Moloch DAO, including details of legal compliance/obligations
 - 
 - **Team agreements** - 
 	- Team make-up - members of the Cell and the roles they hold e.g: core team members, contributors, specific execution and stewardship roles etc 
