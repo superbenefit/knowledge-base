@@ -4,10 +4,14 @@ description: A pattern for creating and managing group state for purpose aligned
 url: 
 author:
   - yeoro.eth
-tags:
+tags: 
   - patterns
+  - group
+  - group-state
 publish: "false"
 type: pattern
+aliases:
+  - "#group-state"
 studies: 
 primitives: 
   - nucleus
@@ -29,7 +33,7 @@ phase:
 
 **Group State** provides a set of information categories that create a template for a small autonomous teams to create and maintain a [nucleus](notes/rpp/working-drafts/nucleus.md) document. This document provides a source of internal coherence and structure for a team, as well as transparent source of trusted information to make effective coordination with external entities possible.  
 
-- **State** (pattern): _A pre-determined set of data points describing a group, which is displayed in the nucleus document but can also be expressed in other ways_
+
 
 %% Introduce your note here. %%
 
@@ -76,62 +80,69 @@ There are several factors that will influence what and how much detail a team mi
 
 
 ### Components of group state
-Consistency is important  with room for autonomy 
+Consistency is important - with room for autonomy 
 
 
-**Purpose** 
-- A clear purpose statement for the Cell
-- Detail of how this purpose connects to the vision, purpose and goals of the larger network
-- Any specific goals that have been defined for the Cell e.g linking to the proposal that was passed to create the Cell etc
-- High level design plans for what the Cell will do
+**Purpose** - why the Cell exists
+
+- **High-level purpose/problem** - a clear purpose statement for the Cell - including the problem that is being addressed
+- **Genesis of the Cell** - detail of how this purpose connects to the vision, purpose and goals of the larger network and why this Cell is being created
+- **Goals** - any specific goals that have been defined for the Cell e.g linking to the proposal that was passed to create the Cell etc
+- **Design/intentions** - high-level description of what the Cell will do/is doing
 
 **Practice** 
-- Details of relationship to the larger DAO/network
-	- compliance with the larger network, e.g adherence to a DAO wide code of conduct
-- Legal structure e.g a partnership, UNA, DUNA
-	- Details of legal compliance
-- Details of any formal agreements with other entities in the DAO/network
-- Team make-up - members of the Cell and the roles they hold
-	- Core team members
-	- Contributors 
-	- Funders
-- Team commitments 
-	- Any team agreements that cover availability, the types of work team members agree to do,  
-	- 
-- Decision-making  
+
+- **Relationships** 
+	- Details of relationship to the larger DAO/network. Including commitments/compliance to/with the larger network, e.g adherence to a DAO wide code of conduct
+	- Details of formal agreements with other Cells/entities in the larger DAO/network
+	
+- **Formal structure** - legal or onchain formal structure of the group e.g a UNA, DUNA, Moloch DAO, including details of legal compliance/obligations
+- 
+- **Team agreements** - 
+	- Team make-up - members of the Cell and the roles they hold e.g: core team members, contributors, specific execution and stewardship roles etc 
+	- Team commitments - team agreements that cover availability, the types of work team members agree to do, minimum agreements for 
+
+ - **Decision-making**  
 	- Simple decisions in the team. Being clear about making and recording decisions as part of your meetings and other interactions  
 	- Formal decisions - including treasury decisions and making changes to your Cell state  
-	- Dispute resolutions - agreements about how you will approach disputes and conflict within your team  
+	- Dispute resolutions - agreements about how you will approach disputes and conflict within your team
+	- [Decision-log](notes/rpp/working-docs/decision-log.md) - recording important decisions in a secure way 
 	- Tools 
-		- Record keeping - tools for keeping records of decisions that the team makes
+		- Record keeping - tools for keeping records of decisions that the team makes 
 		- Decision protocols - e.g adopting something like [decider](notes/rpp/working-drafts/decider.md) as a shared standard for decision-making
-- Treasury management  
-	- Security - 
-		- Treasury multisig status and configuration
-		- Active treasury signers and roles
+
+- **Treasury management**  
+	- Multisig
+		- Treasury multisig configuration
+		- Active signers and roles
 		- Backup security measures in place
 	
 	- Contributor rewards
-		- Active reward mechanisms
-		- Payment cycles and schedules
-		- Compensation frameworks
-		- Distribution methods
+		- Mechanisms for rewarding different types of contributions, e.g salaries, task or role based compensation, allocation tools such as coordinape  
+
 	- Tokens & badges 
 		- Onchain mechanisms for managing authorities, compensation, decision-making etc e.g Hats protocol
+
 	- Financial records
-		- Transaction recording system
-		- Balance tracking method
-		- Reporting framework
-		- Reconciliation process
+		- Transparent mechanism for recording treasury transactions and recording balances for compliance purposes
+
 
 
 **Progress** 
-The tools and practices by which the team achieves progress. These provide internal structure for the team and external transparency for coordinating entities outside the team
-- Communication - shared comms platforms
-- Task management - 
+The tools and practices by which the team achieves and demonstrates progress. These provide internal structure for the team and external transparency for coordinating entities outside the team:
+- **Communication** 
+	- Shared comms platforms
+	- Meeting schedules, structure and notes/recordings
+
+- **Strategy/planning** - ongoing planning documentation 
+
+- **Project/progress management** 
+	- Task management - project management for core team and contributors 
+	- Role management - visibility over crafted and assigned roles
+
 
 #### Affordances
-
+**Network scale transparency and intelligence** - the possibility for a network of Cells with functioning group state to produce a larger collective intelligence. Based on Cells operating with degrees of autonomy but all using a consistent interoperable schema and tooling for group state, a larger network view can emerge allowing for a much more dynamic..... 
 %% Describe affordances here %%
 
 ### Risks and Opportunities
@@ -165,8 +176,19 @@ AND (
 
 ### Implementation
 
-Template 
-Technical implementation 
+**Template** 
+[Group-state-template](notes/rpp/working-docs/group-state-template.md)
+- Use this template as a starting point for designing an appropriate group state document for a team. Select categories to include from the Components of Group State section and base
+- This template can serve 5 purposes across the lifecycle of a group:
+	1. As a collaborative document to start to gather thoughts and intentions for the group in the [conversation](notes/dao-primitives/framework/phase/conversation.md) phase
+	2. As a proposal template for a formal proposal approve the establishment of the team in the [formation](notes/dao-primitives/framework/phase/formation.md)
+	3. As the structure within which to develop and record the team's specific agreements and plans during [organization](notes/dao-primitives/framework/phase/organization.md) phase
+	4. As the capture of the ongoing evolving current state of the operating group. Visible, public (to the extent that this is practical) interface for those coordinating with the group through [coordination](notes/dao-primitives/framework/scale/coordination.md) phase
+	5. As the final record that archives what the group has achieved and who contributed to these achievements through [completion](notes/dao-primitives/framework/phase/completion.md)
+- If available, ask for facilitation support to decide on what to include and the level of depth/detail to include based on the group's [[phase]] and the coordination requirements of the network that the group will operate in. 
+
+
+*Technical implementation* 
 
 
 ## Examples
