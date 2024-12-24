@@ -1205,7 +1205,7 @@ Attendees: @MBaldwin @Nate @Peter Gulka @heenal
 - Frameworks - Steve walked the team through the frameworks
 	- comment from Peter of how subjective this could be
 	- Types of transformation resource shared [https://www.bouncebeyond.global/types-of-transformations](https://www.bouncebeyond.global/types-of-transformations) 
-	- ![image.png](../../../Resources/a0830e71-c375-4708-bcdc-c24c21d64633.png)
+	- ![image.png](attachments/a0830e71-c375-4708-bcdc-c24c21d64633.png)
 - we are looking at top left? for quantum leap as potential of web 3 to engage entire civilization and rapid/urgent need
 - would it be interested to add SEEDS, crypto currency because of dramatic changes because the way originally designed was replicating the capitalist logics trying to get away from
 
@@ -1255,7 +1255,7 @@ Next Steps
 	- Bounce Beyond - Incremental/Reform/Transformation
 	- Biological Example (Steve Waddell)
 	- Shaping Innovation Futures
-	- ![image.png](../../../Resources/ef4f6e1a-f035-4666-828b-b4ac0f55e0eb.png)
+	- ![image.png](attachments/ef4f6e1a-f035-4666-828b-b4ac0f55e0eb.png)
 	- ![image.png](../../../Resources/9f79523e-402a-48f2-9061-b8e1d4d08a3c.png)
 
 # November 4, 2022
@@ -1341,7 +1341,7 @@ Next Steps
 			- 4) Synthesis and analysis of what has enabled and constrained the systems transformation projects and DAOs.
 		- ✅ SUP-272 Think about tooling and create a Figjam board 
 		- ⬜️ SUP-273 Synthesize the Purpose of the Project 
-		- ![image.png](../../../Resources/e76ab27e-3eb6-4e9b-a98a-c1eef6272560.png)
+		- ![image.png](attachments/e76ab27e-3eb6-4e9b-a98a-c1eef6272560.png)
 - 
 
 

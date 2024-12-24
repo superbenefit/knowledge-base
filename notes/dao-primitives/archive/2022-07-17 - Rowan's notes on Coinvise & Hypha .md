@@ -66,7 +66,7 @@
 	- "As a non-profit worker co-operative, we strive to cultivate collective growth and meaningful livelihoods through learning and building digital technologies together."
 	- "**Hypha is rooted in Tkaronto (Toronto), Canada."**
 
-![image.png](../../../Resources/eca5bb1f-3cc4-4d95-b216-3a438acf8718.png)
+![image.png](attachments/eca5bb1f-3cc4-4d95-b216-3a438acf8718.png)
 
 
 # HyphaDAO

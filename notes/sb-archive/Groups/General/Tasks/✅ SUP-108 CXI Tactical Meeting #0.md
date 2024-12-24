@@ -64,4 +64,4 @@ General Next Steps
 [WebLink](https://images-ext-1.discordapp.net/external/g9m6ILdX53T5RKwKUkYC-9Bn3BQnWyyOKDJfMSsPqtc/https/pbs.twimg.com/media/FIwPp3qVkAM2XfA.jpg%3Alarge)
 
 
-- ![image.png](../../../Resources/7f370be1-ae94-4ff3-bff6-a977347bacaf.png)
+- ![image.png](attachments/7f370be1-ae94-4ff3-bff6-a977347bacaf.png)

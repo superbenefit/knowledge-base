@@ -5,7 +5,7 @@ Personal reflection:
 
 Verdict: 
 I recommend we continue to use it unless there are objections or another solution emerges. It should get easier and more effective with more of us having greater experience with it.
-![image.png](../../../Resources/2ebb258d-e1f6-421e-8243-50219a3a342b.png)
+![image.png](attachments/2ebb258d-e1f6-421e-8243-50219a3a342b.png)
 
 
 

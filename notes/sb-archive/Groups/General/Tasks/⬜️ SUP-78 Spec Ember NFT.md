@@ -11,7 +11,7 @@ Launch our first NFT series in order to:
 - Owners should feel it will bring them significant value over time
 - Owners should feel attached to it (this is more important over time)
 
-![image.png](../../../Resources/06a3a357-af52-4007-a456-17eaa5b1d41c.png)
+![image.png](attachments/06a3a357-af52-4007-a456-17eaa5b1d41c.png)
 ## Lore
 It begins with a spark. A collision of energy between two entities. Illuminating the hidden connections that exist between us and the world around us. 
 A lone spark may leave a mark but quickly burns out, a temporary signal of connection/interaction. 
@@ -43,7 +43,7 @@ Acquirers of the Series 0 will also automatically receive the Ember NFT, SuperBe
 	- Mint
 - **_"Feed the Tamagotchi"_**
 
-![](../../../Resources/4609d841-7924-4f75-a559-a8c035878787.png)
+![](attachments/4609d841-7924-4f75-a559-a8c035878787.png)
 ## TBD
 - Can we avoid needing a mint site? Most complicating features are
 	- allowing people to put variable amounts into their nft

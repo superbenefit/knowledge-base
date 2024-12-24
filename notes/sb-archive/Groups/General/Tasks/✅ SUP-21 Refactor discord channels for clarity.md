@@ -79,7 +79,7 @@ Note: R (read) W (write) P (permissioned) X (react only) B (bot) ~channel~ (to b
 ![image.png](../../../Resources/677e7d23-cd6d-49e8-bd99-0a6aa5941c15.png)
 ### Diatom
 
-![image.png](../../../Resources/ee357682-5c28-4013-b0d2-48dd4ed1c94f.png)
+![image.png](attachments/ee357682-5c28-4013-b0d2-48dd4ed1c94f.png)
 ### Forefront
 
-![image.png](../../../Resources/3a790d51-fea2-46d9-9054-a2270d15e98a.png)
+![image.png](attachments/3a790d51-fea2-46d9-9054-a2270d15e98a.png)

@@ -13,7 +13,7 @@ My rationale for his fitness to this role comes from a number of key facts:
 In making this Proposal publicly on Discord, I am seeking the consent of our emerging community to appoint @Lewwwk in this role, thereby conferring to him the legitimacy he will need in order to lead while remaining responsible to the purpose of SuperBenefit and accountable to its Contributors.****
 **Please vote by using the "Fist-to-Five" consent poll in Discord.**
 ## Result vote result 
-- ![proposal-submission_-_Discord.png](../../../Resources/aec7c6b8-f04b-46c4-a46d-5e3b42db54f6.png)
+- ![proposal-submission_-_Discord.png](attachments/aec7c6b8-f04b-46c4-a46d-5e3b42db54f6.png)
 - 5 - 13 votes; No votes <5 registered
-- ![Cursor_and_proposal-submission_-_Discord.png](../../../Resources/7b985e15-f15a-4f84-bfc4-391230571427.png)
+- ![Cursor_and_proposal-submission_-_Discord.png](attachments/7b985e15-f15a-4f84-bfc4-391230571427.png)
 - [https://discord.com/channels/874697948838101092/922582745102827531/923958642619863041](https://discord.com/channels/874697948838101092/922582745102827531/923958642619863041) 

@@ -13,8 +13,8 @@ What is a DAO
 7. Private discord channel created for cohort “draft class”
 8. Split into breakout groups but it didn’t really work
 
-![How do YOU want to.png](../../../Resources/9d52a7a0-16dc-4b92-8157-8d9de299aad1.png)
-![Pasted Graphic 1.png](../../../Resources/afe70384-90c3-4f58-9847-cfc31fa47fe6.png)
-![Pasted Graphic 2.png](../../../Resources/f882e50a-5288-4ca3-8fee-cc6e4cb97673.png)
-![Can I contribute part-.png](../../../Resources/04b8e640-061b-42f0-a6a3-a3a90561f759.png)
-![don't know anything.png](../../../Resources/7acb50c5-d314-4ed9-8511-182ada3253a4.png)
+![How do YOU want to.png](attachments/9d52a7a0-16dc-4b92-8157-8d9de299aad1.png)
+![Pasted Graphic 1.png](attachments/afe70384-90c3-4f58-9847-cfc31fa47fe6.png)
+![Pasted Graphic 2.png](attachments/f882e50a-5288-4ca3-8fee-cc6e4cb97673.png)
+![Can I contribute part-.png](attachments/04b8e640-061b-42f0-a6a3-a3a90561f759.png)
+![don't know anything.png](attachments/7acb50c5-d314-4ed9-8511-182ada3253a4.png)

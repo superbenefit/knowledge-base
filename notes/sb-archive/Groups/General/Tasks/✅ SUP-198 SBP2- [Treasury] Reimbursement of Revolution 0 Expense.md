@@ -15,7 +15,7 @@ Treasury to execute transactions as required to reimburse the following expenses
 	- Conversion: [https://www.xe.com/currencyconverter/convert/?Amount=1961.17&From=CAD&To=USD](https://www.xe.com/currencyconverter/convert/?Amount=1961.17&From=CAD&To=USD) 
 	- Plus: $50 for gas and currency conversion
 - Gas fees paid personally by multi-sig executors (according to transaction history at time of execution)
-	- ![Screen Shot 2022-03-01 at 8.21.47 PM.png](../../../Resources/ac9cede4-e447-43fa-a257-66ceccccc97a.png)
+	- ![Screen Shot 2022-03-01 at 8.21.47 PM.png](attachments/ac9cede4-e447-43fa-a257-66ceccccc97a.png)
 - Wallet seeding by @Lewwwk as per transaction history for mutli-sig, and SuperBenefit hot wallet
-	- ![Screen Shot 2022-03-01 at 8.23.38 PM.png](../../../Resources/7dd10099-da50-4129-93b1-13ed5c559c79.png)
-	- ![Screen Shot 2022-03-01 at 8.24.41 PM.png](../../../Resources/5a6f93b4-24b9-435d-b5fd-b7dcd9fc4a74.png)
+	- ![Screen Shot 2022-03-01 at 8.23.38 PM.png](attachments/7dd10099-da50-4129-93b1-13ed5c559c79.png)
+	- ![Screen Shot 2022-03-01 at 8.24.41 PM.png](attachments/5a6f93b4-24b9-435d-b5fd-b7dcd9fc4a74.png)

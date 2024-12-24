@@ -14,8 +14,8 @@ The resulting tokens to be sent to a [gnosis-safe.io](https://gnosis-safe.io) mu
 # Decision
 This proposal will be introduced into discord #proposal-submission for "fist to five" consent. 
 Approved, with eight fives.
-![Screen Shot 2022-02-21 at 5.45.19 PM.png](../../../Resources/7b37a18f-f6d4-45fa-8aa8-162aa0190f37.png)
-![Screen Shot 2022-02-21 at 5.45.11 PM.png](../../../Resources/56d1f0d0-fe82-486d-a653-8abf1dcfc1c2.png)
+![Screen Shot 2022-02-21 at 5.45.19 PM.png](attachments/7b37a18f-f6d4-45fa-8aa8-162aa0190f37.png)
+![Screen Shot 2022-02-21 at 5.45.11 PM.png](attachments/56d1f0d0-fe82-486d-a653-8abf1dcfc1c2.png)
 # Action
 1. Multisig created: 
 	- eth:0x731c837121C15e1e7e3cfc0E2588f4d0B35FdD48

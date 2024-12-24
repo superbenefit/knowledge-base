@@ -1,5 +1,5 @@
 #[[264 Systems Transformation Project]] 
-![image.png](../../../Resources/b30e113a-2654-423e-ac0c-cf239de80071.png)
+![image.png](attachments/b30e113a-2654-423e-ac0c-cf239de80071.png)
 Summary Analysis:
 
 

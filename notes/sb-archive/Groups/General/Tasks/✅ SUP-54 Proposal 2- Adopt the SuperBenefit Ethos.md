@@ -29,4 +29,4 @@ In making this Proposal publicly on Discord, I am seeking the consent of our eme
 5: nine
 4: one
 Objections: None 
-![](../../../Resources/db174e62-9a14-4dc1-94ab-70186e6dde40.png)
+![](attachments/db174e62-9a14-4dc1-94ab-70186e6dde40.png)

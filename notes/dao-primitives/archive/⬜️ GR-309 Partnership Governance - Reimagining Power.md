@@ -3,7 +3,7 @@
 
 _==Note - this outline is designed to forward the stakeholder engagement for the RP project. We'll need to generalise it for the playbook==_
 _==Note - this outline describes the interactions and relationships between members of the Stakeholder group and the Operational governance of the project. This does not describe the tooling or practices that will facilitate this relationship. These will be developed via a facilitated process where the Stakeholder group and Operational governance will make choices about the details of how they want to organise themselves.  ==_
-![image.png](../../../Resources/347126ea-86a1-4d36-b2f7-4f69c03a8cf9.png)
+![image.png](attachments/347126ea-86a1-4d36-b2f7-4f69c03a8cf9.png)
 ## **Summary / TL;DR**
 - The above partnership governance model creates a way for a group of stakeholders to come together to support and fund a project using web3 composable governance tooling.
 - It is built on the concept of _DAOs as purpose aligned networks of small autonomous teams_
