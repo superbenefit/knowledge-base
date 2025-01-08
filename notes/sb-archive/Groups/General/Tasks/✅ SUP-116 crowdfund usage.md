@@ -1,0 +1,1 @@
+what comes in from crowdfund could be converted and used as compensation, contributors would make a request, recognizes different needs e.g. real life cash needs, some would prefer tokens - gives some flexibility

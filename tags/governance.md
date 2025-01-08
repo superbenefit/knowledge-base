@@ -18,6 +18,13 @@ Articles on governance:
 - [Governance for better futures - Meta-governance](artifacts/articles/Governance%20for%20better%20futures%20-%20Meta-governance.md)
 - [Governance for better futures - New and Old](artifacts/articles/Governance%20for%20better%20futures%20-%20New%20and%20Old.md)
 
+## Governance Actions
+
+- [Evaluation](tags/evaluation.md)
+- Proposal
+- [Decision](tags/decisions.md)
+- Execution
+
 ## Types of Governance
 
 - [Community Governance](notes/primitives/patterns/Community%20Governance.md)
