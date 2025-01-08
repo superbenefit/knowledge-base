@@ -17,10 +17,14 @@ For instruction on how to use this template please refer to the [group-state](no
 
 ---
 
+## Front matter
 
 **Cell name:**
+- 
 **Date of creation:**
+- 
 **Description:**
+- 
 
 
 ---

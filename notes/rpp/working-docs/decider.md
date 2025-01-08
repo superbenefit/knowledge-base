@@ -15,30 +15,30 @@ tags:
 
 ---
 
-The Decider Protocol is a fast way of reaching agreement in a small team context, while reducing opportunities for poor team dynamics and bad decision-making
+The Decider Protocol is a fast way of reaching agreement in a small team context while reducing opportunities for poor team dynamics and bad decision-making.
 
-%% Introduce your note here. %%
 
 ---
 ## What is the decider protocol
+
 The decider protocol is designed to support [collaboration](notes/primitives/framework/scale/collaboration.md) scale teams to make decisions in a way that:
 1. Is fast and efficient 
 2. Protects against group anti-patterns that lead to poor decisions
-The decider protocol creates a shared common standard for group decision-making. 
+
+The decider protocol creates a shared common standard for group decision-making that. 
 This primitive is based on the [core protocols](https://mccarthyshow.com/protocols/the-core-protocols-english-v3.03.pdf). 
 
 
 
 
 ## Why use the decider protocol 
-If you are a [collaboration](notes/primitives/framework/scale/collaboration.md) scale team that needs to make decisions quickly, then the decider protocol could be a useful practice to implement. Features of the decider protocol are:
+
+If you are a [collaboration](notes/primitives/framework/scale/collaboration.md) scale team that needs to make decisions quickly, then the decider protocol could be a useful practice to implement. Benefits of the decider protocol are:
 1. Consistency - it gives members of a team a single reliable ritual for decision-making that can counteract the tendency for groups to evolve unbalanced decision-making patterns that preference the will of a minority of the group.  
 2. Participation - people are required to include other team members (potentially all team members) in decision-making
-3. Transparency - internal and external. Internally everyone in the team can see what decisions are being made and by whom. Likewise, people looking into a team can see the decisions the team is making and judge the quality of the process they are using to make them.  
+3. Transparency and auditability - internal and external. Logging the use of the decider protocol makes it easy to see and understand team decision-making. Internally, everyone in the team can see what decisions are being made and by whom. Likewise, people looking into a team from the outside can see the decisions the team is making and judge the quality of the process they are using to make them.  
 4. Accountability - especially for consent and consensus based decisions
-Transparancy
-Auditability 
-Decent 
+5. Safe decent - team members have a trusted process with which to oppose decisions and protect the team from making unsafe decisions. 
 
 
 
@@ -84,6 +84,7 @@ The agreed proposal becomes a binding agreement for all participating team membe
 
 
 ## How to use the decider protocol 
+
 - **Define which decisions you will make using the protocol** - There maybe certain decisions that a team will want to use a different proposal process to make (more formal, onchain, higher scale etc). For example making financial decisions above a specific threshold. This decision-making policy must be clearly defined so that the decider protocol is not used inappropriately. 
 
 - **Define what method of decision-making you want to employ**
@@ -104,7 +105,7 @@ The agreed proposal becomes a binding agreement for all participating team membe
 ### Combining other primitives
 The decider primitive can be combined with:
 - Decisions log - a formal log of decisions, ideally that provides some security and version control
-- Working group (Cell) - it is often the go-to tool for Cells to use for collaborative decision making
+- Working group (Cell) - the decider protocol is often the go-to tool for Cells to use for collaborative decision making
 
 
 ## Examples 

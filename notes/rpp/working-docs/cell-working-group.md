@@ -26,22 +26,11 @@ phase:
 patterns:
   - state
 ---
-Tasks for Rowan 
-1. Create Nucleus doc
-	1.     - **Nucleus** (primitive): _The current result of tracking the state of a group in a public, version-controlled document_
-2. Create State pattern
-	1. - **State** (pattern): _A pre-determined set of data points describing a group, which is displayed in the nucleus document but can also be expressed in other ways_
     
-
-
-"Autonomous workgroups" in open civics
-
-
-
 
 *A pattern for creating working groups that can reliably govern themselves and coordinate with other working groups and DAO like structures.*
 Purpose aligned networks of small autonomous teams 
-<% tp.frontmatter.description || "%% Please add a ddescription %%" %>
+
 
 %% Introduce the pattern here %%
 
@@ -49,7 +38,7 @@ Purpose aligned networks of small autonomous teams
 
 ## Problem / Solution Context
 
-DAOs and other decentralized forms of organizing enable more flexible, powerful and inclusive group coordination patterns by utilizing small autonomous teams in place of rigid top-down hierarchies. However without the rigid rulesets and chains of command typical in traditional organizations these small autonomous teams often fall victim to group dynamic dysfunctions that undermine the potential that decentralized organizing holds (see The Tyranny of Structurelessness [The Tyranny of Structurelessness](https://en.wikipedia.org/wiki/The_Tyranny_of_Structurelessness))
+DAOs and other decentralized forms of organizing enable more flexible, powerful and inclusive group coordination patterns by utilizing small autonomous teams in place of rigid top-down hierarchies. However without the rigid rulesets and chains of command typical in traditional organizations these small autonomous teams often fall victim to group dynamic dysfunctions that undermine the potential that decentralized organizing holds (see [The Tyranny of Structurelessness](https://en.wikipedia.org/wiki/The_Tyranny_of_Structurelessness))
 
 The Cell framework provides teams with enough scaffolding to function as dynamic, autonomous units, avoiding bureaucratic overhead while protecting against group dysfunction. Additionally, it establishes clear interfaces that enable trust-based coordination between groups and individuals across a broader DAO network.  
 

@@ -36,7 +36,7 @@ kanban-plugin: board
 	- [decider](notes/rpp/working-docs/decider.md)
 - [ ] Create Nucleus Primitive
 	- [nucleus](notes/rpp/working-docs/nucleus.md)
-- [ ] Create State Pattern
+- [ ] Create Group State Pattern
 	- [state](notes/rpp/working-docs/state.md)
 
 
