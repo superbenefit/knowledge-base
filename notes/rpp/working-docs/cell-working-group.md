@@ -54,7 +54,8 @@ This balanced approach to structure - implemented through the Cell pattern - hel
 
 ---
 
-## How <% tp.frontmatter.title || "This Pattern" %> Works
+## How Cells Work
+
 ### Overview 
 Working groups, described as "Cells" are the fundamental operational entities within a DAO. They function as small autonomous teams that can coordinate effectively across DAOs and other onchain organizations. Each Cell consists of fewer than 10 people, enabling efficient self-governance while allowing for effective network relationships.
 
@@ -153,11 +154,11 @@ The [state](notes/rpp/working-docs/state.md) pattern outlines how to set up a Ce
 
 ---
 
-## <% tp.frontmatter.title || "This Pattern" %> in Practice
+## Cell (working group) in Practice
 
 %% Describe how this pattern is used / expressed in practice %%
 
-### Strategies for <% tp.frontmatter.title || "This Pattern" %>
+### Strategies for Cell (working group)
 
 %% Describe how this Pattern is used in strategies/playbooks here %%
 
@@ -188,7 +189,7 @@ Using the State pattern template (link when created) as a starting point, work t
 3. Progress - 
 
 
-#### Primitives for <% tp.frontmatter.title || "This Pattern" %>
+#### Primitives for Cell (working group)
 
 %% Add an overview of primitives used here %%
 
@@ -217,7 +218,7 @@ dv.table(
 
 ---
 
-## <% tp.frontmatter.title || "This Pattern" %> Case Studies
+## Cell (working group) Case Studies
 
 %% Add insights from case studies here %%
 

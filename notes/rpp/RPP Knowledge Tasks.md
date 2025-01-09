@@ -22,9 +22,6 @@ kanban-plugin: board
 
 ## Planned
 
-- [ ] BioFi Pattern
-	
-	- [biofi](tags/biofi.md)
 
 
 ## In-Progress
@@ -34,6 +31,9 @@ kanban-plugin: board
 - [ ] Create Circle Primitive [circle](notes/rpp/working-docs/circle.md)
 - [ ] Create Decider Primitive 
 	- [decider](notes/rpp/working-docs/decider.md)
+- [ ] BioFi Pattern
+	
+	- [biofi](tags/biofi.md)
 - [ ] Create Nucleus Primitive
 	- [nucleus](notes/rpp/working-docs/nucleus.md)
 - [ ] Create Group State Pattern
