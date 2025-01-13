@@ -22,6 +22,11 @@ kanban-plugin: board
 
 ## Planned
 
+- [ ] Create [Burner Wallets](notes/rpp/working-docs/burner-wallets.md) practice
+- [ ] Create [Unshielding Assets](notes/rpp/working-docs/unshielding-assets.md) practice
+- [ ] Create [Shielding Assets](notes/rpp/working-docs/shielding-assets.md) practice
+- [ ] Create [ZK Transfers](notes/rpp/working-docs/zero-knowledge-transfers.md) practice
+- [ ] Create Onramping & Offramping practice
 
 
 ## In-Progress
