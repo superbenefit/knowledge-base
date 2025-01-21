@@ -22,9 +22,11 @@ kanban-plugin: board
 
 ## Planned
 
-- [ ] BioFi Pattern
-	
-	- [biofi](tags/biofi.md)
+- [ ] Create [Burner Wallets](notes/rpp/working-docs/burner-wallets.md) practice
+- [ ] Create [Unshielding Assets](notes/rpp/working-docs/unshielding-assets.md) practice
+- [ ] Create [Shielding Assets](notes/rpp/working-docs/shielding-assets.md) practice
+- [ ] Create [ZK Transfers](notes/rpp/working-docs/zero-knowledge-transfers.md) practice
+- [ ] Create Onramping & Offramping practice
 
 
 ## In-Progress
@@ -34,6 +36,9 @@ kanban-plugin: board
 - [ ] Create Circle Primitive [circle](notes/rpp/working-docs/circle.md)
 - [ ] Create Decider Primitive 
 	- [decider](notes/rpp/working-docs/decider.md)
+- [ ] BioFi Pattern
+	
+	- [biofi](tags/biofi.md)
 - [ ] Create Nucleus Primitive
 	- [nucleus](notes/rpp/working-docs/nucleus.md)
 - [ ] Create Group State Pattern
