@@ -180,7 +180,7 @@ Because Cells can be formed in several different ways (as outlined above) a Cell
 
 However, regardless of 
 
-
+Add Ephemeral Cell pattern as a form of a Cell
 
 Using the State pattern template (link when created) as a starting point, work through and define:
 1. Purpose - 
