@@ -55,13 +55,13 @@ Our design approach centers on DAOs as *purpose-aligned networks of small autono
 
 This combination of innovative, context-rich small teams, efficient scaled networks, and community governance can create organizational systems that outperform traditional structures and direct their performance towards a better, more sustainable world.
 
-_We believe that this combination highly innovative high context small teams, combined with the power and efficiency of scaled networks, all wrapped in a community governance layer can produce organisational systems that can both outperform traditional organisations, but more importantly direct this performance towards building a better and more sustainable world._ 
+_We believe that this combination highly innovative high context small teams, combined with the power and efficiency of scaled networks, all wrapped in a community governance layer can produce organizational systems that can both outperform traditional organizations, but more importantly direct this performance towards building a better and more sustainable world._ 
 
 ### **What are the DAO Primitives?**
 
 [primitives](tags/primitives.md)
 
-The DAO primitives provide generalizable building blocks for designing purpose-aligned networks of small autonomous teams.  They are un-opinionated, offering maximum flexibility to create various governance and operational systems.  While they can implement traditional hierarchies, they are designed to facilitate experimentation with decentralized governance models that are principled, coherent, and easy to implement and evolve.
+The DAO primitives provide generalizable building blocks for designing purpose-aligned networks of small autonomous teams.  They are un-opinionated, offering maximum flexibility to create various governance and operational systems. While they can implement traditional hierarchies, they are designed to facilitate experimentation with decentralized governance models that are principled, coherent, and easy to implement and evolve.
 
 Using these primitives involves two phases:
 
@@ -84,15 +84,15 @@ Using these primitives involves two phases:
 
 **From these we have derived 4 initial organisational structures that can be used to design organisational systems.** 
 
-These are DAO's, [Cells](notes/dao-primitives/test-resources/test-pattern.md), Roles, and Tasks. Using the above conceptual framework as a guide, these primitive structures can be composed together to deliver governance and operational needs of many different organisational types. It is important to note that these are the initial structures that we have been experimenting with. You can develop other structures that can be used to operationalise entities/groups, networks and agreements in a DAO context. However, at this stage–given the complexity of implementing new organisational designs, practices and tool-sets–we think it is valuable to start with a simple set of structures out of which many different organisational types can be composed.
+These are DAO's [DAOs](tags/daos.md), [Cells](notes/dao-primitives/test-resources/test-pattern.md), [Roles](tags/roles.md), and [Tasks](tags/tasks.md)asks. Using the above conceptual framework as a guide, these primitive structures can be composed together to deliver the governance and operational needs of many different organizational types. It is important to note that these are the initial structures that we have been experimenting with. You can develop other structures that can be used to operationalize entities/groups, networks and agreements in a DAO context. However, at this stage–given the complexity of implementing new organizational designs out of combinations of different practices and tool-sets–we think it is valuable to start with a simple set of structures out of which many different organizational types can be composed.
 
-1. **DAOs** - purpose aligned networks of small autonomous teams. These are the larger networks of smaller entities that coordinate their activities towards a shared purpose. If the network is large then the DAO will hold the constituency scale governance for the whole network. 
+1. **DAOs** - *networks* - purpose aligned networks of small autonomous teams. These are the larger networks of smaller entities that coordinate their activities towards a shared purpose. If the network is large then the DAO will hold the constituency scale governance for the whole network. 
 
-2. **Cells** - entities/groups of fewer than 10 people who collaborate on specific pieces of work or functions. These Cells collaborate internally to govern themselves and coordinate with other cells to form network structures in a DAO.
+2. **Cells** - *entities/groups* - teams of fewer than 10 people who collaborate on specific pieces of work or functions. These Cells collaborate internally to govern themselves and coordinate with other cells to form network structures in a DAO.
 
-3. **Roles** - are sets of agreements between an entity and other entities or networks in a DAO. They contain and manage specific responsibilities and sets of permissions. Roles allow individuals or groups of people to be assigned specific authority, activities, compensation etc to manage ongoing activities within a Cell or in the lager network. 
+3. **Roles** - *agreements* - sets of agreements between an entity and other entities or networks in a DAO. They contain and manage specific responsibilities and sets of permissions. Roles allow individuals or groups of people to be assigned specific authority, activities, compensation etc to manage ongoing activities within a Cell or in the lager network. 
 
-4. **Tasks** - are agreements that relate to defined pieces of work/deliverables that an individual or a team can engage with and commit to delivering. Like Roles, tasks can be used internally by Cells to manage their activities or can be at coordination scale within a network structure, or at the level of the larger DAO.  
+4. **Tasks** - *actions* - agreements that relate to defined pieces of work/deliverables that an individual or a team can engage with and commit to delivering. Like Roles, tasks can be used internally by Cells to manage their activities or can be at coordination scale within a network structure, or at the level of the larger DAO.  
 
 All structures have _state_. This allows them to be interoperable and universally addressable across a network. 
 

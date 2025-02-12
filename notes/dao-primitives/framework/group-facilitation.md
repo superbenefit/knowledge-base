@@ -11,11 +11,7 @@ publish: "false"
 
 ---
 
-**I. Introduction**
-
-*   **A. Overview of the DAO Primitives Facilitation Framework:** Briefly explain the framework's purpose and benefits.  Emphasize its adaptability for various organizational structures beyond DAOs.
-*   **B. Target Audiences:** Explicitly address both social purpose/philanthropic organizations and general Web3 audiences.  Highlight how the guide will cater to their specific needs and contexts.
-*   **C. Guide Structure and Use:** Explain how the guide is organized and how facilitators can use it effectively.
+How to practically apply the DAO primitives framework to 
 
 
 **II. Understanding Organizational Context: Phase, Scale, and State**
