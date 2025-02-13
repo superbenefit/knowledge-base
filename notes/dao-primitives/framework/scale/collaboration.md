@@ -14,15 +14,15 @@ The Collaboration Scale represents the smallest and most fundamental level of gr
 
 * **Direct Interaction:** Members interact directly with each other, fostering strong relationships and shared understanding.
 * **Shared Goal:**  A clearly defined, shared goal unites the group and provides a focus for collaboration.
-* **Small Group Size:**  The group size is typically small (generally under 10 individuals), allowing for efficient communication and coordination.
-* **Informal Structure:**  The structure is typically informal and adaptable, allowing for flexibility and responsiveness.
+* **Small Group Size:**  The group size is typically small (generally under 10 individuals), allowing for high-bandwidth communication and coordination.
+* **Enabling Constraints:**  The structure is typically informal and adaptable, allowing for flexibility and responsiveness. Using formal structure only for things that can generate significant risk, like financial management. 
 * **High Trust:**  High levels of trust and mutual respect are essential for effective collaboration.
 
 ### Challenges at the Collaboration Scale
 
 * **Communication Breakdown:**  Misunderstandings and communication breakdowns can easily occur in small groups, especially if there is a lack of clarity or trust.
-* **Groupthink:**  The tendency for group members to conform to the opinions of the majority, potentially stifling creativity and innovation.
-* **Social Dynamics:**  Interpersonal conflicts and personality clashes can disrupt collaboration.
+* **Insularity:**  The tendency for groups to become overly separated and self-serving, no longer a genuine participant in the network's goals.  
+* **Social Dynamics:**  Emergent power dynamics and other negative group patterns undo the benefits of creativity and flexibility in a small group. 
 * **Limited Resources:**  Small groups may have limited resources and expertise.
 * **Scalability:**  Collaboration scale groups are not easily scalable; increasing group size often necessitates a transition to a different scale.
 

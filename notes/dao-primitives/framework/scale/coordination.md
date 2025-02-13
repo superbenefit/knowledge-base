@@ -6,24 +6,29 @@ description: "Characteristics and considerations for groups operating at the Coo
 publish: "true"
 ---
 
-The Coordination Scale represents a larger and more complex level of group organization than the Collaboration Scale.  It involves multiple teams or smaller groups working together towards a shared goal, requiring more sophisticated coordination mechanisms and communication strategies.  
+Coordination Scale represents a larger level of group organization than [collaboration scale](notes/dao-primitives/framework/scale/collaboration.md)Collaboration Scale.  It involves larger groups or multiple groups working together towards a shared goal, requiring more sophisticated coordination mechanisms and communication strategies.  
 
-While the exact upper limit of group size is flexible, Coordination Scale groups typically range from 10 to 100 individuals, although this can vary depending on the complexity of the task and the effectiveness of coordination mechanisms.  Beyond this range, the challenges of coordination often necessitate a transition to the Constituency Scale.
+While the exact upper limit of group size is flexible, Coordination Scale groups typically range from 10 to 50 individuals, although this can vary depending on the complexity of the task and the effectiveness of coordination mechanisms.  
+
+Coordination scale is too large to afford the nuanced sense-making, creativity and conflict management that collaboration scale [Collaboration Scale](notes/dao-primitives/framework/scale/collaboration.md) groups are capable of, but are still small enough to be effective at delivering well scoped and planned activities. Beyond its limits (roughly 150 members - see [Dunbar's number](https://en.wikipedia.org/wiki/Dunbar%27s_number)), coordination becomes too costly and difficult and should be either broken into smaller coordination efforts or transitioned to a [Constituency Scale](notes/dao-primitives/framework/scale/constituency.md) approach.
+
+
+
 
 ---
 
 ## Key Characteristics
 
-* **Multiple Teams:**  Coordination Scale groups consist of multiple teams or smaller groups working together.
-* **Shared Goal:**  A clearly defined, shared goal unites the various teams and provides a focus for coordination.
+* * **Shared Goal:**  A clearly defined, shared goal unites the various teams and provides a focus for coordination.
+* * **Formal Structure:**  A more formal structure and sets of processes are typically required to reduce complexity in coordination scale groups, where larger numbers of people are required to work as a collective. 
+* **Multiple Teams:**  Coordination Scale groups often consist of multiple teams working together. This allows for nuanced (complex) decision-making to be pushed to smaller groups. 
 * **Delegation:**  Tasks and responsibilities are delegated to different teams or individuals.
-* **Formal Structure:**  A more formal structure and set of processes are typically required to manage the complexity of multiple teams.
 * **Communication Channels:**  Multiple communication channels are used to facilitate information sharing and coordination.
 * **Interdependence:**  Teams are interdependent, requiring effective communication and coordination to achieve the shared goal.
 
 ### Challenges at the Coordination Scale
 
-* **Communication Complexity:**  The increased number of individuals and teams makes communication more complex and prone to breakdowns.
+* **Communication Complexity:**  Conflict,  disagreement and ambiguity is difficult to process and manage in coordination scale groups.
 * **Coordination Overhead:**  Coordinating the activities of multiple teams requires significant overhead.
 * **Conflicting Priorities:**  Different teams may have conflicting priorities, requiring careful negotiation and compromise.
 * **Resource Allocation:**  Allocating resources effectively across multiple teams can be challenging.

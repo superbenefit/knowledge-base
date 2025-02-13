@@ -6,17 +6,17 @@ description: "A framework outlining the five key phases of group evolution, tail
 publish: "true"
 ---
 
-Groups evolve through distinct phases, each demanding unique tools and approaches. Understanding these phases is crucial for effective group function and coordination. 
+Groups evolve through distinct phases, each demanding unique tools and approaches. Understanding these phases is crucial for effective group function and coordination. Clearly defining a group's phase allows for the design of an appropriate set of tools and constraints for the group, affording it both internal coherence and coherence in the network within which it exists.  
 
 - [Conversation Phase](notes/dao-primitives/framework/phase/conversation.md)
 - [Formation Phase](notes/dao-primitives/framework/phase/formation.md)
 - [Organization Phase](notes/dao-primitives/framework/phase/organization.md)
 - [Coordination Phase](notes/dao-primitives/framework/phase/coordination.md)
-- [Completion Phase].(./completion.md)
-
+- [Completion Phase](notes/dao-primitives/framework/phase/completion.md)
+ ![](attachments/Pasted%20image%2020250213104038.png)
 ---
 
-This framework, applied within the context of DAO primitives (Entities/Groups, Networks, Agreements), identifies four key phases:
+This framework, applied within the context of DAO primitives framework, identifies four key phases:
 
 **1. [Conversation/Ideation Phase:](notes/dao-primitives/framework/phase/conversation.md):** This initial phase focuses on open exploration and idea generation.  It's a period of brainstorming, sharing perspectives, and identifying potential synergies *before* formal structures or processes are established.  The primary goal is to establish a shared vision and understanding, laying the groundwork for future phases.  *Key characteristics* include open exploration, shared vision development, relationship building, and informal processes.  *Challenges* include maintaining momentum, managing diverse perspectives, and avoiding premature closure. 
 

@@ -8,7 +8,7 @@ publish: "true"
 
 The Constituency Scale represents a broad-based level of group organization, encompassing a large and diverse group of stakeholders who share a common interest or benefit from the organization's activities.  
 
-Unlike the Collaboration and Coordination Scales, which focus on smaller, more tightly coupled groups, the Constituency Scale emphasizes participation, representation, and collective decision-making across a wider community.  This scale is often necessary when decisions need to be made that affect a large and diverse population, requiring mechanisms for ensuring that the voices of all stakeholders are heard and considered.
+Unlike the Collaboration and Coordination Scales, which focus on smaller, more tightly coupled groups, Constituency Scale emphasizes participation, representation, and collective decision-making across a wider community.  This scale is often necessary when decisions need to be made that affect a large and diverse population, requiring mechanisms for ensuring that the voices of all stakeholders are heard and considered.
 
 ---
 
@@ -25,7 +25,7 @@ Unlike the Collaboration and Coordination Scales, which focus on smaller, more t
 
 * **Communication:**  Communicating effectively with a large and diverse group can be challenging.
 * **Representation:**  Ensuring that all stakeholders are adequately represented can be difficult.
-* **Decision-Making:**  Reaching consensus on decisions can be time-consuming and complex.
+* **Decision-Making:**  Reaching consensus on decisions can be time-consuming and complex. Decisions usually need to be made simple and straightforward e.g voting based decision-making.
 * **Participation:**  Maintaining high levels of participation from all stakeholders can be difficult.
 * **Accountability:**  Holding the organization accountable to its stakeholders is crucial.
 

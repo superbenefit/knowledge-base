@@ -12,7 +12,7 @@ Human systems function differently at different scales. Understanding these diff
 - [Coordination Scale](notes/dao-primitives/framework/scale/coordination.md)
 - [Constituency Scale](notes/dao-primitives/framework/scale/constituency.md)
 - [Network Scale](notes/dao-primitives/framework/scale/network.md)
-
+![](attachments/Pasted%20image%2020250213110400.png)
 ---
 
 ## Collaboration Scale
@@ -29,4 +29,4 @@ The [constituency scale](notes/dao-primitives/framework/scale/constituency.md) e
 
 ## Network Scale
 
-The [network scale](notes/dao-primitives/framework/scale/network.md) represents the largest and most complex level of group organization, encompassing a system of interconnected organizations or groups working together towards shared or complementary goals. This scale is characterized by high levels of interdependence, complex communication flows, and the need for robust mechanisms for coordination and governance across multiple entities. 
+The [network scale](notes/dao-primitives/framework/scale/network.md) represents the largest and most complex level of group organization, encompassing a system of interconnected organizations or groups (constituencies) working together towards shared or complementary goals. This scale is characterized by high levels of interdependence, complex communication flows, and the need for robust mechanisms for coordination and governance across multiple entities. 

@@ -6,12 +6,11 @@ tags:
 aliases: []
 description: "The final phase of group development, focused on gracefully closing entities that are no longer needed."
 publish: "false"
----  
-<<<<<<< HEAD:notes/primitives/framework/phase/completion.md
-The Completion Phase marks the final [stage](notes/primitives/framework/phase/phase.md)  of group development, focusing on the thoughtful conclusion of groups that no longer effectively serve the network. Just as biological organisms shed unnecessary structures, organizations and networks must remove groups that have served their purpose. 
-=======
-The Completion Phase marks the final [stage](notes/dao-primitives/framework/phase/phase.md)  of group development, focusing on the thoughtful conclusion of groups that no longer effectively serve the network. Just as biological organisms shed unnecessary structures, organizations and networks must remove groups that have served their purpose.
->>>>>>> 9b9ae63b1cf0e53900523fcbc6ce92e5124a0b4d:notes/dao-primitives/framework/phase/completion.md
+---   
+
+
+The Completion Phase marks the final [phase](notes/dao-primitives/framework/phase/phase.md)  of group development, focusing on the thoughtful conclusion of groups that no longer effectively serve the network, it follows the completion of the [coordination phase](notes/dao-primitives/framework/phase/coordination.md). Just as biological organisms shed unnecessary structures, organizations and networks must remove groups that have served their purpose.
+
 
 Every group consumes resources - whether that's team members' time, financial assets, or communication bandwidth. When a group's purpose is fulfilled, a clear process for winding down operations ensures these resources can be redirected where needed. Without such processes, organizations accumulate organizational debt, becoming rigid and inefficient. This directly undermines the flexible decision-making and resource allocation that these structures aim to achieve.
 
