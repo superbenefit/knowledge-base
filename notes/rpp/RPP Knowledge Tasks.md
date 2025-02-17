@@ -38,7 +38,7 @@ kanban-plugin: board
 	- [decider](notes/rpp/working-docs/decider.md)
 - [ ] BioFi Pattern
 	
-	- [biofi](tags/biofi.md)
+	- [biofi](artifacts/patterns/biofi.md)
 - [ ] Create Nucleus Primitive
 	- [nucleus](notes/rpp/working-docs/nucleus.md)
 - [ ] Create Group State Pattern
