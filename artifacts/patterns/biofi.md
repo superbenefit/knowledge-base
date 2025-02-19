@@ -60,7 +60,7 @@ The operative mechanism in this new generation of Bioregional Finance, outlined 
 
 The BioFi Project outlines four templates for Bioregional Financing Facilities. The framework suggests that these reinforce each other both as mechanistic compliments and in a shared operational ethic. For the latter, the BioFi Project has outlined the following priorities.
 
-1. Aim to align with living systems principles96 and Indigenous wisdom
+1. Aim to align with living systems principles and Indigenous wisdom
 2. Serve the realization of the Bioregional Regeneration Strategy
 3. Implement an inclusive and participatory governance structure that represents the bioregion
 4. Work to shift power imbalances
