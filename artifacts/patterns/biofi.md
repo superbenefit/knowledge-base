@@ -30,17 +30,17 @@ phase:
 
 BioFi, short for **Bioregional Finance**, refers to a set of strategies for capital allocation that honor the scales and boundaries found in natural ecosystems and see finance as a contribution to a web of [right relation]() woven in their pattern. The term has gained particular momentum and memetic appeal with the establishment of the BioFi project, but its roots can be traced to various trends in the [alterglobalization]() movement, including various forms of monetary and cultural [localism](), socio-political activations of permaculture and regenerative agriculture, and struggles for indigenous people's sovereignty out of centuries old, ecologically-determined land boundaries.
 
-The BioFi movement has a special power and salience in a period of escalating environmental collapse, institutional transition and technological peril known as the [polycrisis](). As large pools of capital are being mobilized to address these emergencies, activists, scholars and community members have long drawn attention to the danger of this institutional capital being deployed along the same channels and within the same frameworks that instigated this polycrisis in the first place. **The BioFI Project** has crystallized these concerns into an actionable language for capital allocation along lines that honor the dramatic contextual diversity of the threats to living systems we are facing today. 
+The BioFi movement has a special power and salience in a period of escalating environmental collapse, institutional transition and technological peril known as the [polycrisis](). As large pools of capital are being mobilized to address these emergencies, activists, scholars and community members have long drawn attention to the danger of this institutional capital being deployed along the same channels and within the same frameworks that instigated this polycrisis in the first place. [**The BioFi Project**](https://www.biofi.earth) has crystallized these concerns into an actionable language for capital allocation along lines that honor the dramatic contextual diversity of the threats to living systems we are facing today. 
 
 ---
 
 ## Problem Overview
 
-Analysts from the BioFi movement emphasize two problems endemic to allocation of capital meant to address the polycrisis: a) **impoverished institutional infrastructure** rife with perverse incentives and overly **centralized** and **bureaucratized** **allocation strategies**, and b) **underresourced and ignored** indigenous and regenerative organizations.
+Analysts from the BioFi movement emphasize two problems endemic to the allocation of capital meant to address the polycrisis: a) **impoverished institutional infrastructure** rife with perverse incentives and overly **centralized** and **bureaucratized** **allocation strategies**, and b) **underresourced and ignored** indigenous and regenerative organizations.
 
 To understand the first, we should consider the three main relevant types of capital pools: investment capital, public grants, and philanthropy. Because each of the three exist in a mutually enforcing paradigm, their deployments are vulnerable to the double threat of **systems-myopia**, or allocation toward solutions that ignore systematic entanglements and feedback loops, and **extractive intermediaries** that are incentivized by the same logic that informs the very myopia of the first. The insecurity wrought by the former increases the justification for the latter, resulting in "cottage industries" of performative action. The problem is paradigmatic. 
 
-The BioFi team identify four key features of this self-reinforcing paradigm:
+The BioFi project identifies four key features of this self-reinforcing paradigm:
 
 - the separation of humans from the rest of life on Earth; 
 - the treatment of the Earth as a resource to be extracted from;
