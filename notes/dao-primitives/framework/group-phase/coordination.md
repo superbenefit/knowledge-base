@@ -8,7 +8,7 @@ description: "A phase of group development focused on integrating the group into
 publish: "true"
 ---
 
-The Coordination Phase builds upon the [organization phase](notes/dao-primitives/framework/phase/organization.md), transitioning from a focus on internal structure and processes to integration with external networks and collaboration with other groups. This phase is characterized by active collaboration, resource sharing, and alignment with broader network goals. The primary goal is to maximize the group's impact and effectiveness within a larger ecosystem.
+The Coordination Phase builds upon the [organization phase](notes/dao-primitives/framework/group-phase/organization.md), transitioning from a focus on internal structure and processes to integration with external networks and collaboration with other groups. This phase is characterized by active collaboration, resource sharing, and alignment with broader network goals. The primary goal is to maximize the group's impact and effectiveness within a larger ecosystem.
 
 ## Key Characteristics
 

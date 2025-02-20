@@ -1,5 +1,5 @@
 ---
-title: Group state (pattern)
+title: Cell state (pattern)
 description: A pattern for creating and managing group state for purpose aligned networks of small autonomous teams
 url: 
 author:
@@ -39,7 +39,7 @@ phase:
 
 ## Problem / Solution Context
 
-This pattern is designed to be used in the creation of [cells](notes/rpp/working-drafts/cell-working-group.md) as [collaboration](notes/dao-primitives/framework/scale/collaboration.md) scale teams that have a [nucleus](notes/rpp/working-drafts/nucleus.md) document as core coordination infrastructure for operating inside a decentralized network like a DAO. 
+This pattern is designed to be used in the creation of [cells](notes/rpp/working-drafts/cell-working-group.md) as [collaboration](notes/dao-primitives/framework/group-scale/collaboration.md) scale teams that have a [nucleus](notes/rpp/working-drafts/nucleus.md) document as core coordination infrastructure for operating inside a decentralized network like a DAO. 
 
 Capturing and maintaining a cell's state is fundamental to enabling both autonomous operation and effective network coordination within DAOs. A clear and consistent nucleus document serves as a living state that enables the cell to maintain coherence while evolving and provides transparency for network-level coordination. Without documented state, Cells risk falling into internal dysfunction and lack of effectiveness. They also fail to fully leverage the value of coordination and efficient resource and information flows across the network. 
 
@@ -70,12 +70,12 @@ The cell's actual achievements and impact - tracking initiatives, metrics, and v
 The [[nucleus]] document captures the set of key components across each of these 3 dimensions. These are designed to cover the areas necessary for the group-state to provide the intended internal and external transparency and coherence.  
 
 **Phase**
-The group state nucleus document can serve 5 different purposes depending on the [phase](notes/dao-primitives/framework/phase/phase.md) a group is in in its lifecycle:
-	1. As a collaborative document to start to gather thoughts and intentions for the group in the [conversation](notes/dao-primitives/framework/phase/conversation.md) phase
-	2. As a proposal template for a formal proposal to approve the establishment of the team in the [formation](notes/dao-primitives/framework/phase/formation.md)
-	3. As the structure within which to develop and record the team's specific agreements and plans during [organization](notes/dao-primitives/framework/phase/organization.md) phase
-	4. As the capture of the ongoing evolving current state of the operating group. Visible, public (to the extent that this is practical) interface for those coordinating with the group through [coordination](notes/dao-primitives/framework/scale/coordination.md) phase
-	5. As the final record that archives what the group has achieved and who contributed to these achievements through [completion](notes/dao-primitives/framework/phase/completion.md)
+The group state nucleus document can serve 5 different purposes depending on the [group-phase](notes/dao-primitives/framework/group-phase/group-phase.md) a group is in in its lifecycle:
+	1. As a collaborative document to start to gather thoughts and intentions for the group in the [conversation](notes/dao-primitives/framework/group-phase/conversation.md) phase
+	2. As a proposal template for a formal proposal to approve the establishment of the team in the [formation](notes/dao-primitives/framework/group-phase/formation.md)
+	3. As the structure within which to develop and record the team's specific agreements and plans during [organization](notes/dao-primitives/framework/group-phase/organization.md) phase
+	4. As the capture of the ongoing evolving current state of the operating group. Visible, public (to the extent that this is practical) interface for those coordinating with the group through [coordination](notes/dao-primitives/framework/group-scale/coordination.md) phase
+	5. As the final record that archives what the group has achieved and who contributed to these achievements through [completion](notes/dao-primitives/framework/group-phase/completion.md)
 
 
 
@@ -192,19 +192,19 @@ AND (
 ### Implementation
 
 **Template** 
-[Group-state-template](notes/rpp/working-docs/group-state-template.md)
+[Group-state-template](notes/rpp/working-docs/cell-state-template.md)
 - Use this template as a starting point for designing an appropriate group state document for a team. Select categories to include from the Components of Group State section and base
 
 There are several variables that will influence what and how much detail a team will choose to include in it's group state. These can include:
-- **Phase of development** - a Cell in an early [phase](notes/dao-primitives/framework/phase/phase.md) of development may require less specific detail, reflecting its lack of formal structure, compared to an mature operational Cell.
+- **Phase of development** - a Cell in an early [group-phase](notes/dao-primitives/framework/group-phase/group-phase.md) of development may require less specific detail, reflecting its lack of formal structure, compared to an mature operational Cell.
 - **Responsibilities to outside entities** - Cells may require specific information to be included in their group-state based on agreements they have with entities they are coordinating with.  
 - **Amount of resources managed** - a Cell with a large treasury would likely require more rigorous decision-making and treasury management practices to be included in its group-state 
 
-- If available, ask for facilitation support to help decide what to include and the level of depth/detail to include based on the group's [[phase]] and the coordination requirements of the network that the group will operate in. 
+- If available, ask for facilitation support to help decide what to include and the level of depth/detail to include based on the group's [[notes/dao-primitives/framework/group-phase/group-phase]] and the coordination requirements of the network that the group will operate in. 
 
 
 **Technical implementation** 
-In the early phases of development of a Cell ([conversation](notes/dao-primitives/framework/phase/conversation.md) & [formation](notes/dao-primitives/framework/phase/formation.md)] phase) the group state (nucleus document) can stored informally in a simple document editor. However as the group resolves its formal structure and agreements with other entities in the network and enters the [organization](notes/dao-primitives/framework/phase/organization.md) phase, it will need to be stored in a way that produces:
+In the early phases of development of a Cell ([conversation](notes/dao-primitives/framework/group-phase/conversation.md) & [formation](notes/dao-primitives/framework/group-phase/formation.md)] phase) the group state (nucleus document) can stored informally in a simple document editor. However as the group resolves its formal structure and agreements with other entities in the network and enters the [organization](notes/dao-primitives/framework/group-phase/organization.md) phase, it will need to be stored in a way that produces:
 - Transparency - the ability for others in the network to assess the groups state information
 - Trust - the ability for others to trust the provenance, accuracy and currency of information in the group's state 
 - A single point of of access - the ability for others to be able to access all of the relevant state information from a single document (as a starting point)

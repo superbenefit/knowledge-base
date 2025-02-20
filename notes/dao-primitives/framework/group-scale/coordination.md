@@ -6,11 +6,11 @@ description: "Characteristics and considerations for groups operating at the Coo
 publish: "true"
 ---
 
-Coordination Scale represents a larger level of group organization than [collaboration scale](notes/dao-primitives/framework/scale/collaboration.md)Collaboration Scale.  It involves larger groups or multiple groups working together towards a shared goal, requiring more sophisticated coordination mechanisms and communication strategies.  
+Coordination Scale represents a larger level of group organization than [collaboration scale](notes/dao-primitives/framework/group-scale/collaboration.md)Collaboration Scale.  It involves larger groups or multiple groups working together towards a shared goal, requiring more sophisticated coordination mechanisms and communication strategies.  
 
 While the exact upper limit of group size is flexible, Coordination Scale groups typically range from 10 to 50 individuals, although this can vary depending on the complexity of the task and the effectiveness of coordination mechanisms.  
 
-Coordination scale is too large to afford the nuanced sense-making, creativity and conflict management that collaboration scale [Collaboration Scale](notes/dao-primitives/framework/scale/collaboration.md) groups are capable of, but are still small enough to be effective at delivering well scoped and planned activities. Beyond its limits (roughly 150 members - see [Dunbar's number](https://en.wikipedia.org/wiki/Dunbar%27s_number)), coordination becomes too costly and difficult and should be either broken into smaller coordination efforts or transitioned to a [Constituency Scale](notes/dao-primitives/framework/scale/constituency.md) approach.
+Coordination scale is too large to afford the nuanced sense-making, creativity and conflict management that collaboration scale [Collaboration Scale](notes/dao-primitives/framework/group-scale/collaboration.md) groups are capable of, but are still small enough to be effective at delivering well scoped and planned activities. Beyond its limits (roughly 150 members - see [Dunbar's number](https://en.wikipedia.org/wiki/Dunbar%27s_number)), coordination becomes too costly and difficult and should be either broken into smaller coordination efforts or transitioned to a [Constituency Scale](notes/dao-primitives/framework/group-scale/constituency.md) approach.
 
 
 

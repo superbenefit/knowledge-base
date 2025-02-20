@@ -8,7 +8,7 @@ description: "The third phase of group development, focused on establishing form
 publish: "true"
 ---
 
-The Organization Phase builds upon the [formation phase](notes/dao-primitives/framework/phase/formation.md), transitioning from a basic framework to a fully established, formal structure with defined processes and governance mechanisms. This phase is characterized by the implementation of clear systems, procedures, and decision-making frameworks, enabling the group to operate efficiently and effectively.  The primary goal is to create a sustainable and scalable organizational structure.
+The Organization Phase builds upon the [formation phase](notes/dao-primitives/framework/group-phase/formation.md), transitioning from a basic framework to a fully established, formal structure with defined processes and governance mechanisms. This phase is characterized by the implementation of clear systems, procedures, and decision-making frameworks, enabling the group to operate efficiently and effectively.  The primary goal is to create a sustainable and scalable organizational structure.
 
 ## Key Characteristics
 
