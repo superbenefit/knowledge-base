@@ -9,9 +9,9 @@ This framework organizes the foundational concepts used in [[tags/daos|DAO]] des
 
 - [Group Facilitation Guide](notes/dao-primitives/framework/group-facilitation.md)
 
-- **[Group Phase](notes/dao-primitives/framework/phase/phase.md)**
-- **[Group Scale](notes/dao-primitives/framework/scale/scale.md)**
-- **[Group State](notes/dao-primitives/framework/state.md)**
+- **[Group Phase](notes/dao-primitives/framework/group-phase/group-phase.md)**
+- **[Group Scale](notes/dao-primitives/framework/group-scale/group-scale.md)**
+- **[Group State](notes/dao-primitives/framework/group-state1.md)**
 
 ---
 
@@ -28,7 +28,7 @@ All groups go through different stages as they grow. Understanding these stages 
 *   **Formation Phase:**  Establishing structures and systems.
 *   **Organization Phase:**  Ongoing operation and evolution.
 
-[Learn more about Group Phases](notes/dao-primitives/framework/phase/phase.md)
+[Learn more about Group Phases](notes/dao-primitives/framework/group-phase/group-phase.md)
 
 
 ### 2. Group Scale: Size and Complexity
@@ -40,7 +40,7 @@ The size and complexity of your group significantly impact how it functions.  Di
 *   **Constituency Scale:**  Broader communities participating in governance.
 *   **Network Scale:**  Interconnected networks of organizations.
 
-[Learn more about Group Scales](notes/dao-primitives/framework/scale/scale.md)
+[Learn more about Group Scales](notes/dao-primitives/framework/group-scale/group-scale.md)
 
 
 ### 3. Group State: Defining Your Organization
@@ -53,7 +53,7 @@ Understanding your organization's current state is crucial for effective coordin
 
 *   **Progress:** How is progress towards the organization's purpose tracked and measured?  This includes timelines, milestones, deliverables, and other metrics.  Tracking progress enables accountability and informs future planning.
 
-[Learn more about Group State](notes/dao-primitives/framework/state.md)
+[Learn more about Group State](notes/dao-primitives/framework/group-state1.md)
 
 ---
 
@@ -68,11 +68,11 @@ The Group Facilitation Framework helps you design and implement effective organi
 
 The framework connects the key concepts of Phase, Scale, and State to the implementation patterns in the following ways:
 
-*   **Group Phase:**  Different groups go through distinct phases of development.  Understanding these phases allows you to tailor your approach to the group's current needs and adapt as it evolves.  The framework outlines these phases and suggests appropriate patterns for each stage. [Learn more about Group Phase](notes/dao-primitives/framework/phase/phase.md).
+*   **Group Phase:**  Different groups go through distinct phases of development.  Understanding these phases allows you to tailor your approach to the group's current needs and adapt as it evolves.  The framework outlines these phases and suggests appropriate patterns for each stage. [Learn more about Group Phase](notes/dao-primitives/framework/group-phase/group-phase.md).
 
-*   **Group Scale:** Human systems function differently at different scales.  The framework helps you leverage this understanding to design organizational systems that function effectively, regardless of size.  Different scales require different tools and practices. [Learn more about Group Scale](notes/dao-primitives/framework/scale/scale.md).
+*   **Group Scale:** Human systems function differently at different scales.  The framework helps you leverage this understanding to design organizational systems that function effectively, regardless of size.  Different scales require different tools and practices. [Learn more about Group Scale](notes/dao-primitives/framework/group-scale/group-scale.md).
 
-*   **Group State:**  For effective decentralized organization, entities within a network need to be interoperable and universally addressable.  The concept of *group state* helps achieve this by allowing entities to maintain their independence while integrating into the larger network. [Learn more about Group State](notes/dao-primitives/framework/state.md).
+*   **Group State:**  For effective decentralized organization, entities within a network need to be interoperable and universally addressable.  The concept of *group state* helps achieve this by allowing entities to maintain their independence while integrating into the larger network. [Learn more about Group State](notes/dao-primitives/framework/group-state1.md).
 
 
 By considering these three properties, the framework guides you in selecting appropriate patterns from the Pattern Library to implement your organizational design.  The patterns provide practical, tested solutions that align with your group's specific context and stage of development.

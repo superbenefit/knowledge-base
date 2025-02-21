@@ -59,7 +59,7 @@ This primitive is designed to be unopinionated as to the specific make up a part
 9. Documentation systems - how the team will maintain and make accessible information that relates to the above agreements/commitments.
 
 **Technical implementation**
-In early [conversation](notes/dao-primitives/framework/phase/conversation.md) and [formation](notes/dao-primitives/framework/phase/formation.md) phases, a team's nucleus may be an informal emerging set of agreements. However as a team becomes established ( through [organization](notes/dao-primitives/framework/phase/organization.md) and [coordination](notes/dao-primitives/framework/phase/coordination.md) phases), ideally its nucleus should have several technical qualities:
+In early [conversation](notes/dao-primitives/framework/group-phase/conversation.md) and [formation](notes/dao-primitives/framework/group-phase/formation.md) phases, a team's nucleus may be an informal emerging set of agreements. However as a team becomes established ( through [organization](notes/dao-primitives/framework/group-phase/organization.md) and [coordination](notes/dao-primitives/framework/group-phase/coordination.md) phases), ideally its nucleus should have several technical qualities:
 1. Version controlled - an ability to track changes to the document across time
 2. Access controlled - an ability to limit editing access to the document to only authorized persons
 3. Accessibility - the document must be accessible to the members of community/network that the team is coordinating within
