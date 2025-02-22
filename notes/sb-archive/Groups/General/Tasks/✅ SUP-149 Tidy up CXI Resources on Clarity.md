@@ -1,3 +1,0 @@
-- [ ] Welcome Party
-- [ ] Town Hall
-- [x] Tactical Meetings

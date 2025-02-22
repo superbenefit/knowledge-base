@@ -53,7 +53,7 @@ Our design approach centers on DAOs as *purpose-aligned networks of small autono
 2.  Coordinated networks of teams
 3.  Large-scale constituencies
 
-This combination of innovative, context-rich small teams, efficient scaled networks, and community governance can create organizational systems that outperform traditional structures and direct their performance towards a better, more sustainable world.
+This combination of innovative, context-rich small teams, efficient scaled networks, and [community governance](notes/rpp/working-docs/community-governance.md) can create organizational systems that outperform traditional structures and direct their performance towards a better, more sustainable world.
 
 _We believe that this combination highly innovative high context small teams, combined with the power and efficiency of scaled networks, all wrapped in a community governance layer can produce organizational systems that can both outperform traditional organizations, but more importantly direct this performance towards building a better and more sustainable world._ 
 
@@ -162,7 +162,6 @@ You can dive deeper into how the primitives work together [**here**](https://app
 ## DAO Primitives Index
 
 %% Begin Waypoint %%
-- **[archive](./archive/archive.md)**
 - [DAO Primitives Tasks](./DAO%20Primitives%20Tasks.md)
 - **[framework](./framework/framework.md)**
 - **[test-resources](./test-resources/test-resources.md)**

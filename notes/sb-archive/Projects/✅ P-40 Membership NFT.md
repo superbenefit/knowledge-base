@@ -1,1 +1,0 @@
-This NFT will act as a membership NFT

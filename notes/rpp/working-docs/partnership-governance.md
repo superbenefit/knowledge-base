@@ -11,8 +11,8 @@ type: pattern
 url: 
 studies: 
 primitives: 
-	- stakeholder group 
-	- cell
+- stakeholder group 
+- cell
 functions:
 - governance
 qualities: 
@@ -29,7 +29,7 @@ phase:
 - organisation
 ---
 
-This pattern is for creating a fractal of a community and operational governance (a DAO within a DAO). Creating a functioning community governance (stakeholder group) and a Cell-based operational network execute on the goals of the stakeholders.
+This pattern is for creating a fractal of a community and operational governance (a DAO within a DAO). Creating a functioning [community governance](notes/rpp/working-docs/community-governance.md) (stakeholder group) and a Cell-based operational network execute on the goals of the stakeholders.
 
 
 Use this pattern to design the governance for a partnership between a DAO and one or more other organizations where:
