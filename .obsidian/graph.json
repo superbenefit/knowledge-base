@@ -11,7 +11,7 @@
       "query": "[\"index\":True]",
       "color": {
         "a": 1,
-        "rgb": 16777215
+        "rgb": 4097785
       }
     },
     {
@@ -36,13 +36,6 @@
       }
     },
     {
-      "query": "[\"type\":Org]",
-      "color": {
-        "a": 1,
-        "rgb": 3700141
-      }
-    },
-    {
       "query": "path:library  ",
       "color": {
         "a": 1,
@@ -56,10 +49,10 @@
   "nodeSizeMultiplier": 0.9421875,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.0885416666666667,
-  "repelStrength": 14.375,
+  "centerStrength": 0.0917201998572448,
+  "repelStrength": 10.5139186295503,
   "linkStrength": 1,
-  "linkDistance": 275,
-  "scale": 0.07199155640756326,
-  "close": true
+  "linkDistance": 366,
+  "scale": 0.1042389796377112,
+  "close": false
 }

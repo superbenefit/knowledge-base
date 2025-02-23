@@ -42,7 +42,7 @@ Key challenges include:
 
 ### Solution Landscape
 
-Decentralized technologies offer transformative approaches to social finance that can address fundamental power and coordination challenges:
+Decentralized technologies offer transformative approaches to social finance that can address fundamental [power](tags/power.md) and coordination challenges:
 
 - **Decentralized Philanthropic Vehicles**: Smart contract-powered donor-advised funds, algorithmic endowments, and community-directed treasuries enable transparent capital flows with dramatically reduced overhead. These systems can automate grant distributions based on community decisions or predefined conditions, creating more responsive funding mechanisms while maintaining compliance with existing regulatory frameworks.
 
@@ -127,18 +127,6 @@ Implementing Social Finance requires integrating both social and technical compo
    - Funding cycle management
    - Impact reporting and verification
    - Continuous improvement and adaptation
-
-#### Primitives for Social Finance
-
-The pattern builds upon these fundamental building blocks:
-
-- **Transparent Accounting**: On-chain record-keeping for all financial flows
-- **Tokenized Impact**: Representation of verified outcomes as digital assets
-- **Quadratic Funding**: Donation matching that optimizes for preference diversity
-- **Impact Certificates**: Verifiable claims of social or environmental outcomes
-- **Retroactive Funding**: Rewards for proven positive externalities
-- **Multi-signature Governance**: Distributed control of treasury resources
-- **Conviction Voting**: Time-weighted preference signaling for resource allocation
 
 ---
 
