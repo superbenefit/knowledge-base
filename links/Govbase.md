@@ -7,7 +7,7 @@ tags:
 publish: "true"
 ---
 
-A [warehouse of datasets](https://airtable.com/appx3e9Przn9iprkU/shrgnUrj0dqzZDsOd/tblXLaQeoKygb4ais/viw3rNQQfK1S6ipfe) related to online community governance, by [[links/Metagov|Metagov]].
+A [warehouse of datasets](https://airtable.com/appx3e9Przn9iprkU/shrgnUrj0dqzZDsOd/tblXLaQeoKygb4ais/viw3rNQQfK1S6ipfe) related to online [community governance](notes/rpp/working-docs/community-governance.md), by [[links/Metagov|Metagov]].
 
 ---
 
