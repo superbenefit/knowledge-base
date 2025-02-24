@@ -16,7 +16,7 @@ related to:
 - [Multi-Stakeholder Governance](notes/rpp/working-docs/stakeholder-governance.md)
 - [Operational Governance](notes/rpp/working-docs/operational-governance.md)
 
-This pattern provides a [framework](tags/frameworks.md) for implementing inclusive, transparent, and [sustainable](tags/sustainability.md) governance systems that safeguard organizational [purpose](tags/purpose.md) while enabling [community](tags/community.md)-driven evolution.
+This pattern provides a [framework](tags/frameworks.md) for implementing inclusive, transparent, and [sustainable](tags/sustainability.md) governance systems that safeguard organizational [purpose](tags/purpose.md) while enabling [community-driven](tags/community.md) evolution.
 
 ## Problem / Solution Context
 
@@ -48,49 +48,133 @@ This section should emphasize how community governance represents an evolution i
 
 ---
 
-## How Community Governance Works
+## How Community Governance Works: Pattern Sets by Scale
 
-Community governance is implemented through a deliberate process that begins with community formation and engagement, moves through participatory system design, and culminates in the deployment of technical infrastructure that enables sustained collective stewardship. This approach ensures both broad participation and purposeful evolution while maintaining focus on long-term sustainability.
+Community governance manifests differently based on geographical scope and coordination needs. Here we explore proven patterns organized by their primary operational context.
 
-### Mechanism
+### Local Community Patterns
+These patterns focus on governance within geographically concentrated communities, typically at the neighborhood, city, or regional level.
 
-The implementation of community governance follows three key phases:
+#### Local Nodes
+- **Description**: Semi-autonomous local groups that coordinate through shared protocols while maintaining independence
+- **Use Cases**: Community organizations, local cooperatives, neighborhood associations
+- **Key Features**:
+  - Decentralized decision-making at the local level
+  - Shared resources and knowledge across nodes
+  - Local autonomy with network benefits
+  - Bottom-up governance structures
 
-1. Community Formation and Engagement
-   * Building shared purpose and values
-   * Establishing participation frameworks
-   * Creating engagement incentives
-   * Developing communication channels
-   * Fostering community culture
+#### Local Hubs
+- **Description**: Central coordination points that facilitate collaboration between multiple local initiatives
+- **Use Cases**: Community centers, maker spaces, innovation hubs
+- **Key Features**:
+  - Physical spaces for community gathering
+  - Resource sharing and collective management
+  - Cross-pollination between initiatives
+  - Hybrid governance models combining direct and representative democracy
 
-2. Governance System Design
-   * Designing participation mechanisms
-   * Creating decision-making processes
-   * Establishing resource stewardship protocols
-   * Building consensus mechanisms
-   * Developing evolution pathways
-   * Documentation of governance framework
+#### Complementary Economics
+- **Description**: Local economic systems that complement traditional markets
+- **Use Cases**: Local currencies, time banks, mutual credit systems
+- **Key Features**:
+  - Community-driven value creation
+  - Alternative exchange mechanisms 
+  - Local economic resilience
+  - Participatory economic governance
 
-3. Technical Infrastructure Development
-   * Implementing voting and delegation systems
-   * Creating community coordination tools
-   * Building transparency mechanisms
-   * Establishing feedback loops
-   * Setting up monitoring systems
+### Cosmolocal Coordination Patterns
+These patterns bridge local and global scales, enabling coordination across regions while maintaining local context.
 
-### Operationalizing the Governance System
+#### Bioregional Finance
+- **Description**: Financial systems aligned with ecological boundaries and regional needs
+- **Use Cases**: Watershed conservation funds, regional development initiatives
+- **Key Features**:
+  - Place-based investment strategies
+  - Environmental stewardship integration
+  - Multi-stakeholder governance
+  - Regional economic circuits
 
-This section should describe how the community governance system functions in practice. Writers should:
+#### Public Goods Funding Mechanisms for IRL communities
+- **Description**: Mechanisms for collectively funding shared resources and infrastructure
+- **Use Cases**: Commons maintenance, public infrastructure, shared services
+- **Key Features**:
+  - Quadratic funding mechanisms
+  - Participatory budgeting
+  - Collective benefit allocation
+  - Transparent resource management
 
-1. Explain how proposals, decisions, and resources flow through the community governance system, focusing on both participation and stewardship.
+#### Municipal MycoFi for Community Resilience
+- **Description**: Networked financial systems connecting municipal initiatives
+- **Use Cases**: Inter-city cooperation, regional development projects
+- **Key Features**:
+  - Municipal bond networks
+  - Cross-jurisdiction coordination
+  - Shared investment pools
+  - Democratic oversight mechanisms
 
-2. Map governance flows showing how the community participates, decisions are made, and evolution occurs. Include process diagrams where helpful.
+### Global Network Patterns
+These patterns enable coordination across geographical boundaries, supporting truly decentralized organizations.
 
-3. Detail technical implementations, including voting systems, delegation mechanisms, and transparency tools.
+#### Decentralized Physical Infrastructure Networks (DePINs)
+- **Description**: Networks combining physical infrastructure with digital coordination
+- **Use Cases**: Distributed energy grids, sensor networks, telecom infrastructure
+- **Key Features**:
+  - Physical-digital integration
+  - Distributed ownership models
+  - Network governance mechanisms
+  - Incentive alignment systems
 
-4. Provide practical examples demonstrating how communities govern effectively at scale.
+#### Decentralized Finance (DeFi)
+- **Description**: Financial systems operating through distributed networks
+- **Use Cases**: Lending protocols, asset management, regenerative finance (ReFi)
+- **Key Features**:
+  - Automated market mechanisms
+  - Smart contract governance
+  - Token-based coordination
+  - Transparent financial operations
 
-Focus on creating clear, actionable documentation that helps readers understand both social and technical aspects of implementation.
+#### Digital Democracy & Decentralized Governance
+- **Description**: Tools and systems for democratic participation at scale
+- **Use Cases**: Global DAOs, digital nations, online communities
+- **Key Features**:
+  - Digital voting systems
+  - Delegation mechanisms
+  - Discussion forums
+  - Proposal systems
+
+##### Coordi-nations
+- **Description**: Large-scale coordination frameworks for distributed communities
+- **Use Cases**: Global organizations, virtual states, network societies
+- **Key Features**:
+  - Identity systems
+  - Reputation mechanisms
+  - Cross-cultural governance
+  - Scalable decision-making
+
+#### Knowledge Commons
+- **Description**: Shared information resources with community governance
+- **Use Cases**: Open source projects, research networks, educational platforms
+- **Key Features**:
+  - Collaborative content creation
+  - Peer review systems
+  - Open access principles
+  - Community moderation
+
+### Implementation Considerations
+
+When implementing these patterns, consider:
+
+1. **Scale Appropriateness**: Choose patterns that match your community's size and geographical distribution
+
+2. **Technical Requirements**: Assess the technical infrastructure needed to support chosen patterns
+
+3. **Cultural Fit**: Ensure patterns align with community values and practices
+
+4. **Resource Availability**: Match pattern complexity with available resources and capabilities
+
+5. **Governance Maturity**: Start with simpler patterns and evolve as governance capacity grows
+
+Each pattern can be adapted and combined to create governance systems that meet specific community needs while maintaining core principles of participation, transparency, and effectiveness.
 
 ---
 
