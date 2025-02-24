@@ -5,10 +5,6 @@ harvester: rathermercurial.eth
 publish: true
 type: tag
 tags:
-  - communication
-  - culture
-  - knowledge
-  - translation
 ---
 
 *A practice of mediating between different knowledge systems and cultural frameworks to enable meaningful exchange while preserving local context and meaning.*

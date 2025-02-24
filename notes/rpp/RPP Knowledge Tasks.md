@@ -15,7 +15,7 @@ kanban-plugin: board
 - [ ] Windfall Protocol primitive page
 	- [windfall-protocol](artifacts/primitives/windfall-protocol.md)
 - [ ] Create MycoFi pattern
-	- [mycofi](tags/mycofi.md)
+	- [municipal-mycofi](notes/rpp/working-docs/municipal-mycofi.md)
 
 
 ## Planned
