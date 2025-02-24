@@ -5,6 +5,7 @@ author:
   - Rowan Yeoman
 tags:
   - daos
+  - governance
 publish: "true"
 type: link
 ---

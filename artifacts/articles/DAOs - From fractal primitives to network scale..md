@@ -8,6 +8,7 @@ author:
 tags:
   - daos
   - permissions
+  - governance
 publish: "true"
 type: link
 ---

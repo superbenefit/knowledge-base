@@ -8,6 +8,7 @@ author:
   - michellebaldwin.eth
 tags:
   - daos
+  - governance
 publish: "true"
 type: link
 ---
