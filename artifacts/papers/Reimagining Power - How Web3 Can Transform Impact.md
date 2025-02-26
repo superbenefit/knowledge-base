@@ -5,10 +5,6 @@ description: ""
 publish: "false"
 ---
 
-Intro coming soon.. ^5b4dff
-
----
-
 In the face of multiple crises, systemic inequities, and entrenched power imbalances, philanthropy stands at a pivotal moment. Achieving transformational change requires bold shifts in how we understand and exercise power, mobilize resources, and distribute value. It is no longer enough to acknowledge the power and privilege inherent in philanthropy; we must fundamentally alter the structures and systems that perpetuate these dynamics.
 
 Historically, philanthropic efforts have been shaped by systems of oppression, including colonialism, capitalism, and patriarchy. These systems not only inform the distribution of resources but also the underlying philosophies that drive philanthropic decision-making. Western-centric and capitalistic approaches often lack cultural sensitivity and fail to engage underrepresented communities effectively, perpetuating power imbalances and undermining the agency of those they aim to help. As a result, the outcomes are frequently neither sustainable nor genuinely impactful.
@@ -101,7 +97,7 @@ The time for incremental change has passed. The time for bold, systemic transfor
 
 * **Example**: A community bond issued to fund a local infrastructure project may require a minimum investment amount that is too high for many community members, thereby excluding them from participating and benefiting from the project.    
 
-* **Web3 Solution**: Web3 can lower barriers to participation by using tokenization to fractionalize ownership of community bonds or SIBs. This allows individuals to invest small amounts, making these instruments more accessible to a broader range of participants. Decentralized finance (DeFi) platforms could also enable peer-to-peer lending, where community members can pool smaller contributions to collectively purchase bonds.
+* **Web3 Solution**: Web3 can lower barriers to participation by using tokenization to fractionalize ownership of community bonds or SIBs. This allows individuals to invest small amounts, making these instruments more accessible to a broader range of participants. Decentralized finance ([DeFi](tags/defi.md)) platforms could also enable peer-to-peer lending, where community members can pool smaller contributions to collectively purchase bonds.
 
   
 
@@ -111,4 +107,4 @@ The time for incremental change has passed. The time for bold, systemic transfor
 
 * **Example**: An impact investment fund may have an investment committee composed of a few individuals who make all major decisions about which projects to fund.    
 
-* **Web3 Solution**: Web3 offers a decentralized governance model through the use of Decentralized Autonomous Organizations (DAOs). In a DAO, decision-making power can be distributed among a broader group of stakeholders, including community members, social entrepreneurs, and smaller investors. This democratization of governance allows for more inclusive and equitable decision-making processes, ensuring that diverse voices are heard and that decisions better reflect the needs and priorities of all stakeholders. Token-based voting systems can be implemented to allow participants to vote on investment decisions, governance policies, and fund allocations, creating a more transparent and accountable decision-making process.
+* **Web3 Solution**: Web3 offers a [decentralized governance](tags/governance.md) model through the use of Decentralized Autonomous Organizations ([DAOs](tags/daos.md)). In a DAO, decision-making power can be distributed among a broader group of stakeholders, including community members, social entrepreneurs, and smaller investors. This [democratization of governance](notes/rpp/working-docs/community-governance.md) allows for more inclusive and equitable decision-making processes, ensuring that diverse voices are heard and that decisions better reflect the needs and priorities of [all stakeholders](notes/rpp/working-docs/stakeholder-governance.md). Token-based voting systems can be implemented to allow participants to vote on investment decisions, governance policies, and fund allocations, creating a more transparent and accountable decision-making process.

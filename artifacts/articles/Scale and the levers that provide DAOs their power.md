@@ -7,6 +7,7 @@ author:
   - heenal.eth
 tags:
   - daos
+  - governance
 publish: "true"
 type: link
 ---

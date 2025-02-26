@@ -1,1 +1,0 @@
-800,000 back to the originating SB address (so that they can be airdropped based on upcoming coordinape allocation 46 Contribution recognition and rewards event - will test Coinvise functionality for this airdrop)
