@@ -11,7 +11,7 @@ This framework organizes the foundational concepts used in [[tags/daos|DAO]] des
 
 - **[Group Phase](notes/dao-primitives/framework/group-phase/group-phase.md)**
 - **[Group Scale](notes/dao-primitives/framework/group-scale/group-scale.md)**
-- **[Group State](notes/dao-primitives/framework/group-state1.md)**
+- **[Group State](notes/dao-primitives/framework/group-state.md)**
 
 ---
 
@@ -53,7 +53,7 @@ Understanding your organization's current state is crucial for effective coordin
 
 *   **Progress:** How is progress towards the organization's purpose tracked and measured?  This includes timelines, milestones, deliverables, and other metrics.  Tracking progress enables accountability and informs future planning.
 
-[Learn more about Group State](notes/dao-primitives/framework/group-state1.md)
+[Learn more about Group State](notes/dao-primitives/framework/group-state.md)
 
 ---
 
@@ -72,7 +72,7 @@ The framework connects the key concepts of Phase, Scale, and State to the implem
 
 *   **Group Scale:** Human systems function differently at different scales.  The framework helps you leverage this understanding to design organizational systems that function effectively, regardless of size.  Different scales require different tools and practices. [Learn more about Group Scale](notes/dao-primitives/framework/group-scale/group-scale.md).
 
-*   **Group State:**  For effective decentralized organization, entities within a network need to be interoperable and universally addressable.  The concept of *group state* helps achieve this by allowing entities to maintain their independence while integrating into the larger network. [Learn more about Group State](notes/dao-primitives/framework/group-state1.md).
+*   **Group State:**  For effective decentralized organization, entities within a network need to be interoperable and universally addressable.  The concept of *group state* helps achieve this by allowing entities to maintain their independence while integrating into the larger network. [Learn more about Group State](notes/dao-primitives/framework/group-state.md).
 
 
 By considering these three properties, the framework guides you in selecting appropriate patterns from the Pattern Library to implement your organizational design.  The patterns provide practical, tested solutions that align with your group's specific context and stage of development.

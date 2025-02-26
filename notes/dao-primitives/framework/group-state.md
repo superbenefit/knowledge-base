@@ -1,12 +1,12 @@
 ---
-title: Group State1
+title: Group State
 description: A DAO primitives primitive for storing crucial information about a DAO, Cell, Role of Task.
 curator: yeoro.eth
 publish:
   - true
-type: tag
+type: tag, primitive
 aliases:
-  - "#group-state1"
+  - "#group-state"
 tags: 
   - state
   - nucleus 
@@ -15,7 +15,7 @@ tags:
 
 # Group State
 
-Group state is a feature of the [DAO Primitives Framework](notes/dao-primitives/framework/readme.md). It describes using the concept of [[notes/dao-primitives/framework/group-state1]] the structuring of essential group information in a way that provides for internal coherence within a group, as well as for interoperability and cooperation between groups. 
+Group state is a feature of the [DAO Primitives Framework](notes/dao-primitives/framework/readme.md). It describes using the concept of [[notes/dao-primitives/framework/group-state]] the structuring of essential group information in a way that provides for internal coherence within a group, as well as for interoperability and cooperation between groups. 
 
 ---
 ## Use of "Group state" 

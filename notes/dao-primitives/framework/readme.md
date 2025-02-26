@@ -12,7 +12,7 @@ This framework helps you understand and navigate the complexities of organizatio
 
 * **Scale:** The size and complexity of your organization.  Different scales require different strategies and approaches.  The scales are: Collaboration, Constituency, Coordination, and Network.  [`/scale/`](scale/) provides detailed analysis for each scale.
 
-* **State:** The overall properties and characteristics of your organization at a given point in time.  Understanding your organization's state is crucial for making informed decisions and planning for future growth.  [`state.md`](notes/dao-primitives/framework/group-state1.md) provides a comprehensive overview of group states and transitions.
+* **State:** The overall properties and characteristics of your organization at a given point in time.  Understanding your organization's state is crucial for making informed decisions and planning for future growth.  [`state.md`](notes/dao-primitives/framework/group-state.md) provides a comprehensive overview of group states and transitions.
 
 ---
 
