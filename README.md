@@ -59,12 +59,12 @@ Each directory's `readme.md` provides additional guidance about its specific rol
 
 - **Attachments** - Media files, images, diagrams, and other supporting content used throughout the knowledge base.
 
+### Directory Documentation: README Files and Folder Notes
 
-### Publishing & Syndication
+Each directory contains two types of documentation to serve different audiences:
 
-Select content from this knowledge base is published in the [SuperBenefit Knowledge Garden](https://github.com/superbenefit/knowledge-garden). 
-
-Pages in the knowledge based with their `publish` property set to `true` may be imported to the knowledge garden and updated periodically. We're exploring [Plausibly Permanent Syndication](https://docs.google.com/presentation/d/1fptaoYuqcwp85jsrVrIaSbbQlTzjfu5LVZMdWtWClNo/) as a way to share published content with the universal knowledge commons.
+*   **README Files (e.g., `artifacts/readme.md`):** These files are primarily for contributors and knowledge managers working directly with the repository (e.g., on GitHub or in Obsidian). They provide information on the directory's purpose, how to contribute, and any specific guidelines for that area. They are "inner-facing" documentation.
+*   **Folder Notes (e.g., `artifacts/artifacts.md`):** These files are equivalent to index files and are published to the SuperBenefit Knowledge Garden to be displayed publicly. They provide an overview of the directory's content and guide readers on how to use and get the most value from the resources within. Folder notes always have the same name as their parent directory (e.g., the folder note for `/artifacts` is `/artifacts/artifacts.md`). They are "outward-facing" documentation.
 
 ## Working with the Knowledge Base
 
@@ -85,6 +85,12 @@ Our [public knowledge garden](https://knowledge.superbenefit.org) offers several
 SuperBenefit Contributors can use the knowledgebase to record and curate information with their peers. 
 
 Contributing to the knowledge base starts with developing ideas in your private drafts. From there, you can collaborate in project workspaces and help refine content for publication. See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed workflows that will help you participate effectively.
+
+### Publishing & Syndication
+
+Select content from this knowledge base is published in the [SuperBenefit Knowledge Garden](https://github.com/superbenefit/knowledge-garden). 
+
+Pages in the knowledge based with their `publish` property set to `true` may be imported to the knowledge garden and updated periodically. We're exploring [Plausibly Permanent Syndication](https://docs.google.com/presentation/d/1fptaoYuqcwp85jsrVrIaSbbQlTzjfu5LVZMdWtWClNo/) as a way to share published content with the universal knowledge commons.
 
 ### Building Your Own
 
