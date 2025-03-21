@@ -7,65 +7,50 @@ Welcome to SuperBenefit's knowledge garden - a living collection of our communit
 
 ---
 
-## Purpose
+## About This Garden
 
-This knowledge garden aims to:
-- Document our collective learning and insights
-- Enable deep exploration of specific topics by working groups
-- Share knowledge across projects and communities
-- Contribute to public knowledge commons
-- Support both structured documentation and emergent understanding
+This digital garden serves as a collaborative space for exploring, documenting, and cultivating knowledge around decentralized organizations (DAOs), Web3 governance, and related social impact initiatives. It's a dynamic repository where ideas evolve from initial drafts to refined artifacts, fostering a shared understanding through community contributions and open-source principles. Our goal is to provide a comprehensive resource for practitioners, researchers, and anyone interested in shaping the future of decentralized collaboration.
 
----
+### Explore Our Content
 
-## Content Areas
+This garden is organized into four main areas, each serving a distinct purpose. Use the descriptions below to find the type of content you're looking for:
 
-### [Artifacts](artifacts/artifacts.md)
-Published, refined content that represents our collective understanding. This includes:
-- Finished research and analysis
-- Project documentation
-- Published articles and resources
-- Community-validated knowledge
+#### [Artifacts](artifacts/artifacts.md): Polished & Validated Knowledge
 
-### [Lexicon](tags/tags.md)
-Our shared vocabulary and conceptual framework, including:
-- Term definitions
-- Tag hierarchies and relationships
-- Common concepts and their context
-- Evolving terminology
+*   **Purpose:** This section contains our most refined and validated content, representing our collective understanding. Think of it as the "finished product" of our research and collaboration.
+*   **Look Here For:** Finished research reports, project documentation, published articles, and community-validated knowledge.
 
-### [Library](links/links.md)
-Curated external resources and our engagement with them:
-- Referenced articles and papers
-- Commentary and analysis
-- Relevant external projects
-- Connected ideas and insights
+#### [Lexicon](tags/tags.md): Our Shared Vocabulary
 
-### [Notes](notes/notes.md)
-Active working documents where ideas develop:
-- Project-specific documentation
-- Research in progress
-- Working group materials
-- Emerging concepts and patterns
+*   **Purpose:** This is where we define and organize the key terms and concepts used throughout the garden. It provides a shared vocabulary for understanding our work.
+*   **Look Here For:** Term definitions, tag hierarchies, explanations of common concepts, and evolving terminology.
+
+#### [Library](links/links.md): Curated External Resources
+
+*   **Purpose:** This section contains links to external resources that we find valuable and relevant to our work. It's a curated collection of articles, papers, and projects that inform our thinking.
+*   **Look Here For:** Referenced articles and papers, commentary and analysis on external resources, relevant external projects, and connections to related ideas.
+
+#### [Notes](notes/notes.md): Works in Progress
+
+*   **Purpose:** This is our active workspace, where ideas are developed and refined. It contains project-specific documentation, research in progress, and materials from working groups.
+*   **Look Here For:** Project-specific documentation, research in progress, working group materials, and emerging concepts and patterns.
 
 ---
 
-## Using This Garden
+### Getting the Most Out of This Garden
 
-- Browse the sections above to explore different types of content
-- Use tags and links to follow conceptual threads
-- Contribute to working documents in your areas
-- Help cultivate our shared understanding
+Whether you're here to learn, contribute, or simply explore, here's how to make the most of our knowledge garden:
 
----
+#### For Readers on the Web:
 
-## Contributors
+*   **Explore the Content Areas:** Use the "Explore Our Content" section above to find the type of information you're looking for. Each section has a distinct purpose, from polished knowledge to works in progress.
+*   **Follow Conceptual Threads:** Use tags and links to navigate between related concepts and ideas. The Lexicon is a great place to start when you encounter unfamiliar terms.
+*   **Dive Deep:** Don't be afraid to explore the connections between different sections. Ideas often evolve and take shape across multiple areas of the garden.
 
-Current maintainers and major contributors:
-- rathermercurial.eth
-- heenal.eth
-- [Additional contributors welcome]
+#### For Prospective Contributors:
 
----
-
-*This knowledge garden is maintained by the SuperBenefit community. See our [README](https://github.com/superbenefit/knowledge-base) for technical details about contributing.*
+*   **Understand Our Process:** Ideas grow through natural cycles in our garden. A draft might begin as personal notes, blossom into a collaborative working document, and eventually mature into a published artifact.
+*   **Contribute to Existing Content:** Help maintain what's already growing. Clarify explanations, update outdated information, fix broken links, or add helpful examples.
+*   **Plant New Ideas:** Start growing your own ideas in your drafts folder. Use our templates and tags to give them structure.
+*   **Cultivate Connections:** Create meaningful links between documents, add relevant tags, and help build topic maps.
+*   **For Detailed Contribution Guidelines:** Please refer to the [GitHub Repository](https://github.com/superbenefit/knowledge-base) for comprehensive information on contributing, including setup instructions, coding standards, and community guidelines.

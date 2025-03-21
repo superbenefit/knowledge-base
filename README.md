@@ -1,10 +1,10 @@
 # SuperBenefit Knowledge Base
 
-A local-first markdown vault for collaborative knowledge management and collective sensemaking. This repository serves both as a collaborative workspace and a public knowledge garden, enabling us to develop and share knowledge in ways that respect both individual thought processes and collective understanding.
+A local-first markdown vault for collaborative knowledge management and collective sensemaking. This repository serves both as a collaborative workspace for storing information created and gathered by the community, enabling us to develop and share knowledge in ways that respect both individual thought processes and collective understanding.
 
 ## Repository Overview
 
-This repo is a collection of [Markdown](https://www.markdownguide.org/) files, organized using [Obsidian](https://obsidian.md/) and published with [Quartz](https://quartz.jzhao.xyz/). The primary markdown syntax used is [CommonMark](https://commonmark.org/), with some added flavor for [Obsidian](https://help.obsidian.md/Editing+and+formatting/Obsidian+Flavored+Markdown) and [GitHub](https://help.obsidian.md/Editing+and+formatting/Obsidian+Flavored+Markdown).
+This repo is a collection of [Markdown](https://www.markdownguide.org/) files, organized using [Obsidian](https://obsidian.md/) and published with [Quartz](https://quartz.jzhao.xyz/). The primary markdown syntax used is [CommonMark](https://commonmark.org/), with some added flavor for Obsidian and [GitHub](https://help.obsidian.md/Editing+and+formatting/Obsidian+Flavored+Markdown).
 
 Our [public knowledge garden](https://knowledge.superbenefit.org) shares curated artifacts and insights from this work, while this repository contains the complete workspace where that knowledge develops. This dual nature - private workspace and public garden - enables us to balance open sharing with the messy reality of knowledge development.
 
@@ -27,6 +27,7 @@ Four key principles shape how we create and share knowledge:
 ## Repository Structure 
 
 Knowledge typically develops through natural stages: from individual drafts, through project-specific collaborative work, into published artifacts. Throughout this progression, ideas are connected by our shared vocabulary and enriched by references to external knowledge. Rather than enforce strict organization, we let structure emerge through:
+
 - Wiki-style document links 
 - Consistent metadata schemas
 - Topic tags and relationships
@@ -36,33 +37,34 @@ Each directory serves a specific purpose in our knowledge ecosystem:
 
 ### Core Content Areas
 
-- **artifacts/** - Published, refined content that represents our collective understanding. Contains finished research, documentation, and community-validated knowledge.
+- **[Artifacts](artifacts/readme.md)** - Published, refined content that represents our collective understanding. Contains finished research, documentation, and community-validated knowledge.
 
-- **drafts/** - Private workspace for developing thoughts and initial research. This is where new ideas begin before they're ready for wider collaboration.
+- **[Notes](notes/readme.md)** - Working documents organized by project. This is where active development happens and where ideas mature through collaboration.
 
-- **notes/** - Working documents organized by project. This is where active development happens and where ideas mature through collaboration.
+- **[Drafts](drafts/readme.md)** - Private workspace for developing thoughts and initial research. This is where new ideas begin before they're ready for wider collaboration.
 
 ### Support and Organization
 
-- **attachments/** - Media files, images, diagrams, and other supporting content used throughout the knowledge base.
-
-- **links/** - External references and resources, enriched with community commentary and analysis.
-
-- **tags/** - Our shared vocabulary and conceptual framework, including term definitions and relationships.
-
-- **tools/** - Knowledge management utilities, including:
-  - templates/ - Standard document structures
-  - types/ - Metadata schemas and definitions
-
 Each directory's `readme.md` provides additional guidance about its specific role and usage guidelines.
+
+- **[Links](links/readme.md)** - External references and resources, enriched with community commentary and analysis.
+	- (Sometimes referred to as the *"web3 Library"*)
+
+- **[Tags](tags/readme.md)** - Our shared vocabulary and conceptual framework, including term definitions and relationships.
+	- (Sometimes referred to as the *"SuperBenefit Lexicon"*)
+
+- **[Tools](tools/readme.md)** - Knowledge management utilities, including:
+	- templates/ - Standard document structures
+	- types/ - Metadata schemas and definitions
+
+- **Attachments** - Media files, images, diagrams, and other supporting content used throughout the knowledge base.
+
 
 ### Publishing & Syndication
 
 Select content from this knowledge base is published in the [SuperBenefit Knowledge Garden](https://github.com/superbenefit/knowledge-garden). 
 
 Pages in the knowledge based with their `publish` property set to `true` may be imported to the knowledge garden and updated periodically. We're exploring [Plausibly Permanent Syndication](https://docs.google.com/presentation/d/1fptaoYuqcwp85jsrVrIaSbbQlTzjfu5LVZMdWtWClNo/) as a way to share published content with the universal knowledge commons.
-
-#### 
 
 ## Working with the Knowledge Base
 
@@ -79,6 +81,8 @@ The repository supports several ways of discovering and connecting knowledge:
 Our [public knowledge garden](https://knowledge.superbenefit.org) offers several entry points to our work. You can explore curated content on our website, follow concept relationships through [topic maps](tags/tags.md), or dive into specific project documentation in [artifacts](artifacts/artifacts.md). This layered access helps you find relevant information whether you're looking for quick insights or deep understanding.
 
 ### Contributing to Projects
+
+SuperBenefit Contributors can use the knowledgebase to record and curate information with their peers. 
 
 Contributing to the knowledge base starts with developing ideas in your private drafts. From there, you can collaborate in project workspaces and help refine content for publication. See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed workflows that will help you participate effectively.
 
