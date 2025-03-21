@@ -56,6 +56,14 @@ Each directory serves a specific purpose in our knowledge ecosystem:
 
 Each directory's `readme.md` provides additional guidance about its specific role and usage guidelines.
 
+### Publishing & Syndication
+
+Select content from this knowledge base is published in the [SuperBenefit Knowledge Garden](https://github.com/superbenefit/knowledge-garden). 
+
+Pages in the knowledge based with their `publish` property set to `true` may be imported to the knowledge garden and updated periodically. We're exploring [Plausibly Permanent Syndication](https://docs.google.com/presentation/d/1fptaoYuqcwp85jsrVrIaSbbQlTzjfu5LVZMdWtWClNo/) as a way to share published content with the universal knowledge commons.
+
+#### 
+
 ## Working with the Knowledge Base
 
 The repository supports several ways of discovering and connecting knowledge:
