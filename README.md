@@ -1,90 +1,69 @@
 # SuperBenefit Knowledge Base
 
-A local-first markdown vault for collaborative knowledge management and collective sensemaking. This repository serves both as a collaborative workspace for storing information created and gathered by the community, enabling us to develop and share knowledge in ways that respect both individual thought processes and collective understanding.
+A local-first markdown vault for collaborative knowledge management and collective sensemaking, built with [Obsidian](https://obsidian.md/) and versioned with [GitHub](https://github.com/).
 
-## Repository Overview
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) 
 
-This repo is a collection of [Markdown](https://www.markdownguide.org/) files, organized using [Obsidian](https://obsidian.md/) and published with [Quartz](https://quartz.jzhao.xyz/). The primary markdown syntax used is [CommonMark](https://commonmark.org/), with some added flavor for Obsidian and [GitHub](https://help.obsidian.md/Editing+and+formatting/Obsidian+Flavored+Markdown).
+## What is This?
+
+The SuperBenefit Knowledge Base is a collaborative workspace for storing, connecting, and developing knowledge related to decentralized organizations (DAOs), Web3 governance, and social impact initiatives. We use a "digital gardening" approach, where technical tools support the organic growth of our shared understanding.
 
 Our [public knowledge garden](https://knowledge.superbenefit.org) shares curated artifacts and insights from this work, while this repository contains the complete workspace where that knowledge develops. This dual nature - private workspace and public garden - enables us to balance open sharing with the messy reality of knowledge development.
 
-### Why This Design?
+### Key Features
 
-Knowledge gardens are fundamentally different from traditional documentation systems. Rather than enforcing rigid structures or final forms, we've built a system that lets knowledge evolve naturally while maintaining clear paths for development and sharing.
-
-Four key principles shape how we create and share knowledge:
-
-- **Local-First**: All content lives as markdown files on contributors' devices, syncing through [git](https://www.atlassian.com/git/tutorials/what-is-git). This preserves individual autonomy while enabling collaboration. By keeping content in simple text files under personal control, we enable both independent thought and collective development.
-
-- **Networked Knowledge**: Rather than rigid hierarchies, we connect information through wiki-links and metadata. Related ideas find each other naturally through these associations. This organic structure lets us discover relationships between concepts that might be hidden in traditional organizational schemes.
-
-- **Progressive Documentation**: Knowledge evolves from rough drafts to collaborative development to polished artifacts. Our directory structure reflects this natural progression, providing appropriate spaces for each stage of development while maintaining clear paths between them.
-
-- **Collective Intelligence**: By balancing individual work with group development, we build shared understanding while preserving diverse perspectives. Our system supports both deep solo work and collaborative refinement, using shared language to bridge individual insights and collective knowledge.
+*   **Local-First Markdown:** All content is stored as plain markdown files, giving you full control over your data.
+*   **Obsidian Integration:** Designed for use with [Obsidian](https://obsidian.md/), a powerful knowledge management application.
+*   **GitHub Version Control:** Leverages [GitHub](https://github.com/) for version control, collaboration, and backup.
+*   **Networked Knowledge:** Connects ideas through wiki-links and metadata, creating a rich and interconnected web of knowledge.
+*   **Progressive Documentation:** Supports the evolution of knowledge from rough drafts to polished artifacts.
 
 ---
 
-## Repository Structure 
+## Getting Started
 
-Knowledge typically develops through natural stages: from individual drafts, through project-specific collaborative work, into published artifacts. Throughout this progression, ideas are connected by our shared vocabulary and enriched by references to external knowledge. Rather than enforce strict organization, we let structure emerge through:
+1.  **Install Obsidian:** [Download Obsidian](https://obsidian.md/download) and familiarize yourself with its basic features.
+2.  **Clone This Repository:**
+    ```bash
+    git clone https://github.com/superbenefit/knowledge-base.git
+    cd knowledge-base
+    ```
+3.  **Open as Obsidian Vault:** In Obsidian, select "Open folder as vault" and choose the cloned `knowledge-base` directory.
+4.  **Configure Obsidian (Recommended):**
+    *   Enable "Automatically update internal links" in Obsidian settings.
+5.  **Start Exploring:** Browse the repository structure and start exploring the existing content.
 
-- Wiki-style document links 
-- Consistent metadata schemas
-- Topic tags and relationships
-- Project-specific organization
+### Repository Structure
 
-Each directory serves a specific purpose in our knowledge ecosystem:
+*   **[Artifacts](artifacts/readme.md)**: Published, refined content that represents our collective understanding. Contains finished research, documentation, and community-validated knowledge.
+*   **[Notes](notes/readme.md)**: Working documents organized by project. This is where active development happens and where ideas mature through collaboration.
+*   **[Drafts](drafts/readme.md)**: Private workspace for developing thoughts and initial research. This is where new ideas begin before they're ready for wider collaboration.
+*   **[Links](links/readme.md)**: External references and resources, enriched with community commentary and analysis.
+*   **[Tags](tags/readme.md)**: Our shared vocabulary and conceptual framework, including term definitions and relationships.
+*   **[Tools](tools/readme.md)**: Knowledge management utilities, including:
+    *   `templates/`: Standard document structures
+    *   `types/`: Metadata schemas and definitions
+*   **Attachments**: Media files, images, diagrams, and other supporting content used throughout the knowledge base.
 
-### Core Content Areas
-
-- **[Artifacts](artifacts/readme.md)** - Published, refined content that represents our collective understanding. Contains finished research, documentation, and community-validated knowledge.
-
-- **[Notes](notes/readme.md)** - Working documents organized by project. This is where active development happens and where ideas mature through collaboration.
-
-- **[Drafts](drafts/readme.md)** - Private workspace for developing thoughts and initial research. This is where new ideas begin before they're ready for wider collaboration.
-
-### Support and Organization
-
-Each directory's `readme.md` provides additional guidance about its specific role and usage guidelines.
-
-- **[Links](links/readme.md)** - External references and resources, enriched with community commentary and analysis.
-	- (Sometimes referred to as the *"web3 Library"*)
-
-- **[Tags](tags/readme.md)** - Our shared vocabulary and conceptual framework, including term definitions and relationships.
-	- (Sometimes referred to as the *"SuperBenefit Lexicon"*)
-
-- **[Tools](tools/readme.md)** - Knowledge management utilities, including:
-	- templates/ - Standard document structures
-	- types/ - Metadata schemas and definitions
-
-- **Attachments** - Media files, images, diagrams, and other supporting content used throughout the knowledge base.
-
-### Directory Documentation: README Files and Folder Notes
+### Documentation
 
 Each directory contains two types of documentation to serve different audiences:
 
-*   **README Files (e.g., `artifacts/readme.md`):** These files are primarily for contributors and knowledge managers working directly with the repository (e.g., on GitHub or in Obsidian). They provide information on the directory's purpose, how to contribute, and any specific guidelines for that area. They are "inner-facing" documentation.
+*   **README Files (e.g., `artifacts/readme.md`):** These files are primarily for contributors and knowledge managers working directly with the repository. They provide information on the directory's purpose, how to contribute, and any specific guidelines for that area. They are "inner-facing" documentation.
 *   **Folder Notes (e.g., `artifacts/artifacts.md`):** These files are equivalent to index files and are published to the SuperBenefit Knowledge Garden to be displayed publicly. They provide an overview of the directory's content and guide readers on how to use and get the most value from the resources within. Folder notes always have the same name as their parent directory (e.g., the folder note for `/artifacts` is `/artifacts/artifacts.md`). They are "outward-facing" documentation.
 
-## Working with the Knowledge Base
+---
 
-The repository supports several ways of discovering and connecting knowledge:
+## Contributing
 
-- **[Graph](https://help.obsidian.md/Plugins/Graph+view)**: Discover content relationships visually
-- **[Canvas](https://help.obsidian.md/Plugins/Canvas)**: Create and share canvases with your team
-- **[Tags](https://help.obsidian.md/Editing+and+formatting/Tags)**: Explore relationships between concepts and topics
-- **[Search](https://help.obsidian.md/Plugins/Search)**: Full text lookups and metadata queries
-- **[Explorer](https://help.obsidian.md/Plugins/File+explorer)**: View the file tree without relationships
+We welcome contributions to the SuperBenefit Knowledge Base! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines on how to contribute.
 
-### Browsing Published Knowledge
+Here are some ways you can contribute:
 
-Our [public knowledge garden](https://knowledge.superbenefit.org) offers several entry points to our work. You can explore curated content on our website, follow concept relationships through [topic maps](tags/tags.md), or dive into specific project documentation in [artifacts](artifacts/artifacts.md). This layered access helps you find relevant information whether you're looking for quick insights or deep understanding.
-
-### Contributing to Projects
-
-SuperBenefit Contributors can use the knowledgebase to record and curate information with their peers. 
-
-Contributing to the knowledge base starts with developing ideas in your private drafts. From there, you can collaborate in project workspaces and help refine content for publication. See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed workflows that will help you participate effectively.
+*   **Create new content:** Share your knowledge and insights by creating new notes and artifacts.
+*   **Improve existing content:** Help us improve the quality and accuracy of our existing content by clarifying explanations, fixing errors, and adding new information.
+*   **Connect ideas:** Create links between related notes and artifacts to build a rich and interconnected web of knowledge.
+*   **Help others:** Welcome new contributors and help them find their way around the knowledge base.
 
 ### Publishing & Syndication
 
@@ -95,6 +74,8 @@ Pages in the knowledge based with their `publish` property set to `true` may be 
 ### Building Your Own
 
 This system is designed to be adaptable. You can fork this repository to create your own knowledge garden, customizing the structure and tools to match your needs. Our approach to knowledge management can be adapted to many different contexts while maintaining the core benefits of progressive documentation and networked learning.
+
+---
 
 ## Additional Resources
 

@@ -39,9 +39,9 @@ kanban-plugin: board
 
 - [ ] BioFi Pattern
 	
-	- [biofi](artifacts/patterns/biofi.md)
+	- [biofi](notes/rpp/working-docs/biofi.md)
 - [ ] Privacy Payments Pattern
-	- [privacy-payments](artifacts/patterns/privacy-payments.md)
+	- [privacy-payments](notes/rpp/working-docs/privacy-payments.md)
 
 
 ## Complete
