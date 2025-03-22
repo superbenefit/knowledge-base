@@ -2,8 +2,6 @@
 
 A local-first markdown vault for collaborative knowledge management and collective sensemaking, built with [Obsidian](https://obsidian.md/) and versioned with [GitHub](https://github.com/).
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) 
-
 ## What is This?
 
 The SuperBenefit Knowledge Base is a collaborative workspace for storing, connecting, and developing knowledge related to decentralized organizations (DAOs), Web3 governance, and social impact initiatives. We use a "digital gardening" approach, where technical tools support the organic growth of our shared understanding.
