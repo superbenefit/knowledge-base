@@ -1,21 +1,24 @@
-*Curated external resources - the foundation we build upon.*
+This directory contains our curated collection of external resources and references that inform our research and knowledge development.
 
-# Library Directory
+## Purpose
 
-This directory is our curated collection of external resources and references that inform our research and knowledge development. The library includes content we've gathered from various fields to support our work.
+The Web3 Library is designed to:
 
-Library content may include:
-- Academic papers and research materials
-- Relevant articles, blog posts, and web content
-- Books, guides, and other long-form resources
-- Talks, presentations, and other media
+*   **Collect Relevant Resources:** Gather links to academic papers, articles, blog posts, and other external content that are relevant to our work on DAOs, Web3 governance, and social impact initiatives.
+*   **Provide Context and Analysis:** Add our community's commentary and analysis to these resources, providing context and highlighting key takeaways.
+*   **Connect to Our Work:** Link these external resources to related ideas and insights within our own knowledge base.
 
-Along with external content, we include our commentary, analysis, and knowledge development based on these resources. The library is where we engage with existing knowledge to push our understanding further.
+## Contributing to the Library
 
-To contribute to the library:
-1. Add new resources in relevant formats
-2. Include source links and attribution
-3. Provide commentary and connect to our work
-4. Update library index and references
+To contribute to the Web3 Library:
 
-Let's build a rich, engaging library that accelerates our learning and creation.
+1.  **Find a Relevant Resource:** Identify an external resource that you think would be valuable to our community.
+2.  **Create a New Link File:** Create a new Markdown file in the `links` directory for the resource. Use the [Link Template](tools/templates/Link%20Template.md) for guidance.
+3.  **Add Metadata:** Fill in the required metadata fields, including the title, URL, description, and tags.
+4.  **Provide Commentary (Optional):** Add your own commentary and analysis to the resource, highlighting key takeaways and connecting it to our work.
+5.  **Submit Your Contribution:** Follow the guidelines in [CONTRIBUTING.md](/CONTRIBUTING.md) to submit your contribution for review.
+
+## Key Resources
+
+*   **Link Template:** [tools/templates/Link Template.md](tools/templates/Link%20Template.md) - Use this template to create new link files.
+*   **Contribution Guidelines:** [CONTRIBUTING.md](/CONTRIBUTING.md) - Review our overall contribution process.

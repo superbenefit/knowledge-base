@@ -1,34 +1,28 @@
 ---
-title: Notes
-description: Explore our collaborative knowledge base
+title: Project Workspaces
+description: Explore our evolving thoughts and ideas on DAOs, Web3, and social impact.
 publish: true
 type: index
 ---
 
-Welcome to the SuperBenefit community notes! This section contains our ongoing research, discussions, and evolving ideas.  Think of it as our active workspace where knowledge is developed and refined before being published.
+Welcome to the Project Workspaces! This section offers a glimpse into the active development of our knowledge around decentralized organizations (DAOs), Web3 governance, and social impact initiatives.
 
-## What You'll Find Here
+Think of this as our collaborative workshop, where ideas are shaped, connected, and refined.
 
-This section organizes the knowledge we're actively developing.  You'll find notes on a variety of topics, including:
+## What You'll Discover
 
-* **Ongoing Projects:**  We're currently focused on several key areas, including the development of organizational patterns, research into fundamental organizational building blocks, and the creation of frameworks for understanding organizational dynamics.
+Here, you'll find:
 
-* **Collaborative Work:**  These notes represent ongoing work, so you might find some ideas that are still under development.  We encourage you to explore, provide feedback, and contribute your own insights!
+*   **Evolving Ideas:** Notes that are actively being developed and refined, reflecting our current thinking on various topics.
+*   **Project-Specific Materials:** Content related to specific projects and initiatives within the SuperBenefit community.
+*   **Interconnected Knowledge:** Links between notes, as well as to external resources in our Web3 Library and definitions in our Lexicon.
 
-* **Connections to Other Resources:**  This section is closely linked to our [links](links/links.md) of external resources, our [lexicon](tags/tags.md) of shared terms and concepts, and our [published artifacts](artifacts/artifacts.md) of completed work.
-
----
-
-## Explore Our Work
+## Project Workspaces
 
 
-### 1. DAO Primitives Project (`/dao-primitives/`)
+### [DAO Primitives Project](notes/dao-primitives/dao-primitives.md)
 
 This section explores the fundamental building blocks of effective organizations.  We investigate core concepts, frameworks for understanding organizational context, and the relationships between these building blocks and practical solutions.  Learn about governance mechanisms, operational functions, organizational structures, and coordination tools.
-
-### 2. Reimagining Power Project (`/rpp/`)
-
-Here you'll find documented solutions to common organizational challenges.  These patterns combine fundamental building blocks into practical implementations, providing tested approaches for various situations.  Discover proven strategies for effective organization and management.
 
 ---
 
