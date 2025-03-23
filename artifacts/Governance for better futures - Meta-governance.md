@@ -75,8 +75,8 @@ If this caught your interest, join us for the next conversations. On June 16, 6.
 
 Some other governance discovery being undertaken by @SuperBenefitDAO:
 
-- [Governance for better futures - DAO 2 DAO Co-operation](artifacts/articles/Governance%20for%20better%20futures%20-%20DAO%202%20DAO%20Co-operation.md)
-- [Governance for better futures - New and Old](artifacts/articles/Governance%20for%20better%20futures%20-%20New%20and%20Old.md)
+- [Governance for better futures - DAO 2 DAO Co-operation](artifacts/Governance%20for%20better%20futures%20-%20DAO%202%20DAO%20Co-operation.md)
+- [Governance for better futures - New and Old](artifacts/Governance%20for%20better%20futures%20-%20New%20and%20Old.md)
 
 Synthesis produced by: [@AlexHannant](https://twitter.com/AlexHannant) and [@TarynLucas6](https://twitter.com/TarynLucas6)
 

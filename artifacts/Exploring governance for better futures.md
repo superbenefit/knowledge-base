@@ -25,9 +25,9 @@ We explored perspectives on the essential functions and attributes of governance
 
 Each of the conversations were framed around a question:
 
-- **[June 2, 2022](artifacts/articles/Governance%20for%20better%20futures%20-%20DAO%202%20DAO%20Co-operation.md):** Metagovernance - what is it and what’s its potential?
-- **[June 16, 2022](artifacts/articles/Governance%20for%20better%20futures%20-%20Meta-governance.md):** DAO to DAO - what are we seeing and learning from inter-DAO cooperation?
-- **[June 30, 2022](artifacts/articles/Governance%20for%20better%20futures%20-%20New%20and%20Old.md):** New and old - what can Web3 learn from and contribute to existing governance perspectives and practices?
+- **[June 2, 2022](artifacts/Governance%20for%20better%20futures%20-%20DAO%202%20DAO%20Co-operation.md):** Metagovernance - what is it and what’s its potential?
+- **[June 16, 2022](artifacts/Governance%20for%20better%20futures%20-%20Meta-governance.md):** DAO to DAO - what are we seeing and learning from inter-DAO cooperation?
+- **[June 30, 2022](artifacts/Governance%20for%20better%20futures%20-%20New%20and%20Old.md):** New and old - what can Web3 learn from and contribute to existing governance perspectives and practices?
     
 All Twitter Spaces took place from 6:30 to 7:30 pm EST and were hosted on the [SuperBenefit Twitter account.](https://twitter.com/superbenefitdao)
 

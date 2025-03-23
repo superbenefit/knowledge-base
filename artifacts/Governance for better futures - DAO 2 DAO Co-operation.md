@@ -159,8 +159,8 @@ If this caught your interest, join us for the next conversations. On June 30, 6.
 
 Some other governance discovery being undertaken by @SuperBenefitDAO:
 
-- [Governance for better futures - Meta-governance](artifacts/articles/Governance%20for%20better%20futures%20-%20Meta-governance.md)
-- [Governance for better futures - New and Old](artifacts/articles/Governance%20for%20better%20futures%20-%20New%20and%20Old.md)
+- [Governance for better futures - Meta-governance](artifacts/Governance%20for%20better%20futures%20-%20Meta-governance.md)
+- [Governance for better futures - New and Old](artifacts/Governance%20for%20better%20futures%20-%20New%20and%20Old.md)
 
 Summary produced by: [@AlexHannant](https://twitter.com/AlexHannant) and [@TarynLucas6](https://twitter.com/TarynLucas6)
 
