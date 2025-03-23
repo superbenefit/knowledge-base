@@ -1,5 +1,5 @@
 ---
-title: Web3 Library
+title: Link Library
 description: Curated external resources and community commentary to expand our understanding.
 publish: true
 type: index

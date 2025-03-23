@@ -1,5 +1,5 @@
 ---
-title: Project Workspaces
+title: Project Notes
 description: Explore our evolving thoughts and ideas on DAOs, Web3, and social impact.
 publish: true
 type: index
