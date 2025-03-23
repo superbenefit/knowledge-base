@@ -1,6 +1,6 @@
 This directory is your private space for unpolished ideas and experimental thinking. It's excluded from version control to ensure your drafts remain private.
 
-## Purpose
+# Personal Drafts
 
 Think of the `drafts` directory as your personal workbench. It's where you can freely jot down initial thoughts without worrying about structure, explore new concepts without judgment, and store anything you don't want to immediately share publicly. It's a space for capturing those fleeting ideas before they disappear!
 
