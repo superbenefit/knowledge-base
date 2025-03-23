@@ -2,6 +2,8 @@
 title: Modular Politics - Toward a Governance Layer for Online Communities
 tags:
   - frameworks
+  - metagovernance
+  - daos
 author:
   - NATHAN SCHNEIDER
   - PRIMAVERA DE FILIPPI
