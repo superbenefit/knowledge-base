@@ -1,10 +1,9 @@
 ---
-title: Distributed Ledger Technology
+title: Blockchain
 harvester:
   - lyndonb.eth
 tags: []
 aliases:
-  - "#dlt"
   - "#blockchain"
 publish: "true"
 ---
