@@ -42,7 +42,7 @@ For example, a DAO might implement modules for:
 ## Related Concepts
 
 - [Primitives](tags/primitives.md): Fundamental building blocks that can be composed into larger systems
-- [Patterns](tags/Patterns.md): Reusable solutions to common governance challenges
+- [patterns](tags/patterns.md): Reusable solutions to common governance challenges
 - [Permissions](tags/permissions.md): Systems for managing access and authority within modules
 - [Protocols](tags/protocols.md): Standardized rules that enable modules to interoperate
 - [Platforms](tags/platforms.md): Systems that host and integrate various modules
