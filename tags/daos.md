@@ -1,7 +1,7 @@
 ---
 title: Decentralized Autonomous Organizations (DAOs)
 description: Organizations that operate through distributed governance and smart contracts to coordinate resources, make decisions, and achieve shared goals
-harvester: 
+harvester: rathermercurial.eth
 tags:
   - organizations
   - governance

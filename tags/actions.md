@@ -1,7 +1,7 @@
 ---
 title: Actions
 description: The execution of intent through specific processes that drive change and value flow within systems and organizations
-harvester: 
+harvester: rathermercurial.eth
 tags:
 aliases:
   - "#actions"

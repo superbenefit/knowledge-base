@@ -1,7 +1,7 @@
 ---
 title: Agents
 description: Autonomous individuals, entities, or systems that act or make decisions, influencing outcomes through their actions within decentralized networks and coordination systems.
-harvester: 
+harvester: rathermercurial.eth
 tags:
   - coordination
   - governance

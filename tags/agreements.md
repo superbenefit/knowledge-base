@@ -1,7 +1,7 @@
 ---
 title: Agreements
 description: Formalized understandings between parties that establish shared expectations, commitments, and parameters for interaction, coordination, and resource allocation.
-harvester: 
+harvester: rathermercurial.eth
 tags:
   - actions
 aliases:
