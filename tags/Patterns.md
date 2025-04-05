@@ -1,6 +1,7 @@
 ---
 title: Patterns
 description: Reusable solutions for common challenges in organizations and systems.
+harvester: rathermercurial.eth
 publish: true
 type: tag
 aliases:

@@ -13,7 +13,7 @@ Operational [governance](tags/governance.md) enables autonomous teams to coordin
 
 related to:
 - [Community Governance](notes/rpp/working-docs/community-governance.md)
-- [Multi-Stakeholder Governance](notes/rpp/working-docs/stakeholder-governance.md)
+- [Multi-Stakeholder Governance](notes/rpp/working-docs/multistakeholder-governance.md)
 - [Operational Governance](notes/rpp/working-docs/operational-governance.md)
 
 This pattern provides a [framework](tags/frameworks.md) for implementing efficient, transparent, and adaptable operational systems that maintain [autonomy](tags/autonomy.md) while ensuring [coordination](notes/dao-primitives/framework/group-scale/coordination.md).
