@@ -18,12 +18,14 @@ Because the language we use to describe decentralized systems is complex, we nee
 
 The lexicon was created to address contributor pain points and feedback from the community related to the difficulty of using web3 language within multi-disciplinary teams and audiences with varied backgrounds.
 
-This is the first iteration of the Lexicon. It was generated 
+A summary of the process used to create the lexicon:
 
 - Several dozen common topics were pulled from various published artifacts and working documents stored in the knowledge base.
 	- Lexicon entries were created manually by defining the topics in a manner relevant to the SuperBenefit community in a consistent format
-- A machine-assisted workflow was created using [RAG](https://en.wikipedia.org/wiki/Retrieval-augmented_generation) with commercial LLM's to enhance and replicate the manually-established pattern, using published works from SuperBenefit contributors for cultural context.
-	- More terms were added to expand the lexicon to a useful scope, then run through the AI workflow with humans in the loop for error correction (not much) and formatting fixes (quite a lot)
+- A machine-assisted workflow was created using commercial LLM's to enhance and replicate the manually-established pattern, based on published works from SuperBenefit contributors for cultural context.
+	- More terms were added to expand the lexicon to a useful scope, then run through the AI workflow with humans in the loop for error correction (not much) and formatting fixes (quite a few)
+
+In its current form, the lexicon can be used to enhance AI-assisted text generation enough to make general-purpose models like Claude of ChatGPT useful for working with knowledge at SuperBenefit.
 
 ---
 
