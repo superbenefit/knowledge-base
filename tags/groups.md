@@ -8,7 +8,6 @@ tags:
 aliases:
 - "#groups"
 publish: "true"
-
 ---
 
 _Groups are purposeful collections of individuals or entities that coordinate their actions, share resources, and make decisions together to achieve common objectives, forming the fundamental units of social organization across different scales of complexity._
