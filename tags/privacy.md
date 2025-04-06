@@ -7,7 +7,7 @@ aliases:
   - "#privacy"
 tags:
   - functions
-  - qualities
+  - values
 ---
 
 *The safeguarding of personal, transactional, and organizational data to ensure individual and collective autonomy, security, and ethical stewardship in digital ecosystems.*

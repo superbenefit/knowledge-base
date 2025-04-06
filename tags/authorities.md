@@ -1,15 +1,16 @@
 ---
 title: Authorities
-description: Entities, roles, or systems granted legitimate power to make decisions, validate actions, or enforce rules within decentralized networks and governance frameworks 
-harvester: rathermercurial.eth
-publish: true 
-type: tag 
+description: Entities, roles, or systems granted legitimate power to make decisions, validate actions, or enforce rules within decentralized networks and governance frameworks
+harvester:
+  - rathermercurial.eth
+publish: "true"
+type: tag
 aliases:
-- "#authorities"
+  - "#authorities"
 tags:
-- governance
-- permissions
-- agreements
+  - governance
+  - permissions
+  - agreements
 ---
 
 _Authorities are entities, roles, or mechanisms that possess recognized legitimacy to make specific decisions, validate actions, or enforce rules within organizational systems, influencing how power and permissions flow through governance structures._

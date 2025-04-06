@@ -1,8 +1,8 @@
 ---
 title: Autonomy
 description: The capacity for self-governance and independent decision-making within interconnected systems, enabling decentralized coordination without central control 
-tags:
-  - qualities
+tags: 
+  - values
 aliases:
   - "#autonomy"
 publish: "true"

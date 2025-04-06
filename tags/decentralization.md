@@ -3,7 +3,7 @@ title: Decentralization
 description: The distribution of power, decision-making, and resources away from central authorities to networked participants, creating more resilient, transparent, and participatory systems
 harvester: rathermercurial.eth
 tags:
-  - qualities
+  - values
 aliases:
   - "#decentralization"
 publish: "true"

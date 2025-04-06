@@ -75,9 +75,7 @@ In the context of social impact initiatives, DeFi tools can enable more transpar
 
 - [[tags/blockchain]]: The underlying technology that enables decentralized, trustless financial applications
 - [[tags/governance]]: The mechanisms by which DeFi protocols make decisions and evolve
-- [[tags/treasury]]: Management of collective assets in decentralized systems
 - [[tags/protocols]]: Standardized sets of rules that govern DeFi interactions
 - [[tags/payments]]: The exchange of value between parties, transformed by DeFi mechanisms
 - [[tags/privacy]]: A critical consideration in designing ethical DeFi systems
 - [[tags/attestations]]: Verified statements that can enhance trust and functionality in DeFi applications
-- [[tags/wallets]]: Tools for interfacing with and managing assets in DeFi ecosystems

@@ -35,7 +35,6 @@ For organizations focused on social impact, resources extend beyond financial ca
 
 ## Related Concepts
 
-- [[tags/treasury|Treasury Management]]: Systems for securing and allocating collective financial resources
 - [[tags/permissions|Permissions]]: Controls determining who can access or direct specific resources
 - [[tags/decisions|Decision-making]]: Processes through which resource allocation choices are made
 - [[tags/platforms|Platforms]]: Infrastructure that serves as a resource for coordination

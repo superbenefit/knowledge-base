@@ -1,15 +1,15 @@
 ---
 title: Consent
 description: Consent, as used in consent based decison-making
-harvester: 
+harvester:
   - yeoro.eth
-publish: true
+publish: "true"
 type: tag
 aliases:
   - "#consent"
 tags:
-  - "agreements"
-  - "decisions"
+  - agreements
+  - decisions
 ---
 
 This is a definition of "consent" as the core principle in Consent Based Decision-making.
