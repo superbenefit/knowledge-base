@@ -28,7 +28,7 @@ In the context of DAO networks and decentralized systems, "community" takes on s
 
 Communities establish shared identities, norms, and cultural practices that guide behavior and decision-making. This cultural layer provides the social infrastructure necessary for decentralized coordination.
 
-In [DAO to DAO cooperation](artifacts/Governance%20for%20better%20futures%20-%20DAO%202%20DAO%20Co-operation.md), strong community identity is highlighted as a critical facilitator of cooperation: "these communities have a strong sense of identity and individuals who have deep relationships with one another - these are really important facilitators of cooperation."
+In [DAO to DAO cooperation](artifacts/governance-for-better-futures/Governance%20for%20better%20futures%20-%20DAO%202%20DAO%20Co-operation.md), strong community identity is highlighted as a critical facilitator of cooperation: "these communities have a strong sense of identity and individuals who have deep relationships with one another - these are really important facilitators of cooperation."
 
 ### Community in Social Impact
 
@@ -52,7 +52,7 @@ The [DAO Primitives framework](notes/dao-primitives/dao-primitives.md) describes
 
 In [Community Governance](notes/rpp/working-docs/community-governance.md), "community" refers to the broad base of stakeholders who participate in governing a network's overarching purpose and direction. This constituency-scale governance operates through deliberative mechanisms like conviction voting and makes long-term decisions about network direction and treasury allocation.
 
-As described in [Building DAOs as scalable networks](artifacts/Building%20DAOs%20as%20scalable%20networks.md), community governance "safeguards the purpose of the network" and includes a diverse set of stakeholders: "Cell contributors, founders, partners (sponsors, funders etc), as well as others that have a stake in the purpose of the network but may not be contributing directly to its operations."
+As described in [Building DAOs as scalable networks](artifacts/network-evolution/Building%20DAOs%20as%20scalable%20networks.md), community governance "safeguards the purpose of the network" and includes a diverse set of stakeholders: "Cell contributors, founders, partners (sponsors, funders etc), as well as others that have a stake in the purpose of the network but may not be contributing directly to its operations."
 
 ### Community in Group Development
 

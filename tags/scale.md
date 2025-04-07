@@ -33,7 +33,7 @@ The [framework](notes/dao-primitives/framework/framework.md) identifies three fu
 
 ### Scale and Scaling Dynamics
 
-In [Scale and the levers that provide DAOs their power](artifacts/Scale%20and%20the%20levers%20that%20provide%20DAOs%20their%20power.md), two fundamental scaling dynamics are identified that shape how systems grow and evolve:
+In [Scale and the levers that provide DAOs their power](artifacts/network-evolution/Scale%20and%20the%20levers%20that%20provide%20DAOs%20their%20power.md), two fundamental scaling dynamics are identified that shape how systems grow and evolve:
 
 1. **Sub-linear scaling** through fractal hierarchies creates increasing efficiency as networks grow. This pattern, observed in biological systems and infrastructure networks, enables what the article calls "Dynamic One" - the capacity to achieve economies of scale through structured organization. Traditional companies excel at this form of scaling through management hierarchies and standardized processes.
     
@@ -52,6 +52,6 @@ The article argues that DAOs, when properly designed, can uniquely combine both 
 
 ## References and Resources
 
-- [Scale and the levers that provide DAOs their power](artifacts/Scale%20and%20the%20levers%20that%20provide%20DAOs%20their%20power.md): Explores fundamental scaling dynamics in organizational systems
-- [Building DAOs as scalable networks](artifacts/Building%20DAOs%20as%20scalable%20networks.md): Proposes multi-scale governance approaches for decentralized organizations
+- [Scale and the levers that provide DAOs their power](artifacts/network-evolution/Scale%20and%20the%20levers%20that%20provide%20DAOs%20their%20power.md): Explores fundamental scaling dynamics in organizational systems
+- [Building DAOs as scalable networks](artifacts/network-evolution/Building%20DAOs%20as%20scalable%20networks.md): Proposes multi-scale governance approaches for decentralized organizations
 - [framework](notes/dao-primitives/framework/framework.md): Provides detailed analysis of different group scales and their characteristics

@@ -32,17 +32,17 @@ Focuses on aligning key stakeholder interests and managing relationships between
 
 ### Governance for Better Futures series:
 
-- [Governance for better futures - DAO 2 DAO Co-operation](artifacts/Governance%20for%20better%20futures%20-%20DAO%202%20DAO%20Co-operation.md)
-- [Governance for better futures - Meta-governance](artifacts/Governance%20for%20better%20futures%20-%20Meta-governance.md)
-- [Governance for better futures - New and Old](artifacts/Governance%20for%20better%20futures%20-%20New%20and%20Old.md)
+- [Governance for better futures - DAO 2 DAO Co-operation](artifacts/governance-for-better-futures/Governance%20for%20better%20futures%20-%20DAO%202%20DAO%20Co-operation.md)
+- [Governance for better futures - Meta-governance](artifacts/governance-for-better-futures/Governance%20for%20better%20futures%20-%20Meta-governance.md)
+- [Governance for better futures - New and Old](artifacts/governance-for-better-futures/Governance%20for%20better%20futures%20-%20New%20and%20Old.md)
 
 ### DAO Primitives Articles
 
-- [DAOs aren't things... they are flows.](artifacts/DAOs%20aren't%20things...%20they%20are%20flows..md)
--  [Scale and the levers that provide DAOs their power](artifacts/Scale%20and%20the%20levers%20that%20provide%20DAOs%20their%20power.md)
--  [DAOs - From fractal primitives to network scale.](artifacts/DAOs%20-%20From%20fractal%20primitives%20to%20network%20scale..md)
--  [Minimum Viable Permissionless-ness](artifacts/Minimum%20Viable%20Permissionless-ness.md)
--  [Building DAOs as scalable networks](artifacts/Building%20DAOs%20as%20scalable%20networks.md)
+- [DAOs aren't things... they are flows.](artifacts/network-evolution/DAOs%20aren't%20things...%20they%20are%20flows..md)
+-  [Scale and the levers that provide DAOs their power](artifacts/network-evolution/Scale%20and%20the%20levers%20that%20provide%20DAOs%20their%20power.md)
+-  [DAOs - From fractal primitives to network scale.](artifacts/network-evolution/DAOs%20-%20From%20fractal%20primitives%20to%20network%20scale..md)
+-  [Minimum Viable Permissionless-ness](artifacts/network-evolution/Minimum%20Viable%20Permissionless-ness.md)
+-  [Building DAOs as scalable networks](artifacts/network-evolution/Building%20DAOs%20as%20scalable%20networks.md)
 
 
 ## Governance Frameworks

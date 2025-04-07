@@ -38,7 +38,7 @@ The explicit documentation of responsibilities in role descriptions serves sever
 
 In DAO governance contexts, responsibilities are allocated across different governance layers and stakeholder groups according to the principle of subsidiarity—assigning decision rights and duties to the most local level capable of handling them effectively.
 
-As outlined in [Building DAOs as scalable networks](artifacts/Building%20DAOs%20as%20scalable%20networks.md), effective DAO governance often separates responsibilities between community governance (safeguarding purpose and long-term direction) and operational governance (day-to-day execution and coordination). Each layer has distinct responsibilities that complement rather than duplicate each other:
+As outlined in [Building DAOs as scalable networks](artifacts/network-evolution/Building%20DAOs%20as%20scalable%20networks.md), effective DAO governance often separates responsibilities between community governance (safeguarding purpose and long-term direction) and operational governance (day-to-day execution and coordination). Each layer has distinct responsibilities that complement rather than duplicate each other:
 
 - **Community Governance Responsibilities**: Maintaining alignment with purpose, approving high-level resource allocation, ensuring accountability of operational teams, and evolving core values and direction
 - **Operational Governance Responsibilities**: Implementing strategic initiatives, coordinating across teams, managing resources within approved parameters, and delivering on specific objectives

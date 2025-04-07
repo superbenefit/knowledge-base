@@ -6,8 +6,10 @@
   "metadata-menu",
   "templater-obsidian",
   "auto-template-trigger",
-  "khoj",
   "waypoint",
   "github-sync",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-local-rest-api",
+  "mcp-tools",
+  "smart-connections"
 ]

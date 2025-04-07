@@ -30,7 +30,7 @@ The relationship between vision and governance is bidirectional - vision guides 
 
 In decentralized coordination contexts, vision creates alignment without requiring command-and-control structures. When autonomous teams share a clear vision of success, they can self-organize effectively toward common goals while maintaining their independence and contextual responsiveness.
 
-As described in [DAOs - From fractal primitives to network scale.](artifacts/DAOs%20-%20From%20fractal%20primitives%20to%20network%20scale..md), this enables a network to "reorient itself organically" as participants flow toward the most promising opportunities for realizing the shared vision. Unlike traditional strategic planning that attempts to dictate specific paths, vision-based coordination allows multiple approaches to emerge and evolve based on learning and changing conditions.
+As described in [DAOs - From fractal primitives to network scale.](artifacts/network-evolution/DAOs%20-%20From%20fractal%20primitives%20to%20network%20scale..md), this enables a network to "reorient itself organically" as participants flow toward the most promising opportunities for realizing the shared vision. Unlike traditional strategic planning that attempts to dictate specific paths, vision-based coordination allows multiple approaches to emerge and evolve based on learning and changing conditions.
 
 ### Vision in Social Impact
 
