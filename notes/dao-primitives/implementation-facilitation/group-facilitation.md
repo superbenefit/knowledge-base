@@ -7,7 +7,7 @@ description: ""
 publish: "false"
 ---
 
-**Thiss document is a work in progress. It's just a suggested outline for now. Feel free to change it, work on it, etc.**
+**This document is a work in progress. It's just a suggested outline for now. Feel free to change it, work on it, etc.**
 
 ---
 

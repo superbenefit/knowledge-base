@@ -164,6 +164,8 @@ You can dive deeper into how the primitives work together [**here**](https://app
 %% Begin Waypoint %%
 - [DAO Primitives Tasks](./DAO%20Primitives%20Tasks.md)
 - **[framework](./framework/framework.md)**
+- **[implementation-facilitation](./implementation-facilitation/implementation-facilitation.md)**
+- **[patterns](./patterns/patterns.md)**
 - **[test-resources](./test-resources/test-resources.md)**
 
 %% End Waypoint %%
