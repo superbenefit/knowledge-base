@@ -28,7 +28,7 @@ Our [public knowledge garden](https://knowledge.superbenefit.org) shares curated
     ```
 3.  **Open as Obsidian Vault:** In Obsidian, select "Open folder as vault" and choose the cloned `knowledge-base` directory.
 4.  **Configure Obsidian (Recommended):**
-    *   Enable "Automatically update internal links" in Obsidian settings.
+    *   Enable "Automatically update internal links" in Obsidian settings (inside Options/Files and links).
 5.  **Start Exploring:** Browse the repository structure and start exploring the existing content.
 
 ### Repository Structure
@@ -48,7 +48,7 @@ Our [public knowledge garden](https://knowledge.superbenefit.org) shares curated
 Each directory contains two types of documentation to serve different audiences:
 
 *   **README Files (e.g., `artifacts/readme.md`):** These files are primarily for contributors and knowledge managers working directly with the repository. They provide information on the directory's purpose, how to contribute, and any specific guidelines for that area. They are "inner-facing" documentation.
-*   **Folder Notes (e.g., `artifacts/artifacts.md`):** These files are equivalent to index files and are published to the SuperBenefit Knowledge Garden to be displayed publicly. They provide an overview of the directory's content and guide readers on how to use and get the most value from the resources within. Folder notes always have the same name as their parent directory (e.g., the folder note for `/artifacts` is `/artifacts/artifacts.md`). They are "outward-facing" documentation.
+*   **Folder Notes (e.g., `artifacts/artifacts.md`):** These files are equivalent to index files and are published to the SuperBenefit Knowledge Garden to be displayed publicly. They provide an overview of the directory's content and guide readers on how to use and get the most value from the resources within. Folder notes always have the *same name as their parent directory* (e.g., the folder note for `/artifacts` is `/artifacts/artifacts.md`). They are "outward-facing" documentation.
 
 ---
 
