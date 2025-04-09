@@ -67,7 +67,7 @@ The cell's operating model - including its practices, protocols, roles, and cult
 **Progress (What)**
 The cell's actual achievements and impact - tracking initiatives, metrics, and value creation to enable accountability and adaptation.
 
-The [[nucleus]] document captures the set of key components across each of these 3 dimensions. These are designed to cover the areas necessary for the group-state to provide the intended internal and external transparency and coherence.  
+The [[notes/dao-primitives/patterns/nucleus]] document captures the set of key components across each of these 3 dimensions. These are designed to cover the areas necessary for the group-state to provide the intended internal and external transparency and coherence.  
 
 **Phase**
 The group state nucleus document can serve 5 different purposes depending on the [group-phase](notes/dao-primitives/framework/group-phase/group-phase.md) a group is in in its lifecycle:
@@ -106,7 +106,7 @@ The following is a recommended set of components designed to provide the key inf
 	- Simple decisions in the team. Being clear about making and recording decisions as part of your meetings and other interactions  
 	- Formal decisions - including treasury decisions and making changes to your Cell state  
 	- Dispute resolutions - agreements about how you will approach disputes and conflict within your team
-	- [Decision-log](notes/rpp/working-docs/decision-log.md) - recording important decisions in a secure way 
+	- [Decision-log](notes/dao-primitives/patterns/decision-log.md) - recording important decisions in a secure way 
 	- Tools 
 		- Record keeping - tools for keeping records of decisions that the team makes 
 		- Decision protocols - e.g adopting something like [decider](notes/rpp/working-drafts/decider.md) as a shared standard for decision-making
@@ -192,7 +192,7 @@ AND (
 ### Implementation
 
 **Template** 
-[Group-state-template](notes/rpp/working-docs/cell-state-template.md)
+[Group-state-template](notes/dao-primitives/patterns/cell-state-template.md)
 - Use this template as a starting point for designing an appropriate group state document for a team. Select categories to include from the Components of Group State section and base
 
 There are several variables that will influence what and how much detail a team will choose to include in it's group state. These can include:
