@@ -64,11 +64,8 @@ These technical mechanisms create what is sometimes called "radical transparency
 
 - **[Accountability](tags/accountability.md)**: Transparency enables verification of commitments and actions, creating the foundation for meaningful accountability
 - **[Trust](tags/trust.md)**: Transparent systems reduce the need for blind trust in authorities while enabling informed trust in processes and outcomes
-- **[Governance](tags/governance.md)**: Transparent decision-making creates legitimacy and enables effective oversight
-- **[Progress](tags/progress.md)**: Visibility into advancement toward goals creates coordination capacity across autonomous teams
 - **[Privacy](tags/privacy.md)**: Balancing transparency with appropriate protection of sensitive information
 - **[Agreements](tags/agreements.md)**: Clear documentation of commitments and expectations
-- **[Attestations](tags/attestations.md)**: Verified claims that provide transparent proof of properties or actions
 
 ## References and Resources
 
