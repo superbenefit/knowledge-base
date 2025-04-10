@@ -15,12 +15,12 @@ tags:
 
 # Group State
 
-Group state is a feature of the [DAO Primitives Framework](notes/dao-primitives/framework/readme.md). It describes using the concept of [[notes/dao-primitives/framework/group-state]] the structuring of essential group information in a way that provides for internal coherence within a group, as well as for interoperability and cooperation between groups. 
+Group state is a feature of the [DAO Primitives Framework](notes/dao-primitives/framework/readme.md). It describes using the concept of  [[notes/dao-primitives/framework/group-state]] the structuring of essential group information in a way that provides for internal coherence within a group, as well as for interoperability and cooperation between groups. 
 
 ---
-## Use of "Group state" 
+## Use of Group "State" 
 
-The concept of group state is borrowed from computer science. We use “state” to describe the current configuration of an entity at any point in time.
+The concept of state is borrowed from computer science. We use “state” to describe the current configuration of an entity at any point in time.
 
 In the DAO primitives framework the group state primitive appears in [DAOs](tags/daos.md), [Cells](notes/dao-primitives/patterns/cell-working-group.md), [[Roles]] and [[Tasks]]. 
 It allows for each of these structures to exist as independent entities in a coordinating networks by capturing and making accessible key information about the entity in a way that others can access and understand. The group state primitive provides an identity for an entity allowing it to be addressed across a network and interacted with by other entities in the network. 

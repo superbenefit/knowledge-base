@@ -7,7 +7,7 @@ type: note
 
 This framework organizes the foundational concepts used in [[tags/daos|DAO]] design and operation. It serves as a practical guide for understanding how these components interact within decentralized organizations.
 
-- [Group Facilitation Guide](notes/dao-primitives/implementation-guides/group-facilitation.md)
+- [Group Facilitation Guide](notes/dao-primitives/implementation/group-facilitation.md)
 
 - **[Group Phase](notes/dao-primitives/framework/group-phase/group-phase.md)**
 - **[Group Scale](notes/dao-primitives/framework/group-scale/group-scale.md)**
@@ -59,7 +59,7 @@ Understanding your organization's current state is crucial for effective coordin
 
 ## Group Facilitation: A Framework for Organizational Design
 
-This section provides a high-level overview of the Group Facilitation Framework. For a detailed guide to using the framework, please refer to the comprehensive documentation: [Group Facilitation Framework](notes/dao-primitives/implementation-guides/group-facilitation.md).
+This section provides a high-level overview of the Group Facilitation Framework. For a detailed guide to using the framework, please refer to the comprehensive documentation: [Group Facilitation Framework](notes/dao-primitives/implementation/group-facilitation.md).
 
 The Group Facilitation Framework helps you design and implement effective organizational structures by considering three key properties of groups:  **Phase**, **Scale**, and **State**.  Understanding these properties is crucial for selecting the appropriate primitives and patterns for your specific context.  The framework guides you through a process of identifying your group's current state and then selecting the most suitable tools and approaches from the Pattern Library to support your group's evolution.
 
@@ -80,7 +80,7 @@ By considering these three properties, the framework guides you in selecting app
 
 ###  Further Exploration
 
-For a detailed explanation of the Group Facilitation Framework, including step-by-step guidance and practical examples, please refer to the complete documentation: [Group Facilitation Framework](notes/dao-primitives/implementation-guides/group-facilitation.md).
+For a detailed explanation of the Group Facilitation Framework, including step-by-step guidance and practical examples, please refer to the complete documentation: [Group Facilitation Framework](notes/dao-primitives/implementation/group-facilitation.md).
 
 ---
 
@@ -90,7 +90,7 @@ The [Pattern Library](artifacts/patterns/patterns.md) provides reusable solution
 
 To effectively leverage the Pattern Library, follow these steps:
 
-1.  **Assess Your Context:** Use the Group Facilitation Framework ([Learn more](notes/dao-primitives/implementation-guides/group-facilitation.md)) to determine your group's current phase and scale. This assessment will highlight the challenges you face and the types of solutions you need.
+1.  **Assess Your Context:** Use the Group Facilitation Framework ([Learn more](notes/dao-primitives/implementation/group-facilitation.md)) to determine your group's current phase and scale. This assessment will highlight the challenges you face and the types of solutions you need.
 
 2.  **Identify Relevant Patterns:**  Navigate the Pattern Library ([notes/patterns/patterns.md](artifacts/patterns/patterns.md)) using the provided index.  Focus on patterns that address the challenges identified in step 1, considering the specific needs of your group's phase and scale.  The library's organization by phase and scale will help you quickly find relevant patterns.
 
