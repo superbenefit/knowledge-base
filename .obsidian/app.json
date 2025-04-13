@@ -3,7 +3,7 @@
   "newLinkFormat": "absolute",
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "drafts",
+  "newFileFolderPath": "/drafts",
   "attachmentFolderPath": "attachments",
   "livePreview": false,
   "trashOption": "local",

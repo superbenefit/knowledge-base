@@ -2,10 +2,32 @@
 title: Ethereum Localism
 description: A collection of perspectives exploring the intersection of Ethereum and localism, examining how blockchain technology can support local communities while maintaining global coordination.
 publish: true
-type: link
+type: book
 source: https://greenpill.network/pdf/ethereum-localism.pdf
 author:
-  - Multiple Authors, Collated by the Open Machine
+  - Niran Babalola
+  - Kei Kreutler
+  - Robin Frisella
+  - Cory Doctorow
+  - Erika Simon
+  - Caleb Pitters
+  - Austin Wade Williams
+  - Trevor Swope
+  - Riva Tez
+  - Nathan Schneider
+  - Tamara Helenius
+  - Michel Bauwens
+  - Jose Luis Duran
+  - Grace Rachmany
+  - G.D. Tillman
+  - Max Hampshire
+  - Jorge Lopez
+  - Andrea Vistoli
+  - Giulio Quarta
+  - Ben Munoz
+  - Jad Esber
+  - Rhys Lindmark
+  - Eric Arsenault
 tags:
   - localism
   - blockchain
@@ -16,15 +38,17 @@ tags:
   - biofi
 ---
 
-Ethereum Localism represents a framework for using blockchain technology to enable both local autonomy and global coordination. The concept explores how Ethereum and Web3 tools can help communities develop resilient local systems while maintaining beneficial connections to global networks and resources.
+*Ethereum Localism* represents a framework for using blockchain technology to enable both local autonomy and global coordination. The concept explores how Ethereum and Web3 tools can help communities develop resilient local systems while maintaining beneficial connections to global networks and resources.
 
-Key aspects include:
+### Key Highlights
 
-- Cosmo-Local Approach: Combining resilient local production with globally shared knowledge commons and protocols for cooperation
-- Bioregional Organization: Structuring human activity around ecological rather than political boundaries
-- Open Protocols: Using transparent, replicable systems for knowledge sharing and coordination
-- Community Finance: Developing new economic models that serve local needs while connecting to global capital flows
-- Democratic Infrastructure: Creating tools for community self-governance and resource management
+- **Cosmo-Local Approach**: Combining resilient local production with globally shared knowledge commons and protocols for cooperation
+- **Bioregional Organization**: Structuring human activity around ecological rather than political boundaries
+- **Open Protocols**: Using transparent, replicable systems for knowledge sharing and coordination
+- **Community Finance**: Developing new economic models that serve local needs while connecting to global capital flows
+- **Democratic Infrastructure**: Creating tools for community self-governance and resource management
+
+### Practical Applications
 
 The collection features essays exploring how Ethereum and Web3 technologies can support:
 - Local economic resilience
@@ -33,6 +57,13 @@ The collection features essays exploring how Ethereum and Web3 technologies can 
 - Cultural preservation
 - Environmental regeneration
 
-These perspectives suggest that Ethereum can help communities maintain autonomy while accessing global resources and knowledge networks, potentially offering a "third way" beyond pure globalization or isolation.
+### Relevance to SuperBenefit
 
----
+This resource directly connects to SuperBenefit's focus on cosmolocalism and bioregional approaches, providing both conceptual frameworks and practical examples of how blockchain technology can enhance community autonomy while maintaining beneficial global connections. It offers valuable insights for projects integrating web3 tools with local community activism and regenerative systems.
+
+### Related Concepts
+
+- [[tags/localism|Localism]] - The resource expands on local organization while connecting to global systems
+- [[tags/cosmolocalism|Cosmolocalism]] - Exemplifies the "light is global, heavy is local" principle
+- [[tags/blockchain|Blockchain]] - Demonstrates practical applications of blockchain for community empowerment
+- [[tags/community|Community]] - Explores community-driven approaches to governance and resource management
