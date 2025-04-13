@@ -15,4 +15,6 @@ These patterns provide practical implementations of the DAO primitive, describin
 ---
 
 %% Begin Waypoint %%
+
+
 %% End Waypoint %%

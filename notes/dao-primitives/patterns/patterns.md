@@ -44,7 +44,7 @@ To effectively leverage the Pattern Library:
 - [Decider](./decider.md)
 - [Decision log](./decision-log.md)
 - **[decision-patterns](./decision-patterns/decision-patterns.md)**
-- [Ephemeral Cell](./ephemeral-cell.md)
+- [ephemeral-cell](./ephemeral-cell.md)
 - [Nucleus](./nucleus.md)
 
 %% End Waypoint %%
