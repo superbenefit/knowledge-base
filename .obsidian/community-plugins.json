@@ -9,7 +9,7 @@
   "waypoint",
   "github-sync",
   "obsidian-kanban",
-  "obsidian-local-rest-api",
   "mcp-tools",
-  "smart-connections"
+  "smart-connections",
+  "obsidian-local-rest-api"
 ]
