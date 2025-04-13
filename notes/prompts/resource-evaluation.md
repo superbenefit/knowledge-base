@@ -44,6 +44,12 @@ I need you to help me evaluate resources for our web3 library. Please access the
 4. Only recommend the highest quality resources (ESSENTIAL/VALUABLE) with minimal duplication.
 5. Prioritize resources that bridge theory and practice, showing how concepts translate to action
 6. Ensure diversity in resource types, perspectives, and approaches
+7. Pay special attention to unusual or esoteric resources:
+   - Prioritize resources that offer perspectives not commonly found on mainstream web3 sites
+   - Look for unique theoretical frameworks that challenge conventional thinking
+   - Consider resources from adjacent fields that bring fresh insights to web3 topics
+   - Value resources that bridge theory and practice in unconventional ways
+   - Give preference to resources that explore the social, philosophical, or ethical dimensions of web3
 
 The goal is to build a carefully curated library of high-quality, useful resources that meaningfully extend our knowledge base and the global knowledge commons while avoiding redundancy.
 ```
