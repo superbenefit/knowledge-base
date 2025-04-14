@@ -1,34 +1,33 @@
-# Institute for Cosmolocalism (ICS) - Working Materials
+# Institute for Community Sustainability (ICS)
 
-This directory contains draft materials and work-in-progress documents related to SuperBenefit's collaboration with the Institute for Cosmolocalism. Unlike the polished content in `/artifacts/`, this directory contains exploratory ideas, research notes, and draft frameworks that are still being developed.
+This directory contains notes and documentation related to the Institute for Community Sustainability (ICS) and its collaboration with SuperBenefit.
 
-## Purpose
+## About ICS
 
-The materials in this directory serve several purposes:
+The Institute for Community Sustainability is a federal not-for-profit organization based in London, Ontario. It operates community sustainability initiatives including a Repair Café, Thing Library, and various workshops while exploring web3 governance and regenerative finance applications.
 
-1. **Documentation of ongoing research** into cosmolocal approaches to organization, production, and governance
-2. **Development of frameworks** for implementing cosmolocal principles in different contexts
-3. **Exploration of case studies** showcasing successful cosmolocal implementations
-4. **Collaborative development** of resources with ICS partners
+ICS serves as a key implementation partner in the Reimagining Power Project (RPP) and is working to establish itself as a local node in global regenerative finance networks.
 
-## Contributing
+## Directory Structure
 
-If you're interested in contributing to this work, please:
+- `ics.md` - Overview of the Institute for Community Sustainability
+- `ics-discovery-report.md` - Comprehensive analysis of ICS's potential as a ReFi local node
+- `ics-experiment-scoping.md` - Scoping document for ICS's web3 governance experiment
+- `ics-implementation-plan.md` - Implementation plan for ICS's experiments
+- `ics-community-exchange.md` - Documentation on community exchange initiatives
 
-1. **Review existing materials** to understand current thinking and avoid duplication
-2. **Follow the templates** in `/tools/templates/` for consistency
-3. **Share drafts early** for feedback from the community
-4. **Connect your work** to relevant resources in the knowledge base
+## Key Projects and Initiatives
 
-For more detailed contribution guidelines, see the main [CONTRIBUTING.md](/CONTRIBUTING.md) file.
+1. **Repair Café Program** - Community repair events diverting waste from landfills
+2. **Thing Library** - Tool and equipment lending service
+3. **Web3 Governance Exploration** - Implementing DAO structures for community programs
+4. **Impact Verification** - Exploring hypercerts and on-chain impact tracking
+5. **Knowledge Commons** - Creating open-source playbooks for sustainability initiatives
+6. **Green Pill Chapter Development** - Establishing a London, Ontario chapter
+7. **Bioregional Hub** - Working toward becoming a coordinating hub for the region
 
-## Key Contacts
+## Related Resources
 
-For questions about the ICS collaboration or materials in this directory, reach out to:
-
-- [ICS Program Lead] via Discord or email
-- Knowledge Commons stewards via GitHub issues
-
-## Moving to Artifacts
-
-When materials in this directory reach sufficient maturity and have been thoroughly reviewed by the community, they will be moved to the `/artifacts/` directory for wider sharing and reference.
+- [ICS Website](https://communitysustainability.ca/)
+- [SuperBenefit Knowledge Garden](https://knowledge.superbenefit.org/)
+- [Reimagining Power Project](https://superbenefit.mirror.xyz/kLXz9vMGA9Au3y3Ug2VoHDLNWJwId66Hmm39vuF9ntE)

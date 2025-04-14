@@ -13,13 +13,11 @@ Read the latest update: https://superbenefit.mirror.xyz/kLXz9vMGA9Au3y3Ug2VoHDLN
 Support our work: https://explorer.gitcoin.co/#/round/42220/31/52 #GG23
 ```
 
-### 2. RPP Experiments
+### 2. RPP Experiments OK
 ```
-Through the Reimagining Power Project, we're prototyping and experimenting with decentralized governance, on-chain impact verification, and community-directed funding.
+As a stakeholder, partner, and fiscal sponsor of the Reimagining Power Project, the ICS is prototyping and experimenting with decentralized governance, on-chain impact verification, and community-directed funding.
 
 Check out the progress so far: https://superbenefit.mirror.xyz/kLXz9vMGA9Au3y3Ug2VoHDLNWJwId66Hmm39vuF9ntE
-
-#GG23
 ```
 
 ### 3. RPP Collaboration

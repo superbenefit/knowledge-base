@@ -42,7 +42,7 @@ We're finding out - and documenting everything we learn for the commons.
 Support our @GitcoinGrants application: https://explorer.gitcoin.co/#/round/42220/31/52 #GG23 #PublicGoods
 ```
 
-### 5. Web3 Bridges
+### 5. Web3 Bridges OK
 ```
 We've successfully bridged $140,000 from traditional philanthropy into web3 for community sustainability projects.
 
