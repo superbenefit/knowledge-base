@@ -37,7 +37,6 @@ The guide helps bridge the gap between governance theory and technical implement
 
 ### Connection With SuperBenefit
 
-- Clarifies how different technical infrastructures implement the building blocks of decentralized organization, supporting SuperBenefit's work on the DAO Primitives framework.
-- Moloch's Ragequit mechanism directly connects to SuperBenefit's "anticapture" governance work, demonstrating technical implementation of protection against power concentration.
+- Clarifies how different technical infrastructures implement the building blocks of decentralized organization, evoking SuperBenefit's work on the DAO Primitives framework.
 - The comparative approach aligns with SuperBenefit's pattern-based organizational design, recognizing that different contexts require different implementations of governance principles.
-- Helps bridge theory and practice by showing how SuperBenefit's conceptual frameworks can be implemented in real technical systems.
+- Helps bridge theory and practice by showing how conceptual frameworks can be implemented in real technical systems.

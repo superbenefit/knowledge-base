@@ -20,7 +20,7 @@ To contribute to the Web3 Library:
 3. **Create new entries** for resources you believe should be included
 4. **Submit for review** via pull request or other team processes
 
-See the [contributing guidelines](/notes/links/contributing.md) for detailed instructions.
+See the [contributing guidelines](notes/links/CONTRIBUTING.md) for detailed instructions.
 
 ## Moving to Production
 

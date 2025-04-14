@@ -39,7 +39,7 @@ The article is particularly valuable for its emphasis on matching governance app
 
 ### Connection With SuperBenefit
 
-- Directly supports SuperBenefit's "group state" concept - the combination of purpose, practice, and progress that defines functional organizations.
-- The decision domains framework aligns with SuperBenefit's focus on different governance needs across collaboration, coordination, and constituency scales.
+- Evokes SuperBenefit's "group state" concept - the combination of purpose, practice, and progress that defines functional organizations.
+- The decision domains framework aligns with SuperBenefit's emphasis on different governance needs across collaboration, coordination, and constituency scales.
 - Offers concrete mechanisms for implementing multi-stakeholder governance systems that balance diverse interests while maintaining decision effectiveness.
 - The evolutionary approach to governance complements SuperBenefit's perspective that governance should develop alongside communities rather than being imposed from the outset.

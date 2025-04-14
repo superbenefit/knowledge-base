@@ -39,6 +39,6 @@ The syllabus is particularly valuable for those involved in web3 social impact i
 ### Connection With SuperBenefit
 
 - Provides critical perspective that balances SuperBenefit's practical implementations, helping ground web3 explorations in awareness of power dynamics and political implications.
-- Supports SuperBenefit's "anticapture" focus by examining how blockchain systems can either challenge or reinforce existing concentrations of power.
+- Supports SuperBenefit's focus on anticapture and "Reimagining Power" by examining how blockchain systems can either challenge or reinforce existing concentrations of power.
 - Helps SuperBenefit navigate the tension between utilizing blockchain tools and ensuring implementations serve ecological health through critical analysis of environmental impacts.
 - The syllabus's global perspective complements SuperBenefit's efforts to develop globally relevant but contextually adaptable approaches to decentralized organization.

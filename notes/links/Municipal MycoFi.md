@@ -40,4 +40,4 @@ A specific implementation example is Boulder Regen Hub's local market network, w
 - Directly emerges from SuperBenefit's bioregional finance research and represents a core pattern in its work on regenerative economic systems.
 - Embodies the cosmolocal principle of "resilient localized production with access to global knowledge commons" in the financial domain.
 - Demonstrates SuperBenefit's biomimicry approach by applying natural mycelial network principles to human economic systems.
-- Provides a practical framework for implementing what SuperBenefit terms "structural redistribution" – shifting resource allocation authority from centralized institutions to community-governed systems.
+- Provides a practical framework for implementing "structural redistribution" – shifting resource allocation authority from centralized institutions to community-governed systems.

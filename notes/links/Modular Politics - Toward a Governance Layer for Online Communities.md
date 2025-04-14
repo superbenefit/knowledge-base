@@ -43,5 +43,5 @@ The framework is particularly valuable for communities that need to adapt their 
 
 - Directly aligns with SuperBenefit's DAO Primitives approach, viewing organizational structures as composed of fundamental building blocks that can be recombined for different contexts.
 - Supports SuperBenefit's commitment to context-specific governance rather than one-size-fits-all solutions through its emphasis on composability.
-- Addresses a critical need identified in SuperBenefit's work on "anticapture" mechanisms by enabling communities to maintain governance sovereignty even when underlying technical infrastructure changes.
+- Addresses a critical need identified in SuperBenefit's work on anticapture mechanisms by enabling communities to maintain governance sovereignty even when underlying technical infrastructure changes.
 - Complements SuperBenefit's cosmolocal approach by enabling local governance customization while maintaining connections to broader governance commons and shared practices.

@@ -39,6 +39,5 @@ The tools are designed to be accessible to non-specialists while still providing
 ### Connection With SuperBenefit
 
 - Directly connects to SuperBenefit's bioregional approach to economic organization and systems transformation focus.
-- The multi-level perspective aligns with SuperBenefit's conceptualization of scale, distinguishing between micro-level experimentation and macro-level structural change.
 - The Three Horizons framework resonates with SuperBenefit's commitment to balancing pragmatic near-term action with transformative long-term vision.
 - The toolkit's power mapping approaches complement SuperBenefit's "anticapture" mechanisms that prevent shared resources from being monopolized by concentrated interests.

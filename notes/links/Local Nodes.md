@@ -38,7 +38,7 @@ A specific example is the Boulder Regen Hub where SuperBenefit members have been
 
 ### Connection With SuperBenefit
 
-- Central to SuperBenefit's involvement with the Institute for Cosmolocalism (ICS) and the GreenPill London community hub, exemplifying practical implementations of the "what is heavy is local, what is light is global" principle.
-- Directly builds on the Ethereum Localism framework that SuperBenefit has helped develop, creating physical anchors for digital coordination in bioregional contexts.
+- Central to SuperBenefit's involvement with the Institute for Community Sustainability (ICS) and Greenpill London, exemplifying practical implementations of the "what is heavy is local, what is light is global" principle.
+- Directly builds on the Ethereum Localism framework, creating physical anchors for digital coordination in bioregional contexts.
 - Embodies SuperBenefit's commitment to global knowledge commons that can be adapted to local conditions while respecting community sovereignty.
 - Creates "coordination scale" operations that bridge between small collaboration teams and broader constituency networks, connecting multiple levels of organization.

@@ -37,7 +37,7 @@ The wiki is particularly valuable for its documentation of real-world case studi
 
 ### Connection With SuperBenefit
 
-- Provides historical and theoretical foundations for many of SuperBenefit's core concepts, particularly cosmolocalism - a principle that has been extensively developed in the P2P Foundation's work.
+- Provides historical and theoretical foundations for many of SuperBenefit's core concepts, including cosmolocalism - a principle that has been extensively developed in the P2P Foundation's work.
 - The wiki's extensive documentation of commons-based resource management offers precedent and inspiration for SuperBenefit's approaches to shared stewardship and community control.
 - SuperBenefit's exploration of regenerative economic systems draws directly on cooperative economic models documented in the wiki.
 - The P2P Foundation's work on knowledge commons directly informs SuperBenefit's approach to open source knowledge sharing and collaborative development.

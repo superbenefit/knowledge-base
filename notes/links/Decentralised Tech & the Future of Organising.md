@@ -37,7 +37,5 @@ The resource is particularly valuable because it doesn't present web3 as a panac
 
 ### Connection With SuperBenefit
 
-- Aligns perfectly with SuperBenefit's focus on using web3 for transformative social impact rather than financial extraction, featuring projects that exemplify the cosmolocal approach.
+- Aligns with SuperBenefit's focus on using web3 for transformative social impact rather than financial extraction, featuring projects and practices that exemplify the cosmolocal approach.
 - Many highlighted governance tools implement what SuperBenefit describes as "coordination scale" operations, enabling groups to make decisions and allocate resources without centralized control.
-- The showcased public goods funding projects demonstrate practical implementations of SuperBenefit's concept of "community governance" at constituency scale.
-- Projects like Celo's natural capital backed currency and Kolektivo's bioregional token system directly support SuperBenefit's work on bioregional finance frameworks.

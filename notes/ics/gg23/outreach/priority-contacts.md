@@ -2,6 +2,39 @@
 
 Use this document to organize your outreach strategy by prioritizing contacts based on their likelihood to support your campaign.
 
+ok Liam
+ok Michelle
+ok Filsan
+ok Nicole
+donated Shanny
+ok rowan
+x sue
+Rikesh + Laura OK
+	Hinesh OK
+	Mum OK
+	lauren
+	griff
+	
+
+naan
+lewwwk
+ash
+
+lucy
+jacob naish
+kimchi
+
+
+Andre
+	Barry
+	Ann
+	Anna
+	Nick
+- [ ] 
+	
+
+
+
 ## Tier 1: High Priority (Start Here)
 These are your closest allies who are familiar with your work and likely to support quickly.
 
