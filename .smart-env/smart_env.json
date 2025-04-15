@@ -23,10 +23,14 @@
   "folder_exclusions": "smart-chats",
   "smart_view_filter": {
     "render_markdown": true,
-    "show_full_path": false
+    "show_full_path": true,
+    "results_limit": "20"
   },
   "smart_notices": {
-    "muted": {}
+    "muted": {
+      "done_import": true,
+      "done_initial_scan": true
+    }
   },
   "excluded_headings": ""
 }
