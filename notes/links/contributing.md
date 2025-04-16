@@ -17,7 +17,7 @@ The web3 library serves as a curated collection of high-quality external resourc
 
 ### 1. Resource Evaluation
 
-Before creating a new library entry, evaluate whether the resource is a good fit using the [Resource Evaluation Framework](/notes/prompts/resource-evaluation.md) prompt.
+Before creating a new library entry, evaluate whether the resource is a good fit using the [Resource Evaluation Framework](notes/links/prompts/resource-evaluation.md) prompt.
 
 This evaluation should consider:
 - Alignment with SuperBenefit's focus areas
@@ -28,7 +28,7 @@ This evaluation should consider:
 
 ### 2. Creating a New Entry
 
-Once a resource has been approved for inclusion, use the [Web3 Library Entry Creation](/notes/prompts/library-entry-creation.md) prompt to create a new entry following our standardized format.
+Once a resource has been approved for inclusion, use the [Web3 Library Entry Creation](notes/links/prompts/library-entry-creation.md) prompt to create a new entry following our standardized format.
 
 Each entry should include:
 - Complete metadata (title, description, type, source, author, tags)
