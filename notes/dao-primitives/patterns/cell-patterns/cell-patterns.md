@@ -15,8 +15,6 @@ These patterns provide practical implementations of the Cell primitive, describi
 ---
 
 %% Begin Waypoint %%
-- [[cell-state]]
-- [[cell-working-group]] 
-- [[nucleus]]
-- [[circle]]
+
+
 %% End Waypoint %%

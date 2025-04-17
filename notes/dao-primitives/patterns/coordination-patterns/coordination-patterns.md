@@ -15,4 +15,6 @@ These patterns provide practical implementations of coordination mechanisms that
 ---
 
 %% Begin Waypoint %%
+
+
 %% End Waypoint %%

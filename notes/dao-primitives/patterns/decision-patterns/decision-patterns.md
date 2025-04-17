@@ -15,6 +15,6 @@ These patterns provide practical implementations of decision-making protocols th
 ---
 
 %% Begin Waypoint %%
-- [[decider]]
-- [[decision-log]]
+
+
 %% End Waypoint %%

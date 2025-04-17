@@ -64,7 +64,9 @@
       "unshared": false,
       "wiki": true,
       "slugify": "disable",
-      "unlink": true
+      "unlink": true,
+      "relativePath": true,
+      "textPrefix": "/"
     }
   },
   "embed": {
