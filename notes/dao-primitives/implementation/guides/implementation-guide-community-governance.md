@@ -29,7 +29,7 @@ Guides to setting up these 3 interlocking governance structures can can be found
 - [Implementation-guide-multi-stakeholder-governance](notes/dao-primitives/implementation/guides/implementation-guide-multi-stakeholder-governance.md)
 - [Implementation-guide-community-governance](notes/dao-primitives/implementation/guides/implementation-guide-community-governance.md) (this guide)
 
-This guide focuses on setting up a Community Governance structure, the highest level of governance in a decentralized network. You can do this as part of a three layered system as outlined above, or you could use this guide to design a community governance system to used with a completely different operational governance model. 
+This guide focuses on setting up a Community Governance structure, the highest level of governance in a decentralized network. You can do this as part of a three layered governance system as outlined above, or you could use this guide to design a community governance system to used with a completely different operational governance model. 
 
 Creating a community governance structure is not a simple task. We recommend getting support from an experienced facilitator to help you through this process.
 
