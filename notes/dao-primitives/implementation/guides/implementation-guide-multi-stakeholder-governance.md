@@ -15,19 +15,26 @@ description
 
 ---
 
-# Multi-Stakeholder Governance Implementation Guide Using the DAO Primitives Framework
+# Implementation Guide: Multi-Stakeholder Governance  Using the DAO Primitives Framework
 
   
 
 ## Introduction
 
-  
+Crypto primitives give us the opportunity to fundamentally redesign organizational and financial models in ways that are better for individuals, communities and society. This opportunity to reimagine organizations brings with it complexity, as structures and practices that were once fixed become flexible and adaptable. As a result, we need to lean on primitives, and patterns for combining these primitives, that we can use to reliably produce organizational structures with the features we want.
 
-Multi-stakeholder governance represents a powerful evolution in how organizations coordinate, make decisions, and create impact in the web3 space. This implementation guide provides a framework for designing and implementing a partnership model between diverse stakeholders within a community governance wrapper, supported by an operational structure of autonomous cells.  
+At SuperBenefit we have developed the DAO primitives framework to provide a set of primitives and patterns with which these new organizational structures can be composed.
+
+We have identified and experimented with using the DAO primitives framework to produce governance systems based on 3 interlocking governance structures: Community Governance, Operational Governance and Multi-Stakeholder Governance.
+
+Guides to setting up these 3 interlocking governance structures can can be found here:
+- [Implementation-guide-operational-governance](notes/dao-primitives/implementation/guides/implementation-guide-operational-governance.md)
+- [Implementation-guide-multi-stakeholder-governance](notes/dao-primitives/implementation/guides/implementation-guide-multi-stakeholder-governance.md)  (this guide)
+- [Implementation-guide-community-governance](notes/dao-primitives/implementation/guides/implementation-guide-community-governance.md) 
 
 There are many different ways to think about how to implement effective multi-stakeholder governance. This approach is built around experiments that SuperBenefit has done in creating multi-stakeholder partnerships between web3 and non-web3 organizations to experiment on new governance structures and approaches. 
 
-The partnership governance model creates a way for stakeholders to come together to support and fund a project while maintaining a clear separation between high-level governance and operational execution. This separation allows stakeholders to guide purpose and goals without micromanaging, preserving autonomy for those doing the work.
+This governance model creates a way for stakeholders to come together to support and fund a project while maintaining a clear separation between high-level governance and operational execution. This separation allows stakeholders to guide purpose and goals without micromanaging, preserving autonomy for those doing the work.
 
 This implementation guide provides a comprehensive framework for designing, implementing, and evolving multi-stakeholder governance structures using the DAO primitives approach. By breaking down governance into fundamental building blocks (primitives), organizations can create customized, effective structures that align with their unique needs and values.
 
