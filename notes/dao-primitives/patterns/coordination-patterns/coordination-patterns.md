@@ -8,7 +8,7 @@ type: index
 
 # Coordination Patterns
 
-Patterns related to coordination between teams and entities in decentralized networks.
+Patterns related to coordination between teams and other entities in decentralized networks.
 
 These patterns provide practical implementations of coordination mechanisms that enable autonomous teams to work together effectively in a decentralized context.
 
