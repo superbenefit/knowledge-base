@@ -17,7 +17,7 @@ We're creating this system to:
 Yes. Mutual aid is a voluntary reciprocal exchange of resources and services for mutual benefit. The Community Exchange creates a structured way for mutual aid to happen consistently and fairly, with a system for tracking contributions and needs.
 
 ### Who is behind this initiative?
-The Community Exchange is an initiative of [Your Organization], in collaboration with community members who share a vision for a more resilient and connected local economy. The founding stewards include [Names if appropriate].
+The Community Exchange is an initiative of the Institute for Community Sustainability, in collaboration with community members who share a vision for a more resilient and connected local economy.
 
 ### Is this legal?
 Yes. The Community Exchange operates as a private mutual credit system among members. It is not a currency replacement but rather a complementary system for tracking exchanges of value. Similar systems operate legally throughout the world. We are not issuing an alternative currency or competing with legal tender.
@@ -34,7 +34,7 @@ No, there is no monetary fee to join. The "cost" of membership is your participa
 Members can leave at any time. We simply ask that you balance your credits (try to get to zero) before departing. If that's not possible, we can work together to find a solution.
 
 ### Can I invite others to join?
-Initially, membership will be limited to those directly invited by the founding stewards. After our first three months, each member will be able to invite up to two new members who align with the community's values.
+Initially, membership will be limited to those directly invited by the founding stewards. After our first three months, each member may be able to invite new members who align with the community's values.
 
 ## System Questions
 

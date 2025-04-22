@@ -46,22 +46,20 @@ The Community Exchange consists of two interconnected elements:
 - [Risk Management Strategy](./risks_and_mitigation.md)
 
 ## Member Experience
-*(to be developed in Step 3)*
 
-- Commitment Examples Catalog
-- Example Exchanges
-- Member Stories & Scenarios
-- Community Activities
-- How-To Guides
+- [Commitment Examples Catalog](./commitment_examples.md)
+- [Example Exchanges](./credit_flow_examples.md)
+- [Member Stories & Scenarios](./testimonial_scenarios.md)
+- [Community Activities](./community_activities.md)
+- [How-To Guides](./how_to_guides.md)
 
 ## Growth & Sustainability
-*(to be developed in Step 4)*
 
-- Success Metrics
-- Scaling Strategy
-- Future Possibilities
-- Conflict Resolution Process
-- Additional Resources
+- [Success Metrics & Evaluation Framework](./success_metrics.md)
+- [Scaling Strategy](./scaling_strategy.md)
+- [Future Possibilities](./future_possibilities.md)
+- [Conflict Resolution Process](./conflict_resolution.md)
+- [Additional Resources & References](./appendix_resources.md)
 
 ## Join Us!
 
