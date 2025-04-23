@@ -15,9 +15,9 @@ These primitives are the fundamental building blocks that we use to create purpo
 ---
 
 %% Begin Waypoint %%
-- [cells](./cells.md)
-- [daos](./daos.md)
-- [roles](./roles.md)
-- [tasks](./tasks.md)
+- [Cells (Primitive)](./cells.md)
+- [DAOs (Primitive)](./daos.md)
+- [Roles (Primitive)](./roles.md)
+- [Tasks (Primitive)](./tasks.md)
 
 %% End Waypoint %%

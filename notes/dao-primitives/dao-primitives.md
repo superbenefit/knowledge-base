@@ -166,7 +166,6 @@ You can dive deeper into how the primitives work together [**here**](https://app
 - **[framework](./framework/framework.md)**
 - **[implementation](./implementation/implementation.md)**
 - **[patterns](./patterns/patterns.md)**
-- **[primitives](./primitives/primitives.md)**
 - **[resources](./resources/resources.md)**
 - **[test-resources](./test-resources/test-resources.md)**
 
