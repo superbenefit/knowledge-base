@@ -25,12 +25,12 @@ kanban-plugin: board
 ## In-Progress
 
 - [ ] Create Cell (working group) Pattern ^9tyowr
-	- [cell-working-group](notes/dao-primitives/patterns/cell-working-group.md)
-- [ ] Create Circle Primitive [circle](notes/dao-primitives/patterns/circle.md)
+	- [cell-working-group](notes/dao-primitives/patterns/collaboration-scale-patterns/cell-working-group.md)
+- [ ] Create Circle Primitive [circle](notes/dao-primitives/patterns/collaboration-scale-patterns/circle.md)
 - [ ] Create Decider Primitive 
-	- [decider](notes/dao-primitives/patterns/decider.md)
+	- [decider](notes/dao-primitives/patterns/collaboration-scale-patterns/decider.md)
 - [ ] Create Nucleus Primitive
-	- [nucleus](notes/dao-primitives/patterns/nucleus.md)
+	- [nucleus](notes/dao-primitives/patterns/collaboration-scale-patterns/nucleus.md)
 - [ ] Create Group State Pattern
 	- [state](notes/rpp/working-docs/state.md)
 

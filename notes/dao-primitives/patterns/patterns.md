@@ -1,4 +1,4 @@
----
+	---
 title: DAO Primitives Pattern Library
 description: A collection of implementation patterns for the DAO Primitives framework
 author: yeoro.eth
@@ -14,10 +14,10 @@ The patterns are organized into categories to facilitate discovery based on your
 
 ## Pattern Categories
 
-- **[Cell Patterns](cell-patterns/cell-patterns.md)**: Patterns related to implementing and managing Cells (small autonomous teams) in DAO networks
+- **[Cell Patterns](notes/dao-primitives/patterns/collaboration-scale-patterns/collaboration-scale-patterns.md)**: Patterns related to implementing and managing Cells (small autonomous teams) in DAO networks
 - **[DAO Patterns](dao-patterns/dao-patterns.md)**: Patterns related to implementing and managing DAOs as networks of autonomous teams
 - **[Decision Patterns](decision-patterns/decision-patterns.md)**: Patterns related to decision-making processes in decentralized organizations
-- **[Coordination Patterns](coordination-patterns/coordination-patterns.md)**: Patterns related to coordination between teams and entities in decentralized networks
+- **[Coordination Patterns](notes/dao-primitives/patterns/coordination-scale-patterns/coordination-scale-patterns.md)**: Patterns related to coordination between teams and entities in decentralized networks
 
 ## Using the Pattern Library
 
@@ -34,17 +34,9 @@ To effectively leverage the Pattern Library:
 ---
 
 %% Begin Waypoint %%
-- **[cell-patterns](./cell-patterns/cell-patterns.md)**
-- [Group State Template](./cell-state-template.md)
-- [Cell state (pattern)](./cell-state.md)
-- [Cell (working group)](./cell-working-group.md)
-- [Circle](./circle.md)
-- **[coordination-patterns](./coordination-patterns/coordination-patterns.md)**
+- **[collaboration-scale-patterns](./collaboration-scale-patterns/collaboration-scale-patterns.md)**
+- **[constituency-scale-patterns](./constituency-scale-patterns/constituency-scale-patterns.md)**
+- **[coordination-scale-patterns](./coordination-scale-patterns/coordination-scale-patterns.md)**
 - **[dao-patterns](./dao-patterns/dao-patterns.md)**
-- [Decider](./decider.md)
-- [Decision log](./decision-log.md)
-- **[decision-patterns](./decision-patterns/decision-patterns.md)**
-- [Ephemeral Cell](./ephemeral-cell.md)
-- [Nucleus](./nucleus.md)
 
 %% End Waypoint %%

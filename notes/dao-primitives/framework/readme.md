@@ -34,5 +34,5 @@ A group in the *Conversation Phase* at a *Collaboration Scale* will have vastly 
 
 ##  Further Resources
 
-*   **Group Facilitation:**  [`group-facilitation.md`](notes/dao-primitives/implementation/guides/group-facilitation.md) provides practical guidance for navigating group development.
+*   **Group Facilitation:**  [`group-facilitation.md`](notes/dao-primitives/framework/group-facilitation.md) provides practical guidance for navigating group development.
 *   **Documentation Standards:**  See [`/tools/types/`](../tools/types/) for contribution guidelines.
