@@ -75,7 +75,7 @@ Consider:
 	- Is there a clear purpose that the team can be formed around?
 	- Is the work going to be ongoing? 
 	- Is it likely to evolve over time? 
-If the work could be done more efficiently by coordinating a set of individual contributors using [[roles]] or [tasks](tags/tasks.md), then do not use a Cell. Collaborating teams are expensive compared to individual contributors executing on well defined tasks. But Cells are capable of creativity, adaptability and are therefore ideally suited for complex evolving contexts. Make sure you are choosing the right tool for the job.   
+If the work could be done more efficiently by coordinating a set of individual contributors using [[tags/roles]] or [tasks](tags/tasks.md), then do not use a Cell. Collaborating teams are expensive compared to individual contributors executing on well defined tasks. But Cells are capable of creativity, adaptability and are therefore ideally suited for complex evolving contexts. Make sure you are choosing the right tool for the job.   
 
 
 ### Mechanism

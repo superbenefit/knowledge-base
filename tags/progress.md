@@ -37,6 +37,6 @@ As a component of Group State, Progress includes:
 - **Milestone Tracking**: Documentation of achievements against defined goals
 - **Metrics and Reporting**: Quantitative and qualitative measures of effectiveness and impact
 
-Progress documentation in this framework serves a dual purpose: it provides internal structure for team coordination while creating transparency for external entities that need to understand and trust the team's activities. This external transparency is crucial for enabling effective coordination between autonomous [Cells](notes/dao-primitives/patterns/cell-working-group.md) within a larger [DAO](tags/daos.md) network.
+Progress documentation in this framework serves a dual purpose: it provides internal structure for team coordination while creating transparency for external entities that need to understand and trust the team's activities. This external transparency is crucial for enabling effective coordination between autonomous [Cells](notes/dao-primitives/patterns/collaboration-scale-patterns/cell-working-group.md) within a larger [DAO](tags/daos.md) network.
 
 By maintaining accessible and current progress information, teams can demonstrate accountability, build trust, and enable efficient resource allocation across a decentralized ecosystem.

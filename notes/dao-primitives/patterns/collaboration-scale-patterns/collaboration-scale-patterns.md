@@ -15,6 +15,13 @@ These patterns provide practical implementations of the Cell primitive, describi
 ---
 
 %% Begin Waypoint %%
-
+- [cell-state-template](./cell-state-template.md)
+- [cell-state](./cell-state.md)
+- [cell-working-group](./cell-working-group.md)
+- [circle](./circle.md)
+- [decider](./decider.md)
+- [decision-log](./decision-log.md)
+- [ephemeral-cell](./ephemeral-cell.md)
+- [nucleus](./nucleus.md)
 
 %% End Waypoint %%
