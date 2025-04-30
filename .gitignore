@@ -26,3 +26,6 @@ drafts/
 
 # ignore obsidian changes
 .obsidian/
+
+#ignore smart connections
+.smart-env/
