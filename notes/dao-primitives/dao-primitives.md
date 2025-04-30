@@ -49,6 +49,7 @@ Groups develop through predictable phases, each with distinct needs and challeng
 - **Formation Phase**
 - **Organisation Phase**
 - **Coordination Phase**
+- **Completion**
 
 
 #### 3. Group State

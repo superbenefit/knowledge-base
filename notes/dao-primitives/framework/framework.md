@@ -26,14 +26,16 @@ The framework uses three primary lenses to understand and navigate organizationa
 
 Group Phase recognizes that organizations evolve through distinct developmental stages, each with its own characteristics and needs. Understanding where a group is in its journey helps select appropriate tools, practices, and structures.
 
-The framework identifies four key phases:
+The framework identifies five key phases:
 
-- **[Conversation Phase](notes/dao-primitives/framework/group-phase/conversation.md)**: Initial exploration, relationship-building, and idea generation
-- **[Collaboration Phase](notes/dao-primitives/framework/group-phase/collaboration.md)**: Working together on specific initiatives with emerging patterns
-- **[Commitment Phase](notes/dao-primitives/framework/group-phase/commitment.md)**: Formalizing agreements, structures, and resource allocation
-- **[Coordination Phase](notes/dao-primitives/framework/group-phase/coordination.md)**: Integrating with broader networks and managing complexity
+- **[Conversation Phase](notes/dao-primitives/framework/group-phase/conversation.md)**: Initial exploration and idea generation focused on open dialogue, relationship building, and establishing shared vision before formal structures emerge
+- **[Formation Phase](notes/dao-primitives/framework/group-phase/formation.md)**: Establishing basic structure and roles with minimal formality, emphasizing trust-building and defining initial procedures for group operation
+- **[Organization Phase](notes/dao-primitives/framework/group-phase/organization.md)**: Implementing formal structures, defined processes, and governance mechanisms to create sustainable and scalable organizational systems
+- **[Coordination Phase](notes/dao-primitives/framework/group-phase/coordination.md)**: Integrating with broader networks and collaborating with other groups, shifting focus from internal organization to external relationships
+- **[Completion Phase](notes/dao-primitives/framework/group-phase/completion.md)**: Concluding initiatives, capturing learnings, and transitioning resources when projects or groups reach their natural conclusion
 
-These phases rarely progress in a strictly linear fashion. Groups may move back and forth between phases, exist in multiple phases simultaneously, or revisit earlier phases when significant changes occur. The value is in recognizing the different needs and challenges that emerge at different developmental stages.
+Learn more about [Group Phase](notes/dao-primitives/framework/group-phase/group-phase.md)
+
 
 ### 2. [Group Scale](notes/dao-primitives/framework/group-scale/group-scale.md)
 
@@ -41,24 +43,28 @@ Group Scale acknowledges that the size and complexity of a group fundamentally a
 
 The framework identifies four distinct scales:
 
-- **[Collaboration Scale](notes/dao-primitives/framework/group-scale/Collaboration%20Scale.md)** (3-8 people): High-bandwidth, synchronous communication with direct relationships
-- **[Coordination Scale](notes/dao-primitives/framework/group-scale/Coordination%20Scale.md)** (10-150 people): Multiple teams requiring explicit coordination mechanisms
-- **[Constituency Scale](notes/dao-primitives/framework/group-scale/Constituency%20Scale.md)** (100s-1000s): Broader communities requiring representative governance
-- **[Network Scale](notes/dao-primitives/framework/group-scale/Network%20Scale.md)** (1000s+): Ecosystems of interconnected organizations requiring protocol-based coordination
+- **[Collaboration Scale](notes/dao-primitives/framework/group-scale/Collaboration%20Scale.md)** (sub 10 people): High-bandwidth, synchronous communication with direct relationships
+- **[Coordination Scale](notes/dao-primitives/framework/group-scale/Coordination%20Scale.md)** (10-150 people): Multiple teams or structured working relationships requiring explicit coordination mechanisms
+- **[Constituency Scale](notes/dao-primitives/framework/group-scale/Constituency%20Scale.md)** (100s +): Broader communities requiring large scale governance mechanisms
+- **[Network Scale](notes/dao-primitives/framework/group-scale/Network%20Scale.md)** Interconnected networks of organizations
 
-Many organizations operate at multiple scales simultaneously, with different functions happening at different scales. The framework helps design appropriate coordination mechanisms for each scale.
+Most contexts require organizations operate at multiple scales simultaneously, with different functions happening at different scales. The DAO primitives framework helps design appropriate coordination mechanisms for each scale.
+
+Learn more about [Group Scale](notes/dao-primitives/framework/group-scale/group-scale.md)
 
 ### 3. [Group State](notes/dao-primitives/framework/group-state.md)
 
-Group State focuses on how transparent documentation enables effective coordination in decentralized systems. For groups to interact effectively without centralized control, they need clear interfaces that make them interoperable and universally addressable.
+Group State focuses on how having a transparent organizational state for each entity in a network, enables effective coordination in decentralized systems. For groups to interact effectively without centralized control, they need clear interfaces that make them interoperable and universally addressable.
 
-Group state consists of three core components:
+In the DAO primitives framework Group state consists of three core components:
 
 - **Purpose**: Why the group exists and what it aims to achieve
-- **Practices**: How the group operates and makes decisions
+- **Practice**: How the group operates and makes decisions
 - **Progress**: How the group tracks, measures, and communicates its activities
 
 This state documentation serves as a "public interface" that enables both internal coherence and external coordination. It allows groups to have an existence that is both independent from the larger network and integrated into it through agreements with other entities.
+
+Learn more about [Group State](notes/dao-primitives/framework/group-state.md)
 
 ## Organizational Primitives
 
@@ -72,14 +78,14 @@ At the highest level, three foundational organizational primitives:
 - **Networks**: Clusters of entities animated by shared purpose and common agreements
 - **Agreements**: Commitments within and between entities that enable coordination
 
-### 2. Operational Primitives
+### 2. Operational Primitives 
 
-From these conceptual foundations, four primary operational structures:
+Although the above conceptual framework could be used to design a wide range of different governance and operational structures, the DAO Primitives framework leans heavily on the following 4 organizational structures:
 
 1. **[DAOs](notes/dao-primitives/framework/organizational-primitives/daos.md)**: Purpose-aligned networks of small autonomous teams
-2. **[Cells](notes/dao-primitives/framework/organizational-primitives/cells.md)**: Teams of fewer than 10 people collaborating on specific functions
-3. **[Roles](notes/dao-primitives/framework/organizational-primitives/roles.md)**: Sets of responsibilities, permissions, and accountabilities
-4. **[Tasks](notes/dao-primitives/framework/organizational-primitives/tasks.md)**: Defined pieces of work with clear deliverables
+2. **[Cells](notes/dao-primitives/framework/organizational-primitives/cells.md)**: Teams of fewer than 10 people collaborating on specific ongoing activities 
+3. **[Roles](notes/dao-primitives/framework/organizational-primitives/roles.md)**: Sets of responsibilities, permissions, and accountabilities held by individuals or entities
+4. **[Tasks](notes/dao-primitives/framework/organizational-primitives/tasks.md)**: Defined pieces of work with clear deliverables delivered by individuals or entities 
 
 These primitives can be combined in various ways to create organizational systems tailored to specific contexts and needs. Their power lies in their flexibility and composability while maintaining coherent patterns that enable interoperability.
 
