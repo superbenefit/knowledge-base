@@ -1,6 +1,6 @@
 ---
 title: DAO Primitives Project
-description: Notes for the DAO Primitives project at SuperBenefit
+description: A framework for building purpose-aligned networks of small autonomous teams that harness collective intelligence
 publish: "true"
 type: index
 tags:
@@ -8,161 +8,115 @@ tags:
   - primitives
 ---
 
-The DAO Primitives project at SuperBenefit explores the landscape of social and technical [[tags/primitives|primitives]] in the [[tags/decentralization|decentralized]] web, specifically those used in the governance and operations of [[tags/daos|DAOs]] and [[tags/purpose|purpose-aligned]] [[networks]] of small, [[tags/autonomy|autonomous]] [[tags/teams|teams]].
+# DAO Primitives Project
 
----
+The DAO Primitives Project provides a framework, conceptual tools, and practical patterns for building **purpose-aligned networks of small autonomous teams** that can scale effectively while maintaining coordination, adaptability, and emergent collective intelligence.
 
-# Introduction
+Our current organizational models were optimized for an era of industrial production and hierarchical management, creating structures that excel at efficiency but struggle with complexity, adaptability, and equitable value distribution. Decentralized organizations offer transformative alternatives through their core properties: distributed authority that prevents power concentration, permissionless innovation that unlocks collective intelligence, transparent operations that build trust, and aligned incentives that share value with all contributors. 
 
-The DAO Primitive Model is a set of design [[tags/primitives|primitives]] and [[artifacts/patterns/patterns|patterns]] for building [[tags/daos|DAOs]] and other onchain organizations. It includes a set of un-opinionated building blocks (primitives) out of which a DAO structure can be designed. These primitives allow for the deliberate design of [[governance]] and operational systems that can coherently scale as the activities of the DAO grow in size and complexity.
+As our societal challenges grow increasingly complex and interconnected—from climate change to economic inequality—we need coordination systems that can harness diverse perspectives, adapt quickly to emerging conditions, and align human activity with regenerative outcomes. 
 
-The Primitives act as a handful of generic building blocks that, through a facilitated process, can be composed together into a governance and operational structure to serve the needs and preferences of a coordinating collective. The primitives are implemented using more opinionated coordination patterns and technical [[tags/modules|modules]] (these are housed in a [[artifacts/patterns/patterns|pattern library]]) to produce practical and scalable [[tags/systems|systems]]. The resulting governance and operational structure may end up being called a “DAO” but we anticipate the term “DAO” becoming less and less useful as we collectively experiment in and map these emerging coordination approaches.
+Traditional corporations, governments, and NGOs, designed for stability in predictable environments, often lack the responsiveness and diversity of intelligence needed to address systemic challenges. Decentralized organizations provide a fundamental reimagining of how humans coordinate to create value, enabling more resilient, adaptive, and equitable systems capable of navigating the complexity of our modern world while distributing benefits more widely across society.
 
----
+We developed the DAO Primitives project around  **purpose-aligned networks of small autonomous teams** as a conceptual starting point for designing decentralized organizations. The DAO primitives allow communities of all kinds to build their own purpose aligned networks that can act in deliberate coherent ways to create better futures for everyone who participates in them.  
 
-## Framing: The Need for New Organizational Models
+## What Are DAO Primitives?
 
-Our current organizational structures are no longer sufficient for the challenges of our world.  We need new models capable of:
+The DAO Primitives are a handful of building blocks for designing decentralized organizations. They're un-opinionated components that can be combined and configured to create governance and operational systems tailored to specific contexts and needs.
 
-*   **Adaptable Networks:** Moving beyond monolithic entities to create networks that can grow, evolve, and operate effectively at various scales.  These networks should leverage the focused intelligence of small, specialized groups while maintaining a larger coordinating coherence and collective intelligence responsive to macro-level changes.
+Unlike prescriptive frameworks that dictate how organizations should be structured, the primitives offer maximum flexibility while maintaining coherence and interoperability. They enable experimentation with novel forms of coordination that can potentially outperform traditional organizational models.
 
-*   **Dynamic Scaling:**  Structures that can adapt to needs and challenges, scaling from individual efforts to potentially billions of participants without losing coordination or adaptability.  They should also be able to scale down gracefully when no longer needed.
+The primitives approach addresses a crucial challenge: **how can decentralized networks scale while balancing efficiency with innovation, autonomy with alignment, and flexibility with coherence?**
 
-*   **Superior Performance:**  Organizational structures that outperform their predecessors, not just in terms of efficiency but also in their ability to direct resources towards positive outcomes.  This requires combining the powerful scaling mechanisms of large corporations with the innovation, adaptability, and intelligent resource allocation of decentralized systems.
+## Core Conceptual Framework
 
-*   **Effective Primitives:**  New organizational primitives are needed to build these structures, capable of producing positive outcomes in our complex, interconnected world.
+### Dimensions
+At the foundation of the DAO Primitives approach are three key dimensions that shape how groups organize and evolve:
 
+#### 1. Group Scale
+Human systems function differently at different scales. Each scale requires different tools, practices, and governance approaches to function effectively. The framework identifies distinct scales of coordination:
+- **Collaboration Scale**
+- **Coordination Scale**
+- **Constituency Scale**
+- **Network Scale**
 
-For a deeper dive into these topics, [check out our articles on Mirror](https://superbenefit.mirror.xyz/).  Further exploration can be found in these articles:
 
-*   [DAOs aren't things... they are flows.](artifacts/network-evolution/DAOs%20aren't%20things...%20they%20are%20flows..md)
-*   [Scale and the levers that provide DAOs their power](artifacts/network-evolution/Scale%20and%20the%20levers%20that%20provide%20DAOs%20their%20power.md)
-*   [DAOs - From fractal primitives to network scale.](artifacts/network-evolution/DAOs%20-%20From%20fractal%20primitives%20to%20network%20scale..md)
-*   [Minimum Viable Permissionless-ness](artifacts/network-evolution/Minimum%20Viable%20Permissionless-ness.md)
-*   [Building DAOs as scalable networks](artifacts/network-evolution/Building%20DAOs%20as%20scalable%20networks.md)
 
-![](attachments/pasted%20image%200.png)
+#### 2. Group Phase
 
+Groups develop through predictable phases, each with distinct needs and challenges. Understanding these phases helps groups select appropriate tools and practices for their current stage of development.
+- **Conversation Phase**
+- **Formation Phase**
+- **Organisation Phase**
+- **Coordination Phase**
 
 
-### **_"Purpose aligned networks of small autonomous teams"_**
+#### 3. Group State
 
-Our design approach centers on DAOs as *purpose-aligned networks of small autonomous teams*. While the term "DAO" is currently vague, we use it as a placeholder.  We believe that effective large-scale systems emerge from networks of smaller, coherent teams, each with autonomy, contributing to a shared overarching purpose.  Web3 tools enable effective coordination across various scales:
+For decentralized coordination to work effectively, all entities in a network need clear interfaces. State documentation creates transparency that enables both internal coherence and external coordination.
 
-1.  Small collaborative teams
-2.  Coordinated networks of teams
-3.  Large-scale constituencies
+### Group Primitives
 
-This combination of innovative, context-rich small teams, efficient scaled networks, and [community governance](notes/rpp/working-docs/community-governance.md) can create organizational systems that outperform traditional structures and direct their performance towards a better, more sustainable world.
+Building on these conceptual foundations, the framework identifies four key organizational structures. These structures can be combined in various ways to create organizational systems adapted to specific contexts and needs.
 
-_We believe that this combination highly innovative high context small teams, combined with the power and efficiency of scaled networks, all wrapped in a community governance layer can produce organizational systems that can both outperform traditional organizations, but more importantly direct this performance towards building a better and more sustainable world._ 
+1. **[DAOs](notes/dao-primitives/framework/organizational-primitives/daos.md)**
+2. **[Cells](notes/dao-primitives/framework/organizational-primitives/cells.md)**
+3. **[Roles](notes/dao-primitives/framework/organizational-primitives/roles.md)**
+4. **[Tasks](notes/dao-primitives/framework/organizational-primitives/tasks.md)**
 
-### **What are the DAO Primitives?**
+### Group Facilitation 
+A Framework for Organizational Design. 
 
-[primitives](tags/primitives.md)
 
-The DAO primitives provide generalizable building blocks for designing purpose-aligned networks of small autonomous teams.  They are un-opinionated, offering maximum flexibility to create various governance and operational systems. While they can implement traditional hierarchies, they are designed to facilitate experimentation with decentralized governance models that are principled, coherent, and easy to implement and evolve.
+## DAO Primitives Resources
 
-Using these primitives involves two phases:
+This section of the knowledge base contains several interrelated components:
 
-1.  **Organizational Design (Strategic):** Designing a specific governance model for a particular use case (meta-governance).
-2.  **Implementation (Tactical):**  Using established web3 design patterns, frameworks, and technical modules.  The DAO primitives serve as resources in this process.  [Learn more about primitives](tags/primitives.md).
+### 1. [Framework](notes/dao-primitives/framework/framework.md)
+The conceptual foundations that guide organizational design, including models for understanding group scale, phase, and state, along with organizational primitives.
 
----
+### 2. [Patterns](notes/dao-primitives/patterns/patterns.md)
+Reusable solutions to common coordination challenges, organized by scale:
+- [Collaboration Scale Patterns](notes/dao-primitives/patterns/collaboration-scale-patterns/collaboration-scale-patterns.md)
+- [Coordination Scale Patterns](notes/dao-primitives/patterns/coordination-scale-patterns/coordination-scale-patterns.md)
+- [Constituency Scale Patterns](notes/dao-primitives/patterns/constituency-scale-patterns/constituency-scale-patterns.md)
+- [Network Scale Patterns](notes/dao-primitives/patterns/network-scale-patterns/network-scale-patterns.md)
 
-## **The DAO Primitives**
+### 3. [Implementation](notes/dao-primitives/implementation/implementation.md)
+Practical tools, processes, and guides for putting the primitives approach into practice, including:
+- [Case Studies](notes/dao-primitives/implementation/case-studies)
+- [Guides](notes/dao-primitives/implementation/guides)
 
-### **1.** **[[tags/primitives|Key Concepts & Tools]]**
+### 4. [Resources](notes/dao-primitives/resources/resources.md)
+Supporting materials including templates and tools for implementation.
 
-**At the highest level, we identify 3 foundational organisational primitives.** 
+## Network Evolution Series
 
-1. **Entities/groups** - individuals, teams, organisations etc. Each has an animating purpose and internal agreements that govern decision-making and resource allocation. 
+The DAO Primitives approach draws on insights from the Network Evolution series of articles, which explore how DAOs can function as networks rather than traditional organizations:
 
-2. **Networks** - clusters of entities/groups that are animated by a shared purpose and common agreements on sharing information and resources   
+1. **[DAOs aren't things... they are flows](artifacts/network-evolution/DAOs%20aren't%20things...%20they%20are%20flows..md)**: Reconceptualizing DAOs as networks with coordinated resource flows
+2. **[Scale and the levers that provide DAOs their power](artifacts/network-evolution/Scale%20and%20the%20levers%20that%20provide%20DAOs%20their%20power.md)**: How DAOs can harness both efficiency scaling and innovation scaling
+3. **[DAOs - From fractal primitives to network scale](artifacts/network-evolution/DAOs%20-%20From%20fractal%20primitives%20to%20network%20scale..md)**: How networks of autonomous cells can scale while maintaining coherence
+4. **[Minimum Viable Permissionless-ness](artifacts/network-evolution/Minimum%20Viable%20Permissionless-ness.md)**: How to balance openness with effective coordination
+5. **[Building DAOs as scalable networks](artifacts/network-evolution/Building%20DAOs%20as%20scalable%20networks.md)**: A practical model for multi-scale governance
 
-3. **Agreements** - commitments within and between entities/groups/networks that allow for coordination
+These articles provide the theoretical foundations for the more practical focus of the DAO Primitives resources.
 
-**From these we have derived 4 initial organisational structures that can be used to design organisational systems.** 
+## Getting Started
 
-These are DAO's [DAOs](tags/daos.md), [Cells](notes/dao-primitives/test-resources/test-pattern.md), [Roles](tags/roles.md), and [Tasks](tags/tasks.md)asks. Using the above conceptual framework as a guide, these primitive structures can be composed together to deliver the governance and operational needs of many different organizational types. It is important to note that these are the initial structures that we have been experimenting with. You can develop other structures that can be used to operationalize entities/groups, networks and agreements in a DAO context. However, at this stage–given the complexity of implementing new organizational designs out of combinations of different practices and tool-sets–we think it is valuable to start with a simple set of structures out of which many different organizational types can be composed.
+If you're new to the DAO Primitives approach:
 
-1. **DAOs** - *networks* - purpose aligned networks of small autonomous teams. These are the larger networks of smaller entities that coordinate their activities towards a shared purpose. If the network is large then the DAO will hold the constituency scale governance for the whole network. 
+1. Explore the [Conceptual Framework](notes/dao-primitives/framework/framework.md) to understand the key concepts
+2. Review the [Group Facilitation Guide](notes/dao-primitives/framework/group-facilitation.md) for a practical approach to applying these concepts
+3. Browse the [Pattern Library](notes/dao-primitives/patterns/patterns.md) for specific solutions to common challenges
 
-2. **Cells** - *entities/groups* - teams of fewer than 10 people who collaborate on specific pieces of work or functions. These Cells collaborate internally to govern themselves and coordinate with other cells to form network structures in a DAO.
-
-3. **Roles** - *agreements* - sets of agreements between an entity and other entities or networks in a DAO. They contain and manage specific responsibilities and sets of permissions. Roles allow individuals or groups of people to be assigned specific authority, activities, compensation etc to manage ongoing activities within a Cell or in the lager network. 
-
-4. **Tasks** - *actions* - agreements that relate to defined pieces of work/deliverables that an individual or a team can engage with and commit to delivering. Like Roles, tasks can be used internally by Cells to manage their activities or can be at coordination scale within a network structure, or at the level of the larger DAO.  
-
-All structures have _state_. This allows them to be interoperable and universally addressable across a network. 
-
-You can dive deeper into primitive structures here 
-
-### **2. Facilitation framework**
-
-A Group facilitation process use to design and implement new organisational models. This consists of..... 
-
-1. **[[notes/dao-primitives/framework/group-scale/group-scale|Group Scale]]** - human systems function differently at different scales. The group scale model helps us leverage this understanding to design an organisational system that function effectively. Whether a group is a small scale collaboration, a larger coordinating organisation or a large-scale constituency, different group scale need different tools and practices to be effective. 
-2. **[[notes/dao-primitives/framework/group-phase/group-phase|Group Phase]]** - groups go through different phases as they develop. Understanding these allows us to design the tools, practices or a group to match the needs of the current phase of the group and change with the group as it evolves. 
-3. **[[notes/dao-primitives/framework/group-state|Group State]]** - for decentralised organising to be effective, entities (groups of different sizes) within a network need to be interoperable and universally addressable across the network. To do this we use the concept of group _state_. Every entity maintains a _state_ which allows a group to have an existence that is both separate/independent from the larger network, but also integrated into the larger network based agreements made with other entities in the network.
-
-
-- You can dive deeper into the facilitation framework [here](https://app.charmverse.io/superbenefit/dao-primitives-facilitation-framework-new-7995486527060971)     
-
-### **3. [[artifacts/patterns/patterns|Pattern Library]]**
-
-A **library** of coordination #patterns and software #modules with which the above organisational designs can be reliably implemented. For novel governance mechanisms to be tried and begin to succeed, having well tested combinations of social patterns and technical tools to deliver them is going to be crucially important. As more experiments are conducted the pattern library will flesh out the emerging best practice for achieving different organisational dynamics. 
-You can dive deeper into the pattern library [[artifacts/patterns/patterns|here]].
-
-# **How the primitives work together**
-
-Using the above concepts, structures, facilitation framework and pattern library, we can explore designing DAOs (or DAO like decentralised organisational systems)_._ Possible use-cases examples are:
-
-1. **Starting from a new idea:**
-
-
-1. Starting with a conversation between a handful of interested people. 
-
-2. Who form themselves into a simple Cell, employing Roles and Tasks to manage their collaboration.   
-
-3. Which then spawns new Cells as their work increases in scope and complexity. 
-
-4. These Cells form into an operational network.
-
-5. And then, as this grows, a larger DAO structure is formed to decentralised governance of the network's purpose and provide governance oversight by the community.
-
-	
-
-1. **Creating a partnership with another DAO or organisation** - for example if 2 organisations wanted to implement a decentralised governance system to deliver a shared project: 
-
-
-1. Create a stakeholder group to define the purpose of the shared project, resource it and provide high-level governance. 
-
-2. Spin up an operational Cell to develop and implement the strategy for the project in partnership with the stakeholder group. 
-
-3. Create and resource new Cells to deliver specific aspects of the project.
-
-4. Develop Roles and Tasks to deliver specific functions and activities in the project.
-
-	
-
-1. **Pivoting an existing community into a decentralised organisational structure:**
-
-
-1. Engage the community in developing and agreeing on a high-level purpose and goals for the network.
-
-2. Spin up constituency scale community governance to steward the long-term goals of the network 
-
-3. Developing a Cell network structure to deliver for the operational aspects of the network, delivering on the goals defined by the community governance. 
-
-You can dive deeper into how the primitives work together [**here**](https://app.charmverse.io/superbenefit/how-primitives-can-work-together-793997676063832) 
+For those implementing a DAO or similar decentralized organization, the primitives approach offers a flexible but coherent way to design systems that can harness collective intelligence while adapting and evolving as your needs change.
 
 ---
 
 ## DAO Primitives Index
 
 %% Begin Waypoint %%
-- [DAO Primitives Tasks](./DAO%20Primitives%20Tasks.md)
 - **[framework](./framework/framework.md)**
 - **[implementation](./implementation/implementation.md)**
 - **[patterns](./patterns/patterns.md)**

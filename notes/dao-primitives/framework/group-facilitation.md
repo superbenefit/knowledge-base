@@ -11,6 +11,8 @@ publish: "false"
 
 ---
 
+**(rowan) re-write this doc to outline the facilitation steps to get an organisation to the point that they can pick up an implementation guide and start implementing their DAO design** 
+
 How to practically apply the DAO primitives framework to 
 
 

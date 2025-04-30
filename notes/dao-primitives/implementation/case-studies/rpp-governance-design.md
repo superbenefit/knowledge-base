@@ -87,7 +87,7 @@ The governance design utilized SuperBenefit's DAO Primitives framework, implemen
     - Playbooks Cell: Focused on developing playbooks and other implementation patterns and tools
     - Community Experience Cell: Working on the Gatherings programme in partnership with All in for Sport and Women Win
     - DAO Primitives Cell: Providing governance design expertise and pattern implementation
-5. **Roles & Tasks**: Accountabilities with autonomy managed through well crafted [Roles](notes/dao-primitives/framework/organizational-primitives/roles.md) and [Tasks](notes/dao-primitives/framework/organizational-primitives/tasks.md). 
+5. **Roles & Tasks**: Accountabilities with autonomy managed through well crafted [Roles](notes/dao-primitives/framework/group-primitives/roles.md) and [Tasks](notes/dao-primitives/framework/group-primitives/tasks.md). 
 
 Each layer operated with appropriate decision-making mechanisms and authority scopes, with clear interfaces between them to enable effective coordination while maintaining autonomy.
 
