@@ -1,0 +1,24 @@
+{
+  "useMarkdownLinks": true,
+  "newLinkFormat": "absolute",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "drafts",
+  "attachmentFolderPath": "attachments",
+  "livePreview": false,
+  "trashOption": "local",
+  "tabSize": 2,
+  "defaultViewMode": "source",
+  "userIgnoreFilters": [
+    "/(?i)(^|\\/)readme[^\\/]*$/",
+    "/^tools\\/.*$/"
+  ],
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "readableLineLength": true,
+  "promptDelete": false
+}

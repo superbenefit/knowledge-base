@@ -1,0 +1,31 @@
+# Ignore environment files
+.env
+.obsidian/plugins/obsidian-mkdocs-publisher/env
+
+# Ignore system files
+.DS_Store
+
+# ignore trash
+.trash/
+
+# ignore archive
+tools/archive/
+
+# ignore drafts
+drafts/
+
+# ignore obsidian customization files
+.obsidian/themes
+.obsidian/appearance.json
+.obsidian/workspace.json
+.obsidian/workspaces.json
+
+# ignore new plugin changes
+.obsidian/community-plugins.json
+.obsidian/plugins/
+
+# ignore obsidian changes
+.obsidian/
+
+#ignore smart connections
+.smart-env/

@@ -1,0 +1,32 @@
+{
+  "folderSpecificTemplates": [
+    {
+      "folderPath": "/",
+      "templateName": "Note Template"
+    },
+    {
+      "folderPath": "tags",
+      "templateName": "Tag Page Template"
+    },
+    {
+      "folderPath": "library",
+      "templateName": "Link Template"
+    },
+    {
+      "folderPath": "notes/patterns",
+      "templateName": "Pattern Template"
+    },
+    {
+      "folderPath": "notes/primitives",
+      "templateName": "Primitive Template"
+    },
+    {
+      "folderPath": "notes/playbooks",
+      "templateName": "Playbook Template"
+    },
+    {
+      "folderPath": "notes/studies",
+      "templateName": "Study Template"
+    }
+  ]
+}

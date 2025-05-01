@@ -1,0 +1,20 @@
+{
+  "waypointFlag": "%% Waypoint %%",
+  "landmarkFlag": "%% Landmark %%",
+  "stopScanAtFolderNotes": true,
+  "showFolderNotes": false,
+  "showNonMarkdownFiles": true,
+  "debugLogging": false,
+  "useWikiLinks": false,
+  "useFrontMatterTitle": true,
+  "showEnclosingNote": false,
+  "folderNoteType": "INSIDE_FOLDER",
+  "ignorePaths": [
+    "_attachments",
+    "_tools",
+    "_drafts",
+    ".readme"
+  ],
+  "useSpaces": true,
+  "numSpaces": 2
+}

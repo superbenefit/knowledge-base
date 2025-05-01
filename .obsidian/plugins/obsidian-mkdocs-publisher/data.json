@@ -1,0 +1,114 @@
+{
+  "github": {
+    "user": "superbenefit",
+    "repo": "knowledge-garden",
+    "branch": "v4",
+    "automaticallyMergePR": false,
+    "dryRun": {
+      "enable": false,
+      "folderName": "enveloppe"
+    },
+    "tokenPath": "%configDir%/plugins/%pluginID%/env",
+    "api": {
+      "tiersForApi": "Github Free/Pro/Team (default)",
+      "hostname": ""
+    },
+    "workflow": {
+      "commitMessage": "[BASE] Merge",
+      "name": ""
+    },
+    "otherRepo": [],
+    "verifiedRepo": true,
+    "rateLimit": 0
+  },
+  "upload": {
+    "behavior": "obsidian",
+    "defaultName": "content",
+    "rootFolder": "",
+    "yamlFolderKey": "",
+    "frontmatterTitle": {
+      "enable": false,
+      "key": "title"
+    },
+    "replaceTitle": [],
+    "replacePath": [],
+    "autoclean": {
+      "includeAttachments": true,
+      "enable": true,
+      "excluded": []
+    },
+    "folderNote": {
+      "enable": true,
+      "rename": "index.md",
+      "addTitle": {
+        "enable": false,
+        "key": "title"
+      }
+    },
+    "metadataExtractorPath": ""
+  },
+  "conversion": {
+    "hardbreak": false,
+    "dataview": true,
+    "censorText": [],
+    "tags": {
+      "inline": false,
+      "exclude": [],
+      "fields": [
+        "functions",
+        "qualities"
+      ]
+    },
+    "links": {
+      "internal": true,
+      "unshared": false,
+      "wiki": true,
+      "slugify": "disable",
+      "unlink": true,
+      "relativePath": true,
+      "textPrefix": "/"
+    }
+  },
+  "embed": {
+    "attachments": true,
+    "overrideAttachments": [],
+    "keySendFile": [],
+    "notes": true,
+    "folder": "attachments",
+    "convertEmbedToLinks": "keep",
+    "charConvert": "->",
+    "unHandledObsidianExt": [],
+    "sendSimpleLinks": true,
+    "forcePush": false,
+    "useObsidianFolder": false,
+    "bake": {
+      "textBefore": "",
+      "textAfter": ""
+    }
+  },
+  "plugin": {
+    "shareKey": "publish",
+    "fileMenu": true,
+    "editorMenu": false,
+    "excludedFolder": [
+      "_drafts",
+      "_tools"
+    ],
+    "copyLink": {
+      "enable": false,
+      "links": "",
+      "removePart": [],
+      "addCmd": false,
+      "transform": {
+        "toUri": true,
+        "slugify": "lower",
+        "applyRegex": []
+      }
+    },
+    "noticeError": false,
+    "displayModalRepoEditing": true,
+    "setFrontmatterKey": "Set",
+    "migrated": true
+  },
+  "tabsId": "github-configuration"
+}
