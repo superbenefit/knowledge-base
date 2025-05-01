@@ -11,8 +11,20 @@ publish: "false"
 
 ---
 
-How to practically apply the DAO primitives framework to 
+**(rowan) re-write this doc to outline the facilitation steps to get an organisation to the point that they can pick up an implementation guide and start implementing their DAO design** 
 
+How to practically apply the DAO primitives framework to 
+## Framework Implementation
+
+The framework is designed to be practical and applicable. The [Group Facilitation Guide](notes/dao-primitives/framework/group-facilitation.md) provides a structured methodology for applying these concepts to real-world organizational challenges.
+
+The facilitation process typically involves:
+
+1. **Assessing Context**: Understanding the group's current phase, scale, and state
+2. **Identifying Needs**: Determining the most pressing challenges and opportunities
+3. **Selecting Patterns**: Choosing appropriate organizational patterns from the [Pattern Library](notes/dao-primitives/patterns/patterns.md)
+4. **Implementing Solutions**: Adapting and applying these patterns to the specific context
+5. **Evolving & Iterating**: Continuously refining the approach based on feedback
 
 **II. Understanding Organizational Context: Phase, Scale, and State**
 

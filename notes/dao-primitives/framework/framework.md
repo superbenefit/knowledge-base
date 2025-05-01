@@ -1,99 +1,170 @@
 ---
-title: DAO Primitves Conceptual Framework
-description: A simple framework for using concepts related to DAO primitives.
+title: DAO Primitives Conceptual Framework
+description: A comprehensive framework for designing decentralized organizations as networks
 publish: "true"
 type: note
 ---
 
-This framework organizes the foundational concepts used in [[tags/daos|DAO]] design and operation. It serves as a practical guide for understanding how these components interact within decentralized organizations.
+# DAO Primitives Conceptual Framework
 
-- [Group Facilitation Guide](notes/dao-primitives/framework/group-facilitation.md)
+The DAO Primitives Framework provides a systematic approach to designing and implementing decentralized organizations as purpose-aligned networks. Building on the overview provided in the [DAO Primitives Project](notes/dao-primitives/dao-primitives.md), this framework offers a deeper exploration of the key concepts, dimensions, and components that enable effective decentralized coordination.
 
-- **[Group Phase](notes/dao-primitives/framework/group-phase/group-phase.md)**
-- **[Group Scale](notes/dao-primitives/framework/group-scale/group-scale.md)**
-- **[Group State](notes/dao-primitives/framework/group-state.md)**
+## Framework Overview
 
----
+At its core, the DAO Primitives Framework is built around two complementary elements:
 
-## Key Concepts
+1. **Dimensional Lenses**: Three key perspectives - Group Phase, Group Scale, and Group State - that help assess and understand organizational contexts
+2. **Organizational Primitives**: Fundamental building blocks - DAOs, Cells, Roles, and Tasks - that can be combined to create tailored organizational systems
 
-This framework helps you navigate the complexities of organizational development by considering your group's phase, scale, and state.  By understanding these three key aspects, you can make informed decisions about the tools, approaches, and structures that best suit your organization's needs.
+Together, these elements provide a flexible yet coherent approach to designing decentralized organizations that can harness collective intelligence while maintaining purpose alignment across diverse and distributed teams.
 
-### 1. Group Phase: Stages of Development
+## Dimensional Lenses
 
-All groups go through different stages as they grow. Understanding these stages helps you choose the right tools and approaches at each step.  Our framework identifies four key phases:
+The framework uses three primary lenses to understand and navigate organizational complexity:
 
-*   **Conversation Phase:**  Initial exploration and idea generation.
-*   **Coordination Phase:**  Planning and aligning on goals and processes.
-*   **Formation Phase:**  Establishing structures and systems.
-*   **Organization Phase:**  Ongoing operation and evolution.
+### 1. [Group Phase](notes/dao-primitives/framework/group-phase/group-phase.md)
 
-[Learn more about Group Phases](notes/dao-primitives/framework/group-phase/group-phase.md)
+Group Phase recognizes that organizations evolve through distinct developmental stages, each with its own characteristics and needs. Understanding where a group is in its journey helps select appropriate tools, practices, and structures.
 
+The framework identifies five key phases:
 
-### 2. Group Scale: Size and Complexity
+- **[Conversation Phase](notes/dao-primitives/framework/group-phase/conversation.md)**: Initial exploration and idea generation focused on open dialogue, relationship building, and establishing shared vision before formal structures emerge
+- **[Formation Phase](notes/dao-primitives/framework/group-phase/formation.md)**: Establishing basic structure and roles with minimal formality, emphasizing trust-building and defining initial procedures for group operation
+- **[Organization Phase](notes/dao-primitives/framework/group-phase/organization.md)**: Implementing formal structures, defined processes, and governance mechanisms to create sustainable and scalable organizational systems
+- **[Coordination Phase](notes/dao-primitives/framework/group-phase/coordination.md)**: Integrating with broader networks and collaborating with other groups, shifting focus from internal organization to external relationships
+- **[Completion Phase](notes/dao-primitives/framework/group-phase/completion.md)**: Concluding initiatives, capturing learnings, and transitioning resources when projects or groups reach their natural conclusion
 
-The size and complexity of your group significantly impact how it functions.  Different scales require different tools and approaches.  Our framework identifies four key scales:
-
-*   **Collaboration Scale:** Small teams working closely together.
-*   **Coordination Scale:**  Larger groups coordinating across multiple teams.
-*   **Constituency Scale:**  Broader communities participating in governance.
-*   **Network Scale:**  Interconnected networks of organizations.
-
-[Learn more about Group Scales](notes/dao-primitives/framework/group-scale/group-scale.md)
+Learn more about [Group Phase](notes/dao-primitives/framework/group-phase/group-phase.md)
 
 
-### 3. Group State: Defining Your Organization
+### 2. [Group Scale](notes/dao-primitives/framework/group-scale/group-scale.md)
 
-Understanding your organization's current state is crucial for effective coordination and interoperability with other groups.  We use a framework focusing on three key aspects: **Purpose**, **Practices**, and **Progress**.
+Group Scale acknowledges that the size and complexity of a group fundamentally affects how it functions. Different scales require different approaches to communication, decision-making, and coordination.
 
-*   **Purpose:** What is your organization's overarching goal? How does it contribute to the broader network's purpose?  A clear articulation of purpose ensures alignment and guides decision-making.
+The framework identifies four distinct scales:
 
-*   **Practices:** How does your organization function? This includes decision-making processes, resource allocation, communication methods, and other operational aspects.  Clearly defined practices ensure efficiency and consistency.
+- **[Collaboration Scale](notes/dao-primitives/framework/group-scale/Collaboration%20Scale.md)** (sub 10 people): High-bandwidth, synchronous communication with direct relationships
+- **[Coordination Scale](notes/dao-primitives/framework/group-scale/Coordination%20Scale.md)** (10-150 people): Multiple teams or structured working relationships requiring explicit coordination mechanisms
+- **[Constituency Scale](notes/dao-primitives/framework/group-scale/Constituency%20Scale.md)** (100s +): Broader communities requiring large scale governance mechanisms
+- **[Network Scale](notes/dao-primitives/framework/group-scale/Network%20Scale.md)** Interconnected networks of organizations
 
-*   **Progress:** How is progress towards the organization's purpose tracked and measured?  This includes timelines, milestones, deliverables, and other metrics.  Tracking progress enables accountability and informs future planning.
+Most contexts require organizations operate at multiple scales simultaneously, with different functions happening at different scales. The DAO primitives framework helps design appropriate coordination mechanisms for each scale.
 
-[Learn more about Group State](notes/dao-primitives/framework/group-state.md)
+Learn more about [Group Scale](notes/dao-primitives/framework/group-scale/group-scale.md)
 
----
+### 3. [Group State](notes/dao-primitives/framework/group-state.md)
 
-## Group Facilitation: A Framework for Organizational Design
+Group State focuses on how having a transparent organizational state for each entity in a network, enables effective coordination in decentralized systems. For groups to interact effectively without centralized control, they need clear interfaces that make them interoperable and universally addressable.
 
-This section provides a high-level overview of the Group Facilitation Framework. For a detailed guide to using the framework, please refer to the comprehensive documentation: [Group Facilitation Framework](notes/dao-primitives/framework/group-facilitation.md).
+In the DAO primitives framework Group state consists of three core components:
 
-The Group Facilitation Framework helps you design and implement effective organizational structures by considering three key properties of groups:  **Phase**, **Scale**, and **State**.  Understanding these properties is crucial for selecting the appropriate primitives and patterns for your specific context.  The framework guides you through a process of identifying your group's current state and then selecting the most suitable tools and approaches from the Pattern Library to support your group's evolution.
+- **Purpose**: Why the group exists and what it aims to achieve
+- **Practice**: How the group operates and makes decisions
+- **Progress**: How the group tracks, measures, and communicates its activities
 
+This state documentation serves as a "public interface" that enables both internal coherence and external coordination. It allows groups to have an existence that is both independent from the larger network and integrated into it through agreements with other entities.
 
-### Key Concepts and Their Relationship to Implementation Patterns
+Learn more about [Group State](notes/dao-primitives/framework/group-state.md)
 
-The framework connects the key concepts of Phase, Scale, and State to the implementation patterns in the following ways:
+## Organizational Primitives
 
-*   **Group Phase:**  Different groups go through distinct phases of development.  Understanding these phases allows you to tailor your approach to the group's current needs and adapt as it evolves.  The framework outlines these phases and suggests appropriate patterns for each stage. [Learn more about Group Phase](notes/dao-primitives/framework/group-phase/group-phase.md).
+Building on these dimensional lenses, the framework identifies fundamental building blocks that can be combined to create organizational systems:
 
-*   **Group Scale:** Human systems function differently at different scales.  The framework helps you leverage this understanding to design organizational systems that function effectively, regardless of size.  Different scales require different tools and practices. [Learn more about Group Scale](notes/dao-primitives/framework/group-scale/group-scale.md).
+### 1. Core Conceptual Primitives
 
-*   **Group State:**  For effective decentralized organization, entities within a network need to be interoperable and universally addressable.  The concept of *group state* helps achieve this by allowing entities to maintain their independence while integrating into the larger network. [Learn more about Group State](notes/dao-primitives/framework/group-state.md).
+At the highest level, three foundational organizational primitives:
 
+- **Entities/Groups**: Individuals, teams, or organizations with animating purpose and internal agreements
+- **Networks**: Clusters of entities animated by shared purpose and common agreements
+- **Agreements**: Commitments within and between entities that enable coordination
 
-By considering these three properties, the framework guides you in selecting appropriate patterns from the Pattern Library to implement your organizational design.  The patterns provide practical, tested solutions that align with your group's specific context and stage of development.
+### 2. Operational Primitives 
 
+Although the above conceptual framework could be used to design a wide range of different governance and operational structures, the DAO Primitives framework leans heavily on the following 4 organizational structures:
 
-###  Further Exploration
+1. **[DAOs](notes/dao-primitives/framework/organizational-primitives/daos.md)**: Purpose-aligned networks of small autonomous teams
+2. **[Cells](notes/dao-primitives/framework/organizational-primitives/cells.md)**: Teams of fewer than 10 people collaborating on specific ongoing activities 
+3. **[Roles](notes/dao-primitives/framework/organizational-primitives/roles.md)**: Sets of responsibilities, permissions, and accountabilities held by individuals or entities
+4. **[Tasks](notes/dao-primitives/framework/organizational-primitives/tasks.md)**: Defined pieces of work with clear deliverables delivered by individuals or entities 
 
-For a detailed explanation of the Group Facilitation Framework, including step-by-step guidance and practical examples, please refer to the complete documentation: [Group Facilitation Framework](notes/dao-primitives/framework/group-facilitation.md).
+These primitives can be combined in various ways to create organizational systems tailored to specific contexts and needs. Their power lies in their flexibility and composability while maintaining coherent patterns that enable interoperability.
 
----
+## Framework Implementation
 
-## Integration Patterns
+The framework is designed to be practical and applicable. The [Group Facilitation Guide](notes/dao-primitives/framework/group-facilitation.md) provides a structured methodology for applying these concepts to real-world organizational challenges.
 
-The [Pattern Library](artifacts/patterns/patterns.md) provides reusable solutions to common organizational challenges. These patterns combine primitives into practical implementations, showing how to effectively integrate the core concepts discussed in this framework.  The patterns within the library are categorized and described to facilitate discovery and selection based on your organization's specific context (phase and scale).
+The facilitation process typically involves:
 
-To effectively leverage the Pattern Library, follow these steps:
+1. **Assessing Context**: Understanding the group's current phase, scale, and state
+2. **Identifying Needs**: Determining the most pressing challenges and opportunities
+3. **Selecting Patterns**: Choosing appropriate organizational patterns from the [Pattern Library](notes/dao-primitives/patterns/patterns.md)
+4. **Implementing Solutions**: Adapting and applying these patterns to the specific context
+5. **Evolving & Iterating**: Continuously refining the approach based on feedback
 
-1.  **Assess Your Context:** Use the Group Facilitation Framework ([Learn more](notes/dao-primitives/framework/group-facilitation.md)) to determine your group's current phase and scale. This assessment will highlight the challenges you face and the types of solutions you need.
+## Framework Applications
 
-2.  **Identify Relevant Patterns:**  Navigate the Pattern Library ([notes/patterns/patterns.md](artifacts/patterns/patterns.md)) using the provided index.  Focus on patterns that address the challenges identified in step 1, considering the specific needs of your group's phase and scale.  The library's organization by phase and scale will help you quickly find relevant patterns.
+The DAO Primitives Framework can be applied to diverse organizational contexts:
 
-3.  **Review and Adapt:**  Carefully review the selected patterns to understand their underlying principles and implementation details.  Adapt the patterns to your specific context, ensuring they align with your group's goals and constraints.
+### New Organization Design
 
-4.  **Implement and Iterate:**  Implement the chosen patterns and monitor their effectiveness.  Iterate on your implementation based on feedback and experience, refining your approach as needed.
+For groups creating new decentralized organizations, the framework provides:
+- A structured approach to designing governance and operational systems
+- Guidance on selecting appropriate patterns for the group's phase and scale
+- Templates and tools for implementing key organizational components
+
+### Existing Organization Evolution
+
+For established organizations looking to become more decentralized, the framework offers:
+- Diagnostic tools for assessing current structures and practices
+- Incremental pathways for transitioning toward more distributed models
+- Compatible patterns that can be integrated with existing systems
+
+### Inter-organizational Coordination
+
+For networks of organizations working together, the framework provides:
+- Shared language and concepts for designing collaborative structures
+- Interoperability standards that enable effective coordination
+- Scalable governance patterns for managing network-level decisions
+
+## Enabling Collective Intelligence
+
+A central goal of the framework is to enable emergent collective intelligence in decentralized networks. This is achieved through several key mechanisms:
+
+### Permissionless Network Access
+
+As outlined in [Minimum Viable Permissionless-ness](artifacts/network-evolution/Minimum%20Viable%20Permissionless-ness.md), the framework emphasizes three essential freedoms:
+
+1. The freedom to work on something without requiring permission
+2. The ability to attract others to work on a project
+3. The right to put up proposals to the broader network
+
+These freedoms enable knowledge and insights from individuals working "close to reality" to drive strategy and resource allocation, rather than relying on centralized direction.
+
+### Transparent State Documentation
+
+Clear documentation of group state creates the transparency needed for distributed coordination. By making purpose, practices, and progress visible, organizations enable:
+
+- Self-organization around emerging opportunities
+- Autonomous yet aligned decision-making
+- Effective collaboration across different teams and entities
+
+### Multi-scale Governance
+
+The framework's attention to different scales enables organizations to implement governance mechanisms appropriate to each context, combining:
+
+- High-context, relationship-based collaboration at small scales
+- Explicit agreements and role-based coordination at medium scales
+- Representative and delegated governance at larger scales
+- Protocol-based coordination at network scales
+
+This multi-scale approach allows organizations to achieve both the efficiency benefits of structured coordination and the innovation benefits of autonomous experimentation.
+
+## Further Exploration
+
+The framework is supported by a rich ecosystem of related resources:
+
+- The [Pattern Library](notes/dao-primitives/patterns/patterns.md) provides reusable solutions to common organizational challenges
+- The [Implementation](notes/dao-primitives/implementation/implementation.md) section offers practical guides and case studies
+- The [Resources](notes/dao-primitives/resources/resources.md) section provides templates and tools for implementation
+
+Together, these resources form a comprehensive toolkit for designing, implementing, and evolving decentralized organizations that can effectively harness collective intelligence while maintaining purpose alignment.
