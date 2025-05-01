@@ -1,4 +1,4 @@
-	---
+---
 title: DAO Primitives Pattern Library
 description: A collection of implementation patterns for the DAO Primitives framework
 author: yeoro.eth
@@ -38,5 +38,7 @@ To effectively leverage the Pattern Library:
 - **[constituency-scale-patterns](./constituency-scale-patterns/constituency-scale-patterns.md)**
 - **[coordination-scale-patterns](./coordination-scale-patterns/coordination-scale-patterns.md)**
 - **[dao-patterns](./dao-patterns/dao-patterns.md)**
+- **[network-scale-patterns](./network-scale-patterns/network-scale-patterns.md)**
+- **[network-scale-patterns](./network-scale-patterns/network-scale-patterns.md)**
 
 %% End Waypoint %%
