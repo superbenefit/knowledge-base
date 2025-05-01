@@ -39,21 +39,27 @@ Below are the metrics identified for the KM partnership:
 
 **Provide a short narrative description of how the KM activities rolled out or use the description above and add relevant updates:**
 
-From this work, we were able to apply and were accepted into the International Olympic Committee's Tech 365 Explorer program. Tech365 explores bringing together a diverse group of 25 entrepreneurs, technologies, and change-makers from 16 countries worldwide. Each member adds a unique perspective to tech startup founders, together, we form a living laboratory of ideas and practices at the intersection of sport, technology and sustainable development.
+Building on the learnings from the DAO model developed and piloted by All In For Sport, we successfully delivered six interactive, participatory online gatherings (exceeding our target of five), designed to nurture a networked community of learning and collaboration. The salon series began with a foundational Session 0, which used participatory design to shape the curriculum based on community needs and interests.
+
+Each gathering served as a dynamic space for strategic exploration, knowledge sharing, and partnership building as promised. The salons featured a mix of expert presentations, facilitated discussions, and collaborative breakout sessions, prioritizing co-learning and co-creation rather than traditional one-way presentations. This approach allowed us to build a continuously evolving "curriculum" that truly reflected the community's collective expertise and interests.
+
+The format evolved based on participant feedback, with early sessions focusing on establishing foundational web3 concepts before moving to more advanced applications in sports governance and community ownership. This responsive design allowed us to meet participants where they were in their web3 journey while still challenging them to imagine new possibilities.
+
+The online learning platform materialized through multiple channels, including a Discord server for web3-native participants, a LinkedIn community for sports professionals, and a dedicated video archive platform (watch.allinforsport.org) where all sessions, resources, and poetic harvests are now accessible. This multi-platform approach has helped sustain momentum beyond the formal gathering series.
+
+From this work, we were able to apply and were accepted into the International Olympic Committee's Tech 365 Explorer program. Tech365 brings together a diverse group of 25 entrepreneurs, technologies, and change-makers from 16 countries worldwide. Each member adds a unique perspective to tech startup founders, together, we form a living laboratory of ideas and practices at the intersection of sport, technology and sustainable development.
 
 As a way of building and growing our community, we have offered our discord to be a place for those within the Tech365 Explore project to come together, share knowledge and perhaps even become a source of Knowledge and connection for the grassroots level all the way up to the funders who support incredible work in sports.
-
-Our hope is that as opportunities arise to be able to continue these gatherings and perhaps raise funding to support projects that emerge from these at the grassroots level at the way up to the funders who support incredible work in sports.
 
 ## Reflection Questions
 
 1. **As you reflect on the activity(ies), were there any unexpected, noteworthy or otherwise significant results?**
 
-When building out these sessions, we didn't originally know the level of knowledge that those attending the sessions would come with. After the first session, it became clear that we needed to introduce web3 topics in a way that was more approachable and somewhat basic. All of the community leaders and startup founders together formed a living laboratory of ideas and practices at the intersection of sport, technology, and community development.
+When building out these sessions, we didn't originally know the level of knowledge that those attending the sessions would come with. After the first session, we realized the content was very high level, and we wanted to introduce web3 topics in a way that was more approachable and somewhat basic. All of the community leaders and startup founders together form a living laboratory of ideas and practices at the intersection of sport, technology and community development.
 
-The value of these sessions was to introduce web3 topics at a high level, and we wanted to learn more about how participants could apply technology to their specific use cases.
+The value of these sessions was to introduce web3 topics at a high level, and we wanted to learn more about how participants could apply the technology to their specific use cases.
 
-From this work, we were able to apply and were accepted into the International Olympic Committee's Tech 365 Explorer program. Tech365 brings together a diverse group of 25 entrepreneurs, technologists, and change-makers from 16 countries worldwide. Each member adds a unique perspective, and together, tech startup founders form a living laboratory of ideas and practices at the intersection of sport, technology, and sustainable development.
+From this work, we were able to apply and were accepted into the International Olympic Committee's Tech 365 Explorer program. Tech365 brings together a diverse group of 25 entrepreneurs, technologists, and change-makers from 16 countries worldwide. Each member adds a unique perspective to the group; tech startup founders together form a living laboratory of ideas and practices at the intersection of sport, technology and sustainable development.
 
 One of the most significant unexpected outcomes was the depth of cross-sector collaboration that emerged from these gatherings. Participants from traditional sport organizations who had never engaged with Web3 technologies began developing innovative pilot projects with blockchain developers. For example, two community-led projects received funding through the Giveth platform as a direct result of connections made during our gatherings:
 
@@ -69,7 +75,7 @@ The level of sustained engagement also exceeded our expectations, with many part
 
 2. **What now? What's next for this work and/or for this group of partners? If you're unsure, can you share what you feel some potential next steps could be?**
 
-We are looking to continue our gathering sessions and are able to continue these gatherings and perhaps even become a source of Knowledge and connection for the grassroots level all the way up to the funders who support incredible work in sports.
+We are looking to continue our gathering sessions and are able to continue these gatherings and perhaps even become a source of knowledge and connection for the grassroots level all the way up to the funders who support incredible work in sports.
 
 We're looking to continue our gathering sessions with a focus on expanding beyond knowledge sharing to more hands-on implementation. Building on the relationships and knowledge base established, we envision several next steps:
 
