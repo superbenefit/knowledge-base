@@ -119,6 +119,7 @@ For those implementing a DAO or similar decentralized organization, the primitiv
 
 %% Begin Waypoint %%
 - **[framework](./framework/framework.md)**
+- **[framework 1](./framework%201/framework%201.md)**
 - **[implementation](./implementation/implementation.md)**
 - **[patterns](./patterns/patterns.md)**
 - **[resources](./resources/resources.md)**

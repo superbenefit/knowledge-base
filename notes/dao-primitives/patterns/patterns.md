@@ -37,6 +37,11 @@ To effectively leverage the Pattern Library:
 - **[collaboration-scale-patterns](./collaboration-scale-patterns/collaboration-scale-patterns.md)**
 - **[constituency-scale-patterns](./constituency-scale-patterns/constituency-scale-patterns.md)**
 - **[coordination-scale-patterns](./coordination-scale-patterns/coordination-scale-patterns.md)**
+<<<<<<< HEAD
+- **[dao-patterns](./dao-patterns/dao-patterns.md)**
+- **[network-scale-patterns](./network-scale-patterns/network-scale-patterns.md)**
+=======
+>>>>>>> 5a306e838a5f2536f82d36b05f9c589d680d5f8a
 - **[network-scale-patterns](./network-scale-patterns/network-scale-patterns.md)**
 
 %% End Waypoint %%
