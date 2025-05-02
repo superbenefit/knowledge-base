@@ -16,12 +16,14 @@ The Conversation Phase is the foundational [group-phase](notes/dao-primitives/fr
 * **Open Exploration:** Minimal constraints and a focus on free-flowing discussion and idea generation. All perspectives are valued, and critical evaluation is generally deferred to later phases.
 * **Shared Vision:** The primary outcome is a shared understanding of the group's purpose, goals, and potential impact. This shared vision acts as a guiding principle for subsequent phases.
 * **Relationship Building:** This phase is crucial for building trust and rapport among group members. Strong relationships are essential for effective collaboration in later stages.
-* **Informal Processes:** Processes are typically informal and adaptable. The emphasis is on flexibility and responsiveness to emerging ideas and insights.
+* **Informal Processes:** Processes are typically informal and adaptable. The emphasis is on flexibility and responsiveness to emerging ideas and insights. They group may identify as a squad or some other informal group type. 
+
 
 ### Challenges
 
 * **Maintaining Momentum:** Keeping the conversation engaging and productive can be challenging, especially with a large or diverse group.
-* **Managing Diverse Perspectives:** Balancing diverse viewpoints and ensuring that all voices are heard requires skillful facilitation.
+* **Legacy Organizational Thinking:** Members can often habitually defer to higher authority in the organizational structure. Permissionless organizing requires people participating in a conversation phase group to take responsibility for the group's progress themselves. 
+* **Avoidance of Conflict:** As a conversation phase group starts to define its purpose, it is crucial that people in the group address disconnects in vision and approach. It is better that a group splits and attempts two different versions of an idea than they continue with conflict or a lack of clarity about the core purpose of the idea. 
 * **Avoiding Premature Closure:** It's important to avoid prematurely closing off ideas or prematurely reaching consensus before sufficient exploration has occurred.
 
 ---
