@@ -1,3 +1,19 @@
+---
+title: Community Exchange Glossary
+description: Comprehensive glossary of terms used throughout the Community Exchange documentation, defining core concepts, protocol functions, and related economic concepts
+author: ICS Team
+tags:
+  - community-exchange
+  - glossary
+  - terminology
+  - reference
+aliases:
+  - CE Glossary
+  - Community Exchange Terms
+publish: "false"
+type: reference
+---
+
 # Community Exchange: Glossary of Terms
 
 This glossary provides definitions for key terms used throughout the Community Exchange documentation. These definitions align with the framework described in "Grassroots Economics: Reflection and Practice" while adapting to our local context.

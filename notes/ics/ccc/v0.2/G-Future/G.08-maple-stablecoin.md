@@ -1,17 +1,30 @@
-# $MAPLE: The Canadian Regenerative Stablecoin
+# $MAPLE: The Canadian Regenerative Value Token
 
 ## Overview
 
-$MAPLE is an envisioned CAD-pegged stablecoin designed to serve as the Canadian counterpart to $BREAD, creating a regenerative financial ecosystem that seamlessly integrates with the Community Exchange (CCC) platform. As a decentralized community currency, $MAPLE would generate yield that supports both network stability and Canadian regenerative initiatives.
+$MAPLE is an envisioned CAD-pegged token designed to support Canadian regenerative financial ecosystems and integrate with the Community Exchange (CCC) platform. As a decentralized community currency, $MAPLE would generate yield that supports both network stability and Canadian regenerative initiatives.
 
 ## Positioning with $BREAD
 
-### Parallel Regenerative Finance Systems
+## Core Use Cases
 
-- $BREAD operates as a reserve currency for CCC and other US-based community economics
-- $MAPLE extends this model to Canadian communities, maintaining identical regenerative principles
-- Both tokens use yield generation to support local initiatives while maintaining financial stability
-- Together they create North American bridge for regenerative economies
+$MAPLE serves three primary functions:
+
+1. **Intra-DAO Transactions**: Facilitating seamless value exchange within and between Decentralized Autonomous Organizations
+2. **Canadian DAO Contributor Payments**: Enabling organizations to compensate Canadian contributors in a currency that maintains CAD purchasing power
+3. **Auto-PGF Treasury Holdings**: Serving as a stable reserve asset for Automatic Public Goods Funding (Auto-PGF) mechanisms
+
+### Positioning with $BREAD
+
+$MAPLE and $BREAD serve different but complementary purposes:
+- $BREAD: Regenerative CAD-denominated value token for wider economic transformation
+- $MAPLE: Specifically designed for Canadian commitment pool networks
+
+Both support regenerative economics through different approaches:
+- $BREAD focuses on yield generation for mutual aid
+- $MAPLE focuses on facilitating community commitment exchanges and DAO operations
+
+Our communities naturally align and may interact, but these are distinct systems with distinct purposes.
 
 ### Liquidity Pair Strategy
 
@@ -38,16 +51,16 @@ $MAPLE is an envisioned CAD-pegged stablecoin designed to serve as the Canadian 
 
 ### Connection Circles Integration
 
-1. **Skill Exchange Economy**: Members can offer skills/services priced in MAPLE for those preferring immediate settlement
-2. **Cross-Pool Facilitation**: MAPLE acts as a bridge when Connection Circle relationships evolve into formalized exchanges across different pools
-3. **Value Recognition**: Outstanding contributions in Connection Circles could earn MAPLE rewards, creating incentives for quality engagement
+1. **Skill Exchange Economy**: Members can offer skills/services priced in $MAPLE for those preferring immediate settlement
+2. **Cross-Pool Facilitation**: $MAPLE acts as a bridge when Connection Circle relationships evolve into formalized exchanges across different pools
+3. **Value Recognition**: Outstanding contributions in Connection Circles could earn $MAPLE rewards, creating incentives for quality engagement
 
 ### Commitment Pool Integration
 
-1. **Reserve Asset**: Commitment pools can hold MAPLE as a stable reserve alongside credits
-2. **Inter-Pool Trading**: Different commitment pools can trade using MAPLE when direct credit swaps aren't feasible
-3. **Exit Option**: Members can convert earned credits to MAPLE to connect with the broader economy
-4. **Boundary Objects**: MAPLE serves as a "boundary object" allowing credits to cross between pools with different valuations
+1. **Reserve Asset**: Commitment pools can hold $MAPLE as a stable reserve alongside credits
+2. **Inter-Pool Trading**: Different commitment pools can trade using $MAPLE when direct credit swaps aren't feasible
+3. **Exit Option**: Members can convert earned credits to $MAPLE to connect with the broader economy
+4. **Boundary Objects**: $MAPLE serves as a "boundary object" allowing credits to cross between pools with different valuations
 
 ## Technical Architecture
 
@@ -70,9 +83,9 @@ $MAPLE is an envisioned CAD-pegged stablecoin designed to serve as the Canadian 
 
 ## Conversion Rate Structure
 
-### Credit-to-MAPLE Exchange Rates
+### Credit-to-$MAPLE Exchange Rates
 - Individual commitment pools set their own exchange rates
-- Market-based fluctuation within steward-defined bands (e.g., 1 credit = 5-10 MAPLE)
+- Market-based fluctuation within steward-defined bands (e.g., 1 credit = 5-10 $MAPLE)
 - Quarterly adjustments based on:
   - Community demand
   - Pool health metrics
@@ -124,8 +137,8 @@ $MAPLE is an envisioned CAD-pegged stablecoin designed to serve as the Canadian 
 
 ### Incentive Mechanisms
 1. **Holding Rewards**: Yield generation for supporting Canadian regenerative initiatives
-2. **Participation Rewards**: MAPLE awards for active Community Exchange participants
-3. **Liquidity Incentives**: Rewards for providing BREAD-MAPLE liquidity
+2. **Participation Rewards**: $MAPLE awards for active Community Exchange participants
+3. **Liquidity Incentives**: Rewards for providing BREAD-$MAPLE liquidity
 
 ## Regulatory Approach
 
@@ -143,14 +156,14 @@ $MAPLE is an envisioned CAD-pegged stablecoin designed to serve as the Canadian 
 
 ### Phase 1: Foundation (Months 1-6)
 - Deploy smart contracts on testnet
-- Build MAPLE-USDC liquidity pools
+- Build $MAPLE-USDC liquidity pools
 - Create DAO governance structure
 - Engage first trust partners
 
 ### Phase 2: Pilot (Months 7-12)
 - Launch with supply cap on mainnet
 - Integration with first CCC pilots
-- Build BREAD-MAPLE bridges
+- Build BREAD-$MAPLE bridges
 - Expand trusted validator network
 
 ### Phase 3: Growth (Year 2)
@@ -162,17 +175,29 @@ $MAPLE is an envisioned CAD-pegged stablecoin designed to serve as the Canadian 
 ## Key Success Metrics
 
 1. **Stability**: Maintain CAD peg within 1% deviation
-2. **Adoption**: Growing number of CCC pools accepting MAPLE
+2. **Adoption**: Growing number of CCC pools accepting $MAPLE
 3. **Yield Generation**: Consistent returns for holders
 4. **Community Impact**: Value distributed to regenerative initiatives
-5. **Liquidity**: Healthy BREAD-MAPLE trading volume
+5. **Liquidity**: Healthy BREAD-$MAPLE trading volume
 
 ## Vision: National Implications
 
 The ultimate aspiration is for $MAPLE to grow from a community currency into a national infrastructure. As Canadian tokenization matures, the government could:
-- Add liquidity to existing MAPLE pools
-- Use MAPLE for national regenerative initiatives
+- Add liquidity to existing $MAPLE pools
+- Use $MAPLE for national regenerative initiatives
 - Potentially adopt it as a complementary digital currency
+
+### Fractal Scaling Architecture
+- BREAD: Umbrella for multiple regional networks (like $MAPLE, SYRUP)
+- $MAPLE: Regional layer for London/Ontario
+- Local pools: Individual communities
+- Sub-pools: Granular divisions within pools
+
+### Emergence-Friendly Design
+- $MAPLE could grow from regional to provincial to national
+- Architecture allows for organic expansion or federation
+- Sub-pools enable deeper local customization
+- Naming follows function rather than predetermined hierarchy
 
 This represents a bottom-up approach to national digital currency, starting with communities rather than institutions.
 
@@ -181,8 +206,9 @@ This represents a bottom-up approach to national digital currency, starting with
 - **Network**: Initially deploy on Celo for low transaction costs
 - **Standard**: ERC-20 compatible token
 - **Decimal Places**: 18 (standard)
-- **Symbol**: MAPLE
+- **Symbol**: $MAPLE
 - **Demurrage**: Potential 0.5-1% annual to encourage circulation
+- **Token Type**: CAD-denominated value token (not a security)
 
 ## Open Questions
 

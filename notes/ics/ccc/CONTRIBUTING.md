@@ -1,3 +1,19 @@
+---
+title: Community Exchange Project CONTRIBUTING Guide
+description: Implementation updates, completed tasks, and next steps for the Community Exchange Project documentation
+author: ICS Team
+tags:
+  - community-exchange
+  - contributing
+  - implementation
+  - updates
+aliases:
+  - CE Contributing Guide
+  - Project Implementation Updates
+publish: "false"
+type: contributing
+---
+
 # Community Exchange Project Implementation Update
 
 ## Completed Tasks (April 28, 2025)

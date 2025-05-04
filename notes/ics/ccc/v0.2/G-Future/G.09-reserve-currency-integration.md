@@ -4,73 +4,73 @@
 
 As Community Exchange grows, introducing reserve currencies like $BREAD enables pools to connect with broader regenerative economies while maintaining local autonomy. This document outlines how reserve currencies integrate with CCC's dual-pathway model.
 
-## $BREAD: The Regenerative Model
+## Relationships with Regenerative Currencies
 
-**What is $BREAD**:
-- A regenerative stablecoin pegged to USD
-- Holding generates yield that supports mutual aid networks
-- Operates via community governance and transparent distribution
-- Serves as a bridge between different community economies
+**$BREAD Connection**
+- An inspiring regenerative currency project we admire
+- Not specifically designed for commitment pooling
+- May occasionally overlap with our economic goals
+- Represents the broader regenerative finance movement
 
-**Core Principles**:
-- Democratic governance of yield distribution
-- Support for regenerative initiatives
-- Transparent treasury management
-- Non-extractive economic model
+**Integration Considerations**
+- Any connection would be optional and values-aligned
+- Pools could accept various currencies if they serve community needs
+- Decision-making remains local and autonomous
+- Not a prescribed technical bridge solution
 
 ## Integration Points
 
 ### Connection Circles
 1. **Skill Exchange Economy**:
-   - Optional pricing in $BREAD for immediate settlement
+   - Optional external currency options for immediate settlement
    - Bridge between gift exchanges and monetary transactions
    - Support for skilled professionals who need currency stability
 
 2. **Cross-Pool Facilitation**:
    - Members from different communities meet in Connection Circles
-   - $BREAD enables formalized exchanges between separate pools
+   - External currencies may enable exchanges between separate pools
    - Maintains trust relationships while enabling economic exchange
 
 3. **Value Recognition**:
-   - Outstanding contributors receive $BREAD rewards
+   - Outstanding contributors may receive various rewards
    - Incentivizes quality facilitation and community building
    - Creates reputation system across connected communities
 
 ### Commitment Pool
 1. **Reserve Asset Management**:
-   - Pools can designate portion of credits as $BREAD reserves
+   - Pools can designate portions as various reserve options
    - Provides liquidity during seasonal variations
    - Balances pool when certain commitments are oversubscribed
 
 2. **Inter-Pool Trading**:
-   - Credits can be converted to $BREAD for external trading
+   - Credits can be converted to external currencies for trading
    - Different pools maintain their own exchange rates
    - Enables diverse local economies to interconnect
 
 3. **Exit/Entry Flexibility**:
-   - Members leaving the community can convert credits to $BREAD
-   - New members can enter pools using $BREAD holdings
+   - Members leaving can convert credits to preferred currencies
+   - New members can enter using various external options
    - Maintains value of contributions when changing communities
 
 ## Implementation Strategies
 
 ### Phase 1: Exploration
-- Stewards research $BREAD's technical architecture
+- Stewards research various external currency options
 - Community education about regenerative finance
-- Identify specific use cases for reserve currency
+- Identify specific use cases for reserve currencies
 - Pilot testing with interested members
 
 ### Phase 2: Pilot Integration
-- One or two pools test $BREAD acceptance
+- One or two pools test external currency connections
 - Limited conversion ratios to manage risk
 - Document lessons learned and adjust approach
 - Gather community feedback and consensus
 
 ### Phase 3: Full Integration
-- Community decision on full $BREAD adoption
+- Community decision on external currency connections
 - Establish exchange rate mechanisms
 - Create reserve management protocols
-- Connect with broader regenerative network
+- Connect with broader regenerative networks
 
 ## Exchange Rate Dynamics
 
@@ -87,7 +87,7 @@ As Community Exchange grows, introducing reserve currencies like $BREAD enables 
 4. **Usage Patterns**: Actual conversion frequencies
 
 ### Example Rate Structures
-- Standard Rate: 1 credit = 5-10 $BREAD (market-driven)
+- Standard Rate: 1 credit = 5-10 reserves (market-driven)
 - Tiered Rates: Bulk conversions get better rates
 - Time-Based: Rates adjust seasonally for tourism areas
 - Member-Based: Different rates for stewards vs. regular members
@@ -95,14 +95,14 @@ As Community Exchange grows, introducing reserve currencies like $BREAD enables 
 ## Stewardship Guidelines
 
 ### Reserve Management
-1. **Holding Limits**: Max percentage of pool as $BREAD reserves
-2. **Diversification**: Balance between local credits and external currency
+1. **Holding Limits**: Max percentage of pool as external reserves
+2. **Diversification**: Balance between local credits and external currencies
 3. **Transparency**: Regular reporting on reserve status
 4. **Emergency Protocols**: Access to reserves during crises
 
 ### Community Governance
 1. **Decision Authority**: Major reserve changes require community vote
-2. **Review Frequency**: Quarterly assessment of reserve currency strategy
+2. **Review Frequency**: Quarterly assessment of reserve currency strategies
 3. **Stakeholder Input**: All members participate in major decisions
 4. **Exit Strategies**: Clear protocols for phasing out reserves if needed
 
@@ -124,7 +124,7 @@ As Community Exchange grows, introducing reserve currencies like $BREAD enables 
 
 ### Economic Indicators
 1. Credit velocity maintains healthy levels
-2. Reserve currency facilitates needed exchanges
+2. External connections facilitate needed exchanges
 3. Inter-pool trading increases appropriately
 4. Members benefit from broader market access
 
@@ -151,12 +151,12 @@ As Community Exchange grows, introducing reserve currencies like $BREAD enables 
 ## Success Stories
 
 ### Case Study 1: Seasonal Business Integration
-- Tourist area pool uses $BREAD for off-season stability
+- Tourist area pool uses external reserves for off-season stability
 - Maintains local focus during peak season
 - Provides year-round economic resilience
 
 ### Case Study 2: Artist Collective Bridge
-- Creative communities connect through $BREAD
+- Creative communities connect through various currencies
 - Maintains distinctivity while enabling collaboration
 - Expands market access without compromising values
 
@@ -170,8 +170,8 @@ As Community Exchange grows, introducing reserve currencies like $BREAD enables 
 
 ## Resources
 
-- [Breadchain Website](https://breadchain.xyz/)
-- $BREAD Technical Documentation
+- Various regenerative currency communities
+- Diverse technical documentation
 - Community Currency Best Practices
 - Regenerative Finance Principles
 

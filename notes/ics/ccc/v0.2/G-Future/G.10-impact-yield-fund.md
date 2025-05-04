@@ -44,7 +44,7 @@ The unique innovation lies in leveraging impact yields through commitment pools:
 - Year 1: Pool backs ~$100-200K in commitments
 - Year 2: Additional $20K yield enters, expanding capacity to ~$200-400K
 - Year 3: Further $20K yield grows total capacity to ~$300-600K
-- Backing BREAD accumulates while commitments cycle through redemption/creation
+- $BREAD backing accumulates while commitments cycle through redemption/creation
 
 ![SB Impact Fund Value Flows](superb-impact-fund-flows.png)
 
@@ -57,7 +57,7 @@ Boann Finance is a leading Canadian social impact investment firm focused on cat
 ### Key Benefits
 - **Capital Security**: Principal remains intact, reducing risk
 - **Predictable Returns**: Stable yield with bonus impact component
-- **Measurable Impact**: On-chain metrics, community attestations
+- **Measurable Impact**: On-chain records of all commitments and credits; community impact attestations
 - **Innovative Approach**: Pioneer in Web3 impact investing
 
 ### Differentiation

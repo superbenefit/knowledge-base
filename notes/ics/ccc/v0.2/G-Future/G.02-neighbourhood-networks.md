@@ -25,6 +25,11 @@ Each neighbourhood maintains its own pool with:
 - **Common Steward Council:** Representatives from each area coordinate
 - **Cross-Neighbourhood Projects:** Joint events and initiatives
 
+### Federated Architecture Benefits
+- Pools as sovereign economic entities that choose their federation partners
+- Selective exchange: pools determine which other pools they'll connect with
+- Example: Artists pool might only exchange with food & tech pools
+
 ## Implementation Model
 
 ### Phase 1: Establish Individual Pools
@@ -75,6 +80,11 @@ Each neighbourhood maintains its own pool with:
 - Demonstrates federation model viability
 
 ## Challenges and Solutions
+
+### Beyond Neighborhoods
+- Model extends to diverse pool types beyond geography
+- Enables rich economic relationships between different community types
+- Creates economic tapestry where different communities have varying integration levels
 
 ### Challenge 1: Maintaining Balance
 **Solution:** Quarterly inter-neighbourhood credit flow reviews

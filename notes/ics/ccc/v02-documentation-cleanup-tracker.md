@@ -1,3 +1,19 @@
+---
+title: v.02 Documentation Cleanup Task Tracker
+description: Task tracking document for cleaning up Community Exchange v0.2 documentation, including file naming standardization and index updates
+author: ICS Team
+tags:
+  - community-exchange
+  - documentation
+  - task-tracker
+  - cleanup
+aliases:
+  - Documentation Cleanup Tracker
+  - CE Documentation Tasks
+publish: "false"
+type: project-tracker
+---
+
 # v.02 Documentation Cleanup Task Tracker
 
 ## Task Overview

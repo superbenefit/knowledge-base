@@ -105,20 +105,19 @@ Our technology should:
 - Develop comprehensive transition plan
 
 #### Reserve Currency Considerations
-As the system matures, stewards may explore incorporating reserve currencies to enhance liquidity and connect with other communities:
+As the system matures, pools may naturally connect with other regenerative economies:
 
-**Potential Reserve Currency: $BREAD**
-- A regenerative currency aligned with our values
-- Enables trading between different community pools
-- Connects us to the broader regenerative finance ecosystem
-- Represents a bridge to external value while maintaining local focus
+**Potential Connections:**
+- $BREAD - a regenerative currency we admire that shares our values  
+- Other commitment pool networks using $MAPLE or similar
+- The broader regenerative finance ecosystem
+- Conventional systems when necessary for community needs
 
 **Implementation Considerations:**
-- Begin as a optional pilot with willing stewards
-- Set initial exchange rates through community consultation
-- Monitor impact on local credit velocity
-- Evaluate benefits for inter-pool trading
-- Documented decision process for full adoption
+- Each pool decides its own external connections
+- Community values guide integration decisions  
+- Multiple connection pathways maintain flexibility
+- Local autonomy remains paramount
 
 ### Phase 3: Full Migration (Month 7+)
 

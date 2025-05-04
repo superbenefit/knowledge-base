@@ -1,3 +1,19 @@
+---
+title: Community Exchange Overview
+description: Comprehensive introduction to the Community Exchange system, explaining its core components, two pathways, and how it connects curiosity and commitment
+author: ICS Team
+tags:
+  - community-exchange
+  - overview
+  - sips
+  - commitment-pool
+aliases:
+  - CE Overview
+  - Community Exchange Introduction
+publish: "false"
+type: note
+---
+
 # Community Exchange: Connecting Curiosity and Commitment in London
 
 ## Introduction
@@ -107,6 +123,12 @@ While members may initially engage more with one component than the other, the f
 - Together, they create a holistic ecosystem where both social and material needs can be met
 
 > **It's like music.** Shared Interest Pairings (SIPs) are the melody—the part you remember, the tune that stays with you. The Commitment Pool is the rhythm and harmony—the structure that gives the melody meaning and power. Each can exist independently, but together, they create something greater than the sum of their parts.
+
+## Finding Your Common Purpose
+
+Community Exchange groups thrive when they share a clear common purpose. Whether you're a neighborhood building local resilience, a group of artists supporting creative practice, or professionals navigating cash flow challenges—finding what binds you together makes participation essential rather than optional.
+
+**For detailed guidance on discovering and articulating your group's shared purpose, see:** [**Guide to Finding Common Purpose**](E-Guides/E.10-finding-common-purpose.md)
 
 ## Join Us!
 

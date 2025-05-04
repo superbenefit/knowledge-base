@@ -65,9 +65,7 @@ The Commitment Pool operates on a simple credit system:
   - Prevents over-promising services you can't deliver
   - **Holding limit**: Maximum positive balance of 10 credits (optional, secondary)
   - Note: In mutual credit systems, holding (hoarding) is often beneficial as it provides system stability
-- As the community grows, pools may hold reserve currencies like $BREAD to enable trading with other community pools and connect to the broader regenerative economy
-
-$BREAD is a regenerative currency that shares our values of community wealth-building and supports mutual aid across communities. When pools incorporate $BREAD as a reserve currency, it allows for seamless trading between different local communities while maintaining alignment with regenerative economic principles.
+- As the community grows, pools may connect with other regenerative economies, although each connection remains optional and values-driven. Different pools may choose different paths: some might accept various regenerative currencies, others might connect only within the commitment pool network, while others remain focused purely on local exchanges.
 
 ## Examples of Typical Exchanges
 
@@ -122,6 +120,19 @@ For reference, other Canadian communities using similar systems have found them 
 - Contributing to local resilience and connection
 
 We're proud to join this tradition of community-driven economic innovation while encouraging responsible participation.
+
+## Federated Architecture
+
+Community Exchange operates as a federated network of autonomous pools:
+- Each pool maintains sovereignty while choosing federation partners
+- Exchange relationships are flexible: open, selective, closed, or partially open
+- Diverse pool types: geographic, sector/industry, interest/values-based
+
+### Diverse Pool Ecosystem
+- Geographic pools: neighborhoods, districts
+- Sector pools: artists, tech workers, food systems
+- Interest pools: zero-waste, mutual aid, time banking
+- Special purpose pools: childcare co-ops, tool libraries
 
 ## Getting Started
 

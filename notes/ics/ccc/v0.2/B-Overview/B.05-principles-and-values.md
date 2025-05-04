@@ -40,7 +40,11 @@ We believe in distributing power rather than concentrating it. Our system is des
 
 Our system complements rather than competes with conventional economics. We recognize the continued need for the mainstream economy while creating alternatives that address its limitations.
 
-### 6. Evolution and Adaptation
+### 6. Shared Purpose Amplifies All
+
+Strong communities are bound by shared purpose. Whether facing common challenges or creating shared dreams, our exchanges become essential—not optional—when rooted in collective need and vision.
+
+### 7. Evolution and Adaptation
 
 We embrace continuous learning and evolution. Our system is designed to grow and adapt based on community needs and experiences.
 

@@ -75,6 +75,42 @@ This inaugural event serves as our Community Exchange launch, combining elements
 - **Materials needed**: Resource mapping worksheets, commitment cards, examples of well-formed commitments, pens
 - **Facilitation note**: Emphasize quality over quantity; better to have 1-2 clear, specific offerings than many vague ones.
 
+#### Deep Facilitation: Getting to Real Needs & Offerings
+
+**Creating the Right Environment:**
+- Start with vulnerability: facilitators share their own needs/offerings first
+- Use the circle formation where everyone can see each other
+- Encourage authentic sharing over polite performance
+
+**Questions to Reveal Real Needs:**
+1. The Cash Crunch Story: "Tell me about the last time you needed something but money was tight. What did you do?"
+2. The Dream Resource: "If you could access any service in the neighborhood without money, what would be the first three things?"
+3. The Hidden Embarrassment: "What's something you need but feel awkward asking for?"
+4. The Ripple Effect: "If you had reliable access to [service], what else would that free you up to do?"
+
+**Questions to Reveal Real Offerings:**
+1. The Underground Skills: "What do people always ask you for help with?"
+2. The Joy Principle: "What work energizes you rather than drains you?"
+3. The Abundance Question: "What do you have too much of? What resources do you wish didn't go to waste?"
+4. The Teaching Spark: "What could you teach someone in an afternoon?"
+
+**Trust-Building Patterns:**
+- Use stories, not lists ("Let me tell you about when I traded tutoring for plumbing...")
+- Address fear directly ("What worries you about bartering/exchanging?")
+- Build on natural reciprocity ("Who in this room have you already helped?")
+
+**The "Magic Soup" Moment:**
+1. Start with one person's offer
+2. Show how others could add to it
+3. Watch the "aha" moment when people see the multiplier effect
+
+**Red Flags to Watch For:**
+- Offers that feel performative rather than authentic
+- Needs that seem too polite or safe
+- Exchanges that maintain power imbalances
+
+The goal is to move from polite offers → things they'd genuinely enjoy sharing, and from safe needs → actual vulnerabilities.
+
 ### Break & Matching (7:20-7:40 PM)
 - Participants enjoy refreshments while the facilitation team acts as "human librarians" quickly reviewing the commitment cards and identifying potential matches or conversation clusters.
 - Commitment cards are organized on a wall or board into thematic areas.

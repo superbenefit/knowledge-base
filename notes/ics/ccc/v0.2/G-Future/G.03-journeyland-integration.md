@@ -2,7 +2,7 @@
 
 ## Overview
 
-Journeyland runs experiential community gatherings that could serve as both a testing ground and expansion opportunity for Community Exchange. This model explores how CCC can integrate with event-based communities and facilitate deeper connections through credit-based participation.
+Journeyland runs experiential community gatherings that serve as both a testing ground and expansion opportunity for Community Exchange. By transitioning from a transactional model to a contribution-based system, Journeyland aims to make events more accessible, co-created, co-owned, and foster deeper community belonging.
 
 ## About Journeyland
 
@@ -15,15 +15,50 @@ Journeyland runs experiential community gatherings that could serve as both a te
 - Focus on transformation and connection
 - Temporary yet meaningful community formation
 - Blend of structured and organic activities
+- Led primarily by Andre with Heenal as co-facilitator
+
+## The New Participatory Model
+
+### Financial Structure
+- **Event Cost:** $2,500 per event
+- **Break-even Point:** 50 participants
+- **Capacity:** 80 participants
+- **Frequency:** 4 events per year (quarterly)
+
+### Credit System
+- **Standard Commitment:** 5 credits per quarter (20 credits annually)
+- **Credit Value:** 1 credit = $10
+- **Quarterly Contribution:** $50 equivalent per person
+- **Annual Contribution:** $200 equivalent per person
+
+### Cash Requirements (per event)
+- **Venue:** $300
+- **Food:** $200
+- **Insurance:** $200
+- **Total Cash Needed:** $700 per event
+- **Other Expenses:** To be covered by credits (DJs, facilitators, etc.)
 
 ## Integration Possibilities
 
 ### 1. Credit-Based Participation Model
 **Examples:**
-- Event admission: 10-20 credits per person
-- Workshop access: 5 credits per session
-- Facilitation support: 30 credits per facilitator
-- Venue setup/cleanup: 15 credits per shift
+- Event admission: 5 credits per quarter per person
+- Workshop access: Included in quarterly credit commitment
+- Facilitation support: Credit value determined by steward circle
+- Venue setup/cleanup: Credit value determined by steward circle
+
+### 2. Contribution Options
+**Participants can choose:**
+- 100% cash payment: $50 per event
+- 100% service contribution: 5 credits worth of work/materials
+- Mixed contributions: Any combination of cash and credits
+
+### 3. Value Creation Examples
+- DJs and workshop facilitators accept credits
+- Setup/teardown assistance
+- Promotion and outreach
+- Materials and supplies
+- Technical equipment sharing
 
 ### 2. Internal Event Economy
 **During Events:**
@@ -47,17 +82,19 @@ Journeyland runs experiential community gatherings that could serve as both a te
 
 ## Operational Model
 
-### Credit Flow Examples
-- Volunteer facilitator earns 50 credits for weekend workshop
-- Attendee spends 20 credits for full event access
-- Support staff earn 5 credits per hour
-- Equipment providers earn 10 credits per day
+### Credit Valuation
+- Steward circle determines value for different contributions
+- All valuations are transparently shared with community
+- Community members can question and discuss valuations
+- 1 credit = $10 USD equivalent
 
 ### Value Creation Cycle
-1. Community members prepare for event using credits
-2. Event creates value through experiences and connections
-3. Participants earn credits through contribution
-4. Credits circulate back into community after event
+1. Participants commit to 5 credits per quarterly event
+2. Credits are fulfilled through cash or service contributions  
+3. Cash contributions help seed the pool for mandatory expenses
+4. Services and materials are provided to reduce cash needs
+5. Events create value through experiences and connections
+6. Credits may carry over or be used across events
 
 ## Implementation Phases
 
@@ -79,34 +116,54 @@ Journeyland runs experiential community gatherings that could serve as both a te
 ## Benefits Analysis
 
 ### For Journeyland
-- Increased volunteer engagement
-- Broader community participation
-- Alternative funding models
-- Deeper community connections
+- Removes financial barriers (some find $50 challenging)
+- Creates deeper sense of ownership and belonging
+- Enables more people to participate through time/skills
+- Makes events more co-created and community-driven
 
 ### For CCC System
-- Demonstrates versatility with temporary communities
-- Creates high-impact community touchpoints
-- Generates stories and testimonials
-- Tests rapid scaling capabilities
+- Tests credit system with known community members
+- Creates quarterly touchpoints for community building
+- Provides model for other event-based organizations
+- Demonstrates value beyond pure monetary exchange
 
 ### For Participants
-- Access to transformative experiences
-- Recognition for contributions
-- Extended community connections
-- Economic participation options
+- Multiple ways to access transformative experiences
+- Flexibility in how to contribute (cash, time, skills)
+- Increased sense of belonging and community ownership
+- Recognition and valuation of non-monetary contributions
+
+## Implementation Strategy
+
+### Starting Simple
+- One commitment level: 5 credits per quarter
+- Cash or contribution options clearly defined
+- Transparent valuation process
+- Known, trusted community members
+
+### Learning and Adapting
+- Start with honor system for quality
+- Evolve governance structures as needed
+- Use Sarafu for administrative simplicity
+- Document and share learnings
 
 ## Unique Considerations
 
-### Temporary Community Dynamics
-- Rapid trust-building needs
-- Time-bound credit utilization
-- Transition from event to ongoing community
+### Governance Structure
+- Steward circle makes decisions about contribution valuations
+- Community can help shape events as much or as little as desired
+- Most governance details to be determined collaboratively
 
-### Scale and Intensity
-- Managing high-volume credit transactions
-- Ensuring fair value recognition
-- Balancing preparation and presence
+### Quality Assurance
+- Honor system for contribution quality
+- Community accountability through peer relationships
+- Social recognition for fulfilling commitments
+- Non-fulfillment managed through community discussion (not harsh penalties)
+
+### Technical Implementation
+- All tracking and management through Sarafu platform
+- Digital management of credit commitments and fulfillment
+- Transparent record-keeping for community visibility
 
 ## Future Expansion
 
@@ -122,11 +179,13 @@ Journeyland runs experiential community gatherings that could serve as both a te
 
 ## Success Metrics
 
-- Participant satisfaction levels
-- Credit circulation during events
-- Post-event community engagement
-- Volunteer retention rates
-- Value creation per credit spent
+- Number of participants accessing events through credits
+- Diversity of contributions (cash vs. service)
+- Community feedback on sense of ownership
+- Success in meeting cash flow needs ($700 per event)
+- Quality of co-created elements
+- Retention across quarterly events
+- Sense of belonging and community cohesion
 
 ## Related Documents
 
