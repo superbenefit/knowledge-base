@@ -4,13 +4,16 @@ This directory contains reference materials and frequently asked questions for t
 
 ## Contents
 
-1. [H.01-glossary.md](notes/ics/ccc/v0.2/H-Reference/H.01-glossary.md)
-   - Definitions of key terms and concepts
+1. [H.01-key-terms.md](notes/ics/ccc/v0.2/H-Reference/H.01-key-terms.md)
+   - Essential terms and naming decisions
 
-2. [H.02-faq.md](notes/ics/ccc/v0.2/H-Reference/H.02-faq.md)
+2. [H.02-glossary.md](notes/ics/ccc/v0.2/H-Reference/H.02-glossary.md)
+   - Comprehensive definitions of all terms
+
+3. [H.03-faq.md](notes/ics/ccc/v0.2/H-Reference/H.03-faq.md)
    - Frequently asked questions and answers
 
-3. [H.03-appendix-resources.md](notes/ics/ccc/v0.2/H-Reference/H.03-appendix-resources.md)
+4. [H.04-appendix-resources.md](notes/ics/ccc/v0.2/H-Reference/H.04-appendix-resources.md)
    - Additional resources and references
 
 ## Purpose

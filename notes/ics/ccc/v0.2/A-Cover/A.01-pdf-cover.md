@@ -1,22 +1,22 @@
 ---
-title: Community Exchange PDF Cover
-description: Cover page for the Community Exchange documentation with overview and context
+title: Community Connection & Commitment Commons PDF Cover
+description: Cover page for the Community Connection & Commitment Commons documentation with overview and context
 author: ICS Team
 tags:
-  - community-exchange
+  - community-connection-commitment-commons
   - documentation
   - cover
 aliases:
-  - CE Cover Page
-  - Community Exchange Cover
+  - C4 Cover Page
+  - Community Connection & Commitment Commons Cover
 publish: "false"
 type: note
 ---
 
-# Community Exchange
+# Community Connection & Commitment Commons (C4)
 ## Connecting Curiosity and Commitment in London
 
-![Community Exchange Logo - Placeholder]
+![Community Connection & Commitment Commons Logo - Placeholder]
 
 *A resource-sharing network inspired by ancient wisdom and modern collaboration*
 
@@ -28,9 +28,9 @@ type: note
 
 ## About This Document
 
-This guide introduces the Community Exchange, a local economic system that combines relationship-building (Connection Circles) with resource sharing (Commitment Pool). It provides a comprehensive blueprint for implementing and participating in this system; the first small-scale, invite-only London pilot is scheduled to launch in Q2 2025.
+This guide introduces the Community Connection & Commitment Commons (C4), a local economic system that combines relationship-building (Connection Commons) with resource sharing (Commitment Commons). It provides a comprehensive blueprint for implementing and participating in this system; the first small-scale, invite-only London pilot is scheduled to launch in Q2 2025.
 
-The Community Exchange creates a space where people can connect through their interests and skills while supporting each other through a structured exchange of services and resources. Unlike conventional economic systems that rely solely on money, the Community Exchange harnesses our community's abundance—our time, skills, knowledge, and resources—creating resilience through mutual support and reciprocity.
+The Community Connection & Commitment Commons creates a space where people can connect through their interests and skills while supporting each other through a structured exchange of services and resources. Unlike conventional economic systems that rely solely on money, the C4 harnesses our community's abundance—our time, skills, knowledge, and resources—creating resilience through mutual support and reciprocity.
 
 This document is intended for:
 - Potential founding members considering participation
@@ -39,13 +39,13 @@ This document is intended for:
 - Community leaders interested in similar models
 - Anyone curious about alternative economic approaches
 
-Inspired by traditional practices like rotating labour systems and modern approaches like commitment pooling, the Community Exchange enables communities to create value without relying solely on scarce cash, build deeper community connections through mutual aid, share skills and resources that might otherwise remain untapped, and foster local resilience in an uncertain economic landscape.
+Inspired by traditional practices like rotating labour systems and modern approaches like commitment pooling, the Community Connection & Commitment Commons enables communities to create value without relying solely on scarce cash, build deeper community connections through mutual aid, share skills and resources that might otherwise remain untapped, and foster local resilience in an uncertain economic landscape.
 
 ## How to Use This Guide
 
 This comprehensive guide is organized into four main sections:
 
-1. **Core Conceptual Framework**: The foundational ideas, principles, and terminology that underpin the Community Exchange
+1. **Core Conceptual Framework**: The foundational ideas, principles, and terminology that underpin the Community Connection & Commitment Commons
    
 2. **Implementation Plan**: Practical details on how the system will be implemented, including onboarding, technology, timeline, governance, and risk management
    
@@ -53,11 +53,11 @@ This comprehensive guide is organized into four main sections:
    
 4. **Growth and Sustainability**: Long-term planning including success metrics, scaling strategy, future possibilities, conflict resolution, and additional resources
 
-You can read this guide sequentially for a complete understanding of the Community Exchange, or reference specific sections as needed for particular aspects of the system.
+You can read this guide sequentially for a complete understanding of the Community Connection & Commitment Commons, or reference specific sections as needed for particular aspects of the system.
 
 ## Join Us!
 
-The Community Exchange is launching with a small pilot group in Q2 2025. If you've received this document, you're invited to be part of this initial community. Together, we'll build a more resilient, connected, and abundant local economy.
+The Community Connection & Commitment Commons is launching with a small pilot group in Q2 2025. If you've received this document, you're invited to be part of this initial community. Together, we'll build a more resilient, connected, and abundant local economy.
 
 For more information, please contact:
 

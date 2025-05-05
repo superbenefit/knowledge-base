@@ -35,7 +35,7 @@ This directory contains detailed how-to guides for participants in the Community
 5. [E.05-inviting-new-members.md](notes/ics/ccc/v0.2/E-Guides/E.05-inviting-new-members.md)
    - Guidelines for introducing new participants to the Exchange
 
-6. [E.06-participating-in-connection-circles.md](notes/ics/ccc/v0.2/E-Guides/E.06-participating-in-connection-circles.md)
+6. [E.06-participating-in-connection-circles.md](notes/ics/ccc/v0.2/E-Guides/E.06-participating-in-connection-commons.md)
    - How to get the most from Connection Circle gatherings
 
 7. [E.07-proposing-community-activities.md](notes/ics/ccc/v0.2/E-Guides/E.07-proposing-community-activities.md)

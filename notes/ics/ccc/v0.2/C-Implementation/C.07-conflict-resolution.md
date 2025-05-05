@@ -1,23 +1,23 @@
 ---
-title: Community Exchange Conflict Resolution Process
-description: Framework for addressing tensions, disagreements, and conflicts within the Community Exchange using a three-tier approach
+title: Community Connection & Commitment Commons Conflict Resolution Process
+description: Framework for addressing tensions, disagreements, and conflicts within the Community Connection & Commitment Commons using a three-tier approach
 author: ICS Team
 tags:
-  - community-exchange
+  - community-connection-commitment-commons
   - conflict-resolution
   - governance
   - mediation
   - community-process
 aliases:
-  - CE Conflict Resolution
+  - C4 Conflict Resolution
   - Dispute Resolution Framework
 publish: "false"
 type: guide
 ---
 
-# Community Exchange: Conflict Resolution Process
+# Community Connection & Commitment Commons: Conflict Resolution Process
 
-This document outlines how we might address tensions, disagreements, and conflicts within the Community Exchange. Please note that this presents one possible approach and that the community will determine appropriate policies and procedures in due course.
+This document outlines how we might address tensions, disagreements, and conflicts within the Community Connection & Commitment Commons. Please note that this presents one possible approach and that the community will determine appropriate policies and procedures in due course.
 
 A healthy community doesn't avoid conflict - it develops thoughtful practices for understanding differences, finding common ground, and strengthening relationships through challenge.
 
@@ -34,7 +34,7 @@ Our approach to conflict resolution is guided by these principles:
 
 ## Three-Tier Approach
 
-The Community Exchange uses a three-tier approach to conflict resolution, with increasing levels of community involvement as needed:
+The Community Connection & Commitment Commons uses a three-tier approach to conflict resolution, with increasing levels of community involvement as needed:
 
 ### Tier 1: Direct Communication with Support
 
@@ -49,11 +49,11 @@ The Community Exchange uses a three-tier approach to conflict resolution, with i
 6. The steward follows up after 2-4 weeks to check if the resolution is working
 
 **Example Scenario**:
-*Maria asked Jayden to help with her garden in exchange for 2 credits. Jayden spent two hours weeding but Maria felt the work wasn't thorough enough. Maria speaks with a steward, who facilitates a conversation where they clarify expectations and agree that Jayden will spend one more hour on specific areas, and Maria will provide clearer guidance about priorities.*
+*Maria asked Jayden to help with her garden in exchange for 2 Commitment Vouchers. Jayden spent two hours weeding but Maria felt the work wasn't thorough enough. Maria speaks with a steward, who facilitates a conversation where they clarify expectations and agree that Jayden will spend one more hour on specific areas, and Maria will provide clearer guidance about priorities.*
 
 ### Tier 2: Steward Panel Review
 
-**For**: Repeated issues, unresolved Tier 1 conflicts, pattern concerns, credit disputes
+**For**: Repeated issues, unresolved Tier 1 conflicts, pattern concerns, Voucher disputes
 
 **Process**:
 1. When Tier 1 resolution doesn't resolve the issue, either party may request a panel review
@@ -82,20 +82,20 @@ The Community Exchange uses a three-tier approach to conflict resolution, with i
 8. The stewardship circle ensures follow-through
 
 **Example Scenario**:
-*A disagreement emerges about whether professional services should be valued at a higher credit rate than other contributions. After several Tier 2 attempts to resolve specific cases, the stewards recognize this as a systemic question. A Community Circle is called where members discuss the values of equality versus recognizing specialized skills. The community decides to maintain equal time-based valuation but create a new category for services requiring expensive equipment or materials.*
+*A disagreement emerges about whether professional services should be valued at a higher Commitment Voucher rate than other contributions. After several Tier 2 attempts to resolve specific cases, the stewards recognize this as a systemic question. A Community Circle is called where members discuss the values of equality versus recognizing specialized skills. The community decides to maintain equal time-based valuation but create a new category for services requiring expensive equipment or materials.*
 
 ## Special Situations
 
-### Credit Disputes
+### Voucher Disputes
 
-When conflicts involve credit exchanges or valuations:
+When conflicts involve Commitment Voucher exchanges or valuations:
 
 1. The initial steward attempts to facilitate agreement between parties
 2. If unresolved, a small panel reviews the exchange details and system precedents
 3. The panel may:
    - Suggest a compromise valuation
-   - Allocate credits from the community resilience fund to resolve the difference
-   - Recommend revised credit valuations for similar future exchanges
+   - Allocate Vouchers from the community resilience fund to resolve the difference
+   - Recommend revised Voucher valuations for similar future exchanges
    - Suggest improved documentation practices to prevent future disputes
 
 ### Unfulfilled Commitments
@@ -106,7 +106,7 @@ When a member fails to fulfill commitments:
 2. A direct conversation between affected parties is facilitated
 3. An alternative fulfillment plan is developed where possible
 4. If a pattern emerges or resolution isn't possible:
-   - The member's credit limit may be temporarily reduced
+   - The member's Voucher limit may be temporarily reduced
    - Future commitments may require additional backing or verification
    - In rare cases, the community may cover the commitment from the resilience fund
 
@@ -126,7 +126,7 @@ In rare cases, membership may need to end:
 
 ### Voluntary Exit
 - Members may choose to leave at any time
-- Exit process includes balancing credits where possible
+- Exit process includes balancing Commitment Vouchers where possible
 - Exit interview to gather feedback
 - Celebration of contributions made
 - Option to return later following standard onboarding
@@ -135,7 +135,7 @@ In rare cases, membership may need to end:
 - Considered only after multiple resolution attempts
 - Requires Tier 3 community process with consensus decision
 - Focus on dignified transition and community learning
-- Credit balancing plan developed
+- Voucher balancing plan developed
 
 ## Prevention Strategies
 
@@ -148,7 +148,7 @@ We prevent many conflicts through:
 - Regular norm-setting discussions
 
 ### Relationship Building
-- Regular Connection Circles focused on deepening understanding
+- Regular Belonging Circles focused on deepening understanding
 - Skill-building in communication and feedback
 - Appreciation practices that strengthen bonds
 - Celebrating successful exchanges and collaborations
@@ -198,7 +198,7 @@ We treat conflicts as learning opportunities by:
 **Approach**: Facilitated conversation to clarify expectations, develop shared standards, and find a middle-ground solution.
 
 ### Scenario 2: Valuation Disagreements
-**Example**: Members disagree about the credit value of a particular service.
+**Example**: Members disagree about the Commitment Voucher value of a particular service.
 **Approach**: Review of similar exchanges, community standards, and facilitated compromise, potentially updating guidelines for future clarity.
 
 ### Scenario 3: Time Constraints
@@ -209,9 +209,9 @@ We treat conflicts as learning opportunities by:
 **Example**: Different communication preferences lead to misunderstandings.
 **Approach**: Education about diverse communication styles, development of explicit agreements about preferred methods, and practice with facilitated conversations.
 
-### Scenario 5: Credit Imbalances
-**Example**: A member reaches their negative credit limit but needs additional services.
-**Approach**: Review of barriers to contribution, development of new ways to contribute, and potential flexibility with temporary credit limit adjustments.
+### Scenario 5: Voucher Imbalances
+**Example**: A member reaches their negative Commitment Voucher limit but needs additional services.
+**Approach**: Review of barriers to contribution, development of new ways to contribute, and potential flexibility with temporary Voucher limit adjustments.
 
 ## Special Resources
 

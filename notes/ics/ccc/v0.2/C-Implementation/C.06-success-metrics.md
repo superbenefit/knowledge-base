@@ -1,9 +1,9 @@
 ---
-title: Community Exchange Success Metrics
-description: Simple framework of five essential metrics to track the health and growth of the Community Exchange system
+title: Community Connection & Commitment Commons Success Metrics
+description: Simple framework of five essential metrics to track the health and growth of the Community Connection & Commitment Commons system
 author: ICS Team
 tags:
-  - community-exchange
+  - community-connection-commitment-commons
   - metrics
   - evaluation
   - success
@@ -14,18 +14,18 @@ publish: "false"
 type: guide
 ---
 
-# Community Exchange: Simplified Success Metrics
+# Community Connection & Commitment Commons: Simplified Success Metrics
 
 We track just 5 essential metrics to keep it simple and focused.
 
 ## 1. Active Participation
 **Are people engaging with the system?**
-- Members using credits OR attending Connection Circles
+- Members using Commitment Vouchers OR attending Belonging Circles
 - Target: 30% actively engaged monthly (realistic for a new system)
 
-## 2. Credit Flow
-**How fast do credits move through the system?**
-- Average days a credit sits before being spent (after being earned)
+## 2. Voucher Flow
+**How fast do Commitment Vouchers move through the system?**
+- Average days a Voucher sits before being spent (after being earned)
 - Target: Less than 30 days on average (faster is better)
 
 ## 3. Request Fulfillment
@@ -51,7 +51,7 @@ We track just 5 essential metrics to keep it simple and focused.
 
 ## Using the Metrics
 
-If we see red flags (like too few active members or slow credit movement), we:
+If we see red flags (like too few active members or slow Voucher movement), we:
 1. Discuss it at the next Steward Circle
 2. Invite member feedback
 3. Make small adjustments

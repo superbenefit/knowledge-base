@@ -1,27 +1,27 @@
 ---
-title: Community Exchange Onboarding Process
-description: Step-by-step guide for bringing new members into the Community Exchange through invitation-only seasonal cohorts
+title: Community Connection & Commitment Commons Onboarding Process
+description: Step-by-step guide for bringing new members into the Community Connection & Commitment Commons through invitation-only seasonal cohorts
 author: ICS Team
 tags:
-  - community-exchange
+  - community-connection-commitment-commons
   - onboarding
   - membership
   - orientation
   - stewardship
 aliases:
-  - CE Onboarding
-  - Community Exchange Membership
+  - C4 Onboarding
+  - Community Connection & Commitment Commons Membership
 publish: "false"
 type: guide
 ---
 
-# Community Exchange: Onboarding Process
+# Community Connection & Commitment Commons: Onboarding Process
 
-This document outlines how new members join the Community Exchange, from invitation through full participation.
+This document outlines how new members join the Community Connection & Commitment Commons, from invitation through full participation.
 
 ## Invitation-Only Membership Model
 
-The Community Exchange uses a closed membership model to ensure trust, alignment with community values, and manageable growth:
+The Community Connection & Commitment Commons uses a closed membership model to ensure trust, alignment with community values, and manageable growth:
 
 - **Initial Members (Q2 2025)**: 20-30 founding members invited to the launch event
 - **Growth Phase (Q3 2025+)**: New members join through seasonal cohorts, invited by existing members
@@ -82,16 +82,16 @@ Following the orientation event, each new member:
 
 Once the initial commitment is established:
 
-1. The member is added to the system ledger with a starting balance of 0 credits
+1. The member is added to the system ledger with a starting balance of 0 Commitment Vouchers
 2. Their commitments are added to the pool and made visible to all members
-3. They receive an invitation to the next Connection Circle gathering
+3. They receive an invitation to the next Belonging Circle gathering
 4. They're added to the communication channel (group email, Signal, etc.)
 
 ### 5. First Exchange
 
 New members are encouraged to:
 
-1. Attend their first Connection Circle within 30 days of joining
+1. Attend their first Belonging Circle within 30 days of joining
 2. Complete their first exchange (giving or receiving) within 60 days
 3. Participate in a cohort check-in meeting after the first month
 
@@ -109,7 +109,7 @@ Instead of individual mentor/mentee pairings, the cohort model provides:
 New members receive:
 
 1. Welcome packet with:
-   - Community Exchange overview document
+   - Community Connection & Commitment Commons overview document
    - Core principles and values
    - Glossary of terms
    - Current member directory (with permission)
@@ -124,7 +124,7 @@ New members receive:
 Beyond initial onboarding:
 
 - Quarterly cohort integration check-ins
-- Regular Connection Circles for relationship-building
+- Regular Belonging Circles for relationship-building
 - Seasonal community celebrations to strengthen ties
 - Annual renewal conversation
 
@@ -133,7 +133,7 @@ Beyond initial onboarding:
 If a member chooses to leave:
 
 1. They notify a steward of their intention to depart
-2. They work to balance their credit account (aim for 0 credits)
+2. They work to balance their Commitment Voucher account (aim for 0 Vouchers)
 3. They complete any outstanding commitments or find replacements
 4. Their member status becomes "inactive" but their contribution history is preserved
 5. They're invited to a brief exit conversation to share feedback

@@ -1,14 +1,14 @@
-# Community Exchange Implementation: Index
+# Community Connection & Commitment Commons Implementation: Index
 
-This directory contains the practical documents that detail how to set up and operate the Community Exchange system.
+This directory contains the practical documents that detail how to set up and operate the Community Connection & Commitment Commons system.
 
 ## Contents
 
 1. [C.01-onboarding-process.md](notes/ics/ccc/v0.2/C-Implementation/C.01-onboarding-process.md)
-   - Process for bringing new members into the Community Exchange
+   - Process for bringing new members into the Community Connection & Commitment Commons
 
 2. [C.02-implementation-timeline.md](notes/ics/ccc/v0.2/C-Implementation/C.02-implementation-timeline.md)
-   - Phased approach to implementing the Community Exchange system
+   - Phased approach to implementing the Community Connection & Commitment Commons system
 
 3. [C.03-governance-structure.md](notes/ics/ccc/v0.2/C-Implementation/C.03-governance-structure.md)
    - Decision-making processes, roles, and responsibilities within the system
@@ -20,13 +20,13 @@ This directory contains the practical documents that detail how to set up and op
    - Potential challenges and strategies for addressing them
 
 6. [C.06-success-metrics.md](notes/ics/ccc/v0.2/C-Implementation/C.06-success-metrics.md)
-   - Measurable indicators for evaluating the success of the Community Exchange
+   - Measurable indicators for evaluating the success of the Community Connection & Commitment Commons
 
 7. [C.07-conflict-resolution.md](notes/ics/ccc/v0.2/C-Implementation/C.07-conflict-resolution.md)
-   - Processes for addressing conflicts and disputes within the Community Exchange
+   - Processes for addressing conflicts and disputes within the Community Connection & Commitment Commons
 
 ## Purpose
 
-These documents provide the practical guidance needed to implement the Community Exchange system. They cover everything from bringing in new members to setting up governance structures and technology solutions.
+These documents provide the practical guidance needed to implement the Community Connection & Commitment Commons system. They cover everything from bringing in new members to setting up governance structures and technology solutions.
 
-These implementation documents should be used as a roadmap for establishing and operating the Community Exchange.
+These implementation documents should be used as a roadmap for establishing and operating the Community Connection & Commitment Commons.

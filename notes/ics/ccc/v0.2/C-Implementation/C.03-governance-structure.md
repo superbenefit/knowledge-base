@@ -1,27 +1,27 @@
 ---
-title: Community Exchange Governance Structure
-description: Framework for stewardship roles, decision-making processes, and community governance within the Community Exchange system
+title: Community Connection & Commitment Commons Governance Structure
+description: Framework for stewardship roles, decision-making processes, and community governance within the Community Connection & Commitment Commons system
 author: ICS Team
 tags:
-  - community-exchange
+  - community-connection-commitment-commons
   - governance
   - stewardship
   - decision-making
   - management
 aliases:
-  - CE Governance
+  - C4 Governance
   - Stewardship Structure
 publish: "false"
 type: guide
 ---
 
-# Community Exchange: Governance Structure
+# Community Connection & Commitment Commons: Governance Structure
 
-This document outlines how decisions are made, who makes them, and the responsibilities of various roles within the Community Exchange system. The governance structure is designed to evolve as the system grows, starting with a lightweight approach for the pilot phase and evolving toward greater decentralization over time.
+This document outlines how decisions are made, who makes them, and the responsibilities of various roles within the Community Connection & Commitment Commons system. The governance structure is designed to evolve as the system grows, starting with a lightweight approach for the pilot phase and evolving toward greater decentralization over time.
 
 ## Core Principles of Governance
 
-The Community Exchange is governed according to these principles:
+The Community Connection & Commitment Commons is governed according to these principles:
 
 1. **Distributed Leadership**: Authority and responsibility are shared rather than concentrated, with power distributed across the community
 2. **Consent-Based Decision Making**: We seek consent (absence of objections) rather than consensus (everyone agrees)
@@ -38,7 +38,7 @@ During the initial pilot phase, governance will remain lightweight while establi
 
 ### Organizational Structure
 
-The Community Exchange operates as a network that coordinates through shared protocols:
+The Community Connection & Commitment Commons operates as a network that coordinates through shared protocols:
 
 1. **Stewardship Circle** (3-5 members initially)
    - Maintains the core infrastructure and processes
@@ -76,7 +76,7 @@ The Community Exchange operates as a network that coordinates through shared pro
 #### Responsibilities
 1. **System Maintenance**:
    - Managing the ledger system
-   - Tracking credits and exchanges
+   - Tracking Commitment Vouchers and exchanges
    - Ensuring system integrity
    - Monitoring system health
 
@@ -87,7 +87,7 @@ The Community Exchange operates as a network that coordinates through shared pro
    - Addressing questions and concerns
 
 3. **Community Building**:
-   - Organizing Connection Circle gatherings
+   - Organizing Belonging Circle gatherings
    - Facilitating community celebrations
    - Ensuring inclusive participation
    - Maintaining communication channels
@@ -153,7 +153,7 @@ Certain decisions require input from all members:
 
 ### Decision Categories
 1. **Major System Changes**:
-   - Significant changes to credit policies
+   - Significant changes to Commitment Voucher policies
    - Technology platform changes
    - Fundamental purpose or direction shifts
 
@@ -181,7 +181,7 @@ Certain decisions require input from all members:
 
 ## System Roles and Responsibilities
 
-The Community Exchange requires various functions to operate effectively. Rather than assigning fixed roles to specific individuals, the Stewardship Circle will collectively ensure these responsibilities are met through self-organization and emergent patterns.
+The Community Connection & Commitment Commons requires various functions to operate effectively. Rather than assigning fixed roles to specific individuals, the Stewardship Circle will collectively ensure these responsibilities are met through self-organization and emergent patterns.
 
 ### Key System Functions
 
@@ -189,7 +189,7 @@ These functions represent areas of responsibility that need attention, but how t
 
 #### System Maintenance
 - Managing the ledger system
-- Tracking credits and exchanges
+- Tracking Commitment Vouchers and exchanges
 - Ensuring system integrity
 - Monitoring system health
 
@@ -200,7 +200,7 @@ These functions represent areas of responsibility that need attention, but how t
 - Addressing questions and concerns
 
 #### Community Building
-- Organizing Connection Circle gatherings
+- Organizing Belonging Circle gatherings
 - Facilitating community celebrations
 - Ensuring inclusive participation
 - Maintaining communication channels
@@ -252,8 +252,8 @@ See separate "Conflict Resolution Process" document for detailed procedures.
 
 ## Compensation
 
-- Stewards may receive credits for their service (e.g., 2 credits/month)
-- Working Group members may receive credits for substantial contributions
+- Stewards may receive Commitment Vouchers for their service (e.g., 2 Vouchers/month)
+- Working Group members may receive Commitment Vouchers for substantial contributions
 - All compensation is transparent and recorded in the ledger
 
 ## Evolution of Governance

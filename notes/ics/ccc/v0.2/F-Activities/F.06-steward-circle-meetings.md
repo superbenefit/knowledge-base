@@ -122,13 +122,11 @@ The Steward Circle is the caretaking body of the Community Exchange, responsible
 
 ## Decision-Making Process
 - Consensus-seeking for most decisions
-- Fallback to super-majority (75%) when necessary
 - Clear documentation of the reasoning behind decisions
 - Transparency to the community about significant decisions
 
 ## Credit Earning
-- Stewards earn 2 credits per month for their service
-- This flat rate recognizes the ongoing commitment rather than tracking individual meeting attendance
+- Stewards might earn (for example) 2 credits per month for their service. This flat rate recognizes the ongoing commitment rather than tracking individual meeting attendance
 - Additional credits may be earned for specific projects or tasks beyond regular steward duties
 
 ## Documentation and Transparency
@@ -138,10 +136,9 @@ The Steward Circle is the caretaking body of the Community Exchange, responsible
 - Annual review of steward activities is presented at the Jubilee
 
 ## Steward Selection and Rotation
-- Stewards serve staggered one-year terms
 - New stewards are selected through community nomination and consensus
 - Effort is made to ensure diversity of perspectives, skills, and demographics
-- Outgoing stewards mentor incoming stewards for one month
+- Further details regarding steward selection, term limits, and responsibilities are to be determined by the community
 
 ## Adaptations
 

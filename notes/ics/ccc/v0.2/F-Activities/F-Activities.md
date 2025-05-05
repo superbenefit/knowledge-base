@@ -4,7 +4,7 @@ This directory contains detailed information about the essential activities and 
 
 ## Core Commitment Pool Activities
 
-1. [F.01-connection-circles.md](notes/ics/ccc/v0.2/F-Activities/F.01-connection-circles.md)
+1. [F.01-connection-circles.md](notes/ics/ccc/v0.2/F-Activities/F.01-connection-commons.md)
    - Monthly gatherings that build relationships, identify needs and offerings, and spark new exchanges
 
 2. [F.02-celebrations-and-reviews.md](notes/ics/ccc/v0.2/F-Activities/F.02-celebrations-and-reviews.md)
@@ -25,11 +25,11 @@ This directory contains detailed information about the essential activities and 
 7. [F.07-commitment-showcase.md](notes/ics/ccc/v0.2/F-Activities/F.07-commitment-showcase.md)
    - Online presentations highlighting available commitments and inspiring new offerings
 
-8. [README.md](notes/ics/ccc/v0.2/F-Activities/README.md)
-   - Overview of Community Exchange activties and their purposes
-
-9. [F.09-community-exchange-launch-may7.md](notes/ics/ccc/v0.2/F-Activities/F.09-community-exchange-launch-may7.md)
+8. [F.08-community-exchange-launch-may7.md](notes/ics/ccc/v0.2/F-Activities/F.08-community-exchange-launch-may7.md)
    - Specific planning and details for the May 7th 2025 launch event
+
+9. [README.md](notes/ics/ccc/v0.2/F-Activities/README.md)
+   - Overview of Community Exchange activties and their purposes
 
 ## Implementation Note
 

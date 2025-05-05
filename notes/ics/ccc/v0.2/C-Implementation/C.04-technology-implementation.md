@@ -1,9 +1,9 @@
 ---
-title: Community Exchange Technology Implementation Plan
-description: Phased approach to implementing technology systems for the Community Exchange, from Google Sheets to Sarafu.Network
+title: Community Connection & Commitment Commons Technology Implementation Plan
+description: Phased approach to implementing technology systems for the Community Connection & Commitment Commons, from Google Sheets to Sarafu.Network
 author: ICS Team
 tags:
-  - community-exchange
+  - community-connection-commitment-commons
   - technology
   - implementation
   - sarafu
@@ -14,9 +14,9 @@ publish: "false"
 type: plan
 ---
 
-# Community Exchange: Technology Implementation Plan
+# Community Connection & Commitment Commons: Technology Implementation Plan
 
-This document outlines our phased approach to implementing and transitioning technology systems for the Community Exchange.
+This document outlines our phased approach to implementing and transitioning technology systems for the Community Connection & Commitment Commons.
 
 ## Technology Vision
 
@@ -37,7 +37,7 @@ Our technology should:
   - Member Directory (names, contact info, skills)
   - Commitment Catalog (all available offerings)
   - Transaction Ledger (record of all exchanges)
-  - Credit Balances (current standing of all members)
+  - Commitment Voucher Balances (current standing of all members)
   - System Metrics (key statistics for monitoring health)
 
 #### Access & Permissions
@@ -53,7 +53,7 @@ Our technology should:
 #### Operations
 1. **Recording Transactions**:
    - Members report completed exchanges to stewards via form or email
-   - Stewards update the Transaction Ledger and Credit Balances
+   - Stewards update the Transaction Ledger and Commitment Voucher Balances
    - Weekly reconciliation and verification
 
 2. **Commitment Management**:
@@ -62,8 +62,8 @@ Our technology should:
    - Expired or fulfilled commitments marked accordingly
 
 3. **Status Tracking**:
-   - Color coding for credit balances approaching limits
-   - Automated highlighting of credits approaching expiration (3-month mark)
+   - Color coding for Voucher balances approaching limits
+   - Automated highlighting of Vouchers approaching expiration (3-month mark)
    - Monthly reports generated for transparency
 
 #### Benefits

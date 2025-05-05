@@ -1,9 +1,9 @@
 ---
-title: Community Exchange Risks and Mitigation Strategies
-description: Comprehensive risk assessment and mitigation strategies for the Community Exchange system, informed by global examples
+title: Community Connection & Commitment Commons Risks and Mitigation Strategies
+description: Comprehensive risk assessment and mitigation strategies for the Community Connection & Commitment Commons system, informed by global examples
 author: ICS Team
 tags:
-  - community-exchange
+  - community-connection-commitment-commons
   - risk-management
   - mitigation
   - strategy
@@ -14,53 +14,53 @@ publish: "false"
 type: guide
 ---
 
-# Community Exchange: Risks and Mitigation Strategies
+# Community Connection & Commitment Commons: Risks and Mitigation Strategies
 
 **Note on Content Creation:** This risk assessment combines AI-assisted research on global community currency systems with careful curation and adaptation for the London, Ontario context. While AI tools helped identify patterns from international examples, all content has been reviewed, modified, and contextualized by the ICS team for local relevance and accuracy.
 
-This document identifies potential risks to the Community Exchange system and outlines strategies to address them, informed by experiences from similar initiatives around the world.
+This document identifies potential risks to the Community Connection & Commitment Commons system and outlines strategies to address them, informed by experiences from similar initiatives around the world.
 
-## Credit System Risks
+## Commitment Voucher System Risks
 
-### Risk: Credit Hoarding
-**Description**: Members accumulate credits without spending them, reducing circulation in the system. However, in mutual credit systems, this is often beneficial as it removes supply from circulation and prevents system overload.
+### Risk: Commitment Voucher Hoarding
+**Description**: Members accumulate Vouchers without spending them, reducing circulation in the system. However, in mutual credit systems, this is often beneficial as it removes supply from circulation and prevents system overload.
 
 *Understanding Mutual Credit vs Traditional Finance:*
 - In traditional finance, hoarding creates scarcity and slows the economy
 - In mutual credit systems, hoarding provides "breathing room" by reducing immediate service demands
-- Credits represent unfulfilled commitments, so holding credits delays (but doesn't eliminate) service obligations
+- Commitment Vouchers represent unfulfilled commitments, so holding Vouchers delays (but doesn't eliminate) service obligations
 - This creates a natural buffer that prevents system overwhelm when many people try to redeem services at once
 
 **Mitigation Strategies**:
-- **Credit Expiration**: Credits expire after 3 months of inactivity  
+- **Commitment Voucher Expiration**: Vouchers expire after 3 months of inactivity  
   *Note: This fixed expiration period is for the pilot phase only, chosen for ease of tracking in Google Sheets. Future versions may implement more sophisticated decay mechanisms like half-life demurrage.*
-- **Holding Limits**: Maximum 10 credits per member (optional, secondary to issuance limits)
+- **Holding Limits**: Maximum 10 Commitment Vouchers per member (optional, secondary to issuance limits)
 - **Encouragement**: Regular reminders about available offerings
-- **Matchmaking**: Stewards actively connect members with credits to relevant offerings
+- **Matchmaking**: Stewards actively connect members with Vouchers to relevant offerings
 - **Celebration**: Highlight active exchanges in community gatherings
 
-**Example from Practice**: The Dane County TimeBank in Wisconsin implemented a similar credit expiration policy, resulting in a 30% increase in exchanges within the first month.
+**Example from Practice**: The Dane County TimeBank in Wisconsin implemented a similar Voucher expiration policy, resulting in a 30% increase in exchanges within the first month.
 
-### Risk: Credit Deficit (Members Leaving with Negative Balance)
+### Risk: Commitment Voucher Deficit (Members Leaving with Negative Balance)
 **Description**: Members take value from the system and leave without contributing back.
 
 **Mitigation Strategies**:
-- **Issuance Limit**: Maximum -10 credit balance (primary constraint to prevent over-promising)
+- **Issuance Limit**: Maximum -10 Commitment Voucher balance (primary constraint to prevent over-promising)
 - **Trust Building**: Invitation-only membership creates accountability
-- **Exit Protocol**: Process requires fulfillment of all issued credits (negative balances) before departing
+- **Exit Protocol**: Process requires fulfillment of all issued Vouchers (negative balances) before departing
   - Members may keep positive balances upon exit
-  - Unfulfilled negative balances harm other members by creating worthless credits
-- **Bounded Risk**: System-wide impact is limited by individual credit limits
+  - Unfulfilled negative balances harm other members by creating worthless Vouchers
+- **Bounded Risk**: System-wide impact is limited by individual Voucher limits
 - **Regular Review**: Monthly monitoring of balances approaching limits
 
 **Example from Practice**: The Lewes Pound in the UK had several instances of members leaving with negative balances. Their closed-loop system and limit on negative balances ensured these losses were absorbed without threatening the overall system.
 
 ### Risk: Inflation/Devaluation
-**Description**: Credits lose perceived value if there's insufficient real value backing them.
+**Description**: Commitment Vouchers lose perceived value if there's insufficient real value backing them.
 
 **Mitigation Strategies**:
 - **Quality Standards**: Expectations for the quality of offerings
-- **Value Guidelines**: Clear guidance on appropriate credit valuation
+- **Value Guidelines**: Clear guidance on appropriate Voucher valuation
 - **Feedback System**: Way for members to provide feedback on exchanges
 - **Community Discussion**: Regular review of valuation standards
 - **Adjustment Mechanism**: Process for addressing systematic valuation issues
@@ -76,7 +76,7 @@ This document identifies potential risks to the Community Exchange system and ou
 - **Regular Reminders**: Gentle prompts about participation
 - **Diversity of Offerings**: Ensure wide range of commitment types
 - **Skill Building**: Workshops to help members identify what they can offer
-- **Connection Circles**: Regular opportunities to surface needs and offerings
+- **Belonging Circle**: Regular opportunities to surface needs and offerings
 - **Recognition**: Celebrate different forms of participation
 
 **Example from Practice**: The hOurworld timebank network found that quarterly "recommitment" gatherings where members publicly share what they can offer dramatically increased participation rates.
@@ -120,7 +120,7 @@ This document identifies potential risks to the Community Exchange system and ou
 **Example from Practice**: The Zurich-based mutual aid network TAUSCHERIA maintains both digital and paper-based recording systems, allowing members to choose their preferred method without exclusion.
 
 ### Risk: Data Loss or Corruption
-**Description**: Transaction history or credit balances are lost or corrupted.
+**Description**: Transaction history or Commitment Voucher balances are lost or corrupted.
 
 **Mitigation Strategies**:
 - **Regular Backups**: Weekly export of all system data
@@ -141,7 +141,7 @@ This document identifies potential risks to the Community Exchange system and ou
 - **Feedback System**: Way for members to rate exchanges
 - **Dispute Resolution**: Process for addressing issues
 - **Skillsharing**: Support for members to improve their offerings
-- **Appropriate Valuation**: Ensure credits reflect quality and skill level
+- **Appropriate Valuation**: Ensure Commitment Vouchers reflect quality and skill level
 
 **Example from Practice**: The Helsinki Timebank implemented a simple "fulfilled as expected" feedback system that helped maintain quality while still honoring different skill levels.
 
@@ -187,7 +187,7 @@ This document identifies potential risks to the Community Exchange system and ou
 **Description**: System works well small but faces difficulties as it grows.
 
 **Mitigation Strategies**:
-- **Federation Model**: Create multiple connected circles rather than one large system
+- **Ecosystem Model**: Create multiple connected circles rather than one large system
 - **Clear Boundaries**: Define optimal size for each circle
 - **Inter-Circle Protocols**: Establish how circles connect and exchange
 - **Graduated Growth**: Controlled expansion phases

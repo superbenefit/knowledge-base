@@ -1,6 +1,6 @@
 ---
 title: Sarafu.Network Technical Appendix
-description: Technical considerations, limitations, and workarounds for using Sarafu.Network as the digital infrastructure for Community Exchange
+description: Technical considerations, limitations, and workarounds for using Sarafu.Network as the digital infrastructure for Community Connection & Commitment Commons
 author: ICS Team
 tags:
   - sarafu
@@ -17,7 +17,7 @@ type: technical
 
 # Sarafu.Network Technical Appendix
 
-This appendix outlines technical considerations when implementing Community Exchange on Sarafu.Network, including platform limitations and potential workarounds.
+This appendix outlines technical considerations when implementing Community Connection & Commitment Commons on Sarafu.Network, including platform limitations and potential workarounds.
 
 ## Current Platform Limitations
 
@@ -28,29 +28,29 @@ This appendix outlines technical considerations when implementing Community Exch
 - **Future Solution**: Fork and modify Sarafu code or implement custom UI solution
 
 ### 2. Transaction Fees
-- **Current**: Only charges fees on swaps between different credit types within a pool
-- **Our Preference**: Per-transaction fees on credit exchanges
+- **Current**: Only charges fees on swaps between different Commitment Voucher types within a pool
+- **Our Preference**: Per-transaction fees on Voucher exchanges
 - **Workaround**: Design pool structure to create swap opportunities that trigger fees
 - **Future Solution**: Implement custom smart contract for desired fee structure
 
 ### 3. Partial Balance Swaps
-- **Current**: Cannot swap entire balance at once; must specify exact credit pairs
-- **Impact**: Multiple transactions needed if holding various credit types
-- **Example**: Swapping tomato, carrot, and potato credits requires three separate transactions
+- **Current**: Cannot swap entire balance at once; must specify exact Voucher pairs
+- **Impact**: Multiple transactions needed if holding various Voucher types
+- **Example**: Swapping tomato, carrot, and potato Vouchers requires three separate transactions
 - **Workaround**: Educate users on batching transactions; consider UI improvements
 - **Future Solution**: Develop all-balance swap function in custom interface
 
 ### 4. Decay Rate Standardization
-- **Current**: Each credit type can have different decay rates
-- **Our Preference**: Uniform decay rate across all credits in a pool
+- **Current**: Each Commitment Voucher type can have different decay rates
+- **Our Preference**: Uniform decay rate across all Vouchers in a pool
 - **Status**: Currently no way to lock standardized rates across the network
 - **Workaround**: Manual governance policies to maintain consistent rates
 - **Future Solution**: Fork Sarafu to implement locked standardization or develop UI controls
 
 ## Implementation Workarounds
 
-### Credit Limits Management
-Since Sarafu has flexibility in credit issuance:
+### Commitment Voucher Limits Management
+Since Sarafu has flexibility in Voucher issuance:
 - **Issuance Tracking**: Implement separate tracking system to monitor member issuance
 - **Balance Monitoring**: Use custom alerts for tracking balance limits
 - **Governance Layer**: Manual review of issuance levels until automated solutions available

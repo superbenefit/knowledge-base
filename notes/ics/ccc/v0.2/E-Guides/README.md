@@ -19,7 +19,7 @@ This directory contains step-by-step guides for using the Community Exchange sys
 5. [E.05-inviting-new-members.md](notes/ics/ccc/v0.2/E-Guides/E.05-inviting-new-members.md)
    - How to invite others to join the Community Exchange
 
-6. [E.06-participating-in-connection-circles.md](notes/ics/ccc/v0.2/E-Guides/E.06-participating-in-connection-circles.md)
+6. [E.06-participating-in-connection-circles.md](notes/ics/ccc/v0.2/E-Guides/E.06-participating-in-connection-commons.md)
    - How to engage with Connection Circles
 
 7. [E.07-proposing-community-activities.md](notes/ics/ccc/v0.2/E-Guides/E.07-proposing-community-activities.md)
