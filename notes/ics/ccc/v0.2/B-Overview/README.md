@@ -1,4 +1,4 @@
-# Community Exchange Overview: Index
+# Community Exchange: Overview Materials
 
 This directory contains the foundational documents that explain the Community Exchange concept, vision, and guiding principles.
 
@@ -21,6 +21,10 @@ This directory contains the foundational documents that explain the Community Ex
 
 ## Purpose
 
-These documents provide the foundational understanding of the Community Exchange concept. They explain what the system is, why it matters, how it works, and the values that guide its development and operation. 
+These documents provide the foundational understanding of the Community Exchange concept. They explain what the system is, why it matters, how it works, and the values that guide its development and operation.
 
 These overview documents should be read first by anyone seeking to understand or implement the Community Exchange system.
+
+## Index File
+
+The full index for this section is in [B-Overview.md](notes/ics/ccc/v0.2/B-Overview/B-Overview.md).

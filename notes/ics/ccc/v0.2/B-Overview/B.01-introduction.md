@@ -1,3 +1,20 @@
+---
+title: Community Exchange Introduction
+description: Introduction to the Community Exchange system combining Connection Circles and Commitment Pool to create a local economic network
+author: ICS Team
+tags:
+  - community-exchange
+  - introduction
+  - overview
+  - connection-circles
+  - commitment-pool
+aliases:
+  - CE Introduction
+  - Community Exchange Overview
+publish: "false"
+type: note
+---
+
 # Community Exchange: Connecting Curiosity and Commitment in London
 
 ## Introduction

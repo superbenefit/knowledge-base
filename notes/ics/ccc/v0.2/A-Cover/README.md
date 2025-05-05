@@ -1,4 +1,4 @@
-# Community Exchange: Cover Documents Index
+# Community Exchange: Cover Documents
 
 This directory contains the cover materials and table of contents for the Community Exchange documentation.
 
@@ -13,3 +13,7 @@ This directory contains the cover materials and table of contents for the Commun
 ## Purpose
 
 These documents provide the visual identity and navigational structure for the Community Exchange documentation. They help readers understand the organization of the material and find specific information quickly.
+
+## Index File
+
+The full index for this section is in [A-Cover.md](notes/ics/ccc/v0.2/A-Cover/A-Cover.md).

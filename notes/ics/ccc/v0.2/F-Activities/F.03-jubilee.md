@@ -1,3 +1,19 @@
+---
+title: Annual Jubilee Activity Guide
+description: Guide for facilitating the annual community-wide celebration and debt clearing ceremony
+author: ICS Team
+tags:
+  - community-exchange
+  - jubilee
+  - celebrations
+  - debt-clearing
+aliases:
+  - Annual Jubilee Guide
+  - Community Jubilee
+publish: "false"
+type: activity
+---
+
 # Annual Jubilee
 
 ## Purpose

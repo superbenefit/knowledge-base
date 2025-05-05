@@ -1,31 +1,47 @@
+---
+title: Community Exchange How-To Guides Index
+description: Directory of practical guides for participants in the Community Exchange system
+author: ICS Team
+tags:
+  - community-exchange
+  - guides
+  - how-to
+  - index
+aliases:
+  - User Guides
+  - How-To Directory
+publish: "false"
+type: index
+---
+
 # How To Guides: Index
 
 This directory contains detailed how-to guides for participants in the Community Exchange, helping members navigate the system effectively.
 
 ## Member Participation Guides
 
-1. [E.01-adding_commitments.md](./E.01-adding_commitments.md)
+1. [E.01-adding-commitments.md](notes/ics/ccc/v0.2/E-Guides/E.01-adding-commitments.md)
    - Step-by-step instructions for creating and adding commitments to the pool
 
-2. [E.02-requesting_from_pool.md](./E.02-requesting_from_pool.md)
+2. [E.02-requesting-from-pool.md](notes/ics/ccc/v0.2/E-Guides/E.02-requesting-from-pool.md)
    - How to browse available commitments and request exchanges
 
-3. [E.03-tracking_credit_balance.md](./E.03-tracking_credit_balance.md)
+3. [E.03-tracking-credit-balance.md](notes/ics/ccc/v0.2/E-Guides/E.03-tracking-credit-balance.md)
    - Understanding your credit and debt balance within the system
 
-4. [E.04-handling_exchange_issues.md](./E.04-handling_exchange_issues.md)
+4. [E.04-handling-exchange-issues.md](notes/ics/ccc/v0.2/E-Guides/E.04-handling-exchange-issues.md)
    - Protocols for when exchanges don't go as planned or need adjustment
 
-5. [E.05-inviting_new_members.md](./E.05-inviting_new_members.md)
+5. [E.05-inviting-new-members.md](notes/ics/ccc/v0.2/E-Guides/E.05-inviting-new-members.md)
    - Guidelines for introducing new participants to the Exchange
 
-6. [E.06-participating_in_connection_circles.md](./E.06-participating_in_connection_circles.md)
+6. [E.06-participating-in-connection-circles.md](notes/ics/ccc/v0.2/E-Guides/E.06-participating-in-connection-circles.md)
    - How to get the most from Connection Circle gatherings
 
-7. [E.07-proposing_community_activities.md](./E.07-proposing_community_activities.md)
+7. [E.07-proposing-community-activities.md](notes/ics/ccc/v0.2/E-Guides/E.07-proposing-community-activities.md)
    - Process for suggesting and organizing community events
 
-8. [E.08-using_technology_tools.md](./E.08-using_technology_tools.md)
+8. [E.08-using-technology-tools.md](notes/ics/ccc/v0.2/E-Guides/E.08-using-technology-tools.md)
    - Navigating both simple and advanced technology options
 
 ## Using These Guides
