@@ -1,25 +1,8 @@
----
-title: Impact Yield Fund Overview
-description: Overview of the Impact Yield Fund project structure, components, and connection to Community Exchange
-author: ICS Team
-tags:
-  - community-connection-commitment-commons
-  - impact-yield-fund
-  - social-finance
-  - overview
-  - project-definition
-aliases:
-  - IYF Overview
-  - Fund Overview
-publish: "false"
-type: note
----
-
 # Impact Yield Fund Overview
 
 ## Project Definition
 
-The Impact Yield Fund (IYF) is a novel financial structure that preserves capital while generating sustainable returns for investors and continuous support for community initiatives. By connecting stable yield generation with community exchange pools, we create a multiplier effect where each dollar generates 5-10x its value in local economic activity.
+The Impact Yield Fund (IYF) is a novel financial structure that preserves capital while generating sustainable returns for investors and continuous support for community initiatives. The fund directs excess yield from secure DeFi protocols to support impactful social and environmental projects.
 
 ## Key Documents
 
@@ -34,26 +17,25 @@ This directory contains the following resources for understanding and implementi
 
 ## Discussion Paper Development
 
-The next major milestone is developing a comprehensive discussion paper (5-7 pages) that articulates:
-- What an Impact Yield Fund is and how it works
+The next major milestone is developing a comprehensive discussion paper (7-8 pages) that articulates:
+- What an Impact Yield Fund is and how it works (6 pages)
 - The compelling case for this approach at this moment
 - Benefits for all stakeholders
 - Technical implementation details
 - Risk analysis and mitigation strategies
 - Pilot implementation plan
-- Integration with Community Exchange
-- Clear next steps for interested partners
+- Potential application with Community Exchange (1 page max)
+- Clear next steps for interested partners (0.5 page)
 
-## Connection to Community Exchange
+## Potential Applications
 
-While the Impact Yield Fund and Community Exchange Commitment Pools are distinct projects that can be pursued independently, they have significant synergistic potential:
+The Impact Yield Fund is designed to support various types of social impact initiatives. One possible application (to be discussed briefly at the end of the paper) is supporting Community Exchange Commitment Pools. Other potential applications include:
 
-1. **Yield Allocation**: The excess yield from the fund can seed community exchange pools
-2. **Multiplier Effect**: Each dollar of yield supports 5-10x its value in community exchange commitments
-3. **Cumulative Growth**: Year-over-year yield allocation creates growing capacity for exchanges
-4. **Impact Measurement**: On-chain attestations from exchanges provide verification for the fund
-
-This complementary relationship creates a virtuous cycle where financial returns generate social impact that can be transparently tracked and measured.
+1. **Environmental Restoration**: Funding habitat restoration and conservation
+2. **Social Enterprise**: Supporting impact-focused businesses
+3. **Education**: Funding scholarships and educational programs
+4. **Food Security**: Supporting sustainable agriculture initiatives
+5. **Digital Commons**: Maintaining open-source infrastructure
 
 ## Current Status
 

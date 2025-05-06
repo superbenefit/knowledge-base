@@ -92,3 +92,20 @@ Community Exchange Systems operate worldwide. Examples include:
 - Banco Palmas in Brazil
 - WIR Bank in Switzerland
 - BerkShares in Massachusetts, USA
+
+## Historical & Theoretical Context
+
+### What is Grassroots Economics?
+Grassroots Economics is both a non-profit foundation based in Kenya and a field of study focused on resource coordination protocols that emerge naturally from communities. The foundation has developed the Sarafu Network, supporting community networks across East Africa through digital tools for commitment pooling. The term also refers to economic systems built from the ground up by communities themselves, often rediscovering and adapting ancestral practices for resource sharing and mutual support.
+
+### Who is Will Ruddick?
+Will Ruddick is the founder of Grassroots Economics Foundation and author of "Grassroots Economics: Reflection and Practice." His work documents ancient resource coordination practices found across human cultures and demonstrates how these can be adapted for modern communities. Living among the Mijikenda people in coastal Kenya, Ruddick has helped revive and digitize traditional resource pooling systems like Mweria, creating technological platforms that support community resilience and sovereignty.
+
+### What is Mweria?
+Mweria is a traditional Mijikenda (Kenya) practice of rotational labor where community members collectively work on each other's projects in turn—for example, helping each family build a granary, till fields, or repair a house. Each member takes a turn receiving support, then contributes to other members' projects. This ancient system requires no money, but rather coordinates resources through commitment and reciprocity. Similar practices exist worldwide under different names.
+
+### What is a Rotating Labor Association (ROLA)?
+A Rotating Labor Association (ROLA) is a community practice found worldwide where members take turns providing labor for each other's projects. ROLAs have existed for thousands of years across cultures, known by different names: Mweria in Kenya, Meitheal in Ireland, Golong Royong in Indonesia, Tequio in Mexico, and many more. These systems enable communities to accomplish large projects collectively without money changing hands. The Community Connection & Commitment Commons builds on these traditions, adapting them to our modern context.
+
+### What is a Rotating Savings and Credit Association (ROSCA)?
+A Rotating Savings and Credit Association (ROSCA) is a traditional community financial system where members make regular contributions to a shared fund, which is given to each member in rotation. Unlike ROLAs which pool labor, ROSCAs pool money—but both operate on principles of trust, commitment, and reciprocity. During colonization, many ROLAs were monetized and converted into ROSCAs. While our system doesn't use the exact ROSCA model, we acknowledge this history and draw inspiration from the underlying principles of community-controlled resource coordination.

@@ -1,20 +1,3 @@
----
-title: Impact Yield Fund Discussion Paper Outline
-description: Structure for a comprehensive discussion paper on the Impact Yield Fund concept intended for foundation executives and potential funding partners
-author: ICS Team
-tags:
-  - community-connection-commitment-commons
-  - impact-yield-fund
-  - discussion-paper
-  - outline
-  - funding
-aliases:
-  - IYF Discussion Paper
-  - Fund Presentation Outline
-publish: "false"
-type: template
----
-
 # Impact Yield Fund: Discussion Paper Outline
 
 This document outlines the structure for a comprehensive discussion paper on the Impact Yield Fund concept. The paper is intended for executives at foundations and potential funding partners who are interested in innovative funding mechanisms with measurable impact.
@@ -26,8 +9,11 @@ This document outlines the structure for a comprehensive discussion paper on the
 - Organizations like Boann Finance
 
 ## Document Length
-- 5-7 pages (condensed version)
+- 7-8 pages total
 - Executive summary: 1 page
+- Main content: 6 pages
+- Optional application with C4: 1 page max
+- Conclusion/next steps: 0.5 page
 
 ## Document Structure
 
@@ -49,7 +35,7 @@ This document outlines the structure for a comprehensive discussion paper on the
 - Growing interest in regenerative economics
 - Rising demand for measurable social returns
 
-### 4. Benefits for Stakeholders (1 page)
+### 4. Benefits for Stakeholders (1-1.5 pages)
 - **For Investors:**
   - Capital preservation
   - Predictable returns (4-6%)
@@ -76,7 +62,7 @@ This document outlines the structure for a comprehensive discussion paper on the
 - Governance mechanisms
 - Impact measurement infrastructure
 
-### 6. Risk Analysis and Mitigation (0.5-1 page)
+### 6. Risk Analysis and Mitigation (1 page)
 - Technical risks and safeguards
 - Market risks and strategies
 - Regulatory considerations
@@ -85,16 +71,15 @@ This document outlines the structure for a comprehensive discussion paper on the
 
 ### 7. Pilot Implementation (0.5-1 page)
 - London, Ontario case study
-- Initial parameters ($3K BREAD)
 - Implementation timeline
 - Success metrics
 - Scaling pathway
 
-### 8. Integration with Community Exchange (0.5-1 page)
-- Synergy between IYF and commitment pools
-- Multiplier effect mechanics
-- Combined impact potential
-- Complementary but independent projects
+### 8. Optional Application: Integration with Community Exchange (1 page max)
+- Brief introduction to Community Exchange Commitment Pools (C4) concept
+- Potential synergy between IYF and C4
+- How IYF could support various community initiatives, including C4
+- Note that this is one of many possible applications
 
 ### 9. Call to Action and Next Steps (0.5 page)
 - Invitation to partner
