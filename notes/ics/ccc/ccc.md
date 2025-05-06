@@ -1,25 +1,26 @@
 ---
-title: Community Exchange Project
-description: Main overview file for the Community Exchange Project (CCC), providing navigation to all versions and key resources
+title: Community Connection & Commitment Commons
+description: Main overview file for the Community Connection & Commitment Commons (C4), providing navigation to all versions and key resources
 author: ICS Team
 tags:
-  - community-exchange
+  - community-connection-commitment-commons
   - project-overview
   - main-index
 aliases:
-  - CCC
-  - Community Exchange Main
+  - C4
+  - CCCC
+  - Community Connection & Commitment Commons Main
 publish: "false"
 type: note
 ---
 
-# Community Exchange Project
+# Community Connection & Commitment Commons
 
-The Community Exchange Project is a local economic system that combines relationship-building with resource sharing, creating an alternative network for value exchange within community.
+The Community Connection & Commitment Commons (C4) is a local economic system that combines relationship-building with resource sharing, creating an alternative network for value exchange within community.
 
 ## Project Overview
 
-Community Exchange enables members to:
+The Community Connection & Commitment Commons enables members to:
 - Share skills and resources without relying on money
 - Build meaningful community connections
 - Access credits through contribution and exchange
@@ -53,4 +54,4 @@ The most recent and comprehensive version of the documentation, including:
 
 ---
 
-*For detailed information about the Community Exchange project, please refer to the v0.2 documentation.*
+*For detailed information about the Community Connection & Commitment Commons project, please refer to the v0.2 documentation.*
