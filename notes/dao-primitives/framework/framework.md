@@ -89,7 +89,7 @@ Although the above conceptual framework could be used to design a wide range of 
 
 These primitives can be combined in various ways to create organizational systems tailored to specific contexts and needs. Their power lies in their flexibility and composability while maintaining coherent patterns that enable interoperability.
 
-## Framework Implementation
+## Group Facilitation - A Framework for Implementation
 
 The framework is designed to be practical and applicable. The [Group Facilitation Guide](notes/dao-primitives/framework/group-facilitation.md) provides a structured methodology for applying these concepts to real-world organizational challenges.
 
@@ -125,6 +125,7 @@ For networks of organizations working together, the framework provides:
 - Shared language and concepts for designing collaborative structures
 - Interoperability standards that enable effective coordination
 - Scalable governance patterns for managing network-level decisions
+- See [RPP Governance Design Case Study](notes/dao-primitives/implementation/case-studies/rpp-governance-design.md)
 
 ## Enabling Collective Intelligence
 
@@ -138,11 +139,11 @@ As outlined in [Minimum Viable Permissionless-ness](artifacts/network-evolution/
 2. The ability to attract others to work on a project
 3. The right to put up proposals to the broader network
 
-These freedoms enable knowledge and insights from individuals working "close to reality" to drive strategy and resource allocation, rather than relying on centralized direction.
+These freedoms enable knowledge and insights from individuals working "close to reality" to influence strategy and resource allocation using decentralized governance mechanisms, rather than relying on centralized decision-making.
 
 ### Transparent State Documentation
 
-Clear documentation of group state creates the transparency needed for distributed coordination. By making purpose, practices, and progress visible, organizations enable:
+Clear and accessible documentation of group state creates the transparency needed for decentralized coordination. By making purpose, practices, and progress visible, organizations enable:
 
 - Self-organization around emerging opportunities
 - Autonomous yet aligned decision-making
@@ -154,10 +155,14 @@ The framework's attention to different scales enables organizations to implement
 
 - High-context, relationship-based collaboration at small scales
 - Explicit agreements and role-based coordination at medium scales
-- Representative and delegated governance at larger scales
-- Protocol-based coordination at network scales
+- Democratic, representative and delegated governance at larger scales
+- Inter-network partnerships and coordination
 
-This multi-scale approach allows organizations to achieve both the efficiency benefits of structured coordination and the innovation benefits of autonomous experimentation.
+This multi-scale approach allows organizations to achieve: 
+- Both the efficiency benefits of structured coordination and the innovation benefits of autonomous experimentation
+- Capture resistance as there are fewer governance concentrations points in the system
+- Flexibility to respond to changing contexts 
+
 
 ## Further Exploration
 

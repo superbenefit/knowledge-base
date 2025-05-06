@@ -1,11 +1,14 @@
 ---
 title: Formation Phase
-author: 
-harvester: 
-tags: 
-aliases: []
-description: "The second phase of group development, focused on establishing structure and roles."
+description: The developmental phase where groups begin to establish structure, initial agreements, and concrete initiatives after the exploratory Conversation phase 
+author: yeoro.eth
+tags: - dao-primitives 
+			- group-phase 
+aliases: 
+			- "#formation" 
 publish: "true"
+author: yeoro.eth
+
 ---
 
 The Formation Phase follows the [conversation phase](notes/dao-primitives/framework/group-phase/conversation.md), transitioning from open exploration to the establishment of basic structure and roles.  This phase is characterized by early engagement with minimal formal structure, emphasizing trust-building and defining initial procedures. The primary goal is to create a functional framework for the group to operate within.
