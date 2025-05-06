@@ -11,17 +11,39 @@ author: yeoro.eth
 
 ---
 
-The Formation Phase follows the [conversation phase](notes/dao-primitives/framework/group-phase/conversation.md), transitioning from open exploration to the establishment of basic structure and roles.  This phase is characterized by early engagement with minimal formal structure, emphasizing trust-building and defining initial procedures. The primary goal is to create a functional framework for the group to operate within.
+The Formation Phase represents the critical transition from open exploration to structured commitment within decentralized networks. Following the ideation and relationship-building of the [Conversation Phase](notes/dao-primitives/framework/group-phase/conversation.md), groups in Formation begin establishing clear boundaries, formalizing agreements, and developing the minimal viable structure needed for coordinated action. This phase transforms emerging potential into concrete initiatives while creating the foundation for more sophisticated organizational forms to evolve. When the formation phase is complete, a group is ready to move on to the [organization phase](notes/dao-primitives/framework/group-phase/organization.md).
+
+
+
 
 ---
 
 ## Key Characteristics
 
-* **Early Engagement:**  Members actively participate in shaping the group's structure and processes.
-* **Role Definition:**  Initial roles and responsibilities are defined, though these may evolve over time.
-* **Trust Building:**  Emphasis on fostering trust and collaboration among members.
-* **Minimal Structure:**  Formal structures and processes are still minimal, allowing for flexibility and adaptation.
-* **Procedure Establishment:**  Basic operating procedures and decision-making processes are established.
+* **Purpose Definition:** The group articulates a clear, specific purpose statement that defines its reason for existence and intended contribution to the broader network. 
+* **Structured Decision-Making:** Simple but formal decision processes begin to replace purely informal consensus, enabling clearer accountability and execution. 
+* **Initial Agreements:** Members make explicit commitments about participation, contributions, and shared expectations, establishing the basis for mutual accountability. 
+* **Lightweight Documentation:** The group develops basic documentation of its purpose, practices, and progress through an initial [cell state](notes/dao-primitives/patterns/collaboration-scale-patterns/cell-state.md) or nucleus document. 
+* **Resource Planning:** Initial budgets, timelines, and resource needs are identified and documented to support formal proposals for funding or support. 
+* **Minimal Role Definition:** Core roles and responsibilities emerge and are assigned, though these remain somewhat fluid and may evolve substantially. 
+* **Team Formation:** The self-selected group solidifies into an identifiable team with shared commitments, moving beyond loose association.
+
+
+
+# HERE
+## Functional Elements 
+
+### Dynamic Activities
+- **Purpose Crystallization:** Refining broad interests into a specific, actionable purpose that provides clear direction. - 
+- **Proposal Development:** Creating formal proposals to seek community endorsement, funding, or permission when needed. - 
+- **Initial State Documentation:** Documenting the group's purpose, practices, and plans in an early [nucleus](notes/dao-primitives/patterns/collaboration-scale-patterns/cell-state.md) document. - 
+- **Commitment Establishment:** Members explicitly commit to specific contributions, roles, or responsibilities. - 
+- **Resource Mapping:** Identifying needed skills, knowledge, and resources for successful execution. - 
+- **Boundary Definition:** Clarifying what is and isn't within the group's scope and authority. 
+- **Integration Planning:** Establishing how the group will connect and coordinate with the broader network or community.
+
+
+
 
 ### Challenges
 
