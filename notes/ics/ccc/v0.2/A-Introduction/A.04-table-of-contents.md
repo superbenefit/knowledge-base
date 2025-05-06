@@ -16,13 +16,15 @@ type: note
 
 # Table of Contents
 
-## A. Cover Materials
-- [A.01-pdf-cover.md](notes/ics/ccc/v0.2/A-Cover/A.01-pdf-cover.md) - PDF Cover Page
-- [A.02-table-of-contents.md](notes/ics/ccc/v0.2/A-Cover/A.02-table-of-contents.md) - Table of Contents
+## A. Introduction
+- [A.01-cover-page.md](notes/ics/ccc/v0.2/A-Introduction/A.01-cover-page.md) - Cover Page
+- [A.02-executive-summary.md](notes/ics/ccc/v0.2/A-Introduction/A.02-executive-summary.md) - Executive Summary
+- [A.03-how-to-use.md](notes/ics/ccc/v0.2/A-Introduction/A.03-how-to-use.md) - How to Use This Guide
+- [A.04-table-of-contents.md](notes/ics/ccc/v0.2/A-Introduction/A.04-table-of-contents.md) - Table of Contents
 
 ## B. Overview
 - [B.01-introduction.md](notes/ics/ccc/v0.2/B-Overview/B.01-introduction.md) - Introduction
-- [B.02-why-community-connection-commons.md](notes/ics/ccc/v0.2/B-Overview/B.02-why-community-connection-commons.md) - Purpose and Vision
+- [B.02-why-community-exchange.md](notes/ics/ccc/v0.2/B-Overview/B.02-why-community-exchange.md) - Purpose and Vision
 - [B.03-how-it-works.md](notes/ics/ccc/v0.2/B-Overview/B.03-how-it-works.md) - How It Works
 - [B.04-visual-concept.md](notes/ics/ccc/v0.2/B-Overview/B.04-visual-concept.md) - Visual Concepts
 - [B.05-principles-and-values.md](notes/ics/ccc/v0.2/B-Overview/B.05-principles-and-values.md) - Principles and Values

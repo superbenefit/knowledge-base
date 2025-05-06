@@ -1,3 +1,19 @@
+---
+title: Community Connection & Commitment Commons Implementation Index
+description: Index of practical documents detailing how to set up and operate the Community Connection & Commitment Commons system
+author: ICS Team
+tags:
+  - community-connection-commitment-commons
+  - implementation
+  - index
+  - operations
+aliases:
+  - C4 Implementation Index
+  - Implementation Documents Index
+publish: "false"
+type: index
+---
+
 # Community Connection & Commitment Commons Implementation: Index
 
 This directory contains the practical documents that detail how to set up and operate the Community Connection & Commitment Commons system.

@@ -1,3 +1,19 @@
+---
+title: Community Exchange Activities README
+description: Directory overview of activities for the Community Exchange system including regular gatherings and special events
+author: ICS Team
+tags:
+  - community-connection-commitment-commons
+  - activities
+  - directory
+  - facilitation
+aliases:
+  - CE Activities Directory
+  - Activity Guides Overview
+publish: "false"
+type: reference
+---
+
 # Community Exchange Activities
 
 ## Recent Updates (April 28, 2025)

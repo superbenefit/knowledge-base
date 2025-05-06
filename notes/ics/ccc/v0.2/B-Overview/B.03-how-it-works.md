@@ -77,6 +77,20 @@ The Commitment Commons operates on a simple credit system:
   - Note: In mutual credit systems, holding (hoarding) is often beneficial as it provides system stability
 - As the community grows, pools may connect with other regenerative economies, although each connection remains optional and values-driven. Different pools may choose different paths: some might accept various regenerative currencies, others might connect only within the commitment pool network, while others remain focused purely on local exchanges.
 
+### The Four Core Protocols
+
+Following the framework documented in Ruddick's Grassroots Economics book, our Commitment Commons is built on four essential protocols that enable effective resource coordination. These protocols are found in natural ecosystems and ancient human societies alike:
+
+1. **Curation**: The process of selecting and organizing which commitments are included in our community pool. In our system, this happens through the resource offering registration process, where members specify what goods or services they can provide. Stewards help ensure these offerings align with community values and needs.
+
+2. **Valuation**: Establishing the relative value of different commitments within the pool. Our system uses a straightforward approach: 1 credit = 30 minutes of work OR $10 value of goods/services. This creates a common unit of account that allows diverse contributions to be fairly exchanged.
+
+3. **Limitation**: Setting maximum quantities or boundaries on commitments to prevent imbalances. Our system implements this through issuance limits (maximum negative balance of -10 credits) and optional holding limits (maximum positive balance of 10 credits) to ensure system stability and prevent overcommitment.
+
+4. **Exchange**: The protocols that govern how, when, and under what conditions commitments can be exchanged. Our system allows members to exchange directly with each other according to mutually agreed terms, with transactions recorded in the community ledger.
+
+These four protocols work together to create a balanced, resilient system where commitments flow efficiently through the community, matching needs with resources in a way that builds mutual support and reduces dependency on scarce money.
+
 ## Examples of Typical Exchanges
 
 ### In the Belonging Commons:

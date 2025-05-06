@@ -1,3 +1,19 @@
+---
+title: Community Exchange Implementation Guide README
+description: Directory overview of practical guides for implementing the Community Exchange system including onboarding, governance, and technical aspects
+author: ICS Team
+tags:
+  - community-connection-commitment-commons
+  - implementation
+  - guides
+  - directory
+aliases:
+  - CE Implementation Directory
+  - Implementation Guides Overview
+publish: "false"
+type: reference
+---
+
 # Community Exchange: Implementation Guide
 
 This directory contains practical guides for implementing the Community Exchange system.

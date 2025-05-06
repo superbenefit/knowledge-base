@@ -1,70 +1,172 @@
 ---
-title: Community Exchange Project CONTRIBUTING Guide
-description: Implementation updates, completed tasks, and next steps for the Community Exchange Project documentation
+title: Contribution Guidelines for Community Connection & Commitment Commons
+description: Comprehensive guide for contributing to the Community Connection & Commitment Commons (C4) documentation and codebase
 author: ICS Team
 tags:
-  - community-exchange
+  - community-connection-commitment-commons
   - contributing
-  - implementation
-  - updates
+  - guidelines
+  - documentation
 aliases:
-  - CE Contributing Guide
-  - Project Implementation Updates
+  - C4 Contributing Guide
+  - CCC Contributing Guidelines
 publish: "false"
-type: contributing
+type: guide
 ---
 
-# Community Exchange Project Implementation Update
+# Contributing to the Community Connection & Commitment Commons (C4)
 
-## Completed Tasks (April 28, 2025)
+Thank you for your interest in contributing to the Community Connection & Commitment Commons (C4)! This document provides essential guidelines to ensure consistency and quality across all project documentation and code.
 
-1. **Activity Documentation Expansion**
-   - Created 12 detailed activity guides that were previously only mentioned in D.04
-   - Each guide follows a consistent format with purpose, overview, format, session flow, credit dynamics, adaptations, and implementation resources
-   - Added to the existing 7 activities for a total of 19 comprehensive activity guides
+## Frontmatter Requirements
 
-2. **Document Organization**
-   - Updated E.00-activities.md to include all 19 activities organized by category
-   - Removed content from D.04-community_activities.md (to be deleted)
-   - Updated D.00-examples.md to remove reference to D.04
-   - Created a README.md in the E-Activities folder documenting the changes
+All markdown files in the knowledge base **must** include properly formatted frontmatter. Frontmatter is metadata at the beginning of the file enclosed between triple-dash lines (`---`).
 
-3. **Content Integration**
-   - Ensured consistent formatting across all activity guides
-   - Maintained alignment with the core principles of the Community Exchange
-   - Added cross-references between related activities
+### Required Frontmatter Structure
 
-## Next Steps for Implementation
+```yaml
+---
+title: Descriptive Title of the Document
+description: A concise explanation of what this document contains (1-2 sentences)
+author: Your Name or "ICS Team"
+tags:
+  - community-exchange
+  - relevant-tag
+  - another-tag
+aliases:
+  - Short Title
+  - Alternative Name
+publish: "false"
+type: note
+---
+```
 
+### Frontmatter Fields Explained
 
-Make May 7 doc
+| Field | Description | Example |
+|-------|-------------|---------|
+| `title` | Descriptive title of the document | `"Community Connection & Commitment Commons Overview"` |
+| `description` | Brief explanation of the document content | `"Comprehensive guide to setting up a Community Connection & Commitment Commons system in a local community"` |
+| `author` | Document creator or team | `"ICS Team"` or `"Heenal Rajani"` |
+| `tags` | Relevant keywords for discovery (array) | See below |
+| `aliases` | Alternative names for the document | `"C4 Onboarding"`, `"CCC Setup"` |
+| `publish` | Whether the document is ready for public sharing | `"false"` (use quotes) |
+| `type` | Document type classification | See below |
 
-1. **Review and Refinement**
-   - Review all activities for consistency and alignment with overall vision
-   - review how to guides
-   -
+### Document Types
 
-make diagrams and visual guides
+- `note` - General documentation, explanations, and references
+- `guide` - Step-by-step instructions or tutorials
+- `activity` - Workshop materials or facilitation guides
+- `reference` - Glossaries, indexes, or lookup resources
+- `template` - Reusable document templates
+- `tracker` - Progress tracking documents
 
+### Common Tags
 
-1. **Supporting Materials Development**
-   - Create templated facilitation guides for key activities
-   - Develop visual aids and promotional materials
-   - Prepare orientation materials for introducing the exchange to new communities
+Consider including these tags when relevant:
 
-4. **Technology Integration**
-   - Refine how digital tools can support the activities
-   - Develop systems for tracking participation and credit flow
-   - Create accessible interfaces for various technical skill levels
+- `community-connection-commitment-commons`
+- `connection-commons`
+- `commitment-commons`
+- `belonging-commons`
+- `documentation`
+- `process`
+- `onboarding`
+- `design`
+- `governance`
+- `implementation`
+- `economic-systems`
+- `credits`
+- `mutual-aid`
+- `accounting`
+- `facilitation`
 
-5. **Testing and Iteration**
-   - Begin piloting key activities with a small group
-   - Document lessons learned and refinements needed
-   - Create case studies from initial implementation
+## File Naming Conventions
 
-6. **Documentation Finalization**
-   - Update any activity guides based on real-world testing
-   - Compile all materials into a comprehensive guide
-   - Prepare for publication and distribution
+Use the following naming conventions for files:
 
+- Use lowercase letters
+- Replace spaces with hyphens (`-`)
+- Use descriptive names that indicate content
+- For sequenced content, prefix with a section letter and number (e.g., `B.01-community-exchange-overview.md`)
 
+### Section Prefixes
+
+- `A` - Introduction & Project Management
+- `B` - Overview & Core Concepts
+- `C` - Design Specifications
+- `D` - Implementation Guides
+- `E` - Facilitation Materials
+- `F` - Templates & Resources
+- `G` - Research & References
+- `H` - Glossary & Terminology
+
+## Directory Structure
+
+Maintain the established directory structure:
+
+```
+/notes/ics/ccc/
+├── README.md
+├── CONTRIBUTING.md
+├── metadata.yaml
+├── ccc.md
+└── v0.2/
+    ├── A-Introduction/
+    ├── B-Overview/
+    ├── C-Design/
+    ├── D-Implementation/
+    ├── E-Facilitation/
+    ├── F-Templates/
+    ├── G-Research/
+    └── H-Reference/
+```
+
+## Documentation Style Guidelines
+
+### Writing Style
+
+- Use clear, concise language
+- Write in present tense
+- Use active voice
+- Aim for clarity over complexity
+- Define acronyms and technical terms the first time they appear
+- Use numbered lists for sequential steps
+- Use bullet points for non-sequential lists
+
+### Formatting
+
+- Use headings to organize content hierarchically
+- Keep paragraphs relatively short (3-5 sentences maximum)
+- Use code blocks for technical content and examples
+- Include tables to organize comparative information
+- Add diagrams and visuals where they add clarity
+- Link to related documents where appropriate
+
+## Pull Request Process
+
+1. **Fork the repository** if you don't have direct write access
+2. **Create a branch** with a descriptive name
+3. **Make your changes** following the guidelines above
+4. **Test your changes** to ensure they render correctly
+5. **Submit a pull request** with a clear description of your changes
+6. **Address any feedback** from reviewers
+
+## Contribution Review Checklist
+
+Before submitting your contribution, check that:
+
+- [ ] Frontmatter is correctly formatted with all required fields
+- [ ] File is in the correct directory with an appropriate name
+- [ ] Content follows style guidelines
+- [ ] Links to other documents work correctly
+- [ ] Images (if any) are properly referenced and accessible
+- [ ] Spelling and grammar have been checked
+- [ ] Document provides value and doesn't duplicate existing content
+
+## Getting Help
+
+If you have questions about contributing or need assistance, please reach out to the project maintainers through the appropriate channels.
+
+Thank you for helping to improve the Community Connection & Commitment Commons (C4)!

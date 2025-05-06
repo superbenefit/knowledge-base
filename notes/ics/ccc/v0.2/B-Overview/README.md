@@ -1,3 +1,19 @@
+---
+title: Community Exchange Overview Materials README
+description: Directory overview of foundational documents explaining the Community Exchange concept, vision, and guiding principles
+author: ICS Team
+tags:
+  - community-connection-commitment-commons
+  - overview
+  - concepts
+  - directory
+aliases:
+  - CE Overview Directory
+  - Concept Documents Overview
+publish: "false"
+type: reference
+---
+
 # Community Exchange: Overview Materials
 
 This directory contains the foundational documents that explain the Community Exchange concept, vision, and guiding principles.
