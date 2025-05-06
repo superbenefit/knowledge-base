@@ -1,3 +1,19 @@
+---
+title: Community Exchange Examples and Scenarios README
+description: Directory overview of concrete examples and scenarios demonstrating how the Community Exchange works in practice
+author: ICS Team
+tags:
+  - community-connection-commitment-commons
+  - examples
+  - scenarios
+  - directory
+aliases:
+  - CE Examples Directory
+  - Practical Examples Overview
+publish: "false"
+type: reference
+---
+
 # Community Exchange: Examples and Scenarios
 
 This directory contains concrete examples and scenarios demonstrating how the Community Exchange works in practice.

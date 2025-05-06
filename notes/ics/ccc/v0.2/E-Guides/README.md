@@ -1,3 +1,19 @@
+---
+title: Community Exchange User Guides README
+description: Directory overview of step-by-step guides for using the Community Exchange system
+author: ICS Team
+tags:
+  - community-connection-commitment-commons
+  - guides
+  - directory
+  - how-to
+aliases:
+  - User Guides Directory
+  - CE Guides Overview
+publish: "false"
+type: reference
+---
+
 # Community Exchange: User Guides
 
 This directory contains step-by-step guides for using the Community Exchange system.

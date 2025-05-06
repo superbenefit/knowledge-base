@@ -1,3 +1,20 @@
+---
+title: Community Exchange Future Development README
+description: Directory overview of future possibilities and expansion strategies for the Community Exchange system
+author: ICS Team
+tags:
+  - community-connection-commitment-commons
+  - future
+  - scaling
+  - directory
+  - development
+aliases:
+  - CE Future Directory
+  - Future Development Overview
+publish: "false"
+type: reference
+---
+
 # Community Exchange: Future Development
 
 This directory contains documentation about future possibilities and expansion strategies for the Community Exchange system.

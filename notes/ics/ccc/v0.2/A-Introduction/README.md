@@ -1,3 +1,19 @@
+---
+title: Community Exchange Cover Documents README
+description: Directory overview of cover materials and table of contents for the Community Exchange documentation
+author: ICS Team
+tags:
+  - community-connection-commitment-commons
+  - introduction
+  - cover
+  - directory
+aliases:
+  - CE Cover Directory
+  - Introduction Documents Overview
+publish: "false"
+type: reference
+---
+
 # Community Exchange: Cover Documents
 
 This directory contains the cover materials and table of contents for the Community Exchange documentation.

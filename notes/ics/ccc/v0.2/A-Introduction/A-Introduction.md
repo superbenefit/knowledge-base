@@ -1,3 +1,19 @@
+---
+title: Community Connection & Commitment Commons Introduction Documents
+description: Index of introductory materials for the Community Connection & Commitment Commons (C4) documentation
+author: ICS Team
+tags:
+  - community-connection-commitment-commons
+  - introduction
+  - index
+  - overview
+aliases:
+  - C4 Introduction Index
+  - Introduction Documents Index
+publish: "false"
+type: index
+---
+
 # Community Connection & Commitment Commons: Introduction Documents
 
 This directory contains the introductory materials for the Community Connection & Commitment Commons (C4) documentation.
