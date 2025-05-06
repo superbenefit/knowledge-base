@@ -1,3 +1,19 @@
+---
+title: Community Exchange Overview Index
+description: Index of foundational documents explaining the Community Exchange concept, vision, and guiding principles
+author: ICS Team
+tags:
+  - community-connection-commitment-commons
+  - overview
+  - index
+  - concepts
+aliases:
+  - CE Overview Index
+  - Concept Documents Index
+publish: "false"
+type: index
+---
+
 # Community Exchange Overview: Index
 
 This directory contains the foundational documents that explain the Community Exchange concept, vision, and guiding principles.

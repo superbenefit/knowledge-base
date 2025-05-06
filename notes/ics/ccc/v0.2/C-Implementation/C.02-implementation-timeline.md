@@ -1,23 +1,23 @@
 ---
-title: Community Exchange Implementation Timeline
-description: Phased development plan for Community Exchange starting Q2 2025, including milestones and key performance indicators
+title: Community Connection & Commitment Commons Implementation Timeline
+description: Phased development plan for Community Connection & Commitment Commons starting Q2 2025, including milestones and key performance indicators
 author: ICS Team
 tags:
-  - community-exchange
+  - community-connection-commitment-commons
   - planning
   - timeline
   - development
   - milestones
 aliases:
-  - CE Timeline
+  - C4 Timeline
   - Implementation Schedule
 publish: "false"
 type: plan
 ---
 
-# Community Exchange: Implementation Timeline
+# Community Connection & Commitment Commons: Implementation Timeline
 
-This document outlines the phased development plan for the Community Exchange, starting in Q2 2025.
+This document outlines the phased development plan for the Community Connection & Commitment Commons, starting in Q2 2025.
 
 ## Phase 1: Foundation (Q2 2025)
 *Duration: 3 months - Research, Design, and Preparation*
@@ -49,20 +49,20 @@ This document outlines the phased development plan for the Community Exchange, s
 
 ### July 2025
 - Official launch with founding members
-- First Connection Circle gathering
+- First Belonging Circle gathering
 - Begin recording initial commitments
 - Start tracking exchanges
 - First stewardship circle meeting
 
 ### August 2025
-- Second Connection Circle gathering
+- Second Belonging Circle gathering
 - First system health check
 - Begin testing Sarafu.Network with small group
 - Collect initial member feedback
 - Develop member directory and skills inventory
 
 ### September 2025
-- Third Connection Circle gathering
+- Third Belonging Circle gathering
 - First community celebration event
 - Begin preparing for membership expansion
 - Mid-quarter system evaluation
@@ -74,7 +74,7 @@ This document outlines the phased development plan for the Community Exchange, s
 *Duration: 3 months - Expansion and Technology Transition*
 
 ### October 2025
-- Fourth Connection Circle gathering
+- Fourth Belonging Circle gathering
 - Founding members can begin inviting new members
 - First member-created community activities
 - Complete Sarafu.Network testing evaluation
@@ -102,8 +102,8 @@ This document outlines the phased development plan for the Community Exchange, s
 ### January 2026
 - Complete technology transition to Sarafu.Network
 - New member integration
-- First specialized Connection Circles (topic-based)
-- Implement refined credit policies based on learnings
+- First specialized Connection Commons activities (topic-based)
+- Implement refined Commitment Voucher policies based on learnings
 - Begin developing long-term sustainability plan
 
 ### February 2026
@@ -116,7 +116,7 @@ This document outlines the phased development plan for the Community Exchange, s
 ### March 2026
 - One-year planning session
 - Full system review and evaluation
-- Develop model for potential additional circles
+- Develop model for potential additional commons
 - Refine governance and decision-making processes
 - Document and share learnings
 
@@ -128,10 +128,10 @@ This document outlines the phased development plan for the Community Exchange, s
 ### April-June 2026
 - Transition to steady-state operations
 - Implement long-term governance model
-- Potential launch of neighborhood-based circles
+- Potential launch of neighborhood-based commons
 - Begin discussions about formal organizational structure
 - Explore connections with other solidarity economy initiatives
-- Develop mentorship program for new circles
+- Develop mentorship program for new commons
 
 **Phase 5 Milestone**: Transition from pilot to sustainable ongoing project
 
@@ -147,7 +147,7 @@ This document outlines the phased development plan for the Community Exchange, s
 - 80% of founding members have made at least one exchange
 - At least 30 total exchanges completed
 - Minimum of 40 commitments in the pool
-- 3 Connection Circle gatherings held
+- 3 Belonging Circle gatherings held
 
 ### Phase 3 (Q4 2025)
 - Membership grown to 35-40 members

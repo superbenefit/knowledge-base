@@ -1,3 +1,20 @@
+---
+title: Community Exchange Scaling Strategy
+description: Comprehensive strategy for growing the Community Exchange beyond the initial pilot group while maintaining trust, quality, and alignment with core values
+author: ICS Team
+tags:
+  - community-connection-commitment-commons
+  - scaling
+  - growth
+  - strategy
+  - neighbourhood-networks
+aliases:
+  - CE Scaling Strategy
+  - Growth Strategy
+publish: "false"
+type: note
+---
+
 # Community Exchange: Scaling Strategy
 This document outlines how we plan to grow the Community Exchange beyond our initial pilot group, using a thoughtful approach that maintains trust, quality, and alignment with our values.
 

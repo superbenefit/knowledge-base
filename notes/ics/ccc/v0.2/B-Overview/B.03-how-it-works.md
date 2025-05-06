@@ -1,29 +1,39 @@
 ---
-title: How Community Exchange Works
-description: Detailed explanation of the two pathways - Connection Circles and Commitment Pool - and how they interact to create a regenerative exchange system
+title: How Community Connection & Commitment Commons Works
+description: Detailed explanation of the three pathways - Belonging Commons, Connection Commons, and Commitment Commons - and how they interact to create a regenerative exchange system
 author: ICS Team
 tags:
-  - community-exchange
-  - connection-circles
-  - commitment-pool
+  - community-connection-commitment-commons
+  - belonging-commons
+  - connection-commons
+  - commitment-commons
   - how-to
   - credit-system
 aliases:
-  - How CE Works
-  - Community Exchange Mechanics
+  - How C4 Works
+  - Community Connection & Commitment Commons Mechanics
 publish: "false"
 type: note
 ---
 
-# How It Works: The Two Pathways
+# How It Works: The Three Pathways
 
-Community Exchange operates through two complementary systems, each with its own pathway for participation. Members can engage with either or both, depending on their interests, needs, and capacity.
+The Community Connection & Commitment Commons (C4) operates through three complementary systems, each with its own pathway for participation. Members can engage with any or all, depending on their interests, needs, and capacity.
 
-## Connection Circles Pathway
+## Belonging Commons Pathway
 
-Connection Circles create ongoing relationships around skills, interests, and learning. Here's how to participate:
+The Belonging Commons serves as the universal entry point where everyone is welcome:
 
-1. **Join the Community**: Attend an orientation session to learn about the Connection Circles program
+1. **Join Community Gatherings**: Attend soup gatherings or similar welcoming events
+2. **Explore**: Learn about the broader C4 system in a low-pressure environment
+3. **Connect**: Meet community members in an open, inclusive space
+4. **Decide**: Choose whether to engage more deeply with other components
+
+## Connection Commons Pathway
+
+The Connection Commons creates ongoing relationships around skills, interests, and learning. Here's how to participate:
+
+1. **Join the Community**: Attend an orientation session to learn about the Connection Commons program
 2. **Profile Creation**: Share your interests, skills you can teach, and things you want to learn
 3. **Attend Monthly Gatherings**: Participate in facilitated sessions where connections are made based on shared interests
 4. **Ongoing Matching**: Between gatherings, facilitators continue connecting people with complementary interests
@@ -31,11 +41,11 @@ Connection Circles create ongoing relationships around skills, interests, and le
 6. **Relationship Building**: Develop deeper community connections through meaningful exchanges
 7. **Community Cultivation**: Help shape the evolution of the program through feedback and participation
 
-> **Like a forest and its mycorrhizal network.** What we see above ground—the trees, shrubs, and plants—is similar to our Connection Circles where community members visibly interact and share. Underground, an intricate network of fungal connections helps trees share nutrients and information—much like our Commitment Pool that quietly facilitates resource exchange. Just as the forest's resilience depends on both what's visible and invisible, our community thrives through both public connections and structured exchanges.
+> **Like a forest and its mycorrhizal network.** What we see above ground—the trees, shrubs, and plants—is similar to our Connection Commons where community members visibly interact and share. Underground, an intricate network of fungal connections helps trees share nutrients and information—much like our Commitment Commons that quietly facilitates resource exchange. Just as the forest's resilience depends on both what's visible and invisible, our community thrives through both public connections and structured exchanges.
 
-## Commitment Pool Pathway
+## Commitment Commons Pathway
 
-The Commitment Pool facilitates tangible exchanges of goods and services through a credit system. Here's how it works:
+The Commitment Commons facilitates tangible exchanges of goods and services through a credit system. Here's how it works:
 
 1. **Orientation**: Learn about the credit system and how to participate
 2. **Resource Offering**: Register specific goods or services you can provide to the community
@@ -47,13 +57,13 @@ The Commitment Pool facilitates tangible exchanges of goods and services through
 
 ### Pool Seeding
 
-For this pilot phase, the Commitment Pool will be seeded entirely through member commitments - no cash or external funding required. Each pilot participant will contribute their own commitments upon joining, creating the initial pool of available resources. This commitment-only approach allows us to test the core mechanics of community exchange while keeping the system simple and focused.
+For this pilot phase, the Commitment Commons will be seeded entirely through member commitments - no cash or external funding required. Each pilot participant will contribute their own commitments upon joining, creating the initial pool of available resources. This commitment-only approach allows us to test the core mechanics of community exchange while keeping the system simple and focused.
 
 As the system evolves, future versions may explore different seeding approaches (see G-Future section for potential cash integration pathways).
 
 ### Credit System
 
-The Commitment Pool operates on a simple credit system:
+The Commitment Commons operates on a simple credit system:
 
 - **1 Credit = 30 minutes of work OR $10 value** of goods/services
   - *Note: For this pilot phase, we're using a fixed $10 value to simplify tracking and understanding. Future versions may incorporate dynamic valuation such as percentage of minimum wage or inflation-adjusted values.*
@@ -67,30 +77,50 @@ The Commitment Pool operates on a simple credit system:
   - Note: In mutual credit systems, holding (hoarding) is often beneficial as it provides system stability
 - As the community grows, pools may connect with other regenerative economies, although each connection remains optional and values-driven. Different pools may choose different paths: some might accept various regenerative currencies, others might connect only within the commitment pool network, while others remain focused purely on local exchanges.
 
+### The Four Core Protocols
+
+Following the framework documented in Ruddick's Grassroots Economics book, our Commitment Commons is built on four essential protocols that enable effective resource coordination. These protocols are found in natural ecosystems and ancient human societies alike:
+
+1. **Curation**: The process of selecting and organizing which commitments are included in our community pool. In our system, this happens through the resource offering registration process, where members specify what goods or services they can provide. Stewards help ensure these offerings align with community values and needs.
+
+2. **Valuation**: Establishing the relative value of different commitments within the pool. Our system uses a straightforward approach: 1 credit = 30 minutes of work OR $10 value of goods/services. This creates a common unit of account that allows diverse contributions to be fairly exchanged.
+
+3. **Limitation**: Setting maximum quantities or boundaries on commitments to prevent imbalances. Our system implements this through issuance limits (maximum negative balance of -10 credits) and optional holding limits (maximum positive balance of 10 credits) to ensure system stability and prevent overcommitment.
+
+4. **Exchange**: The protocols that govern how, when, and under what conditions commitments can be exchanged. Our system allows members to exchange directly with each other according to mutually agreed terms, with transactions recorded in the community ledger.
+
+These four protocols work together to create a balanced, resilient system where commitments flow efficiently through the community, matching needs with resources in a way that builds mutual support and reduces dependency on scarce money.
+
 ## Examples of Typical Exchanges
 
-### In Connection Circles:
+### In the Belonging Commons:
+- **First Encounters**: Newcomers share soup and stories with long-time community members, learning about C4 without pressure to join
+- **Resource Sharing**: Community members bring food to share in a potluck-style gathering that welcomes everyone regardless of their ability to contribute
+- **Community Support**: A newcomer expresses a need for winter clothing, and existing members help connect them with resources
+
+### In the Connection Commons:
 
 - **Skill Sharing**: Marina teaches Sanjay how to make sourdough bread over three sessions, while he later helps her learn basic carpentry.
 - **Interest Groups**: Five members who share an interest in permaculture form a study group that meets monthly in different gardens.
 - **Knowledge Exchange**: A retired professor offers informal history discussions in exchange for smartphone tutorials from younger members.
 - **Collaborative Projects**: Three members with complementary skills (design, carpentry, and coordination) collaborate to create a community noticeboard.
 
-### In the Commitment Pool:
+### In the Commitment Commons:
 
 - **Goods Exchange**: Juan offers homemade jams valued at 5 credits each; he uses those credits to receive childcare from Aisha.
 - **Service Swap**: Priya offers 3 hours of graphic design (15 credits); she later uses these credits for bicycle repairs from Karim.
 - **Mixed Exchange**: David repairs Lee's laptop (10 credits) and uses those credits toward fresh vegetables from various members' gardens.
 - **Group Coordination**: Five members use their collective credits to arrange a community space cleanup, with each contributor receiving an equal share of credits.
 
-## Joining Both Pathways
+## Joining Multiple Pathways
 
-Many members find value in participating in both systems:
+Many members find value in participating in all components:
 
-- A connection made in Connection Circles might evolve into a formalized exchange through the Commitment Pool
-- Trust built through successful Commitment Pool exchanges often leads to deeper relationships in Connection Circles
-- Skills discovered in one pathway can be offered in the other
-- The full richness of Community Exchange emerges when both relationship-building and structured exchange work in harmony
+- The Belonging Commons offers a low-pressure introduction to the community
+- A connection made in the Connection Commons might evolve into a formalized exchange through the Commitment Commons
+- Trust built through successful Commitment Commons exchanges often leads to deeper relationships in the Connection Commons
+- Skills discovered in one pathway can be offered in another
+- The full richness of C4 emerges when relationship-building and structured exchange work in harmony
 
 ## A Note on Taxation
 
@@ -98,7 +128,7 @@ Many members find value in participating in both systems:
 
 ### Understanding the Landscape
 
-Community Exchange operates in a unique space where traditional tax frameworks may not directly apply. Here's what to consider:
+Community Connection & Commitment Commons operates in a unique space where traditional tax frameworks may not directly apply. Here's what to consider:
 
 - We exchange commitments (vouchers/credits) rather than directly trading goods or services
 - This creates a "promise economy" that may differ from traditional barter systems
@@ -123,7 +153,7 @@ We're proud to join this tradition of community-driven economic innovation while
 
 ## Federated Architecture
 
-Community Exchange operates as a federated network of autonomous pools:
+Community Connection & Commitment Commons operates as a federated network of autonomous pools:
 - Each pool maintains sovereignty while choosing federation partners
 - Exchange relationships are flexible: open, selective, closed, or partially open
 - Diverse pool types: geographic, sector/industry, interest/values-based
@@ -136,4 +166,4 @@ Community Exchange operates as a federated network of autonomous pools:
 
 ## Getting Started
 
-The Community Exchange is launching with a small pilot group in Q2 2025. If you've received this document, you're invited to be part of this initial community. Together, we'll build a more resilient, connected, and abundant local economy.
+The Community Connection & Commitment Commons is launching with a small pilot group in Q2 2025. If you've received this document, you're invited to be part of this initial community. Together, we'll build a more resilient, connected, and abundant local economy.

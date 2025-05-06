@@ -1,9 +1,9 @@
 ---
-title: Community Exchange Commitment Examples
+title: Community Connection & Commitment Commons Examples
 description: Comprehensive catalog of possible commitments members can offer, organized by category with suggested credit values
 author: ICS Team
 tags:
-  - community-exchange
+  - community-connection-commitment-commons
   - commitments
   - examples
   - credits
@@ -14,9 +14,9 @@ publish: "false"
 type: guide
 ---
 
-# Community Exchange: Commitment Examples
+# Community Connection & Commitment Commons: Commitment Examples
 
-This document provides a diverse catalog of possible commitments that members can offer to the Community Exchange. These examples are organized by category to inspire thinking about the many ways you can contribute to and benefit from the pool.
+This document provides a diverse catalog of possible commitments that members can offer to the Commitment Commons. These examples are organized by category to inspire thinking about the many ways you can contribute to and benefit from the pool.
 
 ## Time-Based Commitments
 
@@ -136,7 +136,7 @@ This document provides a diverse catalog of possible commitments that members ca
 1. Marketing advice (1 hour = 3 credits)
 2. Business plan review (per plan = 5 credits)
 3. Legal document review (per document = 3-5 credits) *requires appropriate professional credentials
-4. Tax preparation assistance (per return = 5 credits) *requires appropriate professional credentials
+4. Tax preparation assistance (per return = a5 credits) *requires appropriate professional credentials
 5. Professional proofreading (per page = 1 credit)
 6. Grant writing guidance (1 hour = 3 credits)
 7. Project management coaching (1 hour = 3 credits)
@@ -156,7 +156,7 @@ While we've provided suggested credit values for each commitment, these are guid
 
 All credit valuations will be reviewed by stewards to ensure general fairness and consistency. The community may periodically review valuation standards to address emerging patterns or concerns.
 
-**Note on Professional Services**: For services that typically require professional licensing or certification (legal, medical, financial, etc.), members must have appropriate credentials and should consider liability and insurance requirements. The Community Exchange is not responsible for verifying credentials or licensing.
+**Note on Professional Services**: For services that typically require professional licensing or certification (legal, medical, financial, etc.), members must have appropriate credentials and should consider liability and insurance requirements. The Community Connection & Commitment Commons is not responsible for verifying credentials or licensing.
 
 ---
 
