@@ -17,6 +17,16 @@ type: note
 
 # Community Connection & Commitment Commons: Connecting Curiosity and Commitment in London
 
+## Project Organizations
+
+The Community Connection & Commitment Commons is being developed and implemented through a collaborative effort:
+
+**Institute for Community Sustainability (ICS)** is the lead organization for this project, providing stewardship, facilitation, and practical implementation support. ICS has seeded and incubated this initiative as part of its mission to build resilient local economies and strengthen community connections in London, Ontario.
+
+**SuperBenefit Network** has provided theoretical development, documentation, and technical expertise for the project, drawing on their experience with decentralized economic systems and community governance.
+
+This project is also connected to the broader **Ethereum Localism** community (ethereumlocalism.xyz), which explores how tools like distributed ledgers can support place-based, regenerative economic systems.
+
 ## Introduction
 
 The Community Connection & Commitment Commons (C4) is a local economic system that combines relationship-building with resource sharing. It creates a space where people can both connect through their interests and skills (Connection Commons) and support each other through a structured exchange of services and resources (Commitment Commons).

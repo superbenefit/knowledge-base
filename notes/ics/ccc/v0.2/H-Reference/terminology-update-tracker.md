@@ -62,6 +62,8 @@ This creates the structure:
 ## Files Updated So Far
 
 - [x] H.01-key-terms.md - Complete update with new terminology and Commons/Circle distinction
+- [x] H.02-glossary.md - Complete update with new terminology, added Event Types section and updated terms
+- [x] H.03-faq.md - Complete update with new terminology
 - [x] E.06-participating-in-connection-commons.md - Updated to clarify distinction between Connection Commons program and Belonging Circle events
 - [x] F.01-connection-commons.md - Updated to clarify distinction between Connection Commons program and Belonging Circle events
 - [x] B.01-introduction.md - Complete update with new terminology

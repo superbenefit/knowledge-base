@@ -16,58 +16,103 @@ type: note
 
 # Community Exchange: Visual Concept
 
-*Note: This document serves as a placeholder for visual diagrams that will be developed. The text below describes what these visuals will illustrate.*
+*Note: This document specifies the diagrams needed for the Community Connection & Commitment Commons documentation. These visuals will be developed in v0.3.*
 
-## Core System Diagram (to be created)
+## 1. Three Components Relationship Diagram
 
-The primary visual will illustrate the relationship between Connection Circles and the Commitment Pool, showing:
+This diagram will illustrate the relationship between the three main components of the system:
 
-1. **Connection Circles** (left side)
-   - Represented as gathering spaces where people connect
-   - Speech bubbles showing "I can teach..." and "I want to learn..."
-   - Arrows showing how these connections lead to commitments
+- **Belonging Commons** (entry level)
+  - Represented as welcoming, accessible community soup gatherings
+  - Shows how people enter the system through participation without requirements
 
-2. **Commitment Pool** (center)
-   - Visualized as a shared commons or pool
-   - Shows various commitments being added (e.g., skills, goods, services)
-   - Credits flowing between members and the pool
+- **Connection Commons** (relationships level)
+  - Visualized as connection circles where people share skills and interests
+  - Speech bubbles showing "I can teach..." and "I want to learn..."
+  - Shows how relationships and skills are tracked informally
 
-3. **Community Benefits** (right side)
-   - Illustrates outcomes: stronger relationships, resilience, resource sharing
-   - Shows how individual needs are met through the system
+- **Commitment Commons** (exchange level)
+  - Visualized as a structured pool with formalized commitments
+  - Shows how resources flow through the credit-based system
+  - Illustrates relationship between commitments and credits
 
-## Credit Flow Diagram (to be created)
+Arrows should show how participants can move between these components and how they reinforce each other.
 
-This diagram will show the lifecycle of credits:
+## 2. Commitment Commons Flow Diagram
 
-1. Member A offers a commitment to the pool
-2. Member B redeems that commitment
-3. Member A receives credits
-4. Member A uses credits to receive something from Member C
-5. The cycle continues, showing how value circulates
+This detailed diagram will show the full lifecycle of credits and commitments:
 
-## Community Growth Model (to be created)
+1. Member registration and commitment definition
+2. Commitment evaluation and credit limit assignment
+3. Member A offers a commitment to the pool
+4. Member B redeems that commitment
+5. Member A receives credits
+6. Member A uses credits to receive something from Member C
+7. The cycle continues, showing how value circulates
+8. Includes conflict resolution and rebalancing mechanisms
 
-This visualization will illustrate how the system grows:
+## 3. Connection Commons Flow Diagram
 
-1. Initial core group of founding members
-2. Each member invites 2 new members after 3 months
-3. New community circles form in different neighborhoods
-4. Bridges between circles allow for cross-community exchange
+This diagram will illustrate the process of the Connection Commons gatherings:
 
-## Technology Transition Timeline (to be created)
+1. Gathering structure with zones for different activities
+2. Participant interaction patterns during the event
+3. Post-event matching and follow-up process
+4. Documentation and tracking of connections made
+5. Long-term relationship building outcomes
 
-This will show our planned technology evolution:
+## 4. Implementation Roadmap
 
-1. Phase 1: Google Sheets tracking system
-2. Phase 2: Training and transition period
-3. Phase 3: Full implementation of Sarafu.Network
+A timeline visualization showing the three phases of implementation:
 
-## Credit Balance Visualization (to be created)
+1. **Foundation Phase** (Months 1-3)
+   - Key milestones, activities, and goals
 
-This will illustrate:
-- How credit limits work (-10 to +10)
-- The flow of credits through the system
-- How expiration encourages circulation
+2. **Growth Phase** (Months 4-9)
+   - Expansion strategies and technology adoption
 
-*Note to designers: These visuals should use a consistent color scheme and style, emphasizing community, connection, and abundance rather than scarcity. Consider using circular designs to emphasize the cyclical, regenerative nature of the system.*
+3. **Maturity Phase** (Months 10-18)
+   - Advanced features and integration possibilities
+
+## 5. Community Growth Network Model
+
+This network diagram will illustrate how the system scales:
+
+1. Initial core group of founding members (center)
+2. First-wave members connecting to the core
+3. New neighborhood circles forming around key members
+4. Inter-circle connections and resource flows
+5. Integration with other community systems
+
+## 6. Technology Transition Diagram
+
+This will show the evolution of the tracking system:
+
+1. Phase 1: Paper-based and Google Sheets tracking
+2. Phase 2: Training and transition period 
+3. Phase 3: Full implementation of Sarafu.Network or other digital system
+
+Includes screens/interfaces from each system to illustrate the progression.
+
+## 7. Individual Experience Journey Map
+
+This diagram will trace one hypothetical member's experience:
+
+1. Initial discovery and attendance at a soup gathering
+2. Participation in Connection Commons events
+3. First commitment added to the pool
+4. First exchange experience
+5. Growing participation and impact over time
+6. Eventually becoming a steward or advocate
+
+## 8. Connection-to-Commitment Pathway
+
+This specialized diagram will show how connections made in the Connection Commons can evolve into formalized commitments:
+
+1. Initial connection and skill-sharing discussion
+2. Informal exchange outside the system
+3. Recognition of ongoing value
+4. Formalization as a commitment in the pool
+5. Integration into the wider exchange network
+
+*Design Guidelines: These visuals should use a consistent color scheme and style, emphasizing community, connection, and abundance rather than scarcity. Use circular designs to emphasize the cyclical, regenerative nature of the system. Ensure accessibility through clear contrast and meaningful use of color coding.*

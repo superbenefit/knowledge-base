@@ -25,16 +25,17 @@ This document identifies potential risks to the Community Connection & Commitmen
 ### Risk: Commitment Voucher Hoarding
 **Description**: Members accumulate Vouchers without spending them, reducing circulation in the system. However, in mutual credit systems, this is often beneficial as it removes supply from circulation and prevents system overload.
 
-*Understanding Mutual Credit vs Traditional Finance:*
+**Understanding Mutual Credit vs Traditional Finance:**
 - In traditional finance, hoarding creates scarcity and slows the economy
 - In mutual credit systems, hoarding provides "breathing room" by reducing immediate service demands
 - Commitment Vouchers represent unfulfilled commitments, so holding Vouchers delays (but doesn't eliminate) service obligations
 - This creates a natural buffer that prevents system overwhelm when many people try to redeem services at once
+- Unlike in traditional finance where hoarding resources is problematic, in mutual credit systems members holding positive balances actually benefits the overall system by reducing pressure on fulfillment
+- When members hold positive balances, it effectively removes that supply from circulation, creating capacity in the system for others to make commitments
 
 **Mitigation Strategies**:
 - **Commitment Voucher Expiration**: Vouchers expire after 3 months of inactivity  
   *Note: This fixed expiration period is for the pilot phase only, chosen for ease of tracking in Google Sheets. Future versions may implement more sophisticated decay mechanisms like half-life demurrage.*
-- **Holding Limits**: Maximum 10 Commitment Vouchers per member (optional, secondary to issuance limits)
 - **Encouragement**: Regular reminders about available offerings
 - **Matchmaking**: Stewards actively connect members with Vouchers to relevant offerings
 - **Celebration**: Highlight active exchanges in community gatherings
@@ -166,6 +167,9 @@ This document identifies potential risks to the Community Connection & Commitmen
 - **Transparent Records**: Clear documentation of all activities
 - **Professional Advice**: Consult with legal and tax professionals
 - **Connection**: Link with other legally established systems
+- **Tax Clarity**: Provide clear information that members are personally responsible for determining any tax obligations with the Canada Revenue Agency (CRA)
+- **Open Ledger**: Maintain an open ledger system that records all exchanges, which members can use for their own record-keeping
+- **Educational Resources**: Offer general information about mutual credit systems and taxation without providing specific tax advice
 
 **Example from Practice**: The Brisbane LETS system in Australia developed clear documentation explaining their mutual aid framework, which has helped them operate for over 25 years without legal challenges.
 
