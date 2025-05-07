@@ -17,23 +17,6 @@ type: note
 
 # Impact Yield Fund Project Plan
 
-## LLM Continuation Prompt
-
-```
-This document outlines the project plan for developing the Impact Yield Fund (IYF), a financial structure that preserves capital while generating sustainable returns for investors and continuous support for community initiatives. 
-
-As an LLM assistant, please help expand, refine, and advance this project plan based on the information provided in the I-Fund directory. Focus on creating practical, actionable steps that SuperBenefit can take to move from concept to implementation. Consider governance structures, technical requirements, legal considerations, and partnership development.
-
-Your task is to help develop a comprehensive implementation strategy that addresses key questions:
-1. What are the critical path items for moving the IYF from concept to pilot?
-2. What specific technical infrastructure is needed?
-3. What governance structure should be implemented?
-4. How should the fund be pitched to potential investors like Boann Finance?
-5. What measurement and evaluation frameworks will effectively demonstrate impact?
-
-Please provide detailed, actionable advice that builds on the existing documentation.
-```
-
 ## Project Overview
 
 The Impact Yield Fund (IYF) project aims to develop, implement, and scale a novel funding mechanism that:

@@ -20,7 +20,7 @@ type: note
 
 The Community Connection & Commitment Commons (C4) operates through three complementary systems, each with its own pathway for participation. Members can engage with any or all, depending on their interests, needs, and capacity.
 
-## Belonging Commons Pathway
+## Belonging Commons
 
 The Belonging Commons serves as the universal entry point where everyone is welcome:
 
@@ -29,7 +29,7 @@ The Belonging Commons serves as the universal entry point where everyone is welc
 3. **Connect**: Meet community members in an open, inclusive space
 4. **Decide**: Choose whether to engage more deeply with other components
 
-## Connection Commons Pathway
+## Connection Commons
 
 The Connection Commons creates ongoing relationships around skills, interests, and learning. Here's how to participate:
 
@@ -43,7 +43,7 @@ The Connection Commons creates ongoing relationships around skills, interests, a
 
 > **Like a forest and its mycorrhizal network.** What we see above ground—the trees, shrubs, and plants—is similar to our Connection Commons where community members visibly interact and share. Underground, an intricate network of fungal connections helps trees share nutrients and information—much like our Commitment Commons that quietly facilitates resource exchange. Just as the forest's resilience depends on both what's visible and invisible, our community thrives through both public connections and structured exchanges.
 
-## Commitment Commons Pathway
+## Commitment Commons
 
 The Commitment Commons facilitates tangible exchanges of goods and services through a credit system. Here's how it works:
 
@@ -65,8 +65,9 @@ As the system evolves, future versions may explore different seeding approaches 
 
 The Commitment Commons operates on a simple credit system:
 
-- **1 Credit = 30 minutes of work OR $10 value** of goods/services
+- **1 Credit = 30 minutes of work OR $10 value** of goods/services (as a general rule)
   - *Note: For this pilot phase, we're using a fixed $10 value to simplify tracking and understanding. Future versions may incorporate dynamic valuation such as percentage of minimum wage or inflation-adjusted values.*
+  - *This is only a general rule; certain goods and services may be valued differently and the valuation protocol is an important part of the Commitment Commmons*
 - Credits are created through mutual agreement between members
 - Members can earn unlimited credits by fulfilling commitments
 - Credits can be spent on any available goods or services in the pool
@@ -83,9 +84,9 @@ Following the framework documented in Ruddick's Grassroots Economics book, our C
 
 1. **Curation**: The process of selecting and organizing which commitments are included in our community pool. In our system, this happens through the resource offering registration process, where members specify what goods or services they can provide. Stewards help ensure these offerings align with community values and needs.
 
-2. **Valuation**: Establishing the relative value of different commitments within the pool. Our system uses a straightforward approach: 1 credit = 30 minutes of work OR $10 value of goods/services. This creates a common unit of account that allows diverse contributions to be fairly exchanged.
+2. **Valuation**: Establishing the relative value of different commitments within the pool. Our system uses a straightforward approach as a starting point: 1 credit = 30 minutes of work OR $10 value of goods/services. This creates a common unit of account that allows diverse contributions to be fairly exchanged.
 
-3. **Limitation**: Setting maximum quantities or boundaries on commitments to prevent imbalances. Our system implements this through issuance limits (maximum negative balance of -10 credits) and optional holding limits (maximum positive balance of 10 credits) to ensure system stability and prevent overcommitment.
+3. **Limitation**: Setting maximum quantities or boundaries on commitments to prevent imbalances. Our system implements this through issuance limits (maximum negative balance of -10 credits) to ensure system stability and prevent overcommitment.
 
 4. **Exchange**: The protocols that govern how, when, and under what conditions commitments can be exchanged. Our system allows members to exchange directly with each other according to mutually agreed terms, with transactions recorded in the community ledger.
 
