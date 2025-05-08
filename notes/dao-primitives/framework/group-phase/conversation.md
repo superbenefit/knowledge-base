@@ -31,7 +31,7 @@ When the conversation phase is complete, a group is ready to move on to the form
 
 ## Functional Elements
 
-### Dynamic Activities
+### Activities
 
 - **Collective Sense-making:** Participants work together to understand contexts, challenges, and opportunities from multiple perspectives, creating a richer understanding of the problem or opportunity space.
 - **Idea Generation:** Open brainstorming and divergent thinking generate a broad range of possibilities before convergence on specific directions.
