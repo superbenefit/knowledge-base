@@ -76,27 +76,25 @@ A coordination phase group may be ready to evolve to a new form or enter complet
 
 ### State Documentation 
 
-During the Coordination Phase, the group's [group-state](notes/dao-primitives/framework/group-phase/group-state.md) documentation is the critical interface between the group and the network it inhabits. It contains the the agreements between the group and other coordinating entities as well as references to web3 tooling that allows for the decentralized coordination between the group and the network to function effectively: 
+During the Coordination Phase, the group's [group-state](notes/dao-primitives/framework/group-phase/group-state.md) documentation is the critical interface between the group and the network it inhabits. It contains the the agreements between the group and other coordinating entities, as well as references to web3 tooling and onchain information that allows for effective decentralized coordination between the group and its network.
 
 **Purpose Elements:** 
 - Regularly updated strategic priorities aligned with core purpose 
-- Evolution of the group's understanding of its unique contribution 
+- Evolution of the group's strategy and goals
 
 **Practice Elements:** 
-- Refined governance practices. Decent 
-- Refined operational systems optimized for delivery 
-- Partnership agreements and collaboration frameworks 
-- Contributor engagement and coordination mechanisms 
-- Resource management systems focused on optimal allocation 
-- Stakeholder communication and relationship management approaches 
-- Feedback collection and integration processes 
+- Updated governance practices that evolve as the group grows and changes 
+- Maintaining agreements and internal and external coordination processes
+- Evolving contributor engagement and coordination mechanisms 
+- Maintaining treasury and resource allocation practices
+- Ongoing retrospective and feedback processes. plus governance and operational evolution 
+- Records of major group decisions and transactions
 
 **Progress Elements:** 
-- Comprehensive tracking of outputs and outcomes 
-- Evidence of impact and value creation 
-- Documentation of learnings and adaptations 
-- Record of successful collaborations and partnerships 
-- Dashboard of key performance indicators
+- Collaborative project management tools tracking group activities and deliverables 
+- Meeting and other communication platforms
+- Shared workspaces, documentation and data platforms
+- Documentation of learnings and group evolution 
 - Impact metrics that track progress toward key objectives - Clear articulation of how activities connect to broader network goals 
 
 
