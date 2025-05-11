@@ -31,25 +31,10 @@ publish: false
 
 - `note.md` - Basic note template
 - `link.md` - External reference documentation
-- `pattern.md` - Reusable solution documentation
-- `resource.md` - Learning resource documentation
-- `protocol.md` - Process definition
-- `practice.md` - Best practice documentation
-- `primitive.md` - Core concept documentation
+- `artifact.md` - Learning resource documentation
+	- `pattern.md` - Reusable solution documentation
 - `index.md` - Directory listing
 - `tag.md` - Term definition
-
-## Field Types Available
-
-Common field types include:
-- **Input**: Basic text input
-- **Boolean**: True/false values
-- **Select**: Single choice from list
-- **Multi**: Multiple choices from list
-- **File**: Link to vault document
-- **Date**: Calendar date
-- **Object**: Collection of fields
-- **ObjectList**: List of field collections
 
 ## Creating New Types
 
@@ -102,12 +87,3 @@ These types integrate with:
 3. Keep field definitions simple
 4. Use inheritance for shared fields
 5. Test types with example documents
-
-## Support
-
-For questions or issues:
-1. Check plugin documentation
-2. Review example documents
-3. Ask in community channels
-
-For detailed technical documentation, see the [Metadata Menu Plugin Documentation](https://mdelobelle.github.io/metadatamenu/).

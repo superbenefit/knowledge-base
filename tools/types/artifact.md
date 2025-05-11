@@ -7,11 +7,11 @@ filesPaths:
   - artifacts
 bookmarksGroups: 
 excludes: 
-extends: 
+extends: note
 savedViews: []
 favoriteView: 
 fieldsOrder: []
-version: "2.86"
+version: "2.87"
 fields: []
 ---
 %% add type description here %%

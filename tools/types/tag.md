@@ -8,10 +8,10 @@ filesPaths:
   - tags
 bookmarksGroups: 
 excludes: 
-extends: 
+extends: note
 savedViews: []
 favoriteView: 
 fieldsOrder: []
-version: "2.4"
+version: "2.5"
 ---
 %% add type description here %%

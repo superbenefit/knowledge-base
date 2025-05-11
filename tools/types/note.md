@@ -3,7 +3,9 @@ limit: 20
 mapWithTag: false
 icon: notepad-text
 tagNames: 
-filesPaths: 
+filesPaths:
+  - notes
+  - drafts
 bookmarksGroups: 
 excludes: 
 extends: 
@@ -15,7 +17,7 @@ fieldsOrder:
   - RzOKpI
   - ka05Sv
   - 5tGepk
-version: "2.18"
+version: "2.20"
 fields:
   - name: publish
     type: Boolean

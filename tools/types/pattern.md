@@ -5,14 +5,14 @@ icon: layout-template
 tagNames:
   - patterns
 filesPaths:
-  - notes/dao-primitives/patterns
+  - artifacts/patterns
 bookmarksGroups: 
 excludes: 
 extends: artifact
-savedViews: 
+savedViews: []
 favoriteView: 
-fieldsOrder: 
-version: "2.24"
-fields:
+fieldsOrder: []
+version: "2.26"
+fields: 
 ---
 %% add type description here %%

@@ -4,14 +4,15 @@ mapWithTag: true
 icon: notebook-tabs
 tagNames:
   - playbooks
-filesPaths: 
+filesPaths:
+  - artifacts/playbooks
 bookmarksGroups: 
 excludes: 
 extends: artifact
-savedViews: 
+savedViews: []
 favoriteView: 
-fieldsOrder: 
-version: "2.5"
-fields:
+fieldsOrder: []
+version: "2.6"
+fields: 
 ---
 %% add type description here %%
