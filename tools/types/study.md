@@ -7,8 +7,8 @@ tagNames:
 filesPaths: 
 bookmarksGroups: 
 excludes: 
-extends: resource
-savedViews: []
+extends: artifact
+savedViews: 
 favoriteView: 
 fieldsOrder:
   - D3j1km
@@ -26,3 +26,4 @@ fields:
     path: ""
     id: D3j1km
 ---
+%% add type description here %%

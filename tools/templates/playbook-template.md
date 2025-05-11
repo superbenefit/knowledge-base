@@ -16,6 +16,7 @@ studies:
 scale: 
 phase:
 ---
+%% add template description / instructions here %%
 
 <% tp.frontmatter.description %>
 

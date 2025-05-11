@@ -28,11 +28,11 @@ In the context of DAO networks and decentralized systems, "community" takes on s
 
 Communities establish shared identities, norms, and cultural practices that guide behavior and decision-making. This cultural layer provides the social infrastructure necessary for decentralized coordination.
 
-In [DAO to DAO cooperation](artifacts/governance-for-better-futures/Governance%20for%20better%20futures%20-%20DAO%202%20DAO%20Co-operation.md), strong community identity is highlighted as a critical facilitator of cooperation: "these communities have a strong sense of identity and individuals who have deep relationships with one another - these are really important facilitators of cooperation."
+In [DAO to DAO cooperation](Governance%20for%20better%20futures%20-%20DAO%202%20DAO%20Co-operation.md), strong community identity is highlighted as a critical facilitator of cooperation: "these communities have a strong sense of identity and individuals who have deep relationships with one another - these are really important facilitators of cooperation."
 
 ### Community in Social Impact
 
-In social impact contexts, communities are both beneficiaries and active participants in designing and implementing solutions. [Reimagining Power](artifacts/Reimagining%20Power%20-%20How%20Web3%20Can%20Transform%20Impact.md) emphasizes the importance of community-driven approaches that transfer power and resources to those directly affected by social challenges.
+In social impact contexts, communities are both beneficiaries and active participants in designing and implementing solutions. [Reimagining Power](Reimagining%20Power%20-%20How%20Web3%20Can%20Transform%20Impact.md) emphasizes the importance of community-driven approaches that transfer power and resources to those directly affected by social challenges.
 
 Community involvement ensures that solutions are contextually appropriate, culturally sensitive, and aligned with local needs and priorities. Web3 technologies can enhance this by enabling more direct community participation in decision-making and resource allocation through mechanisms like participatory grantmaking and community-owned funding pools.
 
@@ -52,7 +52,7 @@ The [DAO Primitives framework](notes/dao-primitives/dao-primitives.md) describes
 
 In [Community Governance](notes/rpp/working-docs/community-governance.md), "community" refers to the broad base of stakeholders who participate in governing a network's overarching purpose and direction. This constituency-scale governance operates through deliberative mechanisms like conviction voting and makes long-term decisions about network direction and treasury allocation.
 
-As described in [Building DAOs as scalable networks](artifacts/network-evolution/Building%20DAOs%20as%20scalable%20networks.md), community governance "safeguards the purpose of the network" and includes a diverse set of stakeholders: "Cell contributors, founders, partners (sponsors, funders etc), as well as others that have a stake in the purpose of the network but may not be contributing directly to its operations."
+As described in [Building DAOs as scalable networks](Building%20DAOs%20as%20scalable%20networks.md), community governance "safeguards the purpose of the network" and includes a diverse set of stakeholders: "Cell contributors, founders, partners (sponsors, funders etc), as well as others that have a stake in the purpose of the network but may not be contributing directly to its operations."
 
 ### Community in Group Development
 

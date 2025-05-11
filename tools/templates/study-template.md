@@ -9,6 +9,7 @@ publish: "false"
 type: study
 case: 
 ---
+%% add template description / instructions here %%
 
 <% tp.frontmatter.description %>
 

@@ -9,6 +9,7 @@ aliases:
 tags:
   - "#concept-name" # Choose categories like: functions, qualities, resources, actions, agreements
 ---
+%% add template description / instructions here %%
 
 *A concise definition (1-3 sentences) that captures the essence of the concept. This should be immediately understandable to newcomers while remaining technically precise.*
 

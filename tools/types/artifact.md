@@ -1,15 +1,17 @@
 ---
 limit: 20
 mapWithTag: false
-icon: folder-search
+icon: package
 tagNames: 
-filesPaths: 
+filesPaths:
+  - artifacts
 bookmarksGroups: 
 excludes: 
 extends: 
 savedViews: []
 favoriteView: 
 fieldsOrder: []
-version: "2.1"
+version: "2.86"
+fields: []
 ---
 %% add type description here %%

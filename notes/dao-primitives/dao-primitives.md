@@ -95,11 +95,11 @@ Supporting materials including templates and tools for implementation.
 
 The DAO Primitives approach draws on insights from the Network Evolution series of articles, which explore how DAOs can function as networks rather than traditional organizations:
 
-1. **[DAOs aren't things... they are flows](artifacts/network-evolution/DAOs%20aren't%20things...%20they%20are%20flows..md)**: Reconceptualizing DAOs as networks with coordinated resource flows
-2. **[Scale and the levers that provide DAOs their power](artifacts/network-evolution/Scale%20and%20the%20levers%20that%20provide%20DAOs%20their%20power.md)**: How DAOs can harness both efficiency scaling and innovation scaling
-3. **[DAOs - From fractal primitives to network scale](artifacts/network-evolution/DAOs%20-%20From%20fractal%20primitives%20to%20network%20scale..md)**: How networks of autonomous cells can scale while maintaining coherence
-4. **[Minimum Viable Permissionless-ness](artifacts/network-evolution/Minimum%20Viable%20Permissionless-ness.md)**: How to balance openness with effective coordination
-5. **[Building DAOs as scalable networks](artifacts/network-evolution/Building%20DAOs%20as%20scalable%20networks.md)**: A practical model for multi-scale governance
+1. **[DAOs aren't things... they are flows](DAOs%20aren't%20things...%20they%20are%20flows..md)**: Reconceptualizing DAOs as networks with coordinated resource flows
+2. **[Scale and the levers that provide DAOs their power](Scale%20and%20the%20levers%20that%20provide%20DAOs%20their%20power.md)**: How DAOs can harness both efficiency scaling and innovation scaling
+3. **[DAOs - From fractal primitives to network scale](DAOs%20-%20From%20fractal%20primitives%20to%20network%20scale..md)**: How networks of autonomous cells can scale while maintaining coherence
+4. **[Minimum Viable Permissionless-ness](Minimum%20Viable%20Permissionless-ness.md)**: How to balance openness with effective coordination
+5. **[Building DAOs as scalable networks](Building%20DAOs%20as%20scalable%20networks.md)**: A practical model for multi-scale governance
 
 These articles provide the theoretical foundations for the more practical focus of the DAO Primitives resources.
 

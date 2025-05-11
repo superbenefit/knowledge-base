@@ -156,5 +156,5 @@ The limited liability company primitive was able to produce the vastly complex g
 
 ### Article Series
 
-- Previous: [Scale and the levers that provide DAOs their power](artifacts/network-evolution/Scale%20and%20the%20levers%20that%20provide%20DAOs%20their%20power.md)
-- Next: [Minimum Viable Permissionless-ness](artifacts/network-evolution/Minimum%20Viable%20Permissionless-ness.md)
+- Previous: [Scale and the levers that provide DAOs their power](Scale%20and%20the%20levers%20that%20provide%20DAOs%20their%20power.md)
+- Next: [Minimum Viable Permissionless-ness](Minimum%20Viable%20Permissionless-ness.md)

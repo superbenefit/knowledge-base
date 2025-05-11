@@ -13,8 +13,9 @@ qualities:
 scale: 
 phase:
 ---
+%% add template description / instructions here %%
 
-<% tp.frontmatter.description || "%% Please add a ddescription %%" %>
+<% tp.frontmatter.description || "%% Please add a description %%" %>
 
 %% Introduce the pattern here %%
 

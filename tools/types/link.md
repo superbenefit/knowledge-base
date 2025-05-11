@@ -13,3 +13,4 @@ favoriteView:
 fieldsOrder: []
 version: "2.4"
 ---
+%% add type description here %%

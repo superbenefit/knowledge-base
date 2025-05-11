@@ -133,6 +133,6 @@ You have a system that can [scale](tags/groups/scale/index.md) collective intell
 
 ### Article Series
 
-- Previous: [DAOs - From fractal primitives to network scale.](artifacts/network-evolution/DAOs%20-%20From%20fractal%20primitives%20to%20network%20scale..md)
+- Previous: [DAOs - From fractal primitives to network scale.](DAOs%20-%20From%20fractal%20primitives%20to%20network%20scale..md)
     
-- Next: [Building DAOs as scalable networks](artifacts/network-evolution/Building%20DAOs%20as%20scalable%20networks.md)
+- Next: [Building DAOs as scalable networks](Building%20DAOs%20as%20scalable%20networks.md)

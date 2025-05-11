@@ -8,7 +8,9 @@ author:
 tags:
 ---
 
-Definition coming soon...
+%% add template description / instructions here %%
+
+%% add template here %%
 
 ---
 

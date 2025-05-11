@@ -1,11 +1,10 @@
 ---
-title: DAOs aren't things... they are flows.
-url: https://superbenefit.mirror.xyz/3-ESNDLcf44dZ6VteaqZSpQuTL0oouSxlLJwuAlcQ_s
+title: Scale and the levers that provide DAOs their power
+url: https://superbenefit.mirror.xyz/unisNGUtHyRF7Zcp9CBbC-VhICOvVm0uzTFJUPX-Icg
 author:
   - yeoro.eth
   - lewwwk.eth
   - heenal.eth
-  - michellebaldwin.eth
 tags:
   - daos
   - governance
@@ -17,7 +16,7 @@ _Rowan is a contributor to [SuperBenefitDAO](https://www.superbenefit.org/) and 
 
 ### Goodbye “business model”. Hello “network economy”
 
-As we described in our recent article [DAOs aren't things... they are flows.](artifacts/network-evolution/DAOs%20aren't%20things...%20they%20are%20flows..md) Web3 presents the possibility of a new paradigm to replace the company-centric paradigm that has been evolving over the past 400 years.
+As we described in our recent article [DAOs aren't things... they are flows.](DAOs%20aren't%20things...%20they%20are%20flows..md), Web3 presents the possibility of a new paradigm to replace the company-centric paradigm that has been evolving over the past 400 years.
 
 ![](https://superbenefit.mirror.xyz/_next/image?url=https%3A%2F%2Fimages.mirror-media.xyz%2Fpublication-images%2FwzujkB3B59tUd80JEcLsV.png&w=3840&q=75)
 
@@ -25,7 +24,7 @@ If we can shed this ‘company as centralising entity’ paradigm and instead se
 
 DAOs and companies are fundamentally different systems. Companies operate **business models**. DAOs are **network economies**. And this distinction is at the heart of why DAOs have the potential to usher in a new paradigm.
 
-Unpacking what network economies are and how they are different and more powerful than business models will require some framing. The concept of scale will be our way into understanding this; and to explain scale, I will lean heavily on Geoffrey West’s work on the dynamics of how systems scale.
+Unpacking what network economies are and how they are different and more powerful than business models will require some framing. The concept of [index](tags/groups/scale/index.md) will be our way into understanding this; and to explain scale, I will lean heavily on Geoffrey West’s work on the dynamics of how systems scale.
 
 A fuller explanation can be found [here](https://www.youtube.com/watch?v=nxgHyPCCqaw&t=2s), but at a high level there are two fundamental dynamics to understand:
 
@@ -35,9 +34,9 @@ I will start by outlining both of these dynamics and, if I do this well, hopeful
 
 ![](https://superbenefit.mirror.xyz/_next/image?url=https%3A%2F%2Fimages.mirror-media.xyz%2Fpublication-images%2FbauTbkeITvUDgsK_5MJdW.png&w=3840&q=75)
 
-West’s work starts with understanding that biological systems [scale](tags/groups/scale/index.md) in a **sub-linear** way, meaning that as biological systems (mammals, insects, trees, etc) increase in size they become more efficient in a uniform and predictable way. For example, if you double the size of a mouse, it will only require 75% more food, oxygen, water and so forth; its heart will beat slower, and it will live longer. And the equations that predict this are accurate all the way up from a mouse to an elephant or a blue whale; each doubling in size produces a corresponding 25% increase in efficiency. The mechanisms that cause this phenomena have to do with the concept called **fractal scaling hierarchies**.
+West’s work starts with understanding that biological systems scale in a **sub-linear** way, meaning that as biological systems (mammals, insects, trees, etc) increase in size they become more efficient in a uniform and predictable way. For example, if you double the size of a mouse, it will only require 75% more food, oxygen, water and so forth; its heart will beat slower, and it will live longer. And the equations that predict this are accurate all the way up from a mouse to an elephant or a blue whale; each doubling in size produces a corresponding 25% increase in efficiency. The mechanisms that cause this phenomena have to do with the concept called **fractal scaling hierarchies**.
 
-Biological systems create fractal hierarchies with branching structures and every layer in the hierarchy creates an increase in efficiency. A good example is the cardiovascular system of a mammal. All of us mammals have a heart that pumps blood around our bodies in the same way; the heart pumps blood under pressure into an aorta which branches into two arteries. These then branch into more arteries and these then branch into still more. The physics that govern this system means that the more layers in the branching hierarchy, the more efficient the system becomes (the amount of work your heart has to do to get oxygenated blood to every [cell](notes/dao-primitives/test-resources/test-pattern.md) in your body drops as you grow). This is why a 220 ton blue whale’s heart only has to beat 11 times per minute to circulate blood to every cell in its body, while a mouse’s heart needs to beat 500 times a minute to do the same thing. And every mammal in between these two exhibits the exact same heart rate to size ratio.
+Biological systems create fractal hierarchies with branching structures and every layer in the hierarchy creates an increase in efficiency. A good example is the cardiovascular system of a mammal. All of us mammals have a heart that pumps blood around our bodies in the same way; the heart pumps blood under pressure into an aorta which branches into two arteries. These then branch into more arteries and these then branch into still more. The physics that govern this system means that the more layers in the branching hierarchy, the more efficient the system becomes (the amount of work your heart has to do to get oxygenated blood to every cell in your body drops as you grow). This is why a 220 ton blue whale’s heart only has to beat 11 times per minute to circulate blood to every cell in its body, while a mouse’s heart needs to beat 500 times a minute to do the same thing. And every mammal in between these two exhibits the exact same heart rate to size ratio.
 
 Amazing as this is, what is more incredible is that this dynamic holds true for human-built systems too. This scaling effect is the fundamental dynamic that makes companies work. As a business grows, it is essentially building a set of branching hierarchies that generate economies of scale using the [same mathematics](https://arxiv.org/abs/2109.10379) that mammals, insects and trees use to grow. As the company increases its size and adds more layers to its hierarchy, efficiencies are gained across all the layers in the hierarchy. This causes the unit cost of the goods it produces to fall as its size increases. This is known as **sub-linear scaling**, where the use of resources becomes more and more efficient as the system grows in size.
 
@@ -115,4 +114,5 @@ And to do this DAOs have to be able to leverage **both** Dynamic-One **and** Dyn
 
 ### Article Series
 
-- Next: [Scale and the levers that provide DAOs their power](artifacts/network-evolution/Scale%20and%20the%20levers%20that%20provide%20DAOs%20their%20power.md)
+- Previous: [DAOs aren't things, they are flows](DAOs%20aren't%20things,%20they%20are%20flows)
+- Next: [DAOs - From fractal primitives to network scale.](DAOs%20-%20From%20fractal%20primitives%20to%20network%20scale..md)

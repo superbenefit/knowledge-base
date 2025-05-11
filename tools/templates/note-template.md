@@ -8,6 +8,7 @@ curator:
 publish: "false"
 type: note
 ---
+%% add template description / instructions here %%
 
 description
 

@@ -8,10 +8,11 @@ filesPaths:
   - notes/dao-primitives/patterns
 bookmarksGroups: 
 excludes: 
-extends: resource
-savedViews: []
+extends: artifact
+savedViews: 
 favoriteView: 
-fieldsOrder: []
+fieldsOrder: 
 version: "2.24"
-fields: []
+fields:
 ---
+%% add type description here %%

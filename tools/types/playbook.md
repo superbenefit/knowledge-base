@@ -7,10 +7,11 @@ tagNames:
 filesPaths: 
 bookmarksGroups: 
 excludes: 
-extends: resource
-savedViews: []
+extends: artifact
+savedViews: 
 favoriteView: 
-fieldsOrder: []
+fieldsOrder: 
 version: "2.5"
-fields: []
+fields:
 ---
+%% add type description here %%
