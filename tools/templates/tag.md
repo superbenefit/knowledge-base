@@ -9,7 +9,7 @@ aliases:
 tags:
   - "#concept-name" # Choose categories like: functions, qualities, resources, actions, agreements
 ---
-%% add template description / instructions here %%
+%% This template creates an entry in the SuperBenefit lexicon - our shared vocabulary of concepts, terms, and ideas. Use it to document terminology used throughout the knowledge base, creating consistency and clarity in communication. The structured format guides you through defining the concept, explaining its context-specific uses, and connecting it to related concepts. %%
 
 *A concise definition (1-3 sentences) that captures the essence of the concept. This should be immediately understandable to newcomers while remaining technically precise.*
 

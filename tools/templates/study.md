@@ -9,7 +9,7 @@ publish: "false"
 type: study
 case: 
 ---
-%% add template description / instructions here %%
+%% This template creates a case study documenting real-world implementation of DAO patterns, primitives, or approaches. Use it to capture empirical evidence and concrete examples that validate theoretical concepts. The structure guides you through documenting the background context, implementation process, outcomes, and lessons learned from practical application. %%
 
 <% tp.frontmatter.description %>
 

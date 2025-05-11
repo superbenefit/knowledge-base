@@ -45,4 +45,8 @@ fields:
     path: ""
     id: ka05Sv
 ---
-%% add type description here %%
+The Note type serves as the foundation for content creation in the SuperBenefit Knowledge Base. It defines the essential metadata structure for works-in-progress, research notes, and evolving ideas.
+
+As the base type that most other types extend from, Note establishes core fields including title, description, curator, and harvester information. Notes represent dynamic, evolving content that may eventually mature into more structured artifacts.
+
+This type is primarily used in the `/notes/` and `/drafts/` directories, supporting the knowledge development cycle where ideas begin as personal drafts before evolving into collaborative notes and eventually becoming polished artifacts.

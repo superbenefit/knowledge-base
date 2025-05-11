@@ -1,89 +1,85 @@
-# Types Directory
+# Types System Documentation
 
-This directory contains metadata type definitions (fileClasses) that specify structured metadata for different kinds of documents in our knowledge base. These types help maintain consistent structure and enable powerful querying and organization.
+This directory contains the metadata type definitions (fileClasses) that power the SuperBenefit Knowledge Base's structured content system. These files define the metadata schema for different content types, enabling consistent structure, powerful querying capabilities, and specialized user interfaces for content creation and editing.
 
-## Overview
+## Technical Implementation
 
-Types (fileClasses) define important information about a document:
-- What metadata fields a document should have
-- What values those fields can contain
-- How those fields can be edited
-- How documents relate to each other
+Each `.md` file in this directory defines a type (fileClass) that specifies metadata fields, validation rules, and inheritance relationships. The Metadata Menu plugin reads these definitions to provide appropriate editing interfaces and enforce data validation.
 
-## How It Works
+Types are implemented using Obsidian's Metadata Menu plugin with YAML frontmatter defining the schema. For example:
 
-1. Each `.md` file in this directory defines a type
-2. Documents can reference these types using `fileClass` in their frontmatter
-3. The Metadata Menu plugin enforces type definitions and provides UI for editing
-4. Types can extend other types to inherit their fields
-
-Example type usage:
 ```yaml
 ---
-fileClass: note
-title: My Document
-type: note
-publish: false
----
-```
-
-## Available Types
-
-- `note.md` - Basic note template
-- `link.md` - External reference documentation
-- `artifact.md` - Learning resource documentation
-	- `pattern.md` - Reusable solution documentation
-- `index.md` - Directory listing
-- `tag.md` - Term definition
-
-## Creating New Types
-
-1. Create a new `.md` file in this directory
-2. Add required metadata definition:
-```yaml
----
+limit: 20
+mapWithTag: false
+icon: notepad-text
+tagNames: 
+filesPaths:
+  - notes
+  - drafts
+extends: 
+version: "2.20"
 fields:
   - name: title
     type: Input
+    options: {}
   - name: description
     type: Input
+    options: {}
   - name: publish
     type: Boolean
+    options: {}
 ---
 ```
-3. Document the type's purpose below the frontmatter
 
 ## Type Inheritance
 
-Types can extend other types using the `extends` field:
+The system supports inheritance through the `extends` field, allowing types to build upon one another. This creates a hierarchical relationship where child types inherit all fields from their parent while adding specialized fields or overriding existing ones.
+
+For example, the `artifact` type extends the base `note` type, while `pattern` extends `artifact`:
+
 ```yaml
----
+# In artifact.md
 extends: note
-fields:
-  - name: additionalField
-    type: Input
----
+
+# In pattern.md
+extends: artifact
 ```
 
-## Usage
+This inheritance system creates a well-organized type hierarchy that balances consistency with specialization.
 
-To use a type in a document:
-1. Add `fileClass: typename` to frontmatter
-2. Use Metadata Menu plugin features to edit fields
-3. Access via context menu, command palette, or inline editing
+## Creating New Types
 
-## Integration
+To create a new type definition:
 
-These types integrate with:
-- Obsidian Metadata Menu plugin
-- Dataview queries
-- Template system
-- Publishing workflow
+1. Create a new `.md` file in this directory
+2. Define the metadata schema in the frontmatter using Metadata Menu syntax
+3. Add a descriptive comment below the frontmatter explaining the type's purpose
+4. If extending another type, specify the parent using the `extends` field
+5. Configure any specialized settings like `mapWithTag`, `icon`, and `filesPaths`
+
+## Integration Points
+
+The type system integrates with several other components of the knowledge base:
+
+**Templates**: Each type typically has one or more corresponding templates in `/tools/templates/` that implement its metadata schema with appropriate content structure.
+
+**Dataview Queries**: Types enable consistent querying and filtering through the Dataview plugin by ensuring predictable metadata fields.
+
+**Publishing Workflow**: The `publish` field common to many types controls whether content appears in the public knowledge garden.
+
+**Navigation**: Types influence how content appears in navigation, search results, and other discovery mechanisms.
 
 ## Best Practices
 
-1. Start with existing types when possible
-2. Document new types thoroughly
-3. Keep field definitions simple
-4. Use inheritance for shared fields
-5. Test types with example documents
+When working with the type system, follow these guidelines to maintain consistency and functionality:
+
+Start with existing types whenever possible rather than creating new ones. The base types cover most common use cases.
+
+Document new types thoroughly with clear descriptions of their purpose, use cases, and fields.
+
+Keep field definitions simple and intuitive, using inheritance to maintain consistency across related types.
+
+Test new types with real content to ensure they work as expected and integrate properly with templates and queries.
+
+Consult the Metadata Menu plugin documentation when defining complex field types or validation rules.
