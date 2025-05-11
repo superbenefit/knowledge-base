@@ -21,7 +21,7 @@ This document references and explains the key diagrams illustrating the Impact Y
 
 ## 1. Yield Fund High Level
 
-![Yield Fund High Level](../../../images/yield-fund-diagram.png)
+![[Pasted image 20250507140746.png]]
 
 This diagram illustrates the basic structure of the yield fund:
 
@@ -35,7 +35,7 @@ This high-level view shows the separation between yield generation and yield all
 
 ## 2. SuperBenefit Impact Fund Value Flows (Simplified)
 
-![v2 (simplified) SB Impact Fund Value Flows](../../../images/superb-impact-fund-flows.png)
+![[Pasted image 20250507141003.png]]
 
 This more detailed diagram shows:
 
@@ -51,7 +51,7 @@ The diagram demonstrates how corporate funders/foundations/endowments provide ca
 
 ## 3. Breadchain Value Flows
 
-![Breadchain Value Flows](../../../images/breadchain-value-flows.png)
+![[Pasted image 20250507140859.png]]
 
 This diagram shows a parallel model implemented by Breadchain Co-op:
 
@@ -65,7 +65,7 @@ This model provides inspiration for a cooperative approach to impact fund govern
 
 ## 4. SB Impact Fund Value Flows (Comprehensive)
 
-![SB Impact Fund Value Flows](../../../images/sb-impact-fund-flows.png)
+![[Pasted image 20250507140913.png]]
 
 This comprehensive diagram shows:
 
@@ -77,11 +77,6 @@ This comprehensive diagram shows:
 
 This view provides the full ecosystem perspective on how the Impact Yield Fund connects to broader regenerative finance work.
 
-## Notes on Diagram Storage
-
-The diagrams are referenced here but should be stored in an appropriate images directory within the CCC project structure. The paths above assume a standard organization with an images folder at the repository root level.
-
-If the images are not yet stored in the repository, they should be added and the paths updated accordingly.
 
 ---
 

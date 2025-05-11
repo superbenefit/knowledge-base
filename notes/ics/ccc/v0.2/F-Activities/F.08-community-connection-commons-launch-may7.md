@@ -55,7 +55,7 @@ This inaugural event serves as our Community Connection & Commitment Commons lau
 - **Welcome & Land Acknowledgment** (3 min): Brief welcome that acknowledges the traditional territory and connects care for land with care for community.
 - **Introduction to Community Connection & Commitment Commons** (7 min): Concise overview of the core concept, values, and how the Commitment Commons works.
 - **Grounding Meditation** (5 min): Short guided meditation focusing on abundance, interconnection, and gratitude.
-- **Intention Setting** (5 min): Participants share in pairs what brought them here and what they hope to experience.
+- **Intention Setting** (5 min): Participants share what brought them here and what they hope to experience.
 - **Materials needed**: Talking piece, chime or bell, visual aid showing commitment pool concept
 - **Facilitation note**: Keep explanations simple and relatable; focus on building a warm, welcoming atmosphere rather than explaining all system details.
 
