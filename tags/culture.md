@@ -22,15 +22,15 @@ In network organizations, culture plays a particularly vital role by providing c
 
 ### Culture in DAO Formation and Evolution
 
-In DAO contexts, culture serves as both the foundation for initial formation and a key determinant of long-term success. As explored in [Governance for better futures - DAO 2 DAO Co-operation](artifacts/governance-for-better-futures/Governance%20for%20better%20futures%20-%20DAO%202%20DAO%20Co-operation.md), communities with "strong sense of identity and individuals who have deep relationships with one another" create the social fabric upon which effective coordination depends. This cultural substrate enables the trust and mutual understanding necessary for decentralized governance to function effectively.
+In DAO contexts, culture serves as both the foundation for initial formation and a key determinant of long-term success. As explored in [Governance for better futures - DAO 2 DAO Co-operation](Governance%20for%20better%20futures%20-%20DAO%202%20DAO%20Co-operation.md), communities with "strong sense of identity and individuals who have deep relationships with one another" create the social fabric upon which effective coordination depends. This cultural substrate enables the trust and mutual understanding necessary for decentralized governance to function effectively.
 
-Culture in DAOs develops through intentional practices such as onboarding rituals, shared terminology, governance participation, and collaborative creation. These experiences create what [[artifacts/network-evolution/Minimum Viable Permissionless-ness]] describes as the "magic that we all saw in DAOs in the first place" - the sense of shared purpose and possibility that motivates participation and commitment beyond transactional engagement.
+Culture in DAOs develops through intentional practices such as onboarding rituals, shared terminology, governance participation, and collaborative creation. These experiences create what [[Minimum Viable Permissionless-ness]] describes as the "magic that we all saw in DAOs in the first place" - the sense of shared purpose and possibility that motivates participation and commitment beyond transactional engagement.
 
 ### Culture as Coordination Mechanism
 
 Culture functions as a powerful coordination mechanism in decentralized systems by establishing implicit agreements about how participants will interact and make decisions. As described in Scale and the levers that provide DAOs their power, this enables DAOs to operate as "purpose-aligned networks of small autonomous teams" without requiring detailed rules or oversight.
 
-This cultural coordination works through shared mental models, behavioral norms, and tacit knowledge that participants internalize and apply across contexts. When team members share cultural understanding, they naturally align their decisions with network values and purpose without requiring explicit direction. This creates what [Building DAOs as scalable networks](artifacts/network-evolution/Building%20DAOs%20as%20scalable%20networks.md) calls "network intelligence that flows" - collective capacity for adaptation and sense-making beyond what any individual or central authority could achieve.
+This cultural coordination works through shared mental models, behavioral norms, and tacit knowledge that participants internalize and apply across contexts. When team members share cultural understanding, they naturally align their decisions with network values and purpose without requiring explicit direction. This creates what [Building DAOs as scalable networks](Building%20DAOs%20as%20scalable%20networks.md) calls "network intelligence that flows" - collective capacity for adaptation and sense-making beyond what any individual or central authority could achieve.
 
 ### Culture in Knowledge and Practices
 
@@ -40,7 +40,7 @@ The relationship between culture and practices is reciprocal: practices embody a
 
 ### Culture Across Network Boundaries
 
-In multi-DAO ecosystems, culture plays a crucial role in enabling cooperation and knowledge transfer across organizational boundaries. As discussed in [Governance for better futures - DAO 2 DAO Co-operation](artifacts/governance-for-better-futures/Governance%20for%20better%20futures%20-%20DAO%202%20DAO%20Co-operation.md), cultural affinity creates the conditions for alliance formation and resource sharing between autonomous organizations without requiring formal integration.
+In multi-DAO ecosystems, culture plays a crucial role in enabling cooperation and knowledge transfer across organizational boundaries. As discussed in [Governance for better futures - DAO 2 DAO Co-operation](Governance%20for%20better%20futures%20-%20DAO%202%20DAO%20Co-operation.md), cultural affinity creates the conditions for alliance formation and resource sharing between autonomous organizations without requiring formal integration.
 
 These inter-organizational cultural connections form through various mechanisms, including:
 

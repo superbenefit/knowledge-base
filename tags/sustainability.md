@@ -29,7 +29,7 @@ The sustainability challenges of early proof-of-work blockchains have driven inn
 
 For Decentralized Autonomous Organizations, sustainability involves creating structures and processes that can endure and evolve while maintaining alignment with core purpose. As described in Building DAOs as scalable networks, sustainable DAOs leverage both sub-linear scaling dynamics (for efficiency) and super-linear social network effects (for innovation), creating positive feedback loops similar to those that allow cities to thrive over centuries.
 
-Unlike traditional organizations that often decay and die as their infrastructure becomes rigid, sustainable DAOs design for adaptability, incorporating mechanisms for renewal and regeneration. As noted in [Scale and the levers that provide DAOs their power](artifacts/network-evolution/Scale%20and%20the%20levers%20that%20provide%20DAOs%20their%20power.md): "Like cities, leveraging Dynamics One & Two, DAO networks can benefit from the same positive feedback loops as they grow. Increasing economies of scale make them powerful, while constant creativity, innovation and responsiveness keep them alive and relevant to a changing world."
+Unlike traditional organizations that often decay and die as their infrastructure becomes rigid, sustainable DAOs design for adaptability, incorporating mechanisms for renewal and regeneration. As noted in [Scale and the levers that provide DAOs their power](Scale%20and%20the%20levers%20that%20provide%20DAOs%20their%20power.md): "Like cities, leveraging Dynamics One & Two, DAO networks can benefit from the same positive feedback loops as they grow. Increasing economies of scale make them powerful, while constant creativity, innovation and responsiveness keep them alive and relevant to a changing world."
 
 ### Sustainability in Community Governance
 
@@ -53,6 +53,6 @@ Sustainable approaches to social impact often emphasize cosmolocalism, combining
 
 ## References and Resources
 
-- [Building DAOs as scalable networks](artifacts/network-evolution/Building%20DAOs%20as%20scalable%20networks.md) - Discusses sustainability from an organizational resilience perspective
-- [Scale and the levers that provide DAOs their power](artifacts/network-evolution/Scale%20and%20the%20levers%20that%20provide%20DAOs%20their%20power.md) - Explores dynamics that enable long-term sustainability
-- [Governance for better futures - New and Old](artifacts/governance-for-better-futures/Governance%20for%20better%20futures%20-%20New%20and%20Old.md) - Connects indigenous wisdom with modern sustainability approaches
+- [Building DAOs as scalable networks](Building%20DAOs%20as%20scalable%20networks.md) - Discusses sustainability from an organizational resilience perspective
+- [Scale and the levers that provide DAOs their power](Scale%20and%20the%20levers%20that%20provide%20DAOs%20their%20power.md) - Explores dynamics that enable long-term sustainability
+- [Governance for better futures - New and Old](Governance%20for%20better%20futures%20-%20New%20and%20Old.md) - Connects indigenous wisdom with modern sustainability approaches

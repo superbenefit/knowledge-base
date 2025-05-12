@@ -26,7 +26,11 @@ When the conversation phase is complete, a group is ready to move on to the form
 * **Informal Processes:** Processes are typically informal and adaptable. The emphasis is on flexibility and responsiveness to emerging ideas and insights. The group may identify as a squad or some other informal group type. 
 * **Emergent Direction:** Rather than following predetermined paths, groups in this phase allow direction to emerge organically through dialogue, discovering areas of resonance and energy within the collective.
 * **Cognitive Diversity:** The conversation phase benefits from diverse perspectives, allowing for a richer exploration of possibilities and the identification of approaches that might not be visible from any single viewpoint.
+<<<<<<< HEAD
 * **Permissionless Exploration:** Participants engage without requiring formal authority or approval, embodying the concept of [minimum viable permissionless-ness](artifacts/network-evolution/Minimum%20Viable%20Permissionless-ness.md) where anyone can identify an opportunity and begin working on it.
+=======
+* **Permissionless Exploration:** Participants engage without requiring formal authority or approval, embodying the concept of [minimum viable permissionless-ness](Minimum%20Viable%20Permissionless-ness.md) where anyone can identify an opportunity and begin working on it.
+>>>>>>> 4152b0269c40331be2a5ff23ee4126dc2b3e8c6d
 
 
 ## Functional Elements

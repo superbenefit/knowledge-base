@@ -1,188 +1,196 @@
-# Using Templates
+# Template System Documentation
 
-This directory contains template files used to create new documents with consistent structure and metadata. Templates work in conjunction with our type system to provide both structured metadata and formatted content.
+This directory contains template files that serve as the foundation for consistent content creation in the SuperBenefit Knowledge Base. Templates work hand-in-hand with our type system to ensure that knowledge resources maintain consistent structure, metadata, and formatting throughout their development lifecycle.
 
-## Overview
+## Understanding Templates in Context
 
-Templates are markdown files that:
-- Define default content structure
-- Include required metadata fields
-- Can be quickly inserted into new documents
-- Work with our type system
+Templates in this knowledge base do more than provide basic structure—they embody our approach to collaborative knowledge development. When contributors use these templates, they aren't just following a format; they're participating in a carefully designed system that helps knowledge evolve naturally from rough drafts to polished artifacts.
 
-## How Templates Work
+Each template implements a specific content type (defined in `/tools/types/`) and provides appropriate structure for that type of knowledge resource. This consistent structure helps readers quickly find and understand information while also making it easier to connect related concepts across the knowledge base.
 
-1. Templates provide starter content for new documents
-2. Each template implements one or more types (fileClasses)
-3. Obsidian's template plugin allows quick insertion
-4. Templates can be modified without changing type definitions
+The SuperBenefit Knowledge Base uses a "digital gardening" approach where knowledge develops organically through collaboration. Templates provide the right conditions for this growth while ensuring the resulting content remains accessible and interconnected.
 
-## Basic Usage
+## Technical Implementation
 
-To use a template:
-1. Press `Ctrl/Cmd + P` to open command palette
-2. Type "Template: Insert template"
-3. Select desired template
-4. Template content will be inserted at cursor
+Our templates are markdown files with two key components that work together:
 
-Alternatively:
-- Use `Ctrl/Cmd + T` shortcut
-- Click template icon in left sidebar
-- Use template folder in file explorer
+1. **Frontmatter** - YAML metadata at the top of the file that defines properties like title, description, and publication status. These properties help categorize, organize, and query content throughout the knowledge base.
 
-![](https://youtu.be/b-TJYCrYOWQ)
+2. **Content Structure** - The main body of the template with predefined sections, headings, and guidance that help contributors create well-organized content.
 
-## Available Templates
+Most templates also include helpful comments that explain the purpose of each section and provide guidance on what information to include. These comments appear in the editor but don't show up in the rendered document.
 
-- `Note Template.md` - Basic note structure
-- `Link Template.md` - External reference format
-- `Pattern Template.md` - Pattern documentation
-- `Tag Page Template.md` - Term definition format
-- `Folder Note.md` - Directory documentation
+Here's a simple example of our template structure:
 
-[Previous sections remain exactly the same through "Available Templates"]
-
-## Template Components
-
-A typical template includes:
-
-```yaml
+```markdown
 ---
 title: 
 description: 
-type: note  # Links to type definition
+type: note
 publish: false
 tags:
-  - my-first-tag    # Use kebab-case: lowercase with hyphens
-  - another-tag
 ---
+%% This template creates a basic note for early-stage ideas and research. %%
 
-# Content structure goes here
+# <% tp.frontmatter.title || "Untitled Note" %>
+
+_<% tp.frontmatter.description || "Brief description of this note's purpose." %>_
+
+## Key Points
+
+%% List the main ideas or findings in this section. %%
+
+## Details
+
+%% Expand on your ideas with supporting information. %%
+
+## Questions & Next Steps
+
+%% Note any open questions or actions that follow from this research. %%
 ```
 
-## Working with Types
+## Working with Templates
 
-Templates and types work together:
+### Using Templates in Obsidian
 
-1. Types (in `../types/`) define metadata schema
-2. Templates implement those schemas
-3. Templates can add additional formatting
-4. One type can have multiple templates
+To create a new document using one of our templates:
 
-Example:
-```yaml
-# In types/tag.md
----
-fields:
-  - name: title
-    type: Input
-  - name: type
-    type: Input
-    value: tag
-  - name: aliases
-    type: Multi
----
+1. Navigate to the appropriate directory in your Obsidian vault
+2. Press `Ctrl/Cmd + P` to open the command palette
+3. Type "Template: Insert template" and select the command
+4. Choose the template that matches the type of content you're creating
+5. Fill in the frontmatter fields and replace the placeholder text with your content
 
-# In templates/Tag Page Template.md
----
-title: 
-publish: true
-type: tag
-harvester: 
-tags: []  # Tags use kebab-case: some-tag-name
-aliases:
-  - "#some-tag-name"  # Tag aliases match kebab-case
----
+### Template and Type Integration
+
+Each template implements one or more types defined in `/tools/types/`. The relationship works as follows:
+
+- **Types** define the metadata structure and validation rules for different kinds of content
+- **Templates** implement those types with appropriate frontmatter and content structure
+- **Metadata Menu** uses type definitions to provide a user interface for editing metadata
+
+This separation of concerns means that when you use a template, you're automatically following the metadata requirements defined by its corresponding type.
+
+### Template to Type Mapping
+
+| Template | Type | Purpose |
+|----------|------|---------|
+| note.md | note | Basic research notes and concepts |
+| link.md | link | External resource documentation |
+| tag.md | tag | Lexicon entries for terminology |
+| pattern.md | pattern | Reusable organizational solutions |
+| playbook.md | playbook | Implementation guides |
+| study.md | study | Case studies of implementations |
+| index.md | index | Directory overview pages |
+
+## Choosing the Right Template
+
+Select the template that best matches the type of content you're creating:
+
+- Use **note.md** for early-stage ideas and research that's still developing
+- Use **link.md** for documenting external resources with analysis and context
+- Use **tag.md** for defining terminology in our shared vocabulary
+- Use **pattern.md** for documenting reusable solutions to common challenges
+- Use **playbook.md** for comprehensive implementation guides
+- Use **study.md** for case studies of real-world implementations
+- Use **index.md** for directory overview pages
+
+When in doubt, start with the basic note template and refine your content as it develops.
+
+## Templater Features
+
+Many of our templates incorporate the Templater plugin to provide dynamic content generation. Templater uses a special syntax with `<% %>` delimiters to insert dynamic content based on frontmatter fields, file properties, dates, and other variables.
+
+For example, this Templater expression in a template:
+
+```markdown
+# <% tp.frontmatter.title || "Untitled Document" %>
 ```
 
-## Best Practices
+Will automatically insert the title from the frontmatter, or "Untitled Document" if no title is provided.
 
-1. **Keep It Simple**
-   - Start with minimal templates
-   - Add complexity only as needed
-   - Focus on reusability
+Common Templater features in our templates include:
 
-2. **Template Organization**
-   - One template per primary use case
-   - Clear, descriptive names
-   - Document template purpose
+- Automatically using frontmatter values in the document body
+- Providing sensible defaults for empty fields
+- Generating dates and other dynamic content
+- Creating links to related content
 
-3. **Type Integration**
-   - Review type requirements
-   - Include all required fields
-   - Maintain consistent metadata
+If you're creating or modifying templates, we recommend reviewing our [[Guide to Using Templater]] for detailed implementation guidelines.
 
-4. **Content Structure**
-   - Use consistent headings
-   - Include placeholder text
-   - Add helpful comments
+## Best Practices for Template Usage
 
-5. **Tag Naming**
-   - Use kebab-case for all tags
-   - Example: #some-tag-name
-   - Keep tags lowercase
-   - Use hyphens between words
+### Working with Template Comments
 
-## Templating System Practice
+Templates include extensive guidance in the form of comments, which appear in Obsidian's editor but don't show up in the rendered document. These comments are enclosed in `%% comment text %%` delimiters and provide valuable context about what to include in each section.
 
-### Purpose
-This section defines how templates are created and maintained within the knowledge base, working in conjunction with the type system to ensure consistent document structure.
+Read these comments carefully as you fill in the template—they contain important guidance specific to each content type. Feel free to delete the comments once you've completed the corresponding section.
 
-### Standard Structure
-Templates consist of two key parts:
+### Template Modifications
 
-```yaml
-# 1. Frontmatter (required metadata)
----
-title: 
-description: 
-type: [note|pattern|primitive|etc]  # Links to type definition
-publish: false
-tags:
-  - tag-one    # Always use kebab-case
-  - tag-two
----
+While consistency is important, you can adapt templates to suit your specific needs:
 
-# 2. Content Structure
-%% Template guidance in comments %%
+- Add additional sections if needed for your content
+- Remove sections that aren't relevant (while maintaining required metadata)
+- Expand or combine sections as appropriate for your material
 
-Main content sections with clear headers
+The goal is to create content that's clear, useful, and well-structured, not to rigidly follow a template for its own sake.
+
+## Visual Elements
+
+Templates should include guidance for appropriate visual content such as:
+
+- Placement of diagrams and charts
+- Recommended visualization approaches
+- Best practices for image inclusion
+
+When working with visual elements, consider adding placeholder comments for visual elements in appropriate sections:
+
+```markdown
+## Visual Representation
+
+%% Include relevant diagrams or visualizations that help explain this concept.
+Consider using Mermaid diagrams for processes, relationships, or structures. %%
 ```
 
-### Creation Process
-When creating new templates:
-1. Review the corresponding type definition in ../types/
-2. Include all required metadata fields from the type
-3. Add basic content structure with clear headers
-4. Include helpful comments using %% for guidance
-5. Test by creating a new document using the template
+## Creating New Templates
 
-### Maintenance Guidelines
-When updating templates:
-1. Check type definition for changes
-2. Test with the template plugin
-3. Update readme if needed
-4. Document any special usage notes
+If you find yourself repeatedly creating a specific type of content that isn't well-served by existing templates, consider creating a new template:
 
-[Remainder of original content starting with "Template Variables" section remains exactly the same]
+1. Identify the appropriate type from `/tools/types/` or create a new type if needed
+2. Create a new markdown file in this directory with a descriptive name
+3. Define frontmatter fields that satisfy the type's requirements
+4. Add a descriptive comment immediately after the frontmatter explaining the template's purpose
+5. Design the document structure with appropriate headings and sections
+6. Include helpful comments to guide users on what to include in each section
+7. Incorporate Templater syntax for dynamic content where appropriate
+8. Test the template thoroughly by creating sample documents
+9. Update this readme to document the new template
 
-## Customization
+## Naming Conventions
 
-Feel free to:
-- Modify existing templates
-- Create new templates
-- Add custom sections
-- Adjust formatting
+Template files follow these naming conventions:
 
-Templates should serve your workflow, not constrain it.
+- Use plain names that match their corresponding type (e.g., `note.md`, `pattern.md`)
+- Use descriptive names that clearly indicate the content type
 
-## Support
+## Troubleshooting Templates
 
-For help with templates:
-1. Check type documentation
-2. Review example documents
-3. Ask in community channels
+If you encounter issues with templates:
 
----
+- **Templater syntax errors:** Check the Templater console in Obsidian for error messages
+- **Missing metadata fields:** Verify that the template includes all required fields from its corresponding type
+- **Formatting issues:** Ensure that you're using standard markdown syntax
+- **Plugin conflicts:** Check for conflicts with other plugins that might affect template rendering
 
-Remember: Templates are tools to make your work easier. Start simple and adjust as your needs evolve.
+For more complex issues, consult the Obsidian documentation or ask for help in the SuperBenefit community.
+
+## Contributing to Template Improvements
+
+The template system is designed to evolve with the needs of our knowledge base. If you have suggestions for improving existing templates or ideas for new ones, please contribute by:
+
+1. Testing your suggested changes thoroughly
+2. Documenting the rationale for your improvements
+3. Following the contribution guidelines in the main repository readme
+
+Your contributions help make our knowledge base more accessible and useful for everyone.
