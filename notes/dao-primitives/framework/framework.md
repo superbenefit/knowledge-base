@@ -133,7 +133,7 @@ A central goal of the framework is to enable emergent collective intelligence in
 
 ### Permissionless Network Access
 
-As outlined in [Minimum Viable Permissionless-ness](artifacts/network-evolution/Minimum%20Viable%20Permissionless-ness.md), the framework emphasizes three essential freedoms:
+As outlined in [Minimum Viable Permissionless-ness](Minimum%20Viable%20Permissionless-ness.md), the framework emphasizes three essential freedoms:
 
 1. The freedom to work on something without requiring permission
 2. The ability to attract others to work on a project

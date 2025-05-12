@@ -44,4 +44,4 @@ At SuperBenefit, we're exploring the potential and practical uses of web3 primit
 
 Some notes in this knowledge garden represent primitives, and include metadata to help you navigate and discover them.
 
-Notes which represent #primitives are indicated using the [[tools/types/primitive]] file class (`type: primitive`). This file class (a subclass of [[tools/types/resource/resource]] and [[link]] ) contains several metadata fields which are either inherited or unique.
+Notes which represent #primitives are indicated using the [[tools/types/primitive]] file class (`type: primitive`). This file class (a subclass of [[tools/types/resource/resource]] and [[tools/types/link]] ) contains several metadata fields which are either inherited or unique.

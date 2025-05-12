@@ -7,8 +7,8 @@ tagNames:
 filesPaths: 
 bookmarksGroups: 
 excludes: 
-extends: resource
-savedViews: []
+extends: artifact
+savedViews: 
 favoriteView: 
 fieldsOrder:
   - D3j1km
@@ -26,3 +26,8 @@ fields:
     path: ""
     id: D3j1km
 ---
+The Study type documents real-world implementations, applications, and outcomes of DAO patterns, primitives, or approaches. Extending the Artifact type, Studies provide empirical evidence and concrete examples that complement the more theoretical pattern and playbook documentation.
+
+Each Study includes background context, implementation details, outcomes, and reflections on lessons learned. The unique 'case' field connects studies to specific entities or organizations, enabling cross-referencing and comparative analysis across similar implementations.
+
+Tagged with 'studies', this type serves as a critical bridge between theory and practice, validating concepts through real-world examples while also highlighting adaptations, challenges, and unexpected outcomes that emerge during practical application.
