@@ -1,32 +1,36 @@
 {
   "folderSpecificTemplates": [
     {
-      "folderPath": "/",
-      "templateName": "Note Template"
-    },
-    {
       "folderPath": "tags",
-      "templateName": "Tag Page Template"
+      "templateName": "tag"
     },
     {
       "folderPath": "library",
-      "templateName": "Link Template"
+      "templateName": "link"
     },
     {
-      "folderPath": "notes/patterns",
-      "templateName": "Pattern Template"
+      "folderPath": "notes",
+      "templateName": "note"
     },
     {
-      "folderPath": "notes/primitives",
-      "templateName": "Primitive Template"
+      "folderPath": "artifacts",
+      "templateName": ""
     },
     {
-      "folderPath": "notes/playbooks",
-      "templateName": "Playbook Template"
+      "folderPath": "artifacts/articles",
+      "templateName": ""
     },
     {
-      "folderPath": "notes/studies",
-      "templateName": "Study Template"
+      "folderPath": "artifacts/patterns",
+      "templateName": "pattern"
+    },
+    {
+      "folderPath": "artifacts/playbooks",
+      "templateName": "playbook"
+    },
+    {
+      "folderPath": "drafts",
+      "templateName": "note"
     }
   ]
 }

@@ -1,9 +1,4 @@
----
-title: Web3 Library Entry Creation
-description: Prompt for creating standardized entries for resources in the web3 library
-publish: "true"
-type: prompt
----
+Prompt for creating standardized entries for resources in the web3 library
 
 # Web3 Library Entry Creation
 
