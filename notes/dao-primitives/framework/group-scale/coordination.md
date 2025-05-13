@@ -5,6 +5,7 @@ aliases: []
 description: "Characteristics and considerations for groups operating at the Coordination Scale"
 publish: "true"
 ---
+# here
 
 Coordination Scale represents a larger level of group organization than [collaboration scale](notes/dao-primitives/framework/group-scale/collaboration.md)Collaboration Scale.  It involves larger groups or multiple groups working together towards a shared goal, requiring more sophisticated coordination mechanisms and communication strategies.  
 
