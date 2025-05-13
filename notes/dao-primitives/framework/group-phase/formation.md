@@ -118,6 +118,10 @@ Proposal development can centre around the group state document outlined above, 
 
 ---
 
+<<<<<<< HEAD
+# Here
+=======
+>>>>>>> 4152b0269c40331be2a5ff23ee4126dc2b3e8c6d
 
 
 

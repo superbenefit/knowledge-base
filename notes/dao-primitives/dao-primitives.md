@@ -118,10 +118,9 @@ For those implementing a DAO or similar decentralized organization, the primitiv
 ## DAO Primitives Index
 
 %% Begin Waypoint %%
-- **[framework](./framework/framework.md)**
+md)**
 - **[implementation](./implementation/implementation.md)**
 - **[patterns](./patterns/patterns.md)**
-- **[resources](./resources/resources.md)**
-- **[test-resources](./test-resources/test-resources.md)**
+- **[resources](./resources/resources.- **[test-resources](./test-resources/test-resources.md)**
 
 %% End Waypoint %%
