@@ -1,7 +1,7 @@
 ---
 title: Types and Metadata Structures
 description: Overview of metadata types used throughout the knowledge base
-publish: "true"
+publish: false
 type: index
 ---
 
