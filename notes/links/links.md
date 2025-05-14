@@ -1,7 +1,7 @@
 ---
 title: Web3 Library (Working Draft)
 description: A staging area for web3 library entries under review before publication
-publish: "true"
+publish: false
 type: index
 ---
 
