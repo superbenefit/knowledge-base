@@ -30,7 +30,6 @@ When the conversation phase is complete, a group is ready to move on to the form
 * **Permissionless Exploration:** Participants engage without requiring formal authority or approval, embodying the concept of [minimum viable permissionless-ness](artifacts/network-evolution/Minimum%20Viable%20Permissionless-ness.md) where anyone can identify an opportunity and begin working on it.
 =======
 * **Permissionless Exploration:** Participants engage without requiring formal authority or approval, embodying the concept of [minimum viable permissionless-ness](Minimum%20Viable%20Permissionless-ness.md) where anyone can identify an opportunity and begin working on it.
->>>>>>> 4152b0269c40331be2a5ff23ee4126dc2b3e8c6d
 
 
 ## Functional Elements

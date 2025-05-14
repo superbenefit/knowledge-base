@@ -77,7 +77,6 @@ This system is designed to be adaptable. You can fork this repository to create 
 
 ## Additional Resources
 
-- Project overviews in [index.md](index.md)
 - Directory-specific guides in local readme files
 - Technical details in [tools](tools/readme.md)
 - Templates for different content types in [tools/templates](tools/templates/readme.md)
