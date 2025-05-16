@@ -6,7 +6,7 @@ author:
 tags: 
 curator: 
 harvester: 
-publish: true
+publish: false
 type: article
 ---
 %% This template is for harvesting existing published articles into the knowledge base. It focuses on adding proper metadata, summary context, and connecting the article to related content. %%

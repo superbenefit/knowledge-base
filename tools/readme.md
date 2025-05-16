@@ -8,7 +8,7 @@ These tools work together to support our knowledge garden's growth and organizat
 
 - **Templates** help you create new content quickly and consistently
 - **Types** ensure that our documents have the right structure and metadata
-- **Prompts** provide frameworks for AI-assisted content creation
+- **Workflows** provide systematic processes for content creation and management
 
 Together, they form an ecosystem that supports the natural flow of knowledge from initial ideas to polished artifacts.
 
@@ -20,7 +20,7 @@ The tools directory is organized into three main areas, each serving a distinct 
 tools/
 ├── templates/     # Document templates for content creation
 ├── types/         # Metadata type definitions (fileClasses)
-└── prompts/       # AI prompt templates for content generation
+└── workflows/     # Structured processes for knowledge management
 ```
 
 ## Core Components
@@ -57,14 +57,14 @@ See the Types Directory for detailed information.
 
 ## Workflow Tools
 
-### Prompts (`prompts/`)
+### Workflows (`workflows/`)
 
-Prompts are structured frameworks for generating content with AI assistance. They help maintain consistency while accelerating content creation. Our prompt library includes:
+Workflows are structured processes for knowledge management tasks that ensure consistency and quality. They provide step-by-step guides for common activities, integrating tools and best practices. Our workflow collections include:
 
-- `Resource Evaluation Framework` - For assessing external resources for inclusion
-- `Web3 Library Entry Creation` - For creating standardized library entries
+- **Lexicon Workflows** - Processes for creating and enhancing vocabulary entries
+- **Library Workflows** - Methods for evaluating and documenting external resources
 
-Each prompt follows a consistent format and includes specific instructions for generating content that aligns with our knowledge base standards.
+Each workflow follows a consistent pattern with research, step-by-step processes, template integration, and systematic review. See the [Workflows Directory](workflows/readme.md) for comprehensive documentation.
 
 ## Integration with Obsidian
 

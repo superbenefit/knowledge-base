@@ -1,7 +1,7 @@
 ---
 title: Document Templates
 description: Templates for consistent content creation
-publish: "true"
+publish: false
 type: index
 ---
 
