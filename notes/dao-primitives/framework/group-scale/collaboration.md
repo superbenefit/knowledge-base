@@ -50,46 +50,17 @@ Collaboration scale groups rely heavily on a combination of:
 
 Collaboration scale groups gain their power from having a group of high-context members who are empowered to move quickly and creatively towards achieving the group's goals. As a result, a Collaboration scale group will include the fewest number of formal processes that it can get away with.
 
-
+See the [[sense-making-facilitation-tools]] document for examples of enabling constraints approaches appropriate for collaboration scale.
 
 ### Collaboration Scale Patterns
+[[cell-state]]
+[[cell-working-group]]
+[[decider]]
 
-
-
-```dataviewjs
-$= dv.list(
-    dv.pages()
-    .where(p => 
-        (p.type === "pattern" || (Array.isArray(p.type) && p.type.includes("pattern"))) &&
-        (p.scale === "collaboration" || (Array.isArray(p.scale) && p.scale.includes("collaboration"))) &&
-        !p.file.path.startsWith("tools/") &&
-        !p.file.path.startsWith("drafts/")
-    )
-    .map(p => `[[${p.file.path}|${p.title}]]`)
-)
-```
 
 ### Collaboration Scale Primitives
+[[notes/dao-primitives/framework/group-primitives/cells|cells]]
 
-
-
-```dataviewjs
-const ext = dv.pages('"tools/types"')
-  .where(t => t.file.frontmatter?.extends === "primitive")
-  .map(t => t.file.name);
-
-$= dv.list(
-  dv.pages()
-    .where(p =>
-      (p.type === "primitive" || (Array.isArray(p.type) && p.type.includes("primitive"))) &&
-      (p.scale && p.scale.some(s => s.includes("collaboration"))) &&
-      (p.type.includes("primitive") || ext.some(n => p.type.toLowerCase().includes(n))) &&
-      !p.file.path.startsWith("tools/") &&
-      !p.file.path.startsWith("drafts/")
-    )
-    .map(p => `[[${p.file.path}|${p.title}]]`)
-);
-```
 
 ---
 
