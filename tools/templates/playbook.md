@@ -8,142 +8,145 @@ curator:
 harvester: 
 publish: 
 type: playbook
-functions: 
-qualities: 
-patterns: 
-primitives: 
-studies: 
-scale: 
-phase:
 ---
-%% This template creates comprehensive, actionable guidance for implementing specific processes or methodologies within decentralized organizations. Use it to combine multiple patterns and primitives into cohesive implementation guides with practical, step-by-step instructions. The structured format helps you create playbooks that bridge theory and practice with concrete examples and advice.
+%% This template creates comprehensive, actionable guidance for implementing specific processes or methodologies within social purpose projects and organizations. Use it to combine multiple patterns and protocols into cohesive implementation guides with practical, step-by-step instructions, focusing on decentralized solutions. The structured format helps you create playbooks that bridge theory and practice with concrete examples and advice.
  %%
 <% tp.frontmatter.description %>
 
 %%
-This section provides the executive summary of your playbook. Include:
-- Clear statement of playbook purpose (what problems it solves)
-- Target audience and their needs
-- Scope boundaries (what's in/out)
-- Expected outcomes and benefits
-Keep this section concise (2-3 paragraphs) but compelling. %%
+This section could serve as an executive summary of your playbook. You might consider including:
+- A clear statement of the playbook's purpose and what problems it addresses
+- Who might find this playbook useful and why
+- What's included and what's outside the scope
+- What outcomes readers might expect
+A concise but engaging overview (2-3 paragraphs) often works well here. %%
 
 ---
 
 ## Context & Orientation
 
-%% This foundational section establishes the complete framework for understanding the playbook:
-- Problem space: Define the specific challenges and opportunities being addressed
-- Target audience: Describe who will use this playbook and their roles/responsibilities
-- Use cases: List 2-3 primary scenarios where this playbook applies
-- Prerequisites: Note required knowledge, resources, or organizational conditions
-- Key terms: Link to lexicon entries for domain-specific terminology
-- Core principles: List 3-5 fundamental principles that guide pattern selection and implementation
+%% This foundational section helps establish the framework for understanding the playbook. You might explore:
+- The problem space and specific challenges or opportunities being addressed
+- Who might use this playbook and what roles they might play
+- A few primary scenarios where this playbook could be useful
+- Any knowledge, resources, or conditions that might be helpful beforehand
+- Key terms worth linking to lexicon entries for clarity
+- Core principles that guide your approach to pattern selection and implementation
 
-TIP: This section should give readers everything they need to determine if this playbook is relevant for their needs. %%
+This section often helps readers quickly determine if the playbook fits their situation. %%
+
+### Target Audience Considerations
+%% 
+You might want to consider how this playbook applies across different segments of your target audience. Some approaches include organizing by:
+- Organizational maturity levels
+- Technical capacity or expertise
+- Resource availability
+- Geographic or cultural contexts
+- Sector or domain focus
+- Implementation scope or scale
+
+For whichever segments feel most relevant, you could briefly explore how the playbook might be adapted or which sections might be most useful.
+%%
  
 ---
 
 ## Understanding Patterns in Context
 
-%% Brief introduction explaining how patterns help solve problems in this specific domain %%
+%% You might want to introduce how patterns help address the challenges in your specific domain %%
 
 ### Core Pattern Set
 
-%% Overview of which patterns were selected for this playbook and why %%
+%% An overview of which patterns you've chosen for this playbook and why they work well together %%
 
-%% Dataview query matching all patterns with descriptions %%
+%% You could add a dataview query here to automatically list related patterns %%
 
-%% Brief instructions for improving the pattern library %%
+%% Some authors find it helpful to include guidance on how readers might contribute to improving the pattern library %%
 
 #### Pattern Group A: `[Functional Area]`
 
 %% 
-- Context and challenges this group addresses
-- Key considerations for this context 
+You might explore:
+- What context and challenges this group addresses
+- Key considerations for applying these patterns in this context 
 %%
 
-%% TRANSCLUDE PATTERN X %%
+%% Consider transcluding or linking to specific patterns here %%
 
 %% 
+You could add:
 - Additional context specific to this playbook
 - Local considerations and adaptations
-- Integration points with other patterns 
-%%
-
-%% TRANSCLUDE PATTERN Y %%
-
-%% 
-- Additional context specific to this playbook
-- Local considerations and adaptations
-- Integration points with other patterns 
+- How these patterns connect with others in the set
 %%
 
 ### Pattern Group B: `[Functional Area]`
 
-%% Similar structure repeats... %%
+%% You can repeat this structure for other pattern groups as needed %%
 
 ## Pattern Interactions
 
-%% Critical relationship guidance:
-- How these patterns work together
+%% This section often explores important relationships:
+- How these patterns complement each other
 - Common combinations and their effects
-- Dependencies and prerequisites
-- Potential conflicts to watch for
-- Synergistic effects to leverage %%
+- Dependencies or prerequisites to be aware of
+- Potential conflicts worth watching for
+- Synergistic effects you might leverage %%
 
 ---
 
-## Implementation Guide
+## Implementation Paths
 
-%% Practical implementation guidance:
-- Sequence of pattern adoption
-- Required primitives and their combinations
-- Technical and resource requirements
-- Critical success factors
-- Risk management approaches
-- Assessment frameworks and tools
+%% You might want to provide an overview of different approaches to implementing this playbook:
+- Various implementation pathways and their trade-offs
+- Links to specific implementation guides for different contexts
+- A decision framework for choosing an appropriate approach
+- Key dependencies and prerequisites for different paths
+- Resource requirements and timing considerations you've observed
 
-TIP: Focus on concrete, actionable steps rather than theory %%
+This section often helps orient readers to available implementation resources rather than providing detailed step-by-step guidance %%
 
-### Initial Design & Setup
+### Available Implementation Guides
 
-%% Initial deployment instructions %%
+%% You could link to specific implementation guides that support this playbook:
+- [[Link to Implementation Guide A]] - for [specific context]
+- [[Link to Implementation Guide B]] - for [specific context]
+- [[Link to Implementation Guide C]] - for [specific context]
+%%
 
 ### Sustaining & Evolving
 
-%% Long-term success guidance:
-- Governance and decision-making frameworks
-- Community engagement strategies
-- Impact measurement approaches
+%% You might explore long-term success considerations:
+- Governance and decision-making approaches that work well
+- Community engagement strategies you've found effective
+- Ways to measure impact and progress
 - Adaptation and scaling considerations
-- Change management practices
+- Change management practices that help
 
-TIP: Focus on maintaining and improving the implemented patterns over time %%
+This section often focuses on maintaining and improving implementations over time %%
 
 ---
 
 ## Case Studies & Examples
 
-%% Real-world implementation examples:
-- Select diverse, relevant case studies
-- Document pattern adaptations
-- Share success metrics and results
-- Include lessons learned
-- Reference specific patterns used %%
+%% Real-world implementation examples can be really valuable:
+- Diverse, relevant case studies you've encountered
+- How patterns were adapted in different contexts
+- Success metrics and results where available
+- Lessons learned along the way
+- Which specific patterns were used and how %%
 
-%% Dataview query matching relevant case studies %%
+%% You could add a dataview query here to automatically list relevant case studies %%
 
 ---
 
 ## Connect & Contribute
 
-%% Community engagement guidelines:
-- How to contribute improvements
-- Support resources and channels
-- Community participation guidelines
-- Updates and roadmap
-- Future development plans %%
+%% Community engagement approaches you might consider:
+- How others can contribute improvements
+- Support resources and channels available
+- Community participation approaches
+- Updates and roadmap sharing
+- Future development directions %%
  
 ---
 

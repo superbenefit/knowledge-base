@@ -4,6 +4,7 @@ description: Formalized understandings between parties that establish shared exp
 harvester: rathermercurial.eth
 tags:
   - actions
+  - mechanisms
 aliases:
   - "#agreements"
 publish: "true"

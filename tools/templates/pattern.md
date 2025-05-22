@@ -6,47 +6,60 @@ tags:
   - patterns
 publish: "false"
 type: pattern
-studies: 
-primitives: 
-functions: 
-qualities: 
-scale: 
-phase:
+protocols: 
 ---
 # <% tp.frontmatter.title || "Pattern Name" %>
 
-_<% tp.frontmatter.description || "A concise definition (1-3 sentences) that captures the essence of this pattern. This should be immediately understandable while technically precise." %>_
+_<% tp.frontmatter.description || "A conceptual framework that provides reusable solutions to common challenges in decentralized organization design and governance." %>_
 
 ## Context
 
-%% Describe the environments or situations where this pattern applies. Include the types of organizations, networks, or communities that might benefit from this pattern, and any relevant constraints or conditions. %%
+%% Describe the environments or situations where this pattern applies. Include types of organizations, networks, or communities that might benefit from this pattern, emphasizing the broader organizational context beyond specific operational procedures. %%
 
 ## Challenges
 
-%% Identify the specific problems this pattern addresses. What difficulties do organizations face without this approach? What tensions or friction points emerge? Consider listing 2-4 key challenges with brief explanations of each. %%
+%% Identify the specific organizational challenges this pattern addresses. Focus on systemic issues, coordination problems, or design challenges that require conceptual solutions rather than step-by-step procedures. %%
 
-## Solution
+## Solution Framework
 
-%% Explain how this pattern resolves the challenges identified above. Describe its key components or mechanisms, how they work together, and what outcomes they produce. Include any variations or adaptations that might be relevant for different contexts. %%
+%% Explain the conceptual approach this pattern provides. Describe the key principles, mechanisms, and components that make this pattern effective. This should be more strategic and less procedural than protocol documentation. %%
 
 ## Implementation Considerations
 
-%% Provide practical guidance for applying this pattern. What factors should be considered during implementation? Include governance implications, technical requirements, cultural factors, adaptation needs for different scales, and potential risks or pitfalls to watch for. %%
+%% Provide guidance for applying this pattern across different contexts: %%
+
+### Governance Implications
+%% How this pattern affects decision-making and authority structures %%
+
+### Cultural Factors  
+%% How organizational culture shapes pattern implementation %%
+
+### Technical Integration
+%% How this pattern interfaces with tools and technical systems %%
+
+### Scale Adaptations
+%% How the pattern functions differently at various organizational scales %%
+
+### Protocol Dependencies
+%% What operational protocols are needed to implement this pattern effectively %%
 
 ## References and Resources
 
-%% List relevant documentation, articles, research, tools, or templates that support understanding or implementation of this pattern. %%
+%% List relevant documentation, articles, research, tools, or templates %%
 
 ### Examples
 
-%% Describe real-world examples of this pattern in practice. Ideally include examples from the SuperBenefit ecosystem and from other contexts to show the pattern's versatility and application. %%
+%% Provide examples showing this pattern's application across different contexts %%
 
 ### Related Patterns
 
-%% Identify other patterns that complement or contrast with this one. How do they work together or address different aspects of similar problems? What combinations might be particularly effective? %%
-
+%% Connect to complementary or contrasting patterns %%
 
 ---
+
+### Supporting Protocols
+
+%% Connect to related protocols that operationalize this pattern %%
 
 ### Supporting Primitives
 

@@ -4,6 +4,7 @@ harvester:
 tags:
   - governance
   - agreements
+  - mechanisms
 aliases:
   - "#policies"
 publish: "true"
