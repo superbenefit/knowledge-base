@@ -15,7 +15,7 @@ description
 
 ---
 
-# Implementation Guide: Multi-Stakeholder Governance  Using the DAO Primitives Framework
+# Implementation Guide: Multi-Stakeholder Governance Using the DAO Primitives Framework
 
   
 
