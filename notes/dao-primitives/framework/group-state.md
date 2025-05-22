@@ -53,4 +53,13 @@ Group state is also fractal, with Roles and Tasks _state_ rolling up into Cell _
 
 - OpenCivics has created a similar approach to project legibility in their [OpenCivics Collaborative Initiative – Specification Template](links/OpenCivics%20Collaborative%20Initiative%20–%20Specification%20Template.md)
 
+### Group State Patterns 
+
+- [[cell-state]]
+- [[dao state]]
+
+
+### Group State Primitives
+
+- [[cell-state-template]]
 ---

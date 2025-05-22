@@ -8,9 +8,7 @@ publish: "true"
 
 The Network Scale represents the highest level of group organization within the DAO primitives framework. It encompasses the relationships and connections between decentralized organizations and communities as well as traditional organizations, as they coordinate to achieved impact using decentralized organizing patterns. 
 
-Network scale spans and leverages the three other group scales ([[notes/dao-primitives/framework/group-scale/collaboration|collaboration]], [[notes/dao-primitives/framework/group-scale/coordination|coordination]], and [[notes/dao-primitives/framework/group-scale/constituency|constituency]] scales), . 
-# Here
-
+Network scale spans and leverages the three other group scales ([[notes/dao-primitives/framework/group-scale/collaboration|collaboration]], [[notes/dao-primitives/framework/group-scale/coordination|coordination]], and [[notes/dao-primitives/framework/group-scale/constituency|constituency]] scales).
 
 This scale is characterized by high levels of interdependence, complex communication flows, and the need for robust mechanisms for coordination and governance across multiple entities.
 
@@ -19,11 +17,11 @@ This scale is characterized by high levels of interdependence, complex communica
 ## Key Characteristics
 
 * **Interconnected Organizations:**  The Network Scale involves multiple organizations or groups working together, often with varying degrees of autonomy.
-* Seeks to create effective mechanisms for partnership between organizations that leverage decentralized patterns of organizing 
+* **Decentralized Organizing**: Seeks to create effective mechanisms for partnership by leveraging decentralized patterns of organizing 
 * **Shared or Complementary Goals:**  Organizations within the network may share common goals or have complementary goals that contribute to a larger ecosystem.
-* **Interdependence:**  Organizations within the network are interdependent, relying on each other for resources, information, or services.
+* **Multi-Scale**:**  The network is operationalized through interdependent entities that operation and different [[notes/dao-primitives/framework/group-scale/group-scale|group-scales]], in order most effectively deliver on the gals of the network. 
 * **Complex Communication:**  Communication flows are complex, requiring robust mechanisms for information sharing and coordination.
-* **Distributed Governance:**  Governance mechanisms are distributed across the network, often involving multiple decision-making bodies.
+* **Decentralized Resource Allocation:** Governance and multiple levels in the network allocates resources based on local knowledge and context.  
 * **Adaptability:**  The network must be adaptable to changing circumstances and the evolving needs of its constituent organizations.
 
 ### Challenges at Network Scale
@@ -40,12 +38,13 @@ This scale is characterized by high levels of interdependence, complex communica
 
 ## Tools and Practices for Network Scale
 
-* **Interoperability Standards:**  Standards and protocols for communication and data exchange between organizations.
 * **Shared Platforms and Infrastructure:**  Shared platforms and infrastructure for communication, collaboration, and resource sharing.
 * **Network Governance Mechanisms:**  Mechanisms for coordinating decision-making and ensuring accountability across the network.
+* **Onchain Protocols**: Tools that allow for stakeholders across the networks to understand and participate in network scale governance, as well as to have visibility of and trust in, the decision-making occurring at lower levels of scale in the network. 
 * **Conflict Resolution Processes:**  Processes for resolving conflicts between organizations.
-* **Communication Protocols:**  Clear communication protocols for effective information sharing.
+* **Communication Protocols:**  Clear communication protocols and practices for effective information sharing.
 * **Monitoring and Evaluation:**  Mechanisms for monitoring the performance of the network and evaluating its effectiveness.
+* **Group State**: Clear and transparent group state documentation to allow for partnership alignment and trust across the network.
 
 ### Network Scale Patterns
 
@@ -61,26 +60,12 @@ $= dv.list(
     .map(p => `[[${p.file.path}|${p.title}]]`)
 )
 ```
-
+- [[biofi|Bioregional Finance]]
+- [[privacy-payments|Privacy-Preserving Crypto Payments]]
+- [[social-finance|Decentralized Social Finanace]]
 ### Network Scale Primitives
+[[multistakeholder-governance]]
 
-```dataviewjs
-const ext = dv.pages('"tools/types"')
-  .where(t => t.file.frontmatter?.extends === "primitive")
-  .map(t => t.file.name);
-
-$= dv.list(
-  dv.pages()
-    .where(p =>
-      (p.type === "primitive" || (Array.isArray(p.type) && p.type.includes("primitive"))) &&
-      (p.scale && p.scale.some(s => s.includes("network"))) &&
-      (p.type.includes("primitive") || ext.some(n => p.type.toLowerCase().includes(n))) &&
-      !p.file.path.startsWith("tools/") &&
-      !p.file.path.startsWith("drafts/")
-    )
-    .map(p => `[[${p.file.path}|${p.title}]]`)
-);
-```
 
 ---
 
@@ -88,6 +73,8 @@ $= dv.list(
 
 A successful Network Scale system exhibits:
 
+* Effective decentralization of authority across the network 
+* Mechanisms to surface collective intelligence from across the different nodes in the network 
 * Effective communication and coordination across all organizations.
 * Robust governance mechanisms that ensure accountability and transparency.
 * Interoperable systems and processes that facilitate collaboration.
