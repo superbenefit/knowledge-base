@@ -21,8 +21,7 @@ Community Exchange is a local economic system that combines relationship-buildin
 ## Quick Start
 
 - [Project Overview](ccc.md) - Main project file
-- [Latest Documentation (v0.2)](v0.2/v0.2.md) - Most current version
-- [Master Index](v0.2/v0.2-master-index.md) - Complete documentation index
+- [Latest Documentation](docs/) - Current version
 - [Contributing](CONTRIBUTING.md) - How to contribute
 
 ## What is Community Exchange?
@@ -38,8 +37,8 @@ Community Exchange harnesses our community's abundance—our time, skills, knowl
 
 ```
 /ccc
-├── v0.2/                    # Current documentation version
-│   ├── A-Cover/            # Introductory materials
+├── docs/                    # Current documentation
+│   ├── A-Introduction/     # Introductory materials
 │   ├── B-Overview/         # Foundational concepts
 │   ├── C-Implementation/   # Operational framework
 │   ├── D-Examples/         # Practical scenarios
@@ -47,32 +46,34 @@ Community Exchange harnesses our community's abundance—our time, skills, knowl
 │   ├── F-Activities/       # Community activities
 │   ├── G-Future/           # Future development
 │   └── H-Reference/        # Glossary and resources
-├── v0.1/                    # Legacy documentation
-├── v0.19/                   # Transition documentation
-├── more-activities/         # Extended activities
-├── ccc.md                   # Project overview
-├── metadata.yaml            # Project metadata
-├── CONTRIBUTING.md          # Contribution guidelines
-├── README.md                # This file
-└── v02-documentation-cleanup-tracker.md
+├── archive/                # Previous versions
+│   ├── v0.1/              # Legacy documentation
+│   ├── v0.2/              # Previous version
+│   └── v0.19/             # Transition documentation
+├── more-activities/        # Extended activities
+├── ccc.md                 # Project overview
+├── metadata.yaml          # Project metadata
+├── CONTRIBUTING.md        # Contribution guidelines
+└── README.md              # This file
 ```
 
 ## Core Components
 
-1. **Shared Interest Pairings (SIPs)**: Relationship-building and skill-sharing through monthly gatherings and ongoing matching
-2. **Commitment Pool**: Structured system for formalizing offers of goods and services, earning and redeeming credits
+1. **Belonging Commons**: Welcoming entry point through community soup gatherings
+2. **Connection Commons**: Relationship-building and skill-sharing through ongoing matching
+3. **Commitment Commons**: Structured system for formalizing offers of goods and services, earning and redeeming credits
 
 ## Getting Started
 
 ### For New Members
-1. Read the [Community Exchange Overview](v0.2/B-Overview/B.01-community-exchange-overview.md)
-2. Learn about [Principles and Values](v0.2/B-Overview/B.05-principles-and-values.md)
-3. Check the [Onboarding Process](v0.2/C-Implementation/C.01-onboarding-process.md)
+1. Read the [Community Exchange Overview](docs/B-Overview/B.01-introduction.md)
+2. Learn about [Principles and Values](docs/B-Overview/B.05-principles-and-values.md)
+3. Check the [Onboarding Process](docs/C-Implementation/C.01-onboarding-process.md)
 
 ### For Implementers
-1. Review the [Implementation Timeline](v0.2/C-Implementation/C.02-implementation-timeline.md)
-2. Study the [Governance Structure](v0.2/C-Implementation/C.03-governance-structure.md)
-3. Consider [Scaling Strategies](v0.2/G-Future/G.01-scaling-strategy.md)
+1. Review the [Implementation Timeline](docs/C-Implementation/C.02-implementation-timeline.md)
+2. Study the [Governance Structure](docs/C-Implementation/C.03-governance-structure.md)
+3. Consider [Scaling Strategies](docs/G-Future/G.01-scaling-strategy.md)
 
 ## Key Success Factors
 
@@ -98,7 +99,7 @@ Community Exchange harnesses our community's abundance—our time, skills, knowl
 
 ## Current Status
 
-The project is currently in active development, with v0.2 representing the most complete documentation. We're preparing for launch in Q2 2025 with a pilot group in London, Ontario.
+The project is currently in active development, preparing for launch in Q2 2025 with a pilot group in London, Ontario.
 
 ## Contributing
 
