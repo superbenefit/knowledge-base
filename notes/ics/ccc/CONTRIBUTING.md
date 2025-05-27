@@ -95,12 +95,12 @@ Use the following naming conventions for files:
 
 - `A` - Introduction & Project Management
 - `B` - Overview & Core Concepts
-- `C` - Design Specifications
-- `D` - Implementation Guides
-- `E` - Facilitation Materials
-- `F` - Templates & Resources
-- `G` - Research & References
-- `H` - Glossary & Terminology
+- `C` - Implementation Specifications
+- `D` - Examples & Scenarios
+- `E` - How-to Guides
+- `F` - Activities & Events
+- `G` - Future Development
+- `H` - Reference & Resources
 
 ## Directory Structure
 
@@ -112,15 +112,19 @@ Maintain the established directory structure:
 ├── CONTRIBUTING.md
 ├── metadata.yaml
 ├── ccc.md
-└── v0.2/
-    ├── A-Introduction/
-    ├── B-Overview/
-    ├── C-Design/
-    ├── D-Implementation/
-    ├── E-Facilitation/
-    ├── F-Templates/
-    ├── G-Research/
-    └── H-Reference/
+├── docs/                   # Current documentation
+│   ├── A-Introduction/
+│   ├── B-Overview/
+│   ├── C-Implementation/
+│   ├── D-Examples/
+│   ├── E-Guides/
+│   ├── F-Activities/
+│   ├── G-Future/
+│   └── H-Reference/
+└── archive/               # Previous versions
+    ├── v0.1/
+    ├── v0.2/
+    └── v0.19/
 ```
 
 ## Documentation Style Guidelines
