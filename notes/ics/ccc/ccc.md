@@ -26,32 +26,36 @@ The Community Connection & Commitment Commons enables members to:
 - Access credits through contribution and exchange
 - Participate in a resilient local economy
 
-## Version History
+## Current Documentation
 
-### Current Version: [v0.2](v0.2/v0.2.md)
-The most recent and comprehensive version of the documentation, including:
+### [Latest Version: docs/](docs/)
+The current and comprehensive version of the documentation, including:
 - Complete system documentation
 - Implementation guidelines  
 - Educational resources
 - Future development pathways
 
-### Previous Versions
-- [v0.1](v0.1/) - Initial prototype documentation
-- [v0.19](v0.19/) - Transition documentation
-
 ## Quick Links
 
-- [v0.2 Master Index](v0.2/v0.2-master-index.md) - Complete documentation index
-- [Implementation Tracker](v02-documentation-cleanup-tracker.md) - Current tasks and progress
+- [Getting Started](docs/A-Introduction/A.02-executive-summary.md) - Executive summary and overview
+- [How It Works](docs/B-Overview/B.03-how-it-works.md) - Core mechanics and pathways
+- [Implementation Guide](docs/C-Implementation/) - Practical setup and operations
 - [Contributing Guidelines](CONTRIBUTING.md) - How to contribute to the project
+
+## Version History
+
+Current documentation is maintained in `/docs/` with previous versions archived:
+- [v0.2](archive/v0.2/) - Previous comprehensive version
+- [v0.1](archive/v0.1/) - Initial prototype documentation
+- [v0.19](archive/v0.19/) - Transition documentation
 
 ## Project Structure
 
-- `v0.2/` - Current project documentation
-- `v0.1/` - Legacy documentation
+- `docs/` - Current project documentation
+- `archive/` - Previous versions
 - `more-activities/` - Extended activity resources
 - `metadata.yaml` - Project metadata
 
 ---
 
-*For detailed information about the Community Connection & Commitment Commons project, please refer to the v0.2 documentation.*
+*For detailed information about the Community Connection & Commitment Commons project, please refer to the current documentation in `/docs/`.*

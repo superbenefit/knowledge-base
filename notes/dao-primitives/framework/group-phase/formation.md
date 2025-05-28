@@ -13,7 +13,7 @@ author: yeoro.eth
 
 The Formation Phase represents the critical transition from open exploration to structured commitment within decentralized networks. Following the ideation and relationship-building of the [Conversation Phase](notes/dao-primitives/framework/group-phase/conversation.md), groups in Formation begin establishing clear boundaries, formalizing agreements, and developing the minimal viable structure needed for coordinated action. This phase transforms emerging potential into concrete initiatives while creating the foundation for more sophisticated organizational forms to evolve. 
 
-The formation phase often culminates in a proposal or some other ask from the community or governance structure that the group is forming within. This is often in order to gain funding/resources, partnerships, legitimacy etc to allow the group to fulfill the purpose that it has outlined for itself.
+The formation phase usually culminates in a proposal or some other ask from the community or governance structure that the group is forming within. This is often in order to gain funding/resources, partnerships, legitimacy etc to allow the group to fulfill the purpose that it has outlined for itself.
 
 When the formation phase is complete, a group is ready to move on to the [organization phase](notes/dao-primitives/framework/group-phase/organization.md).
 
@@ -128,6 +128,9 @@ Proposal development can centre around the group state document outlined above, 
 ## Success Indicators 
 
 A formation phase has been successful when: 
+
+A proposal to the larger network or to the community 
+A design for the entity being created that can be executed on when the proposal is passed 
 
 - **Documented Purpose:** A clear, compelling purpose statement has been articulated and documented 
 - **Shared Commitments:** Team members have made explicit commitments to specific contributions 
