@@ -121,7 +121,6 @@ For those implementing a DAO or similar decentralized organization, the primitiv
 - **[framework](./framework/framework.md)**
 - **[implementation](./implementation/implementation.md)**
 - **[patterns](./patterns/patterns.md)**
-- **[protocols](./protocols/protocols.md)**
 - **[resources](./resources/resources.md)**
 - **[test-resources](./test-resources/test-resources.md)**
 
