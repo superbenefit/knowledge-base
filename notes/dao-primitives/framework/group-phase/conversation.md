@@ -14,7 +14,9 @@ publish: "true"
 
 The Conversation Phase represents the foundational [group-phase](notes/dao-primitives/framework/group-phase/group-phase.md) of development within decentralized networks, characterized by open exploration, idea generation, and relationship building. During this phase, potential collaborators gather around areas of shared interest to explore possibilities before formal structures or commitments are established. The primary goal is to establish shared context, build relationships, and develop a collective vision that can inspire and guide future collaboration.
 
-When the conversation phase is complete, a group is ready to move on to the formation phase.
+At a high-level the activities of a Conversation phase group can be described as "Discovery". This can often manifest as a formal [[discovery-process]], resulting in a discovery report being an indicator that the group has completed the Conversation phase of its development. 
+
+When the conversation phase is complete, a group is ready to move on to the [[notes/dao-primitives/framework/group-phase/formation|formation]] phase. 
 
 
 ## Key Characteristics
@@ -26,9 +28,7 @@ When the conversation phase is complete, a group is ready to move on to the form
 * **Informal Processes:** Processes are typically informal and adaptable. The emphasis is on flexibility and responsiveness to emerging ideas and insights. The group may identify as a squad or some other informal group type. 
 * **Emergent Direction:** Rather than following predetermined paths, groups in this phase allow direction to emerge organically through dialogue, discovering areas of resonance and energy within the collective.
 * **Cognitive Diversity:** The conversation phase benefits from diverse perspectives, allowing for a richer exploration of possibilities and the identification of approaches that might not be visible from any single viewpoint.
-<<<<<<< HEAD
 * **Permissionless Exploration:** Participants engage without requiring formal authority or approval, embodying the concept of [minimum viable permissionless-ness](artifacts/network-evolution/Minimum%20Viable%20Permissionless-ness.md) where anyone can identify an opportunity and begin working on it.
-=======
 * **Permissionless Exploration:** Participants engage without requiring formal authority or approval, embodying the concept of [minimum viable permissionless-ness](Minimum%20Viable%20Permissionless-ness.md) where anyone can identify an opportunity and begin working on it.
 
 
@@ -56,10 +56,11 @@ When the conversation phase is complete, a group is ready to move on to the form
 
 A conversation phase group may be ready to evolve to a more structured [formation](notes/dao-primitives/framework%201/group-phase/formation.md) phase when:
 
-- Clear energy and commitment emerge around specific well defined directions or ideas
-- Participants express readiness to make concrete contributions toward shared goals
-- The need for more defined roles and processes becomes apparent to enable effective coordination
+- Clear energy and commitment emerge around specific well defined directions or ideas.
+- Participants express readiness to make concrete contributions toward shared goals.
+- The need for more defined roles and processes becomes apparent to enable effective coordination.
 - Resources or other forms of coordination are required that entail making a proposal to the wider community, that will require group formalization. 
+- Often this phase will culminate in the completion of a formal [[discovery-process]] and the preparation of a discovery report. 
 
 ## Tools and Practices
 
@@ -95,5 +96,6 @@ A conversation phase has been successful when:
 - **Collective Knowledge:** Diverse perspectives have been integrated into a richer understanding of the context and possibilities
 - **Natural Next Steps:** Clear energy and direction for moving forward becomes apparent without forced consensus
 - **Emerging Agreements:** Initial lightweight agreements about how the group will work together start to form
+- These aspects are wrapped together into a formal discovery report that makes the group's work transparent and sharable. 
 
 The conversation phase is not merely a preliminary step but a vital foundation for authentic, purpose-aligned collective action. When done well, it establishes the conditions for groups to evolve organically into more structured forms while maintaining the alignment, relationships, and generative energy that gives decentralized networks their unique advantages.

@@ -15,11 +15,13 @@ publish: "true"
 
 The Organization Phase builds upon the [formation phase](notes/dao-primitives/framework/group-phase/formation.md), transitioning from a basic framework to a fully established, formal structure with defined processes and governance mechanisms. This phase is characterized by the implementation of the systems systems, procedures, and decision-making frameworks that were designed in the Formation phase. Getting these up and running enables the group to operate efficiently, effectively and with the necessary transparency needed for its decentralized network that it is either establishing or operating inside. 
 
-The organization phase often follows a community proposal, the culmination of the Formation phase, and much of its activities will be implementing the design that was laid out in this previous phase. 
+The organization phase often follows a community proposal at the culmination of the Formation phase, and much of its activities will be implementing the design that was laid out in this previous phase. 
+
+The Organization phase is complete when the structure outlined in the group's [[notes/dao-primitives/framework/group-state|group-state]] documentation has been fully implemented, roles have been filled and the group is executing on its goals. 
 
 ## Key Characteristics
 
-* **Comprehensive Governance:** Detailed decision-making frameworks and processes that enable efficient handling of different decision types and appropriate stakeholder involvement.
+* **Governance Implementation:** Detailed decision-making frameworks and processes that enable efficient handling of different decision types and appropriate stakeholder involvement.
 * **Robust State Documentation:** Fully developed [groupstate](notes/dao-primitives/framework/group-state.md) document that provides transparency about purpose, practices, and progress. 
 * **Defined Roles and Responsibilities:** Clear delineation of roles with specific accountabilities, authorities, and success criteria for each position. 
 * **Formalized Treasury Management:** Structured systems for resource allocation, spending authorization, and financial accountability. 

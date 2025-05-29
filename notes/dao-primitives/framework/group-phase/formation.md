@@ -11,9 +11,9 @@ author: yeoro.eth
 
 ---
 
-The Formation Phase represents the critical transition from open exploration to structured commitment within decentralized networks. Following the ideation and relationship-building of the [Conversation Phase](notes/dao-primitives/framework/group-phase/conversation.md), groups in Formation begin establishing clear boundaries, formalizing agreements, and developing the minimal viable structure needed for coordinated action. This phase transforms emerging potential into concrete initiatives while creating the foundation for more sophisticated organizational forms to evolve. 
+The Formation Phase represents the critical transition from open exploration to structured commitment within decentralized networks. Following the ideation and relationship-building of the [Conversation Phase](notes/dao-primitives/framework/group-phase/conversation.md), groups in Formation begin establishing clear boundaries, formalizing agreements, and designing the structure needed for coordinated action. This phase transforms emerging potential into concrete design creating the foundation for functional structure to be implemented. 
 
-The formation phase usually culminates in a proposal or some other ask from the community or governance structure that the group is forming within. This is often in order to gain funding/resources, partnerships, legitimacy etc to allow the group to fulfill the purpose that it has outlined for itself.
+The formation phase usually culminates in a proposal or some other ask from the community or governance structure that the group is forming within. This is in order to gain funding/resources, partnerships, legitimacy etc to allow for the formal implementation of the groups structure in the Organization phase
 
 When the formation phase is complete, a group is ready to move on to the [organization phase](notes/dao-primitives/framework/group-phase/organization.md).
 
@@ -24,7 +24,7 @@ When the formation phase is complete, a group is ready to move on to the [organi
 
 ## Key Characteristics
 
-* **Purpose Definition:** The group articulates a clear, specific purpose statement that defines its reason for existence and intended contribution to the broader network. 
+* **Purpose Definition:** The group works from the clear, specific purpose statement that emerged in the [[notes/dao-primitives/framework/group-phase/conversation|conversation]] phase. This defines its reason for existence and intended contribution to the broader network. 
 * **Structured Decision-Making:** Simple but formal decision processes begin to replace purely informal consensus, enabling clearer accountability and execution. 
 * **Initial Agreements:** Members make explicit commitments about participation, contributions, and shared expectations, establishing the basis for mutual accountability. 
 * **Lightweight Documentation:** The group develops basic documentation of its purpose, practices, and progress through an initial [cell state](notes/dao-primitives/patterns/collaboration-scale-patterns/cell-state.md) or nucleus document. 
@@ -37,13 +37,15 @@ When the formation phase is complete, a group is ready to move on to the [organi
 ## Functional Elements 
 
 ### Activities
-- **Purpose Crystallization:** Refining broad interests into a specific, actionable purpose that provides clear direction. - 
-- **Proposal Development:** Creating formal proposals to seek community endorsement, funding, or permission when needed. - 
-- **Initial State Documentation:** Documenting the group's purpose, practices, and plans in an early [nucleus](notes/dao-primitives/patterns/collaboration-scale-patterns/cell-state.md) document. This outlines vision and practical implementation of the group.  
+- **Early Execution** Beginning execution towards the goals of the group. Important to be able to experiment and learn to inform the design of the group's structure.  
 - **Commitment Establishment:** Members explicitly commit to specific future contributions, roles, or responsibilities. - 
 - **Resource Mapping:** Identifying needed skills, knowledge, and resources for successful execution. 
 - **Boundary Definition:** Clarifying what is and isn't within the group's scope and authority. 
 - **Integration Planning:** Establishing how the group will connect and coordinate with the broader network or community.
+- **Governance & Operational Design:** Designing the governance and operational structured that will be implemented in the [[notes/dao-primitives/framework/group-phase/organization|organization]] phase. 
+- **Proposal Development:** Creating formal proposals to seek community endorsement, funding, or permission when needed to formally instantiate the group.  
+- **Initial State Documentation:** Documenting the group's proposed purpose, practices, and plans in a [[notes/dao-primitives/framework/group-state|group-state]] document. This outlines vision and practical implementation of the group.  
+
 
 
 
@@ -60,7 +62,7 @@ When the formation phase is complete, a group is ready to move on to the [organi
 
 A formation phase group may be ready to evolve to a more structured [organization phase](notes/dao-primitives/framework/group-phase/organization.md) when:
 
-- A clear purpose and scope of activities has been defined and documented 
+- A clear governance and operation structure has been defined and is ready to be implemented.
 - Key roles have been established and filled with committed individuals 
 - Basic decision-making processes are being consistently followed 
 - The group has begun execution of initial activities and can demonstrate progress
@@ -109,37 +111,26 @@ Proposal development can centre around the group state document outlined above, 
 
 
 ### Support resources 
+
 - **Governance design support:** Accessing specific guidance and resources for governance design can save a lot of time and result in better overall governance design. This knowledge garden has a wealth of resources to support this work including governance patterns, frameworks, guides and case studies. 
 - **Group Facilitation** Accessing governance facilitation support can assist with helping the group to get to agreement on exactly how they want to define the groups [group state](notes/dao-primitives/framework/group-state.md). and which governance primitives and practices the group wants to adopt. 
 - **Technical support** Once the fundamentals of the group's governance design is established, sourcing specific support to select the right technical tools to implement it is hugely beneficial. 
 
 
 
-
----
-
-<<<<<<< HEAD
-# Here
-=======
->>>>>>> 4152b0269c40331be2a5ff23ee4126dc2b3e8c6d
-
-
-
 ## Success Indicators 
 
-A formation phase has been successful when: 
+**A formation phase has been successful when:** 
 
-A proposal to the larger network or to the community 
-A design for the entity being created that can be executed on when the proposal is passed 
-
-- **Documented Purpose:** A clear, compelling purpose statement has been articulated and documented 
-- **Shared Commitments:** Team members have made explicit commitments to specific contributions 
+- **Shared Commitments:** Team members have made explicit commitments to specific contributions.
 - **Operational Structure:** Basic operational structures and processes have been outlined ready for implementation  
 - **Resource Access:** Initial resources needed for execution have been secured or identified 
 - **External Recognition:** The group has been acknowledged and endorsed by relevant stakeholders 
-- **Execution Readiness:** The group has everything needed to begin executing on its purpose
+- **Execution Progress:** The group has begun making progress towards its goals
+- **Community Proposal:** A clear, compelling proposal to the community or existing governance structure has been created and is ready to present. 
+- **Completed State Documentation**: An implementable governance and operational model has been designed and is outlined in the groups state documentation. 
 
-The formation phase establishes the foundation for effective collective action by translating inspiration into structured commitment. It bridges the gap between exploration and execution, creating the conditions for a group to deliver meaningful value while maintaining alignment with network purpose.
+The formation phase establishes the foundation for effective collective action by translating inspiration into structured commitment. It bridges the gap between exploration and execution, creating the conditions for a group to be formally established in the community or network that it is participating in. 
 
 
 
