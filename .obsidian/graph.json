@@ -1,19 +1,12 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
-    {
-      "query": "[\"index\":True]",
-      "color": {
-        "a": 1,
-        "rgb": 4097785
-      }
-    },
     {
       "query": "path:artifacts ",
       "color": {
@@ -41,6 +34,20 @@
         "a": 1,
         "rgb": 16080045
       }
+    },
+    {
+      "query": "path:drafts/OpenCivics-Wiki  ",
+      "color": {
+        "a": 1,
+        "rgb": 12722685
+      }
+    },
+    {
+      "query": "path:drafts/sb-clarity  ",
+      "color": {
+        "a": 1,
+        "rgb": 8159619
+      }
     }
   ],
   "collapse-display": true,
@@ -53,6 +60,6 @@
   "repelStrength": 14.2469664525339,
   "linkStrength": 0.603854389721627,
   "linkDistance": 500,
-  "scale": 0.04972021226604903,
-  "close": true
+  "scale": 0.0078125,
+  "close": false
 }
