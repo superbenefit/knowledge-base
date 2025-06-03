@@ -64,7 +64,7 @@ Workflows are structured processes for knowledge management tasks that ensure co
 - **Lexicon Workflows** - Processes for creating and enhancing vocabulary entries
 - **Library Workflows** - Methods for evaluating and documenting external resources
 
-Each workflow follows a consistent pattern with research, step-by-step processes, template integration, and systematic review. See the [Workflows Directory](workflows/readme.md) for comprehensive documentation.
+Each workflow follows a consistent pattern with research, step-by-step processes, template integration, and systematic review. See the [Workflows Directory](tools/workflows/readme.md) for comprehensive documentation.
 
 ## Integration with Obsidian
 

@@ -14,10 +14,10 @@ The patterns are organized into categories to facilitate discovery based on your
 
 ## Pattern Categories
 
-- **[Cell Patterns](notes/dao-primitives/patterns/collaboration-scale-patterns/collaboration-scale-patterns.md)**: Patterns related to implementing and managing Cells (small autonomous teams) in DAO networks
-- **[DAO Patterns](dao-patterns/dao-patterns.md)**: Patterns related to implementing and managing DAOs as networks of autonomous teams
+- **[Cell Patterns](collaboration-scale-patterns.md)**: Patterns related to implementing and managing Cells (small autonomous teams) in DAO networks
+- **[DAO Patterns](dao-patterns.md)**: Patterns related to implementing and managing DAOs as networks of autonomous teams
 - **[Decision Patterns](decision-patterns/decision-patterns.md)**: Patterns related to decision-making processes in decentralized organizations
-- **[Coordination Patterns](notes/dao-primitives/patterns/coordination-scale-patterns/coordination-scale-patterns.md)**: Patterns related to coordination between teams and entities in decentralized networks
+- **[Coordination Patterns](coordination-scale-patterns.md)**: Patterns related to coordination between teams and entities in decentralized networks
 
 ## Using the Pattern Library
 
@@ -34,10 +34,10 @@ To effectively leverage the Pattern Library:
 ---
 
 %% Begin Waypoint %%
-- **[collaboration-scale-patterns](./collaboration-scale-patterns/collaboration-scale-patterns.md)**
-- **[constituency-scale-patterns](./constituency-scale-patterns/constituency-scale-patterns.md)**
-- **[coordination-scale-patterns](./coordination-scale-patterns/coordination-scale-patterns.md)**
-- **[dao-patterns](./dao-patterns/dao-patterns.md)**
-- **[network-scale-patterns](./network-scale-patterns/network-scale-patterns.md)**
+- **[collaboration-scale-patterns](collaboration-scale-patterns.md)**
+- **[constituency-scale-patterns](constituency-scale-patterns.md)**
+- **[coordination-scale-patterns](coordination-scale-patterns.md)**
+- **[dao-patterns](dao-patterns.md)**
+- **[network-scale-patterns](network-scale-patterns.md)**
 
 %% End Waypoint %%

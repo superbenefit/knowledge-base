@@ -97,7 +97,7 @@ The facilitation process typically involves:
 
 1. **Assessing Context**: Understanding the group's current phase, scale, and state
 2. **Identifying Needs**: Determining the most pressing challenges and opportunities
-3. **Selecting Patterns**: Choosing appropriate organizational patterns from the [Pattern Library](notes/dao-primitives/patterns/patterns.md)
+3. **Selecting Patterns**: Choosing appropriate organizational patterns from the [Pattern Library](notes/dao-primitives/implementation/patterns/patterns.md)
 4. **Implementing Solutions**: Adapting and applying these patterns to the specific context
 5. **Evolving & Iterating**: Continuously refining the approach based on feedback
 
@@ -168,7 +168,7 @@ This multi-scale approach allows organizations to achieve:
 
 The framework is supported by a rich ecosystem of related resources:
 
-- The [Pattern Library](notes/dao-primitives/patterns/patterns.md) provides reusable solutions to common organizational challenges
+- The [Pattern Library](notes/dao-primitives/implementation/patterns/patterns.md) provides reusable solutions to common organizational challenges
 - The [Implementation](notes/dao-primitives/implementation/implementation.md) section offers practical guides and case studies
 - The [Resources](notes/dao-primitives/resources/resources.md) section provides templates and tools for implementation
 

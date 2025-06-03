@@ -144,7 +144,7 @@ Some stakeholders were interested in participating in specific experiments withi
 
 Following the discovery phase, a Core Team was established as the primary operational decision-making body.
 
-This was outlined for transparency and clarity in the Cell's [cell-state](notes/dao-primitives/patterns/collaboration-scale-patterns/cell-state.md). This holds the Purpose, Practice and Progress for the Cell (and therefore the RPP project overall):
+This was outlined for transparency and clarity in the Cell's [cell-state](cell-state.md). This holds the Purpose, Practice and Progress for the Cell (and therefore the RPP project overall):
 
 - **Composition**: The Core Team included:
     - Representatives with strong relationships to key stakeholders
@@ -157,7 +157,7 @@ This was outlined for transparency and clarity in the Cell's [cell-state](notes/
     - Authority to create and task operational cells
     - Stakeholder group interface responsibility
 - **Decision Protocol**: The team implemented a formal proposal mechanism documented in their cell state, which included:
-    - Use of the [decider](notes/dao-primitives/patterns/collaboration-scale-patterns/decider.md) protocol for core team decisions. A consent-based decision mechanism (no reasoned objections rather than unanimous agreement)
+    - Use of the [decider](decider.md) protocol for core team decisions. A consent-based decision mechanism (no reasoned objections rather than unanimous agreement)
     - Recording of major decisions in a decision log
     - Management of project treasury via a safe multi-sig contract
     - Thresholds for decisions requiring stakeholder consultation

@@ -76,12 +76,12 @@ This section of the knowledge base contains several interrelated components:
 ### 1. [Framework](notes/dao-primitives/framework/framework.md)
 The conceptual foundations that guide organizational design, including models for understanding group scale, phase, and state, along with organizational primitives.
 
-### 2. [Patterns](notes/dao-primitives/patterns/patterns.md)
+### 2. [Patterns](notes/dao-primitives/implementation/patterns/patterns.md)
 Reusable solutions to common coordination challenges, organized by scale:
-- [Collaboration Scale Patterns](notes/dao-primitives/patterns/collaboration-scale-patterns/collaboration-scale-patterns.md)
-- [Coordination Scale Patterns](notes/dao-primitives/patterns/coordination-scale-patterns/coordination-scale-patterns.md)
-- [Constituency Scale Patterns](notes/dao-primitives/patterns/constituency-scale-patterns/constituency-scale-patterns.md)
-- [Network Scale Patterns](notes/dao-primitives/patterns/network-scale-patterns/network-scale-patterns.md)
+- [Collaboration Scale Patterns](collaboration-scale-patterns.md)
+- [Coordination Scale Patterns](coordination-scale-patterns.md)
+- [Constituency Scale Patterns](constituency-scale-patterns.md)
+- [Network Scale Patterns](network-scale-patterns.md)
 
 ### 3. [Implementation](notes/dao-primitives/implementation/implementation.md)
 Practical tools, processes, and guides for putting the primitives approach into practice, including:
@@ -109,7 +109,7 @@ If you're new to the DAO Primitives approach:
 
 1. Explore the [Conceptual Framework](notes/dao-primitives/framework/framework.md) to understand the key concepts
 2. Review the [Group Facilitation Guide](notes/dao-primitives/framework/group-facilitation.md) for a practical approach to applying these concepts
-3. Browse the [Pattern Library](notes/dao-primitives/patterns/patterns.md) for specific solutions to common challenges
+3. Browse the [Pattern Library](notes/dao-primitives/implementation/patterns/patterns.md) for specific solutions to common challenges
 
 For those implementing a DAO or similar decentralized organization, the primitives approach offers a flexible but coherent way to design systems that can harness collective intelligence while adapting and evolving as your needs change.
 
@@ -120,8 +120,6 @@ For those implementing a DAO or similar decentralized organization, the primitiv
 %% Begin Waypoint %%
 - **[framework](./framework/framework.md)**
 - **[implementation](./implementation/implementation.md)**
-- **[patterns](./patterns/patterns.md)**
-- **[resources](./resources/resources.md)**
-- **[test-resources](./test-resources/test-resources.md)**
+- **[patterns](notes/dao-primitives/implementation/patterns/patterns.md)test-resources.md)**
 
 %% End Waypoint %%

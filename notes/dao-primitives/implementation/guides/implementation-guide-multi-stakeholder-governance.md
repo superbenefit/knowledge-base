@@ -258,7 +258,7 @@ Clearly delineate which decisions belong to each governance layer:
 2. Create treasury management and resource allocation processes
 3. Create communication protocols with SHG and other cells
 4. Document strategic planning and review cycles
-5. Document core information in a [Cell state](notes/dao-primitives/patterns/collaboration-scale-patterns/cell-state.md)
+5. Document core information in a [Cell state](cell-state.md)
 
 #### Stakeholder Group and TLC Coordination
 1. Set up optimistic governance agreements and processes 
@@ -325,7 +325,7 @@ Implementation should follow a phased approach that allows for learning and adap
 
 ### State Documentation
 Throughout implementation, document the current state of governance to provide clarity and enable effective participation.
-Guidlines on what should go into a state document can be found in the [cell state template](notes/dao-primitives/patterns/collaboration-scale-patterns/cell-state-template.md) and [cell state pattern](notes/dao-primitives/patterns/collaboration-scale-patterns/cell-state.md).
+Guidlines on what should go into a state document can be found in the [cell state template](cell-state-template.md) and [cell state pattern](cell-state.md).
 Following some simple principles in how you document the design on the multi-stakeholder governance structure will help people to engage in coherent useful ways
 
 **Documentation Principles**
