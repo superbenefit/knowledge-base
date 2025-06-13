@@ -34,5 +34,5 @@ We currently have 10 entries in various stages of review. These entries cover ke
 
 * **[Main Links Library](/links/links.md):** The published collection of curated external resources
 * **[Contributing Guidelines](notes/links/CONTRIBUTING.md):** Instructions for adding to this library
-* **[Resource Evaluation Prompt](link-evaluation.md):** Template for evaluating resources
-* **[Library Entry Creation Prompt](link-creation.md):** Template for creating standardized entries
+* **[Resource Evaluation Prompt](link-evaluation-workflow.md):** Template for evaluating resources
+* **[Library Entry Creation Prompt](link-creation-workflow.md):** Template for creating standardized entries

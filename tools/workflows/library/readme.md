@@ -15,8 +15,8 @@ The Web3 Library serves multiple important functions in our knowledge ecosystem:
 
 This directory contains structured guides for two primary library workflows:
 
-- **[Link Evaluation](link-evaluation.md)**: Process for assessing whether resources align with our knowledge base
-- **[Link Creation](link-creation.md)**: Guidelines for creating standardized library entries
+- **[Link Evaluation](link-evaluation-workflow.md)**: Process for assessing whether resources align with our knowledge base
+- **[Link Creation](link-creation-workflow.md)**: Guidelines for creating standardized library entries
 
 ## Environment Setup
 
