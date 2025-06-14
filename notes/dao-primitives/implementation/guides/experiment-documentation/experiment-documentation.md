@@ -58,7 +58,7 @@ The framework uses a numbered system to indicate the typical sequence of documen
 
 #### 06-legacy/ - Archived Materials
 - Contains previous versions and outdated documents maintained for reference
-- **[[notes/dao-primitives/implementation/guides/experiment-documentation/z-old/readme]]** - Explanation of archived materials and migration notes
+- **[[drafts/pdf-old/readme]]** - Explanation of archived materials and migration notes
 
 ## Document Types Explained
 
