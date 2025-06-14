@@ -92,14 +92,14 @@ This framework is designed to work with any tools your organization already uses
 - **[[information-flow.md]]** - How information moves between phases
 
 ### Phase Documentation
-- **[[01-discovery]]** - Understanding organizational context and challenges
+- **[[notes/dao-primitives/implementation/guides/experiment-documentation/discovery/discovery]]** - Understanding organizational context and challenges
 - **[[02-intervention/_intervention.md]]** - Mapping intervention possibilities
 - **[[03-reflection/_reflection.md]]** - Iterative learning capture
-- **[[04-synthesis]]** - Comprehensive case study creation
+- **[[notes/dao-primitives/implementation/guides/experiment-documentation/synthesis/synthesis]]** - Comprehensive case study creation
 
 ### Supporting Materials
-- **[[05-supporting-resources/_supporting-resources.md]]** - Optional tools, examples, and guides
-- **[[05-supporting-resources/implementation-plan-template.md]]** - Customizable project planning template
+- **[[z-resources]]** - Optional tools, examples, and guides
+- **[[implementation-plan-template]]** - Customizable project planning template
 
 
 
@@ -107,7 +107,7 @@ This framework is designed to work with any tools your organization already uses
 
 **New to the framework?** Start with these documents:
 1. **[[framework-guide.md]]** - Understand the approach
-2. **[[01-discovery]]** - Begin documentation
+2. **[[notes/dao-primitives/implementation/guides/experiment-documentation/discovery/discovery]]** - Begin documentation
 
 **Looking for specific guidance?** Check the supporting resources folder for tools, examples, and specialized guides.
 

@@ -41,7 +41,7 @@ flowchart TD
 **Purpose**: Understand what needs to be captured before beginning information gathering
 
 **Process**:
-- Read through [reflection-specification.md](reflection-specification.md) to understand quality standards
+- Read through [reflection-specification.md](03-reflection/reflection-specification.md) to understand quality standards
 - Identify which type of reflection documentation is needed (periodic, milestone, challenge-focused, comprehensive, meta-reflection)
 - Note the required elements for your chosen reflection type
 - Review quality criteria to understand documentation standards
@@ -53,7 +53,7 @@ flowchart TD
 **Purpose**: Systematically capture reflection insights using the structured worksheet
 
 **Process**:
-- Open [reflection-worksheet.md](reflection-worksheet.md) as your working document
+- Open [reflection-worksheet.md](03-reflection/reflection-worksheet.md) as your working document
 - Complete sections progressively as insights develop (no need to complete all at once)
 - Use worksheet sections as prompts for stakeholder conversations, individual reflection, or group discussions
 - Fill in relevant sections based on your reflection type and scope

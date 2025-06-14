@@ -44,7 +44,7 @@ How do we document intervention decisions and strategies in a way that:
 ## Temporary Workaround
 
 Until this phase is properly developed, experiments can:
-- Use the [intervention-placeholder-template.md](intervention-placeholder-template.md) to capture key intervention decisions
+- Use the [intervention-placeholder-template.md](02-intervention/intervention-placeholder-template.md) to capture key intervention decisions
 - Document intervention decisions in free-form notes that reference Discovery findings
 - Capture key strategic choices and rationale for future synthesis
 - Note connections to relevant decentralized coordination patterns

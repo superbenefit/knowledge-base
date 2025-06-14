@@ -58,4 +58,4 @@ This phase implements a collaborative documentation model where humans focus on 
 
 ---
 
-*For navigation to other phases: [Intervention](02-intervention.md) | [Reflection](../03-reflection/_reflection.md) | [Synthesis](04-synthesis.md)*
+*For navigation to other phases: [Intervention](notes/dao-primitives/implementation/guides/experiment-documentation/intervention/intervention.md) | [Reflection](notes/dao-primitives/implementation/guides/experiment-documentation/reflection/reflection.md) | [Synthesis](notes/dao-primitives/implementation/guides/experiment-documentation/synthesis/synthesis.md)*

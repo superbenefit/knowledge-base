@@ -52,10 +52,10 @@ Focused on particular perspectives:
 ## Documents in This Phase
 
 ### Core Documents
-- **[reflection-specification.md](reflection-specification.md)** - Defines what comprehensive reflection documentation should contain
-- **[reflection-worksheet.md](reflection-worksheet.md)** - Progressive tool for capturing reflection insights across multiple sessions
-- **[reflection-template.md](reflection-template.md)** - Structure for organizing reflection insights into coherent retrospectives
-- **[reflection-workflow.md](reflection-workflow.md)** - Flexible approaches for different reflection contexts and depths
+- **[reflection-specification.md](03-reflection/reflection-specification.md)** - Defines what comprehensive reflection documentation should contain
+- **[reflection-worksheet.md](03-reflection/reflection-worksheet.md)** - Progressive tool for capturing reflection insights across multiple sessions
+- **[reflection-template.md](03-reflection/reflection-template.md)** - Structure for organizing reflection insights into coherent retrospectives
+- **[reflection-workflow.md](03-reflection/reflection-workflow.md)** - Flexible approaches for different reflection contexts and depths
 
 ### Document Relationships
 - **Specification** defines the elements that make reflection documentation valuable
@@ -112,4 +112,4 @@ The framework provides documentation structure while remaining agnostic about sp
 
 ---
 
-*For navigation to other phases: [Discovery](01-discovery.md) | [Intervention](../02-intervention/_intervention.md) | [Synthesis](04-synthesis.md)*
+*For navigation to other phases: [Discovery](notes/dao-primitives/implementation/guides/experiment-documentation/discovery/discovery.md) | [Intervention](../02-intervention/_intervention.md) | [Synthesis](notes/dao-primitives/implementation/guides/experiment-documentation/synthesis/synthesis.md)*

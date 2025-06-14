@@ -26,10 +26,10 @@ Discovery work generates a comprehensive **Discovery Report** that captures orga
 ## Discovery Documents
 
 ### Core Documentation
-- **[[discovery-specification.md]]** - Defines required elements and quality criteria for Discovery Reports
-- **[[discovery-worksheet.md]]** - Progressive information gathering tool for capturing insights across multiple sessions
-- **[[discovery-template.md]]** - Structured format for organizing Discovery Report content
-- **[[discovery-workflow.md]]** - Flexible process guidance for conducting Discovery activities
+- **[[discovery-specification]]** - Defines required elements and quality criteria for Discovery Reports
+- **[[discovery-worksheet]]** - Progressive information gathering tool for capturing insights across multiple sessions
+- **[[discovery-template]]** - Structured format for organizing Discovery Report content
+- **[[discovery-workflow]]** - Flexible process guidance for conducting Discovery activities
 
 ### Document Relationships
 The Discovery documents work together as a coherent system: the **specification** establishes what should be captured, the **worksheet** provides practical tools for gathering information, the **template** organizes insights into shareable knowledge, and the **workflow** offers process guidance that adapts to different engagement styles.

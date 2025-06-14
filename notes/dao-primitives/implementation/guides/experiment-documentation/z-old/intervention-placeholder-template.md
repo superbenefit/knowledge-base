@@ -52,6 +52,6 @@
 *This placeholder template captures essential intervention strategy information for reference during reflection and synthesis activities. When the full Intervention phase framework is developed, this information can be expanded into comprehensive intervention documentation.*
 
 **Related Documentation:**
-- [Discovery Report](01-discovery.md)
-- [Reflection Documentation](notes/dao-primitives/implementation/guides/experiment-documentation/03-reflection/03-reflection.md)
-- [Synthesis Documentation](04-synthesis.md)
+- [Discovery Report](notes/dao-primitives/implementation/guides/experiment-documentation/discovery/discovery.md)
+- [Reflection Documentation](notes/dao-primitives/implementation/guides/experiment-documentation/reflection/reflection.md)
+- [Synthesis Documentation](notes/dao-primitives/implementation/guides/experiment-documentation/synthesis/synthesis.md)

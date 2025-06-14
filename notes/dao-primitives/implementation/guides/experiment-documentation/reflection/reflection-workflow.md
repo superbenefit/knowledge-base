@@ -10,13 +10,13 @@ This workflow guides the sequential use of reflection documentation tools to cre
 4. **Quality Review** → Check final documentation against specification requirements
 
 ## Step 1: Review Specification Requirements
-Read through [reflection-specification.md](reflection-specification.md) to understand quality standards and required elements.
+Read through [reflection-specification.md](notes/dao-primitives/implementation/guides/experiment-documentation/reflection/reflection-specification.md) to understand quality standards and required elements.
 
 ## Step 2: Progressive Information Gathering Using Worksheet
-Complete [reflection-worksheet.md](reflection-worksheet.md) sections progressively as insights develop.
+Complete [reflection-worksheet.md](notes/dao-primitives/implementation/guides/experiment-documentation/reflection/reflection-worksheet.md) sections progressively as insights develop.
 
 ## Step 3: AI-Assisted Template Development
-Use AI prompts to synthesize worksheet content into [reflection-template.md](reflection-template.md) sections.
+Use AI prompts to synthesize worksheet content into [reflection-template.md](notes/dao-primitives/implementation/guides/experiment-documentation/reflection/reflection-template.md) sections.
 
 **Example AI Prompt:**
 ```

@@ -7,7 +7,7 @@
 **New to the framework?** Start here:
 1. **[[notes/dao-primitives/implementation/guides/experiment-documentation/readme]]** - System overview and quick start guide
 2. **[[framework-guide.md]]** - Philosophy and approach explanation  
-3. **[[01-discovery]]** - Begin with understanding context and challenges
+3. **[[notes/dao-primitives/implementation/guides/experiment-documentation/discovery/discovery]]** - Begin with understanding context and challenges
 
 ## Framework Overview
 
@@ -21,18 +21,18 @@
 The framework uses a numbered system to indicate the typical sequence of documentation phases, while remaining flexible for iterative and parallel approaches.
 
 #### 01-discovery/ - Understanding Context
-**[[01-discovery]]** - Phase overview and navigation
-- **[[01-discovery/discovery-specification.md]]** - Required elements and quality criteria for Discovery Reports
-- **[[01-discovery/discovery-worksheet.md]]** - Information gathering tool for organizational context, challenges, and stakeholder analysis
-- **[[01-discovery/discovery-template.md]]** - Structure for final Discovery Report documentation
-- **[[01-discovery/discovery-workflow.md]]** - Process guidance for conducting Discovery work
+**[[notes/dao-primitives/implementation/guides/experiment-documentation/discovery/discovery]]** - Phase overview and navigation
+- **[[discovery-specification]]** - Required elements and quality criteria for Discovery Reports
+- **[[discovery-worksheet]]** - Information gathering tool for organizational context, challenges, and stakeholder analysis
+- **[[discovery-template]]** - Structure for final Discovery Report documentation
+- **[[discovery-workflow]]** - Process guidance for conducting Discovery work
 
 #### 02-intervention/ - Mapping Possibilities
 **[[02-intervention/_intervention.md]]** - Phase overview and navigation
-- **[[02-intervention/intervention-specification.md]]** - Required elements and quality criteria for Intervention Maps
-- **[[02-intervention/intervention-worksheet.md]]** - Planning tool for intervention design and stakeholder readiness assessment
-- **[[02-intervention/intervention-template.md]]** - Structure for final Intervention Map documentation
-- **[[02-intervention/intervention-workflow.md]]** - Process guidance for intervention planning and design
+- **[[intervention-specification]]** - Required elements and quality criteria for Intervention Maps
+- **[[intervention-worksheet]]** - Planning tool for intervention design and stakeholder readiness assessment
+- **[[intervention-template]]** - Structure for final Intervention Map documentation
+- **[[intervention-workflow]]** - Process guidance for intervention planning and design
 
 #### 03-reflection/ - Capturing Learning
 **[[03-reflection/_reflection.md]]** - Phase overview and navigation
@@ -42,23 +42,23 @@ The framework uses a numbered system to indicate the typical sequence of documen
 - **[[03-reflection/reflection-workflow.md]]** - Process guidance for reflection activities and learning capture
 
 #### 04-synthesis/ - Creating Knowledge
-**[[04-synthesis]]** - Phase overview and navigation
-- **[[04-synthesis/synthesis-specification.md]]** - Required elements and quality criteria for Case Studies
-- **[[04-synthesis/synthesis-worksheet.md]]** - Integration tool for identifying patterns and transferable insights
-- **[[04-synthesis/synthesis-template.md]]** - Structure for comprehensive Case Study documentation
-- **[[04-synthesis/synthesis-workflow.md]]** - Process guidance for synthesis work and knowledge commons contribution
+**[[notes/dao-primitives/implementation/guides/experiment-documentation/synthesis/synthesis]]** - Phase overview and navigation
+- **[[synthesis-specification]]** - Required elements and quality criteria for Case Studies
+- **[[synthesis-worksheet]]** - Integration tool for identifying patterns and transferable insights
+- **[[synthesis-template]]** - Structure for comprehensive Case Study documentation
+- **[[synthesis-workflow]]** - Process guidance for synthesis work and knowledge commons contribution
 
 ### Supporting Materials
 
 #### 05-supporting-resources/ - Optional Tools and Guides
-**[[05-supporting-resources/_supporting-resources.md]]** - Supporting materials overview and navigation
-- **[[05-supporting-resources/progressive-documentation-principles.md]]** - Core concepts and theoretical foundations
-- **[[05-supporting-resources/tools-guide.md]]** - Optional tools and platform recommendations (maintains tool agnosticism)
+**[[z-resources]]** - Supporting materials overview and navigation
+- **[[progressive-documentation-principles]]** - Core concepts and theoretical foundations
+- **[[tools-guide]]** - Optional tools and platform recommendations (maintains tool agnosticism)
 - **[[05-supporting-resources/examples/]]** - Anonymized examples and case study samples (when available)
 
 #### 06-legacy/ - Archived Materials
 - Contains previous versions and outdated documents maintained for reference
-- **[[06-legacy/legacy-readme.md]]** - Explanation of archived materials and migration notes
+- **[[notes/dao-primitives/implementation/guides/experiment-documentation/z-old/readme]]** - Explanation of archived materials and migration notes
 
 ## Document Types Explained
 
