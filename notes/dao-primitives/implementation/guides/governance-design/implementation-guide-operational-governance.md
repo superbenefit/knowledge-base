@@ -26,9 +26,9 @@ At SuperBenefit we have developed the DAO primitives framework to provide a set 
 We have identified and experimented with using the DAO primitives framework to produce governance systems based on 3 interlocking governance structures: Community Governance, Operational Governance and Multi-Stakeholder Governance.
 
 Guides to setting up these 3 interlocking governance structures can can be found here:
-- [Implementation-guide-operational-governance](notes/dao-primitives/implementation/guides/implementation-guide-operational-governance.md) (this guide)
-- [Implementation-guide-multi-stakeholder-governance](notes/dao-primitives/implementation/guides/implementation-guide-multi-stakeholder-governance.md)
-- [Implementation-guide-community-governance](notes/dao-primitives/implementation/guides/implementation-guide-community-governance.md) 
+- [Implementation-guide-operational-governance](implementation-guide-operational-governance.md) (this guide)
+- [Implementation-guide-multi-stakeholder-governance](implementation-guide-multi-stakeholder-governance.md)
+- [Implementation-guide-community-governance](implementation-guide-community-governance.md) 
 
 This guide focuses on setting up an Operational Governance structure. This approach can be used both as part of the above layered governance system, outlined above, or alternatively, this guide can be used to create an operational structure to interface with different approaches to community and multi-stakeholder governance. 
 
