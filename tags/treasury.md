@@ -25,7 +25,7 @@ The health, size, and management of its treasury are critical indicators of a DA
 
 ### As a Central Component of DAO Frameworks
 
-As highlighted in [[A Pocket Guide to DAO Frameworks]], different technical frameworks are often designed around specific models of treasury management. The choice of framework dictates who can access treasury funds and how.
+As highlighted in [[notes/links/to-review/A Pocket Guide to DAO Frameworks]], different technical frameworks are often designed around specific models of treasury management. The choice of framework dictates who can access treasury funds and how.
 - The **Moloch** framework, for example, centers on grant-giving, with a "Ragequit" mechanism that allows members to exit by claiming their proportional share of the treasury.
 - Frameworks like **Aragon** or those using **OpenZeppelin Governor** provide extensive tooling for token-holder voting on proposals that directly allocate treasury funds for various purposes, from developer grants to liquidity provision.
 
@@ -46,4 +46,4 @@ The treasury is the primary [[tags/resources|shared resource]] that a DAO's [[ta
 - [[tags/resources|Resources]]: The treasury is the primary financial resource pool for a DAO.
 - [[tags/wallets|Wallets]]: The treasury itself is often a multi-signature wallet or smart contract, and members use their personal wallets to vote on its use.
 - [[notes/dao-primitives/test-resources/test-pattern|Cells]]: The autonomous operational units often funded by the DAO's treasury to perform work.
-- [[A Pocket Guide to DAO Frameworks]]: An overview of technical systems that define how a treasury can be managed.
+- [[notes/links/to-review/A Pocket Guide to DAO Frameworks]]: An overview of technical systems that define how a treasury can be managed.

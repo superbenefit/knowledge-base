@@ -13,7 +13,7 @@ tags:
 Semiotic bridging refers to the process of translating not just words but entire systems of meaning between different communities or cultural contexts. It focuses on maintaining the integrity and nuance of local knowledge while making it accessible and understandable to others.
 
 Credit: [Giulio Quarta - Commons Economy Roadmap](https://www.commonseconomy.org/Giulio-Quarta-5d9b026c5ffb4d4c86e2e39e8fff9ba0)
-[Semiotic Bridging: a practice for Ethereum Localism and the Commons Economy](https://greenpill.network/pdf/ethereum-localism.pdf), Featured in [Ethereum Localism](links/ethereum-localism.md)
+[Semiotic Bridging: a practice for Ethereum Localism and the Commons Economy](https://greenpill.network/pdf/ethereum-localism.pdf), Featured in [Ethereum Localism](ethereum-localism.md)
 
 ---
 

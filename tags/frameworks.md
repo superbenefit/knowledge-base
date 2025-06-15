@@ -31,7 +31,7 @@ The [DAO Primitives Framework](notes/dao-primitives/framework/framework.md) exem
 
 In web3 governance, frameworks provide structured approaches to addressing coordination challenges, power dynamics, and decision-making processes. These frameworks often combine technical mechanisms (like voting systems and smart contracts) with social practices and principles that guide their implementation.
 
-The [Anticapture Framework](links/Anticapture.md) represents a significant contribution to this field, offering a systematic approach to designing systems resistant to power concentration and exploitation. It provides a structured analysis of capture risks and corresponding design patterns to create more resilient governance systems. As referenced in governance discussions throughout the knowledge base, Anticapture offers principles for balancing decentralization with effective coordination.
+The [Anticapture Framework](Anticapture.md) represents a significant contribution to this field, offering a systematic approach to designing systems resistant to power concentration and exploitation. It provides a structured analysis of capture risks and corresponding design patterns to create more resilient governance systems. As referenced in governance discussions throughout the knowledge base, Anticapture offers principles for balancing decentralization with effective coordination.
 
 Similarly, Modular Politics provides a framework for understanding how governance components can be designed as interchangeable modules, allowing for flexible adaptation to different contexts and needs. This framework helps communities select and combine governance mechanisms appropriate to their specific requirements rather than imposing one-size-fits-all solutions.
 
@@ -55,6 +55,6 @@ The various frameworks discussed in the "Governance for better futures" series o
 Several key frameworks are documented and developed within the SuperBenefit ecosystem:
 
 - **[DAO Primitives Framework](notes/dao-primitives/framework/framework.md)**: A conceptual model for understanding and designing decentralized autonomous organizations
-- **[Anticapture](links/Anticapture.md)**: A framework for designing governance systems resistant to power concentration and exploitation
-- **[Modular Politics](links/Modular%20Politics.md)**: An approach to governance that emphasizes composable, interchangeable components
-- **[The Blockchain Governance Toolkit](links/The%20Blockchain%20Governance%20Toolkit.md)**: A resource for implementing effective governance in blockchain-based systems
+- **[Anticapture](Anticapture.md)**: A framework for designing governance systems resistant to power concentration and exploitation
+- **[Modular Politics](Modular%20Politics.md)**: An approach to governance that emphasizes composable, interchangeable components
+- **[The Blockchain Governance Toolkit](notes/links/to-review/The%20Blockchain%20Governance%20Toolkit.md)**: A resource for implementing effective governance in blockchain-based systems

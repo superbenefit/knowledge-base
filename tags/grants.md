@@ -31,7 +31,7 @@ For any [[tags/daos|DAO]], the [[tags/treasury|treasury]] is its central economi
 
 ### As a Foundational Mechanism in DAO Frameworks
 
-As noted in [[A Pocket Guide to DAO Frameworks]], many of the earliest and most successful DAO frameworks were designed specifically for grant-making.
+As noted in [[notes/links/to-review/A Pocket Guide to DAO Frameworks]], many of the earliest and most successful DAO frameworks were designed specifically for grant-making.
 - The **Moloch framework** was conceived as a "minimum viable DAO" for grant distribution, introducing the "Ragequit" feature to protect minority members from funding decisions they strongly oppose.
 - More modular frameworks like **OpenZeppelin Governor** provide the general-purpose proposal and voting machinery that DAOs like Uniswap use to pass grant proposals, funding a wide range of ecosystem development.
 

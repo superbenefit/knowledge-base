@@ -47,5 +47,5 @@ Focuses on aligning key stakeholder interests and managing relationships between
 
 ## Governance Frameworks
 
-- [Anticapture](links/Anticapture.md)
-- [The Blockchain Governance Toolkit](links/The%20Blockchain%20Governance%20Toolkit.md)
+- [Anticapture](Anticapture.md)
+- [The Blockchain Governance Toolkit](notes/links/to-review/The%20Blockchain%20Governance%20Toolkit.md)
