@@ -48,31 +48,31 @@ graph LR
 
 1. **Review Information Flow** - Check `information-flow.md` for detailed phase relationships
 2. **Understand Document Types** - Each phase contains specifications, worksheets, templates, and workflows
-3. **Test User Experience** - Walk through the user initialization process
+3. **Test User Experience** - Walk through the setup process
 4. **Provide Feedback** - Document improvements and share insights
 
 ## Directory Structure
 
 ```
 experiment-documentation/
-├── _README.md (this file)
-├── _experiment-documentation.md (navigation hub)
+├── readme.md (this file)
+├── experiment-documentation.md (navigation hub)
 ├── framework-guide.md (philosophy and approach)
-├── user-initialization-guide.md (setup instructions)
 ├── information-flow.md (phase relationships)
-├── 01-discovery/ (understanding context)
-├── 02-intervention/ (mapping possibilities)
-├── 03-reflection/ (capturing learning)
-├── 04-synthesis/ (creating knowledge)
-├── 05-supporting-resources/ (optional tools and guides)
-└── 06-legacy/ (archived materials)
+├── progressive-documentation-principles.md (core concepts)
+├── tools-guide.md (optional tools)
+├── implementation-plan-template.md (planning template)
+├── discovery/ (understanding context)
+├── intervention/ (mapping possibilities)
+├── reflection/ (capturing learning)
+└── synthesis/ (creating knowledge)
 ```
 
 ## Technical Requirements
 
 ### Minimum Requirements
 - **Knowledge Base System**: Any system that supports markdown files and linking (Obsidian, Notion, file system, etc.)
-- **AI Assistant Access**: For guided setup and document creation (Claude, ChatGPT, etc.)
+- **AI Assistant Access**: For document synthesis and quality review (Claude, ChatGPT, etc.)
 - **Collaborative Tools**: Whatever your team already uses for communication and file sharing
 
 ### Recommended Setup
@@ -87,29 +87,28 @@ This framework is designed to work with any tools your organization already uses
 ## Key Resources
 
 ### Navigation and Setup
-- **[[experiment-documentation]]** - Main navigation hub with links to all materials
-- **[[framework-guide.md]]** - Detailed explanation of philosophy and best practices
-- **[[information-flow.md]]** - How information moves between phases
+- **[[experiment-documentation|Main Navigation Hub]]** - Central navigation with links to all materials
+- **[[framework-guide|Framework Guide]]** - Detailed explanation of philosophy and best practices
+- **[[information-flow|Information Flow]]** - How information moves between phases
 
 ### Phase Documentation
-- **[[notes/dao-primitives/implementation/guides/experiment-documentation/discovery/discovery]]** - Understanding organizational context and challenges
-- **[[02-intervention/_intervention.md]]** - Mapping intervention possibilities
-- **[[03-reflection/_reflection.md]]** - Iterative learning capture
-- **[[notes/dao-primitives/implementation/guides/experiment-documentation/synthesis/synthesis]]** - Comprehensive case study creation
+- **[[discovery/discovery|Discovery Phase]]** - Understanding organizational context and challenges
+- **[[intervention/intervention|Intervention Phase]]** - Mapping intervention possibilities
+- **[[reflection/reflection|Reflection Phase]]** - Iterative learning capture
+- **[[synthesis/synthesis|Synthesis Phase]]** - Comprehensive case study creation
 
 ### Supporting Materials
-- **[[z-resources]]** - Optional tools, examples, and guides
-- **[[implementation-plan-template]]** - Customizable project planning template
-
-
+- **[[progressive-documentation-principles|Progressive Documentation Principles]]** - Core theoretical foundations
+- **[[tools-guide|Tools Guide]]** - Optional tools and platform recommendations
+- **[[implementation-plan-template|Implementation Plan Template]]** - Customizable project planning
 
 ## Getting Started
 
 **New to the framework?** Start with these documents:
-1. **[[framework-guide.md]]** - Understand the approach
-2. **[[notes/dao-primitives/implementation/guides/experiment-documentation/discovery/discovery]]** - Begin documentation
+1. **[[framework-guide|Framework Guide]]** - Understand the approach
+2. **[[discovery/discovery|Discovery Phase]]** - Begin documentation
 
-**Looking for specific guidance?** Check the supporting resources folder for tools, examples, and specialized guides.
+**Looking for specific guidance?** Check the supporting resources in the root directory for principles, tools, and templates.
 
 **Contributing improvements?** Document your insights and adaptations to help others learn from your experience.
 

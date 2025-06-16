@@ -118,8 +118,66 @@ For those implementing a DAO or similar decentralized organization, the primitiv
 ## DAO Primitives Index
 
 %% Begin Waypoint %%
-- **[framework](./framework/framework.md)**
-- **[implementation](./implementation/implementation.md)**
-- **[test-resources](./test-resources/test-resources.md)**
+- **[[framework]]**
+  - [[group-facilitation|Group Facilitation Guide]]
+  - **[[group-phase]]**
+    - [[com[test-resources](test-resources.md)    - [[coordination]]
+    - [[formation]]
+    - [[organization]]
+  - **[[group-primitives]]**
+  - **[[group-scale]]**
+    - [[collaboration|Collaboration Scale]]
+    - [[constituency|Constituency Scale]]
+    - [[coordination|Coordination Scale]]
+    - [[network|Network Scale]]
+  - [[group-state|Group State]]
+- **[[implementation]]**
+  - **[[case-studies]]**
+    - [[rpp-governance-design-study|Reimagining Power Project Governance Design]]
+  - **[[guides]]**
+    - **[[dao-state-guide]]**
+      - **[[template-alignment]]**
+        - [[alignment-improvement-workflow]]
+        - [[improvement-guidelines]]
+        - [[improvement-methodology]]
+        - [[improvement-plan]]
+        - [[sb-alignment-analysis-example]]
+        - [[sb-alignment-plan-example]]
+        - [[sb-alignment-review-example]]
+        - [[sb-bridging-plan-example]]
+    - **[[experiment-documentation]]**
+      - **[[discovery]]**
+        - [[discovery-specification]]
+        - [[discovery-template]]
+        - [[discovery-workflow]]
+        - [[discovery-worksheet]]
+      - [[framework-guide]]
+      - [[implementation-plan-template]]
+      - [[information-flow]]
+      - **[[intervention]]**
+        - [[intervention-specification]]
+        - [[intervention-template]]
+        - [[intervention-workflow]]
+        - [[intervention-worksheet]]
+      - [[progressive-documentation-principles]]
+      - **[[reflection]]**
+        - [[reflection-specification]]
+        - [[reflection-template]]
+        - [[reflection-workflow]]
+        - [[reflection-worksheet]]
+      - **[[synthesis]]**
+        - [[synthesis-specification]]
+        - [[synthesis-template]]
+        - [[synthesis-workflow]]
+        - [[synthesis-worksheet]]
+      - [[tools-guide]]
+    - [[experiment-facilitation-framework]]
+    - **[[governance-design]]**
+      - [[implementation-guide-community-governance]]
+      - [[implementation-guide-multi-stakeholder-governance|title]]
+      - [[implementation-guide-operational-governance|title]]
+    - [[sense-making-facilitation-tools 1]]
+    - [[sense-making-facilitation-tools]]
+  - **[[patterns]]**
 
 %% End Waypoint %%

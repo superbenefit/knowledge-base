@@ -33,7 +33,7 @@ As highlighted in [[notes/links/to-review/A Pocket Guide to DAO Frameworks]], di
 
 In scalable network models, as described in [[Building DAOs as scalable networks]], the treasury is the critical resource that fuels the entire system. It is managed through a multi-layered governance approach:
 - **Community Governance** acts as a safeguard, holding ultimate authority by approving the overall operational budget from the main treasury. This ensures all operations remain aligned with the network's long-term purpose.
-- **Operational Governance**, carried out by coordinating [[notes/dao-primitives/test-resources/test-pattern|Cells]], then has the autonomy to allocate this budgeted capital to specific projects and contributors, enabling agility and innovation at the team scale.
+- **Operational Governance**, carried out by coordinating [[test-pattern|Cells]], then has the autonomy to allocate this budgeted capital to specific projects and contributors, enabling agility and innovation at the team scale.
 
 ### As the Subject of Governance and Resource Allocation
 
@@ -45,5 +45,10 @@ The treasury is the primary [[tags/resources|shared resource]] that a DAO's [[ta
 - [[tags/daos|DAOs]]: The organizations that collectively own and are powered by a treasury.
 - [[tags/resources|Resources]]: The treasury is the primary financial resource pool for a DAO.
 - [[tags/wallets|Wallets]]: The treasury itself is often a multi-signature wallet or smart contract, and members use their personal wallets to vote on its use.
+<<<<<<< HEAD
+- [[test-pattern|Cells]]: The autonomous operational units often funded by the DAO's treasury to perform work.
+- [[A Pocket Guide to DAO Frameworks]]: An overview of technical systems that define how a treasury can be managed.
+=======
 - [[notes/dao-primitives/test-resources/test-pattern|Cells]]: The autonomous operational units often funded by the DAO's treasury to perform work.
 - [[notes/links/to-review/A Pocket Guide to DAO Frameworks]]: An overview of technical systems that define how a treasury can be managed.
+>>>>>>> ed3965f10697610f55ce4cd0e9e9f7e5f60c486a

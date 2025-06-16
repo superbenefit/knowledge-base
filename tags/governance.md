@@ -20,7 +20,7 @@ Operates at [Constituency Scale](tags/groups/scale/Constituency%20Scale.md) to s
 
 ### [Operational Governance](notes/rpp/working-docs/operational-governance.md)
 
-Functions at [Coordination Scale](tags/groups/scale/Coordination%20Scale.md) to enable effective day-to-day operations and resource allocation. Built on sociocratic structures where [Cells](notes/dao-primitives/test-resources/test-pattern.md) (small autonomous teams) coordinate their activities. Operational governance provides the flexibility and autonomy needed for teams to execute effectively while maintaining coordination across the network.
+Functions at [Coordination Scale](tags/groups/scale/Coordination%20Scale.md) to enable effective day-to-day operations and resource allocation. Built on sociocratic structures where [Cells](test-pattern.md) (small autonomous teams) coordinate their activities. Operational governance provides the flexibility and autonomy needed for teams to execute effectively while maintaining coordination across the network.
 
 ### [Multi-Stakeholder Governance](notes/rpp/working-docs/multistakeholder-governance.md)
 
