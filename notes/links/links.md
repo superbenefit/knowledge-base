@@ -22,7 +22,7 @@ The `/notes/links` directory allows us to:
 
 Browse through the entries in this directory to review draft library resources. Feel free to provide feedback on any entry by submitting suggestions via GitHub issues or pull requests. 
 
-If you'd like to contribute new entries, please see our [contribution guidelines](notes/links/CONTRIBUTING.md) which outline the process and templates to use.
+If you'd like to contribute new entries, please see our [contribution guidelines](links/contributing.md) which outline the process and templates to use.
 
 ## Current Status
 
@@ -33,6 +33,6 @@ We currently have 10 entries in various stages of review. These entries cover ke
 ## Related Resources
 
 * **[Main Links Library](/links/links.md):** The published collection of curated external resources
-* **[Contributing Guidelines](notes/links/CONTRIBUTING.md):** Instructions for adding to this library
+* **[Contributing Guidelines](links/contributing.md):** Instructions for adding to this library
 * **[Resource Evaluation Prompt](link-evaluation-workflow.md):** Template for evaluating resources
 * **[Library Entry Creation Prompt](link-creation-workflow.md):** Template for creating standardized entries

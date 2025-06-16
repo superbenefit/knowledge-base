@@ -24,7 +24,7 @@ In decentralized systems like DAOs, the relationship between agents and governan
 
 In systems and organizational design, agents represent the basic units of action and decision-making that enable collective behavior to emerge. All systems—from companies to cities to online platforms—can be understood as networks of agents interacting according to explicit or implicit rules. How these agents are incentivized, constrained, and coordinated fundamentally shapes system outcomes and characteristics.
 
-The [Anticapture framework](links/Anticapture.md) describes agents as decision-making entities that control resources and participate in networks. It distinguishes between individual agents controlling private resources and networks of agents governing shared resources, highlighting how agent relationships determine whether systems become extractive or regenerative.
+The [Anticapture framework](Anticapture.md) describes agents as decision-making entities that control resources and participate in networks. It distinguishes between individual agents controlling private resources and networks of agents governing shared resources, highlighting how agent relationships determine whether systems become extractive or regenerative.
 
 ### Agents in DAOs and Web3
 
