@@ -37,7 +37,7 @@ As noted in [[A Pocket Guide to DAO Frameworks]], many of the earliest and most 
 
 ### To Fund Autonomous Teams in Scalable Networks
 
-In the scalable network model described in [[Building DAOs as scalable networks]], grants are essential for resourcing the small, autonomous teams ([[notes/dao-primitives/test-resources/test-pattern|Cells]]) that perform the network's work. Rather than receiving a salary from a central authority, Cells or individuals can submit proposals to the DAO's governance bodies to receive grants for specific projects. This model also supports innovative funding mechanisms like retroactive public goods funding, a type of grant that rewards past work that has proven valuable to the network, thereby incentivizing permissionless innovation.
+In the scalable network model described in [[Building DAOs as scalable networks]], grants are essential for resourcing the small, autonomous teams ([[test-pattern|Cells]]) that perform the network's work. Rather than receiving a salary from a central authority, Cells or individuals can submit proposals to the DAO's governance bodies to receive grants for specific projects. This model also supports innovative funding mechanisms like retroactive public goods funding, a type of grant that rewards past work that has proven valuable to the network, thereby incentivizing permissionless innovation.
 
 ## Related Concepts
 
@@ -45,4 +45,4 @@ In the scalable network model described in [[Building DAOs as scalable networks]
 - [[tags/governance|Governance]]: The decision-making process through which grant proposals are reviewed and approved.
 - [[tags/daos|DAOs]]: The organizations that operate grants programs to achieve their goals.
 - [[tags/resources|Resources]]: Grants are the mechanism for allocating a DAO's financial resources to contributors.
-- [[notes/dao-primitives/test-resources/test-pattern|Cells]]: The autonomous teams and working groups that are often the recipients of grants.
+- [[test-pattern|Cells]]: The autonomous teams and working groups that are often the recipients of grants.

@@ -8,21 +8,46 @@ curator:
 publish: "false"
 type: note
 ---
-%% This template creates a basic note - the foundation for content development in the knowledge base. Use it for research notes, concepts in development, and early-stage ideas that will evolve over time. The template includes essential metadata fields and a simple structure for organizing your thoughts. %%
+# All In For Sport Notes
 
-# <% tp.frontmatter.title || tp.file.title %>
+_Notes and other documents from All In For Sport_
 
-_<% tp.frontmatter.description || "Brief description of this note's purpose and content." %>_
+## Key Resources
 
-**Created:** <% tp.file.creation_date("YYYY-MM-DD") %>
-**Author:** <% tp.frontmatter.author || "Anonymous" %>
 
-## Content
 
-%% Introduce your note here. Use this space to outline the main ideas, questions, or insights you want to capture. The goal is to create a foundation that can evolve as your understanding develops. %%
+%% Begin Waypoint %%
+- **[[feedback]]**
+  - [[final-retro]]
+  - [[pre-gathering-topics]]
+  - [[retro-after-gathering-0]]
+  - [[session-0-participant-thoughts]]
+- **[[gathering-planning]]**
+  - [[aifs-gathering-0-cocreating-program]]
+  - [[aifs-gathering-1-web3-social-impact]]
+  - [[aifs-gathering-2-community-governance]]
+  - [[aifs-gathering-3-impact-measurement]]
+  - [[gatherings-coordination-rpp]]
+  - [[gatherings-sessions-strategy]]
+- **[[poetic-harvests]]**
+  - [[gathering-0-13-nov-24|AIFS Gathering 0 - 13 Nov 24]]
+  - [[gathering-1-11-dec-24|AIFS Gathering 1 - 11 Dec 24]]
+  - [[gathering-2-poem|AIFS Gathering 2 Poem]]
+  - [[gathering-3-22-jan-25|AIFS Gathering 3 - 22 Jan 25]]
+  - [[gathering-4-5-feb-25|AIFS Gathering 4 - 5 Feb 25]]
+  - [[gathering-5-19-feb-25|AIFS Gathering 5 - 19 Feb 25]]
+  - [[README|AIFS Poetic Harvests]]
+- **[[presentations]]**
+  - [[aifs-gatherings-introduction]]
+- **[[reference]]**
+  - [[all-in-for-sport-workspace]]
+  - [[community-gatherings-overview]]
+  - [[giveth-aifs-gatherings-project-text]]
+  - [[superbenefit-gatherings]]
+- **[[reporting]]**
+  - [[evaluation-next-steps-report|Evaluation and Next Steps Report - AIFS Knowledge Mobilization Partnership]]
+  - [[otf-report|OTF Report for All In For Sport]]
+  - [[README|AIFS Reporting]]
 
----
+%% End Waypoint %%
 
-## Notes & References
-
-%% Use this section to capture supporting information, links to related documents, and references to external sources. This helps maintain connections between this note and the broader knowledge ecosystem. %%
