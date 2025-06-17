@@ -1,394 +1,103 @@
-# Case Study Synthesis Worksheet
+# Synthesis Exploration Guide
 
-*This worksheet helps you systematically extract and organize information from all experimental phases to create your comprehensive case study. Work through each section to identify key elements for synthesis.*
+This guide helps you weave together insights from your entire journey into a story that others can learn from. Think of it as creating a travel guide for others who might walk a similar path. Use whatever structure helps you tell the story authentically.
 
-## Preparation Checklist
+## The Journey Arc
 
-Before beginning synthesis:
-- [ ] Discovery Report finalized and available
-- [ ] Intervention Mapping document complete
-- [ ] Reflection documentation (all iterations) gathered
-- [ ] Supporting materials collected (photos, quotes, data)
-- [ ] Stakeholder permissions for quotes/stories confirmed
+*Why this matters: Every transformation has a narrative. Finding yours helps others understand not just what changed but how change happened.*
 
-## Document Review and Extraction
+Consider:
+- Where did this journey begin and what sparked it?
+- What were the key turning points or decisions?
+- How did understanding evolve along the way?
+- Where did you end up compared to where you thought you'd go?
 
-### Discovery Phase Mining
+[Space for your notes]
 
-**Core Challenge Statement**:
-*Synthesize the primary challenge in 2-3 sentences*
+## Threads That Connect
 
+*Why this matters: Identifying patterns across phases reveals deeper insights about how change works in your context.*
 
-**Key Systemic Issues** (top 3-5):
-1. 
-2. 
-3. 
-4. 
-5. 
+Consider exploring:
+- What themes appeared in Discovery and evolved through Implementation?
+- Which early curiosities led to the most significant changes?
+- What challenges persisted and which transformed?
+- How did different phases build on each other?
 
-**Stakeholder Landscape**:
-- Primary stakeholders:
-- Power dynamics identified:
-- Readiness indicators:
+[Space for your notes]
 
-**Initial Questions/Interests**:
-- 
-- 
-- 
+## Multiple Stories
 
-### Intervention Phase Mining
+*Why this matters: Different stakeholders experienced the journey differently. Weaving together multiple perspectives creates a richer, more honest narrative.*
 
-**Strategic Approach Summary**:
-*How did the organization choose to proceed?*
+Consider capturing:
+- How would different participants tell this story?
+- What mattered most to different groups?
+- Where do stories converge and where do they diverge?
+- Whose journey was most transformed?
 
+[Space for your notes]
 
-**Selected Intervention Areas**:
-1. Area:
-   - Why selected:
-   - Pattern connection:
+## Evidence of Change
 
-2. Area:
-   - Why selected:
-   - Pattern connection:
+*Why this matters: Concrete examples of what shifted help others understand the real impact and possibility of transformation.*
 
-3. Area:
-   - Why selected:
-   - Pattern connection:
+Consider:
+- What specific things are different now?
+- What evidence would convince a skeptic that change happened?
+- Which changes are most meaningful to those involved?
+- What subtle shifts might outsiders miss but insiders value?
 
-**Resource Decisions**:
-- What was committed:
-- What was deferred:
-- Key trade-offs:
+[Space for your notes]
 
-**Initial Success Criteria**:
-- 
-- 
-- 
+## Honest Complexity
 
-### Reflection Phase Mining
+*Why this matters: Real stories include struggle. Sharing what was hard makes success more credible and helps others prepare.*
 
-**Journey Milestones** (chronological or thematic):
-1. Milestone:
-   - What happened:
-   - Outcome:
-   - Learning:
+Consider including:
+- What didn't work as hoped?
+- Where did you have to pivot or adapt?
+- What tensions remain unresolved?
+- What would you do differently?
 
-2. Milestone:
-   - What happened:
-   - Outcome:
-   - Learning:
+[Space for your notes]
 
-3. Milestone:
-   - What happened:
-   - Outcome:
-   - Learning:
+## Insights That Travel
 
-**Quantitative Outcomes**:
-- Metric 1: [Baseline] → [Final]
-- Metric 2: [Baseline] → [Final]
-- Metric 3: [Baseline] → [Final]
+*Why this matters: The most valuable case studies offer wisdom others can adapt to their own contexts rather than recipes to follow.*
 
-**Qualitative Transformations**:
-- 
-- 
-- 
+Consider:
+- What principles (not prescriptions) emerged?
+- What would you want others to know before starting similar work?
+- Which insights feel specific to your context vs. broadly applicable?
+- What questions should others ask themselves?
 
-**Challenges and Responses**:
-1. Challenge:
-   - Response:
-   - Result:
+[Space for your notes]
 
-2. Challenge:
-   - Response:
-   - Result:
+## Resources and Realities
 
-## Cross-Phase Pattern Analysis
+*Why this matters: Being transparent about what it really took helps others assess whether similar approaches might work for them.*
 
-### Narrative Thread Identification
+Consider sharing:
+- What resources (time, money, energy, attention) were actually needed?
+- Where did support come from unexpectedly?
+- What capacity was essential vs. nice to have?
+- How did resource needs evolve over time?
 
-**Primary Narrative Arc**:
-*What's the main story from challenge to transformation?*
+[Space for your notes]
 
+## Living Questions
 
-**Secondary Threads**:
-1. Thread:
-2. Thread:
-3. Thread:
+*Why this matters: Good case studies don't pretend everything is resolved. Sharing ongoing questions invites others into continued learning.*
 
-### Pattern Performance Analysis
+Consider:
+- What are you still figuring out?
+- What new questions emerged from this experience?
+- Where might the work go next?
+- What would you explore with more time or resources?
 
-**Patterns Successfully Applied**:
-
-| Pattern Name | How Applied | Performance | Key Adaptations |
-|--------------|-------------|-------------|-----------------|
-| | | | |
-| | | | |
-| | | | |
-
-**Patterns That Evolved**:
-- Original pattern:
-  - How it changed:
-  - Why it changed:
-
-**New Patterns Discovered**:
-- Pattern description:
-  - How it emerged:
-  - Potential for reuse:
-
-### Evolution Tracking
-
-**Understanding Evolution**:
-- Initial assumptions:
-- Mid-journey realizations:
-- Final insights:
-
-**Strategy Evolution**:
-- Original plan:
-- Major pivots:
-- Final approach:
-
-**Stakeholder Evolution**:
-- Initial positions:
-- Journey shifts:
-- Final state:
-
-## Impact Synthesis
-
-### Power Redistribution Evidence
-
-**Decision-Making Changes**:
-- Before:
-- After:
-- Specific examples:
-
-**Resource Control Shifts**:
-- Before:
-- After:
-- Specific examples:
-
-**Voice/Agency Enhancement**:
-- Before:
-- After:
-- Specific examples:
-
-### Community Resilience Indicators
-
-**Capacity Building**:
-- Skills developed:
-- Leadership emerged:
-- Networks strengthened:
-
-**Sustainability Markers**:
-- What continues without support:
-- What requires ongoing input:
-- Future readiness:
-
-### Ecosystem Effects
-
-**Ripple Impacts**:
-- On partner organizations:
-- On sector practices:
-- On broader community:
-
-**Environmental Changes**:
-- During experimental period:
-- Influenced by experiment:
-- Influencing sustainability:
-
-## Stakeholder Voice Collection
-
-### Direct Quotes/Stories
-
-**Organizational Leadership**:
-- Quote:
-- Context:
-
-**Community Participants**:
-- Quote:
-- Context:
-
-**External Observers**:
-- Quote:
-- Context:
-
-### Perspective Themes
-
-**What Stakeholders Emphasize**:
-- Leadership emphasizes:
-- Participants emphasize:
-- Observers emphasize:
-
-**Divergent Views**:
-- Where perspectives differ:
-- Why they might differ:
-- How to represent fairly:
-
-## Learning Extraction
-
-### What Worked Well
-
-1. Success Factor:
-   - Why it worked:
-   - Replication guidance:
-
-2. Success Factor:
-   - Why it worked:
-   - Replication guidance:
-
-3. Success Factor:
-   - Why it worked:
-   - Replication guidance:
-
-### What Proved Challenging
-
-1. Challenge Area:
-   - Why difficult:
-   - Mitigation attempts:
-   - Lessons for others:
-
-2. Challenge Area:
-   - Why difficult:
-   - Mitigation attempts:
-   - Lessons for others:
-
-### Unexpected Discoveries
-
-1. Surprise:
-   - Why unexpected:
-   - Implications:
-
-2. Surprise:
-   - Why unexpected:
-   - Implications:
-
-### Critical Success Factors
-
-*What absolutely must be in place?*
-1. 
-2. 
-3. 
-
-### Warning Signs
-
-*What should others watch for?*
-1. 
-2. 
-3. 
-
-## Audience-Specific Value
-
-### For Funders
-**Key Messages**:
-- ROI demonstration:
-- Power redistribution:
-- Sustainability:
-
-**Supporting Evidence**:
-- 
-- 
-
-### For Communities
-**Key Messages**:
-- Practical benefits:
-- Empowerment examples:
-- How to replicate:
-
-**Supporting Evidence**:
-- 
-- 
-
-### For Practitioners
-**Key Messages**:
-- Implementation guidance:
-- Pattern insights:
-- Resource requirements:
-
-**Supporting Evidence**:
-- 
-- 
-
-### For Knowledge Commons
-**Key Contributions**:
-- Pattern validations:
-- Methodological innovations:
-- Theoretical insights:
-
-**Supporting Evidence**:
-- 
-- 
-
-## Visual Story Elements
-
-### System Transformation
-**Before State**:
-- Key characteristics:
-- Visual representation ideas:
-
-**After State**:
-- Key characteristics:
-- Visual representation ideas:
-
-### Journey Visualization
-**Key Phases/Milestones**:
-1. 
-2. 
-3. 
-4. 
-
-**Visual Approach**:
-- Timeline
-- Journey map
-- Process flow
-- Other:
-
-### Data Visualization Needs
-**Quantitative Data**:
-- Best visualization type:
-- Key message:
-
-**Qualitative Themes**:
-- Best visualization type:
-- Key message:
-
-## Synthesis Planning
-
-### Narrative Structure Choice
-- [ ] Chronological journey
-- [ ] Thematic organization
-- [ ] Challenge-solution pairs
-- [ ] Multiple perspectives
-- [ ] Other:
-
-### Writing Priorities
-1. Must include:
-2. Must include:
-3. Must include:
-
-### Length Allocation (suggested)
-- Executive Summary: 400 words
-- Background: 800 words
-- Approach: 600 words
-- Journey: 1,500 words
-- Outcomes: 1,000 words
-- Learnings: 800 words
-- Future: 400 words
-- Pattern Documentation: 500 words
-
-### Key Takeaway
-*If readers remember only one thing, it should be:*
-
+[Space for your notes]
 
 ---
 
-## Worksheet Completion Notes
-
-**Date Completed**: 
-**Completed By**: 
-**Time Invested**: 
-**Ready for Synthesis**: Yes / No
-
-**Missing Information**:
-- 
-- 
-
-**Next Step**: Use completed worksheet with Synthesis Workflow to create case study
+*Remember: The best case studies feel like generous gifts to future travelers. Share what you wish you'd known, include enough detail to be useful, and trust readers to adapt insights to their own contexts.*

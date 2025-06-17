@@ -1,272 +1,188 @@
 # Discovery Documentation Workflow
 
-This workflow implements a human-AI collaboration approach to transform organizational exploration into high-quality discovery documentation. The process combines human information gathering with AI-assisted synthesis to ensure comprehensive, consistent documentation across different discovery contexts.
+This workflow guides you through using the Discovery phase documents to create a comprehensive Discovery Report.
 
-## Overview: Human-AI Collaboration Model
+## Understanding the Value
 
-**Human Role**: Stakeholder engagement, information gathering, contextual understanding  
-**AI Role**: Content synthesis, structure organization, documentation development  
-**Collaboration**: Systematic handoffs between human gathering and AI synthesis
+The Discovery Report establishes foundational understanding of the organization that informs all subsequent phases. It transforms raw information gathered through stakeholder engagement into structured documentation that serves multiple audiences. This workflow shows how to systematically move from information gathering to polished documentation using the framework tools.
 
-## Document Sequence and Flow
+## Document Sequence
 
-```mermaid
-graph TD
-    A[Review Specification] --> B[Complete Worksheet Sections]
-    B --> C[AI Synthesis of Template Sections]
-    C --> D[AI Quality Review & Enhancement]
-    D --> E[Final Discovery Report]
-    
-    B --> B1[Human: Stakeholder Engagement]
-    C --> C1[AI: Content Synthesis]
-    D --> D1[AI: Quality Assurance]
+1. **Review readme.md** → Understand what Discovery documentation should accomplish
+2. **Use discovery-worksheet.md** → Capture information progressively 
+3. **Apply discovery-template.md** → Structure your findings
+4. **AI-assisted synthesis** → Transform worksheet content into polished sections
+5. **Quality review** → Ensure completeness and clarity
+
+## Step 1: Review Requirements
+
+Start by reading the Discovery phase readme.md to understand:
+- What information the Discovery Report should contain
+- How this information flows to later phases
+- The value this documentation provides
+- Expected outputs
+
+## Step 2: Information Gathering with Worksheet
+
+Use discovery-worksheet.md as your collection tool during stakeholder engagement activities. The worksheet provides:
+- Organized sections for different types of information
+- Space for capturing insights as they emerge
+- Prompts to ensure comprehensive coverage
+- Flexible format for various contexts
+
+Work through worksheet sections progressively - you don't need to complete everything at once. Add information as it becomes available through your discovery activities.
+
+## Step 3: AI-Assisted Synthesis
+
+Once your worksheet contains substantial information, use these AI prompts to transform content into template sections:
+
+### Executive Summary
+```
+Create an executive summary for my Discovery Report using this information:
+
+Organizational context: [paste from worksheet section 1]
+Key challenges: [paste from worksheet section 3]
+Areas of interest: [paste from worksheet section 5]
+
+Write 2-3 paragraphs suitable for busy stakeholders that capture the organization's current state and opportunities for exploration.
 ```
 
-## Workflow Options
+### Organizational Context
+```
+Transform these worksheet notes into a comprehensive Organizational Context section:
 
-Choose the approach that best fits your context, stakeholder availability, and engagement style:
+Basic information: [paste from worksheet section 1]
+How things work: [paste from worksheet section 2]
+Stakeholder landscape: [paste from worksheet section 4]
 
-```mermaid
-graph LR
-    A[Discovery Approach] --> B[Intensive Workshop]
-    A --> C[Extended Conversation]
-    A --> D[Hybrid Research]
-    
-    B --> E[2-4 weeks total]
-    C --> F[4-8 weeks total]
-    D --> G[3-5 weeks total]
+Create a narrative that provides clear understanding of the organization's structure, culture, and operations.
 ```
 
-## Step 1: Review Specification Requirements
-
-Read through [discovery-specification.md](discovery-specification.md) to understand quality standards and required elements for Discovery Reports.
-
-## Step 2: Progressive Human Information Gathering
-
-Complete [discovery-worksheet.md](discovery-worksheet.md) sections using your chosen approach. Focus on raw information capture rather than polished analysis.
-
-### Intensive Workshop Approach (2-4 weeks)
-- **Preparation** (1 week): Stakeholder mapping, worksheet pre-work
-- **Workshop Session(s)** (1-2 days): Collaborative information gathering
-- **Follow-up** (1-2 weeks): Report synthesis and validation
-
-### Extended Conversation Approach (4-8 weeks)
-- **Individual Conversations** (3-6 weeks): Series of stakeholder interviews
-- **Progressive Documentation** (ongoing): Continuous worksheet completion
-- **Validation** (1-2 weeks): Group review and confirmation
-
-### Hybrid Research Approach (3-5 weeks)
-- **Document Review** (1-2 weeks): Existing organizational materials
-- **Targeted Inquiry** (2-3 weeks): Focused stakeholder conversations
-- **Integration** (1 week): Synthesis and validation
-
-## Step 3: AI-Assisted Template Development
-
-Use the following AI prompts to synthesize worksheet content into [discovery-template.md](discovery-template.md) sections. Each prompt is designed for 5-10 minutes of focused AI collaboration.
-
-### 3.1 Executive Summary Generation
+### Current Challenges
 ```
-Please create an executive summary for my Discovery Report using my worksheet insights.
+Synthesize these challenge observations into structured analysis:
 
-WORKSHEET INPUT:
-[Paste: Section 1 - Basic Organization Information]
-[Paste: Section 12 - Interest Area Exploration]
-[Paste: Section 15 - Summary and Next Steps]
+Challenge notes: [paste from worksheet section 3]
+Patterns identified: [paste from worksheet section 7]
 
-CREATE: Executive summary (2-3 paragraphs) that captures organizational context, key interests, and next steps for busy stakeholders.
+Present systemic challenges with specific examples, showing connections and root causes rather than just listing problems.
 ```
 
-### 3.2 Organizational Context Synthesis
+### Stakeholder Perspectives
 ```
-Transform my organizational information into a coherent context section.
+Create a stakeholder analysis section from these notes:
 
-WORKSHEET INPUT:
-[Paste: Section 1 - Basic Organization Information]
-[Paste: Section 2 - Mission and Context]
-[Paste: Section 3 - Organizational Structure]
+Stakeholder information: [paste from worksheet section 4]
 
-CREATE: Organizational Context section that provides comprehensive organizational overview including mission, structure, and current context.
+Show different perspectives, areas of alignment and divergence, and implications for future work.
 ```
 
-### 3.3 System Mapping Development
+### Areas of Interest
 ```
-Synthesize my process documentation into structured system mapping.
+Transform these exploration notes into documented opportunities:
 
-WORKSHEET INPUT:
-[Paste: Section 4 - Core Systems and Processes]
-[Paste: Section 5 - Resource and Information Flows]
-[Paste: Section 6 - Technology and Infrastructure]
+Curiosities and possibilities: [paste from worksheet section 5]
+Readiness assessment: [paste from worksheet section 6]
 
-CREATE: Current System Mapping section that clearly describes organizational processes, resource flows, and technology landscape.
+Present areas where the organization shows energy for exploration, including context and potential benefits.
 ```
 
-### 3.4 Challenge Analysis Structuring
+### Patterns and Connections
 ```
-Transform my challenge documentation into systematic analysis.
+Synthesize these observations into insight documentation:
 
-WORKSHEET INPUT:
-[Paste: Section 8 - Challenge Identification]
-[Paste: Section 9 - Root Cause Analysis]
+Pattern notes: [paste from worksheet section 7]
+Next steps identified: [paste from worksheet section 8]
 
-CREATE: Challenge Analysis section that identifies key challenges, root causes, and systemic issues with supporting evidence.
-```
-
-### 3.5 Stakeholder and Relationship Mapping
-```
-Synthesize stakeholder and relationship information into comprehensive mapping.
-
-WORKSHEET INPUT:
-[Paste: Section 7 - External Relationships]
-[Paste: Section 10 - Stakeholder Analysis]
-
-CREATE: Stakeholder and Relationship section that maps internal and external stakeholders, their interests, and relationship dynamics.
+Identify key themes and leverage points that could inform intervention design.
 ```
 
-### 3.6 Interest Area Documentation
+## Step 4: Template Population
+
+With AI-synthesized content ready:
+1. Open discovery-template.md
+2. Work through each section systematically
+3. Paste synthesized content into appropriate sections
+4. Edit for flow and consistency
+5. Add transitions between sections
+6. Ensure narrative coherence
+
+## Step 5: Quality Review
+
+Use these prompts to review and enhance your Discovery Report:
+
+### Completeness Check
 ```
-Structure my interest area exploration into compelling documentation.
+Review this Discovery Report against requirements:
 
-WORKSHEET INPUT:
-[Paste: Section 12 - Interest Area Exploration]
+[Paste complete document]
 
-CREATE: Areas of Interest section that presents stakeholder curiosities, potential benefits, and readiness levels with supporting evidence.
-```
+Check for:
+- All major sections present and substantive
+- Clear organizational context
+- Documented challenges with examples
+- Stakeholder perspectives represented
+- Areas of interest identified
+- Natural flow to next phases
 
-### 3.7 Readiness Assessment Integration
-```
-Synthesize readiness and capacity information into comprehensive assessment.
-
-WORKSHEET INPUT:
-[Paste: Section 11 - Change and Technology Readiness]
-[Paste: Section 10 - Stakeholder Analysis (readiness elements)]
-
-CREATE: Readiness and Capacity Assessment section that evaluates organizational readiness for new approaches across multiple dimensions.
-```
-
-### 3.8 Future Pathways and Recommendations
-```
-Transform insights into actionable future pathways and recommendations.
-
-WORKSHEET INPUT:
-[Paste: Section 15 - Summary and Next Steps]
-[Paste: Section 12 - Interest Area Exploration (strongest areas)]
-
-CREATE: Potential Exploration Pathways section with specific recommendations for next steps based on interests and readiness.
-```
-
-## Step 4: AI Quality Review and Enhancement
-
-Use these prompts to ensure comprehensive, high-quality Discovery Reports:
-
-### 4.1 Completeness Assessment
-```
-Review my Discovery Report for completeness against the specification.
-
-DISCOVERY REPORT: [Paste complete draft]
-SPECIFICATION REQUIREMENTS: [Reference discovery-specification.md]
-
-ASSESS: Identify any missing elements, weak sections, or gaps that need addressing.
+Identify any gaps or sections needing expansion.
 ```
 
-### 4.2 Stakeholder Value Optimization
+### Clarity Enhancement
 ```
-Review my Discovery Report for multi-stakeholder value.
+Review this Discovery Report for accessibility:
 
-DISCOVERY REPORT: [Paste complete draft]
+[Paste document or section]
 
-OPTIMIZE: Ensure content serves organizational clarity, facilitator understanding, and knowledge commons contribution effectively.
-```
+Help improve:
+- Technical language that needs simplification
+- Concepts requiring more context
+- Transitions between sections
+- Overall readability for diverse audiences
 
-### 4.3 Evidence and Support Validation
-```
-Review evidence and support for insights and recommendations.
-
-DISCOVERY REPORT: [Paste complete draft]
-
-STRENGTHEN: Identify claims that need better evidence, insights that need clearer support, and recommendations that need stronger justification.
+Suggest specific edits for clarity.
 ```
 
-### 4.4 Pattern Connection Enhancement
+### Evidence Validation
 ```
-Enhance connections to broader patterns and communities.
+Review the evidence and examples in this report:
 
-DISCOVERY REPORT: [Paste complete draft]
+[Paste document]
 
-ENHANCE: Improve connections to relevant patterns, communities, and resources that align with organizational interests.
+Assess whether:
+- Claims are supported by specific examples
+- Patterns are justified by multiple observations
+- Stakeholder perspectives are balanced
+- Conclusions follow from evidence presented
+
+Identify areas needing stronger support.
 ```
-
-### 4.5 Clarity and Accessibility Review
-```
-Review Discovery Report for clarity and accessibility.
-
-DISCOVERY REPORT: [Paste complete draft]
-
-IMPROVE: Enhance clarity for diverse audiences, improve transitions between sections, and ensure accessible language throughout.
-```
-
-### 4.6 Final Integration and Polish
-```
-Perform final integration and quality polish.
-
-DISCOVERY REPORT: [Paste complete draft]
-
-FINALIZE: Ensure consistent tone, appropriate length, clear structure, and professional presentation suitable for multiple stakeholders.
-```
-
-## Workflow Adaptation by Time Available
-
-### Rapid Discovery (1-2 weeks total)
-- **Human Work** (1 week): Focus on key stakeholders and core worksheet sections
-- **AI Synthesis** (2-3 hours): Use prompts 3.1, 3.2, 3.6, 3.8
-- **Quality Review** (1 hour): Use prompts 4.1, 4.5 for essential review
-
-### Standard Discovery (3-5 weeks total)
-- **Human Work** (2-4 weeks): Comprehensive worksheet completion
-- **AI Synthesis** (2-3 hours): Use all synthesis prompts 3.1-3.8
-- **Quality Review** (1-2 hours): Use prompts 4.1, 4.2, 4.5, 4.6
-
-### Comprehensive Discovery (6-8 weeks total)
-- **Human Work** (4-6 weeks): Deep stakeholder engagement and system mapping
-- **AI Synthesis** (3-4 hours): Use all synthesis prompts with multiple iterations
-- **Quality Review** (2-3 hours): Use all quality prompts 4.1-4.6
-
-## Quality Assurance Guidelines
-
-### Human Information Gathering Standards
-- **Specificity**: Capture specific examples rather than general statements
-- **Multiple Perspectives**: Include diverse stakeholder viewpoints
-- **System Focus**: Document actual processes rather than aspirational descriptions
-- **Interest Authenticity**: Ensure interest areas emerged organically from conversations
-
-### AI Synthesis Standards
-- **Integration**: Combine worksheet insights into coherent narratives
-- **Clarity Enhancement**: Transform raw notes into accessible, professional documentation
-- **Evidence Preservation**: Maintain specific examples and stakeholder quotes
-- **Multi-Audience Optimization**: Ensure content serves organizational, facilitator, and commons needs
-
-### Overall Quality Indicators
-- **Completeness**: All required elements present and thoroughly addressed
-- **Accuracy**: System mapping reflects actual rather than aspirational organizational state
-- **Utility**: Provides clear foundation for intervention mapping and future work
-- **Transferability**: Insights articulated in ways useful for broader knowledge commons
 
 ## Common Issues and Solutions
 
-**Issue**: Stakeholder availability limited  
-**Solution**: Use Extended Conversation approach; focus on key stakeholders; leverage existing documentation
+**Issue**: Worksheet sections incomplete
+**Solution**: Focus on sections with most information; note gaps for future exploration
 
-**Issue**: AI synthesis loses organizational context  
-**Solution**: Include more specific context in prompts; use follow-up prompts to restore missing details
+**Issue**: Too much raw information
+**Solution**: Use AI to identify key themes; move detailed notes to appendix
 
-**Issue**: Interest areas seem forced rather than organic  
-**Solution**: Return to human conversations; focus on genuine curiosities; avoid prescriptive exploration
+**Issue**: Conflicting perspectives
+**Solution**: Document different viewpoints without forcing consensus
 
-**Issue**: System mapping lacks accuracy  
-**Solution**: Validate with multiple stakeholders; focus on actual processes; use specific examples
+**Issue**: Technical complexity
+**Solution**: Use AI to simplify language while maintaining accuracy
 
-**Issue**: Quality review reveals stakeholder value gaps  
-**Solution**: Use stakeholder value optimization prompt; clarify audience needs; iterate on weak sections
+## Deliverable: Discovery Report
+
+Your completed Discovery Report should:
+- Provide comprehensive organizational understanding
+- Identify systemic challenges and opportunities
+- Document stakeholder perspectives
+- Establish foundation for intervention planning
+- Be accessible to multiple audiences
+
+The report typically runs 8-15 pages including any visuals or appendices, though length should match context and need.
 
 ---
 
-*This human-AI collaboration workflow transforms organizational exploration into high-quality Discovery Reports efficiently and consistently, providing foundation for all subsequent experimental documentation phases.*
+*This workflow transforms stakeholder insights into structured documentation that serves as the foundation for all subsequent experimental phases.*

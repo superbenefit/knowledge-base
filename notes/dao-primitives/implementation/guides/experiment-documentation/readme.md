@@ -1,125 +1,159 @@
 # Experiment Documentation Framework
 
-## System Overview
+## Why This Framework Helps
 
-The Experiment Documentation Framework provides a progressive, four-phase approach to capturing and synthesizing insights from collaborative engagements and experiments. Each phase builds upon previous work, carrying forward relevant insights while adding new layers of understanding, eliminating duplication while maintaining method-agnostic adaptability.
+This framework helps you capture valuable knowledge from experiments and collaborative work without creating documentation burden. Instead of asking for the same information multiple times or forcing you through rigid processes, it builds understanding progressively - each conversation and insight naturally flows into the next. Whether you're exploring new organizational approaches, running experiments, or facilitating collaborative change, this framework ensures important learning isn't lost while respecting everyone's time and the natural messiness of real-world work.
 
-### Information Flow Between Phases
+## Progressive Documentation Philosophy
 
-```mermaid
-graph LR
-    A[Discovery<br/>Understanding Context] --> B[Intervention<br/>Mapping Possibilities]
-    B --> C[Reflection<br/>Capturing Learning]
-    C --> D[Synthesis<br/>Creating Knowledge]
-    
-    A -.-> C
-    B -.-> D
-    C -.-> B
-    
-    D --> E[Knowledge Commons<br/>Shared Understanding]
-    
-    style A fill:#e1f5fe
-    style B fill:#f3e5f5
-    style C fill:#fff3e0
-    style D fill:#e8f5e8
-    style E fill:#fff9c4
-```
+Progressive documentation transforms traditional knowledge capture by building understanding incrementally without redundant effort. Rather than treating each documentation phase as isolated, it creates a flowing river of knowledge where each phase's insights naturally feed the next.
 
-### The Four Phases
+### Core Principles
 
-**Discovery Phase** - Understanding the organizational context, challenges, and opportunities through systematic information gathering and stakeholder engagement.
+**Build Once, Reference Forward** - Information gathered in early phases becomes the foundation for later work. The Discovery worksheet doesn't just serve the Discovery report - its insights directly populate sections of the Intervention worksheet, which in turn feeds the Reflection process.
 
-**Intervention Phase** - Mapping potential interventions and connecting them to decentralized coordination patterns, building on Discovery insights.
+**Eliminate Redundant Capture** - Traditional documentation often asks for the same information multiple times in different formats. Progressive documentation captures each insight once at its natural point of emergence, then references it wherever needed.
 
-**Reflection Phase** - Capturing outcomes, lessons learned, and evolving understanding through iterative retrospectives throughout the engagement.
+**Natural Information Flow** - Information should be captured when it naturally emerges, not forced into artificial timelines. Some insights appear during Discovery, others only become clear during Reflection. The framework accommodates this natural emergence.
 
-**Synthesis Phase** - Creating comprehensive case studies that integrate insights from all phases, contributing to the broader knowledge commons.
+**Knowledge as Living System** - Rather than treating documentation as static records, progressive documentation views knowledge as a living system that grows and evolves. Each phase adds new layers of understanding while maintaining connection to earlier insights.
 
-## Quick Start Guide
+**Power and Voice Distribution** - Progressive documentation intentionally distributes the power of narrative creation. By capturing multiple perspectives throughout the journey and weaving them into final narratives, it resists single-story dominance and amplifies diverse voices.
 
-### For New Users (Setting Up Documentation)
+## Framework Flexibility
 
-1. **Read the Framework Guide** - Start with `framework-guide.md` to understand the approach
-2. **Choose Your Directory** - Set up a folder structure for your documentation
-3. **Copy Relevant Templates** - Start with Discovery phase materials
-4. **Begin Documentation** - Start gathering insights using the Discovery phase materials
+The framework deliberately avoids prescribing specific engagement methods, facilitation approaches, or organizational structures. It provides information architecture that captures essential insights regardless of how they're gathered.
 
-### For Framework Contributors
+### What the Framework Provides
+- **Information architecture** that captures essential insights regardless of gathering method
+- **Document structures** that work with various engagement styles and timelines
+- **Progressive workflows** that build knowledge efficiently across different approaches
+- **Quality guidance** that ensures completeness without dictating methods
 
-1. **Review Information Flow** - Check `information-flow.md` for detailed phase relationships
-2. **Understand Document Types** - Each phase contains specifications, worksheets, templates, and workflows
-3. **Test User Experience** - Walk through the setup process
-4. **Provide Feedback** - Document improvements and share insights
+### What the Framework Doesn't Prescribe
+- Specific facilitation methodologies or engagement techniques
+- Required meeting structures or communication platforms
+- Predetermined timelines or phase durations
+- Particular tools or technologies for documentation
 
-## Directory Structure
+This flexibility allows you to use whatever approaches work best for your context while still contributing to coherent knowledge that serves multiple stakeholders.
 
-```
-experiment-documentation/
-├── readme.md (this file)
-├── experiment-documentation.md (navigation hub)
-├── framework-guide.md (philosophy and approach)
-├── information-flow.md (phase relationships)
-├── progressive-documentation-principles.md (core concepts)
-├── tools-guide.md (optional tools)
-├── implementation-plan-template.md (planning template)
-├── discovery/ (understanding context)
-├── intervention/ (mapping possibilities)
-├── reflection/ (capturing learning)
-└── synthesis/ (creating knowledge)
-```
+## How Progressive Documentation Works
 
-## Technical Requirements
+Think of it like having a good conversation that deepens over time. You don't start over each time you meet - you build on what you've already discussed. The framework provides gentle structure for this building process without dictating how you should work. Whether you prefer formal workshops, casual conversations, or somewhere in between, the framework adapts to your style.
 
-### Minimum Requirements
-- **Knowledge Base System**: Any system that supports markdown files and linking (Obsidian, Notion, file system, etc.)
-- **AI Assistant Access**: For document synthesis and quality review (Claude, ChatGPT, etc.)
-- **Collaborative Tools**: Whatever your team already uses for communication and file sharing
+The magic happens through simple worksheets that prompt thinking and AI-assisted synthesis that helps transform your notes into polished documents. You focus on having meaningful conversations and gathering authentic insights. The framework helps organize and enhance what emerges, creating documentation that serves your organization, your facilitator, and the broader community of people learning from similar experiments.
 
-### Recommended Setup
-- **Obsidian** with folder note plugin for optimal navigation
-- **Mermaid diagram support** for visualizing relationships
-- **Version control** (Git) if working in teams
-- **Regular backup** of your experiment documentation
+## Information Flow
 
-### Tool Agnosticism
-This framework is designed to work with any tools your organization already uses. The focus is on knowledge capture and progressive documentation rather than specific platforms or methodologies.
+The framework enables natural information flow between phases, building cumulative understanding without duplication:
 
-## Key Resources
+### How Knowledge Builds
 
-### Navigation and Setup
-- **[[experiment-documentation|Main Navigation Hub]]** - Central navigation with links to all materials
-- **[[framework-guide|Framework Guide]]** - Detailed explanation of philosophy and best practices
-- **[[information-flow|Information Flow]]** - How information moves between phases
+**Discovery → Intervention**
+- Challenges identified become intervention focus areas
+- Stakeholder mapping guides engagement strategies
+- Organizational context shapes what's feasible
+- Areas of curiosity inform pathway selection
 
-### Phase Documentation
-- **[[discovery/discovery|Discovery Phase]]** - Understanding organizational context and challenges
-- **[[intervention/intervention|Intervention Phase]]** - Mapping intervention possibilities
-- **[[reflection/reflection|Reflection Phase]]** - Iterative learning capture
-- **[[synthesis/synthesis|Synthesis Phase]]** - Comprehensive case study creation
+**Intervention → Reflection**
+- Chosen pathways frame what to observe
+- Success criteria become evaluation benchmarks
+- Risk assessments prepare for challenge navigation
+- Implementation plans set reflection context
 
-### Supporting Materials
-- **[[progressive-documentation-principles|Progressive Documentation Principles]]** - Core theoretical foundations
-- **[[tools-guide|Tools Guide]]** - Optional tools and platform recommendations
-- **[[implementation-plan-template|Implementation Plan Template]]** - Customizable project planning
+**Reflection → Synthesis**
+- Outcomes provide evidence of change
+- Lessons learned reveal transferable insights
+- Stakeholder experiences add multiple perspectives
+- Process learning informs methodology
+
+**All Phases → Case Study**
+- Discovery provides the "before" picture
+- Intervention explains the "what we tried"
+- Reflection captures the "what happened"
+- Synthesis creates the "what it means"
+
+### Key Flow Principles
+
+**Reference, Don't Repeat**: When information from Discovery is relevant to Intervention, reference it rather than copying it. This prevents duplication and maintains consistency.
+
+**Build Understanding**: Each phase adds layers to your understanding. Discovery establishes context, Intervention explores possibilities, Reflection captures learning, and Synthesis creates meaning.
+
+**Flexible Movement**: While information flows naturally forward, you can also move backward - Reflection insights might reveal new Discovery needs, or Synthesis might suggest new Interventions.
+
+For detailed information flow within each phase, see the README files in each phase folder.
+
+## Adapting to Your Context
+
+### Organizational Context Adaptations
+
+**Established Organizations**
+- Focus Discovery on system mapping and change readiness
+- Intervention phase emphasizes integration with existing structures
+- Reflection captures organizational learning and culture shifts
+
+**Emerging Collectives**
+- Discovery explores identity formation and governance needs
+- Intervention maps community development possibilities
+- Reflection documents collective evolution and decision-making patterns
+
+**Network Organizations**
+- Discovery maps relationship structures and communication patterns
+- Intervention focuses on coordination mechanisms and shared resources
+- Reflection captures network effects and emergent behaviors
+
+### Facilitator Style Variations
+
+**Structured Facilitation**
+- Use worksheets as session agendas and structured activities
+- Complete templates through guided processes
+- Regular milestone check-ins against quality guidance
+
+**Organic Facilitation**
+- Use worksheets as background reference for informal conversations
+- Capture insights in templates as they emerge naturally
+- Allow phases to overlap and flow organically
+
+**Collaborative Facilitation**
+- Share worksheet completion across team members
+- Co-create templates through collective editing
+- Distribute workflow responsibilities among participants
+
+## Common Misunderstandings
+
+### "It's Too Structured"
+Structure provides scaffolding, not prison bars. Every element can be adapted, abbreviated, or expanded based on context.
+
+### "It Requires All Phases"
+While phases build on each other, each provides standalone value. Use what serves your needs.
+
+### "It's Only for Large Projects"
+The framework scales. A Discovery might be one conversation; Synthesis might be two pages. Adapt to your scope.
+
+### "It Replaces Our Methods"
+The framework documents your journey, regardless of methods used. It complements, never replaces, existing approaches.
 
 ## Getting Started
 
-**New to the framework?** Start with these documents:
-1. **[[framework-guide|Framework Guide]]** - Understand the approach
-2. **[[discovery/discovery|Discovery Phase]]** - Begin documentation
+• **Start where you are** - Choose whichever phase matches your current situation. There's no required sequence.
 
-**Looking for specific guidance?** Check the supporting resources in the root directory for principles, tools, and templates.
+• **Use worksheets as thinking guides** - Each phase has questions to explore. Treat them as conversation starters, not forms to complete.
 
-**Contributing improvements?** Document your insights and adaptations to help others learn from your experience.
+• **Capture naturally** - Notes, recordings, drawings - use whatever format helps you think and remember.
 
-## Framework Principles
+• **Build incrementally** - Each small addition contributes to the larger picture. Progress beats perfection.
 
-- **Progressive Documentation** - Build knowledge without duplication
-- **Method Agnostic** - Works with any engagement approach  
-- **Stakeholder Value** - Serves organization, facilitator, and knowledge commons
-- **Practical Efficiency** - Minimize overhead, maximize insight
-- **Collaborative Learning** - Share knowledge across experiments
+• **Let AI assist** - Workflow guides include prompts that help transform raw insights into polished documentation.
 
----
+• **Maintain connections** - Keep the thread of narrative visible as you progress through phases.
 
-*This framework is designed to evolve. Document your adaptations and share insights to help others benefit from your experience.*
+• **Share your learning** - Your experiments help others facing similar challenges. The synthesis phase helps contribute to collective wisdom.
+
+• **Adapt everything** - Make the framework work for your unique context and needs.
+
+## Remember
+
+Progressive documentation succeeds by aligning with how knowledge naturally develops in experimental contexts. By building incrementally, eliminating redundancy, and maintaining flexibility, it creates comprehensive documentation that serves multiple stakeholders while respecting the complex, emergent nature of organizational experiments.
+
+The framework provides structure for quality while preserving space for context, creativity, and authentic voice. In this balance lies its power to capture not just what happened, but how understanding evolved - the true treasure of any experimental journey.

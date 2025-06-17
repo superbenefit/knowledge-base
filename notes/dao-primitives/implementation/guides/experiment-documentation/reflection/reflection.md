@@ -1,77 +1,29 @@
-# Reflection Phase Overview
+# Reflection Documentation
 
-The Reflection phase captures learning and insights from experimental activities through systematic documentation of outcomes, challenges, and emerging understanding. This phase can occur multiple times throughout an experiment's lifecycle, building a progressive record of learning and adaptation.
+Capturing what happened, what was learned, and what surprised you along the way.
 
-## Purpose and Outcomes
+## What Makes Good Reflection Documentation
 
-**Primary Purpose**: Document learning from experimental activities to inform ongoing decision-making, future experiments, and knowledge commons contribution. Reflection transforms experience into transferable insights.
+Meaningful reflection documentation captures learning in motion. It's honest about what worked and what didn't, curious about why things unfolded as they did, and generous in sharing insights that might help others. The best reflections transform experience into wisdom that travels.
 
-**Key Outcomes**:
-- **Learning Documentation**: Systematic capture of what worked, what didn't, and why
-- **Outcome Assessment**: Documentation of both intended and unexpected results
-- **Challenge Analysis**: Understanding of obstacles encountered and responses attempted
-- **Stakeholder Insights**: Perspectives from different participants and affected parties
-- **Pattern Recognition**: Identification of recurring themes and transferable insights
-- **Adaptation Guidance**: Insights that inform ongoing and future experimental activities
+## Common Patterns in Effective Reflections
 
-## Documents in This Phase
+The most valuable reflections balance multiple perspectives - what looked like failure to organizers might have been breakthrough learning for participants. They capture both immediate outcomes and subtle shifts that only become visible over time. They're specific enough to be credible but general enough to offer transferable insights.
 
-### Core Documents
-- **[reflection-specification.md](reflection-specification.md)** - Defines what comprehensive reflection documentation should contain
-- **[reflection-worksheet.md](reflection-worksheet.md)** - Progressive tool for capturing reflection insights across multiple sessions
-- **[reflection-template.md](reflection-template.md)** - Structure for organizing reflection insights into coherent retrospectives
-- **[reflection-workflow.md](reflection-workflow.md)** - Flexible approaches for different reflection contexts and depths
-
-## Types of Reflection
-
-The framework supports various reflection approaches depending on timing and purpose:
-
-### Periodic Reflection
-Regular check-ins during ongoing experiments to capture emerging insights and adjust approaches. Often brief and focused on immediate learning.
-
-### Milestone Reflection
-Deeper reflection at significant project points such as phase transitions or major decision points. Balances detail with timeliness.
-
-### Challenge-Focused Reflection
-Targeted reflection when specific obstacles or unexpected outcomes arise. Focuses on problem-solving and adaptation.
-
-### Final Reflection
-Comprehensive retrospective at experiment completion, integrating all previous reflections into complete learning documentation.
-
-### Meta-Reflection
-Reflection on the experimental process itself, capturing insights about methodology, facilitation, and engagement approaches.
-
-## Relationship to Other Phases
-
-**Building on Discovery and Intervention**:
-- Uses original challenges as reference points for outcome assessment
-- Compares actual results to intervention plans and expectations
-- Identifies gaps between intended and actual approaches
-
-**Informing Ongoing Work**:
-- Provides insights for intervention adaptation
-- Identifies needs for additional discovery
-- Guides resource reallocation and timeline adjustments
-
-**Contributing to Synthesis**:
-- Supplies outcome evidence and impact documentation
-- Provides stakeholder quotes and stories
-- Documents learning progression over time
+Good reflection documentation acknowledges emotion alongside analysis. Change work is human work, and capturing the joy, frustration, surprise, and satisfaction helps others prepare for their own journeys. Effective reflections also distinguish between what actually happened and the stories we tell ourselves about what happened, creating space for multiple interpretations of events.
 
 ## Key Principles
 
-1. **Iterative Documentation**: Multiple reflections build comprehensive understanding
-2. **Multi-Stakeholder Perspectives**: Captures diverse viewpoints on outcomes
-3. **Honest Assessment**: Documents both successes and challenges authentically
-4. **Learning Focus**: Emphasizes insight extraction over judgment
-5. **Progressive Building**: Each reflection adds to cumulative understanding
+- **Capture while fresh** - Document insights before memory fades
+- **Include multiple voices** - Different perspectives reveal different truths
+- **Balance success and struggle** - Both teach valuable lessons
+- **Look for patterns** - What keeps showing up across experiences?
+
+## Contents
+- [[readme]] - Technical overview and information flow
+- [[reflection-worksheet]] - Questions to explore
+- [[reflection-template]] - Document structure
+- [[reflection-workflow]] - How to create it
 
 ## Getting Started
-
-1. Determine appropriate reflection type for your timing and needs
-2. Use the Reflection Worksheet to gather insights systematically
-3. Reference the Specification for comprehensiveness
-4. Follow the Workflow for your chosen approach
-5. Organize findings using the Template
-
-Remember: Reflection is not just evaluation - it's active learning capture that informs adaptation and contributes to collective understanding.
+Use the worksheet to capture insights as they emerge, then the workflow to create reflection documents at natural pause points.

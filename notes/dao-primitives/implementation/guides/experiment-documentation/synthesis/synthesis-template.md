@@ -1,26 +1,51 @@
-# Case Study Template
-
-*Use this template to structure your synthesized case study. Populate sections using your completed worksheet and synthesis workflow outputs. Maintain narrative flow while ensuring all required elements are included.*
-
 ---
+title: 
+description: 
+author: 
+tags: 
+organization: 
+experiment_type: 
+start_date: 
+end_date: 
+harvester: 
+curator: 
+publish: "false"
+type: experiment-study
+case: 
+---
+%% 
+This template extends the base study template for documenting comprehensive experiments that span discovery, intervention, reflection, and synthesis phases. It creates rich case studies that serve multiple audiences while contributing to collective learning about organizational transformation.
 
-# [Compelling Title: Organization Name and Transformation Theme]
+**When to use this template vs. base study template:**
+- Use BASE template for: Single tool/practice implementations, focused interventions, shorter engagements
+- Use THIS template for: Multi-phase experiments, complex transformations, work spanning discovery through synthesis
 
-*[Subtitle that captures the essence of the journey]*
+**How this extends the base template:**
+- Expands "Approach" section with pattern details and strategy
+- Transforms "Transformation Story" into multi-phase narrative
+- Enhances "Outcomes & Reflections" with deeper analysis
+- Adds "Assessment & Evolution" for pattern documentation and future directions
+- Includes richer frontmatter for experiment tracking
+%%
 
-**A [Organization Type] Case Study in [Pattern/Approach Theme]**
+# <% tp.frontmatter.title %>
+
+*<% tp.frontmatter.description %>*
+
+**A <% tp.frontmatter.organization %> Case Study in <% tp.frontmatter.experiment_type %>**
 
 ---
 
 ## Executive Summary
 
-*[300-400 word overview that includes:
-- Hook: The most significant transformation or outcome
-- Context: Organization and challenge (brief)
-- Approach: Key patterns and strategies employed
-- Impact: 2-3 major outcomes with evidence
-- Significance: Contribution to broader knowledge/movement
-- Value: What different audiences will gain]*
+%% 
+Create a compelling 2-3 paragraph overview that includes:
+- The most significant transformation or surprising outcome (hook)
+- Organization context and the challenge addressed (brief)
+- Key approaches and patterns employed
+- Major outcomes with evidence
+- What others can learn from this experience
+%%
 
 ---
 
@@ -28,28 +53,33 @@
 
 ### The Organization
 
-*[200-300 words introducing the organization in an engaging way:
-- Mission and work
+%% 
+Introduce the organization in an engaging way:
+- Mission, work, and unique characteristics
 - Size, structure, and reach
-- Unique characteristics
-- Why their story matters]*
+- Why their story matters
+- What makes this case noteworthy
+%%
 
 ### The Challenge
 
-*[400-500 words detailing the systemic issues:
-- Specific problems faced
-- Impact on stakeholders
-- Previous attempts to address
+%% 
+Detail the systemic issues that sparked this work:
+- Specific problems and their impact on stakeholders
+- Previous attempts to address these issues
 - Why new approaches were needed
-- Stakes involved]*
+- What was at stake
+%%
 
 ### The Journey Begins
 
-*[200-300 words on how the experimental journey started:
+%% 
+How did this experimental journey start?
 - Initial catalyst or opportunity
-- Key champions and stakeholders
-- Early goals and expectations
-- Resources available]*
+- Key champions and early supporters
+- Original goals and expectations
+- Available resources and constraints
+%%
 
 ---
 
@@ -57,269 +87,218 @@
 
 ### From Discovery to Strategy
 
-*[300-400 words on how insights became action:
-- Key Discovery findings that shaped strategy
-- Decision-making process
-- Stakeholder involvement in planning
-- Trade-offs considered]*
+%% 
+How did initial insights shape the strategic approach?
+- Key findings from discovery that informed decisions
+- How stakeholders were involved in planning
+- Trade-offs and choices made
+- Connection between understanding and action
+%%
 
 ### Patterns and Interventions
 
-*[400-500 words on strategic choices:
-- Intervention areas selected and rationale
-- Patterns chosen for implementation
+%% 
+Document the strategic choices:
+- Which intervention areas were selected and why
+- Specific patterns or approaches chosen for implementation
 - How patterns were adapted for context
-- Integration approach]*
+- Integration and sequencing decisions
+%%
 
 **Selected Patterns:**
-- **[Pattern Name]**: [Brief description and why selected]
-- **[Pattern Name]**: [Brief description and why selected]
-- **[Pattern Name]**: [Brief description and why selected]
+- **[Pattern Name]**: [Brief description and rationale]
+- **[Pattern Name]**: [Brief description and rationale]
+- **[Pattern Name]**: [Brief description and rationale]
 
 ### Resource Mobilization
 
-*[200-300 words on practical considerations:
-- Human resources assembled
-- Technical infrastructure developed
-- Financial resources secured
-- Knowledge resources accessed]*
+%% 
+Practical considerations:
+- Human resources and capabilities assembled
+- Technical infrastructure needs and solutions
+- Financial resources and their sources
+- Knowledge resources and external support
+%%
 
 ---
 
-## The Implementation Journey
+## Transformation Story
+
+%% 
+Tell the story of how change actually unfolded. Use phases, turning points, or thematic threads to organize the narrative. Include real voices, specific moments, and honest complexity.
+%%
 
 ### Phase 1: [Descriptive Name] 
 
-*[400-500 words on early implementation:
-- What happened
-- Key activities and milestones
-- Stakeholder experiences
-- Challenges encountered
-- Early indicators]*
-
-> **Participant Voice**: "[Compelling quote about this phase]" - [Name, Role]
+%% 
+Early implementation period:
+- What happened and key activities
+- How stakeholders experienced this phase
+- Early challenges and how they were addressed
+- Initial signs of change or resistance
+- Include compelling participant quotes
+%%
 
 ### Phase 2: [Descriptive Name]
 
-*[400-500 words on middle implementation:
-- Evolution from Phase 1
-- Major developments
-- Turning points or pivots
-- Growing understanding
-- Emerging patterns]*
-
-> **Stakeholder Reflection**: "[Insightful quote about transformation]" - [Name, Role]
+%% 
+Middle implementation period:
+- How the work evolved from Phase 1
+- Major developments or turning points
+- Deeper understanding that emerged
+- Pivots or adaptations made
+- Include diverse stakeholder perspectives
+%%
 
 ### Phase 3: [Descriptive Name]
 
-*[400-500 words on later implementation:
-- Maturation of approaches
-- Consolidation of changes
-- Sustainability emergence
+%% 
+Later implementation period:
+- Maturation and consolidation of changes
+- Evidence of sustainability emerging
 - Unexpected developments
-- Community ownership]*
-
-> **Community Voice**: "[Quote about empowerment/change]" - [Name, Role]
+- Shift in ownership or leadership
+- Include community voices
+%%
 
 ---
 
 ## Outcomes and Reflections
 
-### Quantitative Impact
+### What Changed
 
-*[200-300 words presenting measurable outcomes:
-- Key metrics with before/after comparison
-- Participation/engagement data
-- Resource efficiency improvements
-- Other relevant numbers]*
+%% 
+Document both visible and measurable changes:
+- Key metrics and quantitative shifts (before/after)
+- Participation and engagement evolution
+- Resource flows and efficiency improvements
+- Relationship and power dynamics
+- Cultural and capability transformations
+- System-level changes
 
-| Metric | Before | After | Change |
-|--------|--------|-------|--------|
-| [Metric 1] | [Baseline] | [Final] | [% or +/-] |
-| [Metric 2] | [Baseline] | [Final] | [% or +/-] |
-| [Metric 3] | [Baseline] | [Final] | [% or +/-] |
+Use whatever evidence best tells the story - numbers, stories, quotes, comparisons.
+%%
 
-### Qualitative Transformation
+### What We Learned
 
-*[400-500 words on deeper changes:
-- Stakeholder empowerment stories
-- Relationship transformations
-- Cultural shifts observed
-- Capability development
-- System resilience improvements]*
+%% 
+Share insights and discoveries from the experience:
+- What worked well and why
+- Challenges navigated and solutions found
+- Unexpected discoveries and innovations
+- Patterns that emerged across the work
+- Success factors others should know about
 
-### Power Redistribution Analysis
+Focus on transferable insights rather than just describing what happened.
+%%
 
-*[300-400 words specifically addressing:
-- How decision-making authority shifted
-- Resource control changes
-- Voice and agency enhancements
-- Concrete examples with evidence
-- Sustainability of power shifts]*
+### Critical Reflections
 
-### Pattern Performance
+%% 
+Honest assessment of the work:
+- Where we fell short of aspirations
+- Trade-offs and compromises made
+- Questions that remain unanswered
+- What we would do differently
+- Tensions and contradictions faced
 
-*[300-400 words assessing:
-- How each pattern performed in practice
-- Necessary adaptations made
-- Unexpected applications discovered
-- Validation of pattern principles
-- Recommendations for others]*
-
----
-
-## Key Learnings
-
-### What Worked Well
-
-**[Success Factor 1: Title]**
-*[150-200 words on what worked and why, with replication guidance]*
-
-**[Success Factor 2: Title]**
-*[150-200 words on what worked and why, with replication guidance]*
-
-**[Success Factor 3: Title]**
-*[150-200 words on what worked and why, with replication guidance]*
-
-### Navigating Challenges
-
-**[Challenge 1: Title]**
-*[150-200 words on challenge faced, responses tried, and lessons learned]*
-
-**[Challenge 2: Title]**
-*[150-200 words on challenge faced, responses tried, and lessons learned]*
-
-### Unexpected Discoveries
-
-*[200-300 words on surprises, innovations, and emergent insights that weren't anticipated but proved valuable]*
-
-### Critical Success Factors
-
-*[Bulleted list of 5-7 essential elements for replication:
-- [Factor with brief explanation]
-- [Factor with brief explanation]
-- [Factor with brief explanation]
-- [Factor with brief explanation]
-- [Factor with brief explanation]]*
+This transparency helps others learn from both successes and struggles.
+%%
 
 ---
 
-## Future Directions
+## Assessment & Evolution
 
-### Sustainability and Evolution
+### Pattern/Approach Performance
 
-*[300-400 words on:
-- What continues without external support
-- How the work is evolving
-- Community ownership development
-- Institutional changes made
-- Long-term vision]*
+%% 
+Evaluate how the chosen approaches worked in practice:
+- Which patterns or approaches proved most effective
+- Necessary adaptations for context
+- Unexpected applications or combinations
+- What validated existing understanding
+- What challenged assumptions
 
-### Scaling Considerations
+Include specific examples and evidence.
+%%
 
-*[200-300 words on:
-- Potential for expansion
-- Other contexts where applicable
-- Resources required for scaling
-- Partnerships being explored]*
+### Sustainability and Continuation
 
-### Broader Implications
+%% 
+What persists beyond the initial experiment:
+- Changes that have become embedded
+- Community ownership and leadership
+- Institutional shifts that support continuation
+- Resources or structures created
+- Ongoing evolution of the work
+%%
 
-*[200-300 words on:
-- Sector-wide insights
-- Policy considerations
-- Movement building contributions
-- Ecosystem effects observed]*
+### Transferable Insights
 
----
+%% 
+What others can learn and apply:
+- Core principles that transcend context
+- Adaptation strategies for different settings
+- Minimum viable conditions for success
+- Warning signs and risk factors
+- Quick wins versus long-term investments
+%%
 
-## Pattern Documentation
+### Knowledge Contribution
 
-### Patterns Validated
+%% 
+New understanding generated:
+- Validated patterns or approaches
+- Novel combinations or adaptations
+- Emergent patterns worth documenting
+- Theoretical insights from practice
+- Questions for further exploration
 
-**[Pattern Name]**
-- **Standard Description**: [Brief pattern description]
-- **Implementation in This Case**: [How it was applied]
-- **Adaptations Required**: [Context-specific modifications]
-- **Performance Assessment**: [How well it worked]
-- **Recommendations**: [Guidance for others]
-
-**[Pattern Name]**
-- **Standard Description**: [Brief pattern description]
-- **Implementation in This Case**: [How it was applied]
-- **Adaptations Required**: [Context-specific modifications]
-- **Performance Assessment**: [How well it worked]
-- **Recommendations**: [Guidance for others]
-
-### New Patterns Identified
-
-**[Potential Pattern Name]**
-- **Description**: [What this pattern does]
-- **How It Emerged**: [Context of discovery]
-- **Core Components**: [Essential elements]
-- **Application Potential**: [Where else it might work]
-- **Documentation Needs**: [Further research required]
+This advances collective understanding of what works.
+%%
 
 ---
 
 ## Conclusion
 
-*[200-300 words that:
-- Reinforces the transformation achieved
-- Connects to larger movement/sector goals
-- Inspires others to experiment
-- Invites engagement and learning
-- Points to resources and connections]*
+%% 
+Bring the story to a meaningful close:
+- Reinforce the most significant transformation
+- Connect to larger movement or sector goals
+- Inspire others to experiment
+- Invite engagement and connection
+- Point to resources and next steps
+%%
 
 ---
 
 ## Appendices
 
-### Appendix A: Detailed Methodology
-*[Extended description of discovery, intervention, and reflection processes used]*
-
-### Appendix B: Data and Evidence
-*[Additional quantitative data, survey results, or analysis supporting claims]*
-
-### Appendix C: Stakeholder Testimonials
-*[Extended quotes and stories from various participants]*
-
-### Appendix D: Visual Documentation
-*[Additional diagrams, photos, or visualizations of the transformation]*
-
-### Appendix E: Resources and References
-*[Links to patterns, tools used, partner organizations, and further reading]*
+%% 
+Include supporting materials as relevant:
+- Extended methodology descriptions
+- Additional data or evidence
+- Stakeholder testimonials
+- Resource lists and references
+- Technical documentation
+%%
 
 ---
 
 ## About This Case Study
 
-**Documentation Period**: [Start Date] to [End Date]
+**Documentation Period**: <% tp.frontmatter.start_date %> to <% tp.frontmatter.end_date %>
 
 **Primary Authors**: [Names and roles]
 
-**Contributing Voices**: [List of stakeholders who provided input]
+**Contributing Voices**: [Stakeholders who provided input]
 
-**Acknowledgments**: [Thanks to key supporters, funders, participants]
+**Acknowledgments**: [Key supporters, funders, participants]
 
-**Contact**: [How interested readers can learn more or get involved]
+**Contact**: [How to learn more or get involved]
 
-**Citation**: [How to cite this case study]
-
-**License**: [Typically Creative Commons for knowledge sharing]
+**License**: Creative Commons [specify] for knowledge sharing
 
 ---
 
-## Visual Elements
-
-*[Note: Insert these visualizations at appropriate points in the narrative]*
-
-1. **System Transformation Diagram**: [Before/after state visualization]
-2. **Implementation Timeline**: [Key phases and milestones]
-3. **Stakeholder Journey Map**: [Experience evolution]
-4. **Pattern Application Map**: [How patterns interconnected]
-5. **Impact Flow Chart**: [How changes created ripple effects]
-
----
-
-*This case study contributes to the growing knowledge commons around practical adoption of decentralized coordination patterns for social benefit. We invite readers to adapt these insights for their own contexts and share their experiences to further collective learning.*
+*This case study contributes to growing knowledge about practical adoption of decentralized coordination patterns for social benefit. We invite readers to adapt these insights for their own contexts and share their experiences to further collective learning.*

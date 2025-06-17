@@ -1,344 +1,103 @@
-# Intervention Mapping Worksheet
+# Intervention Exploration Guide
 
-*This worksheet helps you gather and organize information for creating your Intervention Mapping document. Work through sections progressively, building on your Discovery findings. Not all sections may apply to every context - adapt as needed.*
+This guide helps you explore possible approaches to address the challenges and opportunities discovered. Think of it as a space for imagining "what if" rather than creating a fixed plan. Capture possibilities in whatever format helps you think creatively.
 
-## Preparation Checklist
+## Connecting to Discovery
 
-Before beginning this worksheet:
-- [ ] Discovery Report completed and available
-- [ ] Key stakeholders identified for input
-- [ ] Basic understanding of decentralized patterns
-- [ ] Time allocated for strategic thinking (2-4 sessions recommended)
+*Why this matters: Grounding interventions in real challenges and genuine curiosity ensures efforts address what actually matters to people.*
 
-## Information from Discovery Phase
+Consider:
+- Which challenges from Discovery feel most ready for change?
+- Where did people express the most curiosity or energy?
+- What patterns or leverage points emerged that suggest intervention opportunities?
+- How do stakeholder interests align around certain issues?
 
-*Reference these key findings throughout your intervention mapping:*
+[Space for your notes]
 
-**Systemic Issues Identified**:
-1. 
-2. 
-3. 
+## Exploring Possible Approaches
 
-**Key Stakeholders**:
-1. 
-2. 
-3. 
+*Why this matters: Having multiple pathways to consider helps organizations choose what fits their culture and capacity rather than forcing a one-size-fits-all solution.*
 
-**Organizational Strengths**:
-1. 
-2. 
-3. 
+For each possibility, consider:
+- What would this approach look like in practice?
+- How might it address the identified challenges?
+- What makes this exciting or concerning to different stakeholders?
+- What would need to be true for this to work?
 
-## Section 1: Strategic Context Setting
+[Space for your notes]
 
-### Organizational Readiness Assessment
+## Understanding Resources
 
-**Technical Readiness**:
-- Current technical capabilities:
-- Gaps that need addressing:
-- Learning capacity:
+*Why this matters: Being realistic about what's available - not just money but time, energy, and attention - helps design interventions that can actually happen.*
 
-**Cultural Readiness**:
-- Openness to change:
-- Past change experiences:
-- Cultural assets to build on:
+Consider exploring:
+- What resources (broadly defined) are available?
+- Where might resources come from that aren't obvious?
+- What's the minimum needed to try something meaningful?
+- How do different approaches vary in resource intensity?
 
-**Resource Readiness**:
-- Available human resources:
-- Financial constraints/opportunities:
-- Time considerations:
+[Space for your notes]
 
-### Environmental Scan
+## Power and Decision-Making
 
-**External Pressures**:
-- Regulatory or compliance factors:
-- Market or sector trends:
-- Community expectations:
+*Why this matters: Many interventions shift how decisions get made and who has influence. Being explicit about these shifts helps people understand what change really means.*
 
-**External Opportunities**:
-- Potential partnerships:
-- Funding possibilities:
-- Learning networks:
+Consider:
+- How might different approaches change who makes decisions?
+- Where would authority or influence shift?
+- What would be gained and what might feel like loss?
+- How do various stakeholders feel about these shifts?
 
-## Section 2: Intervention Area Exploration
+[Space for your notes]
 
-*Identify 2-4 potential intervention areas based on Discovery findings*
+## Risks and Concerns
 
-### Intervention Area 1: [Name]
+*Why this matters: Acknowledging what could go wrong isn't pessimistic - it's realistic planning that helps build trust and prepare for challenges.*
 
-**Connected Discovery Issue**:
-- Which systemic issue does this address?
-- Current impact of this issue:
-- Stakeholders most affected:
+Consider exploring:
+- What keeps people up at night about trying new approaches?
+- Where might resistance or friction emerge?
+- What could genuinely go wrong (vs. just fear)?
+- How might different risks be addressed or mitigated?
 
-**Transformation Potential**:
-- What could change look like?
-- Benefits of addressing this:
-- Risks of not addressing this:
+[Space for your notes]
 
-**Power Dynamics**:
-- Who currently holds power/control?
-- How might power be redistributed?
-- Who gains, who adapts?
+## Success and Evidence
 
-**Initial Pattern Matches**:
-- Potentially relevant patterns:
-- Why these patterns might help:
-- Examples seen elsewhere:
+*Why this matters: Being clear about what success looks like helps everyone understand what you're working toward and know if you're making progress.*
 
-### Intervention Area 2: [Name]
+Consider:
+- What would be different if interventions succeed?
+- How would various stakeholders experience success?
+- What evidence would show progress is happening?
+- What would be worth celebrating along the way?
 
-*[Repeat same structure]*
+[Space for your notes]
 
-### Intervention Area 3: [Name]
+## Pathways and Choices
 
-*[Repeat same structure]*
+*Why this matters: Organizations need real choices that reflect different values, resources, and appetite for change. Creating distinct pathways helps people see trade-offs clearly.*
 
-## Section 3: Implementation Pathway Development
+Consider developing different pathways like:
+- A "start small" approach for testing ideas
+- A "go deep" approach for transformation
+- A "broad engagement" approach for inclusion
+- Or whatever framings emerge from your context
 
-*Develop 2-3 possible pathways for pursuing interventions*
+[Space for your notes]
 
-### Pathway 1: [Descriptive Name]
+## Next Steps and Experiments
 
-**Approach Philosophy**:
-- Core principles:
-- Primary focus:
-- Key differences from current state:
+*Why this matters: Moving from ideas to action requires concrete next steps that feel doable and help test assumptions before bigger commitments.*
 
-**Major Activities**:
-1. 
-2. 
-3. 
+Consider:
+- What small experiments could test key assumptions?
+- Which stakeholders are ready to try something now?
+- What would help build confidence for bigger steps?
+- How will you learn from whatever happens next?
 
-**Resource Requirements**:
-- People (roles, skills, time):
-- Technology (tools, platforms):
-- Financial (budget estimate):
-- Knowledge (training, support):
-
-**Risk Analysis**:
-- Technical risks:
-- Social/cultural risks:
-- Resource risks:
-- Mitigation strategies:
-
-### Pathway 2: [Descriptive Name]
-
-*[Repeat same structure]*
-
-### Pathway 3: [Descriptive Name]
-
-*[Repeat same structure]*
-
-## Section 4: Pattern Deep Dive
-
-### Pattern Research
-
-**Patterns Investigated**:
-1. Pattern name:
-   - Core function:
-   - Typical use cases:
-   - Requirements:
-
-2. Pattern name:
-   - Core function:
-   - Typical use cases:
-   - Requirements:
-
-3. Pattern name:
-   - Core function:
-   - Typical use cases:
-   - Requirements:
-
-### Pattern-Intervention Matching
-
-**Best Fits**:
-- Pattern X works for Intervention Area Y because:
-- Pattern Z works for Intervention Area W because:
-
-**Adaptation Needs**:
-- How patterns need modifying for context:
-- Integration considerations:
-- Sequencing thoughts:
-
-## Section 5: Stakeholder Impact Analysis
-
-### Stakeholder-by-Stakeholder Review
-
-**Stakeholder Group 1: [Name]**
-- How interventions affect them:
-- Potential benefits:
-- Potential challenges:
-- Engagement needs:
-
-**Stakeholder Group 2: [Name]**
-- How interventions affect them:
-- Potential benefits:
-- Potential challenges:
-- Engagement needs:
-
-**Stakeholder Group 3: [Name]**
-- How interventions affect them:
-- Potential benefits:
-- Potential challenges:
-- Engagement needs:
-
-### Engagement Strategy Thoughts
-
-**Communication Approaches**:
-- Key messages for each group:
-- Preferred channels:
-- Timing considerations:
-
-**Participation Design**:
-- How stakeholders can contribute:
-- Decision-making involvement:
-- Feedback mechanisms:
-
-## Section 6: Success Framework Design
-
-### Success Criteria Brainstorm
-
-**Quantitative Metrics**:
-- What can be measured:
-- Baseline data available:
-- Target improvements:
-
-**Qualitative Indicators**:
-- What changes to observe:
-- Stories to collect:
-- Behaviors to track:
-
-### Evaluation Planning
-
-**Monitoring Approach**:
-- How to track progress:
-- Frequency of assessment:
-- Who does monitoring:
-
-**Learning Mechanisms**:
-- How to capture lessons:
-- Adaptation processes:
-- Knowledge sharing plans:
-
-## Section 7: Risk and Mitigation Planning
-
-### Comprehensive Risk Assessment
-
-**Technical Risks**:
-1. Risk:
-   - Likelihood:
-   - Impact:
-   - Mitigation:
-
-2. Risk:
-   - Likelihood:
-   - Impact:
-   - Mitigation:
-
-**Social/Cultural Risks**:
-1. Risk:
-   - Likelihood:
-   - Impact:
-   - Mitigation:
-
-2. Risk:
-   - Likelihood:
-   - Impact:
-   - Mitigation:
-
-**Resource Risks**:
-1. Risk:
-   - Likelihood:
-   - Impact:
-   - Mitigation:
-
-2. Risk:
-   - Likelihood:
-   - Impact:
-   - Mitigation:
-
-## Section 8: Next Steps Planning
-
-### Immediate Actions (30 days)
-
-1. Action:
-   - Responsible party:
-   - Resources needed:
-   - Success indicator:
-
-2. Action:
-   - Responsible party:
-   - Resources needed:
-   - Success indicator:
-
-3. Action:
-   - Responsible party:
-   - Resources needed:
-   - Success indicator:
-
-### Key Decision Points
-
-**Decision 1**:
-- What needs deciding:
-- Information needed:
-- Who decides:
-- Timeline:
-
-**Decision 2**:
-- What needs deciding:
-- Information needed:
-- Who decides:
-- Timeline:
-
-### Communication Planning
-
-**Internal Communication**:
-- What to share:
-- With whom:
-- When and how:
-
-**External Communication**:
-- What to share:
-- With whom:
-- When and how:
-
-## Synthesis Preparation
-
-### Key Insights for Intervention Mapping
-
-**Most Promising Interventions**:
-1. 
-2. 
-
-**Strongest Pathways**:
-1. 
-2. 
-
-**Critical Success Factors**:
-1. 
-2. 
-3. 
-
-**Major Risks to Address**:
-1. 
-2. 
-3. 
-
-### Questions Still to Resolve
-
-1. 
-2. 
-3. 
+[Space for your notes]
 
 ---
 
-## Worksheet Completion Notes
-
-**Date Completed**: 
-**Completed By**: 
-**Stakeholders Consulted**: 
-**Time Invested**: 
-**Ready for Template Population**: Yes / No
-
-**Next Step**: Use the completed worksheet information to populate the Intervention Template, organizing insights into the formal document structure.
+*Remember: The best interventions emerge from dialogue between possibilities and constraints. Use this guide to explore openly, then let realistic pathways emerge from what you learn.*
