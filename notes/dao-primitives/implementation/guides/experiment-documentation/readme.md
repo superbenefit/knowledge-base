@@ -120,20 +120,6 @@ For detailed information flow within each phase, see the README files in each ph
 - Co-create templates through collective editing
 - Distribute workflow responsibilities among participants
 
-## Common Misunderstandings
-
-### "It's Too Structured"
-Structure provides scaffolding, not prison bars. Every element can be adapted, abbreviated, or expanded based on context.
-
-### "It Requires All Phases"
-While phases build on each other, each provides standalone value. Use what serves your needs.
-
-### "It's Only for Large Projects"
-The framework scales. A Discovery might be one conversation; Synthesis might be two pages. Adapt to your scope.
-
-### "It Replaces Our Methods"
-The framework documents your journey, regardless of methods used. It complements, never replaces, existing approaches.
-
 ## Getting Started
 
 • **Start where you are** - Choose whichever phase matches your current situation. There's no required sequence.

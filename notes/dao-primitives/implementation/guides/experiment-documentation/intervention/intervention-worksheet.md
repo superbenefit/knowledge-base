@@ -2,6 +2,8 @@
 
 This guide helps you explore possible approaches to address the challenges and opportunities discovered. Think of it as a space for imagining "what if" rather than creating a fixed plan. Capture possibilities in whatever format helps you think creatively.
 
+---
+
 ## Connecting to Discovery
 
 *Why this matters: Grounding interventions in real challenges and genuine curiosity ensures efforts address what actually matters to people.*
@@ -12,7 +14,24 @@ Consider:
 - What patterns or leverage points emerged that suggest intervention opportunities?
 - How do stakeholder interests align around certain issues?
 
+📋 **Information to Capture for Later Use:**
+* **Priority challenges selected**: Which specific Discovery challenges you'll address
+   * 
+* **Stakeholder alignment**: Which groups support addressing these challenges
+   * 
+* **Energy indicators**: Where enthusiasm is highest
+   * 
+* **Baseline metrics**: Current state measurements for selected challenges
+   *
+
+→ **This information will be used to:**
+- Track whether interventions addressed intended challenges (Reflection phase)
+- Show the connection between problems and solutions (Synthesis phase)
+- Demonstrate stakeholder-driven priority setting (Case study)
+
 [Space for your notes]
+
+---
 
 ## Exploring Possible Approaches
 
@@ -24,7 +43,26 @@ For each possibility, consider:
 - What makes this exciting or concerning to different stakeholders?
 - What would need to be true for this to work?
 
+📋 **Information to Capture for Later Use:**
+* **Approach descriptions**: Concrete enough that someone could understand what you'd do
+   * 
+* **Pattern connections**: Which established patterns or examples inspire each approach
+   * 
+* **Challenge mapping**: How each approach addresses specific Discovery challenges
+   * 
+* **Stakeholder reactions**: Who's excited, concerned, or skeptical about each option
+   * 
+* **Implementation requirements**: Basic needs for each approach
+   *
+
+→ **This information will be used to:**
+- Document what was actually tried vs. considered (Reflection phase)
+- Explain strategic choices and trade-offs (Synthesis phase)
+- Share alternative pathways others might try (Case study)
+
 [Space for your notes]
+
+---
 
 ## Understanding Resources
 
@@ -36,7 +74,26 @@ Consider exploring:
 - What's the minimum needed to try something meaningful?
 - How do different approaches vary in resource intensity?
 
+📋 **Information to Capture for Later Use:**
+* **Available resources**: Specific amounts/commitments for time, money, people
+   * 
+* **Resource sources**: Where support will come from (internal/external)
+   * 
+* **Minimum viable resources**: What's needed to start vs. scale
+   * 
+* **Resource allocation**: How resources map to different approaches
+   * 
+* **Contingency planning**: What happens if resources are less than expected
+   *
+
+→ **This information will be used to:**
+- Compare planned vs. actual resource use (Reflection phase)
+- Document efficiency and sustainability (Synthesis phase)
+- Help others understand true costs (Case study)
+
 [Space for your notes]
+
+---
 
 ## Power and Decision-Making
 
@@ -48,7 +105,26 @@ Consider:
 - What would be gained and what might feel like loss?
 - How do various stakeholders feel about these shifts?
 
+📋 **Information to Capture for Later Use:**
+* **Current power map**: Who decides what now (from Discovery)
+   * 
+* **Proposed shifts**: How each approach would change decision-making
+   * 
+* **Stakeholder impacts**: Who gains/loses influence with each approach
+   * 
+* **Transition planning**: How power shifts would be managed
+   * 
+* **Resistance points**: Where pushback is likely
+   *
+
+→ **This information will be used to:**
+- Track actual vs. planned power shifts (Reflection phase)
+- Document governance transformation (Synthesis phase)
+- Share lessons about managing power transitions (Case study)
+
 [Space for your notes]
+
+---
 
 ## Risks and Concerns
 
@@ -60,7 +136,26 @@ Consider exploring:
 - What could genuinely go wrong (vs. just fear)?
 - How might different risks be addressed or mitigated?
 
+📋 **Information to Capture for Later Use:**
+* **Risk identification**: Specific risks for each approach
+   * 
+* **Risk assessment**: Likelihood and impact levels
+   * 
+* **Mitigation strategies**: How each risk could be addressed
+   * 
+* **Acceptable risks**: What the organization is willing to try
+   * 
+* **Red lines**: What would stop the experiment
+   *
+
+→ **This information will be used to:**
+- Compare anticipated vs. actual challenges (Reflection phase)
+- Show honest assessment and preparation (Synthesis phase)
+- Help others anticipate similar challenges (Case study)
+
 [Space for your notes]
+
+---
 
 ## Success and Evidence
 
@@ -72,7 +167,26 @@ Consider:
 - What evidence would show progress is happening?
 - What would be worth celebrating along the way?
 
+📋 **Information to Capture for Later Use:**
+* **Success definitions**: What "better" looks like concretely
+   * 
+* **Measurable indicators**: Specific metrics with current baselines
+   * 
+* **Qualitative indicators**: What you'll observe or hear
+   * 
+* **Timeline expectations**: When you expect to see changes
+   * 
+* **Celebration triggers**: Milestones worth acknowledging
+   *
+
+→ **This information will be used to:**
+- Structure reflection activities (Reflection phase)
+- Demonstrate impact and change (Synthesis phase)
+- Define evaluation framework (Case study)
+
 [Space for your notes]
+
+---
 
 ## Pathways and Choices
 
@@ -84,7 +198,26 @@ Consider developing different pathways like:
 - A "broad engagement" approach for inclusion
 - Or whatever framings emerge from your context
 
+📋 **Information to Capture for Later Use:**
+* **Pathway descriptions**: Clear enough for decision-making
+   * 
+* **Resource requirements**: What each pathway needs
+   * 
+* **Risk profiles**: Different risk levels and types
+   * 
+* **Timeline implications**: How long each might take
+   * 
+* **Selection criteria**: How to choose between pathways
+   *
+
+→ **This information will be used to:**
+- Document strategic choices made (Reflection phase)
+- Explain decision-making process (Synthesis phase)
+- Offer options to other organizations (Case study)
+
 [Space for your notes]
+
+---
 
 ## Next Steps and Experiments
 
@@ -96,7 +229,66 @@ Consider:
 - What would help build confidence for bigger steps?
 - How will you learn from whatever happens next?
 
+📋 **Information to Capture for Later Use:**
+* **Immediate actions**: Who will do what by when
+   * 
+* **Quick wins**: What could show progress fast
+   * 
+* **Learning questions**: What you're testing
+   * 
+* **Decision points**: When you'll decide on next steps
+   * 
+* **Communication plan**: How you'll keep people informed
+   *
+
+→ **This information will be used to:**
+- Track implementation progress (Reflection phase)
+- Show how plans evolved into action (Synthesis phase)
+- Demonstrate iterative approach (Case study)
+
 [Space for your notes]
+
+---
+
+## ✓ Intervention Checklist
+
+Before moving to implementation, ensure you have:
+
+**Strategic Foundation**
+- [ ] Clear connection to Discovery challenges
+- [ ] 2-4 distinct intervention approaches explored
+- [ ] Stakeholder reactions documented
+- [ ] Power shift implications understood
+
+**Resource Planning**
+- [ ] Available resources confirmed
+- [ ] Resource needs by approach estimated
+- [ ] Minimum viable resource identified
+- [ ] Resource sources committed
+
+**Success Framework**
+- [ ] Success definitions from multiple stakeholders
+- [ ] Measurable indicators with baselines
+- [ ] Qualitative indicators defined
+- [ ] Timeline expectations set
+
+**Risk Management**
+- [ ] Key risks identified and assessed
+- [ ] Mitigation strategies developed
+- [ ] Acceptable risk levels confirmed
+- [ ] Red lines established
+
+**Action Planning**
+- [ ] Chosen pathway(s) documented
+- [ ] Immediate next steps defined
+- [ ] Responsible parties assigned
+- [ ] Communication plan created
+
+**Nice to Have (But Not Essential)**
+- [ ] Detailed implementation timeline
+- [ ] Comprehensive budget breakdown
+- [ ] Full stakeholder engagement plan
+- [ ] Technical architecture (if applicable)
 
 ---
 
