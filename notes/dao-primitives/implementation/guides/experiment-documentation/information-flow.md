@@ -4,9 +4,15 @@
 
 This document details how information moves between phases in the Experiment Documentation Framework, enabling progressive documentation that builds knowledge efficiently without duplication. Understanding these relationships helps users maximize the value of their documentation efforts while maintaining clear connections between different aspects of their engagement.
 
-## Phase-to-Phase Information Flow
+The framework provides worksheets to capture insights, templates to structure outputs, and AI synthesis prompts to help transform raw information into polished documentation. Each tool supports natural information flow between phases.
+
+---
+
+## 📊 Core Information Flows
 
 ### Discovery → Intervention Flow
+
+The insights you gather during Discovery become the foundation for designing interventions. Understanding the organization's context, challenges, and possibilities helps you craft approaches that actually fit the situation. This isn't about following a rigid checklist - it's about ensuring your interventions are grounded in real understanding rather than assumptions.
 
 **What Carries Forward:**
 - **Organizational Profile** - Mission, structure, culture, and context insights inform intervention feasibility
@@ -20,13 +26,16 @@ This document details how information moves between phases in the Experiment Doc
 - Challenge areas from Discovery become intervention opportunity categories
 - Stakeholder readiness assessments inform intervention complexity decisions
 - System maps reveal leverage points for intervention design
+- The Intervention template prompts you to connect back to Discovery findings
 
-**Key Decision Points:**
-- Is the Discovery understanding sufficient to begin intervention mapping?
-- Which Discovery insights are most relevant for intervention design?
-- What additional context might be needed for effective intervention planning?
+**Questions to Consider:**
+- Do we understand enough about the organization to explore interventions?
+- Which Discovery insights feel most important for shaping our approach?
+- What additional understanding might help us design better interventions?
 
 ### Intervention → Reflection Flow
+
+When you move from planning to doing, new learning emerges constantly. The Reflection phase captures this learning by comparing what you expected to happen with what actually unfolded. Your intervention plans provide the baseline for reflection - they remind you what you were trying to achieve and help you notice both successes and surprises.
 
 **What Carries Forward:**
 - **Intervention Plans** - What was attempted, why, and what was expected
@@ -40,13 +49,16 @@ This document details how information moves between phases in the Experiment Doc
 - Success metrics become reflection evaluation criteria
 - Stakeholder roles inform who should be involved in reflection activities
 - Risk assessments guide what to look for in outcome analysis
+- Templates include prompts to reference original plans and expectations
 
-**Key Decision Points:**
-- When is enough intervention activity complete to warrant reflection?
-- How do we balance reflection timing with ongoing intervention work?
-- What level of reflection depth is appropriate for the intervention scale?
+**Questions to Consider:**
+- Have we tried enough to have meaningful reflections?
+- How do we capture learning while still in motion?
+- What depth of reflection serves our current needs?
 
 ### Reflection → Synthesis Flow
+
+Multiple cycles of reflection build into rich understanding that's worth sharing. The Synthesis phase weaves together all your learning - from initial discovery through various interventions and reflections - into a coherent story. This isn't just about reporting what happened; it's about extracting insights that can help others facing similar challenges.
 
 **What Carries Forward:**
 - **Outcome Documentation** - What actually happened versus what was expected
@@ -60,229 +72,202 @@ This document details how information moves between phases in the Experiment Doc
 - Outcome patterns become case study narrative elements
 - Stakeholder quotes provide multiple perspective evidence
 - Process insights inform methodology recommendations
+- The Case Study template weaves all phases into a coherent story
 
-**Key Decision Points:**
-- When is there sufficient reflection material to create meaningful synthesis?
-- Which insights are most valuable for knowledge commons contribution?
-- How do we balance detail with accessibility in synthesis?
+**Final Output:** A comprehensive Case Study that tells your transformation story
 
-## Cross-Phase Information Flows
+**Questions to Consider:**
+- Do we have enough reflection material for meaningful synthesis?
+- Which insights would be most valuable to share with others?
+- How do we balance comprehensive documentation with readability?
 
-### Discovery → Reflection (Direct Connection)
+### Cross-Phase Connections
 
-**Why This Matters:**
-- Original challenges and context provide baseline for measuring change
-- Stakeholder expectations set during Discovery become reflection evaluation criteria
-- System understanding helps identify intervention ripple effects
+Information doesn't just flow forward - it also creates valuable feedback loops and direct connections between non-adjacent phases. These connections deepen understanding and enable more nuanced documentation.
 
-**Information Transfer:**
-- Reflection activities compare current state to Discovery baseline
-- Stakeholder perspectives from Discovery inform reflection interview approaches
-- System mapping reveals where to look for intervention impacts
+**Discovery → Reflection (Direct)**
+- Original challenges provide baseline for measuring change
+- Stakeholder expectations become evaluation criteria
+- System understanding reveals where to look for impacts
 
-### Intervention → Discovery (Feedback Loop)
+**Intervention → Discovery (Feedback)**
+- Implementation reveals new organizational understanding
+- Challenges uncover unknown constraints
+- Engagement deepens contextual knowledge
 
-**Why This Matters:**
-- Intervention attempts reveal new understanding about organizational context
-- Implementation challenges uncover previously unknown system constraints
-- Stakeholder engagement during intervention deepens contextual understanding
+**Reflection → Intervention (Iterative)**
+- Learning informs intervention refinement
+- Outcomes guide approach modifications
+- Feedback shapes new possibilities
 
-**Information Transfer:**
-- Intervention learning updates Discovery documentation
-- New stakeholder insights enhance original analysis
-- System understanding evolves based on intervention attempts
+---
 
-### Reflection → Intervention (Iterative Cycle)
+## 🛠️ How Framework Tools Support Flow
 
-**Why This Matters:**
-- Reflection insights inform intervention refinement and new intervention design
-- Outcome analysis reveals more effective intervention approaches
-- Stakeholder feedback guides intervention approach modifications
+### Worksheets Capture Raw Insights
+- Each phase worksheet prompts for information that will be needed later
+- Questions guide you to explore areas that connect to other phases
+- Space for free-form capture respects how insights actually emerge
 
-**Information Transfer:**
-- Reflection outcomes become input for intervention planning updates
-- Lessons learned inform new intervention possibility assessment
-- Stakeholder feedback shapes intervention approach modifications
+### Templates Structure the Flow
+- Each template references information from previous phases
+- Prompts remind you to connect back to earlier insights
+- Sections build naturally on what came before
 
-## Parallel and Overlapping Phase Patterns
+### AI Synthesis Connects the Dots
+- Workflow guides include prompts to transform worksheet notes into template sections
+- AI helps identify patterns across phases
+- Synthesis assistance maintains connections while improving clarity
 
-### Discovery and Intervention Overlap
+---
 
-**Common Scenarios:**
-- **Emergent Engagement** - Discovery reveals immediate intervention opportunities
-- **Iterative Design** - Intervention attempts deepen Discovery understanding
-- **Rapid Prototyping** - Quick intervention tests inform broader Discovery work
+## 🔄 Working with Natural Patterns
 
-**Managing Information Flow:**
-- Maintain separate Discovery and Intervention documentation while noting connections
-- Use cross-references to link related insights
-- Regular synthesis of overlapping insights
+**Remember:** The framework adapts to your natural process. You don't need to follow a rigid sequence - start where you are and let the work guide you.
 
-### Reflection Throughout All Phases
+### Common Flow Patterns
 
-**Common Scenarios:**
-- **Ongoing Learning** - Regular reflection cycles during Discovery and Intervention
-- **Milestone Reviews** - Reflection at key decision points regardless of phase
-- **Stakeholder Feedback** - Continuous input collection throughout engagement
+Every engagement has its own rhythm. While the framework presents phases in a logical sequence, real-world work rarely follows a straight line. Understanding different flow patterns helps you recognize your own journey and work with its natural shape rather than forcing it into a predetermined path.
 
-**Managing Information Flow:**
-- Date-stamp reflection entries to track evolution
-- Connect reflection insights to specific phase activities
-- Build cumulative reflection understanding over time
-
-## Information Flow Optimization Strategies
-
-### Preventing Information Duplication
-
-**Strategies:**
-- **Reference, Don't Repeat** - Link to previous insights rather than restating them
-- **Build, Don't Rebuild** - Add new layers to existing understanding
-- **Connect, Don't Copy** - Show relationships between insights across phases
-
-**Practical Techniques:**
-- Use internal linking between related sections
-- Create summary tables that pull from multiple sources
-- Develop templates that prompt for connections to previous work
-
-### Ensuring Information Accessibility
-
-**Strategies:**
-- **Tag Key Insights** - Mark important insights for easy retrieval
-- **Create Navigation Aids** - Provide clear pathways between related information
-- **Maintain Overview Documents** - Keep high-level summaries that show connections
-
-**Practical Techniques:**
-- Use consistent tagging systems across phases
-- Create index documents that map insights to locations
-- Develop visual diagrams showing information relationships
-
-### Managing Information Evolution
-
-**Strategies:**
-- **Track Changes** - Document how understanding evolves over time
-- **Preserve Context** - Keep original insights while adding new understanding
-- **Show Development** - Make learning progression visible
-
-**Practical Techniques:**
-- Use version control or change tracking
-- Add dated updates to original insights
-- Create narrative descriptions of how understanding developed
-
-## Decision Points for Phase Transitions
-
-### Discovery to Intervention Readiness
-
-**Information Completeness Indicators:**
-- Organizational context sufficiently understood
-- Key stakeholders identified and engaged
-- Primary challenges/opportunities clearly defined
-- System mapping reveals potential intervention points
-- Technology and resource capacity assessed
-
-**Quality Checkpoints:**
-- Can we articulate the problem/opportunity clearly?
-- Do we understand stakeholder perspectives and readiness?
-- Are potential intervention impacts reasonably predictable?
-- Do we have sufficient organizational context for intervention design?
-
-### Intervention to Reflection Readiness
-
-**Information Completeness Indicators:**
-- Intervention plans documented with clear success criteria
-- Sufficient intervention activity completed to generate meaningful outcomes
-- Stakeholder experiences and feedback available
-- Implementation approach and timeline documented
-- Initial outcomes and impacts identifiable
-
-**Quality Checkpoints:**
-- Is there enough intervention activity to reflect on meaningfully?
-- Are stakeholder perspectives available for reflection?
-- Can we identify what worked, what didn't, and why?
-- Are both intended and unintended outcomes visible?
-
-### Reflection to Synthesis Readiness
-
-**Information Completeness Indicators:**
-- Multiple reflection cycles completed
-- Comprehensive outcome documentation available
-- Stakeholder feedback collected and analyzed
-- Lessons learned clearly articulated
-- Process insights documented
-
-**Quality Checkpoints:**
-- Do we have sufficient insight depth for meaningful synthesis?
-- Are multiple stakeholder perspectives represented?
-- Can we identify patterns and transferable insights?
-- Are both intervention and process learnings available?
-
-## Visual Flow Patterns
-
-### Linear Flow (Traditional)
+**Linear Flow (Traditional)**
 ```
 Discovery → Intervention → Reflection → Synthesis
 ```
-**Best for:** Structured engagements with clear phases and defined timelines
+Works well for: Structured engagements with clear phases
 
-### Iterative Flow (Agile)
+**Iterative Flow (Agile)**
 ```
 Discovery ↔ Intervention ↔ Reflection
                      ↓
                  Synthesis
 ```
-**Best for:** Experimental approaches with multiple learning cycles
+Works well for: Experimental approaches with multiple cycles
 
-### Parallel Flow (Complex)
+**Parallel Flow (Complex)**
 ```
 Discovery → Reflection
     ↓           ↓
 Intervention → Synthesis
 ```
-**Best for:** Multi-track engagements with simultaneous activities
+Works well for: Multi-track engagements
 
-### Continuous Flow (Ongoing)
+**Continuous Flow (Ongoing)**
 ```
 Discovery → Intervention → Reflection → Synthesis
     ↑           ↑              ↑           ↓
     ←───────────────────────────────────────
 ```
-**Best for:** Long-term partnerships with continuous learning and adaptation
+Works well for: Long-term partnerships
 
-## Information Flow Troubleshooting
+### Managing Overlapping Phases
 
-### Common Flow Problems
+In practice, phases often blur and blend. You might discover crucial insights while implementing interventions, or find that reflection reveals gaps in your original discovery. This overlap is natural and valuable - it deepens understanding and creates richer documentation.
 
-**Information Gaps:**
-- Missing connections between phases
-- Insufficient detail carried forward
-- Lost context from earlier phases
+**Discovery and Intervention Overlap**
+- Emergent opportunities arise during discovery
+- Quick tests deepen understanding
+- Maintain separate documentation while noting connections
 
-**Information Overload:**
-- Too much detail carried forward
-- Unclear relevance of previous insights
-- Difficulty finding relevant information
-
-**Information Inconsistency:**
-- Contradictory insights across phases
-- Outdated information affecting current work
-- Unclear information evolution
-
-### Solutions and Strategies
-
-**For Information Gaps:**
-- Create explicit connection prompts in templates
-- Develop checklists for information transfer
-- Regular review of previous phase insights
-
-**For Information Overload:**
-- Develop summary techniques and overview documents
-- Use filtering criteria to identify most relevant insights
-- Create information hierarchy systems
-
-**For Information Inconsistency:**
-- Document information evolution explicitly
-- Maintain version control of changing insights
-- Create reconciliation processes for conflicting information
+**Continuous Reflection**
+- Capture learning at any point
+- Date-stamp entries to track evolution
+- Build cumulative understanding over time
 
 ---
 
-*Effective information flow enables progressive documentation that builds knowledge efficiently. The framework succeeds when information moves naturally between phases, creating cumulative understanding that serves all stakeholders.*
+## 📍 Navigating Phase Transitions
+
+Knowing when to move between phases is more art than science. Rather than following rigid timelines or checklists, pay attention to natural indicators that suggest you're ready to shift focus. These transitions often overlap - you might begin reflection while still implementing interventions, or discover new insights that reshape your approach mid-stream.
+
+### Moving from Discovery to Intervention
+
+You'll know you're ready to explore interventions when the organization's story starts to make sense - when you can see not just what's happening, but why it's happening and where change might be possible. This doesn't mean you know everything; it means you know enough to begin imagining thoughtful approaches.
+
+**Signs You Might Be Ready:**
+- You have a solid grasp of organizational context and culture
+- Key stakeholders are identified and their perspectives understood
+- Primary challenges and opportunities are clearly articulated
+- You can see potential intervention points in the system
+- Technology and resource capacity has been assessed
+
+**Questions to Explore:**
+- Can we explain the situation clearly to others?
+- Do we understand different stakeholder perspectives?
+- Can we imagine how interventions might play out?
+- Do we have enough context to design meaningful approaches?
+
+### Moving from Intervention to Reflection
+
+Reflection becomes valuable when there's enough happening to learn from. This might be after a significant milestone, when something surprising occurs, or simply when you sense that pausing to capture insights would help the work move forward more effectively.
+
+**Signs You Might Be Ready:**
+- You've documented intervention plans with hoped-for outcomes
+- Enough activity has happened to generate learnings
+- Stakeholders have experiences to share
+- You can see both intended and unintended outcomes emerging
+- There's value in pausing to capture insights
+
+**Questions to Explore:**
+- Is there enough happening to reflect on meaningfully?
+- Are different perspectives available to include?
+- Can we start to see what's working and what isn't?
+- Would capturing learning now help us adapt?
+
+### Moving from Reflection to Synthesis
+
+The urge to synthesize often emerges when patterns become clear - when individual reflections start revealing broader truths about transformation. You'll feel ready to tell the larger story when you have both depth and breadth of experience to share.
+
+**Signs You Might Be Ready:**
+- Multiple reflection cycles have built rich understanding
+- Patterns are emerging across different experiences
+- Stakeholder feedback reveals consistent themes
+- You have both successes and struggles to share
+- The story of transformation is becoming clear
+
+**Questions to Explore:**
+- Do we have enough depth for meaningful synthesis?
+- Can we see patterns others could learn from?
+- Are multiple perspectives represented in our reflections?
+- Is there a compelling story to tell?
+
+---
+
+## 💡 Practical Strategies
+
+### Preventing Information Duplication
+- **Reference, Don't Repeat** - Link to previous insights rather than restating
+- **Build, Don't Rebuild** - Add new layers to existing understanding
+- **Connect, Don't Copy** - Show relationships between insights
+
+### Ensuring Information Accessibility
+- **Tag Key Insights** - Mark important discoveries for easy retrieval
+- **Create Navigation Aids** - Clear pathways between related information
+- **Maintain Overviews** - High-level summaries showing connections
+
+### Managing Information Evolution
+- **Track Changes** - Document how understanding evolves
+- **Preserve Context** - Keep original insights while adding new layers
+- **Show Development** - Make learning progression visible
+
+### Troubleshooting Common Challenges
+
+Even well-designed documentation processes hit snags. Information gets lost, contradictions emerge, or the sheer volume becomes overwhelming. These challenges are normal - here's how to work through them.
+
+**When Information Feels Disconnected:**
+- Review previous phase outputs before starting new work
+- Use worksheet prompts that explicitly connect to earlier insights
+- Create simple maps showing how insights relate
+
+**When There's Too Much Information:**
+- Focus on insights most relevant to current work
+- Create executive summaries of each phase
+- Use AI synthesis to identify key themes
+
+**When Information Seems Contradictory:**
+- Document how understanding has evolved
+- Acknowledge multiple truths can coexist
+- Use contradictions as learning opportunities
+
+---
+
+*Effective information flow enables progressive documentation that builds knowledge efficiently. The framework succeeds when information moves naturally between phases, creating cumulative understanding that serves all stakeholders. Trust the process and let your unique journey unfold.*

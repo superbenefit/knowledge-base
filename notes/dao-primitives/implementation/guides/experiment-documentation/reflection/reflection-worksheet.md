@@ -1,48 +1,103 @@
-# Experiment Reflection Documentation Worksheet
+# Reflection Exploration Guide
 
-This worksheet supports progressive capture of reflection insights throughout experimental activities.
+This guide helps you capture learning as it happens. Use it whenever you want to pause and make sense of what's emerging - after events, during transitions, or when something surprising occurs. There's no required format - capture insights however they come.
 
-## Worksheet Section Guide by Reflection Type
+## What Happened
 
-**Lightweight Periodic Reflection** - Focus on sections: 1, 2, 5
-**Milestone Comprehensive Reflection** - Complete sections: 1, 2, 3, 4, 5, 6
-**Challenge-Focused Reflection** - Emphasize sections: 1, 3, 5, 6, 7
-**Final Comprehensive Reflection** - Complete all sections: 1-8
+*Why this matters: Starting with simple observation of what occurred (before jumping to interpretation) helps ground reflection in shared reality.*
 
-## 1. Reflection Context and Scope
-- **Reflection Date:** [When this reflection is being documented]
-- **Reflection Type:** [Periodic/Milestone/Challenge-focused/Final/Meta-reflection]
-- **Period Covered:** [What timeframe or activities this reflection covers]
+Consider capturing:
+- What actually took place?
+- How did it unfold differently than expected?
+- What moments stand out as significant?
+- What did different people experience?
 
-## 2. Outcome Documentation
-### What Actually Happened
-**Primary Activities Completed:**
-- **Activity 1:** [Description of what was actually done]
-- **Activity 2:** [Description]
+[Space for your notes]
 
-### Intended vs. Actual Outcomes Comparison
-| Intended Outcome | What Actually Happened | Difference Analysis |
-|------------------|------------------------|-------------------|
-| [Original expectation] | [Actual result] | [Why different?] |
+## What Surprised Us
 
-## 3. Challenge and Response Analysis
-**Challenge 1: [Name/Description]**
-- **Description:** [What specifically was the challenge?]
-- **Response Attempted:** [What did you try to do?]
-- **Effectiveness:** [How well did this response work?]
+*Why this matters: Surprises are learning opportunities. They show where our assumptions didn't match reality and point to new understanding.*
 
-## 4. Stakeholder Experience and Feedback
-**Direct Stakeholder Feedback:**
-- **Quote 1:** "[Direct quote from stakeholder]"
-- **Quote 2:** "[Direct quote from stakeholder]"
+Consider:
+- What caught you off guard (good or bad)?
+- Where did things work differently than anticipated?
+- What unexpected connections or conflicts emerged?
+- What assumptions got challenged?
 
-## 5. Learning and Insight Extraction
-**Key Insights That Emerged:**
-**Insight 1: [Title/Theme]**
-- **Description:** [What did you learn?]
-- **Evidence:** [What supports this insight?]
-- **Implications:** [What does this mean for future activities?]
+[Space for your notes]
+
+## What We're Learning
+
+*Why this matters: Extracting insights while they're fresh helps build collective wisdom and inform future action.*
+
+Consider:
+- What patterns are you starting to notice?
+- What would you do differently knowing what you know now?
+- What advice would you give someone else trying something similar?
+- What questions are getting answered and what new ones are emerging?
+
+[Space for your notes]
+
+## Different Perspectives
+
+*Why this matters: The same events can mean very different things to different people. Capturing multiple viewpoints reveals the full picture.*
+
+Consider exploring:
+- How did various stakeholders experience what happened?
+- Where do perspectives align or diverge?
+- What insights come from seeing through others' eyes?
+- Whose voices might be missing from the reflection?
+
+[Space for your notes]
+
+## Emotional Landscape
+
+*Why this matters: Change work is human work. Acknowledging feelings - frustration, joy, anxiety, hope - helps others prepare for their own journey.*
+
+Consider:
+- What emotions showed up during this experience?
+- Where did energy rise or fall?
+- What felt hard and what felt flowing?
+- How are people feeling about what comes next?
+
+[Space for your notes]
+
+## What's Shifting
+
+*Why this matters: Change often happens gradually. Noticing subtle shifts helps recognize progress that might otherwise be invisible.*
+
+Consider:
+- What's different now compared to before?
+- What new conversations are happening?
+- Where are relationships or dynamics evolving?
+- What possibilities are opening (or closing)?
+
+[Space for your notes]
+
+## Questions and Wonderings
+
+*Why this matters: Good reflection often generates new questions. These guide continued learning and exploration.*
+
+Consider:
+- What are you more curious about now?
+- What questions feel important to explore next?
+- Where do you need more information or perspective?
+- What are you wondering about but haven't asked yet?
+
+[Space for your notes]
+
+## What This Means Going Forward
+
+*Why this matters: Connecting reflection to future action ensures learning translates into evolved practice.*
+
+Consider:
+- How might this learning influence what happens next?
+- What do you want to remember for the future?
+- What support or resources are needed now?
+- Who else should know about these insights?
+
+[Space for your notes]
 
 ---
 
-*Complete sections as insights develop, building a comprehensive record of learning.*
+*Remember: Reflection is a practice, not a performance. The goal isn't to have profound insights every time but to build a habit of noticing and learning. Even simple observations can reveal important patterns over time.*

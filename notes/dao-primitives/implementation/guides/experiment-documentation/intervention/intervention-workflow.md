@@ -1,361 +1,213 @@
-# Intervention Mapping Workflow
+# Intervention Documentation Workflow
 
-## Overview
+This workflow guides you through using the Intervention phase documents to create a comprehensive Intervention Map.
 
-This workflow guides you through the process of transforming Discovery insights into strategic intervention documentation. It emphasizes thoughtful analysis of decentralized coordination patterns while remaining method-agnostic about specific approaches.
+## Understanding the Value
 
-## Process Flow
+The Intervention Map transforms Discovery insights into strategic possibilities for organizational change. It documents multiple pathways forward, helping organizations understand their options and make informed decisions. This workflow shows how to systematically develop intervention documentation using the framework tools.
 
-```mermaid
-graph TD
-    A[Review Discovery Report] --> B[Complete Intervention Worksheet]
-    B --> C[Pattern Research & Matching]
-    C --> D[Stakeholder Consultation]
-    D --> E[AI-Assisted Synthesis]
-    E --> F[Populate Template]
-    F --> G[Quality Review]
-    G --> H[Finalize Documentation]
-    
-    B -.-> I[Iterative Refinement]
-    C -.-> I
-    D -.-> I
-    I -.-> B
+## Document Sequence
+
+1. **Review readme.md** → Understand intervention documentation purpose
+2. **Reference Discovery Report** → Ground interventions in identified challenges
+3. **Use intervention-worksheet.md** → Explore possibilities systematically
+4. **Apply intervention-template.md** → Structure strategic options
+5. **AI-assisted synthesis** → Transform explorations into clear pathways
+6. **Quality review** → Ensure strategic coherence
+
+## Step 1: Review Requirements
+
+Start by reading the Intervention phase readme.md to understand:
+- How Discovery findings inform intervention design
+- What elements make effective intervention documentation
+- How this information guides implementation
+- Expected deliverables
+
+## Step 2: Ground in Discovery
+
+Before using the worksheet:
+- Review your Discovery Report
+- Identify key challenges to address
+- Note stakeholder interests and concerns
+- Understand organizational readiness
+
+## Step 3: Strategic Exploration with Worksheet
+
+Use intervention-worksheet.md to systematically explore possibilities:
+- Connect each exploration to Discovery findings
+- Document multiple pathway options
+- Assess resources realistically
+- Consider stakeholder implications
+- Note success indicators
+
+Work through all worksheet sections to ensure comprehensive exploration of strategic options.
+
+## Step 4: AI-Assisted Synthesis
+
+Transform worksheet content into structured documentation using these prompts:
+
+### Executive Summary
+```
+Create an executive summary for the Intervention Map:
+
+Discovery connections: [paste key challenges being addressed]
+Intervention areas: [paste from worksheet section 2]
+Strategic approach: [paste from worksheet section 7]
+Resource considerations: [paste from worksheet section 3]
+
+Write 200-300 words that convey strategic possibilities while acknowledging constraints.
 ```
 
-## Workflow Options
-
-### Option 1: Intensive Strategy Sessions (2-3 days)
-Best for: Organizations preferring concentrated planning periods
-
-1. **Day 1**: Discovery review and intervention brainstorming
-2. **Day 2**: Pattern research and pathway development
-3. **Day 3**: Stakeholder consultation and synthesis
-
-### Option 2: Extended Development (2-3 weeks)
-Best for: Complex organizations or distributed teams
-
-1. **Week 1**: Individual worksheet completion and pattern research
-2. **Week 2**: Stakeholder consultations and pathway refinement
-3. **Week 3**: Synthesis and documentation
-
-### Option 3: Iterative Co-Creation (4-6 weeks)
-Best for: High stakeholder involvement contexts
-
-1. **Weeks 1-2**: Collaborative intervention identification
-2. **Weeks 3-4**: Participatory pathway design
-3. **Weeks 5-6**: Collective refinement and documentation
-
-## Detailed Process Steps
-
-### Step 1: Discovery Report Review (2-3 hours)
-
-**Objectives**:
-- Extract key systemic issues for intervention focus
-- Identify stakeholder interests and constraints
-- Note organizational strengths to build upon
-
-**Activities**:
-- Re-read Discovery Report with intervention lens
-- List top 5-7 systemic issues by impact
-- Map stakeholder readiness and concerns
-- Identify quick wins vs. long-term changes
-
-**Output**: Prepared foundation for worksheet completion
-
-### Step 2: Worksheet Completion (4-6 hours)
-
-**Objectives**:
-- Systematically explore intervention possibilities
-- Document strategic thinking progressively
-- Build comprehensive information base
-
-**Activities**:
-- Work through worksheet sections methodically
-- Don't aim for perfection in first pass
-- Capture questions and uncertainties
-- Use "parking lot" for ideas needing research
-
-**Output**: Completed or substantially filled worksheet
-
-### Step 3: Pattern Research (2-4 hours)
-
-**Objectives**:
-- Understand relevant decentralized patterns
-- Match patterns to intervention areas
-- Identify adaptation requirements
-
-**Activities**:
-- Research 5-7 potentially relevant patterns
-- Review implementation examples
-- Consider pattern combinations
-- Note technical and social requirements
-
-**Resources**:
-- SuperBenefit pattern library
-- Web3 pattern databases
-- Case study examples
-- Community knowledge bases
-
-**Output**: Pattern-intervention matching matrix
-
-### Step 4: Stakeholder Consultation (Time varies)
-
-**Objectives**:
-- Validate intervention directions
-- Gather additional perspectives
-- Build buy-in for changes
-
-**Activities**:
-- Share preliminary intervention ideas
-- Facilitate feedback sessions
-- Document concerns and suggestions
-- Refine based on input
-
-**Output**: Stakeholder-validated intervention approach
-
-### Step 5: AI-Assisted Synthesis
-
-**Overview**: Use AI to transform worksheet content into polished template sections. Work through each template section systematically.
-
-#### Executive Summary Synthesis
-
+### Strategic Context
 ```
-Based on my completed Intervention Worksheet, help me create an executive summary (200-300 words) that includes:
+Develop the strategic context section:
 
-1. Brief connection to 2-3 key Discovery findings
-2. The [number] primary intervention areas identified
-3. Overall strategic approach 
-4. High-level resource and timeline considerations
-5. Key stakeholder implications
+Discovery insights addressed: [paste from worksheet section 1]
+Organizational readiness: [paste from worksheet section 3]
+External factors: [paste relevant context]
 
-Worksheet content to synthesize:
-[Paste relevant worksheet sections]
-
-Please write in clear, accessible language suitable for diverse stakeholders.
+Create narrative showing why these interventions make sense given the Discovery findings.
 ```
 
-#### Strategic Context Synthesis
-
+### Intervention Areas
 ```
-Using my worksheet information, help me develop the Strategic Context section with:
+For each intervention area, create comprehensive documentation:
 
-1. Discovery Connections - linking specific systemic issues to interventions
-2. Organizational Readiness - strengths to build on and gaps to address
-3. Environmental Considerations - external factors supporting or challenging change
+Area: [paste from worksheet section 2]
+Challenge addressed: [paste connection to Discovery]
+Power dynamics: [paste from worksheet section 4]
+Resources needed: [paste from worksheet section 3]
 
-Worksheet content:
-- Systemic issues: [paste from worksheet]
-- Readiness assessment: [paste from worksheet]
-- Environmental scan: [paste from worksheet]
-
-Format with clear subheadings and bullet points where appropriate.
+Present as a clear strategic option with rationale and requirements.
 ```
 
-#### Intervention Areas Synthesis
-
+### Implementation Pathways
 ```
-For each intervention area from my worksheet, help me create comprehensive documentation including:
+Transform pathway explorations into structured options:
 
-1. Clear connection to specific Discovery issue
-2. Current state description and impact
-3. Transformation vision
-4. Power dynamics analysis (current vs. proposed)
-5. Pattern connections with implementation considerations
+Pathway name: [paste from worksheet section 7]
+Approach: [paste description]
+Activities: [paste key steps]
+Resources: [paste requirements]
+Risks: [paste from worksheet section 5]
 
-Intervention Area [#]: [paste worksheet content]
-
-Ensure power redistribution opportunities are clearly articulated.
+Create clear description helping readers understand this as a genuine strategic choice.
 ```
 
-#### Implementation Pathways Synthesis
-
+### Success Framework
 ```
-Transform my pathway planning into detailed implementation documentation:
+Develop success criteria from worksheet content:
 
-For Pathway [#]: [pathway name]
-- Worksheet content: [paste pathway section]
+Success indicators: [paste from worksheet section 6]
+Evidence to track: [paste measurement ideas]
 
-Create:
-1. Overview paragraph explaining approach
-2. 3-4 key phases with timelines
-3. Resource requirements table (human, technical, financial)
-4. Risk assessment matrix with mitigation strategies
-
-Use tables for clarity where appropriate.
+Create framework with both quantitative and qualitative indicators.
 ```
 
-#### Success Framework Synthesis
-
+### Stakeholder Engagement Plan
 ```
-Based on my success criteria brainstorming, create a comprehensive Success Framework with:
+Create stakeholder section from worksheet notes:
 
-1. 3-5 quantitative metrics with baselines and targets
-2. 3-5 qualitative indicators with observation methods
-3. Monitoring schedule (weekly/monthly/quarterly activities)
-4. Learning and adaptation mechanisms
+Stakeholder considerations: [paste from worksheet section 4]
+Engagement approaches: [paste from worksheet section 8]
 
-Worksheet content: [paste success framework section]
-
-Ensure metrics are SMART (Specific, Measurable, Achievable, Relevant, Time-bound).
+Develop plan showing how different groups would be involved and affected.
 ```
 
-#### Stakeholder Engagement Synthesis
-
+### Next Steps
 ```
-Transform my stakeholder analysis into an engagement plan:
+Transform next steps into actionable documentation:
 
-Stakeholder information: [paste from worksheet]
+Immediate actions: [paste from worksheet section 8]
+Decision points: [paste key choices]
 
-Create:
-1. Impact analysis table showing how each group is affected
-2. Tailored engagement strategies for each group
-3. Communication approaches and participation opportunities
-4. Capacity building needs
-
-Emphasize inclusive participation and power-sharing.
+Create specific, measurable next steps with clear ownership.
 ```
 
-#### Next Steps Synthesis
+## Step 5: Template Population
 
+With synthesized content:
+1. Open intervention-template.md
+2. Paste content into appropriate sections
+3. Ensure connections to Discovery are explicit
+4. Add transitions for flow
+5. Review for strategic coherence
+
+## Step 6: Quality Review
+
+Enhance your Intervention Map using these prompts:
+
+### Strategic Alignment Check
 ```
-Based on my next steps planning, create actionable documentation including:
-
-1. 3-5 immediate actions (next 30 days) with responsible parties
-2. 2-3 key decision points with timelines and processes
-3. Communication plan for internal and external audiences
-
-Worksheet content: [paste next steps section]
-
-Make actions specific and measurable.
-```
-
-### Step 6: Template Population (2-3 hours)
-
-**Process**:
-1. Open the Intervention Template
-2. Work through sections sequentially
-3. Paste AI-synthesized content
-4. Edit for consistency and flow
-5. Add connecting language between sections
-6. Insert any diagrams or visuals
-
-**Quality Checks**:
-- All Discovery connections clear?
-- Pattern selections justified?
-- Resources realistically assessed?
-- Stakeholder perspectives included?
-- Next steps actionable?
-
-### Step 7: Quality Review
-
-Use these AI prompts for comprehensive review:
-
-#### Completeness Review
-
-```
-Review this Intervention Mapping document for completeness:
-
-[Paste full document]
-
-Check for:
-1. All template sections properly filled
-2. Clear connections to Discovery findings
-3. Multiple intervention areas and pathways
-4. Stakeholder perspectives throughout
-5. Actionable next steps
-
-Identify any gaps or sections needing expansion.
-```
-
-#### Strategic Coherence Review
-
-```
-Analyze this Intervention Mapping for strategic coherence:
-
-[Paste full document]
-
-Evaluate:
-1. Do interventions logically address Discovery issues?
-2. Are pathways realistic given resources?
-3. Do patterns genuinely fit the context?
-4. Is power redistribution meaningfully addressed?
-5. Are success criteria aligned with interventions?
-
-Suggest improvements for strategic alignment.
-```
-
-#### Accessibility Review
-
-```
-Review this document for accessibility to diverse stakeholders:
+Review this Intervention Map for strategic coherence:
 
 [Paste document]
 
-Check for:
-1. Jargon or technical terms needing explanation
-2. Concepts that may be unclear to non-technical readers
-3. Balanced perspective across stakeholder groups
-4. Clear benefit articulation for each group
+Assess whether:
+- Each intervention clearly addresses Discovery findings
+- Pathways represent genuinely different approaches
+- Resource assessments are realistic
+- Success criteria align with interventions
 
-Suggest edits for improved accessibility.
+Suggest improvements for strategic clarity.
 ```
 
-## Common Challenges and Solutions
+### Completeness Review
+```
+Check this Intervention Map against requirements:
 
-### Challenge: Too Many Intervention Possibilities
-**Solution**: Use impact/effort matrix to prioritize. Focus on 2-4 high-impact areas.
+[Paste document]
 
-### Challenge: Pattern Overwhelm
-**Solution**: Start with 2-3 well-understood patterns. Others can be added later.
+Verify:
+- All template sections completed
+- Multiple pathways documented
+- Resources clearly assessed
+- Risks acknowledged
+- Next steps actionable
 
-### Challenge: Stakeholder Disagreement
-**Solution**: Document different perspectives. Create pathways that allow for varied approaches.
+Identify gaps or weak sections.
+```
 
-### Challenge: Resource Uncertainty
-**Solution**: Provide ranges rather than fixed numbers. Include minimal viable versions.
+### Stakeholder Perspective Review
+```
+Review from different stakeholder viewpoints:
 
-### Challenge: Technical Complexity
-**Solution**: Focus on outcomes patterns enable, not technical details. Use analogies.
+[Paste document or section]
 
-## Timeline Guidance
+For each stakeholder group, check:
+- Benefits clearly articulated
+- Concerns addressed
+- Involvement explained
+- Impact understood
 
-**Minimum Timeline**: 1 week
-- Assumes dedicated time and single decision-maker
-- Limited stakeholder consultation
-- Focus on essential sections
+Suggest improvements for stakeholder clarity.
+```
 
-**Typical Timeline**: 2-3 weeks
-- Allows for stakeholder input
-- Includes pattern research time
-- Enables iterative refinement
+## Common Issues and Solutions
 
-**Extended Timeline**: 4-6 weeks
-- High stakeholder involvement
-- Complex organizational context
-- Multiple rounds of refinement
+**Issue**: Too many intervention possibilities
+**Solution**: Use impact/effort analysis to prioritize 2-4 key areas
 
-## Success Indicators
+**Issue**: Vague resource estimates
+**Solution**: Provide ranges; separate essential from optional resources
 
-You have a successful Intervention Mapping when:
+**Issue**: Weak Discovery connections
+**Solution**: Explicitly reference Discovery findings for each intervention
 
-✅ Every intervention links clearly to Discovery findings  
-✅ Multiple realistic pathways are documented  
-✅ Stakeholder benefits and concerns are addressed  
-✅ Resources are realistically assessed  
-✅ Success criteria are measurable  
-✅ Next steps are clear and actionable  
-✅ Document is accessible to diverse audiences  
+**Issue**: Overly technical language
+**Solution**: Use AI to simplify while maintaining precision
 
-## Integration Notes
+## Deliverable: Intervention Map
 
-**Feeding Forward to Reflection**:
-- Success criteria become reflection benchmarks
-- Risk assessments guide monitoring focus  
-- Stakeholder plan shapes feedback collection
+Your completed Intervention Map should:
+- Present multiple strategic pathways
+- Connect clearly to Discovery findings
+- Include realistic resource assessments
+- Define success criteria
+- Provide actionable next steps
 
-**Contributing to Synthesis**:
-- Strategic rationale provides case context
-- Pattern selections inform knowledge commons
-- Decision documentation enables learning
+The document typically runs 8-12 pages, presenting options clearly for organizational decision-making.
 
-Remember: This phase documents strategic possibilities, not prescriptive solutions. The goal is thoughtful analysis that respects organizational autonomy while providing clear pathways forward.
+---
+
+*This workflow transforms strategic exploration into clear intervention documentation that enables informed organizational choices.*

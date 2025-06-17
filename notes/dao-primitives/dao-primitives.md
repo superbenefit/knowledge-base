@@ -7,7 +7,6 @@ tags:
   - daos
   - primitives
 ---
-
 # DAO Primitives Project
 
 The DAO Primitives Project provides a framework, conceptual tools, and practical patterns for building **purpose-aligned networks of small autonomous teams** that can scale effectively while maintaining coordination, adaptability, and emergent collective intelligence.
@@ -148,24 +147,10 @@ For those implementing a DAO or similar decentralized organization, the primitiv
         - [[sb-alignment-review-example]]
         - [[sb-bridging-plan-example]]
     - **[[experiment-documentation]]**
-      - **[[_archive]]**
-        - [[discovery-README]]
-        - [[discovery-specification]]
-        - [[framework-guide]]
-        - [[implementation-plan-template]]
-        - [[intervention-README]]
-        - [[intervention-specification]]
-        - [[progressive-documentation-principles]]
-        - [[reflection-README]]
-        - [[reflection-specification]]
-        - [[synthesis-README]]
-        - [[synthesis-specification]]
-        - [[tools-guide]]
       - **[[discovery]]**
         - [[discovery-template]]
         - [[discovery-workflow]]
         - [[discovery-worksheet]]
-      - [[experiment-docs-improvement-plan]]
       - [[information-flow]]
       - **[[intervention]]**
         - [[intervention-template]]
