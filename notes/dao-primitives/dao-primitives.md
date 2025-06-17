@@ -121,7 +121,9 @@ For those implementing a DAO or similar decentralized organization, the primitiv
 - **[[framework]]**
   - [[group-facilitation|Group Facilitation Guide]]
   - **[[group-phase]]**
-    - [[com[test-resources](test-resources.md)    - [[coordination]]
+    - [[completion]]
+    - [[conversation|Conversation Phase]]
+    - [[coordination]]
     - [[formation]]
     - [[organization]]
   - **[[group-primitives]]**
@@ -146,31 +148,37 @@ For those implementing a DAO or similar decentralized organization, the primitiv
         - [[sb-alignment-review-example]]
         - [[sb-bridging-plan-example]]
     - **[[experiment-documentation]]**
-      - **[[discovery]]**
+      - **[[_archive]]**
+        - [[discovery-README]]
         - [[discovery-specification]]
+        - [[framework-guide]]
+        - [[implementation-plan-template]]
+        - [[intervention-README]]
+        - [[intervention-specification]]
+        - [[progressive-documentation-principles]]
+        - [[reflection-README]]
+        - [[reflection-specification]]
+        - [[synthesis-README]]
+        - [[synthesis-specification]]
+        - [[tools-guide]]
+      - **[[discovery]]**
         - [[discovery-template]]
         - [[discovery-workflow]]
         - [[discovery-worksheet]]
-      - [[framework-guide]]
-      - [[implementation-plan-template]]
+      - [[experiment-docs-improvement-plan]]
       - [[information-flow]]
       - **[[intervention]]**
-        - [[intervention-specification]]
         - [[intervention-template]]
         - [[intervention-workflow]]
         - [[intervention-worksheet]]
-      - [[progressive-documentation-principles]]
       - **[[reflection]]**
-        - [[reflection-specification]]
         - [[reflection-template]]
         - [[reflection-workflow]]
         - [[reflection-worksheet]]
       - **[[synthesis]]**
-        - [[synthesis-specification]]
         - [[synthesis-template]]
         - [[synthesis-workflow]]
         - [[synthesis-worksheet]]
-      - [[tools-guide]]
     - [[experiment-facilitation-framework]]
     - **[[governance-design]]**
       - [[implementation-guide-community-governance]]

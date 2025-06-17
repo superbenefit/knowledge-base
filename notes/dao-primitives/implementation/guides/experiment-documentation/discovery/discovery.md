@@ -1,61 +1,29 @@
-# Discovery Phase Overview
+# Discovery Documentation
 
-The Discovery phase establishes the foundation for experimental documentation by systematically gathering information about organizational context, challenges, and opportunities. This phase creates the base information that all subsequent phases build upon through human-AI collaborative documentation.
+Understanding the organization's current context, challenges, and what people are curious about exploring.
 
-## Purpose and Outcomes
+## What Makes Good Discovery Documentation
 
-**Primary Purpose**: Create comprehensive organizational understanding that serves as foundation for all subsequent experimental documentation phases through efficient human-AI collaboration.
+Good discovery documentation captures the real story of an organization - not just its structure and processes, but the energy, challenges, and curiosities that make it unique. The best Discovery Reports help readers truly understand the organization's context while revealing opportunities for meaningful change. They balance comprehensive understanding with readability, serving both the organization's immediate needs and contributing insights others can learn from.
 
-**Key Outcomes**:
-- **Organizational Profile**: Complete understanding of structure, mission, and operational context
-- **System Mapping**: Documentation of current processes, resource flows, and relationship patterns
-- **Challenge Analysis**: Systematic identification of systemic issues and root causes
-- **Interest Area Discovery**: Organic identification of areas for potential new approaches
-- **Readiness Assessment**: Evaluation of organizational capacity for experimental activities
-- **Stakeholder Alignment**: Clear understanding of stakeholder perspectives and engagement readiness
+## Common Patterns in Effective Discovery
 
-## Human-AI Collaboration Innovation
+The most useful Discovery Reports tell a coherent story about the organization that feels true to the people who live it. They surface systemic patterns rather than just listing problems. They capture genuine curiosity about what might be possible, not just what needs fixing. And they create natural bridges to exploration - readers finish them understanding not just where the organization is, but where it might go.
 
-This phase implements a collaborative documentation model where humans focus on stakeholder engagement and information gathering while AI assists with synthesis and structure development. This ensures high-quality, consistent documentation regardless of facilitator experience level.
+These documents work best when they include enough context for outsiders to understand the situation, but stay focused on what matters most for moving forward. They balance multiple perspectives without trying to resolve all contradictions. Most importantly, they capture the human side of organizational life - the relationships, frustrations, and aspirations that drive everything else.
 
-**Process Flow**: Review Specification → Human Information Gathering → AI Synthesis → AI Quality Review → Final Documentation
+## Key Principles
 
-## Documents in This Phase
+- **Listen deeply** - The best insights come from really hearing what people are saying (and not saying)
+- **Look for patterns** - Individual problems often point to systemic issues
+- **Capture curiosity** - Document not just problems but what people wonder about
+- **Stay grounded** - Focus on how things actually work, not how they should work
 
-### Core Documents
-- **[discovery-specification.md](discovery-specification.md)** - Defines required elements and quality criteria for Discovery Reports
-- **[discovery-worksheet.md](discovery-worksheet.md)** - Progressive information gathering tool with 8 aligned sections
-- **[discovery-template.md](discovery-template.md)** - Structure for organizing Discovery Report content with AI synthesis integration
-- **[discovery-workflow.md](discovery-workflow.md)** - Human-AI collaboration process with copy-paste ready AI prompts
+## Contents
+- [[readme]] - Technical overview and information flow
+- [[discovery-worksheet]] - Questions to explore
+- [[discovery-template]] - Document structure
+- [[discovery-workflow]] - How to create it
 
-### Document Alignment System
-- **Perfect Alignment**: 8 worksheet sections ↔️ 8 template sections ↔️ 8 AI synthesis prompts
-- **Quality Assurance**: 6 AI prompts for comprehensive quality review and enhancement
-- **Process Visualization**: Mermaid diagrams showing workflow options and information flow
-- **Time Optimization**: Each AI prompt designed for 5-10 minutes of focused collaboration
-
-## Workflow Options
-
-**Intensive Workshop Approach** (2-4 weeks): Collaborative stakeholder engagement with concentrated information gathering  
-**Extended Conversation Approach** (4-8 weeks): Individual stakeholder conversations with progressive documentation  
-**Hybrid Research Approach** (3-5 weeks): Document review combined with targeted stakeholder inquiry
-
-## Relationship to Other Phases
-
-**Foundation for All Phases**: Discovery provides baseline organizational understanding that eliminates redundant information gathering in subsequent phases.
-
-**Progressive Documentation**: Information captured here builds efficiently into Intervention mapping, Reflection documentation, and Synthesis development.
-
-**AI-Assisted Handoffs**: Structured information from Discovery worksheets enables smooth AI-assisted synthesis in later phases.
-
-## Quality Standards
-
-**Completeness**: All organizational systems, challenges, and interests systematically documented  
-**Accuracy**: System mapping reflects actual rather than aspirational organizational state  
-**Authenticity**: Interest areas emerged organically from stakeholder conversations  
-**Utility**: Documentation provides clear foundation for intervention mapping and future experimental work  
-**Multi-Stakeholder Value**: Content serves organizational clarity, facilitator understanding, and knowledge commons contribution
-
----
-
-*For navigation to other phases: [[intervention/intervention|Intervention]] | [[reflection/reflection|Reflection]] | [[synthesis/synthesis|Synthesis]]*
+## Getting Started
+Begin with the worksheet to gather insights through conversations, then use the workflow to transform them into a Discovery Report that tells your organization's unique story.
