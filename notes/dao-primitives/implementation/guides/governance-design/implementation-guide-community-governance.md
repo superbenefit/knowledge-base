@@ -29,7 +29,7 @@ Guides to setting up these 3 interlocking governance structures can can be found
 - [Implementation-guide-multi-stakeholder-governance](implementation-guide-multi-stakeholder-governance.md)
 - [Implementation-guide-community-governance](implementation-guide-community-governance.md) (this guide)
 
-This guide focuses on setting up a Community Governance structure, the highest level of governance in a decentralized network. You can do this as part of a three layered governance system as outlined above, or you could use this guide to design a community governance system to used with a completely different operational governance model. 
+This guide focuses on setting up a Community Governance structure, the highest level of governance in a decentralized network. You can do this as part of a three layered governance system as outlined above, or you could use this guide to design a community governance system to used with a completely different operational governance model.
 
 Creating a community governance structure is not a simple task. We recommend getting support from an experienced facilitator to help you through this process.
 
@@ -254,7 +254,7 @@ Review these common community governance patterns and select those that best mat
 
 🚧 Note - revise this list based on what rather is including in the broader community governance pattern. Consider including patterns like the bio regional patter etc
 
-1. **Token-Based Governance**
+1. [[token-based-governance]]
    * Description: Voting power distributed according to token holdings
    * Best For: Communities with clear tokenomic models, financial resource allocation
    * Key Primitives: Governance tokens, voting mechanisms, proposal systems
@@ -290,10 +290,10 @@ Review these common community governance patterns and select those that best mat
    * Key Primitives: Objection processes, proposal formats, impact assessment
    * Considerations: Works best with clear boundary conditions and shared understanding
 
-7. **Quadratic Governance**
+1. **Quadratic Governance**
    * Description: Influence scales with square root of resource contribution
    * Best For: Balancing individual influence with collective preference
-   * Key Primitives: Quadratic voting, funding mechanisms, identity verification
+   * Key Primitives: [[quadratic-voting]]), funding mechanisms, identity verification
    * Considerations: Requires sybil resistance and clear participation guidelines
 
 Most effective governance systems combine elements from multiple patterns, creating hybrid approaches tailored to specific community needs.
@@ -477,7 +477,7 @@ Depending on your community's technical context, governance implementation may i
 
 #### Technical Considerations
 
-1. **On-Chain vs. Off-Chain Governance**
+1. [[on-chain-vs.-off-chain-governance]]
    * Consider the larger design of your governance
    * Determine which governance elements require blockchain properties and which can be better done off-chain
    * Consider speed and costs involved in using on-chain tools

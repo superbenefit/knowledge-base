@@ -16,8 +16,8 @@ _Notes and other documents from the Reimagining Power project at SuperBenefit_
 
 
 %% Begin Waypoint %%
-- **[experiments](./experiments/experiments.md)**
-- [RPP Knowledge Tasks](./RPP%20Knowledge%20Tasks.md)
-- **[working-docs](./working-docs/working-docs.md)**
+- **[[experiments]]**
+- [[RPP Knowledge Tasks]]
+- **[[working-docs]]**
 
 %% End Waypoint %%

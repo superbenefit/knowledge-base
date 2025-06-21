@@ -82,7 +82,7 @@ Key principles and concepts include:
 The DAO primitives framework provides fundamental building blocks for creating effective decentralized organizations:
 
 1. **DAOs** - the larger constituency scale community container that the operational governance operates inside
-2. **Cells** - the basic operational unit in a DAO - a small autonomous team
+2. **[[cells]]** - the basic operational unit in a DAO - a small autonomous team
 3. **Roles** - which contain and manage specific responsibilities and sets of permissions
 4. **Tasks** - which are defined pieces of work/deliverable that individuals or teams can commit to delivering
 
@@ -396,7 +396,7 @@ Depending on your community's technical context, governance implementation may i
 
 #### Technical Considerations
 
-1. **On-Chain vs. Off-Chain Governance**
+1. **[[on-chain-vs.-off-chain-governance]]**
 - Determine which governance elements require blockchain properties and which can be better done off-chain 
 - Consider speed and costs involved in using on-chain tools
 - Ensure technical accessibility for all operational participants
@@ -431,7 +431,7 @@ Depending on your community's technical context, governance implementation may i
 		- Governance platforms (Snapshot, Tally, Commonwealth, etc.)
 		- Communication tools (Discord, Discourse, Telegram, etc.)
 		- Documentation systems (Charmverse, Notion, GitHub, etc.)
-		- Voting mechanisms (token-based, quadratic, reputation-based, etc.)  
+		- Voting mechanisms ([[token-based-governance]], [[quadratic-voting]], reputation-based, etc.)  
 
 3. **Implementation Approach**
 - Start with minimum viable governance tools as required by the phase of development
