@@ -116,7 +116,7 @@ Move to [[synthesis/synthesis|Synthesis]] to create your case study
 
 The framework is designed so insights naturally build across phases. Discovery findings inform intervention design. Intervention plans provide context for reflection. Reflections accumulate into synthesis. This flow eliminates redundancy while building comprehensive understanding.
 
-For detailed information about how knowledge moves between phases, see [[information-flow|Information Flow]].
+For detailed information about how knowledge moves between phases, see [[experiment-information-flow|Information Flow]].
 
 ## Remember
 
