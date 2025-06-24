@@ -220,7 +220,7 @@ Based on the purpose and high-level goals for the multi-stakeholder governance, 
 
 Document these requirements in a structured format that can be referenced throughout the design process.
 
-### 2. Define Governance Boundaries
+### Define Governance Boundaries
 Clearly delineate which decisions belong to each governance layer:
 *(Note - these are guidelines only you may want to formulate this differently)*
 
@@ -325,7 +325,7 @@ Implementation should follow a phased approach that allows for learning and adap
 
 ### State Documentation
 Throughout implementation, document the current state of governance to provide clarity and enable effective participation.
-Guidlines on what should go into a state document can be found in the [cell state template](notes/dao-primitives/patterns/collaboration-scale-patterns/cell-state-template.md) and [cell state pattern](notes/dao-primitives/patterns/collaboration-scale-patterns/cell-state.md).
+Guidlines on what should go into a state document can be found in the [cell state template](group-state-template.md) and [cell state pattern](notes/dao-primitives/patterns/collaboration-scale-patterns/cell-state.md).
 Following some simple principles in how you document the design on the multi-stakeholder governance structure will help people to engage in coherent useful ways
 
 **Documentation Principles**

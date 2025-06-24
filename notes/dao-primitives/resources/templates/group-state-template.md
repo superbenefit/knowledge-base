@@ -19,7 +19,7 @@ For instruction on how to use this template please refer to the [cell-state](not
 
 ## Front matter
 
-**Cell name:**
+**Group name:**
 - 
 **Date of creation:**
 - 
@@ -34,7 +34,7 @@ For instruction on how to use this template please refer to the [cell-state](not
 **Purpose/problem**
 - 
 
-**Genesis of the Cell**
+**Genesis of the Group**
  - 
 
 **Goals**

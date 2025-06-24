@@ -11,6 +11,8 @@ type: note
 
 Specific, coordinated actions or duties assigned to roles or agents within decentralized systems.
 
+See [[tags/tasks|tasks]]
+
 %% Introduce the Tasks primitive here. %%
 
 ---

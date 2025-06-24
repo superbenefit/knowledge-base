@@ -192,7 +192,7 @@ AND (
 ### Implementation
 
 **Template** 
-[Group-state-template](notes/dao-primitives/patterns/collaboration-scale-patterns/cell-state-template.md)
+[Group-state-template](group-state-template.md)
 - Use this template as a starting point for designing an appropriate group state document for a team. Select categories to include from the Components of Group State section and base
 
 There are several variables that will influence what and how much detail a team will choose to include in it's group state. These can include:
