@@ -28,7 +28,11 @@ This guide draws from the DAO Primitives Framework and utilizes many of the docu
 
 This process will very and its dip and rigger based on the scale and phase of the group that is being facilitated. For example, setting up a single cell within an existing tile structure could be a relatively fast process because you are dealing with a small collaboration scale team making mostly internal decisions about how it will structure and govern itself. At the other end of the spectrum however, if you're dealing with a large group looking to establish a DAO, this process group facilitation process will be much more involved with a much more complex structure needing to be designed and broader sense-making and design needing to be sourced from a much larger group of stakeholders. 
 
-This facilitation guide is deliberately high-level, framing what is required for groups across this spectrum. This approach can then be narrowed in to scale and phase specific guides and pattens available in the SuperBenefit knowledge base.   
+1. **Assessing Context**: Understanding the group's current phase, scale, and state
+2. **Identifying Needs**: Determining the most pressing challenges and opportunities
+3. **Selecting Patterns**: Choosing appropriate organizational patterns from the [Pattern Library](notes/dao-primitives/implementation/patterns/patterns.md)
+4. **Implementing Solutions**: Adapting and applying these patterns to the specific context
+5. **Evolving & Iterating**: Continuously refining the approach based on feedback
 
 ---
 

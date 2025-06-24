@@ -14,7 +14,7 @@ publish: "true"
 
 The Conversation Phase represents the foundational [group-phase](notes/dao-primitives/framework/group-phase/group-phase.md) of development within decentralized networks, characterized by open exploration, idea generation, and relationship building. During this phase, potential collaborators gather around areas of shared interest to explore possibilities before formal structures or commitments are established. The primary goal is to establish shared context, build relationships, and develop a collective vision that can inspire and guide future collaboration.
 
-At a high-level the activities of a Conversation phase group can be described as "Discovery". This can often manifest as a formal [[discovery-process]], resulting in a discovery report being an indicator that the group has completed the Conversation phase of its development. 
+At a high-level the activities of a Conversation phase group can be described as "Discovery". This can often manifest as a formal [[drafts/pdf-old/old-original-structure/discovery/discovery]], resulting in a discovery report being an indicator that the group has completed the Conversation phase of its development. 
 
 When the conversation phase is complete, a group is ready to move on to the [[notes/dao-primitives/framework/group-phase/formation|formation]] phase. 
 
@@ -60,7 +60,7 @@ A conversation phase group may be ready to evolve to a more structured [formatio
 - Participants express readiness to make concrete contributions toward shared goals.
 - The need for more defined roles and processes becomes apparent to enable effective coordination.
 - Resources or other forms of coordination are required that entail making a proposal to the wider community, that will require group formalization. 
-- Often this phase will culminate in the completion of a formal [[discovery-process]] and the preparation of a discovery report. 
+- Often this phase will culminate in the completion of a formal [[drafts/pdf-old/old-original-structure/discovery/discovery]] and the preparation of a discovery report. 
 
 ## Tools and Practices
 
@@ -80,7 +80,7 @@ No specific communication infrastructure is necessary but utilizing platforms th
 - **Documentation Rituals:** Light-weight practices for capturing key insights, decisions, and open questions to maintain collective memory.
 - **Diverge-Converge Cycles:** Alternating between expansive thinking (generating options) and focusing (making sense of what's emerging).
 - **Progress sharing:** Using tools like AI meeting summary bots and then posting meeting notes in public channels help community members to see what progress is being made and where they might be able to contribute to a group's progress.  
-- **Utilizing formal processes:** Documents like [experiment-facilitation-framework](notes/dao-primitives/implementation/guides/experiment-facilitation-framework.md) can support a conversation phase team to move an idea forward from broad starting point, to something that can be formally proposed and moved forward. 
+- **Utilizing formal processes:** Documents like [experiment-facilitation-framework](experiment-facilitation-framework.md) can support a conversation phase team to move an idea forward from broad starting point, to something that can be formally proposed and moved forward. 
 
 
 

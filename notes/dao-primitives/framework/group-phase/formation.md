@@ -27,7 +27,7 @@ When the formation phase is complete, a group is ready to move on to the [organi
 * **Purpose Definition:** The group works from the clear, specific purpose statement that emerged in the [[notes/dao-primitives/framework/group-phase/conversation|conversation]] phase. This defines its reason for existence and intended contribution to the broader network. 
 * **Structured Decision-Making:** Simple but formal decision processes begin to replace purely informal consensus, enabling clearer accountability and execution. 
 * **Initial Agreements:** Members make explicit commitments about participation, contributions, and shared expectations, establishing the basis for mutual accountability. 
-* **Lightweight Documentation:** The group develops basic documentation of its purpose, practices, and progress through an initial [cell state](notes/dao-primitives/patterns/collaboration-scale-patterns/cell-state.md) or nucleus document. 
+* **Lightweight Documentation:** The group develops basic documentation of its purpose, practices, and progress through an initial [cell state](cell-state.md) or nucleus document. 
 * **Resource Planning:** Initial budgets, timelines, and resource needs are identified and documented to support formal proposals for funding or support. 
 * **Minimal Role Definition:** Core roles and responsibilities emerge and are assigned, though these remain somewhat fluid and may evolve substantially. 
 * **Team Formation:** The self-selected group solidifies into an identifiable team with shared commitments, moving beyond loose association.

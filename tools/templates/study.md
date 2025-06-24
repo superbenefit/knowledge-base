@@ -9,7 +9,7 @@ publish: "false"
 type: study
 case: 
 ---
-%% This template creates a case study documenting real-world implementation of DAO patterns, primitives, or approaches. Use it to capture empirical evidence and concrete examples that validate theoretical concepts. The structure guides you through documenting the background context, implementation process, outcomes, and lessons learned from practical application. %%
+%% This template creates a case study documenting real-world implementation of DAO patterns, primitives, or approaches. Use it to capture empirical evidence and concrete examples that validate theoretical concepts. The structure guides you through documenting the background context, transformation process, outcomes, and lessons learned from practical application. %%
 
 <% tp.frontmatter.description %>
 
@@ -25,33 +25,31 @@ case:
 
 %% 
 - **Challenge**: What problem, limitation, or gap was the organization facing?
-- **Goals**: What were the intended outcomes or objectives of adopting the web3 tool, protocol, or practice?
+- **Goals**: What were the intended outcomes or objectives of the change effort?
 - **Setting**: Provide relevant context, such as geographic location, community demographics, or operating environment.
  %%
  
 ---
 
-## Selected Tool/Practice/Pattern
+## Approach
 
 %% 
-- **Name of the Tool/Practice**: e.g., DAO governance model, quadratic funding, decentralized identity.
-- **Description**: Brief explanation of the chosen solution and its relevance to the organization’s goals.
-- **Rationale for Selection**: Why was this solution chosen over others? Mention specific criteria (e.g., scalability, inclusivity, ease of adoption).
+- **What We Tried**: Name and describe the specific tool, practice, or pattern implemented (e.g., DAO governance model, quadratic funding, decentralized identity).
+- **Why This Approach**: Explain why this solution was chosen - what made it suitable for the context and goals.
+- **Key Adaptations**: How was the approach modified or customized for this specific situation?
  %%
 
 ---
 
-## Implementation Journey
+## Transformation Story
 
 %% 
-- **Planning Phase**:
-    - Initial assessment and design process.
-    - Stakeholder engagement and buy-in.
-- **Deployment**:
-    - Steps taken to implement the tool or practice.
-    - Timeline of key milestones.
-    - Challenges encountered and how they were addressed.
-- **Team Involved**: Who was part of the implementation? Include roles, expertise, and community participation.
+Tell the story of how change unfolded. Consider including:
+- **Key Moments**: What were the turning points or breakthrough moments?
+- **The Journey**: How did the transformation evolve over time? What phases or stages emerged?
+- **People & Relationships**: How did stakeholders experience the change? What shifted in how people worked together?
+- **Challenges & Breakthroughs**: What obstacles arose and how were they navigated? What surprised you?
+- **Emerging Patterns**: What unexpected developments or insights emerged along the way?
  %%
 
 ---

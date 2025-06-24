@@ -19,11 +19,11 @@ Web3 systems introduce new paradigms for resource management through mechanisms 
 
 In the DAO Primitives Framework, resources are fundamental building blocks that enable coordinated action. They include financial assets (like treasury funds), technical infrastructure, community attention, and knowledge capabilities that DAOs can leverage to achieve their purpose. The framework emphasizes that effective resource allocation through transparent and participatory processes is essential for decentralized organizations to coordinate efficiently across different scales.
 
-### [[links/Anticapture|Anticapture]]
+### [[Anticapture|Anticapture]]
 
-In [[links/Anticapture|Anticapture]], _resources_ are defined as anything that can be used to achieve desired outcomes, including tangible assets like food, money, and energy, as well as intangible ones like attention and social reputation. The term distinguishes between _private resources_, controlled by a single [[tags/agents|agents]], and _shared resources_, governed by a network of agents. Shared resources are particularly vulnerable to capture, making decentralized governance essential to protect them from misuse or control by bad actors
+In [[Anticapture|Anticapture]], _resources_ are defined as anything that can be used to achieve desired outcomes, including tangible assets like food, money, and energy, as well as intangible ones like attention and social reputation. The term distinguishes between _private resources_, controlled by a single [[tags/agents|agents]], and _shared resources_, governed by a network of agents. Shared resources are particularly vulnerable to capture, making decentralized governance essential to protect them from misuse or control by bad actors
 
-![[links/Anticapture#^f53fa2]]
+![[Anticapture#^f53fa2]]
 
 ### In Web3 Governance
 

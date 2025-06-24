@@ -32,5 +32,5 @@ Whether you’re seeking inspiration, knowledge, or actionable frameworks, this 
 ## Related Resources
 
 * **[Community Notes](notes.md):** Explore our active workspace of ideas under development.
-* **[Patterns](notes/dao-primitives/patterns/patterns.md):** Proven solutions and strategies for organizational challenges.
+* **[Patterns](notes/dao-primitives/implementation/patterns/patterns.md):** Proven solutions and strategies for organizational challenges.
 * **[Links](links/links.md):** Curated external resources that inform and enrich our work.
