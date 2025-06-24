@@ -119,5 +119,8 @@ For those implementing a DAO or similar decentralized organization, the primitiv
 %% Begin Waypoint %%
 - **[framework](./framework/framework.md)**
 - **[implementation](./implementation/implementation.md)**
+- **resources**
+  - **templates**
+    - [Group State Template](./resources/templates/group-state-template.md)
 
 %% End Waypoint %%
