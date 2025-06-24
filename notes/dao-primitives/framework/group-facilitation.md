@@ -20,7 +20,7 @@ This guide helps facilitators navigate to use the DAO Primitives Framework to su
 
 # I. Introduction: Facilitating Using the DAO Primitives
 
-This guide draws from the DAO Primitives Framework and utilizes many of the documents and tools in the framework. I works through 3 basic steps in the facilitation flow; Discover, Design & Implement
+This guide draws from the DAO Primitives Framework and utilizes many of the documents and tools in the framework. I works through 3 basic steps in the facilitation flow; Discover, Design & Implement:
 
 1. **Discover** learn about the group and understand the starting context 
 2. **Design** governance and operational structure using organizational primitives and patterns
