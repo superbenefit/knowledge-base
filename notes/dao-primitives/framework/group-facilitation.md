@@ -212,5 +212,3 @@ Technical
 - Facilitation support through SuperBenefit network
 - Pattern contributions and adaptations
 - Framework evolution and updates
-
-test
