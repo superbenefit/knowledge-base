@@ -11,6 +11,9 @@ type: note
 
 Small autonomous teams that form the basic organizational units in DAO networks.
 
+See [[cell-working-group]]
+
+
 %% Introduce the Cells primitive here. %%
 
 ---
