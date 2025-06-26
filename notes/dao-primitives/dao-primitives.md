@@ -117,6 +117,7 @@ For those implementing a DAO or similar decentralized organization, the primitiv
 ## DAO Primitives Index
 
 %% Begin Waypoint %%
+<<<<<<< HEAD
 - **[[framework]]**
   - [[group-facilitation|DAO Primitives Group Facilitation Guide]]
   - **[[group-phase]]**
@@ -157,5 +158,12 @@ For those implementing a DAO or similar decentralized organization, the primitiv
 - **[[resources]]**
   - **[[templates]]**
     - [[group-state-template]]
+=======
+- **[framework](./framework/framework.md)**
+- **[implementation](./implementation/implementation.md)**
+- **resources**
+  - **templates**
+    - [Group State Template](./resources/templates/group-state-template.md)
+>>>>>>> 663064cd38d67e830eebd434f497650a181cfac2
 
 %% End Waypoint %%
