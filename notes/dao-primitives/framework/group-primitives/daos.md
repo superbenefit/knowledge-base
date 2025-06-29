@@ -11,6 +11,9 @@ type: note
 
 Decentralized Autonomous Organizations as networks of small autonomous teams.
 
+See [[tags/daos|dao]]
+
+
 %% Introduce the DAOs primitive here. %%
 
 ---

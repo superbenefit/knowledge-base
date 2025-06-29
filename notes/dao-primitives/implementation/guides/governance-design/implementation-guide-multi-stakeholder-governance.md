@@ -220,7 +220,7 @@ Based on the purpose and high-level goals for the multi-stakeholder governance, 
 
 Document these requirements in a structured format that can be referenced throughout the design process.
 
-### 2. Define Governance Boundaries
+### Define Governance Boundaries
 Clearly delineate which decisions belong to each governance layer:
 *(Note - these are guidelines only you may want to formulate this differently)*
 

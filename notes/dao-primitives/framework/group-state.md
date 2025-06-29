@@ -55,11 +55,11 @@ Group state is also fractal, with Roles and Tasks _state_ rolling up into Cell _
 
 ### Group State Patterns 
 
-- [[cell-state]]
+- [[notes/dao-primitives/patterns/collaboration-scale-patterns/cell-state]]
 - [[dao state]]
 
 
 ### Group State Primitives
 
-- [[cell-state-template]]
+- [[group-state-template]]
 ---

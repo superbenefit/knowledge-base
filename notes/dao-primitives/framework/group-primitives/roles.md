@@ -11,6 +11,8 @@ type: note
 
 Sets of responsibilities, permissions, and accountabilities that enable coordination and specialization.
 
+See [[tags/roles|roles]]
+
 %% Introduce the Roles primitive here. %%
 
 ---

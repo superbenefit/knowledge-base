@@ -53,7 +53,7 @@ Collaboration scale groups gain their power from having a group of high-context 
 See the [[sense-making-facilitation-tools 1]] document for examples of enabling constraints approaches appropriate for collaboration scale.
 
 ### Collaboration Scale Patterns
-[[cell-state]]
+[[notes/dao-primitives/patterns/collaboration-scale-patterns/cell-state]]
 [[cell-working-group]]
 [[decider]]
 
