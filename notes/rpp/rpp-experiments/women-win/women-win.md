@@ -15,7 +15,7 @@ _Notes and other documents related to experiments with Women Win in the Reimagin
 ## Contents
 
 %% Begin Landmark %%
-- **[[women-win]]**
+
 
 %% End Landmark %%
 

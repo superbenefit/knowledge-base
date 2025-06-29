@@ -15,7 +15,7 @@ _Notes and other documents related to experiments with All In For Sport in the R
 ## Contents
 
 %% Begin Landmark %%
-- **[[all-in-for-sport]]**
+
 
 %% End Landmark %%
 
