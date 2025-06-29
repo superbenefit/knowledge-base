@@ -19,10 +19,20 @@ Here, you'll find:
 
 ## Project Workspaces
 
+%% Begin Waypoint %%
+- **[[notes]]**
+  - **[[aifs]]**
+  - **[[archive]]**
+    - **[[charmverse]]**
+    - **[[clarity]]**
+  - **[[dao-primitives]]**
+  - **[[ics]]**
+  - **[[links]]**
+    - **[[to-review]]**
+      - [[DAOstar|DAOstar]]
+  - **[[rpp]]**
 
-### [DAO Primitives Project](notes/dao-primitives/dao-primitives.md)
-
-This section explores the fundamental building blocks of effective organizations.  We investigate core concepts, frameworks for understanding organizational context, and the relationships between these building blocks and practical solutions.  Learn about governance mechanisms, operational functions, organizational structures, and coordination tools.
+%% End Waypoint %%
 
 ---
 

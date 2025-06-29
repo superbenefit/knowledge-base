@@ -109,7 +109,7 @@ Based on the chosen approach build out a governance and operational model based 
 - [[notes/dao-primitives/framework/group-primitives/roles|roles]] - for ongoing responsibilities and permissions
 - [[notes/dao-primitives/framework/group-primitives/tasks|tasks]] - for specific work deliverables
 
-Examples of using these primitives to compose governance and operational model can be found in [[case-studies]] e.g [[rpp-governance-design]].
+Examples of using these primitives to compose governance and operational model can be found in [[notes/dao-primitives/implementation/case-studies/case-studies]] e.g [[rpp-governance-design]].
 
 
 # HERE

@@ -1,0 +1,2 @@
+$OHM fork refers the protocol developed by [Olympus DAO](https://www.olympusdao.finance/), which enables development of a reserve currency backed a treasury of accumulated assets.
+It is in use by many other projects such as Klima and DIATOM

@@ -9,22 +9,7 @@ publish: "false"
 If you are working on one of these docs, please make sure that you are named as the author of the doc in the doc's front matter so people know who is working on it: `author: - your-name`
 
 %% Begin Waypoint %%
-- [[biofi|Bioregional Finance]]
-- [[burner-wallets|Burner Wallets]]
-- [[community-governance|Community Governnace Pattern [OUTLINE]]]
-- [[local-nodes|Local Nodes]]
-- [[multistakeholder-governance|Multi-Stakeholder Govenrance [OUTLINE]]]
-- [[municipal-mycofi|Municipal MycoFi [OUTLINE]]]
-- [[on-chain-vs.-off-chain-governance]]
-- [[operational-governance|Operational Govenance [OUTLINE]]]
-- [[optimistic-governance]]
-- [[partnership-governance|Partnership governance]]
-- [[privacy-payments|Privacy-Preserving Crypto Payments]]
-- [[quadratic-voting]]
-- [[rp-playbook|Reimagining Power Playbook [DRAFT OUTLINE]]]
-- [[social-finance|Decentralized Social Finance]]
-- [[token-based-governance]]
-- [[zero-knowledge-transfers|Zero-Knowledge Asset Transfers]]
+- **[[working-docs]]**
 
 %% End Waypoint %%
 

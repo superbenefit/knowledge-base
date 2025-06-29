@@ -15,6 +15,13 @@
       }
     },
     {
+      "query": "path:notes/archive  ",
+      "color": {
+        "a": 1,
+        "rgb": 8159619
+      }
+    },
+    {
       "query": "path:notes  ",
       "color": {
         "a": 1,
@@ -29,24 +36,17 @@
       }
     },
     {
-      "query": "path:library  ",
+      "query": "path:links",
       "color": {
         "a": 1,
         "rgb": 16080045
       }
     },
     {
-      "query": "path:drafts/OpenCivics-Wiki  ",
+      "query": "path:drafts  ",
       "color": {
         "a": 1,
-        "rgb": 12722685
-      }
-    },
-    {
-      "query": "path:drafts/sb-clarity  ",
-      "color": {
-        "a": 1,
-        "rgb": 8159619
+        "rgb": 5855849
       }
     }
   ],
@@ -56,10 +56,10 @@
   "nodeSizeMultiplier": 0.9421875,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.0240899357601713,
-  "repelStrength": 14.2469664525339,
-  "linkStrength": 0.603854389721627,
+  "centerStrength": 0.314418272662384,
+  "repelStrength": 20,
+  "linkStrength": 0.748394004282655,
   "linkDistance": 500,
-  "scale": 0.02371569173425241,
+  "scale": 0.19751682667430143,
   "close": true
 }

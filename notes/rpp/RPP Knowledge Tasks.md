@@ -15,7 +15,7 @@ kanban-plugin: board
 - [ ] Windfall Protocol primitive page
 	- [windfall-protocol](artifacts/primitives/windfall-protocol.md)
 - [ ] Create MycoFi pattern
-	- [municipal-mycofi](notes/rpp/working-docs/municipal-mycofi.md)
+	- [municipal-mycofi](municipal-mycofi.md)
 
 
 ## Planned
@@ -39,9 +39,9 @@ kanban-plugin: board
 
 - [ ] BioFi Pattern
 	
-	- [biofi](notes/rpp/working-docs/biofi.md)
+	- [biofi](biofi.md)
 - [ ] Privacy Payments Pattern
-	- [privacy-payments](notes/rpp/working-docs/privacy-payments.md)
+	- [privacy-payments](privacy-payments.md)
 
 
 ## Complete

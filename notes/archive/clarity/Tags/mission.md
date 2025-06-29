@@ -1,0 +1,1 @@
+To develop the social and financial flywheels that enable invention, investment, and acceleration of our purpose.
