@@ -488,7 +488,7 @@ Depending on your community's technical context, governance implementation may i
    * Governance platforms (Snapshot, Tally, Commonwealth, etc.)
    * Communication tools (Discord, Discourse, Telegram, etc.)
    * Documentation systems (Charmverse, Notion, GitHub, etc.)
-   * Voting mechanisms (token-based, quadratic, reputation-based, etc.)
+   * Voting mechanisms ([[token-based-governance]], [[quadratic-voting]], reputation-based, etc.)
 
 3. **Implementation Approach**
    * Start with minimum viable governance tools as required by the phase of development

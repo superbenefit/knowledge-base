@@ -117,45 +117,8 @@ For those implementing a DAO or similar decentralized organization, the primitiv
 ## DAO Primitives Index
 
 %% Begin Waypoint %%
-- **[[framework]]**
-  - [[group-facilitation|DAO Primitives Group Facilitation Guide]]
-  - **[[group-phase]]**
-    - [[completion]]
-    - [[conversation|Conversation Phase]]
-    - [[notes/dao-primitives/framework/group-phase/coordination]]
-    - [[formation]]
-    - [[organization]]
-  - **[[group-primitives]]**
-  - **[[group-scale]]**
-    - [[collaboration|Collaboration Scale]]
-    - [[constituency|Constituency Scale]]
-    - [[notes/dao-primitives/framework/group-phase/coordination|Coordination Scale]]
-    - [[network|Network Scale]]
-  - [[group-state|Group State]]
-- **[[implementation]]**
-  - **[[notes/dao-primitives/implementation/case-studies/case-studies]]**
-    - [[rpp-governance-design-study|Reimagining Power Project Governance Design]]
-  - **[[guides]]**
-    - **[[dao-state-guide]]**
-      - **[[template-alignment]]**
-        - [[alignment-improvement-workflow]]
-        - [[improvement-guidelines]]
-        - [[improvement-methodology]]
-        - [[improvement-plan]]
-        - [[sb-alignment-analysis-example]]
-        - [[sb-alignment-plan-example]]
-        - [[sb-alignment-review-example]]
-        - [[sb-bridging-plan-example]]
-    - [[experiment-facilitation-framework]]
-    - **[[governance-design]]**
-      - [[implementation-guide-community-governance]]
-      - [[implementation-guide-multi-stakeholder-governance|title]]
-      - [[implementation-guide-operational-governance|title]]
-    - [[sense-making-facilitation-tools 1]]
-    - [[sense-making-facilitation-tools]]
-  - **[[patterns]]**
-- **[[notes/dao-primitives/resources/resources]]**
-  - **[[notes/dao-primitives/resources/templates/templates]]**
-    - [[group-state-template|Group State Template]]
+- **[framework](./framework/framework.md)**
+- **[implementation](./implementation/implementation.md)**
+- **[resources](./resources/resources.md)**
 
 %% End Waypoint %%
