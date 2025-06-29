@@ -41,7 +41,7 @@ For social impact initiatives, privacy is often a critical requirement rather th
 - **Equity**: Preventing exploitation of vulnerable populations
 - **Trust**: Creating safe spaces for authentic participation
 
-The [Privacy-Preserving Crypto Payments](notes/rpp/working-docs/privacy-payments.md) pattern exemplifies how privacy technologies can support humanitarian work in challenging environments, enabling resource distribution while protecting participant identities.
+The [Privacy-Preserving Crypto Payments](privacy-payments.md) pattern exemplifies how privacy technologies can support humanitarian work in challenging environments, enabling resource distribution while protecting participant identities.
 
 ### Privacy as Collective Responsibility
 

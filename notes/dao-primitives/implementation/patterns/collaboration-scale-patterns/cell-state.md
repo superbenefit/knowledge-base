@@ -133,7 +133,7 @@ The tools and practices by which the team achieves and demonstrates progress. Th
 
 **Internal collaboration** - developing and maintaining a well defined group-state causes a team to reach agreement on important aspects of the groups purpose, goals and strategy, as well as internal processes for decision-making, resource allocation, compensation etc. This intentional alignment enhances the team's capability to navigate complex challenges while maintaining coherent action toward shared objectives.
 
-**External coordination** - the group-state nucleus document allows coordinating entities (other Cells, partners, [community governance](notes/rpp/working-docs/community-governance.md) etc) to easily understand what a Cell is trying to achieve, how it is operating internally and what work it is doing. This allows these external entities to make informed decisions about resource allocation and partnership opportunities based on the effectiveness and trustworthiness of the Cell.
+**External coordination** - the group-state nucleus document allows coordinating entities (other Cells, partners, [community governance](community-governance.md) etc) to easily understand what a Cell is trying to achieve, how it is operating internally and what work it is doing. This allows these external entities to make informed decisions about resource allocation and partnership opportunities based on the effectiveness and trustworthiness of the Cell.
 
 **Network scale transparency and intelligence** - A larger network view and collective intelligence can emerge based on Cells utilizing a consistent interoperable schema and tooling for group state.
 

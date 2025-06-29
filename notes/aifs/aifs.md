@@ -17,7 +17,7 @@ _Notes and other documents from All In For Sport_
 
 
 %% Begin Waypoint %%
-- **[[feedback]]**
+- **[[notes/aifs/feedback/feedback]]**
   - [[final-retro]]
   - [[pre-gathering-topics]]
   - [[retro-after-gathering-0]]

@@ -117,24 +117,23 @@ For those implementing a DAO or similar decentralized organization, the primitiv
 ## DAO Primitives Index
 
 %% Begin Waypoint %%
-<<<<<<< HEAD
 - **[[framework]]**
   - [[group-facilitation|DAO Primitives Group Facilitation Guide]]
   - **[[group-phase]]**
     - [[completion]]
     - [[conversation|Conversation Phase]]
-    - [[coordination]]
+    - [[notes/dao-primitives/framework/group-phase/coordination]]
     - [[formation]]
     - [[organization]]
   - **[[group-primitives]]**
   - **[[group-scale]]**
     - [[collaboration|Collaboration Scale]]
     - [[constituency|Constituency Scale]]
-    - [[coordination|Coordination Scale]]
+    - [[notes/dao-primitives/framework/group-phase/coordination|Coordination Scale]]
     - [[network|Network Scale]]
   - [[group-state|Group State]]
 - **[[implementation]]**
-  - **[[case-studies]]**
+  - **[[notes/dao-primitives/implementation/case-studies/case-studies]]**
     - [[rpp-governance-design-study|Reimagining Power Project Governance Design]]
   - **[[guides]]**
     - **[[dao-state-guide]]**
@@ -155,15 +154,8 @@ For those implementing a DAO or similar decentralized organization, the primitiv
     - [[sense-making-facilitation-tools 1]]
     - [[sense-making-facilitation-tools]]
   - **[[patterns]]**
-- **[[resources]]**
-  - **[[templates]]**
-    - [[group-state-template]]
-=======
-- **[framework](./framework/framework.md)**
-- **[implementation](./implementation/implementation.md)**
-- **resources**
-  - **templates**
-    - [Group State Template](./resources/templates/group-state-template.md)
->>>>>>> 663064cd38d67e830eebd434f497650a181cfac2
+- **[[notes/dao-primitives/resources/resources]]**
+  - **[[notes/dao-primitives/resources/templates/templates]]**
+    - [[group-state-template|Group State Template]]
 
 %% End Waypoint %%

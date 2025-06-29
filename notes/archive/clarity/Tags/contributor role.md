@@ -1,0 +1,1 @@
+**Definition:** Community members who have been approved by a Lead to contribute to a project or squad. Contributors have the opportunity to participate in governance and to be rewarded for their contributions.

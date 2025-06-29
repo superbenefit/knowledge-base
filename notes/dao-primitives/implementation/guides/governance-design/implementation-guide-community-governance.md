@@ -1,18 +1,19 @@
 ---
-title: Implementation Guide: Community Governance
+title: Implementation Guide for Community Governance
 description: A framework for designing, implementing, and evolving community governance structures using the DAO primitives approach
-author: yeoro.eth
-tags: 
+author:
+  - yeoro.eth
+tags:
   - dao-primitives
   - governance
   - implementation
-harvester: yeoro.eth
+harvester:
+  - yeoro.eth
 curator: 
-publish: "false"
+publish: false
 type: note
 ---
-
-# Implementation Guide: Setting up a Community Governance Structure Using the DAO Primitives Framework
+ # Implementation Guide: Setting up a Community Governance Structure Using the DAO Primitives Framework
 
 ## Introduction
 

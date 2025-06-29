@@ -15,13 +15,13 @@ These patterns provide practical implementations of the Cell primitive, describi
 ---
 
 %% Begin Waypoint %%
-- [cell-state-template](./cell-state-template.md)
-- [cell-state](./cell-state.md)
-- [cell-working-group](./cell-working-group.md)
-- [circle](./circle.md)
-- [decider](./decider.md)
-- [decision-log](./decision-log.md)
-- [ephemeral-cell](./ephemeral-cell.md)
-- [nucleus](./nucleus.md)
+- [[cell-state-template|Group State Template]]
+- [[cell-state|Cell state (pattern)]]
+- [[cell-working-group|Cell (working group)]]
+- [[circle|Circle]]
+- [[decider|Decider]]
+- [[decision-log|Decision log]]
+- [[ephemeral-cell|Ephemeral Cell]]
+- [[notes/dao-primitives/implementation/patterns/collaboration-scale-patterns/nucleus|Nucleus]]
 
 %% End Waypoint %%
