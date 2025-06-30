@@ -20,16 +20,17 @@ Here, you'll find:
 ## Project Workspaces
 
 %% Begin Waypoint %%
-- **[[aifs]]**
-- **[[archive]]**
-  - **[[charmverse]]**
-  - **[[clarity]]**
-- **[[dao-primitives]]**
-- **[[ics]]**
-- **[[links]]**
-  - **[[to-review]]**
-    - [[DAOstar|DAOstar]]
-- **[[rpp]]**
+- **[[notes]]**
+  - **[[aifs]]**
+  - **[[archive]]**
+    - **[[charmverse]]**
+    - **[[clarity]]**
+  - **[[dao-primitives]]**
+  - **[[ics]]**
+  - **[[links]]**
+    - **[[to-review]]**
+      - [[DAOstar|DAOstar]]
+  - **[[rpp]]**
 
 %% End Waypoint %%
 
