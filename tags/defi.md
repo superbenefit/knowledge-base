@@ -69,7 +69,7 @@ This approach encompasses:
 
 ### DeFi in Social Impact
 
-In the context of social impact initiatives, DeFi tools can enable more transparent, efficient, and equitable resource distribution. Privacy-preserving payment systems like those described in the [Privacy-Preserving Crypto Payments](notes/rpp/working-docs/privacy-payments.md) pattern demonstrate how DeFi mechanisms can be adapted to meet the needs of vulnerable communities while protecting participant security.
+In the context of social impact initiatives, DeFi tools can enable more transparent, efficient, and equitable resource distribution. Privacy-preserving payment systems like those described in the [Privacy-Preserving Crypto Payments](privacy-payments.md) pattern demonstrate how DeFi mechanisms can be adapted to meet the needs of vulnerable communities while protecting participant security.
 
 ## Related Concepts
 

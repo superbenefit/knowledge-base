@@ -7,7 +7,7 @@
   "debugLogging": false,
   "useWikiLinks": true,
   "useFrontMatterTitle": true,
-  "showEnclosingNote": false,
+  "showEnclosingNote": true,
   "folderNoteType": "INSIDE_FOLDER",
   "ignorePaths": [
     "_attachments",

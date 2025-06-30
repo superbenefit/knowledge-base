@@ -82,7 +82,7 @@ Key principles and concepts include:
 The DAO primitives framework provides fundamental building blocks for creating effective decentralized organizations:
 
 1. **DAOs** - the larger constituency scale community container that the operational governance operates inside
-2. **[[cells]]** - the basic operational unit in a DAO - a small autonomous team
+2. **[[notes/archive/clarity/Tags/cells]]** - the basic operational unit in a DAO - a small autonomous team
 3. **Roles** - which contain and manage specific responsibilities and sets of permissions
 4. **Tasks** - which are defined pieces of work/deliverable that individuals or teams can commit to delivering
 

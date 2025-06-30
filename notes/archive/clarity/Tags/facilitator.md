@@ -1,0 +1,1 @@
+The Facilitator is a named role in SuperBenefit DAO's governance. They are responsible to Facilitate the Circle's Tactical and Governance meetings. Every Circle should have a Facilitator.

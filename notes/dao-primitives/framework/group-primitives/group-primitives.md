@@ -15,9 +15,9 @@ These primitives are the fundamental building blocks that we use to create purpo
 ---
 
 %% Begin Waypoint %%
-- [cells](./cells.md)
-- [daos](./daos.md)
-- [roles](./roles.md)
-- [tasks](./tasks.md)
+- [[notes/dao-primitives/framework/group-primitives/cells|Cells (Primitive)]]
+- [[daos|DAOs (Primitive)]]
+- [[notes/dao-primitives/framework/group-primitives/roles|Roles (Primitive)]]
+- [[notes/dao-primitives/framework/group-primitives/tasks|Tasks (Primitive)]]
 
 %% End Waypoint %%

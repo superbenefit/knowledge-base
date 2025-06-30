@@ -79,7 +79,7 @@ At organization phase a group's state documentation should cover:
 - Theory of change or impact model if applicable 
 
 **Practice Elements:** 
-- Comprehensive team structure with detailed [[roles]]/[[tasks]] and responsibilities 
+- Comprehensive team structure with detailed [[tags/roles]]/[[tags/tasks]] and responsibilities 
 - Governance processes for different decision types 
 - Resource management protocols including treasury operations 
 - Meeting structures and communication frameworks 

@@ -15,6 +15,6 @@ These patterns provide practical implementations of the DAO primitive, describin
 ---
 
 %% Begin Waypoint %%
-- [dao-state](./dao-state.md)
+- [[dao-state]]
 
 %% End Waypoint %%

@@ -23,7 +23,7 @@ primitives:
   - agreements
   - proposals
 ---
-
+**
 This case study examines how SuperBenefit designed and implemented a layered multi-stakeholder governance model for the Reimagining Power Project (RPP) using the DAO Primitives framework. The design successfully balanced stakeholder oversight with operational autonomy while enabling effective coordination across organizational boundaries, creating a structure that supported both purpose alignment and efficient execution.
 
 ---
@@ -32,7 +32,7 @@ This case study examines how SuperBenefit designed and implemented a layered mul
 
 ### The Reimagining Power Project
 
-The Reimagining Power Project (RPP) was conceived as an initiative to transform traditional power dynamics in philanthropy and social impact through decentralized technologies and governance innovations. The project aimed to create frameworks, playbooks, and practical tools that could enable more equitable distribution of decision-making power and resources in philanthropic contexts.
+The Reimagining Power Project (RPP) was conceived as an initiative to explore how we might transform traditional power dynamics in philanthropy and social impact through decentralized technologies and governance innovations. The project aimed to create frameworks, playbooks, and practical tools that could enable more equitable distribution of decision-making power and resources in philanthropic contexts.
 
 ### Challenge
 

@@ -1,18 +1,19 @@
 ---
-title: Implementation Guide: Community Governance
+title: Implementation Guide for Community Governance
 description: A framework for designing, implementing, and evolving community governance structures using the DAO primitives approach
-author: yeoro.eth
-tags: 
+author:
+  - yeoro.eth
+tags:
   - dao-primitives
   - governance
   - implementation
-harvester: yeoro.eth
+harvester:
+  - yeoro.eth
 curator: 
-publish: "false"
+publish: false
 type: note
 ---
-
-# Implementation Guide: Setting up a Community Governance Structure Using the DAO Primitives Framework
+ # Implementation Guide: Setting up a Community Governance Structure Using the DAO Primitives Framework
 
 ## Introduction
 
@@ -484,7 +485,7 @@ Depending on your community's technical context, governance implementation may i
    * Ensure technical accessibility for all stakeholder groups
 
 2. **Tool Selection**
-   * Governance platforms (Snapshot, Tally, Commonwealth, etc.)
+   * [[governance-platforms]] (Snapshot, Tally, Commonwealth, etc.)
    * Communication tools (Discord, Discourse, Telegram, etc.)
    * Documentation systems (Charmverse, Notion, GitHub, etc.)
    * Voting mechanisms ([[token-based-governance]], [[quadratic-voting]], reputation-based, etc.)

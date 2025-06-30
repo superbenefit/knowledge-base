@@ -14,15 +14,15 @@ Decentralized governance in the context of Web3 and [DAOs](tags/daos.md) refers 
 
 ## Types of Governance
 
-### [Community Governance](notes/rpp/working-docs/community-governance.md)
+### [Community Governance](community-governance.md)
 
 Operates at [Constituency Scale](tags/groups/scale/Constituency%20Scale.md) to safeguard and evolve the network's overarching purpose. Community governance includes a broad base of stakeholders who may not be directly involved in operations but are aligned with the network's purpose. It uses slower, more deliberative mechanisms like conviction voting and optimistic governance to make long-term decisions about network direction and treasury allocation.
 
-### [Operational Governance](notes/rpp/working-docs/operational-governance.md)
+### [Operational Governance](operational-governance.md)
 
 Functions at [Coordination Scale](tags/groups/scale/Coordination%20Scale.md) to enable effective day-to-day operations and resource allocation. Built on sociocratic structures where [Cells](test-pattern.md) (small autonomous teams) coordinate their activities. Operational governance provides the flexibility and autonomy needed for teams to execute effectively while maintaining coordination across the network.
 
-### [Multi-Stakeholder Governance](notes/rpp/working-docs/multistakeholder-governance.md)
+### [Multi-Stakeholder Governance](multistakeholder-governance.md)
 
 Focuses on aligning key stakeholder interests and managing relationships between different participants in the network. This includes coordinating between active contributors, token holders, users, and other parties who have a direct stake in the network's success. Stakeholder governance helps balance competing interests while maintaining alignment with the network's purpose.
 

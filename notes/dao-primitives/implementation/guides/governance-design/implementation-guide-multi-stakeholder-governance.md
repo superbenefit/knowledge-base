@@ -119,7 +119,7 @@ The DAO primitives framework provides fundamental building blocks for creating e
 
 The framework defines 4 organizational primitive structures:
 1. **DAOs** - the larger constituency scale community container that the operational governance operates inside
-2. **Cells** - the basic operational unit in a DAO - a small autonomous team
+2. **[[notes/dao-primitives/framework/group-primitives/cells|cells]]** - the basic operational unit in a DAO - a small autonomous team
 3. **Roles** - which contain and manage specific responsibilities and sets of permissions
 4. **Tasks** - which are defined pieces of work/deliverable that individuals or teams can commit to delivering
 
@@ -261,7 +261,7 @@ Clearly delineate which decisions belong to each governance layer:
 5. Document core information in a [Cell state](cell-state.md)
 
 #### Stakeholder Group and TLC Coordination
-1. Set up optimistic governance agreements and processes 
+1. Set up [[optimistic-governance]] agreements and processes 
 	- Create standardized proposal template
 	- Set review period, feedback process, quorum etc
 	- Define valid rejection criteria
@@ -316,7 +316,7 @@ Implementation should follow a phased approach that allows for learning and adap
 	- Establish communication channels and other coordination tooling
 
 #### Phase 4: Coordination
-- SHG and TLC ongoing cadence of meetings for updates and collaboration 
+- SHG and TLC ongoing cadence of meetings for updates and collaboration
 - TLC expands the operational structure as needed
 - Ongoing budget proposals put up by TLC to SHG
 - Operational network recruits contributors and partners from across wider community network
@@ -337,12 +337,12 @@ Following some simple principles in how you document the design on the multi-sta
 
 
 ### Technical Implementation
-Implementing your multi-stakeholder governance will involve the selection of several different tools and platforms to make it work successfully. 
+Implementing your multi-stakeholder governance will involve the selection of several different tools and platforms to make it work successfully.
 
 If you are setting up multi-stakeholder governance inside an existing DAO or other network, there will already be established tools and practices used by the community. I this case it would likely make sense to utilize these. 
 
 #### Technical Considerations
-1. **On-Chain vs. Off-Chain Governance**
+1. **[[on-chain-vs.-off-chain-governance]]**
 - Determine which governance elements require blockchain properties and which can be better done off-chain 
 - Consider speed and costs involved in using on-chain tools
 - Ensure technical accessibility for all participants
