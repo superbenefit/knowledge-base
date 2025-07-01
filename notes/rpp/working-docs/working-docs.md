@@ -9,7 +9,7 @@ publish: "false"
 If you are working on one of these docs, please make sure that you are named as the author of the doc in the doc's front matter so people know who is working on it: `author: - your-name`
 
 %% Begin Waypoint %%
-- **[[working-docs]]**
+
 
 %% End Waypoint %%
 

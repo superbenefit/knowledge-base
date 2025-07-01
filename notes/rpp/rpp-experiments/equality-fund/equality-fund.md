@@ -15,7 +15,7 @@ _Notes and other documents related to experiments with Equality Fund in the Reim
 ## Contents
 
 %% Begin Landmark %%
-- **[[equality-fund]]**
+
 
 %% End Landmark %%
 

@@ -9,7 +9,7 @@ publish: "false"
 type: note
 ---
 %% Begin Waypoint %%
-- **[[charmverse]]**
+
 
 %% End Waypoint %%
 

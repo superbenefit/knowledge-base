@@ -15,7 +15,7 @@ _Notes and other documents related to experiments with the Institute for Communi
 ## Contents
 
 %% Begin Landmark %%
-- **[[the-ics]]**
+
 
 %% End Landmark %%
 

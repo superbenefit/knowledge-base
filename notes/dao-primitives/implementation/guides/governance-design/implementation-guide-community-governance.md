@@ -485,7 +485,7 @@ Depending on your community's technical context, governance implementation may i
    * Ensure technical accessibility for all stakeholder groups
 
 2. **Tool Selection**
-   * Governance platforms (Snapshot, Tally, Commonwealth, etc.)
+   * [[governance-platforms]] (Snapshot, Tally, Commonwealth, etc.)
    * Communication tools (Discord, Discourse, Telegram, etc.)
    * Documentation systems (Charmverse, Notion, GitHub, etc.)
    * Voting mechanisms ([[token-based-governance]], [[quadratic-voting]], reputation-based, etc.)

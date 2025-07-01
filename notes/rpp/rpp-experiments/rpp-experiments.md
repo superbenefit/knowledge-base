@@ -14,10 +14,9 @@ _Notes and other documents related to experiments in the Reimagining Power proje
 ## Contents
 
 %% Begin Waypoint %%
-- **[[rpp-experiments]]**
-  - **[[all-in-for-sport]]**
-  - **[[equality-fund]]**
-  - **[[the-ics]]**
-  - **[[women-win]]**
+- **[[all-in-for-sport]]**
+- **[[equality-fund]]**
+- **[[the-ics]]**
+- **[[women-win]]**
 
 %% End Waypoint %%
