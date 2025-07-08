@@ -9,13 +9,20 @@ This is a collaborative knowledge management system built for Obsidian, focused 
 ## Key Architecture & Concepts
 
 ### Content Type Hierarchy
-The knowledge base uses an inheritance-based type system defined in `tools/types/fileClasses/`:
-- `note` (base type) - All content inherits from this
-- `artifact` (extends note) - Published, refined content
-- `pattern`, `playbook`, `study` (extend artifact) - Specialized content types
-- `link` - External resources with commentary
-- `tag` - Lexicon entries defining shared vocabulary
-- `index` - Directory overview pages
+The knowledge base uses an inheritance-based type system defined in `tools/types/` with Metadata Menu plugin integration:
+- `note` (base type) - Foundation with core metadata fields (title, description, publish, harvester, curator)
+- `artifact` (extends note) - Published, refined content for collective understanding
+- `pattern`, `playbook`, `study` (extend artifact) - Specialized content types with additional fields
+- `link` - External resources with commentary and analysis
+- `tag` - Lexicon entries defining shared vocabulary and concepts
+- `index` - Directory navigation and overview pages
+
+### Type System Implementation
+Each content type is defined by:
+- **YAML schema** in `tools/types/fileClasses/` with field definitions and validation
+- **Corresponding template** in `tools/templates/` with matching frontmatter structure
+- **Workflow documentation** in `tools/workflows/` for creation and management processes
+- **Directory mapping** that determines which type applies to which folders
 
 ### Directory Structure & Purpose
 - `/artifacts/` - Published content representing collective understanding
@@ -34,20 +41,33 @@ Every document uses YAML frontmatter with fields defined in the type schemas:
 - `harvester`/`curator` - Attribution fields
 - `tags` - Cross-references to lexicon entries
 
-### Template Usage
+### Template & Workflow System
 Templates in `tools/templates/` use Templater syntax (`<% %>`) and include:
-- Pre-configured frontmatter matching type schemas
-- Content structure with section headers
-- Helper comments (`%% comment %%`) for guidance
+- **One-to-one mapping** between content types and templates
+- **Dynamic content generation** from frontmatter and file metadata
+- **Pre-configured frontmatter** matching type schemas exactly
+- **Structured content scaffolding** with section headers and guidance comments (`%% comment %%`)
+- **Integration with workflows** in `tools/workflows/` for standardized processes
+
+### Plugin Dependencies
+This system requires specific Obsidian plugins:
+- **Metadata Menu** - Type system management and metadata validation
+- **Templater** - Dynamic template content generation
+- **Dataview** - Content querying and organization
+- **Auto-update internal links** should be enabled in Obsidian settings
 
 ## Working with Content
 
 ### Creating New Content
-1. Use appropriate template from `tools/templates/`
-2. Place in correct directory based on content stage (drafts → notes → artifacts)
-3. Follow metadata schema for the content type
-4. Use wiki-links `[[]]` to connect related content
-5. Add relevant tags from the lexicon
+1. **Choose appropriate template** from `tools/templates/` based on content type
+2. **Place in correct directory** based on content stage and type:
+   - `/drafts/` → `note` type for early ideas
+   - `/notes/[project]/` → `note` type for collaborative work
+   - `/artifacts/[type]/` → specialized types (`pattern`, `playbook`, `study`)
+3. **Follow metadata schema** exactly as defined in `tools/types/fileClasses/`
+4. **Use wiki-links** `[[]]` to connect related content
+5. **Add relevant tags** from the lexicon (existing tags in `/tags/`)
+6. **Consult workflows** in `tools/workflows/` for process guidance
 
 ### Content Evolution Path
 1. **Draft Stage**: Personal research in `/drafts/`
@@ -77,17 +97,23 @@ Templates in `tools/templates/` use Templater syntax (`<% %>`) and include:
 - AIFS (All In For Sport): Web3 sports funding
 - RPP (Reimagining Power Project): Philanthropic transformation
 
-## Obsidian Integration
+## Technical Implementation
 
-This vault is designed for Obsidian with these key features:
-- Metadata Menu plugin for type management
-- Templater plugin for dynamic templates
-- Dataview plugin for content queries
-- Internal link auto-update should be enabled
+### File System Architecture
+- **Markdown-only repository** with no build/test/lint commands
+- **Git version control** for collaboration and content history
+- **No external dependencies** or package managers required
+- **Directory-based type mapping** determines content type automatically
 
-## Development Notes
+### Obsidian Integration Requirements
+- **Metadata Menu plugin** for type system functionality
+- **Templater plugin** for dynamic template processing
+- **Dataview plugin** for content organization and querying
+- **Internal link auto-update** must be enabled in Obsidian settings
+- **File path structure** must match type definitions for proper functionality
 
-- This is a markdown-only repository (no build/test/lint commands)
-- Version control via Git for collaboration
-- No external dependencies or package managers
-- Focus on content quality and interconnections over technical complexity
+### Content Management Principles
+- **Type inheritance** ensures consistent metadata across content hierarchy
+- **Template-schema alignment** maintains structural consistency
+- **Workflow integration** standardizes content creation and management processes
+- **Focus on content quality** and interconnections over technical complexity
