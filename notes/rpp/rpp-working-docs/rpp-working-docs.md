@@ -9,7 +9,6 @@ publish: "false"
 If you are working on one of these docs, please make sure that you are named as the author of the doc in the doc's front matter so people know who is working on it: `author: - your-name`
 
 %% Begin Waypoint %%
-<<<<<<< HEAD
 - **[[rpp-working-docs]]**
   - [[biofi|Bioregional Finance]]
   - [[burner-wallets|Burner Wallets]]
@@ -28,25 +27,6 @@ If you are working on one of these docs, please make sure that you are named as 
   - [[social-finance|Decentralized Social Finance]]
   - [[token-based-governance|Token-Based Governance]]
   - [[zero-knowledge-transfers|Zero-Knowledge Asset Transfers]]
-=======
-- [[biofi]]
-- [[burner-wallets]]
-- [[community-governance]]
-- [[governance-platforms]]
-- [[local-nodes]]
-- [[multistakeholder-governance]]
-- [[municipal-mycofi]]
-- [[on-chain-vs.-off-chain-governance]]
-- [[operational-governance]]
-- [[optimistic-governance]]
-- [[partnership-governance]]
-- [[privacy-payments]]
-- [[quadratic-voting]]
-- [[rp-playbook]]
-- [[social-finance]]
-- [[token-based-governance]]
-- [[zero-knowledge-transfers]]
->>>>>>> e4cef9f79dfda9bf9a97dd048c4db77188201431
 
 %% End Waypoint %%
 
