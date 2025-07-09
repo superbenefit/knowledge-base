@@ -34,7 +34,7 @@ In decentralized autonomous organizations, actions manifest through multiple mec
 - **Contributory actions**: Tasks and deliverables created by community members that advance the DAO's purpose
 - **Governance actions**: Processes like proposals, voting, and [delegation](tags/delegation.md) that shape the direction and rules of the organization
 
-What distinguishes actions in DAOs is their permissionless nature combined with transparent accountability. As noted in [Minimum Viable Permissionless-ness](Minimum%20Viable%20Permissionless-ness.md), the ability for participants to take autonomous action without prior approval—while still being accountable to the network—is fundamental to generating decentralized intelligence.
+What distinguishes actions in DAOs is their permissionless nature combined with transparent accountability. As noted in [Minimum Viable Permissionless-ness](artifacts/articles/network-evolution%201/Minimum%20Viable%20Permissionless-ness.md), the ability for participants to take autonomous action without prior approval—while still being accountable to the network—is fundamental to generating decentralized intelligence.
 
 ### Actions in Social Impact
 

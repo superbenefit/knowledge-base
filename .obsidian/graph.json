@@ -8,6 +8,13 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "path:tools  ",
+      "color": {
+        "a": 1,
+        "rgb": 6184542
+      }
+    },
+    {
       "query": "path:artifacts ",
       "color": {
         "a": 1,
@@ -19,6 +26,13 @@
       "color": {
         "a": 1,
         "rgb": 8159619
+      }
+    },
+    {
+      "query": "path:drafts  ",
+      "color": {
+        "a": 1,
+        "rgb": 5855849
       }
     },
     {
@@ -41,16 +55,9 @@
         "a": 1,
         "rgb": 16080045
       }
-    },
-    {
-      "query": "path:drafts  ",
-      "color": {
-        "a": 1,
-        "rgb": 5855849
-      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 0.9421875,
@@ -60,6 +67,6 @@
   "repelStrength": 20,
   "linkStrength": 0.748394004282655,
   "linkDistance": 500,
-  "scale": 0.19751682667430143,
-  "close": true
+  "scale": 0.011311979752309721,
+  "close": false
 }

@@ -13,7 +13,6 @@ aliases:
 publish: "false"
 type: guide
 ---
-
 # Community Connection & Commitment Commons: Voucher Flow Examples
 
 This document provides concrete examples of how Commitment Vouchers flow through the Community Connection & Commitment Commons system. These scenarios illustrate different patterns of exchange and show how members might use the system in practice.
