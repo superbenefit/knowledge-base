@@ -13,7 +13,7 @@ If you are working on one of these docs, please make sure that you are named as 
   - [[biofi|Bioregional Finance]]
   - [[burner-wallets|Burner Wallets]]
   - [[community-governance|Community Governnace Pattern [OUTLINE]]]
-  - [[governance-platforms|Zero-Knowledge Asset Transfers]]
+  - [[governance-platforms]]
   - [[local-nodes|Local Nodes]]
   - [[multistakeholder-governance|Multi-Stakeholder Govenrance [OUTLINE]]]
   - [[municipal-mycofi|Municipal MycoFi [OUTLINE]]]
