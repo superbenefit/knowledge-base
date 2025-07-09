@@ -29,3 +29,6 @@ drafts/
 
 #ignore smart connections
 .smart-env/
+
+# ignore Claude Code instructions
+CLAUDE.md

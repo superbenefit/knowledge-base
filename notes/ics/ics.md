@@ -21,63 +21,67 @@ type: note
 The Institute for Community Sustainability (ICS) is a federal not-for-profit organization based in London, Ontario in the Carolinian Canada bioregion. 
 
 %% Begin Waypoint %%
-- **[[about]]**
-  - [[ics-business-description]]
-  - [[ics-community-exchange|Community Exchange]]
-  - [[ics-discovery-report|ICS Discovery Report]]
-  - [[ics-experiment-scoping|ICS Experiment Scoping]]
-  - [[ics-implementation-plan|ICS Experiment Implementation Plan]]
-- **[[ccc]]**
-- **[[city-grant-reporting]]**
-  - [[0 - Full Year Data]]
-  - [[1 - Project Impact on Equity-Denied Groups]]
-  - [[2 - Supporting Anti-Racism and Inclusion]]
-  - [[3 - Community Impact Story]]
-  - [[4 - Additional Comments]]
-- [[earthfest-greenpill-booth]]
-- **[[gg23]]**
-  - [[gg23-project-description|GG23 Project Description]]
-  - [[gg23-shill-plan|GG23 Shill Plan]]
-  - **[[graphics]]**
-    - [[graphics-guide]]
-  - [[master-execution-plan]]
-  - **[[newsletters]]**
-    - [[ics-newsletter]]
-    - [[reimagine-newsletter]]
-  - **[[outreach]]**
-    - [[community-groups]]
-    - [[core-narrative]]
-    - [[newsletter-copy-updated]]
-    - [[newsletter-copy]]
-    - [[outreach-templates]]
-    - [[personal-templates]]
-    - [[priority-contacts]]
-    - [[team-template]]
-    - [[thank-you]]
-  - [[progress]]
-  - [[shill-plan]]
-  - **[[social-media]]**
-    - [[facebook-instagram-posts]]
-    - [[farcaster-strategy]]
-  - **[[tweets]]**
-    - [[additional-strategic-tweets]]
-    - [[core-tweets]]
-    - [[enhanced-tweets]]
-    - [[mention-tweets]]
-    - [[non-web3-audience-tweets]]
-    - [[transformative-impact-threads]]
-    - [[tweet-analysis]]
-    - [[twitter-threads]]
-  - [[updated-strategy-fixed]]
-  - [[updated-strategy]]
-  - **[[website]]**
-    - [[web3-page-content]]
-    - [[web3-page-updated]]
-    - [[web3-page]]
-    - [[website-analysis]]
-    - [[website-review]]
-- [[greenpill-london-application|Green Pill London - New Chapter Application]]
-- [[Web3 & Regenerative Finance]]
+- **[[ics]]**
+  - **[[about]]**
+    - [[ics-business-description]]
+    - [[ics-community-exchange|Community Exchange]]
+    - [[ics-discovery-report|ICS Discovery Report]]
+    - [[ics-experiment-scoping|ICS Experiment Scoping]]
+    - [[ics-implementation-plan|ICS Experiment Implementation Plan]]
+  - **[[ccc]]**
+  - **[[city-grant-reporting]]**
+    - [[0 - Full Year Data]]
+    - [[1 - Project Impact on Equity-Denied Groups]]
+    - [[2 - Supporting Anti-Racism and Inclusion]]
+    - [[3 - Community Impact Story]]
+    - [[4 - Additional Comments]]
+  - [[earthfest-greenpill-booth]]
+  - **[[gg23]]**
+    - [[gg23-project-description|GG23 Project Description]]
+    - [[gg23-shill-plan|GG23 Shill Plan]]
+    - **[[graphics]]**
+      - [[graphics-guide]]
+    - [[master-execution-plan]]
+    - **[[newsletters]]**
+      - [[ics-newsletter]]
+      - [[reimagine-newsletter]]
+    - **[[outreach]]**
+      - [[community-groups]]
+      - [[core-narrative]]
+      - [[newsletter-copy-updated]]
+      - [[newsletter-copy]]
+      - [[outreach-templates]]
+      - [[personal-templates]]
+      - [[priority-contacts]]
+      - [[team-template]]
+      - [[thank-you]]
+    - [[progress]]
+    - [[shill-plan]]
+    - **[[social-media]]**
+      - [[facebook-instagram-posts]]
+      - [[farcaster-strategy]]
+    - **[[tweets]]**
+      - [[additional-strategic-tweets]]
+      - [[core-tweets]]
+      - [[enhanced-tweets]]
+      - [[mention-tweets]]
+      - [[non-web3-audience-tweets]]
+      - [[transformative-impact-threads]]
+      - [[tweet-analysis]]
+      - [[twitter-threads]]
+    - [[updated-strategy-fixed]]
+    - [[updated-strategy]]
+    - **[[website]]**
+      - [[web3-page-content]]
+      - [[web3-page-updated]]
+      - [[web3-page]]
+      - [[website-analysis]]
+      - [[website-review]]
+  - [[greenpill-london-application|Green Pill London - New Chapter Application]]
+  - **[[rpp-reporting]]**
+    - [[continuation-prompt]]
+    - [[ics-experiment-reflection-draft]]
+  - [[Web3 & Regenerative Finance]]
 
 %% End Waypoint %%
 

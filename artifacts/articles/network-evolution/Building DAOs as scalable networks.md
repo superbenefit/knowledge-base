@@ -144,6 +144,6 @@ _We are learning as these experiments evolve and are deeply appreciative of the 
 
 ### Article Series
 
-- Previous: [Minimum Viable Permissionless-ness](Minimum%20Viable%20Permissionless-ness.md)
+- Previous: [Minimum Viable Permissionless-ness](artifacts/articles/network-evolution/Minimum%20Viable%20Permissionless-ness.md)
     
 - Next: …coming soon…
