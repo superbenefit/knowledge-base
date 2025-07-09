@@ -10,6 +10,10 @@ type: index
 
 These primitives are the fundamental building blocks that we use to create purpose aligned networks of small autonomous teams. 
 
+This is a network - the network has nodes and edges. The primitives we list here are entities and relationships. 
+
+As we build networks we need to design in entities and relationships - we are using these primitives as descriptions for these entities and relationships 
+
 %% This file serves as an index and overview of the core primitives in the DAO Primitives framework. %%
 
 ---
