@@ -21,6 +21,9 @@ _Notes and other documents from the Reimagining Power project at SuperBenefit_
   - **[[rpp-archive]]**
   - **[[rpp-experiments]]**
   - **[[rpp-playbooks]]**
+    - [[Playbook Reflections & Context]]
+    - [[Playbooks Initial Planning Meeting]]
+    - [[RPP Playbook Visioning Session]]
     - [[rpp_playbook_context_capture]]
   - **[[rpp-working-docs]]**
   - **[[working-docs]]**
