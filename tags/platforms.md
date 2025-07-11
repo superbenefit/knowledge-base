@@ -29,7 +29,7 @@ Key examples include layer-1 blockchains like Ethereum that provide foundational
 
 In the context of Decentralized Autonomous Organizations, platforms provide the technical and social infrastructure for coordination across different scales and functions. They enable the creation and operation of governance processes, resource allocation mechanisms, and collaboration tools that allow DAOs to function effectively without traditional hierarchical management.
 
-As described in [Building DAOs as scalable networks](Building%20DAOs%20as%20scalable%20networks.md), platforms support multicameral DAO governance by providing infrastructure for both community-level decision-making and operational coordination between working groups. These platforms combine technological components (like voting systems and treasury management tools) with social coordination mechanisms to enable effective decentralized action.
+As described in [Building DAOs as scalable networks](artifacts/articles/network-evolution%201/Building%20DAOs%20as%20scalable%20networks.md), platforms support multicameral DAO governance by providing infrastructure for both community-level decision-making and operational coordination between working groups. These platforms combine technological components (like voting systems and treasury management tools) with social coordination mechanisms to enable effective decentralized action.
 
 ### Platforms in the DAO Primitives Framework
 

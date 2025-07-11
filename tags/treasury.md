@@ -31,7 +31,7 @@ As highlighted in [[notes/links/to-review/A Pocket Guide to DAO Frameworks]], di
 
 ### As the Engine of Scalable Operations
 
-In scalable network models, as described in [[Building DAOs as scalable networks]], the treasury is the critical resource that fuels the entire system. It is managed through a multi-layered governance approach:
+In scalable network models, as described in [[artifacts/articles/network-evolution 1/Building DAOs as scalable networks]], the treasury is the critical resource that fuels the entire system. It is managed through a multi-layered governance approach:
 - **Community Governance** acts as a safeguard, holding ultimate authority by approving the overall operational budget from the main treasury. This ensures all operations remain aligned with the network's long-term purpose.
 - **Operational Governance**, carried out by coordinating [[test-pattern|Cells]], then has the autonomy to allocate this budgeted capital to specific projects and contributors, enabling agility and innovation at the team scale.
 
