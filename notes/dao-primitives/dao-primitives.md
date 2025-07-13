@@ -117,45 +117,47 @@ For those implementing a DAO or similar decentralized organization, the primitiv
 ## DAO Primitives Index
 
 %% Begin Waypoint %%
-- **[[framework]]**
-  - [[group-facilitation|DAO Primitives Group Facilitation Guide]]
-  - **[[group-phase]]**
-    - [[completion]]
-    - [[conversation|Conversation Phase]]
-    - [[coordination]]
-    - [[formation]]
-    - [[organization]]
-  - **[[group-primitives]]**
-  - **[[group-scale]]**
-    - [[collaboration|Collaboration Scale]]
-    - [[constituency|Constituency Scale]]
-    - [[coordination|Coordination Scale]]
-    - [[network|Network Scale]]
-  - [[group-state|Group State]]
-- **[[implementation]]**
-  - **[[case-studies]]**
-    - [[rpp-governance-design-study|Reimagining Power Project Governance Design]]
-  - **[[guides]]**
-    - **[[dao-state-guide]]**
-      - **[[template-alignment]]**
-        - [[alignment-improvement-workflow]]
-        - [[improvement-guidelines]]
-        - [[improvement-methodology]]
-        - [[improvement-plan]]
-        - [[sb-alignment-analysis-example]]
-        - [[sb-alignment-plan-example]]
-        - [[sb-alignment-review-example]]
-        - [[sb-bridging-plan-example]]
-    - [[experiment-facilitation-framework]]
-    - **[[governance-design]]**
+- **[[dao-primitives]]**
+  - **[[framework]]**
+    - [[group-facilitation|DAO Primitives Group Facilitation Guide]]
+    - **[[group-phase]]**
+      - [[completion]]
+      - [[conversation|Conversation Phase]]
+      - [[coordination]]
+      - [[formation]]
+      - [[organization]]
+    - **[[group-primitives]]**
+    - **[[group-scale]]**
+      - [[collaboration|Collaboration Scale]]
+      - [[constituency|Constituency Scale]]
+      - [[coordination|Coordination Scale]]
+      - [[network|Network Scale]]
+    - [[group-state|Group State]]
+  - **[[implementation]]**
+    - **[[case-studies]]**
+      - [[rpp-governance-design-study|Reimagining Power Project Governance Design]]
+    - **[[guides]]**
+      - **[[dao-state-guide]]**
+        - **[[template-alignment]]**
+          - [[alignment-improvement-workflow]]
+          - [[improvement-guidelines]]
+          - [[improvement-methodology]]
+          - [[improvement-plan]]
+          - [[sb-alignment-analysis-example]]
+          - [[sb-alignment-plan-example]]
+          - [[sb-alignment-review-example]]
+          - [[sb-bridging-plan-example]]
+      - [[experiment-facilitation-framework]]
+      - **[[governance-design]]**
+        - [[implementation-guide-community-governance|Implementation Guide for Community Governance]]
+        - [[implementation-guide-multi-stakeholder-governance|title]]
+        - [[implementation-guide-operational-governance|title]]
       - [[implementation-guide-community-governance]]
-      - [[implementation-guide-multi-stakeholder-governance|title]]
-      - [[implementation-guide-operational-governance|title]]
-    - [[sense-making-facilitation-tools 1]]
-    - [[sense-making-facilitation-tools]]
-  - **[[patterns]]**
-- **[[resources]]**
-  - **[[templates]]**
-    - [[group-state-template]]
+      - [[sense-making-facilitation-tools 1]]
+      - [[sense-making-facilitation-tools]]
+    - **[[patterns]]**
+  - **[[resources]]**
+    - **[[templates]]**
+      - [[group-state-template|Group State Template]]
 
 %% End Waypoint %%
