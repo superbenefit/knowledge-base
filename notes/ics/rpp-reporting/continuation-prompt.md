@@ -12,9 +12,9 @@ This prompt is for continuing an interrupted interview session to complete the I
 - **Main reflection draft**: `/Users/heenal/Documents/GitHub/knowledge-base/notes/ics/rpp-reporting/ics-experiment-reflection-draft.md`
 - **Original template**: The attached file "ICS Experiment Reflections (1).md"
 - **Background documents**:
-  - `/Users/heenal/Documents/GitHub/knowledge-base/notes/ics/about/ics-experiment-scoping.md`
-  - `/Users/heenal/Documents/GitHub/knowledge-base/notes/ics/about/ics-implementation-plan.md`
-  - `/Users/heenal/Documents/GitHub/knowledge-base/notes/ics/about/ics-discovery-report.md`
+  - `knowledge-base/notes/ics/about/ics-experiment-scoping.md`
+  - `knowledge-base/notes/ics/about/ics-implementation-plan.md`
+  - `knowledge-base/notes/ics/about/ics-discovery-report.md`
 
 ## Interview Approach
 1. Review the draft reflection document to see what sections have been completed
