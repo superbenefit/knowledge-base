@@ -9,13 +9,13 @@ publish: "false"
 type: note
 ---
 
-Decentralized Autonomous Organizations as networks of small autonomous teams.
+
 
 See [[tags/daos|dao]]
 
 ## Definition
 
-DAOs within the DAO Primitives Framework are **purpose-aligned networks of small autonomous teams** that coordinate through transparent agreements and shared state documentation rather than hierarchical management structures. They represent the highest-scale organizational primitive that encompasses and coordinates other primitives (Cells, Roles, Tasks) to create coherent collective action. They can also coordinate at network scale with other DAOs, organizations and stakeholders. 
+DAOs within the DAO Primitives Framework defined as **purpose-aligned networks of small autonomous teams** that coordinate through transparent agreements, rather than hierarchical management structures. They represent the highest-scale organizational primitive that encompasses and coordinates other primitives (Cells, Roles, Tasks) to create coherent collective action. They can also coordinate at network scale with other DAOs, organizations and stakeholders. 
 
 ## Core Characteristics
 
@@ -70,16 +70,12 @@ DAOs create coherence and make successful coordination possible through maintain
 
 **Permissionless Innovation**: DAOs establish lightweight processes for new team formation, experimental initiatives, and proposal development that enable innovation without requiring centralized permission or oversight. But then have decentralized mechanisms for approving permissions and resource allocation to these new teams as they evolve.  
 
-
-# HERE
-
 ## Examples in Practice
 
-**Purpose-Aligned Networks**: Organizations using the DAO Primitives approach to coordinate "networks of small autonomous teams" around shared social impact or regenerative outcomes.
+**All in for Sport**: The DAO primitives framework has been applied to design the AIFS governance model and partnership with SuperBenefit. More can be read about this example here: [[all-in-for-sport]]. 
 
-**Multi-Stakeholder Governance**: Complex organizations implementing the framework's multi-scale coordination mechanisms to balance diverse stakeholder needs and perspectives.
+**RPP Governance**: This project is a good example of how a larger DAO structure (SuperBenefit) can support multi-stakeholder partnerships within its broad community governance umbrella. This shows how complex governance and operations can be made simple and effective while maintaining appropriate levels of high-level governance. See [[rpp-governance-design-study]]
 
-**Experimental Collectives**: Groups using the primitives to design novel organizational forms that can adapt and evolve while maintaining coherence around their fundamental purpose.
 
 ---
 
