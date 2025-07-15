@@ -1,3 +1,6 @@
+---
+tags: tasks
+---
 _Scoping the Knowledge Management & Sharing Workstream for the Reimagining Power project at SuperBenefit._
 
 # Purpose

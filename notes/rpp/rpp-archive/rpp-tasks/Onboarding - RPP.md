@@ -1,3 +1,6 @@
+---
+tags: tasks
+---
 - Onboarding Workspace page:  
 
 Onboarding is about welcoming and guiding new members into the Reimagining Power Project, ensuring they have the tools, resources, and understanding necessary to contribute effectively. 

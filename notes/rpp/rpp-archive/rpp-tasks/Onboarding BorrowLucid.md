@@ -1,3 +1,6 @@
+---
+tags: tasks
+---
 > This template is designed to be used to track the progress of new Contributors through the Onboarding Flow described in  
 > 
 > Delete this block (and other callout blocks) when using the template

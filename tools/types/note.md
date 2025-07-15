@@ -14,10 +14,9 @@ favoriteView:
 fieldsOrder:
   - anCEWM
   - Pgb5mz
-  - RzOKpI
-  - ka05Sv
+  - n6F5Oz
   - 5tGepk
-version: "2.20"
+version: "2.26"
 fields:
   - name: publish
     type: Boolean
@@ -34,16 +33,15 @@ fields:
     options: {}
     path: ""
     id: Pgb5mz
-  - name: harvester
-    type: Input
-    options: {}
+  - name: date
+    type: Date
+    options:
+      dateShiftInterval: 1 day
+      dateFormat: DD-MM-YYYY
+      defaultInsertAsLink: false
+      linkPath: ""
     path: ""
-    id: RzOKpI
-  - name: curator
-    type: Input
-    options: {}
-    path: ""
-    id: ka05Sv
+    id: n6F5Oz
 ---
 The Note type serves as the foundation for content creation in the SuperBenefit Knowledge Base. It defines the essential metadata structure for works-in-progress, research notes, and evolving ideas.
 

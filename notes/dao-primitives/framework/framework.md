@@ -9,6 +9,25 @@ type: note
 
 The DAO Primitives Framework provides a systematic approach to designing and implementing decentralized organizations as purpose-aligned networks. Building on the overview provided in the [DAO Primitives Project](notes/dao-primitives/dao-primitives.md), this framework offers a deeper exploration of the key concepts, dimensions, and components that enable effective decentralized coordination.
 
+%% Begin Waypoint %%
+- **[[framework]]**
+  - [[group-facilitation|DAO Primitives Group Facilitation Guide]]
+  - **[[group-phase]]**
+    - [[completion]]
+    - [[conversation|Conversation Phase]]
+    - [[coordination]]
+    - [[formation]]
+    - [[organization]]
+  - **[[group-primitives]]**
+  - **[[group-scale]]**
+    - [[collaboration|Collaboration Scale]]
+    - [[constituency|Constituency Scale]]
+    - [[coordination|Coordination Scale]]
+    - [[network|Network Scale]]
+  - [[group-state|Group State]]
+
+%% End Waypoint %%
+
 ## Framework Overview
 
 At its core, the DAO Primitives Framework is built around two complementary elements:

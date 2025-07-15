@@ -1,3 +1,6 @@
+---
+tags: tasks
+---
 
 _Crafting the Media Manager role in the Community Experience workstream at SuperBenefit._  
 

@@ -1,3 +1,6 @@
+---
+tags: tasks
+---
 > For practice, add an Agreement to this task to reward yourself 100 SPRB on Polygon for completing this document.
 >
 > - Feel free to make mistakes, experiment, ask questions or seek help

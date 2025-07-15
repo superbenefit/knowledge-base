@@ -34,6 +34,8 @@ Weekly meeting agenda & notes for the RPP Operation & Strategy Stewards team.
 
 - 
 
+tags: meetings
+date: 15-04-2025
 ---
 
 # Summary

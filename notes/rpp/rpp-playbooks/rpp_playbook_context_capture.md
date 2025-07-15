@@ -1,3 +1,6 @@
+---
+tags: playbooks
+---
 # DAO Cell and Community Governance Playbook - Context Capture
 
 *Collaborative session output - January 2025*

@@ -1,5 +1,6 @@
 {
-  "overwrite": true,
+  "overwrite": false,
   "recursive": true,
-  "delimiter": ","
+  "delimiter": ",",
+  "defaultPropPath": ""
 }

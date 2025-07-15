@@ -8,21 +8,29 @@ curator:
 publish: "false"
 type: note
 ---
-%% This template creates a basic note - the foundation for content development in the knowledge base. Use it for research notes, concepts in development, and early-stage ideas that will evolve over time. The template includes essential metadata fields and a simple structure for organizing your thoughts. %%
+%% Begin Waypoint %%
+- **[[implementation]]**
+  - **[[case-studies]]**
+    - [[rpp-governance-design-study|Reimagining Power Project Governance Design]]
+  - **[[guides]]**
+    - **[[dao-state-guide]]**
+      - **[[template-alignment]]**
+        - [[alignment-improvement-workflow]]
+        - [[improvement-guidelines]]
+        - [[improvement-methodology]]
+        - [[improvement-plan]]
+        - [[sb-alignment-analysis-example]]
+        - [[sb-alignment-plan-example]]
+        - [[sb-alignment-review-example]]
+        - [[sb-bridging-plan-example]]
+    - [[experiment-facilitation-framework]]
+    - **[[governance-design]]**
+      - [[implementation-guide-community-governance|Implementation Guide for Community Governance]]
+      - [[implementation-guide-multi-stakeholder-governance|title]]
+      - [[implementation-guide-operational-governance|title]]
+    - [[implementation-guide-community-governance]]
+    - [[sense-making-facilitation-tools 1]]
+    - [[sense-making-facilitation-tools]]
+  - **[[patterns]]**
 
-# <% tp.frontmatter.title || tp.file.title %>
-
-_<% tp.frontmatter.description || "Brief description of this note's purpose and content." %>_
-
-**Created:** <% tp.file.creation_date("YYYY-MM-DD") %>
-**Author:** <% tp.frontmatter.author || "Anonymous" %>
-
-## Content
-
-%% Introduce your note here. Use this space to outline the main ideas, questions, or insights you want to capture. The goal is to create a foundation that can evolve as your understanding develops. %%
-
----
-
-## Notes & References
-
-%% Use this section to capture supporting information, links to related documents, and references to external sources. This helps maintain connections between this note and the broader knowledge ecosystem. %%
+%% End Waypoint %%

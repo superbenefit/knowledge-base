@@ -1,3 +1,6 @@
+---
+tags: tasks
+---
 # Contributor info 
 
 ## Contributor Name

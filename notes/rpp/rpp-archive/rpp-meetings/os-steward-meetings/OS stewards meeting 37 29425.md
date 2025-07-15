@@ -77,6 +77,8 @@ Weekly meeting agenda & notes for the RPP Operation & Strategy Stewards team.
 
 - SB DAO state, operating agreement, etc
 
+tags: meetings
+date: 29-04-2025
 ---
 
 # Summary

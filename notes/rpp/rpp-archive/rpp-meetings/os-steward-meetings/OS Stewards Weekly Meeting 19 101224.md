@@ -121,6 +121,8 @@ Sue - example - FINI womens fund in south america. Funds get lost in banking fee
 
   - Payments for social impact paper translation
 
+tags: meetings
+date: 10-12-2024
 ---
 
 # Decision Log

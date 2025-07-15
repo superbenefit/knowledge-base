@@ -115,6 +115,8 @@ Check with Heenal on Future of Life grant response, a few projects have been dec
 [](https://s3.amazonaws.com/charm.public/user-content/4a8cde11-bb66-460c-8631-d3f9d688f723/1d1bffe4-c6fc-48be-956f-e3d6884f1d52/27d79f37-49f6-4a2c-8296-634e2a4f55a7.png)
 
 [](https://s3.amazonaws.com/charm.public/user-content/4a8cde11-bb66-460c-8631-d3f9d688f723/d489a2d8-301a-4c5d-9a07-f85371c05ae1/17885a97-fc24-48da-80e1-7d8e48d79af4.png)
+tags: meetings
+date: 03-04-2025
 ---
 
 # Decision Log

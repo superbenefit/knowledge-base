@@ -1,3 +1,6 @@
+---
+tags: tasks
+---
 - These are needed for the building of Playbooks.
 
 - They will include the DAO primitive patterns but also community and operational governance, partnership governance etc. 

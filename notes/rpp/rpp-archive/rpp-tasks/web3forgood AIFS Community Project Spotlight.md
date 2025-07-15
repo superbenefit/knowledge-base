@@ -1,3 +1,6 @@
+---
+tags: tasks
+---
 
 # **web3forgood 
 **

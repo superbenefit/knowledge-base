@@ -107,6 +107,8 @@ Weekly meeting agenda & notes for the RPP core team.
 
   -  
 
+tags: meetings
+date: 08-06-2024
 ---
 
 ## Summary

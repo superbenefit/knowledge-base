@@ -1,17 +1,18 @@
 ---
 title: Impact Yield Fund Meeting Notes
 description: Compilation of discussions related to the Impact Yield Fund across multiple meetings, highlighting key points and next steps
-author: ICS Team
+author:
+  - ICS Team
 tags:
   - community-connection-commitment-commons
   - impact-yield-fund
-  - meeting-notes
   - discussions
   - planning
+  - meetings
 aliases:
   - IYF Meeting Notes
   - Fund Discussions
-publish: "false"
+publish: false
 type: note
 ---
 

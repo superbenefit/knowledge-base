@@ -9,7 +9,7 @@
 - Care and conservation of all life, ecosystems, knowledge, and cultures
 
 The projects and DAOs will be guided by the following conditions (developed by Shaping Innovation Futures project) to be considered “systems transformation”:
-![image.png](notes/archive/clarity/Resources/ca90ff63-906f-4c97-9b83-b1f1f4e05ce6.png)
+![image.png](ca90ff63-906f-4c97-9b83-b1f1f4e05ce6%201.png)
 # **Design: **
 A core team for the project will be developed to include the following functions of project management, research, synthesis, mapping, technical design & formatting. The format of the repository will be determined by the contributors and could include one or more of the following - library, starter pack, design map etc. 
 Four phases 1) Systems Transformation & web3 framework 2) Research projects and DAOs aligned with the systems transformation framework 3) Development of systems transformation repository tool 4) Synthesis and analysis of what has enabled and constrained the systems transformation projects and DAOs.

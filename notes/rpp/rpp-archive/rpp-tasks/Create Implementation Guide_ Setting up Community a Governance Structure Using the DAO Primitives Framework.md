@@ -1,3 +1,6 @@
+---
+tags: tasks
+---
 # 
 
 # Implementation Guide: Setting up a Community Governance Structure: Using the DAO Primitives Framework

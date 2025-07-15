@@ -1,3 +1,6 @@
+---
+tags: tasks
+---
 # Commitment to Accountability
 
 Reimagining Power (RPP) is dedicated to advancing empowerment and inclusion through sport. For us, this includes people and communities of every ethnicity, faith, religion, gender identity and expression, sexual orientation, mental health, neuro(a)typicality, physical appearance, age, disability, Indigenous status, and level of experience.

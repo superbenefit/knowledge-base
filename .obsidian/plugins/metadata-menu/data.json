@@ -1,12 +1,29 @@
 {
-  "presetFields": [],
+  "presetFields": [
+    {
+      "type": "Date",
+      "tagName": "date",
+      "icon": "calendar-with-checkmark",
+      "tooltip": "Accepts a date",
+      "colorClass": "date",
+      "options": {
+        "dateShiftInterval": "1 day",
+        "dateFormat": "DD-MM-YYYY",
+        "defaultInsertAsLink": false,
+        "linkPath": ""
+      },
+      "name": "date",
+      "id": "8xGJSk",
+      "path": ""
+    }
+  ],
   "fileClassQueries": [],
   "displayFieldsInContextMenu": true,
   "globallyIgnoredFields": [],
   "classFilesPath": "tools/types/",
   "isAutosuggestEnabled": true,
   "fileClassAlias": "type",
-  "settingsVersion": "5.17",
+  "settingsVersion": "5.18",
   "globalFileClass": "note",
   "firstDayOfWeek": 1,
   "enableLinks": true,

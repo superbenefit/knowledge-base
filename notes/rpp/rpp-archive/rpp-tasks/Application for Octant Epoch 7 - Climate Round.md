@@ -1,3 +1,6 @@
+---
+tags: tasks
+---
 # The Climate Round Information
 
 - [Eligibility Criteria](https://octantapp.notion.site/Eligibility-Criteria-for-Epoch-7-Climate-Round-18be165689aa80259e67c8cb82d652f5)

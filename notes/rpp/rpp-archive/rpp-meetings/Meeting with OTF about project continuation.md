@@ -1,50 +1,24 @@
 ---
-
-# Meeting Agenda
-
-## Discussion Items
-
-See briefing note:
-
-
- 
-
+See briefing note: 
 Highlights:
-
-- Walkthrough of briefing materials, including onboarding systems, DAO primitives framework, governance documents, and the knowledge garden. 
-
-- Discussion of deliverables and the potential opportunities tied to BioFi. Positive reception towards the $100K funding request but with the condition of securing partial co-funding (\~$25K suggested). 
-
-- Proposal to finalize funding agreement by February for April disbursement, with a January proposal submission.
-
-- Exploration of forming a partnership with a bioregional group in Ontario to align with the place-based community finance focus of BioFi. 
-
-- Potential funding sources mentioned:
-
-  - OTF ($100K contingent on additional funders)
-
-  - Boann
-
-  - Catalyst Community Finance.
-
-- Tracey questioned the revenue potential; Michelle emphasized the goal of proving use cases like impact investing. Agreement that BioFi is a promising area worth pursuing further.
-
-- Next Steps:
-
-  - Identify and secure co-funding partners.
-
-  - Follow up with Tracey in late January to review progress.
-
-  - Draft and finalize partnership agreements in February.
-
-  - Share specific resources with Tracey:
-
-    - Article link
-
-    - Biofi link
-
-    - Knowledge garden link
-
+  - Walkthrough of briefing materials, including onboarding systems, DAO primitives framework, governance documents, and the knowledge garden.
+  - Discussion of deliverables and the potential opportunities tied to BioFi. Positive reception towards the $100K funding request but with the condition of securing partial co-funding (\~$25K suggested).
+  - Proposal to finalize funding agreement by February for April disbursement, with a January proposal submission.
+  - Exploration of forming a partnership with a bioregional group in Ontario to align with the place-based community finance focus of BioFi.
+  - Potential funding sources mentioned:
+      - OTF ($100K contingent on additional funders)
+      - Boann
+      - Catalyst Community Finance.
+  - Tracey questioned the revenue potential; Michelle emphasized the goal of proving use cases like impact investing. Agreement that BioFi is a promising area worth pursuing further.
+  - Next Steps:
+      - Identify and secure co-funding partners.
+      - Follow up with Tracey in late January to review progress.
+      - Draft and finalize partnership agreements in February.
+      - Share specific resources with Tracey:
+          - Article link
+          - Biofi link
+          - Knowledge garden link
+tags: meetings
 ---
 
 # Decision Log

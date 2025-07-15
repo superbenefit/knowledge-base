@@ -42,6 +42,8 @@ Weekly meeting agenda & notes for the RPP Operation & Strategy Stewards team.
 
 - Resolve expenses for Windfall Protocol and transfer remainder to SB to pay for Marshal Island set up
 
+tags: meetings
+date: 05-06-2025
 ---
 
 # Summary

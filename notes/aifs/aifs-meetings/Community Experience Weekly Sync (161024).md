@@ -1,0 +1,137 @@
+_Weekly check-in & co-working session of the Community Experience Workstream at SuperBenefit._
+
+---
+
+> This meeting format is adapted from the [Action Meeting Template](https://medium.com/the-ready/how-to-facilitate-the-best-meeting-your-team-will-have-this-week-763f31b6d7d). Check it out for more information on participating in this type of meeting.
+
+# Check-In
+
+> What are you mad, sad, glad and afraid of today? (You can pass by saying "I'm in")
+
+---
+
+# Progress Review
+
+Review progress toward our intentions, metrics and goals.
+
+> We're just describing, not judging or explaining, our progress this week.
+>
+> If we need to circle back to any of these items, add it to the agenda.
+
+## Team Status
+
+### To-Do's
+
+Review last week's action items and update status:
+
+- [x] Heenal - create a meeting page for each gathering, create a framework and together we can build out the pages  
+
+- [x] Shanny - make one-pager about Gatherings - 
+
+ [https://www.canva.com/design/DAFXGp2Pooo/BAPkkHejRxIuVn16YEMJjg/edit](https://www.canva.com/design/DAFXGp2Pooo/BAPkkHejRxIuVn16YEMJjg/edit)
+
+- [ ] 
+
+- [ ] 
+
+### 
+
+---
+
+# Agenda
+
+Shorter agenda items:
+
+- Approve roles
+
+  -  
+
+  -  
+
+- Filling roles
+
+  - Community Weaver
+
+    - Shanny
+
+    - Jose
+
+  - Social Media Manager
+
+    - Colleen is interested
+
+    - Shanny reached out to someone else as well
+
+    - And let's put it out to the AIFS community
+
+  - Event Facilitator
+
+    - Nicole
+
+  - Gatherings Steward
+
+    - 
+
+- Gatherings
+
+  - budget
+
+    -  
+
+  - confirm dates & topics  
+
+    - idea - compressed schedule & "Session 0"
+
+      - Session 0 - November 13 - co-creating the schedule with community partners
+
+      - Session 1 - December 10
+
+      - Sessions 2, 3, 4, 5 - bi-weekly cadence starting in Jan 2025
+
+- Review Gatherings one-pager
+
+  - https://www.canva.com/design/DAFXGp2Pooo/BAPkkHejRxIuVn16YEMJjg/edit
+
+  - Everyone please share feedback so that we can get this sent out to partners
+
+## Longer items
+
+Longer agenda items:
+
+-  
+
+-  
+
+- 
+
+---
+
+# Reflection 
+
+> **How are we leaving here? How do we feel about the meeting today and our next steps?**
+
+-  
+
+---
+
+# Notes
+
+## Action items
+
+- [ ] Everyone review gatherings one-pager - [https://www.canva.com/design/DAFXGp2Pooo/BAPkkHejRxIuVn16YEMJjg/edit](https://www.canva.com/design/DAFXGp2Pooo/BAPkkHejRxIuVn16YEMJjg/edit)
+
+- [ ] 
+
+- [ ] 
+
+## Decision log
+
+-    
+
+## Summary
+
+Minutes
+
+MiscThis information is for quick reference during the meeting.Please delete this section when the meeting is over. This helps save on our Charmverse block count.TranscriptsMeetings in the SuperBenefit discord can be transcribed with the Scripty bot. The following command will cause the bot to join the Cafe voice channel and begin transcribing:/join voice_channel:#"cafe" create_thread:True target_channel:#chat-transcripts record_transcriptions:TrueSummaries with ChatGPTThe following prompt (created by ChatGPT) will usually create a suitable summary from Scripty's .txt file output:Given the following transcript of a meeting between [participants] about [topic], provide a concise summary highlighting the main points, key arguments, and any notable insights discussed during the conversation. Make sure to capture the overall tone and key takeaways:
+
+[Paste transcript here]Summary Heading for notesSummaryThis transcript was created by the Scripty bot using an open-source speech-to-text algorithm, and summarized using ChatGPT. It may contain errors.<Paste summary here>

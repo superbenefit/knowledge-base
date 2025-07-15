@@ -38,6 +38,8 @@ Weekly meeting agenda & notes for the RPP Operation & Strategy Stewards team.
 
 - Review Playbook progress rather and rowan
 
+tags: meetings
+date: 18-03-2025
 ---
 
 # Summary

@@ -38,6 +38,8 @@ Weekly meeting agenda & notes for the RPP Operation & Strategy Stewards team.
 
       - eg ICS - setting up community governance and operational structure
 
+tags: meetings
+date: 13-05-2025
 ---
 
 # Summary

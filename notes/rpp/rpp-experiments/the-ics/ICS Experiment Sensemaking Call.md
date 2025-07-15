@@ -1,3 +1,6 @@
+---
+tags: experiments
+---
 _Meeting notes from a pre-discovery stakeholder and asset mapping session for the Institute for Community Sustainability as part of the Reimagining Power project at SuperBenefit._
 
 ---
