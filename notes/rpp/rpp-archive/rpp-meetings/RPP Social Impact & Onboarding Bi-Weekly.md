@@ -1,3 +1,6 @@
+---
+tags: meetings
+---
 
 **MEETING NOTES:**
 

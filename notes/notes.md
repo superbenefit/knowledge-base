@@ -25,12 +25,12 @@ Here, you'll find:
   - **[[archive]]**
     - **[[charmverse]]**
     - **[[clarity]]**
+  - **[[cxi]]**
   - **[[dao-primitives]]**
+  - **[[general-circle]]**
   - **[[ics]]**
-  - **[[links]]**
-    - **[[to-review]]**
-      - [[DAOstar|DAOstar]]
   - **[[rpp]]**
+  - **[[wp]]**
 
 %% End Waypoint %%
 

@@ -53,7 +53,7 @@
 	5. A commitment to bridging old into better
 	6. The look, feel, and story of a better future.
 	7. Visual Representation of the Interventions
-		- ![image.png](notes/archive/clarity/Resources/ca605232-556c-4503-8f3e-9fa27256ee0d.png)
+		- ![image.png](ca605232-556c-4503-8f3e-9fa27256ee0d%201.png)
 - Through Proposals, Projects are initiated up to further progress on one or more intervention areas.
 - How to get involved with current projects:
 	- [Check out the Discord](https://discord.gg/QFW7Wc7cgS) - #helpwanted channel and #announcements 

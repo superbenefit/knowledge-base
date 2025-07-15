@@ -1,3 +1,6 @@
+---
+tags: tasks
+---
 Social Impact Paper draft 
 
 https://docs.google.com/document/d/135hVvXIFUDCZramTzNpEu_6sCsOiop6jnOnmZDZjj3I/edit

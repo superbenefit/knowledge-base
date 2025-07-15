@@ -1,3 +1,6 @@
+---
+tags: tasks
+---
 # 
 
 ## Proposal outline

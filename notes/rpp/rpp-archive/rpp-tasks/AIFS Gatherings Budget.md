@@ -1,3 +1,6 @@
+---
+tags: tasks
+---
 20k CAD = 14.5kUSDC
 
 Across 20 weeks according to the current schedule (Nov 13 to Mar 12)

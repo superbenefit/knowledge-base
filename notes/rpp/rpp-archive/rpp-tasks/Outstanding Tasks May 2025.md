@@ -1,3 +1,6 @@
+---
+tags: tasks
+---
 ## May 23 task snapshot
 
 _A snapshot of tasks remaining in order to complete phase 1 of the RPP_

@@ -1,3 +1,6 @@
+---
+tags: tasks
+---
 https://hub.greenpill.network/t/new-chapter-onboarding/129
 
 ## What should we call you?\*

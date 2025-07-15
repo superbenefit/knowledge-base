@@ -1,11 +1,6 @@
 ---
-
-# Meeting Agenda
-
 - Review [draft presentation](https://app.box.com/file/1806955955949) before Nicole presents it to leadership team
-
 - Discuss future collaboration and next steps
-
 ---
 
 # Decision Log

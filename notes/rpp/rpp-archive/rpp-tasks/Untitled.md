@@ -1,3 +1,6 @@
+---
+tags: tasks
+---
 
 Crafting the <roleName> role in the Reimagining Power project at SuperBenefit.  
 

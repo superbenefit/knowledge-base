@@ -1,3 +1,6 @@
+---
+tags: tasks
+---
 
 > Please refer to    for the steps for creating a playbook 
 

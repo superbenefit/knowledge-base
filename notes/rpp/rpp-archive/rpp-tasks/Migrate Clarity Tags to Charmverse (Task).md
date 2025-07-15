@@ -1,3 +1,6 @@
+---
+tags: tasks
+---
 This task is copied from its related reward page. Some details were omitted to save time. See [this page](https://app.charmverse.io/superbenefit/rewards/applications/79b702f9-0fd4-497e-883f-7e48a13401c2) for the full details.
 
  

@@ -1,15 +1,8 @@
 ---
-
-# Meeting Agenda
-
-## Context
-
-- For the EF experiment we are keen to get the ball rolling on setting EF up with an on/off-ramp for Canadian based funds.
-
- In your experience is Newton still the best option?
-
- And if so what do you think the best way for us to get them set up would be? E.g is there a human there that you could connect us to to starting the conversation, find out all of the requirements etc in advance of getting EF folks taking action on this (which requires some more conversations).
-
+- |-
+  For the EF experiment we are keen to get the ball rolling on setting EF up with an on/off-ramp for Canadian based funds.
+  In your experience is Newton still the best option?
+  And if so what do you think the best way for us to get them set up would be? E.g is there a human there that you could connect us to to starting the conversation, find out all of the requirements etc in advance of getting EF folks taking action on this (which requires some more conversations).
 ---
 
 # Meeting Summary

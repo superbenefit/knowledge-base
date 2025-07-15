@@ -20,9 +20,9 @@ We’ve developed **four different “angles”** – alternative ways of expres
 
 
 ## Angle 2: A focus on outcomes
-![0001 6.jpg](notes/archive/clarity/Resources/84f89596-a476-41af-aa5d-d0223c88bcff.jpg)
+![0001 6.jpg](84f89596-a476-41af-aa5d-d0223c88bcff%201.jpg)
 ## Angle 3: A focus on the “flywheels”
 ![0001 7.jpg](66944bc5-e67c-4cfa-ad1d-69deb25dbf21.jpg)
 ## Angle 4: Another metaphor - SuperBenefit as a mycelium network for invention and transformation
-![image.png](notes/archive/clarity/Resources/07c2afe8-6638-4cc3-aab5-efe3d65a6e19.png)
+![image.png](07c2afe8-6638-4cc3-aab5-efe3d65a6e19%201.png)
 

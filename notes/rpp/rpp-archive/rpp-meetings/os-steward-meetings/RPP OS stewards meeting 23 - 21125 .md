@@ -61,6 +61,8 @@ Weekly meeting agenda & notes for the RPP Operation & Strategy Stewards team.
 
           - use language of incubators, innovation networks, etc from the startup/social enterprise space
 
+tags: meetings
+date: 02-11-2025
 ---
 
 # Summary

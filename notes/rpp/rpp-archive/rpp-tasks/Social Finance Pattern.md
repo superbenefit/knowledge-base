@@ -1,3 +1,6 @@
+---
+tags: tasks
+---
 > This page is machine-generated and is meant to be used as a conversation starter or brainstorming aide. It may contain errors. Please edit freely
 
 ---

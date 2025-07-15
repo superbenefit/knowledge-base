@@ -1,3 +1,6 @@
+---
+tags: tasks
+---
 _Week 12 progress update, evaluation and retrospective from the Reimagining Power OS Stewards._
 
 ---

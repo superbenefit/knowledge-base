@@ -84,6 +84,8 @@ Remaining work for RPP
 
 - [BioFi pattern](https://github.com/superbenefit/knowledge-base/blob/main/artifacts/patterns/biofi.md) from Exeunt (rather)
 
+tags: meetings
+date: 18-02-2025
 ---
 
 # Action Items

@@ -2,7 +2,7 @@
 title: 
 description: 
 author: 
-tags: 
+tags: playbooks
 harvester: 
 curator: 
 publish: "false"

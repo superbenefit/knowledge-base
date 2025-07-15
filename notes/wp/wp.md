@@ -1,0 +1,53 @@
+---
+title: 
+description: 
+author: 
+tags: 
+harvester: 
+curator: 
+publish: "false"
+type: note
+---
+
+%% Begin Waypoint %%
+- **[[wp]]**
+  - [[2023-08-07 - Windfall Energy Efficiency Project (WREEP) Cell State]]
+  - **[[wp-meetings]]**
+    - [[Windfall Protocol Wrap-Up Meeting]]
+    - [[WP Cell Weekly Meeting (12224)]]
+    - [[WP Meeting (01-08-2024)]]
+    - [[WP Meeting (02-05-2024)]]
+    - [[WP Meeting (03-04-2024)]]
+    - [[WP Meeting (04-01-2024)]]
+    - [[WP Meeting (04-08-2024)]]
+    - [[WP Meeting (05-02-2024)]]
+    - [[WP Meeting (08-04-2023)]]
+    - [[WP Meeting (10-02-2023)]]
+    - [[WP Meeting (10-09-2023)]]
+    - [[WP Meeting (11-06-2023)]]
+    - [[WP Meeting (11-09-2023)]]
+    - [[WP Meeting (12-11-2023)]]
+    - [[WP Meeting (13-01-2024)]]
+    - [[WP Meeting (13-11-2023)]]
+    - [[WP Meeting (15-01-2024)]]
+    - [[WP Meeting (16-10-2023)]]
+    - [[WP Meeting (18-03-2024)]]
+    - [[WP Meeting (18-09-2023)]]
+    - [[WP Meeting (18-12-2023)]]
+    - [[WP Meeting (19-02-2024)]]
+    - [[WP Meeting (20-11-2023)]]
+    - [[WP Meeting (22-01-2024)]]
+    - [[WP Meeting (23-10-2023)]]
+    - [[WP Meeting (24-01-2023)]]
+    - [[WP Meeting (25-09-2023)]]
+    - [[WP Meeting (26-02-2024)]]
+    - [[WP Meeting (27-11-2023)]]
+    - [[WP Meeting (29-01-2024)]]
+    - [[WP Meeting (30-10-2023)]]
+    - [[wp-clarity-meeting-notes]]
+    - [[WREEP Cell Weekly Meeting (111323)]]
+  - **[[wp-tasks]]**
+    - [[⬜️ EEP-310 SuperBenefitDAO Scope of Work]]
+    - [[⬜️ EEP-311 Project Plan - WREEP]]
+
+%% End Waypoint %%

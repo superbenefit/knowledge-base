@@ -75,6 +75,8 @@ Our thesis is that if we reimagine power in this context we can produce more int
 
 If this is the case then we are looking for the specific systems of power that are structured into the capital -> recipient flow that can be reimagined to produce a more intelligent system capable of producing better outcomes.
 
+tags: meetings
+date: 28-02-2024
 ---
 
 Meeting notes - 27/8/24

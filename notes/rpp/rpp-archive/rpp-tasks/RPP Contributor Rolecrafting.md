@@ -1,3 +1,6 @@
+---
+tags: tasks
+---
 
 Crafting the Contributor role in the Reimagining Power project at SuperBenefit.  
 
