@@ -13,7 +13,7 @@ description: "The mature stage of group development where a fully established gr
 
 The Coordination Phase represents the mature [group-phase](notes/dao-primitives/framework/group-phase/group-phase.md) where groups transition from establishing their structures and processes in the [organization phase](notes/dao-primitives/framework/group-phase/organization.md) to focused execution on their purpose and goals. In this phase, a group leverages its fully implemented operational capabilities and governance systems to deliver maximum value and impact. The emphasis shifts from internal development to effective delivery, with coordination becoming a key mechanism for accessing necessary resources, capabilities, and support from the broader network or ecosystem.
 
-The Coordination Phase is where a group, as an autonomous (or semi-autonomous) entity, both leverages and contributes to the power and collective intelligence of the decentralized network it inhabits (or in the case of a DAO, is creating).
+The [coordination phase](notes/dao-primitives/framework/group-scale/coordination.md)is where a group, as an autonomous (or semi-autonomous) entity, both leverages and contributes to the power and collective intelligence of the decentralized network it inhabits (or in the case of a DAO, is creating).
 
 When the Coordination phase is complete, a group may either evolve into a governance or operational structure or enter a [completion phase](notes/dao-primitives/framework/group-phase/completion.md) as its purpose is fulfilled.
 
@@ -24,7 +24,7 @@ When the Coordination phase is complete, a group may either evolve into a govern
 
 * **Purpose-Driven Execution:** The group's activities are tightly aligned with its core purpose, with clear prioritization of high-impact initiatives that advance its goals. 
 * **Resource Sharing:** The group optimizes the use of its internal resources while accessing and/or contributing resources externally through network relationships. 
-* **Decentralized Coordination:** The group fully implements the onchain tooling and practices that allow its governance and operational structure to leverage decentralization in effective ways.  
+* **[[decentralization|Decentralized]] Coordination:** The group fully implements the onchain tooling and practices that allow its governance and operational structure to leverage decentralization in effective ways.  
 * **Operational Excellence:** Internal systems and processes function smoothly, allowing focus to shift from setup and maintenance to optimization and results. 
 * **Evolution:** The group evolves its governance and operation structure and practices over time in response to its evolving context. 
 * **Measurable Impact:** The group consistently delivers and documents concrete outcomes that advance its purpose and provide value to the broader network.

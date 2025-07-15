@@ -28,6 +28,7 @@ type: note
       - [[implementation-guide-community-governance|Implementation Guide for Community Governance]]
       - [[implementation-guide-multi-stakeholder-governance|title]]
       - [[implementation-guide-operational-governance|title]]
+    - [[implementation-guide-community-governance]]
     - [[sense-making-facilitation-tools 1]]
     - [[sense-making-facilitation-tools]]
   - **[[patterns]]**
