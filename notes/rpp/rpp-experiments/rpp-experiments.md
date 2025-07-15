@@ -40,6 +40,7 @@ _Notes and other documents related to experiments in the Reimagining Power proje
     - [[ics-case-study-journey-arc]]
     - [[ics-case-study-living-questions]]
     - [[ics-case-study-multiple-perspectives]]
+    - [[ics-case-study-narrative-structure-revised]]
     - [[ics-case-study-narrative-structure]]
     - [[ics-case-study-resources-used]]
     - [[ics-case-study-transferable-insights]]
