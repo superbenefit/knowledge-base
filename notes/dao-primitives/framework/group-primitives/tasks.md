@@ -8,6 +8,8 @@ tags:
 publish: "false"
 type: note
 ---
+# Tasks
+
 
 ## Definition
 
@@ -47,17 +49,17 @@ Together, these three dimensions create comprehensive task documentation that en
 Tasks are a flexible primitive that can be used across all scales, phases and timeframes in a network. 
 
 **Task Scope**: can vary greatly depending on the goal being sought and where this occurs in the network.
-- Scale - super task vs sub task. 
-- Phase
-- Timeframe -  
-- Governance target
-- 
 
-**Cross-Phase Adaptability**: Tasks evolve through [[notes/dao-primitives/framework/group-phase/group-phase|group phases]] as network activities mature - from informal task coordination in [[notes/dao-primitives/framework/group-phase/conversation|Conversation Phase]] to structured task management in [[notes/dao-primitives/framework/group-phase/organization|Organization Phase]] to cross-network task coordination in [[notes/dao-primitives/framework/group-phase/coordination|Coordination Phase]].
+ **[[Group-scale]]:** Super task vs sub task. Tasks can be used anywhere in the network. For example:
+	- Constituency Scale: At the level of community governance a high-level task containing a large project idea can be created and resourced. 
+	- Coordination Scale: This could then be given to a Cell charged with operational coordination. This Cell can break the task into smaller tasks that can be given to Cells or clusters of Cells for execution
+	- Collaboration Scale: These individual Cells can then create yet smaller sub-tasks to manage their execution of the lager piece of the super-task. 
 
-**Multi-Scale Implementation**: Tasks operate across all [[notes/dao-primitives/framework/group-scale/group-scale|group scales]] - within [[notes/dao-primitives/framework/group-scale/collaboration|Collaboration Scale]] teams for direct execution, across [[notes/dao-primitives/framework/group-scale/coordination|Coordination Scale]] networks for multi-entity workflows, and at [[notes/dao-primitives/framework/group-scale/constituency|Constituency Scale]] for network-wide initiatives and governance activities.
+ **[[Group-phase]]:** Simple tasks may not require a phase process, however larger tasks depending on where they originate may require a phase process to evolve them through discovery, scoping, proposal, execution, completion phases
 
-**Complexity Adaptation**: Task definition and coordination mechanisms adapt to scale requirements - simple, relationship-based task coordination at collaboration scale versus formal, documented task workflows with explicit dependencies and [[tags/accountability|accountability]] systems at coordination and constituency scales.
+Timeframe:** Tasks can be finite pieces of work with strict timelines, or they can be long, ongoing projects. However, if the work is more akin to an ongoing responsibility rather than a defined task that can be planned and completed, then creating a Role, or set of Roles might be more effective than using a Task
+
+**Governance target:** Unless a task is being used by an individual in their personal task management, Tasks will usually require an approval process of some sort. At the team level this could be a simple informal team approval process. But if the task is happening at higher [[group-scale]] and/or requires significant resources or presents other risks to the network, it will require a more robust and formal approval process. Usually some sort of proposal process will be used to approve such large tasks.   
 
 ## Network Relationships
 
@@ -79,11 +81,8 @@ Tasks are a flexible primitive that can be used across all scales, phases and ti
 
 ## Examples in Practice
 
-**Cell Deliverable Tasks**: Specific deliverables that [[notes/dao-primitives/framework/group-primitives/cells|Cells]] commit to producing for the broader network, with clear task state documentation that enables other entities to coordinate and build upon the work.
+**SuperBenefit**: uses roles across all scales of the DAO network. It implements roles through hats protocol to secure roles and integrate with other infrastructure for things like voting and treasury management. https://app.hatsprotocol.xyz/trees/10/30
 
-**Cross-Network Coordination Tasks**: Tasks that facilitate collaboration between multiple [[notes/dao-primitives/framework/group-primitives/cells|Cells]] or between different [[notes/dao-primitives/framework/group-primitives/daos|DAO]] networks, often involving shared [[tags/resources|resources]] or coordinated timing.
-
-**Contributor Engagement Tasks**: Tasks that enable [[notes/dao-primitives/framework/group-primitives/cells|Cells]] to coordinate with external contributors, creating clear [[tags/agreements|agreements]] about specific contributions while maintaining network [[tags/transparency|transparency]] and [[tags/accountability|accountability]].
 
 ---
 

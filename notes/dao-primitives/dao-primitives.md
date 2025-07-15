@@ -9,23 +9,23 @@ tags:
 ---
 # DAO Primitives Project
 
-The DAO Primitives Project provides a framework, conceptual tools, and practical patterns for building **purpose-aligned networks of small autonomous teams** that can scale effectively while maintaining coordination, adaptability, and emergent collective intelligence.
+The DAO Primitives Project provides a framework, conceptual tools, and practical patterns for building **[[tags/purpose|purpose]]-aligned networks of small autonomous [[tags/teams|teams]]** that can scale effectively while maintaining coordination, adaptability, and emergent collective intelligence.
 
-Our current organizational models were optimized for an era of industrial production and hierarchical management, creating structures that excel at efficiency but struggle with complexity, adaptability, and equitable value distribution. Decentralized organizations offer transformative alternatives through their core properties: distributed authority that prevents power concentration, permissionless innovation that unlocks collective intelligence, transparent operations that build trust, and aligned incentives that share value with all contributors. 
+Our current organizational models were optimized for an era of industrial production and hierarchical management, creating structures that excel at efficiency but struggle with complexity, adaptability, and equitable value distribution. [[tags/decentralization|Decentralized organizations]] offer transformative alternatives through their core properties: distributed authority that prevents power concentration, permissionless innovation that unlocks collective intelligence, transparent operations that build trust, and aligned incentives that share value with all contributors. 
 
-As our societal challenges grow increasingly complex and interconnected—from climate change to economic inequality—we need coordination systems that can harness diverse perspectives, adapt quickly to emerging conditions, and align human activity with regenerative outcomes. 
+As our societal challenges grow increasingly complex and interconnected—from climate change to economic inequality—we need [[tags/coordination|coordination]] systems that can harness diverse perspectives, adapt quickly to emerging conditions, and align human activity with regenerative outcomes. 
 
-Traditional corporations, governments, and NGOs, designed for stability in predictable environments, often lack the responsiveness and diversity of intelligence needed to address systemic challenges. Decentralized organizations provide a fundamental reimagining of how humans coordinate to create value, enabling more resilient, adaptive, and equitable systems capable of navigating the complexity of our modern world while distributing benefits more widely across society.
+Traditional corporations, governments, and NGOs, designed for stability in predictable environments, often lack the responsiveness and diversity of intelligence needed to address systemic challenges. [[tags/decentralization|Decentralized organizations]] provide a fundamental reimagining of how humans [[tags/coordination|coordinate]] to create value, enabling more resilient, adaptive, and equitable systems capable of navigating the complexity of our modern world while distributing benefits more widely across society.
 
-We developed the DAO Primitives project around  **purpose-aligned networks of small autonomous teams** as a conceptual starting point for designing decentralized organizations. The DAO primitives allow communities of all kinds to build their own purpose aligned networks that can act in deliberate coherent ways to create better futures for everyone who participates in them.
+We developed the DAO Primitives project around **[[tags/purpose|purpose]]-aligned networks of small autonomous [[tags/teams|teams]]** as a conceptual starting point for designing decentralized organizations. The DAO primitives allow communities of all kinds to build their own purpose aligned networks that can act in deliberate coherent ways to create better futures for everyone who participates in them.
 
 ## What Are DAO Primitives?
 
-The DAO Primitives are a handful of building blocks for designing decentralized organizations. They're un-opinionated components that can be combined and configured to create governance and operational systems tailored to specific contexts and needs.
+The DAO [[tags/primitives|Primitives]] are a handful of building blocks for designing [[tags/decentralization|decentralized organizations]]. They're un-opinionated components that can be combined and configured to create governance and operational systems tailored to specific contexts and needs.
 
-Unlike prescriptive frameworks that dictate how organizations should be structured, the primitives offer maximum flexibility while maintaining coherence and interoperability. They enable experimentation with novel forms of coordination that can potentially outperform traditional organizational models.
+Unlike prescriptive frameworks that dictate how organizations should be structured, the primitives offer maximum flexibility while maintaining coherence and interoperability. They enable experimentation with novel forms of [[tags/coordination|coordination]] that can potentially outperform traditional organizational models.
 
-The primitives approach addresses a crucial challenge: **how can decentralized networks scale while balancing efficiency with innovation, autonomy with alignment, and flexibility with coherence?**
+The primitives approach addresses a crucial challenge: **how can decentralized networks scale while balancing efficiency with innovation, autonomy with [[tags/alignment|alignment]], and flexibility with coherence?**
 
 ## Core Conceptual Framework
 
@@ -43,7 +43,7 @@ Human systems function differently at different scales. Each scale requires diff
 
 #### 2. Group Phase
 
-Groups develop through predictable phases, each with distinct needs and challenges. Understanding these phases helps groups select appropriate tools and practices for their current stage of development.
+[[tags/groups|Groups]] develop through predictable phases, each with distinct needs and challenges. Understanding these phases helps groups select appropriate tools and practices for their current stage of development.
 - **Conversation Phase**
 - **Formation Phase**
 - **Organisation Phase**
@@ -53,7 +53,7 @@ Groups develop through predictable phases, each with distinct needs and challeng
 
 #### 3. Group State
 
-For decentralized coordination to work effectively, all entities in a network need clear interfaces. State documentation creates transparency that enables both internal coherence and external coordination.
+For decentralized [[tags/coordination|coordination]] to work effectively, all entities in a network need clear interfaces. State documentation creates transparency that enables both internal coherence and external [[tags/coordination|coordination]].
 
 ### Group Primitives
 
@@ -76,11 +76,7 @@ This section of the knowledge base contains several interrelated components:
 The conceptual foundations that guide organizational design, including models for understanding group scale, phase, and state, along with organizational primitives.
 
 ### 2. [Patterns](notes/dao-primitives/implementation/patterns/patterns.md)
-Reusable solutions to common coordination challenges, organized by scale:
-- [Collaboration Scale Patterns](collaboration-scale-patterns.md)
-- [Coordination Scale Patterns](coordination-scale-patterns.md)
-- [Constituency Scale Patterns](constituency-scale-patterns.md)
-- [Network Scale Patterns](network-scale-patterns.md)
+Reusable solutions to common [[tags/coordination|coordination]] challenges, organized by scale:
 
 ### 3. [Implementation](notes/dao-primitives/implementation/implementation.md)
 Practical tools, processes, and guides for putting the primitives approach into practice, including:

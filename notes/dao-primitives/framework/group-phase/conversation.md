@@ -14,7 +14,7 @@ publish: "true"
 
 The Conversation Phase represents the foundational [group-phase](notes/dao-primitives/framework/group-phase/group-phase.md) of development within decentralized networks, characterized by open exploration, idea generation, and relationship building. During this phase, potential collaborators gather around areas of shared interest to explore possibilities before formal structures or commitments are established. The primary goal is to establish shared context, build relationships, and develop a collective vision that can inspire and guide future collaboration.
 
-At a high-level the activities of a Conversation phase group can be described as "Discovery". This can often manifest as a formal [[drafts/pdf-old/old-original-structure/discovery/discovery]], resulting in a discovery report being an indicator that the group has completed the Conversation phase of its development. 
+At a high-level the activities of a Conversation phase group can be described as "Discovery". This can often manifest as a formal [[drafts/pdf-old/old-original-structure/discovery/discovery|discovery process]] resulting in a discovery report as an indicator that the group has completed the Conversation phase of its development. 
 
 When the conversation phase is complete, a group is ready to move on to the [[notes/dao-primitives/framework/group-phase/formation|formation]] phase. 
 

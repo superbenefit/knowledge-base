@@ -6,15 +6,20 @@ description: "A framework outlining the five key phases of group evolution, tail
 publish: "true"
 ---
 
+# Group Phase
+
 Groups evolve through distinct phases, each demanding unique tools and approaches. Understanding these phases is crucial for effective group function and coordination. Clearly defining a group's phase allows for the design of an appropriate set of tools and constraints for the group, affording it both internal coherence and coherence in the network within which it exists.  
 
-The DAO Primitives Framework identifies five phases of group development. Understanding these phases is a key component of designing decentralized structures that leverage a network of autonomous teams. This group phase framework can enable the creation of a governance design that can balance autonomy and structure throughout a group's lifecycle.
+
+
+
+**5 Group Phases:** The [[notes/dao-primitives/framework/framework.md|DAO Primitives Framework]] identifies five phases of group development. Understanding these phases is a key component of designing decentralized structures that leverage a network of autonomous teams. This group phase framework can enable the creation of a governance design that can balance autonomy and structure throughout a group's lifecycle.
 
 For example, an emerging idea being explored by a small team may require nothing more than basic communication channels for discussion and ideation. In contrast, a team allocated significant resources to perform core functions within a DAO will need robust organizational structures to safely and transparently fulfill its responsibilities.
 
-A clear phase framework serves two critical functions: it helps groups understand what structural elements they need at any given point in their development, and it enables broader network participants to identify what organizational standards a group must meet to be considered trustworthy for engagement, resource allocation, and collaboration.
+**2 Core Functions**: A clear phase framework serves two critical functions: it helps groups understand what structural elements they need at any given point in their development, and it enables broader network participants to identify what organizational standards a group must meet to be considered trustworthy for engagement, resource allocation, and collaboration.
 
-The specific implementation of group phases will vary based on the network's nature and values. For instance, a highly permissionless network might impose minimal structure requirements especially during early group formation stages, while a different network might establish specific criteria for groups at each developmental phase. These design choices should reflect the network's core requirements, principles, and governance approach.
+**Variation:** The specific implementation of group phases will vary based on the network's nature and values. For instance, a highly  permissionless network might impose minimal structure requirements especially during early group formation stages, while a different network might establish specific criteria for groups at each developmental phase. These design choices should reflect the network's core requirements, principles, and governance approach.
 
 These phases can be used broadly to map and understand the development of different types of groups. For example they can map the development of a team/Cell within a DAO network, or the development of a DAO itself. Depending on the type of group and its specific context, it will pass through these phases at different rates. For example, a working group being set up within an existing operational structure to fulfill a very specific predefined purpose, my move rapidly through the 5 group phases over several days. Whereas a DAO may take a year to evolve from initial conversations to a formally structured onchain network. 
 

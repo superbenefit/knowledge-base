@@ -6,6 +6,8 @@ description: "A framework outlining the four key scales of group organization, t
 publish: "true"
 ---
 
+# Group Scale
+
 Human systems function differently at different scales. Understanding these differences is crucial for designing organizational systems that function effectively, regardless of size. This framework identifies four key scales of group organization, each with its own characteristics, challenges, and best practices:
 
 - [Collaboration Scale](notes/dao-primitives/framework/group-scale/collaboration.md)
