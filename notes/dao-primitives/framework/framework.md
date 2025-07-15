@@ -2,7 +2,7 @@
 title: DAO Primitives Conceptual Framework
 description: A comprehensive framework for designing decentralized organizations as networks
 publish: "true"
-type: note
+type: pattern
 ---
 
 # DAO Primitives Conceptual Framework

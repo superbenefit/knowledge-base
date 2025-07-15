@@ -12,7 +12,7 @@ type: note
 - **[[implementation]]**
   - **[[case-studies]]**
     - [[rpp-governance-design-study|Reimagining Power Project Governance Design]]
-  - **[[guides]]**
+  - **[[notes/dao-primitives/implementation/guides/guides]]**
     - **[[dao-state-guide]]**
       - **[[template-alignment]]**
         - [[alignment-improvement-workflow]]
