@@ -29,6 +29,7 @@ _Notes and other documents related to experiments with the Institute for Communi
   - [[ics-case-study-journey-arc]]
   - [[ics-case-study-living-questions]]
   - [[ics-case-study-multiple-perspectives]]
+  - [[ics-case-study-narrative-structure]]
   - [[ics-case-study-resources-used]]
   - [[ics-case-study-transferable-insights]]
   - [[Set up ENS for ICS]]
