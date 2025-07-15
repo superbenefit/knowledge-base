@@ -14,8 +14,6 @@ Human systems function differently at different scales. Understanding these diff
 - [Coordination Scale](notes/dao-primitives/framework/group-scale/coordination.md)
 - [Constituency Scale](notes/dao-primitives/framework/group-scale/constituency.md)
 - [Network Scale](notes/dao-primitives/framework/group-scale/network.md)
-![](attachments/Pasted%20image%2020250213110400.png)
-
 
 When creating decentralized networks of autonomous teams, it is important to design for the different group scales that will occur. This way different groups across a network can operate effectively as separate entities, and also coordinate together effectively to create a collectively intelligent whole.  
 
