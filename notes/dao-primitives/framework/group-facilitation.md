@@ -283,7 +283,7 @@ The implementation plan itself requires approval through appropriate [[tags/gove
 
 ### B. Specific Implementation Support
 
-- Detailed implementation [[guides]] for each governance type
+- Detailed implementation [[notes/dao-primitives/implementation/guides/guides]] for each governance type
 - Pattern Library for specific solutions -  [[artifacts/patterns/patterns|patterns]]
 - Templates and tools within the implementation guides
 - - Facilitation support through SuperBenefit network
