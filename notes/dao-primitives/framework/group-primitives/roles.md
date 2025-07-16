@@ -8,8 +8,8 @@ tags:
 publish: "false"
 type: note
 ---
-# Roles
 
+# Roles
 
 ## Definition
 
@@ -17,17 +17,15 @@ Roles within the DAO Primitives Framework function as **agreement primitives** t
 
 ---
 
-
 ## Core Characteristics
 
 **Agreements-Based Primitive**: Unlike [[notes/dao-primitives/framework/group-primitives/cells|Cells]] and [[notes/dao-primitives/framework/group-primitives/daos|DAOs]] which function as entities (network nodes), Roles serve as [[tags/agreements|agreements]] (network edges) that define the "commitments and [[tags/responsibilities|responsibilities]] that are agreed upon between autonomous actors in the network."
 
 **Relationship Infrastructure**: Roles create the connective tissue between entities by establishing clear [[tags/agreements|agreements]] about "who is responsible for what" while maintaining [[tags/transparency|transparent]] interfaces that enable effective [[tags/coordination|coordination]] across the network without requiring hierarchical management.
 
-**Ongoing Activities**: Roles enable "[[tags/coordination|coordination]] and specialization" for ongoing activities (as opposed to [[drafts/framework backup/group-primitives/tasks|tasks]]). They create  defined sets of [[tags/responsibilities|responsibilities]] and [[tags/permissions|permissions]] that persist until they are either relinquished by the role owner or removed by a person or entity that holds authority over the role.
+**Ongoing Activities**: Roles enable "[[tags/coordination|coordination]] and specialization" for ongoing activities (as opposed to [[drafts/framework backup/group-primitives/tasks|tasks]]). They create defined sets of [[tags/responsibilities|responsibilities]] and [[tags/permissions|permissions]] that persist until they are either relinquished by the role owner or removed by a person or entity that holds authority over the role.
 
-**Flexible Implementation**: Roles can be implemented across different contexts as highly flexible ongoing mechanism to manage responsibilities - e.g in [[notes/dao-primitives/framework/group-primitives/cells|Cells]] defining internal and external roles for specialized functions, to [[notes/dao-primitives/framework/group-primitives/daos|DAO]] networks establishing roles for cross-entity [[tags/coordination|coordination]], to technical systems implementing role-based access control.
-
+**Flexible Implementation**: Roles can be implemented across different contexts as highly flexible ongoing mechanisms to manage responsibilities - e.g., in [[notes/dao-primitives/framework/group-primitives/cells|Cells]] defining internal and external roles for specialized functions, to [[notes/dao-primitives/framework/group-primitives/daos|DAO]] networks establishing roles for cross-entity [[tags/coordination|coordination]], to technical systems implementing role-based access control.
 
 ## Role State
 
@@ -45,7 +43,6 @@ Role State consists of three core components:
 
 Together, these three dimensions create comprehensive role state documentation that enables roles to function as effective [[tags/agreements|agreements]] primitives while maintaining the [[tags/transparency|transparency]] needed for network-wide [[tags/coordination|coordination]].
 
-
 ## Phase & Scale Considerations
 
 **Cross-Phase Adaptability**: Roles evolve through [[notes/dao-primitives/framework/group-phase/group-phase|group phases]] as entities mature - from informal role emergence in [[notes/dao-primitives/framework/group-phase/conversation|Conversation Phase]] to formalized role structures in [[notes/dao-primitives/framework/group-phase/organization|Organization Phase]] to network-integrated roles in [[notes/dao-primitives/framework/group-phase/coordination|Coordination Phase]].
@@ -54,7 +51,7 @@ Together, these three dimensions create comprehensive role state documentation t
 
 ## Network Relationships
 
-**Entity-Role Integration**: Roles are one of the functional interfaces between [[notes/dao-primitives/framework/group-primitives/cells|Cells]] and [[notes/dao-primitives/framework/group-primitives/daos|DAOs]], enabling entities to coordinate effectively by establishing clear [[tags/agreements|agreements]] about [[tags/responsibilities|responsibilities]], [[tags/authorities|authorities]], and [[tags/accountability|accountability]] across the network. For example, a Cell can be created to preform an established role. The role defines clear resource allocation, deliverables etc for the Cell. But the Cell retains autonomy as to how it does this. It also is free to engage in other activities across the network that are independent of the particular role it is committed to. 
+**Entity-Role Integration**: Roles are one of the functional interfaces between [[notes/dao-primitives/framework/group-primitives/cells|Cells]] and [[notes/dao-primitives/framework/group-primitives/daos|DAOs]], enabling entities to coordinate effectively by establishing clear [[tags/agreements|agreements]] about [[tags/responsibilities|responsibilities]], [[tags/authorities|authorities]], and [[tags/accountability|accountability]] across the network. For example, a Cell can be created to perform an established role. The role defines clear resource allocation, deliverables, etc. for the Cell. But the Cell retains autonomy as to how it does this. It also is free to engage in other activities across the network that are independent of the particular role it is committed to.
 
 **Role-Task Coordination**: Roles work in conjunction with [[notes/dao-primitives/framework/group-primitives/tasks|Tasks]] (another agreements primitive) to operationalize network coordination - Roles defining "who" has responsibility and authority, while Tasks define "what" specific actions and deliverables need to be accomplished.
 
@@ -70,9 +67,9 @@ Together, these three dimensions create comprehensive role state documentation t
 
 ## Examples in Practice
 
-**SuperBenefit**: has implemented roles to perform both community governance functions. We do this using hats protocol https://app.hatsprotocol.xyz/trees/10/30
+**SuperBenefit**: has implemented roles to perform community governance functions. We do this using Hats Protocol: [https://app.hatsprotocol.xyz/trees/10/30](https://app.hatsprotocol.xyz/trees/10/30)
 
-**All in for Sport:** has likewise implemented a roles structure using hats protocol https://app.hatsprotocol.xyz/trees/10/78
+**All in for Sport**: has likewise implemented a roles structure using Hats Protocol: [https://app.hatsprotocol.xyz/trees/10/78](https://app.hatsprotocol.xyz/trees/10/78)
 
 ---
 
@@ -87,9 +84,3 @@ Together, these three dimensions create comprehensive role state documentation t
 - [[tags/authorities|Authorities]] - The decision-making capacities granted to roles
 - [[tags/accountability|Accountability]] - The mechanisms through which roles are held responsible
 
-
-
-
-
-
-Example - hats protocol for SB and AIFS

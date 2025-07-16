@@ -130,7 +130,7 @@ type: note
   - [[Storytelling of the Stakeholder Group Journey]]
   - [[SuperBenefit Content Audit (June 2024)]]
   - [[Translate Social Impact Paper into Spanish]]
-  - [[notes/rpp/rpp-archive/rpp-tasks/Untitled]]
+  - [[Untitled]]
   - [[Update & Review of Philanthropy Workstream Outline]]
   - [[Update & Review Social Impact Paper]]
   - [[Update Community Knowledge Resources (Task)]]

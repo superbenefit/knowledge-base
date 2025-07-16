@@ -13,10 +13,9 @@ type: note
 
 ## Definition
 
-Cells are **small autonomous teams**  of 10 or fewer people (typically 3-8 people) that function as the basic organizational units within DAO networks. They operate through high-bandwidth, synchronous interaction while maintaining "networked autonomy" - making independent decisions about how to achieve their purpose while coordinating with other Cells and the broader network through transparent state documentation.
+Cells are **small autonomous teams** of 10 or fewer people (typically 3-8 people) that function as the basic organizational units within DAO networks. They operate through high-bandwidth, synchronous interaction while maintaining "networked autonomy" - making independent decisions about how to achieve their purpose while coordinating with other Cells and the broader network through transparent state documentation.
 
 ---
-
 
 ## Core Characteristics
 
@@ -28,11 +27,11 @@ Cells are **small autonomous teams**  of 10 or fewer people (typically 3-8 peopl
 
 **Dynamic Autonomous Units**: Cells function as "dynamic, autonomous units, avoiding bureaucratic overhead while protecting against group dysfunction." With fewer than 10 people, they provide enough scaffolding to enable effective self-governance while maintaining the flexibility needed for complex, evolving contexts without falling victim to the [[tags/coordination|coordination]] failures common in unstructured groups.
 
-**Flexible Operation**: Cells have a high degree of flexibility in how they are can operate. At creation the Cell can define its governance structure and agreements with other entities in the network to form whatever structure its creators want. 
+**Flexible Operation**: Cells have a high degree of flexibility in how they can operate. At creation, the Cell can define its governance structure and agreements with other entities in the network to form whatever structure its creators want.
 
 ## Cell State
 
-**[[notes/dao-primitives/framework/group-state|Cell State]]** serves as the foundational documentation pattern that enables Cells to function effectively both internally and within broader [[notes/dao-primitives/framework/group-primitives/daos|DAO networks]]. Each Cell maintains a [[notes/dao-primitives/framework/group-state|Cell State]] document that "holds the key information that the Cell needs to run itself while also providing what others in the [[notes/dao-primitives/framework/group-primitives/daos|DAO]] need to be able to understand and judge what the Cell does and how it does it.
+**[[notes/dao-primitives/framework/group-state|Cell State]]** serves as the foundational documentation pattern that enables Cells to function effectively both internally and within broader [[notes/dao-primitives/framework/group-primitives/daos|DAO networks]]. Each Cell maintains a [[notes/dao-primitives/framework/group-state|Cell State]] document that "holds the key information that the Cell needs to run itself while also providing what others in the [[notes/dao-primitives/framework/group-primitives/daos|DAO]] need to be able to understand and judge what the Cell does and how it does it."
 
 By maintaining transparent, accessible [[notes/dao-primitives/framework/group-state|Cell State]] documentation, Cells enable both internal coherence and external [[tags/coordination|coordination]] across the network.
 
@@ -45,13 +44,14 @@ By maintaining transparent, accessible [[notes/dao-primitives/framework/group-st
 **[[tags/progress|Progress]]**: Maintains documentation of project management systems, outputs, and execution toward goals. This serves both internal accountability (helping the Cell assess performance and adapt strategies) and external [[tags/transparency|transparency]] (enabling others to understand activities, judge effectiveness, and identify support opportunities).
 
 Together, these three dimensions create a comprehensive view of the Cell that enables "dynamic, autonomous units" to operate effectively while maintaining the network coordination necessary for collective success.
+
 ## Phase & Scale Considerations
 
 **Phase Evolution**: Cells typically begin in Conversation Phase (exploring possibilities), evolve through Formation Phase (establishing structure), mature in Organization Phase (operating effectively), and integrate in Coordination Phase (connecting with broader networks). They may also reach Completion Phase when their purpose is fulfilled.
 
-**Collaboration Scale Focus**: Cells are specifically designed for collaboration scale 10 or fewer people (typically 3-8 people) where coordination can happen through direct relationships and shared context. This scale enables the high-bandwidth interaction necessary for effective autonomous operation.
+**Collaboration Scale Focus**: Cells are specifically designed for collaboration scale of 10 or fewer people (typically 3-8 people) where coordination can happen through direct relationships and shared context. This scale enables the high-bandwidth interaction necessary for effective autonomous operation.
 
-Coordination Scale: Cells develop coordination relationships with other Cells and the broader DAO network, creating fractal organizational structures that can scale both efficiency and innovation simultaneously.
+**Coordination Scale**: Cells develop coordination relationships with other Cells and the broader DAO network, creating fractal organizational structures that can scale both efficiency and innovation simultaneously.
 
 ## Network Relationships
 
@@ -78,7 +78,7 @@ Coordination Scale: Cells develop coordination relationships with other Cells an
 - **Cell Coordination**: The Cell acts as a coordinating body for other Cells, creating or connecting with additional Cells to accomplish larger initiatives
 - **Contributor Coordination**: The Cell engages external contributors to execute work, often using [[notes/dao-primitives/framework/group-primitives/roles|roles]] and [[notes/dao-primitives/framework/group-primitives/tasks|tasks]] as coordination mechanisms
 
-**[[notes/dao-primitives/framework/group-state|State]]  Implementation**: Cells use the [[notes/dao-primitives/framework/group-state|state]] pattern as their core structural foundation, working through and defining their [[tags/purpose|Purpose]], [[tags/practices|Practice]], and [[tags/progress|Progress]] to create the documentation that enables both internal self-management and external [[tags/coordination|coordination]] within the [[notes/dao-primitives/framework/group-primitives/daos|DAO network]].
+**[[notes/dao-primitives/framework/group-state|State]] Implementation**: Cells use the [[notes/dao-primitives/framework/group-state|state]] pattern as their core structural foundation, working through and defining their [[tags/purpose|Purpose]], [[tags/practices|Practice]], and [[tags/progress|Progress]] to create the documentation that enables both internal self-management and external [[tags/coordination|coordination]] within the [[notes/dao-primitives/framework/group-primitives/daos|DAO network]].
 
 **Phase-Adaptive Structure**: Because Cells can form through different pathways, they move through [[notes/dao-primitives/framework/group-phase/group-phase|development phases]] in varied ways. Cells created for specific operational functions may move quickly through [[notes/dao-primitives/framework/group-phase/conversation|Conversation]] and [[notes/dao-primitives/framework/group-phase/formation|Formation]] phases, while autonomous Cells emerging from community conversations may take longer to develop through these phases organically.
 
@@ -90,11 +90,9 @@ Coordination Scale: Cells develop coordination relationships with other Cells an
 
 **Function-Based Cells**: Cells organized around specific organizational functions (like communications, development, or governance) that provide specialized services to the broader network while maintaining operational autonomy.
 
+**All in for Sport**: The DAO primitives framework has been applied to design the AIFS governance model and partnership with SuperBenefit. This governance model features a larger DAO (All in for Sport) which provides a community governance wrapper for an operational structure of coordinating Cells. More can be read about this example here: [[all-in-for-sport]].
 
-**All in for Sport**: The DAO primitives framework has been applied to design the AIFS governance model and partnership with SuperBenefit. This governance model features a larger DAO (All in for Sport) which provides a community governance wrapper for an operational structure of coordinating Cells. More can be read about this example here: [[all-in-for-sport]]. 
-
-**RPP Governance**: This project is a good example of a multi-stakeholder partnerships within a community governance wrapper, utilized a network of coordinating Cells to deliver the strategy and operations for a complex project. This shows how a network of autonomous Cells can be used to create a complex operations structure. See [[rpp-governance-design-study]]
-
+**RPP Governance**: This project is a good example of a multi-stakeholder partnership within a community governance wrapper, utilizing a network of coordinating Cells to deliver the strategy and operations for a complex project. This shows how a network of autonomous Cells can be used to create a complex operations structure. See [[rpp-governance-design-study]].
 
 ---
 
@@ -107,3 +105,8 @@ Coordination Scale: Cells develop coordination relationships with other Cells an
 - [[tags/coordination|Coordination]] - The mechanisms through which Cells align with networks
 - [[tags/scale|Scale]] - The collaboration scale at which Cells operate
 - [[notes/dao-primitives/framework/group-state|Group State]] - The transparency framework that enables Cell coordination
+
+
+
+
+

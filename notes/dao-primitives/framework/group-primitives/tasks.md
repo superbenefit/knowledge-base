@@ -8,13 +8,23 @@ tags:
 publish: "false"
 type: note
 ---
-# Tasks
 
+---
+title: Tasks (Primitive)
+description: Specific, coordinated actions or duties assigned to roles or agents within decentralized systems
+author: yeoro.eth
+tags:
+  - primitives
+  - tasks
+publish: "false"
+type: note
+---
+
+# Tasks
 
 ## Definition
 
 Tasks within the DAO Primitives Framework function as **agreement primitives** that establish formalized commitments about specific [[tags/actions|actions]], deliverables, and coordinated activities that need to be accomplished within [[notes/dao-primitives/framework/group-primitives/daos|DAO networks]]. As defined in [[tags/tasks|our lexicon]], Tasks are "specific, coordinated actions or duties assigned to [[tags/roles|roles]] or [[tags/agents|agents]] within decentralized systems" - serving as the operational [[tags/agreements|agreements]] that define **what** specific work needs to be accomplished, while [[notes/dao-primitives/framework/group-primitives/roles|Roles]] define **who** has the [[tags/responsibilities|responsibility]] and [[tags/authorities|authority]] to coordinate that work.
-
 
 ---
 
@@ -46,20 +56,21 @@ Together, these three dimensions create comprehensive task documentation that en
 
 ## Phase & Scale Considerations
 
-Tasks are a flexible primitive that can be used across all scales, phases and timeframes in a network. 
+Tasks are a flexible primitive that can be used across all scales, phases and timeframes in a network.
 
-**Task Scope**: can vary greatly depending on the goal being sought and where this occurs in the network.
+**Task Scope**: Can vary greatly depending on the goal being sought and where this occurs in the network.
 
- **[[Group-scale]]:** Super task vs sub task. Tasks can be used anywhere in the network. For example:
-	- Constituency Scale: At the level of community governance a high-level task containing a large project idea can be created and resourced. 
-	- Coordination Scale: This could then be given to a Cell charged with operational coordination. This Cell can break the task into smaller tasks that can be given to Cells or clusters of Cells for execution
-	- Collaboration Scale: These individual Cells can then create yet smaller sub-tasks to manage their execution of the lager piece of the super-task. 
+**[[Group-scale]]**: Super task vs sub task. Tasks can be used anywhere in the network. For example:
 
- **[[Group-phase]]:** Simple tasks may not require a phase process, however larger tasks depending on where they originate may require a phase process to evolve them through discovery, scoping, proposal, execution, completion phases
+- **Constituency Scale**: At the level of community governance a high-level task containing a large project idea can be created and resourced.
+- **Coordination Scale**: This could then be given to a Cell charged with operational coordination. This Cell can break the task into smaller tasks that can be given to Cells or clusters of Cells for execution.
+- **Collaboration Scale**: These individual Cells can then create yet smaller sub-tasks to manage their execution of the larger piece of the super-task.
 
-Timeframe:** Tasks can be finite pieces of work with strict timelines, or they can be long, ongoing projects. However, if the work is more akin to an ongoing responsibility rather than a defined task that can be planned and completed, then creating a Role, or set of Roles might be more effective than using a Task
+**[[Group-phase]]**: Simple tasks may not require a phase process, however larger tasks depending on where they originate may require a phase process to evolve them through discovery, scoping, proposal, execution, completion phases.
 
-**Governance target:** Unless a task is being used by an individual in their personal task management, Tasks will usually require an approval process of some sort. At the team level this could be a simple informal team approval process. But if the task is happening at higher [[group-scale]] and/or requires significant resources or presents other risks to the network, it will require a more robust and formal approval process. Usually some sort of proposal process will be used to approve such large tasks.   
+**Timeframe**: Tasks can be finite pieces of work with strict timelines, or they can be long, ongoing projects. However, if the work is more akin to an ongoing responsibility rather than a defined task that can be planned and completed, then creating a Role, or set of Roles might be more effective than using a Task.
+
+**Governance Target**: Unless a task is being used by an individual in their personal task management, Tasks will usually require an approval process of some sort. At the team level this could be a simple informal team approval process. But if the task is happening at higher [[group-scale]] and/or requires significant resources or presents other risks to the network, it will require a more robust and formal approval process. Usually some sort of proposal process will be used to approve such large tasks.
 
 ## Network Relationships
 
@@ -81,8 +92,7 @@ Timeframe:** Tasks can be finite pieces of work with strict timelines, or they c
 
 ## Examples in Practice
 
-**SuperBenefit**: uses roles across all scales of the DAO network. It implements roles through hats protocol to secure roles and integrate with other infrastructure for things like voting and treasury management. https://app.hatsprotocol.xyz/trees/10/30
-
+**SuperBenefit**: Uses tasks across all scales of the DAO network to coordinate specific deliverables and actions. Tasks are documented transparently in SuperBenefit's documentation management system in Charmverse. 
 
 ---
 
@@ -96,6 +106,17 @@ Timeframe:** Tasks can be finite pieces of work with strict timelines, or they c
 - [[tags/actions|Actions]] - The fundamental units of work that tasks coordinate
 - [[tags/coordination|Coordination]] - The mechanisms through which tasks enable network alignment
 - [[tags/accountability|Accountability]] - The mechanisms through which tasks create responsibility for delivery
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
