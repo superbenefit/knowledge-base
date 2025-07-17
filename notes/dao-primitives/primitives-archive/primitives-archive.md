@@ -46,7 +46,9 @@ type: note
     - [[DAO Primitives Meeting (10-03-2023)]]
     - [[DAO Primitives Meeting (10-10-2023)]]
     - [[DAO Primitives Meeting (11-04-2023)]]
+    - [[DAO Primitives Meeting (11-06-2024)]]
     - [[DAO Primitives Meeting (11-07-2023)]]
+    - [[DAO Primitives Meeting (12-03-2024)]]
     - [[DAO Primitives Meeting (12-09-2023)]]
     - [[DAO Primitives Meeting (12-12-2023)]]
     - [[DAO Primitives Meeting (13-02-2024)]]
@@ -93,8 +95,6 @@ type: note
     - [[DAO Primitives Meeting (30-05-2023)]]
     - [[DAO Primitives Meeting (31-01-2023)]]
     - [[DAO Primitives Meeting (31-10-2023)]]
-    - [[DAO primitives weekly meeting (11624)]]
-    - [[DAO Primitives Weekly Meeting (12324)]]
     - [[DAO Primitives Weekly Meeting Template]]
     - [[Primitives Docs Work Session]]
   - **[[primitives-tasks]]**
