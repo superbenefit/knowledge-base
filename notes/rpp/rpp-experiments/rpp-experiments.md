@@ -16,6 +16,10 @@ _Notes and other documents related to experiments in the Reimagining Power proje
 %% Begin Waypoint %%
 - **[[rpp-experiments]]**
   - **[[all-in-for-sport]]**
+    - [[aifs-discovery-report]]
+    - [[aifs-experiment-reflections]]
+    - [[aifs-intervention-map]]
+    - [[AIFSIP-04_ Delegation of DAO Operational Authority ]]
   - **[[equality-fund]]**
     - [[Equality Fund Call Transcript 4723]]
     - [[Equality Fund Experiment Discovery Report]]
