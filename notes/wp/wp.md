@@ -14,7 +14,6 @@ type: note
   - [[2023-08-07 - Windfall Energy Efficiency Project (WREEP) Cell State]]
   - **[[wp-meetings]]**
     - [[Windfall Protocol Wrap-Up Meeting]]
-    - [[WP Cell Weekly Meeting (12224)]]
     - [[WP Meeting (01-08-2024)]]
     - [[WP Meeting (02-05-2024)]]
     - [[WP Meeting (03-04-2024)]]
@@ -26,6 +25,8 @@ type: note
     - [[WP Meeting (10-09-2023)]]
     - [[WP Meeting (11-06-2023)]]
     - [[WP Meeting (11-09-2023)]]
+    - [[WP Meeting (11-13-2023)]]
+    - [[WP Meeting (12-02-2024)]]
     - [[WP Meeting (12-11-2023)]]
     - [[WP Meeting (13-01-2024)]]
     - [[WP Meeting (13-11-2023)]]
@@ -45,7 +46,6 @@ type: note
     - [[WP Meeting (29-01-2024)]]
     - [[WP Meeting (30-10-2023)]]
     - [[wp-clarity-meeting-notes]]
-    - [[WREEP Cell Weekly Meeting (111323)]]
   - **[[wp-tasks]]**
     - [[⬜️ EEP-310 SuperBenefitDAO Scope of Work]]
     - [[⬜️ EEP-311 Project Plan - WREEP]]

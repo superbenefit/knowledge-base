@@ -5,6 +5,7 @@
     "tags": "tags",
     "author": "multitext",
     "harvester": "multitext",
-    "curator": "multitext"
+    "curator": "multitext",
+    "date": "date"
   }
 }

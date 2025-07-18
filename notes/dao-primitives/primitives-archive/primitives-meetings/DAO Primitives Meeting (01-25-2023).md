@@ -1,8 +1,8 @@
 ---
 tags:
   - meetings
-date: 01-25-2023
 source: "[[2022-04-19 - Weekly Meeting Notes - DAO Primitives]]"
+date: 2023-01-25
 ---
 
 # DAO Primitives Meeting - 25/1/23

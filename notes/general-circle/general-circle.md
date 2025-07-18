@@ -287,15 +287,5 @@
     - [[⬜️ SUP-280 Michelle talk to OTF about funds flowing through Reimagine Institute ]]
     - [[⬜️ SUP-281 Propose final allocation of tokens for Systems Transformation Project]]
     - [[⬜️ SUP-288 Clarity Update]]
-  - **[[timeline]]**
-    - [[2024-06]]
-    - [[aifs-processor-complete]]
-    - [[comprehensive-issues-check]]
-    - [[fix-invalid-dates]]
-    - [[meeting-timeline-plan]]
-    - [[os-steward-parser]]
-    - [[status-check]]
-    - [[step-4-recovery-plan-updated]]
-    - [[step-4-recovery-plan]]
 
 %% End Waypoint %%
