@@ -1,0 +1,24 @@
+{
+  "total_rows": null,
+  "current_row": 1,
+  "batch_size": 20,
+  "analyzed_count": 0,
+  "last_updated": null,
+  "status_counts": {
+    "Working": 0,
+    "Dead": 0,
+    "Redirect": 0,
+    "Paywall": 0,
+    "Private": 0,
+    "Skip": 0
+  },
+  "session_history": [],
+  "marked_for_library": [],
+  "configuration": {
+    "csv_path": "~/Documents/GitHub/knowledge-base/notes/library/superbenefit-discord-urls.csv",
+    "progress_path": "~/Documents/GitHub/knowledge-base/notes/library/link-analysis-progress.json",
+    "max_retries": 2,
+    "timeout_seconds": 10,
+    "save_frequency": 5
+  }
+}

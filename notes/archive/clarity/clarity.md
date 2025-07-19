@@ -167,7 +167,7 @@ type: note
     - [[superbenefit]]
     - [[systems transformation]]
     - [[tactical meetings]]
-    - [[notes/archive/clarity/Tags/tasks]]
+    - [[tasks]]
     - [[templates]]
     - [[tension]]
     - [[the look, feel, and story of a better future]]
