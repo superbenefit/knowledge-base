@@ -2,11 +2,12 @@
 title: Reimagining Power at Equality Fund
 description: Notes and other documents related to experiments with Equality Fund in the Reimagining Power project at SuperBenefit
 author: 
-tags: experiments
+tags:
+  - experiments
 harvester: 
 curator: 
 publish: "false"
-type: note
+type: entity
 ---
 # Reimagining Power @ Equality Fund
 

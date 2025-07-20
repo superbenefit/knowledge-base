@@ -16,10 +16,10 @@ _Notes and other documents related to experiments in the Reimagining Power proje
 %% Begin Waypoint %%
 - **[[rpp-experiments]]**
   - **[[all-in-for-sport]]**
+    - [[aifs-case-study]]
     - [[aifs-discovery-report]]
     - [[aifs-experiment-reflections]]
     - [[aifs-intervention-map]]
-    - [[AIFSIP-04_ Delegation of DAO Operational Authority ]]
   - **[[equality-fund]]**
     - [[Equality Fund Call Transcript 4723]]
     - [[Equality Fund Experiment Discovery Report]]
@@ -37,22 +37,10 @@ _Notes and other documents related to experiments in the Reimagining Power proje
     - [[ICS Experiment Scoping]]
     - [[ICS Experiment Sensemaking Call]]
     - [[ICS GG23 Expression of Interest]]
-    - [[ics-case-study-connecting-threads]]
-    - [[ics-case-study-development-plan-v2]]
-    - [[ics-case-study-evidence-of-change]]
-    - [[ics-case-study-honest-complexity]]
-    - [[ics-case-study-journey-arc]]
-    - [[ics-case-study-living-questions]]
-    - [[ics-case-study-multiple-perspectives]]
-    - [[ics-case-study-narrative-structure-revised]]
-    - [[ics-case-study-narrative-structure]]
-    - [[ics-case-study-resources-used]]
-    - [[ics-case-study-transferable-insights]]
-    - [[Set up ENS for ICS]]
-    - [[Set up ICS Charmverse space]]
-    - [[Set up ICS Hats Tree]]
-    - [[Set up ICS multisig]]
-    - [[Set up ICS Snapshot space]]
+    - [[ics-case-study-addtl-info]]
+    - [[ics-case-study-creation-prompt]]
+    - [[ics-case-study-execution-plan]]
+    - [[ICS-Experiment-Case-Study]]
   - **[[women-win]]**
     - [[Meeting with Women Win & Equality Fund (copy)]]
     - [[Meeting with Women Win]]

@@ -13,7 +13,7 @@ aliases:
   - Reimagine Institute
   - Reimagine Institute for Community Sustainability
 publish: "true"
-type: note
+type: entity
 ---
 
 # Institute for Community Sustainability (ICS)

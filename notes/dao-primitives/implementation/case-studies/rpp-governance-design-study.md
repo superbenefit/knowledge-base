@@ -23,8 +23,13 @@ primitives:
   - agreements
   - proposals
 ---
-**
-This case study examines how SuperBenefit designed and implemented a layered multi-stakeholder governance model for the Reimagining Power Project (RPP) using the DAO Primitives framework. The design successfully balanced stakeholder oversight with operational autonomy while enabling effective coordination across organizational boundaries, creating a structure that supported both purpose alignment and efficient execution.
+
+
+# RPP Governance Design Case Study 
+
+---
+
+This case study examines how SuperBenefit designed and implemented a layered multi-stakeholder governance model for the Reimagining Power Project (RPP) using the [[notes/dao-primitives/framework/framework|DAO Primitives framework]]. The design successfully balanced stakeholder oversight with operational autonomy while enabling effective coordination across organizational boundaries, creating a structure that supported both purpose alignment and efficient execution.
 
 ---
 
@@ -45,7 +50,6 @@ The Reimagining Power Project needed a governance structure that could accommoda
 5. **Decision-Making Efficiency**: Establishing clear protocols for different types of decisions at different scales to prevent bottlenecks while maintaining alignment.
 6. **Integration with Existing Structures**: Ensuring coherence with SuperBenefit's broader governance framework while creating appropriate boundaries for the project.
 
-
 ### Goals
 
 The governance design aimed to accomplish several specific objectives:
@@ -57,7 +61,6 @@ The governance design aimed to accomplish several specific objectives:
 - Design flexible structures that could evolve as the project matured through different phases
 - Maintain consistent alignment with the project's purpose throughout all governance layers
 - Create pathways for diverse participation while respecting organizational boundaries
-
 
 ### Setting
 
@@ -77,36 +80,37 @@ Each stakeholder brought different perspectives, resources, and expectations to 
 
 ### Multi-Stakeholder Governance with DAO Primitives
 
-The governance design utilized SuperBenefit's DAO Primitives framework, implementing a multi-stakeholder approach with distinct but interconnected governance layers:
+The governance design utilized SuperBenefit's [[notes/dao-primitives/framework/framework|DAO Primitives framework]], implementing a multi-stakeholder approach with distinct but interconnected governance layers:
 
 1. **Community Governance** (Constituency Scale): SuperBenefit's broader community governance provided the outermost layer, offering oversight and purpose alignment while establishing boundaries for the project's autonomy.
 2. **Stakeholder Group** (Coordination Scale): Representatives from each stakeholder organization formed a collaborative forum for strategic direction, resource oversight, and cross-organizational alignment.
-3. **Core Team Cell** (Coordination Scale): A dedicated team with responsibility for interfacing between stakeholders and operations, making key strategic and resource allocation decisions. 
+3. **Core Team Cell** (Coordination Scale): A dedicated team with responsibility for interfacing between stakeholders and operations, making key strategic and resource allocation decisions.
 4. **Operational Cells** (Collaboration Scale): Specialized teams handling specific work areas, including:
     - The OS Stewards team: not an official Cell, an operational team within the core team Cell
     - Playbooks Cell: Focused on developing playbooks and other implementation patterns and tools
     - Community Experience Cell: Working on the Gatherings programme in partnership with All in for Sport and Women Win
     - DAO Primitives Cell: Providing governance design expertise and pattern implementation
-5. **Roles & Tasks**: Accountabilities with autonomy managed through well crafted [Roles](notes/dao-primitives/framework/group-primitives/roles.md) and [Tasks](notes/dao-primitives/framework/group-primitives/tasks.md). 
+5. **Roles & Tasks**: Accountabilities with autonomy managed through well crafted [[tags/roles|Roles]] and [[tags/tasks|Tasks]].
 
 Each layer operated with appropriate decision-making mechanisms and authority scopes, with clear interfaces between them to enable effective coordination while maintaining autonomy.
 
 ### Framework Components and Patterns Applied
 
 1. **Core Primitives**: Building blocks for organizational design:
-    - **Cells**: Autonomous working groups with defined purpose, practices, and progress tracking
-    - **Roles**: Clearly defined responsibilities and permissions
-    - **Tasks**: Discrete units of work with clear deliverables
+    - **[[tags/cells|Cells]]**: Autonomous working groups with defined purpose, practices, and progress tracking
+    - **[[tags/roles|Roles]]**: Clearly defined responsibilities and permissions
+    - **[[tags/tasks|Tasks]]**: Discrete units of work with clear deliverables
     - **State Documentation**: Transparent recording of agreements, decisions, and progress
 2. **Patterns**: Reusable solutions for common governance challenges:
-    - **Cell Working Group Pattern**: Framework for autonomous team operation
-    - **Multi-Stakeholder Governance Pattern**: Balancing diverse stakeholder interests
-    - **Community Governance Pattern**: Constituency-scale decision processes
+    - **[[notes/dao-primitives/implementation/patterns/coordination-scale-patterns/cell-working-group|Cell Working Group Pattern]]**: Framework for autonomous team operation
+    - **[[notes/dao-primitives/implementation/patterns/constituency-scale-patterns/multi-stakeholder-governance|Multi-Stakeholder Governance Pattern]]**: Balancing diverse stakeholder interests
+    - **[[notes/dao-primitives/implementation/patterns/constituency-scale-patterns/community-governance|Community Governance Pattern]]**: Constituency-scale decision processes
     - **Minimum Viable Permissionless-ness**: Allowing appropriate autonomy while maintaining coherence
 
 ### Rationale for Selection
 
 This multi-layered approach was developed because it:
+
 - Supported evolution and adaptation as the project matured through different phases
 - Allowed for collective intelligence style decision-making from the edges of the system
 - Provided appropriate layers of governance for different types of decisions required
@@ -123,28 +127,28 @@ This multi-layered approach was developed because it:
 The implementation began with a thorough discovery process involving potential stakeholders to understand their needs, expectations, and preferred modes of engagement:
 
 1. **Stakeholder Consultations**: A series of structured conversations with representatives from each stakeholder organization explored:
-	- Goals, opportunities and specific areas of interest within the project scope
-	- Desired levels of involvement in different types of decisions
-	- Risk tolerance and oversight requirements
-	- Resources and expertise they could contribute
+    - Goals, opportunities and specific areas of interest within the project scope
+    - Desired levels of involvement in different types of decisions
+    - Risk tolerance and oversight requirements
+    - Resources and expertise they could contribute
 2. **Role Definition**: Defining the role of a Stakeholder group member in line with above consultations
-	- Governance participation activities
-	- Commitments to meetings and use of communication channels
-	- Access to operational comms and other project information
+    - Governance participation activities
+    - Commitments to meetings and use of communication channels
+    - Access to operational comms and other project information
 3. **Engagement Options**: Providing pathways for stakeholders to participate in operational work if desired, while not making this mandatory:
-	- Opportunity to join the core team
-	- Opportunity to join or create an operational Cell
-	- Opportunity to contribute to specific project tasks
+    - Opportunity to join the core team
+    - Opportunity to join or create an operational Cell
+    - Opportunity to contribute to specific project tasks
 
 This process revealed that stakeholders were primarily interested in being informed and participating in collaborative conversations rather than exercising formal approval over operational budgets or activities.
 
-Some stakeholders were interested in participating in specific experiments within the project. For example Equality Fund supporting and participating in an experiment in using crypto rails to distribute funding to recipient organizations. 
+Some stakeholders were interested in participating in specific experiments within the project. For example Equality Fund supporting and participating in an experiment in using crypto rails to distribute funding to recipient organizations.
 
 ### Core Team (TLC) - Formation Phase
 
 Following the discovery phase, a Core Team was established as the primary operational decision-making body.
 
-This was outlined for transparency and clarity in the Cell's [cell-state](cell-state.md). This holds the Purpose, Practice and Progress for the Cell (and therefore the RPP project overall):
+This was outlined for transparency and clarity in the Cell's [[notes/dao-primitives/implementation/patterns/coordination-scale-patterns/cell-state|cell-state]]. This holds the [[tags/purpose|Purpose]], [[tags/practices|Practice]] and [[tags/progress|Progress]] for the Cell (and therefore the RPP project overall):
 
 - **Composition**: The Core Team included:
     - Representatives with strong relationships to key stakeholders
@@ -157,9 +161,9 @@ This was outlined for transparency and clarity in the Cell's [cell-state](cell-s
     - Authority to create and task operational cells
     - Stakeholder group interface responsibility
 - **Decision Protocol**: The team implemented a formal proposal mechanism documented in their cell state, which included:
-    - Use of the [decider](decider.md) protocol for core team decisions. A consent-based decision mechanism (no reasoned objections rather than unanimous agreement)
+    - Use of the [[notes/dao-primitives/implementation/guides/decider|decider protocol]] for core team decisions. A [[tags/consent|consent-based]] decision mechanism (no reasoned objections rather than unanimous agreement)
     - Recording of major decisions in a decision log
-    - Management of project treasury via a safe multi-sig contract
+    - Management of project [[tags/treasury|treasury]] via a [[tags/wallets|safe multi-sig contract]]
     - Thresholds for decisions requiring stakeholder consultation
 - **Operating Rhythm**: The Core Team established:
     - Weekly synchronous coordination meetings
@@ -168,45 +172,45 @@ This was outlined for transparency and clarity in the Cell's [cell-state](cell-s
 
 As the project progressed, the Core Team identified a need to accelerate execution. In response, they created and funded the "OS Stewards" as a specialized operational group within the Core Team specifically focused on maintaining momentum and ensuring timely deliverables. This adaptation demonstrated the flexibility of the governance model to evolve based on emerging needs.
 
-
-
 ### Operational Structure Development - Organization Phase
 
-The operational structure was designed to leverage existing SuperBenefit operational entities as well as to create its own as needed. 
+The operational structure was designed to leverage existing SuperBenefit operational entities as well as to create its own as needed.
 
 1. **Top-Level-Cell**: The TLC (and later the OS Stewards specifically) acted as an operational Cell, executing towards project goals, as well as being responsible for developing strategy for the project
-2. **Leveraging Existing Cells**: Engaging the Community Experience and DAO Primitives cells from SuperBenefit to carry out delivery work 
+2. **Leveraging Existing Cells**: Engaging the Community Experience and DAO Primitives cells from SuperBenefit to carry out delivery work
 3. **Creating New Cells**: Establishing additional Cells as needed. E.g the Playbooks Cell created specifically for the RPP
-4. **Task and Role Creation**: Using roles and tasks to delegate specific deliverables throughout the project's operational structure. Tasks and Roles were used as primitives to manage all project deliverables.
+4. **Task and Role Creation**: Using [[tags/roles|roles]] and [[tags/tasks|tasks]] to delegate specific deliverables throughout the project's operational structure. Tasks and Roles were used as primitives to manage all project deliverables.
 5. **Partnerships**: Using roles and tasks, the operational units of the project were able to engage with partner organizations as well as individual contributors to deliver project execution
 
-The combination of using existing Cells, or creating new Cells, allowed the operational structure to be flexible to opportunities as they arose. It also provided autonomy to Cells to approach roles and tasks as they chose, while providing transparency via the tools and practices used (Cell State, Role and Task definition, transparent decsion-making etc) 
+The combination of using existing Cells, or creating new Cells, allowed the operational structure to be flexible to opportunities as they arose. It also provided autonomy to Cells to approach roles and tasks as they chose, while providing transparency via the tools and practices used ([[notes/dao-primitives/implementation/patterns/coordination-scale-patterns/cell-state|Cell State]], [[tags/roles|Role]] and [[tags/tasks|Task]] definition, transparent decision-making etc)
 
 A notable use of this structure was the implementation of the Playbooks Cell–a purpose-specific cell focused on developing practical implementation patterns and guides–using a Moloch contract. This was designed to facilitate:
+
 - Contributors from other networks to participate without formal onboarding to the broader SuperBenefit DAO
 - Collective decision-making over work priorities and resource allocation within the cell
 - Transparent tracking of contributions and compensation
 - Dynamic membership as the project's needs evolved
 
-### Execution - Coordination Phase 
+### Execution - Coordination Phase
 
 ### Addressing Execution Challenges
 
 As the project progressed, the Core Team identified a need to accelerate execution. In response, they created and funded the "OS Stewards" as an operational group within the Core Team specifically focused on maintaining momentum. This adaptation demonstrated the flexibility of the governance model to evolve based on emerging needs.
 
 ### Financial and Technical Infrastructure
+
 The governance model was supported by a carefully designed financial and technical infrastructure:
 
 1. **Fiscal Sponsorship and Treasury Management**:
     - **Institute for Community Sustainability (ICS)** served as fiscal sponsor, allowing funds to flow in as cryptocurrency
-    - Funds were allocated to a Safe multi-signature wallet controlled by authorized Core Team members
+    - Funds were allocated to a [[tags/wallets|Safe multi-signature wallet]] controlled by authorized Core Team members
     - The Core Team managed resource distribution to cells based on approved work plans
     - Cells had autonomy in allocating their budgets to contributors according to cell-specific processes
 2. **Technical Infrastructure**:
     - **CharmVerse**: Used for documentation, cell states, proposals, and decision records
     - **Discord**: Dedicated channels within SuperBenefit's server provided communication infrastructure
     - **Moloch Smart Contracts**: Implemented specifically for Playbooks Cell to enable decentralized governance across contributors from multiple different networks
-    - **Safe Wallet**: Multi-sig wallet for treasury management with appropriate access controls
+    - **[[tags/wallets|Safe Wallet]]**: Multi-sig wallet for [[tags/treasury|treasury management]] with appropriate access controls
 3. **Documentation and Transparency**:
     - Cell states documented purpose, practices, and progress for each organizational unit
     - Proposal history maintained as a transparent record of decisions
@@ -240,13 +244,12 @@ The governance model successfully achieved its core objectives, demonstrating se
 5. **Adaptability**:
     - The structure evolved effectively in response to emerging needs
     - Additional components (like OS Stewards) were integrated without disrupting the overall framework
-    - The balance between stakeholder involvement and operational autonomy was recalibrated as the project progressed and new opportunities opened up. 
-
+    - The balance between stakeholder involvement and operational autonomy was recalibrated as the project progressed and new opportunities opened up.
 
 ### Lessons Learned
 
-- More time to get started than we would have likes - this was an experiemnt and we were learning as we went. 
-- Emerging contexts are difficult to navigate and therefore flexible strucrtrue are really important 
+- More time to get started than we would have liked - this was an experiment and we were learning as we went.
+- Emerging contexts are difficult to navigate and therefore flexible structure are really important
 - Tax issues - SB needs a formal structure
 
 While the model ultimately proved effective, several challenges emerged that provide valuable insights for future applications:
@@ -260,11 +263,11 @@ While the model ultimately proved effective, several challenges emerged that pro
     - The design initially overestimated stakeholders' desire for approval rights over operational details. Most were happy to just stay informed
     - Some stakeholders struggled to use the communication platforms and attendance at Stakeholder meetings was irregular for some of stakeholder group members
 3. **Delegation Timing**:
-	- The Core Team took a long time to feel comfortable with planning and execution. The initial sense-making needed to develop strategy for the project happened over an extended period of time with the core team meeting for only one hour per week. 
-	- As a result, the operational side of the project took several months to begin executing in earnest  
-	- Front-loading the sense-making aspects of setting up core team and bringing in some more prescribed facilitation support could have help this phase of the project move faster. 
-	- Earlier delegation of tasks to operational cells and other contributors would have sped up execution in these early phases as well
-    - Time spent on governance design sometimes delayed execution of substantive work - it would have been valuable to start executing in a safe way in parellel  with the emerging governance design. 
+    - The Core Team took a long time to feel comfortable with planning and execution. The initial sense-making needed to develop strategy for the project happened over an extended period of time with the core team meeting for only one hour per week.
+    - As a result, the operational side of the project took several months to begin executing in earnest
+    - Front-loading the sense-making aspects of setting up core team and bringing in some more prescribed facilitation support could have help this phase of the project move faster.
+    - Earlier delegation of tasks to operational cells and other contributors would have sped up execution in these early phases as well
+    - Time spent on governance design sometimes delayed execution of substantive work - it would have been valuable to start executing in a safe way in parallel with the emerging governance design.
 4. **Facilitation Needs**:
     - More structured facilitation could have accelerated core team decision-making around initial project strategy allowing implementation to happen sooner
     - Clearer timeframes for different phases would have helped manage expectations
@@ -274,39 +277,65 @@ While the model ultimately proved effective, several challenges emerged that pro
     - Integration between traditional and Web3 tools created occasional friction
     - Documentation of technical processes was sometimes insufficient for non-technical participants
 
-
-
-
 ### Conclusion
 
-The RPP governance design demonstrates the potential of applying DAO Primitives framework to complex multi-stakeholder initiatives. By thoughtfully balancing stakeholder oversight with operational autonomy and deliberately designing for different scales of coordination, the model enabled effective collaboration across organizational boundaries while maintaining alignment with core purpose.
+The RPP governance design demonstrates the potential of applying [[notes/dao-primitives/framework/framework|DAO Primitives framework]] to complex multi-stakeholder initiatives. By thoughtfully balancing stakeholder oversight with operational autonomy and deliberately designing for different scales of coordination, the model enabled effective collaboration across organizational boundaries while maintaining alignment with core purpose.
 
-There are of course improvements to make for future versions of this governance design. Many of the aspects of the project that were less optimal reflect the fact that this project, as well as engaging in experiments, was in itself an experiment. Indeed the entire multi-stakeholder-governance model was experimental. Thus the learning outlined above will be used to inform evolutions of this model.  
+There are of course improvements to make for future versions of this governance design. Many of the aspects of the project that were less than optimal reflect the fact that this project, as well as engaging in experiments, was in itself an experiment. Indeed the entire multi-stakeholder-governance model was experimental. Thus the learning outlined above will be used to inform evolution of this model.
 
 ---
 
 ## Appendices
 
 ### Governance Structure Diagram
+
 Here is an outline of how the governance structure of the RPP. 
+
 ![](attachments/Pasted%20image%2020250410195527.png)
 
+
 ### DAO Primitives Framework Elements Used
+
 - **Scales**: Collaboration, Coordination, Constituency scales
 - **Stages**: Implementation across Group Phases - Conversation, Formation, Organization, Coordination
-- **Primitives**: DAOs, Cells, Roles, Tasks
-- **Patterns**: Cell Working Group, Multi-stakeholder Governance, Community Governance
+- **Primitives**: DAOs, [[tags/cells|Cells]], [[tags/roles|Roles]], [[tags/tasks|Tasks]]
+- **Patterns**: [[notes/dao-primitives/implementation/patterns/coordination-scale-patterns/cell-working-group|Cell Working Group]], [[notes/dao-primitives/implementation/patterns/constituency-scale-patterns/multi-stakeholder-governance|Multi-stakeholder Governance]], [[notes/dao-primitives/implementation/patterns/constituency-scale-patterns/community-governance|Community Governance]]
 
 ### Technical Components
+
 - Charmverse for documentation and proposals
 - Discord for communication
 - Moloch contracts for specialized Cell governance
-- Safe wallet for treasury management
+- Safe wallet for [[tags/treasury|treasury management]]
 
 ### Stakeholder Group Composition
+
 - SuperBenefit
 - Equality Fund
 - All in for Sport
 - Institute for Community Sustainability (ICS)
 - Ontario Trillium Foundation (OTF)
 - Women Win
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+T
