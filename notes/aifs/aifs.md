@@ -6,7 +6,7 @@ tags:
 harvester: 
 curator: 
 publish: "false"
-type: note
+type: entity
 ---
 # All In For Sport Notes
 
