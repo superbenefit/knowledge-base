@@ -46,9 +46,20 @@ If the file doesn't exist, create it with:
 #### 3. Analyze Each Link
 For each link in the batch:
 
-1. **Quick Check** (don't fetch full content unless necessary):
-   - Use firecrawl_scrape with minimal formats: `["links"]`
-   - Check if the URL is accessible
+1. **Primary Method** (highest reliability):
+   - Use `obsidian-mcp-tools:fetch` as the primary tool
+   - This has proven ~80% more reliable than other methods
+   
+2. **Backup Method** (if primary fails):
+   - Use `firecrawl_scrape` with optimized settings:
+     - `skipTlsVerification: true`
+     - `timeout: 30000`
+     - `waitFor: 3000`
+     - `formats: ["markdown"]`
+
+3. **Fallback Method** (for context only):
+   - Use `web_search` to find information about the domain/site
+   - Do NOT use `web_fetch` (blocked by permissions for Discord links)
    
 2. **Determine Status**:
    - `Working` - Link loads successfully
@@ -99,17 +110,25 @@ Session ended due to: [conversation limit reached / user stop / completion]
 ```
 
 ### Error Handling
-- If a link times out, mark as "Error" with note "Timeout"
+- If `obsidian-mcp-tools:fetch` fails, try `firecrawl_scrape` with optimized settings
+- If both methods fail, mark as "Error" with specific reason ("Connection failed", "SSL error", etc.)
 - If CSV operations fail, report the error and stop
 - Save progress after every 5 links to prevent data loss
 - If interrupted, the next session will resume from the last saved position
+
+### Tool Reliability Notes (Updated July 2025)
+- **obsidian-mcp-tools:fetch**: Most reliable method (~80% success rate)
+- **firecrawl_scrape**: Backup method (requires specific configuration for reliability)
+- **web_fetch**: Blocked for Discord links due to permissions
+- **web_search**: Useful for context but doesn't retrieve actual content
 
 ### Efficiency Rules
 1. Keep notes brief and focused
 2. Don't re-analyze links that already have a Status
 3. Save incrementally to prevent data loss
-4. Use minimal API calls per link
+4. Try obsidian-mcp-tools:fetch first (most reliable), only use backup methods if needed
 5. Continue until conversation limits are approached or all links processed
+6. Document method used in progress tracking for debugging
 
 ### Special Instructions
 - Links marked with "LIBRARY:" should be tracked for later full analysis

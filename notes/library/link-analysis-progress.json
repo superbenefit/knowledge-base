@@ -1,15 +1,16 @@
 {
-  "current_row": 21,
-  "total_analyzed": 34,
-  "last_session": "2025-07-20T16:30:00Z",
+  "current_row": 75,
+  "total_analyzed": 84,
+  "last_session": "2025-07-21T00:15:00Z",
+  "method_used": "obsidian-mcp-tools:fetch (primary), firecrawl_scrape (backup)",
   "status_counts": {
-    "Working": 12,
-    "Dead": 13,
-    "Redirect": 0,
+    "Working": 33,
+    "Dead": 21,
+    "Redirect": 1,
     "Paywall": 0,
-    "Error": 9,
-    "Skip": 0,
-    "Other": 0
+    "Error": 23,
+    "Skip": 4,
+    "Other": 2
   },
   "library_candidates": [
     {
@@ -51,6 +52,66 @@
     {
       "url": "https://0xrusowsky.substack.com/p/an-attempt-to-analyze-all-the-drama?r=rx2fd",
       "note": "Crypto/web3 analysis Substack, relevant to DeFi and governance topics"
+    },
+    {
+      "url": "https://a16z.com/wp-content/uploads/2021/10/DAO-Legal-Framework-Jennings-Kerr10.19.21-Final.pdf",
+      "note": "a16z DAO Legal Framework - essential governance resource for legal structures"
+    },
+    {
+      "url": "https://celo.org/papers/Celo_Stability_Analysis.pdf",
+      "note": "Celo Stability Analysis - technical governance resource for stablecoin/DeFi systems"
+    },
+    {
+      "url": "http://www.im4e.org",
+      "note": "Impact Management for Everyone - practical framework for managing non-financial business consequences"
+    },
+    {
+      "url": "http://unios.world/",
+      "note": "Electric Coffin NFT art collection - lower priority (art-focused)"
+    },
+    {
+      "url": "https://banklessdao.substack.com/",
+      "note": "Black Flag DAO Substack, 20k+ subscribers, DAO-focused content"
+    },
+    {
+      "url": "https://banklessdao.substack.com/p/finding-freedom-and-agency-in-daos?s=r",
+      "note": "DAO agency & freedom article, State of DAOs newsletter, very relevant to governance"
+    },
+    {
+      "url": "https://banklessdao.substack.com/p/impactdaos-are-shaping-the-future?utm_medium=email&utm_source=substack",
+      "note": "ImpactDAOs & regenerative organizations article, highly relevant to SuperBenefit's mission"
+    },
+    {
+      "url": "https://banklessdao.substack.com/p/strategies-for-delegated-voting-in?s=w",
+      "note": "Delegated voting strategies in DAOs, governance mechanisms article by Samantha Marin"
+    },
+    {
+      "url": "https://banksbenitez.ghost.io/the-insider-june-2022/",
+      "note": "Web3 Impact Summit organizer's newsletter, regenerative work & social change focus"
+    },
+    {
+      "url": "https://bcorporation.com.au/governance/",
+      "note": "B Corp governance model with B Council & participatory structures, regenerative economy focus"
+    },
+    {
+      "url": "https://beautifultrouble.org/",
+      "note": "Creative activism toolkit with strategies & tactics for social change, very relevant to movement building"
+    },
+    {
+      "url": "https://beautifultrouble.org/beautifulsolutions",
+      "note": "Beautiful Solutions: post-capitalist alternatives, solidarity economy toolbox, highly relevant to regenerative systems"
+    },
+    {
+      "url": "https://benevity.com/resources/web3-social-impact?utm_source=substack&utm_medium=email",
+      "note": "Web3 & philanthropy article, corporate social impact platform exploring decentralized giving"
+    },
+    {
+      "url": "https://besjournals.onlinelibrary.wiley.com/doi/10.1002/pan3.10124",
+      "note": "Levers and leverage points for pathways to sustainability academic paper, systems transformation framework"
+    },
+    {
+      "url": "https://biggreen.org",
+      "note": "Food sovereignty non-profit with school gardens, Million Gardens program & Big Green DAO grants"
     }
   ],
   "sessions": [
@@ -63,6 +124,39 @@
       "date": "2025-07-20T16:17:00Z",
       "rows_processed": "1-20",
       "links_analyzed": 20
+    },
+    {
+      "date": "2025-07-20T17:00:00Z",
+      "rows_processed": "25-29",
+      "links_analyzed": 5
+    },
+    {
+      "date": "2025-07-20T17:05:00Z",
+      "rows_processed": "30-39",
+      "links_analyzed": 10
+    },
+    {
+      "date": "2025-07-20T17:15:00Z",
+      "rows_processed": "40-50",
+      "links_analyzed": 10
+    },
+    {
+      "date": "2025-07-20T18:20:00Z",
+      "rows_processed": "Method testing + selective analysis",
+      "links_analyzed": 5,
+      "note": "Tested multiple scraping methods, established obsidian-mcp-tools:fetch as primary method"
+    },
+    {
+      "date": "2025-07-20T23:30:00Z",
+      "rows_processed": "55-65",
+      "links_analyzed": 11,
+      "note": "Continued systematic analysis with excellent results. Found several high-value library candidates including BanklessDAO articles, Beautiful Trouble toolkit, and B Corp governance resources."
+    },
+    {
+      "date": "2025-07-21T00:15:00Z",
+      "rows_processed": "66-74",
+      "links_analyzed": 9,
+      "note": "Continued analysis with good results. Found academic systems transformation paper and Big Green DAO. Mix of working links, dead domains, and redirects to PDFs/Google Drive."
     }
   ]
 }
