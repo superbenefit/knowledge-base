@@ -12,7 +12,7 @@ type: note
 - **[[implementation]]**
   - **[[case-studies]]**
     - [[rpp-governance-design-study|Reimagining Power Project Governance Design]]
-  - **[[notes/dao-primitives/implementation/guides/guides]]**
+  - **[[guides]]**
     - **[[dao-state-guide]]**
       - **[[template-alignment]]**
         - [[alignment-improvement-workflow]]
@@ -23,13 +23,10 @@ type: note
         - [[sb-alignment-plan-example]]
         - [[sb-alignment-review-example]]
         - [[sb-bridging-plan-example]]
-    - [[experiment-facilitation-framework]]
     - **[[governance-design]]**
       - [[implementation-guide-community-governance|Implementation Guide for Community Governance]]
       - [[implementation-guide-multi-stakeholder-governance|title]]
       - [[implementation-guide-operational-governance|title]]
-    - [[implementation-guide-community-governance]]
-    - [[sense-making-facilitation-tools 1]]
     - [[sense-making-facilitation-tools]]
   - **[[patterns]]**
 
