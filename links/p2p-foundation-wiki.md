@@ -14,7 +14,7 @@ tags:
   - decentralization
 ---
 
-The P2P Foundation Wiki stands as one of the most extensive repositories of knowledge on peer-to-peer theory and practice. Founded by Michel Bauwens and maintained by a global community of contributors, this living encyclopedia documents diverse approaches to non-hierarchical, commons-based organization across economic, political, technological, and cultural dimensions. The wiki serves both as an archive of historical peer-to-peer initiatives and as an evolving resource tracking contemporary developments in distributed systems, cooperative economics, and commons-based governance.
+The P2P Foundation Wiki stands as one of the most extensive repositories of knowledge on peer-to-peer theory and practice. Founded by Michel Bauwens and maintained by a global community of contributors, this living encyclopedia documents diverse approaches to non-hierarchical, commons-based organization across economic, political, technological, and cultural dimensions. The P2P Foundation describes their mission as creating "Hope with evidence" through documenting thousands of initiatives, guided by their motto: "Together we know everything, together we have everything" - demonstrating how pooling resources through commons creates prosperity for all. The wiki serves both as an archive of historical peer-to-peer initiatives and as an evolving resource tracking contemporary developments in distributed systems, cooperative economics, and commons-based governance.
 
 ### Key Highlights
 - **Comprehensive Commons Documentation**: The wiki catalogues thousands of examples of commons-based initiatives, from community-managed natural resources to open-source software projects, providing one of the most extensive collections of alternative economic models available online.
@@ -41,3 +41,7 @@ The wiki is particularly valuable for its documentation of real-world case studi
 - The wiki's extensive documentation of commons-based resource management offers precedent and inspiration for SuperBenefit's approaches to shared stewardship and community control.
 - SuperBenefit's exploration of regenerative economic systems draws directly on cooperative economic models documented in the wiki.
 - The P2P Foundation's work on knowledge commons directly informs SuperBenefit's approach to open source knowledge sharing and collaborative development.
+
+---
+
+![P2P Foundation Overview](https://youtu.be/sO-QJLDpHQ0)

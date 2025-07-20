@@ -69,6 +69,9 @@ These articles are already in the `/links` directory:
 | pre-constitutional-governance | ✅ Completed |
 | The Blockchain Governance Toolkit | ✅ Completed |
 | The Future of Optimism Governance | ✅ Completed |
+| The Crypto Syllabus | ✅ Completed |
+| The Future of Work is Human | ✅ Completed |
+| Community Building in DAOs | ✅ Completed |
 
 ### Listed As "Completed" But Not Found in Library
 These articles were marked as completed but aren't in the `/links` directory:
@@ -83,9 +86,6 @@ These articles are not yet in the library:
 
 | Title | Status |
 |-------|--------|
-| The Crypto Syllabus | ❌ To do |
-| The Future of Work is Human | ❌ To do |
-| Community Building in DAOs | ❌ To do |
 | Tokenized Communities | ❌ To do |
 | LIBERATORY GOVERNANCE… AND BELONGING | ❌ To do |
 | White Paper: Opportunities at the Intersection of Web3 and Social Change | ❌ To do |

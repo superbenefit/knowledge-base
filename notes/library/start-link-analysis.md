@@ -3,7 +3,7 @@
 ## IMPORTANT: This is an automated instruction file for AI assistants. When prompted to "follow start-link-analysis.md", execute these instructions completely.
 
 ### System Overview
-This system analyzes Discord links from a CSV file in batches of 20, tracking progress automatically.
+This system analyzes Discord links from a CSV file, tracking progress automatically and continuing until conversation limits are reached.
 
 ### Files Involved
 1. **Source CSV**: `~/Documents/GitHub/knowledge-base/notes/library/superbenefit-discord-urls.csv`
@@ -38,9 +38,10 @@ If the file doesn't exist, create it with:
 ```
 
 #### 2. Read the Next Batch
-- Read 20 rows starting from `current_row` in the CSV file
-- If a row already has a Status (not empty), skip it and don't count it toward the 20
+- Read rows starting from `current_row` in the CSV file, continuing until conversation limits
+- If a row already has a Status (not empty), skip it 
 - Focus only on rows where Status is empty or says "Needs analysis"
+- Save progress every 5 analyzed links to prevent data loss
 
 #### 3. Analyze Each Link
 For each link in the batch:
@@ -82,9 +83,9 @@ After each batch:
 ```
 
 #### 6. Report Results
-After processing the batch, show:
+After processing until conversation limits, show:
 ```
-Batch Analysis Complete:
+Session Analysis Complete:
 - Processed rows: [X] to [Y]
 - Links analyzed: [count]
 - Status breakdown:
@@ -92,9 +93,9 @@ Batch Analysis Complete:
   - Dead: [count]
   - Other: [counts]
 - Library candidates found: [count]
-- Next batch starts at row: [Z]
+- Next session starts at row: [Z]
 
-Continue with next batch? (The user will respond yes/no)
+Session ended due to: [conversation limit reached / user stop / completion]
 ```
 
 ### Error Handling
@@ -108,7 +109,7 @@ Continue with next batch? (The user will respond yes/no)
 2. Don't re-analyze links that already have a Status
 3. Save incrementally to prevent data loss
 4. Use minimal API calls per link
-5. Stop at exactly 20 new analyses per batch
+5. Continue until conversation limits are approached or all links processed
 
 ### Special Instructions
 - Links marked with "LIBRARY:" should be tracked for later full analysis
@@ -116,4 +117,4 @@ Continue with next batch? (The user will respond yes/no)
 - Preserve all existing data in the CSV - only update Status and Notes columns
 
 ### End of Instructions
-When these steps are complete, wait for user input before proceeding to the next batch.
+When these steps are complete or conversation limits are reached, provide the session summary and wait for user input.

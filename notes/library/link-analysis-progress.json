@@ -1,15 +1,15 @@
 {
-  "current_row": 8,
-  "total_analyzed": 14,
-  "last_session": "2024-12-19T10:00:00Z",
+  "current_row": 21,
+  "total_analyzed": 34,
+  "last_session": "2025-07-20T16:30:00Z",
   "status_counts": {
-    "Working": 5,
-    "Dead": 7,
+    "Working": 12,
+    "Dead": 13,
     "Redirect": 0,
     "Paywall": 0,
-    "Error": 1,
+    "Error": 9,
     "Skip": 0,
-    "Other": 1
+    "Other": 0
   },
   "library_candidates": [
     {
@@ -27,6 +27,30 @@
     {
       "url": "https://aboutcircles.com/",
       "note": "Valuable resource for alternative monetary systems"
+    },
+    {
+      "url": "http://ethereumlocalism.xyz/library/GFEL/GFEL-Coloring--and--Activity-Book",
+      "note": "Ethereum localism educational resource, aligns with regenerative tech focus"
+    },
+    {
+      "url": "http://lu.ma/e/r/g-T8BVEBj9vjAuVnw",
+      "note": "Luma event platform with crypto/climate focus, relevant to SuperBenefit communities"
+    },
+    {
+      "url": "http://richdecibels.com/",
+      "note": "Rich Decibels - governance and decentralized organizing expert, very relevant to DAO work"
+    },
+    {
+      "url": "http://sourcecred.superbenefit.org/",
+      "note": "SuperBenefit's own SourceCred instance for contribution tracking"
+    },
+    {
+      "url": "http://www.internetofimpact.org/",
+      "note": "Internet of Impact platform, relevant to social impact focus"
+    },
+    {
+      "url": "https://0xrusowsky.substack.com/p/an-attempt-to-analyze-all-the-drama?r=rx2fd",
+      "note": "Crypto/web3 analysis Substack, relevant to DeFi and governance topics"
     }
   ],
   "sessions": [
@@ -34,6 +58,11 @@
       "date": "2024-12-19T10:00:00Z",
       "rows_processed": "1-24",
       "links_analyzed": 14
+    },
+    {
+      "date": "2025-07-20T16:17:00Z",
+      "rows_processed": "1-20",
+      "links_analyzed": 20
     }
   ]
 }
