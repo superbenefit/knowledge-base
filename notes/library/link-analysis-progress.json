@@ -1,24 +1,39 @@
 {
-  "total_rows": null,
-  "current_row": 1,
-  "batch_size": 20,
-  "analyzed_count": 0,
-  "last_updated": null,
+  "current_row": 8,
+  "total_analyzed": 14,
+  "last_session": "2024-12-19T10:00:00Z",
   "status_counts": {
-    "Working": 0,
-    "Dead": 0,
+    "Working": 5,
+    "Dead": 7,
     "Redirect": 0,
     "Paywall": 0,
-    "Private": 0,
-    "Skip": 0
+    "Error": 1,
+    "Skip": 0,
+    "Other": 1
   },
-  "session_history": [],
-  "marked_for_library": [],
-  "configuration": {
-    "csv_path": "~/Documents/GitHub/knowledge-base/notes/library/superbenefit-discord-urls.csv",
-    "progress_path": "~/Documents/GitHub/knowledge-base/notes/library/link-analysis-progress.json",
-    "max_retries": 2,
-    "timeout_seconds": 10,
-    "save_frequency": 5
-  }
+  "library_candidates": [
+    {
+      "url": "http://Daoscience.org",
+      "note": "Active resource for DAO research and development"
+    },
+    {
+      "url": "https://0xstation.substack.com/p/introducing-groupos-by-station",
+      "note": "Valuable resource on DAO infrastructure"
+    },
+    {
+      "url": "https://221a.ca/2025/03/data-sovereignty-workshop-sees-engagement-across-sectors/",
+      "note": "Very relevant to regenerative tech"
+    },
+    {
+      "url": "https://aboutcircles.com/",
+      "note": "Valuable resource for alternative monetary systems"
+    }
+  ],
+  "sessions": [
+    {
+      "date": "2024-12-19T10:00:00Z",
+      "rows_processed": "1-24",
+      "links_analyzed": 14
+    }
+  ]
 }

@@ -25,7 +25,7 @@ _Notes and other documents related to experiments with the Institute for Communi
   - [[ics-case-study-addtl-info]]
   - [[ics-case-study-creation-prompt]]
   - [[ics-case-study-execution-plan]]
-  - [[ICS-Experiment-Case-Study|Reimagining Participation Through Web3 Governance]]
+  - [[ICS-Experiment-Case-Study]]
 
 %% End Landmark %%
 
