@@ -29,6 +29,24 @@ Here, you'll find:
   - **[[dao-primitives]]**
   - **[[general-circle]]**
   - **[[ics]]**
+  - **[[library]]**
+    - [[current-status]]
+    - [[daily-checklist]]
+    - [[evaluation-template]]
+    - [[final-ready-to-write]]
+    - [[link-analysis-progress.json]]
+    - [[link-analysis-usage-guide]]
+    - [[processing-status]]
+    - [[ready-to-write]]
+    - [[rejected-articles-log]]
+    - [[rigorous-curation-strategy]]
+    - [[start-link-analysis]]
+    - [[superbenefit-discord-urls-updated.csv]]
+    - [[superbenefit-discord-urls.csv]]
+    - [[valuable-articles]]
+    - [[values-concerns]]
+    - [[web3-library-workflow]]
+  - **links**
   - **[[rpp]]**
   - **[[wp]]**
 
