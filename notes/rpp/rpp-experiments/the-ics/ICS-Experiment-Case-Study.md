@@ -22,7 +22,7 @@ type: study
 case: ics
 ---
 
-# Reimagining Participation Through Web3 Governance
+# Reimagining Power @ ICS
 
 *ICS experiments with decentralized governance tools, discovering that communities seek participation in decision-making rather than just new funding mechanisms*
 
