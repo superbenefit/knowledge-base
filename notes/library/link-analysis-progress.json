@@ -1,16 +1,16 @@
 {
-  "current_row": 75,
-  "total_analyzed": 84,
-  "last_session": "2025-07-21T00:15:00Z",
+  "current_row": 103,
+  "total_analyzed": 118,
+  "last_session": "2025-07-21T01:15:00Z",
   "method_used": "obsidian-mcp-tools:fetch (primary), firecrawl_scrape (backup)",
   "status_counts": {
-    "Working": 33,
-    "Dead": 21,
-    "Redirect": 1,
+    "Working": 51,
+    "Dead": 28,
+    "Redirect": 3,
     "Paywall": 0,
-    "Error": 23,
+    "Error": 29,
     "Skip": 4,
-    "Other": 2
+    "Other": 3
   },
   "library_candidates": [
     {
@@ -111,7 +111,75 @@
     },
     {
       "url": "https://biggreen.org",
-      "note": "Food sovereignty non-profit with school gardens, Million Gardens program & Big Green DAO grants"
+      "note": "LIBRARY: Food sovereignty non-profit with school gardens, Million Gardens program & Big Green DAO grants"
+    },
+    {
+      "url": "https://bit.ly/internetofimpact",
+      "note": "Redirect to Internet of Impact PDF document, relevant to social impact work"
+    },
+    {
+      "url": "https://bit.ly/sacredcivics",
+      "note": "Redirect to Sacred Civics Google Drive PDF, relevant to governance and civics"
+    },
+    {
+      "url": "https://bitcoin.org/en/bitcoin-paper",
+      "note": "Bitcoin whitepaper - foundational but not specific to SuperBenefit focus"
+    },
+    {
+      "url": "https://block.science/",
+      "note": "LIBRARY: Complex systems engineering firm working on governance mechanisms, token engineering, and socio-technical systems"
+    },
+    {
+      "url": "https://blog.aragon.org/ai-daos-the-future-of-daos-powered-by-artificial-intelligence/",
+      "note": "LIBRARY: Aragon blog on AI DAOs - highly relevant to future of DAO governance and automation"
+    },
+    {
+      "url": "https://blog.block.science/the-windfall-protocol/",
+      "note": "LIBRARY: Windfall Protocol - blockchain infrastructure for building retrofits, collaboration with SuperBenefit"
+    },
+    {
+      "url": "https://blog.coinfund.io/daos-what-the-esg-movement-can-learn-from-blockchain-governance-a7d0c7dbccde",
+      "note": "LIBRARY: CoinFund article on DAOs improving ESG governance, very relevant to regenerative governance"
+    },
+    {
+      "url": "https://blog.curvelabs.eu/new-breath-in-the-mediterranean-35d881d094ae",
+      "note": "LIBRARY: Curve Labs regenerative Web3 design for Posidonia Oceanica, excellent example of ReFi and ecological restoration"
+    },
+    {
+      "url": "https://blog.curvelabs.eu/the-promises-and-pitfalls-of-regenerative-finance-4910f0f6f690",
+      "note": "LIBRARY: Critical analysis of regenerative finance promises and pitfalls, essential reading for ReFi practitioners"
+    },
+    {
+      "url": "https://blog.harmonica.chat/we-are-officially-in-early-access",
+      "note": "LIBRARY: Harmonica AI-powered facilitation tool for deliberative processes, relevant to governance innovation"
+    },
+    {
+      "url": "https://blog.hatsprotocol.xyz/organizational-graphs",
+      "note": "LIBRARY: Hats Protocol organizational graphs - role-based organizational frameworks for DAOs"
+    },
+    {
+      "url": "https://blog.papareo.nz/whisper-is-another-case-study-in-colonisation/",
+      "note": "LIBRARY: Te Hiku Media article on data sovereignty and AI colonization, highly relevant to indigenous rights and ethical AI"
+    },
+    {
+      "url": "https://blog.refidao.com/refi-roundup-2022/",
+      "note": "LIBRARY: ReFi DAO 2022 roundup - comprehensive overview of regenerative finance movement"
+    },
+    {
+      "url": "https://blog.refidao.com/roundup-55/",
+      "note": "LIBRARY: ReFi DAO infinite game article connecting ReFi to integral theory and systems thinking"
+    },
+    {
+      "url": "https://blog.toucan.earth/web3-accelerate-climate-action/?utm_source=substack&utm_medium=email",
+      "note": "LIBRARY: Toucan article on 5 ways web3 can accelerate climate action, key ReFi resource"
+    },
+    {
+      "url": "https://blogs.nvidia.com/blog/te-hiku-media-maori-speech-ai/",
+      "note": "LIBRARY: NVIDIA article on Te Hiku Media's ethical AI for Māori language preservation, excellent data sovereignty example"
+    },
+    {
+      "url": "https://boann.ca/",
+      "note": "Boann Social Impact - Canadian social finance organization, relevant to impact investing landscape"
     }
   ],
   "sessions": [
@@ -157,6 +225,18 @@
       "rows_processed": "66-74",
       "links_analyzed": 9,
       "note": "Continued analysis with good results. Found academic systems transformation paper and Big Green DAO. Mix of working links, dead domains, and redirects to PDFs/Google Drive."
+    },
+    {
+      "date": "2025-07-21T00:45:00Z",
+      "rows_processed": "75-86",
+      "links_analyzed": 12,
+      "note": "Excellent session with multiple high-value library candidates including Block Science, Aragon AI DAOs, Windfall Protocol, and Curve Labs ReFi work. Strong focus on regenerative finance and governance innovation."
+    },
+    {
+      "date": "2025-07-21T01:15:00Z",
+      "rows_processed": "87-102",
+      "links_analyzed": 22,
+      "note": "Comprehensive session finding exceptional library candidates including data sovereignty articles, ReFi DAO roundups, governance innovation tools like Harmonica and Hats Protocol, and ethical AI resources. Strong focus on indigenous rights, regenerative finance, and DAO governance innovation."
     }
   ]
 }

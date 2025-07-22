@@ -35,5 +35,6 @@ _Notes and other documents from the Reimagining Power project at SuperBenefit_
     - [[Playbooks Steward Rolecrafting]]
     - [[rpp_playbook_context_capture]]
   - **[[rpp-working-docs]]**
+  - **[[working-docs]]**
 
 %% End Waypoint %%
