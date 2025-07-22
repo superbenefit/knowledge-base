@@ -45,7 +45,7 @@ Smart contracts can encode the specific rules and incentives that define a compl
 
 - **[Mutual Aid](tags/mutual-aid.md)**: Complementary currencies often formalize mutual aid networks through trackable exchange systems
 - **[Solidarity](tags/solidarity.md)**: Complementary currencies embody economic solidarity by creating exchange systems aligned with community values
-- **[Cooperative](tags/cooperative.md)**: Cooperative principles frequently inform the governance of complementary currency systems
+- **[Cooperative](cooperatives.md)**: Cooperative principles frequently inform the governance of complementary currency systems
 - **[ReFi](tags/refi.md)**: Regenerative Finance incorporates complementary currencies to incentivize ecological restoration
 - **[Decentralization](tags/decentralization.md)**: Complementary currencies distribute monetary creation and governance away from centralized institutions
 - **[Coordination](tags/coordination.md)**: Complementary currencies provide coordination mechanisms for aligning economic activity with collective priorities

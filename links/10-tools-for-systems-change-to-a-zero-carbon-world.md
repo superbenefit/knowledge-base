@@ -14,7 +14,7 @@ tags:
   - frameworks
 ---
 
-"10 tools for systems change to a zero carbon world" offers a curated selection of conceptual frameworks and practical approaches for navigating complex sustainability challenges. Developed by Future Stewards, this resource distills systems thinking into accessible tools that help individuals and organizations move beyond addressing symptoms to transforming the underlying structures that perpetuate environmental degradation. While not comprehensive, these tools provide valuable entry points into the rich landscape of systems change methodologies.
+"10 tools for systems change to a zero carbon world" offers a curated selection of conceptual frameworks and practical approaches for navigating complex sustainability challenges. This deck presents core approaches to systems change that, while not comprehensive, act as an entry point to the rich set of futures and systems tools available. Developed by Future Stewards, this resource distills systems thinking into accessible tools that help individuals and organizations move beyond addressing symptoms to transforming the underlying structures that perpetuate environmental degradation.
 
 ### Key Highlights
 - **Multi-Level Perspective**: The toolkit introduces a framework for understanding transitions through the interaction of three levels: the landscape (macro trends and contexts), regimes (dominant systems and infrastructures), and niches (emerging innovations). This perspective helps identify leverage points for intervention at different scales.
@@ -41,3 +41,7 @@ The tools are designed to be accessible to non-specialists while still providing
 - Directly connects to SuperBenefit's bioregional approach to economic organization and systems transformation focus.
 - The Three Horizons framework resonates with SuperBenefit's commitment to balancing pragmatic near-term action with transformative long-term vision.
 - The toolkit's power mapping approaches complement SuperBenefit's "anticapture" mechanisms that prevent shared resources from being monopolized by concentrated interests.
+
+---
+
+![](attachments/10-tools-for-systems-change-to-a-zero-carbon-world.pdf)

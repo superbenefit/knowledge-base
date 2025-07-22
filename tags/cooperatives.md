@@ -1,7 +1,8 @@
 ---
 title: Cooperative
 description: An autonomous association of persons united voluntarily to meet their common economic, social, and cultural needs through a jointly owned and democratically controlled enterprise
-harvester: heenal
+harvester:
+  - heenal
 tags:
   - structures
   - governance
@@ -9,7 +10,6 @@ tags:
 aliases:
   - "#cooperative"
   - "#co-op"
-  - "#worker-cooperative"
 publish: "false"
 ---
 

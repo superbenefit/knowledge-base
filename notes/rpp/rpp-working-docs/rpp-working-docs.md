@@ -14,7 +14,6 @@ If you are working on one of these docs, please make sure that you are named as 
   - [[burner-wallets|Burner Wallets]]
   - [[community-governance|Community Governnace Pattern [OUTLINE]]]
   - [[governance-platforms|Governance Platforms]]
-  - [[local-nodes|Local Nodes]]
   - [[multistakeholder-governance|Multi-Stakeholder Govenrance [OUTLINE]]]
   - [[municipal-mycofi|Municipal MycoFi [OUTLINE]]]
   - [[on-chain-vs.-off-chain-governance|On-Chain vs. Off-Chain Governance]]

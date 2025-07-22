@@ -18,7 +18,7 @@ tags:
   - coordination
 ---
 
-Modular Politics presents a comprehensive vision for digital governance that moves beyond platform-specific approaches toward interoperable, composable governance systems. Developed by a multidisciplinary team of researchers including Nathan Schneider and Primavera De Filippi, this framework proposes creating a governance layer for online communities that allows them to mix and match governance components across different platforms and contexts. The paper outlines both the theoretical foundations and practical design considerations for implementing modular governance systems.
+Modular Politics presents a comprehensive vision for digital governance that moves beyond platform-specific approaches toward interoperable, composable governance systems. Developed by a multidisciplinary team of researchers including Nathan Schneider and Primavera De Filippi, this framework proposes creating a governance layer for online communities that allows them to mix and match governance components across different platforms and contexts. Connected to the [Metagov](links/Metagov.md) research initiative, this paper outlines both the theoretical foundations and practical design considerations for implementing modular governance systems.
 
 ### Key Highlights
 - **Governance Composability**: The framework introduces the concept of governance as modular components that can be combined like building blocks, allowing communities to create customized governance systems by selecting, configuring, and arranging various governance elements.
@@ -26,6 +26,33 @@ Modular Politics presents a comprehensive vision for digital governance that mov
 - **Core Design Goals**: The framework articulates four key objectives: modularity (enabling component-based construction), expressiveness (supporting diverse governance processes), portability (allowing reuse across platforms), and interoperability (facilitating interaction between governance systems).
 - **Structural Design Elements**: The paper outlines structural elements including Instances (operational environments), Orgs (governance units), Modules (functional components), Monitors (data analytics), Permissions (access controls), Resources (governed assets), and Entities (participants) that together form a comprehensive governance ecosystem.
 - **Evolutionary Approach**: Rather than proposing a single governance solution, Modular Politics embraces an evolutionary perspective where governance systems can adapt and evolve based on community needs, technological developments, and changing contexts.
+
+### Design Goals
+
+The framework proposes a governance layer with four fundamental design goals:
+
+> 1. **Modularity**: Platform operators and community members should have the ability to construct systems by creating, importing, and arranging composable parts together as a coherent whole.
+> 2. **Expressiveness**: The governance layer should be able to implement as wide a range of processes as possible.
+> 3. **Portability**: Governance tools developed for one platform should be portable to another platform for reuse and adaptation.
+> 4. **Interoperability**: Governance systems operating on different platforms and protocols should have the ability to interact with each other, sharing data and influencing each other's processes.
+
+### Key Concepts
+
+The Modular Politics framework consists of several foundational elements:
+
+**Instances**: Operational environments where Modular Politics is implemented, tied to underlying platforms and defining the interface between governance systems and platforms.
+
+**Orgs (Organizations)**: Semi-autonomous governance environments within instances, representing specific groups or communities with defined governance structures that can be nested or parallel.
+
+**Modules**: Building blocks of the governance system - software packages that define specific governance functions like voting, petitioning, or resource management, highly flexible and combinable.
+
+**Monitors**: Special modules that gather and analyze data within the system, providing real-time feedback on governance processes, participant behavior, and resource management.
+
+**Permissions**: Control systems that determine what actions participants can perform within instances, Orgs, or modules, managing authority and access at different levels.
+
+**Resources**: Assets or objects within the governance system that participants can manage or affect, controlled by rules set in modules and Orgs.
+
+**Entities**: Participants in the system (individuals, bots, or groups) who engage with governance structures and have defined roles and permissions.
 
 ### Practical Applications
 
@@ -45,3 +72,13 @@ The framework is particularly valuable for communities that need to adapt their 
 - Supports SuperBenefit's commitment to context-specific governance rather than one-size-fits-all solutions through its emphasis on composability.
 - Addresses a critical need identified in SuperBenefit's work on anticapture mechanisms by enabling communities to maintain governance sovereignty even when underlying technical infrastructure changes.
 - Complements SuperBenefit's cosmolocal approach by enabling local governance customization while maintaining connections to broader governance commons and shared practices.
+
+---
+
+### Additional Resources
+
+![Modular Politics Overview](https://www.youtube.com/watch?v=x1FvWQ3WEAE)
+
+![Modular Politics Discussion](https://www.youtube.com/watch?v=981FhtbX8vU)
+
+![modular-politics](attachments/modular-politics.pdf)

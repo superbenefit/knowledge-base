@@ -1,45 +1,44 @@
 ---
-title: 
-description: 
+title: Pattern Library
+description: A comprehensive index of reusable patterns for decentralized organization design and governance
 url: 
 tags:
   - patterns
-publish: "false"
-type: pattern
+  - index
+publish: "true"
+type: index
 protocols: 
 ---
-# <% tp.frontmatter.title || "Pattern Name" %>
+# Pattern Library
 
-_<% tp.frontmatter.description || "A conceptual framework that provides reusable solutions to common challenges in decentralized organization design and governance." %>_
+_A comprehensive index of reusable patterns for decentralized organization design and governance_
 
-## Context
+## Overview
 
-%% Describe the environments or situations where this pattern applies. Include types of organizations, networks, or communities that might benefit from this pattern, emphasizing the broader organizational context beyond specific operational procedures. %%
+Patterns are conceptual frameworks that provide reusable solutions to common challenges in decentralized organization design and governance. They serve as a bridge between high-level principles and on-the-ground implementation, helping organizations avoid common pitfalls and build on proven approaches.
+
+This library contains patterns developed through real-world experiments and refined through community practice. Each pattern documents a specific solution to recurring organizational challenges, providing both theoretical grounding and practical implementation guidance.
+
+## How to Use This Library
+
+1. **Browse by Category**: Patterns are organized by their primary focus area
+2. **Check Implementation Status**: Look for patterns marked as "published" for well-tested approaches
+3. **Review Context**: Each pattern clearly describes where and when it applies
+4. **Adapt to Your Needs**: Patterns are meant to be adapted, not copied wholesale
+
+## All Patterns
+
+```dataview
+LIST 
+FROM "" 
+WHERE publish = true
+  AND (
+    contains(string(type), "pattern") 
+    OR (typeof(type) = "array" AND any(type, (t) => contains(string(t), "pattern")))
+  )
+SORT file.name ASC
+```
 
 ---
 
-## Challenges
-
-%% Identify the specific organizational challenges this pattern addresses. Focus on systemic issues, coordination problems, or design challenges that require conceptual solutions rather than step-by-step procedures. %%
-
----
-
-## Solution Framework
-
-%% Explain the conceptual approach this pattern provides. Describe the key principles, mechanisms, and components that make this pattern effective. This should be more strategic and less procedural than protocol documentation. %%
-
----
-
-## Implementation Considerations
-
-%% Provide guidance for applying this pattern across different contexts: %%
-
-### Examples & Case Studies
-
-%% Provide examples showing this pattern's application across different contexts %%
-
----
-
-## References
-
-%% Connect to complementary or contrasting patterns %%
+*This library is a living document, continuously evolving as new patterns emerge and existing ones are refined through practice.*
