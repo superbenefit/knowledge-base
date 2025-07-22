@@ -16,7 +16,7 @@ _Notes and other documents related to experiments with All In For Sport in the R
 
 %% Begin Landmark %%
 - **[[all-in-for-sport]]**
-  - [[aifs-case-study-draft|Reimagining Power at All In For Sport]]
+  - [[aifs-case-study-draft]]
   - [[aifs-discovery-report]]
   - [[aifs-experiment-reflections]]
   - [[aifs-intervention-map]]
