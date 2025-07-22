@@ -266,7 +266,7 @@ For practitioners, ICS's experience offers practical guidance: start small with 
 
 **Acknowledgments**: Ontario Trillium Foundation for funding the Reimagining Power Project, SuperBenefit for facilitation and technical support, Green Pill Network for ecosystem connections
 
-**Contact**: info@commu
+**Contact**: info@communitysustainability.ca
 
 **License**: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
