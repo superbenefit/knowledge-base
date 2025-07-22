@@ -17,13 +17,15 @@ _Notes and other documents related to experiments with Equality Fund in the Reim
 
 %% Begin Landmark %%
 - **[[equality-fund]]**
+  - [[ef-case-study-progress-report]]
   - [[Equality Fund Call Transcript 4723]]
   - [[Equality Fund Experiment Discovery Report]]
   - [[Equality Fund Experiment Mapping]]
-  - [[Equality Fund Experiment Worksheet]]
+  - [[Equality Fund Experiment reflections]]
   - [[Experiment Discovery Call w Sue Snider (17524)]]
   - [[Meeting with Women Win & Equality Fund]]
   - [[Outline for EF scoping meeting 16924]]
+  - [[rpp-equality-fund-case-study-draft]]
 
 %% End Landmark %%
 
