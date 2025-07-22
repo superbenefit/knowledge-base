@@ -46,7 +46,6 @@ Here, you'll find:
     - [[valuable-articles]]
     - [[values-concerns]]
     - [[web3-library-workflow]]
-  - **links**
   - **[[rpp]]**
   - **[[wp]]**
 

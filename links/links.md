@@ -53,17 +53,17 @@ This library includes:
     - [[10 tools for a zero carbon world|10 tools for systems change to a zero carbon world]]
     - [[10 tools for systems change to a zero carbon world|10 tools for systems change to a zero carbon world]]
     - [[A Pocket Guide to DAO Frameworks 2|A Pocket Guide to DAO Frameworks]]
-    - [[A Pocket Guide to DAO Frameworks|A Pocket Guide to DAO Frameworks]]
-    - [[Community Building in DAOs|Community Building in DAOs]]
+    - [[A Pocket Guide to DAO Frameworks]]
+    - [[Community Building in DAOs]]
     - [[DAO Governance - Challenges Ideas and Tools copy|DAO Governance - Challenges, Ideas and Tools]]
     - [[DAO Governance - Challenges Ideas and Tools|DAO Governance - Challenges, Ideas and Tools]]
     - [[DAOs & Creators - Resources to Get Started Today|DAOs & Creators - Resources to Get Started Today]]
     - [[Decentralised Tech & the Future of Organising 2|Decentralised Tech & the Future of Organising]]
     - [[Local Nodes|Local Nodes]]
-    - [[Modular Politics - Toward a Governance Layer for Online Communities|Modular Politics - Toward a Governance Layer for Online Communities]]
+    - [[Modular Politics - Toward a Governance Layer for Online Communities]]
     - [[Modular Politics|Modular Politics - Toward a Governance Layer for Online Communities]]
-    - [[P2P Foundation Wiki|P2P Foundation Wiki]]
-    - [[Pre-Constitutional Governance|Pre-Constitutional Governance]]
+    - [[P2P Foundation Wiki]]
+    - [[Pre-Constitutional Governance]]
 
 %% End Waypoint %%
 
