@@ -1,17 +1,86 @@
 {
-  "current_row": 103,
-  "total_analyzed": 118,
-  "last_session": "2025-07-21T01:15:00Z",
-  "method_used": "obsidian-mcp-tools:fetch (primary), firecrawl_scrape (backup)",
+  "current_row": 151,
+  "total_analyzed": 227,
+  "last_session": "2025-07-23T22:30:00Z",
+  "method_used": "obsidian-mcp-tools:fetch for actual web page analysis",
   "status_counts": {
-    "Working": 51,
-    "Dead": 28,
+    "Working": 132,
+    "Dead": 30,
     "Redirect": 3,
     "Paywall": 0,
-    "Error": 29,
-    "Skip": 4,
-    "Other": 3
+    "Error": 30,
+    "Skip": 25,
+    "Private": 1,
+    "Other": 4
   },
+  "new_session_findings": [
+    {
+      "url": "https://dirtroads.substack.com/p/-19-klima-a-family-story",
+      "status": "WORKING",
+      "category": "POTENTIAL LIBRARY RESOURCE",
+      "note": "Substantive Substack article about Klima DAO and game theory (prisoner's dilemma), discussing DAO coordination mechanisms. Relevant to governance and mechanism design."
+    },
+    {
+      "url": "https://dirtroads.substack.com/p/-42-valkyrie-makerdao-and-our-side", 
+      "status": "WORKING",
+      "category": "POTENTIAL LIBRARY RESOURCE",
+      "note": "In-depth Substack article about MakerDAO governance, analyzing DAO structures and governance challenges. Highly relevant to governance research and DAO operations."
+    },
+    {
+      "url": "https://discord.bots.gg/bots/564426594144354315",
+      "status": "BROKEN",
+      "category": "N/A",
+      "note": "Discord bot listing page - 404 error, no longer exists"
+    },
+    {
+      "url": "https://discord.new/ZrSxF8XxdW3N",
+      "status": "WORKING", 
+      "category": "LOW PRIORITY",
+      "note": "Discord community invite/template - gated Web3 community, not substantial content"
+    },
+    {
+      "url": "https://discordapp.com/channels/874697948838101092/912749268832509993/915416762701479967",
+      "status": "PRIVATE",
+      "category": "N/A", 
+      "note": "Direct Discord message link - requires server access, not publicly accessible content"
+    },
+    {
+      "url": "https://discordbotlist.com/bots/feedbackbot",
+      "status": "WORKING",
+      "category": "LOW PRIORITY",
+      "note": "Discord bot listing for FeedbackBot, a tool for collecting user feedback. Not relevant to SuperBenefit's focus areas."
+    },
+    {
+      "url": "https://discordguide.xyz/",
+      "status": "BROKEN",
+      "category": "N/A",
+      "note": "Discord guide website - unable to connect, appears to be down"
+    },
+    {
+      "url": "https://discourse.metricsdao.xyz/t/feb-2022-contributor-rewards/87",
+      "status": "WORKING",
+      "category": "LOW PRIORITY", 
+      "note": "MetricsDAO Discourse post showing contributor rewards transaction, just contains Etherscan link"
+    },
+    {
+      "url": "https://discourse.metricsdao.xyz/t/metip-1-ratifying-the-metricsdao-constitution/228/2",
+      "status": "WORKING",
+      "category": "POTENTIAL LIBRARY RESOURCE",
+      "note": "MetricsDAO governance discussion about ratifying their constitution, includes information on DAO governance structures and improvement proposals"
+    },
+    {
+      "url": "https://discourse.metricsdao.xyz/t/template-metricsdao-improvement-proposal-metip/226",
+      "status": "WORKING", 
+      "category": "POTENTIAL LIBRARY RESOURCE",
+      "note": "MetricsDAO improvement proposal (METIP) template - structured framework for DAO governance proposals, excellent reference for governance processes"
+    },
+    {
+      "url": "https://dnschecker.org/all-dns-records-of-domain.php?query=_vercel.superbenefit.org&rtype=ALL&dns=cloudflare",
+      "status": "WORKING",
+      "category": "LOW PRIORITY",
+      "note": "DNS lookup tool checking SuperBenefit.org domain records - technical infrastructure tool, not relevant to core focus areas"
+    }
+  ],
   "library_candidates": [
     {
       "url": "http://Daoscience.org",
@@ -54,132 +123,20 @@
       "note": "Crypto/web3 analysis Substack, relevant to DeFi and governance topics"
     },
     {
-      "url": "https://a16z.com/wp-content/uploads/2021/10/DAO-Legal-Framework-Jennings-Kerr10.19.21-Final.pdf",
-      "note": "a16z DAO Legal Framework - essential governance resource for legal structures"
+      "url": "https://dirtroads.substack.com/p/-19-klima-a-family-story",
+      "note": "Substantive Substack article about Klima DAO and game theory, relevant to governance and mechanism design"
     },
     {
-      "url": "https://celo.org/papers/Celo_Stability_Analysis.pdf",
-      "note": "Celo Stability Analysis - technical governance resource for stablecoin/DeFi systems"
+      "url": "https://dirtroads.substack.com/p/-42-valkyrie-makerdao-and-our-side",
+      "note": "In-depth analysis of MakerDAO governance challenges and DAO structures"
     },
     {
-      "url": "http://www.im4e.org",
-      "note": "Impact Management for Everyone - practical framework for managing non-financial business consequences"
+      "url": "https://discourse.metricsdao.xyz/t/metip-1-ratifying-the-metricsdao-constitution/228/2",
+      "note": "MetricsDAO governance discussion about constitutional frameworks for DAOs"
     },
     {
-      "url": "http://unios.world/",
-      "note": "Electric Coffin NFT art collection - lower priority (art-focused)"
-    },
-    {
-      "url": "https://banklessdao.substack.com/",
-      "note": "Black Flag DAO Substack, 20k+ subscribers, DAO-focused content"
-    },
-    {
-      "url": "https://banklessdao.substack.com/p/finding-freedom-and-agency-in-daos?s=r",
-      "note": "DAO agency & freedom article, State of DAOs newsletter, very relevant to governance"
-    },
-    {
-      "url": "https://banklessdao.substack.com/p/impactdaos-are-shaping-the-future?utm_medium=email&utm_source=substack",
-      "note": "ImpactDAOs & regenerative organizations article, highly relevant to SuperBenefit's mission"
-    },
-    {
-      "url": "https://banklessdao.substack.com/p/strategies-for-delegated-voting-in?s=w",
-      "note": "Delegated voting strategies in DAOs, governance mechanisms article by Samantha Marin"
-    },
-    {
-      "url": "https://banksbenitez.ghost.io/the-insider-june-2022/",
-      "note": "Web3 Impact Summit organizer's newsletter, regenerative work & social change focus"
-    },
-    {
-      "url": "https://bcorporation.com.au/governance/",
-      "note": "B Corp governance model with B Council & participatory structures, regenerative economy focus"
-    },
-    {
-      "url": "https://beautifultrouble.org/",
-      "note": "Creative activism toolkit with strategies & tactics for social change, very relevant to movement building"
-    },
-    {
-      "url": "https://beautifultrouble.org/beautifulsolutions",
-      "note": "Beautiful Solutions: post-capitalist alternatives, solidarity economy toolbox, highly relevant to regenerative systems"
-    },
-    {
-      "url": "https://benevity.com/resources/web3-social-impact?utm_source=substack&utm_medium=email",
-      "note": "Web3 & philanthropy article, corporate social impact platform exploring decentralized giving"
-    },
-    {
-      "url": "https://besjournals.onlinelibrary.wiley.com/doi/10.1002/pan3.10124",
-      "note": "Levers and leverage points for pathways to sustainability academic paper, systems transformation framework"
-    },
-    {
-      "url": "https://biggreen.org",
-      "note": "LIBRARY: Food sovereignty non-profit with school gardens, Million Gardens program & Big Green DAO grants"
-    },
-    {
-      "url": "https://bit.ly/internetofimpact",
-      "note": "Redirect to Internet of Impact PDF document, relevant to social impact work"
-    },
-    {
-      "url": "https://bit.ly/sacredcivics",
-      "note": "Redirect to Sacred Civics Google Drive PDF, relevant to governance and civics"
-    },
-    {
-      "url": "https://bitcoin.org/en/bitcoin-paper",
-      "note": "Bitcoin whitepaper - foundational but not specific to SuperBenefit focus"
-    },
-    {
-      "url": "https://block.science/",
-      "note": "LIBRARY: Complex systems engineering firm working on governance mechanisms, token engineering, and socio-technical systems"
-    },
-    {
-      "url": "https://blog.aragon.org/ai-daos-the-future-of-daos-powered-by-artificial-intelligence/",
-      "note": "LIBRARY: Aragon blog on AI DAOs - highly relevant to future of DAO governance and automation"
-    },
-    {
-      "url": "https://blog.block.science/the-windfall-protocol/",
-      "note": "LIBRARY: Windfall Protocol - blockchain infrastructure for building retrofits, collaboration with SuperBenefit"
-    },
-    {
-      "url": "https://blog.coinfund.io/daos-what-the-esg-movement-can-learn-from-blockchain-governance-a7d0c7dbccde",
-      "note": "LIBRARY: CoinFund article on DAOs improving ESG governance, very relevant to regenerative governance"
-    },
-    {
-      "url": "https://blog.curvelabs.eu/new-breath-in-the-mediterranean-35d881d094ae",
-      "note": "LIBRARY: Curve Labs regenerative Web3 design for Posidonia Oceanica, excellent example of ReFi and ecological restoration"
-    },
-    {
-      "url": "https://blog.curvelabs.eu/the-promises-and-pitfalls-of-regenerative-finance-4910f0f6f690",
-      "note": "LIBRARY: Critical analysis of regenerative finance promises and pitfalls, essential reading for ReFi practitioners"
-    },
-    {
-      "url": "https://blog.harmonica.chat/we-are-officially-in-early-access",
-      "note": "LIBRARY: Harmonica AI-powered facilitation tool for deliberative processes, relevant to governance innovation"
-    },
-    {
-      "url": "https://blog.hatsprotocol.xyz/organizational-graphs",
-      "note": "LIBRARY: Hats Protocol organizational graphs - role-based organizational frameworks for DAOs"
-    },
-    {
-      "url": "https://blog.papareo.nz/whisper-is-another-case-study-in-colonisation/",
-      "note": "LIBRARY: Te Hiku Media article on data sovereignty and AI colonization, highly relevant to indigenous rights and ethical AI"
-    },
-    {
-      "url": "https://blog.refidao.com/refi-roundup-2022/",
-      "note": "LIBRARY: ReFi DAO 2022 roundup - comprehensive overview of regenerative finance movement"
-    },
-    {
-      "url": "https://blog.refidao.com/roundup-55/",
-      "note": "LIBRARY: ReFi DAO infinite game article connecting ReFi to integral theory and systems thinking"
-    },
-    {
-      "url": "https://blog.toucan.earth/web3-accelerate-climate-action/?utm_source=substack&utm_medium=email",
-      "note": "LIBRARY: Toucan article on 5 ways web3 can accelerate climate action, key ReFi resource"
-    },
-    {
-      "url": "https://blogs.nvidia.com/blog/te-hiku-media-maori-speech-ai/",
-      "note": "LIBRARY: NVIDIA article on Te Hiku Media's ethical AI for Māori language preservation, excellent data sovereignty example"
-    },
-    {
-      "url": "https://boann.ca/",
-      "note": "Boann Social Impact - Canadian social finance organization, relevant to impact investing landscape"
+      "url": "https://discourse.metricsdao.xyz/t/template-metricsdao-improvement-proposal-metip/226",
+      "note": "Structured template for DAO governance proposals - excellent framework reference"
     }
   ],
   "sessions": [
@@ -227,16 +184,3 @@
       "note": "Continued analysis with good results. Found academic systems transformation paper and Big Green DAO. Mix of working links, dead domains, and redirects to PDFs/Google Drive."
     },
     {
-      "date": "2025-07-21T00:45:00Z",
-      "rows_processed": "75-86",
-      "links_analyzed": 12,
-      "note": "Excellent session with multiple high-value library candidates including Block Science, Aragon AI DAOs, Windfall Protocol, and Curve Labs ReFi work. Strong focus on regenerative finance and governance innovation."
-    },
-    {
-      "date": "2025-07-21T01:15:00Z",
-      "rows_processed": "87-102",
-      "links_analyzed": 22,
-      "note": "Comprehensive session finding exceptional library candidates including data sovereignty articles, ReFi DAO roundups, governance innovation tools like Harmonica and Hats Protocol, and ethical AI resources. Strong focus on indigenous rights, regenerative finance, and DAO governance innovation."
-    }
-  ]
-}
