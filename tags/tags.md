@@ -29,6 +29,7 @@ This lexicon provides:
   - [[authorities|Authorities]]
   - [[autonomy|Autonomy]]
   - [[blockchain|Blockchain]]
+  - [[community-governance|Community Governance]]
   - [[community|Community]]
   - [[complementary-currencies|Complementary Currencies]]
   - [[consensus|Consensus]]

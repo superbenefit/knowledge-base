@@ -6,7 +6,6 @@ tags:
   - patterns
 publish: true
 type: pattern
-protocols:
 ---
 # Gatherings
 

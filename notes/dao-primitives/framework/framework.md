@@ -1,8 +1,8 @@
 ---
 title: DAO Primitives Conceptual Framework
 description: A comprehensive framework for designing decentralized organizations as networks
-publish: "true"
-type: pattern
+publish: true
+type: guide
 ---
 
 # DAO Primitives Conceptual Framework
@@ -13,7 +13,7 @@ The DAO Primitives Framework provides a systematic approach to designing and imp
 - **[[framework]]**
   - [[group-facilitation|DAO Primitives Group Facilitation Guide]]
   - **[[group-phase]]**
-    - [[completion]]
+    - [[completion|Completion Phase]]
     - [[conversation|Conversation Phase]]
     - [[coordination]]
     - [[formation]]
@@ -51,7 +51,7 @@ The framework identifies five key phases:
 - **[Formation Phase](notes/dao-primitives/framework/group-phase/formation.md)**: Establishing basic structure and roles with minimal formality, emphasizing trust-building and defining initial procedures for group operation
 - **[Organization Phase](notes/dao-primitives/framework/group-phase/organization.md)**: Implementing formal structures, defined processes, and governance mechanisms to create sustainable and scalable organizational systems
 - **[Coordination Phase](notes/dao-primitives/framework/group-phase/coordination.md)**: Integrating with broader networks and collaborating with other groups, shifting focus from internal organization to external relationships
-- **[Completion Phase](notes/dao-primitives/framework/group-phase/completion.md)**: Concluding initiatives, capturing learnings, and transitioning resources when projects or groups reach their natural conclusion
+- **[Completion Phase](completion.md)**: Concluding initiatives, capturing learnings, and transitioning resources when projects or groups reach their natural conclusion
 
 Learn more about [Group Phase](notes/dao-primitives/framework/group-phase/group-phase.md)
 
