@@ -5,7 +5,7 @@ url:
 tags:
   - patterns
   - index
-publish: "true"
+publish: true
 type: index
 protocols: 
 ---

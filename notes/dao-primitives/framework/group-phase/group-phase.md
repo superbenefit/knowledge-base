@@ -2,8 +2,9 @@
 title: Group Phase
 tags: 
 aliases: 
-description: "A framework outlining the five key phases of group evolution, tailored for DAO contexts."
-publish: "true"
+description: A framework outlining the five key phases of group evolution, tailored for DAO contexts.
+publish: true
+type:
 ---
 
 # Group Phase
@@ -29,7 +30,7 @@ The five group phases are:
 - [Formation Phase](notes/dao-primitives/framework/group-phase/formation.md) - Planning & Design
 - [Organization Phase](notes/dao-primitives/framework/group-phase/organization.md) - Implementation
 - [Coordination Phase](notes/dao-primitives/framework/group-phase/coordination.md) - Execution & Evolution
-- [Completion Phase](notes/dao-primitives/framework/group-phase/completion.md) - Releasing & Returning
+- [Completion Phase](completion.md) - Releasing & Returning
  ![](attachments/Pasted%20image%2020250213104038.png) 
  
 ---
@@ -43,7 +44,7 @@ The five group phases are:
 
 **4. [Coordination Phase](notes/dao-primitives/framework/group-phase/coordination.md):** The Coordination Phase represents the mature group phase where groups transition from establishing their structures and processes in the [organization phase](notes/dao-primitives/framework/group-phase/organization.md) to focused execution on their purpose and goals. In this phase, a group leverages its fully implemented operational capabilities and governance systems to deliver maximum value and impact for itself and for the networks that it participates in. The emphasis shifts from internal development to effective delivery, with coordination becoming a key mechanism for accessing necessary resources, capabilities, and support from the broader network or ecosystem. [Learn more](notes/dao-primitives/framework/group-scale/coordination.md)
 
-**5. [Completion Phase](notes/dao-primitives/framework/group-phase/completion.md):** 
-This final phase focuses on the intentional conclusion of groups that have fulfilled their purpose or are no longer effectively serving the network. The primary goal is to properly redistribute resources, preserve valuable knowledge, and formally close operations. *Key characteristics* include documenting learnings, transferring responsibilities, distributing remaining funds, and clear communication about the closure. Without effective completion processes, networks accumulate "organizational debt" as outdated structures persist, undermining the flexibility and efficiency that DAOs aim to achieve. [Learn more](notes/dao-primitives/framework/group-phase/completion.md) 
+**5. [Completion Phase](completion.md):** 
+This final phase focuses on the intentional conclusion of groups that have fulfilled their purpose or are no longer effectively serving the network. The primary goal is to properly redistribute resources, preserve valuable knowledge, and formally close operations. *Key characteristics* include documenting learnings, transferring responsibilities, distributing remaining funds, and clear communication about the closure. Without effective completion processes, networks accumulate "organizational debt" as outdated structures persist, undermining the flexibility and efficiency that DAOs aim to achieve. [Learn more](completion.md) 
 
 
