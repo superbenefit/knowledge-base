@@ -42,7 +42,6 @@ Here, you'll find:
     - [[rejected-articles-log]]
     - [[rigorous-curation-strategy]]
     - [[start-link-analysis]]
-    - [[superbenefit-discord-urls-updated.csv]]
     - [[superbenefit-discord-urls.csv]]
     - [[valuable-articles]]
     - [[values-concerns]]
