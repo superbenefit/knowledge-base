@@ -30,7 +30,7 @@ Organizations can be understood as networks of coordinated actions that allow di
 In decentralized autonomous organizations, actions manifest through multiple mechanisms:
 
 - **On-chain actions**: Transactions, votes, and interactions with smart contracts that are cryptographically verified and permanently recorded on the blockchain
-- **Coordination actions**: Communications, decisions, and agreements that coordinate activity across autonomous teams or [cells](cell-working-group.md)
+- **Coordination actions**: Communications, decisions, and agreements that coordinate activity across autonomous teams or [cells](cell.md)
 - **Contributory actions**: Tasks and deliverables created by community members that advance the DAO's purpose
 - **Governance actions**: Processes like proposals, voting, and [delegation](tags/delegation.md) that shape the direction and rules of the organization
 
