@@ -3,7 +3,6 @@
   "dataview",
   "obsidian-mkdocs-publisher",
   "folder-notes",
-  "metadata-menu",
   "templater-obsidian",
   "auto-template-trigger",
   "waypoint",
@@ -14,5 +13,6 @@
   "multi-properties",
   "obsidian42-brat",
   "obsidian-local-rest-api",
+  "metadata-menu",
   "mcp-tools"
 ]
