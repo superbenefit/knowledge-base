@@ -16,7 +16,7 @@ _Notes and other documents related to experiments in the Reimagining Power proje
 %% Begin Waypoint %%
 - **[[rpp-experiments]]**
   - **[[all-in-for-sport]]**
-    - [[aifs-case-study-draft]]
+    - [[aifs-case-study-draft|Reimagining Power at All In For Sport]]
     - [[aifs-discovery-report]]
     - [[aifs-experiment-reflections]]
     - [[aifs-intervention-map]]

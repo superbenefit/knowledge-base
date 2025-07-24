@@ -30,9 +30,9 @@
    - Priority: **MEDIUM** - Need to locate existing documentation and add RPP examples
    - Description: Autonomous teams operating within shared governance framework
 
-5. **Impact Documentation (Hypercerts/Impact Attestations)**
+1. **Impact Attestations**
    - Status: **MISSING** - No unified pattern exists
-   - Usage: ICS uses "Hypercerts", Equality Fund uses "Impact Attestations"
+   - Usage: ICS uses "Hypercerts", Equality Fund uses "Impact Attestations" (standardize to "Impact attestations when referring to patterns. Don't overwrite uses of "hypercerts" in the ICS case study)
    - Priority: **HIGH** - Terminology needs unification
    - Description: On-chain documentation of social and environmental impact
 
