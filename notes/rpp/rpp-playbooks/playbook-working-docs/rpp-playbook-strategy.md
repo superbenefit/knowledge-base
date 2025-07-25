@@ -6,8 +6,9 @@ This execution strategy transforms the context-driven playbook workflow into act
 
 - Save all outputs to: `F:\projects\sb-knowledge-base\notes\rpp\rpp-playbooks\playbook-working-docs\`
 - Use XML tags for structured outputs to enable clean handoffs between phases
-- Execute independent operations in parallel whenever possible
+- Execute independent operations in parallel whenever possible, BUT limit to 2-3 concurrent tool calls to avoid rate limits
 - Generate comprehensive, detailed outputs - this is a complex task requiring thorough documentation
+- If you encounter rate limit errors, wait a moment and retry with smaller batches
 
 ## Key Resources Summary
 
@@ -68,7 +69,9 @@ You'll be:
 2. Analyzing three RPP case studies for relevant content
 3. Creating a comprehensive pattern inventory
 
-Please use parallel processing for independent file retrievals, think critically about connections between materials, and create detailed outputs with XML structure for clean handoff to Phase 2.
+IMPORTANT: Due to rate limits, retrieve files in batches of 2-3 at a time rather than all simultaneously. Pause briefly between batches if you encounter connection errors.
+
+Please use batched processing for file retrievals, think critically about connections between materials, and create detailed outputs with XML structure for clean handoff to Phase 2.
 
 Important: After each tool invocation, use interleaved thinking to reflect on the results and plan next steps. Be comprehensive in your analysis - we need thorough documentation for this complex project.
 
@@ -80,15 +83,19 @@ Begin with Task 1.1.
 **Execution Prompt:**
 
 ```
-Execute a comprehensive review of existing playbook resources using parallel processing and critical analysis.
+Execute a comprehensive review of existing playbook resources using batched parallel processing to respect rate limits.
 
-PARALLEL OPERATIONS - Invoke these file retrievals simultaneously:
+BATCHED PARALLEL OPERATIONS - Execute in groups of 2-3 to avoid rate limits:
+
+Batch 1 - Invoke these file retrievals:
 - obsidian-mcp-tools:get_vault_file for: notes/rpp/rpp-playbooks/reference/Final Playbook Reflections & Context.md
 - obsidian-mcp-tools:get_vault_file for: notes/rpp/rpp-playbooks/reference/Playbook Discovery Feedback.md
+
+After Batch 1 completes, proceed with Batch 2:
 - obsidian-mcp-tools:get_vault_file for: notes/rpp/rpp-playbooks/reference/Reimagining Power Project - Stakeholder Reflection Responses.md
 - obsidian-mcp-tools:get_vault_file for: notes/rpp/rpp-playbooks/reference/Playbook Structural Guidelines & Templates.md
 
-After receiving results, engage in critical thinking:
+After receiving all results, engage in critical thinking:
 - What patterns emerge across all documents?
 - Which insights challenge our assumptions about the target audience?
 - How do stakeholder experiences inform our approach?
@@ -128,13 +135,17 @@ Save detailed output as: playbook-working-docs/01-existing-resources-analysis.md
 **Execution Prompt:**
 
 ```
-Analyze RPP case studies for audience-relevant content using parallel retrieval and deep critical analysis.
+Analyze RPP case studies for audience-relevant content using batched retrieval and deep critical analysis.
 
 CONTEXT FROM TASK 1.1: Reference the <key_insights> and <stakeholder_themes> from your previous analysis to inform this review.
 
-PARALLEL OPERATIONS - Retrieve all case studies simultaneously:
+BATCHED OPERATIONS - Retrieve case studies in groups to avoid rate limits:
+
+Batch 1 - Retrieve first two case studies:
 - obsidian-mcp-tools:get_vault_file for: notes/rpp/rpp-experiments/all-in-for-sport/aifs-case-study-draft.md
 - obsidian-mcp-tools:get_vault_file for: notes/rpp/rpp-experiments/the-ics/ICS-Experiment-Case-Study.md
+
+After Batch 1 completes, retrieve the third:
 - obsidian-mcp-tools:get_vault_file for: notes/rpp/rpp-experiments/equality-fund/rpp-equality-fund-case-study-draft.md
 
 Apply chain-of-thought analysis to each case study:
@@ -189,14 +200,17 @@ Create comprehensive pattern inventory by analyzing multiple sources in parallel
 
 CONTEXT INTEGRATION: Use <pattern_references> from Task 1.1 and <cross_case_patterns> from Task 1.2 to guide your analysis.
 
-PARALLEL OPERATIONS - Simultaneously:
-1. List and retrieve patterns from:
+BATCHED OPERATIONS - Work within rate limits:
+1. First, list patterns from each directory sequentially:
    - artifacts/patterns/
    - notes/dao-primitives/implementation/patterns/
    - notes/rpp/rpp-working-docs/
 
-2. For efficiency, batch retrieve patterns after listing:
+2. After listing, batch retrieve patterns in groups of 2-3:
    - obsidian-mcp-tools:get_vault_file for each identified pattern file
+   - Pause briefly between batches if needed to avoid rate limits
+
+RATE LIMIT NOTE: If you encounter errors, reduce batch size to 2 files at a time and add brief pauses between batches.
 
 Critical thinking for each pattern:
 - Does this pattern appear in our successful case studies?
@@ -252,6 +266,8 @@ First, retrieve and review these Phase 1 outputs to understand the foundation:
 - playbook-working-docs/02-case-study-synthesis.md
 - playbook-working-docs/03-pattern-inventory.md
 
+IMPORTANT: When retrieving files, work in batches of 2-3 to avoid rate limits. If you encounter connection errors, reduce batch size and retry.
+
 After reviewing these files, confirm your understanding of:
 1. Key stakeholder themes and insights
 2. Case study examples available for each pattern
@@ -270,9 +286,13 @@ Begin with Task 2.0: Phase Initialization and Validation.
 ```
 Before beginning pattern development, ensure you have proper context and understanding.
 
-PARALLEL RETRIEVAL - Get all Phase 1 outputs simultaneously:
+BATCHED RETRIEVAL - Get Phase 1 outputs in groups to avoid rate limits:
+
+Batch 1 - Retrieve first two outputs:
 - obsidian-mcp-tools:get_vault_file for: notes/rpp/rpp-playbooks/playbook-working-docs/01-existing-resources-analysis.md
 - obsidian-mcp-tools:get_vault_file for: notes/rpp/rpp-playbooks/playbook-working-docs/02-case-study-synthesis.md
+
+After Batch 1 completes, retrieve the third:
 - obsidian-mcp-tools:get_vault_file for: notes/rpp/rpp-playbooks/playbook-working-docs/03-pattern-inventory.md
 
 After retrieval, validate your understanding:
@@ -317,7 +337,7 @@ CRITICAL THINKING: For each pattern, before writing, think through:
 - What fears or objections might arise?
 - How does this fit into their transformation journey?
 
-PARALLEL PATTERN RETRIEVAL: After identifying patterns from your inventory review, retrieve all pattern files simultaneously for efficiency.
+BATCHED PATTERN RETRIEVAL: After identifying patterns from your inventory review, retrieve pattern files in groups of 2-3 to avoid rate limits. If you have many patterns, process them in sequential batches with brief pauses between.
 
 For each pattern, create rich, detailed descriptions:
 
@@ -534,7 +554,7 @@ Confirm readiness before proceeding to guide creation.
 ```
 Develop comprehensive guides addressing documented friction points with real experiment insights.
 
-PARALLEL ANALYSIS: For each priority friction point, simultaneously:
+BATCHED ANALYSIS: For each priority friction point, work through these analyses in sequence to avoid overloading:
 - Extract relevant insights from case studies
 - Identify applicable patterns from Phase 2 work
 - Review existing guides for gaps
@@ -693,7 +713,11 @@ Save detailed output as: playbook-working-docs/07-quick-wins-catalog.md
 ```
 I need you to execute Phase 4 of the RPP Playbook Creation Strategy: Playbook Assembly with Audience Focus. This phase combines all previous work into a cohesive, navigable playbook.
 
-First, retrieve and review ALL previous outputs (01-07) to understand the full scope of content available. After review, confirm your understanding of:
+First, retrieve and review ALL previous outputs (01-07) to understand the full scope of content available. 
+
+IMPORTANT: Work in batches of 2-3 files to avoid rate limits. With 7 files to retrieve, plan for 3 batches with brief pauses between if needed.
+
+After review, confirm your understanding of:
 1. All pattern descriptions and interactions
 2. Implementation guides and quick wins
 3. Stakeholder insights and structural guidelines
@@ -711,8 +735,20 @@ Begin with Task 4.0: Phase Initialization and Content Audit.
 ```
 Conduct comprehensive content audit before assembly.
 
-PARALLEL RETRIEVAL - Get all previous outputs simultaneously:
-- All files from playbook-working-docs/ (01-07)
+BATCHED RETRIEVAL - Get previous outputs in groups to avoid rate limits:
+
+Batch 1 (Files 01-03):
+- playbook-working-docs/01-existing-resources-analysis.md
+- playbook-working-docs/02-case-study-synthesis.md
+- playbook-working-docs/03-pattern-inventory.md
+
+After Batch 1 completes, Batch 2 (Files 04-05):
+- playbook-working-docs/04-pattern-descriptions.md
+- playbook-working-docs/05-pattern-interactions.md
+
+After Batch 2 completes, Batch 3 (Files 06-07):
+- playbook-working-docs/06-implementation-guides.md
+- playbook-working-docs/07-quick-wins-catalog.md
 
 Create content inventory and assembly plan:
 
@@ -865,7 +901,7 @@ Save comprehensive output as: playbook-working-docs/08-playbook-structure.md
 ```
 Develop multiple navigation tools enabling quick access based on user context.
 
-PARALLEL DEVELOPMENT: Create all navigation tools simultaneously as they share content references.
+COORDINATED DEVELOPMENT: While these tools share content references, develop them systematically to ensure consistency. Work through each navigation aid type in sequence, cross-referencing as you go.
 
 Build comprehensive navigation system:
 
@@ -1254,7 +1290,11 @@ Save comprehensive output as: playbook-working-docs/11-risk-mitigation-resources
 ```
 I need you to execute Phase 6 of the RPP Playbook Creation Strategy: Quality Assurance and Iteration. This final phase ensures all content meets quality standards and establishes feedback integration processes.
 
-First, retrieve ALL outputs (01-11) plus the original context document. Your goal is to:
+First, retrieve ALL outputs (01-11) plus the original context document. 
+
+IMPORTANT: With 11+ files to retrieve, work in batches of 2-3 to avoid rate limits. Plan for 4-5 batches with brief pauses between if needed.
+
+Your goal is to:
 1. Verify alignment with strategic objectives
 2. Ensure consistency and completeness
 3. Design feedback integration processes
@@ -1272,7 +1312,27 @@ Begin with Task 6.0: Phase Initialization and Comprehensive Review Setup.
 ```
 Prepare for systematic quality assurance across all playbook materials.
 
-PARALLEL RETRIEVAL: Get all outputs (01-11) and original context documents.
+BATCHED RETRIEVAL - Get outputs in groups to avoid rate limits:
+
+Batch 1 (Files 01-03):
+- playbook-working-docs/01-existing-resources-analysis.md
+- playbook-working-docs/02-case-study-synthesis.md
+- playbook-working-docs/03-pattern-inventory.md
+
+After Batch 1, continue with Batch 2 (Files 04-06):
+- playbook-working-docs/04-pattern-descriptions.md
+- playbook-working-docs/05-pattern-interactions.md
+- playbook-working-docs/06-implementation-guides.md
+
+After Batch 2, continue with Batch 3 (Files 07-09):
+- playbook-working-docs/07-quick-wins-catalog.md
+- playbook-working-docs/08-playbook-structure.md
+- playbook-working-docs/09-navigation-tools.md
+
+After Batch 3, continue with Batch 4 (Files 10-11 + context):
+- playbook-working-docs/10-visual-tools.md
+- playbook-working-docs/11-risk-mitigation-resources.md
+- Original context document (if available)
 
 Establish QA framework:
 
@@ -1555,4 +1615,3 @@ Compile a comprehensive summary linking all outputs with key decisions and next 
 
 Save as: playbook-working-docs/00-playbook-development-archive.md
 ```
-
