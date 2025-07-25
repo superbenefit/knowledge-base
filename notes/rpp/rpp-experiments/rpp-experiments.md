@@ -48,7 +48,7 @@ _Notes and other documents related to experiments in the Reimagining Power proje
     - [[ics-case-study-addtl-info]]
     - [[ics-case-study-creation-prompt]]
     - [[ics-case-study-execution-plan]]
-    - [[notes/rpp/rpp-experiments/the-ics/ICS-Experiment-Case-Study|Reimagining Participation Through Web3 Governance]]
+    - [[ICS-Experiment-Case-Study|Reimagining Participation Through Web3 Governance]]
   - **[[women-win]]**
     - [[Meeting with Women Win & Equality Fund (copy)]]
     - [[Meeting with Women Win]]
