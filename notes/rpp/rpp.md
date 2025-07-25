@@ -21,21 +21,25 @@ _Notes and other documents from the Reimagining Power project at SuperBenefit_
   - **[[rpp-archive]]**
   - **[[rpp-experiments]]**
   - **[[rpp-playbooks]]**
-    - [[Final Playbook Reflections & Context]]
-    - [[Initial Playbook Visioning Session - RPP]]
-    - [[Operational Plan for Playbooks project - RPP]]
-    - [[pattern-library-index]]
-    - [[playbook design references - RPP]]
-    - [[Playbook Discovery Feedback]]
-    - [[Playbook Discovery Report (Task)]]
-    - [[Playbook discovery retro - RPP (31-10-24)]]
-    - [[Playbook researchdesign tasks - RPP]]
-    - [[Playbook Structural Guidelines & Templates]]
-    - [[Playbook task (template)]]
-    - [[Playbooks - RPP]]
-    - [[Playbooks Steward Rolecrafting]]
+    - **[[misc]]**
+      - [[Operational Plan for Playbooks project - RPP]]
+      - [[pattern-library-index]]
+      - [[Playbook researchdesign tasks - RPP]]
+      - [[Playbook task (template)]]
+      - [[Playbooks Steward Rolecrafting]]
+    - **[[playbook-working-docs]]**
+      - [[rpp-playbook-strategy]]
+    - **[[reference]]**
+      - [[Final Playbook Reflections & Context]]
+      - [[Initial Playbook Visioning Session - RPP]]
+      - [[playbook design references - RPP]]
+      - [[Playbook Discovery Feedback]]
+      - [[Playbook Discovery Report (Task)]]
+      - [[Playbook discovery retro - RPP (31-10-24)]]
+      - [[Playbook Structural Guidelines & Templates]]
+      - [[Playbooks - RPP]]
+      - [[Reimagining Power Project - Stakeholder Reflection Responses]]
     - [[rpp_playbook_context_capture]]
   - **[[rpp-working-docs]]**
-  - **[[working-docs]]**
 
 %% End Waypoint %%

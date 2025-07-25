@@ -1,12 +1,12 @@
 ---
 title: Operational Governance
-description: A pattern for enabling effective day-to-day operations and resource allocation through sociocratic coordination of autonomous teams
+description: A pattern for enabling effective day-to-day operations and resource allocation through decentralized coordination of autonomous teams
 url: 
 tags:
   - patterns
 publish: true
 type: pattern
-protocols: 
+protocols:
 ---
 # Operational Governance
 

@@ -72,7 +72,7 @@ _Notes and other documents from All In For Sport_
     - [[README|AIFS Poetic Harvests]]
   - **[[presentations]]**
     - [[aifs-gatherings-introduction]]
-  - **[[reference]]**
+  - **[[notes/aifs/reference/reference]]**
     - [[all-in-for-sport-workspace]]
     - [[community-gatherings-overview]]
     - [[giveth-aifs-gatherings-project-text]]
