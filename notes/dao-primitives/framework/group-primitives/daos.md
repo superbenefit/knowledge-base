@@ -5,8 +5,8 @@ author: yeoro.eth
 tags:
   - primitives
   - daos
-publish: "false"
-type: note
+publish: false
+type: pattern
 ---
 
 # DAOs

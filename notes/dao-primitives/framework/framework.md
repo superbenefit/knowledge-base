@@ -1,8 +1,15 @@
 ---
 title: DAO Primitives Conceptual Framework
-description: A comprehensive framework for designing decentralized organizations as networks
+description: A comprehensive framework for designing decentralized organizations as networks of small autonomous teams
 publish: "true"
-type: pattern
+type: guide
+tags:
+  - cell
+  - dao
+  - roles
+  - tasks
+  - group-phase
+  - group-state
 ---
 
 # DAO Primitives Conceptual Framework
@@ -11,10 +18,10 @@ The DAO Primitives Framework provides a systematic approach to designing and imp
 
 %% Begin Waypoint %%
 - **[[framework]]**
-  - [[group-facilitation|DAO Primitives Group Facilitation Guide]]
+  - [[group-facilitation|group facilitation]]
   - **[[group-phase]]**
     - [[completion]]
-    - [[conversation|Conversation Phase]]
+    - [[conversation|conversation phase]]
     - [[coordination]]
     - [[formation]]
     - [[organization]]
@@ -24,7 +31,7 @@ The DAO Primitives Framework provides a systematic approach to designing and imp
     - [[constituency|Constituency Scale]]
     - [[coordination|Coordination Scale]]
     - [[network|Network Scale]]
-  - [[group-state|Group State]]
+  - [[group-state|group state]]
 
 %% End Waypoint %%
 

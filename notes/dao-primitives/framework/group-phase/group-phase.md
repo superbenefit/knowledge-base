@@ -1,9 +1,12 @@
 ---
 title: Group Phase
-tags: 
+tags:
+  - dao-primitives
+  - framework
 aliases: 
-description: "A framework outlining the five key phases of group evolution, tailored for DAO contexts."
+description: A framework outlining the five key phases of group evolution, tailored for DAO contexts.
 publish: "true"
+type: index
 ---
 
 # Group Phase

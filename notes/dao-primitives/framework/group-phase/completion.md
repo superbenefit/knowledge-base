@@ -1,10 +1,30 @@
 ---
+title: Completion Phase
+tags:
+  - dao-primitives
+  - framework
+  - group-phase
+aliases:
+  - completion-phase
+description: The final phase of group development focused on thoughtfully concluding a group's work, preserving its knowledge and achievements, and ensuring appropriate transitions of resources and responsibilities
+publish: "true"
+type: note
 ---
----
-title: Completion Phase description: "The final phase of group development focused on thoughtfully concluding a group's work, preserving its knowledge and achievements, and ensuring appropriate transitions of resources and responsibilities." author: yeoro.eth harvester: tags: - framework - group-phase aliases: - completion phase - "#completion"
+
+title: Completion Phase
+description: "The final phase of group development focused on thoughtfully concluding a group's work, preserving its knowledge and achievements, and ensuring appropriate transitions of resources and responsibilities."
+author: yeoro.eth
+harvester:
+  tags:
+    - framework
+    - group-phase
+aliases:
+  - completion phase
+  - "#completion"
 publish: "true"
 
----
+
+
 
 # Completion Phase
 
