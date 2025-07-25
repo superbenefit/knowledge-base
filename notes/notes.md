@@ -32,6 +32,7 @@ Here, you'll find:
   - **[[library]]**
     - [[current-status]]
     - [[daily-checklist]]
+    - [[discord-candidates-evaluation]]
     - [[discord-link-scraper-project-plan]]
     - [[evaluation-template]]
     - [[final-ready-to-write]]
