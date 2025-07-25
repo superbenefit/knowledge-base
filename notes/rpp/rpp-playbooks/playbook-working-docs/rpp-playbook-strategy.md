@@ -9,6 +9,7 @@ This execution strategy transforms the context-driven playbook workflow into act
 - Execute independent operations in parallel whenever possible, BUT limit to 2-3 concurrent tool calls to avoid rate limits
 - Generate comprehensive, detailed outputs - this is a complex task requiring thorough documentation
 - If you encounter rate limit errors, wait a moment and retry with smaller batches
+- UNDER NO CIRCUMSTANCES should you include xml tags in your outputs.
 
 ## Key Resources Summary
 
