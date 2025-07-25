@@ -1,17 +1,18 @@
-
 ---
-title: Organization Phase 
-description: "The developmental phase where groups establish formalized structures, processes, and governance mechanisms to enable sustainable operations and effective coordination within the network." 
-author: yeoro.eth 
+title: Organization Phase
+description: The developmental phase where groups establish formalized structures, processes, and governance mechanisms to enable sustainable operations and effective coordination within the network.
+author:
+  - yeoro.eth
 tags:
-		- framework 
-		- group-phase
-aliases: 
-		- organization phase 
-		- "#organization" 
+  - framework
+  - group-phase
+aliases:
+  - organization phase
+  - "#organization"
 publish: "true"
-
+type: note
 ---
+
 
 # Organization Phase
 

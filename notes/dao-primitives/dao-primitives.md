@@ -2,10 +2,12 @@
 title: DAO Primitives Project
 description: A framework for building purpose-aligned networks of small autonomous teams that harness collective intelligence
 publish: "true"
-type: index
+type: guide
 tags:
   - daos
   - primitives
+author:
+  - yeoro.eth
 ---
 # DAO Primitives Project
 
@@ -83,8 +85,6 @@ Practical tools, processes, and guides for putting the primitives approach into 
 - [Case Studies](notes/dao-primitives/implementation/case-studies)
 - [Guides](notes/dao-primitives/implementation/guides)
 
-### 4. [Resources](notes/dao-primitives/resources/resources.md)
-Supporting materials including templates and tools for implementation.
 
 ## Network Evolution Series
 

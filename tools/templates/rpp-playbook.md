@@ -1,40 +1,14 @@
 ---
 title: 
 description: 
-author: 
-url: 
 tags:
   - playbooks
   - governance
   - dao
   - cells
   - community
-curator: 
-harvester: 
 publish: 
 type: playbook
-patterns:
-  - cells
-  - coordi-nations
-  - peer-to-peer-payments
-  - local-nodes
-  - token-based-governance
-  - group-state
-quick_wins: 
-implementation_phases:
-  - foundation_building
-  - operational_transformation
-  - network_effects
-audience:
-  - nonprofit-executives
-  - foundation-leaders
-  - program-managers
-  - social-impact-practitioners
-constraints_addressed:
-  - time
-  - bureaucracy
-  - technical-overwhelm
-  - resource-limitations
 ---
 %% This RPP-optimized playbook template aligns with the execution strategy outputs. It transforms XML-structured research into accessible guidance for nonprofit executives implementing decentralized governance. The template incorporates all Phase 1-6 deliverables while maintaining Grade 13 reading level accessibility. %%
 
@@ -241,15 +215,6 @@ Progressive disclosure of complexity %%
 Detailed how-to resources for specific challenges %%
 
 ### Available Guides
-
-#### 💰 [Wallet Safety & On-ramping for Organizations](link-to-guide)
-Overcome the technical barrier with step-by-step security
-
-#### 🤝 [Getting Organizational Buy-in](link-to-guide)  
-Navigate internal resistance with proven strategies
-
-#### ⚖️ [Avoiding Old Hierarchies in New Systems](link-to-guide)
-Design truly participatory governance
 
 %% Link to full guides rather than embedding %%
 

@@ -1,7 +1,7 @@
 ---
 title: Conversation Phase
-description: "The initial phase of group development characterized by open exploration, relationship building, and vision formation that establishes the foundation for emergent collective action."
-author: yeoro.eth
+description: The initial phase of group development characterized by open exploration, relationship building, and vision formation that establishes the foundation for emergent collective action.
+author: 
 tags:
   - framework
   - group-phase
@@ -10,6 +10,7 @@ aliases:
   - ideation phase
   - exploration phase
 publish: "true"
+type: note
 ---
 
 # Conversation Phase
