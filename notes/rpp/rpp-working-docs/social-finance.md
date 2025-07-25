@@ -23,7 +23,7 @@ A pattern for aligning financial mechanisms with social impact through web3 tool
 
 Decentralized Social Finance represents a transformative approach that bridges traditional philanthropy with web3 technologies to fundamentally reimagine power in impact funding.
 
-Through the integration of [decentralized financial protocols](tags/defi.md), [community governance mechanisms](community-governance.md), and transparent [impact verification tools](tags/impact.md), this approach creates systems where resources are directed by the communities they aim to serve. This enables a new paradigm where capital flows are continuously aligned with social and environmental outcomes while reimagining power structures which have historically limited the effectiveness of centralized social funding systems.
+Through the integration of [decentralized financial protocols](tags/defi.md), [community governance mechanisms](notes/rpp/rpp-working-docs/community-governance.md), and transparent [impact verification tools](tags/impact.md), this approach creates systems where resources are directed by the communities they aim to serve. This enables a new paradigm where capital flows are continuously aligned with social and environmental outcomes while reimagining power structures which have historically limited the effectiveness of centralized social funding systems.
 
 ## Problem / Solution Context
 
@@ -70,7 +70,7 @@ This component establishes sustainable funding sources by:
 - Creating regenerative economic models that support long-term sustainability
 - Automating value distribution based on predefined parameters and governance decisions
 
-#### 2. [Community Governance](community-governance.md)
+#### 2. [Community Governance](notes/rpp/rpp-working-docs/community-governance.md)
 
 This component aligns diverse stakeholder interests through:
 - Enabling broad participation in determining funding priorities through accessible interfaces

@@ -12,13 +12,8 @@ extends: artifact
 savedViews: []
 favoriteView: 
 fieldsOrder: []
-version: "2.27"
-fields:
-  - name: protocols
-    type: Multi
-    options: {}
-    path: ""
-    id: protocols_field
+version: "2.29"
+fields: []
 ---
 The Pattern type documents reusable solutions to common challenges in decentralized organization (DAO) design and governance. Extending the Artifact type, Pattern represents well-established approaches that can be applied across different contexts and implementations.
 

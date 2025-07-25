@@ -24,6 +24,7 @@ _Notes and other documents from the Reimagining Power project at SuperBenefit_
     - [[Final Playbook Reflections & Context]]
     - [[Initial Playbook Visioning Session - RPP]]
     - [[Operational Plan for Playbooks project - RPP]]
+    - [[pattern-library-index]]
     - [[playbook design references - RPP]]
     - [[Playbook Discovery Feedback]]
     - [[Playbook Discovery Report (Task)]]

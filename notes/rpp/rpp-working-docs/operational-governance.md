@@ -12,9 +12,9 @@ type: note
 Operational [governance](tags/governance.md) enables autonomous teams to coordinate effectively around [shared resources](tags/resources.md) and [objectives](tags/goals.md) using [decentralized](tags/decentralization.md) infrastructure and sociocratic principles at the coordination scale.
 
 related to:
-- [Community Governance](community-governance.md)
+- [Community Governance](notes/rpp/rpp-working-docs/community-governance.md)
 - [Multi-Stakeholder Governance](multistakeholder-governance.md)
-- [Operational Governance](operational-governance.md)
+- [Operational Governance](notes/rpp/rpp-working-docs/operational-governance.md)
 
 This pattern provides a [framework](tags/frameworks.md) for implementing efficient, transparent, and adaptable operational systems that maintain [autonomy](tags/autonomy.md) while ensuring [coordination](notes/dao-primitives/framework/group-scale/coordination.md).
 

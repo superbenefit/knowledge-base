@@ -54,7 +54,7 @@ However, there is a necessary trade-off between scale and the complexity of deci
 
 - [[dao-state]]
 - [[notes/dao-primitives/framework/group-state|group-state]] 
-- [[community-governance]] 
+- [[artifacts/patterns/community-governance]] 
 - [[implementation-guide-community-governance]]
 
 ### Constituency Scale [[tags/primitives|Primitives]]

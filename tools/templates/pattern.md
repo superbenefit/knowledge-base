@@ -6,7 +6,6 @@ tags:
   - patterns
 publish: "false"
 type: pattern
-protocols: 
 ---
 # <% tp.frontmatter.title || "Pattern Name" %>
 
@@ -24,7 +23,7 @@ _<% tp.frontmatter.description || "A conceptual framework that provides reusable
 
 ---
 
-## Solution Framework
+## Solution
 
 %% Explain the conceptual approach this pattern provides. Describe the key principles, mechanisms, and components that make this pattern effective. This should be more strategic and less procedural than protocol documentation. %%
 
