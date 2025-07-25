@@ -21,12 +21,11 @@ publish: false
 type: study
 case: ics
 ---
-
 # Reimagining Power @ ICS
 
 *ICS experiments with decentralized governance tools, discovering that communities seek participation in decision-making rather than just new funding mechanisms*
 
-**An Institute for Community Sustainability Case Study in Decentralized Governance Implementation**
+**An *Institute for Community Sustainability* Case Study in Decentralized Governance Implementation**
 
 ---
 
@@ -34,7 +33,7 @@ case: ics
 
 The Institute for Community Sustainability (ICS) implemented Web3 governance infrastructure from January to July 2025 as part of SuperBenefit's Reimagining Power Project. The experiment successfully established operational governance systems used by four core team members, launched London's first Green Pill Network chapter, and achieved top 10% ranking in Gitcoin Grants Round 23.
 
-Key learnings include the 6-18 month timeline required for meaningful Web3 adoption at community level, the importance of making tools enjoyable and accessible, and the value of responding to opportunities rather than forcing predetermined plans. The experiment continues with plans for public demonstrations and expanded education programs in fall 2025.
+Key learnings include the minimum 6-18 month timeline required for meaningful Web3 adoption at community level, the importance of making tools enjoyable and accessible, and the value of responding to opportunities rather than forcing predetermined plans. The experiment continues with plans for public demonstrations and expanded education programs in fall 2025.
 
 ---
 
@@ -42,7 +41,7 @@ Key learnings include the 6-18 month timeline required for meaningful Web3 adopt
 
 ### The Organization
 
-The Institute for Community Sustainability (ICS) is a federal not-for-profit organization in London, Ontario. The organization operates three main programs that embody its mission of helping Londoners lead more sustainable and connected lives:
+The Institute for Community Sustainability (ICS) is a federal not-for-profit organization headquartered in London, Ontario. The organization operates three main programs that embody its mission of helping Londoners lead more sustainable and connected lives:
 - Repair Café: Volunteer-led repair services that divert waste from landfills
 - Thing Library: Tool and equipment lending to reduce consumption
 - Community Workshops: Skills training in repair, mending, and sustainability
@@ -98,7 +97,7 @@ The experiment employed an adaptive methodology, adjusting plans based on emergi
 The initial phase focused on establishing the technical foundation for decentralized governance. This period saw rapid implementation of multiple Web3 tools and systems.
 
 **Technical Achievements**:
-- Established multisignature wallet with 4 signers
+- Established multisignature wallet with four signers
 - Secured ENS domain (theics.eth)
 - Configured Hats Protocol tree for role management
 - Created CharmVerse and Snapshot spaces
@@ -180,7 +179,7 @@ Several key principles emerged for successfully engaging communities with Web3 t
 
 The experiment revealed several areas where reality diverged from expectations:
 
-- Only 4 of many volunteers engaged with new systems, highlighting the gap between technical readiness and social adoption
+- Only four of many volunteers engaged with new systems, highlighting the gap between technical readiness and social adoption
 - The planned workshop wasn't delivered as designed, indicating misalignment with community readiness
 - All core team members experienced personal transitions during implementation, affecting available time and focus
 - The conceptual gap between Web3 thinking and mainstream understanding was consistently wider than anticipated
@@ -250,7 +249,7 @@ This experiment validates existing understanding about the challenges of Web3 ad
 
 The ICS Web3 governance experiment demonstrated both the potential and challenges of implementing decentralized tools in community organizations. While adoption remained limited to four core users, the experiment established functional infrastructure, achieved unexpected successes like top 10% GG23 ranking, and generated valuable insights about community needs and adoption patterns.
 
-The key discovery—that communities seek participation over resources—reframes how organizations might approach Web3 integration. Rather than focusing primarily on funding mechanisms, successful adoption requires addressing fundamental desires for agency and voice in decision-making.
+The key discovery - that communities seek participation over resources - reframes how organizations might approach Web3 integration. Rather than focusing primarily on funding mechanisms, successful adoption requires addressing fundamental desires for agency and voice in decision-making.
 
 For practitioners, ICS's experience offers practical guidance: start small with committed teams, prioritize enjoyment and accessibility, maintain flexibility for opportunities, and prepare for 6-18 month adoption timelines. The path to decentralized governance requires patience and persistence, but early experiments like ICS's provide essential learning for the broader movement toward participatory, regenerative organizational models.
 

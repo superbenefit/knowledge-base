@@ -32,6 +32,7 @@ Here, you'll find:
   - **[[library]]**
     - [[current-status]]
     - [[daily-checklist]]
+    - [[discord-candidates-evaluation]]
     - [[discord-link-scraper-project-plan]]
     - [[evaluation-template]]
     - [[final-ready-to-write]]
@@ -47,7 +48,9 @@ Here, you'll find:
     - [[values-concerns]]
     - [[web-scraping-method-reliability-guide]]
     - [[web3-library-workflow]]
+  - **links**
   - **[[rpp]]**
+  - **[[shg]]**
   - **[[wp]]**
 
 %% End Waypoint %%
