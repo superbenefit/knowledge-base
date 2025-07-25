@@ -97,7 +97,7 @@ The experiment employed an adaptive methodology, adjusting plans based on emergi
 The initial phase focused on establishing the technical foundation for decentralized governance. This period saw rapid implementation of multiple Web3 tools and systems.
 
 **Technical Achievements**:
-- Established multisignature wallet with 4 signers
+- Established multisignature wallet with four signers
 - Secured ENS domain (theics.eth)
 - Configured Hats Protocol tree for role management
 - Created CharmVerse and Snapshot spaces
