@@ -21,19 +21,20 @@ publish: false
 type: study
 case: ics
 ---
+
 # Reimagining Power @ ICS
 
 *ICS experiments with decentralized governance tools, discovering that communities seek participation in decision-making rather than just new funding mechanisms*
 
-**An *Institute for Community Sustainability* Case Study in Decentralized Governance Implementation**
+**An Institute for Community Sustainability Case Study in Decentralized Governance Implementation**
 
 ---
 
 ## Executive Summary
 
-The Institute for Community Sustainability (ICS) implemented Web3 governance infrastructure from January to July 2025 as part of SuperBenefit's Reimagining Power Project. The experiment successfully established operational governance systems used by four core team members, launched London's first Green Pill Network chapter, and achieved top 10% ranking in Gitcoin Grants Round 23.
+The Institute for Community Sustainability (ICS) implemented Web3 governance infrastructure from January to July 2025 as part of SuperBenefit's Reimagining Power Project. The experiment successfully established operational governance systems using token-based governance, multistakeholder governance patterns, and DAOs structure, all managed through roles implementation with Hats Protocol. Four core team members actively use these systems. ICS launched London's first local nodes implementation as a Green Pill Network chapter and achieved top 10% ranking in Gitcoin Grants Round 23.
 
-Key learnings include the minimum 6-18 month timeline required for meaningful Web3 adoption at community level, the importance of making tools enjoyable and accessible, and the value of responding to opportunities rather than forcing predetermined plans. The experiment continues with plans for public demonstrations and expanded education programs in fall 2025.
+Key learnings include the 6-18 month timeline required for meaningful Web3 adoption at community level, the importance of making tools enjoyable and accessible, and the value of responding to opportunities rather than forcing predetermined plans. The experiment continues with plans for public demonstrations and expanded education programs in fall 2025.
 
 ---
 
@@ -41,7 +42,7 @@ Key learnings include the minimum 6-18 month timeline required for meaningful We
 
 ### The Organization
 
-The Institute for Community Sustainability (ICS) is a federal not-for-profit organization headquartered in London, Ontario. The organization operates three main programs that embody its mission of helping Londoners lead more sustainable and connected lives:
+The Institute for Community Sustainability (ICS) is a federal not-for-profit organization in London, Ontario. The organization operates three main programs that embody its mission of helping Londoners lead more sustainable and connected lives:
 - Repair Café: Volunteer-led repair services that divert waste from landfills
 - Thing Library: Tool and equipment lending to reduce consumption
 - Community Workshops: Skills training in repair, mending, and sustainability
@@ -79,10 +80,13 @@ The team made strategic choices to start small with committed participants rathe
 ICS implemented four interventions between January and July 2025, each designed to test different aspects of decentralized governance and community engagement:
 
 **Selected Patterns:**
-- **Governance Infrastructure**: Multisig wallet, ENS domain, Hats Protocol roles, voting systems, and collaborative spaces to enable distributed decision-making
-- **On-chain Impact Documentation**: Blockchain-based recording of social and environmental contributions to enable transparency and future funding
-- **Local Web3 Chapter**: Green Pill Network node to connect local regenerative initiatives with global movement
-- **Progressive Onboarding**: Education approaches evolving from single workshop to sustained cohort model based on community feedback
+- **Token-based governance**: Voting systems for collective decision-making
+- **Multistakeholder governance**: Structures to include diverse participant voices
+- **DAOs**: Overall decentralized autonomous organization framework
+- **Roles**: Hats Protocol implementation for clear governance responsibilities
+- **Impact Attestations**: Blockchain-based recording of social and environmental contributions to enable transparency and future funding
+- **Local nodes**: Green Pill Network chapter to connect local regenerative initiatives with global movement
+- **Opportunistic Adoption**: Emergent pattern of flexible response to ecosystem opportunities
 
 ### Resource Mobilization
 
@@ -94,19 +98,19 @@ The experiment employed an adaptive methodology, adjusting plans based on emergi
 
 ### Phase 1: Infrastructure Development (January-March 2025)
 
-The initial phase focused on establishing the technical foundation for decentralized governance. This period saw rapid implementation of multiple Web3 tools and systems.
+The initial phase focused on establishing the technical foundation for decentralized governance through multiple Web3 patterns and systems.
 
 **Technical Achievements**:
-- Established multisignature wallet with four signers
+- Established multisignature wallet with 4 signers (implementing token-based governance)
 - Secured ENS domain (theics.eth)
-- Configured Hats Protocol tree for role management
-- Created CharmVerse and Snapshot spaces
-- Integrated with SuperBenefit systems
+- Configured Hats Protocol tree implementing roles pattern
+- Created CharmVerse and Snapshot spaces for multistakeholder governance
+- Integrated with SuperBenefit DAOs infrastructure
 
 **Key Outcomes**:
 - Four core team members actively using systems (exceeding goal of 3)
 - All technical infrastructure operational
-- Green Pill Network application submitted and approved
+- Local nodes application submitted and approved (Green Pill Network)
 
 **Challenges**:
 - Limited interest from broader volunteer base
@@ -117,11 +121,11 @@ The initial phase focused on establishing the technical foundation for decentral
 This phase marked a shift from infrastructure building to active experimentation and strategic evolution based on real-world feedback and opportunities.
 
 **Activities and Adaptations**:
-- Held four Green Pill London meetings (March 23, March 30, April 10, June 9)
+- Held four local nodes meetings as Green Pill London (March 23, March 30, April 10, June 9)
 - Team member attended ETHDenver and Consensus Toronto conferences
 - Launched Gitcoin Grants Round 23 campaign achieving top 10% ranking
-- Pivoted from hypercerts to Karma GAP for ecosystem compatibility
-- Redesigned education approach from single workshop to cohort model
+- Pivoted from hypercerts to Karma GAP for Impact Attestations implementation
+- Applied Opportunistic Adoption pattern throughout
 
 **Key Discoveries**:
 - Community members wanted practical participation, not theoretical education
@@ -129,6 +133,8 @@ This phase marked a shift from infrastructure building to active experimentation
 - Conference connections accelerated ecosystem integration
 - External validation (GG23) built internal confidence
 - Flexibility yielded better results than rigid planning
+
+The shift from a planned single workshop to a cohort model exemplified the Opportunistic Adoption pattern—responding to community readiness rather than forcing predetermined approaches.
 
 ---
 
@@ -142,8 +148,8 @@ The experiment produced measurable outcomes across multiple dimensions:
 |--------|--------|----------|---------|
 | Active governance users | 3+ | 4 | ✓ Exceeded |
 | Infrastructure components | 5 | 7 | ✓ Exceeded |
-| Hypercert/impact documentation | 1 | 1 (via Karma GAP) | ✓ Adapted |
-| Green Pill meetings | 1 | 4 | ✓ Exceeded |
+| Impact documentation | 1 | 1 (via Karma GAP) | ✓ Adapted |
+| Local nodes meetings | 1 | 4 | ✓ Exceeded |
 | Education workshop | 1 | 0 (redesigned) | ⟲ Pivoted |
 | GG23 ranking | N/A | Top 10% | ✓ Bonus |
 
@@ -152,13 +158,14 @@ The experiment produced measurable outcomes across multiple dimensions:
 - Strategic shift from "acquiring resources" to "enabling participation"
 - Recognition that enjoyment is essential for adoption
 - Acceptance of extended transformation timelines
+- Established DAO State through shared context and decision-making processes
 
 **Stakeholder Experiences**:
 Different stakeholder groups experienced the experiment in distinct ways, reflecting varying levels of engagement and different relationships to the Web3 tools and concepts being introduced.
 
-- **Core Team**: Deep engagement with all tools, regular participation in governance decisions, strong sense of ownership and agency
+- **Core Team**: Deep engagement with all tools (token-based governance, multistakeholder governance, DAOs infrastructure), regular participation in governance decisions through roles pattern, strong sense of ownership and agency
 - **ICS Volunteers**: Minimal engagement with new systems, benefits not yet extended to broader base
-- **Green Pill Participants**: Consistent attendance by small group, preference for practical over theoretical learning
+- **Local nodes Participants**: Consistent attendance by small group, preference for practical over theoretical learning
 - **External Community**: GG23 donors validated work through contributions, conference connections opened opportunities
 
 ### What We Learned
@@ -167,11 +174,11 @@ Several key principles emerged for successfully engaging communities with Web3 t
 
 **Fun is Fundamental**: Complex tools require enjoyable experiences to overcome learning barriers. Community events, gamification, and social elements proved more effective than technical training.
 
-**Participation Over Resources**: Communities showed greater interest in having voice and agency in decisions than in accessing new funding sources. This insight fundamentally reoriented the experiment's approach.
+**Participation Over Resources**: Communities showed greater interest in having voice and agency in decisions (through multistakeholder governance) than in accessing new funding sources. This insight fundamentally reoriented the experiment's approach.
 
-**Small Teams as Foundation**: Four committed individuals successfully established comprehensive infrastructure. While this doesn't constitute broad adoption, it creates necessary foundation for future growth.
+**Small Teams as Foundation**: Four committed individuals successfully established comprehensive infrastructure including DAOs structure, roles implementation, and token-based governance. While this doesn't constitute broad adoption, it creates necessary foundation for future growth.
 
-**Flexibility Enables Opportunity**: Responding to emergent opportunities (GG23, conferences) yielded better outcomes than following rigid plans. Organizations should maintain readiness to pivot while keeping core objectives clear.
+**Flexibility Enables Opportunity**: The Opportunistic Adoption pattern—responding to emergent opportunities (GG23, conferences)—yielded better outcomes than following rigid plans. Organizations should maintain readiness to pivot while keeping core objectives clear.
 
 **Communication Challenges Persist**: The gap between Web3 concepts and mainstream understanding proved wider than anticipated. Despite multiple approaches, effectively translating technical concepts for general audiences remains an ongoing challenge.
 
@@ -179,10 +186,11 @@ Several key principles emerged for successfully engaging communities with Web3 t
 
 The experiment revealed several areas where reality diverged from expectations:
 
-- Only four of many volunteers engaged with new systems, highlighting the gap between technical readiness and social adoption
-- The planned workshop wasn't delivered as designed, indicating misalignment with community readiness
+- Only 4 of many volunteers engaged with new systems, highlighting the gap between technical readiness and social adoption
+- The planned workshop wasn't delivered as designed, indicating misalignment with community readiness (leading to Opportunistic Adoption approach)
 - All core team members experienced personal transitions during implementation, affecting available time and focus
 - The conceptual gap between Web3 thinking and mainstream understanding was consistently wider than anticipated
+- Technical implementation (multisig, ENS, Hats) proved easier than social adoption
 
 These challenges don't represent failures but rather valuable learnings about the reality of Web3 adoption at community level.
 
@@ -194,27 +202,27 @@ These challenges don't represent failures but rather valuable learnings about th
 
 Through implementation, several replicable patterns emerged that other organizations might adapt:
 
-**Multisig Governance**
+**Token-based governance via Multisig**
 - Setup: 2-of-4 signature requirement for financial decisions
 - Tools: Gnosis Safe, integrated with ENS
 - Result: Operational but limited to core team
 - Lesson: Social protocols more important than technical setup
 
-**Local Web3 Chapters**
+**Local nodes (Web3 Chapters)**
 - Process: Apply to global network, establish local governance, hold regular meetings
 - Frequency: Monthly gatherings with consistent small group
 - Focus: Building relationships over formal structure
 - Outcome: Sustained engagement from committed participants
 
-**Impact Documentation Evolution**
+**Impact Attestations Evolution**
 - Original: Organization-specific hypercerts
 - Adapted: Ecosystem-standard tools (Karma GAP)
 - Benefit: Enabled participation in funding rounds
 - Learning: Compatibility trumps customization
 
-**Emergent Pattern: Opportunistic Web3 Adoption**
+**Emergent Pattern: Opportunistic Adoption**
 A new pattern emerged for community organizations entering Web3:
-1. Build technical readiness with small team
+1. Build technical readiness with small team (DAOs, roles, token-based governance)
 2. Maintain flexibility to respond to opportunities
 3. Prioritize ecosystem compatibility over unique solutions
 4. Use external validation to build internal momentum
@@ -228,30 +236,33 @@ Building on the foundation established during the experiment, ICS has identified
 - Implement "stealth" Web3 integration through familiar tools
 - Document and share cohort curriculum openly
 
-Looking beyond immediate next steps, ICS has established goals for sustainable Web3 integration over the next year including achieving 10+ active participants, integrating governance tools into regular operations, and expanding Green Pill London activities.
+Looking beyond immediate next steps, ICS has established goals for sustainable Web3 integration over the next year including achieving 10+ active participants in governance systems, expanding cells structure if volunteer teams emerge, integrating governance tools into regular operations, and expanding local nodes activities.
 
 ### Transferable Insights
 
 Core principles that transcend context:
-- Technical infrastructure can be built quickly, but social adoption requires 6-18 month timelines
+- Technical infrastructure (DAOs, token-based governance, roles) can be built quickly, but social adoption requires 6-18 month timelines
 - Start with committed core teams before attempting broader adoption
 - Make experiences enjoyable to overcome complexity barriers
-- Flexibility and opportunism yield better results than rigid planning
+- Flexibility and opportunism (Opportunistic Adoption pattern) yield better results than rigid planning
 - External validation accelerates internal confidence and adoption
+- DAO State emerges through practice, not just technical implementation
 
 ### Knowledge Contribution
 
-This experiment validates existing understanding about the challenges of Web3 adoption while contributing new insights about community motivations. The discovery that communities primarily seek participation rather than resources reframes how organizations might approach Web3 integration. The "Opportunistic Web3 Adoption" pattern offers a pragmatic approach for resource-constrained organizations in conservative communities.
+This experiment validates existing understanding about the challenges of Web3 adoption while contributing new insights about community motivations. The discovery that communities primarily seek participation (through multistakeholder governance) rather than resources reframes how organizations might approach Web3 integration. The "Opportunistic Adoption" pattern offers a pragmatic approach for resource-constrained organizations in conservative communities.
+
+The successful implementation of multiple governance patterns (token-based governance, multistakeholder governance, DAOs, roles) demonstrates that comprehensive infrastructure is achievable even with limited resources. However, the gap between technical implementation and social adoption remains a critical challenge requiring patient, sustained effort.
 
 ---
 
 ## Conclusion
 
-The ICS Web3 governance experiment demonstrated both the potential and challenges of implementing decentralized tools in community organizations. While adoption remained limited to four core users, the experiment established functional infrastructure, achieved unexpected successes like top 10% GG23 ranking, and generated valuable insights about community needs and adoption patterns.
+The ICS Web3 governance experiment demonstrated both the potential and challenges of implementing decentralized tools in community organizations. While adoption remained limited to four core users, the experiment established functional infrastructure using token-based governance, multistakeholder governance patterns within a DAOs framework, all coordinated through roles implementation. The achievement of unexpected successes like top 10% GG23 ranking validated the Opportunistic Adoption approach.
 
-The key discovery - that communities seek participation over resources - reframes how organizations might approach Web3 integration. Rather than focusing primarily on funding mechanisms, successful adoption requires addressing fundamental desires for agency and voice in decision-making.
+The key discovery—that communities seek participation over resources—reframes how organizations might approach Web3 integration. Rather than focusing primarily on funding mechanisms, successful adoption requires addressing fundamental desires for agency and voice in decision-making through patterns like multistakeholder governance.
 
-For practitioners, ICS's experience offers practical guidance: start small with committed teams, prioritize enjoyment and accessibility, maintain flexibility for opportunities, and prepare for 6-18 month adoption timelines. The path to decentralized governance requires patience and persistence, but early experiments like ICS's provide essential learning for the broader movement toward participatory, regenerative organizational models.
+For practitioners, ICS's experience offers practical guidance: start small with committed teams, prioritize enjoyment and accessibility, maintain flexibility for opportunities (Opportunistic Adoption), and prepare for 6-18 month adoption timelines. The path to decentralized governance requires patience and persistence, but early experiments like ICS's provide essential learning for the broader movement toward participatory, regenerative organizational models.
 
 ---
 

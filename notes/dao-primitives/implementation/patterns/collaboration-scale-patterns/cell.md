@@ -26,8 +26,6 @@ phase:
 patterns:
   - state
 ---
-    
-
 *A pattern for creating working groups that can reliably govern themselves and coordinate with other working groups and DAO like structures.*
 Purpose aligned networks of small autonomous teams 
 

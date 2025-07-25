@@ -16,7 +16,7 @@ _Notes and other documents related to experiments in the Reimagining Power proje
 %% Begin Waypoint %%
 - **[[rpp-experiments]]**
   - **[[all-in-for-sport]]**
-    - [[aifs-case-study-draft]]
+    - [[aifs-case-study-draft|Reimagining Power at All In For Sport]]
     - [[aifs-discovery-report]]
     - [[aifs-experiment-reflections]]
     - [[aifs-intervention-map]]
@@ -34,6 +34,9 @@ _Notes and other documents related to experiments in the Reimagining Power proje
   - [[Experiment Facilitation Framework - RPP]]
   - [[pattern-improvement]]
   - [[phase-1-pattern-research-summary]]
+  - [[phase-2-pattern-alignment-output]]
+  - [[phase-3-execution-prompt]]
+  - [[phase-3-pattern-creation-plan]]
   - [[rpp-patterns-research-output]]
   - **[[the-ics]]**
     - [[ICS Discovery Report]]
@@ -45,7 +48,7 @@ _Notes and other documents related to experiments in the Reimagining Power proje
     - [[ics-case-study-addtl-info]]
     - [[ics-case-study-creation-prompt]]
     - [[ics-case-study-execution-plan]]
-    - [[ICS-Experiment-Case-Study|Reimagining Participation Through Web3 Governance]]
+    - [[notes/rpp/rpp-experiments/the-ics/ICS-Experiment-Case-Study|Reimagining Participation Through Web3 Governance]]
   - **[[women-win]]**
     - [[Meeting with Women Win & Equality Fund (copy)]]
     - [[Meeting with Women Win]]

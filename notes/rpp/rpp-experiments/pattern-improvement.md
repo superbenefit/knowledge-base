@@ -17,45 +17,54 @@ Patterns are reusable solutions to common challenges in decentralized organizati
 
 ### The Current Challenge
 
-The RPP experiments have implemented sophisticated governance patterns that go beyond what's currently documented in SuperBenefit's knowledge base. Case studies reference patterns like "Coordi-nations" and "Gatherings" extensively, but these patterns either lack formal documentation or exist only in working documents rather than the proper patterns library. This gap makes it difficult to:
+The RPP experiments have implemented sophisticated governance patterns that go beyond what's currently documented in SuperBenefit's knowledge base. Case studies reference patterns like "Coordi-nations" and "Gatherings" extensively, but these patterns either lack formal documentation or exist only in working documents rather than the proper patterns library. Additionally, case studies sometimes reference concepts that aren't actually patterns in the SuperBenefit framework, creating confusion about what constitutes a pattern versus a methodology or framework. This gap makes it difficult to:
 
 - Link confidently from the RPP playbook to supporting pattern documentation
 - Help other organizations implement similar approaches
 - Build on the learnings from these experiments
 - Maintain consistency in how patterns are described and understood
+- Distinguish between actual SuperBenefit patterns and other concepts
 
 ### Purpose of This Strategy
 
 This strategy provides a systematic approach to:
+
 1. Identify all patterns used in RPP experiments
-2. Document missing patterns using established workflows
-3. Enhance and relocate patterns that exist in working documents
-4. Update existing patterns with RPP examples
-5. Standardize terminology and relationships
-6. Prepare the pattern library for playbook integration
+2. Align case study references with actual SuperBenefit patterns
+3. Document missing patterns using established workflows
+4. Enhance and relocate patterns that exist in working documents
+5. Update existing patterns with RPP examples
+6. Standardize terminology and relationships
+7. Prepare the pattern library for playbook integration
 
 The strategy is designed to be executed in phases, with each phase potentially happening in a different Claude chat session. No assumptions are made about timelines or resources.
 
 ## Essential Resources and File Locations
 
 ### Pattern Documentation Locations
+
 - **Pattern artifacts folder**: `F:\projects\sb-knowledge-base\artifacts\patterns\`
 - **Pattern template**: `F:\projects\sb-knowledge-base\tools\templates\pattern.md`
 - **Pattern type definition**: `F:\projects\sb-knowledge-base\tools\types\pattern.md`
 - **Pattern workflows**: `F:\projects\sb-knowledge-base\tools\workflows\artifacts\patterns\`
 
 ### RPP Documentation Locations
+
 - **RPP working documents**: `F:\projects\sb-knowledge-base\notes\rpp\rpp-working-docs\`
 - **RPP experiments folder**: `F:\projects\sb-knowledge-base\notes\rpp\rpp-experiments\`
 - **RPP playbooks folder**: `F:\projects\sb-knowledge-base\notes\rpp\rpp-playbooks\`
 
 ### DAO Primitives Framework
+
 - **Patterns folder**: `F:\projects\sb-knowledge-base\notes\dao-primitives\implementation\patterns\`
 - **Primitives documentation**: `F:\projects\sb-knowledge-base\notes\dao-primitives\`
 
 ## Phase 1: Research and Preparation
 
+Phase 1 is COMPLETE. See [[phase-1-pattern-research-summary]] for output
+
 ### Context for Phase 1
+
 This phase establishes the foundation for all pattern improvement work. It involves comprehensive research to understand what patterns are being used, how they're documented, and what gaps exist. Importantly, this includes checking both the official patterns folder and working documents where patterns may be in development. This research will inform all subsequent phases.
 
 ### Step 1.1: Gather Core Documentation
@@ -209,189 +218,339 @@ Based on all the research conducted, please create a comprehensive summary that 
 Save this summary as it will be needed for subsequent phases.
 ```
 
-## Phase 2: Priority Pattern Creation
+## Phase 2: Pattern Alignment and Validation
+
+Phase 2 is COMPLETE. See [[phase-2-pattern-alignment-output]] for output
 
 ### Context for Phase 2
-This phase focuses on creating documentation for missing patterns and enhancing patterns that exist in working documents. Some patterns may already have partial documentation in the working docs folder that needs completion and relocation. If you're starting this phase in a new chat, you'll need the research summary from Phase 1, which identified which patterns need creation, enhancement, or relocation.
+
+This phase ensures that all patterns referenced in case studies align with actual SuperBenefit patterns. It's critical to distinguish between true organizational patterns and other concepts like methodologies or frameworks. This phase must occur before any pattern creation to prevent generating misaligned documentation.
+
+See research output from phase 1 for important context: [[phase-1-pattern-research-summary]]
 
 ### Preparation for Phase 2
 
-**Purpose**: Reestablish context if starting in a new chat session.
+**Purpose**: Establish which patterns are actually used at SuperBenefit and how they're named.
 
 ```
-I'm working on Phase 2 of the RPP Pattern Improvement Strategy - creating documentation for missing patterns. 
+I'm working on Phase 2 of the RPP Pattern Improvement Strategy - aligning case study references with actual SuperBenefit patterns.
 
-Please help me reestablish context by:
-1. Retrieving any research summary created in Phase 1
-2. If no summary exists, quickly analyzing which patterns are mentioned in RPP case studies but lack documentation
-3. Checking both /artifacts/patterns/ AND /notes/rpp/rpp-working-docs/ for existing patterns
-4. Confirming the pattern creation workflow is available at: tools/workflows/artifacts/patterns/pattern-creation.md
-
-Priority patterns identified for creation include:
+The core patterns used at SuperBenefit include:
 - Coordi-nations
-- Gatherings  
-- Local Nodes/Chapters (may exist in working docs - check first)
-- Crypto-Based Funds Disbursement
-- Quadratic Funding
+- Peer to peer payments
+- DAOs, cells, roles, tasks
+- Local nodes
+- Token based governance
+- Group state
+
+I need to review the case studies and align their pattern references with these actual patterns, removing any non-pattern concepts.
 ```
 
-### Step 2.1: Create Coordi-nations Pattern
+### Step 2.1: Map Case Study References to SuperBenefit Patterns
 
-**Purpose**: Document the Coordi-nations pattern, which is central to AIFS's transformation and represents an innovative approach to network sovereignty.
-
-```
-I need to create a pattern document for "Coordi-nations" which is extensively used in the AIFS case study. Please help me:
-
-1. First, retrieve the pattern template:
-   get_vault_file({filename: "tools/templates/pattern.md"})
-
-2. Research the Coordi-nations concept by:
-   - Getting the AIFS case study: get_vault_file({filename: "notes/rpp/rpp-experiments/all-in-for-sport/aifs-case-study-draft.md"})
-   - Searching for all mentions: search_vault_smart({query: "coordi-nations voluntary association network sovereignty"})
-   - Using web_search to find theoretical framework from Primavera de Filippi
-
-3. Extract key information:
-   - The seven-step process for building coordi-nations
-   - How AIFS implemented this pattern
-   - Challenges addressed and outcomes achieved
-   - Relationship to other patterns like Cells
-
-4. Draft the complete pattern document following the template with:
-   - Title: "Coordi-nations"
-   - Description: "Network sovereignty through voluntary association and mutual support, creating alternatives to hierarchical organizations"
-   - Comprehensive sections based on research
-   - AIFS as primary example
-   - Connections to Cells, Fractal Networks, Local Nodes patterns
-
-5. Save to: artifacts/patterns/coordi-nations.md
-```
-
-### Step 2.2: Create Gatherings Pattern
-
-**Purpose**: Document the Gatherings pattern, a key mechanism for bridging diverse communities that was successfully implemented by AIFS.
+**Purpose**: Create a mapping between what case studies currently reference and what SuperBenefit patterns they should actually use.
 
 ```
-I need to create a pattern document for "Gatherings" based on AIFS's implementation. Please:
+I need to map the patterns referenced in each case study to actual SuperBenefit patterns. For each case study:
 
-1. Research Gatherings implementation:
-   - Extract all Gatherings information from AIFS case study
-   - Search for: search_vault_smart({query: "gatherings emergence cross-sector bridge"})
-   - Look for related facilitation approaches
+1. AIFS Case Study pattern mapping:
+   - "Coordi-nations" → Keep as is (correct pattern)
+   - "Gatherings" → Is this a SuperBenefit pattern? If yes, what do we call it? If no, should it be?
+   - "Cell Structure" → Map to "cells" pattern
+   - "DAO Primitives" → Map to "DAOs" pattern
+   - Check if "roles", "tasks", or "Group state" patterns apply
 
-2. Analyze the pattern elements:
-   - Structure of gatherings (emergent vs planned)
-   - Facilitation approaches used
-   - Outcomes and participant feedback
-   - The "inclusion paradox" discovered
+2. ICS Case Study pattern mapping:
+   - "Governance Infrastructure" → How does this map? Could reference "DAOs"?
+   - "Hypercerts" → Map to "Impact Attestations" 
+   - "Green Pill Network Local Chapter" → Map to "Local nodes"
+   - "Web3 Onboarding" → Is this a pattern or just a process?
+   - Check if "token based governance" or "Group state" apply
 
-3. Draft the pattern document with:
-   - Context: Bridging communities with vastly different knowledge bases
-   - Challenges: Knowledge gaps, inclusive participation, avoiding exclusion
-   - Solution: Structured yet emergent spaces that allow specialization within connection
-   - Implementation: Specific guidance from AIFS experience
-   - Examples: The six AIFS gatherings with outcomes
+3. Equality Fund Case Study pattern mapping:
+   - "Crypto-Based Funds Disbursement" → Map to "Peer to peer payments"
+   - "A/B Testing Framework" → NOT A PATTERN (remove)
+   - "Small-Scale Real Money Pilot" → Is this a pattern or methodology?
+   - Check what actual patterns should be referenced
 
-4. Connect to related patterns:
-   - Participatory Design
-   - Community Engagement  
-   - Knowledge Mobilization
-
-5. Save to: artifacts/patterns/gatherings.md
+For any unclear mappings, I'll describe the concept and ask: "At SuperBenefit, how do we refer to [concept description]?"
 ```
 
-### Step 2.3: Enhance and Finalize Local Nodes Pattern
+### Step 2.2: Identify Non-Pattern Concepts
 
-**Purpose**: The Local Nodes pattern already exists in the working documents but needs enhancement with RPP examples, completion of sections, and movement to the proper location.
-
-```
-I need to enhance and finalize the existing Local Nodes pattern. Please:
-
-1. Retrieve the existing pattern:
-   get_vault_file({filename: "notes/rpp/rpp-working-docs/local-nodes.md"})
-
-2. Research RPP implementations of Local Nodes:
-   - Get ICS documentation for Green Pill chapter: get_vault_file({filename: "notes/rpp/rpp-experiments/the-ics/ICS-Experiment-Case-Study.md"})
-   - Search for AIFS local nodes: search_vault_smart({query: "AIFS local nodes coordi-nation"})
-   - Look for all variations: search_vault_smart({query: "local chapters ReFi nodes bioregional hub"})
-
-3. Enhance the pattern by:
-   - Completing the Case Studies section with ICS Green Pill chapter and AIFS examples
-   - Adding specific RPP learnings to the strategies section
-   - Updating Resources and References
-   - Adding proper metadata (tags: [patterns], type: pattern)
-   - Including Related Patterns section
-
-4. Address terminology in the document:
-   - Acknowledge "Local Chapters" (Green Pill), "ReFi Nodes," "Bioregional Hubs" as variations
-   - Maintain "Local Nodes" as the standard term
-   - Explain when each variation is used
-
-5. Add cross-references:
-   - Link to Coordi-nations pattern (nodes as components)
-   - Link to Governance Infrastructure patterns
-   - Reference Community Engagement patterns
-
-6. Save the enhanced version to proper location: artifacts/patterns/local-nodes.md
-```
-
-### Step 2.4: Create Additional Priority Patterns
-
-**Purpose**: Continue creating patterns for other high-priority missing documentation.
+**Purpose**: Clearly identify which concepts in case studies are not patterns and should be removed or reframed.
 
 ```
-For each remaining priority pattern, I'll follow the pattern creation workflow. Please help me create:
+I need to identify concepts that aren't actually patterns. Please review:
 
-1. Crypto-Based Funds Disbursement Pattern:
-   - Research from Equality Fund case study
-   - Focus on addressing international transfer challenges
-   - Include privacy and security considerations
-   - Save to: artifacts/patterns/crypto-funds-disbursement.md
+1. Methodologies masquerading as patterns:
+   - A/B Testing Framework (already identified as non-pattern)
+   - Small-Scale Real Money Pilot (testing approach, not pattern?)
+   - Other methodology-like references
 
-2. Quadratic Funding Pattern:
-   - Research from ICS experiment planning
-   - Include democratic funding principles
-   - Provide implementation examples from Gitcoin
-   - Save to: artifacts/patterns/quadratic-funding.md
+2. Technical implementations vs patterns:
+   - Are things like "ENS domain" or "multisig wallet" patterns or just tools?
+   - What's the distinction at SuperBenefit?
 
-3. A/B Testing Framework Pattern:
-   - Extract from Equality Fund methodology
-   - Focus on comparing traditional vs blockchain approaches
-   - Include metrics and evaluation methods
-   - Save to: artifacts/patterns/ab-testing-framework.md
+3. Process descriptions vs patterns:
+   - "Progressive Onboarding" - process or pattern?
+   - "Discovery phase" - clearly not a pattern
 
-For each pattern, follow the complete creation workflow:
-- Research thoroughly
-- Draft all sections
-- Include real examples
-- Connect to related patterns
-- Save with appropriate filename
+For each non-pattern concept:
+- Note why it's not a pattern
+- Suggest how to reference it without pattern language
+- Or ask if it should become a pattern
 ```
 
-## Phase 3: Pattern Enhancement and Standardization
+### Step 2.3: Validate Pattern Needs
 
-### Context for Phase 3
-This phase focuses on enhancing existing patterns with RPP examples and standardizing terminology across all documentation. You'll need the list of existing patterns and the terminology mapping from earlier research.
+**Purpose**: Determine which patterns genuinely need to be created versus which are just misnamed references to existing patterns.
 
-### Preparation for Phase 3
+```
+Based on the mapping exercise, I need to validate what patterns actually need creation:
+
+1. For each "pattern" mentioned in case studies that doesn't map to existing SuperBenefit patterns:
+   - Describe the concept clearly
+   - Ask: "Is this concept something we use at SuperBenefit? If so, what do we call it?"
+   - If it's important but unnamed: "Should this become a pattern? What should we call it?"
+
+2. Examples of concepts to validate:
+   - Gatherings: "AIFS used structured yet emergent spaces for cross-sector learning. These weren't typical meetings but facilitated sessions that bridged Web3 and grassroots communities. Is this a pattern at SuperBenefit? What do we call this approach?"
+   
+   - Impact Attestations: "Both ICS and Equality Fund reference ways to document and verify social/environmental impact on-chain. Do we have a pattern for this? What's our term?"
+
+3. Create a validated list:
+   - Patterns that exist and just need proper references
+   - Patterns that need to be created (with SuperBenefit-approved names)
+   - Concepts that should not be patterns
+```
+
+### Step 2.4: Update Case Studies with Correct Pattern References
+
+**Purpose**: Create a plan for updating all case studies to use correct SuperBenefit pattern names and remove non-pattern references.
+
+```
+I need to create a comprehensive update plan for the case studies:
+
+1. For each case study, list required changes:
+   - Pattern name corrections (old → new)
+   - Non-pattern removals
+   - Missing pattern additions
+   - Context adjustments to support changes
+
+2. AIFS Case Study updates:
+   - Keep "Coordi-nations" 
+   - Change "Cell Structure" → "cells"
+   - Validate "Gatherings" naming
+   - Add references to "roles" and "tasks" where applicable
+   - Remove or reframe any non-patterns
+
+3. ICS Case Study updates:
+   - Change "Green Pill Network Local Chapter" → "Local nodes"
+   - Change "Hypercerts" → "Impact Attestations" (if confirmed)
+   - Clarify "Governance Infrastructure" mapping
+   - Remove non-pattern references
+
+4. Equality Fund Case Study updates:
+   - Change "Crypto-Based Funds Disbursement" → "Peer to peer payments"
+   - Remove "A/B Testing Framework" entirely
+   - Add appropriate pattern references for their actual work
+
+Save this update plan for implementation after pattern documentation is complete.
+```
+
+## Phase 3: Priority Pattern Creation
+
+**Phase 3 is COMPLETE.** All high-priority patterns have been created and saved to `F:\projects\sb-knowledge-base\artifacts\patterns\`:
+- ✓ Coordi-nations pattern (HIGHEST priority) - Created with full AIFS implementation details
+- ✓ Operational Governance (Enhanced) - Transformed from outline to complete pattern with RPP examples
+- ✓ Community Governance (Enhanced) - Added RPP examples while preserving existing quality content
+- ✓ Impact Attestations - Created as overarching pattern with hypercerts as one implementation
+- ✓ Peer to Peer Payments - Created based on Equality Fund exploration
+- ✓ Participatory Governance - Created emphasizing genuine power-sharing
+
+All patterns follow formal report style with complete sections per template. Medium priority patterns (Opportunistic Adoption, DisCo) remain for future work if needed.
+
+### Phase 3 Execution Strategy
+
+#### 1. Create Coordi-nations Pattern (HIGHEST Priority)
+
+**Rationale**: Central to AIFS transformation, extensively documented in case study
+
+**Approach**:
+
+- Extract information from AIFS case study where it's extensively documented
+- Use the pattern template and creation workflow
+- Focus on practical implementation from AIFS experience
+- Include the 7-step framework mentioned in the case study
+- Document how AIFS implemented 6 of 7 steps
+
+**Key content to include**:
+
+- Definition of network sovereignty through voluntary association
+- The 7-step process for building coordi-nations
+- AIFS's practical implementation example
+- Contrast with network states and traditional hierarchies
+
+#### 2. Enhance and Relocate Existing Patterns (HIGH Priority)
+
+**Operational Governance**
+
+- Add AIFS examples (AIFSIP-04 separation of operations from community stewardship)
+- Complete missing sections using the outline structure
+- Move from working docs to artifacts/patterns
+- Focus on how autonomous teams coordinate around shared resources
+
+**Community Governance**
+
+- Add AIFS examples of mission protection and values alignment
+- Ensure proper format alignment with template
+- Move from working docs to artifacts/patterns
+- Include the various scale patterns already documented
+
+#### 3. Create Impact Attestations Pattern (HIGH Priority)
+
+**Important clarification**: Hypercerts are a specific implementation of impact attestations
+
+**Approach**:
+
+- Define impact attestations as the general pattern for on-chain impact documentation
+- Include hypercerts as one example implementation (used by ICS)
+- Extract information from ICS case study
+- Focus on how blockchain enables transparent impact tracking
+- Include other potential implementations beyond hypercerts
+
+#### 4. Create Peer to peer payments Pattern (HIGH Priority)
+
+**Rationale**: Core to Equality Fund experiment
+
+**Approach**:
+
+- Extract from Equality Fund case study
+- Focus on blockchain for international fund transfers
+- Address the critical challenges they faced (last-mile delivery, local context)
+- Note: Privacy payments pattern already exists in working docs - ensure these are distinguished
+
+#### 5. Create Participatory governance Pattern (HIGH Priority)
+
+**Rationale**: Key to Equality Fund's approach
+
+**Approach**:
+
+- Extract from Equality Fund's stakeholder involvement approaches
+- Focus on involving affected communities in decisions
+- Distinguish from general community governance (this is more specific to decision processes)
+
+#### 6. Handle MEDIUM Priority Patterns (if time permits)
+
+**Opportunistic Adoption**
+
+- Extract from ICS experience
+- Focus on flexible approach to Web3 adoption responding to opportunities
+- Document how ICS pivoted based on what worked
+
+**DisCo Pattern**
+
+- Research external reference (https://www.disco.coop/)
+- Focus on Distributed Cooperative Organization model
+- Note how Equality Fund considered this approach
+
+### Key Implementation Principles
+
+1. **Use existing content**: Extract extensively from case studies rather than inventing new content
+2. **Follow templates strictly**: Use the pattern template structure exactly
+3. **Maintain RPP focus**: Ensure all examples and context relate to the Reimagining Power experiments
+4. **Create working artifacts**: Draft in artifacts for review before saving
+5. **Be thorough but concise**: Include all necessary sections without unnecessary elaboration
+6. **Respect terminology**: Don't rename things (e.g., hypercerts remain hypercerts, they're just one type of impact attestation)
+
+### Execution Order
+
+1. **Start with Coordi-nations** - highest priority, best documented
+2. **Enhance operational & community governance** - already partially complete
+3. **Create impact attestations** - clarifies hypercerts relationship
+4. **Create peer to peer payments** - addresses Equality Fund needs
+5. **Create participatory governance** - completes Equality Fund patterns
+6. **Address medium priorities if time allows**
+
+### Success Criteria
+
+- All patterns follow the established template exactly
+- Each pattern includes concrete RPP experiment examples
+- Patterns in working docs are enhanced and relocated to artifacts/patterns
+- Clear distinctions between similar patterns (e.g., privacy payments vs peer to peer payments)
+- Terminology is consistent and accurate (e.g., hypercerts as a type of impact attestation)
+
+### CRITICAL FILE HANDLING DIRECTIVES
+
+#### MANDATORY Safeguards for All Future Pattern Work
+
+**1. NEVER Overwrite Existing Files**
+
+- Only add specific sections when enhancing
+- Make targeted edits to specific text only
+- Create new files only where none exist
+- If a file exists, READ IT FIRST before any action
+
+**2. Quality Standards**
+
+- NO outline-style notes or placeholder text
+- NO draft-quality work in deliverables
+- ALL content must be complete, polished, and professional
+- Match or exceed the quality of existing patterns
+
+**3. File Operations Protocol**
+
+- READ files before editing to understand existing content
+- PRESERVE all existing high-quality content
+- SHOW content in artifacts for review before saving
+- VERIFY quality matches existing patterns before saving
+
+**4. Specific Action Rules**
+
+- **Relocate**: Copy content EXACTLY with zero edits
+- **Enhance**: Add only what's missing, preserve everything else
+- **Create New**: Match quality and style of best existing patterns
+
+**5. Verification Requirements**
+
+- Read file after writing to ensure quality improvement
+- Compare before/after to confirm no degradation
+- Get confirmation before permanent saves
+- If uncertain about quality, ASK before saving
+
+#### Consequences of Violations
+
+Failure to follow these directives causes:
+
+- Week+ delays in critical project timelines
+- Loss of trust and credibility
+- Destruction of carefully crafted content
+- Need for extensive rework and recovery
+
+These directives are PERMANENT and apply to ALL future work on this project.
+
+## Phase 4: Pattern Enhancement and Standardization
+
+### Context for Phase 4
+
+This phase focuses on enhancing existing patterns with RPP examples and ensuring all documentation uses consistent SuperBenefit terminology. You'll need the list of existing patterns and the terminology mapping from earlier phases.
+
+### Preparation for Phase 4
 
 **Purpose**: Reestablish context and understand what enhancements are needed.
 
 ```
-I'm working on Phase 3 of the RPP Pattern Improvement Strategy - enhancing existing patterns and standardizing terminology.
+I'm working on Phase 4 of the RPP Pattern Improvement Strategy - enhancing existing patterns and standardizing terminology.
 
 Please help me prepare by:
 1. Listing all existing patterns in: artifacts/patterns/
-2. Checking for any patterns that were created/moved from working docs in Phase 2
-3. Identifying which existing patterns are referenced in RPP case studies
-4. Reviewing terminology variations that need standardization:
-   - Cells vs Sub-DAOs vs Working Groups
-   - Hypercerts vs Impact Attestations
-   - Local Nodes vs Local Chapters
-
-The pattern update workflow is at: tools/workflows/artifacts/patterns/pattern-update.md
+2. Identifying which existing patterns are referenced in RPP case studies
+3. Reviewing the validated pattern names from Phase 2
+4. Confirming access to the pattern update workflow
 ```
 
-### Step 3.1: Enhance Patterns with RPP Examples
+### Step 4.1: Enhance Patterns with RPP Examples
 
 **Purpose**: Add RPP implementation examples to existing patterns, making them more concrete and valuable.
 
@@ -400,16 +559,18 @@ I need to enhance existing patterns with examples from RPP experiments. For each
 
 1. Start with the CELLS pattern:
    - Get current pattern: get_vault_file({filename: "artifacts/patterns/cells.md"})
-   - Search for CELLS usage in RPP: search_vault_smart({query: "cells autonomous teams AIFS"})
+   - Search for usage in AIFS case study
    - Add AIFS's cell implementation to Examples section
    - Update Implementation Considerations with learnings
    - Save updated version
 
 2. Continue with other patterns referenced in RPP:
-   - Token Governance (if used)
-   - Multisig Governance
-   - Impact Documentation/Hypercerts
-   - Any DAO Primitives patterns
+   - DAOs (if used)
+   - Local nodes
+   - Peer to peer payments
+   - Token governance (if used)
+   - Impact Attestations
+   - Group state (if used)
 
 3. For each enhancement:
    - Preserve valuable existing content
@@ -420,39 +581,9 @@ I need to enhance existing patterns with examples from RPP experiments. For each
 Follow the pattern update workflow for each enhancement.
 ```
 
-### Step 3.2: Standardize Terminology
+### Step 4.2: Update Pattern Relationships
 
-**Purpose**: Create consistency in how patterns and concepts are named across all documentation.
-
-```
-I need to standardize pattern terminology across all documentation. Please:
-
-1. Create a terminology mapping document:
-   - List all terminology variations found
-   - Propose standardized terms
-   - Provide rationale for each choice
-
-2. For impact documentation terms:
-   - Analyze usage of "hypercerts" vs "impact attestations" vs "impact certificates"
-   - Recommend standard term based on most common usage
-   - Create/update a unified pattern document
-
-3. For organizational units:
-   - Standardize on "Cells" (aligning with DAO Primitives)
-   - Note when "sub-DAOs" or "working groups" might still apply
-   - Update all pattern references
-
-4. Generate a list of all files needing terminology updates:
-   - Pattern documents
-   - Case studies  
-   - Supporting documentation
-
-5. Create a terminology guide document at: notes/rpp/rpp-working-docs/pattern-terminology-guide.md
-```
-
-### Step 3.3: Update Pattern Relationships
-
-**Purpose**: Ensure all patterns properly reference related patterns and show clear relationships.
+**Purpose**: Ensure all patterns properly reference related patterns based on actual usage in experiments.
 
 ```
 I need to update pattern relationships across all documentation. Please:
@@ -460,199 +591,150 @@ I need to update pattern relationships across all documentation. Please:
 1. For each pattern document:
    - Review the Related Patterns section
    - Add connections discovered in RPP implementations
-   - Clarify relationship types (enables, extends, alternatives)
+   - Clarify relationship types
 
-2. Create a pattern relationship map showing:
-   - Core patterns (most referenced)
-   - Supporting patterns
-   - Scale progression (individual → group → network)
-   - Common combinations used in experiments
+2. Key relationships to document:
+   - Coordi-nations → cells relationship
+   - Local nodes → Group state relationship
+   - DAOs → token based governance relationship
+   - Peer to peer payments → Impact Attestations (if applicable)
 
 3. Update each pattern's Related Patterns section to include:
    - Clear explanation of how patterns connect
    - When to use patterns together
-   - Implementation sequences
-
-4. Special attention to:
-   - Coordi-nations → Cells relationship
-   - Local Nodes → Green Pill Chapters → Bioregional Hubs progression
-   - Gatherings → Community Engagement patterns
-
-Document the relationship map at: notes/rpp/rpp-working-docs/pattern-relationships.md
+   - Implementation sequences from RPP experience
 ```
 
-## Phase 4: Integration and Quality Assurance
+## Phase 5: Case Study Updates and Final Integration
 
-### Context for Phase 4
-This final phase ensures all pattern documentation is properly integrated, cross-referenced, and ready for use in the RPP playbook. Quality checks ensure consistency and completeness.
+### Context for Phase 5
 
-### Preparation for Phase 4
+This final phase implements all the pattern alignment changes in the case studies and ensures everything is properly integrated. You'll need the update plan from Phase 2 and all completed pattern documentation.
 
-**Purpose**: Prepare for final integration and quality checks.
+### Preparation for Phase 5
+
+**Purpose**: Prepare for updating case studies with correct pattern references.
 
 ```
-I'm working on Phase 4 of the RPP Pattern Improvement Strategy - final integration and quality assurance.
+I'm working on Phase 5 of the RPP Pattern Improvement Strategy - updating case studies and final integration.
 
 Please help me prepare by:
-1. Listing all patterns created or updated in previous phases
-2. Verifying all patterns are now in artifacts/patterns/ (none remain in working docs)
-3. Confirming the playbook location: notes/rpp/rpp-playbooks/
-4. Checking that all priority patterns now have documentation
-
-This phase will ensure all patterns are properly linked, validated, and ready for playbook integration.
+1. Retrieving the case study update plan from Phase 2
+2. Confirming all validated patterns now have documentation in artifacts/patterns/
+3. Listing any remaining pattern reference issues
 ```
 
-### Step 4.1: Create Pattern-Case Study Cross-References
+### Step 5.1: Update Case Study Pattern References
 
-**Purpose**: Ensure bidirectional linking between patterns and case studies for easy navigation and context.
-
-```
-I need to create proper cross-references between patterns and case studies. Please:
-
-1. For each RPP case study, add a "Patterns Implemented" section:
-   - List all patterns used with links to pattern documents
-   - Brief description of how each was adapted
-   - Key outcomes and learnings
-
-2. For each pattern document, update Examples section:
-   - Add links to implementing case studies
-   - Include specific implementation details
-   - Note variations and adaptations
-
-3. Verify all links work correctly:
-   - Test pattern → case study links
-   - Test case study → pattern links
-   - Ensure relative paths work in Obsidian
-
-4. Create a cross-reference index at: notes/rpp/rpp-working-docs/pattern-case-study-index.md
-```
-
-### Step 4.2: Validate Pattern Documentation
-
-**Purpose**: Ensure all pattern documentation meets quality standards and is complete.
+**Purpose**: Implement all pattern reference corrections in the case studies.
 
 ```
-I need to validate all pattern documentation for quality and completeness. Please:
+I need to update each case study with correct pattern references:
 
-1. For each pattern document, check:
-   - All template sections are complete
-   - Frontmatter has required fields:
-     * title, description, tags: [patterns], publish: "false", type: pattern
-   - Context clearly defines when to use
-   - Challenges are specific and well-explained
-   - Solution is comprehensive yet accessible
-   - Implementation provides practical guidance
-   - Examples include concrete implementations
+1. For AIFS case study:
+   - Get current version
+   - Update pattern references per Phase 2 plan
+   - Ensure all pattern links point to actual pattern documents
+   - Remove any non-pattern references
+   - Save updated version
 
-2. Verify technical requirements:
-   - All internal links resolve correctly
-   - Dataview queries are preserved exactly
-   - Markdown formatting is correct
-   - File naming follows conventions
+2. For ICS case study:
+   - Similar process with their specific updates
+   
+3. For Equality Fund case study:
+   - Remove A/B Testing Framework references entirely
+   - Update to use actual SuperBenefit patterns
+   - Add missing pattern references where applicable
 
-3. Create a validation report showing:
-   - Patterns passing all checks
-   - Issues found and corrections needed
-   - Overall documentation quality assessment
-
-4. Make necessary corrections following findings
+For each update, maintain the narrative flow while using correct pattern terminology.
 ```
 
-### Step 4.3: Create Pattern Library Index
+### Step 5.2: Create Pattern Library Index
 
-**Purpose**: Create an organized index of all patterns for easy discovery and use in the playbook.
+**Purpose**: Create an organized index of RPP-relevant patterns for the playbook.
 
 ```
-I need to create a comprehensive pattern library index for the RPP playbook. Please:
+I need to create a pattern library index for the RPP playbook:
 
 1. Create "Reimagining Power Pattern Library" document with:
-   - Overview of pattern-based approach
-   - Why patterns matter for power redistribution
-   - How to use patterns effectively
+   - Overview of patterns used in RPP experiments
+   - How patterns support power redistribution
+   - Guide to using patterns effectively
 
-2. Organize patterns by implementation context:
-   - Governance Transformation Patterns
-   - Financial Innovation Patterns  
-   - Community Engagement Patterns
-   - Infrastructure and Tools Patterns
+2. Organize patterns by RPP themes:
+   - Governance transformation: DAOs, cells, roles, tasks
+   - Community coordination: Coordi-nations, Local nodes
+   - Financial innovation: Peer to peer payments
+   - Accountability: Impact Attestations
+   - Collective alignment: Group state
 
 3. For each pattern, include:
-   - Brief 2-3 sentence summary
-   - When to use (context)
-   - Complexity indicator
+   - Brief summary
+   - Which experiments used it
+   - Key learnings from RPP
    - Link to full documentation
 
-4. Add navigation aids:
-   - Pattern selection guide
-   - Common pattern combinations
-   - Implementation sequences
-   - Scale considerations
-
-5. Save to: notes/rpp/rpp-playbooks/pattern-library-index.md
-
-6. Update pattern publish status:
-   - Review each pattern's readiness
-   - Update frontmatter publish: "true" when ready
+4. Save to: notes/rpp/rpp-playbooks/pattern-library-index.md
 ```
 
-### Step 4.4: Final Integration Check
+### Step 5.3: Final Quality Check
 
-**Purpose**: Ensure everything is properly integrated and ready for use.
+**Purpose**: Ensure all pattern documentation and references are properly aligned.
 
 ```
-Please perform a final integration check:
+Please perform a final quality check:
 
-1. Verify the pattern library is complete:
-   - All priority patterns documented
-   - All enhancements completed
-   - Terminology standardized
-   - Cross-references working
+1. Verify pattern alignment:
+   - All case studies use actual SuperBenefit pattern names
+   - No made-up patterns remain
+   - Non-pattern concepts are properly framed
 
-2. Check playbook readiness:
-   - Pattern Library Index created
-   - All patterns accessible from index
-   - Case studies link to patterns
-   - Examples are concrete and helpful
+2. Check pattern documentation:
+   - All referenced patterns have documentation
+   - RPP examples are included where applicable
+   - Pattern relationships reflect actual usage
 
-3. Generate final report including:
-   - Patterns created (with list)
-   - Patterns enhanced (with changes)
-   - Terminology standardized
-   - Integration points verified
-   - Any remaining work identified
+3. Validate integration:
+   - Case studies link to correct patterns
+   - Pattern library index is complete
+   - No broken references
 
-4. Create a summary for playbook authors at: notes/rpp/rpp-working-docs/pattern-integration-summary.md
+4. Generate final report showing:
+   - Patterns aligned/corrected
+   - Documentation created/enhanced
+   - Case study updates completed
+   - Any remaining issues
 
-This completes the pattern improvement work for the RPP playbook.
+This completes the pattern improvement work with proper SuperBenefit alignment.
 ```
 
 ## Using This Strategy
 
 ### Execution Notes
 
-1. **Phases can be executed independently** - Each phase is designed to be self-contained with its own context section
-2. **Save outputs between phases** - Important findings and summaries should be saved as documents for reference
-3. **Use the established workflows** - The pattern creation and update workflows provide detailed guidance
-4. **Maintain quality standards** - Follow the template structure and metadata requirements consistently
-5. **Test all links** - Ensure cross-references work before considering documentation complete
+1. **Phase 2 is critical** - Pattern alignment and validation must happen before any creation work
+2. **Always ask about naming** - Never assume pattern names; always confirm with SuperBenefit terminology
+3. **Distinguish patterns from non-patterns** - Not every concept or methodology is a pattern
+4. **Use actual language** - Patterns should use the same language SuperBenefit uses when discussing these concepts
+5. **Validate before creating** - Confirm a pattern is needed and get the approved name before documentation
 
-### Key Files for Reference
+### Key Principles for Pattern Work
 
-Always have access to these essential files:
-- Pattern template: `tools/templates/pattern.md`
-- Pattern creation workflow: `tools/workflows/artifacts/patterns/pattern-creation.md`  
-- Pattern update workflow: `tools/workflows/artifacts/patterns/pattern-update.md`
-- RPP case studies in: `notes/rpp/rpp-experiments/`
+1. **Patterns are organizational concepts** - They communicate how SuperBenefit approaches coordination and governance
+2. **Names matter** - Use SuperBenefit's actual terminology, not academic or external naming
+3. **Not everything is a pattern** - Frameworks, methodologies, and processes might not be patterns
+4. **Ask when uncertain** - Always describe the concept and ask how SuperBenefit refers to it
+5. **Examples must be real** - Use actual RPP implementations, not theoretical applications
 
 ### Success Criteria
 
 The pattern improvement work is complete when:
-- All patterns referenced in RPP case studies have documentation in the proper location
-- Patterns in working documents have been enhanced and moved to artifacts/patterns/
-- Existing patterns include RPP implementation examples
-- Terminology is consistent across all documentation
-- Cross-references between patterns and case studies work
-- A comprehensive pattern library index exists
-- All documentation passes quality validation
 
-This strategy provides a systematic path from the current state—where sophisticated patterns are used but not fully documented or properly organized—to a comprehensive pattern library that supports the RPP playbook and helps other organizations implement these innovative approaches.
+- All case studies reference only actual SuperBenefit patterns
+- No made-up or misaligned pattern names remain
+- All referenced patterns have proper documentation
+- Pattern names align with SuperBenefit's language
+- Non-pattern concepts are no longer called patterns
+- Documentation supports the RPP playbook effectively
+
+This strategy ensures patterns serve their intended purpose: communicating SuperBenefit's organizational concepts clearly and consistently to stakeholders.

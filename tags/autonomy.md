@@ -48,7 +48,7 @@ This connection is evident in patterns like Privacy-Preserving Crypto Payments, 
 - [[tags/consent|Consent]]: Autonomous decision-making often relies on consent-based processes, where actions proceed unless there are substantive objections
 - [[tags/decisions|Decisions]]: The capacity to make independent decisions is central to meaningful autonomy
 - [[tags/permissions|Permissions]]: Systems for managing access and authority create the boundaries within which autonomy operates
-- [[cell-working-group|Cell]]: Autonomous teams operating within a purpose-aligned network
+- [[cell|Cell]]: Autonomous teams operating within a purpose-aligned network
 - [[tags/sovereignty|Sovereignty]]: A related concept emphasizing self-governance and authority over defined domains
 
 ## References and Resources

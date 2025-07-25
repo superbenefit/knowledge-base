@@ -19,7 +19,7 @@ The Coordination Phase represents the mature [group-phase](notes/dao-primitives/
 
 The coordination phase is where a group, as an autonomous (or semi-autonomous) entity, both leverages and contributes to the power and collective intelligence of the decentralized [[tags/networks|network]] it inhabits (or in the case of a DAO, is creating).
 
-When the Coordination phase is complete, a group may either evolve into a [[tags/governance|governance]] or operational structure or enter a [completion phase](notes/dao-primitives/framework/group-phase/completion.md) as its [[tags/purpose|purpose]] is fulfilled.
+When the Coordination phase is complete, a group may either evolve into a [[tags/governance|governance]] or operational structure or enter a [completion phase](completion.md) as its [[tags/purpose|purpose]] is fulfilled.
 
 ## Key Characteristics
 

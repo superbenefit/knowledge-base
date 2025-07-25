@@ -17,11 +17,12 @@ tags:
 The DAO Primitives Framework provides a systematic approach to designing and implementing decentralized organizations as purpose-aligned networks. Building on the overview provided in the [DAO Primitives Project](notes/dao-primitives/dao-primitives.md), this framework offers a deeper exploration of the key concepts, dimensions, and components that enable effective decentralized coordination.
 
 %% Begin Waypoint %%
+
 - **[[framework]]**
   - [[group-facilitation|group facilitation]]
   - **[[group-phase]]**
-    - [[completion]]
-    - [[conversation|conversation phase]]
+    - [[completion|Completion Phase]]
+    - [[conversation|Conversation Phase]]
     - [[coordination]]
     - [[formation]]
     - [[organization]]
@@ -58,10 +59,9 @@ The framework identifies five key phases:
 - **[Formation Phase](notes/dao-primitives/framework/group-phase/formation.md)**: Establishing basic structure and roles with minimal formality, emphasizing trust-building and defining initial procedures for group operation
 - **[Organization Phase](notes/dao-primitives/framework/group-phase/organization.md)**: Implementing formal structures, defined processes, and governance mechanisms to create sustainable and scalable organizational systems
 - **[Coordination Phase](notes/dao-primitives/framework/group-phase/coordination.md)**: Integrating with broader networks and collaborating with other groups, shifting focus from internal organization to external relationships
-- **[Completion Phase](notes/dao-primitives/framework/group-phase/completion.md)**: Concluding initiatives, capturing learnings, and transitioning resources when projects or groups reach their natural conclusion
+- **[Completion Phase](completion.md)**: Concluding initiatives, capturing learnings, and transitioning resources when projects or groups reach their natural conclusion
 
 Learn more about [Group Phase](notes/dao-primitives/framework/group-phase/group-phase.md)
-
 
 ### 2. [Group Scale](notes/dao-primitives/framework/group-scale/group-scale.md)
 
@@ -104,14 +104,14 @@ At the highest level, three foundational organizational primitives:
 - **Networks**: Clusters of entities animated by shared purpose and common agreements
 - **Agreements**: Commitments within and between entities that enable coordination
 
-### 2. Operational Primitives 
+### 2. Operational Primitives
 
 Although the above conceptual framework could be used to design a wide range of different governance and operational structures, the DAO Primitives framework leans heavily on the following 4 organizational structures:
 
 1. **[DAOs](notes/dao-primitives/framework/organizational-primitives/daos.md)**: Purpose-aligned networks of small autonomous teams
-2. **[Cells](notes/dao-primitives/framework/organizational-primitives/cells.md)**: Teams of fewer than 10 people collaborating on specific ongoing activities 
+2. **[Cells](notes/dao-primitives/framework/organizational-primitives/cells.md)**: Teams of fewer than 10 people collaborating on specific ongoing activities
 3. **[Roles](notes/dao-primitives/framework/organizational-primitives/roles.md)**: Sets of responsibilities, permissions, and accountabilities held by individuals or entities
-4. **[Tasks](notes/dao-primitives/framework/organizational-primitives/tasks.md)**: Defined pieces of work with clear deliverables delivered by individuals or entities 
+4. **[Tasks](notes/dao-primitives/framework/organizational-primitives/tasks.md)**: Defined pieces of work with clear deliverables delivered by individuals or entities
 
 These primitives can be combined in various ways to create organizational systems tailored to specific contexts and needs. Their power lies in their flexibility and composability while maintaining coherent patterns that enable interoperability.
 
@@ -134,6 +134,7 @@ The DAO Primitives Framework can be applied to diverse organizational contexts:
 ### New Organization Design
 
 For groups creating new decentralized organizations, the framework provides:
+
 - A structured approach to designing governance and operational systems
 - Guidance on selecting appropriate patterns for the group's phase and scale
 - Templates and tools for implementing key organizational components
@@ -141,6 +142,7 @@ For groups creating new decentralized organizations, the framework provides:
 ### Existing Organization Evolution
 
 For established organizations looking to become more decentralized, the framework offers:
+
 - Diagnostic tools for assessing current structures and practices
 - Incremental pathways for transitioning toward more distributed models
 - Compatible patterns that can be integrated with existing systems
@@ -148,6 +150,7 @@ For established organizations looking to become more decentralized, the framewor
 ### Inter-organizational Coordination
 
 For networks of organizations working together, the framework provides:
+
 - Shared language and concepts for designing collaborative structures
 - Interoperability standards that enable effective coordination
 - Scalable governance patterns for managing network-level decisions
@@ -184,11 +187,11 @@ The framework's attention to different scales enables organizations to implement
 - Democratic, representative and delegated governance at larger scales
 - Inter-network partnerships and coordination
 
-This multi-scale approach allows organizations to achieve: 
+This multi-scale approach allows organizations to achieve:
+
 - Both the efficiency benefits of structured coordination and the innovation benefits of autonomous experimentation
 - Capture resistance as there are fewer governance concentrations points in the system
-- Flexibility to respond to changing contexts 
-
+- Flexibility to respond to changing contexts
 
 ## Further Exploration
 

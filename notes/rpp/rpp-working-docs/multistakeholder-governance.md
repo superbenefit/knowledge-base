@@ -12,8 +12,8 @@ type: pattern
 Multi-stakeholder [governance](tags/governance.md) enables purpose-aligned networks of stakeholders to [coordinate](notes/dao-primitives/framework/group-scale/coordination.md) around [shared resources](tags/resources.md) and [objectives](tags/goals.md) using decentralized infrastructure and open protocols.
 
 related to:
-- [Community Governance](community-governance.md)
-- [Operational Governance](operational-governance.md)
+- [Community Governance](notes/rpp/rpp-working-docs/community-governance.md)
+- [Operational Governance](notes/rpp/rpp-working-docs/operational-governance.md)
 
 This pattern provides a [frameworks](tags/frameworks.md) for implementing democratic, transparent, and efficient governance systems that balance diverse stakeholder interests.
 

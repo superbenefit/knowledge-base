@@ -34,10 +34,11 @@ To effectively leverage the Pattern Library:
 ---
 
 %% Begin Waypoint %%
-- **[[collaboration-scale-patterns]]**
-- **[[constituency-scale-patterns]]**
-- **[[coordination-scale-patterns]]**
-- **[[dao-patterns]]**
-- **[[network-scale-patterns]]**
+- **[[patterns]]**
+  - **[[collaboration-scale-patterns]]**
+  - **[[constituency-scale-patterns]]**
+  - **[[coordination-scale-patterns]]**
+  - **[[dao-patterns]]**
+  - **[[network-scale-patterns]]**
 
 %% End Waypoint %%

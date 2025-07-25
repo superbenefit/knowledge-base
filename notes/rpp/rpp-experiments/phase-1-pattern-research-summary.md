@@ -24,31 +24,30 @@
    - Priority: **HIGHEST** - Needs RPP examples added and relocation to proper folder
    - Description: Distributed community anchors that bridge global protocols with local communities
 
-4. **Cells/Operational Cells**
-   - Status: **REFERENCED** - Mentioned as having comprehensive documentation in DAO Primitives
+1. **Cells**
+   - Status: **Exists in DAO Primitives docs:** `F:\projects\sb-knowledge-base\notes\dao-primitives\implementation\patterns\collaboration-scale-patterns\cell` - Mentioned as having comprehensive documentation in DAO Primitives
    - Usage: AIFS uses cell structure for autonomous operational teams within coordi-nation framework
    - Priority: **MEDIUM** - Need to locate existing documentation and add RPP examples
    - Description: Autonomous teams operating within shared governance framework
 
-5. **Impact Documentation (Hypercerts/Impact Attestations)**
+1. **Impact Attestations**
    - Status: **MISSING** - No unified pattern exists
-   - Usage: ICS uses "Hypercerts", Equality Fund uses "Impact Attestations"
+   - Usage: ICS uses "Hypercerts", Equality Fund uses "Impact Attestations" (standardize to "Impact attestations when referring to patterns. Don't overwrite uses of "hypercerts" in the ICS case study)
    - Priority: **HIGH** - Terminology needs unification
    - Description: On-chain documentation of social and environmental impact
 
 #### Medium-Priority Patterns (Single Experiment Usage)
 
-6. **Crypto-Based Funds Disbursement**
+6. **Peer-to-Peer Payments**
    - Status: **MISSING**
-   - Usage: Equality Fund's core innovation
+   - Usage: Equality Fund's eventual core focus
    - Priority: **MEDIUM** - Addresses critical international transfer challenges
    - Description: Using blockchain for international fund transfers
 
 7. **A/B Testing Framework**
-   - Status: **MISSING**
+   - Status: **NO NOT USE**
    - Usage: Equality Fund methodology
-   - Priority: **MEDIUM** - Valuable for comparing traditional vs blockchain approaches
-   - Description: Systematic comparison of traditional and blockchain approaches
+   - Priority: **NONE** - This pattern was confabulated by Claude. This is not a pattern.
 
 8. **Quadratic Funding**
    - Status: **MISSING**
@@ -62,7 +61,7 @@
    - Priority: **LOW** - Specific implementation approach
    - Description: Evolution from single workshop to sustained cohort model
 
-10. **Opportunistic Web3 Adoption**
+6. **Opportunistic Adoption**
     - Status: **MISSING** (emergent pattern)
     - Usage: Discovered pattern from ICS and AIFS experiences
     - Priority: **MEDIUM** - Valuable meta-pattern
@@ -80,15 +79,6 @@
   - Well-structured with context, challenges, solution framework
   - Missing: RPP case study examples, proper metadata
   - Action: Add ICS Green Pill and AIFS examples, relocate to `artifacts/patterns/`
-
-#### Completely Missing Patterns
-1. Coordi-nations
-2. Gatherings
-3. Impact Documentation (unified pattern)
-4. Crypto-Based Funds Disbursement
-5. A/B Testing Framework
-6. Quadratic Funding
-7. Opportunistic Web3 Adoption
 
 ## Terminology Mapping
 
@@ -120,26 +110,6 @@ Individual → Group → Network → Ecosystem
   Attestations  Gatherings  Fractal Networks  Global Movements
 ```
 
-### Key Pattern Dependencies
-
-**Coordi-nations requires:**
-- Cell Structure (autonomous units)
-- Shared Governance (alignment mechanisms)
-- Resource Sharing (sustainability mechanisms)
-- Local Nodes (distributed presence)
-
-**Local Nodes requires:**
-- Governance Infrastructure
-- Community Engagement Patterns
-- Connection to Global Network
-- Resource Circulation Mechanisms
-
-**Gatherings enables:**
-- Cross-sector relationship building
-- Knowledge exchange
-- Trust formation
-- Pattern discovery
-
 ## Implementation Insights
 
 ### Success Factors from RPP Experiments
@@ -167,64 +137,6 @@ Individual → Group → Network → Ecosystem
 - Bridging technical and non-technical communities
 - Time required for meaningful adoption (6-18 months)
 - Balancing innovation with operational needs
-
-## Work Plan Overview
-
-### Phase 2: Priority Pattern Creation
-
-#### Immediate Creation (Highest Priority)
-1. **Coordi-nations Pattern**
-   - Research AIFS implementation thoroughly
-   - Include seven-step process from theoretical framework
-   - Connect to Cells and Local Nodes patterns
-   - Save to: `artifacts/patterns/coordi-nations.md`
-
-2. **Gatherings Pattern**
-   - Document AIFS's six implementations
-   - Include "inclusion paradox" discovery
-   - Provide facilitation guidance
-   - Save to: `artifacts/patterns/gatherings.md`
-
-#### Enhancement and Relocation
-3. **Local Nodes Pattern**
-   - Retrieve from: `notes/rpp/rpp-working-docs/local-nodes.md`
-   - Add ICS Green Pill London example
-   - Add AIFS coordi-nation component example
-   - Complete metadata and case studies section
-   - Relocate to: `artifacts/patterns/local-nodes.md`
-
-#### Additional Priority Creates
-4. Impact Documentation Pattern (unified terminology)
-5. Crypto-Based Funds Disbursement Pattern
-6. A/B Testing Framework Pattern
-7. Quadratic Funding Pattern
-8. Opportunistic Web3 Adoption Pattern
-
-### Phase 3: Pattern Enhancement Tasks
-
-#### Existing Patterns Needing RPP Examples
-- CELLS - Add AIFS operational cells implementation
-- Multisig Governance - Add ICS infrastructure details
-- Any other governance patterns used
-
-#### Terminology Standardization
-- Update all patterns to use "Cells" consistently
-- Standardize on "Impact Documentation"
-- Use "Local Nodes" as primary term
-
-### Phase 4: Integration Tasks
-
-#### Cross-Reference Creation
-- Add "Patterns Implemented" sections to all case studies
-- Update pattern Examples sections with case study links
-- Create pattern-case study index
-
-#### Quality Assurance
-- Validate all patterns against template
-- Check all cross-references work
-- Ensure terminology consistency
-- Create Pattern Library Index for playbook
-
 ## Key Files for Reference
 
 ### Pattern Documentation System
@@ -241,20 +153,6 @@ Individual → Group → Network → Ecosystem
 - Official patterns: `artifacts/patterns/`
 - Working documents: `notes/rpp/rpp-working-docs/`
 - Playbook location: `notes/rpp/rpp-playbooks/`
-
-## Pattern Template Structure
-
-Based on the template review:
-1. **Frontmatter**: title, description, url, tags, publish, type, protocols
-2. **Title**: Pattern name
-3. **Description**: Brief 1-3 sentence overview
-4. **Context**: Where and when the pattern applies
-5. **Challenges**: Specific problems addressed
-6. **Solution Framework**: How the pattern works
-7. **Implementation Considerations**: Practical guidance
-8. **Examples & Case Studies**: Real-world applications
-9. **References**: Related patterns and resources
-
 ## Next Steps
 
 Phase 1 research is now complete. This summary provides the foundation for:

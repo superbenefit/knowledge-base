@@ -25,7 +25,7 @@ kanban-plugin: board
 ## In-Progress
 
 - [ ] Create Cell (working group) Pattern ^9tyowr
-	- [cell-working-group](cell-working-group.md)
+	- [cell](cell.md)
 - [ ] Create Circle Primitive [circle](circle.md)
 - [ ] Create Decider Primitive 
 	- [decider](decider.md)

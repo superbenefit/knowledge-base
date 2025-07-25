@@ -55,7 +55,7 @@ See the [[sense-making-facilitation-tools]] document for examples of enabling co
 ### Collaboration Scale Patterns
 
 - [[cell-state]] 
-- [[cell-working-group]] 
+- [[cell]] 
 - [[decider]]
 
 ### Collaboration Scale [[tags/primitives|Primitives]]
