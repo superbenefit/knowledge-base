@@ -18,7 +18,7 @@ These patterns provide practical implementations of the Cell primitive, describi
 - **[[collaboration-scale-patterns]]**
   - [[cell-state-template|Group State Template]]
   - [[cell-state|Cell state (pattern)]]
-  - [[cell|Cell (working group)]]
+  - [[cell]]
   - [[circle|Circle]]
   - [[decider|Decider]]
   - [[decision-log|Decision log]]

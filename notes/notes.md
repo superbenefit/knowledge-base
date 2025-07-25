@@ -47,7 +47,9 @@ Here, you'll find:
     - [[values-concerns]]
     - [[web-scraping-method-reliability-guide]]
     - [[web3-library-workflow]]
+  - **links**
   - **[[rpp]]**
+  - **[[shg]]**
   - **[[wp]]**
 
 %% End Waypoint %%
