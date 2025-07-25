@@ -1,9 +1,12 @@
 ---
 title: Group Scale
-tags: 
-aliases: []
-description: "A framework outlining the four key scales of group organization, tailored for DAO contexts."
+description: A framework outlining the four key scales of group organization, tailored for DAO contexts.
+tags:
+  - dao-primitives
+  - framework
+aliases: 
 publish: "true"
+type: index
 ---
 
 

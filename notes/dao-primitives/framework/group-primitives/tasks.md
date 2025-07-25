@@ -1,11 +1,12 @@
 ---
 title: Tasks (Primitive)
 description: Specific, coordinated actions or duties assigned to roles or agents within decentralized systems
-author: yeoro.eth
+author:
+  - yeoro.eth
 tags:
   - primitives
   - tasks
-publish: "false"
+publish: true
 type: note
 ---
 
