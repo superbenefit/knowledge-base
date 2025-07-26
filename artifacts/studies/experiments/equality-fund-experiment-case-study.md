@@ -20,7 +20,7 @@ The experiment revealed that innovation work cannot succeed as an add-on to oper
 
 Equality Fund, a Canadian women's fund that grew from $500,000 to $20 million in grant-making over three years, operates across 85 countries supporting women's organizations. Their Prepare funding stream manages CAD 7 million, selecting 6-7 grants from approximately 1,000 applications annually.
 
-The organization faced systemic challenges in moving funds internationally. Transaction fees, currency conversions, and intermediary charges created financial barriers. In some jurisdictions, banking systems obstructed funding flows to human rights organizations. Gender justice activists faced closing civic space globally, with financial systems often excluding or scrutinizing organizations working on sensitive issues. Additionally, participatory approaches that worked at smaller scale showed strain at $20 million, pointing to the need for new patterns of participatory governance.
+The organization faced systemic challenges in moving funds internationally. Transaction fees, currency conversions, and intermediary charges created financial barriers. In some jurisdictions, banking systems obstructed funding flows to human rights organizations. Gender justice activists faced closing civic space globally, with financial systems often excluding or scrutinizing organizations working on sensitive issues. Additionally, participatory approaches that worked at smaller scale showed strain at larger scales, pointing to the need for new patterns of participatory governance.
 
 In July 2023, Sue Snider presented a vision based on the DisCo pattern (Distributed Cooperative Organization) encompassing resource exchange, governance compensation, and grant distribution. When the Reimagining Power Project opportunity emerged in October 2024, it created a pathway to explore Web3 solutions. The partnership brought together Equality Fund's grant-making expertise, Women Win's operational knowledge as fiscal sponsor, and SuperBenefit's Web3 technical capabilities.
 
@@ -30,17 +30,17 @@ Ontario Trillium Foundation provided funding through July 2025. The experiment a
 
 ## Approach
 
-The discovery phase evaluated five potential Web3 applications before narrowing to two specific barriers: financial costs and accessibility challenges. This prioritization reflected recognition that focused experiments generate more actionable insights than broad transformation attempts.
+The discovery phase evaluated five potential Web3 applications before narrowing to two specific barriers: financial costs and accessibility challenges. This prioritization reflected recognition that taking an approach of creating small focused experiments would generate more actionable insights, as an alternative to engaging in broad organizational-wide transformation attempts.
 
 Three key patterns and approaches guided the experiment design:
 
 **Peer to peer payments** aimed to test whether blockchain-based transfers could reduce transaction fees and provide censorship resistance. The approach would compare costs, settlement times, and accessibility between traditional banking and blockchain infrastructure while maintaining compliance standards. The team recognized early that privacy payments patterns would be essential for protecting recipient identities in sensitive contexts.
 
-**Participatory governance** reflected Equality Fund's commitment to involving stakeholders in decision-making processes. The experiment design sought to include grant recipients' perspectives while navigating safety constraints that limited direct engagement.
+**Participatory governance** reflected Equality Fund's commitment to involving stakeholders in decision-making processes. The experiment design sought to include grant recipients' perspectives while navigating safety constraints and fiduciary responsibilities that limited direct engagement.
 
 **Impact Attestations** would enable transparent tracking of grant outcomes while protecting sensitive information about recipients and their work. This pattern aligned with the broader need for accountability in international development funding.
 
-The experiment operated entirely through part-time staff contributions. Sue Snider (Equality Fund), Women Win's finance team (6-7 people managing $30 million annually), and SuperBenefit advisors balanced experimental work with full operational responsibilities. No dedicated innovation team existed. While OTF funding supported coordination, it couldn't cover cryptocurrency purchases for testing or dedicated technical development. The partnership combined complementary expertise, though direct input from grant recipients remained limited due to safety constraints - a challenge for implementing true participatory governance.
+The experiment operated entirely through part-time staff contributions. Sue Snider (Equality Fund), Women Win's 6-7 person Finance team, and SuperBenefit advisors balanced experimental work with full operational responsibilities. No dedicated innovation team existed. While OTF funding supported coordination, it couldn't contribute funds for experiments in crypto currency distribution or fund dedicated technical development. The partnership combined complementary expertise, though direct input from grant recipients remained difficult due to safety constraints - a challenge for implementing true participatory governance.
 
 The team developed a comparative testing methodology to ensure learning value even with limited implementation. Historical transaction data would establish baselines, while controlled Web3 transactions would generate comparative data using approximately $100 in actual funds. Real money testing would reveal regulatory hurdles, user experience challenges, and operational integration requirements that theoretical testing would miss.
 
@@ -50,7 +50,7 @@ The team developed a comparative testing methodology to ensure learning value ev
 
 ### Discovery Phase (October 2024 - January 2025)
 
-The systematic discovery process examined five potential Web3 applications, generating a 60-page report. The team found that many possibilities required years of additional development, regulatory barriers limited charity participation, and partner readiness varied significantly. After analysis, they concluded: "while many identified opportunities require further technological maturation, two patterns emerged as immediately viable for experimentation." The focus narrowed to grant disbursement through peer to peer payments, specifically addressing transaction costs and accessibility barriers.
+The systematic discovery process examined five potential Web3 applications, generating a Discovery report. The team found that many possibilities required years of additional development, regulatory barriers limited charity participation, and partner readiness varied significantly. After analysis, they concluded: "while many identified opportunities require further technological maturation, two patterns emerged as immediately viable for experimentation." The focus narrowed to grant disbursement through peer to peer payments, specifically addressing transaction costs and accessibility barriers.
 
 ### Planning Phase (February - May 2025)
 
@@ -85,7 +85,7 @@ More significant were the conceptual shifts. The assumption that transaction cos
 
 The experiment revealed that context varies dramatically at hyper-local levels. Infrastructure differences exist not just between countries but between cities and neighborhoods. Some Ukrainian cities have established crypto exchanges and local expertise, while nearby locations lack basic banking reliability. This granular variation was invisible in country-level analysis and highlighted the importance of privacy payments patterns for protecting vulnerable recipients.
 
-Partnership complexity grew geometrically with each organization involved. Coordinating across Equality Fund, Women Win, and SuperBenefit created friction that slowed progress. Different risk tolerances, urgency levels, and organizational priorities required constant negotiation. The absence of dedicated innovation resources meant experimental work consistently lost priority to operational demands. This experience validated the DisCo pattern's emphasis on creating dedicated structures for collective work.
+Partnership complexity grew geometrically with each organization involved. Coordinating across Equality Fund, Women Win, and SuperBenefit created coordination friction that slowed progress. Different risk tolerances, urgency levels, and organizational priorities required frequent negotiation. The absence of dedicated innovation resources meant experimental work consistently lost priority to operational demands. This experience validated the DisCo pattern's emphasis on creating dedicated structures for collective work.
 
 ### Pattern Performance
 
@@ -115,7 +115,7 @@ The experiment's value lay in discovering prerequisites rather than implementing
 
 ## Next Steps
 
-This progress report captures learnings through July 2025, with the experiment continuing beyond the OTF grant period. The team plans to meet with Dalan Fund before month end to gather recipient perspective, even without completed technical testing. Sue Snider and Nicole Matuska will use structured interviews to understand barriers at the partner level, implementing participatory governance principles within safety constraints.
+This progress report captures learnings through July 2025, with the experiment continuing beyond the OTF grant period. The team plans to meet with Dalan Fund before month end to gather recipient perspectives, even without completed technical testing. Sue Snider and Nicole Matuska will use structured interviews to understand barriers at the partner level, implementing participatory governance principles within safety constraints.
 
 The core discovery—that transaction costs aren't the primary barrier—redirects future efforts toward addressing last-mile delivery challenges through privacy payments patterns and building organizational innovation capacity through DisCo pattern principles. The partnership will explore how to create dedicated innovation resources and test concentrated approaches like Design Sprints.
 
