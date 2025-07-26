@@ -30,7 +30,6 @@ Resources exploring decentralized decision-making, coordination mechanisms, and 
   - [[Decentralised Tech & the Future of Organising|Decentralised Tech & the Future of Organising]]
   - [[ethereum-localism|Ethereum Localism]]
   - [[Govbase|Govbase]]
-  - [[links/local-nodes|Local Nodes]]
   - [[Metagov|Metagov]]
   - [[modular-politics-toward-a-governance-layer-for-online-communities|Modular Politics - Toward a Governance Layer for Online Communities]]
   - [[municipal-mycofi|Municipal MycoFi]]
@@ -56,11 +55,11 @@ Resources exploring decentralized decision-making, coordination mechanisms, and 
     - [[Local Nodes|Local Nodes]]
     - [[Modular Politics - Toward a Governance Layer for Online Communities|Modular Politics - Toward a Governance Layer for Online Communities]]
     - [[Modular Politics|Modular Politics - Toward a Governance Layer for Online Communities]]
-    - [[Municipal MycoFi]]
-    - [[P2P Foundation Wiki 2]]
+    - [[Municipal MycoFi|Municipal MycoFi]]
+    - [[P2P Foundation Wiki 2|P2P Foundation Wiki]]
     - [[P2P Foundation Wiki|P2P Foundation Wiki]]
     - [[Pre-Constitutional Governance|Pre-Constitutional Governance]]
-    - [[The Blockchain Governance Toolkit 2]]
+    - [[The Blockchain Governance Toolkit 2|The Blockchain Governance Toolkit]]
 
 %% End Waypoint %%
 - **[[links]]**

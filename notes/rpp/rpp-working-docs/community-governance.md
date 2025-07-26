@@ -3,7 +3,7 @@ title: Community Governance
 description: A pattern for enabling collective stewardship and evolution of decentralized networks through community-driven decision making at constituency scale
 tags:
   - patterns
-publish: true
+publish: false
 type: pattern
 aliases:
   - "#community-governance"
@@ -13,7 +13,7 @@ aliases:
 
 related to:
 - [Multi-Stakeholder Governance](multistakeholder-governance.md)
-- [Operational Governance](operational-governance.md)
+- [Operational Governance](notes/rpp/rpp-working-docs/operational-governance.md)
 
 This pattern provides a [framework](tags/frameworks.md) for implementing inclusive, transparent, and [sustainable](tags/sustainability.md) governance systems that safeguard organizational [purpose](tags/purpose.md) while enabling [community-driven](tags/community.md) evolution.
 

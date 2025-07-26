@@ -29,7 +29,7 @@ phase:
 - organisation
 ---
 
-This pattern is for creating a fractal of a community and operational [governance](tags/governance.md) (a DAO within a DAO). Creating a functioning [community governance](community-governance.md) (stakeholder group) and a Cell-based operational network execute on the goals of the stakeholders.
+This pattern is for creating a fractal of a community and operational [governance](tags/governance.md) (a DAO within a DAO). Creating a functioning [community governance](notes/rpp/rpp-working-docs/community-governance.md) (stakeholder group) and a Cell-based operational network execute on the goals of the stakeholders.
 
 
 Use this pattern to design the governance for a partnership between a [DAO](tags/daos.md) and one or more other organizations where:

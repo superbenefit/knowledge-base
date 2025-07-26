@@ -1,15 +1,17 @@
 ---
 title: Formation Phase
-description: The developmental phase where groups begin to establish structure, initial agreements, and concrete initiatives after the exploratory Conversation phase 
-author: yeoro.eth
-tags: - dao-primitives 
-			- group-phase 
-aliases: 
-			- "#formation" 
+description: The developmental phase where groups begin to establish structure, initial agreements, and concrete initiatives after the exploratory Conversation phase.
+author:
+  - yeoro.eth
+tags:
+  - dao-primitives
+  - group-phase
+aliases:
+  - "#formation"
 publish: "true"
-author: yeoro.eth
-
+type: note
 ---
+
 
 # Formation Phase
 

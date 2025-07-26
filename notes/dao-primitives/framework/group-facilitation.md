@@ -177,7 +177,7 @@ For small teams with a clear mandate, this requirements mapping can often be com
 
 #### 1. Choose a Governance Approach
 
-Based on the articulated [[tags/purpose|purpose]] and mapped requirements, the design team must narrow in on a particular [[tags/governance|governance]] approach from the many available options for decentralized governance. The [[community-governance]] pattern outlines several approaches worth considering, but the choice will depend on multiple factors including the specific needs of the group, the nature of their work, and the structure and culture of existing [[tags/networks|networks]] they coordinate with.
+Based on the articulated [[tags/purpose|purpose]] and mapped requirements, the design team must narrow in on a particular [[tags/governance|governance]] approach from the many available options for decentralized governance. The [[artifacts/patterns/community-governance]] pattern outlines several approaches worth considering, but the choice will depend on multiple factors including the specific needs of the group, the nature of their work, and the structure and culture of existing [[tags/networks|networks]] they coordinate with.
 
 The discovery phase should have surfaced key insights into what qualities the group wants from its governance approach—whether they prioritize maximally decentralized [[tags/decisions|decision-making]], trust and capture resistance, technical sophistication, or other values. These insights become crucial selection criteria when evaluating governance options.
 

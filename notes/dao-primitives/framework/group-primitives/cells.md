@@ -1,12 +1,13 @@
 ---
-title: Cells (Primitive)
+title: Cells (primitive)
 description: Small autonomous teams that form the basic organizational units in DAO networks
-author: yeoro.eth
+author:
+  - yeoro.eth
 tags:
   - primitives
   - cells
-publish: "false"
-type: note
+publish: true
+type: pattern
 ---
 
 # Cells

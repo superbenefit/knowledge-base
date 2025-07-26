@@ -1,11 +1,12 @@
 ---
 title: Roles (Primitive)
 description: Sets of responsibilities, permissions, and accountabilities that enable coordination and specialization
-author: yeoro.eth
+author:
+  - yeoro.eth
 tags:
   - primitives
   - roles
-publish: "false"
+publish: true
 type: note
 ---
 

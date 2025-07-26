@@ -1,14 +1,14 @@
 ---
 title: Coordination Phase
-author: yeoro.eth
-harvester: 
-tags: 
-		- framework
-		- group-phase
-aliases:
-		- "#coordination"
 description: "The mature stage of group development where a fully established group executes effectively on its purpose, maximizing impact through coordinated action with others in the network."
- publish: "true"
+author: yeoro.eth
+tags:
+  - framework
+  - group-phase
+aliases:
+  - "#coordination"
+type: note
+publish: "true"
 ---
 
 # Coordination Phase

@@ -1,12 +1,13 @@
 ---
 title: DAOs (Primitive)
 description: Decentralized Autonomous Organizations as networks of small autonomous teams
-author: yeoro.eth
+author:
+  - yeoro.eth
 tags:
   - primitives
   - daos
-publish: "false"
-type: note
+publish: true
+type: pattern
 ---
 
 # DAOs

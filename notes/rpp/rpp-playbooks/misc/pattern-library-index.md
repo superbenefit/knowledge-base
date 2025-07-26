@@ -1,14 +1,3 @@
----
-title: Pattern Library
-description: A comprehensive index of reusable patterns for decentralized organization design and governance
-url: 
-tags:
-  - patterns
-  - index
-publish: true
-type: index
-protocols: 
----
 # SuperBenefit Pattern Library
 
 _A comprehensive guide to organizational patterns for decentralized coordination and collective benefit_
@@ -31,40 +20,34 @@ Traditional organizational structures concentrate power in hierarchical systems 
 - **Build collective intelligence** through structured processes that value diverse perspectives
 - **Establish mutual accountability** between funders, implementers, and beneficiaries
 
+## Guide to Using Patterns Effectively
+
+### Start with Purpose
+Each pattern addresses specific organizational challenges. Begin by identifying your primary transformation goals rather than implementing patterns for their own sake.
+
+### Consider Context
+Patterns that worked in one experiment may need adaptation for different contexts. Pay attention to prerequisites and environmental factors documented in each pattern.
+
+### Combine Thoughtfully
+Many patterns work synergistically. For example, operational governance and community governance create complementary decision-making structures when implemented together.
+
+### Iterate Based on Learning
+Patterns evolve through practice. Plan for adaptation based on your organization's unique needs and stakeholder feedback.
+
 ---
 
 ## All Patterns
 
 ```dataview
-LIST WITHOUT ID "**" + link(file.path, default(title, default(Title, file.name))) + "**" + ": " + default(description, default(Description, "No description"))
+LIST 
 FROM "" 
-WHERE (publish = true OR publish = "true" OR Publish = true OR Publish = "true")
+WHERE publish = true
   AND (
-    contains(lower(string(default(type, Type))), "pattern") 
-    OR (typeof(default(type, Type)) = "array" AND any(default(type, Type), (t) => contains(lower(string(t)), "pattern")))
+    contains(string(type), "pattern") 
+    OR (typeof(type) = "array" AND any(type, (t) => contains(string(t), "pattern")))
   )
 SORT file.name ASC
 ```
-
----
-
-## Guide to Using Patterns Effectively
-
-### Start with Purpose
-
-Each pattern addresses specific organizational challenges. Begin by identifying your primary transformation goals rather than implementing patterns for their own sake.
-
-### Consider Context
-
-Patterns that worked in one experiment may need adaptation for different contexts. Pay attention to prerequisites and environmental factors documented in each pattern.
-
-### Combine Thoughtfully
-
-Many patterns work synergistically. For example, operational governance and community governance create complementary decision-making structures when implemented together.
-
-### Iterate Based on Learning
-
-Patterns evolve through practice. Plan for adaptation based on your organization's unique needs and stakeholder feedback.
 
 ---
 

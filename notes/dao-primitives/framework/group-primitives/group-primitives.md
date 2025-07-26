@@ -1,10 +1,12 @@
 ---
 title: Primitives
-description: Index and overview of the core primitives used in the DAO Primitives framework
-author: yeoro.eth
+description: Index and overview of the core organizing structures used in the DAO Primitives framework
+author: []
 tags:
   - primitives
-publish: "false"
+  - dao-primitives
+  - framework
+publish: true
 type: index
 ---
 

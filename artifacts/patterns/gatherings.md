@@ -127,22 +127,12 @@ All In For Sport conducted six Gatherings from November 2024 to February 2025, c
 
 **Outcomes**: Participants distinguished these Gatherings from typical Web3 conferences or nonprofit workshops, reporting that productive tension between perspectives generated genuinely new thinking. Both technical participants and grassroots organizations moved from skepticism to identifying specific collaboration opportunities.
 
-### Pattern Evolution Examples
-
-**Academic-Community Partnerships**: Universities implementing Gatherings to bridge researchers with community organizations often extend the timeline, allowing more space for theoretical framework development while maintaining community-centered outcomes.
-
-**Corporate Innovation Labs**: Companies using Gatherings to connect internal technical teams with customer communities typically compress timelines but increase structure, focusing on rapid prototype development through collaborative design sessions.
-
-**Municipal Engagement**: Cities implementing Gatherings for public consultation on technical infrastructure evolved the pattern to include "pop-up" sessions in community spaces, bringing the bridging function directly to residents rather than expecting them to come to formal venues.
-
 ---
 
 ## References
 
 ### Related Patterns
-- **[Participatory Design](participatory-design.md)**: Gatherings incorporate participatory design principles but focus specifically on cross-sector bridge-building rather than design outcomes
-- **[Community Engagement](community-engagement.md)**: While community engagement provides broad approaches, Gatherings offer specific structure for productive cross-community dialogue
-- **[Knowledge Mobilization](knowledge-mobilization.md)**: Gatherings create conditions for knowledge exchange across communities with different ways of knowing
+- **[participatory-governance](Participatory Governance)**: Gatherings incorporate participatory design principles but focus specifically on cross-sector bridge-building rather than design outcomes
 - **[Local Nodes](tags/local-nodes.md)**: Gatherings often serve as activation mechanisms for Local Nodes, bringing together stakeholders who will sustain ongoing collaboration
 
 ### Theoretical Foundations

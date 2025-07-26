@@ -1,8 +1,8 @@
 ---
 title: Collaboration Scale
-tags: 
-aliases: []
-description: "Characteristics and considerations for groups operating at the Collaboration Scale."
+description: Characteristics and considerations for groups operating at the Collaboration Scale.
+tags: []
+aliases: 
 publish: "true"
 ---
 # Collaboration Scale

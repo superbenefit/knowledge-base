@@ -12,6 +12,7 @@ If you are working on one of these docs, please make sure that you are named as 
 - **[[rpp-working-docs]]**
   - [[biofi|Bioregional Finance]]
   - [[burner-wallets|Burner Wallets]]
+  - [[community-governance|Community Governnace Pattern [OUTLINE]]]
   - [[governance-platforms|Governance Platforms]]
   - [[multistakeholder-governance|Multi-Stakeholder Govenrance [OUTLINE]]]
   - [[municipal-mycofi|Municipal MycoFi [OUTLINE]]]
@@ -19,7 +20,6 @@ If you are working on one of these docs, please make sure that you are named as 
   - [[operational-governance|Operational Govenance [OUTLINE]]]
   - [[optimistic-governance|Optimistic Governance]]
   - [[partnership-governance|Partnership governance]]
-  - [[phase-1-research-summary]]
   - [[privacy-payments|Privacy-Preserving Crypto Payments]]
   - [[quadratic-voting|Quadratic Voting]]
   - [[rp-playbook|Reimagining Power Playbook [DRAFT OUTLINE]]]
