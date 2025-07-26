@@ -59,13 +59,13 @@ The effectiveness of Optimistic Governance hinges on a few critical design choic
 ### Examples & Case Studies
 
 *   **Optimism's Governance:** The Optimism Collective uses this pattern for its "Foundation Missions." The Foundation can propose actions that execute after a review period, during which the Token House (the two houses of Optimism governance) can veto them. This allows the foundation to operate efficiently while remaining accountable.
-*   **SuperBenefit's Multi-Stakeholder Model:** As detailed in the [Multi-Stakeholder Governance guide](<implementation-guide-multi-stakeholder-governance.md>), the relationship between the operational Top Level Cell (TLC) and the funding Stakeholder Group (SHG) is a prime example of this pattern. The TLC proposes budgets and actions, which are approved unless the SHG vetoes them.
+*   **SuperBenefit's Multi-Stakeholder Model:** As detailed in the [Multi-Stakeholder Governance guide](<notes/dao-primitives/implementation/guides/governance/implementation-guide-multi-stakeholder-governance.md>), the relationship between the operational Top Level Cell (TLC) and the funding Stakeholder Group (SHG) is a prime example of this pattern. The TLC proposes budgets and actions, which are approved unless the SHG vetoes them.
 *   **SafeDAO (formerly Gnosis Safe):** The modular architecture of Safe allows for the implementation of optimistic control. The Zodiac suite of tools includes modules that can optimistically execute the results of an off-chain Snapshot vote unless vetoed by a designated address, providing a technical backbone for this governance pattern.
 
 ---
 
 ## References
 
-*   **[Multi-Stakeholder Governance](<implementation-guide-multi-stakeholder-governance.md>):** This implementation guide provides a real-world use case for Optimistic Governance as the core interface between funders and operational teams.
+*   **[Multi-Stakeholder Governance](<notes/dao-primitives/implementation/guides/governance/implementation-guide-multi-stakeholder-governance.md>):** This implementation guide provides a real-world use case for Optimistic Governance as the core interface between funders and operational teams.
 *   **[Council Governance](<council-governance.md>):** A council is often the perfect entity to serve as the "veto body" in an optimistic system, as it's an elected, trusted group able to act decisively.
 *   **[[on-chain-vs.-off-chain-governance]]:** Optimistic Governance is a powerful pattern that bridges the off-chain and on-chain worlds. It allows the speed of off-chain decision-making while retaining the security of an on-chain veto mechanism.

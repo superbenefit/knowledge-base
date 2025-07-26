@@ -48,7 +48,7 @@ This lexicon provides:
   - [[eligibility|Eligibility]]
   - [[frameworks|Frameworks]]
   - [[goals|Goals]]
-  - [[governance|Decentralized Governance]]
+  - [[tags/governance|Decentralized Governance]]
   - [[grants|Grants]]
   - [[groups|Groups]]
   - [[impact-attestations]]

@@ -105,7 +105,7 @@ type: note
     - [[governance proposals]]
     - [[governance research]]
     - [[governance squad]]
-    - [[governance]]
+    - [[notes/archive/clarity/Tags/governance]]
     - [[information squad]]
     - [[interventions]]
     - [[key concepts]]

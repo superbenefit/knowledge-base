@@ -28,9 +28,9 @@ We have identified and experimented with using the DAO primitives framework to p
 
 Guides to setting up these 3 interlocking governance structures can be found here:
 
-- [Implementation-guide-operational-governance](implementation-guide-operational-governance.md) (this guide)
-- [Implementation-guide-multi-stakeholder-governance](implementation-guide-multi-stakeholder-governance.md)
-- [Implementation-guide-community-governance](implementation-guide-community-governance.md)
+- [Implementation-guide-operational-governance](notes/dao-primitives/implementation/guides/governance/implementation-guide-operational-governance.md) (this guide)
+- [Implementation-guide-multi-stakeholder-governance](notes/dao-primitives/implementation/guides/governance/implementation-guide-multi-stakeholder-governance.md)
+- [Implementation-guide-community-governance](notes/dao-primitives/implementation/guides/governance/implementation-guide-community-governance.md)
 
 This guide focuses on setting up an Operational Governance structure. This approach can be used both as part of the above layered governance system, outlined above, or alternatively, this guide can be used to create an operational structure to interface with different approaches to community and multi-stakeholder governance.
 

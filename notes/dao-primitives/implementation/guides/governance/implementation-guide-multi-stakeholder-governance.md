@@ -27,9 +27,9 @@ We have identified and experimented with using the DAO primitives framework to p
 
 Guides to setting up these 3 interlocking governance structures can be found here:
 
-- [Implementation-guide-operational-governance](implementation-guide-operational-governance.md)
-- [Implementation-guide-multi-stakeholder-governance](implementation-guide-multi-stakeholder-governance.md) (this guide)
-- [Implementation-guide-community-governance](implementation-guide-community-governance.md)
+- [Implementation-guide-operational-governance](notes/dao-primitives/implementation/guides/governance/implementation-guide-operational-governance.md)
+- [Implementation-guide-multi-stakeholder-governance](notes/dao-primitives/implementation/guides/governance/implementation-guide-multi-stakeholder-governance.md) (this guide)
+- [Implementation-guide-community-governance](notes/dao-primitives/implementation/guides/governance/implementation-guide-community-governance.md)
 
 There are many different ways to think about how to implement effective multi-stakeholder governance. This approach is built around experiments that SuperBenefit has done in creating multi-stakeholder partnerships between web3 and non-web3 organizations to experiment on new governance structures and approaches.
 
