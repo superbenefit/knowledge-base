@@ -12,7 +12,7 @@ If you are working on one of these docs, please make sure that you are named as 
 - **[[rpp-working-docs]]**
   - [[biofi|Bioregional Finance]]
   - [[burner-wallets|Burner Wallets]]
-  - [[community-governance|Community Governnace Pattern [OUTLINE]]]
+  - [[community-governance]]
   - [[governance-platforms|Governance Platforms]]
   - [[multistakeholder-governance|Multi-Stakeholder Govenrance [OUTLINE]]]
   - [[municipal-mycofi|Municipal MycoFi [OUTLINE]]]
