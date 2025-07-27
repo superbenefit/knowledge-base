@@ -1,20 +1,19 @@
 ---
 title: DAO Cell and Community Governance Playbook
 description: A practical guide for nonprofits implementing decentralized governance through autonomous cells and community participation
-author: SuperBenefit
-url: 
-tags: 
+author: 
+tags:
   - playbook
   - governance
   - dao
   - cells
   - community
-curator: SuperBenefit
-harvester: Reimagining Power Project Team
 publish: false
 type: playbook
 ---
 # DAO Cell and Community Governance Playbook
+
+## Executive Summary
 
 This playbook emerges from the Reimagining Power Project's 18-month journey exploring how Web3 technologies might redistribute rather than replicate existing power structures. What began as technology exploration evolved into fundamental questions about participation, ownership, and collective decision-making. The playbook documents how three organizations evolved from centralized control to autonomous cells coordinating within shared purpose, achieving measurable improvements in participation, innovation, and impact. Based on 18 months of real-world experimentation, it provides tested patterns for enabling meaningful stakeholder participation without sacrificing operational effectiveness.
 
@@ -86,6 +85,8 @@ Blockchain provides three capabilities traditional systems lack:
 
 These capabilities matter most for building trust with stakeholders who previously had no visibility into organizational decisions.
 
+---
+
 ## Understanding Patterns in Context
 
 Governance patterns aren't abstract frameworks but practical tools addressing specific organizational challenges. The following pattern groups emerged from real experimentation, each solving particular problems while creating foundation for others.
@@ -102,9 +103,11 @@ In nonprofit contexts, community governance transforms traditional board-centric
 
 **Problem it solves**: Mission drift occurs when operational pressures override organizational purpose. Community governance protects core values while enabling operational flexibility.
 
-**How AIFS used it**: AIFSIP-04 proposal separated community stewardship (protecting mission/values) from operational execution. The community maintains authority over strategic direction while operations teams execute freely within those boundaries. Result: proposal passed "without significant contention" because it addressed recognized needs.
+**How AIFS used it**: [AIFSIP-04 proposal](https://snapshot.box/#/s:allinforsport.eth/proposal/0x1e7f810a37d57c2f1a0e6acb56893b81a9402f311a948fc863e52f486f5fb948) separated community stewardship (protecting mission/values) from operational execution. The community maintains authority over strategic direction while operations teams execute freely within those boundaries. Result: proposal passed "without significant contention" because it addressed recognized needs.
 
 **First step**: Map your current governance decisions into two categories: those affecting mission/values (strategic) versus those affecting daily operations (tactical). Survey stakeholders about which decisions they want voice in—you'll likely find they care most about strategic direction, not operational details.
+
+**Link to full pattern**: [[artifacts/patterns/community-governance.md]]
 
 #### Operational Governance
 
@@ -119,6 +122,8 @@ For nonprofits drowning in approval processes, operational governance creates "d
 _Note: Cells are autonomous teams with defined scope operating within shared organizational values—like departments with full decision-making power rather than advisory committees requiring approval. Creating the structure is quick; activating cells with engaged teams takes time._
 
 **First step**: Identify your most frustrated program team—the one constantly waiting for approvals. Define clear boundaries (budget, scope, values alignment) within which they can make all decisions without seeking permission. Start with a 3-month experiment to build confidence on both sides.
+
+**Link to full pattern**: [[artifacts/patterns/operational-governance.md]]
 
 ### Pattern Group B: Building Participation Infrastructure
 
@@ -136,6 +141,8 @@ Nonprofits often struggle with invisible influence networks where persuasive ind
 
 **First step**: Set up a free Snapshot space for your organization and run your next strategic planning survey through it. This creates a permanent, transparent record of stakeholder input without requiring any cryptocurrency. Use the results to demonstrate the value of transparent decision-making to your board.
 
+**Link to pattern documentation**: [[notes/rpp/rpp-working-docs/token-based-governance.md]]
+
 #### Peer to Peer Payments
 
 Direct transfer of funds between organizations or individuals without intermediary banks, using blockchain networks to enable censorship-resistant, transparent transactions.
@@ -147,6 +154,8 @@ For international nonprofits, P2P payments promise reduced fees and faster trans
 **Equality Fund's discovery**: P2P payments exploration revealed deeper insights about prerequisites. Sue Snider noted: "personally I heard a lot about how expensive it is to move money around world, surprise... was not surprising that EF/WW move money without fees." The real value wasn't in solving transaction costs but in building preconditions—wallet adoption among partners, organizational change readiness, hands-on experience with decentralized concepts. Last-mile delivery challenges with local banking restrictions remained the actual barrier. This challenged sector-wide assumptions about blockchain's primary value proposition.
 
 **First step**: Before exploring blockchain payments, map your actual transaction costs and pain points at the most granular level—not country by country, but city by city, partner by partner. You may discover, like Equality Fund, that your assumed problems don't exist while real barriers lie elsewhere.
+
+**Related resources**: [[tags/p2p-payments]]
 
 #### Privacy Payments
 
@@ -160,6 +169,8 @@ Human rights organizations and their grantees face real surveillance risks from 
 
 **First step**: Conduct a threat assessment with your most vulnerable grant recipients. Map which ones face genuine risks from financial transparency—considering not just current governments but potential future regime changes. Use this assessment to guide whether privacy tools are essential infrastructure or nice-to-have features.
 
+**Link to pattern documentation**: [[notes/rpp/rpp-working-docs/privacy-payments.md]]
+
 #### Participatory Governance
 
 Decision-making processes that meaningfully include affected communities, moving beyond consultation to shared power over resources and direction.
@@ -171,6 +182,8 @@ Traditional grantmaking treats recipients as beneficiaries rather than partners,
 **Equality Fund's constraints**: While committed to the principle, regulatory constraints as a non-profit prevented implementing cooperative ownership or governance structures. Safety concerns also limited direct engagement with recipients. The tension between meaningful participation and regulatory/operational constraints revealed that participatory approaches require fundamental infrastructure changes, not just policy adjustments. This validated their interest in the DisCo pattern (Distributed Cooperative Organization)—a framework for creating dedicated resources for innovation, resource exchange, and governance compensation separate from operational work.
 
 **First step**: Start where you have most freedom—often program design rather than fund allocation. Create a formal advisory group of current recipients with real veto power over new program proposals. Document how this shifts power dynamics and use evidence to advocate for deeper governance changes.
+
+**Related resources**: [[tags/participatory-governance]]
 
 ### Pattern Group C: Bridging Divides
 
@@ -190,6 +203,8 @@ Most nonprofit convenings reinforce existing divisions—technical people talk t
 
 **First step**: Design a 2-hour pilot gathering on your most pressing challenge. Invite 8-12 people split evenly between "insiders" (staff/board) and "outsiders" (community members, technical experts, or other perspectives you lack). Use this structure: 30-min joint opening to frame the challenge, 60-min breakouts by perspective group, 30-min joint closing to share insights. Document what emerges when different groups tackle the same problem.
 
+**Link to full pattern**: [[artifacts/patterns/gatherings.md]]
+
 #### Local Nodes
 
 Coordi-nations are networks of aligned organizations sharing resources, governance practices, and collective action—examples include Green Pill Network for regenerative finance and Gitcoin's grants ecosystem.
@@ -201,6 +216,8 @@ For isolated nonprofits, joining a coordi-nation provides instant connection to 
 **ICS success**: Launched London's first Green Pill chapter, creating a significant milestone for the city. Achieved top 10% Gitcoin Grants ranking through participation in Regen Coordi-Nation. External validation accelerated internal confidence for further transformation. The node provided community engagement pathways and funding support that ICS couldn't achieve alone.
 
 **First step**: Map your mission to existing Web3 coordi-nations. Green Pill Network serves regenerative projects. ReFi DAO connects climate initiatives. Gitcoin funds public goods. Research which networks have local chapters you could join or where you could pioneer the first node in your city. Apply with a clear value proposition of what you bring to the network, not just what you hope to receive.
+
+**Related resources**: [[tags/local-nodes]]
 
 ### Pattern Interactions and Dependencies
 
@@ -316,7 +333,7 @@ The key is honest assessment of your starting point. Pushing beyond organization
 **Patterns Applied**:
 
 - Gatherings (6 sessions, 111 participants)
-- Community/Operational governance separation (AIFSIP-04)
+- Community/Operational governance separation ([AIFSIP-04](https://snapshot.box/#/s:allinforsport.eth/proposal/0x1e7f810a37d57c2f1a0e6acb56893b81a9402f311a948fc863e52f486f5fb948))
 - Coordi-nations model (evolved from single organization to network of aligned communities operating through voluntary association rather than hierarchy)
 - Operational cells (Tech365, partnerships)
 
@@ -374,6 +391,58 @@ ICS's experience validated RPP's evolving understanding: adoption timelines stre
 **Key Learning**: Small experiments revealing requirements provide more value than rushed implementations addressing wrong problems.
 
 Equality Fund's discoveries challenged core RPP assumptions about blockchain's primary value. The project evolved from promoting technical solutions to understanding prerequisites—a humbling recognition that continues shaping our approach. Their experience demonstrated how regulatory constraints and institutional structures themselves prevent the transformative governance approaches Web3 promises.
+
+---
+
+## Resource Directory
+
+### Patterns
+
+- [Community Governance](https://claude.ai/chat/artifacts/patterns/community-governance.md) - Collective stewardship through constituency-scale decision making
+- [Operational Governance](https://claude.ai/chat/artifacts/patterns/operational-governance.md) - Sociocratic coordination of autonomous teams
+- [Gatherings](https://claude.ai/chat/artifacts/patterns/gatherings.md) - Structured spaces for cross-sector relationship building
+- [Token-based Governance](https://claude.ai/chat/notes/rpp/rpp-working-docs/token-based-governance.md) - Digital voting systems for transparent decision-making
+- [Privacy Payments](https://claude.ai/chat/notes/rpp/rpp-working-docs/privacy-payments.md) - Protection for sensitive financial transactions
+- [Peer to Peer Payments](https://claude.ai/chat/tags/p2p-payments) - Direct fund transfers without intermediaries
+- [Participatory Governance](https://claude.ai/chat/tags/participatory-governance) - Meaningful inclusion of affected communities
+- [Local Nodes](https://claude.ai/chat/tags/local-nodes) - Connection points to global movements
+
+### Implementation Guides
+
+- Governance Implementation Guides: `notes/dao-primitives/implementation/guides/governance/`
+    - Community Governance Implementation Guide
+    - Operational Governance Implementation Guide
+    - Multi-stakeholder Governance Implementation Guide
+
+### External Tools
+
+**Governance Infrastructure**:
+
+- [Snapshot](https://snapshot.box/) - Token-free voting and proposal systems
+- [Hats Protocol](https://hatsprotocol.xyz/) - Role management and permissions for organizational structures
+- [Gnosis Safe](https://safe.global/) - Multi-signature wallets for financial decisions
+
+**Collaboration Platforms**:
+
+- [CharmVerse](https://charmverse.io/) - Collaborative workspace designed for DAOs
+
+**Funding Opportunities**:
+
+- [Gitcoin Grants](https://gitcoin.co/grants) - Quarterly quadratic funding rounds
+- [Giveth](https://giveth.io/) - Donation platform for public goods
+
+**Networks & Communities**:
+
+- [Green Pill Network](https://greenpill.network/) - Global chapters focused on regenerative finance
+- [Platform Cooperativism Consortium](https://platform.coop/) - Research on democratic digital organizations
+- [SuperBenefit](https://superbenefit.org/) - DAO Primitives and governance patterns
+
+### Learning Resources
+
+- [Sociocracy for All](https://www.sociocracyforall.org/) - Consent-based decision making training
+- [Art of Hosting](https://artofhosting.org/) - Facilitation practices for participatory leadership
+- [DAO Talk Forum](https://daotalk.org/) - Discussions on governance experiments
+- [MetaGov Community](https://metagov.org/) - Research on digital governance innovation
 
 ---
 

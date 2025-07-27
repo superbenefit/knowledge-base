@@ -28,10 +28,18 @@ _Notes and other documents from the Reimagining Power project at SuperBenefit_
       - [[Playbook task (template)]]
       - [[Playbooks Steward Rolecrafting]]
     - **[[playbook-working-docs]]**
+      - [[00-playbook-outputs-summary]]
       - [[01-template-context-map]]
       - [[02-case-study-essentials]]
       - [[03-implementation-patterns]]
       - [[04-playbook-draft|DAO Cell and Community Governance Playbook]]
+      - [[06-pattern-validation]]
+      - [[07-resource-audit]]
+      - [[implementation-path-adaptive-evolution]]
+      - [[implementation-path-experimentation]]
+      - [[implementation-paths-learning-journey]]
+      - [[rpp_playbook_context_capture]]
+      - [[rpp-playbook-draft|DAO Cell and Community Governance Playbook]]
       - [[rpp-playbook-strategy]]
     - **[[reference]]**
       - [[Final Playbook Reflections & Context]]
@@ -43,7 +51,6 @@ _Notes and other documents from the Reimagining Power project at SuperBenefit_
       - [[Playbook Structural Guidelines & Templates]]
       - [[Playbooks - RPP]]
       - [[Reimagining Power Project - Stakeholder Reflection Responses]]
-    - [[rpp_playbook_context_capture]]
   - **[[rpp-working-docs]]**
 
 %% End Waypoint %%
