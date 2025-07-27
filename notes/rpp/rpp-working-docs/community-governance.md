@@ -9,7 +9,7 @@ aliases:
   - "#community-governance"
 ---
 
-**Community governance** enables broad networks of stakeholders to collectively steward shared [resources](tags/resources.md) and guide organizational evolution through transparent, participatory [[decision-making]] processes at the [constituency scale](notes/dao-primitives/framework/group-scale/constituency.md).
+**Community governance** enables broad networks of stakeholders to collectively steward shared [resources](tags/resources.md) and guide organizational evolution through transparent, participatory [[decision-making]] processes at the [constituency scale](artifacts/guides/dao-primitives-framework/group-scale/constituency-scale.md).
 
 related to:
 - [Multi-Stakeholder Governance](multistakeholder-governance.md)

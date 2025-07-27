@@ -56,6 +56,6 @@ As described in [Building DAOs as scalable networks](artifacts/articles/network-
 
 ### Community in Group Development
 
-During the early [Conversation Phase](notes/dao-primitives/framework/group-phase/conversation.md) of group development, community serves as the foundation for exploration and idea generation. This phase is characterized by "open exploration and idea generation" where "all perspectives are valued" to establish a shared vision and understanding.
+During the early [Conversation Phase](artifacts/guides/dao-primitives-framework/group-phase/conversation-phase.md) of group development, community serves as the foundation for exploration and idea generation. This phase is characterized by "open exploration and idea generation" where "all perspectives are valued" to establish a shared vision and understanding.
 
 The community at this stage focuses on relationship building, creating trust and rapport among members that will be essential for effective collaboration in later stages of development.

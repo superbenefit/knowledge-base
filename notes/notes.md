@@ -38,6 +38,7 @@ Here, you'll find:
     - [[final-ready-to-write]]
     - [[link-analysis-progress.json]]
     - [[link-analysis-usage-guide]]
+    - [[PLEASE-MOVE-THIS-FOLDER]]
     - [[processing-status]]
     - [[ready-to-write]]
     - [[rejected-articles-log]]
@@ -50,7 +51,6 @@ Here, you'll find:
     - [[web3-library-workflow]]
   - **links**
   - **[[rpp]]**
-  - **[[shg]]**
   - **[[wp]]**
 
 %% End Waypoint %%

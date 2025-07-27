@@ -28,6 +28,10 @@ _Notes and other documents from the Reimagining Power project at SuperBenefit_
       - [[Playbook task (template)]]
       - [[Playbooks Steward Rolecrafting]]
     - **[[playbook-working-docs]]**
+      - [[01-template-context-map]]
+      - [[02-case-study-essentials]]
+      - [[03-implementation-patterns]]
+      - [[04-playbook-draft]]
       - [[rpp-playbook-strategy]]
     - **[[reference]]**
       - [[Final Playbook Reflections & Context]]
