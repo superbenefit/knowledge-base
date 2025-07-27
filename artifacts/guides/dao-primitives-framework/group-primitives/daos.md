@@ -62,7 +62,7 @@ DAOs create coherence and make successful [[tags/coordination|coordination]] pos
 
 **Group State Documentation**: DAOs implement systematic documentation of [[tags/purpose|Purpose]]/[[tags/practices|Practice]]/[[tags/progress|Progress]] across all constituent teams, creating the [[tags/transparency|transparency]] needed for decentralized [[tags/coordination|coordination]] and accountability. See [[dao-state]]
 
-**Facilitation Frameworks**: DAOs often employ structured approaches to group development and organizational design, helping teams navigate phases and scales while maintaining network coherence. See [[governance-design]]
+**Facilitation Frameworks**: DAOs often employ structured approaches to group development and organizational design, helping teams navigate phases and scales while maintaining network coherence. See [[notes/dao-primitives/implementation/guides/governance/governance]]
 
 **[[tags/governance|Governance]] [[tags/primitives|Primitives]]**: In the DAO Primitives Framework, DAOs utilize the other 3 [[artifacts/guides/dao-primitives-framework/group-primitives/group-primitives|group-primitives]] to implement their governance and operational design:
 

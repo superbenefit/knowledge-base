@@ -4,11 +4,11 @@ description: Characteristics and considerations for groups operating at the Cons
 tags:
   - dao-primitives
   - framework
-aliases: 
+aliases:
 publish: "true"
 ---
-# Constituency Scale
 
+# Constituency Scale
 
 Constituency Scale represents a broad-based level of group organization, encompassing a large and diverse group of stakeholders who share a common interest or benefit from the organization's activities.
 
@@ -55,8 +55,8 @@ However, there is a necessary trade-off between scale and the complexity of deci
 ### Constituency Scale Patterns
 
 - [[dao-state]]
-- [[artifacts/guides/dao-primitives-framework/group-state|group-state]] 
-- [[artifacts/patterns/community-governance]] 
+- [[artifacts/guides/dao-primitives-framework/group-state|group-state]]
+- [[artifacts/patterns/community-governance]]
 - [[artifacts/guides/dao-primitives-framework/dao-primitives-implemention/implementation-guide-community-governance]]
 - [[artifacts/guides/dao-primitives-framework/group-primitives/daos|daos]]
 
@@ -71,5 +71,3 @@ A successful Constituency Scale group exhibits:
 - A mechanism to translate constituency scale [[tags/governance|governance]] decisions into operational execution.
 
 Effective Constituency Scale design is essential for organizations that serve a broad-based [[tags/community|community]]. Understanding its characteristics and challenges is crucial for building effective and sustainable large-scale decentralized organizations that leverage different scales across their activities.
-
-
