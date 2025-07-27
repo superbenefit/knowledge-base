@@ -1,7 +1,9 @@
 ---
 title: Collaboration Scale
 description: Characteristics and considerations for groups operating at the Collaboration Scale.
-tags: []
+tags:
+  - dao-primitives
+  - framework
 aliases: 
 publish: "true"
 ---
@@ -57,10 +59,7 @@ See the [[sense-making-facilitation-tools]] document for examples of enabling co
 - [[cell-state]] 
 - [[cell]] 
 - [[decider]]
-
-### Collaboration Scale [[tags/primitives|Primitives]]
-
-- [[notes/dao-primitives/framework/group-primitives/cells|cells]]
+- [[artifacts/guides/dao-primitives-framework/group-primitives/cells|cells]]
 
 ---
 

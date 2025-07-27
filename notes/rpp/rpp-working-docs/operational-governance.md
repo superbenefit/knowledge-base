@@ -16,7 +16,7 @@ related to:
 - [Multi-Stakeholder Governance](multistakeholder-governance.md)
 - [Operational Governance](notes/rpp/rpp-working-docs/operational-governance.md)
 
-This pattern provides a [framework](tags/frameworks.md) for implementing efficient, transparent, and adaptable operational systems that maintain [autonomy](tags/autonomy.md) while ensuring [coordination](notes/dao-primitives/framework/group-scale/coordination.md).
+This pattern provides a [framework](tags/frameworks.md) for implementing efficient, transparent, and adaptable operational systems that maintain [autonomy](tags/autonomy.md) while ensuring [coordination-scale](artifacts/guides/dao-primitives-framework/group-scale/coordination-scale.md).
 
 ---
 

@@ -1,15 +1,15 @@
 ---
-type: guide
 title: DAO Primitives Group Facilitation Guide
-author: yeoro.eth
-curator: yeoro.eth
+description: A guide for facilitators to navigate the DAO Primitives Framework and work with groups to define purpose, design and implement governance and operational structures
+type: guide
+author:
+  - yeoro.eth
 tags:
   - dao-primitives
   - facilitation
   - governance
   - framework
   - guide
-description: A guide for facilitators to navigate the DAO Primitives Framework and work with groups to define purpose, design and implement governance and operational structures
 publish: true
 ---
 # DAO Primitives Group Facilitation Guide
@@ -181,7 +181,7 @@ Based on the articulated [[tags/purpose|purpose]] and mapped requirements, the d
 
 The discovery phase should have surfaced key insights into what qualities the group wants from its governance approach—whether they prioritize maximally decentralized [[tags/decisions|decision-making]], trust and capture resistance, technical sophistication, or other values. These insights become crucial selection criteria when evaluating governance options.
 
-Review the [[notes/dao-primitives/framework/framework|dao-primitives framework]] along with [[notes/dao-primitives/implementation/patterns/patterns|patterns]] and [[notes/dao-primitives/implementation/case-studies/case-studies|case-studies]] to guide the group toward settling on a governance approach that matches their outlined requirements rather than defaulting to popular or familiar options that may not fit their context.
+Review the [[artifacts/guides/dao-primitives-framework/dao-primitives-framework|dao-primitives framework]] along with [[notes/dao-primitives/implementation/patterns/patterns|patterns]] and [[notes/dao-primitives/implementation/case-studies/case-studies|case-studies]] to guide the group toward settling on a governance approach that matches their outlined requirements rather than defaulting to popular or familiar options that may not fit their context.
 
 #### 2. Entities and Agreements
 
@@ -189,12 +189,12 @@ The DAO Primitives Framework provides four basic organizational [[tags/primitive
 
 ##### Core Primitives
 
-Using the [[notes/dao-primitives/framework/group-primitives/group-primitives|group-primitives]] as building blocks:
+Using the [[artifacts/guides/dao-primitives-framework/group-primitives/group-primitives|group-primitives]] as building blocks:
 
-- **[[notes/dao-primitives/framework/group-primitives/daos|DAOs]]**: Entity structure for purpose-aligned [[tags/networks|networks]]
+- **[[artifacts/guides/dao-primitives-framework/group-primitives/daos|DAOs]]**: Entity structure for purpose-aligned [[tags/networks|networks]]
 - **[[drafts/framework backup/group-primitives/cells|Cells]]**: Entity structure for small autonomous teams
-- **[[notes/dao-primitives/framework/group-primitives/roles|Roles]]**: Agreement primitive for ongoing [[tags/responsibilities|responsibilities]] and permissions
-- **[[notes/dao-primitives/framework/group-primitives/tasks|Tasks]]**: Agreement primitive for specific work deliverables
+- **[[artifacts/guides/dao-primitives-framework/group-primitives/roles|Roles]]**: Agreement primitive for ongoing [[tags/responsibilities|responsibilities]] and permissions
+- **[[artifacts/guides/dao-primitives-framework/group-primitives/tasks|Tasks]]**: Agreement primitive for specific work deliverables
 
 The design process involves determining which combination of these [[tags/primitives|primitives]] will best serve the group's requirements, then identifying specific patterns for how to compose them into functional structures. Examples of using these primitives to compose governance and operational models can be found in [[notes/dao-primitives/implementation/case-studies/case-studies|case-studies]], including case studies like [[rpp-governance-design-study]].
 
@@ -230,7 +230,7 @@ The final component of the design phase involves creating a clear roadmap for im
 
 #### Group-Phase Considerations
 
-Follow the [[notes/dao-primitives/framework/group-phase/group-phase|group-phase]] model to ensure implementation steps are appropriate for each phase of the group's evolution:
+Follow the [[artifacts/guides/dao-primitives-framework/group-phase/group-phase|group-phase]] model to ensure implementation steps are appropriate for each phase of the group's evolution:
 
 - **Conversation Phase**: Informal gathering of ideas and intentions
 - **Formation Phase**: Basic [[tags/agreements|agreements]] and initial structures
@@ -277,7 +277,7 @@ The implementation plan itself requires approval through appropriate [[tags/gove
 
 ### A. Framework Documentation
 
-- [[notes/dao-primitives/framework/framework|Complete Framework Overview]]
+- [[artifacts/guides/dao-primitives-framework/dao-primitives-framework|Complete Framework Overview]]
 - [[notes/dao-primitives/implementation/implementation|Implementation Resources]]
 - [[notes/dao-primitives/implementation/case-studies/case-studies|Case Studies]] for real-world examples
 

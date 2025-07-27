@@ -9,6 +9,10 @@ tags:
 author:
   - yeoro.eth
 ---
+# NOTE - THIS CONTENT HAS BEEN ADDED TO THE DAO-PRIMITIVES-FRAMEWORK.MD DOC
+
+
+
 # DAO Primitives Project
 
 The DAO Primitives Project provides a framework, conceptual tools, and practical patterns for building **[[tags/purpose|purpose]]-aligned networks of small autonomous [[tags/teams|teams]]** that can scale effectively while maintaining coordination, adaptability, and emergent collective intelligence.
@@ -74,7 +78,7 @@ A Framework for Organizational Design.
 
 This section of the knowledge base contains several interrelated components:
 
-### 1. [Framework](notes/dao-primitives/framework/framework.md)
+### 1. [Framework](artifacts/guides/dao-primitives-framework/dao-primitives-framework.md)
 The conceptual foundations that guide organizational design, including models for understanding group scale, phase, and state, along with organizational primitives.
 
 ### 2. [Patterns](notes/dao-primitives/implementation/patterns/patterns.md)
@@ -102,8 +106,8 @@ These articles provide the theoretical foundations for the more practical focus 
 
 If you're new to the DAO Primitives approach:
 
-1. Explore the [Conceptual Framework](notes/dao-primitives/framework/framework.md) to understand the key concepts
-2. Review the [Group Facilitation Guide](notes/dao-primitives/framework/group-facilitation.md) for a practical approach to applying these concepts
+1. Explore the [Conceptual Framework](artifacts/guides/dao-primitives-framework/dao-primitives-framework.md) to understand the key concepts
+2. Review the [Group Facilitation Guide](artifacts/guides/dao-primitives-framework/group-facilitation.md) for a practical approach to applying these concepts
 3. Browse the [Pattern Library](notes/dao-primitives/implementation/patterns/patterns.md) for specific solutions to common challenges
 
 For those implementing a DAO or similar decentralized organization, the primitives approach offers a flexible but coherent way to design systems that can harness collective intelligence while adapting and evolving as your needs change.
@@ -114,7 +118,6 @@ For those implementing a DAO or similar decentralized organization, the primitiv
 
 %% Begin Waypoint %%
 - **[[dao-primitives]]**
-  - **[[framework]]**
   - **[[implementation]]**
   - **[[primitives-archive]]**
   - **[[resources]]**

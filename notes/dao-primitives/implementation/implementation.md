@@ -24,9 +24,6 @@ type: note
         - [[sb-alignment-review-example]]
         - [[sb-bridging-plan-example]]
     - **[[governance-design]]**
-      - [[implementation-guide-community-governance|Implementation Guide for Community Governance]]
-      - [[implementation-guide-multi-stakeholder-governance|title]]
-      - [[implementation-guide-operational-governance|title]]
     - [[sense-making-facilitation-tools]]
   - **[[patterns]]**
 

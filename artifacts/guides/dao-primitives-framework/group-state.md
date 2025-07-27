@@ -1,21 +1,19 @@
 ---
 title: Group State
 description: A DAO primitives primitive for storing crucial information about a DAO, Cell, Role of Task.
-curator: yeoro.eth
-publish:
-  - true
-type: tag, primitive
+publish: "true"
+type: tag, pattern
 aliases:
   - "#group-state"
-tags: 
+tags:
   - state
-  - nucleus 
+  - nucleus
   - cell-state
 ---
 
 # Group State
 
-Group state is a feature of the [DAO Primitives Framework](notes/dao-primitives/framework/readme.md). It describes the structuring of essential group information in a way that provides for internal coherence within a group, as well as for interoperability and cooperation between [[tags/groups|groups]].
+Group state is a feature of the [DAO Primitives Framework](artifacts/guides/dao-primitives-framework/readme.md). It describes the structuring of essential group information in a way that provides for internal coherence within a group, as well as for interoperability and cooperation between [[tags/groups|groups]]. This definition of group state is specific to the DAO Primitives Framework and the structures and patterns within it. 
 
 ---
 
@@ -45,7 +43,7 @@ In the DAO [[tags/primitives|primitives]] framework, we use a simple articulatio
 
 ### Conclusion
 
-_Group State_ makes decentralized organization possible, because entities and [[tags/groups|groups]] can be autonomous/self-governing, while also being deeply integrated into larger [[tags/networks|networks]] and partnerships via [[tags/agreements|agreements]] held in their _state._
+_Group State_ makes decentralized organization possible, because it allows entities and [[tags/groups|groups]] to be autonomous/self-governing, while also being deeply integrated into larger [[tags/networks|networks]] and partnerships via [[tags/agreements|agreements]] held in their _state._
 
 Group state is also fractal, with [[tags/roles|Roles]] and [[tags/tasks|Tasks]] _state_ rolling up into Cell _states_, and Cell _states_ rolling up into DAO state. In this way, the entire [[tags/networks|network]] can be understood simply by analyzing the different group _states_ that it is made up of.
 

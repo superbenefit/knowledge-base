@@ -1,15 +1,17 @@
 ---
 title: Network Scale
-tags: 
-aliases: []
-description: "Characteristics and considerations for groups operating at the Network Scale."
+description: Characteristics and considerations for groups operating at the Network Scale.
+tags:
+  - dao-primitives
+  - framework
+aliases: 
 publish: "true"
 ---
 # Network Scale
 
 Network Scale represents the highest level of group organization within the DAO [[tags/primitives|primitives]] framework. It encompasses the relationships and connections between decentralized organizations, [[tags/community|communities]] as well as traditional organizations, as they coordinate to achieve impact using decentralized organizing patterns.
 
-Network scale spans and leverages the three other group scales ([[notes/dao-primitives/framework/group-scale/collaboration|collaboration]], [[notes/dao-primitives/framework/group-scale/coordination|coordination]], and [[notes/dao-primitives/framework/group-scale/constituency|constituency]] scales).
+Network scale spans and leverages the three other group scales ([[artifacts/guides/dao-primitives-framework/group-scale/collaboration-scale|collaboration-scale]], [[artifacts/guides/dao-primitives-framework/group-scale/coordination-scale|coordination-scale]], and [[artifacts/guides/dao-primitives-framework/group-scale/constituency-scale|constituency-scale]] scales).
 
 This scale is characterized by high levels of interdependence, complex communication flows, and the need for robust mechanisms for [[tags/coordination|coordination]] and [[tags/governance|governance]] across multiple entities.
 
@@ -20,7 +22,7 @@ This scale is characterized by high levels of interdependence, complex communica
 - **Interconnected Organizations:** The Network Scale involves multiple organizations or [[tags/groups|groups]] working together, often with varying degrees of autonomy.
 - **Decentralized Organizing**: Seeks to create effective mechanisms for partnership by leveraging decentralized patterns of organizing.
 - **Shared or Complementary Goals:** Organizations within the [[tags/networks|network]] may share common goals or have complementary goals that contribute to a larger ecosystem.
-- **Multi-Scale:** The network is operationalized through interdependent entities that operate at different [[notes/dao-primitives/framework/group-scale/group-scale|group-scales]], in order to most effectively deliver on the goals of the network.
+- **Multi-Scale:** The network is operationalized through interdependent entities that operate at different [[artifacts/guides/dao-primitives-framework/group-scale/group-scale|group-scales]], in order to most effectively deliver on the goals of the network.
 - **Complex Communication:** Communication flows are complex, requiring robust mechanisms for information sharing and [[tags/coordination|coordination]].
 - **Decentralized [[tags/resources|Resource]] Allocation:** [[tags/governance|Governance]] at multiple levels in the network allocates [[tags/resources|resources]] based on local knowledge and context.
 - **Adaptability:** The network must be adaptable to changing circumstances and the evolving needs of its constituent organizations.
@@ -67,9 +69,7 @@ $= dv.list(
 - [[privacy-payments|Privacy-Preserving Crypto Payments]]
 - [[social-finance|Decentralized Social Finance]]
 
-### Network Scale [[tags/primitives|Primitives]]
 
-[[multistakeholder-governance]]
 
 ---
 

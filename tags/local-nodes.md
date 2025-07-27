@@ -148,7 +148,7 @@ The Institute for Community Sustainability established London, Ontario's first G
 ### Related Patterns
 - **[Coordi-nations](../tags/coordi-nations.md)**: Local Nodes often serve as the distributed components of coordi-nations, providing local presence for network sovereignty
 - **[Gatherings](gatherings.md)**: Local Nodes use Gatherings as key mechanisms for building relationships and facilitating knowledge exchange
-- **[Cells](cells.md)**: Local Nodes may organize internally using Cell structures for different functions or projects
+- **[Cells](notes/archive/clarity/Tags/cells.md)**: Local Nodes may organize internally using Cell structures for different functions or projects
 - **[Fractal Networks](fractal-networks.md)**: Networks of Local Nodes often exhibit fractal properties, with similar patterns at different scales
 
 ### Theoretical Foundations

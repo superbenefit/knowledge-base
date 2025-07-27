@@ -40,7 +40,8 @@ Each tool is documented with the following structure:
 **Links:**
 - [Estuarine Framework - Cynefin Wiki](https://cynefin.io/wiki/Estuarine_framework)
 
-[![](https://s3.amazonaws.com/charm.public/user-content/4a8cde11-bb66-460c-8631-d3f9d688f723/ef7eae3e-6bce-4922-99c6-284851ba9f04/31b4445f-75d3-46e5-acba-d50cf11d3a61.png)](https://s3.amazonaws.com/charm.public/user-content/4a8cde11-bb66-460c-8631-d3f9d688f723/ef7eae3e-6bce-4922-99c6-284851ba9f04/31b4445f-75d3-46e5-acba-d50cf11d3a61.png)
+![esturine-framework](attachments/esturine-framework.png)
+
 
 
 
@@ -54,7 +55,8 @@ Each tool is documented with the following structure:
 
 **Links:**
 - [Theory U - Wikipedia](https://en.wikipedia.org/wiki/Theory_U)
-![b73390cc-67e8-4cb7-80ce-4d025a67e29d.png](https://s3.amazonaws.com/charm.public/user-content/4a8cde11-bb66-460c-8631-d3f9d688f723/088012ac-1f77-4d9e-bc24-a5b92b0a047c/b73390cc-67e8-4cb7-80ce-4d025a67e29d.png)
+
+![theory-u](attachments/theory-u.png)
 ---
 
 ## Liberating Structures
@@ -67,7 +69,8 @@ Each tool is documented with the following structure:
 
 **Links:** 
 - [Liberating Structures](https://www.liberatingstructures.com/)
-![3d2c30da-0f3f-4f6c-8fe5-ed6ad578bb7c.png](https://s3.amazonaws.com/charm.public/user-content/4a8cde11-bb66-460c-8631-d3f9d688f723/1270b2fb-23ee-4060-905a-ac7a8913333c/3d2c30da-0f3f-4f6c-8fe5-ed6ad578bb7c.png)
+
+![liberating-structures](attachments/liberating-structures.png)
 
 ---
 
@@ -81,7 +84,8 @@ Each tool is documented with the following structure:
 
 **Links:** 
 - [Value Flow Compass Template](https://www.figma.com/board/F4mjtohKgwIiGBp7oHq7z1/Value-Flow-Compass-Template?node-id=0-1&t=hpGqadmgu9eh1NHU-1) (work in progress)
-![fc0950e7-1b62-49fc-ab7d-a89572ab7526.png](https://s3.amazonaws.com/charm.public/user-content/4a8cde11-bb66-460c-8631-d3f9d688f723/544db0d9-ec61-43f8-bb41-5c855b93af8f/fc0950e7-1b62-49fc-ab7d-a89572ab7526.png)
+
+![value-flow-compass](attachments/value-flow-compass.png)
 
 
 ---

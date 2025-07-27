@@ -175,7 +175,7 @@ AND (
 
 ### Implementation
 **Steps to creating a Cell**
-Because Cells can be formed in several different ways (as outlined above) a Cell will not move through the phases of development in a uniform way. For example if a Cell is being created by another Cell to perform a very specific function, the [conversation](notes/dao-primitives/framework/group-phase/conversation.md) and [formation](notes/dao-primitives/framework/group-phase/formation.md) phases will be quick and internal to the existing Cell. However, if a Cell is emerging autonomously out of community conversations then these phases may be slower and more emergent.
+Because Cells can be formed in several different ways (as outlined above) a Cell will not move through the phases of development in a uniform way. For example if a Cell is being created by another Cell to perform a very specific function, the [conversation-phase](artifacts/guides/dao-primitives-framework/group-phase/conversation-phase.md) and [formation-phase](artifacts/guides/dao-primitives-framework/group-phase/formation-phase.md) phases will be quick and internal to the existing Cell. However, if a Cell is emerging autonomously out of community conversations then these phases may be slower and more emergent.
 
 However, regardless of 
 

@@ -15,17 +15,17 @@ type: note
 
 # Formation Phase
 
-The Formation Phase represents the critical transition from open exploration to structured commitment within decentralized networks. Following the ideation and relationship-building of the [Conversation Phase](notes/dao-primitives/framework/group-phase/conversation.md), groups in Formation begin establishing clear boundaries, formalizing [[tags/agreements|agreements]], and designing the structure needed for coordinated action. This phase transforms emerging potential into concrete design, creating the foundation for functional structure to be implemented.
+The Formation Phase represents the critical transition from open exploration to structured commitment within decentralized networks. Following the ideation and relationship-building of the [Conversation Phase](artifacts/guides/dao-primitives-framework/group-phase/conversation-phase.md), groups in Formation begin establishing clear boundaries, formalizing [[tags/agreements|agreements]], and designing the structure needed for coordinated action. This phase transforms emerging potential into concrete design, creating the foundation for functional structure to be implemented.
 
 The formation phase usually culminates in a proposal or some other ask from the community or governance structure that the group is forming within. This is in order to gain funding/[[tags/resources|resources]], partnerships, legitimacy, etc. to allow for the formal implementation of the group's structure in the Organization phase.
 
-When the formation phase is complete, a group is ready to move on to the [organization phase](notes/dao-primitives/framework/group-phase/organization.md).
+When the formation phase is complete, a group is ready to move on to the [organization phase](artifacts/guides/dao-primitives-framework/group-phase/organization-phase.md).
 
 ---
 
 ## Key Characteristics
 
-- **Purpose Definition:** The group works from the clear, specific purpose statement that emerged in the [[notes/dao-primitives/framework/group-phase/conversation|conversation]] phase. This defines its reason for existence and intended contribution to the broader network.
+- **Purpose Definition:** The group works from the clear, specific purpose statement that emerged in the [[artifacts/guides/dao-primitives-framework/group-phase/conversation-phase|conversation-phase]] phase. This defines its reason for existence and intended contribution to the broader network.
 - **Structured Decision-Making:** Simple but formal [[tags/decisions|decision]] processes begin to replace purely informal consensus, enabling clearer accountability and execution.
 - **Initial Agreements:** Members make explicit commitments about participation, contributions, and shared expectations, establishing the basis for mutual accountability.
 - **Lightweight Documentation:** The group develops basic documentation of its purpose, practices, and progress through an initial [cell state](cell-state.md) or nucleus document.
@@ -42,9 +42,9 @@ When the formation phase is complete, a group is ready to move on to the [organi
 - **Resource Mapping:** Identifying needed skills, knowledge, and [[tags/resources|resources]] for successful execution.
 - **Boundary Definition:** Clarifying what is and isn't within the group's scope and authority.
 - **Integration Planning:** Establishing how the group will connect and [[tags/coordination|coordinate]] with the broader [[tags/networks|network]] or [[tags/community|community]].
-- **[[tags/governance|Governance]] & Operational Design:** Designing the governance and operational structure that will be implemented in the [[notes/dao-primitives/framework/group-phase/organization|organization]] phase.
+- **[[tags/governance|Governance]] & Operational Design:** Designing the governance and operational structure that will be implemented in the [[artifacts/guides/dao-primitives-framework/group-phase/organization-phase|organization-phase]] phase.
 - **Proposal Development:** Creating formal proposals to seek [[tags/community|community]] endorsement, funding, or permission when needed to formally instantiate the group.
-- **Initial State Documentation:** Documenting the group's proposed purpose, practices, and plans in a [[notes/dao-primitives/framework/group-state|group-state]] document. This outlines vision and practical implementation of the group.
+- **Initial State Documentation:** Documenting the group's proposed purpose, practices, and plans in a [[artifacts/guides/dao-primitives-framework/group-state|group-state]] document. This outlines vision and practical implementation of the group.
 
 ### Challenges
 
@@ -56,7 +56,7 @@ When the formation phase is complete, a group is ready to move on to the [organi
 
 ### Signs of Readiness for Evolution
 
-A formation phase group may be ready to evolve to a more structured [organization phase](notes/dao-primitives/framework/group-phase/organization.md) when:
+A formation phase group may be ready to evolve to a more structured [organization phase](artifacts/guides/dao-primitives-framework/group-phase/organization-phase.md) when:
 
 - A clear governance and operational structure has been defined and is ready to be implemented.
 - Key roles have been established and filled with committed individuals.
@@ -64,7 +64,7 @@ A formation phase group may be ready to evolve to a more structured [organizatio
 - The group has begun execution of initial activities and can demonstrate progress.
 - There is a need for more sophisticated coordination mechanisms to manage increasing complexity.
 - Initial community support and [[tags/resources|resources]] have been secured via a proposal or similar.
-- The group's [group state](notes/dao-primitives/framework/group-state.md) document is sufficiently developed to outline the structure to be implemented in the organization phase.
+- The group's [group state](artifacts/guides/dao-primitives-framework/group-state.md) document is sufficiently developed to outline the structure to be implemented in the organization phase.
 
 ---
 
@@ -72,7 +72,7 @@ A formation phase group may be ready to evolve to a more structured [organizatio
 
 ### State Documentation
 
-Creating a lightweight but clear [group state](notes/dao-primitives/framework/group-state.md) document is a critical practice during the Formation Phase.
+Creating a lightweight but clear [group state](artifacts/guides/dao-primitives-framework/group-state.md) document is a critical practice during the Formation Phase.
 
 The development of the group state document helps the group to get clear and precise about the group's goals and how it is planning to achieve them. It also communicates this to others in the community or operational network, forming the basis for a proposal or other mechanism for community or operational endorsement, funding, partnership, etc.
 
@@ -112,7 +112,7 @@ Proposal development can center around the group state document outlined above, 
 ### Support Resources
 
 - **Governance Design Support:** Accessing specific guidance and [[tags/resources|resources]] for [[tags/governance|governance]] design can save a lot of time and result in better overall governance design. This knowledge garden has a wealth of resources to support this work including governance patterns, frameworks, guides, and case studies.
-- **Group Facilitation:** Accessing governance facilitation support can assist with helping the group to get to agreement on exactly how they want to define the group's [group state](notes/dao-primitives/framework/group-state.md) and which [[tags/governance|governance]] [[tags/primitives|primitives]] and [[tags/practices|practices]] the group wants to adopt.
+- **Group Facilitation:** Accessing governance facilitation support can assist with helping the group to get to agreement on exactly how they want to define the group's [group state](artifacts/guides/dao-primitives-framework/group-state.md) and which [[tags/governance|governance]] [[tags/primitives|primitives]] and [[tags/practices|practices]] the group wants to adopt.
 - **Technical Support:** Once the fundamentals of the group's governance design are established, sourcing specific support to select the right technical tools to implement it is hugely beneficial.
 
 ## Success Indicators

@@ -20,7 +20,7 @@ DAOs within the DAO Primitives Framework are defined as **purpose-aligned [[tags
 
 ## Core Characteristics
 
-**Contain a Network**: DAOs contain a [[tags/networks|network]] of groups operating at different levels of [[notes/dao-primitives/framework/group-scale/group-scale|group-scale]] and stages of [[notes/dao-primitives/framework/group-phase/group-phase|group-phase]]. By coordinating this network, DAOs create flexible, adaptive organizational forms that can evolve organically without requiring a top-down structure.
+**Contain a Network**: DAOs contain a [[tags/networks|network]] of groups operating at different levels of [[artifacts/guides/dao-primitives-framework/group-scale/group-scale|group-scale]] and stages of [[artifacts/guides/dao-primitives-framework/group-phase/group-phase|group-phase]]. By coordinating this network, DAOs create flexible, adaptive organizational forms that can evolve organically without requiring a top-down structure.
 
 **Purpose-Aligned [[tags/coordination|Coordination]]**: DAOs maintain coherence through shared network [[tags/purpose|purpose]] that enables autonomous teams to coordinate and make aligned [[tags/decisions|decisions]] without central authority. Purpose serves as the gravitational center that guides decentralized DAO decision-making.
 
@@ -64,11 +64,11 @@ DAOs create coherence and make successful [[tags/coordination|coordination]] pos
 
 **Facilitation Frameworks**: DAOs often employ structured approaches to group development and organizational design, helping teams navigate phases and scales while maintaining network coherence. See [[governance-design]]
 
-**[[tags/governance|Governance]] [[tags/primitives|Primitives]]**: In the DAO Primitives Framework, DAOs utilize the other 3 [[notes/dao-primitives/framework/group-primitives/group-primitives|group-primitives]] to implement their governance and operational design:
+**[[tags/governance|Governance]] [[tags/primitives|Primitives]]**: In the DAO Primitives Framework, DAOs utilize the other 3 [[artifacts/guides/dao-primitives-framework/group-primitives/group-primitives|group-primitives]] to implement their governance and operational design:
 
-- [[notes/dao-primitives/framework/group-primitives/cells|Cells]] - The autonomous teams that comprise DAO networks
-- [[notes/dao-primitives/framework/group-primitives/roles|Roles]] - Specialized functions within DAO coordination systems
-- [[notes/dao-primitives/framework/group-primitives/tasks|Tasks]] - Coordinated actions across DAO networks
+- [[artifacts/guides/dao-primitives-framework/group-primitives/cells|Cells]] - The autonomous teams that comprise DAO networks
+- [[artifacts/guides/dao-primitives-framework/group-primitives/roles|Roles]] - Specialized functions within DAO coordination systems
+- [[artifacts/guides/dao-primitives-framework/group-primitives/tasks|Tasks]] - Coordinated actions across DAO networks
 
 **Permissionless Innovation**: DAOs establish lightweight processes for new team formation, experimental initiatives, and proposal development that enable innovation without requiring centralized permission or oversight. But then have decentralized mechanisms for approving permissions and [[tags/resources|resource]] allocation to these new teams as they evolve.
 
@@ -82,13 +82,13 @@ DAOs create coherence and make successful [[tags/coordination|coordination]] pos
 
 ## Related Concepts
 
-- [[notes/dao-primitives/framework/group-primitives/cells|Cells]] - The autonomous teams that comprise DAO networks
-- [[notes/dao-primitives/framework/group-primitives/roles|Roles]] - Specialized functions within DAO coordination systems
-- [[notes/dao-primitives/framework/group-primitives/tasks|Tasks]] - Coordinated actions across DAO networks
+- [[artifacts/guides/dao-primitives-framework/group-primitives/cells|Cells]] - The autonomous teams that comprise DAO networks
+- [[artifacts/guides/dao-primitives-framework/group-primitives/roles|Roles]] - Specialized functions within DAO coordination systems
+- [[artifacts/guides/dao-primitives-framework/group-primitives/tasks|Tasks]] - Coordinated actions across DAO networks
 - [[tags/agreements|Agreements]] - The relationship infrastructure that enables DAO coordination
 - [[tags/purpose|Purpose]] - The shared vision that creates DAO network alignment
 - [[tags/coordination|Coordination]] - The mechanisms through which DAO networks align activities
-- [[notes/dao-primitives/framework/group-state|Group State]] - The transparency framework that enables DAO coordination
+- [[artifacts/guides/dao-primitives-framework/group-state|Group State]] - The transparency framework that enables DAO coordination
 
 
 
