@@ -17,25 +17,26 @@ tags:
 The DAO Primitives Framework provides a systematic approach to designing and implementing decentralized organizations as purpose-aligned networks. Building on the overview provided in the [DAO Primitives Project](notes/dao-primitives/dao-primitives.md), this framework offers a deeper exploration of the key concepts, dimensions, and components that enable effective decentralized coordination.
 
 %% Begin Waypoint %%
-- **[[artifacts/guides/dao-primitives-framework/dao-primitives-framework|DAO Primitives Framework]]**
-  - **[[artifacts/guides/dao-primitives-framework/dao-primitives-implemention/dao-primitives-implemention|Implementation]]**
-    - [[artifacts/guides/dao-primitives-framework/dao-primitives-implemention/implementation-guide-community-governance|Implementation Guide for Community Governance]]
-    - [[artifacts/guides/dao-primitives-framework/dao-primitives-implemention/implementation-guide-multi-stakeholder-governance|Implementation Guide for Multi-Stakeholder Governance]]
-    - [[artifacts/guides/dao-primitives-framework/dao-primitives-implemention/implementation-guide-operational-governance|Implementation Guide for Operational Governance]]
-  - [[artifacts/guides/dao-primitives-framework/group-facilitation|DAO Primitives Group Facilitation Guide]]
-  - **[[artifacts/guides/dao-primitives-framework/group-phase/group-phase|Group Phase]]**
-    - [[artifacts/guides/dao-primitives-framework/group-phase/completion-phase|Completion Phase]]
-    - [[artifacts/guides/dao-primitives-framework/group-phase/conversation-phase|Conversation Phase]]
-    - [[artifacts/guides/dao-primitives-framework/group-phase/coordination-phase|Coordination Phase]]
-    - [[artifacts/guides/dao-primitives-framework/group-phase/formation-phase|Formation Phase]]
-    - [[artifacts/guides/dao-primitives-framework/group-phase/organization-phase|Organization Phase]]
-  - [[artifacts/guides/dao-primitives-framework/group-primitives/group-primitives|Group Primitives]]
-  - **[[artifacts/guides/dao-primitives-framework/group-scale/group-scale|Group Scale]]**
-    - [[artifacts/guides/dao-primitives-framework/group-scale/collaboration-scale|Collaboration Scale]]
-    - [[artifacts/guides/dao-primitives-framework/group-scale/constituency-scale|Constituency Scale]]
-    - [[artifacts/guides/dao-primitives-framework/group-scale/coordination-scale|Coordination Scale]]
-    - [[artifacts/guides/dao-primitives-framework/group-scale/network-scale|Network Scale]]
-  - [[artifacts/guides/dao-primitives-framework/group-state|Group State]]
+- **[[dao-primitives-framework]]**
+  - **[[dao-primitives-implemention]]**
+    - [[implementation-guide-community-governance|Implementation Guide for Community Governance]]
+    - [[implementation-guide-multi-stakeholder-governance|Implementation Guide for Multi-Stakeholder Governance]]
+    - [[implementation-guide-operational-governance|Implementation Guide for Operational Governance]]
+  - [[group-facilitation|DAO Primitives Group Facilitation Guide]]
+  - **[[group-phase]]**
+    - [[completion-phase|Completion Phase]]
+    - [[conversation-phase|Conversation Phase]]
+    - [[coordination-phase|Coordination Phase]]
+    - [[formation-phase|Formation Phase]]
+    - [[organization-phase|Organization Phase]]
+  - **[[group-primitives]]**
+  - **[[group-scale]]**
+    - [[collaboration-scale|Collaboration Scale]]
+    - [[constituency-scale|Constituency Scale]]
+    - [[coordination-scale|Coordination Scale]]
+    - [[network-scale|Network Scale]]
+  - [[group-state|Group State]]
+
 %% End Waypoint %%
 
 # DAO Primitives Overview
