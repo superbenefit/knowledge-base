@@ -17,26 +17,50 @@ tags:
 The DAO Primitives Framework provides a systematic approach to designing and implementing decentralized organizations as purpose-aligned networks. Building on the overview provided in the [DAO Primitives Project](notes/dao-primitives/dao-primitives.md), this framework offers a deeper exploration of the key concepts, dimensions, and components that enable effective decentralized coordination.
 
 %% Begin Waypoint %%
-
-- **[[framework]]**
-  - [[group-facilitation|group facilitation]]
+- **[[dao-primitives-framework]]**
+  - **[[dao-primitives-implemention]]**
+    - [[implementation-guide-community-governance]]
+    - [[implementation-guide-multi-stakeholder-governance]]
+    - [[implementation-guide-operational-governance]]
+  - [[group-facilitation]]
   - **[[group-phase]]**
-    - [[completion|Completion Phase]]
-    - [[conversation|Conversation Phase]]
-    - [[coordination]]
-    - [[formation]]
-    - [[organization]]
+    - [[completion-phase]]
+    - [[conversation-phase]]
+    - [[coordination-phase]]
+    - [[formation-phase]]
+    - [[organization-phase]]
   - **[[group-primitives]]**
   - **[[group-scale]]**
-    - [[collaboration|Collaboration Scale]]
-    - [[constituency|Constituency Scale]]
-    - [[coordination|Coordination Scale]]
-    - [[network|Network Scale]]
-  - [[group-state|group state]]
+    - [[collaboration-scale]]
+    - [[constituency-scale]]
+    - [[coordination-scale]]
+    - [[network-scale]]
+  - [[group-state]]
 
 %% End Waypoint %%
 
-## Framework Overview
+# DAO Primitives Overview
+
+The DAO Primitives Project provides a framework, conceptual tools, and practical patterns for building **[[tags/purpose|purpose]]-aligned networks of small autonomous [[tags/teams|teams]]** that can scale effectively while maintaining coordination, adaptability, and emergent collective intelligence.
+
+Our current organizational models were optimized for an era of industrial production and hierarchical management, creating structures that excel at efficiency but struggle with complexity, adaptability, and equitable value distribution. [[tags/decentralization|Decentralized organizations]] offer transformative alternatives through their core properties: distributed authority that prevents power concentration, permissionless innovation that unlocks collective intelligence, transparent operations that build trust, and aligned incentives that share value with all contributors. 
+
+As our societal challenges grow increasingly complex and interconnected—from climate change to economic inequality—we need [[tags/coordination|coordination]] systems that can harness diverse perspectives, adapt quickly to emerging conditions, and align human activity with regenerative outcomes. 
+
+Traditional corporations, governments, and NGOs, designed for stability in predictable environments, often lack the responsiveness and diversity of intelligence needed to address systemic challenges. [[tags/decentralization|Decentralized organizations]] provide a fundamental reimagining of how humans [[tags/coordination|coordinate]] to create value, enabling more resilient, adaptive, and equitable systems capable of navigating the complexity of our modern world while distributing benefits more widely across society.
+
+We developed the DAO Primitives project around **[[tags/purpose|purpose]]-aligned networks of small autonomous [[tags/teams|teams]]** as a conceptual starting point for designing decentralized organizations. The DAO primitives allow communities of all kinds to build their own purpose aligned networks that can act in deliberate coherent ways to create better futures for everyone who participates in them.
+
+## What Are DAO Primitives?
+
+The DAO [[tags/primitives|Primitives]] are a handful of building blocks for designing [[tags/decentralization|decentralized organizations]]. They're un-opinionated components that can be combined and configured to create governance and operational systems tailored to specific contexts and needs.
+
+Unlike prescriptive frameworks that dictate how organizations should be structured, the primitives offer maximum flexibility while maintaining coherence and interoperability. They enable experimentation with novel forms of [[tags/coordination|coordination]] that can potentially outperform traditional organizational models.
+
+The primitives approach addresses a crucial challenge: **how can decentralized networks scale while balancing efficiency with innovation, autonomy with [[tags/alignment|alignment]], and flexibility with coherence?**
+
+
+## Framework
 
 At its core, the DAO Primitives Framework is built around two complementary elements:
 
@@ -45,26 +69,22 @@ At its core, the DAO Primitives Framework is built around two complementary elem
 
 Together, these elements provide a flexible yet coherent approach to designing decentralized organizations that can harness collective intelligence while maintaining purpose alignment across diverse and distributed teams.
 
-## Dimensional Lenses
-
-The framework uses three primary lenses to understand and navigate organizational complexity:
-
-### 1. [Group Phase](notes/dao-primitives/framework/group-phase/group-phase.md)
+## Dimensional Lense
+### 1\.  [Group Phase](artifacts/guides/dao-primitives-framework/group-phase/group-phase.md)
 
 Group Phase recognizes that organizations evolve through distinct developmental stages, each with its own characteristics and needs. Understanding where a group is in its journey helps select appropriate tools, practices, and structures.
 
 The framework identifies five key phases:
+- **[Conversation Phase](artifacts/guides/dao-primitives-framework/group-phase/conversation-phase.md)**: Initial exploration and idea generation focus on open dialogue, relationship building, and establishing shared vision before formal structures emerge
+- **[Formation Phase](artifacts/guides/dao-primitives-framework/group-phase/formation-phase.md)**: Establishing basic structure and roles with minimal formality, emphasizing trust-building and defining initial procedures for group operation
+- **[Organization Phase](artifacts/guides/dao-primitives-framework/group-phase/organization-phase.md)**: Implementing formal structures, defined processes, and governance mechanisms to create sustainable and scalable organizational systems
+- **[Coordination Phase](notes/[Coordination Phase](artifacts/guides/dao-primitives-framework/group-phase/coordination-phase.md)**: Integrating with broader networks and collaborating with other groups, shifting focus from internal organization to external relationships
+- **[Completion Phase](artifacts/guides/dao-primitives-framework/group-phase/completion-phase.md)**: Concluding initiatives, capturing learnings, and transitioning resources when projects or groups reach their natural conclusion
 
-- **[Conversation Phase](notes/dao-primitives/framework/group-phase/conversation.md)**: Initial exploration and idea generation focused on open dialogue, relationship building, and establishing shared vision before formal structures emerge
-- **[Formation Phase](notes/dao-primitives/framework/group-phase/formation.md)**: Establishing basic structure and roles with minimal formality, emphasizing trust-building and defining initial procedures for group operation
-- **[Organization Phase](notes/dao-primitives/framework/group-phase/organization.md)**: Implementing formal structures, defined processes, and governance mechanisms to create sustainable and scalable organizational systems
-- **[Coordination Phase](notes/dao-primitives/framework/group-phase/coordination.md)**: Integrating with broader networks and collaborating with other groups, shifting focus from internal organization to external relationships
-- **[Completion Phase](completion.md)**: Concluding initiatives, capturing learnings, and transitioning resources when projects or groups reach their natural conclusion
+Learn more about [Group Phase](artifacts/guides/dao-primitives-framework/group-phase/group-phase.md)
 
-Learn more about [Group Phase](notes/dao-primitives/framework/group-phase/group-phase.md)
 
-### 2. [Group Scale](notes/dao-primitives/framework/group-scale/group-scale.md)
-
+### 2\. [Group Scale](artifacts/guides/dao-primitives-framework/group-scale/group-scale.md)
 Group Scale acknowledges that the size and complexity of a group fundamentally affects how it functions. Different scales require different approaches to communication, decision-making, and coordination.
 
 The framework identifies four distinct scales:
@@ -76,9 +96,10 @@ The framework identifies four distinct scales:
 
 Most contexts require organizations operate at multiple scales simultaneously, with different functions happening at different scales. The DAO primitives framework helps design appropriate coordination mechanisms for each scale.
 
-Learn more about [Group Scale](notes/dao-primitives/framework/group-scale/group-scale.md)
+Learn more about[Group Scale](artifacts/guides/dao-primitives-framework/group-scale/group-scale.md)
 
-### 3. [Group State](notes/dao-primitives/framework/group-state.md)
+
+### 3\. [Group Scale](artifacts/guides/dao-primitives-framework/group-scale/group-scale.md)
 
 Group State focuses on how having a transparent organizational state for each entity in a network, enables effective coordination in decentralized systems. For groups to interact effectively without centralized control, they need clear interfaces that make them interoperable and universally addressable.
 
@@ -90,13 +111,15 @@ In the DAO primitives framework Group state consists of three core components:
 
 This state documentation serves as a "public interface" that enables both internal coherence and external coordination. It allows groups to have an existence that is both independent from the larger network and integrated into it through agreements with other entities.
 
-Learn more about [Group State](notes/dao-primitives/framework/group-state.md)
+Learn more about [Group State](artifacts/guides/dao-primitives-framework/group-state.md)
+
 
 ## Organizational Primitives
 
 Building on these dimensional lenses, the framework identifies fundamental building blocks that can be combined to create organizational systems:
 
 ### 1. Core Conceptual Primitives
+
 
 At the highest level, three foundational organizational primitives:
 
@@ -115,9 +138,9 @@ Although the above conceptual framework could be used to design a wide range of 
 
 These primitives can be combined in various ways to create organizational systems tailored to specific contexts and needs. Their power lies in their flexibility and composability while maintaining coherent patterns that enable interoperability.
 
-## Group Facilitation - A Framework for Implementation
+## Group Facilitation
 
-The framework is designed to be practical and applicable. The [Group Facilitation Guide](notes/dao-primitives/framework/group-facilitation.md) provides a structured methodology for applying these concepts to real-world organizational challenges.
+The [Group Facilitation Guide](artifacts/guides/dao-primitives-framework/group-facilitation.md) provides a structured methodology for applying these concepts to real-world organizational challenges.
 
 The facilitation process typically involves:
 

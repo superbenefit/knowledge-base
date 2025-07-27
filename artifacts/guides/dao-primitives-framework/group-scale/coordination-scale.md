@@ -1,19 +1,21 @@
 ---
 title: Coordination Scale
-tags: 
-aliases: []
-description: "Characteristics and considerations for groups operating at the Coordination Scale"
+description: Characteristics and considerations for groups operating at the Coordination Scale
+tags:
+  - dao-primitives
+  - framework
+aliases: 
 publish: "true"
 ---
 # Coordination Scale
 
-Coordination Scale represents a larger level of group organization than [collaboration scale](notes/dao-primitives/framework/group-scale/collaboration.md). It involves larger [[tags/groups|groups]] or multiple groups working together towards a shared goal, requiring more sophisticated [[tags/coordination|coordination]] mechanisms and communication strategies.
+Coordination Scale represents a larger level of group organization than [collaboration scale](artifacts/guides/dao-primitives-framework/group-scale/collaboration-scale.md). It involves larger [[tags/groups|groups]] or multiple groups working together towards a shared goal, requiring more sophisticated [[tags/coordination|coordination]] mechanisms and communication strategies.
 
 While the exact upper limit of group size is flexible, Coordination Scale groups typically range from 10 to 150 individuals.
 
-Coordination scale is too large to afford the nuanced sense-making, creativity, and conflict management that [Collaboration Scale](notes/dao-primitives/framework/group-scale/collaboration.md) groups are capable of, but are still small enough to be effective at delivering well-scoped and planned activities. Beyond its limits (roughly 150 members - see [Dunbar's number](https://en.wikipedia.org/wiki/Dunbar%27s_number)), [[tags/coordination|coordination]] becomes too costly and difficult and should be either broken into smaller coordination efforts or transitioned to a [Constituency Scale](notes/dao-primitives/framework/group-scale/constituency.md) approach.
+Coordination scale is too large to afford the nuanced sense-making, creativity, and conflict management that [Collaboration Scale](artifacts/guides/dao-primitives-framework/group-scale/collaboration-scale.md) groups are capable of, but are still small enough to be effective at delivering well-scoped and planned activities. Beyond its limits (roughly 150 members - see [Dunbar's number](https://en.wikipedia.org/wiki/Dunbar%27s_number)), [[tags/coordination|coordination]] becomes too costly and difficult and should be either broken into smaller coordination efforts or transitioned to a [Constituency Scale](artifacts/guides/dao-primitives-framework/group-scale/constituency-scale.md) approach.
 
-While [[notes/dao-primitives/framework/group-scale/collaboration|collaboration]] scale outlines small, high-context, high-trust group formation, coordination scale can leverage groups of a similar size as part of its operational structure. The difference here is that these groups will be more purely functional, efficiently delivering on known processes to achieve predictable results. Whereas a collaboration scale group will exhibit properties like autonomy, sense-making, creativity, and adaptability as a result of its less constrained design.
+While [[artifacts/guides/dao-primitives-framework/group-scale/collaboration-scale|collaboration-scale]] scale outlines small, high-context, high-trust group formation, coordination scale can leverage groups of a similar size as part of its operational structure. The difference here is that these groups will be more purely functional, efficiently delivering on known processes to achieve predictable results. Whereas a collaboration scale group will exhibit properties like autonomy, sense-making, creativity, and adaptability as a result of its less constrained design.
 
 ---
 
@@ -41,7 +43,7 @@ While [[notes/dao-primitives/framework/group-scale/collaboration|collaboration]]
 - **Communication Platforms:** Platforms for facilitating communication and collaboration among teams including gauging sentiment from across the wider group.
 - **[[tags/governance|Governance]] Structures:** Formal governance tooling to guide [[tags/decisions|decision-making]] and ensure accountability.
 - **Onchain Tools:** Where practical, onchain tools allow for [[tags/coordination|coordination]] without centralization of authority.
-- **Group State**: Using onchain trust mechanisms that connect back to [[notes/dao-primitives/framework/group-state|group state]] documentation allow groups to participate in coordination scale structures without overwhelming the coordination overhead.
+- **Group State**: Using onchain trust mechanisms that connect back to [[artifacts/guides/dao-primitives-framework/group-state|group state]] documentation allow groups to participate in coordination scale structures without overwhelming the coordination overhead.
 - **Reporting Mechanisms:** Mechanisms for reporting [[tags/progress|progress]] and impact allow for coordination scale structures to manage and allocate [[tags/resources|resources]] effectively.
 - **Project Management Software:** Tools for managing [[tags/tasks|tasks]], tracking progress, and coordinating activities across multiple teams.
 
@@ -62,9 +64,7 @@ $= dv.list(
 )
 ```
 
-### Coordination Scale [[tags/primitives|Primitives]]
 
-dataviewjs
 
 ```dataviewjs
 const ext = dv.pages('"tools/types"')
@@ -95,7 +95,7 @@ A successful Coordination Scale group exhibits:
 - Efficient allocation and utilization of [[tags/resources|resources]].
 - Clear processes for [[tags/decisions|decision-making]] and conflict resolution.
 - Alignment with the shared goal and priorities.
-- Effective mechanisms for engaging with [[notes/dao-primitives/framework/group-scale/constituency|constituency]] and [[tags/networks|network]] scales.
+- Effective mechanisms for engaging with [[artifacts/guides/dao-primitives-framework/group-scale/constituency-scale|constituency-scale]] and [[tags/networks|network]] scales.
 
 
 

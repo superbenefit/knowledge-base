@@ -34,7 +34,7 @@ This cultural coordination works through shared mental models, behavioral norms,
 
 ### Culture in Knowledge and Practices
 
-Culture manifests concretely through the knowledge systems, practices, and methodologies that communities develop and share. These include both explicit practices like governance processes and implicit know-how about how things actually work within the community. Together, they form what the [readme](notes/dao-primitives/framework/readme.md) identifies as Practice - one of the three core dimensions of Group State alongside Purpose and Progress.
+Culture manifests concretely through the knowledge systems, practices, and methodologies that communities develop and share. These include both explicit practices like governance processes and implicit know-how about how things actually work within the community. Together, they form what the [readme](artifacts/guides/dao-primitives-framework/readme.md) identifies as Practice - one of the three core dimensions of Group State alongside Purpose and Progress.
 
 The relationship between culture and practices is reciprocal: practices embody and reinforce culture, while culture provides the context that makes practices meaningful and effective. As communities evolve, they develop increasingly sophisticated shared practices that encode their accumulated wisdom and values, creating what [semiotic-bridging](tags/semiotic-bridging.md) describes as distinct "knowledge systems and cultural frameworks" with their own internal coherence and logic.
 

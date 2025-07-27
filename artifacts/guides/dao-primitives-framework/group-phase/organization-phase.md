@@ -16,16 +16,16 @@ type: note
 
 # Organization Phase
 
-The Organization Phase builds upon the [formation phase](notes/dao-primitives/framework/group-phase/formation.md), transitioning from a basic framework to a fully established, formal structure with defined processes and [[tags/governance|governance]] mechanisms. This phase is characterized by the implementation of the systems, procedures, and [[tags/decisions|decision-making]] frameworks that were designed in the Formation phase. Getting these up and running enables the group to operate efficiently, effectively, and with the necessary [[tags/transparency|transparency]] needed for the decentralized [[tags/networks|network]] that it is either establishing or operating inside.
+The Organization Phase builds upon the [formation phase](artifacts/guides/dao-primitives-framework/group-phase/formation-phase.md), transitioning from a basic framework to a fully established, formal structure with defined processes and [[tags/governance|governance]] mechanisms. This phase is characterized by the implementation of the systems, procedures, and [[tags/decisions|decision-making]] frameworks that were designed in the Formation phase. Getting these up and running enables the group to operate efficiently, effectively, and with the necessary [[tags/transparency|transparency]] needed for the decentralized [[tags/networks|network]] that it is either establishing or operating inside.
 
 The organization phase often follows a [[tags/community|community]] proposal at the culmination of the Formation phase, and much of its activities will be implementing the design that was laid out in this previous phase.
 
-The Organization phase is complete when the structure outlined in the group's [[notes/dao-primitives/framework/group-state|group-state]] documentation has been fully implemented, [[tags/roles|roles]] have been filled, and the group is executing on its goals.
+The Organization phase is complete when the structure outlined in the group's [[artifacts/guides/dao-primitives-framework/group-state|group-state]] documentation has been fully implemented, [[tags/roles|roles]] have been filled, and the group is executing on its goals.
 
 ## Key Characteristics
 
 - **[[tags/governance|Governance]] Implementation:** Detailed [[tags/decisions|decision-making]] frameworks and processes that enable efficient handling of different decision types and appropriate stakeholder involvement.
-- **Robust State Documentation:** Fully developed [group-state](notes/dao-primitives/framework/group-state.md) document that provides [[tags/transparency|transparency]] about [[tags/purpose|purpose]], [[tags/practices|practices]], and [[tags/progress|progress]].
+- **Robust State Documentation:** Fully developed [group-state](artifacts/guides/dao-primitives-framework/group-state.md) document that provides [[tags/transparency|transparency]] about [[tags/purpose|purpose]], [[tags/practices|practices]], and [[tags/progress|progress]].
 - **Defined [[tags/roles|Roles]] and [[tags/responsibilities|Responsibilities]]:** Clear delineation of roles with specific accountabilities, authorities, and success criteria for each position.
 - **Formalized [[tags/treasury|Treasury]] Management:** Structured systems for [[tags/resources|resource]] allocation, spending authorization, and financial accountability.
 - **Established Communication Patterns:** Regular meeting cadences, documentation standards, and information-sharing protocols.
@@ -35,7 +35,7 @@ The Organization phase is complete when the structure outlined in the group's [[
 
 ### Activities
 
-Activities revolve around implementing the [[tags/governance|governance]] and operational design proposed in the group's [group-state](notes/dao-primitives/framework/group-state.md) documentation and approved by the [[tags/community|community]] or governance system proposal process used.
+Activities revolve around implementing the [[tags/governance|governance]] and operational design proposed in the group's [group-state](artifacts/guides/dao-primitives-framework/group-state.md) documentation and approved by the [[tags/community|community]] or governance system proposal process used.
 
 - **[[tags/governance|Governance]] Implementation:** Establishing and refining governance systems in line with the design outlined in the group's state documentation.
 - **Operational Implementation:** Setting up operational patterns, [[tags/practices|practices]], and systems.
@@ -54,13 +54,13 @@ Activities revolve around implementing the [[tags/governance|governance]] and op
 
 ### Signs of Readiness for Evolution
 
-An organization phase group may be ready to evolve to the ongoing [coordination phase](notes/dao-primitives/framework/group-phase/coordination.md) when:
+An organization phase group may be ready to evolve to the ongoing [coordination phase](artifacts/guides/dao-primitives-framework/group-phase/coordination-phase.md) when:
 
 - [[tags/governance|Governance]] and operational systems, designed in the Formation phase, are implemented and functioning effectively with minimal friction
 - [[tags/roles|Roles]] are clearly defined and resourced
 - [[tags/treasury|Treasury]] and [[tags/resources|resource]] management processes are in place and operate smoothly
 - External [[tags/coordination|coordination]] mechanisms with other cells and [[tags/networks|network]] entities are established
-- The group's [group-state](notes/dao-primitives/framework/group-state.md) documentation is comprehensive and regularly maintained
+- The group's [group-state](artifacts/guides/dao-primitives-framework/group-state.md) documentation is comprehensive and regularly maintained
 - The group has demonstrated capability to execute effectively on its [[tags/purpose|purpose]]
 
 ---
@@ -69,7 +69,7 @@ An organization phase group may be ready to evolve to the ongoing [coordination 
 
 ### State Documentation
 
-During the Organization Phase, the [group-state](notes/dao-primitives/framework/group-state.md) documentation evolves from the initial version proposed in the Formation phase to a comprehensive representation of the group's structure and current operations. This mature state documentation serves as both an internal [[tags/coordination|coordination]] tool that ensures alignment and coherence within the group, and an external interface with the broader [[tags/networks|network]].
+During the Organization Phase, the [group-state](artifacts/guides/dao-primitives-framework/group-state.md) documentation evolves from the initial version proposed in the Formation phase to a comprehensive representation of the group's structure and current operations. This mature state documentation serves as both an internal [[tags/coordination|coordination]] tool that ensures alignment and coherence within the group, and an external interface with the broader [[tags/networks|network]].
 
 It is critical that the group's state documentation is accessible, [[tags/transparency|transparent]], trustworthy, and comprehensive, in order for others to safely choose to coordinate with the group in useful ways.
 

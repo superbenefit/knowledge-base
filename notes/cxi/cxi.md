@@ -17,7 +17,7 @@
     - [[2022-05-20 - Twitter Style Guide]]
     - [[2023-01-17 - DRAFT Proposal to create a Community Experience team for AIFS]]
     - [[2023-10-11 - CX Meeting 11 Oct 2023]]
-  - **[[Tasks]]**
+  - **[[notes/cxi/Tasks/Tasks]]**
     - [[⬜️ CXI-300 Pace & Information Discussion Agenda]]
 
 %% End Waypoint %%

@@ -24,16 +24,16 @@ For designing [[tags/governance|governance]] and operational structures, we defi
 
 ## Primitives
 
-- [[notes/dao-primitives/framework/group-primitives/cells|Cells (Primitive)]]
-- [[daos|DAOs (Primitive)]]
-- [[notes/dao-primitives/framework/group-primitives/roles|Roles (Primitive)]]
-- [[notes/dao-primitives/framework/group-primitives/tasks|Tasks (Primitive)]]
+- [[artifacts/guides/dao-primitives-framework/group-primitives/cells|Cells (Primitive)]]
+- [[artifacts/guides/dao-primitives-framework/group-primitives/daos|DAOs (Primitive)]]
+- [[artifacts/guides/dao-primitives-framework/group-primitives/roles|Roles (Primitive)]]
+- [[artifacts/guides/dao-primitives-framework/group-primitives/tasks|Tasks (Primitive)]]
 
 To allow for [[tags/governance|governance]] systems to be easily designed, we lean on these 4 structures. Each one has enough definition to be useful in design, but can be configurable in a multitude of ways to allow for many different governance approaches and patterns to be implemented.
 
 ## Phase & Scale
 
-The [[tags/primitives|primitives]] are designed to evolve through the different stages of [[notes/dao-primitives/framework/group-phase/group-phase|group-phase]] and also deliver on different [[notes/dao-primitives/framework/group-scale/group-scale|group-scale]] requirements of the [[tags/governance|governance]] and operational system being designed.
+The [[tags/primitives|primitives]] are designed to evolve through the different stages of [[artifacts/guides/dao-primitives-framework/group-phase/group-phase|group-phase]] and also deliver on different [[artifacts/guides/dao-primitives-framework/group-scale/group-scale|group-scale]] requirements of the [[tags/governance|governance]] and operational system being designed.
 
 ## State
 
@@ -46,15 +46,11 @@ This [[tags/transparency|transparency]] allows for decentralized [[tags/coordina
 ---
 
 %% Begin Waypoint %%
-
-- [[notes/dao-primitives/framework/group-primitives/cells|Cells (Primitive)]]
-- [[daos|DAOs (Primitive)]]
-- [[notes/dao-primitives/framework/group-primitives/roles|Roles (Primitive)]]
-- [[notes/dao-primitives/framework/group-primitives/tasks|Tasks (Primitive)]]
+- **[[group-primitives]]**
+  - [[cells]]
+  - [[daos]]
+  - [[roles]]
+  - [[tasks]]
 
 %% End Waypoint %%
-
-
-
-
-
+- *[[artifacts/guides/dao-primitives-framework/group-primitives/cells|Cells (Primitive)]][[r[[artifacts/guides/dao-primitives-framework/group-primitives/daos|DAOs (Primitive)]]dao[[artifacts/guides/dao-primitives-framework/group-primitives/roles|Roles (Primitive)]]dao-primitives/dao-primitives-framework/group-primitives/daos|DAOs (Primitive)]] (P[[notes/dao-primitives/dao-primitives-framework/group-primitives/roles|Roles (Primitive)]]s/dao-primitives/dao-primitives-framework/group-primitives/tasks|Tasks (Primitive)]]

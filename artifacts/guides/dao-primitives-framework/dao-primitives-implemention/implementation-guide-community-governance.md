@@ -25,15 +25,9 @@ We have identified and experimented with using the DAO primitives framework to p
 
 Guides to setting up these 3 interlocking governance structures can be found here:
 
-<<<<<<<< HEAD:artifacts/guides/dao-primitives-framework/dao-primitives-implemention/implementation-guide-community-governance.md
 - [Implementation-guide-operational-governance](artifacts/guides/dao-primitives-framework/dao-primitives-implemention/implementation-guide-operational-governance.md)
 - [Implementation-guide-multi-stakeholder-governance](artifacts/guides/dao-primitives-framework/dao-primitives-implemention/implementation-guide-multi-stakeholder-governance.md)
 - [Implementation-guide-community-governance](artifacts/guides/dao-primitives-framework/dao-primitives-implemention/implementation-guide-community-governance.md) (this guide)
-========
-- [Implementation-guide-operational-governance](notes/dao-primitives/implementation/guides/governance/implementation-guide-operational-governance.md)
-- [Implementation-guide-multi-stakeholder-governance](notes/dao-primitives/implementation/guides/governance/implementation-guide-multi-stakeholder-governance.md)
-- [Implementation-guide-community-governance](notes/dao-primitives/implementation/guides/governance/implementation-guide-community-governance.md) (this guide)
->>>>>>>> 6d1abc90f8826bfd258c7e0563cd4536a5f09d86:notes/dao-primitives/implementation/guides/governance/implementation-guide-community-governance.md
 
 This guide focuses on setting up a Community Governance structure, the highest level of governance in a decentralized network. You can do this as part of a three layered governance system as outlined above, or you could use this guide to design a community governance system to used with a completely different operational governance model.
 
