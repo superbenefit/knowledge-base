@@ -5,5 +5,11 @@
   "useMarkdownLinks": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "notes",
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "absolute",
+  "pdfExportSettings": {
+    "pageSize": "Legal",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  }
 }

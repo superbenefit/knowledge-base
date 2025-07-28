@@ -11,13 +11,7 @@ tags:
   - dao-patterns
 organization: Institute for Community Sustainability
 experiment_type: Decentralized Governance Implementation
-start_date: 2025-01-01
-end_date: 2025-07-31
-harvester:
-  - Reimagining Power Project facilitators
-curator:
-  - ICS Core Team
-publish: false
+publish: true
 type: study
 case: ics
 ---

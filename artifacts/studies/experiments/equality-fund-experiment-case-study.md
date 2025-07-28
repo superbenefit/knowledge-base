@@ -1,11 +1,10 @@
-# Learning Prerequisites for Web3 Adoption in Grant-Making: Progress Report
-
-_Equality Fund's ongoing experiment reveals essential organizational and infrastructure prerequisites for blockchain implementation in international development_
-
-**An Equality Fund Progress Report on Web3 Financial Infrastructure Experimentation**
-
+---
+title: Reimagining Power @ Equality Fund
+publish: true
+description:
 ---
 
+---
 ## Executive Summary
 
 This case study documents progress through July 2025 in an ongoing experiment exploring Web3 technologies for feminist grant-making. Equality Fund partnered with Women Win and SuperBenefit through the Reimagining Power Project to test whether blockchain could reduce transaction costs and increase accessibility for organizations in politically restricted contexts.
