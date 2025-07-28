@@ -1,5 +1,5 @@
 ---
-title: Case Studies
+title: Project Case Studies
 description: 
 publish: 
 type: index

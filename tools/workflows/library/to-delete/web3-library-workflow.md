@@ -1,3 +1,6 @@
+---
+{}
+---
 # SuperBenefit Web3 Library Workflow Guide
 
 ## Current Status (As of July 2025)

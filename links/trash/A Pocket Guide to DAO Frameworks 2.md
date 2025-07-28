@@ -7,7 +7,7 @@ tags:
   - governance
   - daos
   - frameworks
-publish: "true"
+publish: false
 ---
 
 The article "A Pocket Guide to DAO Frameworks" highlights key DAO platforms, including [OpenZeppelin](https://www.openzeppelin.com/), [Moloch](https://molochdao.com/), and [Aragon](https://aragon.org/), explaining how they enable decentralized, autonomous governance. Each framework offers different features: OpenZeppelin for modular governance, Moloch for minimal DAOs, and Aragon for optimistic governance structures. It serves as a resource for those interested in launching or managing decentralized organizations.

@@ -7,7 +7,7 @@ tags:
   - impact
   - organization
   - daos
-publish: "true"
+publish: false
 ---
 
 A big hot list of web3 people & projects with real social impact potential.

@@ -6,7 +6,7 @@ author:
 tags:
   - governance
   - frameworks
-publish: "true"
+publish: false
 ---
 
 *The Blockchain Governance Toolkit: A Cookbook for a Resilient and Robust Ecosystem*, presents a detailed governance framework for blockchain networks. It is designed to help developers create resilient and robust governance systems tailored to their specific project needs. 

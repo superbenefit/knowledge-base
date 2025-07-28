@@ -1,3 +1,6 @@
+---
+{}
+---
 # How to Use the Discord Link Analysis System
 
 ## Quick Start
