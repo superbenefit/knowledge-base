@@ -49,6 +49,10 @@ Here, you'll find:
     - [[values-concerns]]
     - [[web-scraping-method-reliability-guide]]
     - [[web3-library-workflow]]
+  - **[[otf-reporting]]**
+    - [[OTF Final Report - Full Story Version]]
+    - [[OTF Report Questions and Requirements]]
+    - [[OTF Report Working Document]]
   - **[[rpp]]**
   - **[[wp]]**
 
