@@ -93,7 +93,7 @@ Together, these three dimensions create a comprehensive view of the Cell that en
 
 **All in for Sport**: The DAO primitives framework has been applied to design the AIFS governance model and partnership with SuperBenefit. This governance model features a larger DAO (All in for Sport) which provides a community governance wrapper for an operational structure of coordinating Cells. More can be read about this example here: [[all-in-for-sport]].
 
-**RPP Governance**: This project is a good example of a multi-stakeholder partnership within a community governance wrapper, utilizing a network of coordinating Cells to deliver the strategy and operations for a complex project. This shows how a network of autonomous Cells can be used to create a complex operations structure. See [[rpp-governance-design-study]].
+**RPP Governance**: This project is a good example of a multi-stakeholder partnership within a community governance wrapper, utilizing a network of coordinating Cells to deliver the strategy and operations for a complex project. This shows how a network of autonomous Cells can be used to create a complex operations structure. See [[notes/dao-primitives/implementation/case-studies/rpp-governance-case-study]].
 
 ---
 

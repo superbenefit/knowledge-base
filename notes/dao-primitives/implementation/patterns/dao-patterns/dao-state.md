@@ -1,12 +1,13 @@
 ---
-title: 
-description: 
-author: 
-tags: 
-harvester: 
-curator: 
-publish: "false"
-type: note
+title: DAO State
+description: A patter for developing canonical state documentation for a DAO
+tags:
+  - state
+  - governance
+  - metagovernance
+  - daos
+publish: true
+type: pattern
 ---
 # DAO State
 
