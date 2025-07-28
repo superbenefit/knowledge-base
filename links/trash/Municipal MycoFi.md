@@ -1,7 +1,7 @@
 ---
 title: Municipal MycoFi
 description: A pattern for creating decentralized, mycelium-inspired financial systems that serve bioregional communities while maintaining connections to broader economic networks.
-publish: "true"
+publish: false
 type: pattern
 source: https://superbenefit.org/notes/rpp/working-docs/municipal-mycofi.md
 author:

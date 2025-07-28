@@ -1,7 +1,7 @@
 ---
 title: DAO Primitives Conceptual Framework
 description: A comprehensive framework for designing decentralized organizations as networks of small autonomous teams
-publish: "true"
+publish: true
 type: guide
 tags:
   - cell

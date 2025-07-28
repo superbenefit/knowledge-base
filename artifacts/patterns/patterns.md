@@ -9,8 +9,6 @@ publish: true
 type: index
 protocols: 
 ---
-# SuperBenefit Pattern Library
-
 _A comprehensive guide to organizational patterns for decentralized coordination and collective benefit_
 
 ---

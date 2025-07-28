@@ -6,10 +6,8 @@ tags:
   - patterns
 publish: true
 type: pattern
-protocols: 
+protocols:
 ---
-
-# Peer to Peer Payments
 
 _A pattern for enabling direct financial transfers between parties using blockchain infrastructure to reduce costs and increase accessibility_
 

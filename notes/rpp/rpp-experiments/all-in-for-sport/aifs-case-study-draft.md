@@ -3,7 +3,7 @@ title: Reimagining Power at All In For Sport
 description: A SuperBenefit Case Study in Decentralized Governance Transformation
 date: 18-07-2025
 tags: studies
-publish: "true"
+publish: false
 type: study
 ---
 # Reimagining Power at All In For Sport

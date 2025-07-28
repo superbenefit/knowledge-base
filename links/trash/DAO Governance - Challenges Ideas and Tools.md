@@ -7,7 +7,7 @@ type: Article
 tags:
   - governance
   - daos
-publish: "true"
+publish: false
 ---
 
 DAO governance is hard. This post from Tally outlines some of the history of DAO governance, common governance models, and some more innovative approaches that the community is either experimenting with or (they believe) should be experimenting with.

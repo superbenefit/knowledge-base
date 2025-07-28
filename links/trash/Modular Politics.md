@@ -11,7 +11,7 @@ author:
   - JOSHUA Z. TAN
   - AMY X. ZHANG
 url: https://arxiv.org/pdf/2005.13701.pdf
-publish: "true"
+publish: false
 ---
 
 [Modular Politics Framework](https://arxiv.org/pdf/2005.13701.pdf) by [Metagov](links/Metagov.md)

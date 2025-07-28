@@ -14,7 +14,7 @@
       "hostname": ""
     },
     "workflow": {
-      "commitMessage": "[BASE] Merge",
+      "commitMessage": "[Enveloppe] Update content",
       "name": ""
     },
     "otherRepo": [],
@@ -61,11 +61,11 @@
     },
     "links": {
       "internal": true,
-      "unshared": false,
+      "unshared": true,
       "wiki": true,
       "slugify": "disable",
       "unlink": true,
-      "relativePath": true,
+      "relativePath": false,
       "textPrefix": "/"
     }
   },
@@ -79,7 +79,7 @@
     "charConvert": "->",
     "unHandledObsidianExt": [],
     "sendSimpleLinks": true,
-    "forcePush": false,
+    "forcePush": true,
     "useObsidianFolder": false,
     "bake": {
       "textBefore": "",
@@ -89,7 +89,7 @@
   "plugin": {
     "shareKey": "publish",
     "fileMenu": true,
-    "editorMenu": false,
+    "editorMenu": true,
     "excludedFolder": [
       "_drafts",
       "_tools"
