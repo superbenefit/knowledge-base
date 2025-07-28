@@ -1,3 +1,18 @@
+---
+title: Discord Link Scraper Guide
+description: A guide showing you how to use a simple script to scrape links shared in a Discord server that you have admin access to.
+url: 
+tags:
+  - primitives
+  - documentation
+  - culture
+  - discord
+  - harvesting
+  - library
+publish: "false"
+type: guide
+---
+
 # Discord Link Scraper Guide
 
 ## 🌐 Overview

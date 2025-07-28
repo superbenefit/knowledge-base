@@ -2,8 +2,6 @@
 title: Poetic Harvesting Implementation Guide
 description: Practical guidance for implementing poetic harvesting in organizations and communities
 url: 
-author:
-  - heenal.rajani
 tags:
   - primitives
   - documentation
