@@ -1,6 +1,6 @@
 ---
 title: Case Studies
 description: 
-publish: 
+publish: true
 type: index
 ---
