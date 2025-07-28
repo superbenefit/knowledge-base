@@ -29,10 +29,6 @@ Here, you'll find:
   - **[[dao-primitives]]**
   - **[[general-circle]]**
   - **[[ics]]**
-  - **[[otf-reporting]]**
-    - [[OTF Final Report - Full Story Version]]
-    - [[OTF Report Questions and Requirements]]
-    - [[OTF Report Working Document]]
   - **[[rpp]]**
   - **[[wp]]**
 

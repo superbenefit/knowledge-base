@@ -17,6 +17,10 @@ _Notes and other documents from the Reimagining Power project at SuperBenefit_
 
 %% Begin Waypoint %%
 - **[[rpp]]**
+  - **[[otf-reporting]]**
+    - [[OTF Final Report - Full Story Version]]
+    - [[OTF Report Questions and Requirements]]
+    - [[OTF Report Working Document]]
   - [[RPP Knowledge Tasks]]
   - **[[rpp-archive]]**
   - **[[rpp-experiments]]**
@@ -39,7 +43,7 @@ _Notes and other documents from the Reimagining Power project at SuperBenefit_
       - [[implementation-path-experimentation]]
       - [[implementation-paths-learning-journey]]
       - [[rpp_playbook_context_capture]]
-      - [[rpp-playbook-draft]]
+      - [[rpp-playbook-draft|DAO Cell and Community Governance Playbook]]
       - [[rpp-playbook-strategy]]
     - **[[reference]]**
       - [[Final Playbook Reflections & Context]]
