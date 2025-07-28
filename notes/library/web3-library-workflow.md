@@ -7,18 +7,20 @@
 
 ### ✅ Completed
 - Implemented rigorous curation strategy with triple-gate system
-- Re-evaluated 29 articles from pipeline
-- Reduced from 11 "ESSENTIAL" to only 6 articles passing all gates
+- Re-evaluated 29 articles from pipeline + 14 Discord candidates
+- Identified 14 high-quality articles (33% acceptance rate)
 - Created comprehensive documentation for the new process
 - Analyzed 227+ Discord links with systematic mining process
+- **CREATED 4/6 ESSENTIAL library entries** (✅ Major milestone achieved!)
 
 ### 📍 Current State - Dual Pipeline Approach
 
-#### Pipeline 1: Approved Articles (Ready to Write)
-- **Articles Ready to Write**: 6 (in `final-ready-to-write.md`)
-- **Articles Rejected**: 23 (documented in `rejected-articles-log.md`)
-- **Values Concerns Documented**: 4 articles (in `values-concerns.md`)
-- **Status**: Ready for library entry creation
+#### Pipeline 1: Approved Articles (Library Creation)
+- **ESSENTIAL Entries Complete**: 4/6 (✅ Cultural Data Sovereignty, Rich Decibels, Regen Coordination, RetroQF)
+- **ESSENTIAL Entries Blocked**: 2/6 (⚠️ broken Medium links)
+- **VALUABLE Entries Pending**: 8 articles ready for creation
+- **Articles Rejected**: 29 total (documented in `rejected-articles-log.md`)
+- **Status**: ESSENTIAL tier 67% complete, VALUABLE tier ready to start
 
 #### Pipeline 2: Discord Mining (Ongoing Discovery)
 - **Discord Links Analyzed**: 227+ (tracked in `link-analysis-progress.json`)
@@ -27,9 +29,9 @@
 - **Status**: Continuous discovery feeding evaluation pipeline
 
 ### 🎯 Immediate Priorities
-1. **Write library entries** for 6 approved articles (Pipeline 1)
-2. **Evaluate Discord candidates** using triple-gate system (Pipeline 2)
-3. **Continue Discord mining** to discover additional resources
+1. **Fix broken ESSENTIAL links** - find alternative sources for 2 blocked articles
+2. **Create VALUABLE tier entries** - 8 articles scoring 75-89 ready for creation
+3. **Continue Discord mining** - ongoing discovery feeding evaluation pipeline
 
 ## Quick Reference: Article Evaluation Workflow
 
@@ -132,18 +134,6 @@ TOTAL: ___ / 100
 4. See `values-concerns.md` for edge case precedents
 5. Check `link-analysis-progress.json` for Discord mining status
 6. Use "follow start-link-analysis.md" to continue link discovery
-
-### Key Commands to Use
-```bash
-# To see all library management files
-ls /Users/heenal/Documents/GitHub/knowledge-base/notes/library/
-
-# To check current article queue
-cat /Users/heenal/Documents/GitHub/knowledge-base/notes/library/final-ready-to-write.md
-
-# To see the evaluation framework
-cat /Users/heenal/Documents/GitHub/knowledge-base/notes/library/rigorous_curation_strategy.md
-```
 
 ## Quality Standards for Library Entries
 
