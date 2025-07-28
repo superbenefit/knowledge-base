@@ -1,26 +1,66 @@
 # Library Workflows
 
-The SuperBenefit Web3 Library is a curated collection of external resources that support our research, knowledge development, and community education efforts. This directory contains workflows for evaluating and documenting resources using Claude Desktop with MCP integration.
+The SuperBenefit Web3 Library is a rigorously curated collection of external resources that support our research, knowledge development, and community education efforts. This directory contains workflows for discovering, evaluating, and documenting resources using Claude Desktop with MCP integration.
 
 ## Purpose of the Library
 
 The Web3 Library serves multiple important functions in our knowledge ecosystem:
 
-- **Curated Resources**: Provides access to high-quality, vetted external content
+- **Curated Resources**: Provides access to high-quality, vetted external content that aligns with regenerative values
 - **Contextual Analysis**: Adds our community's perspective and insights to external resources
 - **Knowledge Integration**: Connects external ideas to our internal knowledge structures
 - **Educational Resource**: Supports learning and exploration for community members
+- **Values-Aligned Collection**: Maintains focus on post-capitalist, regenerative approaches to web3
+
+## Rigorous Curation Philosophy
+
+Our library implements a **triple-gate evaluation system** designed to maintain exceptional quality and values alignment:
+
+- **Target Acceptance Rate**: Maximum 15% of evaluated resources
+- **Values-First Approach**: All resources must demonstrate alignment with regenerative principles
+- **Quality Over Quantity**: Better to have fewer exceptional resources than many mediocre ones
+- **Uniqueness Requirement**: Resources must add genuine value beyond existing content
+
+This approach ensures our library remains a highly curated collection of transformative resources rather than a broad aggregation of web3 content.
+
+## Resource Discovery Methods
+
+We employ multiple systematic approaches to discover high-quality resources:
+
+### 1. Traditional Curation
+- Academic research and expert recommendations
+- Community submissions and suggestions
+- Cross-references from existing high-quality resources
+- Exploration of adjacent fields (commons, cooperative economics, etc.)
+
+### 2. Discord Mining
+- Systematic analysis of community-shared links from Discord servers
+- Automated extraction and categorization of shared resources
+- Community validation through engagement patterns
+- Discovery of grassroots and emerging perspectives
+
+### 3. Semantic Search
+- Targeted searches for specific concepts and frameworks
+- Following citation networks from accepted resources
+- Exploration of author catalogs from valued contributors
+- Cross-platform discovery across web3 knowledge commons
 
 ## Available Workflows
 
-This directory contains structured guides for two primary library workflows:
+This directory contains structured guides for library curation workflows:
 
+<<<<<<< HEAD
 - **[Link Evaluation](tools/workflows/library/old/link-evaluation-workflow.md)**: Process for assessing whether resources align with our knowledge base
 - **[Link Creation](tools/workflows/library/old/link-creation-workflow.md)**: Guidelines for creating standardized library entries
+=======
+- **[Link Evaluation](link-evaluation-workflow.md)**: Rigorous triple-gate process for assessing resource alignment, quality, and uniqueness
+- **[Link Creation](link-creation-workflow.md)**: Guidelines for creating standardized library entries that reflect SuperBenefit's perspective
+- **[Discord Mining](discord-mining-workflow.md)**: Systematic process for discovering and analyzing community-shared resources
+>>>>>>> 1a74527c8248c3a157cf965aba465d6c0010e11f
 
 ## Environment Setup
 
-Both workflows require the following environment setup before you begin:
+All workflows require the following environment setup before you begin:
 
 1. **Software Requirements**
     - Claude Desktop with extended thinking enabled
@@ -29,30 +69,69 @@ Both workflows require the following environment setup before you begin:
     - obsidian-mcp-tools server configured and running
 
 2. **Knowledge Prerequisites**
-    - Basic familiarity with the SuperBenefit knowledge base structure
-    - Understanding of Markdown formatting and wiki-style internal links
-    - Awareness of SuperBenefit's core themes and focus areas
+    - Deep familiarity with SuperBenefit's regenerative values and focus areas
+    - Understanding of the triple-gate evaluation system
+    - Awareness of SuperBenefit's core themes and community goals
+    - Basic familiarity with Markdown formatting and wiki-style internal links
 
 3. **MCP Tool Familiarity**
     - `search_vault_smart` - For semantic search across the knowledge base
     - `create_vault_file` - To save new library entries (preferred over write_file)
     - `get_vault_file` - To examine existing content and templates
     - `list_vault_files` - To discover related files and validate links
-    - `search_files` - To help identify relevant connections
+    - `obsidian-mcp-tools:fetch` - Primary tool for web scraping and content analysis
+
+## Triple-Gate Evaluation System
+
+Our evaluation process requires all resources to pass three mandatory gates before receiving detailed scoring:
+
+### Gate 1: Values Alignment (MANDATORY)
+**Immediate disqualifiers include:**
+- Pure profit/speculation focus without social benefit
+- Extractive tokenomics or rent-seeking mechanisms
+- Corporate capture narratives disguised as decentralization
+- Environmental harm without acknowledgment or mitigation
+- Reinforcement of existing power structures
+
+**Required positive indicators:**
+- Prioritizes community benefit over individual wealth
+- Acknowledges environmental and social externalities
+- Supports genuine decentralization beyond technical aspects
+- Considers power dynamics and justice implications
+- Aligns with regenerative/post-capitalist principles
+
+### Gate 2: Quality Standards (MANDATORY)
+**Minimum requirements:**
+- Demonstrates deep understanding of subject matter
+- Provides original insights beyond rehashing existing ideas
+- Includes concrete examples or case studies
+- Shows awareness of limitations and trade-offs
+- Written by recognized experts or practitioners
+
+### Gate 3: Uniqueness Filter (MANDATORY)
+**Redundancy assessment:**
+- Must offer genuinely new perspective not covered in existing library
+- Should add significant value beyond current collection
+- Must approach familiar topics from novel angles
+- Should provide more comprehensive treatment than existing resources
+
+Only resources passing all three gates proceed to strategic scoring and potential inclusion.
 
 ## Getting Started
 
-1. **Review the Link Template**: Start by examining `/tools/templates/link.md` to understand the expected structure for library entries.
+1. **Review Our Values Framework**: Start by understanding SuperBenefit's regenerative approach and post-capitalist orientation documented throughout the knowledge base.
     
-2. **Explore Example Entries**: Study well-developed library entries in the `/links` directory to understand the expected depth and style.
+2. **Examine the Link Template**: Study `/tools/templates/link.md` to understand the expected structure for library entries.
     
-3. **Choose Your Workflow**: Decide whether you need to evaluate a resource or create a new entry, then follow the corresponding guide.
+3. **Explore Example Entries**: Review well-developed library entries in the `/links` directory to understand the expected depth and style.
     
-4. **Prepare Your Claude Environment**: Ensure Claude has access to MCP tools and extended thinking for comprehensive resource analysis.
+4. **Choose Your Discovery Method**: Decide whether to evaluate submitted resources, conduct Discord mining, or pursue targeted research.
+    
+5. **Prepare Your Claude Environment**: Ensure Claude has access to MCP tools and extended thinking for comprehensive resource analysis.
 
 ## Advanced Techniques
 
-These advanced techniques apply to both resource evaluation and documentation.
+These advanced techniques apply to both resource discovery and evaluation.
 
 ### Connection Discovery Process
 
@@ -79,6 +158,7 @@ Creating meaningful connections between external resources and the knowledge bas
         - Decentralized knowledge commons
         - Ethereum localism and community activism
         - DAO frameworks and implementation
+        - Post-capitalist economics and regenerative systems
 
 4. **Reference Specific Initiatives**
     - Identify concrete connections to SuperBenefit projects or initiatives:
@@ -113,12 +193,36 @@ To ensure consistent evaluation and classification of resources:
     
 3. **Priority Classification**
     
-    Apply the standardized priority levels:
+    Apply the rigorous priority levels:
     
-    - **ESSENTIAL (24-30 points)**: Core resources for understanding SuperBenefit's focus areas
-    - **VALUABLE (18-23 points)**: Important supplementary resources
-    - **SUPPLEMENTARY (12-17 points)**: Useful but non-essential resources
-    - **ARCHIVE (<12 points)**: Resources kept for reference but not actively featured
+    - **ESSENTIAL (90-100 points)**: Core resources for understanding regenerative web3 approaches
+    - **VALUABLE (75-89 points)**: Important supplementary resources
+    - **CONSIDER (60-74 points)**: Potential future additions (parking lot)
+    - **REJECT (<60 points)**: Resources that don't meet our standards
+
+### Discord Mining Techniques
+
+Systematic discovery of community-validated resources:
+
+1. **Automated Link Extraction**
+    - Use specialized tools to extract links from Discord servers
+    - Categorize links by status (working, dead, private, etc.)
+    - Track community engagement patterns around shared resources
+
+2. **Community Validation Assessment**
+    - Analyze discussion context around shared links
+    - Note endorsements or critical responses from community members
+    - Consider sharing frequency and cross-server appearances
+
+3. **Batch Processing Workflow**
+    - Process links in manageable batches (20-30 per session)
+    - Maintain systematic progress tracking
+    - Document patterns in link quality and relevance
+
+4. **Integration with Evaluation Pipeline**
+    - Apply same rigorous standards regardless of discovery source
+    - Note community context as additional evaluation dimension
+    - Track success rates from different discovery methods
 
 ### Content Extraction Techniques
 
@@ -138,18 +242,18 @@ To effectively extract and document key concepts from external resources:
     5. Extract any methodologies or actionable approaches"
     ```
     
-2. **Critical Extraction for Web3 Relevance**
+2. **Values-Oriented Analysis**
     
-    Focus specifically on Web3 and DAO-relevant aspects:
+    Focus specifically on regenerative and post-capitalist aspects:
     
     ```
-    "Please analyze this resource specifically for its Web3 and DAO relevance:
+    "Please analyze this resource specifically for its regenerative values alignment:
     
-    1. Identify concepts that directly connect to web3 infrastructure, tools, or approaches
-    2. Extract governance mechanisms or frameworks discussed
-    3. Note any decentralized coordination patterns
-    4. Identify resource allocation or economic models
-    5. Extract social impact or community-building approaches"
+    1. Identify concepts that challenge extractive paradigms
+    2. Extract community-empowerment approaches discussed
+    3. Note any power redistribution mechanisms
+    4. Identify environmental/social impact considerations
+    5. Extract approaches to collective ownership or governance"
     ```
     
 3. **Practical Applications Focus**
@@ -168,17 +272,17 @@ To effectively extract and document key concepts from external resources:
 
 ### Using Web Search Strategically
 
-Leverage Claude's web search to enrich your resource analysis:
+Leverage Claude's web search capabilities to enrich your resource analysis:
 
 ```
 "To provide fuller context for this resource, please search for:
 
-1. Background on the author(s) and their work in this field
-2. Reception and influence of this resource in the broader community
-3. Related resources or follow-up work
+1. Background on the author(s) and their approach to regenerative/post-capitalist work
+2. Reception and influence of this resource in progressive web3 communities
+3. Related resources or follow-up work that extends these ideas
 4. Critical perspectives or alternative approaches to the ideas presented
 
-This will help us position the resource more accurately within its intellectual context."
+This will help us position the resource more accurately within the regenerative web3 ecosystem."
 ```
 
 ## Tips for Content Quality
@@ -187,32 +291,32 @@ This will help us position the resource more accurately within its intellectual 
 
 When creating library entries, ensure they include these key components:
 
-1. **Clear Description**: Provide a concise 1-2 sentence overview in the description field
-2. **Contextual Introduction**: Begin with a paragraph explaining the resource's significance
+1. **Clear Description**: Provide a concise 1-2 sentence overview that emphasizes regenerative aspects
+2. **Contextual Introduction**: Begin with a paragraph explaining the resource's significance for post-capitalist web3
 3. **Key Highlights**: Present 4-6 main concepts or insights with concise explanations
-4. **Practical Applications**: Explain how the resource can be applied in real-world contexts
-5. **SuperBenefit Connections**: Create meaningful links to SuperBenefit's focus areas and projects
+4. **Practical Applications**: Explain how the resource can be applied in community contexts
+5. **SuperBenefit Connections**: Create meaningful links to SuperBenefit's regenerative focus areas
 
 ### Content Quality Standards
 
 Maintain high standards for content quality:
 
 - **Concise Analysis**: Aim for 500-1000 words total, focusing on essential insights
-- **Balanced Perspective**: Present both strengths and limitations of resources
+- **Values-Centered Perspective**: Emphasize regenerative and community-empowering aspects
 - **Clear Language**: Use accessible language while maintaining appropriate technical depth
 - **Strategic Connections**: Link to relevant concepts in the SuperBenefit lexicon
-- **Appropriate Context**: Position the resource within its broader intellectual framework
+- **Appropriate Context**: Position the resource within regenerative web3 frameworks
 
 ### Reflecting SuperBenefit's Perspective
 
-To ensure entries reflect SuperBenefit's approach:
+To ensure entries reflect SuperBenefit's regenerative approach:
 
 1. **Study Priority Themes**
     
     Before creating entries, review SuperBenefit's focus areas:
     
     ```
-    "Before drafting, let's identify which of SuperBenefit's priority themes this resource connects with most strongly and how it aligns with our approach in these areas."
+    "Before drafting, let's identify which of SuperBenefit's regenerative themes this resource connects with most strongly and how it aligns with our post-capitalist approach in these areas."
     ```
     
 2. **Connect to Community Goals**
@@ -228,7 +332,7 @@ To ensure entries reflect SuperBenefit's approach:
     Emphasize both conceptual understanding and practical application:
     
     ```
-    "Let's ensure we balance theoretical insights with practical implementation guidance, reflecting SuperBenefit's commitment to applied knowledge."
+    "Let's ensure we balance theoretical insights with practical implementation guidance, reflecting SuperBenefit's commitment to applied knowledge for systemic transformation."
     ```
 
 ## Troubleshooting Common Issues
@@ -238,11 +342,11 @@ To ensure entries reflect SuperBenefit's approach:
 When evaluating resources that don't clearly align with priority themes:
 
 ```
-"This resource doesn't seem to directly align with SuperBenefit's primary focus areas. Let's:
+"This resource doesn't seem to directly align with SuperBenefit's regenerative focus areas. Let's:
 
-1. Identify any potential indirect connections
-2. Consider whether it offers a valuable perspective that complements existing knowledge
-3. Evaluate if it fills a gap in our current understanding
+1. Identify any potential connections to post-capitalist or community-empowering approaches
+2. Consider whether it offers perspectives that complement existing knowledge
+3. Evaluate if it provides critical analysis of extractive systems
 4. Determine if it warrants inclusion despite not being a perfect fit"
 ```
 
@@ -251,11 +355,11 @@ When evaluating resources that don't clearly align with priority themes:
 When a resource presents perspectives that differ from SuperBenefit's approach:
 
 ```
-"This resource presents a perspective that differs from SuperBenefit's approach in several ways. Let's:
+"This resource presents a perspective that differs from SuperBenefit's regenerative approach. Let's:
 
-1. Clearly identify the points of divergence
-2. Acknowledge the value of alternative viewpoints
-3. Explain how SuperBenefit's approach differs and why
+1. Clearly identify the points of divergence from post-capitalist values
+2. Acknowledge any valuable insights while maintaining our values framework
+3. Explain how SuperBenefit's approach differs and why our approach is preferable
 4. Consider whether these differences create productive tension worth exploring"
 ```
 
@@ -267,53 +371,44 @@ When there's insufficient information to fully evaluate a resource:
 "There seems to be limited information available for a complete evaluation. Let's:
 
 1. Clearly identify what we can assess based on available information
-2. Note specific gaps in our evaluation
+2. Note specific gaps in our evaluation, particularly around values alignment
 3. Suggest additional research needed for a more complete assessment
-4. Provide a provisional evaluation with appropriate caveats"
+4. Provide a provisional evaluation with appropriate caveats about incomplete information"
 ```
 
-### Partial Resource Relevance
+### Borderline Values Cases
 
-When only portions of a resource are relevant:
-
-```
-"Only certain aspects of this resource seem relevant to SuperBenefit's work. Let's:
-
-1. Focus our analysis on the most relevant sections or concepts
-2. Clearly indicate which portions we're highlighting and why
-3. Briefly note the broader content without detailed analysis
-4. Explain why certain sections are more valuable than others in our context"
-```
-
-### File Access or Creation Issues
-
-If you encounter errors when saving or accessing files:
+When a resource presents complex values alignment questions:
 
 ```
-"I'm having trouble with the write_file function. Let's try using create_vault_file instead, which is better suited for the Obsidian vault structure:
+"This resource presents some values alignment complexities. Let's:
 
-create_vault_file({
-  filename: '/links/[resource-name].md',
-  content: '[content]'
-})
+1. Document specific concerns about potential extractive elements
+2. Identify any regenerative aspects that might outweigh concerns
+3. Consider precedent from previous borderline decisions
+4. When in doubt, err on the side of rejection to maintain collection integrity"
 ```
 
 ## Best Practices
 
-- **Focus on Unique Value**: Emphasize what makes each resource uniquely valuable
-- **Maintain Educational Tone**: Keep entries informative and balanced
-- **Prioritize Actionable Insights**: Highlight practical applications over purely theoretical content
-- **Create Meaningful Connections**: Relate external resources to internal concepts
-- **Follow Template Structure**: Maintain consistent formatting across entries
+- **Values First**: Always prioritize regenerative alignment over technical quality
+- **Community Focus**: Emphasize resources that empower communities over individuals
+- **Critical Analysis**: Look for resources that challenge rather than reinforce extractive paradigms
+- **Practical Application**: Prioritize resources with clear implementation pathways
+- **Unique Perspectives**: Seek diverse viewpoints within the regenerative framework
+- **Document Decisions**: Maintain clear reasoning for all acceptance/rejection decisions
 
 ## Contribution Guidelines
 
-The library is a community resource that benefits from diverse perspectives. When contributing:
+The library is a community resource that benefits from diverse perspectives within our values framework. When contributing:
 
-1. Focus on resources that genuinely extend our collective understanding
+1. Focus on resources that genuinely advance regenerative web3 understanding
 2. Prioritize quality over quantity in resource selection
-3. Look for resources that bridge theory and practice
-4. Seek diverse perspectives, especially those not commonly represented
+3. Look for resources that bridge theory and practice in post-capitalist contexts
+4. Seek perspectives from marginalized communities and Global South contexts
 5. Pay special attention to resources exploring social, philosophical, or ethical dimensions
+6. Challenge extractive narratives common in mainstream web3 discourse
 
-For more detailed contribution guidelines, see the [SuperBenefit Knowledge Base CONTRIBUTING.md](F:\projects\sb-knowledge-base\CONTRIBUTING.md) file.
+Our goal is to build the premier collection of regenerative web3 resources that supports community empowerment, ecological restoration, and systemic transformation away from extractive paradigms.
+
+For more detailed contribution guidelines, see the [SuperBenefit Knowledge Base CONTRIBUTING.md](../../../CONTRIBUTING.md) file.

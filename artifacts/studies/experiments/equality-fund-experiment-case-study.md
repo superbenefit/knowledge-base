@@ -1,7 +1,10 @@
 ---
 title: Reimagining Power @ Equality Fund
 publish: true
-description:
+description: 
+tags:
+  - studies
+type: study
 ---
 
 ---

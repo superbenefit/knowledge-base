@@ -1,0 +1,219 @@
+{
+  "current_row": 162,
+  "total_analyzed": 238,
+  "last_session": "2025-07-28T15:30:00Z",
+  "method_used": "obsidian-mcp-tools:fetch for actual web page analysis",
+  "status_counts": {
+    "Working": 138,
+    "Dead": 32,
+    "Redirect": 3,
+    "Paywall": 0,
+    "Error": 30,
+    "Skip": 25,
+    "Private": 1,
+    "Other": 4
+  },
+  "new_session_findings": [
+    {
+      "url": "https://communityfoundations.ca/careers/bourse-en-narration-de-transformation%ef%bf%bc/",
+      "status": "DEAD",
+      "category": "N/A",
+      "note": "404 error - transformation storytelling fellowship page no longer exists"
+    },
+    {
+      "url": "https://communityfoundations.ca/fr/careers/transformation-storytelling-fellowship/",
+      "status": "DEAD",
+      "category": "N/A",
+      "note": "404 error - French version of transformation storytelling fellowship"
+    },
+    {
+      "url": "https://communityfoundations.ca/meet-our-new-transformation-storytelling-fellow/",
+      "status": "WORKING",
+      "category": "LOW PRIORITY",
+      "note": "Storytelling fellowship post, transformation focus but not web3/DAO specific"
+    },
+    {
+      "url": "https://communityfoundations.ca/slow-study-generative-inquiry/",
+      "status": "WORKING",
+      "category": "POTENTIAL LIBRARY RESOURCE",
+      "note": "Systems transformation article about generative inquiry tools and emergent approaches to change"
+    },
+    {
+      "url": "https://communityfoundations.ca/slow-study-imagination-and-dreaming/",
+      "status": "WORKING",
+      "category": "POTENTIAL LIBRARY RESOURCE",
+      "note": "Imagination as transformation technology, Indigenous/African knowledge systems, systems change"
+    },
+    {
+      "url": "https://communityfoundations.ca/transformation-blog-series-what-else-is-possible",
+      "status": "WORKING",
+      "category": "POTENTIAL LIBRARY RESOURCE",
+      "note": "Web3 and systems transformation connections, transformation storytelling, regenerative approaches"
+    },
+    {
+      "url": "https://communityfoundations.ca/wp-content/uploads/2019/04/FACTSHEET_-Anti-Racism-through-Trust-Based-Philanthropy-EN.docx.pdf",
+      "status": "WORKING",
+      "category": "LOW PRIORITY",
+      "note": "PDF document about trust-based philanthropy, not web3/DAO specific"
+    },
+    {
+      "url": "https://communityrule.info/",
+      "status": "WORKING",
+      "category": "POTENTIAL LIBRARY RESOURCE",
+      "note": "Community governance toolkit, decision-making frameworks, highly relevant to DAO governance"
+    },
+    {
+      "url": "https://consensus2025.coindesk.com/",
+      "status": "WORKING",
+      "category": "LOW PRIORITY",
+      "note": "Crypto conference website, commercial event rather than educational content"
+    },
+    {
+      "url": "https://console.brahma.fi/",
+      "status": "WORKING",
+      "category": "LOW PRIORITY",
+      "note": "Minimal page, Brahma Fi console interface, no substantial content"
+    },
+    {
+      "url": "https://constitutions.metagov.org/",
+      "status": "WORKING",
+      "category": "POTENTIAL LIBRARY RESOURCE",
+      "note": "DAO constitutions analysis, Metagov project, governance frameworks, constitution templates - highly relevant to DAO governance"
+    }
+  ],
+  "library_candidates": [
+    {
+      "url": "http://Daoscience.org",
+      "note": "Active resource for DAO research and development"
+    },
+    {
+      "url": "https://0xstation.substack.com/p/introducing-groupos-by-station",
+      "note": "Valuable resource on DAO infrastructure"
+    },
+    {
+      "url": "https://221a.ca/2025/03/data-sovereignty-workshop-sees-engagement-across-sectors/",
+      "note": "Very relevant to regenerative tech"
+    },
+    {
+      "url": "https://aboutcircles.com/",
+      "note": "Valuable resource for alternative monetary systems"
+    },
+    {
+      "url": "http://ethereumlocalism.xyz/library/GFEL/GFEL-Coloring--and--Activity-Book",
+      "note": "Ethereum localism educational resource, aligns with regenerative tech focus"
+    },
+    {
+      "url": "http://lu.ma/e/r/g-T8BVEBj9vjAuVnw",
+      "note": "Luma event platform with crypto/climate focus, relevant to SuperBenefit communities"
+    },
+    {
+      "url": "http://richdecibels.com/",
+      "note": "Rich Decibels - governance and decentralized organizing expert, very relevant to DAO work"
+    },
+    {
+      "url": "http://sourcecred.superbenefit.org/",
+      "note": "SuperBenefit's own SourceCred instance for contribution tracking"
+    },
+    {
+      "url": "http://www.internetofimpact.org/",
+      "note": "Internet of Impact platform, relevant to social impact focus"
+    },
+    {
+      "url": "https://0xrusowsky.substack.com/p/an-attempt-to-analyze-all-the-drama?r=rx2fd",
+      "note": "Crypto/web3 analysis Substack, relevant to DeFi and governance topics"
+    },
+    {
+      "url": "https://dirtroads.substack.com/p/-19-klima-a-family-story",
+      "note": "Substantive Substack article about Klima DAO and game theory, relevant to governance and mechanism design"
+    },
+    {
+      "url": "https://dirtroads.substack.com/p/-42-valkyrie-makerdao-and-our-side",
+      "note": "In-depth analysis of MakerDAO governance challenges and DAO structures"
+    },
+    {
+      "url": "https://discourse.metricsdao.xyz/t/metip-1-ratifying-the-metricsdao-constitution/228/2",
+      "note": "MetricsDAO governance discussion about constitutional frameworks for DAOs"
+    },
+    {
+      "url": "https://discourse.metricsdao.xyz/t/template-metricsdao-improvement-proposal-metip/226",
+      "note": "Structured template for DAO governance proposals - excellent framework reference"
+    },
+    {
+      "url": "https://communityfoundations.ca/slow-study-generative-inquiry/",
+      "note": "Systems transformation approaches using generative inquiry and emergent methods"
+    },
+    {
+      "url": "https://communityfoundations.ca/slow-study-imagination-and-dreaming/",
+      "note": "Indigenous/African approaches to systems transformation through imagination and dreaming"
+    },
+    {
+      "url": "https://communityfoundations.ca/transformation-blog-series-what-else-is-possible",
+      "note": "Exploration of links between Web3 and systems transformation work"
+    },
+    {
+      "url": "https://communityrule.info/",
+      "note": "Community governance toolkit with templates and frameworks for decision-making"
+    },
+    {
+      "url": "https://constitutions.metagov.org/",
+      "note": "Comprehensive analysis of DAO constitutions with templates and guides by Metagov"
+    }
+  ],
+  "sessions": [
+    {
+      "date": "2024-12-19T10:00:00Z",
+      "rows_processed": "1-24",
+      "links_analyzed": 14
+    },
+    {
+      "date": "2025-07-20T16:17:00Z",
+      "rows_processed": "1-20",
+      "links_analyzed": 20
+    },
+    {
+      "date": "2025-07-20T17:00:00Z",
+      "rows_processed": "25-29",
+      "links_analyzed": 5
+    },
+    {
+      "date": "2025-07-20T17:05:00Z",
+      "rows_processed": "30-39",
+      "links_analyzed": 10
+    },
+    {
+      "date": "2025-07-20T17:15:00Z",
+      "rows_processed": "40-50",
+      "links_analyzed": 10
+    },
+    {
+      "date": "2025-07-20T18:20:00Z",
+      "rows_processed": "Method testing + selective analysis",
+      "links_analyzed": 5,
+      "note": "Tested multiple scraping methods, established obsidian-mcp-tools:fetch as primary method"
+    },
+    {
+      "date": "2025-07-20T23:30:00Z",
+      "rows_processed": "55-65",
+      "links_analyzed": 11,
+      "note": "Continued systematic analysis with excellent results. Found several high-value library candidates including BanklessDAO articles, Beautiful Trouble toolkit, and B Corp governance resources."
+    },
+    {
+      "date": "2025-07-21T00:15:00Z",
+      "rows_processed": "66-74",
+      "links_analyzed": 9,
+      "note": "Continued analysis with good results. Found academic systems transformation paper and Big Green DAO. Mix of working links, dead domains, and redirects to PDFs/Google Drive."
+    },
+    {
+      "date": "2025-07-23T22:30:00Z",
+      "rows_processed": "75-150",
+      "links_analyzed": 75,
+      "note": "Large analysis session covering diverse links. Found excellent resources on DAO governance, systems transformation, and regenerative approaches."
+    },
+    {
+      "date": "2025-07-28T15:30:00Z",
+      "rows_processed": "151-161",
+      "links_analyzed": 11,
+      "note": "Continued analysis focusing on community foundations and governance resources. Found excellent transformation and governance tools including CommunityRule and Metagov constitutions project."
+    }
+  ]
+}

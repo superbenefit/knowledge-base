@@ -1,16 +1,155 @@
 # Resource Evaluation Framework
 
-This guide provides a structured process for evaluating resources for potential inclusion in the SuperBenefit Web3 Library. It helps ensure that we maintain a carefully curated collection that aligns with our knowledge base and extends our collective understanding.
+This guide provides a structured process for evaluating resources for potential inclusion in the SuperBenefit Web3 Library. It implements a rigorous triple-gate system designed to maintain a carefully curated collection that aligns with regenerative values and extends our collective understanding.
 
 ## Before You Begin
 
-Before starting this workflow, ensure you have completed the environment setup described in the [Library Workflows README](https://claude.ai/chat/readme.md). You should be familiar with:
+Before starting this workflow, ensure you have completed the environment setup described in the [Library Workflows README](readme.md). You should be familiar with:
 
-- SuperBenefit's priority themes and focus areas
+- SuperBenefit's priority themes and regenerative values
+- The triple-gate evaluation system
 - The structure and purpose of the Web3 Library
-- The evaluation criteria and scoring system
+- The rigorous curation standards and scoring system
 
-## Evaluation Workflow
+## Evaluation Philosophy
+
+Our evaluation process prioritizes **quality over quantity** with a target acceptance rate of **maximum 15%**. Every resource must pass through three mandatory gates before receiving a numerical score. This ensures that our library remains a highly curated collection of genuinely transformative, values-aligned resources rather than a broad aggregation of web3 content.
+
+## Triple-Gate Evaluation System
+
+All resources must pass **ALL THREE GATES** before proceeding to detailed scoring. If a resource fails any gate, it is immediately rejected regardless of other qualities.
+
+### Gate 1: Values Alignment (PASS/FAIL)
+
+Apply this mandatory filter first to ensure regenerative alignment:
+
+```
+"Please evaluate this resource against SuperBenefit's values alignment criteria:
+
+IMMEDIATE DISQUALIFIERS (if ANY are true, REJECT immediately):
+- Pure profit/speculation focus without social benefit
+- Extractive tokenomics (wealth concentration, rent-seeking)
+- Corporate capture narratives disguised as decentralization
+- Environmental harm without acknowledgment or mitigation
+- Reinforcement of existing power structures
+- 'Move fast and break things' mentality
+
+POSITIVE VALUES INDICATORS (should demonstrate several):
+- Prioritizes community benefit over individual wealth
+- Acknowledges environmental/social externalities
+- Supports genuine decentralization (not just technical)
+- Considers power dynamics and justice implications
+- Aligns with regenerative/post-capitalist principles
+
+GATE 1 RESULT: PASS or FAIL (with reasoning)"
+```
+
+### Gate 2: Quality Standards (PASS/FAIL)
+
+Assess whether the resource meets our high quality bar:
+
+```
+"Please evaluate this resource against our quality standards:
+
+MINIMUM QUALITY REQUIREMENTS:
+- Demonstrates deep understanding of subject matter
+- Provides original insights, not just rehashing existing ideas
+- Includes concrete examples or case studies
+- Shows awareness of limitations and trade-offs
+- Written by recognized experts or practitioners
+
+QUALITY DISQUALIFIERS (if ANY are true, REJECT):
+- Surface-level analysis without depth
+- Promotional content disguised as education
+- Significant factual errors or outdated information
+- Poor writing quality that impedes understanding
+- Lack of sources or supporting evidence
+
+GATE 2 RESULT: PASS or FAIL (with reasoning)"
+```
+
+### Gate 3: Uniqueness Filter (PASS/FAIL)
+
+Ensure the resource adds genuine value to our existing collection:
+
+```
+"Please evaluate this resource for uniqueness against our existing library:
+
+1. Use search_vault_smart to find similar content in our knowledge base
+2. Assess similarity percentage to existing resources
+3. Evaluate unique value proposition:
+   - Offers genuinely new perspective not covered in existing library
+   - Adds significant value beyond articles we already have
+   - Approaches familiar topics from novel angle
+   - Provides more comprehensive treatment than existing resources
+
+UNIQUENESS THRESHOLD: Reject if >70% similar unless significantly higher quality
+
+GATE 3 RESULT: PASS or FAIL (with reasoning and similarity assessment)"
+```
+
+## Strategic Value Scoring (Only for Gate-Passers)
+
+Resources that pass all three gates proceed to detailed scoring using weighted criteria:
+
+```
+"For this resource that passed all gates, please provide strategic value scoring:
+
+**Theme Relevance** (25% weight): Score 1-5
+- Perfect fit (5): Directly addresses core SuperBenefit themes
+- Strong fit (4): Adjacent to core themes with clear connections  
+- Moderate fit (3): Relevant but peripheral
+- Weak fit (2): Tangentially related
+- Poor fit (1): Minimal relevance
+
+**Depth & Actionability** (25% weight): Score 1-5
+- Exceptional (5): Deep analysis with clear implementation guidance
+- Strong (4): Good analysis with some actionable insights
+- Moderate (3): Adequate depth with limited actionability
+- Weak (2): Surface-level with minimal practical value
+- Poor (1): Shallow analysis without actionable content
+
+**Audience Alignment** (20% weight): Score 1-5
+- Perfect (5): Directly serves SuperBenefit community needs
+- Strong (4): Valuable for most community members
+- Moderate (3): Useful for subset of community
+- Weak (2): Limited audience appeal
+- Poor (1): Misaligned with community needs
+
+**Innovation Factor** (15% weight): Score 1-5
+- Groundbreaking (5): Introduces novel concepts or approaches
+- Innovative (4): Fresh take on established concepts
+- Solid (3): Good treatment of known topics
+- Standard (2): Conventional approach
+- Derivative (1): Mostly rehashes existing work
+
+**Implementation Readiness** (10% weight): Score 1-5
+- Ready (5): Can be applied immediately
+- Near-term (4): Applicable with minor adaptation
+- Medium-term (3): Requires significant development
+- Long-term (2): Mostly theoretical
+- Conceptual (1): Academic/theoretical only
+
+**Authority & Credibility** (5% weight): Score 1-5
+- Expert (5): Recognized leader in field
+- Practitioner (4): Active practitioner with track record
+- Informed (3): Knowledgeable contributor
+- Emerging (2): New voice with potential
+- Unknown (1): Limited credibility indicators
+
+TOTAL SCORE: ___/100"
+```
+
+## Priority Classification
+
+Based on total scores, classify resources into priority levels:
+
+- **ESSENTIAL** (90-100): Must-have articles (target: max 5% of evaluated articles)
+- **VALUABLE** (75-89): Strong additions (target: max 10% of evaluated articles)  
+- **CONSIDER** (60-74): Potential future additions (parking lot)
+- **REJECT** (<60): Do not include
+
+## Complete Evaluation Workflow
 
 ### 1. Initial Resource Review
 
@@ -28,158 +167,153 @@ Please begin by:
 5. Identifying the intended audience level (introductory, intermediate, advanced)"
 ```
 
-### 2. Apply Evaluation Framework
+### 2. Apply Triple-Gate System
 
-Next, apply our standardized evaluation framework using Claude's extended thinking capabilities:
-
-```
-"Please evaluate this resource using our standard evaluation criteria:
-
-1. Initial Screening: Assess PASS/FAIL based on current relevance, alignment with SuperBenefit, uniqueness, and quality
-2. Theme Relevance (x2): Score 1-5 on alignment with existing SuperBenefit content
-3. Depth & Uniqueness (x1.5): Score 1-5 on insights not found elsewhere
-4. Actionability (x1.5): Score 1-5 on practical tools, frameworks, or approaches
-5. Currency (x1): Score 1-5 on how recent and forward-looking
-6. Accessibility (x1): Score 1-5 on clarity and approachability
-
-For each criterion, please provide a brief justification for the score."
-```
-
-For detailed guidance on applying these criteria, see the [Resource Classification Framework](https://claude.ai/chat/readme.md#resource-classification-framework) section of the README.
-
-### 3. Assess Alignment with Knowledge Base
-
-Evaluate how the resource connects to our existing knowledge:
+Apply each gate sequentially, stopping if any gate fails:
 
 ```
-"Now, let's assess how this resource aligns with our knowledge base:
+"Please apply our triple-gate evaluation system:
 
-1. Please use search_vault_smart to find related content in our knowledge base
-2. Identify which priority themes this connects with most strongly:
-   - Power transformation and social impact
-   - Community currencies and solidarity infrastructure
-   - Bioregional and mycelial approaches
-   - Decentralized knowledge commons
-   - Ethereum localism and community activism
-   - DAO frameworks and implementation
-3. Note specific connections to existing lexicon entries, patterns, or other artifacts
-4. Identify any gaps this resource might fill in our current knowledge"
+GATE 1: Values Alignment (PASS/FAIL)
+[Apply Gate 1 evaluation from above]
+
+If PASS, continue to:
+GATE 2: Quality Standards (PASS/FAIL)
+[Apply Gate 2 evaluation from above]
+
+If PASS, continue to:
+GATE 3: Uniqueness Filter (PASS/FAIL)
+[Apply Gate 3 evaluation from above]
+
+If all gates PASS, proceed to strategic scoring."
 ```
 
-For detailed guidance on discovering connections, see the [Connection Discovery Process](https://claude.ai/chat/readme.md#connection-discovery-process) section of the README.
+### 3. Strategic Value Assessment (Gate-Passers Only)
 
-### 4. Final Recommendation
-
-Based on your comprehensive evaluation, make a final recommendation:
+For resources that pass all gates:
 
 ```
-"Based on this evaluation, please provide a final recommendation:
+"This resource passed all gates. Please complete strategic value scoring:
+[Apply strategic scoring criteria from above]
 
-1. Calculate the total score (out of 30 points)
-2. Assign the appropriate priority level:
-   - ESSENTIAL (24-30 points)
-   - VALUABLE (18-23 points)
-   - SUPPLEMENTARY (12-17 points)
-   - ARCHIVE (<12 points)
-3. Provide a concise 2-3 sentence summary of the resource's value to our knowledge base
-4. Make a clear recommendation regarding inclusion (include/exclude)
-5. If recommending inclusion, suggest appropriate tags and classification"
+Then provide:
+1. Final priority classification (ESSENTIAL/VALUABLE/CONSIDER/REJECT)
+2. Specific connections to SuperBenefit's focus areas
+3. Clear recommendation for inclusion/exclusion
+4. If recommending inclusion, suggest appropriate tags and audience level"
 ```
 
-### 5. Output Format
+### 4. Documentation and Tracking
 
-Generate a structured CSV-compatible evaluation that can be used for tracking and decisions:
-
-```
-"Please format your complete evaluation as a CSV with the following headers:
-Title, URL, Author, Initial Screening, Theme Relevance, Depth & Uniqueness, Actionability, Currency, Accessibility, Total Score, Priority, Resource Type, Audience Level, Description"
-```
-
-If you encounter challenges during evaluation, refer to the [Troubleshooting Common Issues](https://claude.ai/chat/readme.md#troubleshooting-common-issues) section of the README.
-
-## Evaluation Prompts
-
-For your convenience, here is the complete evaluation prompt that incorporates all of the above steps:
+Generate structured output for decision tracking:
 
 ```
-I need you to help me evaluate resources for our web3 library. Please access the SuperBenefit knowledge base via GitHub to understand our full content ecosystem and ensure alignment is assessed contextually, not just based on broad themes.
+"Please provide a complete evaluation summary in this format:
 
-1. Create an evaluation table with these specific columns:
-   - Title: Full resource title
-   - URL: Direct link to the resource
-   - Author: Creator(s) of the resource
-   - Initial Screening: PASS/FAIL based on current relevance, alignment, uniqueness, and quality
-   - Theme Relevance (x2): Score 1-5 on alignment with existing SuperBenefit content
-   - Depth & Uniqueness (x1.5): Score 1-5 on insights not found elsewhere
-   - Actionability (x1.5): Score 1-5 on practical tools, frameworks, or approaches
-   - Currency (x1): Score 1-5 on how recent and forward-looking
-   - Accessibility (x1): Score 1-5 on clarity and approachability
-   - Total Score: Out of 30 points
-   - Priority: ESSENTIAL (24-30), VALUABLE (18-23), SUPPLEMENTARY (12-17), ARCHIVE (<12)
-   - Resource Type: Guide, Case Study, Framework, Theory, Historical, Directory, Tool, Reading List, Podcast/Video, etc.
-   - Audience Level: Introductory, Intermediate, Advanced
-   - Description: 2-3 sentence summary explaining specific value and contextual alignment with our knowledge base
+**RESOURCE**: [Title]
+**URL**: [URL]
+**AUTHOR**: [Author(s)]
 
-2. When assessing alignment:
-   - Examine the actual content in the SuperBenefit knowledge base
-   - Look for connections to existing articles, patterns, and frameworks
-   - Consider how the resource complements or extends current knowledge
-   - Evaluate its contribution to specific concepts in our lexicon
-   - Note its relevance to actual projects and implementations documented in our vault
-   - Our priority themes include, but are not limited to:
-	   * Power transformation and social impact
-	   * Community currencies and solidarity infrastructure
-	   * Bioregional and mycelial approaches
-	   * Decentralized knowledge commons
-	   * Ethereum localism and community activism
-	   * DAO frameworks and implementation
+**GATE RESULTS**:
+- Values Alignment: PASS/FAIL [reason]
+- Quality Standards: PASS/FAIL [reason]  
+- Uniqueness Filter: PASS/FAIL [reason]
 
-3. Format the evaluation as a CSV with all columns clearly defined
-4. Only recommend the highest quality resources (ESSENTIAL/VALUABLE) with minimal duplication.
-5. Prioritize resources that bridge theory and practice, showing how concepts translate to action
-6. Ensure diversity in resource types, perspectives, and approaches
-7. Pay special attention to unusual or esoteric resources:
-   - Prioritize resources that offer perspectives not commonly found on mainstream web3 sites
-   - Look for unique theoretical frameworks that challenge conventional thinking
-   - Consider resources from adjacent fields that bring fresh insights to web3 topics
-   - Value resources that bridge theory and practice in unconventional ways
-   - Give preference to resources that explore the social, philosophical, or ethical dimensions of web3
+**STRATEGIC SCORES** (if applicable):
+- Theme Relevance: __/25
+- Depth & Actionability: __/25
+- Audience Alignment: __/20
+- Innovation Factor: __/15
+- Implementation Readiness: __/10
+- Authority & Credibility: __/5
+- **TOTAL**: __/100
 
-The goal is to build a carefully curated library of high-quality, useful resources that meaningfully extend our knowledge base and the global knowledge commons while avoiding redundancy.
+**PRIORITY**: ESSENTIAL/VALUABLE/CONSIDER/REJECT
+**RECOMMENDATION**: Include/Exclude
+**REASONING**: [2-3 sentence summary]"
 ```
 
-## Example: Evaluating a Resource
+## Discord Mining Integration
 
-Here's an example of evaluating a specific resource:
+For resources discovered through Discord mining, follow the same triple-gate process but note discovery context:
 
 ```
-I need to evaluate "The Network State" by Balaji Srinivasan for potential inclusion in our Web3 Library.
+"This resource was discovered through Discord mining analysis. Please:
 
-First, please:
-1. Use web search to gather information about this book and its key arguments
-2. Identify the central thesis and key frameworks presented
-3. Note the author's background and perspective
+1. Apply the full triple-gate evaluation system
+2. Note the Discord context where it was shared
+3. Consider community validation (was it well-received/discussed?)
+4. Apply the same rigorous standards regardless of discovery source
 
-Then, evaluate this resource using our standard criteria:
-1. Initial Screening (PASS/FAIL)
-2. Theme Relevance (1-5)
-3. Depth & Uniqueness (1-5)
-4. Actionability (1-5)
-5. Currency (1-5)
-6. Accessibility (1-5)
-
-Next, assess knowledge base alignment:
-1. Use search_vault_smart to find related content in our knowledge base
-2. Identify connections to our priority themes
-3. Note any gaps this resource might fill
-
-Finally, provide:
-1. A calculated total score and priority level
-2. A concise 2-3 sentence description of its value
-3. A clear recommendation regarding inclusion
-4. Suggested tags and classification if recommended
-
-Please format your complete evaluation as a CSV for our tracking system.
+Discovery context should not lower standards but may provide additional insight into community relevance."
 ```
 
-By following this structured evaluation process, you'll ensure that resources added to the library are high-quality, well-aligned with SuperBenefit's focus, and genuinely extend our collective understanding.
+## Red Flags and Warning Signs
+
+### Content Red Flags
+- Uses "disruption" language without considering harm
+- Focuses on "scaling" without addressing externalities
+- Presents complex social issues as simple technical problems
+- Ignores power dynamics and justice implications
+- Promotes financial instruments without social benefit analysis
+
+### Author/Source Red Flags
+- Heavy promotion of own products/services
+- Lack of community involvement or grassroots experience
+- History of extractive business practices
+- Venture capital or corporate capture influences
+- Dismissive of concerns about equity or environmental impact
+
+### Structural Red Flags
+- Lack of acknowledgment of limitations
+- Overly optimistic without addressing risks
+- No discussion of potential negative consequences
+- Absence of diverse perspectives or voices
+- Solutions that primarily benefit already-privileged groups
+
+## Troubleshooting Common Issues
+
+### Borderline Values Cases
+When a resource presents complex values alignment questions:
+- Document reasoning in detailed evaluation
+- Consider precedent from previous decisions
+- When in doubt, err on the side of rejection
+- Seek team input for particularly complex cases
+
+### High-Quality but Values-Misaligned Resources
+For technically excellent resources that fail values alignment:
+- Acknowledge technical quality while maintaining values standards
+- Consider if alternative framing could address concerns
+- Remember that values alignment is non-negotiable
+- Document as precedent for future similar cases
+
+### Partial Resource Relevance
+When only portions of a resource are relevant:
+- Focus evaluation on most relevant sections
+- Clearly indicate which portions provide value
+- Consider if partial relevance justifies full inclusion
+- Note limitations in evaluation summary
+
+## Success Metrics
+
+### Quantitative Targets
+- **Maximum 15% acceptance rate** (down from previous 38%)
+- **Maximum 3-5 ESSENTIAL articles per evaluation cycle**
+- **Clear values alignment** in 100% of accepted resources
+- **Documented reasoning** for all rejections
+
+### Qualitative Outcomes
+- Library reflects SuperBenefit values consistently
+- Articles provide unique value not available elsewhere
+- Content supports regenerative web3 development
+- Community finds library genuinely useful vs. overwhelming
+
+## Best Practices
+
+- **Focus on Unique Value**: Emphasize what makes each resource uniquely valuable
+- **Maintain Educational Tone**: Keep evaluations informative and balanced
+- **Prioritize Regenerative Perspectives**: Look for resources that challenge extractive paradigms
+- **Document Edge Cases**: Build precedent database for consistent future decisions
+- **Quality Over Quantity**: Better to have fewer exceptional resources than many mediocre ones
+
+The goal is to maintain a highly curated collection of genuinely transformative resources that align with SuperBenefit's regenerative values and meaningfully extend our collective understanding of post-capitalist web3 approaches.
