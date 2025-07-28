@@ -19,23 +19,23 @@ The DAO Primitives Framework provides a systematic approach to designing and imp
 %% Begin Waypoint %%
 - **[[dao-primitives-framework]]**
   - **[[dao-primitives-implemention]]**
-    - [[implementation-guide-community-governance]]
-    - [[implementation-guide-multi-stakeholder-governance]]
-    - [[implementation-guide-operational-governance]]
-  - [[group-facilitation]]
+    - [[implementation-guide-community-governance|Implementation Guide for Community Governance]]
+    - [[implementation-guide-multi-stakeholder-governance|Implementation Guide for Multi-Stakeholder Governance]]
+    - [[implementation-guide-operational-governance|Implementation Guide for Operational Governance]]
+  - [[group-facilitation|DAO Primitives Group Facilitation Guide]]
   - **[[group-phase]]**
-    - [[completion-phase]]
-    - [[conversation-phase]]
-    - [[coordination-phase]]
-    - [[formation-phase]]
-    - [[organization-phase]]
+    - [[completion-phase|Completion Phase]]
+    - [[conversation-phase|Conversation Phase]]
+    - [[coordination-phase|Coordination Phase]]
+    - [[formation-phase|Formation Phase]]
+    - [[organization-phase|Organization Phase]]
   - **[[group-primitives]]**
   - **[[group-scale]]**
-    - [[collaboration-scale]]
-    - [[constituency-scale]]
-    - [[coordination-scale]]
-    - [[network-scale]]
-  - [[group-state]]
+    - [[collaboration-scale|Collaboration Scale]]
+    - [[constituency-scale|Constituency Scale]]
+    - [[coordination-scale|Coordination Scale]]
+    - [[network-scale|Network Scale]]
+  - [[group-state|Group State]]
 
 %% End Waypoint %%
 

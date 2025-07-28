@@ -32,7 +32,6 @@ _Notes and other documents from the Reimagining Power project at SuperBenefit_
       - [[01-template-context-map]]
       - [[02-case-study-essentials]]
       - [[03-implementation-patterns]]
-<<<<<<< HEAD
       - [[04-playbook-draft|DAO Cell and Community Governance Playbook]]
       - [[06-pattern-validation]]
       - [[07-resource-audit]]
@@ -40,10 +39,7 @@ _Notes and other documents from the Reimagining Power project at SuperBenefit_
       - [[implementation-path-experimentation]]
       - [[implementation-paths-learning-journey]]
       - [[rpp_playbook_context_capture]]
-      - [[rpp-playbook-draft|DAO Cell and Community Governance Playbook]]
-=======
-      - [[04-playbook-draft]]
->>>>>>> 0ee7bdf8324ef43740e1f0c5669d8d40cb2d0f89
+      - [[rpp-playbook-draft]]
       - [[rpp-playbook-strategy]]
     - **[[reference]]**
       - [[Final Playbook Reflections & Context]]
