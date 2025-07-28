@@ -5,7 +5,7 @@ author:
   - Kinjal Shah
 tags:
   - daos
-publish: "true"
+publish: false
 ---
 
 DAO reading list by Kinjal Shah

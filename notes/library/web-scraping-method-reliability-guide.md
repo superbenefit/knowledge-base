@@ -1,3 +1,6 @@
+---
+{}
+---
 # Web Scraping Method Reliability Guide - July 2025
 
 ## Overview

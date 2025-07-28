@@ -23,7 +23,7 @@ type: note
     - [[⬜️ G-291 Telling SuperBenefit's Story]]
     - [[⬜️ G-292 Community Coordination Protocol]]
     - [[⬜️ G-294 Internal Coordination Functions]]
-  - **[[Projects]]**
+  - **[[notes/archive/clarity/Tags/projects]]**
     - [[✅ P-7 Governance Implementation]]
     - [[✅ P-31 v0 - Mission, Vision, Values]]
     - [[✅ P-40 Membership NFT]]
@@ -131,7 +131,7 @@ type: note
     - [[partnership governance]]
     - [[partnerships]]
     - [[product development squad]]
-    - [[projects]]
+    - [[notes/archive/clarity/Tags/projects]]
     - [[proposal sbp9- conflict of interest  - draft]]
     - [[proposal sbp11- dao systems transformation repository-library]]
     - [[proposals]]

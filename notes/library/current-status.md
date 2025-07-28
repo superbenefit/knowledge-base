@@ -1,3 +1,6 @@
+---
+{}
+---
 # Web3 Library Current Status & Progress
 
 **Last Updated**: January 2025  

@@ -1,12 +1,9 @@
 ---
-title: Web3 Library
+title: Link Library
 description: Curated external resources that inform our work on decentralized organizations, governance, and social impact.
 publish: true
 type: index
 ---
-
-# Web3 Library
-
 A curated collection of external resources that inform and enrich our work on decentralized organizations, Web3 governance, and social impact initiatives.
 
 ## Browse by Category
@@ -23,7 +20,6 @@ Resources exploring decentralized decision-making, coordination mechanisms, and 
   - [[a-pocket-guide-to-dao-frameworks|A Pocket Guide to DAO Frameworks]]
   - [[Anticapture|Anticapture]]
   - [[community-building-in-daos|Community Building in DAOs]]
-  - [[contributing|Contributing to the Web3 Library]]
   - [[Crypto Canon (a16z)|Crypto Canon]]
   - [[DAO Governance - Challenges, Ideas and Tools|DAO Governance - Challenges, Ideas and Tools]]
   - [[DAOstar|DAOstar]]

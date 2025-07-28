@@ -1,3 +1,6 @@
+---
+{}
+---
 # Values Concerns - Borderline Cases
 
 These articles present complex values alignment questions that merit documentation for future reference and consistency.

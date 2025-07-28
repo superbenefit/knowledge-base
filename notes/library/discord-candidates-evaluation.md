@@ -1,3 +1,6 @@
+---
+{}
+---
 # Discord Candidates: Triple-Gate Evaluation Results - COMPLETE
 
 **Evaluation Date**: July 25, 2025  

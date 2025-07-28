@@ -1,7 +1,7 @@
 ---
 title: Pre-Constitutional Governance
 description: A practical framework and methodology for establishing transparent governance foundations in emergent organizations before formal structures are fully developed.
-publish: "true"
+publish: false
 type: pattern
 source: https://solosalon.clinamenic.com/4
 author:

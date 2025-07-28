@@ -1,7 +1,7 @@
 ---
 title: Local Nodes
 description: A pattern for creating vital connection points between global digital protocols and specific geographical communities, embodying the cosmo-local principle that "what is heavy is local, what is light is global."
-publish: "true"
+publish: false
 type: pattern
 source: https://greenpill.network/pdf/ethereum-localism.pdf
 author:

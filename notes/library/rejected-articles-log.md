@@ -1,3 +1,6 @@
+---
+{}
+---
 # Rejected Articles - Reasoning Log
 
 This document provides transparent reasoning for all article rejections during the Phase 1 re-evaluation using the new rigorous curation framework.

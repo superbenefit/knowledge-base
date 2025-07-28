@@ -1,3 +1,6 @@
+---
+{}
+---
 # Ready to Write - Essential Articles (Score 27+)
 
 These articles have been evaluated and scored as ESSENTIAL with the highest priority scores (27+). They're ready for library entry creation.

@@ -1,3 +1,6 @@
+---
+{}
+---
 # Ready to Write - Complete Library Candidates
 
 After applying the rigorous triple-gate curation framework to both the initial pipeline and Discord candidates, we have identified high-quality, values-aligned resources ready for library entry creation.

@@ -1,7 +1,7 @@
 ---
 title: P2P Foundation Wiki
 description: A comprehensive knowledge commons documenting peer-to-peer practices, theories, and projects across economic, political, and cultural domains.
-publish: "true"
+publish: false
 type: wiki
 source: https://wiki.p2pfoundation.net/Main_Page
 author:

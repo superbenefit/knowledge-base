@@ -1,3 +1,6 @@
+---
+{}
+---
 # SuperBenefit Web3 Library: Rigorous Curation Strategy
 
 ## The Problem

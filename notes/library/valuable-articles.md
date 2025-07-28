@@ -1,3 +1,6 @@
+---
+{}
+---
 # Valuable Articles - Secondary Priority
 
 These articles scored as VALUABLE (20-25.5) and represent the next tier for library inclusion after the essential articles are completed.

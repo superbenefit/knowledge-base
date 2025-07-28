@@ -6,7 +6,7 @@ author:
 tags:
   - primitives
   - cells
-publish: true
+publish: false
 type: pattern
 ---
 

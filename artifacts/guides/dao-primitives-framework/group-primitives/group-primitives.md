@@ -1,7 +1,6 @@
 ---
 title: Primitives
 description: Index and overview of the core organizing structures used in the DAO Primitives framework
-author: []
 tags:
   - primitives
   - dao-primitives

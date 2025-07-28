@@ -1,3 +1,6 @@
+---
+{}
+---
 # Discord Link Analysis System Instructions
 
 ## IMPORTANT: This is an automated instruction file for AI assistants. When prompted to "follow start-link-analysis.md", execute these instructions completely.

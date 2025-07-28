@@ -1,3 +1,6 @@
+---
+{}
+---
 # Discord Link Scraper Primitive - Project Plan
 
 ## 🎯 Project Overview
