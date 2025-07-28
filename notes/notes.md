@@ -30,14 +30,13 @@ Here, you'll find:
   - **[[general-circle]]**
   - **[[ics]]**
   - **[[rpp]]**
+  - [[Untitled]]
   - **[[wp]]**
 
 %% End Waypoint %%
 
 ---
 
-## Related Resources
-
-* **[Library](links/links.md):**  External resources and references that inform our work.
-* **[Lexicon](tags/tags.md):**  Our shared vocabulary and conceptual framework.
+## Related R[[tools/workflows/library/valuable-articles]]y](link[[tools/workflows/library/values-concerns]]ernal r[[tools/workflows/library/web-scraping-method-reliability-guide]]ork.
+* [[tools/workflows/library/web3-library-workflow]]:**  Our shared vocabulary and conceptual framework.
 * **[Artifacts](artifacts/artifacts.md):**  Published, refined content representing our collective understanding.

@@ -1,25 +1,11 @@
 ---
-title: Reimagining Participation Through Web3 Governance
+title: Reimagining Power @ The Institute for Community Sustainability
 description: ICS experiments with decentralized governance tools, discovering that communities seek participation in decision-making rather than just new funding mechanisms
-author:
-  - SuperBenefit Reimagining Power Project Team
 tags:
   - experiments
-  - web3-governance
-  - greenpill
-  - community-adoption
-  - dao-patterns
-organization: Institute for Community Sustainability
-experiment_type: Decentralized Governance Implementation
-start_date: 2025-01-01
-end_date: 2025-07-31
-harvester:
-  - Reimagining Power Project facilitators
-curator:
-  - ICS Core Team
-publish: false
+  - studies
+publish: true
 type: study
-case: ics
 ---
 # Reimagining Power @ ICS
 

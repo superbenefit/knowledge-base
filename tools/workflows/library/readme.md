@@ -49,9 +49,14 @@ We employ multiple systematic approaches to discover high-quality resources:
 
 This directory contains structured guides for library curation workflows:
 
+<<<<<<< HEAD
+- **[Link Evaluation](tools/workflows/library/old/link-evaluation-workflow.md)**: Process for assessing whether resources align with our knowledge base
+- **[Link Creation](tools/workflows/library/old/link-creation-workflow.md)**: Guidelines for creating standardized library entries
+=======
 - **[Link Evaluation](link-evaluation-workflow.md)**: Rigorous triple-gate process for assessing resource alignment, quality, and uniqueness
 - **[Link Creation](link-creation-workflow.md)**: Guidelines for creating standardized library entries that reflect SuperBenefit's perspective
 - **[Discord Mining](discord-mining-workflow.md)**: Systematic process for discovering and analyzing community-shared resources
+>>>>>>> 1a74527c8248c3a157cf965aba465d6c0010e11f
 
 ## Environment Setup
 
