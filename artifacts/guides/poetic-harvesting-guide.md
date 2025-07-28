@@ -1,6 +1,6 @@
 ---
-title: Poetic Harvesting
-description: A practice of acting as sacred witness to collective conversations and reflecting wisdom back through spoken word poetry
+title: Poetic Harvesting Implementation Guide
+description: Practical guidance for implementing poetic harvesting in organizations and communities
 url: 
 author:
   - heenal.rajani
@@ -9,36 +9,24 @@ tags:
   - documentation
   - culture
   - harvesting
+  - implementation
 publish: "false"
-type: pattern
----
-Poetic harvesting is the practice of acting as a "sacred witness" to collective conversations and reflecting the essence back through spoken word poetry that captures content, energy, and collective wisdom in accessible, memorable formats.
-
+type: guide
 ---
 
-## Poetic Harvesting Overview
+# Poetic Harvesting Implementation Guide
 
-Poetic harvesting draws from the Japanese concept of "sacred witness" - someone invited from outside a system to observe and support evolution through curious, present listening. The harvester holds space for stories while having no agenda except to reflect back what emerges.
+This guide provides practical implementation guidance for **[Poetic Harvesting](artifacts/patterns/poetic-harvesting.md)** - the practice of acting as sacred witness to collective conversations and reflecting wisdom back through spoken word poetry.
 
-Poetic Harvesting transforms collective wisdom into documentation that communities actually want to revisit and share. Unlike traditional meeting minutes that capture decisions and logistics, poetic harvesting preserves the mood, energy, power dynamics, and felt sense of shared learning alongside content.
-
-The practice involves observing events - from brief meetings to multi-day conferences - and creating real-time spoken word poetry that weaves individual contributions into collective narrative. Harvests can be delivered immediately (within minutes of conclusion) or refined for broader sharing.
-
-Key distinguishing features include deep listening over note-taking, pattern recognition across diverse voices, energy preservation alongside content capture, community voice honored within creative interpretation, and accessibility through rhythm, rhyme, and shared language.
-
-Poetic harvesting serves multiple organizational functions: more effective meeting documentation, surfacing deeper patterns and learnings, preserving organizational story and culture, and creating shareable knowledge that builds community identity.
+For a full understanding of what poetic harvesting is and when to use it, see the **[Poetic Harvesting Pattern](artifacts/patterns/poetic-harvesting.md)**. This guide focuses on the practical how-to for organizations and communities ready to implement this practice.
 
 ---
 
-## Implementing Poetic Harvesting
-
-Below are guidelines for implementing poetic harvesting in your organization or community:
-
-### 1. Core Functionality
+## Core Functionality
 
 Poetic harvesting captures collective wisdom through creative synthesis that preserves both content and culture. The core function is transforming ephemeral group conversations into accessible, memorable documentation that honors both analytical insights and emotional resonance.
 
-### 2. Purpose and Context
+## Purpose and Context
 
 **When to Use Poetic Harvesting:**
 - Values-driven conversations about vision, purpose, transformation
@@ -52,7 +40,7 @@ Poetic harvesting captures collective wisdom through creative synthesis that pre
 - Legal/contractual discussions requiring precise language
 - Crisis management where immediate action trumps reflection
 
-### 3. Pro-Social Use Cases
+## Pro-Social Use Cases
 
 **Community Governance:** Capturing the spirit and reasoning behind collective decisions, making governance processes feel participatory rather than bureaucratic.
 
@@ -64,52 +52,44 @@ Poetic harvesting captures collective wisdom through creative synthesis that pre
 
 **Knowledge Mobilization:** Creating accessible summaries of complex collaborative work that can be shared with broader audiences without losing essential meaning.
 
-### 4. Implementation Guidance
+## Implementation Process
 
-**Prerequisites:**
+### Prerequisites
 - Basic facilitation and deep listening skills
 - Comfort with creative expression and improvisation
 - Familiarity with context, participants, and terminology
 - Understanding of community values and communication norms
 
-**Setup Process:**
-1. **Preparation Phase**
-   - Context familiarization: understand participants, purpose, key concepts
-   - Witness positioning: optimal placement for listening without disruption
-   - Materials ready: notebook, pen, recording device (if permitted)
-   - Intention setting: curiosity over agenda, presence over performance
+### Setup Process
 
-2. **Real-Time Harvesting**
-   - Listen for themes emerging across different speakers
-   - Note energy shifts: excitement, tension, breakthrough moments
-   - Capture key phrases that resonate or repeat
-   - Track emotional arc of the gathering
-   - Write continuously in fragments, images, connecting words
+**1. Preparation Phase**
+- Context familiarization: understand participants, purpose, key concepts
+- Witness positioning: optimal placement for listening without disruption
+- Materials ready: notebook, pen, recording device (if permitted)
+- Intention setting: curiosity over agenda, presence over performance
 
-3. **Synthesis Process**
-   - Identify narrative thread: what story is emerging?
-   - Weave individual voices into collective narrative
-   - Find rhythmic structure that supports content
-   - Balance fidelity with creativity: accurate essence, poetic expression
-   - Craft for your audience: participants first, broader community second
+**2. Real-Time Harvesting**
+- Listen for themes emerging across different speakers
+- Note energy shifts: excitement, tension, breakthrough moments
+- Capture key phrases that resonate or repeat
+- Track emotional arc of the gathering
+- Write continuously in fragments, images, connecting words
 
-4. **Delivery Options**
-   - Live performance: immediate reflection back to participants
-   - Written follow-up: polished version within one week
-   - Optional recording: audio/video for broader sharing
+**3. Synthesis Process**
+- Identify narrative thread: what story is emerging?
+- Weave individual voices into collective narrative
+- Find rhythmic structure that supports content
+- Balance fidelity with creativity: accurate essence, poetic expression
+- Craft for your audience: participants first, broader community second
 
-### 5. Implementation Patterns
+**4. Delivery Options**
+- Live performance: immediate reflection back to participants
+- Written follow-up: polished version within one week
+- Optional recording: audio/video for broader sharing
+
+### Implementation Patterns
 
 Poetic harvesting is used within larger organizational patterns for documentation, governance, and culture building:
-
-```dataview
-LIST description
-WHERE contains(primitives, "poetic-harvesting")
-AND (
-    !contains(file.path, "tools/") 
-    AND !contains(file.path, "drafts/")
-)
-```
 
 **Documentation Ecosystem Pattern:** Complements traditional minutes, graphic recording, and case studies by preserving cultural and emotional context alongside analytical content.
 
@@ -117,34 +97,34 @@ AND (
 
 **Community Learning Pattern:** Creates knowledge artifacts that communities want to engage with repeatedly, supporting ongoing reflection and development.
 
-### 6. Best Practices
+## Best Practices
 
-**Deep Listening Practices:**
+### Deep Listening Practices
 - Position yourself to hear all participants clearly
 - Focus on themes and energy rather than verbatim capture
 - Notice what's not being said as much as what is
 - Track how ideas evolve and build throughout the conversation
 
-**Creative Synthesis Techniques:**
+### Creative Synthesis Techniques
 - Use simple, consistent rhyme schemes rather than forcing complex poetry
 - Find metaphors and images that make abstract concepts accessible
 - Honor specific contributions while finding universal themes
 - Maintain the community's voice and values throughout
 
-**Community Integration:**
+### Community Integration
 - Explain the approach beforehand so participants understand the process
 - Get consent for how harvests will be shared and used
 - Create feedback mechanisms for participants to validate accuracy
 - Build harvesting capacity within the community rather than remaining external
 
-**Quality Indicators:**
+### Quality Indicators
 - Participants recognize their contributions and feel honored
 - Captures both analytical insights and emotional resonance  
 - Makes complex ideas accessible and memorable
 - Preserves unique voice while finding universal themes
 - Creates documentation people want to share and revisit
 
-**Technical and Cultural Considerations:**
+### Technical and Cultural Considerations
 - Research cultural traditions around storytelling and witness roles
 - Acknowledge sources and avoid appropriation of Indigenous practices
 - Adapt language and style to community communication norms
@@ -152,22 +132,13 @@ AND (
 
 ---
 
-## Reviews and Case Studies
-
-**AIFS Gathering Series:** Successfully documented 6 Web3 and sports gatherings, capturing complex technical discussions about impact measurement, community governance, and decentralized funding in accessible poetic format. Participants consistently shared harvests on social media and referenced them in subsequent planning.
-
-**RPP Stakeholder Meetings:** 15+ poetic harvests for Reimagining Power Project captured evolution of thinking about Web3 and philanthropic funding, creating shareable documentation that honored both technical innovation and social justice values.
-
-
----
-
-## Poetic Harvesting Integration Guidance
+## Integration Guidance
 
 ### Documentation Ecosystem
 
 Poetic harvesting works best as **part of a documentation ecosystem**, not a replacement for all other forms of capture.
 
-### Complementary Documentation Types
+#### Complementary Documentation Types
 
 | Method | Captures | Best For | Timing |
 |--------|----------|----------|---------|
@@ -177,7 +148,7 @@ Poetic harvesting works best as **part of a documentation ecosystem**, not a rep
 | **Thematic Analysis** | Patterns across sessions | Multi-session learning | Post-event |
 | **Case Studies** | Implementation stories | Replication, learning | Retrospective |
 
-### Integration Strategies
+#### Integration Strategies
 
 **Sequential Use**: 
 - Minutes capture decisions → Poetic harvest captures why they matter
@@ -272,6 +243,7 @@ Poetic harvesting works best as **part of a documentation ecosystem**, not a rep
 - Integration with broader knowledge management practices
 
 ---
+
 ## Additional Resources
 
 **Examples and Templates:**
@@ -291,3 +263,7 @@ Poetic harvesting works best as **part of a documentation ecosystem**, not a rep
 - [Sociocracy For All](https://www.sociocracyforall.org/) - Consent-based governance that benefits from cultural documentation
 - [Art of Hosting](https://artofhosting.org/) - Participatory leadership practices that integrate well with poetic harvesting
 - [Technology of Participation](https://www.top-training.net/) - Structured facilitation methods that can be enhanced with creative documentation
+
+---
+
+*For the full conceptual framework and background on poetic harvesting, see the **[Poetic Harvesting Pattern](artifacts/patterns/poetic-harvesting.md)**.*
