@@ -1,11 +1,11 @@
 {
-  "current_row": 151,
-  "total_analyzed": 227,
-  "last_session": "2025-07-23T22:30:00Z",
+  "current_row": 162,
+  "total_analyzed": 238,
+  "last_session": "2025-07-28T15:30:00Z",
   "method_used": "obsidian-mcp-tools:fetch for actual web page analysis",
   "status_counts": {
-    "Working": 132,
-    "Dead": 30,
+    "Working": 138,
+    "Dead": 32,
     "Redirect": 3,
     "Paywall": 0,
     "Error": 30,
@@ -15,70 +15,70 @@
   },
   "new_session_findings": [
     {
-      "url": "https://dirtroads.substack.com/p/-19-klima-a-family-story",
-      "status": "WORKING",
-      "category": "POTENTIAL LIBRARY RESOURCE",
-      "note": "Substantive Substack article about Klima DAO and game theory (prisoner's dilemma), discussing DAO coordination mechanisms. Relevant to governance and mechanism design."
-    },
-    {
-      "url": "https://dirtroads.substack.com/p/-42-valkyrie-makerdao-and-our-side", 
-      "status": "WORKING",
-      "category": "POTENTIAL LIBRARY RESOURCE",
-      "note": "In-depth Substack article about MakerDAO governance, analyzing DAO structures and governance challenges. Highly relevant to governance research and DAO operations."
-    },
-    {
-      "url": "https://discord.bots.gg/bots/564426594144354315",
-      "status": "BROKEN",
+      "url": "https://communityfoundations.ca/careers/bourse-en-narration-de-transformation%ef%bf%bc/",
+      "status": "DEAD",
       "category": "N/A",
-      "note": "Discord bot listing page - 404 error, no longer exists"
+      "note": "404 error - transformation storytelling fellowship page no longer exists"
     },
     {
-      "url": "https://discord.new/ZrSxF8XxdW3N",
-      "status": "WORKING", 
-      "category": "LOW PRIORITY",
-      "note": "Discord community invite/template - gated Web3 community, not substantial content"
-    },
-    {
-      "url": "https://discordapp.com/channels/874697948838101092/912749268832509993/915416762701479967",
-      "status": "PRIVATE",
-      "category": "N/A", 
-      "note": "Direct Discord message link - requires server access, not publicly accessible content"
-    },
-    {
-      "url": "https://discordbotlist.com/bots/feedbackbot",
-      "status": "WORKING",
-      "category": "LOW PRIORITY",
-      "note": "Discord bot listing for FeedbackBot, a tool for collecting user feedback. Not relevant to SuperBenefit's focus areas."
-    },
-    {
-      "url": "https://discordguide.xyz/",
-      "status": "BROKEN",
+      "url": "https://communityfoundations.ca/fr/careers/transformation-storytelling-fellowship/",
+      "status": "DEAD",
       "category": "N/A",
-      "note": "Discord guide website - unable to connect, appears to be down"
+      "note": "404 error - French version of transformation storytelling fellowship"
     },
     {
-      "url": "https://discourse.metricsdao.xyz/t/feb-2022-contributor-rewards/87",
-      "status": "WORKING",
-      "category": "LOW PRIORITY", 
-      "note": "MetricsDAO Discourse post showing contributor rewards transaction, just contains Etherscan link"
-    },
-    {
-      "url": "https://discourse.metricsdao.xyz/t/metip-1-ratifying-the-metricsdao-constitution/228/2",
-      "status": "WORKING",
-      "category": "POTENTIAL LIBRARY RESOURCE",
-      "note": "MetricsDAO governance discussion about ratifying their constitution, includes information on DAO governance structures and improvement proposals"
-    },
-    {
-      "url": "https://discourse.metricsdao.xyz/t/template-metricsdao-improvement-proposal-metip/226",
-      "status": "WORKING", 
-      "category": "POTENTIAL LIBRARY RESOURCE",
-      "note": "MetricsDAO improvement proposal (METIP) template - structured framework for DAO governance proposals, excellent reference for governance processes"
-    },
-    {
-      "url": "https://dnschecker.org/all-dns-records-of-domain.php?query=_vercel.superbenefit.org&rtype=ALL&dns=cloudflare",
+      "url": "https://communityfoundations.ca/meet-our-new-transformation-storytelling-fellow/",
       "status": "WORKING",
       "category": "LOW PRIORITY",
-      "note": "DNS lookup tool checking SuperBenefit.org domain records - technical infrastructure tool, not relevant to core focus areas"
+      "note": "Storytelling fellowship post, transformation focus but not web3/DAO specific"
+    },
+    {
+      "url": "https://communityfoundations.ca/slow-study-generative-inquiry/",
+      "status": "WORKING",
+      "category": "POTENTIAL LIBRARY RESOURCE",
+      "note": "Systems transformation article about generative inquiry tools and emergent approaches to change"
+    },
+    {
+      "url": "https://communityfoundations.ca/slow-study-imagination-and-dreaming/",
+      "status": "WORKING",
+      "category": "POTENTIAL LIBRARY RESOURCE",
+      "note": "Imagination as transformation technology, Indigenous/African knowledge systems, systems change"
+    },
+    {
+      "url": "https://communityfoundations.ca/transformation-blog-series-what-else-is-possible",
+      "status": "WORKING",
+      "category": "POTENTIAL LIBRARY RESOURCE",
+      "note": "Web3 and systems transformation connections, transformation storytelling, regenerative approaches"
+    },
+    {
+      "url": "https://communityfoundations.ca/wp-content/uploads/2019/04/FACTSHEET_-Anti-Racism-through-Trust-Based-Philanthropy-EN.docx.pdf",
+      "status": "WORKING",
+      "category": "LOW PRIORITY",
+      "note": "PDF document about trust-based philanthropy, not web3/DAO specific"
+    },
+    {
+      "url": "https://communityrule.info/",
+      "status": "WORKING",
+      "category": "POTENTIAL LIBRARY RESOURCE",
+      "note": "Community governance toolkit, decision-making frameworks, highly relevant to DAO governance"
+    },
+    {
+      "url": "https://consensus2025.coindesk.com/",
+      "status": "WORKING",
+      "category": "LOW PRIORITY",
+      "note": "Crypto conference website, commercial event rather than educational content"
+    },
+    {
+      "url": "https://console.brahma.fi/",
+      "status": "WORKING",
+      "category": "LOW PRIORITY",
+      "note": "Minimal page, Brahma Fi console interface, no substantial content"
+    },
+    {
+      "url": "https://constitutions.metagov.org/",
+      "status": "WORKING",
+      "category": "POTENTIAL LIBRARY RESOURCE",
+      "note": "DAO constitutions analysis, Metagov project, governance frameworks, constitution templates - highly relevant to DAO governance"
     }
   ],
   "library_candidates": [
@@ -137,6 +137,26 @@
     {
       "url": "https://discourse.metricsdao.xyz/t/template-metricsdao-improvement-proposal-metip/226",
       "note": "Structured template for DAO governance proposals - excellent framework reference"
+    },
+    {
+      "url": "https://communityfoundations.ca/slow-study-generative-inquiry/",
+      "note": "Systems transformation approaches using generative inquiry and emergent methods"
+    },
+    {
+      "url": "https://communityfoundations.ca/slow-study-imagination-and-dreaming/",
+      "note": "Indigenous/African approaches to systems transformation through imagination and dreaming"
+    },
+    {
+      "url": "https://communityfoundations.ca/transformation-blog-series-what-else-is-possible",
+      "note": "Exploration of links between Web3 and systems transformation work"
+    },
+    {
+      "url": "https://communityrule.info/",
+      "note": "Community governance toolkit with templates and frameworks for decision-making"
+    },
+    {
+      "url": "https://constitutions.metagov.org/",
+      "note": "Comprehensive analysis of DAO constitutions with templates and guides by Metagov"
     }
   ],
   "sessions": [
@@ -184,3 +204,16 @@
       "note": "Continued analysis with good results. Found academic systems transformation paper and Big Green DAO. Mix of working links, dead domains, and redirects to PDFs/Google Drive."
     },
     {
+      "date": "2025-07-23T22:30:00Z",
+      "rows_processed": "75-150",
+      "links_analyzed": 75,
+      "note": "Large analysis session covering diverse links. Found excellent resources on DAO governance, systems transformation, and regenerative approaches."
+    },
+    {
+      "date": "2025-07-28T15:30:00Z",
+      "rows_processed": "151-161",
+      "links_analyzed": 11,
+      "note": "Continued analysis focusing on community foundations and governance resources. Found excellent transformation and governance tools including CommunityRule and Metagov constitutions project."
+    }
+  ]
+}

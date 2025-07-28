@@ -61,7 +61,7 @@ After applying the rigorous triple-gate curation framework to both the initial p
 - **Library Entry**: `/links/retroactive-public-goods-funding.md`
 - **Why Essential**: Novel funding mechanism for public goods with proven implementation. Directly addresses public goods funding challenges. Well-documented approach that's become cornerstone of impact-focused web3 projects.
 
-## VALUABLE TIER (8 Articles - Score 75-89)
+## VALUABLE TIER (2 Articles Complete, 6 Articles Rejected for Strategic Focus)
 
 ### 7. Circles: Alternative Monetary System ✨ ✅ COMPLETE
 - **URL**: https://aboutcircles.com/
@@ -81,56 +81,11 @@ After applying the rigorous triple-gate curation framework to both the initial p
 - **Library Entry**: `/links/ethereum-localism-knowledge-garden-movement.md`
 - **Why Valuable**: Groundbreaking educational approach: coloring book for web3 concepts. Community empowerment through accessible learning. "Localism" framing challenges typical web3 scaling narratives.
 
-### 9. Klima DAO Analysis - Game Theory Perspective ✨
-- **URL**: https://dirtroads.substack.com/p/-19-klima-a-family-story
-- **Type**: Analysis/Case Study
-- **Audience**: Intermediate to Advanced
-- **Score**: 85/100
-- **Source**: Discord Candidates
-- **Why Valuable**: Game theory lens on climate coordination challenges. Analysis of mechanism design for environmental public goods. Bridges economic theory with regenerative action.
-
-### 10. DAO Science Research - Metagov ✨
-- **URL**: http://Daoscience.org (via https://metagov.org/projects/dao-science)
-- **Type**: Research Initiative/Academic Resource
-- **Audience**: Advanced
-- **Score**: 83/100
-- **Source**: Discord Candidates
-- **Why Valuable**: Establishes research foundation for DAO governance field. Interdisciplinary synthesis across law, CS, economics, organization science. Academic rigor supporting evidence-based governance design.
-
-### 11. MetricsDAO Improvement Proposal Template ✨
-- **URL**: https://discourse.metricsdao.xyz/t/template-metricsdao-improvement-proposal-metip/226
-- **Type**: Governance Framework
-- **Audience**: Intermediate
-- **Score**: 81/100
-- **Source**: Discord Candidates
-- **Why Valuable**: Structured framework for DAO governance proposals. Includes social and technical proposal types. Proven template used by active DAO.
-
-### 12. The Dynamic Between Consensus and Voting ✨
-- **Author**: Kenji Kamimura
-- **URL**: https://medium.com/@kenjikamimura/the-dynamic-between-consensus-and-voting-processes-for-progressive-communities-a4d62fce851c
-- **Type**: Framework
-- **Audience**: Introductory
-- **Score**: 78/100
-- **Source**: Initial Pipeline
-- **Why Valuable**: Explicitly designed for progressive communities. Thoughtful exploration of governance trade-offs. Provides practical tools for balancing consensus and voting approaches in community contexts.
-
-### 13. Money and the Commons ✨
-- **Author**: Commons Strategies Group
-- **URL**: http://commonsstrategies.org/money-and-the-commons-webinar/
-- **Type**: Webinar
-- **Audience**: Intermediate
-- **Score**: 76/100
-- **Source**: Initial Pipeline
-- **Why Valuable**: Deep exploration by respected commons researchers. Bridges monetary theory with commons management practices. Offers practical frameworks for reimagining value systems in bioregional contexts.
-
-### 14. Regenerative Cryptoeconomics ✨
-- **Author**: Jonas Thürig
-- **URL**: https://epub.wu.ac.at/8781/1/On%20Regenerative%20Cryptoeconomics%20-%20v1.2.1.pdf
-- **Type**: Theory
-- **Audience**: Advanced
-- **Score**: 75/100
-- **Source**: Initial Pipeline
-- **Why Valuable**: Academic rigor with regenerative framework. Explicitly aligns economic incentives with ecological restoration. Provides theoretical foundations for regenerative economics in crypto context.
+### 9-14. Additional VALUABLE Entries ❌ REJECTED (Strategic Focus Decision)
+- **Date**: July 28, 2025
+- **Reason**: User decision to prioritize completing ESSENTIAL tier and addressing blocked entries
+- **Status**: Moved to `rejected-articles-log.md`
+- **Articles**: Klima DAO Analysis, DAO Science Research, MetricsDAO Template, Consensus/Voting Dynamic, Money and Commons, Regenerative Cryptoeconomics
 
 ---
 
@@ -138,16 +93,17 @@ After applying the rigorous triple-gate curation framework to both the initial p
 
 ### Total Resources Evaluated
 - **Initial Pipeline**: 29 articles → 6 accepted (21% pass rate)
-- **Discord Candidates**: 14 articles → 8 accepted (57% pass rate)
-- **Combined Total**: 43 articles → 14 accepted (33% overall pass rate)
+- **Discord Candidates**: 14 articles → 2 accepted (14% pass rate)
+- **Combined Total**: 43 articles → 8 accepted (18.6% overall pass rate)
+- **Strategic Rejections**: 6 articles rejected for focus (not quality)
 
 ### Quality Distribution
-- **ESSENTIAL** (90-100): 6 articles (43% of accepted)
-- **VALUABLE** (75-89): 8 articles (57% of accepted)
-- **REJECTED** (<75): 29 articles (67% of total evaluated)
+- **ESSENTIAL** (90-100): 6 articles (75% of accepted)
+- **VALUABLE** (75-89): 2 articles (25% of accepted)
+- **REJECTED** (<75 or strategic): 35 articles (81.4% of total evaluated)
 
 ### Values Alignment Success
-All 14 remaining articles explicitly support:
+All 8 remaining articles explicitly support:
 - Community empowerment over individual wealth accumulation
 - Commons stewardship and regenerative approaches
 - Democratic governance and power distribution
@@ -199,10 +155,10 @@ All 14 remaining articles explicitly support:
 - **Actionability**: All resources provide practical implementation pathways
 - **Foundation building**: Strong theoretical and practical foundations for regenerative web3
 
-**The SuperBenefit web3 Library will be a highly curated collection of genuinely transformative, values-aligned resources that directly support community empowerment and regenerative approaches to technology.**
+**The SuperBenefit web3 Library will be a focused, highly curated collection of genuinely transformative, values-aligned resources that directly support community empowerment and regenerative approaches to technology.**
 
 ---
 
-*Updated after complete Discord candidate evaluation  
-14 high-quality resources ready for library entry creation  
-Next: Begin Phase 1 writing with ESSENTIAL tier resources*
+*Updated after strategic focus decision - July 28, 2025  
+8 core resources forming the foundation of the library  
+Next: Complete ESSENTIAL tier (find alternative sources for 2 blocked entries)*
