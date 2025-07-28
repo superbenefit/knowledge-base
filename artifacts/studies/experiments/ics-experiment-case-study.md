@@ -21,18 +21,17 @@ publish: false
 type: study
 case: ics
 ---
-
 # Reimagining Power @ ICS
 
 *ICS experiments with decentralized governance tools, discovering that communities seek participation in decision-making rather than just new funding mechanisms*
 
-**An Institute for Community Sustainability Case Study in Decentralized Governance Implementation**
+**An *Institute for Community Sustainability* Case Study in Decentralized Governance Implementation**
 
 ---
 
 ## Executive Summary
 
-The Institute for Community Sustainability (ICS) implemented Web3 governance infrastructure from January to July 2025 as part of SuperBenefit's Reimagining Power Project. The experiment successfully established operational governance systems using token-based governance, multistakeholder governance patterns, and DAOs structure, all managed through roles implementation with Hats Protocol. Four core team members actively use these systems. ICS launched London's first local nodes implementation as a Green Pill Network chapter and achieved top 10% ranking in Gitcoin Grants Round 23.
+The Institute for Community Sustainability implemented Web3 governance infrastructure from January to July 2025 as part of SuperBenefit's Reimagining Power Project. The experiment successfully established operational governance systems using token-based governance, multistakeholder governance patterns, and DAOs structure, all managed through roles implementation with Hats Protocol. Four core team members actively use these systems. ICS launched London's first local nodes implementation as a Green Pill Network chapter and achieved top 10% ranking in Gitcoin Grants Round 23.
 
 Key learnings include the 6-18 month timeline required for meaningful Web3 adoption at community level, the importance of making tools enjoyable and accessible, and the value of responding to opportunities rather than forcing predetermined plans. The experiment continues with plans for public demonstrations and expanded education programs in fall 2025.
 
@@ -42,7 +41,7 @@ Key learnings include the 6-18 month timeline required for meaningful Web3 adopt
 
 ### The Organization
 
-The Institute for Community Sustainability (ICS) is a federal not-for-profit organization in London, Ontario. The organization operates three main programs that embody its mission of helping Londoners lead more sustainable and connected lives:
+The Institute for Community Sustainability (ICS) is a federal not-for-profit organization headquartered in London, Ontario. The organization operates three main programs that embody its mission of helping Londoners lead more sustainable and connected lives:
 - Repair Café: Volunteer-led repair services that divert waste from landfills
 - Thing Library: Tool and equipment lending to reduce consumption
 - Community Workshops: Skills training in repair, mending, and sustainability
@@ -81,7 +80,7 @@ ICS implemented four interventions between January and July 2025, each designed 
 
 **Selected Patterns:**
 - **Token-based governance**: Voting systems for collective decision-making
-- **Multistakeholder governance**: Structures to include diverse participant voices
+- **Multi-stakeholder governance**: Structures to include diverse participant voices
 - **DAOs**: Overall decentralized autonomous organization framework
 - **Roles**: Hats Protocol implementation for clear governance responsibilities
 - **Impact Attestations**: Blockchain-based recording of social and environmental contributions to enable transparency and future funding
