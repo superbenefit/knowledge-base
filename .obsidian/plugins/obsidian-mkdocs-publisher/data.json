@@ -66,7 +66,7 @@
       "slugify": "disable",
       "unlink": true,
       "relativePath": false,
-      "textPrefix": "/"
+      "textPrefix": ""
     }
   },
   "embed": {
