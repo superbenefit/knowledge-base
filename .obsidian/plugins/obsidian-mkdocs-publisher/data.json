@@ -31,7 +31,18 @@
       "key": "title"
     },
     "replaceTitle": [],
-    "replacePath": [],
+    "replacePath": [
+      {
+        "regex": "/\\.md$/",
+        "replacement": "",
+        "type": "path"
+      },
+      {
+        "regex": "/^content\\//",
+        "replacement": "",
+        "type": "path"
+      }
+    ],
     "autoclean": {
       "includeAttachments": true,
       "enable": true,
@@ -65,7 +76,7 @@
       "wiki": true,
       "slugify": "disable",
       "unlink": true,
-      "relativePath": false,
+      "relativePath": true,
       "textPrefix": ""
     }
   },
@@ -80,7 +91,7 @@
     "unHandledObsidianExt": [],
     "sendSimpleLinks": true,
     "forcePush": true,
-    "useObsidianFolder": false,
+    "useObsidianFolder": true,
     "bake": {
       "textBefore": "",
       "textAfter": ""

@@ -33,8 +33,9 @@ Traditional organizational structures concentrate power in hierarchical systems 
 
 ## All Patterns
 
+
 ```dataview
-LIST WITHOUT ID "**" + link(file.path, default(title, default(Title, file.name))) + "**" + ": " + default(description, default(Description, "No description"))
+LIST WITHOUT ID "**[[" + file.name + "|" + default(title, default(Title, file.name)) + "]]**" + ": " + default(description, default(Description, "No description"))
 FROM "" 
 WHERE (publish = true OR publish = "true" OR Publish = true OR Publish = "true")
   AND (
@@ -43,9 +44,6 @@ WHERE (publish = true OR publish = "true" OR Publish = true OR Publish = "true")
   )
 SORT file.name ASC
 ```
-
----
-
 ## Guide to Using Patterns Effectively
 
 ### Start with Purpose
