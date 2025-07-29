@@ -11,12 +11,12 @@ type: note
 %% Begin Waypoint %%
 - **[[implementation]]**
   - **[[case-studies]]**
-    - [[rpp-governance-case-study|Reimagining Power Project Governance Design]]
+    - [[rpp-governance-case-study]]
   - **[[guides]]**
     - **[[governance]]**
-      - [[implementation-guide-community-governance]]
-      - [[implementation-guide-multi-stakeholder-governance]]
-      - [[implementation-guide-operational-governance]]
+      - [[implementation-guide-community-governance|Implementation Guide for Community Governance]]
+      - [[implementation-guide-multi-stakeholder-governance|Implementation Guide for Multi-Stakeholder Governance]]
+      - [[implementation-guide-operational-governance|Implementation Guide for Operational Governance]]
     - [[sense-making-facilitation-tools]]
   - **[[patterns]]**
 
