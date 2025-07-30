@@ -15,9 +15,9 @@ These patterns provide practical implementations of the Cell primitive, describi
 ---
 
 %% Begin Waypoint %%
-- **[[collaboration-scale-patterns]]**
-  - [[circle|Circle]]
-  - [[decision-log|Decision log]]
-  - [[nucleus|Nucleus]]
+- **[collaboration-scale-patterns](./collaboration-scale-patterns.md)**
+  - [Circle](./circle.md)
+  - [Decision log](./decision-log.md)
+  - [Nucleus](./nucleus.md)
 
 %% End Waypoint %%

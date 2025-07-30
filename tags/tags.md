@@ -20,91 +20,91 @@ This lexicon provides:
 ### Contents
 
 %% Begin Waypoint %%
-- **[[tags]]**
-  - [[accountability|Accountability]]
-  - [[actions|Actions]]
-  - [[agents|Agents]]
-  - [[agreements|Agreements]]
-  - [[attestations|Attestations]]
-  - [[authorities|Authorities]]
-  - [[autonomy|Autonomy]]
-  - [[blockchain|Blockchain]]
-  - [[community|Community]]
-  - [[complementary-currencies|Complementary Currencies]]
-  - [[consensus|Consensus]]
-  - [[consent|Consent]]
-  - [[cooperatives|Cooperative]]
-  - [[coordi-nations|Coordi-nations]]
-  - [[coordination|Coordination]]
-  - [[cosmolocalism|Cosmolocal Coordination]]
-  - [[culture|Culture]]
-  - [[daos|Decentralized Autonomous Organizations (DAOs)]]
-  - [[data-sovereignty|Data Sovereignty]]
-  - [[decentralization|Decentralization]]
-  - [[decisions|Decisions & Decision-making]]
-  - [[defi|Decentralized Finance (DeFi)]]
-  - [[delegation|Delegation]]
-  - [[digital-rights|Digital Rights]]
-  - [[distributed|Distributed]]
-  - [[eligibility|Eligibility]]
-  - [[emergence|Emergence]]
-  - [[ephemeral-cell|Ephemeral Cell]]
-  - [[fractal|Fractal]]
-  - [[frameworks|Frameworks]]
-  - [[goals|Goals]]
-  - [[governance|Decentralized Governance]]
-  - [[grants|Grants]]
-  - [[groups|Groups]]
-  - [[impact-attestations|Impact Attestations]]
-  - [[impact|Impact]]
-  - [[local-first|Local-first]]
-  - [[local-nodes|Local Nodes]]
-  - [[localism|Localism]]
-  - [[modules|Modules]]
-  - [[mutual-aid|Mutual Aid]]
-  - [[mutual-credit|Mutual Credit]]
-  - [[mutualism|Mutualism]]
-  - [[networks|Networks]]
-  - [[nfts|Non-Fungible Tokens (NFTs)]]
-  - [[p2p-payments|Peer to Peer Payments]]
-  - [[participatory-governance|Participatory Governance]]
-  - [[Patterns|Patterns]]
-  - [[payments|Payments]]
-  - [[peer-to-peer|Peer-to-peer]]
-  - [[permissions|Permissions]]
-  - [[platforms|Platforms]]
-  - [[playbooks|Playbooks]]
-  - [[policies|Policies]]
-  - [[polycentric|Polycentric]]
-  - [[power|Power]]
-  - [[practices|Practices]]
-  - [[primitives|Primitives]]
-  - [[privacy|Privacy]]
-  - [[progress|Progress]]
-  - [[proto-dao|ProtoDAO]]
-  - [[protocols|Protocols]]
-  - [[purpose|Purpose]]
-  - [[refi|Regenerative Finance (ReFi)]]
-  - [[refizz|Refizz]]
-  - [[regeneration|Regeneration]]
-  - [[resources|Resources]]
-  - [[responsibilities|Responsibilities]]
-  - [[roles|Roles]]
-  - [[scale|Scale]]
-  - [[self-governance|Self-governance]]
-  - [[semiotic-bridging|Semiotic Bridging]]
-  - [[solidarity-economics|Solidarity Economics]]
-  - [[solidarity|Solidarity]]
-  - [[sustainability|Sustainability]]
-  - [[systems|Systems]]
-  - [[tasks|Tasks]]
-  - [[teams|Teams]]
-  - [[transformation|Systems Transformation]]
-  - [[transparency|Transparency]]
-  - [[treasury|Treasury]]
-  - [[values|Values]]
-  - [[vision|Vision]]
-  - [[wallets|Wallets]]
+- **[tags](./tags.md)**
+  - [Accountability](./accountability.md)
+  - [Actions](./actions.md)
+  - [Agents](./agents.md)
+  - [Agreements](./agreements.md)
+  - [Attestations](./attestations.md)
+  - [Authorities](./authorities.md)
+  - [Autonomy](./autonomy.md)
+  - [Blockchain](./blockchain.md)
+  - [Community](./community.md)
+  - [Complementary Currencies](./complementary-currencies.md)
+  - [Consensus](./consensus.md)
+  - [Consent](./consent.md)
+  - [Cooperative](./cooperatives.md)
+  - [Coordi-nations](./coordi-nations.md)
+  - [Coordination](./coordination.md)
+  - [Cosmolocal Coordination](./cosmolocalism.md)
+  - [Culture](./culture.md)
+  - [Decentralized Autonomous Organizations (DAOs)](./daos.md)
+  - [Data Sovereignty](./data-sovereignty.md)
+  - [Decentralization](./decentralization.md)
+  - [Decisions & Decision-making](./decisions.md)
+  - [Decentralized Finance (DeFi)](./defi.md)
+  - [Delegation](./delegation.md)
+  - [Digital Rights](./digital-rights.md)
+  - [Distributed](./distributed.md)
+  - [Eligibility](./eligibility.md)
+  - [Emergence](./emergence.md)
+  - [ephemeral-cell](./ephemeral-cell.md)
+  - [Fractal](./fractal.md)
+  - [Frameworks](./frameworks.md)
+  - [Goals](./goals.md)
+  - [Decentralized Governance](./governance.md)
+  - [Grants](./grants.md)
+  - [Groups](./groups.md)
+  - [Impact Attestations](./impact-attestations.md)
+  - [Impact](./impact.md)
+  - [Local-first](./local-first.md)
+  - [Local Nodes](./local-nodes.md)
+  - [Localism](./localism.md)
+  - [Modules](./modules.md)
+  - [Mutual Aid](./mutual-aid.md)
+  - [Mutual Credit](./mutual-credit.md)
+  - [Mutualism](./mutualism.md)
+  - [Networks](./networks.md)
+  - [Non-Fungible Tokens (NFTs)](./nfts.md)
+  - [Peer to Peer Payments](./p2p-payments.md)
+  - [Participatory Governance](./participatory-governance.md)
+  - [Patterns](./Patterns.md)
+  - [Payments](./payments.md)
+  - [Peer-to-peer](./peer-to-peer.md)
+  - [Permissions](./permissions.md)
+  - [Platforms](./platforms.md)
+  - [Playbooks](./playbooks.md)
+  - [Policies](./policies.md)
+  - [Polycentric](./polycentric.md)
+  - [Power](./power.md)
+  - [Practices](./practices.md)
+  - [Primitives](./primitives.md)
+  - [Privacy](./privacy.md)
+  - [Progress](./progress.md)
+  - [ProtoDAO](./proto-dao.md)
+  - [Protocols](./protocols.md)
+  - [Purpose](./purpose.md)
+  - [Regenerative Finance (ReFi)](./refi.md)
+  - [Refizz](./refizz.md)
+  - [Regeneration](./regeneration.md)
+  - [Resources](./resources.md)
+  - [Responsibilities](./responsibilities.md)
+  - [Roles](./roles.md)
+  - [Scale](./scale.md)
+  - [Self-governance](./self-governance.md)
+  - [Semiotic Bridging](./semiotic-bridging.md)
+  - [Solidarity Economics](./solidarity-economics.md)
+  - [Solidarity](./solidarity.md)
+  - [Sustainability](./sustainability.md)
+  - [Systems](./systems.md)
+  - [Tasks](./tasks.md)
+  - [Teams](./teams.md)
+  - [Systems Transformation](./transformation.md)
+  - [Transparency](./transparency.md)
+  - [Treasury](./treasury.md)
+  - [Values](./values.md)
+  - [Vision](./vision.md)
+  - [Wallets](./wallets.md)
 
 %% End Waypoint %%
 

@@ -22,7 +22,7 @@ Operates at [Constituency Scale](tags/groups/scale/Constituency%20Scale.md) to s
 
 Functions at [Coordination Scale](tags/groups/scale/Coordination%20Scale.md) to enable effective day-to-day operations and resource allocation. Built on sociocratic structures where [Cells](test-pattern.md) (small autonomous teams) coordinate their activities. Operational governance provides the flexibility and autonomy needed for teams to execute effectively while maintaining coordination across the network.
 
-### [Multi-Stakeholder Governance](multistakeholder-governance.md)
+### [multi-stakeholder-governance](notes/dao-primitives/implementation/patterns/constituency-scale-patterns/multi-stakeholder-governance.md)
 
 Focuses on aligning key stakeholder interests and managing relationships between different participants in the network. This includes coordinating between active contributors, token holders, users, and other parties who have a direct stake in the network's success. Stakeholder governance helps balance competing interests while maintaining alignment with the network's purpose.
 

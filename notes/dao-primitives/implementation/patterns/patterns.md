@@ -34,13 +34,13 @@ To effectively leverage the Pattern Library:
 ---
 
 %% Begin Waypoint %%
-- **[[patterns]]**
-  - **[[collaboration-scale-patterns]]**
-  - **[[constituency-scale-patterns]]**
-    - [[community-governance]]
-    - [[multi-stakeholder-governance]]
-  - **[[coordination-scale-patterns]]**
-  - **[[dao-patterns]]**
-  - **[[network-scale-patterns]]**
+- **[patterns](./patterns.md)**
+  - **[collaboration-scale-patterns](./collaboration-scale-patterns/collaboration-scale-patterns.md)**
+  - **[constituency-scale-patterns](./constituency-scale-patterns/constituency-scale-patterns.md)**
+    - [community-governance](./constituency-scale-patterns/community-governance.md)
+    - [multi-stakeholder-governance](./constituency-scale-patterns/multi-stakeholder-governance.md)
+  - **[coordination-scale-patterns](./coordination-scale-patterns/coordination-scale-patterns.md)**
+  - **[dao-patterns](./dao-patterns/dao-patterns.md)**
+  - **[network-scale-patterns](./network-scale-patterns/network-scale-patterns.md)**
 
 %% End Waypoint %%
