@@ -23,7 +23,7 @@
   },
   "upload": {
     "behavior": "obsidian",
-    "defaultName": "content",
+    "defaultName": "",
     "rootFolder": "content",
     "yamlFolderKey": "",
     "frontmatterTitle": {
@@ -31,7 +31,13 @@
       "key": "title"
     },
     "replaceTitle": [],
-    "replacePath": [],
+    "replacePath": [
+      {
+        "regex": "/^/(.+)$/",
+        "replacement": "$1",
+        "type": "path"
+      }
+    ],
     "autoclean": {
       "includeAttachments": true,
       "enable": true,
@@ -62,7 +68,7 @@
     "links": {
       "internal": true,
       "unshared": true,
-      "wiki": true,
+      "wiki": false,
       "slugify": "disable",
       "unlink": true,
       "relativePath": false,
