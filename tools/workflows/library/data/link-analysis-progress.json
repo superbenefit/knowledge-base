@@ -1,84 +1,168 @@
 {
-  "current_row": 162,
-  "total_analyzed": 238,
-  "last_session": "2025-07-28T15:30:00Z",
+  "current_row": 187,
+  "total_analyzed": 263,
+  "last_session": "2025-07-28T18:45:00Z",
   "method_used": "obsidian-mcp-tools:fetch for actual web page analysis",
   "status_counts": {
-    "Working": 138,
-    "Dead": 32,
+    "Working": 141,
+    "Dead": 47,
     "Redirect": 3,
     "Paywall": 0,
-    "Error": 30,
+    "Error": 37,
     "Skip": 25,
     "Private": 1,
     "Other": 4
   },
   "new_session_findings": [
     {
-      "url": "https://communityfoundations.ca/careers/bourse-en-narration-de-transformation%ef%bf%bc/",
+      "url": "https://cryptocommons.cc/",
+      "status": "WORKING",
+      "category": "POTENTIAL LIBRARY RESOURCE",
+      "note": "Excellent academic resource on 'Peer Production on the Crypto Commons' - theoretical framework for understanding blockchains as common pool resources, perfectly aligned with regenerative values"
+    },
+    {
+      "url": "https://cryptofolio.com/",
+      "status": "ERROR",
+      "category": "N/A",
+      "note": "Status code 436, site not accessible"
+    },
+    {
+      "url": "https://cryptogood.substack.com/",
+      "status": "WORKING",
+      "category": "LOW PRIORITY",
+      "note": "Substack about AI & tech for social good, minimal accessible content beyond landing page"
+    },
+    {
+      "url": "https://cryptographic.substack.com/p/proof-of-work-the-fundamental-laws",
+      "status": "ERROR",
+      "category": "N/A",
+      "note": "Requires JavaScript, cannot access article content"
+    },
+    {
+      "url": "https://cryptomedia.press/",
       "status": "DEAD",
       "category": "N/A",
-      "note": "404 error - transformation storytelling fellowship page no longer exists"
+      "note": "Unable to connect to site"
     },
     {
-      "url": "https://communityfoundations.ca/fr/careers/transformation-storytelling-fellowship/",
+      "url": "https://cryptonews.com/news/",
+      "status": "ERROR",
+      "category": "N/A",
+      "note": "Status code 403, access forbidden"
+    },
+    {
+      "url": "https://cryptopunks.app/",
+      "status": "WORKING",
+      "category": "LOW PRIORITY",
+      "note": "NFT marketplace for expensive collectibles, speculation-focused rather than regenerative"
+    },
+    {
+      "url": "https://ctdao.org/",
       "status": "DEAD",
       "category": "N/A",
-      "note": "404 error - French version of transformation storytelling fellowship"
+      "note": "Unable to connect to site"
     },
     {
-      "url": "https://communityfoundations.ca/meet-our-new-transformation-storytelling-fellow/",
+      "url": "https://curiousdaddao.eth.limo/",
+      "status": "DEAD",
+      "category": "N/A",
+      "note": "404 error"
+    },
+    {
+      "url": "https://curve.fi/",
+      "status": "ERROR",
+      "category": "N/A",
+      "note": "Empty content, likely JavaScript-dependent DeFi protocol site"
+    },
+    {
+      "url": "https://dac.tech/",
+      "status": "DEAD",
+      "category": "N/A",
+      "note": "Site not found error from DreamHost"
+    },
+    {
+      "url": "https://dao.enspiral.com/",
+      "status": "DEAD",
+      "category": "N/A",
+      "note": "Unable to connect to site"
+    },
+    {
+      "url": "https://daocentral.com/",
       "status": "WORKING",
       "category": "LOW PRIORITY",
-      "note": "Storytelling fellowship post, transformation focus but not web3/DAO specific"
+      "note": "DAO directory with some regenerative projects but primarily a discovery tool, not educational content"
     },
     {
-      "url": "https://communityfoundations.ca/slow-study-generative-inquiry/",
-      "status": "WORKING",
-      "category": "POTENTIAL LIBRARY RESOURCE",
-      "note": "Systems transformation article about generative inquiry tools and emergent approaches to change"
+      "url": "https://daodrop.io/",
+      "status": "DEAD",
+      "category": "N/A",
+      "note": "Unable to connect to site"
     },
     {
-      "url": "https://communityfoundations.ca/slow-study-imagination-and-dreaming/",
-      "status": "WORKING",
-      "category": "POTENTIAL LIBRARY RESOURCE",
-      "note": "Imagination as transformation technology, Indigenous/African knowledge systems, systems change"
+      "url": "https://daohaus.club/",
+      "status": "ERROR",
+      "category": "N/A",
+      "note": "Minimal content, likely JavaScript-dependent"
     },
     {
-      "url": "https://communityfoundations.ca/transformation-blog-series-what-else-is-possible",
-      "status": "WORKING",
-      "category": "POTENTIAL LIBRARY RESOURCE",
-      "note": "Web3 and systems transformation connections, transformation storytelling, regenerative approaches"
+      "url": "https://daohaus.substack.com/p/reimagining-daos-proposal-patterns",
+      "status": "DEAD",
+      "category": "N/A",
+      "note": "404 error"
     },
     {
-      "url": "https://communityfoundations.ca/wp-content/uploads/2019/04/FACTSHEET_-Anti-Racism-through-Trust-Based-Philanthropy-EN.docx.pdf",
-      "status": "WORKING",
-      "category": "LOW PRIORITY",
-      "note": "PDF document about trust-based philanthropy, not web3/DAO specific"
+      "url": "https://daolist.fyi/",
+      "status": "DEAD",
+      "category": "N/A",
+      "note": "Unable to connect to site"
     },
     {
-      "url": "https://communityrule.info/",
-      "status": "WORKING",
-      "category": "POTENTIAL LIBRARY RESOURCE",
-      "note": "Community governance toolkit, decision-making frameworks, highly relevant to DAO governance"
+      "url": "https://daomasters.xyz/tools/daodash",
+      "status": "DEAD",
+      "category": "N/A",
+      "note": "Unable to connect to site"
     },
     {
-      "url": "https://consensus2025.coindesk.com/",
-      "status": "WORKING",
-      "category": "LOW PRIORITY",
-      "note": "Crypto conference website, commercial event rather than educational content"
+      "url": "https://daorayaki.org/",
+      "status": "ERROR",
+      "category": "N/A",
+      "note": "Mobile warning, no accessible content"
     },
     {
-      "url": "https://console.brahma.fi/",
-      "status": "WORKING",
-      "category": "LOW PRIORITY",
-      "note": "Minimal page, Brahma Fi console interface, no substantial content"
+      "url": "https://daosquare.io/",
+      "status": "ERROR",
+      "category": "N/A",
+      "note": "Requires JavaScript, no content accessible"
     },
     {
-      "url": "https://constitutions.metagov.org/",
-      "status": "WORKING",
-      "category": "POTENTIAL LIBRARY RESOURCE",
-      "note": "DAO constitutions analysis, Metagov project, governance frameworks, constitution templates - highly relevant to DAO governance"
+      "url": "https://daotalk.org/",
+      "status": "ERROR",
+      "category": "N/A",
+      "note": "Status code 522 (connection timeout)"
+    },
+    {
+      "url": "https://data.dao.ml/",
+      "status": "DEAD",
+      "category": "N/A",
+      "note": "Unable to connect to site"
+    },
+    {
+      "url": "https://degen.vc/",
+      "status": "DEAD",
+      "category": "N/A",
+      "note": "Unable to connect to site"
+    },
+    {
+      "url": "https://deepdao.io/",
+      "status": "ERROR",
+      "category": "N/A",
+      "note": "Requires JavaScript, no content accessible"
+    },
+    {
+      "url": "https://deltaalpha.xyz/",
+      "status": "DEAD",
+      "category": "N/A",
+      "note": "Unable to connect to site"
     }
   ],
   "library_candidates": [
@@ -157,6 +241,10 @@
     {
       "url": "https://constitutions.metagov.org/",
       "note": "Comprehensive analysis of DAO constitutions with templates and guides by Metagov"
+    },
+    {
+      "url": "https://cryptocommons.cc/",
+      "note": "Excellent academic resource on 'Peer Production on the Crypto Commons' - theoretical framework for understanding blockchains as common pool resources, perfectly aligned with regenerative values"
     }
   ],
   "sessions": [
@@ -214,6 +302,12 @@
       "rows_processed": "151-161",
       "links_analyzed": 11,
       "note": "Continued analysis focusing on community foundations and governance resources. Found excellent transformation and governance tools including CommunityRule and Metagov constitutions project."
+    },
+    {
+      "date": "2025-07-28T18:45:00Z",
+      "rows_processed": "162-186",
+      "links_analyzed": 25,
+      "note": "Session with unusually high failure rate (88% dead/error links) but found excellent cryptocommons.cc resource on commons-based peer production in crypto. Many DAO domains appear offline."
     }
   ]
 }

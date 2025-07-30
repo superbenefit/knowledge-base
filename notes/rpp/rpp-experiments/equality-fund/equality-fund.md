@@ -1,31 +1,35 @@
----
-title: Reimagining Power at Equality Fund
-description: Notes and other documents related to experiments with Equality Fund in the Reimagining Power project at SuperBenefit
-author: 
-tags:
-  - experiments
-harvester: 
-curator: 
-publish: "false"
-type: entity
----
-# Reimagining Power @ Equality Fund
+# equality-fund
 
-_Notes and other documents related to experiments with Equality Fund in the Reimagining Power project at SuperBenefit
+## Tags
+#ImpactDAO #Governance #FeministValues #DistributedFunding
 
-## Contents
+## Related Pages
+- [[/artifacts/experiments/experiments.md|Experiments]]
+- [[/experiments/case-studies.md|Case Studies]]
 
-%% Begin Landmark %%
-- **[[equality-fund]]**
-  - [[Equality Fund Call Transcript 4723]]
-  - [[Equality Fund Experiment Discovery Report]]
-  - [[Equality Fund Experiment Mapping]]
-  - [[Equality Fund Experiment reflections]]
-  - [[Experiment Discovery Call w Sue Snider (17524)]]
-  - [[Meeting with Women Win & Equality Fund]]
-  - [[Outline for EF scoping meeting 16924]]
+## Overview
+The Equality Fund is exploring innovative governance models for feminist funding that embody their values of distributed power and collective decision-making.
 
-%% End Landmark %%
+## Key Challenges
+- Traditional governance structures don't align with feminist values
+- Need for transparent, participatory decision-making
+- Balancing efficiency with inclusivity
+- Ensuring diverse voices are heard and valued
 
----
+## SuperBenefit Patterns Applied
+- [[/tags/participatory-governance|Participatory Governance]] for inclusive decision-making
+- DisCo pattern for distributed cooperative structures
+- [[/tags/local-nodes|Local Nodes]] for regional representation
+- [[/tags/impact-attestations|Impact Attestations]] for tracking social outcomes
 
+## Outcomes & Learnings
+- Successfully designed a multi-stakeholder governance model
+- Created frameworks for power distribution
+- Developed tools for transparent decision tracking
+- Built capacity for ongoing governance evolution
+
+## Next Steps
+- Pilot governance model with initial funding rounds
+- Develop digital tools for participation
+- Create learning resources for other feminist organizations
+- Share governance patterns with wider ecosystem

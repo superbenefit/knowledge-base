@@ -39,7 +39,7 @@ type: note
   - [[RPP Onboarding Checklist]]
   - [[RPP Progress Report]]
   - [[Salon Application for PFC Conference]]
-  - [[notes/rpp/rpp-archive/rpp-docs/Untitled]]
+  - [[Untitled]]
   - [[web3 x capital Projects]]
   - [[Working Agreements - RP Core TeamTLC]]
 

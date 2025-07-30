@@ -1,12 +1,12 @@
 # Artifacts Directory: Polished Knowledge
 
-This directory contains our polished, published content. See the [SuperBenefit Knowledge Base README](/README.md) for a general overview of the project.
+This directory contains our polished, published content. See the [SuperBenefit Knowledge Base README](../README.md) for a general overview of the project.
 
 ## Contributing Artifacts
 
 Ready to contribute a polished piece? Follow these steps:
 
-1.  **Develop Ideas:** Start in `/drafts/` or `/notes/`, refining content with community input.
+1.  **Develop Ideas:** Start in `/drafts/` or `/notes/`, refining content with [community](../tags/community.md) input.
 2.  **Polish & Validate:** Ensure content is well-structured, thoroughly reviewed, and linked to relevant sources.
 3.  **Move to Artifacts:** Once complete and validated, move the content here.
 4.  **Update Metadata:** Ensure all metadata fields are complete and accurate.
@@ -23,7 +23,7 @@ The documents in `/artifacts/` represent mature, carefully reviewed knowledge. A
 
 *   **Content Review and Updates:** Regularly review artifacts for accuracy and relevance. If updates are needed, ensure they align with the original purpose and scope of the document.
 
-*   **Contribution Guidelines:** All contributions to the knowledge base, including edits to artifacts, should follow the guidelines outlined in `/CONTRIBUTING.md`. This includes proper formatting, clear communication, and adherence to established conventions.
+*   **Contribution Guidelines:** All contributions to the knowledge base, including edits to artifacts, should follow the guidelines outlined in [`CONTRIBUTING.md`](../CONTRIBUTING.md). This includes proper formatting, clear communication, and adherence to established conventions.
 
 *   **Handling Deprecated Content:** If an artifact becomes outdated or irrelevant, consider archiving it instead of deleting it. Clearly mark the artifact as "deprecated" or "archived" and provide a link to the updated or replacement resource, if available.
 
@@ -31,10 +31,10 @@ The documents in `/artifacts/` represent mature, carefully reviewed knowledge. A
 
 *   **Link Verification:** Regularly check for broken links within artifacts. Use a link checker tool to identify and fix any broken links to ensure that users can access all referenced resources.
 
-*   **Metadata Consistency:** Ensure that metadata associated with artifacts (e.g., tags, categories, authors) is consistent and accurate. This helps users find and understand the content more easily.
+*   **Metadata Consistency:** Ensure that metadata associated with artifacts (e.g., [tags](../tags/tags.md), categories, authors) is consistent and accurate. This helps users find and understand the content more easily.
 
 *   **Additional Instructions:** When in doubt, seek guidance from experienced contributors or SuperBenefit admins.
 
 ## Support
 
-For general support and contribution guidelines, see the [SuperBenefit Knowledge Base README](/README.md) and [CONTRIBUTING.md](CONTRIBUTING.md).
+For general support and contribution guidelines, see the [SuperBenefit Knowledge Base README](../README.md) and [CONTRIBUTING.md](../CONTRIBUTING.md).
