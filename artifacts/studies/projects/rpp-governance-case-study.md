@@ -11,8 +11,7 @@ tags:
 publish: true
 type: study
 ---
-NOTE THIS WILL BE THE URL FOR WHEN THIS IS MOVED INTO ARTIFACTS - Put in PROJECTS FOLDER
-1. [https://knowledge.superbenefit.org/artifacts/studies/projects/rpp-governance-case-study](https://knowledge.superbenefit.org/artifacts/studies/projects/rpp-governance-case-study "https://knowledge.superbenefit.org/artifacts/studies/projects/rpp-governance-case-study")
+
 # RPP Governance Design Case Study 
 
 ---

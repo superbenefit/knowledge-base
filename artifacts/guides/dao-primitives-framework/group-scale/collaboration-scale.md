@@ -56,9 +56,9 @@ See the [[sense-making-facilitation-tools]] document for examples of enabling co
 
 ### Collaboration Scale Patterns
 
-- [[cell-state]] 
-- [[cell]] 
-- [[decider]]
+- [[artifacts/patterns/cell-state]] 
+- [[artifacts/patterns/cell]] 
+- [[artifacts/patterns/decider-protocol]]
 - [[artifacts/guides/dao-primitives-framework/group-primitives/cells|cells]]
 
 ---

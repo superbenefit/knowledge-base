@@ -1,12 +1,9 @@
 ---
-type: protocol
-publish: "false"
-title: Decider
+title: Decider Protocol
 description: A social protocol for small team decision-making
-author:
-  - yeoro.eth
-curator: 
-tags: 
+type: pattern
+publish: true
+tags:
   - decisions
   - practices
   - consensus
@@ -21,27 +18,27 @@ The Decider Protocol is a fast way of reaching agreement in a small team context
 ---
 ## What is the decider protocol
 
-The decider protocol is designed to support [collaboration](notes/primitives/framework/scale/collaboration.md) scale teams to make decisions in a way that:
+The decider protocol creates a shared common standard for group decision-making that is designed to support [collaboration](artifacts/guides/dao-primitives-framework/group-scale/collaboration-scale.md) scale teams to make decisions in a way that:
 1. Is fast and efficient 
 2. Protects against group anti-patterns that lead to poor decisions
 
-The decider protocol creates a shared common standard for group decision-making that. 
+
 This primitive is based on the [core protocols](https://mccarthyshow.com/protocols/the-core-protocols-english-v3.03.pdf). 
 
-
-
+---
 
 ## Why use the decider protocol 
 
-If you are a [collaboration](notes/primitives/framework/scale/collaboration.md) scale team that needs to make decisions quickly, then the decider protocol could be a useful practice to implement. Benefits of the decider protocol are:
+If you are a [collaboration](artifacts/guides/dao-primitives-framework/group-scale/collaboration-scale.md) scale team that needs to make decisions quickly, then the decider protocol could be a useful practice to implement. 
+
+Benefits of the decider protocol are:
 1. Consistency - it gives members of a team a single reliable ritual for decision-making that can counteract the tendency for groups to evolve unbalanced decision-making patterns that preference the will of a minority of the group.  
 2. Participation - people are required to include other team members (potentially all team members) in decision-making
 3. Transparency and auditability - internal and external. Logging the use of the decider protocol makes it easy to see and understand team decision-making. Internally, everyone in the team can see what decisions are being made and by whom. Likewise, people looking into a team from the outside can see the decisions the team is making and judge the quality of the process they are using to make them.  
 4. Accountability - especially for consent and consensus based decisions
 5. Safe decent - team members have a trusted process with which to oppose decisions and protect the team from making unsafe decisions. 
 
-
-
+------
 
 ## Details
 
@@ -82,6 +79,7 @@ The agreed proposal becomes a binding agreement for all participating team membe
 - Efficient resolution
 - Shared commitment
 
+---
 
 ## How to use the decider protocol 
 
@@ -98,15 +96,18 @@ The agreed proposal becomes a binding agreement for all participating team membe
 	2. Video/audio call - through hand gestures, spoken votes, emojis, chat messages etc
 	3. In chat formats - e.g discord, telegram. In these formats it is recommended that an agreed timeframe is set for engagement with async decisions so that the efficiency of the decider protocol is not lost because of communication lags
 	
-- **Recording decisions** - depending on the requirements a team's decision-making policies and transparency requirements for different types of decisions, decider results can be recorded in different ways. E.g in a formal decision log, in meeting notes, in a chat history etc.  
+- **Recording decisions** - depending on a team's decision-making policies and transparency requirements for different types of decisions, decider results can be recorded in different ways. E.g in a formal decision log, in meeting notes, in a chat history etc.  
 
 - **Keep decision groups small and context high** - the decider protocol is designed to be used with small high-context collaborating teams. If the group making a decision is too large or doesn't have sufficient context, then the decider protocol will not provide the desired efficiency. Because of it is a decision tool and not a sensemaking tool, it requires that the group using it has enough shared understanding of the context to make rapid decisions. If not then using decider will likely produce lengthy and unproductive discussions (in lieu of doing proper sensemaking). For groups of more than 10 people it is recommended to use a more formal decision-making practice such as a formal proposal process that includes feedback and iteration steps. 
 
+---
+
 ### Combining other primitives
+
 The decider primitive can be combined with:
-- Decisions log - a formal log of decisions, ideally that provides some security and version control
-- Working group (Cell) - the decider protocol is often the go-to tool for Cells to use for collaborative decision making
+- [Decision-log](notes/dao-primitives/implementation/patterns/collaboration-scale-patterns/decision-log.md) - a formal log of decisions, ideally that provides some security and version control
+- [Cells](notes/archive/clarity/Tags/cells.md) - the decider protocol is often the go-to tool for Cells to use for collaborative decision making
 
 
-## Examples 
+
 

@@ -196,7 +196,7 @@ Using the [[artifacts/guides/dao-primitives-framework/group-primitives/group-pri
 - **[[artifacts/guides/dao-primitives-framework/group-primitives/roles|Roles]]**: Agreement primitive for ongoing [[tags/responsibilities|responsibilities]] and permissions
 - **[[artifacts/guides/dao-primitives-framework/group-primitives/tasks|Tasks]]**: Agreement primitive for specific work deliverables
 
-The design process involves determining which combination of these [[tags/primitives|primitives]] will best serve the group's requirements, then identifying specific patterns for how to compose them into functional structures. Examples of using these primitives to compose governance and operational models can be found in [[notes/dao-primitives/implementation/case-studies/case-studies|case-studies]], including case studies like [[notes/dao-primitives/implementation/case-studies/rpp-governance-case-study]].
+The design process involves determining which combination of these [[tags/primitives|primitives]] will best serve the group's requirements, then identifying specific patterns for how to compose them into functional structures. Examples of using these primitives to compose governance and operational models can be found in [[notes/dao-primitives/implementation/case-studies/case-studies|case-studies]], including case studies like [[artifacts/studies/projects/rpp-governance-case-study]].
 
 #### 3. Pattern Selection
 

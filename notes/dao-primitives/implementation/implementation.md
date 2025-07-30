@@ -11,7 +11,6 @@ type: note
 %% Begin Waypoint %%
 - **[[implementation]]**
   - **[[case-studies]]**
-    - [[rpp-governance-case-study|Reimagining Power Project Governance Design]]
   - **[[guides]]**
     - **[[governance]]**
       - [[implementation-guide-community-governance|Implementation Guide for Community Governance]]

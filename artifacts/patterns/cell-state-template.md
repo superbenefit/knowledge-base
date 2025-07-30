@@ -1,18 +1,16 @@
 ---
-title: Group State Template
-description: description
-author: 
-  - yeoro.eth
-tags: 
-harvester: 
-curator: 
-publish: "false"
-type: note
+title: Cell State Template
+description: A simple template for implementing a cell state
+tags:
+  - cell
+  - cell-state
+publish: true
+type: pattern
 ---
 
-This template is designed to serve as a framework for a group/team/cell to develop, capture and maintain it's group state. 
+This template is designed to serve as a simple starting framework for a group/team/cell to develop, capture and maintain it's group state. 
 
-For instruction on how to use this template please refer to the [cell-state](cell-state.md) pattern, implementation section. 
+For instruction on how to use this template please refer to the [cell-state](artifacts/patterns/cell-state.md) pattern, implementation section. 
 %% Introduce your note here. %%
 
 ---
