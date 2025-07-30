@@ -9,7 +9,7 @@ author:
   - Ali Yahya
 tags:
   - web3
-publish: "true"
+publish: false
 ---
 
 A list of crypto readings and resources (2018-2019)

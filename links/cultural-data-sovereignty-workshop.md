@@ -1,7 +1,7 @@
 ---
 title: Cultural Data Sovereignty Workshop Sees Engagement Across Sectors
 description: A two-part workshop exploring how decentralized technologies can strengthen stewardship of cultural data and collections, bridging the gap between extractive AI paradigms and community-governed cultural heritage.
-publish: "true"
+publish: false
 type: workshop
 source: https://221a.ca/2025/03/data-sovereignty-workshop-sees-engagement-across-sectors/
 author:

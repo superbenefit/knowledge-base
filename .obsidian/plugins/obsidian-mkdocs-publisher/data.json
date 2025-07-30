@@ -2,7 +2,7 @@
   "github": {
     "user": "superbenefit",
     "repo": "knowledge-garden",
-    "branch": "v4",
+    "branch": "rpp-update",
     "automaticallyMergePR": false,
     "dryRun": {
       "enable": false,
@@ -24,7 +24,7 @@
   "upload": {
     "behavior": "obsidian",
     "defaultName": "content",
-    "rootFolder": "",
+    "rootFolder": "content",
     "yamlFolderKey": "",
     "frontmatterTitle": {
       "enable": false,
@@ -66,7 +66,7 @@
       "slugify": "disable",
       "unlink": true,
       "relativePath": false,
-      "textPrefix": "/"
+      "textPrefix": ""
     }
   },
   "embed": {
@@ -110,5 +110,5 @@
     "setFrontmatterKey": "Set",
     "migrated": true
   },
-  "tabsId": "plugin-settings"
+  "tabsId": "upload-configuration"
 }

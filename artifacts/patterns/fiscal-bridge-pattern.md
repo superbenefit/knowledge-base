@@ -9,7 +9,7 @@ tags:
   - web3
   - rpp
   - regulatory-compliance
-publish: "false"
+publish: false
 type: pattern
 protocols: 
 ---
@@ -251,14 +251,10 @@ ICS pioneered this pattern as fiscal sponsor for the Reimagining Power Project:
 ## References
 
 ### Related Patterns
-- [[Progressive Web3 Adoption Pattern]] - Gradual approach to introducing Web3 tools
-- [[Multisig Governance Pattern]] - Secure management of shared resources
-- [[Impact Documentation Pattern]] - Transparent tracking of outcomes
+- [[/artifacts/patterns/progressive-web3-adoption|Progressive Web3 Adoption]] - Gradual approach to introducing Web3 tools
 
-### Complementary Primitives
-- [[Fiscal Bridge Primitive]] - Core mechanism for value transfer
-- [[Compliance Reporting Primitive]] - Documentation requirements
-- [[Stakeholder Communication Primitive]] - Engagement protocols
+### Complementary Resources
+- [[/drafts/artifacts/working-docs/fiscal-bridge-primitive/fiscal-bridge-primitive|Fiscal Bridge Primitive]] - Core mechanism for value transfer
 
 ### Regulatory Resources
 - CRA Guidance on Cryptocurrency (link to be added)

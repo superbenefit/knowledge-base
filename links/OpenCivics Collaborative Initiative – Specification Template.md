@@ -5,7 +5,7 @@ author:
   - OpenCivics
 tags:
   - organization
-publish: "true"
+publish: false
 ---
 
 The **Collaborative Initiative Specification Template 2.0** provides a structured framework for organizing and executing collaborative projects. It includes key sections like the project’s purpose, scope, stakeholders, governance models, decision-making processes, and success metrics. The template emphasizes clarity and accountability, ensuring that all participants understand their roles and contributions while promoting transparent and decentralized collaboration.
