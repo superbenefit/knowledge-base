@@ -31,18 +31,7 @@
       "key": "title"
     },
     "replaceTitle": [],
-    "replacePath": [
-      {
-        "regex": "/\\.md$/",
-        "replacement": "",
-        "type": "path"
-      },
-      {
-        "regex": "/^content\\//",
-        "replacement": "",
-        "type": "path"
-      }
-    ],
+    "replacePath": [],
     "autoclean": {
       "includeAttachments": true,
       "enable": true,
@@ -121,5 +110,5 @@
     "setFrontmatterKey": "Set",
     "migrated": true
   },
-  "tabsId": "text-conversion"
+  "tabsId": "upload-configuration"
 }

@@ -9,7 +9,7 @@ tags:
   - web3
   - rpp
   - regulatory-compliance
-publish: "false"
+publish: false
 type: pattern
 protocols: 
 ---

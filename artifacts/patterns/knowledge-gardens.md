@@ -10,7 +10,7 @@ tags:
   - rpp
   - web3
   - collective-intelligence
-publish: "false"
+publish: false
 type: pattern
 ---
 # Knowledge Gardens Pattern
