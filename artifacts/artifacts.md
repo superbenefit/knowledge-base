@@ -11,19 +11,19 @@ Welcome to the SuperBenefit artifacts repository! This section contains the fini
 
 This repository is organized into thematic sections, each representing a different type of knowledge resource. These artifacts are intended to inspire, educate, and provide actionable tools for community-driven change.
 
-* **[articles](artifacts/articles/articles.md):** Essays and reflections that distill key ideas and spark dialogue about the future of DAOs, governance, and organizational design.
+* **[articles](articles/articles.md):** Essays and reflections that distill key ideas and spark dialogue about the future of [DAOs](../tags/daos.md), [governance](../tags/governance.md), and organizational design.
 
-* **[patterns](artifacts/patterns/patterns.md):** Practical templates and models for solving common challenges in decentralized and community-driven contexts.
+* **[patterns](patterns/patterns.md):** Practical templates and models for solving common challenges in [decentralized](../tags/decentralization.md) and [community](../tags/community.md)-driven contexts.
 
-* **[playbooks](tags/playbooks.md):** Step-by-step guides that empower communities to experiment with new tools, practices, and protocols.
+* **[playbooks](playbooks/playbooks.md):** Step-by-step guides that empower communities to experiment with new tools, practices, and [protocols](../tags/protocols.md).
 
-* **[studies](artifacts/studies/studies.md):** Case studies and in-depth analyses of successful projects, offering lessons and best practices for replication.
+* **[studies](studies/studies.md):** Case studies and in-depth analyses of successful projects, offering lessons and best practices for replication.
 
-* **[papers](artifacts/papers/papers.md):** Scholarly works that explore foundational theories and propose new paradigms for collaborative and decentralized systems.
+
 
 ## How to Use This Section
 
-Browse through the categories to find resources relevant to your interests or needs. Each artifact represents the culmination of collective experimentation, learning, and refinement by the SuperBenefit community. While these works are polished, they remain living documents—open to feedback and future iteration.
+Browse through the categories to find resources relevant to your interests or needs. Each artifact represents the culmination of collective experimentation, learning, and refinement by the SuperBenefit [community](../tags/community.md). While these works are polished, they remain living documents—open to feedback and future iteration.
 
 Whether you’re seeking inspiration, knowledge, or actionable frameworks, this section is designed to support your journey toward creating a positive impact through grassroots, community-driven approaches.
 
@@ -31,6 +31,5 @@ Whether you’re seeking inspiration, knowledge, or actionable frameworks, this 
 
 ## Related Resources
 
-* **[Community Notes](notes.md):** Explore our active workspace of ideas under development.
-* **[Patterns](notes/dao-primitives/implementation/patterns/patterns.md):** Proven solutions and strategies for organizational challenges.
-* **[Links](links/links.md):** Curated external resources that inform and enrich our work.
+* **[Community Notes](../notes/notes.md):** Explore our active workspace of ideas under development.
+* **[Links](../links/links.md):** Curated external resources that inform and enrich our work.

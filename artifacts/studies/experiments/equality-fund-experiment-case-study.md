@@ -1,16 +1,28 @@
 ---
 title: Reimagining Power @ Equality Fund
 publish: true
-description: 
+description: A case study exploring Web3 technologies for feminist grant-making through the Reimagining Power Project
 tags:
   - studies
+  - web3
+  - blockchain
+  - governance
+  - grants
+  - p2p-payments
+  - impact-attestations
+  - privacy
+  - coordination
+  - networks
+  - rpp
+  - transformation
+  - decentralization
 type: study
 ---
 
 ---
 ## Executive Summary
 
-This case study documents progress through July 2025 in an ongoing experiment exploring Web3 technologies for feminist grant-making. Equality Fund partnered with Women Win and SuperBenefit through the Reimagining Power Project to test whether blockchain could reduce transaction costs and increase accessibility for organizations in politically restricted contexts.
+This case study documents progress through July 2025 in an ongoing experiment exploring [[/tags/web3|Web3]] technologies for feminist grant-making. Equality Fund partnered with Women Win and SuperBenefit through the Reimagining Power Project to test whether [[/tags/blockchain|blockchain]] could reduce transaction costs and increase accessibility for organizations in politically restricted contexts.
 
 The discovery phase examined five potential Web3 applications before narrowing to grant disbursement infrastructure. The team designed a methodology to compare traditional banking with blockchain solutions, planning small-scale experiments with real money. However, initial findings challenged core assumptions. Transaction costs between Equality Fund and Women Win proved minimal, contradicting the hypothesis that fees were a primary barrier. The real friction emerged at the last mile of delivery, where local banking systems, political restrictions, and infrastructure limitations created obstacles.
 
@@ -20,9 +32,9 @@ The experiment revealed that innovation work cannot succeed as an add-on to oper
 
 ## Context
 
-Equality Fund, a Canadian women's fund that grew from $500,000 to $20 million in grant-making over three years, operates across 85 countries supporting women's organizations. Their Prepare funding stream manages CAD 7 million, selecting 6-7 grants from approximately 1,000 applications annually.
+Equality Fund, a Canadian women's fund that grew from $500,000 to $20 million in grant-making over three years, operates across 85 countries supporting women's organizations. Their Prepare funding stream manages CAD 7 million, selecting 6-7 [[/tags/grants|grants]] from approximately 1,000 applications annually.
 
-The organization faced systemic challenges in moving funds internationally. Transaction fees, currency conversions, and intermediary charges created financial barriers. In some jurisdictions, banking systems obstructed funding flows to human rights organizations. Gender justice activists faced closing civic space globally, with financial systems often excluding or scrutinizing organizations working on sensitive issues. Additionally, participatory approaches that worked at smaller scale showed strain at larger scales, pointing to the need for new patterns of participatory governance.
+The organization faced systemic challenges in moving funds internationally. Transaction fees, currency conversions, and intermediary charges created financial barriers. In some jurisdictions, banking systems obstructed funding flows to human rights organizations. Gender justice activists faced closing civic space globally, with financial systems often excluding or scrutinizing organizations working on sensitive issues. Additionally, participatory approaches that worked at smaller scale showed strain at larger scales, pointing to the need for new patterns of participatory [[/tags/governance|governance]].
 
 In July 2023, Sue Snider presented a vision based on the DisCo pattern (Distributed Cooperative Organization) encompassing resource exchange, governance compensation, and grant distribution. When the Reimagining Power Project opportunity emerged in October 2024, it created a pathway to explore Web3 solutions. The partnership brought together Equality Fund's grant-making expertise, Women Win's operational knowledge as fiscal sponsor, and SuperBenefit's Web3 technical capabilities.
 
@@ -32,17 +44,17 @@ Ontario Trillium Foundation provided funding through July 2025. The experiment a
 
 ## Approach
 
-The discovery phase evaluated five potential Web3 applications before narrowing to two specific barriers: financial costs and accessibility challenges. This prioritization reflected recognition that taking an approach of creating small focused experiments would generate more actionable insights, as an alternative to engaging in broad organizational-wide transformation attempts.
+The discovery phase evaluated five potential Web3 applications before narrowing to two specific barriers: financial costs and accessibility challenges. This prioritization reflected recognition that taking an approach of creating small focused experiments would generate more actionable insights, as an alternative to engaging in broad organizational-wide [[/tags/transformation|transformation]] attempts.
 
 Three key patterns and approaches guided the experiment design:
 
-**Peer to peer payments** aimed to test whether blockchain-based transfers could reduce transaction fees and provide censorship resistance. The approach would compare costs, settlement times, and accessibility between traditional banking and blockchain infrastructure while maintaining compliance standards. The team recognized early that privacy payments patterns would be essential for protecting recipient identities in sensitive contexts.
+**Peer to peer payments** aimed to test whether blockchain-based transfers could reduce transaction fees and provide censorship resistance. The approach would compare costs, settlement times, and accessibility between traditional banking and blockchain infrastructure while maintaining compliance standards. The team recognized early that [[/tags/privacy|privacy]] payments patterns would be essential for protecting recipient identities in sensitive contexts.
 
 **Participatory governance** reflected Equality Fund's commitment to involving stakeholders in decision-making processes. The experiment design sought to include grant recipients' perspectives while navigating safety constraints and fiduciary responsibilities that limited direct engagement.
 
 **Impact Attestations** would enable transparent tracking of grant outcomes while protecting sensitive information about recipients and their work. This pattern aligned with the broader need for accountability in international development funding.
 
-The experiment operated entirely through part-time staff contributions. Sue Snider (Equality Fund), Women Win's 6-7 person Finance team, and SuperBenefit advisors balanced experimental work with full operational responsibilities. No dedicated innovation team existed. While OTF funding supported coordination, it couldn't contribute funds for experiments in crypto currency distribution or fund dedicated technical development. The partnership combined complementary expertise, though direct input from grant recipients remained difficult due to safety constraints - a challenge for implementing true participatory governance.
+The experiment operated entirely through part-time staff contributions. Sue Snider (Equality Fund), Women Win's 6-7 person Finance team, and SuperBenefit advisors balanced experimental work with full operational responsibilities. No dedicated innovation team existed. While OTF funding supported [[/tags/coordination|coordination]], it couldn't contribute funds for experiments in crypto currency distribution or fund dedicated technical development. The partnership combined complementary expertise, though direct input from grant recipients remained difficult due to safety constraints - a challenge for implementing true participatory governance.
 
 The team developed a comparative testing methodology to ensure learning value even with limited implementation. Historical transaction data would establish baselines, while controlled Web3 transactions would generate comparative data using approximately $100 in actual funds. Real money testing would reveal regulatory hurdles, user experience challenges, and operational integration requirements that theoretical testing would miss.
 
@@ -52,7 +64,7 @@ The team developed a comparative testing methodology to ensure learning value ev
 
 ### Discovery Phase (October 2024 - January 2025)
 
-The systematic discovery process examined five potential Web3 applications, generating a Discovery report. The team found that many possibilities required years of additional development, regulatory barriers limited charity participation, and partner readiness varied significantly. After analysis, they concluded: "while many identified opportunities require further technological maturation, two patterns emerged as immediately viable for experimentation." The focus narrowed to grant disbursement through peer to peer payments, specifically addressing transaction costs and accessibility barriers.
+The systematic discovery process examined five potential Web3 applications, generating a Discovery report. The team found that many possibilities required years of additional development, regulatory barriers limited charity participation, and partner readiness varied significantly. After analysis, they concluded: "while many identified opportunities require further technological maturation, two patterns emerged as immediately viable for experimentation." The focus narrowed to grant disbursement through [[/tags/p2p-payments|peer to peer payments]], specifically addressing transaction costs and accessibility barriers.
 
 ### Planning Phase (February - May 2025)
 
@@ -99,7 +111,7 @@ The patterns guiding the experiment generated valuable insights despite limited 
 
 **Participatory governance** faced practical barriers in implementation. Privacy concerns limited direct engagement with recipients, yet their input proved essential for understanding real barriers. The experiment highlighted the tension between meaningful participation and operational safety.
 
-**Impact Attestations** remained conceptually important but practically challenging. The need to track grant outcomes while protecting sensitive information about recipients' work created design challenges that the limited experiment couldn't fully address.
+**[[/tags/impact-attestations|Impact Attestations]]** remained conceptually important but practically challenging. The need to track grant outcomes while protecting sensitive information about recipients' work created design challenges that the limited experiment couldn't fully address.
 
 The comparative testing methodology validated its premise through planning alone. The process exposed regulatory complexities and safety considerations that sandbox testing would have missed, demonstrating the value of real-world experimentation even at small scale.
 
@@ -129,4 +141,4 @@ The team invites others exploring Web3 for social benefit to build on these insi
 
 ---
 
-_This progress report documents learnings through July 2025 in an ongoing experiment exploring decentralized coordination patterns for social benefit. The work continues beyond this documentation period. We invite readers to adapt these insights for their own contexts and share their experiences to further collective learning._
+_This progress report documents learnings through July 2025 in an ongoing experiment exploring [[/tags/decentralization|decentralized]] [[/tags/coordination|coordination]] patterns for social benefit. The work continues beyond this documentation period. We invite readers to adapt these insights for their own contexts and share their experiences to further collective learning._

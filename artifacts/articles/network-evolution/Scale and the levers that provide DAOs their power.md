@@ -1,5 +1,5 @@
 ---
-title: Scale and the levers that provide DAOs their power
+title: Scale and the levers that provide DAOs their power
 url: https://superbenefit.mirror.xyz/unisNGUtHyRF7Zcp9CBbC-VhICOvVm0uzTFJUPX-Icg
 author:
   - yeoro.eth
@@ -14,31 +14,31 @@ type: link
 
 _Rowan is a contributor to [SuperBenefitDAO](https://www.superbenefit.org/) and works on scalable models of coordination and fractal DAO governance. Deep gratitude to Heenal Rajani and Michael Lewkowitz for contributing to this article. This article is the second in our series exploring the concept of DAOs as networks and the evolving nature of DAO design._
 
-### Goodbye “business model”. Hello “network economy”
+### Goodbye "business model". Hello "network economy"
 
-As we described in our recent article [DAOs aren't things... they are flows.](artifacts/articles/network-evolution/DAOs%20aren't%20things...%20they%20are%20flows..md), Web3 presents the possibility of a new paradigm to replace the company-centric paradigm that has been evolving over the past 400 years.
+As we described in our recent article [DAOs aren't things... they are flows.](/artifacts/articles/network-evolution/DAOs aren't things... they are flows..md), [Web3](/tags/blockchain.md) presents the possibility of a new paradigm to replace the company-centric paradigm that has been evolving over the past 400 years.
 
 ![](https://superbenefit.mirror.xyz/_next/image?url=https%3A%2F%2Fimages.mirror-media.xyz%2Fpublication-images%2FwzujkB3B59tUd80JEcLsV.png&w=3840&q=75)
 
-If we can shed this ‘company as centralising entity’ paradigm and instead see DAOs not as entities but as centerless networks with coordinated flows of resources, then a whole new way of looking at business and economics becomes possible.
+If we can shed this 'company as centralising entity' paradigm and instead see DAOs not as entities but as centerless [networks](/tags/networks.md) with coordinated flows of [resources](/tags/resources.md), then a whole new way of looking at business and economics becomes possible.
 
-DAOs and companies are fundamentally different systems. Companies operate **business models**. DAOs are **network economies**. And this distinction is at the heart of why DAOs have the potential to usher in a new paradigm.
+DAOs and companies are fundamentally different [systems](/tags/systems.md). Companies operate **business models**. DAOs are **network economies**. And this distinction is at the heart of why DAOs have the potential to usher in a new paradigm.
 
-Unpacking what network economies are and how they are different and more powerful than business models will require some framing. The concept of [index](tags/groups/scale/index.md) will be our way into understanding this; and to explain scale, I will lean heavily on Geoffrey West’s work on the dynamics of how systems scale.
+Unpacking what network economies are and how they are different and more powerful than business models will require some framing. The concept of [scale](/artifacts/guides/dao-primitives-framework/group-scale/group-scale.md) will be our way into understanding this; and to explain scale, I will lean heavily on Geoffrey West's work on the dynamics of how systems scale.
 
 A fuller explanation can be found [here](https://www.youtube.com/watch?v=nxgHyPCCqaw&t=2s), but at a high level there are two fundamental dynamics to understand:
 
 ![](https://superbenefit.mirror.xyz/_next/image?url=https%3A%2F%2Fimages.mirror-media.xyz%2Fpublication-images%2FRLL22d1B8r-fONy7Cj_-N.png&w=3840&q=75)
 
-I will start by outlining both of these dynamics and, if I do this well, hopefully it will become obvious that these two systems are the keys to unlocking the power that DAOs can embody in the world.
+I will start by outlining both of these dynamics and, if I do this well, hopefully it will become obvious that these two systems are the keys to unlocking the [power](/tags/power.md) that DAOs can embody in the world.
 
 ![](https://superbenefit.mirror.xyz/_next/image?url=https%3A%2F%2Fimages.mirror-media.xyz%2Fpublication-images%2FbauTbkeITvUDgsK_5MJdW.png&w=3840&q=75)
 
-West’s work starts with understanding that biological systems scale in a **sub-linear** way, meaning that as biological systems (mammals, insects, trees, etc) increase in size they become more efficient in a uniform and predictable way. For example, if you double the size of a mouse, it will only require 75% more food, oxygen, water and so forth; its heart will beat slower, and it will live longer. And the equations that predict this are accurate all the way up from a mouse to an elephant or a blue whale; each doubling in size produces a corresponding 25% increase in efficiency. The mechanisms that cause this phenomena have to do with the concept called **fractal scaling hierarchies**.
+West's work starts with understanding that biological systems scale in a **sub-linear** way, meaning that as biological systems (mammals, insects, trees, etc) increase in size they become more efficient in a uniform and predictable way. For example, if you double the size of a mouse, it will only require 75% more food, oxygen, water and so forth; its heart will beat slower, and it will live longer. And the equations that predict this are accurate all the way up from a mouse to an elephant or a blue whale; each doubling in size produces a corresponding 25% increase in efficiency. The mechanisms that cause this phenomena have to do with the concept called **fractal scaling hierarchies**.
 
-Biological systems create fractal hierarchies with branching structures and every layer in the hierarchy creates an increase in efficiency. A good example is the cardiovascular system of a mammal. All of us mammals have a heart that pumps blood around our bodies in the same way; the heart pumps blood under pressure into an aorta which branches into two arteries. These then branch into more arteries and these then branch into still more. The physics that govern this system means that the more layers in the branching hierarchy, the more efficient the system becomes (the amount of work your heart has to do to get oxygenated blood to every cell in your body drops as you grow). This is why a 220 ton blue whale’s heart only has to beat 11 times per minute to circulate blood to every cell in its body, while a mouse’s heart needs to beat 500 times a minute to do the same thing. And every mammal in between these two exhibits the exact same heart rate to size ratio.
+Biological systems create fractal hierarchies with branching structures and every layer in the hierarchy creates an increase in efficiency. A good example is the cardiovascular system of a mammal. All of us mammals have a heart that pumps blood around our bodies in the same way; the heart pumps blood under pressure into an aorta which branches into two arteries. These then branch into more arteries and these then branch into still more. The physics that govern this system means that the more layers in the branching hierarchy, the more efficient the system becomes (the amount of work your heart has to do to get oxygenated blood to every cell in your body drops as you grow). This is why a 220 ton blue whale's heart only has to beat 11 times per minute to circulate blood to every cell in its body, while a mouse's heart needs to beat 500 times a minute to do the same thing. And every mammal in between these two exhibits the exact same heart rate to size ratio.
 
-Amazing as this is, what is more incredible is that this dynamic holds true for human-built systems too. This scaling effect is the fundamental dynamic that makes companies work. As a business grows, it is essentially building a set of branching hierarchies that generate economies of scale using the [same mathematics](https://arxiv.org/abs/2109.10379) that mammals, insects and trees use to grow. As the company increases its size and adds more layers to its hierarchy, efficiencies are gained across all the layers in the hierarchy. This causes the unit cost of the goods it produces to fall as its size increases. This is known as **sub-linear scaling**, where the use of resources becomes more and more efficient as the system grows in size.
+Amazing as this is, what is more incredible is that this dynamic holds true for human-built systems too. This scaling effect is the fundamental dynamic that makes companies work. As a business grows, it is essentially building a set of branching hierarchies that generate economies of [scale](/artifacts/guides/dao-primitives-framework/group-scale/group-scale.md) using the [same mathematics](https://arxiv.org/abs/2109.10379) that mammals, insects and trees use to grow. As the company increases its size and adds more layers to its hierarchy, efficiencies are gained across all the layers in the hierarchy. This causes the unit cost of the goods it produces to fall as its size increases. This is known as **sub-linear scaling**, where the use of resources becomes more and more efficient as the system grows in size.
 
 ### Fractal hierarchies are finite
 
@@ -50,7 +50,7 @@ _As a side note, humans are the only animals that buck this trend by living roug
 
 ### Companies are masters of fractal hierarchies
 
-This dynamic is what underpins 400 years of success for the “Company”. With the creation of the limited liability company we gained a highly effective system to make this dynamic work – allocating capital, to build infrastructure, to scale a business model… rinse and repeat.
+This dynamic is what underpins 400 years of success for the "Company". With the creation of the limited liability company we gained a highly effective system to make this dynamic work – allocating capital, to build infrastructure, to scale a business model… rinse and repeat.
 
 But a consequence of this is that, like fractal hierarchies in biology, companies are finite. They scale their business models but then over time they fail to evolve, their infrastructure requires more and more resources to maintain itself, and eventually they die.
 
@@ -60,7 +60,7 @@ This death is often not obvious. Companies employ every trick they can to keep t
 
 The other powerful dynamic that West identifies is that of **social networks** and the way they produce social outputs in a **super-linear** way. The social networks we are referring to here are simply networks of humans interacting; this might be friend groups, business relationships, religious communities, membership clubs etc – any collection of social relationships.
 
-Social networks scale in a super-linear way based on a set of predictable networks dynamics, including [Metcalfe’s law](https://en.wikipedia.org/wiki/Metcalfe%27s_law)
+Social networks scale in a super-linear way based on a set of predictable networks dynamics, including [Metcalfe's law](https://en.wikipedia.org/wiki/Metcalfe%27s_law)
 
 ![](https://superbenefit.mirror.xyz/_next/image?url=https%3A%2F%2Fimages.mirror-media.xyz%2Fpublication-images%2F2YK45VmGhEvW_deaU_N-9.png&w=3840&q=75)
 
@@ -74,9 +74,9 @@ The problem for companies is that once they are mature, it is nearly impossible 
 
 Some do engage in R&D to drive product line expansion etc, but this seldom leads to genuinely novel innovation. So most resign themselves to purchasing innovation that is produced by others. As their hierarchies become more and more entrenched and inflexible, they do this more and more in an effort to stay relevant and ultimately to try to ward off their inevitable decline.
 
-### But cities don’t die
+### But cities don't die
 
-This is where West’s analysis gets really interesting. While animals, plants and companies all predictably die, throughout history there have been almost no cases of cities dying.
+This is where West's analysis gets really interesting. While animals, plants and companies all predictably die, throughout history there have been almost no cases of cities dying.
 
 It turns out that cities survive (and thrive) because they are able to harness both of these dynamics - sub-linear hierarchical scaling **and** super-linear social network driven creativity and innovation.
 
@@ -84,7 +84,7 @@ Cities utilise scaling infrastructure for roading, electrical grids, water suppl
 
 But, as cities grow, they also have ever larger social networks, which produce increasing amounts of creativity and innovation (along with all the other social outputs). If you double the size of a city it produces 115% more research papers, patents, startups etc.
 
-This dynamic has the effect of creating a virtuous cycle of innovation and improvement to the city. The innovation producing function of the city creates a constant stream of innovative new businesses growing to replace those that die, bringing in new money; incomes go up, infrastructure is invested in and improved, the city is renewed. This in turn adds another virtuous cycle where the improvement in the lifestyles and prospects of the city’s residents attracts new residents, which then improves the **Dynamic One** efficiency of the infrastructure and also improves the **Dynamic Two** ideas and innovation machine.
+This dynamic has the effect of creating a virtuous cycle of innovation and improvement to the city. The innovation producing function of the city creates a constant stream of innovative new businesses growing to replace those that die, bringing in new money; incomes go up, infrastructure is invested in and improved, the city is renewed. This in turn adds another virtuous cycle where the improvement in the lifestyles and prospects of the city's residents attracts new residents, which then improves the **Dynamic One** efficiency of the infrastructure and also improves the **Dynamic Two** ideas and innovation machine.
 
 ### What about DAOs?
 
@@ -114,5 +114,5 @@ And to do this DAOs have to be able to leverage **both** Dynamic-One **and** Dyn
 
 ### Article Series
 
-- Previous: [DAOs aren't things, they are flows](DAOs%20aren't%20things,%20they%20are%20flows)
-- Next: [DAOs - From fractal primitives to network scale.](artifacts/articles/network-evolution/DAOs%20-%20From%20fractal%20primitives%20to%20network%20scale..md)
+- Previous: [DAOs aren't things, they are flows](/artifacts/articles/network-evolution/DAOs aren't things... they are flows..md)
+- Next: [DAOs - From fractal primitives to network scale.](/artifacts/articles/network-evolution/DAOs - From fractal primitives to network scale..md)

@@ -4,12 +4,23 @@ description: ICS experiments with decentralized governance tools, discovering th
 tags:
   - experiments
   - studies
+  - web3
+  - blockchain
+  - governance
+  - daos
+  - roles
+  - local-nodes
+  - impact-attestations
+  - transformation
+  - decentralization
+  - coordination
+  - rpp
 publish: true
 type: study
 ---
 # Reimagining Power @ ICS
 
-*ICS experiments with decentralized governance tools, discovering that communities seek participation in decision-making rather than just new funding mechanisms*
+*ICS experiments with [[/tags/decentralization|decentralized]] [[/tags/governance|governance]] tools, discovering that communities seek participation in decision-making rather than just new funding mechanisms*
 
 **An *Institute for Community Sustainability* Case Study in Decentralized Governance Implementation**
 
@@ -17,9 +28,9 @@ type: study
 
 ## Executive Summary
 
-The Institute for Community Sustainability implemented Web3 governance infrastructure from January to July 2025 as part of SuperBenefit's Reimagining Power Project. 
+The Institute for Community Sustainability implemented [[/tags/web3|Web3]] governance infrastructure from January to July 2025 as part of SuperBenefit's Reimagining Power Project. 
 
-The experiment successfully established operational governance systems using token-based governance, multistakeholder governance patterns, and DAOs structure, all managed through roles implementation with Hats Protocol. Four core team members actively use these systems. ICS launched London's first local nodes implementation as a Green Pill Network chapter and achieved top 10% ranking in Gitcoin Grants Round 23.
+The experiment successfully established operational governance systems using token-based governance, multistakeholder governance patterns, and [[/tags/daos|DAOs]] structure, all managed through [[/tags/roles|roles]] implementation with Hats Protocol. Four core team members actively use these systems. ICS launched London's first [[/tags/local-nodes|local nodes]] implementation as a Green Pill Network chapter and achieved top 10% ranking in Gitcoin Grants Round 23.
 
 Key learnings include the 6-18 month timeline required for meaningful Web3 adoption at community level, the importance of making tools enjoyable and accessible, and the value of responding to opportunities rather than forcing predetermined plans. The experiment continues with plans for public demonstrations and expanded education programs in fall 2025.
 
@@ -71,8 +82,8 @@ ICS implemented four interventions between January and July 2025, each designed 
 - **Multi-stakeholder governance**: Structures to include diverse participant voices
 - **DAOs**: Overall decentralized autonomous organization framework
 - **Roles**: Hats Protocol implementation for clear governance responsibilities
-- **Impact Attestations**: Blockchain-based recording of social and environmental contributions to enable transparency and future funding
-- **Local nodes**: Green Pill Network chapter to connect local regenerative initiatives with global movement
+- **[[/tags/impact-attestations|Impact Attestations]]**: Blockchain-based recording of social and environmental contributions to enable transparency and future funding
+- **[[/tags/local-nodes|Local nodes]]**: Green Pill Network chapter to connect local regenerative initiatives with global movement
 - **Opportunistic Adoption**: Emergent pattern of flexible response to ecosystem opportunities
 
 ### Resource Mobilization
@@ -90,7 +101,7 @@ The initial phase focused on establishing the technical foundation for decentral
 **Technical Achievements**:
 - Established multisignature wallet with 4 signers (implementing token-based governance)
 - Secured ENS domain (theics.eth)
-- Configured Hats Protocol tree implementing roles pattern
+- Configured Hats Protocol tree implementing [[/tags/roles|roles]] pattern
 - Created CharmVerse and Snapshot spaces for multistakeholder governance
 - Integrated with SuperBenefit DAOs infrastructure
 
@@ -195,7 +206,7 @@ Through implementation, several replicable patterns emerged that other organizat
 - Result: Operational but limited to core team
 - Lesson: Social protocols more important than technical setup
 
-**Local nodes (Web3 Chapters)**
+**[[/tags/local-nodes|Local nodes]] (Web3 Chapters)**
 - Process: Apply to global network, establish local governance, hold regular meetings
 - Frequency: Monthly gatherings with consistent small group
 - Focus: Building relationships over formal structure
@@ -225,7 +236,7 @@ Building on the foundation established during the experiment, ICS has identified
 
 Looking beyond immediate next steps, ICS has established goals for sustainable Web3 integration over the next year including achieving 10+ active participants in governance systems, expanding cells structure if volunteer teams emerge, integrating governance tools into regular operations, and expanding local node activities.
 
-While blockchain creates possibility, social adoption requires integration with existing community rhythms, clear value propositions tied to felt needs, and patient cultivation of new practices alongside familiar ones.
+While [[/tags/blockchain|blockchain]] creates possibility, social adoption requires integration with existing community rhythms, clear value propositions tied to felt needs, and patient cultivation of new practices alongside familiar ones.
 
 ### Transferable Insights
 
@@ -271,4 +282,4 @@ For practitioners, ICS's experience offers practical guidance: start small with 
 
 ---
 
-*This case study contributes to growing knowledge about practical adoption of decentralized coordination patterns for social benefit. We invite readers to adapt these insights for their own contexts and share their experiences to further collective learning.*
+*This case study contributes to growing knowledge about practical adoption of [[/tags/decentralization|decentralized]] [[/tags/coordination|coordination]] patterns for social benefit. We invite readers to adapt these insights for their own contexts and share their experiences to further collective learning.*
