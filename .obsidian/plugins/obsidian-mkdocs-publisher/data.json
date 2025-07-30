@@ -2,7 +2,7 @@
   "github": {
     "user": "superbenefit",
     "repo": "knowledge-garden",
-    "branch": "v4",
+    "branch": "rpp-update",
     "automaticallyMergePR": false,
     "dryRun": {
       "enable": false,
@@ -76,7 +76,7 @@
       "wiki": true,
       "slugify": "disable",
       "unlink": true,
-      "relativePath": true,
+      "relativePath": false,
       "textPrefix": ""
     }
   },
