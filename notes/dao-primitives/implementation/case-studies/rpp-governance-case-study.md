@@ -1,35 +1,23 @@
 ---
 title: Reimagining Power Project Governance Design
 description: A case study examining how the DAO Primitives framework was applied to create an effective multi-stakeholder governance model for the Reimagining Power Project.
-author: Rowan Yeoman
-tags: 
-- governance
-- case-study
-- dao-primitives
-- multi-stakeholder
-harvester: yeoro.eth
-curator: 
-publish: "false"
+author:
+  - yeoro.eth
+tags:
+  - governance
+  - case-study
+  - dao-primitives
+  - multi-stakeholder
+publish: true
 type: study
-case: "RPP Governance"
-patterns:
-  - cell-working-group
-  - multi-stakeholder-governance
-  - community-governance
-primitives:
-  - cells
-  - roles
-  - tasks
-  - agreements
-  - proposals
 ---
 NOTE THIS WILL BE THE URL FOR WHEN THIS IS MOVED INTO ARTIFACTS - Put in PROJECTS FOLDER
-1. [https://knowledge.superbenefit.org/artifacts/studies/projects/rpp-governance-case-study](https://knowledge.superbenefit.org/artifacts/studies/projects/rpp-project-case-study "https://knowledge.superbenefit.org/artifacts/studies/projects/rpp-project-case-study")
+1. [https://knowledge.superbenefit.org/artifacts/studies/projects/rpp-governance-case-study](https://knowledge.superbenefit.org/artifacts/studies/projects/rpp-governance-case-study "https://knowledge.superbenefit.org/artifacts/studies/projects/rpp-governance-case-study")
 # RPP Governance Design Case Study 
 
 ---
 
-This case study examines how SuperBenefit designed and implemented a layered multi-stakeholder governance model for the Reimagining Power Project (RPP) using the [[artifacts/guides/dao-primitives-framework/dao-primitives-framework|DAO Primitives framework]]. The design successfully balanced stakeholder oversight with operational autonomy while enabling effective coordination across organizational boundaries, creating a structure that supported both purpose alignment and efficient execution.
+This case study examines how SuperBenefit designed and implemented a layered multi-stakeholder governance model for the Reimagining Power Project (RPP). The design successfully balanced stakeholder oversight with operational autonomy while enabling effective coordination across organizational boundaries, creating a structure that supported both purpose alignment and efficient execution.
 
 ---
 
@@ -115,7 +103,7 @@ This multi-layered approach was developed because it:
 - Allowed for collective intelligence style decision-making from the edges of the system
 - Provided appropriate layers of governance for different types of decisions required
 - Created appropriate separation between strategic oversight and operational execution
-- Allowed contributors from across the web3 other organizations and networks to easily connect and contribute to the project
+- Allowed contributors from across web3 other organizations and networks to easily connect and contribute to the project
 - Leveraged existing SuperBenefit patterns and infrastructure
 
 ---
@@ -142,7 +130,7 @@ The implementation began with a thorough discovery process involving potential s
 
 This process revealed that stakeholders were primarily interested in being informed and participating in collaborative conversations rather than exercising formal approval over operational budgets or activities.
 
-Some stakeholders were interested in participating in specific experiments within the project. For example Equality Fund supporting and participating in an experiment in using crypto rails to distribute funding to recipient organizations.
+Some stakeholders were interested in participating in specific experiments within the project. For example Equality Fund supporting and participating in their experiment into using crypto rails to distribute funding to recipient organizations.
 
 ### Core Team (TLC) - Formation Phase
 
@@ -170,7 +158,6 @@ This was outlined for transparency and clarity in the Cell's [[notes/dao-primiti
     - Asynchronous communication via a Discord channel
     - Monthly stakeholder updates
 
-As the project progressed, the Core Team identified a need to accelerate execution. In response, they created and funded the "OS Stewards" as a specialized operational group within the Core Team specifically focused on maintaining momentum and ensuring timely deliverables. This adaptation demonstrated the flexibility of the governance model to evolve based on emerging needs.
 
 ### Operational Structure Development - Organization Phase
 
@@ -191,7 +178,6 @@ A notable use of this structure was the implementation of the Playbooks Cell–a
 - Transparent tracking of contributions and compensation
 - Dynamic membership as the project's needs evolved
 
-### Execution - Coordination Phase
 
 ### Addressing Execution Challenges
 
@@ -229,28 +215,28 @@ The governance model successfully achieved its core objectives, demonstrating se
 1. **Stakeholder Confidence with Operational Autonomy**:
     - Stakeholders reported satisfaction with visibility into project direction and progress
     - Operational teams maintained sufficient autonomy to execute effectively
-    - Communication prevented misalignment between stakeholders and operational activities
+    - Regular communication via the monthly stakeholder meetings prevented misalignment between stakeholders and operational activities
+    - Stakeholder Group member in response to the question: "What was the most significant shift in how you experienced power/influence as a stakeholder compared to traditional advisory roles?": *"The ability to propose a project within the group and have full autonomy to do so, with support from other stakeholders."* 
 2. **Effective Resource Management**:
-    - Transparent flow of resources from funders to contributors
+    - Transparent flow of resources from core team governance to contributors
     - Decision-making at appropriate levels, e.g resourcing decisions being make close to the work being done, produced good resource allocation outcomes
 3. **Cross-Organizational Collaboration**:
-    - Contributors from different organizational contexts successfully worked together e.g collaboration with All in for Sport on the Gatherings Programme
+    - Contributors from different organizational contexts successfully worked together e.g collaboration between RPP and All in for Sport on the Gatherings Programme
     - Boundaries between organizations remained clear while enabling effective coordination and resource sharing
     - Being part of the broader SuperBenefit network allowed the project to access people and organizations across the web3 space as well as the philanthropic sector
 4. **Governance Coherence**:
-    - Governance authority at different levels in the project seemed to work well, although this would be tested more robustly if the project continues to scale its work and the complexity of this operational structure
-    - Conflict between the operational and stakeholder sides of the project seemed minimal
+    - Governance authority at different levels in the project seemed to work well, although this would be tested more robustly if the project continues to scale its work and the complexity of its operational structure
+    - Conflict between the operational and stakeholder sides of the project seemed minimal. This also reflects the fact that the main funder and stakeholder group member (OTF) took an interested but relatively hands-off approach to how the project was run
     - Decision rights were appropriately distributed across different scales and seem to have been reasonably easy for participants to understand
+    - *"The transparency and collaborative nature of input, and how it gets used, what is moved forward etc. was really refreshing... This process felt very accessible, that you could plug in and be part of what you were interested in and where you really brought value."* (Stakeholder Group member) 
 5. **Adaptability**:
-    - The structure evolved effectively in response to emerging needs
-    - Additional components (like OS Stewards) were integrated without disrupting the overall framework
-    - The balance between stakeholder involvement and operational autonomy was recalibrated as the project progressed and new opportunities opened up.
+    - The structure evolved effectively in response to emerging needs. E.g additional components (like OS Stewards) were integrated without disrupting the overall framework
+    - The balance between stakeholder involvement and operational autonomy was recalibrated as the project progressed and new opportunities opened up. Several stakeholder group members also stepped into operational roles in the project.
+    - Several stakeholders took a active roles in both the stakeholder group and in other operational parts of the project and expressed appreciation of the non-hierarachical nature of the project: "*As a stakeholder it felt like we were doing the exploration work together rather than giving individual expertise. It lead to great learnings from others.*" (Stakeholder Group member)
+
 
 ### Lessons Learned
 
-- More time to get started than we would have liked - this was an experiment and we were learning as we went.
-- Emerging contexts are difficult to navigate and therefore flexible structure are really important
-- Tax issues - SB needs a formal structure
 
 While the model ultimately proved effective, several challenges emerged that provide valuable insights for future applications:
 
@@ -258,6 +244,7 @@ While the model ultimately proved effective, several challenges emerged that pro
     - The structure took significant time to settle, with extended stakeholder conversations and slower-than-ideal execution startup
     - Initial ambiguity about roles and authorities created some confusion and inefficiency
     - The process of establishing formal agreements especially defining the Purpose of the project within the Stakeholder group, took longer than anticipated
+    - *"The authentic collective decision making was at times slow moving but also ensured that how the project moved forward was led by the collective, not by an individual stakeholder. "* (Stakeholder Group member)
 2. **Stakeholder Engagement Calibration**:
     - Stakeholders were less interested in formal governance than initially anticipated
     - The design initially overestimated stakeholders' desire for approval rights over operational details. Most were happy to just stay informed
@@ -272,16 +259,21 @@ While the model ultimately proved effective, several challenges emerged that pro
     - More structured facilitation could have accelerated core team decision-making around initial project strategy allowing implementation to happen sooner
     - Clearer timeframes for different phases would have helped manage expectations
     - Dedicated facilitation resources for key transition points would have improved efficiency
+    - More investment in facilitation and guidence will be needed to push this model out to non-web3 savvy contexts: *"I think you would need a huge mindset shift and training, as it isn't easy to facilitate these types of structures."* (Stakeholder Group member)
 5. **Technical Complexity**:
     - The technical infrastructure presented learning curves for some participants especially members of the stakeholder group
     - Integration between traditional and Web3 tools created occasional friction
     - Documentation of technical processes was sometimes insufficient for non-technical participants
+6. Legal/Financial Structuring:
+	- A friction point for the project was the lack of a formal legal structure to wrap the project. This led to SuperBenefit having a tax liability resulting from the administration of the RPP finances  
+	- There was also significant time, effort and cost involved in transferring the funding for the project from Fiat (Canadian dollars) into crypto (ETH & USDC). This seemingly quick and simple process turned out to be anything but. 
+
 
 ### Conclusion
 
 The RPP governance design demonstrates the potential of applying [[artifacts/guides/dao-primitives-framework/dao-primitives-framework|DAO Primitives framework]] to complex multi-stakeholder initiatives. By thoughtfully balancing stakeholder oversight with operational autonomy and deliberately designing for different scales of coordination, the model enabled effective collaboration across organizational boundaries while maintaining alignment with core purpose.
 
-There are of course improvements to make for future versions of this governance design. Many of the aspects of the project that were less than optimal reflect the fact that this project, as well as engaging in experiments, was in itself an experiment. Indeed the entire multi-stakeholder-governance model was experimental. Thus the learning outlined above will be used to inform evolution of this model.
+There are of course improvements to make for future versions of this governance design. Many of the aspects of the project that were less than optimal reflect the fact that this project, as well as engaging in experiments, was in itself an experiment. Indeed the entire multi-stakeholder-governance model was experimental. Thus the learning outlined above will be used to inform the evolution of this model.
 
 ---
 
@@ -300,6 +292,7 @@ Here is an outline of how the governance structure of the RPP.
 - **Stages**: Implementation across Group Phases - Conversation, Formation, Organization, Coordination
 - **Primitives**: DAOs, [[tags/cells|Cells]], [[tags/roles|Roles]], [[tags/tasks|Tasks]]
 - **Patterns**: [[notes/dao-primitives/implementation/patterns/coordination-scale-patterns/cell-working-group|Cell Working Group]], [[notes/dao-primitives/implementation/patterns/constituency-scale-patterns/multi-stakeholder-governance|Multi-stakeholder Governance]], [[notes/dao-primitives/implementation/patterns/constituency-scale-patterns/community-governance|Community Governance]]
+- Guides: [implementation-guide-multi-stakeholder-governance](artifacts/guides/dao-primitives-framework/dao-primitives-implemention/implementation-guide-multi-stakeholder-governance.md)
 
 ### Technical Components
 

@@ -37,6 +37,7 @@ To effectively leverage the Pattern Library:
 - **[[patterns]]**
   - **[[collaboration-scale-patterns]]**
   - **[[constituency-scale-patterns]]**
+    - [[multi-stakeholder-governance]]
   - **[[coordination-scale-patterns]]**
   - **[[dao-patterns]]**
   - **[[network-scale-patterns]]**
