@@ -24,7 +24,7 @@
   "upload": {
     "behavior": "obsidian",
     "defaultName": "content",
-    "rootFolder": "",
+    "rootFolder": "content",
     "yamlFolderKey": "",
     "frontmatterTitle": {
       "enable": false,
@@ -80,7 +80,7 @@
     "unHandledObsidianExt": [],
     "sendSimpleLinks": true,
     "forcePush": true,
-    "useObsidianFolder": true,
+    "useObsidianFolder": false,
     "bake": {
       "textBefore": "",
       "textAfter": ""

@@ -6,7 +6,7 @@ author:
   - Metagov
 tags:
   - metagovernance
-publish: "true"
+publish: false
 description: 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Regen Coordination Common Approach - Kickoff Workshop
 description: A workshop exploring structured impact reporting and coordination frameworks for regenerative finance projects, featuring the Common Approach framework, Karma GAP reporting tools, and RetroQF implementation.
-publish: "true"
+publish: false
 type: workshop
 source: http://lu.ma/e/r/g-T8BVEBj9vjAuVnw
 author:

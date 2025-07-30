@@ -1,7 +1,7 @@
 ---
 title: A Pocket Guide to DAO Frameworks
 description: A concise exploration of the primary technical frameworks for building and operating DAOs, clarifying their distinct approaches to governance and coordination.
-publish: "true"
+publish: false
 type: guide
 source: https://mirror.xyz/morereese.eth/85QxsC_e650TYvojH51GbLpo93hhAjBi1xJspiU25b0
 author:

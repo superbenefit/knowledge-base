@@ -1,7 +1,7 @@
 ---
 title: The Future of Work is Human
 description: An exploration of how evolving technologies and emerging organizational models are reshaping work to prioritize human connection, meaning, and flourishing over industrial efficiency.
-publish: "true"
+publish: true
 type: report
 source: https://enliveningedge.org/tools-practices/future-work-human/
 author:

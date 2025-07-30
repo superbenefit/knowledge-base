@@ -8,7 +8,7 @@ tags:
   - governance
 curator:
   - rathermercurial.eth
-publish: "true"
+publish: false
 type: link, practice
 functions:
   - governance
