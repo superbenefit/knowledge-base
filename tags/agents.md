@@ -28,7 +28,7 @@ The [Anticapture framework](Anticapture.md) describes agents as decision-making 
 
 ### Agents in DAOs and Web3
 
-In [DAOs](tags/daos.md) and web3 contexts, agents include core contributors, token holders, community members, and autonomous teams ([Cells](cell.md)) that participate in network governance and operations. These agents interact through transparent [protocols](tags/protocols.md) and operate with varying levels of [autonomy](tags/autonomy.md) while remaining aligned with collective [purpose](tags/purpose.md).
+In [DAOs](tags/daos.md) and web3 contexts, agents include core contributors, token holders, community members, and autonomous teams ([Cells](artifacts/patterns/cell.md)) that participate in network governance and operations. These agents interact through transparent [protocols](tags/protocols.md) and operate with varying levels of [autonomy](tags/autonomy.md) while remaining aligned with collective [purpose](tags/purpose.md).
 
 As described in [DAOs aren't things... they are flows](artifacts/articles/network-evolution%201/DAOs%20aren't%20things...%20they%20are%20flows..md), DAOs function as "purpose-aligned networks of small autonomous teams" where these agent-teams self-organize around opportunities while maintaining coherence within the broader network. These agents exercise their agency through mechanisms like submitting proposals, contributing to projects, participating in governance, and allocating [resources](tags/resources.md).
 

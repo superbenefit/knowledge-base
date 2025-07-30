@@ -356,6 +356,8 @@ Implementation should follow a phased approach that allows for learning and adap
 - Operational network recruits contributors and partners from across wider community network
 - Ongoing review and evolution of both stakeholder group and operational governance as the partnership progresses
 
+For an example of a multi-stakeholder governance set up see [RPP Governance Case Study](artifacts/studies/projects/rpp-governance-case-study.md)
+
 ### State Documentation
 
 Throughout implementation, document the current state of governance to provide clarity and enable effective participation.

@@ -56,5 +56,9 @@ _Notes and other documents from the Reimagining Power project at SuperBenefit_
       - [[Playbooks - RPP]]
       - [[Reimagining Power Project - Stakeholder Reflection Responses]]
   - **[[rpp-working-docs]]**
+  - **[[working-docs]]**
+    - [[state]]
+  - **[[working-drafts]]**
+    - [[nucleus]]
 
 %% End Waypoint %%

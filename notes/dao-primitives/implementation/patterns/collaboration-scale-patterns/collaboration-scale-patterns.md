@@ -16,13 +16,8 @@ These patterns provide practical implementations of the Cell primitive, describi
 
 %% Begin Waypoint %%
 - **[[collaboration-scale-patterns]]**
-  - [[cell-state-template|Group State Template]]
-  - [[cell-state|Cell state (pattern)]]
-  - [[cell]]
   - [[circle|Circle]]
-  - [[decider|Decider]]
   - [[decision-log|Decision log]]
-  - [[ephemeral-cell|Ephemeral Cell]]
   - [[nucleus|Nucleus]]
 
 %% End Waypoint %%

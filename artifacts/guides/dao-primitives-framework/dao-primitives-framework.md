@@ -177,7 +177,7 @@ For networks of organizations working together, the framework provides:
 - Shared language and concepts for designing collaborative structures
 - Interoperability standards that enable effective coordination
 - Scalable governance patterns for managing network-level decisions
-- See [RPP Governance Design Case Study](/notes/dao-primitives/implementation/case-studies/rpp-governance-case-study.md)
+- See [RPP Governance Design Case Study](artifacts/studies/projects/rpp-governance-case-study.md)
 
 ## Enabling Collective Intelligence
 
