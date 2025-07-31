@@ -31,13 +31,7 @@
       "key": "title"
     },
     "replaceTitle": [],
-    "replacePath": [
-      {
-        "regex": "/^/(.+)$/",
-        "replacement": "$1",
-        "type": "path"
-      }
-    ],
+    "replacePath": [],
     "autoclean": {
       "includeAttachments": true,
       "enable": false,
@@ -67,8 +61,8 @@
     },
     "links": {
       "internal": true,
-      "unshared": true,
-      "wiki": false,
+      "unshared": false,
+      "wiki": true,
       "slugify": "disable",
       "unlink": true,
       "relativePath": false,
@@ -116,5 +110,5 @@
     "setFrontmatterKey": "Set",
     "migrated": true
   },
-  "tabsId": "text-conversion"
+  "tabsId": "upload-configuration"
 }
