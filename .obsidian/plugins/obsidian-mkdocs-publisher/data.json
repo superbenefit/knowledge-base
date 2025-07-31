@@ -5,7 +5,7 @@
     "branch": "rpp-update",
     "automaticallyMergePR": false,
     "dryRun": {
-      "enable": true,
+      "enable": false,
       "folderName": "enveloppe"
     },
     "tokenPath": "%configDir%/plugins/%pluginID%/env",
@@ -19,7 +19,7 @@
     },
     "otherRepo": [],
     "verifiedRepo": true,
-    "rateLimit": 4998
+    "rateLimit": 4294
   },
   "upload": {
     "behavior": "obsidian",
@@ -40,7 +40,7 @@
     ],
     "autoclean": {
       "includeAttachments": true,
-      "enable": true,
+      "enable": false,
       "excluded": []
     },
     "folderNote": {
@@ -116,5 +116,5 @@
     "setFrontmatterKey": "Set",
     "migrated": true
   },
-  "tabsId": "github-configuration"
+  "tabsId": "upload-configuration"
 }
