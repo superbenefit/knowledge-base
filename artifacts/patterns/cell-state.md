@@ -155,20 +155,6 @@ A careful balancing of the cost of creating and maintaining cell state vs the ga
 
 ---
 
-
-```dataview
-LIST description
-WHERE contains(patterns, this.file.name)
-AND (
-    !contains(file.path, "tools/")
-    AND !contains(file.path, "drafts/")
-)
-AND (
-    contains(type, "playbook") OR
-    (type = "playbook")
-)
-```
-
 ## Implementation
 
 ### Template
