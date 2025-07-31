@@ -29,7 +29,7 @@ _A pattern for creating and managing group state for purpose aligned networks of
 
 ## Problem / Solution Context
 
-This pattern is designed to be used in the creation of [cells](artifacts/guides/dao-primitives-framework/group-primitives/cells.md)) as [collaboration](artifacts/guides/dao-primitives-framework/group-scale/collaboration-scale.md) scale teams as described in the [DAO Primitives Framework](artifacts/guides/dao-primitives-framework/dao-primitives-framework.md)
+This pattern is designed to be used in the creation of [cells](artifacts/guides/dao-primitives-framework/group-primitives/cells.md) as [collaboration](artifacts/guides/dao-primitives-framework/group-scale/collaboration-scale.md) scale teams as described in the [DAO Primitives Framework](artifacts/guides/dao-primitives-framework/dao-primitives-framework.md)
 
 Capturing and maintaining a cell's state is fundamental to enabling both autonomous operation and effective network coordination within DAOs. A clear and consistent cell state document serves as a living state that enables the cell to maintain coherence while evolving and provides transparency for network-level coordination. Without documented state, Cells risk falling into internal dysfunction and lack of effectiveness. They also fail to fully leverage the value of coordination and efficient resource and information flows across the network.
 
