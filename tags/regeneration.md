@@ -1,14 +1,14 @@
 ---
 title: Regeneration
 description: The active restoration and enhancement of social and ecological systems, going beyond sustainability to create net-positive outcomes that build resilience and vitality
-harvester: heenal
+harvester: heenal.eth
 tags:
   - values
   - practices
 aliases:
   - "#regeneration"
   - "#regenerative"
-publish: "false"
+publish: "true"
 ---
 
 _Regeneration refers to the active restoration and enhancement of ecological and social systems beyond mere sustainability, creating net-positive outcomes that build resilience, vitality, and the capacity for self-renewal while addressing root causes of degradation and inequity._

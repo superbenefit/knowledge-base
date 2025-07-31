@@ -1,14 +1,14 @@
 ---
 title: Mutual Aid
 description: Collective coordination where communities share resources, skills, and care directly with one another to meet needs, build resilience, and create alternatives to hierarchical systems
-harvester: heenal
+harvester: heenal.eth
 tags:
   - practices
   - coordination
   - values
 aliases:
   - "#mutual-aid"
-publish: "false"
+publish: "true"
 ---
 
 _Mutual aid refers to voluntary, reciprocal exchange of resources, care, and support among community members to meet collective needs, operating through horizontal relationships rather than hierarchical charity, and grounded in principles of solidarity, autonomy, and shared responsibility._

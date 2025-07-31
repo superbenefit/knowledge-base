@@ -16,7 +16,7 @@ tags:
   - community
   - networks
   - decentralization
-publish: "false"
+publish: true
 type: pattern
 ---
 

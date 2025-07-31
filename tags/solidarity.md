@@ -1,14 +1,14 @@
 ---
 title: Solidarity
 description: A principle of unity and mutual support among individuals or groups based on shared interests, purposes, and responsibilities, which empowers collective action and reciprocal care beyond charity or philanthropy
-harvester: heenal
+harvester: heenal.eth
 tags:
   - values
   - coordination
   - practices
 aliases:
   - "#solidarity"
-publish: "false"
+publish: "true"
 ---
 
 _Solidarity is a form of social unity where individuals recognize their interdependence and shared interests with others, creating bonds of mutual support and collective responsibility that transcend self-interest, enabling coordinated action for common purpose and wellbeing._

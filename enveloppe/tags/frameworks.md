@@ -44,7 +44,7 @@ The various frameworks discussed in the "Governance for better futures" series o
 ## Related Concepts
 
 - **[Primitives](tags/primitives.md#)**: Fundamental building blocks that frameworks organize into coherent systems
-- **[Patterns](tags/Patterns.md#)**: Reusable solutions to common problems that frameworks often incorporate and contextualize
+- **[patterns](tags/patterns.md#)**: Reusable solutions to common problems that frameworks often incorporate and contextualize
 - **[Protocols](tags/protocols.md#)**: Standardized procedures that implement framework principles in specific domains
 - **[modules](tags/modules.md#)**: Self-contained components that can be arranged according to framework principles
 - **[Playbooks](tags/playbooks.md#)**: Practical guides that apply frameworks to specific implementation contexts

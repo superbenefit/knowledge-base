@@ -1,8 +1,9 @@
 ---
 title: Emergence
 description: The phenomenon where properties, behaviors, or outcomes arise from interactions and relationships between system components, rather than from individual parts alone, creating collective capabilities that exceed the sum of individual contributions
-harvester: heenal
-publish: false
+harvester:
+  - heenal.eth
+publish: true
 type: tag
 aliases:
   - "#emergence"

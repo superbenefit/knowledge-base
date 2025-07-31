@@ -38,7 +38,7 @@ The facilitation process follows these key steps:
 
 1. **Assessing Context**: Understanding the group's current phase, scale, and state
 2. **Identifying Needs**: Determining the most pressing challenges and opportunities
-3. **Selecting Patterns**: Choosing appropriate organizational patterns from the [[patterns|Pattern Library]]
+3. **Selecting Patterns**: Choosing appropriate organizational patterns from the [[tags/patterns|Pattern Library]]
 4. **Implementing Solutions**: Adapting and applying these patterns to the specific context
 5. **Evolving & Iterating**: Continuously refining the approach based on feedback
 
@@ -181,7 +181,7 @@ Based on the articulated [[tags/purpose|purpose]] and mapped requirements, the d
 
 The discovery phase should have surfaced key insights into what qualities the group wants from its governance approach—whether they prioritize maximally decentralized [[tags/decisions|decision-making]], trust and capture resistance, technical sophistication, or other values. These insights become crucial selection criteria when evaluating governance options.
 
-Review the [[artifacts/guides/dao-primitives-framework/index|dao-primitives framework]] along with [[patterns|patterns]] and [[case-studies|case-studies]] to guide the group toward settling on a governance approach that matches their outlined requirements rather than defaulting to popular or familiar options that may not fit their context.
+Review the [[artifacts/guides/dao-primitives-framework/index|dao-primitives framework]] along with [[tags/patterns|patterns]] and [[case-studies|case-studies]] to guide the group toward settling on a governance approach that matches their outlined requirements rather than defaulting to popular or familiar options that may not fit their context.
 
 #### 2. Entities and Agreements
 
@@ -202,7 +202,7 @@ The design process involves determining which combination of these [[tags/primit
 
 Based on the chosen [[governance|governance]] approach, the design team builds out a complete governance and operational model by selecting patterns and [[tags/primitives|primitives]] best suited to delivering the desired functionality. This selection process requires balancing multiple considerations: the group's current capacity, their growth projections, the complexity they can manage, and the specific [[tags/coordination|coordination]] challenges they face.
 
-Governance and operational patterns can be found in [[patterns|patterns]]. Facilitators should help the group select patterns that work effectively in conjunction with the chosen primitives (DAOs, Cells, Roles & Tasks) to create a governance and operational system that functions as intended rather than creating elegant structures that fail in practice.
+Governance and operational patterns can be found in [[tags/patterns|patterns]]. Facilitators should help the group select patterns that work effectively in conjunction with the chosen primitives (DAOs, Cells, Roles & Tasks) to create a governance and operational system that functions as intended rather than creating elegant structures that fail in practice.
 
 #### 4. Feedback and Approval
 

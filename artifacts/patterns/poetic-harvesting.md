@@ -2,7 +2,7 @@
 title: Poetic Harvesting
 description: A practice of acting as sacred witness to collective conversations and reflecting wisdom back through spoken word poetry
 url: 
-author: []
+author: 
 tags:
   - primitives
   - documentation
@@ -16,7 +16,7 @@ tags:
   - governance
   - gatherings
   - sensemaking
-publish: "false"
+publish: true
 type: pattern
 ---
 
