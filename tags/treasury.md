@@ -47,7 +47,7 @@ The treasury is the primary [[tags/resources|shared resource]] that a DAO's [[ta
 - [[tags/wallets|Wallets]]: The treasury itself is often a multi-signature wallet or smart contract, and members use their personal wallets to vote on its use.
 <<<<<<< HEAD
 - [[test-pattern|Cells]]: The autonomous operational units often funded by the DAO's treasury to perform work.
-- [[A Pocket Guide to DAO Frameworks]]: An overview of technical systems that define how a treasury can be managed.
+- [[drafts/trash/A Pocket Guide to DAO Frameworks]]: An overview of technical systems that define how a treasury can be managed.
 =======
 - [[notes/dao-primitives/test-resources/test-pattern|Cells]]: The autonomous operational units often funded by the DAO's treasury to perform work.
 - [[notes/links/to-review/A Pocket Guide to DAO Frameworks]]: An overview of technical systems that define how a treasury can be managed.

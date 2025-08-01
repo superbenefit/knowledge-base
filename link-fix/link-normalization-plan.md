@@ -27,19 +27,22 @@ The current mix of link formats (absolute wikilinks, relative wikilinks, markdow
 #### Available Tools
 - **MCP Filesystem Access**: Direct read/write access to vault files
 - **Obsidian MCP Tools**: Access to Obsidian Local REST API (when running)
+- **Templater Plugin**: JavaScript-based template execution within Obsidian
 - **Analysis Tool**: JavaScript execution for data processing
 - **Artifacts**: For creating scripts and documentation
 
 #### Target Link Format
-All internal links should be normalized to markdown format with absolute paths from vault root:
-- **Primary format**: `[Display Text](/absolute/path/from/root/file.md)` - All links should use this format
+All internal links should be normalized to markdown format with absolute paths from vault root **WITHOUT leading slashes**:
+- **Primary format**: `[Display Text](absolute/path/from/root/file.md)` - Note: NO leading slash
+- **Critical**: Remove all leading slashes from internal link paths (e.g., `/tags/daos.md` → `tags/daos.md`)
 - **Wikilinks**: Only preserved if auto-generated or absolutely necessary
 - **External links**: Preserved exactly as-is
 
-This reduces transformation requirements in the publishing pipeline as markdown links are universally compatible.
+This format is essential for proper compatibility with Enveloppe and Quartz. Leading slashes can cause path resolution issues in the publishing pipeline.
 
 ### Success Criteria
-- ✓ All internal links use absolute paths from vault root
+- ✓ All internal links use absolute paths from vault root WITHOUT leading slashes
+- ✓ All internal links converted to markdown format (not wikilinks)
 - ✓ No broken links remain (except documented external resources)
 - ✓ Publishing pipeline (Enveloppe/Quartz) processes all files successfully
 - ✓ No loss of link functionality or display text
@@ -83,8 +86,8 @@ Do not modify the file directly - show me the proposed changes first.
 **Summary**: Create a complete database of all links in the vault. This inventory will be our reference throughout the normalization process.
 
 ```
-Claude, please create a Python script as an artifact titled "Link Inventory Scanner" that:
-1. Recursively scans all .md files in F:\projects\sb-knowledge-base
+Claude, please create a Templater script as an artifact titled "Link Inventory Scanner" that:
+1. Uses Templater functions to recursively scan all .md files in the vault
 2. Extracts all links (both wikilinks [[]] and markdown links []())
 3. For each link, captures:
    - Source file path
@@ -99,7 +102,13 @@ Claude, please create a Python script as an artifact titled "Link Inventory Scan
 6. Generates summary statistics
 7. Handles errors gracefully and logs them
 
-After creating the script, execute it and show me the summary statistics.
+Template should use:
+- tp.file.find_tfile() for file operations
+- app.vault.read() for reading file content
+- Regular expressions for link extraction
+- window.fs.writeFile() for CSV output
+
+Save the template as /link-fix/link-inventory-scanner.md
 ```
 
 ### Step 1.4: Identify Broken Links
@@ -107,7 +116,7 @@ After creating the script, execute it and show me the summary statistics.
 
 ```
 Claude, using the link inventory CSV from step 1.3:
-1. Create a report of all broken links (where target file doesn't exist)
+1. Create a Templater script that reads the CSV and analyzes broken links
 2. Group them by source directory
 3. For each broken link, search for similar filenames in the vault
 4. Suggest potential fixes based on:
@@ -124,15 +133,19 @@ Claude, using the link inventory CSV from step 1.3:
 ```
 Claude, analyze the link inventory and create a JSON artifact titled "Link Mapping Rules" containing:
 1. Pattern matching rules for common link types:
-   - [[../tags/X]] → [X](/tags/X.md) (wikilink to markdown conversion)
-   - ../tags/X.md → /tags/X.md (relative to absolute path)
-   - ../../artifacts/X → /artifacts/X.md
+   - [[/tags/X]] → [X](tags/X.md) (remove leading slash)
+   - [[../tags/X]] → [X](tags/X.md) (relative to absolute)
+   - ../tags/X.md → tags/X.md (relative to absolute)
+   - ../../artifacts/X → artifacts/X.md
+   - /absolute/path.md → absolute/path.md (remove leading slash)
    - Simple filename → full path resolution
 2. Wikilink to markdown conversion rules:
-   - [[path|alias]] → [alias](/absolute/path.md)
-   - [[path]] → [path](/absolute/path.md)
+   - [[path|alias]] → [alias](absolute/path.md)
+   - [[path]] → [path](absolute/path.md)
+   - [[/path/file]] → [file](path/file.md) (remove leading slash)
    - Preserve only if marked as auto-generated
 3. Special case handlers for:
+   - Leading slash removal from all internal paths
    - URL-encoded filenames (%20 for spaces)
    - Missing .md extensions
    - Anchor links (#section)
@@ -179,9 +192,10 @@ Claude, please:
 **Summary**: Create the core script that will transform links according to our rules while preserving all other content.
 
 ```
-Claude, create a Python script as an artifact titled "Link Normalizer" that:
+Claude, create a Templater script as an artifact titled "Link Normalizer" that:
 1. Normalizes links in markdown files with these features:
-   - Convert all links to markdown format with absolute paths
+   - Convert all links to markdown format with absolute paths (NO leading slashes)
+   - Remove any leading slashes from internal paths
    - Convert wikilinks to markdown format (unless auto-generated)
    - Preserve external links (http/https) exactly
    - Maintain display text and aliases
@@ -199,7 +213,13 @@ Claude, create a Python script as an artifact titled "Link Normalizer" that:
 4. Use the mapping rules from /link-fix/link-mapping-rules.json
 5. Generate detailed change report
 
-Save the script as /link-fix/link-normalizer.py
+Template should use:
+- tp.file.content to read current file
+- Regular expressions for link matching
+- app.vault.modify() to update files
+- window.fs for file operations
+
+Save the script as /link-fix/link-normalizer.md
 ```
 
 ### Step 2.2: Create Test Suite
@@ -237,7 +257,7 @@ Claude, test the normalization script on these files and create a detailed repor
    - F:\projects\sb-knowledge-base\artifacts\patterns\community-governance.md
    - F:\projects\sb-knowledge-base\tags\daos.md
    - F:\projects\sb-knowledge-base\index.md
-2. Run link-normalizer.py on each in dry-run mode
+2. Run link-normalizer.md template on each in dry-run mode
 3. Create a comparison report showing:
    - Original link → Normalized link for each change
    - Any links skipped and why
@@ -251,14 +271,16 @@ Claude, test the normalization script on these files and create a detailed repor
 **Summary**: Build a tool to verify link integrity after normalization.
 
 ```
-Claude, create a Python script as an artifact titled "Link Validator" that:
+Claude, create a Templater script as an artifact titled "Link Validator" that:
 1. Scans markdown files for all links
 2. Verifies each link:
    - Internal links point to existing files
    - Absolute paths are used (except external)
+   - NO leading slashes on internal paths
    - No broken references
    - Proper encoding maintained
 3. Reports:
+   - Any links with leading slashes (critical issue)
    - Broken links by file
    - Relative paths found
    - External links summary
@@ -268,7 +290,12 @@ Claude, create a Python script as an artifact titled "Link Validator" that:
    - Detailed CSV report
    - Markdown report for documentation
 
-Save as /link-fix/link-validator.py
+Template should use:
+- app.vault.getMarkdownFiles() to get all files
+- tp.file.find_tfile() to check file existence
+- Regular expressions for link validation
+
+Save as /link-fix/link-validator.md
 ```
 
 ### Step 2.5: Phase 2 Wrap-up
@@ -296,7 +323,7 @@ Claude, create a phase summary at /link-fix/normalization-phase-2-summary.md con
 ```
 Claude, please:
 1. Read phase summaries 1 and 2
-2. Test that all scripts run without errors
+2. Test that all Templater scripts run without errors
 3. Review the vault statistics and estimate processing time
 4. Check available disk space for backups
 5. Confirm the processing strategy is sound
@@ -306,18 +333,17 @@ Claude, please:
 **Summary**: Add production-ready features to handle processing hundreds of files safely and efficiently.
 
 ```
-Claude, enhance the link-normalizer.py script with these batch processing features:
+Claude, enhance the link-normalizer.md template with these batch processing features:
 1. Directory processing:
-   - Recursive directory traversal
+   - Recursive directory traversal using app.vault.getMarkdownFiles()
    - Include/exclude patterns
-   - File filtering (only .md files)
+   - File filtering (exclude drafts, tools, enveloppe)
 2. Progress tracking:
    - Files processed counter
    - Estimated time remaining
    - Current file being processed
 3. Batch operations:
    - Process multiple files in sequence
-   - Parallel processing option (with thread limit)
    - Memory-efficient for large vaults
 4. Safety features:
    - Confirm before processing >10 files
@@ -343,7 +369,7 @@ Claude, create a detailed processing order plan:
    - Prioritizes published content (/artifacts/)
    - Handles reference content next (/tags/)
    - Processes project notes by importance
-   - Leaves drafts for last
+   - Excludes drafts, tools, and enveloppe directories
 3. For each directory, note:
    - Number of files
    - Estimated links to process
@@ -382,7 +408,7 @@ Claude, create a pre-flight checklist for batch processing:
    - Backup verified
    - Disk space available
    - Scripts tested
-   - Obsidian closed
+   - Obsidian running (for Templater)
 2. Data validation:
    - Link inventory current
    - Broken links documented
@@ -435,7 +461,7 @@ Claude, please:
 
 ```
 Claude, execute a dry-run of link normalization on artifacts:
-1. Run link-normalizer.py on F:\projects\sb-knowledge-base\artifacts in dry-run mode
+1. Run link-normalizer.md template on F:\projects\sb-knowledge-base\artifacts in dry-run mode
 2. Generate a summary report showing:
    - Total files to be processed
    - Total links to be changed
@@ -467,7 +493,7 @@ Claude, execute a dry-run of link normalization on artifacts:
 Claude, execute link normalization on the artifacts directory:
 1. Create backup directory: /link-fix/backups/artifacts-[timestamp]
 2. Copy all artifacts files to backup location
-3. Run link-normalizer.py on F:\projects\sb-knowledge-base\artifacts
+3. Run link-normalizer.md template on F:\projects\sb-knowledge-base\artifacts
 4. Monitor execution and report:
    - Progress updates every 10 files
    - Any errors immediately
@@ -486,7 +512,7 @@ Claude, execute link normalization on the artifacts directory:
 
 ```
 Claude, validate all links in the processed artifacts:
-1. Run link-validator.py on F:\projects\sb-knowledge-base\artifacts
+1. Run link-validator.md template on F:\projects\sb-knowledge-base\artifacts
 2. Check for:
    - Any remaining relative paths
    - Broken links (target doesn't exist)
@@ -602,7 +628,7 @@ Claude, check for cross-reference consistency:
 
 ```
 Claude, validate all reference content:
-1. Run link-validator.py on:
+1. Run link-validator.md template on:
    - /tags/ directory
    - All root .md files
 2. Create comprehensive report of:
@@ -629,7 +655,7 @@ Claude, create phase summary at /link-fix/normalization-phase-5-summary.md conta
 ---
 
 ## Phase 6: Execution - Working Content
-**Purpose**: Process all remaining working content including project notes, drafts, and specialized directories. This phase handles the bulk of the vault's content.
+**Purpose**: Process all remaining working content including project notes. This phase handles the bulk of the vault's content.
 
 ### Step 6.0: Review Context and Strategy
 **Summary**: Assess remaining work and refine processing strategy.
@@ -678,19 +704,16 @@ Claude, process special directories with care:
    - Verify conflicts were resolved
    - Process with extra logging
    - Watch for duplicate entries
-2. /tools/ directory:
-   - May contain template files
-   - Preserve template variables
+2. /attachments/ directory:
+   - May have image references
    - Document any special handling
-3. /drafts/ directory:
-   - Lower priority but still normalize
-   - May have more broken links
-   - Document but don't fix broken links
-4. For each directory:
+3. For each directory:
    - Run individually
    - Review changes before execution
    - Create summary report
-5. Save as /link-fix/special-directories-summary.md
+4. Save as /link-fix/special-directories-summary.md
+
+Note: Skip /tools/, /drafts/, and /enveloppe/ directories as instructed.
 ```
 
 ### Step 6.3: Process Remaining Files
@@ -699,14 +722,15 @@ Claude, process special directories with care:
 ```
 Claude, identify and process any remaining files:
 1. Scan vault for any .md files not yet processed
-2. List any found with their locations
-3. Determine why they were missed
-4. Process individually with careful review
-5. Common locations to check:
+2. Exclude /drafts/, /tools/, and /enveloppe/ directories
+3. List any found with their locations
+4. Determine why they were missed
+5. Process individually with careful review
+6. Common locations to check:
    - Hidden directories
    - Newly created files
    - Files with unusual extensions
-6. Document in /link-fix/remaining-files-summary.md
+7. Document in /link-fix/remaining-files-summary.md
 ```
 
 ### Step 6.4: Final Validation Sweep
@@ -714,8 +738,9 @@ Claude, identify and process any remaining files:
 
 ```
 Claude, perform final comprehensive validation:
-1. Run link-validator.py on entire vault:
+1. Run link-validator.md template on entire vault:
    F:\projects\sb-knowledge-base
+   (excluding /drafts/, /tools/, /enveloppe/)
 2. Generate report showing:
    - Total files scanned
    - Total links validated
@@ -766,7 +791,7 @@ Claude, please:
 
 ```
 Claude, create a comprehensive link analysis:
-1. Scan entire vault with link-validator.py
+1. Run link-validator.md template on entire vault
 2. Compare with original link inventory from Phase 1
 3. Generate report showing:
    - Before/after statistics
@@ -858,7 +883,7 @@ Claude, please:
 
 ```
 Claude, fix remaining issues:
-1. Based on validation reports, create fix script for:
+1. Based on validation reports, create fix template for:
    - Any remaining relative paths
    - Broken links that can be resolved
    - Format inconsistencies
@@ -895,7 +920,7 @@ Claude, create a maintenance guide as artifact "Link Maintenance Guide":
    - Renamed files
    - External link changes
 4. Validation scripts usage:
-   - How to run link-validator.py
+   - How to run link-validator.md template
    - Understanding reports
    - Quick fixes
 5. Save as /link-fix/link-maintenance-guide.md
@@ -936,7 +961,7 @@ Save as /link-fix/final-project-report.md
 Claude, organize project archive:
 1. Create /link-fix/archive/ directory
 2. Move all working files to appropriate subdirectories:
-   - /scripts/ - All Python scripts
+   - /scripts/ - All Templater scripts
    - /reports/ - All analysis and reports  
    - /backups/ - Backup references
    - /logs/ - Execution logs
