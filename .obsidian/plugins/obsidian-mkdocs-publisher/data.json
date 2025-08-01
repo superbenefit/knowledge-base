@@ -34,7 +34,7 @@
     "replacePath": [],
     "autoclean": {
       "includeAttachments": true,
-      "enable": false,
+      "enable": true,
       "excluded": []
     },
     "folderNote": {
@@ -64,7 +64,7 @@
       "unshared": false,
       "wiki": true,
       "slugify": "disable",
-      "unlink": true,
+      "unlink": false,
       "relativePath": false,
       "textPrefix": ""
     }
@@ -110,5 +110,5 @@
     "setFrontmatterKey": "Set",
     "migrated": true
   },
-  "tabsId": "upload-configuration"
+  "tabsId": "text-conversion"
 }
