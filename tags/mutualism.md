@@ -1,7 +1,7 @@
 ---
 title: Mutualism
 description: An economic and social philosophy emphasizing voluntary cooperation, reciprocal exchange, and mutual aid as foundations for organizing economic relationships without exploitation or centralized authority
-harvester: heenal
+harvester: heenal.eth
 tags:
   - economics
   - coordination
@@ -10,7 +10,7 @@ tags:
 aliases:
   - "#mutualism"
   - "#mutualist"
-publish: "false"
+publish: "true"
 ---
 
 _Mutualism is an economic and social philosophy that advocates for voluntary cooperation, reciprocal exchange, and mutual aid as the foundations for organizing economic relationships, emphasizing worker ownership of production means, fair exchange based on labor value, and decentralized coordination without exploitation or centralized authority._

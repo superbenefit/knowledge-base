@@ -1,8 +1,9 @@
 ---
 title: Fractal
 description: Self-similar patterns that repeat at different scales through recursive processes, creating organizational structures where smaller parts mirror the whole while maintaining coherence across levels
-harvester: heenal
-publish: false
+harvester:
+  - heenal.eth
+publish: true
 type: tag
 aliases:
   - "#fractal"

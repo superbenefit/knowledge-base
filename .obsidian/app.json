@@ -11,5 +11,6 @@
     "landscape": false,
     "margin": "2",
     "downscalePercent": 100
-  }
+  },
+  "livePreview": false
 }

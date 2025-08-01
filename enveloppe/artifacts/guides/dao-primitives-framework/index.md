@@ -146,7 +146,7 @@ The facilitation process typically involves:
 
 1. **Assessing Context**: Understanding the group's current phase, scale, and state
 2. **Identifying Needs**: Determining the most pressing challenges and opportunities
-3. **Selecting Patterns**: Choosing appropriate organizational patterns from the [Pattern Library](patterns.md#)
+3. **Selecting Patterns**: Choosing appropriate organizational patterns from the [Pattern Library](tags/patterns.md#)
 4. **Implementing Solutions**: Adapting and applying these patterns to the specific context
 5. **Evolving & Iterating**: Continuously refining the approach based on feedback
 
@@ -220,7 +220,7 @@ This multi-scale approach allows organizations to achieve:
 
 The framework is supported by a rich ecosystem of related resources:
 
-- The [Pattern Library](patterns.md#) provides reusable solutions to common organizational challenges
+- The [Pattern Library](tags/patterns.md#) provides reusable solutions to common organizational challenges
 - The [Implementation](implementation.md#) section offers practical guides and case studies
 - The [Resources](resources.md#) section provides templates and tools for implementation
 

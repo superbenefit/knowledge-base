@@ -1,7 +1,7 @@
 ---
 title: Mutual Credit
 description: Exchange systems where currency is created through transactions as corresponding credits and debits, enabling communities to facilitate trade without requiring external money supply or centralized banking infrastructure
-harvester: heenal
+harvester: heenal.eth
 tags:
   - economics
   - systems
@@ -11,7 +11,7 @@ aliases:
   - "#mutual-credit"
   - "#credit-clearing"
   - "#multilateral-barter"
-publish: "false"
+publish: "true"
 ---
 
 _Mutual credit is an exchange system where currency is created at the time of transactions as corresponding credits and debits in participant accounts, enabling communities to facilitate trade and resource sharing without requiring external money supply, interest-bearing debt, or centralized banking infrastructure._

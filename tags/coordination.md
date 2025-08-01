@@ -1,13 +1,14 @@
 ---
-title: Coordination 
+title: Coordination
 description: The processes, mechanisms, and systems that enable diverse agents to align their actions effectively toward shared goals without requiring centralized control
-harvester: rathermercurial.eth 
+harvester:
+  - rathermercurial.eth
 tags:
-- functions
-- primitives 
+  - functions
+  - primitives
 aliases:
-- "#coordination"
-publish: "true"
+  - "#coordination"
+publish: true
 ---
 
 _Coordination refers to the processes, mechanisms, and systems that enable diverse agents to align their actions effectively toward shared goals without requiring centralized control, creating coherent collective behavior while preserving individual autonomy._

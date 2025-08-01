@@ -2,7 +2,7 @@
 title: Polycentric
 description: Governance systems with multiple autonomous decision-making centers operating at different scales with overlapping responsibilities, enabling both local autonomy and coordinated collective action
 harvester: heenal
-publish: false
+publish: true
 type: tag
 aliases:
   - "#polycentric"
@@ -72,6 +72,6 @@ Polycentric commons governance often involves nested institutions where local re
 - [Key Examples of Polycentric Governance | Ostrom Workshop](https://ostromworkshop.indiana.edu/courses-teaching/teaching-tools/polycentric-goverance/key-examples.html) - Case studies and theoretical applications
 
 **SuperBenefit Context:**
-- [[tags/cooperative]] - Examples of multi-stakeholder governance with multiple decision-making centers
-- [[notes/solidarity-draft]] - Decentralized coordination systems aligning individual and collective outcomes
+- [[tags/cooperatives]] - Examples of multi-stakeholder governance with multiple decision-making centers
+- [[tags/solidarity-economics]] - Decentralized coordination systems aligning individual and collective outcomes
 - [[tags/governance]] - Multi-level governance approaches and democratic coordination mechanisms

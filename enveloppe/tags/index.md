@@ -68,7 +68,7 @@ This lexicon provides:
   - [Non-Fungible Tokens (NFTs)](tags/nfts.md#)
   - [Peer to Peer Payments](tags/p2p-payments.md#)
   - [Participatory Governance](tags/participatory-governance.md#)
-  - [Patterns](tags/Patterns.md#)
+  - [patterns](tags/patterns.md#)
   - [Payments](tags/payments.md#)
   - [Peer-to-peer](peer-to-peer.md#)
   - [Permissions](tags/permissions.md#)

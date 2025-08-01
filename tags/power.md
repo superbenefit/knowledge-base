@@ -3,7 +3,7 @@ title: Power
 publish: "true"
 type: tag
 harvester:
-  - heenal
+  - heenal.eth
 tags:
   - governance
   - transformation
