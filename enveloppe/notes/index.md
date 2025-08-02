@@ -30,7 +30,7 @@ Here, you'll find:
   - **[general-circle](general-circle.md#)**
   - **[ics](notes/ics/index.md#)**
   - **[rpp](notes/rpp/index.md#)**
-  - [Untitled](Untitled.md#)
+  - [Untitled](notes/Untitled.md#)
   - **[wp](wp.md#)**
 
 %% End Waypoint %%

@@ -1,0 +1,1863 @@
+File Path,Total Links,Wikilinks,Wikilinks with Alias,Wikilinks with Path,Wikilinks with Leading Slash,Markdown Links,Markdown Links with Leading Slash,External Links,Has Leading Slash Issues
+"README.md",26,0,0,0,0,18,0,8,NO
+"CONTRIBUTING.md",3,0,0,0,0,2,0,1,NO
+"index.md",6,0,0,0,0,5,0,1,NO
+"tags/tags.md",85,0,0,0,0,85,0,0,NO
+"tags/progress.md",6,0,0,0,0,6,0,0,NO
+"tags/ephemeral-cell.md",1,0,0,0,0,1,0,0,NO
+"tags/policies.md",4,0,0,0,0,4,0,0,NO
+"tags/autonomy.md",12,0,6,6,0,0,0,0,NO
+"tags/agents.md",20,0,0,0,0,20,0,0,NO
+"tags/actions.md",11,0,0,0,0,11,0,0,NO
+"tags/self-governance.md",23,3,0,3,0,12,0,5,NO
+"tags/solidarity-economics.md",6,0,0,0,0,6,0,0,NO
+"tags/polycentric.md",30,3,0,3,0,16,0,8,NO
+"tags/peer-to-peer.md",22,3,0,3,0,11,0,5,NO
+"tags/mutual-credit.md",7,0,0,0,0,7,0,0,NO
+"tags/mutualism.md",7,0,0,0,0,7,0,0,NO
+"tags/local-first.md",24,3,0,3,0,12,0,6,NO
+"tags/fractal.md",29,3,0,3,0,15,0,8,NO
+"tags/emergence.md",26,3,0,3,0,14,0,6,NO
+"tags/distributed.md",24,3,0,3,0,12,0,6,NO
+"tags/scale.md",10,0,0,0,0,10,0,0,NO
+"tags/protocols.md",11,0,0,0,0,9,0,2,NO
+"tags/privacy.md",8,0,0,0,0,8,0,0,NO
+"tags/primitives.md",12,3,3,6,0,0,0,0,NO
+"tags/local-nodes.md",4,0,0,0,0,4,0,0,NO
+"tags/groups.md",5,0,0,0,0,5,0,0,NO
+"tags/goals.md",8,0,0,0,0,8,0,0,NO
+"tags/frameworks.md",12,0,0,0,0,12,0,0,NO
+"tags/culture.md",13,1,0,1,0,11,0,0,NO
+"tags/coordination.md",13,0,0,0,0,13,0,0,NO
+"tags/coordi-nations.md",4,0,0,0,0,4,0,0,NO
+"tags/community.md",6,0,0,0,0,6,0,0,NO
+"tags/p2p-payments.md",0,0,0,0,0,0,0,0,NO
+"tags/participatory-governance.md",0,0,0,0,0,0,0,0,NO
+"tags/impact-attestations.md",0,0,0,0,0,0,0,0,NO
+"tags/treasury.md",24,4,9,11,0,0,0,0,NO
+"tags/semiotic-bridging.md",5,0,0,0,0,3,0,2,NO
+"tags/governance.md",20,0,0,0,0,20,0,0,NO
+"tags/resources.md",21,1,11,9,0,0,0,0,NO
+"tags/grants.md",22,2,10,10,0,0,0,0,NO
+"tags/digital-rights.md",0,0,0,0,0,0,0,0,NO
+"tags/wallets.md",16,0,8,8,0,0,0,0,NO
+"tags/solidarity.md",6,0,0,0,0,6,0,0,NO
+"tags/regeneration.md",8,0,0,0,0,8,0,0,NO
+"tags/refi.md",6,0,0,0,0,6,0,0,NO
+"tags/proto-dao.md",6,0,0,0,0,6,0,0,NO
+"tags/mutual-aid.md",6,0,0,0,0,6,0,0,NO
+"tags/cooperatives.md",6,0,0,0,0,6,0,0,NO
+"tags/complementary-currencies.md",6,0,0,0,0,6,0,0,NO
+"tags/data-sovereignty.md",11,0,0,0,0,11,0,0,NO
+"tags/transparency.md",9,0,0,0,0,9,0,0,NO
+"tags/vision.md",6,0,0,0,0,6,0,0,NO
+"tags/values.md",5,0,0,0,0,5,0,0,NO
+"tags/eligibility.md",12,0,0,0,0,9,0,3,NO
+"tags/accountability.md",1,0,0,0,0,1,0,0,NO
+"tags/authorities.md",0,0,0,0,0,0,0,0,NO
+"tags/responsibilities.md",8,0,0,0,0,8,0,0,NO
+"tags/Patterns.md",1,0,0,0,0,1,0,0,NO
+"tags/cosmolocalism.md",0,0,0,0,0,0,0,0,NO
+"tags/localism.md",2,0,0,0,0,2,0,0,NO
+"tags/consent.md",0,0,0,0,0,0,0,0,NO
+"tags/consensus.md",3,1,0,1,0,1,0,0,NO
+"tags/payments.md",0,0,0,0,0,0,0,0,NO
+"tags/refizz.md",0,0,0,0,0,0,0,0,NO
+"tags/readme.md",8,1,0,1,0,3,0,3,NO
+"tags/power.md",7,0,0,0,0,7,0,0,NO
+"tags/transformation.md",0,0,0,0,0,0,0,0,NO
+"tags/teams.md",0,0,0,0,0,0,0,0,NO
+"tags/tasks.md",4,0,2,2,0,0,0,0,NO
+"tags/systems.md",19,8,0,8,0,3,0,0,NO
+"tags/sustainability.md",14,5,0,5,0,4,0,0,NO
+"tags/purpose.md",0,0,0,0,0,0,0,0,NO
+"tags/roles.md",6,0,0,0,0,6,0,0,NO
+"tags/practices.md",10,0,0,0,0,10,0,0,NO
+"tags/playbooks.md",0,0,0,0,0,0,0,0,NO
+"tags/platforms.md",9,1,0,1,0,7,0,0,NO
+"tags/permissions.md",0,0,0,0,0,0,0,0,NO
+"tags/nfts.md",14,7,0,7,0,0,0,0,NO
+"tags/networks.md",17,0,8,8,0,1,0,0,NO
+"tags/modules.md",6,0,0,0,0,6,0,0,NO
+"tags/delegation.md",0,0,0,0,0,0,0,0,NO
+"tags/impact.md",8,0,0,0,0,8,0,0,NO
+"tags/defi.md",14,6,0,6,0,2,0,0,NO
+"tags/decisions.md",0,0,0,0,0,0,0,0,NO
+"tags/decentralization.md",0,0,0,0,0,0,0,0,NO
+"tags/daos.md",18,0,6,5,0,7,0,0,NO
+"tags/blockchain.md",4,0,0,0,0,2,0,2,NO
+"tags/attestations.md",8,0,0,0,0,4,0,4,NO
+"tags/agreements.md",0,0,0,0,0,0,0,0,NO
+"notes/Untitled.md",0,0,0,0,0,0,0,0,NO
+"notes/notes.md",21,4,0,4,0,13,0,0,NO
+"notes/cxi/cxi.md",21,20,0,1,0,0,0,0,NO
+"notes/cxi/Docs/2023-10-11 - CX Meeting 11 Oct 2023.md",0,0,0,0,0,0,0,0,NO
+"notes/cxi/Docs/Docs.md",0,0,0,0,0,0,0,0,NO
+"notes/cxi/Docs/2023-01-17 - DRAFT Proposal to create a Community Experience team for AIFS.md",8,0,0,0,0,4,0,4,NO
+"notes/cxi/Docs/2022-05-20 - Twitter Style Guide.md",12,0,0,0,0,6,0,6,NO
+"notes/cxi/Docs/2022-05-02 - May 2 CXI Meeting.md",0,0,0,0,0,0,0,0,NO
+"notes/cxi/Docs/2022-05-09 - May 9, 2022.md",5,5,0,0,0,0,0,0,NO
+"notes/cxi/Docs/2022-05-02 - Gnosis Safe for Governance Conversations Project.md",0,0,0,0,0,0,0,0,NO
+"notes/cxi/Docs/2022-05-02 - Community Resources intro rewrite.md",6,0,0,0,0,3,0,3,NO
+"notes/cxi/Docs/2022-04-18 - April 18 CXI Meeting.md",4,0,0,0,0,2,0,2,NO
+"notes/cxi/Docs/2022-04-22 - Contributor Guide kickoff meeting.md",3,3,0,0,0,0,0,0,NO
+"notes/cxi/Docs/2022-04-11 at 04-07 PM.md",6,0,0,0,0,3,0,3,NO
+"notes/cxi/Docs/2022-04-04 at 04-10 PM.md",4,0,0,0,0,2,0,2,NO
+"notes/cxi/Docs/2022-03-27 - web3 Inclusivity Summit.md",27,1,0,0,0,17,0,9,NO
+"notes/cxi/Docs/2022-03-31 at 01-32 PM.md",1,1,0,0,0,0,0,0,NO
+"notes/cxi/Docs/2022-03-21 at 04-00 PM.md",2,0,0,0,0,1,0,1,NO
+"notes/cxi/Docs/2022-03-15 at 02-53 PM.md",0,0,0,0,0,0,0,0,NO
+"notes/cxi/Docs/2022-03-15 at 01-20 AM.md",0,0,0,0,0,0,0,0,NO
+"notes/cxi/Tasks/Tasks.md",0,0,0,0,0,0,0,0,NO
+"notes/cxi/Tasks/⬜️ CXI-300 Pace & Information Discussion Agenda.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/general-circle.md",275,275,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/old-gc-tasks.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-99 Create Tooling Process Guide.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-83 Recruit designer.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-81 Write Discord channel descriptions.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-77 Build Community Relationships _.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-78 Spec Ember NFT.md",8,0,0,0,0,5,0,3,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-67 Pre-launch strategy.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-76 Reach out to DAO Community Experience Leads to garner learning.md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-51 Review Member Archetype Table.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-44 Communications prep for NFT Drop.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-281 Propose final allocation of tokens for Systems Transformation Project.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-42 NFT Top patron rewards design (issued on close of genesis period).md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-43 Community spaces ready for NFT Drop .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-288 Clarity Update.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-280 Michelle talk to OTF about funds flowing through Reimagine Institute .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-276 SBP13 - Allocating SPRB & USDC to projects to fund interim Rev 1 contributor rewards .md",17,14,0,3,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-279 Bring a project team to talk through the design - block off a couple of hours for a working session. .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-277 Treasury Allocation for SBP13 & SBP6.md",8,0,0,0,0,4,0,4,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-275 SBP12- Design resourcing for the Future of Sport Roadmapping Project.md",5,1,0,0,0,2,0,2,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-273 Synthesize the Purpose of the Project .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-274 Sessions 1 Planning & Agenda.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-271 Explore different tooling possibilities .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-270 Contact Forefront to see if they are open to collaborating .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-267 Find a cool graphic that captures what we are trying to do.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-268 Create a new Figjam board .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-266 Create a Mirror post .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-265 CCS Workshop.md",8,0,0,0,0,4,0,4,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-264 Draft Proposal -  for grant application with Windfall.md",6,0,0,0,0,3,0,3,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-263 SuperBenefit Proposal.md",12,0,0,0,0,6,0,6,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-262 Conflict of Interest (COI) Proposal.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-257 Proposal SBP8- DAO Primitive Project_.md",3,0,0,0,0,2,0,1,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-258 We can post this and the contributor guide and be open to feedback and review again at the end of Rev 1 .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-261 Design DAO initiation cell.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-256 SuperBenefit Consulting Design .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-242 Discuss how we are going to reward ourselves and other contributors (Rowan).md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-240 Look into setting up a recurring weekly meeting template on Clarity.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-246 [BOUNTY] Distribute some $SPRB to the Discord community.md",5,3,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-255 SuperBenefit Consulting Design.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-237 Give Ryan access to DNS controls.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-238 Craft v1 invitation + guiding questions (for panel + audience) .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-233 [BOUNTY] Twitter Style Guide.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-234 [BOUNTY] Twitter Content Creator & Engagement.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-224 Apply for metagov.org funding for research project .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-227 Project - governance design experiment #1.md",4,2,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-221 Create appropriate category-ies in web3 library and make video to show process for adding items to library .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-229 Develop Bounty for someone to run our Twitter .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-210 Weekly Update - March 9, 2022.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-220 Curate the metagovernance pieces into the web3 library .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-219 #187 Create a set of steps for multisig signers to follow .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-209 Proposal for Contributor Guide.md",68,6,0,0,0,31,0,31,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-208 1-1 Meetings - Set Up Calendly.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-207 Find SB Community on Twitter & Engage.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-197 Update Rules screen on Discord .md",3,0,0,0,0,2,0,1,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-195 Set up calendly and include in Discord.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-186 Create a set of steps for multisig holders to follow to create, approve or reject a wallet transaction. .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-191 Review Discord Onboarding Flow.md",10,0,0,0,0,7,0,3,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-181 [BOUNTY] Revamp Notion Getting Started page.md",3,1,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-183 Develop launch invitation and process.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-178 Develop hello world intro video.md",2,0,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-173 Governance & Treasury get together to figure out a process for bounties and budget allocation .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-167 Proposal to adopt ToC.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-170 Last call for feedback on the ToC .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-175  SuperBenefit AMA Plan-Agenda.md",2,0,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-165 [BOUNTY] Discord -_ notion web3 library bot .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-160 Publish communication strategy, key dates, and link to copy deck and-or post content directly .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-159 Publish a specific ask (_Time to get involved, your help is needed to share the news of our public launch_) .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-157 Add mini community survey to Discord welcome message.md",5,0,0,0,0,3,0,2,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-158 [BOUNTY] SuperBenefit Origin Story Artifact.md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-153 [BOUNTY] Develop a Pluriverse Reflection Guide.md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-147 Collaborate with CCS on web3 impact library.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-143 Connect with @lewwwk to capture the SB genesis story .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-139 [BOUNTY] Provide a summary of approaches to rewarding past contributors.md",9,3,0,0,0,3,0,3,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-123 Brainstorm Question of the Day ideas.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-121 Develop & Publish CXI Bounties.md",2,0,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-96 [PASSED] Proposal- Create Reflection Practice Coordinator Role in Community Experience Squad.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-103 find 3 identity designers.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/⬜️ SUP-102 Help Peter create a project.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-95 Create Tooling Guide.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-91 Create and deploy ERC20 SPRB contract.md",2,0,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-9 General Circle Lead invites individuals into Squad Lead roles.md",11,11,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-92 Clarify Discord Roles and Flow.md",5,5,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-90 Outline Treasury Strategy.md",2,1,0,1,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-87 find a designer for the origin NFT.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-88 Write copy for NFT.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-89 Check Mirror Parameters.md",6,0,0,0,0,3,0,3,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-86 write a design brief for this thing.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-84 Crowdfund NFT.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-85 come up with a name for this thing.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-82 Scope out what a map might look like.md",5,0,0,0,0,3,0,2,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-80 Write brand design brief.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-75 Recruitment Messaging.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-72 Meet with leads to discuss their needs.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-8 Appoint the General Circle Lead.md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-71 Update Community Resources Notion site.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-69 Set up CRM system.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-70 Complete FAQ.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-66 Run contribution recognition event.md",1,0,0,0,0,1,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-65 Design contribution recognition and reward process.md",5,3,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-64 [DRAFT] Proposal to execute contributor airdrop.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-60 Draft Season 0 Roadmap.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-63 Initial $SPRB allocation parameters.md",8,7,0,0,0,1,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-6 Takeaway Tour - include web3 resources.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-58 Notes template for meeting capture by Secretary drafted and shared.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-56 Format for Tactical Meetings drafted and shared.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-57 First Tactical Meeting scheduled.md",2,0,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-55 Proposal 0- v1 SuperBenefit DAO Governance Model.md",11,10,0,1,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-53 Proposal 1- Initiate Governance with @Lewwwk as General Circle Lead.md",6,0,0,0,0,4,0,2,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-50 Weekly Update (Jan 11) & Share for Townhall.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-54 Proposal 2- Adopt the SuperBenefit Ethos.md",8,1,0,0,0,4,0,3,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-5 Tidy up Notion web3 library.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-49 Weekly Update (Jan 4).md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-48 Draft Survey (similar to SeedClub).md",2,0,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-47 Refactor Guilds.md",2,0,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-4 Edit start here channels.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-33 @Lewwwk to publish and propose v0 Mission, Vision, Values..md",2,0,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-32 Invite the community to revisit and contribute to the existing Mission, Vision, Values work in Miro.md",2,0,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-34 Develop Community Hosting & Onboarding Plan.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-38 Update Roles and #role-selection channel.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-28 Plan for Safe Space & Verification.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-29 Create # learn-101 resources channel.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-272 Think about tooling and create a Figjam board .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-27 Outreach to existing SB Community .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-269 Ask Taryn if she can take notes.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-254 Twitter List - Folks with adjacent interest.md",18,0,0,0,0,9,0,9,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-26 Set Up DAO Contributor Tracking on Notion.md",2,0,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-253 Give Discord contributor role to seeddisburser, caryn, curiousath, ash, ayusha, steve wadell, michael redhead champagne... who else__ .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-251 Update introduction-invitation on the Community Resources site .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-252 Tidy up Clarity Tasks & Projects .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-249 Coordinape Allocation Reflection.md",1,0,0,0,0,1,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-245 Draw up outline of steps to set up a multi-sig wallet for SB projects.md",2,0,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-248 Test member onboarding into clarity.md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-244 Reach out to cpoetter from rabbithole .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-243 Reach out to ananth.eth from rabbithole .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-239 Governance research project (Rev 1) DAO-Cell founding doc.md",2,0,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-241 Sketch out the meta governance categories listed in the miro board .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-235 Setting up GnosisSafe wallets for latest proposals .md",8,0,0,0,0,4,0,4,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-232 Think about writing an article about _entity thinking_ .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-228 Set up gnosis safe wallet for project .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-226 Post this proposal in proposal-development channel .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-223 Proposal 4- Initiate the Governance Conversations project (Rev 1).md",4,2,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-225 Set up Miro as working space .md",2,0,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-222 Proposal for Governance Research Project (Rev1).md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-218 Reach out to Sarah Drinkwater to see if she can bring in folks from Mobius and for a general chat .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-217 MB follow up with Caryn Tan .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-21 Refactor discord channels for clarity.md",5,0,0,0,0,4,0,1,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-198 SBP2- [Treasury] Reimbursement of Revolution 0 Expense.md",7,0,0,0,0,5,0,2,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-190 2,000,000 back to the originating SB address (so that they can be bridged to Polygon for Rev 1 contributions via Coinvise).md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-20 Streamline permissions management and requests process.md",3,3,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-194 CXI Tactical Meeting #6.md",5,3,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-187 Steps for multisig signers to follow.md",8,0,0,0,0,4,0,4,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-185 Add section on how to purchase a NFT on Mirror to the Community Resources site .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-188 25,000 to each of the 8 circle leads.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-184 Publish Role Advice Process.md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-182 CXI Tactical Meeting #5.md",8,8,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-18 General Circle implements governance token.md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-177 Weekly Update Feb 22.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-176 SuperBenefit Townhall & Agenda.md",6,0,0,0,0,3,0,3,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-174 Follow up with Peter to make an introduction to Ayusha .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-172 Publish call for contributions to identity design project in communication guild .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-171 Set up new thread and project on landscaping and sense-making design .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-169 Activate Discord channel refactor .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-168 Wrap ToC project.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-166 Design first expedition. Frame up how to do a first run through of a surfacing, selection and allocation process.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-164 [BOUNTY] Update _Getting Started to web3_ Notion page.md",7,1,0,0,0,3,0,3,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-163 Mini-Review of Governance conducted and recommendations shared.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-162 CXI Tactical Meeting #4.md",13,11,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-155 Point people to the Impact tag in the web3 library - post in Discord .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-156 Post about NAS Academy course .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-161 Publish _how to setup a wallet_ content .md",4,0,0,0,0,2,0,2,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-154 CXI Tactical Meeting #3.md",3,3,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-152 Update Discord welcome message.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-15 General Circle shares and tests the governance token concept for Contributors.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-151 Pre-launch contribution register.md",23,21,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-150 Pre-share post with web3 influencers.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-144 Q- should web3 be capitalized sometimes, always, never_ .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-145 guide page needs to be populated with articles widget .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-149 Tidy up CXI Resources on Clarity.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-142 test reward.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-14 General Circle develops a governance token concept ($SPRB).md",2,2,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-140 Draw up high-level outline of the resource flow squad.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-138 Proposal 3- Create $SPRB ERC20 token for the SuperBenefit DAO [DRAFT].md",16,4,0,0,0,7,0,5,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-141 CXI Tactical Meeting #2.md",22,4,0,0,0,9,0,9,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-13 Squads and General Circle do their work.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-135 Launch Strategy.md",2,0,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-136 Write crowdfund post.md",2,0,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-137 Create SB Multisig.md",4,0,0,0,0,2,0,2,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-129 Compile ToC Feedback .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-127 ToC Announcement in Discord-Reminder of Review Session.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-126 Announcement in Discord about ToC Feedback Process.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-128 Reminder ToC Feedback in Discord.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-124 Update learning pathways page on Notion .md",2,0,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-120 [DRAFT] Proposal to create new roles in the Community Experience Squad.md",2,0,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-125 Weekly Update - Feb 1.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-122 CXI Tactical Meeting #1.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-118 add assumptions for percentage allocation to demonstrate embedding SB values e.g. allocation of $ crowdfund in relation to contributors.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-12 General Circle convenes its second Tactical Meeting.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-117 community has ability to make changes to this distribution so start with this straw dog, get started .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-119 Weekly Update (Jan 18).md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-115 SPRB Design Conversation.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-113 Connect with people following up from Town Hall.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-114 Send survey with ToC .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-111 Delete web3 library content .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-110 Note to General Circle on process for adding new articles to web3 library .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-11 Squads convene their own Tactical Meetings .md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-109 Attend onboarding for Krause House .md",5,0,0,0,0,5,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-108 CXI Tactical Meeting #0.md",9,0,0,0,0,5,0,4,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-104 @Lewwwk to Boost the account.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-107 @Lewwwk Finalize Lead Roles for Alex and Rowan.md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-100 Set up metrics tracking in Notion.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-tasks/✅ SUP-10 General Circle convenes its first Tactical Meeting.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (12-11-2023).md",8,0,0,0,0,4,0,4,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (12-04-2023).md",4,0,0,0,0,2,0,2,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (18-11-2024).md",6,0,0,0,0,3,0,3,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (06-05-2024).md",12,0,0,0,0,6,0,6,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (16-06-2025).md",8,0,0,0,0,4,0,4,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (21-10-2024).md",8,0,0,0,0,4,0,4,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (28-04-2025).md",8,0,0,0,0,4,0,4,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (11-11-2024).md",6,0,0,0,0,3,0,3,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (31-03-2025).md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (24-03-2025).md",2,0,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-meetings/General Circle Weekly 22424.md",6,0,0,0,0,3,0,3,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (01-04-2024).md",6,0,0,0,0,3,0,3,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (15-04-2024).md",4,0,0,0,0,2,0,2,NO
+"notes/general-circle/old-gc-meetings/General Circle Meeting 181223.md",12,0,0,0,0,6,0,6,NO
+"notes/general-circle/old-gc-meetings/General Circle Meeting 8124.md",4,0,0,0,0,2,0,2,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (29-07-2024).md",6,0,0,0,0,3,0,3,NO
+"notes/general-circle/old-gc-meetings/General Circle Meeting (112723).md",6,0,0,0,0,3,0,3,NO
+"notes/general-circle/old-gc-meetings/GC weekly meeting 91224.md",6,0,0,0,0,3,0,3,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (31-10-2025).md",6,0,0,0,0,3,0,3,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (27-01-2025).md",6,0,0,0,0,3,0,3,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (30-06-2025).md",10,0,0,0,0,5,0,5,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (26-05-2025).md",10,0,0,0,0,5,0,5,NO
+"notes/general-circle/old-gc-meetings/GC weekly meeting 24624.md",4,0,0,0,0,2,0,2,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (24-02-2025).md",8,0,0,0,0,4,0,4,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (23-06-2025).md",8,0,0,0,0,4,0,4,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (21-02-2024).md",6,0,0,0,0,3,0,3,NO
+"notes/general-circle/old-gc-meetings/GC weekly meeting 19824.md",18,0,0,0,0,9,0,9,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (19-05-2025).md",8,0,0,0,0,4,0,4,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (17-03-2025).md",10,0,0,0,0,5,0,5,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (14-04-2025).md",8,0,0,0,0,4,0,4,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (13-01-2025).md",4,0,0,0,0,2,0,2,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (12-05-2025).md",6,0,0,0,0,3,0,3,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (09-06-2025).md",8,0,0,0,0,4,0,4,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (10-02-2025).md",6,0,0,0,0,3,0,3,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (07-04-2025).md",4,0,0,0,0,2,0,2,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (03-03-2025).md",6,0,0,0,0,3,0,3,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (06-01-2025).md",8,0,0,0,0,4,0,4,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (03-02-2025).md",6,0,0,0,0,3,0,3,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (02-06-2025).md",10,0,0,0,0,5,0,5,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (17-02-2025).md",6,0,0,0,0,3,0,3,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (30-09-2024).md",10,0,0,0,0,5,0,5,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (07-10-2024).md",8,0,0,0,0,4,0,4,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (26-08-2024).md",6,0,0,0,0,3,0,3,NO
+"notes/general-circle/old-gc-meetings/GC Weekly Meeting (9924).md",16,0,0,0,0,8,0,8,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (23-09-2024).md",6,0,0,0,0,3,0,3,NO
+"notes/general-circle/old-gc-meetings/GC Weekly Meeting (15724).md",6,0,0,0,0,3,0,3,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (05-08-2024).md",6,0,0,0,0,3,0,3,NO
+"notes/general-circle/old-gc-meetings/General Circle Weekly Meeting 29124.md",4,0,0,0,0,2,0,2,NO
+"notes/general-circle/old-gc-meetings/General Circle Weekly Meeting 22124.md",4,0,0,0,0,2,0,2,NO
+"notes/general-circle/old-gc-meetings/General Circle weekly meeting 25324.md",4,0,0,0,0,2,0,2,NO
+"notes/general-circle/old-gc-meetings/General Circle weekly meeting 18324.md",6,0,0,0,0,3,0,3,NO
+"notes/general-circle/old-gc-meetings/General Circle Weekly Meeting 15124.md",4,0,0,0,0,2,0,2,NO
+"notes/general-circle/old-gc-meetings/General Circle Weekly Meeting (281024).md",6,0,0,0,0,3,0,3,NO
+"notes/general-circle/old-gc-meetings/General Circle Weekly Meeting 5224.md",4,0,0,0,0,2,0,2,NO
+"notes/general-circle/old-gc-meetings/General Circle Weekly Meeting (141024).md",12,0,0,0,0,6,0,6,NO
+"notes/general-circle/old-gc-meetings/General Circle Weekly Meeting (61724).md",6,0,0,0,0,3,0,3,NO
+"notes/general-circle/old-gc-meetings/General Circle Weekly Meeting (112023).md",2,0,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-meetings/General Circle Weekly Meeting (41124).md",6,0,0,0,0,3,0,3,NO
+"notes/general-circle/old-gc-meetings/General Circle Weekly Meeting (29424).md",6,0,0,0,0,3,0,3,NO
+"notes/general-circle/old-gc-meetings/General Circle Weekly Meeting (27524).md",8,0,0,0,0,4,0,4,NO
+"notes/general-circle/old-gc-meetings/General Circle Weekly Meeting (26224).md",4,0,0,0,0,2,0,2,NO
+"notes/general-circle/old-gc-meetings/General Circle Weekly Meeting (20524).md",6,0,0,0,0,3,0,3,NO
+"notes/general-circle/old-gc-meetings/General Circle Weekly Meeting (19224).md",4,0,0,0,0,2,0,2,NO
+"notes/general-circle/old-gc-meetings/General Circle Weekly Meeting (10624).md",6,0,0,0,0,3,0,3,NO
+"notes/general-circle/old-gc-meetings/General Circle Weekly Meeting (12224).md",10,0,0,0,0,5,0,5,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (31-01-2022).md",28,23,0,3,0,1,0,1,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (31-07-2023).md",9,5,0,2,0,1,0,1,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (30-10-2023).md",17,5,0,0,0,6,0,6,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (30-05-2022).md",8,6,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (30-01-2023).md",13,5,0,0,0,4,0,4,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (29-08-2022).md",5,5,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (29-04-2024).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (29-05-2023).md",3,3,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (29-01-2024).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (28-11-2022).md",24,7,0,1,0,8,0,8,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (28-10-2024).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (28-08-2023).md",9,7,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (28-03-2022).md",13,11,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (28-02-2022).md",11,11,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (27-12-2021).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (27-11-2023).md",9,5,0,0,0,2,0,2,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (27-06-2022).md",6,4,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (27-05-2024).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (27-03-2023).md",8,4,0,0,0,2,0,2,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (27-02-2023).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (26-12-2022).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (26-09-2022).md",7,4,0,1,0,1,0,1,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (26-06-2023).md",8,4,0,0,0,2,0,2,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (26-02-2024).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (25-12-2023).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (25-09-2023).md",16,6,0,0,0,5,0,5,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (25-07-2022).md",6,4,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (25-04-2022).md",19,7,0,0,0,6,0,6,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (25-03-2024).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (24-10-2022).md",10,6,0,0,0,2,0,2,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (24-07-2023).md",11,6,0,1,0,2,0,2,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (24-06-2024).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (24-04-2023).md",4,2,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (24-01-2022).md",24,14,0,0,0,5,0,5,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (23-10-2023).md",6,4,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (23-05-2022).md",16,8,0,0,0,4,0,4,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (23-01-2023).md",12,4,0,0,0,4,0,4,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (22-08-2022).md",7,6,0,1,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (22-05-2023).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (22-04-2024).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (22-01-2024).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (21-11-2022).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (21-02-2022).md",12,8,0,0,0,2,0,2,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (21-03-2022).md",12,8,0,0,0,2,0,2,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (21-08-2023).md",10,6,0,0,0,2,0,2,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (20-12-2021).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (20-06-2022).md",4,2,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (20-05-2024).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (20-11-2023).md",11,5,0,0,0,3,0,3,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (20-03-2023).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (19-09-2022).md",17,7,0,0,0,5,0,5,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (20-02-2023).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (19-12-2022).md",10,5,0,1,0,2,0,2,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (19-08-2024).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (19-06-2023).md",3,3,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (18-12-2023).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (19-02-2024).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (18-09-2023).md",4,3,0,1,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (18-07-2022).md",6,6,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (18-04-2022).md",20,10,0,0,0,5,0,5,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (18-03-2024).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (17-10-2022).md",17,8,0,1,0,4,0,4,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (17-07-2023).md",10,5,0,1,0,2,0,2,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (17-06-2024).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (17-04-2023).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (17-01-2022).md",9,9,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (16-10-2023).md",8,4,0,0,0,2,0,2,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (16-09-2024).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (16-05-2022).md",14,7,0,0,0,4,0,3,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (16-01-2023).md",13,6,0,1,0,3,0,3,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (15-08-2022).md",10,6,0,0,0,2,0,2,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (15-07-2024).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (15-05-2023).md",7,4,0,1,0,1,0,1,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (15-01-2024).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (14-11-2022).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (14-10-2024).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (14-08-2023).md",3,1,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (14-03-2022).md",12,10,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (13-12-2021).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (14-02-2022).md",16,14,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (13-11-2023).md",41,5,0,0,0,18,0,18,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (13-06-2022).md",7,7,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (13-02-2023).md",15,3,0,0,0,6,0,6,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (13-03-2023).md",14,4,0,0,0,6,0,4,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (13-05-2024).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (12-12-2022).md",17,4,0,0,0,7,0,6,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (12-09-2022).md",8,6,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (12-06-2023).md",5,3,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (12-02-2024).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (11-12-2023).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (11-04-2022).md",12,10,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (11-09-2023).md",3,1,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (11-07-2022).md",9,5,0,0,0,2,0,2,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (11-03-2024).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (10-10-2022).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (10-07-2023).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (10-06-2024).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (10-04-2023).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (10-01-2022).md",24,23,0,1,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (09-12-2024).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (09-10-2023).md",11,5,0,0,0,3,0,3,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (09-09-2024).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (09-01-2023).md",7,5,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (09-05-2022).md",13,9,0,0,0,3,0,1,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (08-08-2022).md",4,4,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (08-05-2023).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (08-01-2024).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (07-11-2022).md",29,11,0,0,0,9,0,9,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (07-08-2023).md",7,4,0,1,0,1,0,1,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (07-03-2022).md",6,4,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (07-02-2022).md",23,15,0,0,0,4,0,4,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (06-11-2023).md",17,5,0,0,0,6,0,6,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (06-06-2022).md",16,8,0,0,0,4,0,4,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (06-03-2023).md",6,4,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (06-02-2023).md",19,10,0,3,0,3,0,3,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (05-12-2022).md",43,4,0,1,0,19,0,19,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (05-09-2022).md",6,6,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (05-06-2023).md",5,3,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (05-02-2024).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (04-12-2023).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (04-11-2024).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (04-09-2023).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (04-07-2022).md",10,5,0,1,0,2,0,2,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (04-04-2022).md",10,8,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (04-03-2024).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (03-10-2022).md",4,4,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (03-07-2023).md",4,3,0,1,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (03-06-2024).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (03-04-2023).md",9,4,0,1,0,2,0,2,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (03-01-2022).md",8,7,0,0,0,1,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (02-09-2024).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (02-10-2023).md",7,5,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (02-05-2022).md",15,7,0,0,0,4,0,4,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (02-01-2023).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (01-08-2022).md",15,8,0,1,0,3,0,3,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (01-05-2023).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (01-01-2024).md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-meetings/GC Meeting (31-10-2022).md",22,12,0,2,0,4,0,4,NO
+"notes/general-circle/old-gc-meetings/old-gc-meetings.md",204,204,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-docs/old-gc-docs.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-docs/2023-08-07 - SPB15 - Establish an initial Cell to work on the Windfall NFT Project .md",2,0,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-docs/2023-06-27 - Reimagining Power Cell Proposal.md",8,3,0,1,0,2,0,2,NO
+"notes/general-circle/old-gc-docs/2023-08-07 - Windfall NFT Project Cell State.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-docs/2023-07-24 - Systems Transformation Project wrap-up.md",15,2,0,1,0,6,0,6,NO
+"notes/general-circle/old-gc-docs/2023-04-03 - Contribution Register & Coordinape Process for Systems Transformation Project.md",8,2,0,0,0,3,0,3,NO
+"notes/general-circle/old-gc-docs/2022-11-14 - Potential things to add to governance in the future.md",3,1,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-docs/2023-01-09 - Systems Transformation Framework Template.md",4,1,0,0,0,2,0,1,NO
+"notes/general-circle/old-gc-docs/2022-11-29 - test doc.md",2,2,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-docs/2022-10-28 - CCS Workshop & Elective planning meeting - Oct 28, 2022.md",3,3,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-docs/2022-10-18 - Systems Transformation Project Meeting - October 17, 2022.md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-docs/2022-10-17 - Systems Transformation Repository-Library - CELL Nucleus.md",28,4,0,2,0,11,0,11,NO
+"notes/general-circle/old-gc-docs/2022-10-28 - Systems Transformation Project Meetings .md",104,3,0,0,0,53,0,48,NO
+"notes/general-circle/old-gc-docs/2022-07-05 - DAO Primitive Project - Weekly Meeting Doc.md",11,1,0,1,0,5,0,4,NO
+"notes/general-circle/old-gc-docs/2022-06-29 - DAO Primitive Project - CELL State - (founding doc).md",31,3,0,2,0,13,0,13,NO
+"notes/general-circle/old-gc-docs/2022-06-20 - SB Draft governance concept v2.md",13,6,0,1,0,3,0,3,NO
+"notes/general-circle/old-gc-docs/2022-05-31 - SB Governance Musings - June 2022.md",8,6,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-docs/2022-05-17 at 08-52 PM.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-docs/2022-05-17 - Contributor Guide - meeting notes May 27, 2022.md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-docs/2022-04-26 - Meeting Notes - 26 April 2022.md",3,1,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-docs/2022-04-26 - Framing for Governance Conversations.md",3,1,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-docs/2022-04-12 - Governance Conversations Project - 12 April 2022.md",13,3,0,0,0,5,0,5,NO
+"notes/general-circle/old-gc-docs/2022-04-19 - Web3 Social Impact Series.md",19,3,0,0,0,10,0,6,NO
+"notes/general-circle/old-gc-docs/2022-04-22 at 12-39 AM.md",9,2,0,1,0,3,0,3,NO
+"notes/general-circle/old-gc-docs/2022-03-21 - Notes - Governance Conversations.md",16,0,0,0,0,8,0,8,NO
+"notes/general-circle/old-gc-docs/2022-03-20 at 11-27 PM.md",23,1,0,0,0,11,0,11,NO
+"notes/general-circle/old-gc-docs/2022-03-14 at 04-14 PM.md",2,0,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-docs/2022-03-08 at 08-14 PM.md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-docs/2022-03-08 at 02-11 AM.md",21,1,0,0,0,10,0,10,NO
+"notes/general-circle/old-gc-docs/2022-02-22 at 12-40 AM.md",15,4,0,1,0,5,0,5,NO
+"notes/general-circle/old-gc-docs/2022-02-21 at 08-56 PM.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-docs/2022-02-21 at 08-52 PM.md",11,3,0,0,0,4,0,4,NO
+"notes/general-circle/old-gc-docs/2022-02-03 at 11-15 PM.md",5,2,0,0,0,2,0,1,NO
+"notes/general-circle/old-gc-docs/2022-02-02 at 12-33 PM.md",3,1,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-docs/2022-02-02 at 10-57 PM.md",21,1,0,0,0,10,0,10,NO
+"notes/general-circle/old-gc-docs/2022-01-30 at 12-21 PM.md",5,0,0,0,0,3,0,2,NO
+"notes/general-circle/old-gc-docs/2022-01-28 at 05-30 PM.md",10,2,0,0,0,4,0,4,NO
+"notes/general-circle/old-gc-docs/2022-01-27 at 02-05 AM.md",2,0,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-docs/2022-01-26 at 11-51 AM.md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-docs/2022-01-26 at 11-47 AM.md",6,2,0,0,0,2,0,2,NO
+"notes/general-circle/old-gc-docs/2022-01-26 at 05-03 PM.md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-docs/2022-01-25 at 07-34 PM.md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-docs/2022-01-23 at 02-52 PM.md",5,1,0,1,0,3,0,0,NO
+"notes/general-circle/old-gc-docs/2022-01-21 at 02-58 PM.md",2,1,0,1,0,0,0,0,NO
+"notes/general-circle/old-gc-docs/2022-01-19 at 01-02 AM.md",3,1,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-docs/2022-01-15 at 05-21 PM.md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-docs/2022-01-11 at 02-01 PM.md",4,2,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-docs/2022-01-09 at 10-16 PM.md",4,2,0,2,0,0,0,0,NO
+"notes/general-circle/old-gc-docs/2022-01-04 at 02-45 PM.md",4,0,0,0,0,2,0,2,NO
+"notes/general-circle/old-gc-docs/2022-01-03 at 06-43 PM.md",3,3,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-docs/2022-01-03 at 06-08 PM.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-docs/2022-01-02 at 04-11 PM.md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-docs/2022-01-01 at 10-03 PM.md",2,1,0,1,0,0,0,0,NO
+"notes/general-circle/old-gc-docs/2022-01-01 at 06-15 PM.md",13,2,0,1,0,5,0,5,NO
+"notes/general-circle/old-gc-docs/2021-12-31 at 04-10 PM.md",4,2,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-docs/2021-12-30 at 04-09 PM.md",5,1,0,0,0,2,0,2,NO
+"notes/general-circle/old-gc-docs/2021-12-29 at 04-28 PM.md",2,0,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-docs/2021-12-27 at 06-30 PM.md",13,1,0,1,0,6,0,5,NO
+"notes/general-circle/old-gc-docs/2021-12-26 at 08-00 PM.md",11,4,0,0,0,4,0,3,NO
+"notes/general-circle/old-gc-docs/2021-12-22 at 07-18 PM.md",2,2,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-docs/2021-12-19 at 03-59 PM.md",3,3,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-docs/2021-12-18 at 01-45 PM.md",13,1,0,0,0,6,0,6,NO
+"notes/general-circle/old-gc-docs/2021-12-17 at 08-46 PM.md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-docs/2021-12-16 at 02-59 AM.md",51,0,0,0,0,26,0,25,NO
+"notes/general-circle/old-gc-docs/2021-12-16 at 01-07 AM.md",8,3,0,1,0,2,0,2,NO
+"notes/general-circle/old-gc-docs/2021-12-15 at 03-17 PM.md",6,3,0,1,0,1,0,1,NO
+"notes/general-circle/old-gc-docs/2021-12-15 at 05-20 PM.md",0,0,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-docs/2021-12-15 at 03-15 PM.md",30,2,0,0,0,14,0,14,NO
+"notes/general-circle/old-gc-docs/2021-12-15 at 02-06 AM.md",1,1,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-docs/2021-12-14 at 05-35 AM.md",13,1,0,0,0,6,0,6,NO
+"notes/general-circle/old-gc-docs/2021-12-14 at 04-54 PM.md",2,2,0,0,0,0,0,0,NO
+"notes/general-circle/old-gc-docs/2021-12-14 at 05-00 PM.md",4,3,0,0,0,1,0,0,NO
+"notes/general-circle/old-gc-docs/2021-12-14 at 04-02 AM.md",4,2,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-docs/2021-12-14 at 02-53 PM.md",5,3,0,0,0,1,0,1,NO
+"notes/general-circle/old-gc-docs/2021-12-14 at 02-15 AM.md",16,5,0,0,0,6,0,5,NO
+"notes/general-circle/old-gc-docs/2021-12-12 at 07-17 PM.md",12,11,0,1,0,0,0,0,NO
+"notes/wp/wp-tasks/⬜️ EEP-310 SuperBenefitDAO Scope of Work.md",0,0,0,0,0,0,0,0,NO
+"notes/wp/wp-tasks/⬜️ EEP-311 Project Plan - WREEP.md",0,0,0,0,0,0,0,0,NO
+"notes/wp/wp-tasks/wp-tasks.md",0,0,0,0,0,0,0,0,NO
+"notes/wp/2023-08-07 - Windfall Energy Efficiency Project (WREEP) Cell State.md",72,0,0,0,0,36,0,36,NO
+"notes/wp/wp-meetings/WP Meeting (11-13-2023).md",6,0,0,0,0,3,0,3,NO
+"notes/wp/wp-meetings/WP Meeting (12-02-2024).md",10,0,0,0,0,5,0,5,NO
+"notes/wp/wp-meetings/WP Meeting (27-11-2023).md",6,0,0,0,0,3,0,3,NO
+"notes/wp/wp-meetings/WP Meeting (26-02-2024).md",6,0,0,0,0,3,0,3,NO
+"notes/wp/wp-meetings/WP Meeting (24-01-2023).md",4,0,0,0,0,2,0,2,NO
+"notes/wp/wp-meetings/WP Meeting (22-01-2024).md",6,0,0,0,0,3,0,3,NO
+"notes/wp/wp-meetings/WP Meeting (20-11-2023).md",12,0,0,0,0,6,0,6,NO
+"notes/wp/wp-meetings/WP Meeting (19-02-2024).md",4,0,0,0,0,2,0,2,NO
+"notes/wp/wp-meetings/WP Meeting (18-12-2023).md",8,0,0,0,0,4,0,4,NO
+"notes/wp/wp-meetings/WP Meeting (18-03-2024).md",13,0,0,0,0,7,0,6,NO
+"notes/wp/wp-meetings/WP Meeting (15-01-2024).md",4,0,0,0,0,2,0,2,NO
+"notes/wp/wp-meetings/WP Meeting (13-01-2024).md",13,0,0,0,0,7,0,6,NO
+"notes/wp/wp-meetings/WP Meeting (12-11-2023).md",6,0,0,0,0,3,0,3,NO
+"notes/wp/wp-meetings/WP Meeting (11-06-2023).md",5,1,0,0,0,2,0,2,NO
+"notes/wp/wp-meetings/WP Meeting (10-09-2023).md",1,1,0,0,0,0,0,0,NO
+"notes/wp/wp-meetings/WP Meeting (10-02-2023).md",10,3,0,1,0,3,0,3,NO
+"notes/wp/wp-meetings/WP Meeting (08-04-2023).md",3,1,0,0,0,1,0,1,NO
+"notes/wp/wp-meetings/WP Meeting (05-02-2024).md",4,0,0,0,0,2,0,2,NO
+"notes/wp/wp-meetings/WP Meeting (04-08-2024).md",13,0,0,0,0,7,0,6,NO
+"notes/wp/wp-meetings/WP Meeting (04-01-2024).md",15,0,0,0,0,8,0,7,NO
+"notes/wp/wp-meetings/WP Meeting (03-04-2024).md",4,0,0,0,0,2,0,2,NO
+"notes/wp/wp-meetings/WP Meeting (02-05-2024).md",4,0,0,0,0,2,0,2,NO
+"notes/wp/wp-meetings/WP Meeting (01-08-2024).md",6,0,0,0,0,3,0,3,NO
+"notes/wp/wp-meetings/WP Meeting (29-01-2024).md",4,0,0,0,0,2,0,2,NO
+"notes/wp/wp-meetings/WP Meeting (11-09-2023).md",3,1,0,0,0,1,0,1,NO
+"notes/wp/wp-meetings/WP Meeting (18-09-2023).md",3,1,0,0,0,1,0,1,NO
+"notes/wp/wp-meetings/WP Meeting (16-10-2023).md",21,1,0,0,0,10,0,10,NO
+"notes/wp/wp-meetings/WP Meeting (25-09-2023).md",7,1,0,0,0,3,0,3,NO
+"notes/wp/wp-meetings/WP Meeting (23-10-2023).md",3,1,0,0,0,1,0,1,NO
+"notes/wp/wp-meetings/WP Meeting (30-10-2023).md",5,1,0,0,0,2,0,2,NO
+"notes/wp/wp-meetings/Windfall Protocol Wrap-Up Meeting.md",4,0,0,0,0,2,0,2,NO
+"notes/wp/wp-meetings/wp-clarity-meeting-notes.md",56,3,0,1,0,26,0,26,NO
+"notes/wp/wp-meetings/WP Meeting (13-11-2023).md",5,1,0,0,0,2,0,2,NO
+"notes/wp/wp-meetings/wp-meetings.md",34,34,0,0,0,0,0,0,NO
+"notes/wp/wp.md",39,39,0,0,0,0,0,0,NO
+"notes/archive/clarity/sb-archive-search-plan.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Goals/⬜️ G-294 Internal Coordination Functions.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Goals/Goals.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Goals/⬜️ G-292 Community Coordination Protocol.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Goals/⬜️ G-291 Telling SuperBenefit's Story.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Goals/⬜️ G-272 Revolution 2 Update.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Goals/⬜️ G-204 Intervention 3- Creating a Soul-Bound Portal to a Better Future.md",6,0,0,0,0,3,0,3,NO
+"notes/archive/clarity/Goals/⬜️ G-269 SuperBenefit Playbooks.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Goals/⬜️ G-203 Intervention 6- The Look, Feel, and Story of a Better Future._.md",4,0,0,0,0,2,0,2,NO
+"notes/archive/clarity/Goals/⬜️ G-202 Intervention 5- A Commitment to Bridging Old Into Better_.md",2,0,0,0,0,1,0,1,NO
+"notes/archive/clarity/Goals/⬜️ G-201 Intervention 4- A Metacurrency for Metagovernance, Values and Acceleration_.md",4,0,0,0,0,2,0,2,NO
+"notes/archive/clarity/Goals/⬜️ G-200 Intervention 2- Building Capacity and Interdependence Through Governance.md",2,0,0,0,0,1,0,1,NO
+"notes/archive/clarity/Goals/⬜️ G-199 Intervention 1- Mapping pathways to the future.md",6,0,0,0,0,3,0,3,NO
+"notes/archive/clarity/Projects/⬜️ P-298 Participant Onboarding - WREEP.md",48,0,0,0,0,24,0,24,NO
+"notes/archive/clarity/Projects/Projects.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Projects/⬜️ P-68 Set up Information Systems.md",1,1,0,0,0,0,0,0,NO
+"notes/archive/clarity/Projects/⬜️ P-297 Information Management - SuperBenefit.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Projects/⬜️ P-296 Contributor Onboarding - SuperBenefit.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Projects/⬜️ P-290 Patterns & Modules - DAO Primitives.md",23,3,0,0,0,10,0,10,NO
+"notes/archive/clarity/Projects/⬜️ P-287 Re-Storying Power Project.md",8,4,0,2,0,1,0,1,NO
+"notes/archive/clarity/Projects/⬜️ P-289 Squad & Cell Facilitation - SuperBenefit.md",2,0,0,0,0,1,0,1,NO
+"notes/archive/clarity/Projects/⬜️ P-273 SB Governance Design - SuperBenefit.md",18,11,0,7,0,0,0,0,NO
+"notes/archive/clarity/Projects/⬜️ P-274 Tooling & Policy Cleanup - SuperBenefit.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Projects/⬜️ P-267 Initial Planning - Reimagining Power.md",26,7,0,1,0,9,0,9,NO
+"notes/archive/clarity/Projects/⬜️ P-265 microblog.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Projects/⬜️ P-263 All In For Sport - Collaboration.md",6,0,0,0,0,3,0,3,NO
+"notes/archive/clarity/Projects/⬜️ P-264 Systems Transformation Project.md",30,0,0,0,0,15,0,15,NO
+"notes/archive/clarity/Projects/⬜️ P-261 Windfall - Residential Energy NFT.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Projects/⬜️ P-260 TrustDAO - Child Welfare, Canada.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Projects/⬜️ P-257 DAO Primitives Framework.md",29,1,0,0,0,14,0,14,NO
+"notes/archive/clarity/Projects/⬜️ P-236 Krause House Collaboration.md",12,0,0,0,0,6,0,6,NO
+"notes/archive/clarity/Projects/⬜️ P-23 Community Experience Project.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Projects/⬜️ P-196 Information Squad- Revolution 1.md",6,2,0,0,0,2,0,2,NO
+"notes/archive/clarity/Projects/⬜️ P-193 Community Experience- Revolution 1.md",13,3,0,0,0,5,0,5,NO
+"notes/archive/clarity/Projects/⬜️ P-101 Branding & brand guidelines.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Projects/✅ P-79 SuperBenefit Identity and Brand Guidelines.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Projects/⬜️ P-106 Theory of change - Map #1.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Projects/✅ P-231 Proposal  - Establish a budget to fund bounties for Rev 1 .md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Projects/✅ P-7 Governance Implementation.md",3,2,0,1,0,0,0,0,NO
+"notes/archive/clarity/Projects/✅ P-74 Crowdfund - _Hello World_.md",2,0,0,0,0,1,0,1,NO
+"notes/archive/clarity/Projects/✅ P-31 v0 - Mission, Vision, Values.md",2,2,0,0,0,0,0,0,NO
+"notes/archive/clarity/Projects/✅ P-45 Launch $SPRB Governance Token.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Projects/✅ P-46 Contribution recognition and rewards event.md",1,1,0,0,0,0,0,0,NO
+"notes/archive/clarity/Projects/✅ P-230 Proposal - Establish a monthly budget for internal SuperBenefit activities (Rev1).md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Projects/✅ P-40 Membership NFT.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Projects/✅ P-179 Resource Flow strategy .md",2,0,0,0,0,1,0,1,NO
+"notes/archive/clarity/clarity.md",181,174,0,7,0,0,0,0,NO
+"notes/archive/clarity/Tags/Tags.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/welcome party.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/weeklys.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/web3.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/web3 library.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/web3 adventure tour.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/web3 & social impact series.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/treasury.md",35,5,0,0,0,15,0,15,NO
+"notes/archive/clarity/Tags/townhall.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/treasury squad.md",3,3,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/tooling.md",20,8,0,0,0,6,0,6,NO
+"notes/archive/clarity/Tags/token distribution contributor guide.md",2,2,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/theory of change.md",6,0,0,0,0,5,0,1,NO
+"notes/archive/clarity/Tags/the look, feel, and story of a better future.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/tension.md",2,2,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/templates.md",3,3,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/tasks.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/tactical meetings.md",7,5,0,0,0,1,0,1,NO
+"notes/archive/clarity/Tags/systems transformation.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/superbenefit.md",106,91,0,15,0,0,0,0,NO
+"notes/archive/clarity/Tags/superbenefit governance.md",6,6,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/superbenefit contributor guide - working draft.md",61,2,0,0,0,30,0,29,NO
+"notes/archive/clarity/Tags/superbenefit contributor guide - v1.md",78,3,0,1,0,37,0,37,NO
+"notes/archive/clarity/Tags/superbenefit community.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/storytelling.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/story.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/start here 👋.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/stakeholder.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/stakeholder governance.md",53,10,0,5,0,19,0,19,NO
+"notes/archive/clarity/Tags/squads.md",2,2,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/squad-proposals.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/squad updates.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/secretary.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/squad lead.md",1,1,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/roles.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/revolutions.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/roleadviceprocess.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/revolution 1- genesis.md",3,2,0,1,0,0,0,0,NO
+"notes/archive/clarity/Tags/revolution 0- foundations.md",2,2,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/resource flow squad.md",5,3,0,0,0,1,0,1,NO
+"notes/archive/clarity/Tags/research.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/reimagining power.md",21,17,0,2,0,1,0,1,NO
+"notes/archive/clarity/Tags/reimagine institute.md",1,1,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/reflection.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/recruitment.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/rebel alliance.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/quests.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/question of the day.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/purpose.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/proposal sbp9- conflict of interest  - draft.md",6,1,0,0,0,3,0,2,NO
+"notes/archive/clarity/Tags/proposals.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/proposal sbp11- dao systems transformation repository-library.md",2,1,0,0,0,1,0,0,NO
+"notes/archive/clarity/Tags/projects.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/product development squad.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/partnerships.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/partnership governance.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/participatory grantmaking.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/operations squad.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/operations.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/operational governance.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/ontario trillium foundation.md",3,1,0,0,0,2,0,0,NO
+"notes/archive/clarity/Tags/onboarding.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/ohm fork.md",2,0,0,0,0,1,0,1,NO
+"notes/archive/clarity/Tags/nucleus.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/newsletter updates.md",343,2,0,0,0,180,0,161,NO
+"notes/archive/clarity/Tags/nft-project.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/nft series.md",3,3,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/navigating ways of working.md",1,1,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/member experience.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/mission.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/microblog.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/meetings.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/mapping pathways to the future.md",6,0,0,0,0,3,0,3,NO
+"notes/archive/clarity/Tags/language.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/krause house.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/key concepts.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/interventions.md",6,6,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/information squad.md",2,2,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/governance.md",7,6,0,1,0,0,0,0,NO
+"notes/archive/clarity/Tags/governance squad.md",1,1,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/governance research.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/governance proposals.md",5,1,0,0,0,2,0,2,NO
+"notes/archive/clarity/Tags/governance conversations.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/governance concept v2.1.md",7,6,0,1,0,0,0,0,NO
+"notes/archive/clarity/Tags/goals.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/getting started with clarity.md",4,0,0,0,0,2,0,2,NO
+"notes/archive/clarity/Tags/general circle.md",23,21,0,2,0,0,0,0,NO
+"notes/archive/clarity/Tags/feedback.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/faq.md",26,0,0,0,0,13,0,13,NO
+"notes/archive/clarity/Tags/events.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/facilitator.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/ethos.md",4,3,0,1,0,0,0,0,NO
+"notes/archive/clarity/Tags/equity.md",7,0,0,0,0,4,0,3,NO
+"notes/archive/clarity/Tags/entity thinking.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/equality fund.md",1,1,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/energy efficiency project.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/documents.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/discovery and sense-making squad.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/discord channels & descriptions.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/discord.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/decision-making.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/dao administration.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/dao primitives.md",19,10,0,3,0,3,0,3,NO
+"notes/archive/clarity/Tags/cxi agenda.md",9,3,0,0,0,3,0,3,NO
+"notes/archive/clarity/Tags/crm system.md",6,0,0,0,0,3,0,3,NO
+"notes/archive/clarity/Tags/creating a soul-bound portal to a better future.md",6,0,0,0,0,3,0,3,NO
+"notes/archive/clarity/Tags/core team.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/coordination.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/contributor voting.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/contributor role.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/constituency scale.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/community.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/community governance.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/community experience squad.md",5,5,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/clarity.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/cells.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/building capacity and interdependence through governance.md",2,0,0,0,0,1,0,1,NO
+"notes/archive/clarity/Tags/bounties.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/all in for sport.md",1,1,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/artifacts.md",0,0,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/a commitment to bridging old into better.md",2,0,0,0,0,1,0,1,NO
+"notes/archive/clarity/Tags/a metacurrency for metagovernance, values and acceleration.md",4,0,0,0,0,2,0,2,NO
+"notes/archive/clarity/Tags/4 l's retrospective.md",4,0,0,0,0,2,0,2,NO
+"notes/archive/clarity/Tags/$superb.md",1,1,0,0,0,0,0,0,NO
+"notes/archive/clarity/Tags/$sprb.md",4,1,0,0,0,2,0,1,NO
+"notes/archive/clarity/README.md",3,0,0,0,0,2,0,1,NO
+"notes/archive/charmverse/charmverse.md",1,1,0,0,0,0,0,0,NO
+"notes/archive/archive.md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/aifs-meetings/AIFS Meeting (17-02-2025) - IOC Explore 365.md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/aifs-meetings/AIFS Meeting (21-10-2024).md",8,0,0,0,0,4,0,4,NO
+"notes/aifs/aifs-meetings/AIFS Meeting (23-10-2024).md",4,0,0,0,0,2,0,2,NO
+"notes/aifs/aifs-meetings/AIFS Meeting (17-02-2025) - Future of Gatherings.md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/aifs-meetings/AIFS Meeting (09-10-2024).md",2,0,0,0,0,1,0,1,NO
+"notes/aifs/aifs-meetings/AIFS Meeting (02-10-2024).md",2,0,0,0,0,1,0,1,NO
+"notes/aifs/aifs-meetings/AIFS Meeting (16-10-2024).md",6,0,0,0,0,3,0,3,NO
+"notes/aifs/aifs-meetings/AIFS Meeting (30-09-2024).md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/aifs-meetings/AIFS Meeting (25-09-2024).md",4,0,0,0,0,2,0,2,NO
+"notes/aifs/aifs-meetings/AIFS Meeting (05-09-2024).md",4,0,0,0,0,2,0,2,NO
+"notes/aifs/aifs-meetings/AIFS Meeting (15-08-2024).md",4,0,0,0,0,2,0,2,NO
+"notes/aifs/aifs-meetings/AIFS Meeting (15-01-2025).md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/aifs-meetings/AIFS Meeting (19-03-2025).md",12,0,0,0,0,8,0,4,NO
+"notes/aifs/aifs-meetings/AIFS Meeting (26-03-2025).md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/aifs-meetings/AIFS Meeting (31-03-2025).md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/aifs-meetings/AIFS Gathering.md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/aifs-meetings/AIFS Meeting (19-02-2025).md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/aifs-meetings/AIFS Meeting (08-01-2025).md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/aifs-meetings/AIFS Meeting (05-02-2025).md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/aifs-meetings/AIFS Meeting (22-01-2025).md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/aifs-meetings/AIFS Meeting (13-11-2024).md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/aifs-meetings/AIFS Meeting (30-05-2025).md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/aifs-meetings/AIFS Meeting (11-12-2024).md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/aifs-meetings/AIFS Meeting (25-11-2024).md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/aifs-meetings/AIFS Meeting (20-11-2024).md",2,0,0,0,0,1,0,1,NO
+"notes/aifs/aifs-meetings/AIFS Meeting (17-02-2025).md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/aifs-meetings/AIFS Meeting (30-10-2024).md",2,0,0,0,0,1,0,1,NO
+"notes/aifs/aifs-meetings/Community Experience Weekly Sync.md",2,0,0,0,0,1,0,1,NO
+"notes/aifs/aifs-meetings/AIFS Meeting (15-10-2024).md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/aifs-meetings/AIFS Meeting (18-06-2025).md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/aifs-meetings/AIFS Meeting (11-06-2025).md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/aifs-meetings/aifs-meetings.md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/reporting/reporting.md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/reporting/otf-report.md",28,0,0,0,0,14,0,14,NO
+"notes/aifs/reporting/evaluation-next-steps-report.md",4,0,0,0,0,2,0,2,NO
+"notes/aifs/reporting/README.md",2,0,0,0,0,2,0,0,NO
+"notes/aifs/reference/reference.md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/reference/superbenefit-gatherings.md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/reference/community-gatherings-overview.md",18,0,0,0,0,9,0,9,NO
+"notes/aifs/reference/giveth-aifs-gatherings-project-text.md",16,0,0,0,0,8,0,8,NO
+"notes/aifs/reference/all-in-for-sport-workspace.md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/presentations/presentations.md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/presentations/aifs-gatherings-introduction.md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/poetic-harvests/poetic-harvests.md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/poetic-harvests/gathering-5-19-feb-25.md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/poetic-harvests/gathering-4-5-feb-25.md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/poetic-harvests/gathering-1-11-dec-24.md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/poetic-harvests/gathering-3-22-jan-25.md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/poetic-harvests/gathering-2-poem.md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/poetic-harvests/gathering-0-13-nov-24.md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/poetic-harvests/README.md",6,0,0,0,0,6,0,0,NO
+"notes/aifs/gathering-planning/gatherings-sessions-strategy.md",2,0,0,0,0,1,0,1,NO
+"notes/aifs/gathering-planning/gatherings-coordination-rpp.md",2,0,0,0,0,1,0,1,NO
+"notes/aifs/gathering-planning/gathering-planning.md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/gathering-planning/aifs-gathering-3-impact-measurement.md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/gathering-planning/aifs-gathering-2-community-governance.md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/gathering-planning/aifs-gathering-1-web3-social-impact.md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/gathering-planning/aifs-gathering-0-cocreating-program.md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/feedback/session-0-participant-thoughts.md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/feedback/retro-after-gathering-0.md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/feedback/pre-gathering-topics.md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/feedback/final-retro.md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/feedback/feedback.md",0,0,0,0,0,0,0,0,NO
+"notes/aifs/aifs.md",65,54,10,1,0,0,0,0,NO
+"notes/readme.md",2,0,0,0,0,2,0,0,NO
+"notes/ics/city-grant-reporting/city-grant-reporting.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/city-grant-reporting/4 - Additional Comments.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/city-grant-reporting/3 - Community Impact Story.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/city-grant-reporting/2 - Supporting Anti-Racism and Inclusion.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/city-grant-reporting/1 - Project Impact on Equity-Denied Groups.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/city-grant-reporting/0 - Full Year Data.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/rpp-reporting/ics-experiment-reflection-draft.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/rpp-reporting/continuation-prompt.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/rpp-reporting/rpp-reporting.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/earthfest-greenpill-booth.md",6,0,0,0,0,3,0,3,NO
+"notes/ics/ics.md",67,54,7,0,0,3,0,3,NO
+"notes/ics/ccc/docs/v0.2.md",2,0,0,0,0,2,0,0,NO
+"notes/ics/ccc/docs/v0.2 copy.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/docs.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/I-Fund/Impact Yield Fund Structure Options.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/I-Fund/README.md",5,0,0,0,0,5,0,0,NO
+"notes/ics/ccc/docs/I-Fund/Impact Yield Fund Impact Thesis Options.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/I-Fund/I.05-discussion-paper-outline.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/I-Fund/I.04-project-plan.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/I-Fund/I.03-diagrams-and-visuals.md",4,4,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/I-Fund/I.02-meeting-notes.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/I-Fund/I-Fund.md",2,0,0,0,0,2,0,0,NO
+"notes/ics/ccc/docs/I-Fund/I.00-overview.md",6,0,0,0,0,6,0,0,NO
+"notes/ics/ccc/docs/I-Fund/I.01-impact-yield-fund-concept.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/I-Fund/I-Fund-README.md",5,0,0,0,0,5,0,0,NO
+"notes/ics/ccc/docs/I-Fund/CONTRIBUTING.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/H-Reference/README.md",5,0,0,0,0,5,0,0,NO
+"notes/ics/ccc/docs/H-Reference/H.05-critical-analysis-post-scott-morris.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/H-Reference/H.04-appendix-resources.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/H-Reference/H.03-faq.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/H-Reference/H.02-glossary.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/H-Reference/H.01-key-terms.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/H-Reference/H-Reference.md",7,0,0,0,0,7,0,0,NO
+"notes/ics/ccc/docs/G-Future/G.13-sustainable-weve-token-model.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/G-Future/README.md",12,0,0,0,0,12,0,0,NO
+"notes/ics/ccc/docs/G-Future/G.12-future-voucher-flow-examples.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/G-Future/G.11-impact-yield-fund.md",2,0,0,0,0,2,0,0,NO
+"notes/ics/ccc/docs/G-Future/G.10-pool-ecosystem-model.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/G-Future/G.08-maple-stablecoin.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/G-Future/G.09-reserve-currency-integration.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/G-Future/G.07-citizen-wallet-integration.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/G-Future/G.05-ics-voucher-backing-model.md",4,0,0,0,0,4,0,0,NO
+"notes/ics/ccc/docs/G-Future/G.06-reimagine-meal-vouchers-system.md",4,0,0,0,0,4,0,0,NO
+"notes/ics/ccc/docs/G-Future/G.04-artist-collective-collaboration.md",4,0,0,0,0,4,0,0,NO
+"notes/ics/ccc/docs/G-Future/G.03-journeyland-integration.md",8,0,0,0,0,6,0,2,NO
+"notes/ics/ccc/docs/G-Future/G.01-scaling-strategy.md",10,0,0,0,0,10,0,0,NO
+"notes/ics/ccc/docs/G-Future/G.02-neighbourhood-networks.md",4,0,0,0,0,4,0,0,NO
+"notes/ics/ccc/docs/G-Future/G-Future.md",16,0,0,0,0,16,0,0,NO
+"notes/ics/ccc/docs/D-Examples/D.02-voucher-flow-examples.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/D-Examples/README.md",5,0,0,0,0,5,0,0,NO
+"notes/ics/ccc/docs/D-Examples/D.04-scaling-with-bread.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/D-Examples/D.03-testimonial-scenarios.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/D-Examples/D.01-commitment-examples.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/D-Examples/D-Examples.md",7,0,0,0,0,7,0,0,NO
+"notes/ics/ccc/docs/E-Guides/README.md",9,0,0,0,0,9,0,0,NO
+"notes/ics/ccc/docs/E-Guides/E.10-finding-common-purpose.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/E-Guides/E.08-using-technology-tools.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/E-Guides/E.09-leaving-the-community.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/E-Guides/E.07-proposing-community-activities.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/E-Guides/E.05-inviting-new-members.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/E-Guides/E.06-participating-in-connection-commons.md",1,0,0,0,0,1,0,0,NO
+"notes/ics/ccc/docs/E-Guides/E.04-handling-exchange-issues.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/E-Guides/E.03-tracking-voucher-balance.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/E-Guides/E.02-requesting-from-pool.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/E-Guides/E.01-adding-commitments.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/E-Guides/E-Guides.md",8,0,0,0,0,8,0,0,NO
+"notes/ics/ccc/docs/F-Activities/README.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/F-Activities/F.08-community-connection-commons-launch-may7.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/F-Activities/F.07-commitment-showcase.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/F-Activities/F.05-new-member-orientation.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/F-Activities/F.04-community-market-day.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/F-Activities/F.06-steward-circle-meetings.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/F-Activities/F.03-jubilee.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/F-Activities/F.02-celebrations-and-reviews.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/F-Activities/F.01-connection-commons.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/F-Activities/F-Activities.md",9,0,0,0,0,9,0,0,NO
+"notes/ics/ccc/docs/C-Implementation/README.md",8,0,0,0,0,8,0,0,NO
+"notes/ics/ccc/docs/C-Implementation/C.08-sarafu-technical-appendix.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/C-Implementation/C.07-conflict-resolution.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/C-Implementation/C.06-success-metrics.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/C-Implementation/C.05-risks-and-mitigation.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/C-Implementation/C.04-technology-implementation.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/C-Implementation/C.03-governance-structure.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/C-Implementation/C.02-implementation-timeline.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/C-Implementation/C.01-onboarding-process.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/C-Implementation/C-Implementation.md",7,0,0,0,0,7,0,0,NO
+"notes/ics/ccc/docs/A-Introduction/README.md",3,0,0,0,0,3,0,0,NO
+"notes/ics/ccc/docs/A-Introduction/A.04-table-of-contents.md",52,0,0,0,0,52,0,0,NO
+"notes/ics/ccc/docs/A-Introduction/A.03-how-to-use.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/A-Introduction/A.02-executive-summary.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/A-Introduction/A.01-cover-page.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/A-Introduction/A-Introduction.md",4,0,0,0,0,4,0,0,NO
+"notes/ics/ccc/docs/B-Overview/README.md",6,0,0,0,0,6,0,0,NO
+"notes/ics/ccc/docs/B-Overview/B.06-multiplier-effect.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/B-Overview/B.05-principles-and-values.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/B-Overview/B.04-visual-concept.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/B-Overview/B.03-how-it-works.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/B-Overview/B.02-why-community-exchange.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/B-Overview/B.01-introduction.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/docs/B-Overview/B-Overview.md",5,0,0,0,0,5,0,0,NO
+"notes/ics/ccc/ccc.md",104,34,60,2,0,8,0,0,NO
+"notes/ics/ccc/README.md",12,0,0,0,0,11,0,1,NO
+"notes/ics/ccc/archive/v0.2/v0.2.md",2,0,0,0,0,2,0,0,NO
+"notes/ics/ccc/archive/v0.2/I-Fund/README.md",5,0,0,0,0,5,0,0,NO
+"notes/ics/ccc/archive/v0.2/I-Fund/Impact Yield Fund Structure Options.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/I-Fund/Impact Yield Fund Impact Thesis Options.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/I-Fund/I.04-project-plan.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/I-Fund/I.05-discussion-paper-outline.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/I-Fund/I.03-diagrams-and-visuals.md",4,4,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/I-Fund/I.02-meeting-notes.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/I-Fund/I.00-overview.md",6,0,0,0,0,6,0,0,NO
+"notes/ics/ccc/archive/v0.2/I-Fund/I.01-impact-yield-fund-concept.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/I-Fund/I-Fund.md",2,0,0,0,0,2,0,0,NO
+"notes/ics/ccc/archive/v0.2/I-Fund/I-Fund-README.md",5,0,0,0,0,5,0,0,NO
+"notes/ics/ccc/archive/v0.2/I-Fund/CONTRIBUTING.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/H-Reference/README.md",5,0,0,0,0,5,0,0,NO
+"notes/ics/ccc/archive/v0.2/H-Reference/H.05-critical-analysis-post-scott-morris.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/H-Reference/H.04-appendix-resources.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/H-Reference/H.03-faq.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/H-Reference/H.02-glossary.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/H-Reference/H.01-key-terms.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/H-Reference/H-Reference.md",7,0,0,0,0,7,0,0,NO
+"notes/ics/ccc/archive/v0.2/G-Future/README.md",12,0,0,0,0,12,0,0,NO
+"notes/ics/ccc/archive/v0.2/G-Future/G.13-sustainable-weve-token-model.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/G-Future/G.12-future-voucher-flow-examples.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/G-Future/G.11-impact-yield-fund.md",2,0,0,0,0,2,0,0,NO
+"notes/ics/ccc/archive/v0.2/G-Future/G.10-pool-ecosystem-model.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/G-Future/G.09-reserve-currency-integration.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/G-Future/G.08-maple-stablecoin.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/G-Future/G.07-citizen-wallet-integration.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/G-Future/G.06-reimagine-meal-vouchers-system.md",4,0,0,0,0,4,0,0,NO
+"notes/ics/ccc/archive/v0.2/G-Future/G.05-ics-voucher-backing-model.md",4,0,0,0,0,4,0,0,NO
+"notes/ics/ccc/archive/v0.2/G-Future/G.04-artist-collective-collaboration.md",4,0,0,0,0,4,0,0,NO
+"notes/ics/ccc/archive/v0.2/G-Future/G.03-journeyland-integration.md",8,0,0,0,0,6,0,2,NO
+"notes/ics/ccc/archive/v0.2/G-Future/G.02-neighbourhood-networks.md",4,0,0,0,0,4,0,0,NO
+"notes/ics/ccc/archive/v0.2/G-Future/G.01-scaling-strategy.md",10,0,0,0,0,10,0,0,NO
+"notes/ics/ccc/archive/v0.2/G-Future/G-Future.md",16,0,0,0,0,16,0,0,NO
+"notes/ics/ccc/archive/v0.2/F-Activities/README.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/F-Activities/F.08-community-connection-commons-launch-may7.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/F-Activities/F.07-commitment-showcase.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/F-Activities/F.06-steward-circle-meetings.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/F-Activities/F.05-new-member-orientation.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/F-Activities/F.04-community-market-day.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/F-Activities/F.03-jubilee.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/F-Activities/F.02-celebrations-and-reviews.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/F-Activities/F.01-connection-commons.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/F-Activities/F-Activities.md",9,0,0,0,0,9,0,0,NO
+"notes/ics/ccc/archive/v0.2/E-Guides/README.md",9,0,0,0,0,9,0,0,NO
+"notes/ics/ccc/archive/v0.2/E-Guides/E.10-finding-common-purpose.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/E-Guides/E.09-leaving-the-community.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/E-Guides/E.08-using-technology-tools.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/E-Guides/E.07-proposing-community-activities.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/E-Guides/E.06-participating-in-connection-commons.md",1,0,0,0,0,1,0,0,NO
+"notes/ics/ccc/archive/v0.2/E-Guides/E.05-inviting-new-members.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/E-Guides/E.04-handling-exchange-issues.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/E-Guides/E.03-tracking-voucher-balance.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/E-Guides/E.02-requesting-from-pool.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/E-Guides/E.01-adding-commitments.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/E-Guides/E-Guides.md",8,0,0,0,0,8,0,0,NO
+"notes/ics/ccc/archive/v0.2/D-Examples/README.md",5,0,0,0,0,5,0,0,NO
+"notes/ics/ccc/archive/v0.2/D-Examples/D.04-scaling-with-bread.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/D-Examples/D.03-testimonial-scenarios.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/D-Examples/D.02-voucher-flow-examples.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/D-Examples/D.01-commitment-examples.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/D-Examples/D-Examples.md",7,0,0,0,0,7,0,0,NO
+"notes/ics/ccc/archive/v0.2/C-Implementation/README.md",8,0,0,0,0,8,0,0,NO
+"notes/ics/ccc/archive/v0.2/C-Implementation/C.08-sarafu-technical-appendix.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/C-Implementation/C.07-conflict-resolution.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/C-Implementation/C.06-success-metrics.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/C-Implementation/C.05-risks-and-mitigation.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/C-Implementation/C.04-technology-implementation.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/C-Implementation/C.03-governance-structure.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/C-Implementation/C.02-implementation-timeline.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/C-Implementation/C.01-onboarding-process.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/C-Implementation/C-Implementation.md",7,0,0,0,0,7,0,0,NO
+"notes/ics/ccc/archive/v0.2/B-Overview/README.md",6,0,0,0,0,6,0,0,NO
+"notes/ics/ccc/archive/v0.2/B-Overview/B.06-multiplier-effect.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/B-Overview/B.05-principles-and-values.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/B-Overview/B.04-visual-concept.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/B-Overview/B.03-how-it-works.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/B-Overview/B.02-why-community-exchange.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/B-Overview/B.01-introduction.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/B-Overview/B-Overview.md",5,0,0,0,0,5,0,0,NO
+"notes/ics/ccc/archive/v0.2/A-Introduction/README.md",3,0,0,0,0,3,0,0,NO
+"notes/ics/ccc/archive/v0.2/A-Introduction/A.03-how-to-use.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/A-Introduction/A.04-table-of-contents.md",52,0,0,0,0,52,0,0,NO
+"notes/ics/ccc/archive/v0.2/A-Introduction/A.02-executive-summary.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/A-Introduction/A.01-cover-page.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.2/A-Introduction/A-Introduction.md",4,0,0,0,0,4,0,0,NO
+"notes/ics/ccc/archive/v0.19/v0.19.md",2,0,0,0,0,2,0,0,NO
+"notes/ics/ccc/archive/v0.19/scaling-strategy-tracker.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/H-Reference/key-terms.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/H-Reference/README.md",4,0,0,0,0,4,0,0,NO
+"notes/ics/ccc/archive/v0.19/H-Reference/H.03-appendix-resources.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/H-Reference/H.02-faq.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/H-Reference/H.01-glossary.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/H-Reference/H-Reference.md",6,0,0,0,0,6,0,0,NO
+"notes/ics/ccc/archive/v0.19/G-Future/README.md",12,0,0,0,0,12,0,0,NO
+"notes/ics/ccc/archive/v0.19/G-Future/G.12-future-credit-flow-examples.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/G-Future/G.11-impact-yield-fund.md",2,0,0,0,0,2,0,0,NO
+"notes/ics/ccc/archive/v0.19/G-Future/G.10-pool-federation-model.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/G-Future/G.09-reserve-currency-integration.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/G-Future/G.08-maple-stablecoin.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/G-Future/G.07-citizen-wallet-integration.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/G-Future/G.06-reimagine-meal-credits-system.md",4,0,0,0,0,4,0,0,NO
+"notes/ics/ccc/archive/v0.19/G-Future/G.05-ics-credit-backing-model.md",4,0,0,0,0,4,0,0,NO
+"notes/ics/ccc/archive/v0.19/G-Future/G.04-artist-collective-collaboration.md",4,0,0,0,0,4,0,0,NO
+"notes/ics/ccc/archive/v0.19/G-Future/G.03-journeyland-integration.md",8,0,0,0,0,6,0,2,NO
+"notes/ics/ccc/archive/v0.19/G-Future/G.02-neighbourhood-networks.md",4,0,0,0,0,4,0,0,NO
+"notes/ics/ccc/archive/v0.19/G-Future/G-Future.md",16,0,0,0,0,16,0,0,NO
+"notes/ics/ccc/archive/v0.19/G-Future/G.01-scaling-strategy.md",10,0,0,0,0,10,0,0,NO
+"notes/ics/ccc/archive/v0.19/F-Activities/README.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/F-Activities/F.09-community-exchange-launch-may7.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/F-Activities/F.07-commitment-showcase.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/F-Activities/F.06-steward-circle-meetings.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/F-Activities/F.05-new-member-orientation.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/F-Activities/F.04-community-market-day.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/F-Activities/F.03-jubilee.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/F-Activities/F-Activities.md",9,0,0,0,0,9,0,0,NO
+"notes/ics/ccc/archive/v0.19/F-Activities/F.02-celebrations-and-reviews.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/F-Activities/F.01-connection-circles.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/E-Guides/README.md",9,0,0,0,0,9,0,0,NO
+"notes/ics/ccc/archive/v0.19/E-Guides/E.10-finding-common-purpose.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/E-Guides/E.09-leaving-the-community.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/E-Guides/E.08-using-technology-tools.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/E-Guides/E.07-proposing-community-activities.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/E-Guides/E.06-participating-in-connection-circles.md",1,0,0,0,0,1,0,0,NO
+"notes/ics/ccc/archive/v0.19/E-Guides/E.05-inviting-new-members.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/E-Guides/E.04-handling-exchange-issues.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/E-Guides/E.03-tracking-credit-balance.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/E-Guides/E.01-adding-commitments.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/E-Guides/E.02-requesting-from-pool.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/E-Guides/E-Guides.md",8,0,0,0,0,8,0,0,NO
+"notes/ics/ccc/archive/v0.19/D-Examples/README.md",5,0,0,0,0,5,0,0,NO
+"notes/ics/ccc/archive/v0.19/D-Examples/D.04-scaling-with-bread.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/D-Examples/D.03-testimonial-scenarios.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/D-Examples/D.02-credit-flow-examples.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/D-Examples/D-Examples.md",7,0,0,0,0,7,0,0,NO
+"notes/ics/ccc/archive/v0.19/D-Examples/D.01-commitment-examples.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/C-Implementation/C.04-technology-implementation.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/C-Implementation/C.05-risks-and-mitigation.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/C-Implementation/C.08-sarafu-technical-appendix.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/C-Implementation/README.md",8,0,0,0,0,8,0,0,NO
+"notes/ics/ccc/archive/v0.19/C-Implementation/C.06-success-metrics.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/C-Implementation/C.07-conflict-resolution.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/C-Implementation/C.03-governance-structure.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/C-Implementation/C.02-implementation-timeline.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/C-Implementation/C.01-onboarding-process.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/C-Implementation/C-Implementation.md",7,0,0,0,0,7,0,0,NO
+"notes/ics/ccc/archive/v0.19/B-Overview/B-Overview.md",5,0,0,0,0,5,0,0,NO
+"notes/ics/ccc/archive/v0.19/B-Overview/README.md",6,0,0,0,0,6,0,0,NO
+"notes/ics/ccc/archive/v0.19/B-Overview/B.01-introduction.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/B-Overview/B.04-visual-concept.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/B-Overview/B.05-principles-and-values.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/B-Overview/B.03-how-it-works.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/B-Overview/B.02-why-community-exchange.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/B-Overview/B.01-community-exchange-overview-BACKUP.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.19/B-Overview/B.01-community-exchange-overview.md",1,0,0,0,0,1,0,0,NO
+"notes/ics/ccc/archive/v0.19/A-Cover/A.02-table-of-contents.md",49,0,0,0,0,49,0,0,NO
+"notes/ics/ccc/archive/v0.19/A-Cover/A-Cover.md",2,0,0,0,0,2,0,0,NO
+"notes/ics/ccc/archive/v0.19/A-Cover/README.md",3,0,0,0,0,3,0,0,NO
+"notes/ics/ccc/archive/v0.19/A-Cover/A.01-pdf-cover.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.18/v0.2-master-index.md",56,0,0,0,0,56,0,0,NO
+"notes/ics/ccc/archive/v0.18/v0.19.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.18/v0.18.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.18/impact-yield-fund-proposal.md",2,0,0,0,0,2,0,0,NO
+"notes/ics/ccc/archive/v0.18/TO DELETE G.12-citizen-wallet-integration.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.18/TO DELETE G.16-citizen-wallet.md",3,0,0,0,0,3,0,0,NO
+"notes/ics/ccc/archive/v0.18/TO DELETE G.12-citizen-wallet-integration-revised.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.18/TO DELETE G.10-impact-yield-fund.md",3,0,0,0,0,3,0,0,NO
+"notes/ics/ccc/archive/v0.18/TO DELETE G.08-new-application-areas.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.18/TO DELETE G.10-considerations-for-future-development.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.18/TO DELETE G.09-educational-dimensions.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.18/TO DELETE G.08-cad-stablecoin-placeholder.md",3,0,0,0,0,3,0,0,NO
+"notes/ics/ccc/archive/v0.18/TO DELETE G.07-organizational-development.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.18/TO DELETE G.06-integration-with-broader-economic-systems.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.18/TO DELETE G.05-digital-evolution-possibilities.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.18/TO DELETE G.04-cash-integration-pathways.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.18/TO DELETE G.03-future-possibilities.md",7,0,0,0,0,7,0,0,NO
+"notes/ics/ccc/archive/v0.1/visual_concept.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.1/v0.1.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.1/v0.1-master_index.md",44,0,0,0,0,44,0,0,NO
+"notes/ics/ccc/archive/v0.1/v.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.1/technology_implementation.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.1/untitled folder.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.1/testimonial_scenarios.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.1/table_of_contents.md",20,0,0,0,0,20,0,0,NO
+"notes/ics/ccc/archive/v0.1/success_metrics.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.1/scaling_strategy.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.1/step5_completion_summary.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.1/risks_and_mitigation.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.1/pdf_cover.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.1/principles_and_values.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.1/pdf_compilation_guide.md",6,0,0,0,0,3,0,3,NO
+"notes/ics/ccc/archive/v0.1/onboarding_process.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.1/implementation_timeline.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.1/member_testimonials.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.1/how_to_guides.md",1,0,0,0,0,1,0,0,NO
+"notes/ics/ccc/archive/v0.1/harmonization_notes.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.1/governance_structure.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.1/glossary.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.1/future_possibilities.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.1/faq.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.1/credit_flow_examples.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.1/conflict_resolution.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.1/community_activities.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.1/community_exchange_overview.md",19,0,0,0,0,19,0,0,NO
+"notes/ics/ccc/archive/v0.1/commitment_examples.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/v0.1/appendix_resources.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/more-activities/supplementary-activities-index.md",12,0,0,0,0,12,0,0,NO
+"notes/ics/ccc/archive/more-activities/old-README.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/more-activities/more-activities.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/more-activities/E.12-skill_share_webinars.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/more-activities/E.11-virtual_connection_circles.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/more-activities/E.10-intergenerational_skill_share.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/more-activities/E.09-community_care_mobilization.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/more-activities/E.06-seasonal_food_preservation.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/more-activities/E.07-story_circle.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/more-activities/E.08-newcomer_welcome_dinners.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/more-activities/E.04-working_group_sessions.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/more-activities/E.03-neighbor_to_neighbor_days.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/more-activities/E.05-skill_development_workshops.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/more-activities/E.02-repair_cafe.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/more-activities/E.01-skill_shares.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/untitled folder.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/archive/archive.md",224,131,92,1,0,0,0,0,NO
+"notes/ics/ccc/CONTRIBUTING.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/ccc/v02-documentation-cleanup-tracker.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/about/ics-implementation-plan.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/about/ics-experiment-scoping.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/about/ics-discovery-report.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/about/ics-business-description.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/about/ics-community-exchange.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/about/about.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/Web3 & Regenerative Finance.md",18,0,0,0,0,9,0,9,NO
+"notes/ics/readme.md",6,0,0,0,0,3,0,3,NO
+"notes/ics/greenpill-london-application.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/gg23/gg23-shill-plan.md",2,0,0,0,0,1,0,1,NO
+"notes/ics/gg23/gg23-project-description.md",8,0,0,0,0,4,0,4,NO
+"notes/ics/gg23/updated-strategy.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/gg23/website/website.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/gg23/website/website-review.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/gg23/website/website-analysis.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/gg23/website/web3-page.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/gg23/website/web3-page-updated.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/gg23/website/web3-page-content.md",17,0,0,0,0,9,0,8,NO
+"notes/ics/gg23/updated-strategy-fixed.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/gg23/shill-plan.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/gg23/tweets/twitter-threads.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/gg23/tweets/tweets.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/gg23/tweets/tweet-analysis.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/gg23/tweets/transformative-impact-threads.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/gg23/tweets/non-web3-audience-tweets.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/gg23/tweets/mention-tweets.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/gg23/tweets/enhanced-tweets.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/gg23/tweets/core-tweets.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/gg23/tweets/additional-strategic-tweets.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/gg23/social-media/social-media.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/gg23/social-media/farcaster-strategy.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/gg23/social-media/facebook-instagram-posts.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/gg23/readme.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/gg23/outreach/thank-you.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/gg23/outreach/team-template.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/gg23/outreach/priority-contacts.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/gg23/outreach/personal-templates.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/gg23/outreach/outreach.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/gg23/outreach/outreach-templates.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/gg23/outreach/newsletter-copy.md",4,0,0,0,0,2,0,2,NO
+"notes/ics/gg23/outreach/newsletter-copy-updated.md",4,0,0,0,0,2,0,2,NO
+"notes/ics/gg23/outreach/core-narrative.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/gg23/outreach/community-groups.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/gg23/progress.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/gg23/master-execution-plan.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/gg23/newsletters/reimagine-newsletter.md",6,0,0,0,0,3,0,3,NO
+"notes/ics/gg23/newsletters/newsletters.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/gg23/newsletters/ics-newsletter.md",6,0,0,0,0,3,0,3,NO
+"notes/ics/gg23/graphics/graphics.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/gg23/graphics/graphics-guide.md",0,0,0,0,0,0,0,0,NO
+"notes/ics/gg23/gg23.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/working-drafts/working-drafts.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/working-drafts/nucleus.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/working-docs/working-docs.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/working-docs/state.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp.md",44,0,0,0,0,44,0,0,NO
+"notes/rpp/RPP Knowledge Tasks.md",12,0,0,0,0,12,0,0,NO
+"notes/rpp/otf-reporting/OTF Report Working Document.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/otf-reporting/OTF Report Questions and Requirements.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/otf-reporting/otf-reporting.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/otf-reporting/OTF Final Report - Full Story Version.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-working-docs/optimistic-governance.md",6,2,0,1,0,3,0,0,NO
+"notes/rpp/rpp-working-docs/rpp-working-docs.md",18,2,15,0,0,1,0,0,NO
+"notes/rpp/rpp-working-docs/operational-governance.md",10,0,0,0,0,10,0,0,NO
+"notes/rpp/rpp-working-docs/community-governance.md",9,1,0,0,0,8,0,0,NO
+"notes/rpp/rpp-working-docs/multistakeholder-governance.md",7,0,0,0,0,7,0,0,NO
+"notes/rpp/rpp-working-docs/token-based-governance.md",4,2,0,0,0,2,0,0,NO
+"notes/rpp/rpp-working-docs/governance-platforms.md",2,2,0,0,0,0,0,0,NO
+"notes/rpp/rpp-working-docs/quadratic-voting.md",2,2,0,0,0,0,0,0,NO
+"notes/rpp/rpp-working-docs/on-chain-vs.-off-chain-governance.md",7,1,0,0,0,4,0,2,NO
+"notes/rpp/rpp-working-docs/biofi.md",18,0,0,0,0,9,0,9,NO
+"notes/rpp/rpp-working-docs/burner-wallets.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-working-docs/privacy-payments.md",11,0,0,0,0,9,0,2,NO
+"notes/rpp/rpp-working-docs/rp-playbook.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-working-docs/municipal-mycofi.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-working-docs/social-finance.md",19,0,0,0,0,12,0,7,NO
+"notes/rpp/rpp-working-docs/partnership-governance.md",4,0,0,0,0,4,0,0,NO
+"notes/rpp/rpp-working-docs/zero-knowledge-transfers.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-playbooks/playbook-working-docs/rpp-playbook-draft.md",62,8,0,8,0,23,0,23,NO
+"notes/rpp/rpp-playbooks/playbook-working-docs/00-playbook-outputs-summary.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-playbooks/playbook-working-docs/07-resource-audit.md",11,0,0,0,0,8,0,3,NO
+"notes/rpp/rpp-playbooks/playbook-working-docs/06-pattern-validation.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-playbooks/playbook-working-docs/implementation-paths-learning-journey.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-playbooks/playbook-working-docs/implementation-path-experimentation.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-playbooks/playbook-working-docs/rpp_playbook_context_capture.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-playbooks/playbook-working-docs/implementation-path-adaptive-evolution.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-playbooks/playbook-working-docs/02-case-study-essentials.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-playbooks/playbook-working-docs/03-implementation-patterns.md",8,4,0,4,0,0,0,0,NO
+"notes/rpp/rpp-playbooks/playbook-working-docs/04-playbook-draft.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-playbooks/playbook-working-docs/01-template-context-map.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-playbooks/playbook-working-docs/playbook-working-docs.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-playbooks/playbook-working-docs/rpp-playbook-strategy.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-playbooks/misc/Playbooks Steward Rolecrafting.md",2,0,0,0,0,1,0,1,NO
+"notes/rpp/rpp-playbooks/misc/Playbook task (template).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-playbooks/misc/Operational Plan for Playbooks project - RPP.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-playbooks/misc/Playbook researchdesign tasks - RPP.md",18,0,0,0,0,9,0,9,NO
+"notes/rpp/rpp-playbooks/misc/pattern-library-index.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-playbooks/misc/misc.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-playbooks/reference/Playbook Structural Guidelines & Templates.md",36,0,0,0,0,18,0,18,NO
+"notes/rpp/rpp-playbooks/reference/Final Playbook Reflections & Context.md",6,0,0,0,0,3,0,3,NO
+"notes/rpp/rpp-playbooks/reference/Reimagining Power Project - Stakeholder Reflection Responses.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-playbooks/reference/Playbooks - RPP.md",36,0,0,0,0,18,0,18,NO
+"notes/rpp/rpp-playbooks/reference/Playbook Discovery Report (Task).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-playbooks/reference/Playbook discovery retro - RPP (31-10-24).md",6,0,0,0,0,3,0,3,NO
+"notes/rpp/rpp-playbooks/reference/Playbook Discovery Feedback.md",4,0,0,0,0,2,0,2,NO
+"notes/rpp/rpp-playbooks/reference/playbook design references - RPP.md",16,0,0,0,0,8,0,8,NO
+"notes/rpp/rpp-playbooks/reference/reference.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-playbooks/reference/Initial Playbook Visioning Session - RPP.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-playbooks/rpp-playbooks.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-archive.md",4,4,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/rpp-tasks.md",221,219,0,2,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/rpp-old-tasks/⬜️ POW-277 Stakeholder Engagement - Reimagining Power.md",3,1,0,0,0,1,0,1,NO
+"notes/rpp/rpp-archive/rpp-tasks/rpp-old-tasks/⬜️ POW-276 Cell Setup - Reimagining Power.md",4,0,0,0,0,2,0,2,NO
+"notes/rpp/rpp-archive/rpp-tasks/rpp-old-tasks/⬜️ POW-275 Project Planning - Reimagining Power.md",1,1,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/rpp-old-tasks/⬜️ POW-274 Working Agreements (DRAFT) - Reimagining Power.md",7,1,0,0,0,3,0,3,NO
+"notes/rpp/rpp-archive/rpp-tasks/rpp-old-tasks/⬜️ POW-272 Cell State (DRAFT) - Reimagining Power.md",70,0,0,0,0,35,0,35,NO
+"notes/rpp/rpp-archive/rpp-tasks/rpp-old-tasks/⬜️ POW-270 Multisig - Reimagining Power.md",26,0,0,0,0,13,0,13,NO
+"notes/rpp/rpp-archive/rpp-tasks/rpp-old-tasks/✅ POW-288 Retroactive Funding for Pre-Proposal Planning Period.md",2,0,0,0,0,1,0,1,NO
+"notes/rpp/rpp-archive/rpp-tasks/rpp-old-tasks/✅ POW-268 Clarity Workspace - Reimagining Power.md",22,5,0,1,0,8,0,8,NO
+"notes/rpp/rpp-archive/rpp-tasks/rpp-old-tasks/⬜️ POW-292 Design Task Management and Compensation Framework - DAO Primitives (Old).md",4,0,0,0,0,2,0,2,NO
+"notes/rpp/rpp-archive/rpp-tasks/rpp-old-tasks/rpp-old-tasks.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/web3forgood AIFS Community Project Spotlight.md",24,0,0,0,0,12,0,12,NO
+"notes/rpp/rpp-archive/rpp-tasks/Update Operational Knowledge Resources (Task).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Update info hub (Task).md",18,0,0,0,0,9,0,9,NO
+"notes/rpp/rpp-archive/rpp-tasks/Update Community Knowledge Resources (Task).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Update & Review of Philanthropy Workstream Outline.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Update & Review Social Impact Paper.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Untitled.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Translate Social Impact Paper into Spanish.md",2,0,0,0,0,1,0,1,NO
+"notes/rpp/rpp-archive/rpp-tasks/SuperBenefit Content Audit (June 2024).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Storytelling of the Stakeholder Group Journey.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Starling Centre Panel - Expression Of Interest.md",2,0,0,0,0,1,0,1,NO
+"notes/rpp/rpp-archive/rpp-tasks/Social Impact Workstream Planning.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Social Impact Paper - RPP.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Social Impact Paper - review Manuela's section .md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Social Finance Pattern.md",14,0,0,0,0,7,0,7,NO
+"notes/rpp/rpp-archive/rpp-tasks/Set up paragraph.xyz account.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/SB Onboarding Scoping & Documentation.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/SalonsGatherings Scoping (Task).md",2,0,0,0,0,1,0,1,NO
+"notes/rpp/rpp-archive/rpp-tasks/RPP Stakholder meeting reschedule.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/RPP Rolecrafting Task (TEMPLATE).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/RPP Experiment Discovery (TEMPLATE) (Draft).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/RPP Contributor Rolecrafting.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/RPP Code of Conduct.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Rolecrafting & Contributor Engagement - RPP.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Review multisig signers and possibly increase number of signers.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Reschedule RPP Stakeholder Agenda Prep .md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Reference knowledge for playbooks.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Publish Social impact paper to paragraph.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Proposal to create an ephemeral Cell for playbook contributor collaboration .md",30,0,0,0,0,15,0,15,NO
+"notes/rpp/rpp-archive/rpp-tasks/Populate Key Lexicon Entries (Task).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Prep OTF Meeting & Progress Report.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Plan Onboarding Workshop.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Outstanding Tasks May 2025.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/OTF Progress Update - Oct 2024.md",36,0,0,0,0,18,0,18,NO
+"notes/rpp/rpp-archive/rpp-tasks/OTF Conversation about project continuation.md",12,0,0,0,0,6,0,6,NO
+"notes/rpp/rpp-archive/rpp-tasks/OTF Annual Update Review.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Operations & Strategy Stewardship - RPP.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Onboarding Workstream Planning.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Onboarding Julia Hammer.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Onboarding Jose Cabrera.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Onboarding Guide.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Onboarding Flow.md",4,0,0,0,0,2,0,2,NO
+"notes/rpp/rpp-archive/rpp-tasks/Onboarding Colleen Tomlinson.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Onboarding Checklist for New Contributors.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Onboarding Buddy Rolecrafting.md",8,0,0,0,0,4,0,4,NO
+"notes/rpp/rpp-archive/rpp-tasks/Onboarding BorrowLucid.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Onboarding - RPP.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/O&S Progress Report Weeks 1-2.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/O&S Progress Report Week 9.md",6,0,0,0,0,3,0,3,NO
+"notes/rpp/rpp-archive/rpp-tasks/O&S Progress Report Week 8.md",4,0,0,0,0,2,0,2,NO
+"notes/rpp/rpp-archive/rpp-tasks/O&S Progress Report Week 7.md",4,0,0,0,0,2,0,2,NO
+"notes/rpp/rpp-archive/rpp-tasks/O&S Progress Report Week 6.md",4,0,0,0,0,2,0,2,NO
+"notes/rpp/rpp-archive/rpp-tasks/O&S Progress Report Week 5.md",4,0,0,0,0,2,0,2,NO
+"notes/rpp/rpp-archive/rpp-tasks/O&S Progress Report Week 4.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/O&S Progress Report Week 3.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/O&S Progress Report Week 13.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/O&S Progress Report Week 12.md",6,0,0,0,0,3,0,3,NO
+"notes/rpp/rpp-archive/rpp-tasks/O&S Progress Report Week 11.md",6,0,0,0,0,3,0,3,NO
+"notes/rpp/rpp-archive/rpp-tasks/O&S Progress Report Week 10.md",6,0,0,0,0,3,0,3,NO
+"notes/rpp/rpp-archive/rpp-tasks/Mirror Blog - RPP Progress Update - Oct 2024.md",38,0,0,0,0,19,0,19,NO
+"notes/rpp/rpp-archive/rpp-tasks/Mint Hypercerts & Attestations.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Migrate Clarity Tags to Charmverse (Task).md",4,0,0,0,0,2,0,2,NO
+"notes/rpp/rpp-archive/rpp-tasks/Migrate & Update web3 Library (Task).md",4,0,0,0,0,2,0,2,NO
+"notes/rpp/rpp-archive/rpp-tasks/Migrate & Update Task Mgmt Info.md",4,0,0,0,0,2,0,2,NO
+"notes/rpp/rpp-archive/rpp-tasks/Metrics Tracking.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Media Manager Rolecrafting.md",4,0,0,0,0,2,0,2,NO
+"notes/rpp/rpp-archive/rpp-tasks/Media Coordination - RPP.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Map ICS governance structure.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Make banner image for social impact paper.md",4,0,0,0,0,2,0,2,NO
+"notes/rpp/rpp-archive/rpp-tasks/Knowledge Stewardship Workstream Planning.md",2,0,0,0,0,1,0,1,NO
+"notes/rpp/rpp-archive/rpp-tasks/Knowledge Curation - RPP.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Karma GAP_ Add ICS Milestones, Deliverables & Metrics.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Integrate ICS into SuperBenefit's on-chain accounting.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Green Pill London - New Chapter Application.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Gatherings Steward Rolecrafting.md",6,0,0,0,0,3,0,3,NO
+"notes/rpp/rpp-archive/rpp-tasks/Gatherings Reporting for OTF.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Gatherings one-pager.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Gatherings Evaluation & Next Steps Report.md",4,0,0,0,0,2,0,2,NO
+"notes/rpp/rpp-archive/rpp-tasks/Gatherings Coordination - RPP.md",4,0,0,0,0,2,0,2,NO
+"notes/rpp/rpp-archive/rpp-tasks/Gathering Planning Task.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Future Of Life Institute grant.md",6,0,0,0,0,3,0,3,NO
+"notes/rpp/rpp-archive/rpp-tasks/First Draft of DAO Primitives Documentation (Task).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Feedback mechanism.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Experiment retrospectives.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Experiment Retrospective Worksheet.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Evaluation & Reporting - RPP.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Develop Purpose and Goals for Playbooks - RPP.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Develop ideas for RPP future opportunities (RPP Core team).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Design POAPs for Gatherings.md",14,0,0,0,0,7,0,7,NO
+"notes/rpp/rpp-archive/rpp-tasks/DAO Primitives Workstream Planning.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/DAO Cell Playbook - RPP.md",14,0,0,0,0,7,0,7,NO
+"notes/rpp/rpp-archive/rpp-tasks/Create one-page overview of challenges & potential solutionsexperiments.md",2,0,0,0,0,1,0,1,NO
+"notes/rpp/rpp-archive/rpp-tasks/Create Implementation Guide_ Setting up Community a Governance Structure Using the DAO Primitives Framework.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Create Implementation Guide_ Setting up a _Cell_ Based Operational Governance Structure Using the DAO Primitives.md",2,0,0,0,0,1,0,1,NO
+"notes/rpp/rpp-archive/rpp-tasks/Create Cell State doc for ICS.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Create a set of visuals and templates for playbooks publication (RPP).md",2,0,0,0,0,1,0,1,NO
+"notes/rpp/rpp-archive/rpp-tasks/Core Team Collaboration - RPP.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Convergence of AI & Web3 .md",32,0,0,0,0,16,0,16,NO
+"notes/rpp/rpp-archive/rpp-tasks/Connect with Golem Foundation about potential support for Gatherings.md",2,0,0,0,0,1,0,1,NO
+"notes/rpp/rpp-archive/rpp-tasks/Confirm Scoping for EF Experiment.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Complete DAO primitive docs in the knowledge base.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Community Weaver Rolecrafting.md",14,0,0,0,0,7,0,7,NO
+"notes/rpp/rpp-archive/rpp-tasks/Community Governance Playbook - RPP.md",12,0,0,0,0,6,0,6,NO
+"notes/rpp/rpp-archive/rpp-tasks/Blockchain4good speaker application.md",2,0,0,0,0,1,0,1,NO
+"notes/rpp/rpp-archive/rpp-tasks/Application for Octant Epoch 7 - Climate Round.md",12,0,0,0,0,6,0,6,NO
+"notes/rpp/rpp-archive/rpp-tasks/AIFS Gatherings Budget.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/AIFS Gathering #5_ Transforming Capital (task).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/AIFS Gathering #4_ AI (task).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/AIFS Gathering #3_ Impact Measurement (task).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/AIFS Gathering #2_ Community Governance (task).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/AIFS Gathering #1_ Web3 & Social Impact (task).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/AIFS Gathering #0_ Co-creating the Program (task).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/AIFS Experiment Reflections.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Add Onboarding Artifact.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/Add Harvests from Stakeholder Meetings to Artifacts.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-tasks/(Working draft)Equality Fund Experiment Discovery Report .md",40,0,0,0,0,20,0,20,NO
+"notes/rpp/rpp-archive/rpp-meetings/rpp-meetings.md",160,160,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/RPP Meeting (22-08-2024).md",12,0,0,0,0,8,0,4,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (07-01-2025).md",6,0,0,0,0,3,0,3,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (01-04-2025).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (08-04-2025).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (06-05-2025).md",4,0,0,0,0,2,0,2,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (29-10-2024).md",2,0,0,0,0,1,0,1,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (08-10-2024).md",2,0,0,0,0,1,0,1,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (05-11-2024).md",4,0,0,0,0,2,0,2,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (31-12-2024).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (27-08-2024).md",6,0,0,0,0,3,0,3,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (27-05-2025).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (26-11-2024).md",6,0,0,0,0,3,0,3,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (24-09-2024).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (24-06-2025).md",14,0,0,0,0,7,0,7,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (22-10-2024).md",4,0,0,0,0,2,0,2,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (19-11-2024).md",2,0,0,0,0,1,0,1,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (17-12-2024).md",2,0,0,0,0,1,0,1,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (17-06-2025).md",2,0,0,0,0,1,0,1,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (15-10-2024).md",2,0,0,0,0,1,0,1,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (12-11-2024).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (10-01-2024).md",10,0,0,0,0,5,0,5,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (09-03-2024).md",2,0,0,0,0,1,0,1,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (06-01-2025).md",2,0,0,0,0,1,0,1,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (06-03-2025).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (02-08-2024).md",20,0,0,0,0,10,0,10,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (01-12-2025).md",2,0,0,0,0,1,0,1,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (01-09-2024).md",4,0,0,0,0,2,0,2,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/os-steward-meetings.md",48,48,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (17-09-2024).md",4,0,0,0,0,2,0,2,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (13-08-2024).md",24,0,0,0,0,14,0,10,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (08-06-2024).md",4,0,0,0,0,2,0,2,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (25-03-2025).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (18-03-2025).md",8,0,0,0,0,4,0,4,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (11-03-2025).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (03-04-2025).md",6,0,0,0,0,3,0,3,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS stewards meeting 28 - 25225.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS stewards meeting 25 - 4225.md",8,0,0,0,0,4,0,4,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS stewards meeting 24 - 28125.md",12,0,0,0,0,6,0,6,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS stewards meeting 23 - 21125 .md",2,0,0,0,0,1,0,1,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (03-12-2024).md",2,0,0,0,0,1,0,1,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS stewards meeting 22 - 14125 .md",6,0,0,0,0,3,0,3,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Stewards Meeting.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS stewards weekly meeting 27 - 18225.md",2,0,0,0,0,1,0,1,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (20-05-2025).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (13-05-2025).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (29-04-2025).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (22-04-2025).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (15-04-2025).md",2,0,0,0,0,1,0,1,NO
+"notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (10-12-2024).md",6,0,0,0,0,3,0,3,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (29-08-2024).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (29-05-2025).md",8,0,0,0,0,4,0,4,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (29-01-2024).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (28-11-2024).md",9,0,0,0,0,5,0,4,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (28-02-2024).md",13,0,0,0,0,7,0,6,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (27-06-2024).md",4,0,0,0,0,2,0,2,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (27-03-2025).md",9,0,0,0,0,5,0,4,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (26-09-2024).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (27-02-2025).md",9,0,0,0,0,5,0,4,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (26-01-2025).md",19,0,0,0,0,10,0,9,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (25-07-2024).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (25-02-2025).md",13,0,0,0,0,7,0,6,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (25-03-2024).md",9,0,0,0,0,5,0,4,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (25-04-2024).md",6,0,0,0,0,3,0,3,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (24-10-2024).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (23-05-2024).md",6,0,0,0,0,3,0,3,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (24-04-2025).md",9,0,0,0,0,5,0,4,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (23-01-2025).md",17,0,0,0,0,9,0,8,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (21-11-2024).md",4,0,0,0,0,2,0,2,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (21-03-2024).md",9,0,0,0,0,5,0,4,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (19-12-2024).md",4,0,0,0,0,2,0,2,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (19-09-2024).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (19-06-2025).md",8,0,0,0,0,4,0,4,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (18-07-2024).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (18-04-2024).md",10,0,0,0,0,5,0,5,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (17-10-2024).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (17-04-2025).md",15,0,0,0,0,8,0,7,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (17-01-2024).md",16,0,0,0,0,8,0,8,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (16-05-2024).md",10,0,0,0,0,5,0,5,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (16-01-2024).md",15,0,0,0,0,8,0,7,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (15-08-2024).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (15-05-2025).md",9,0,0,0,0,5,0,4,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (14-11-2024).md",10,0,0,0,0,5,0,5,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (14-03-2024).md",18,0,0,0,0,9,0,9,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (13-06-2024).md",2,0,0,0,0,1,0,1,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (13-03-2025).md",17,0,0,0,0,9,0,8,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (12-12-2024).md",7,0,0,0,0,4,0,3,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (13-02-2025).md",15,0,0,0,0,8,0,7,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (11-09-2023).md",18,0,0,0,0,9,0,9,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (11-04-2024).md",12,0,0,0,0,6,0,6,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (11-02-2023).md",12,0,0,0,0,6,0,6,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (10-10-2024).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (10-05-2023).md",14,2,0,2,0,5,0,5,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (09-07-2023).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (10-03-2024).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (09-05-2024).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (08-08-2024).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (08-01-2024).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (07-11-2024).md",6,0,0,0,0,3,0,3,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (07-04-2024).md",6,0,0,0,0,3,0,3,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (06-06-2024).md",9,0,0,0,0,5,0,4,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (06-05-2025).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (05-12-2024).md",7,0,0,0,0,4,0,3,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (05-09-2024).md",9,0,0,0,0,5,0,4,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (05-08-2025).md",6,0,0,0,0,3,0,3,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (05-02-2024).md",19,0,0,0,0,10,0,9,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (05-01-2025).md",11,0,0,0,0,6,0,5,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (04-04-2024).md",9,0,0,0,0,5,0,4,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (04-03-2025).md",31,0,0,0,0,16,0,15,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (03-07-2024).md",17,0,0,0,0,9,0,8,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (03-06-2025).md",11,0,0,0,0,6,0,5,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (03-01-2025).md",21,0,0,0,0,11,0,10,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (02-06-2025).md",12,0,0,0,0,6,0,6,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (02-06-2024).md",2,0,0,0,0,1,0,1,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (02-03-2025).md",19,0,0,0,0,10,0,9,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (01-09-2025).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (01-04-2025).md",6,0,0,0,0,3,0,3,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (31-10-2024).md",8,0,0,0,0,4,0,4,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (17-08-2023).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (24-08-2023).md",4,0,0,0,0,2,0,2,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (31-08-2023).md",14,0,0,0,0,7,0,7,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (14-09-2023).md",5,3,0,0,0,1,0,1,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (28-09-2023).md",20,8,0,2,0,5,0,5,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (12-10-2023).md",4,0,0,0,0,2,0,2,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (19-10-2023).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (26-10-2023).md",10,0,0,0,0,5,0,5,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (16-11-2023).md",20,0,0,0,0,10,0,10,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (23-11-2023).md",2,0,0,0,0,1,0,1,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/core-team-meetings.md",81,81,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Weekly Core Team Meeting Template.md",7,0,0,0,0,4,0,3,NO
+"notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP core team catch up on progress.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/stakeholder-meetings/stakeholder-meetings.md",22,22,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/stakeholder-meetings/RPP Stakeholder Meeting (18-11-2024).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/stakeholder-meetings/RPP Stakeholder Meeting (21-10-2024).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/stakeholder-meetings/RPP Stakeholder Meeting (19-08-2024).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/stakeholder-meetings/RPP Stakeholder Meeting (17-06-2024).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/stakeholder-meetings/RPP Stakeholder Meeting (31-01-2025).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/stakeholder-meetings/RPP Stakeholder Meeting (05-05-2025).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/stakeholder-meetings/RPP Stakeholder Meeting (04-07-2025).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/stakeholder-meetings/RPP Stakeholder Meeting (03-04-2024).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/stakeholder-meetings/RPP Stakeholder Meeting (03-03-2025).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/stakeholder-meetings/RPP Stakeholder Meeting (02-12-2024).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/stakeholder-meetings/RPP Stakeholder Meeting (02-03-2025).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/stakeholder-meetings/RPP Stakeholder Meeting.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-meetings/RPP Social Impact & Onboarding Bi-Weekly .md",6,0,0,0,0,3,0,3,NO
+"notes/rpp/rpp-archive/rpp-meetings/RPP Social Impact & Onboarding Bi-Weekly.md",2,0,0,0,0,1,0,1,NO
+"notes/rpp/rpp-archive/rpp-meetings/Meeting with OTF about project continuation.md",12,0,0,0,0,8,0,4,NO
+"notes/rpp/rpp-archive/rpp-meetings/Meeting with Newton.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-docs/rpp-docs.md",27,26,0,1,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-docs/old-rpp-docs/2023-10-02 - [CHARMVERSE] Draft Email Partner-Stakeholder Meeting.md",12,1,0,1,0,5,0,5,NO
+"notes/rpp/rpp-archive/rpp-docs/old-rpp-docs/2023-09-25 - [CHARMVERSE] Funding Contributors to RPP.md",4,1,0,1,0,1,0,1,NO
+"notes/rpp/rpp-archive/rpp-docs/old-rpp-docs/2023-09-22 - [TO MOVE] Restorying Power Meetings.md",21,6,0,3,0,6,0,6,NO
+"notes/rpp/rpp-archive/rpp-docs/old-rpp-docs/2023-08-29 - [TO MOVE] Menzies Foundation-SuperBenefit.md",19,1,0,1,0,10,0,7,NO
+"notes/rpp/rpp-archive/rpp-docs/old-rpp-docs/2023-08-18 - [CHARMVERSE] Reimagining Power core team collaboration protocols.md",8,1,0,1,0,3,0,3,NO
+"notes/rpp/rpp-archive/rpp-docs/old-rpp-docs/2023-08-08 - [TO MOVE] Meeting Notes - RP Planning Workstream.md",132,16,0,6,0,55,0,55,NO
+"notes/rpp/rpp-archive/rpp-docs/old-rpp-docs/2023-07-05 - [CHARMVERSE] OTF Funding Notes.md",13,2,0,1,0,5,0,5,NO
+"notes/rpp/rpp-archive/rpp-docs/old-rpp-docs/2023-07-04 - [CHARMVERSE] Equality Fund Call Transcript - 07-04-23.md",7,2,0,1,0,2,0,2,NO
+"notes/rpp/rpp-archive/rpp-docs/old-rpp-docs/2023-10-20 - [CHARMVERSE] Inequities & Financial Coordination Challenges in Philanthropy-Charity.md",21,1,0,1,0,10,0,9,NO
+"notes/rpp/rpp-archive/rpp-docs/old-rpp-docs/old-rpp-docs.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-docs/Working Agreements - RP Core TeamTLC.md",2,0,0,0,0,1,0,1,NO
+"notes/rpp/rpp-archive/rpp-docs/web3 x capital Projects.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-docs/Salon Application for PFC Conference.md",4,0,0,0,0,2,0,2,NO
+"notes/rpp/rpp-archive/rpp-docs/Untitled.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-docs/RPP Progress Report.md",4,0,0,0,0,2,0,2,NO
+"notes/rpp/rpp-archive/rpp-docs/RPP Onboarding Checklist.md",12,0,0,0,0,6,0,6,NO
+"notes/rpp/rpp-archive/rpp-docs/RPP Discord Channel & Token Gate Notes.md",8,0,0,0,0,4,0,4,NO
+"notes/rpp/rpp-archive/rpp-docs/RPP core team collaboration protocols.md",4,0,0,0,0,2,0,2,NO
+"notes/rpp/rpp-archive/rpp-docs/RPP 2025 Strategy Note.md",4,0,0,0,0,2,0,2,NO
+"notes/rpp/rpp-archive/rpp-docs/RP _Weaver_ (project manager) Role Notes.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-docs/Project Brief - Infinite Front Porch (Example).md",8,0,0,0,0,4,0,4,NO
+"notes/rpp/rpp-archive/rpp-docs/Partnership Summary & Annual Updates (from OTF).md",2,0,0,0,0,1,0,1,NO
+"notes/rpp/rpp-archive/rpp-docs/OTF Partnership Agreement (final, signed).md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-docs/OTF Funding Notes.md",10,0,0,0,0,5,0,5,NO
+"notes/rpp/rpp-archive/rpp-docs/Infinite Front Porch Concept Note .md",10,0,0,0,0,5,0,5,NO
+"notes/rpp/rpp-archive/rpp-docs/Inequities & Financial Coordination Challenges in PhilanthropySocial Impact.md",25,0,0,0,0,13,0,12,NO
+"notes/rpp/rpp-archive/rpp-docs/Infinite Front Porch Concept Note  - April 2025.md",10,0,0,0,0,5,0,5,NO
+"notes/rpp/rpp-archive/rpp-docs/Funders to the RPP.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-docs/Email for 1st PartnerStakeholder Meeting.md",8,0,0,0,0,4,0,4,NO
+"notes/rpp/rpp-archive/rpp-docs/Draft Menzies Foundation Partnership Agreement.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-archive/rpp-docs/Cell State - Reimagining Power TLC.md",46,0,0,0,0,23,0,23,NO
+"notes/rpp/rpp-experiments/rpp-experiments.md",28,26,2,0,0,0,0,0,NO
+"notes/rpp/rpp-experiments/Experiment Coordination - RPP.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-experiments/Experiment Facilitation Framework - RPP.md",22,0,0,0,0,11,0,11,NO
+"notes/rpp/rpp-experiments/all-in-for-sport/all-in-for-sport.md",5,5,0,0,0,0,0,0,NO
+"notes/rpp/rpp-experiments/all-in-for-sport/aifs-case-study-draft.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-experiments/all-in-for-sport/aifs-intervention-map.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-experiments/all-in-for-sport/aifs-experiment-reflections.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-experiments/all-in-for-sport/aifs-discovery-report.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-experiments/the-ics/ICS-Experiment-Case-Study.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-experiments/the-ics/the-ics.md",12,0,4,4,4,0,0,0,YES
+"notes/rpp/rpp-experiments/the-ics/ICS Experiment Reflections.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-experiments/the-ics/ICS GG23 Expression of Interest.md",16,0,0,0,0,8,0,8,NO
+"notes/rpp/rpp-experiments/the-ics/ICS Experiment Implementation Plan.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-experiments/the-ics/ICS Discovery Report.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-experiments/the-ics/ICS Experiment Scoping.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-experiments/the-ics/ICS Experiment Sensemaking Call.md",8,0,0,0,0,4,0,4,NO
+"notes/rpp/rpp-experiments/women-win/Women Win Experiment Discussion.md",2,0,0,0,0,1,0,1,NO
+"notes/rpp/rpp-experiments/women-win/Meeting with Women Win.md",2,0,0,0,0,1,0,1,NO
+"notes/rpp/rpp-experiments/women-win/Meeting with Women Win & Equality Fund (copy).md",4,0,0,0,0,2,0,2,NO
+"notes/rpp/rpp-experiments/women-win/women-win.md",4,4,0,0,0,0,0,0,NO
+"notes/rpp/rpp-experiments/equality-fund/equality-fund.md",15,0,5,5,5,0,0,0,YES
+"notes/rpp/rpp-experiments/equality-fund/Equality Fund Experiment reflections.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-experiments/equality-fund/Equality Fund Experiment Discovery Report.md",16,0,0,0,0,8,0,8,NO
+"notes/rpp/rpp-experiments/equality-fund/Outline for EF scoping meeting 16924.md",2,0,0,0,0,1,0,1,NO
+"notes/rpp/rpp-experiments/equality-fund/Equality Fund Call Transcript 4723.md",2,0,0,0,0,1,0,1,NO
+"notes/rpp/rpp-experiments/equality-fund/Equality Fund Experiment Mapping.md",0,0,0,0,0,0,0,0,NO
+"notes/rpp/rpp-experiments/equality-fund/Meeting with Women Win & Equality Fund.md",4,0,0,0,0,2,0,2,NO
+"notes/rpp/rpp-experiments/equality-fund/Experiment Discovery Call w Sue Snider (17524).md",0,0,0,0,0,0,0,0,NO
+"notes/dao-primitives/dao-primitives.md",55,0,16,16,0,23,0,0,NO
+"notes/dao-primitives/primitives-archive/primitives-tasks/primitives-tasks.md",0,0,0,0,0,0,0,0,NO
+"notes/dao-primitives/primitives-archive/primitives-tasks/⬜️ GR-309 Partnership Governance - Reimagining Power.md",1,0,0,0,0,1,0,0,NO
+"notes/dao-primitives/primitives-archive/primitives-tasks/⬜️ GR-299 Group Phase - DAO Primitives.md",2,1,0,1,0,0,0,0,NO
+"notes/dao-primitives/primitives-archive/primitives-docs/2022-09-13 - Rewarding Contribution Agreement for DAO Primitive Project CELL.md",2,1,0,0,0,1,0,0,NO
+"notes/dao-primitives/primitives-archive/primitives-docs/primitives-docs.md",0,0,0,0,0,0,0,0,NO
+"notes/dao-primitives/primitives-archive/primitives-docs/2022-08-02 - Notes on JokeDAO and Coordinape.md",3,1,0,0,0,1,0,1,NO
+"notes/dao-primitives/primitives-archive/primitives-docs/2022-08-09 - Notes on Colony and Lobby.md",1,1,0,0,0,0,0,0,NO
+"notes/dao-primitives/primitives-archive/primitives-docs/2022-07-19 - Notes on DAOhaus and Govrn.md",7,1,0,0,0,3,0,3,NO
+"notes/dao-primitives/primitives-archive/primitives-docs/2022-07-17 - Rowan's notes on Coinvise & Hypha .md",19,1,0,0,0,10,0,8,NO
+"notes/dao-primitives/primitives-archive/primitives-docs/2022-07-12 - Notes on Orca Protocol and Juicebox.md",15,1,0,0,0,7,0,7,NO
+"notes/dao-primitives/primitives-archive/primitives-docs/2022-05-31 - Token allocation.md",0,0,0,0,0,0,0,0,NO
+"notes/dao-primitives/primitives-archive/primitives-docs/2022-04-19 at 11-39 PM.md",0,0,0,0,0,0,0,0,NO
+"notes/dao-primitives/primitives-archive/primitives-docs/2022-04-19 - Weekly Meeting Notes - DAO Primitives.md",170,28,0,10,0,66,0,66,NO
+"notes/dao-primitives/primitives-archive/primitives-docs/2022-04-17 - Governance research project (Rev 1) DAO-Cell founding doc.md",21,3,0,0,0,9,0,9,NO
+"notes/dao-primitives/primitives-archive/primitives-archive.md",91,91,0,0,0,0,0,0,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (30-05-2023).md",1,1,0,0,0,0,0,0,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (30-01-2024).md",4,0,0,0,0,2,0,2,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (28-05-2024).md",4,0,0,0,0,2,0,2,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (28-11-2023).md",4,0,0,0,0,2,0,2,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (28-03-2023).md",7,1,0,0,0,3,0,3,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (27-02-2024).md",6,0,0,0,0,3,0,3,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (28-02-2023).md",5,1,0,0,0,2,0,2,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (27-06-2023).md",1,1,0,0,0,0,0,0,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (25-06-2024).md",4,0,0,0,0,2,0,2,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (26-03-2024).md",4,0,0,0,0,2,0,2,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (25-04-2023).md",5,1,0,0,0,2,0,2,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (25-01-2023).md",2,0,0,0,0,1,0,1,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (23-07-2024).md",6,0,0,0,0,3,0,3,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (23-05-2023).md",1,1,0,0,0,0,0,0,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (23-01-2024).md",15,0,0,0,0,8,0,7,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (22-02-2023).md",1,1,0,0,0,0,0,0,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (21-11-2023).md",8,0,0,0,0,4,0,4,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (21-03-2023).md",1,1,0,0,0,0,0,0,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (21-05-2024).md",15,0,0,0,0,8,0,7,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (20-06-2023).md",1,1,0,0,0,0,0,0,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (20-02-2024).md",8,0,0,0,0,4,0,4,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (19-12-2023).md",2,0,0,0,0,1,0,1,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (18-06-2024).md",16,0,0,0,0,8,0,8,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (17-01-2023).md",52,2,0,0,0,25,0,25,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (16-07-2024).md",17,0,0,0,0,9,0,8,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (16-05-2023).md",3,1,0,0,0,1,0,1,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (16-01-2024).md",10,0,0,0,0,5,0,5,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (14-05-2024).md",15,0,0,0,0,8,0,7,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (14-03-2023).md",1,1,0,0,0,0,0,0,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (13-06-2023).md",1,1,0,0,0,0,0,0,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (14-02-2023).md",3,1,0,0,0,1,0,1,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (13-02-2024).md",4,0,0,0,0,2,0,2,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (12-12-2023).md",8,0,0,0,0,4,0,4,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (11-04-2023).md",1,1,0,0,0,0,0,0,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (11-07-2023).md",7,1,0,0,0,3,0,3,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (10-03-2023).md",20,16,0,4,0,0,0,0,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (09-01-2024).md",10,0,0,0,0,5,0,5,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (09-05-2023).md",1,1,0,0,0,0,0,0,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (09-04-2023).md",1,1,0,0,0,0,0,0,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (07-09-2024).md",6,0,0,0,0,3,0,3,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (07-02-2024).md",17,0,0,0,0,9,0,8,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (07-02-2023).md",11,1,0,0,0,5,0,5,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (07-03-2023).md",1,1,0,0,0,0,0,0,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (06-04-2024).md",15,0,0,0,0,8,0,7,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (04-09-2024).md",10,0,0,0,0,5,0,5,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (04-02-2024).md",15,0,0,0,0,8,0,7,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (05-07-2024).md",15,0,0,0,0,8,0,7,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (03-07-2024).md",15,0,0,0,0,8,0,7,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (03-05-2024).md",15,0,0,0,0,8,0,7,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (18-07-2023).md",5,1,0,0,0,2,0,2,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (31-01-2023).md",11,1,0,0,0,5,0,5,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (02-06-2024).md",4,0,0,0,0,2,0,2,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (01-25-2023).md",1,1,0,0,0,0,0,0,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (04-04-2023).md",1,1,0,0,0,0,0,0,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (25-07-2023).md",1,1,0,0,0,0,0,0,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (05-02-2023).md",3,1,0,0,0,1,0,1,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (06-04-2023).md",1,1,0,0,0,0,0,0,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (08-01-2023).md",5,1,0,0,0,2,0,2,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (06-06-2023).md",1,1,0,0,0,0,0,0,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (08-08-2023).md",1,1,0,0,0,0,0,0,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (15-08-2023).md",1,1,0,0,0,0,0,0,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (22-08-2023).md",3,1,0,0,0,1,0,1,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (29-08-2023).md",7,1,0,0,0,3,0,3,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (12-09-2023).md",4,3,0,1,0,0,0,0,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (19-09-2023).md",10,2,0,0,0,4,0,4,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (26-09-2023).md",13,9,0,4,0,0,0,0,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (10-10-2023).md",3,1,0,0,0,1,0,1,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (17-10-2023).md",1,1,0,0,0,0,0,0,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (24-10-2023).md",1,1,0,0,0,0,0,0,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (31-10-2023).md",7,1,0,0,0,3,0,3,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (15-11-2023).md",1,1,0,0,0,0,0,0,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (12-03-2024).md",4,0,0,0,0,2,0,2,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (11-06-2024).md",4,0,0,0,0,2,0,2,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Weekly Meeting Template.md",15,0,0,0,0,8,0,7,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/Primitives Docs Work Session.md",2,0,0,0,0,1,0,1,NO
+"notes/dao-primitives/primitives-archive/primitives-meetings/primitives-meetings.md",76,76,0,0,0,0,0,0,NO
+"notes/dao-primitives/resources/resources.md",0,0,0,0,0,0,0,0,NO
+"notes/dao-primitives/resources/templates/group-state-template.md",1,0,0,0,0,1,0,0,NO
+"notes/dao-primitives/resources/templates/templates.md",0,0,0,0,0,0,0,0,NO
+"notes/dao-primitives/implementation/implementation.md",9,0,0,0,0,9,0,0,NO
+"notes/dao-primitives/implementation/patterns/patterns.md",12,0,0,0,0,12,0,0,NO
+"notes/dao-primitives/implementation/patterns/dao-patterns/dao-state.md",11,0,0,0,0,6,0,5,NO
+"notes/dao-primitives/implementation/patterns/dao-patterns/dao-patterns.md",1,1,0,0,0,0,0,0,NO
+"notes/dao-primitives/implementation/patterns/network-scale-patterns/network-scale-patterns.md",0,0,0,0,0,0,0,0,NO
+"notes/dao-primitives/implementation/patterns/coordination-scale-patterns/coordination-scale-patterns.md",0,0,0,0,0,0,0,0,NO
+"notes/dao-primitives/implementation/patterns/constituency-scale-patterns/community-governance.md",0,0,0,0,0,0,0,0,NO
+"notes/dao-primitives/implementation/patterns/constituency-scale-patterns/multi-stakeholder-governance.md",0,0,0,0,0,0,0,0,NO
+"notes/dao-primitives/implementation/patterns/constituency-scale-patterns/constituency-scale-patterns.md",0,0,0,0,0,0,0,0,NO
+"notes/dao-primitives/implementation/patterns/collaboration-scale-patterns/collaboration-scale-patterns.md",4,0,0,0,0,4,0,0,NO
+"notes/dao-primitives/implementation/patterns/collaboration-scale-patterns/nucleus.md",9,1,0,0,0,7,0,1,NO
+"notes/dao-primitives/implementation/patterns/collaboration-scale-patterns/decision-log.md",0,0,0,0,0,0,0,0,NO
+"notes/dao-primitives/implementation/patterns/collaboration-scale-patterns/circle.md",8,0,0,0,0,5,0,3,NO
+"notes/dao-primitives/implementation/case-studies/case-studies.md",0,0,0,0,0,0,0,0,NO
+"notes/dao-primitives/implementation/guides/sense-making-facilitation-tools.md",22,2,0,0,0,12,0,8,NO
+"notes/dao-primitives/implementation/guides/governance/implementation-guide-operational-governance.md",194,0,93,93,0,7,0,1,NO
+"notes/dao-primitives/implementation/guides/governance/implementation-guide-multi-stakeholder-governance.md",156,0,75,75,0,6,0,0,NO
+"notes/dao-primitives/implementation/guides/governance/implementation-guide-community-governance.md",117,1,55,55,0,6,0,0,NO
+"notes/dao-primitives/implementation/guides/governance/governance.md",0,0,0,0,0,0,0,0,NO
+"notes/dao-primitives/implementation/guides/guides.md",0,0,0,0,0,0,0,0,NO
+"links/the-future-of-optimism-governance.md",0,0,0,0,0,0,0,0,NO
+"links/The Handbook of Handbooks for Decentralised Organising.md",0,0,0,0,0,0,0,0,NO
+"links/The Future of Work is Human.md",0,0,0,0,0,0,0,0,NO
+"links/The Crypto Syllabus.md",0,0,0,0,0,0,0,0,NO
+"links/The Blockchain Governance Toolkit.md",1,0,0,0,0,1,0,0,NO
+"links/rich-decibels-decentralized-organizing-expert.md",0,0,0,0,0,0,0,0,NO
+"links/retroactive-public-goods-funding.md",0,0,0,0,0,0,0,0,NO
+"links/regen-coordination-common-approach-workshop.md",0,0,0,0,0,0,0,0,NO
+"links/readme.md",8,0,0,0,0,6,2,0,YES
+"links/pre-constitutional-governance.md",0,0,0,0,0,0,0,0,NO
+"links/p2p-foundation-wiki.md",2,0,0,0,0,1,0,1,NO
+"links/organizing-handbooks.md",296,0,0,0,0,148,0,148,NO
+"links/OpenCivics Collaborative Initiative – Specification Template.md",2,0,0,0,0,2,0,0,NO
+"links/municipal-mycofi.md",0,0,0,0,0,0,0,0,NO
+"links/modular-politics-toward-a-governance-layer-for-online-communities.md",6,0,0,0,0,4,0,2,NO
+"links/Metagov.md",6,0,1,1,0,3,0,1,NO
+"links/links.md",0,0,0,0,0,0,0,0,NO
+"links/Govbase.md",5,0,1,1,0,2,0,1,NO
+"links/ethereum-localism.md",8,0,4,4,0,0,0,0,NO
+"links/ethereum-localism-knowledge-garden-movement.md",0,0,0,0,0,0,0,0,NO
+"links/Decentralised Tech & the Future of Organising.md",0,0,0,0,0,0,0,0,NO
+"links/DAOstar.md",2,0,0,0,0,2,0,0,NO
+"links/DAO Governance - Challenges, Ideas and Tools.md",0,0,0,0,0,0,0,0,NO
+"links/cultural-data-sovereignty-workshop.md",0,0,0,0,0,0,0,0,NO
+"links/Crypto Canon (a16z).md",12,0,0,0,0,6,0,6,NO
+"links/community-building-in-daos.md",0,0,0,0,0,0,0,0,NO
+"links/circles-alternative-monetary-system.md",0,0,0,0,0,0,0,0,NO
+"links/Anticapture.md",68,0,0,0,0,34,0,34,NO
+"links/a-pocket-guide-to-dao-frameworks.md",0,0,0,0,0,0,0,0,NO
+"links/10-tools-for-systems-change-to-a-zero-carbon-world.md",1,0,0,0,0,1,0,0,NO
+"attachments/web3-discovery-process.md",3,0,0,0,0,3,0,0,NO
+"artifacts/readme.md",6,0,0,0,0,6,0,0,NO
+"artifacts/artifacts.md",12,0,0,0,0,12,0,0,NO
+"artifacts/studies/projects/rpp-governance-case-study.md",68,0,33,33,0,2,0,0,NO
+"artifacts/studies/projects/projects.md",0,0,0,0,0,0,0,0,NO
+"artifacts/studies/studies.md",0,0,0,0,0,0,0,0,NO
+"artifacts/studies/experiments/equality-fund-experiment-case-study.md",66,0,22,22,22,0,0,0,YES
+"artifacts/studies/experiments/ics-experiment-case-study.md",39,0,13,13,13,0,0,0,YES
+"artifacts/studies/experiments/aifs-experiment-case-study.md",129,0,43,43,43,0,0,0,YES
+"artifacts/studies/experiments/experiments.md",0,0,0,0,0,0,0,0,NO
+"artifacts/guides/poetic-harvesting-guide.md",20,0,0,0,0,10,4,6,YES
+"artifacts/guides/discord-link-scraper.md",0,0,0,0,0,0,0,0,NO
+"artifacts/guides/dao-primitives-framework/group-state.md",66,3,29,30,0,4,0,0,NO
+"artifacts/guides/dao-primitives-framework/group-facilitation.md",193,4,93,96,0,0,0,0,NO
+"artifacts/guides/dao-primitives-framework/dao-primitives-framework.md",108,0,12,12,12,46,26,0,YES
+"artifacts/guides/dao-primitives-framework/readme.md",25,0,0,0,0,14,11,0,YES
+"artifacts/guides/dao-primitives-framework/group-scale/collaboration-scale.md",41,4,17,20,0,0,0,0,NO
+"artifacts/guides/dao-primitives-framework/group-scale/network-scale.md",56,0,30,26,0,0,0,0,NO
+"artifacts/guides/dao-primitives-framework/group-scale/group-scale.md",46,0,18,18,0,10,0,0,NO
+"artifacts/guides/dao-primitives-framework/group-scale/coordination-scale.md",63,0,29,27,0,5,0,2,NO
+"artifacts/guides/dao-primitives-framework/group-scale/constituency-scale.md",83,3,39,41,0,0,0,0,NO
+"artifacts/guides/dao-primitives-framework/group-primitives/daos.md",134,4,64,66,0,0,0,0,NO
+"artifacts/guides/dao-primitives-framework/group-primitives/cells.md",109,2,53,54,0,0,0,0,NO
+"artifacts/guides/dao-primitives-framework/group-primitives/tasks.md",152,3,73,76,0,0,0,0,NO
+"artifacts/guides/dao-primitives-framework/group-primitives/roles.md",158,0,77,77,0,2,0,2,NO
+"artifacts/guides/dao-primitives-framework/group-primitives/group-primitives.md",65,5,30,30,0,0,0,0,NO
+"artifacts/guides/dao-primitives-framework/group-phase/formation-phase.md",59,0,26,26,0,7,0,0,NO
+"artifacts/guides/dao-primitives-framework/group-phase/organization-phase.md",126,0,60,60,0,6,0,0,NO
+"artifacts/guides/dao-primitives-framework/group-phase/group-phase.md",21,0,2,2,0,17,0,0,NO
+"artifacts/guides/dao-primitives-framework/group-phase/coordination-phase.md",152,0,73,73,0,6,0,0,NO
+"artifacts/guides/dao-primitives-framework/group-phase/conversation-phase.md",61,0,28,28,0,5,0,0,NO
+"artifacts/guides/dao-primitives-framework/group-phase/completion-phase.md",22,0,8,8,0,3,0,3,NO
+"artifacts/guides/dao-primitives-framework/dao-primitives-implemention/implementation-guide-multi-stakeholder-governance.md",154,0,75,75,0,4,0,0,NO
+"artifacts/guides/dao-primitives-framework/dao-primitives-implemention/implementation-guide-operational-governance.md",191,0,93,93,0,4,0,1,NO
+"artifacts/guides/dao-primitives-framework/dao-primitives-implemention/implementation-guide-community-governance.md",114,1,55,55,0,3,0,0,NO
+"artifacts/guides/dao-primitives-framework/dao-primitives-implemention/dao-primitives-implemention.md",3,0,0,0,0,3,0,0,NO
+"artifacts/guides/guides.md",0,0,0,0,0,0,0,0,NO
+"artifacts/playbooks/playbooks.md",0,0,0,0,0,0,0,0,NO
+"artifacts/patterns/cell-state.md",19,0,0,0,0,19,0,0,NO
+"artifacts/patterns/decider-protocol.md",9,1,0,1,0,6,0,1,NO
+"artifacts/patterns/cell.md",30,1,0,1,0,27,0,1,NO
+"artifacts/patterns/cell-state-template.md",1,0,0,0,0,1,0,0,NO
+"artifacts/patterns/progressive-web3-adoption.md",24,0,8,8,8,0,0,0,YES
+"artifacts/patterns/poetic-harvesting.md",20,0,4,4,4,4,4,0,YES
+"artifacts/patterns/operational-governance.md",45,0,15,15,15,0,0,0,YES
+"artifacts/patterns/knowledge-gardens.md",73,0,17,17,17,11,0,11,YES
+"artifacts/patterns/gatherings.md",4,0,0,0,0,2,2,0,YES
+"artifacts/patterns/fiscal-bridge-pattern.md",10,0,2,2,2,2,0,2,YES
+"artifacts/patterns/community-governance.md",27,0,9,9,9,0,0,0,YES
+"artifacts/patterns/patterns.md",1,0,1,0,0,0,0,0,NO
+"artifacts/articles/Reimagining Power - How Web3 Can Transform Impact.md",20,0,0,0,0,11,9,0,YES
+"artifacts/articles/network-evolution/network-evolution.md",26,1,5,0,0,10,10,0,YES
+"artifacts/articles/network-evolution/Scale and the levers that provide DAOs their power.md",44,0,0,0,0,22,10,12,YES
+"artifacts/articles/network-evolution/DAOs aren't things... they are flows..md",33,0,0,0,0,17,13,3,YES
+"artifacts/articles/network-evolution/Minimum Viable Permissionless-ness.md",38,0,0,0,0,19,7,12,YES
+"artifacts/articles/network-evolution/DAOs - From fractal primitives to network scale..md",58,0,0,0,0,29,5,24,YES
+"artifacts/articles/network-evolution/Building DAOs as scalable networks.md",62,0,0,0,0,31,14,17,YES
+"artifacts/articles/governance-for-better-futures/governance-for-better-futures.md",139,0,0,0,0,71,5,63,YES
+"artifacts/articles/governance-for-better-futures/Governance for better futures - New and Old.md",126,0,0,0,0,64,8,54,YES
+"artifacts/articles/governance-for-better-futures/Governance for better futures - Meta-governance.md",100,0,0,0,0,51,10,39,YES
+"artifacts/articles/governance-for-better-futures/Governance for better futures - DAO 2 DAO Co-operation.md",148,0,0,0,0,75,8,65,YES
+"artifacts/articles/governance-for-better-futures/Exploring governance for better futures.md",139,0,0,0,0,71,5,63,YES
+"artifacts/articles/articles.md",13,3,10,0,0,0,0,0,NO

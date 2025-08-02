@@ -4,7 +4,7 @@
   "trashOption": "local",
   "useMarkdownLinks": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "notes",
+  "newFileFolderPath": "drafts",
   "newLinkFormat": "absolute",
   "pdfExportSettings": {
     "pageSize": "Legal",
@@ -12,5 +12,7 @@
     "margin": "2",
     "downscalePercent": 100
   },
-  "livePreview": false
+  "livePreview": false,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "attachments"
 }
