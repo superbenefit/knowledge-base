@@ -27,49 +27,49 @@ const LINK_PATTERNS = {
     wikilink_standard: {
         regex: /\[\[([^\[\]|#^]+?)\]\]/g,
         name: 'Wikilink (standard)',
-        example: '[[page]]'
+        example: '[page](page)'
     },
     wikilink_alias: {
         regex: /\[\[([^\[\]#^]+?)\|([^\[\]]+?)\]\]/g,
         name: 'Wikilink with alias',
-        example: '[[page|display text]]'
+        example: '[display text](page)'
     },
     wikilink_heading: {
         regex: /\[\[([^\[\]|^]+?)#([^\[\]|^]+?)\]\]/g,
         name: 'Wikilink with heading',
-        example: '[[page#heading]]'
+        example: '[](page#heading)'
     },
     wikilink_block: {
         regex: /\[\[([^\[\]|#]+?)\^([^\[\]|#]+?)\]\]/g,
         name: 'Wikilink with block',
-        example: '[[page^block-id]]'
+        example: '[page^block-id](page^block-id)'
     },
     wikilink_heading_alias: {
         regex: /\[\[([^\[\]|^]+?)#([^\[\]|^]+?)\|([^\[\]]+?)\]\]/g,
         name: 'Wikilink heading + alias',
-        example: '[[page#heading|alias]]'
+        example: '[](page#heading|alias)'
     },
     wikilink_block_alias: {
         regex: /\[\[([^\[\]|#]+?)\^([^\[\]|#]+?)\|([^\[\]]+?)\]\]/g,
         name: 'Wikilink block + alias',
-        example: '[[page^block|alias]]'
+        example: '[alias](page^block)'
     },
     
     // Embedded content
     embed_standard: {
         regex: /!\[\[([^\[\]]+?)\]\]/g,
         name: 'Embedded content',
-        example: '![[file]]'
+        example: '![file](file)'
     },
     embed_heading: {
         regex: /!\[\[([^\[\]]+?)#([^\[\]]+?)\]\]/g,
         name: 'Embedded with heading',
-        example: '![[file#heading]]'
+        example: '![](file#heading)'
     },
     embed_block: {
         regex: /!\[\[([^\[\]]+?)\^([^\[\]]+?)\]\]/g,
         name: 'Embedded with block',
-        example: '![[file^block]]'
+        example: '![file^block](file^block)'
     },
     
     // Markdown links
@@ -110,7 +110,7 @@ const LINK_PATTERNS = {
     leading_slash_wiki: {
         regex: /\[\[\/([^\]]+?)\]\]/g,
         name: 'Wikilink leading slash',
-        example: '[[/path]]'
+        example: '[/path](/path)'
     },
     leading_slash_md: {
         regex: /\[([^\]]*?)\]\(\/([^)]+?)\)/g,

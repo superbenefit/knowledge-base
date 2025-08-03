@@ -232,9 +232,9 @@ const processFile = async (filePath) => {
                 changeCount++;
                 
                 if (alias) {
-                    return `[[${absolutePath}${alias}]]`;
+                    return `[${absolutePath}${alias}](${absolutePath}${alias})`;
                 } else {
-                    return `[[${absolutePath}]]`;
+                    return `[${absolutePath}](${absolutePath})`;
                 }
             } catch (error) {
                 results.errors.push({
@@ -311,7 +311,7 @@ try {
         
         for (const file of files) {
             const content = await app.vault.read(file);
-            if (content.match(/\[[^\]]+\]\(\.\.?\/[^)]+\)/) || content.match(/\[\[\.\.\/[^\]]+\]\]/)) {
+            if (content.match(/\[^\](^%5C)+\]\(\.\.?\/[^)]+\)/) || content.match(/\[\[\.\.\/[^\]]+\]\]/)) {
                 targetFiles.push(file.path);
             }
         }
@@ -340,8 +340,8 @@ try {
 ## Edge Cases
 - [With query](../file.md?param=value)
 - [Image](../images/photo.png)
-- Wikilink: [[../relative-wiki]]
-- Wikilink with alias: [[../relative|Display Text]]`;
+- Wikilink: [../relative-wiki](../relative-wiki)
+- Wikilink with alias: [Display Text](../relative)`;
         
         await app.vault.adapter.write(`${OUTPUT_DIR}/test-relative/nested/relative-path-test.md`, testContent);
         targetFiles = [`${OUTPUT_DIR}/test-relative/nested/relative-path-test.md`];

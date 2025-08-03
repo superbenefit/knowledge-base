@@ -1,4 +1,4 @@
-#[[notes/archive/clarity/Tags/reimagining power]] 
+#[reimagining power](notes/archive/clarity/Tags/reimagining%20power.md) 
 >THIS DOC IS NOW IN CHARMVERSE
 
 Please use the Charmverse doc instead:

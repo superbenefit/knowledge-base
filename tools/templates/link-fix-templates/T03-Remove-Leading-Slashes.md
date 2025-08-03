@@ -21,7 +21,7 @@ rollback: Restore all files from backup
 
 <%*
 // T03-Remove-Leading-Slashes
-// Purpose: Remove leading slashes from [[/path]] and [text](/path) patterns
+// Purpose: Remove leading slashes from [/path](/path) and [text](/path) patterns
 // Features: Automatic backup, detailed logging, rollback capability
 
 const OUTPUT_DIR = 'link-fix';
@@ -35,7 +35,7 @@ const logFile = `05-slash-removal-log-${timestamp}.csv`;
 const PATTERNS = {
     wikilink: {
         regex: /\[\[\/([^\]]+?)\]\]/g,
-        replacement: '[[$1]]',
+        replacement: '[$1]($1)',
         name: 'wikilink'
     },
     markdown: {

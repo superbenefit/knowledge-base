@@ -1,4 +1,4 @@
-#[[governance conversations]] 
+#[governance conversations](/notes/archive/clarity/Tags/governance%20conversations.md) 
 
 
 

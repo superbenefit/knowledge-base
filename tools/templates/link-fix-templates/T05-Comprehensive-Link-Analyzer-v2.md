@@ -69,42 +69,42 @@ const addExample = (type, text, file) => {
 const analyzeContent = (content, filePath) => {
     const counts = {};
     
-    // Basic wikilinks [[page]]
+    // Basic wikilinks [page](page)
     const wikiBasic = content.match(/\[\[([^\[\]|#\^\/]+?)\]\]/g) || [];
     counts.wikilink_basic = wikiBasic.length;
     if (wikiBasic.length > 0) addExample('wikilink_basic', wikiBasic[0], filePath);
     
-    // Wikilinks with alias [[page|alias]]
+    // Wikilinks with alias [alias](page)
     const wikiAlias = content.match(/\[\[([^\[\]#\^]+?)\|([^\[\]]+?)\]\]/g) || [];
     counts.wikilink_alias = wikiAlias.length;
     if (wikiAlias.length > 0) addExample('wikilink_alias', wikiAlias[0], filePath);
     
-    // Wikilinks with heading [[page#heading]]
+    // Wikilinks with heading [](page#heading)
     const wikiHeading = content.match(/\[\[([^\[\]|]+?)#([^\[\]|]+?)\]\]/g) || [];
     counts.wikilink_heading = wikiHeading.length;
     if (wikiHeading.length > 0) addExample('wikilink_heading', wikiHeading[0], filePath);
     
-    // Wikilinks with block [[page^block]]
+    // Wikilinks with block [page^block](page^block)
     const wikiBlock = content.match(/\[\[([^\[\]|#]+?)\^([^\[\]|]+?)\]\]/g) || [];
     counts.wikilink_block = wikiBlock.length;
     if (wikiBlock.length > 0) addExample('wikilink_block', wikiBlock[0], filePath);
     
-    // Wikilinks with leading slash [[/path]]
+    // Wikilinks with leading slash [/path](/path)
     const wikiSlash = content.match(/\[\[\/([^\[\]]+?)\]\]/g) || [];
     counts.wikilink_leading_slash = wikiSlash.length;
     if (wikiSlash.length > 0) addExample('wikilink_leading_slash', wikiSlash[0], filePath);
     
-    // Embedded content ![[file]]
+    // Embedded content ![file](file)
     const embedBasic = content.match(/!\[\[([^\[\]#\^]+?)\]\]/g) || [];
     counts.embed_basic = embedBasic.length;
     if (embedBasic.length > 0) addExample('embed_basic', embedBasic[0], filePath);
     
-    // Embedded with heading ![[file#heading]]
+    // Embedded with heading ![](file#heading)
     const embedHeading = content.match(/!\[\[([^\[\]]+?)#([^\[\]]+?)\]\]/g) || [];
     counts.embed_heading = embedHeading.length;
     if (embedHeading.length > 0) addExample('embed_heading', embedHeading[0], filePath);
     
-    // Embedded with block ![[file^block]]
+    // Embedded with block ![file^block](file^block)
     const embedBlock = content.match(/!\[\[([^\[\]]+?)\^([^\[\]]+?)\]\]/g) || [];
     counts.embed_block = embedBlock.length;
     if (embedBlock.length > 0) addExample('embed_block', embedBlock[0], filePath);
@@ -238,14 +238,14 @@ const generateReport = () => {
     md += '|-----------|-------|-------------|\n';
     
     const typeDescriptions = {
-        wikilink_basic: 'Standard wikilinks [[page]]',
-        wikilink_alias: 'Wikilinks with alias [[page|display]]',
-        wikilink_heading: 'Wikilinks with heading [[page#heading]]',
-        wikilink_block: 'Wikilinks with block [[page^block]]',
-        wikilink_leading_slash: 'Wikilinks with leading slash [[/path]]',
-        embed_basic: 'Embedded content ![[file]]',
-        embed_heading: 'Embedded with heading ![[file#heading]]',
-        embed_block: 'Embedded with block ![[file^block]]',
+        wikilink_basic: 'Standard wikilinks [page](page)',
+        wikilink_alias: 'Wikilinks with alias [display](page)',
+        wikilink_heading: 'Wikilinks with heading [](page#heading)',
+        wikilink_block: 'Wikilinks with block [page^block](page^block)',
+        wikilink_leading_slash: 'Wikilinks with leading slash [/path](/path)',
+        embed_basic: 'Embedded content ![file](file)',
+        embed_heading: 'Embedded with heading ![](file#heading)',
+        embed_block: 'Embedded with block ![file^block](file^block)',
         markdown_internal: 'Markdown internal links [text](page)',
         markdown_internal_md: 'Markdown internal with .md [text](page.md)',
         markdown_heading: 'Markdown with heading [text](page#heading)',

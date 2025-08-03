@@ -115,13 +115,12 @@ const fixEmbed = (match, altText, path, filePath) => {
             // Keep as image but restore size if needed
             if (size && !match.includes(`|${size}`)) {
                 // Restore size parameter
-                fixed = `![[${path}|${size}]]`;
+                fixed = `![[${path}]]`;
                 changeType = 'image_size_restored';
                 results.embedsFixed.withSize++;
             } else {
-                // Convert to wikilink embed for consistency
-                fixed = `![[${path}]]`;
-                changeType = 'image_format';
+                // Keep as is for actual images
+                changeType = 'image_unchanged';
             }
             results.embedsFixed.images++;
             break;
@@ -184,7 +183,7 @@ const createBackup = async (filePath) => {
 const processFile = async (filePath) => {
     try {
         const file = app.vault.getAbstractFileByPath(filePath);
-        if (!file || !(file instanceof TFile)) {
+        if (!file) {
             throw new Error('File not found');
         }
         
@@ -192,7 +191,7 @@ const processFile = async (filePath) => {
         let fixedContent = originalContent;
         let changeCount = 0;
         
-        // Match markdown image syntax: ![alt](path)
+        // Match markdown image syntax: ![[path]]
         fixedContent = fixedContent.replace(/!\[([^\]]*)\]\(([^)]+)\)/g, (match, alt, path) => {
             const fixed = fixEmbed(match, alt, path, filePath);
             if (fixed !== match) changeCount++;
@@ -261,18 +260,33 @@ try {
             .map(f => f.path);
             
     } else if (mode === "All Embeds") {
-        // Process all files that might have embeds
-        const files = app.vault.getMarkdownFiles();
-        targetFiles = files.map(f => f.path);
+        // Process the specific files with embed issues
+        const filesWithEmbedIssues = [
+            "tools/plugin-notes/plugin-notes.md",
+            "tools/templates/link-fix-templates/T07-Fix-Embeds.md",
+            "drafts/OpenCivics-Wiki/OpenCivics Thesis/Our Critical Path.md",
+            "drafts/OpenCivics-Wiki/OpenCivics Thesis/Full Thesis.md",
+            "drafts/OpenCivics-Wiki/OpenCivics Concepts/Theory of Change.md",
+            "drafts/OpenCivics-Wiki/OpenCivics Concepts/Practice Ethics.md",
+            "drafts/OpenCivics-Wiki/OpenCivics Concepts/Participatory Design Process.md",
+            "drafts/OpenCivics-Wiki/OpenCivics Concepts/Open Protocols.md",
+            "drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary.md",
+            "drafts/OpenCivics-Wiki/OpenCivics Concepts/Assembly Protocol.md",
+            "drafts/OpenCivics-Wiki/Open Civic Innovation Framework/Full Framework.md",
+            "drafts/OpenCivics-Wiki/Open Civic Innovation Framework/Design Practice.md",
+            "drafts/OpenCivics-Wiki/Open Civic Innovation Framework/Design Philosophy.md",
+            "drafts/OpenCivics-Wiki/About OpenCivics/About Membership.md"
+        ];
+        targetFiles = filesWithEmbedIssues;
         
     } else if (mode === "Test Mode") {
         // Create test file with various embed types
         const testContent = `# Embed Test File
         
 Note embeds converted by plugin:
-![note content](notes/example.md)
-![with fragment](notes/guide.md#section)
-![with block](notes/doc%5Eblock-id.md)
+![[notes/example.md]]
+![[notes/guide.md#section]]
+![[notes/doc%5Eblock-id.md]]
 
 Image embeds:
 ![diagram](attachments/diagram.png)
@@ -280,12 +294,12 @@ Image embeds:
 ![banner|700×200](attachments/banner.png)
 
 Document embeds:
-![whitepaper](docs/whitepaper.pdf)
-![presentation](docs/slides.pptx)
+![[docs/whitepaper.pdf]]
+![[docs/slides.pptx]]
 
 Mixed cases:
-![](empty-alt.md)
-![complex path](path/to/nested/file.md)`;
+![[empty-alt.md]]
+![[path/to/nested/file.md]]`;
         
         await app.vault.adapter.write(`${OUTPUT_DIR}/embed-test.md`, testContent);
         targetFiles = [`${OUTPUT_DIR}/embed-test.md`];
@@ -337,6 +351,14 @@ Mixed cases:
     tR += `### 📁 Outputs\n\n`;
     tR += `- **Backup**: \`${backupFolder}\`\n`;
     tR += `- **Fix log**: \`${OUTPUT_DIR}/${logFile}\`\n`;
+    
+    tR += `\n### Files with Embed Issues Processed\n\n`;
+    if (mode === "All Embeds") {
+        tR += `The following files were processed:\n`;
+        targetFiles.forEach(file => {
+            tR += `- ${file}\n`;
+        });
+    }
     
     new Notice(`Fix complete: ${results.fixLog.length} embeds fixed`);
     

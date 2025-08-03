@@ -17,15 +17,15 @@ This Cell will evolve as this occurs and as proposals are passed and initiatives
 
 # Resources
 - ## Project Overview
-	- [[notes/archive/clarity/Tags/reimagining power]]
+	- [reimagining power](/notes/archive/clarity/Tags/reimagining%20power.md)
 - ## Learning Journeys
-	- [[reimagine institute]]
-	- [[equality fund]]
-	- [[ontario trillium foundation]]
-	- [[all in for sport]]
+	- [reimagine institute](/notes/archive/clarity/Tags/reimagine%20institute.md)
+	- [equality fund](/notes/archive/clarity/Tags/equality%20fund.md)
+	- [ontario trillium foundation](/notes/archive/clarity/Tags/ontario%20trillium%20foundation.md)
+	- [all in for sport](/notes/archive/clarity/Tags/all%20in%20for%20sport.md)
 - ## Foundational Documents
-	- #[[POW-274 Working Agreements (DRAFT) - Reimagining Power]]
-	- #[[POW-272 Cell State (DRAFT) - Reimagining Power]] 
+	- #[POW-274 Working Agreements (DRAFT) - Reimagining Power](POW-274%20Working%20Agreements%20(DRAFT)%20-%20Reimagining%20Power)
+	- #[POW-272 Cell State (DRAFT) - Reimagining Power](POW-272%20Cell%20State%20(DRAFT)%20-%20Reimagining%20Power) 
 	- **[Original Proposal - Reimagining Power](https://app.clarity.so/superbenefit/docs/0f06bfeb-052f-4c68-a0ae-c1f514273a46)**
 - # Tools
 	- **[Discord Chat](https://discord.gg/cYw46duTNP)**

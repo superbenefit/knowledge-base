@@ -1,4 +1,4 @@
-#[[264 Systems Transformation Project]] 
+#[264 Systems Transformation Project](264%20Systems%20Transformation%20Project) 
 ## Process Objectives
 - Ensure contributors are able to surface their contributions
 - Enable contributors to contribute to shaping the final allocation
@@ -8,7 +8,7 @@
 - OPTIONAL:
 	- Use [coordinape](http://coordinape.com) to allow contributors to collectively determine the allocation
 		- Contributors should vote on how they perceive the value contributed to:
-			- the work of the #[[P-264 Systems Transformation Project]] Cell
+			- the work of the #[P-264 Systems Transformation Project](P-264%20Systems%20Transformation%20Project) Cell
 			- the support provided to you in your work
 		- if we choose, the resulting allocation can help to determine the allocation of the remaining $SPRB that has been allocated to the Cell
 

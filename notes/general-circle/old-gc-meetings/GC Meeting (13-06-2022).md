@@ -2,9 +2,9 @@
 tags: meetings
 date: 13-06-2022
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 # Week of June 13, 2022
-#[[tactical meetings]] Template
+#[tactical meetings](/notes/archive/clarity/Tags/tactical%20meetings.md) Template
 ## Attendees
 Heenal, Michael, Michelle, Rowan
 
@@ -23,14 +23,14 @@ Heenal, Michael, Michelle, Rowan
 		- 
 	- Blockers:
 		- 
-- Project name/link: #[[superbenefit contributor guide - working draft]] 
+- Project name/link: #[superbenefit contributor guide - working draft](/notes/archive/clarity/Tags/superbenefit%20contributor%20guide%20-%20working%20draft.md) 
 	- Last week:
 		- Updating contributor guide
 	- This week:
 		- Finalize contributor guide
 	- Blockers:
 		- Governance structure- it will come
-- Project name/link: #[[governance conversations]] 
+- Project name/link: #[governance conversations](/notes/archive/clarity/Tags/governance%20conversations.md) 
 	- Last week:
 		- Promo of Convo 2 and engagement of speakers
 	- This week:
@@ -40,7 +40,7 @@ Heenal, Michael, Michelle, Rowan
 	- Blockers:
 		- June 30 speakers - meeting June 14 
 
-Project name/link: #[[P-193 Community Experience- Revolution 1]] 
+Project name/link: #[P-193 Community Experience- Revolution 1](P-193%20Community%20Experience-%20Revolution%201) 
 - Last week:
 	- Meeting Paul Pomerleau - Build DAO; Nathan Vandy & Niels Abdelllatif OnBoard DAO; 
 - This week:
@@ -48,14 +48,14 @@ Project name/link: #[[P-193 Community Experience- Revolution 1]]
 - Blockers:
 	- How to engage in current work - need micro bounties to engage them in 
 
-Project name/link - #[[SUP-239 Governance research project (Rev 1) DAO-Cell founding doc]] 
+Project name/link - #[SUP-239 Governance research project (Rev 1) DAO-Cell founding doc](SUP-239%20Governance%20research%20project%20(Rev%201)%20DAO-Cell%20founding%20doc) 
 - Last week: 
 	- Next post mostly done
 	- Team working on where they want to put their energy
 - This week:
 	- Finalising post
 	- Next steps with team
-- Project name/link #[[SUP-256 SuperBenefit Consulting Design ]] 
+- Project name/link #[SUP-256 SuperBenefit Consulting Design ](SUP-256%20SuperBenefit%20Consulting%20Design%20) 
 	- Last week: 
 		- Refining design based on feedback
 		- Conversation with Ananth

@@ -105,7 +105,7 @@ Each neighbourhood maintains its own pool with:
 
 ## Related Documents
 
-- [G.02-scaling-strategy.md](./G.02-scaling-strategy.md)
-- [C.03-governance-structure.md](notes/ics/ccc/v0.2/C-Implementation/C.03-governance-structure.md)
-- [F.01-connection-circles.md](notes/ics/ccc/v0.2/F-Activities/F.01-connection-commons.md)
-- [E.06-participating-in-connection-circles.md](notes/ics/ccc/v0.2/E-Guides/E.06-participating-in-connection-commons.md)
+- G.02-scaling-strategy.md
+- C.03-governance-structure.md
+- F.01-connection-circles.md
+- E.06-participating-in-connection-circles.md

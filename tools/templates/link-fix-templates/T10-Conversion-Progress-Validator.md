@@ -98,10 +98,10 @@ const sampleFile = async (filePath) => {
         
         // Count different link types
         const stats = {
-            wikilinks: (content.match(/\[\[[^\]]+\]\]/g) || []).length,
-            markdownLinks: (content.match(/\[[^\]]+\]\([^)]+\)/g) || []).length,
+            wikilinks: (content.match(/\[\[^\](^%5C)+\]\]/g) || []).length,
+            markdownLinks: (content.match(/\[^\](^%5C)+\]\([^)]+\)/g) || []).length,
             leadingSlashes: (content.match(/\[\[\/[^\]]+\]\]/g) || []).length,
-            relativeLinks: (content.match(/\[[^\]]+\]\(\.\.?\/[^)]+\)/g) || []).length,
+            relativeLinks: (content.match(/\[^\](^%5C)+\]\(\.\.?\/[^)]+\)/g) || []).length,
             totalLinks: 0
         };
         

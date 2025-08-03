@@ -2,7 +2,7 @@
 tags: meetings
 date: 27-03-2023
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 ## Attendees
 - @heenal @Rowan  @Lewwwk @MBaldwin 
 
@@ -14,14 +14,14 @@ date: 27-03-2023
 	- Last week: 
 	- This week:
 	- Blockers:
-- Project - #[[P-193 Community Experience- Revolution 1]] 
+- Project - #[P-193 Community Experience- Revolution 1](P-193%20Community%20Experience-%20Revolution%201) 
 	- Last week: 
 		- Onboard Lindsay Tipping and Tim Steigert to SB and systems transformation project 
 		- Tested web3 adventure tour with Huron students [https://docs.google.com/presentation/d/1esZbSwFV0OffRFRYb-ul-K8XViKM6grs/edit#slide=id.p14](https://docs.google.com/presentation/d/1esZbSwFV0OffRFRYb-ul-K8XViKM6grs/edit#slide=id.p14) 
 	- This week:
 		- Onboard Kayla Love to SB
 	- Blockers:
-- Project - #[[P-264 Systems Transformation Project]] 
+- Project - #[P-264 Systems Transformation Project](P-264%20Systems%20Transformation%20Project) 
 	- Last week:
 		- Meeting notes [https://app.clarity.so/superbenefit/docs/f166a619-b270-47a9-9579-8a71cc645f0e](https://app.clarity.so/superbenefit/docs/f166a619-b270-47a9-9579-8a71cc645f0e) 
 	- This week:

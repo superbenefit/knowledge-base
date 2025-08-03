@@ -16,5 +16,5 @@ This document is a placeholder for future development of Citizen Wallet integrat
 ## Related Documents
 
 - [C.04-technology-implementation.md](notes/ics/ccc/v0.2/C-Implementation/C.04-technology-implementation.md)
-- [G.05-digital-evolution-possibilities.md](./G.05-digital-evolution-possibilities.md)
+- [G.05-digital-evolution-possibilities.md](notes/ics/ccc/archive/v0.18/G.05-digital-evolution-possibilities.md)
 - [E.08-using-technology-tools.md](notes/ics/ccc/v0.2/E-Guides/E.08-using-technology-tools.md)

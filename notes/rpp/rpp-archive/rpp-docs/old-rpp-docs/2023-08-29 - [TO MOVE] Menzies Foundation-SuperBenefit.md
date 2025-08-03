@@ -1,4 +1,4 @@
-#[[notes/archive/clarity/Tags/reimagining power]] 
+#[reimagining power](notes/archive/clarity/Tags/reimagining%20power.md) 
 
 Feb 6, 2024
 Liz, Rowan, Michelle

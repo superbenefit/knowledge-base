@@ -432,17 +432,25 @@ Create 31-phase-6-summary.md
 
 ## Phase 7: Final Validation
 
+### Step 7.0: Context Loading
+
+```
+Claude:
+1. Review all previous summaries
+2. Update 08-progress-dashboard.md and 07-processing-order.md if/as needed
+3. Make sure all tracking CSV templates and other progress assets are in order
+```
+
 ### Step 7.1: Complete Validation
 
 ```
 Execute "T12-Final-Vault-Validation", output: 32-final-validation.md
+Stop to instruct the user as needed
 ```
 
 ### Step 7.2: Publishing Test
 
-```
-Document in 33-final-publishing-test.md
-```
+Skip
 
 ### Step 7.3: Change Report
 

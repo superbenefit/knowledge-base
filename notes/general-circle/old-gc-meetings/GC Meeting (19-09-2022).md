@@ -2,9 +2,9 @@
 tags: meetings
 date: 19-09-2022
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 # Week of September 19, 2022
-#[[tactical meetings]] 
+#[tactical meetings](/notes/archive/clarity/Tags/tactical%20meetings.md) 
 ## Attendees
 - @heenal @Lewwwk @MBaldwin @Rowan  
 
@@ -16,7 +16,7 @@ date: 19-09-2022
 	- Last week:
 	- This week:
 	- Blockers:
-- Project name/link: #[[P-193 Community Experience- Revolution 1]] 
+- Project name/link: #[P-193 Community Experience- Revolution 1](P-193%20Community%20Experience-%20Revolution%201) 
 	- Last week:
 		- Weekly Update- posted to announcement
 		- @heenal & @MBaldwin met to catch up on all things community experience and info SB
@@ -31,16 +31,16 @@ date: 19-09-2022
 			- [https://app.clarity.so/rathermercurial/notes/4ce021bb-6a01-4c3d-882c-3b03aaa3469f](https://app.clarity.so/rathermercurial/notes/4ce021bb-6a01-4c3d-882c-3b03aaa3469f) 
 	- This week:
 		- Attending Elevate Festival with Women & Web3
-		- #[[proposal sbp11- dao systems transformation repository-library]] to be shared in Discord in proposal development
+		- #[proposal sbp11- dao systems transformation repository-library](/notes/archive/clarity/Tags/proposal%20sbp11-%20dao%20systems%20transformation%20repository-library.md) to be shared in Discord in proposal development
 		- DAO as nature video 2 posted Sept 20 by @ayusha01 on Mirror
 	- Blockers:
-- #[[P-236 Krause House Collaboration]]
+- #[P-236 Krause House Collaboration](P-236%20Krause%20House%20Collaboration)
 	- Last week: proposal passed through Stewards
 	- This week: proposal goes live
-- #[[P-261 Windfall - Residential Energy NFT]]
+- #[P-261 Windfall - Residential Energy NFT](P-261%20Windfall%20-%20Residential%20Energy%20NFT)
 	- Last week: proposal drafted, durham region letter inbound, superbenefit proposal passed #
 	- This week: proposal to be submitted
-- #[[P-260 TrustDAO - Child Welfare, Canada]]  
+- #[P-260 TrustDAO - Child Welfare, Canada](P-260%20TrustDAO%20-%20Child%20Welfare,%20Canada)  
 	- Meeting scheduled: 
 
 ## Triage Items

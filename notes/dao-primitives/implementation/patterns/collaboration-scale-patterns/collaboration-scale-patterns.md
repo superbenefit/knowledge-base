@@ -13,11 +13,3 @@ Patterns related to implementing and managing Cells (small autonomous teams) in 
 These patterns provide practical implementations of the Cell primitive, describing how to structure, govern, and coordinate Cells within a larger DAO context.
 
 ---
-
-%% Begin Waypoint %%
-- **[collaboration-scale-patterns](./collaboration-scale-patterns.md)**
-  - [Circle](./circle.md)
-  - [Decision log](./decision-log.md)
-  - [Nucleus](./nucleus.md)
-
-%% End Waypoint %%

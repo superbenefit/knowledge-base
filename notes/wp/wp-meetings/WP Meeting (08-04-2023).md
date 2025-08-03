@@ -2,7 +2,7 @@
 tags:
   - meetings
 date: 04-08-2023
-source: "[[wp-clarity-meeting-notes]]"
+source: "[wp-clarity-meeting-notes](/notes/wp/wp-meetings/wp-clarity-meeting-notes.md)"
 ---
 
 # WP Meeting - **8/4/23**

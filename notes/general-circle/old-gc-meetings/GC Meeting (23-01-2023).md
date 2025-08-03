@@ -2,7 +2,7 @@
 tags: meetings
 date: 23-01-2023
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 ## Attendees
 ## Checkin
 - How do you arrive?
@@ -13,7 +13,7 @@ date: 23-01-2023
 	- This week:
 	- Blockers:
 
-#[[P-193 Community Experience- Revolution 1]] 
+#[P-193 Community Experience- Revolution 1](P-193%20Community%20Experience-%20Revolution%201) 
 - Last week:
 	- @heenal and @MBaldwin meet to map out plan for community experience for both SB and AIFS and here is proposal for AIFS community experience team [https://app.clarity.so/allinforsport/work/GEN-29](https://app.clarity.so/allinforsport/work/GEN-29) 
 		- Feedback: it could have been helpful to outline Accountabilities to avoid the possibility of duplication/competition/messiness. And also to explain why Michelle and Heenal and suited to do this work.
@@ -25,7 +25,7 @@ date: 23-01-2023
 - This week:
 - Blockers:
 
-#[[P-264 Systems Transformation Project]] 
+#[P-264 Systems Transformation Project](P-264%20Systems%20Transformation%20Project) 
 - Last week:
 	- Weekly Meet Up - discussed next steps including research of DAOS, blogs, Twitter Spaces and language of framework
 	- @Rowan   & @MBaldwin discuss DAO primitive and systems transformation cell and the connectivity and next steps - some exploration of a possible "report" but suggesting more of this concept [https://undp.db.team/web3/](https://undp.db.team/web3/)  (kudos to Rowan and his partner for this great work). Great content, videos and means it can evolve and be fluid. 
@@ -33,7 +33,7 @@ date: 23-01-2023
 	- Review DAO research summary analysis and firm up next steps 
 - Blockers:
 
-#[[P-196 Information Squad- Revolution 1]]
+#[P-196 Information Squad- Revolution 1](P-196%20Information%20Squad-%20Revolution%201)
 - Last week:
 	- AIFS Community Experience proposal
 	- Figuring out how to get funds from CFC to SB

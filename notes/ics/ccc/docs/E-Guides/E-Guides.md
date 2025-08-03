@@ -20,28 +20,28 @@ This directory contains detailed how-to guides for participants in the Community
 
 ## Member Participation Guides
 
-1. [E.01-adding-commitments.md](notes/ics/ccc/v0.2/E-Guides/E.01-adding-commitments.md)
+1. E.01-adding-commitments.md
    - Step-by-step instructions for creating and adding commitments to the pool
 
-2. [E.02-requesting-from-pool.md](notes/ics/ccc/v0.2/E-Guides/E.02-requesting-from-pool.md)
+2. E.02-requesting-from-pool.md
    - How to browse available commitments and request exchanges
 
-3. [E.03-tracking-credit-balance.md](notes/ics/ccc/v0.2/E-Guides/E.03-tracking-credit-balance.md)
+3. E.03-tracking-credit-balance.md
    - Understanding your credit and debt balance within the system
 
-4. [E.04-handling-exchange-issues.md](notes/ics/ccc/v0.2/E-Guides/E.04-handling-exchange-issues.md)
+4. E.04-handling-exchange-issues.md
    - Protocols for when exchanges don't go as planned or need adjustment
 
-5. [E.05-inviting-new-members.md](notes/ics/ccc/v0.2/E-Guides/E.05-inviting-new-members.md)
+5. E.05-inviting-new-members.md
    - Guidelines for introducing new participants to the Exchange
 
-6. [E.06-participating-in-connection-circles.md](notes/ics/ccc/v0.2/E-Guides/E.06-participating-in-connection-commons.md)
+6. E.06-participating-in-connection-circles.md
    - How to get the most from Connection Circle gatherings
 
-7. [E.07-proposing-community-activities.md](notes/ics/ccc/v0.2/E-Guides/E.07-proposing-community-activities.md)
+7. E.07-proposing-community-activities.md
    - Process for suggesting and organizing community events
 
-8. [E.08-using-technology-tools.md](notes/ics/ccc/v0.2/E-Guides/E.08-using-technology-tools.md)
+8. E.08-using-technology-tools.md
    - Navigating both simple and advanced technology options
 
 ## Using These Guides

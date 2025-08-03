@@ -2,7 +2,7 @@
 tags: meetings
 date: 07-02-2022
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 # Week of February 7, 2022
 ## Attendees
 @Lewwwk @remarkk @Ryan  @MBaldwin @heenal @AlexH @Rowan   @flashlight 
@@ -40,7 +40,7 @@ What's your capacity for SB in the coming week?
 - Ryan: 0.5-1 day
 
 ## Projects
-#[[23 Community Experience Project]] 
+#[23 Community Experience Project](23%20Community%20Experience%20Project) 
 - Last week:
 	- Transformation Storytelling Fellow confirmed Ayusha Mahajan was selected and here is her submission [https://www.youtube.com/watch?v=9BCugxG2OAo](https://www.youtube.com/watch?v=9BCugxG2OAo) for an exercise where we asked her "Share an expression of the future you hope for using any kind of creative medium (video, visual art, poetry, music, blog or any other form of your choice). Starts 2-5 hrs this Feb 9 and 20 hrs starting Feb 21. Need to sort how she can best contribute to SB. Note below.
 	- 1:1 meeting with Victor Beausoleil who has two youth interested in SB. Also requested a one pager, will send crowdfund blog when ready
@@ -59,20 +59,20 @@ What's your capacity for SB in the coming week?
 	- Mini community survey for entering into Discord before launch e.g. DAO Social Club and CCS, MB for survey questions and Heenal for set up
 - Blockers: 
 
-#[[68 Set up Information Systems]] 
+#[68 Set up Information Systems](68%20Set%20up%20Information%20Systems) 
 - Last week:
 	- Update Getting Started page on Notion
 	- Start 4-week crypto course
 	- Supported other Squads in their work
 - This week:
 	- Discord and Notion content for crowdfund launch
-	- #[[Update Discord welcome message]] 
+	- #[Update Discord welcome message](Update%20Discord%20welcome%20message) 
 - On hold until after Crowdfund launch
-	- #[[121 Develop & Publish CXI Bounties]] 
+	- #[121 Develop & Publish CXI Bounties](121%20Develop%20&%20Publish%20CXI%20Bounties) 
 - Blockers: 
 	- Upon completion of Governance mini-review and Discord channel/guides refactor: Update Discord messages and Notion site
 
-#[[7 Governance Implementation]] 
+#[7 Governance Implementation](7%20Governance%20Implementation) 
 - Last Week: 
 	- initiated "mini-review" of governance practices
 	- shared request for feedback on Discord
@@ -83,9 +83,9 @@ What's your capacity for SB in the coming week?
 	- Remove blocker from refactoring of Guilds (since Guilds do not play a role in Governance)
 	- ✅ SUP-169 Activate Discord channel refactor 
 - Blocker:
-	- sub-task for launch of Governance token shared with #[[treasury squad]] 
+	- sub-task for launch of Governance token shared with #[treasury squad](/notes/archive/clarity/Tags/treasury%20squad.md) 
 
-#[[resource flow squad]] 
+#[resource flow squad](/notes/archive/clarity/Tags/resource%20flow%20squad.md) 
 - Last week
 	- Refine resource flow squad outline
 	- Develop first cut design of first expedition for RF
@@ -104,7 +104,7 @@ ToC
 	- Finalise ToC and proposal to adopt
 	- ✅ SUP-171 Set up new thread and project on landscaping and sense-making design 
 
-#[[74 Crowdfund - "Hello World"]] 
+#[74 Crowdfund - "Hello World"](74%20Crowdfund%20-%20"Hello%20World") 
 - Last week
 	- Reflections and revisions
 	- [Launch plan developed](https://app.clarity.so/superbenefit/notes/bb3dfbaa-5e1f-4c9d-8093-ae76366c5e0c) 
@@ -124,7 +124,7 @@ Culture and Communications Squad
 - Flashlight - need help recruiting graphic designers and writers.
 	- **ACTION:** Request @flashlight to provide an outline of what he's looking for, something that can be shared; What can we offer people? How much time? Post to Guilds?
 - Guilds are guilds. It's all about skillsets.
-	- **ACTION:** If there's a skillset your squad needs, ensure it's captured in the roles/guilds here: #[[47 Refactor Guilds]] 
+	- **ACTION:** If there's a skillset your squad needs, ensure it's captured in the roles/guilds here: #[47 Refactor Guilds](47%20Refactor%20Guilds) 
 - How do people become a contributor? Bounties are a great way of trying someone out!
 	- **ACTION:** Leads to create bounties, post to guilds to invite people in
 - Transparency of meetings & chats - @heenal 
@@ -153,10 +153,10 @@ Culture and Communications Squad
 		- ToC is going to a proposal
 		- $SPRB design is going to proposal
 - Squad role specs incomplete or need for clarification - @remarkk 
-	- [#[[operations squad]]](https://app.clarity.so/superbenefit/pages/4adc5a52-2d1e-45fd-918d-ada1ce7fd3c0) - @Ryan  @Lewwwk 
-	- #[[product development squad]] - @Ryan  @Lewwwk 
-	- #[[treasury squad]] and #[[resource flow squad]] - overlap? - @Lewwwk @Rowan  
-	- #[[community experience squad]] and Culture and Communications Squad - overlap? - @MBaldwin @flashlight 
+	- [#[operations squad](/notes/archive/clarity/Tags/operations%20squad.md)](https://app.clarity.so/superbenefit/pages/4adc5a52-2d1e-45fd-918d-ada1ce7fd3c0) - @Ryan  @Lewwwk 
+	- #[product development squad](/notes/archive/clarity/Tags/product%20development%20squad.md) - @Ryan  @Lewwwk 
+	- #[treasury squad](/notes/archive/clarity/Tags/treasury%20squad.md) and #[resource flow squad](/notes/archive/clarity/Tags/resource%20flow%20squad.md) - overlap? - @Lewwwk @Rowan  
+	- #[community experience squad](/notes/archive/clarity/Tags/community%20experience%20squad.md) and Culture and Communications Squad - overlap? - @MBaldwin @flashlight 
 - Bounty Governance - @remarkk 
 	- We have one active bounty. How was it created and funded? Who decides?
 	- **ACTION:** @Lewwwk and @remarkk to work on a solution for this.

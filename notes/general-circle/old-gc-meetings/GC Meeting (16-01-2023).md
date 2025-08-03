@@ -2,7 +2,7 @@
 tags: meetings
 date: 16-01-2023
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 ## Attendees
 - Heenal, Michael, Michelle, Rowan
 
@@ -15,7 +15,7 @@ date: 16-01-2023
 	- Last week:
 	- This week:
 	- Blockers:
-- #[[P-196 Information Squad- Revolution 1]] and #[[P-193 Community Experience- Revolution 1]] 
+- #[P-196 Information Squad- Revolution 1](P-196%20Information%20Squad-%20Revolution%201) and #[P-193 Community Experience- Revolution 1](P-193%20Community%20Experience-%20Revolution%201) 
 	- Last week:
 		- laying some groundwork for meetings this week
 	- This week:
@@ -25,7 +25,7 @@ date: 16-01-2023
 		- jumping into primitive cell calls tomorrow
 	- Blockers
 		- Set up new Notion for AIFS?
-- Project name/link #[[P-264 Systems Transformation Project]] 
+- Project name/link #[P-264 Systems Transformation Project](P-264%20Systems%20Transformation%20Project) 
 	- Last week:
 		- Co-working time and research of DAOs using systems transformation framework (see systems transformation research channel for examples)
 		- Post reflection blog on web3 and systems transformation from @njoki  [https://superbenefit.mirror.xyz/DIgEEhaM6zBK977YvHFXVVOnHkLB_4Qnw5-AOYG2M2s](https://superbenefit.mirror.xyz/DIgEEhaM6zBK977YvHFXVVOnHkLB_4Qnw5-AOYG2M2s) 
@@ -39,9 +39,9 @@ date: 16-01-2023
 		- Booking meeting with BCorp Europe partners and Alex Hannant later in January about web3
 		- AIFS Twitter Spaces Event Brief
 	- Blockers:
-- #[[P-236 Krause House Collaboration]]
+- #[P-236 Krause House Collaboration](P-236%20Krause%20House%20Collaboration)
 	- Looking for visual designer
-- #[[notes/archive/clarity/Tags/dao primitives]] 
+- #[dao primitives](/notes/archive/clarity/Tags/dao%20primitives.md) 
 	- Implementing governance - itching to get things launched. looking forward to getting governance state live and badging live, then voting mechanism and financial mechanism so that we can start rewarding people with future benefits
 	- Wonderverse, gitcoin conversations
 - Conversation with Impact DAO

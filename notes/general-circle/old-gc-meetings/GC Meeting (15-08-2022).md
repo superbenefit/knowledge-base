@@ -2,7 +2,7 @@
 tags: meetings
 date: 15-08-2022
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 # Week of August 15, 2022
 
 ## Attendees
@@ -21,10 +21,10 @@ date: 15-08-2022
 	- Last week:  Rowan and Ananth working on primitive 
 	- This week:
 	- Blockers:
-- #[[P-261 Windfall - Residential Energy NFT]]- nuthin!
-- #[[P-260 TrustDAO - Child Welfare, Canada]] - nuthin! - Sept next meeting
-- #[[Krause House Collaboration]] - nuthin!   
-- Project name/link: #[[P-193 Community Experience- Revolution 1]] 
+- #[P-261 Windfall - Residential Energy NFT](P-261%20Windfall%20-%20Residential%20Energy%20NFT)- nuthin!
+- #[P-260 TrustDAO - Child Welfare, Canada](P-260%20TrustDAO%20-%20Child%20Welfare,%20Canada) - nuthin! - Sept next meeting
+- #[Krause House Collaboration](Krause%20House%20Collaboration) - nuthin!   
+- Project name/link: #[P-193 Community Experience- Revolution 1](P-193%20Community%20Experience-%20Revolution%201) 
 	- Last week:
 		- Blockchain Futurist Conference in TO - talking up SuperBenefit, highlight Vitalik and women  met with from Waterloo region who Julie Wright connected MB with
 		- rathermercurial.eth - draft proposal about Conflict of Interest, doing initial research to shape proposal ( VERY draft proposal - will change [https://app.clarity.so/superbenefit/pages/36f7b3b4-2816-4a63-bfe7-cf7b5fca4494](https://app.clarity.so/superbenefit/pages/36f7b3b4-2816-4a63-bfe7-cf7b5fca4494) )

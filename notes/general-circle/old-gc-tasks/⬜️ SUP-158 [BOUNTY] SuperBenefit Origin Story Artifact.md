@@ -15,5 +15,5 @@ As a first bounty the TSF will create an origin story about SuperBenefit
 - Estimated effort: 6-8 hours
 - Bounty Reward: ??? $SPRB (how will this work if getting paid honorarium from CFC?)
 - Due date: March 4, 2022 (tbd according to launch)
-- Reporting to @MBaldwin as part of #[[community experience squad]] and creative direction from @flashlight from Culture and Communications Squad 
+- Reporting to @MBaldwin as part of #[community experience squad](/notes/archive/clarity/Tags/community%20experience%20squad.md) and creative direction from @flashlight from Culture and Communications Squad 
 - Experience and comfort with digital technologies is helpful (e.g. Video, art, blogs, podcasts, social media, web3. Candidates are not expected to have experience with all forms). 

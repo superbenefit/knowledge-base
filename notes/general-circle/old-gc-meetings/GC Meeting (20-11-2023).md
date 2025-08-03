@@ -2,21 +2,21 @@
 tags: meetings
 date: 20-11-2023
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 ## Attendees
 - @heenal @Lewwwk @MBaldwin @rathermercurial @Rowan  
 - **Regrets:** 
 
 ## Updates 
-- #[[P-257 DAO Primitives Framework]]
+- #[P-257 DAO Primitives Framework](P-257%20DAO%20Primitives%20Framework)
 	- Revising Windfall onboarding plan
-- #[[P-261 Windfall - Residential Energy NFT]]
+- #[P-261 Windfall - Residential Energy NFT](P-261%20Windfall%20-%20Residential%20Energy%20NFT)
 	- Had meeting, learning lots
 	- Funding into project team safe
-- #[[P-267 Initial Planning - Reimagining Power]]
+- #[P-267 Initial Planning - Reimagining Power](P-267%20Initial%20Planning%20-%20Reimagining%20Power)
 	- Kind of a stakeholder meeting and added another meeting Nov 27th at 4pm ET. Tracey Robertson from OTF was ill so decided to hold on some parts of the agenda
 	- Menzies Foundation - Michelle to write up a note and proposal  - check in on focus and idea
-- #[[community experience squad]] 
+- #[community experience squad](/notes/archive/clarity/Tags/community%20experience%20squad.md) 
 	-  SuperBenefit DAO Timeline [https://www.canva.com/design/DAFxj-0t1gQ/8znUEX0z8oNiyIAlxA1fjw/edit](https://www.canva.com/design/DAFxj-0t1gQ/8znUEX0z8oNiyIAlxA1fjw/edit)  
 
 	- Rowan, rather and Michelle to be record Crypto Altruism podcast Nov 21 with Drew Simon

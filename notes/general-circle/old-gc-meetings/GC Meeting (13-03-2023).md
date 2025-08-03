@@ -2,7 +2,7 @@
 tags: meetings
 date: 13-03-2023
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 ## Attendees
 - @heenal @Rowan  @Lewwwk @MBaldwin 
 
@@ -14,13 +14,13 @@ date: 13-03-2023
 	- Last week: 
 	- This week:
 	- Blockers:
-- Project - #[[P-193 Community Experience- Revolution 1]] 
+- Project - #[P-193 Community Experience- Revolution 1](P-193%20Community%20Experience-%20Revolution%201) 
 	- Last week: 
 		- Check in with ItamarGo
 		- ReFi DAO blog [https://blog.refidao.com/roundup-55/](https://blog.refidao.com/roundup-55/) 
 	- This week:
 	- Blockers:
-- Project - #[[P-264 Systems Transformation Project]] 
+- Project - #[P-264 Systems Transformation Project](P-264%20Systems%20Transformation%20Project) 
 	- Last week: 
 		- [https://wiki.metacrisisdao.com/Daniel's+prompts+from+GreenPill+84](https://wiki.metacrisisdao.com/Daniel's+prompts+from+GreenPill+84) - how do we fundamentally shift how we sensemake as humans and identify underlying causes
 			- how can we work with tools in complexity that we can test 

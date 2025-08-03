@@ -2,7 +2,7 @@
 tags: meetings
 date: 26-12-2022
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 ## Attendees
 - 
 

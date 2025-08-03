@@ -105,4 +105,4 @@ tags: tasks
 			- Meetings can initially be scheduled by polling the #reimagining-power channel in Discord to schedule asynchronously. Can use LettuceMeet or similar tooling.
 			- (policy) The cell should agree upon a regular weekly meeting schedule.
 - ## Cell State Policies
-	- #[[POW-272 Cell State (DRAFT) - Reimagining Power]] 
+	- #[POW-272 Cell State (DRAFT) - Reimagining Power](POW-272%20Cell%20State%20(DRAFT)%20-%20Reimagining%20Power) 

@@ -1,4 +1,4 @@
-#[[governance research]] 
+#[governance research](notes/archive/clarity/Tags/governance%20research.md) 
 
 
 # Governance research project (Rev 1) DAO-Cell founding doc
@@ -6,10 +6,10 @@
 
 
 
-_This document is an experiment in minimum viable set up of a DAO-Cell. It is designed to cover the important primitives of governance and operations that are needed to give a cell a basic structure that provides coherence, transparency and a foundation to build in more complex governance and management as it is needed.  #[[227 Project - governance design experiment #1]] _
+_This document is an experiment in minimum viable set up of a DAO-Cell. It is designed to cover the important primitives of governance and operations that are needed to give a cell a basic structure that provides coherence, transparency and a foundation to build in more complex governance and management as it is needed.  #[](227%20Project%20-%20governance%20design%20experiment%20#1) _
 ## Purpose & Insight
 This is outlined in the original proposal #222 Proposal for Governance Research Project (Rev1) 
-#[[222 Proposal for Governance Research Project (Rev1)]] 
+#[222 Proposal for Governance Research Project (Rev1)](222%20Proposal%20for%20Governance%20Research%20Project%20(Rev1)) 
 ## Decision making: governance & treasury
 ### Coordination protocols & tools
 - **Relationship and Responsibilities to SuperBenefit **- This project is set up to work as an internal project for SB and will be working closely with the rest of the SB network. But the core team of this project has full autonomy over all activities and decisions. SuperBenefit governance only exerts decision-making power over this project via approving any future funding requests.

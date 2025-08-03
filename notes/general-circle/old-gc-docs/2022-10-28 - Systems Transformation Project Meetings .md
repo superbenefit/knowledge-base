@@ -1,4 +1,4 @@
-#[[264 Systems Transformation Project]] 
+#[264 Systems Transformation Project](264%20Systems%20Transformation%20Project) 
 
 ### **June 20, 2023**
 Attendees: Njoki Mburu, Susie Kavanagh, Rathermercurial, Primo Huang, Michelle Baldwin
@@ -1116,7 +1116,7 @@ Next Steps:
 		- review previous workshop and meeting notes
 		- reflection
 		- working on frameworks & looking at DAO's
-	- January 16 8 pm EST - present an update to SuperBenefit #[[general circle]] meeting 
+	- January 16 8 pm EST - present an update to SuperBenefit #[general circle](/notes/archive/clarity/Tags/general%20circle.md) meeting 
 - Open questions:
 	- Which DAOs to choose for our deep dive?
 	- How could we monetize this work in the short-term?
@@ -1185,7 +1185,7 @@ not stuck with asking for permission or a case for the system to transform, don'
 transformative - something that is transformation can be around boundaries 
 DAO's can do many things in parallel. the DAO isn't transforming a system, it's entering a system that's transforming and hosting and inviting innovative activity
 
-TEST - this is a test paragraph #[[microblog]] 
+TEST - this is a test paragraph #[microblog](/notes/archive/clarity/Tags/microblog.md) 
 # November 15, 2022
 Attendees: @MBaldwin @Nate @Peter Gulka @heenal 
 ## Agenda:

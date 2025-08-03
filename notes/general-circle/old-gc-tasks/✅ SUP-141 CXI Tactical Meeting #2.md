@@ -79,8 +79,8 @@ tags: tasks
 # Tactical Meetings
 
 Tactical meetings are focused on a team’s operational work. Their purpose is to triage issues that have come up recently and remove obstacles so that the work can move forward. (See: [https://www.holacracy.org/tactical-meetings](https://www.holacracy.org/tactical-meetings) ). They are not the meetings where the work itself gets done. We are focused on the most efficient way for the work to get unblocked.
-Tactical Meetings for the #[[general circle]] happen on a weekly basis. (Regular day/time TBD)
-Tactical Meetings need a [[secretary]] (scribe) and a [[facilitator]]. All Circle members are invited to participate.
+Tactical Meetings for the #[general circle](/notes/archive/clarity/Tags/general%20circle.md) happen on a weekly basis. (Regular day/time TBD)
+Tactical Meetings need a [secretary](/notes/archive/clarity/Tags/secretary.md) (scribe) and a [facilitator](/notes/archive/clarity/Tags/facilitator.md). All Circle members are invited to participate.
 ## Tactical Meeting Process
 ### Checkin Round
 - The Facilitator invites participants, one at a time, to share a check-in to call out distractions and get present. No discussion.
@@ -98,7 +98,7 @@ Tactical Meetings need a [[secretary]] (scribe) and a [[facilitator]]. All Circl
 ### Remove Barriers
 - **Build Agenda:** Participants build the agenda of tensions to process, using one or two words per item as a reminder for the agenda-item-owner.
 - **Triage Items:**
-	- The [[tension]] holder shares their tension.
+	- The [tension](/notes/archive/clarity/Tags/tension.md) holder shares their tension.
 	- Facilitator asks "What do you need to move your tension forward?"
 		- Request for something to get something done (an action or a project)
 		- Request data or advice

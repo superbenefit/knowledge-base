@@ -1,7 +1,7 @@
 ---
 tags: tasks
 ---
-**BLOCKED: Waiting on resolution of structure by **#[[governance squad]] 
+**BLOCKED: Waiting on resolution of structure by **#[governance squad](/notes/archive/clarity/Tags/governance%20squad.md) 
 # Proposed flow and structure.
 ## Flow
 1. Person joins Discord
@@ -15,11 +15,11 @@ tags: tasks
 	- granted access to granted access to corresponding Guilds channels
 	- 
 4. Person interacts in community and guilds
-	- identified as potential #[[contributor role]] to a specific project
+	- identified as potential #[contributor role](/notes/archive/clarity/Tags/contributor%20role.md) to a specific project
 		- Lead role or project lead recruits person to contribute on a specific project or task, and asks to have contributor role assigned to that person through #request-access
 		- recruiter then becomes responsible for that person and their participation as a contributor
-		- person receives #[[contributor role]]  role and is able to see channels in projects section
-5. Person is appointed to a #[[squad lead]]
+		- person receives #[contributor role](/notes/archive/clarity/Tags/contributor%20role.md)  role and is able to see channels in projects section
+5. Person is appointed to a #[squad lead](/notes/archive/clarity/Tags/squad%20lead.md)
 	- granted 'Lead' role
 	- granted access to channels in general circle and operations sections.
 
@@ -37,7 +37,7 @@ tags: tasks
 - Community (guest)
 - Voice channels (guest)
 - Interests (guest) [NOT READY FOR IMPLEMENTATION]
-- Guilds (based on role selection). As per #[[47 Refactor Guilds]]:
+- Guilds (based on role selection). As per #[47 Refactor Guilds](47%20Refactor%20Guilds):
 	- Hell yes [CONFIRMED FOR IMPLEMENTATION]
 		- community hosting
 		- facilitation

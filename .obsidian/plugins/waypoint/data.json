@@ -5,7 +5,7 @@
   "showFolderNotes": false,
   "showNonMarkdownFiles": false,
   "debugLogging": false,
-  "useWikiLinks": false,
+  "useWikiLinks": true,
   "useFrontMatterTitle": true,
   "showEnclosingNote": false,
   "folderNoteType": "INSIDE_FOLDER",

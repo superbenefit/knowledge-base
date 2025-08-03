@@ -28,9 +28,9 @@ type: article
 
 %% Add links to related content in the knowledge base. This helps connect this article to our existing work. Example: %%
 
-- Related to [[tags/tag-name]] concepts
-- Expands on ideas in [[artifacts/patterns/pattern-name]]
-- Provides case studies for [[artifacts/playbooks/playbook-name]]
+- Related to [tags/tag-name](tags/tag-name) concepts
+- Expands on ideas in [artifacts/patterns/pattern-name](artifacts/patterns/pattern-name)
+- Provides case studies for [artifacts/playbooks/playbook-name](artifacts/playbooks/playbook-name)
 
 ## References
 

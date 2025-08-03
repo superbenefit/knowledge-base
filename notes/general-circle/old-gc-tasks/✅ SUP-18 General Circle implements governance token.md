@@ -1,4 +1,4 @@
 ---
 tags: tasks
 ---
-#[[general circle]] 
+#[general circle](/notes/archive/clarity/Tags/general%20circle.md) 

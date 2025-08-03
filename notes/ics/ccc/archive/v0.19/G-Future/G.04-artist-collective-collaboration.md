@@ -130,7 +130,7 @@ Local artist collectives Corduroy and Xuux demonstrate how Community Exchange ca
 
 ## Related Documents
 
-- [G.12-neighbourhood-networks.md](./G.12-neighbourhood-networks.md)
+- [G.12-neighbourhood-networks.md](notes/ics/ccc/archive/v0.19/G-Future/G.12-neighbourhood-networks.md)
 - [D.01-commitment-examples.md](notes/ics/ccc/v0.2/D-Examples/D.01-commitment-examples.md)
 - [E.05-inviting-new-members.md](notes/ics/ccc/v0.2/E-Guides/E.05-inviting-new-members.md)
 - [F.04-community-market-day.md](notes/ics/ccc/v0.2/F-Activities/F.04-community-market-day.md)

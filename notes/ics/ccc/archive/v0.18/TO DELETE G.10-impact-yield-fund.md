@@ -15,6 +15,6 @@ This document is a placeholder for future development of an Impact Yield Fund co
 
 ## Related Documents
 
-- [G.06-integration-with-broader-economic-systems.md](./G.06-integration-with-broader-economic-systems.md)
+- [G.06-integration-with-broader-economic-systems.md](notes/ics/ccc/archive/v0.18/G.06-integration-with-broader-economic-systems.md)
 - [C.06-success-metrics.md](notes/ics/ccc/v0.2/C-Implementation/C.06-success-metrics.md)
-- [G.03-future-possibilities.md](./G.03-future-possibilities.md)
+- [G.03-future-possibilities.md](notes/ics/ccc/archive/v0.18/G.03-future-possibilities.md)

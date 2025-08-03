@@ -2,7 +2,7 @@
 tags:
   - meetings
 date: 05-10-2023
-source: "[[2023-08-08 - [TO MOVE] Meeting Notes - RP Planning Workstream]]"
+source: "[2023-08-08 - [TO MOVE](2023-08-08%20-%20[TO%20MOVE)"
 ---
 
 # RPP Core Team Meeting - 10/5/23
@@ -23,8 +23,8 @@ source: "[[2023-08-08 - [TO MOVE] Meeting Notes - RP Planning Workstream]]"
 		- rather will update the doc with everyone's feedback
 		- everyone is welcome to edit the doc
 		- what other terms would be useful to explain? **ping rather in chat with ideas**
-			- #[[notes/archive/clarity/Tags/dao primitives]] 
-			- #[[notes/archive/clarity/Tags/cells]]
+			- #[dao primitives](notes/archive/clarity/Tags/dao%20primitives.md) 
+			- #[cells](notes/archive/clarity/Tags/cells.md)
 			- GR-296 Group Scale - DAO Primitives
 	- @Aditi @Rowan  @Filsan met to discuss governance topics and field questions - Feels good
 - ## Agenda

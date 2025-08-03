@@ -1,5 +1,5 @@
-#[[general circle]] 
-Revolution 1 begins with these invitations, designed to get the flywheels spinning from the #[[notes/archive/clarity/Tags/theory of change]]. 
+#[general circle](/notes/archive/clarity/Tags/general%20circle.md) 
+Revolution 1 begins with these invitations, designed to get the flywheels spinning from the #[theory of change](/notes/archive/clarity/Tags/theory%20of%20change.md). 
 ⬜️ SUP-199 Intervention 1: Mapping pathways to the future
 ⬜️ SUP-200 Intervention 2: Building Capacity and Interdependence Through Governance
 ⬜️ SUP-204 Intervention 3: Creating a Soul-Bound Portal to a Better Future

@@ -1,4 +1,4 @@
-#[[notes/archive/clarity/Tags/reimagining power]] 
+#[reimagining power](notes/archive/clarity/Tags/reimagining%20power.md) 
 >THIS DOC IS NOW IN CHARMVERSE
 Please use the Charmverse doc instead:
 [https://app.charmverse.io/superbenefit/inequities-financial-coordination-challenges-in-philanthropy-charity-9785094576112223](https://app.charmverse.io/superbenefit/inequities-financial-coordination-challenges-in-philanthropy-charity-9785094576112223) 

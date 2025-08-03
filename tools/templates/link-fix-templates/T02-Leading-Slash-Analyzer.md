@@ -200,7 +200,7 @@ Generated: ${new Date().toISOString()}
 
 | Pattern Type | Count | Percentage |
 |--------------|-------|------------|
-| Wikilinks `[[/path]]` | ${analysisResults.patternBreakdown.wikilink} | ${((analysisResults.patternBreakdown.wikilink / (analysisResults.patternBreakdown.wikilink + analysisResults.patternBreakdown.markdown)) * 100).toFixed(1)}% |
+| Wikilinks `[/path](/path)` | ${analysisResults.patternBreakdown.wikilink} | ${((analysisResults.patternBreakdown.wikilink / (analysisResults.patternBreakdown.wikilink + analysisResults.patternBreakdown.markdown)) * 100).toFixed(1)}% |
 | Markdown `[text](/path)` | ${analysisResults.patternBreakdown.markdown} | ${((analysisResults.patternBreakdown.markdown / (analysisResults.patternBreakdown.wikilink + analysisResults.patternBreakdown.markdown)) * 100).toFixed(1)}% |
 
 ### Common Target Patterns

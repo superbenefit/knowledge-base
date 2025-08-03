@@ -10,4 +10,4 @@ While not in any way prescriptive, here are a few navigation principles that are
 - _It's like a finger pointing away to the moon. Don't concentrate on the finger or you will miss all that heavenly glory.'  _Despite all the bells and whistles, let's stay concentrated on the big idea and real world transformation.
 
 
-#[[community experience squad]]  Community Resources 
+#[community experience squad](/notes/archive/clarity/Tags/community%20experience%20squad.md)  Community Resources 

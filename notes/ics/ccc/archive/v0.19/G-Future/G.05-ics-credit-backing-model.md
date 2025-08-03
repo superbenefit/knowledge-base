@@ -128,7 +128,7 @@ Other nonprofits can adopt similar models:
 
 ## Related Documents
 
-- [G.06-reimagine-meal-vouchers-system.md](./G.06-reimagine-meal-vouchers-system.md)
+- [G.06-reimagine-meal-vouchers-system.md](notes/ics/ccc/archive/v0.19/G-Future/G.06-reimagine-meal-vouchers-system.md)
 - [C.04-technology-implementation.md](notes/ics/ccc/v0.2/C-Implementation/C.04-technology-implementation.md)
 - [E.03-tracking-voucher-balance.md](notes/ics/ccc/v0.2/E-Guides/E.03-tracking-voucher-balance.md)
-- [G.04-cash-integration-pathways.md](./G.04-cash-integration-pathways.md)
+- [G.04-cash-integration-pathways.md](notes/ics/ccc/archive/v0.19/G-Future/G.04-cash-integration-pathways.md)

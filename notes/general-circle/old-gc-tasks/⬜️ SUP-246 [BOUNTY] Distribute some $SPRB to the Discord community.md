@@ -8,12 +8,12 @@ Currently, only General Circle members hold $SPRB. While we are publishing bount
 
 ## Process to follow
 - Determine a fair way of distributing the total allocation of $SPRB based on the level, rank or other characteristics of Discord members
-- Confirm from #[[general circle]] the total amount of $SPRB to allocate to this process
+- Confirm from #[general circle](/notes/archive/clarity/Tags/general%20circle.md) the total amount of $SPRB to allocate to this process
 - Post a message (and a subsequent reminder) in Discord to let users know about this distribution and ask them to reply with their ETH address within 7 days in order to receive their share of $SPRB
-- Produce a list of ETH addresses with corresponding amounts of $SPRB to send to each wallet and send that to #[[treasury squad]] to execute the token distribution
+- Produce a list of ETH addresses with corresponding amounts of $SPRB to send to each wallet and send that to #[treasury squad](/notes/archive/clarity/Tags/treasury%20squad.md) to execute the token distribution
 
 ## Bounty Details
 - Estimated effort: 3-4 hours
 - Bounty Reward: 150 $SPRB
 - Due date: May 16, 2022
-- Reporting to Heenal as part of #[[community experience squad]] 
+- Reporting to Heenal as part of #[community experience squad](/notes/archive/clarity/Tags/community%20experience%20squad.md) 

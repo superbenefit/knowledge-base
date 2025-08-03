@@ -20,25 +20,25 @@ This directory contains practical guides for implementing the Community Exchange
 
 ## Contents
 
-1. [C.01-onboarding-process.md](notes/ics/ccc/v0.2/C-Implementation/C.01-onboarding-process.md)
+1. C.01-onboarding-process.md
    - Step-by-step guide for onboarding new participants
 
-2. [C.02-implementation-timeline.md](notes/ics/ccc/v0.2/C-Implementation/C.02-implementation-timeline.md)
+2. C.02-implementation-timeline.md
    - Phased timeline for launching Community Exchange
 
-3. [C.03-governance-structure.md](notes/ics/ccc/v0.2/C-Implementation/C.03-governance-structure.md)
+3. C.03-governance-structure.md
    - Stewardship roles, responsibilities, and decision-making processes
 
-4. [C.04-technology-implementation.md](notes/ics/ccc/v0.2/C-Implementation/C.04-technology-implementation.md)
+4. C.04-technology-implementation.md
    - Options for tracking commitments and managing the pool
 
-5. [C.05-risks-and-mitigation.md](notes/ics/ccc/v0.2/C-Implementation/C.05-risks-and-mitigation.md)
+5. C.05-risks-and-mitigation.md
    - Potential challenges and strategies for addressing them
 
-6. [C.06-success-metrics.md](notes/ics/ccc/v0.2/C-Implementation/C.06-success-metrics.md)
+6. C.06-success-metrics.md
    - Key performance indicators for evaluating system health
 
-7. [C.07-conflict-resolution.md](notes/ics/ccc/v0.2/C-Implementation/C.07-conflict-resolution.md)
+7. C.07-conflict-resolution.md
    - Framework for handling disputes and maintaining trust
 
 ## Purpose
@@ -47,4 +47,4 @@ These implementation documents provide practical guidance for establishing and m
 
 ## Index File
 
-The full index for this section is in [C-Implementation.md](notes/ics/ccc/v0.2/C-Implementation/C-Implementation.md).
+The full index for this section is in C-Implementation.md.

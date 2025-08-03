@@ -15,11 +15,11 @@ type: guide
 
 ## Introduction
 
-[[tags/primitives|Crypto primitives]] give us the opportunity to fundamentally redesign organizational and financial models in ways that are better for individuals, communities and society. This opportunity to reimagine organizations brings with it complexity, as structures and practices that were once fixed become flexible and adaptable. As a result, we need to lean on primitives, and patterns for combining these primitives, that we can use to reliably produce organizational structures with the features we want.
+[Crypto primitives](tags/primitives.md) give us the opportunity to fundamentally redesign organizational and financial models in ways that are better for individuals, communities and society. This opportunity to reimagine organizations brings with it complexity, as structures and practices that were once fixed become flexible and adaptable. As a result, we need to lean on primitives, and patterns for combining these primitives, that we can use to reliably produce organizational structures with the features we want.
 
-At SuperBenefit we have developed the [[artifacts/guides/dao-primitives-framework/dao-primitives-framework|DAO primitives framework]] to provide a set of primitives and patterns with which these new organizational structures can be composed.
+At SuperBenefit we have developed the [DAO primitives framework](artifacts/guides/dao-primitives-framework/dao-primitives-framework.md) to provide a set of primitives and patterns with which these new organizational structures can be composed.
 
-We have identified and experimented with using the DAO primitives framework to produce governance systems based on 3 interlocking governance structures: [[tags/governance#Community Governance|Community Governance]], [[tags/governance#Operational Governance|Operational Governance]] and [[tags/governance#Multi-Stakeholder Governance|Multi-Stakeholder Governance]].
+We have identified and experimented with using the DAO primitives framework to produce governance systems based on 3 interlocking governance structures: [Community Governance](tags/governance.md), [Operational Governance](tags/governance.md) and [Multi-Stakeholder Governance](notes/dao-primitives/implementation/patterns/constituency-scale-patterns/multi-stakeholder-governance.md).
 
 Guides to setting up these 3 interlocking governance structures can be found here:
 
@@ -31,7 +31,7 @@ This guide focuses on setting up an Operational Governance structure. This appro
 
 Creating an operational governance structure is not a simple task. We recommend getting support from an experienced facilitator to help you through this process.
 
-_Note: this implementation guide follows the structure outlined in the DAO Primitives [[artifacts/guides/dao-primitives-framework/group-facilitation|group-facilitation]] process. It outlines specific steps for the Design and Implementation steps in this process. It assumes that at least an early version of community governance has been implemented and therefore core network purpose and high-level goals have been established and that the network is ready to commence with designing its operational governance structure._
+_Note: this implementation guide follows the structure outlined in the DAO Primitives [group-facilitation](artifacts/guides/dao-primitives-framework/group-facilitation.md) process. It outlines specific steps for the Design and Implementation steps in this process. It assumes that at least an early version of community governance has been implemented and therefore core network purpose and high-level goals have been established and that the network is ready to commence with designing its operational governance structure._
 
 ## Context & Orientation
 
@@ -44,7 +44,7 @@ Traditional operational structures tend to be created as rigid hierarchies that 
 This guide is intended for:
 
 - Organization builders
-- [[tags/daos|DAO]] contributors working to create more effective [[tags/coordination|coordination]] systems
+- [DAO](tags/daos.md) contributors working to create more effective [coordination](tags/coordination.md) systems
 - Traditional organizations exploring web3-enabled governance models
 
 Prerequisites:
@@ -55,7 +55,7 @@ Prerequisites:
 
 ### Fundamental Principles Informing This Approach
 
-The [[artifacts/guides/dao-primitives-framework/dao-primitives-framework|DAO primitives framework]] is designed to allow us to compose governance systems that produce purpose-aligned networks of small autonomous teams with powerful organizational dynamics, making these networks effective in solving important problems.
+The [DAO primitives framework](artifacts/guides/dao-primitives-framework/dao-primitives-framework.md) is designed to allow us to compose governance systems that produce purpose-aligned networks of small autonomous teams with powerful organizational dynamics, making these networks effective in solving important problems.
 
 Key principles and concepts include: **Organizational Dynamics**
 
@@ -77,17 +77,17 @@ Key principles and concepts include: **Organizational Dynamics**
 
 ## DAO Primitives Framework
 
-The [[artifacts/guides/dao-primitives-framework/dao-primitives-framework|DAO primitives framework]] provides 4 fundamental building blocks for creating effective decentralized organizations:
+The [DAO primitives framework](artifacts/guides/dao-primitives-framework/dao-primitives-framework.md) provides 4 fundamental building blocks for creating effective decentralized organizations:
 
-1. **[[tags/daos|DAOs]]** - the larger constituency scale community container that the operational governance operates inside
-2. **[[tags/roles|Cells]]** - the basic operational unit in a DAO - a small autonomous team
-3. **[[tags/roles|Roles]]** - which contain and manage specific [[tags/responsibilities|responsibilities]] and sets of permissions
+1. **[DAOs](tags/daos.md)** - the larger constituency scale community container that the operational governance operates inside
+2. **[Cells](tags/roles.md)** - the basic operational unit in a DAO - a small autonomous team
+3. **[Roles](tags/roles.md)** - which contain and manage specific [responsibilities](tags/responsibilities.md) and sets of permissions
 4. **Tasks** - which are defined pieces of work/deliverable that individuals or teams can commit to delivering
 
 The framework considers three dimensions:
 
-- **Phase** - each DAO, Cell, Role or Task can move through a [[tags/groups#Groups in Developmental Phases|group phase lifecycle]]
-- **Scale** - different organizational levels from [[tags/groups#Groups at Different Scales|collaboration to coordination to constituency]] to network
+- **Phase** - each DAO, Cell, Role or Task can move through a [group phase lifecycle](tags/groups.md#groups-in-developmental-phases)
+- **Scale** - different organizational levels from [collaboration to coordination to constituency](tags/groups.md#groups-at-different-scales) to network
 - **State** - an articulation of the core relevant information about each primitive that allows it to be addressable across the network
 
 The goal of the DAO primitives framework is to allow us to compose governance systems that can produce purpose aligned networks of small autonomous teams that have powerful organizational dynamics making these networks effective in solving important problems.
@@ -107,27 +107,27 @@ To do this we compose together organizational infrastructures (social and techni
 
 ### Operational Governance Overview: Three-Layer Structure
 
-Using the [[artifacts/guides/dao-primitives-framework/dao-primitives-framework|DAO primitives framework]] to create a purpose aligned network of small autonomous teams, there tend to be three facets of governance structure.
+Using the [DAO primitives framework](artifacts/guides/dao-primitives-framework/dao-primitives-framework.md) to create a purpose aligned network of small autonomous teams, there tend to be three facets of governance structure.
 
-1. **[[tags/governance#Community Governance|Community Governance]]**: [[tags/groups#Groups at Different Scales|constituency scale]] governance that guides and protects the network
-2. **[[tags/governance#Operational Governance|Operational Governance]]**: [[tags/groups#Groups at Different Scales|coordination and collaboration scale]] governance that effectively executes on the purpose and goals of the community governance
-3. **[[tags/governance#Multi-Stakeholder Governance|Multi-Stakeholder Governance]]**: the mechanism by which the network can connect to and partner with other organizations and networks (network scale)
+1. **[Community Governance](tags/governance.md#community-governanceartifactspatternscommunity-governancemd)**: [constituency scale](tags/groups.md#groups-at-different-scales) governance that guides and protects the network
+2. **[Operational Governance](tags/governance.md#operational-governanceartifactspatternsoperational-governancemd)**: [coordination and collaboration scale](tags/groups.md#groups-at-different-scales) governance that effectively executes on the purpose and goals of the community governance
+3. **[Multi-Stakeholder Governance](tags/governance.md#multi-stakeholder-governance)**: the mechanism by which the network can connect to and partner with other organizations and networks (network scale)
 
-The operational governance model forms the coordinating backbone of a [[tags/daos|DAO]] network, translating community-defined purpose into effective execution through autonomous teams. It operates at the [[tags/groups#Groups at Different Scales|coordination and collaboration scales]], creating the organizational infrastructure that enables small autonomous teams to work together coherently while maintaining the flexibility and innovation that comes from decentralized decision-making.
+The operational governance model forms the coordinating backbone of a [DAO](tags/daos.md) network, translating community-defined purpose into effective execution through autonomous teams. It operates at the [coordination and collaboration scales](tags/groups.md#groups-at-different-scales), creating the organizational infrastructure that enables small autonomous teams to work together coherently while maintaining the flexibility and innovation that comes from decentralized decision-making.
 
 Operational governance bridges the gap between high-level community direction and ground-level execution by creating coordinating structures that can derive strategy from feedback loops coming from the smallest scales of the network while incorporating direction from the community governance layer.
 
 The operational governance model consists of three interconnected layers:
 
 1. **Community Interface Layer**: The mechanisms by which operational governance receives direction, resources, and accountability oversight from community governance, ensuring operational activities remain aligned with network purpose and values.
-2. **[[tags/coordination|Coordination]]**: The network of coordinating structures that enable [[tags/roles|Cells]] to work together, share resources, develop strategy, and maintain coherence across the operational network while preserving Cell autonomy.
-3. **Cell-Level Governance**: Individual autonomous small teams ([[tags/roles|Cells]]) that have the freedom to determine how they execute their work, make local decisions, and coordinate directly with other Cells as needed for their specific functions.
+2. **[Coordination](tags/coordination.md)**: The network of coordinating structures that enable [Cells](tags/roles.md) to work together, share resources, develop strategy, and maintain coherence across the operational network while preserving Cell autonomy.
+3. **Cell-Level Governance**: Individual autonomous small teams ([Cells](tags/roles.md)) that have the freedom to determine how they execute their work, make local decisions, and coordinate directly with other Cells as needed for their specific functions.
 
 This three-layer approach creates clear boundaries between community stewardship and operational execution while maintaining accountability relationships, enabling both strategic coherence and tactical flexibility throughout the network.
 
 ## Designing Your Operational Governance Structure
 
-There are many ways to use the [[artifacts/guides/dao-primitives-framework/dao-primitives-framework|DAO primitives]] to compose a network of operational teams. The particular system you create will reflect the specific needs of the work your community wants to engage in.
+There are many ways to use the [DAO primitives](artifacts/guides/dao-primitives-framework/dao-primitives-framework.md) to compose a network of operational teams. The particular system you create will reflect the specific needs of the work your community wants to engage in.
 
 ### 1. Define Purpose and High-Level Goals
 
@@ -151,7 +151,7 @@ Creating a fit-for-purpose structure requires understanding what the community i
 
 #### Impact Model
 
-You may want to or have already created an impact model (or theory of change) to describe the way you want your network to have positive impact on the world. It is not necessary to do this right away, as in the early [[tags/groups#Groups in Developmental Phases|phases]] of developing your governance structure these details may still be emerging. But it is recommended to have a clearly articulated impact model as you move into [[tags/groups#Groups in Developmental Phases|coordination and organization phases]]. This will ensure that you have a solid coherent and testable foundation to connect your network's purpose to actual measurable change in the world.
+You may want to or have already created an impact model (or theory of change) to describe the way you want your network to have positive impact on the world. It is not necessary to do this right away, as in the early [phases](tags/groups.md#groups-in-developmental-phases) of developing your governance structure these details may still be emerging. But it is recommended to have a clearly articulated impact model as you move into [coordination and organization phases](tags/groups.md#groups-in-developmental-phases). This will ensure that you have a solid coherent and testable foundation to connect your network's purpose to actual measurable change in the world.
 
 ### 2. Define Requirements
 
@@ -172,10 +172,10 @@ For each high-level goal, identify concrete requirements across these dimensions
    - Strategic implementation decisions
    - Resource allocation within operations
    - Process standards and protocols
-   - [[tags/coordination|Coordination]] between [[tags/roles|cells]]
+   - [Coordination](tags/coordination.md) between [cells](tags/roles.md)
    - Conflict resolution between teams
 3. **Stakeholder Inclusion**: Who needs representation in operational governance?
-   - [[tags/roles|Cell]] leads/representatives
+   - [Cell](tags/roles.md) leads/representatives
    - Team members
    - Subject matter experts
    - Community representatives
@@ -213,17 +213,17 @@ With clear purpose, goals, and requirements established, you can now design your
 
 #### Activity: Governance Approach Selection
 
-There are many ways that you can use the [[artifacts/guides/dao-primitives-framework/dao-primitives-framework|DAO primitives]] to construct a network of operational teams. The particular system you put together will reflect both the specific realities of the work and the ways in which members want to work together:
+There are many ways that you can use the [DAO primitives](artifacts/guides/dao-primitives-framework/dao-primitives-framework.md) to construct a network of operational teams. The particular system you put together will reflect both the specific realities of the work and the ways in which members want to work together:
 
 1. **Highly structured top-down decision-making**
    - If a lot of control is desired (optimizing for operational efficiency over creativity and flexibility)
-   - Build hierarchies of [[tags/roles|cells]] that answer to cells above them
+   - Build hierarchies of [cells](tags/roles.md) that answer to cells above them
    - Could resemble a traditional corporate org chart
    - However, if implementing DAO primitives, you likely don't want to just recreate a traditional hierarchy
    - May have some aspects that operate in a strictly controlled manner
 2. **Highly unconstrained networks**
    - DAO primitives can create networks that are maximally autonomous and permissionless
-   - Free-forming of [[tags/roles|cells]] that coordinate without constraints from the larger network
+   - Free-forming of [cells](tags/roles.md) that coordinate without constraints from the larger network
    - Emphasizes creative innovation and rapid adaptation
 3. **A combination of top-down and bottom-up decision-making**
    - This is what the DAO primitives framework is designed to facilitate
@@ -231,32 +231,32 @@ There are many ways that you can use the [[artifacts/guides/dao-primitives-frame
    - Allow more or less autonomy based on specific operational needs
    - Balance unlocks the dynamics and system properties listed earlier
 
-See [[artifacts/patterns/patterns|patterns]] for different approaches to building operational structures with the DAO Primitives.
+See [patterns](artifacts/patterns/patterns.md) for different approaches to building operational structures with the DAO Primitives.
 
 #### Activity: Community-Operational Boundary Design
 
-Using the [[artifacts/guides/dao-primitives-framework/dao-primitives-framework|DAO primitives framework]], design a structure that implements a network of operational [[tags/roles|Cells]]. It needs to cover four different levels of scale:
+Using the [DAO primitives framework](artifacts/guides/dao-primitives-framework/dao-primitives-framework.md), design a structure that implements a network of operational [Cells](tags/roles.md). It needs to cover four different levels of scale:
 
-1. **Community governance level ([[tags/groups#Groups at Different Scales|constituency scale]])**
+1. **Community governance level ([constituency scale](tags/groups.md#groups-at-different-scales))**
    - How community decision-making translates into instructions for the operational network
    - What network-wide constraints will community governance impose
    - How resources and value will flow from community governance into operations
-   - _See [[tags/governance#Community Governance|Community Governance]] pattern and implementation guide_
-2. **Cell coordination level ([[tags/groups#Groups at Different Scales|coordination scale]])**
+   - _See [Community Governance](tags/governance.md#community-governanceartifactspatternscommunity-governancemd) pattern and implementation guide_
+2. **Cell coordination level ([coordination scale](tags/groups.md#groups-at-different-scales))**
    - How the operational network connects with community governance
-     - Perhaps via a top-level [[tags/roles|Cell]] that takes instruction from community governance
+     - Perhaps via a top-level [Cell](tags/roles.md) that takes instruction from community governance
      - Or different functional areas that each take instructions from community governance
    - How resources and value flow through the operational network
    - How strategy is created
    - What legal status the operational governance will have
    - Define what being a member of the operational network entails
-   - Define the initial structure of [[tags/roles|Cells]] needed to instantiate operations
-3. **Cell level ([[tags/groups#Groups at Different Scales|collaboration scale]])**
-   - Define minimum information standards (state) expected of [[tags/roles|Cells]]
-   - Create templates or archetypal [[tags/roles|Cell]] types to standardize new Cells
+   - Define the initial structure of [Cells](tags/roles.md) needed to instantiate operations
+3. **Cell level ([collaboration scale](tags/groups.md#groups-at-different-scales))**
+   - Define minimum information standards (state) expected of [Cells](tags/roles.md)
+   - Create templates or archetypal [Cell](tags/roles.md) types to standardize new Cells
 4. **Partnerships level (network scale)**
-   - Design a mechanism for [[tags/roles|Cells]] to partner with other organizations and networks
-   - _See [[tags/governance#Multi-Stakeholder Governance|Multi-Stakeholder Governance]] Implementation Guide_
+   - Design a mechanism for [Cells](tags/roles.md) to partner with other organizations and networks
+   - _See [Multi-Stakeholder Governance](tags/governance.md#multi-stakeholder-governance) Implementation Guide_
 
 #### Sense-making Tools
 
@@ -269,9 +269,9 @@ Create a comprehensive document outlining your governance structure, including:
 1. **Selected Approach**: Which governance approach you've chosen
 2. **Core Components**: The specific primitives that will form your governance system
 3. **Decision Processes**: How different types of decisions will flow through governance
-4. **[[tags/roles|Roles]] and [[tags/responsibilities|Responsibilities]]**: Key functions within the governance system
+4. **[Roles](tags/roles.md) and [Responsibilities](tags/responsibilities.md)**: Key functions within the governance system
 5. **Resource Allocation**: How governance will manage organizational resources
-6. **Boundaries and Constraints**: Limits on governance authority and [[tags/roles|Cell]] autonomy
+6. **Boundaries and Constraints**: Limits on governance authority and [Cell](tags/roles.md) autonomy
 7. **Evolution Mechanisms**: How governance can be updated over time
 
 This document will serve as the blueprint for your implementation phase.
@@ -297,19 +297,19 @@ Create an implementation plan that addresses:
 #### Implementation Sequence Recommendation
 
 1. Implement initial decision-making processes - you will use this to make ongoing implementation decisions
-2. Set up core [[tags/coordination|coordination]] primitives (basic [[tags/agreements|agreements]] and protocols)
-3. Establish foundational [[tags/roles|roles]] and [[tags/responsibilities|responsibilities]]
+2. Set up core [coordination](tags/coordination.md) primitives (basic [agreements](tags/agreements.md) and protocols)
+3. Establish foundational [roles](tags/roles.md) and [responsibilities](tags/responsibilities.md)
 4. Create resource allocation mechanisms
 5. Add specialized governance components
 6. Put feedback and governance evolution process in place
 
 ### Group Phase Implementation
 
-Use the concept of [[tags/groups#Groups in Developmental Phases|group phase]] to implement your governance structure in an evolutionary way, formalizing [[tags/roles|Cells]] and other primitives as they are ready, rather than forcing a completed governance design all at once.
+Use the concept of [group phase](tags/groups.md#groups-in-developmental-phases) to implement your governance structure in an evolutionary way, formalizing [Cells](tags/roles.md) and other primitives as they are ready, rather than forcing a completed governance design all at once.
 
 #### Conversation Phase
 
-During this initial [[tags/groups#Groups in Developmental Phases|phase]], focus on:
+During this initial [phase](tags/groups.md#groups-in-developmental-phases), focus on:
 
 - Creating shared understanding of governance purpose and design
 - Building alignment around key values and principles
@@ -326,10 +326,10 @@ During this initial [[tags/groups#Groups in Developmental Phases|phase]], focus 
 
 #### Formation Phase
 
-As implementation progresses, the [[tags/groups#Groups in Developmental Phases|formation phase]] includes:
+As implementation progresses, the [formation phase](tags/groups.md#groups-in-developmental-phases) includes:
 
-- Formalizing core [[tags/agreements|agreements]], communication and meeting protocols
-- Establishing initial [[tags/roles|roles]] and [[tags/responsibilities|responsibilities]]
+- Formalizing core [agreements](tags/agreements.md), communication and meeting protocols
+- Establishing initial [roles](tags/roles.md) and [responsibilities](tags/responsibilities.md)
 - Creating basic decision-making processes
 - Implementing minimal viable governance structures
 - Building governance documentation
@@ -337,14 +337,14 @@ As implementation progresses, the [[tags/groups#Groups in Developmental Phases|f
 **Key Activities:**
 
 1. Draft formal governance charter or constitution
-2. Establish critical [[tags/roles|roles]] and select/elect initial occupants
+2. Establish critical [roles](tags/roles.md) and select/elect initial occupants
 3. Create proposal process with templates and guidelines
 4. Implement basic voting or consent mechanisms
 5. Develop onboarding materials for governance participants
 
 #### Organization Phase
 
-In this [[tags/groups#Groups in Developmental Phases|phase]], focus on:
+In this [phase](tags/groups.md#groups-in-developmental-phases), focus on:
 
 - Formalized systems for all governance functions
 - Establish documentation and training resources
@@ -352,7 +352,7 @@ In this [[tags/groups#Groups in Developmental Phases|phase]], focus on:
 - Implement token systems to manage contributors, community voting
 - Formalize resource allocation mechanisms
 - Implementing accountability systems
-- Developing [[tags/policies|policies]] (e.g., codes of conduct, conflict resolution processes)
+- Developing [policies](tags/policies.md) (e.g., codes of conduct, conflict resolution processes)
 
 **Key Activities:**
 
@@ -363,16 +363,16 @@ In this [[tags/groups#Groups in Developmental Phases|phase]], focus on:
 
 #### Coordination Phase
 
-In the final implementation [[tags/groups#Groups in Developmental Phases|phase]], establish:
+In the final implementation [phase](tags/groups.md#groups-in-developmental-phases), establish:
 
 - Ongoing community engagement/participation in governance
 - Ongoing upkeep of documentation and systems
-- Ongoing management of governance [[tags/roles|roles]] and authorities
+- Ongoing management of governance [roles](tags/roles.md) and authorities
 - Continued processes for governance feedback and evolution
 
 **Key Activities:**
 
-1. Implement teams, squads, [[tags/roles|Cells]] and [[tags/roles|roles]] to manage ongoing governance functions
+1. Implement teams, squads, [Cells](tags/roles.md) and [roles](tags/roles.md) to manage ongoing governance functions
 2. Implement reporting mechanisms for transparency
 3. Develop metrics for governance effectiveness
 4. Create feedback loops between governance layers
@@ -381,14 +381,14 @@ In the final implementation [[tags/groups#Groups in Developmental Phases|phase]]
 
 Each primitive (DAO, Cell, Role, Task) contains a version of state – an articulation of core relevant information that allows it to be treated as a discrete entity addressable across the network.
 
-If the operational governance design is leveraging the DAO primitives, there will likely be a top-level-cell or other entity that will serve as the anchor for the governance structure (e.g be accountable to the community governance structure, hold legal and administrative [[tags/responsibilities|responsibilities]] etc). In this entity build out a master "state" for the whole operational structure.
+If the operational governance design is leveraging the DAO primitives, there will likely be a top-level-cell or other entity that will serve as the anchor for the governance structure (e.g be accountable to the community governance structure, hold legal and administrative [responsibilities](tags/responsibilities.md) etc). In this entity build out a master "state" for the whole operational structure.
 
 1. **Governance Charter**: Foundational document outlining purpose, principles, and structure
 2. **Decision Mechanisms**: Systems for making decisions at different scales
 3. **Decision Registry**: Record of significant decisions and their rationale
-4. **[[tags/roles|Role]] Descriptions**: Clear documentation of governance [[tags/roles|roles]] and [[tags/responsibilities|responsibilities]]
+4. **[Role](tags/roles.md) Descriptions**: Clear documentation of governance [roles](tags/roles.md) and [responsibilities](tags/responsibilities.md)
 5. **Process Maps**: Visual representations of key governance processes
-6. **[[tags/policies|Policies]]**: Explicit guidelines governing community behavior
+6. **[Policies](tags/policies.md)**: Explicit guidelines governing community behavior
 7. **Proposal Mechanisms**: Standardized formats and systems to source and pass proposals from different layers of the structure
 8. **Resource Allocation Records**: Transparent tracking of resource decisions
 9. **Participation Guidelines**: Clear information on how to engage with governance
@@ -409,9 +409,9 @@ Depending on your organization's technical context, governance implementation ma
    - Where information about the operational network can be articulated and shared
    - Examples: Charmverse, Notion, Google Docs
 
-   b. **[[tags/roles|Cell]] state repository**
+   b. **[Cell](tags/roles.md) state repository**
 
-   - A mechanism for containing and updating [[tags/roles|Cell]] state
+   - A mechanism for containing and updating [Cell](tags/roles.md) state
    - Ideally editor controlled and version controlled but accessible to the network
    - Examples: Shared information platforms like Gitbook, Charmverse, Notion
 
@@ -437,22 +437,22 @@ Depending on your organization's technical context, governance implementation ma
    - Governance platforms (Snapshot, Tally, Commonwealth, etc.)
    - Communication tools (Discord, Discourse, Telegram, etc.)
    - Documentation systems (Charmverse, Notion, GitHub, etc.)
-   - Voting mechanisms ([[artifacts/articles/network-evolution/Building DAOs as scalable networks#Community Governance|token-based governance]], [[artifacts/articles/governance-for-better-futures/Governance for better futures - Meta-governance#quadratic voting|quadratic voting]], reputation-based, etc.)
+   - Voting mechanisms ([token-based governance](artifacts/articles/network-evolution/Building DAOs as scalable networks.md#community-governance), [quadratic voting](artifacts/articles/governance-for-better-futures/Governance for better futures - Meta-governance.md#quadratic-voting), reputation-based, etc.)
 
 3. **Implementation Approach**
-   - Start with minimum viable governance tools as required by the [[tags/groups#Groups in Developmental Phases|phase]] of development
+   - Start with minimum viable governance tools as required by the [phase](tags/groups.md#groups-in-developmental-phases) of development
    - Create clear user guides, videos and other resources to support accessibility for all community members
    - Establish support/help systems for technical assistance
 
 ## 5. Launch & Evolution
 
-Use the [[tags/groups#Groups in Developmental Phases|group phase framework]] to implement your governance structure in an evolutionary way, formalizing [[tags/roles|Cells]] and other primitives as they are needed, rather than forcing a completed governance design in one go.
+Use the [group phase framework](tags/groups.md#groups-in-developmental-phases) to implement your governance structure in an evolutionary way, formalizing [Cells](tags/roles.md) and other primitives as they are needed, rather than forcing a completed governance design in one go.
 
 #### Activity: Phased Implementation Strategy
 
 Based on the outputs of working through the implementation phase, create a phased implementation strategy.
 
-For each [[tags/groups#Groups in Developmental Phases|phase]] identify clear:
+For each [phase](tags/groups.md#groups-in-developmental-phases) identify clear:
 
 - Timeframes
 - Deliverables
@@ -467,13 +467,13 @@ Depending on the governance approach these feedback mechanisms will work differe
 - A sociocratic approach will elicit feedback via its consent based circles structure
 - A liquid democracy style governance system might leverage a combination of representatives and direct community feedback
 
-However the system is structured, it is important to have feedback mechanisms that can source feedback from all of the different [[tags/groups#Groups at Different Scales|scales]] that the system operates at—[[tags/groups#Groups at Different Scales|collaboration, coordination, constituency]] and network scales—and from diverse members of the community operating at its edges.
+However the system is structured, it is important to have feedback mechanisms that can source feedback from all of the different [scales](tags/groups.md#groups-at-different-scales) that the system operates at—[collaboration, coordination, constituency](tags/groups.md#groups-at-different-scales) and network scales—and from diverse members of the community operating at its edges.
 
 ### Success Metrics
 
 Based on the above feedback mechanisms, determine how you will measure the effectiveness of your operational governance structure:
 
-- Are [[tags/roles|Cells]] able to operate autonomously while maintaining alignment?
+- Are [Cells](tags/roles.md) able to operate autonomously while maintaining alignment?
 - Is decision-making happening at appropriate levels?
 - Are resources flowing efficiently to value-creating activities?
 - Is the network able to adapt to changing circumstances?
@@ -483,9 +483,9 @@ Based on the above feedback mechanisms, determine how you will measure the effec
 Establish how the structure will evolve over time based on the concrete feedback and metrics above. Create mechanisms to propose and make changes to the governance model in response to insights from your feedback mechanisms. This needs to happen at all scales:
 
 1. **Network Scale**: governing how the network partners with other organizations and networks
-2. **[[tags/groups#Groups at Different Scales|Constituency Scale]]**: how decisions at the community governance level influences the operational governance
-3. **[[tags/groups#Groups at Different Scales|Coordination Scale]]**: how the operational network makes decisions, allocates resources etc
-4. **[[tags/groups#Groups at Different Scales|Collaboration Scale]]**: how individual [[tags/roles|Cells]] make decisions about what work they do and how they do it
+2. **[Constituency Scale](tags/groups.md#groups-at-different-scales)**: how decisions at the community governance level influences the operational governance
+3. **[Coordination Scale](tags/groups.md#groups-at-different-scales)**: how the operational network makes decisions, allocates resources etc
+4. **[Collaboration Scale](tags/groups.md#groups-at-different-scales)**: how individual [Cells](tags/roles.md) make decisions about what work they do and how they do it
 
 ## Getting Help
 
@@ -517,12 +517,10 @@ For technical implementation assistance, SuperBenefit and our partner organizati
 
 ## Conclusion
 
-Effective operational governance is not a fixed structure but an evolving system that grows more sophisticated as your network learns and adapts. By thoughtfully applying the [[artifacts/guides/dao-primitives-framework/dao-primitives-framework|DAO primitives framework]], organizations can create operational structures that balance autonomy with [[tags/coordination|coordination]], enabling small autonomous teams to work together powerfully while maintaining the flexibility to innovate and respond to changing conditions.
+Effective operational governance is not a fixed structure but an evolving system that grows more sophisticated as your network learns and adapts. By thoughtfully applying the [DAO primitives framework](artifacts/guides/dao-primitives-framework/dao-primitives-framework.md), organizations can create operational structures that balance autonomy with [coordination](tags/coordination.md), enabling small autonomous teams to work together powerfully while maintaining the flexibility to innovate and respond to changing conditions.
 
 The key to successful operational governance design is creating structures that can harness the collective intelligence and creativity of autonomous teams while maintaining coherent direction and efficient resource allocation. When done well, operational governance becomes the engine that transforms community purpose into tangible impact.
 
 The patterns and primitives outlined in the DAO primitives framework provide a foundation for composing operational structures that can reliably produce the organizational dynamics needed to tackle complex challenges—from decentralized decision-making and creative innovation to economies of scale and adaptive capacity.
 
-Remember that operational governance is fundamentally about unleashing human potential through better [[tags/coordination|coordination]]. Start with clear purpose alignment and basic coordination mechanisms, then evolve your operational structure based on real experience and feedback from the teams doing the work. The most effective operational governance emerges when autonomous teams have both the freedom to innovate and the support to coordinate effectively.
-
-May your operational governance implementation create the conditions for your network to execute brilliantly, adapt continuously, and achieve meaningful impact in the world.
+Remember that operational governance is fundamentally about unleashing human potential through better [coordination](tags/coordination.md). Start with clear purpose alignment and basic coordination mechanisms, then evolve your operational structure based on real experience and feedback from the teams doing the work. The most effective operational governance emerges when autonomous teams have both the freedom to innovate and the support to coordinate effectively.

@@ -22,16 +22,16 @@ This document outlines how we plan to grow the Community Exchange beyond our ini
 
 Our scaling strategy is informed by and connects to specific opportunities documented in the G-Future directory:
 
-- [G.02: Neighbourhood Networks](notes/ics/ccc/v0.2/G-Future/G.02-neighbourhood-networks.md) - Woodfield, Old East, Old South community connections
-- [G.03: Journeyland Integration](notes/ics/ccc/v0.2/G-Future/G.03-journeyland-integration.md) - Special event and gathering coordination
-- [G.04: Artist Collective Collaboration](notes/ics/ccc/v0.2/G-Future/G.04-artist-collective-collaboration.md) - Corduroy/Xuux partnership opportunities
-- [G.05: ICS Credit Backing Model](notes/ics/ccc/v0.2/G-Future/G.05-ics-credit-backing-model.md) - Cash integration for stability
-- [G.06: Reimagine Meal Credits System](notes/ics/ccc/v0.2/G-Future/G.06-reimagine-meal-credits-system.md) - Structured meal exchange economy
-- [G.07: Citizen Wallet Integration](notes/ics/ccc/v0.2/G-Future/G.07-citizen-wallet-integration.md) - Simplified web3 wallet for community currency
-- [G.08: MAPLE Stablecoin](notes/ics/ccc/v0.2/G-Future/G.08-maple-stablecoin.md) - CAD stablecoin for Canadian regenerative finance
-- [G.09: Reserve Currency Integration](notes/ics/ccc/v0.2/G-Future/G.09-reserve-currency-integration.md) - Connection to regenerative reserve systems
-- [G.10: Impact Yield Fund](notes/ics/ccc/v0.2/G-Future/G.10-impact-yield-fund.md) - Funding mechanism for community initiatives
-- [G.11: Future Credit Flow Examples](notes/ics/ccc/v0.2/G-Future/G.11-future-credit-flow-examples.md) - Practical scenarios for system growth
+- G.02: Neighbourhood Networks - Woodfield, Old East, Old South community connections
+- G.03: Journeyland Integration - Special event and gathering coordination
+- G.04: Artist Collective Collaboration - Corduroy/Xuux partnership opportunities
+- G.05: ICS Credit Backing Model - Cash integration for stability
+- G.06: Reimagine Meal Credits System - Structured meal exchange economy
+- G.07: Citizen Wallet Integration - Simplified web3 wallet for community currency
+- G.08: MAPLE Stablecoin - CAD stablecoin for Canadian regenerative finance
+- G.09: Reserve Currency Integration - Connection to regenerative reserve systems
+- G.10: Impact Yield Fund - Funding mechanism for community initiatives
+- G.11: Future Credit Flow Examples - Practical scenarios for system growth
 
 These documents provide specific pathways for implementing the strategies outlined below.
 

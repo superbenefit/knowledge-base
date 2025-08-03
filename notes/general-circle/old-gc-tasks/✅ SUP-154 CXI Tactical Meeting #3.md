@@ -21,13 +21,13 @@ tags: tasks
 	- Jai: 1-2 hours
 
 ## Projects
-- #[[129 Compile ToC Feedback ]] 
+- #[129 Compile ToC Feedback ](129%20Compile%20ToC%20Feedback%20) 
 	- Last week:
 	- This week:
 	- Blockers:
 - web3 library
 	- BOUNTY discord -> notion web3 library bot
-- #[[124 Update learning pathways page on Notion ]] 
+- #[124 Update learning pathways page on Notion ](124%20Update%20learning%20pathways%20page%20on%20Notion%20) 
 	- Last week: updating regularly. exploring partnerships with CCS.
 	- This week:
 		- ✅ SUP-156 Post about NAS Academy course 
@@ -46,7 +46,7 @@ tags: tasks
 	- Day/Time of future meetings
 	- Tensions about how things are progressing with the project
 		- We're pushing an elephant :) 
-- Review #[[cxi agenda]] and triage items for future conversations
+- Review #[cxi agenda](/notes/archive/clarity/Tags/cxi%20agenda.md) and triage items for future conversations
 - 
 
 ## Checkout

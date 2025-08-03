@@ -2,7 +2,7 @@
 tags: meetings
 date: 05-12-2022
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 ## Attendees
 - @heenal @MBaldwin @Rowan  @Lewwwk 
 
@@ -14,7 +14,7 @@ date: 05-12-2022
 	- Last week:
 	- This week:
 	- Blockers:
-- Project name/link #[[P-264 Systems Transformation Project]] 
+- Project name/link #[P-264 Systems Transformation Project](P-264%20Systems%20Transformation%20Project) 
 	- Last week:
 		- Weekly Meet Up and draft framework [https://www.figma.com/file/uY3nFt3lRZC8q7XfVKG2Xi/System-Transformation-Project?node-id=217%3A41](https://www.figma.com/file/uY3nFt3lRZC8q7XfVKG2Xi/System-Transformation-Project?node-id=217%3A41) 
 		- Meetings with Andrea Brena and Gabriel Orrego
@@ -45,7 +45,7 @@ date: 05-12-2022
 			- [Book: Plain Radical](https://www.goodreads.com/book/show/24796529-plain-radical): Living, Loving and Learning to Leave the Planet Gracefully Book by Robert Jensen 
 			- [Book: Braiding Sweetgrass](https://www.goodreads.com/book/show/17465709-braiding-sweetgrass?from_search=true&from_srp=true&qid=OyTJYd2kam&rank=1) Book by Robin Wall Kimmerer 
 		- Blockers:
-	- Project name/link #[[P-260 TrustDAO - Child Welfare, Canada]] 
+	- Project name/link #[P-260 TrustDAO - Child Welfare, Canada](P-260%20TrustDAO%20-%20Child%20Welfare,%20Canada) 
 		- Last week:
 			- Meeting today with Tracey Robertson from Ontario Trillium Foundation, interested in possible funding for the development of DAOs and how support it from a catalytic  - 100K, could they support the design & development
 			- OTF to cover design as the pre-cursor - in a mini DAO cell - CFC/Possibilian Ventures as an intermediary for documenting the DAO Cell Primitives for Northpine (AIFS, Windfall) - building the template for Northpine to do the prototype and to enable innovation and risk taking
@@ -53,7 +53,7 @@ date: 05-12-2022
 			- Note to Northpine and OTF
 		- Blockers:
 			- How to support SuperBenefit contributors 
-	- Project - #[[notes/archive/clarity/Tags/dao primitives]] 
+	- Project - #[dao primitives](/notes/archive/clarity/Tags/dao%20primitives.md) 
 		- Governance design for AIFS coming together 
 			- Implementing the cell model in simple form
 			- Conversations with Gitcoin grants

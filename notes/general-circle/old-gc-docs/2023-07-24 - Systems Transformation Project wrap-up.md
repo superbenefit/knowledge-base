@@ -1,4 +1,4 @@
-#[[264 Systems Transformation Project]] 
+#[264 Systems Transformation Project](264%20Systems%20Transformation%20Project) 
 For reference: [project docs](https://app.clarity.so/superbenefit/project/264)
 ## August 22, 2023
 climate article
@@ -7,7 +7,7 @@ blog or poetic harvest
 
 ## July 25, 2023
 1. Update [cell nucleus/state](https://app.clarity.so/superbenefit/notes/30f4e383-8a3c-4364-89e3-26682ca3051f)
-	- **UPDATE (July 25, 2023):** This Cell has been wound down, as its work has been completed. The learnings and insights from the Cell's work has informed the #[[notes/archive/clarity/Tags/reimagining power]] project cell. This Cell's Resources have been transferred to Reimagine Power and many of the contributors from this Cell are now contributing to the Reimagining Power project. Please contact @MBaldwin or @heenal if you have any questions.
+	- **UPDATE (July 25, 2023):** This Cell has been wound down, as its work has been completed. The learnings and insights from the Cell's work has informed the #[reimagining power](/notes/archive/clarity/Tags/reimagining%20power.md) project cell. This Cell's Resources have been transferred to Reimagine Power and many of the contributors from this Cell are now contributing to the Reimagining Power project. Please contact @MBaldwin or @heenal if you have any questions.
 2. Transfer remaining funds - 3000 USDC
 	- Agreed. Will run by the group on Discord to confirm.
 3. Reflection ([Figjam](https://www.figma.com/file/uY3nFt3lRZC8q7XfVKG2Xi/System-Transformation-Project))

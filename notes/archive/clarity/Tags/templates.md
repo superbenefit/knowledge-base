@@ -1,4 +1,4 @@
-## #[[tactical meetings]] Template
+## #[tactical meetings](/notes/archive/clarity/Tags/tactical%20meetings.md) Template
 ## Attendees
 - 
 
@@ -26,7 +26,7 @@
 - What else do you need to feel heard or complete for this call?
 
 
-## #[[bounties]] Template
+## #[bounties](/notes/archive/clarity/Tags/bounties.md) Template
 ## Background
 - 
 
@@ -40,5 +40,5 @@
 - Reporting to <lead> as part of <squad>
 
 
-## #[[proposals]] Template
+## #[proposals](/notes/archive/clarity/Tags/proposals.md) Template
 coming soon

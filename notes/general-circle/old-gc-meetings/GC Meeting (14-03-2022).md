@@ -2,7 +2,7 @@
 tags: meetings
 date: 14-03-2022
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 # Week of March 14, 2022
 ## Attendees
 - Rowan, Michael, Michelle, Ryan, Heenal
@@ -44,7 +44,7 @@ date: 14-03-2022
 - Peter:
 
 ## Projects
-#[[Intervention 1- Mapping pathways to the future]]  (@Rowan  )
+#[Intervention 1- Mapping pathways to the future](Intervention%201-%20Mapping%20pathways%20to%20the%20future)  (@Rowan  )
 - Last week: Convo MikeAlex/Rowan  
 - This week: Setting up Map-making conversations + first conversations
 - Blockers: Getting a feel for where the team is at and who wants to be involved in what comes next
@@ -54,7 +54,7 @@ Project name/link
 - This week:
 - Blockers:
 
-#[[information squad]] (@heenal )
+#[information squad](/notes/archive/clarity/Tags/information%20squad.md) (@heenal )
 - Last week:
 	- (from previous week) Updated Discord welcome/rules, start-here, branding; Tooling Guide on Clarity; FAQ
 	- CCS Semester II; working on co-ops pack
@@ -69,7 +69,7 @@ Project name/link
 	- Can we set up a CXI group on Clarity?
 
 
-- Project name/link #[[Community Experience- Revolution 1]] 
+- Project name/link #[Community Experience- Revolution 1](Community%20Experience-%20Revolution%201) 
 	- Last week: 
 		- Call with Caryn Tan CCS about community experience
 		- CCS Semester II
@@ -92,11 +92,11 @@ Project name/link
 
 
 General updates from Michael:
-- #[[Intervention 1- Mapping pathways to the future]] 
+- #[Intervention 1- Mapping pathways to the future](Intervention%201-%20Mapping%20pathways%20to%20the%20future) 
 	- OCAD Students, TBD (meeting upcoming, 
 	- Guacamole engagement?
 		- what are the sensemaking activities that they could be involved in? 
-- #[[Intervention 2- Building Capacity and Interdependence Through Governance]] 
+- #[Intervention 2- Building Capacity and Interdependence Through Governance](Intervention%202-%20Building%20Capacity%20and%20Interdependence%20Through%20Governance) 
 	- Verses offered to help engage and shared excitement for superbenefit serving as 'glue'
 	- Micro-invitations around sense-making toward a 'rebel alliance' - what are the things we can do to explore if there is interest in the notion of a rebel alliance 
 - #[[Intervention 4- A Metacurrency for Metagovernance, Values and Acceleration
@@ -106,12 +106,12 @@ General updates from Michael:
 
 ## Triage Items
 - What tensions do you have that need resolution to move forward in your work?
-	- Who is leading on #[[Intervention 1- Mapping pathways to the future]]?
+	- Who is leading on #[Intervention 1- Mapping pathways to the future](Intervention%201-%20Mapping%20pathways%20to%20the%20future)?
 		- project groups? who wants to lead on that invitation of sense-making work - people landing so how to engage them 
 		- Alex unavailable this week - Heenal & Michelle have some interest & capacity, Rowan interested but not deep experience, Mark has experience and interest
-		- Next Step: Meeting to frame out for minimum viable path for #[[Intervention 1- Mapping pathways to the future]] @Lewwwk @AlexH @Rowan   + whomever is interested to be there
+		- Next Step: Meeting to frame out for minimum viable path for #[Intervention 1- Mapping pathways to the future](Intervention%201-%20Mapping%20pathways%20to%20the%20future) @Lewwwk @AlexH @Rowan   + whomever is interested to be there
 		- Sense-making now is sense from the foundation of theory of change and to sense make what the future looks like - about everyone else and rest of the world, not trying to say SB is something, mycelium to move nutrition around usefully
-	- Any offers of support for #[[Intervention 2- Building Capacity and Interdependence Through Governance]] - rebel alliance conversations/sense-making 
+	- Any offers of support for #[Intervention 2- Building Capacity and Interdependence Through Governance](Intervention%202-%20Building%20Capacity%20and%20Interdependence%20Through%20Governance) - rebel alliance conversations/sense-making 
 		- Michael to run with some conversations and see what he can sort out
 	- Access to Clarity. Create a CXI group? Or share individual task with Caryn Tan. @Lewwwk to have a look at clarity and see what's not working for Heenal to get access @heenal 
 		- can we do DAO to DAO collaboration spaces, does it related to our road map, should we resource with $SPRB, if in clarity should fit with our purposes

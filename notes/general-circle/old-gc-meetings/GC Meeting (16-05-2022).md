@@ -2,9 +2,9 @@
 tags: meetings
 date: 16-05-2022
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 # Week of May 16, 2022
-#[[tactical meetings]] Template
+#[tactical meetings](/notes/archive/clarity/Tags/tactical%20meetings.md) Template
 
 ## Attendees
 - Ayusha, Heenal, Michael, Michelle, Rowan
@@ -14,7 +14,7 @@ date: 16-05-2022
 
 
 ## Projects
-Project name/link #[[239 Governance research project (Rev 1) DAO-Cell founding doc]] 
+Project name/link #[239 Governance research project (Rev 1) DAO-Cell founding doc](239%20Governance%20research%20project%20(Rev%201)%20DAO-Cell%20founding%20doc) 
 - Last week: 
 	- Post writing - ready for first pass 
 	- Research activity
@@ -25,7 +25,7 @@ Project name/link #[[239 Governance research project (Rev 1) DAO-Cell founding d
 	- Rowan's post review and editing
 - Blockers:
 
-Project name/link #[[superbenefit contributor guide - working draft]] 
+Project name/link #[superbenefit contributor guide - working draft](/notes/archive/clarity/Tags/superbenefit%20contributor%20guide%20-%20working%20draft.md) 
 - Last week:
 	- Outline completed
 - This week:
@@ -33,7 +33,7 @@ Project name/link #[[superbenefit contributor guide - working draft]]
 - Blockers:
 	- Governance structure - @heenal will talk with @Rowan  about governance, & discord flow
 
-Project name/link #[[governance conversations]] 
+Project name/link #[governance conversations](/notes/archive/clarity/Tags/governance%20conversations.md) 
 - Last week:
 	- Confirmed themes for each conversation
 	- Bryan Petes confirmed
@@ -46,7 +46,7 @@ Project name/link #[[governance conversations]]
 		- eg Bankless could be a very lightweight partnership - doesn't require a lot of thought, just a collaboration around an event
 	- Comms and promotions 
 
-#[[233 [BOUNTY] Twitter Style Guide]] 
+#[233 [BOUNTY](233%20[BOUNTY) 
 - Last week:
 	- Draft of Twitter Guidelines [https://docs.google.com/document/d/1gW2k6JyOlKfjUeWhgpEFpODYunZWWJ2hBK_KA0bttPI/edit#heading=h.n8gmh5vrwbgn](https://docs.google.com/document/d/1gW2k6JyOlKfjUeWhgpEFpODYunZWWJ2hBK_KA0bttPI/edit#heading=h.n8gmh5vrwbgn) 
 	- Draft of Twitter Strategy [https://docs.google.com/document/d/1YpwdIt7jjEQqeqAdxybgJWGuEdkHcHQppYZmNXl4hZQ/edit](https://docs.google.com/document/d/1YpwdIt7jjEQqeqAdxybgJWGuEdkHcHQppYZmNXl4hZQ/edit) 
@@ -57,7 +57,7 @@ Project name/link #[[governance conversations]]
 - Blockers:
 	- Not sure who is going to execute the strategy
 
-#[[193 Community Experience- Revolution 1]] 
+#[193 Community Experience- Revolution 1](193%20Community%20Experience-%20Revolution%201) 
 - Last week:
 	- Draft Mirror Post
 	- Header completed by @ayusha01 
@@ -67,7 +67,7 @@ Project name/link #[[governance conversations]]
 	- @MBaldwin Speaking at Amplifying Our Impact: Interlacing Social Innovation and Digital Tech event May 18 about web3/SuperBenefit with Mount Royal University, Institute for Community Prosperity
 - Blockers:
 
-#[[Krause House Collaboration]] 
+#[Krause House Collaboration](Krause%20House%20Collaboration) 
 - Spoke with Alex and reframing the proposal from a theory of change to more system level mapping
 - Will share krause house proposal draft later this week/early next
 

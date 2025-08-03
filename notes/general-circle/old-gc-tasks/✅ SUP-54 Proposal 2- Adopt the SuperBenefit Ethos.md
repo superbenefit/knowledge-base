@@ -13,7 +13,7 @@ My rationale for adopting these as presented are:
 - The proposed ethos incorporates inputs and perspectives from the community as collected in the [Miro](https://miro.com/app/board/o9J_llbEduw=/?invite_link_id=232853217905) as our community has grown, and were co-authored with @remarkk and @flashlight.
 - While no version of these will be right for everyone, they reflect what's true for us for now.
 
-### Proposed [[ethos]]
+### Proposed [ethos](/notes/archive/clarity/Tags/ethos.md)
 **Purpose: **To embed universal abundance into the core infrastructure of the future.
 **Mission: **To develop the social and financial flywheels that enable invention, investment, and acceleration of our purpose.
 **Values:**

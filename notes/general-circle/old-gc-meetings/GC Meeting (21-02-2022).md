@@ -2,7 +2,7 @@
 tags: meetings
 date: 21-02-2022
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 # Week of February 21, 2022
 
 ## Attendees
@@ -47,19 +47,19 @@ date: 21-02-2022
 	- Last week:
 	- This week:
 	- Blockers:
-- #[[138 Proposal 3- Create $SPRB ERC20 token for the SuperBenefit DAO [DRAFT]]]
+- #[138 Proposal 3- Create $SPRB ERC20 token for the SuperBenefit DAO [DRAFT](138%20Proposal%203-%20Create%20$SPRB%20ERC20%20token%20for%20the%20SuperBenefit%20DAO%20[DRAFT)]
 	- Passed with 8 '5' votes. See Proposal to see all tasks actioned.
 	- Prepping for Coordinape distribution
 	- Waiting for some signatures multisig signers
-- #[[74 Crowdfund - "Hello World"]] 
+- #[74 Crowdfund - "Hello World"](74%20Crowdfund%20-%20"Hello%20World") 
 	- Post is on Mirror in draft
 	- Need to finalize NFT
 	- 
-- #[[Resource Flow strategy ]] @Rowan  
+- #[Resource Flow strategy ](Resource%20Flow%20strategy%20) @Rowan  
 	- Last week: Building out the details of the strategy and overarching
 	- This week: Pulling people in to collaborate on specific pieces of it
 	- Blockers: Letting the dust settling on hello world
-- #[[68 Set up Information Systems]] - @heenal  
+- #[68 Set up Information Systems](68%20Set%20up%20Information%20Systems) - @heenal  
 	- Last week:
 		- Updated Community Resources page, created [how to set up a wallet](https://www.notion.so/superbenefit/How-to-set-up-and-fund-your-web3-wallet-36ce7a6d262447e0b5a26ee21545468a) page, updated getting started page
 		- Continued Stephen Mitchell crypto course (week 3 of 4)
@@ -70,7 +70,7 @@ date: 21-02-2022
 		- Planning for Revolution 1
 	- Blockers:
 		- 
-- #[[23 Community Experience Project]] 
+- #[23 Community Experience Project](23%20Community%20Experience%20Project) 
 	- Last week: Promotion of SuperBenefit Townhall on Feb 23 and AMA Mar 2
 	- This week: 
 		- Weekly Update
@@ -80,7 +80,7 @@ date: 21-02-2022
 		- Promotion of SuperBenefit Townhall on Feb 23 and AMA Mar 2
 		- Intro Q's in Discord updated with "How I can help/what I am experienced in" with a note to fill out role selection
 		- Starting Hype Free course [https://www.hypefreecrypto.com/](https://www.hypefreecrypto.com/)  and Crypto Culture and Society Semester II - exploring learning pathways and so far two courses I have taken before this would be a pass for promoting to SB community
-- #[[7 Governance Implementation]] 
+- #[7 Governance Implementation](7%20Governance%20Implementation) 
 	- Inviting Rowan into the Governance Squad, looking to review overall structure, not expecting any major changes
 	- Blockers:
 
@@ -91,7 +91,7 @@ date: 21-02-2022
 	- Guild Discord channels (Heenal)
 		- If you requested a Guild to pool talent you might need, keep an eye on it. Let's all engage more in Guild channels and seed them with content, ideas and invitations.
 	- Confirm roles for SuperBenefit Townhall (MB)
-		- #[[176 SuperBenefit Townhall & Agenda]] 
+		- #[176 SuperBenefit Townhall & Agenda](176%20SuperBenefit%20Townhall%20&%20Agenda) 
 	- Multi-Sig Actions - @Lewwwk (yes, i need two sigs on the top one)
 	- How is purchasing the crowdfund nfts going to work? (Rowan)
 		- Mirror post will go live by tomorrow morning!

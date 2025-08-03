@@ -1,7 +1,7 @@
 ## Current Assets
 - **Multi-sig (Mainnet): **`0x731c837121C15e1e7e3cfc0E2588f4d0B35FdD48` ([etherscan](https://etherscan.io/address/0x731c837121c15e1e7e3cfc0e2588f4d0b35fdd48))
 - **Hot-wallet (superbenefit.eth):** `0x9C3e186d24432f07847460aFa741f98a039AD57d` ([etherscan](https://etherscan.io/address/0x9c3e186d24432f07847460afa741f98a039ad57d))
-- #[[$sprb]]: 
+- #[$sprb](/notes/archive/clarity/Tags/$sprb.md): 
 	- Ethereum: `0xfC3Ac26D9A4A00B2534298c933A84F54430B3850`  ([Token Tracker](https://etherscan.io/token/0xfC3Ac26D9A4A00B2534298c933A84F54430B3850))
 	- Polygon: `0xDaC5f23D2890A1129a3Fc6416b292A0ca82D3ccc` ([Token Tracker](https://polygonscan.com/token/0xDaC5f23D2890A1129a3Fc6416b292A0ca82D3ccc))
 		- Operational wallets (funded out of Polygon wallet)
@@ -16,7 +16,7 @@
 The Treasury exists to fulfil the purpose of SuperBenefit. 
 There will be two primary components of the treasury. The first will power the activities of the DAO and the second will flow capital into the emerging infrastructures. 
 ## DAO Treasury
-Funded through #[[nft series]] sales, direct contributions, and services provided.
+Funded through #[nft series](/notes/archive/clarity/Tags/nft%20series.md) sales, direct contributions, and services provided.
 Services provided could include map-making and theory of change development for other DAOs and other projects aligned with our purpose.
 Allocated towards:
 - DAO Operations
@@ -24,11 +24,11 @@ Allocated towards:
 - Capacity building
 - Intervention seeding
 
-Governed through #[[$sprb]]
+Governed through #[$sprb](/notes/archive/clarity/Tags/$sprb.md)
 ## Infrastructure Treasury
-Established through #[[$superb]]. Builds treasury of relevant societal infrastructure assets such as: ETH, OHM, Klima, DIATOM, ENS, KRAUSE, BTRFLY, etc. Uses governance influence to advance the purpose of SuperBenefit.
+Established through #[$superb](/notes/archive/clarity/Tags/$superb.md). Builds treasury of relevant societal infrastructure assets such as: ETH, OHM, Klima, DIATOM, ENS, KRAUSE, BTRFLY, etc. Uses governance influence to advance the purpose of SuperBenefit.
 Liquidity fee revenues support:
 - Treasury operations
 - Development and application of DeFi primitives that allow SUPERB to be used more directly in advancing emerging initiatives. 
 
-Governed through #[[$superb]] 
+Governed through #[$superb](/notes/archive/clarity/Tags/$superb.md) 

@@ -4,7 +4,7 @@ tags:
 ---
 
 
-[[261 Windfall - Residential Energy NFT]] 
+[261 Windfall - Residential Energy NFT](261%20Windfall%20-%20Residential%20Energy%20NFT) 
 
 # 11/13/23
 ### Checkin
@@ -454,7 +454,7 @@ tags:
 	-  
 	- **Regrets:** 
 - ## **Updates**
-	- #[[notes/archive/clarity/Tags/dao primitives]] will steward development of #[[G-294 Internal Coordination Functions]] for SB cells, including EEP
+	- #[dao primitives](/notes/archive/clarity/Tags/dao%20primitives.md) will steward development of #[G-294 Internal Coordination Functions](G-294%20Internal%20Coordination%20Functions) for SB cells, including EEP
 	-  Key reputation metrics listed in Governance Implementations - EEP 
 	- GitHub org created here: [superbenefit/sourcecred (github.com)](https://github.com/superbenefit/sourcecred) 
 	- Agreement with BS in place. Windfall will contract with them directly. This leaves 20k to fund the project through SB

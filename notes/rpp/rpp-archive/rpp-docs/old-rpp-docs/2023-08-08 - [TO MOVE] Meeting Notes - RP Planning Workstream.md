@@ -1,9 +1,9 @@
-#[[notes/archive/clarity/Tags/reimagining power]] #[[tactical meetings]] 
+#[reimagining power](notes/archive/clarity/Tags/reimagining%20power.md) #[tactical meetings](notes/archive/clarity/Tags/tactical%20meetings.md) 
 
 wWeekly meeting notes for the Reimagining Power planning workstream are recorded here.
 Please refer to the [meeting, checkin & decider protocols ](https://app.clarity.so/superbenefit/docs/cbf5146b-6d3f-4f75-9e51-0435f4011ed9)for meeting details
 ## Links
-- [[notes/archive/clarity/Tags/reimagining power]][ Project Overview](https://app.clarity.so/superbenefit/tags/a50e883a-3504-42c3-a7bc-859de249ff7e)
+- [reimagining power](notes/archive/clarity/Tags/reimagining%20power.md)[ Project Overview](https://app.clarity.so/superbenefit/tags/a50e883a-3504-42c3-a7bc-859de249ff7e)
 - ⬜️ P-267 Initial Planning - Reimagining Power
 - ⬜️ POW-272 Cell State (DRAFT) - Reimagining Power
 - ```__**Reimagining Power Planning Workstream Weekly Meeting**__  
@@ -353,8 +353,8 @@ If time might be good to chat this question out "What inequities and financial/c
 		- rather will update the doc with everyone's feedback
 		- everyone is welcome to edit the doc
 		- what other terms would be useful to explain? **ping rather in chat with ideas**
-			- #[[notes/archive/clarity/Tags/dao primitives]] 
-			- #[[notes/archive/clarity/Tags/cells]]
+			- #[dao primitives](notes/archive/clarity/Tags/dao%20primitives.md) 
+			- #[cells](notes/archive/clarity/Tags/cells.md)
 			- GR-296 Group Scale - DAO Primitives
 	- @Aditi @Rowan  @Filsan met to discuss governance topics and field questions - Feels good
 - ## Agenda
@@ -399,7 +399,7 @@ If time might be good to chat this question out "What inequities and financial/c
 	- Indigenous Peoples Resilience Fund and Catamount Fellowship (Michelle)
 	- Restorying Power (Heenal)
 		- Michelle + Njoki + Heenal are going to work on a piece telling the story of the project to date and how we got to where we are
-	- DAO primitives will provide #[[Design Task Management and Compensation Framework - DAO Primitives (Old)]] 
+	- DAO primitives will provide #[Design Task Management and Compensation Framework - DAO Primitives (Old)](Design%20Task%20Management%20and%20Compensation%20Framework%20-%20DAO%20Primitives%20(Old)) 
 	- WREEP project is underway. Tighter scope than this project. Research and learnings across projects can be shared.
 - ## Agenda
 	- Updated [Partnership governance doc](https://app.clarity.so/superbenefit/work/GR-309) - new naming and updated design (rowan)
@@ -447,11 +447,11 @@ If time might be good to chat this question out "What inequities and financial/c
 		-  @MBaldwin @Rowan  @Filsan @rathermercurial @heenal 
 		- **Regrets:  @Aditi @Ananth **
 - ## Updates (all)
-	- #[[Partnership Governance - Reimagining Power]] 
+	- #[Partnership Governance - Reimagining Power](Partnership%20Governance%20-%20Reimagining%20Power) 
 		- @heenal & @Rowan  are going to work on the doc to make it more friendly
 		- @rathermercurial is working on a preamble/framing for the doc
 	- Menzies Foundation [https://app.clarity.so/superbenefit/docs/88344750-6c9f-4ece-9b4f-ffe0cb0a34a4](https://app.clarity.so/superbenefit/docs/88344750-6c9f-4ece-9b4f-ffe0cb0a34a4) 
-	- DAO #[[community governance]] session with Indigenous Peoples Resilience Fund - Tues Sept 26 at 4pm ET
+	- DAO #[community governance](notes/archive/clarity/Tags/community%20governance.md) session with Indigenous Peoples Resilience Fund - Tues Sept 26 at 4pm ET
 	- Catamount Fellowship with AIFS and Reimagining Power Project
 		- Connection with IPRF work
 	- OTF
@@ -460,7 +460,7 @@ If time might be good to chat this question out "What inequities and financial/c
 - ## Agenda
 	- Stakeholder Engagement - update and input (Michelle)
 		- Will reach out to stakeholders once stakeholder model doc has been reworked
-		- Where we landed as a plan is for #[[Stakeholder Engagement - Reimagining Power]]:
+		- Where we landed as a plan is for #[Stakeholder Engagement - Reimagining Power](Stakeholder%20Engagement%20-%20Reimagining%20Power):
 
 
 			1. Michelle to reach out to all the potential stakeholders (OTF, EF, RI, AIFS and SB). And invite them to become part of the Stakeholder Group for the project. Share with them a brief outline of what being in the Stakeholder Group would look like (plus share the outline that **@rathermercurial** is working on and the updated stakeholder model doc once **@Rowan** and **@heenal** have reworked it).
@@ -489,10 +489,10 @@ If time might be good to chat this question out "What inequities and financial/c
 - ## Action items
 	- [x] Rowan to post in the channel the offer for governance background conversations
 	- [ ] Michelle to reach out to all the potential stakeholders (OTF, EF, RI, AIFS and SB). And invite them to become part of the Stakeholder Group for the project. 
-	- [x] Design or delegate #[[Design Task Management and Compensation Framework - DAO Primitives (Old)]] 
+	- [x] Design or delegate #[Design Task Management and Compensation Framework - DAO Primitives (Old)](Design%20Task%20Management%20and%20Compensation%20Framework%20-%20DAO%20Primitives%20(Old)) 
 - ## Decisions log
 	- Decided to have a task to design a task management and compensation framework for the RPP
-	- Will request #[[notes/archive/clarity/Tags/dao primitives]] team take on #[[Design Task Management and Compensation Framework - DAO Primitives (Old)]] in cooperation with #[[notes/archive/clarity/Tags/reimagining power]] 
+	- Will request #[dao primitives](notes/archive/clarity/Tags/dao%20primitives.md) team take on #[Design Task Management and Compensation Framework - DAO Primitives (Old)](Design%20Task%20Management%20and%20Compensation%20Framework%20-%20DAO%20Primitives%20(Old)) in cooperation with #[reimagining power](notes/archive/clarity/Tags/reimagining%20power.md) 
 - ## Reflection  
 	- How have we approached reimagining power in this meeting?
 		- MB faciliation allows a different vibe and energy ✨
@@ -512,8 +512,8 @@ If time might be good to chat this question out "What inequities and financial/c
 	- @rathermercurial will share project home page next week.
 - ## Agenda
 	- @heenal created a list of terms to define / disambiguate
-		- [[stakeholder]], Stakeholder Model, Web3 Stakeholder Modules - DAO Primitives , Stakeholder Group, #[[Partnership Governance - Reimagining Power]] 
-		- Operational GR-311 Cell Primitive - DAO Primitives,  Cell of Cells, [[core team]]
+		- [stakeholder](notes/archive/clarity/Tags/stakeholder.md), Stakeholder Model, Web3 Stakeholder Modules - DAO Primitives , Stakeholder Group, #[Partnership Governance - Reimagining Power](Partnership%20Governance%20-%20Reimagining%20Power) 
+		- Operational GR-311 Cell Primitive - DAO Primitives,  Cell of Cells, [core team](notes/archive/clarity/Tags/core%20team.md)
 	- Ideas about Cell formation from the DAO primitives meeting (Rowan)
 	- 
 - ## Longer items:

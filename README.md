@@ -33,12 +33,12 @@ Our [public knowledge garden](https://knowledge.superbenefit.org) shares curated
 
 ### Repository Structure
 
-*   **[Artifacts](artifacts/readme.md)**: Published, refined content that represents our collective understanding. Contains finished research, documentation, and community-validated knowledge.
-*   **[Notes](notes/readme.md)**: Working documents organized by project. This is where active development happens and where ideas mature through collaboration.
-*   **[Drafts](drafts/readme.md)**: Private workspace for developing thoughts and initial research. This is where new ideas begin before they're ready for wider collaboration.
-*   **[Links](links/readme.md)**: External references and resources, enriched with community commentary and analysis.
-*   **[Tags](tags/readme.md)**: Our shared vocabulary and conceptual framework, including term definitions and relationships.
-*   **[Tools](tools/readme.md)**: Knowledge management utilities, including:
+*   **[Artifacts](/artifacts/readme.md)**: Published, refined content that represents our collective understanding. Contains finished research, documentation, and community-validated knowledge.
+*   **[Notes](/notes/readme.md)**: Working documents organized by project. This is where active development happens and where ideas mature through collaboration.
+*   **[Drafts](/drafts/readme.md)**: Private workspace for developing thoughts and initial research. This is where new ideas begin before they're ready for wider collaboration.
+*   **[Links](/links/readme.md)**: External references and resources, enriched with community commentary and analysis.
+*   **[Tags](/tags/readme.md)**: Our shared vocabulary and conceptual framework, including term definitions and relationships.
+*   **[Tools](/tools/readme.md)**: Knowledge management utilities, including:
     *   `templates/`: Standard document structures
     *   `types/`: Metadata schemas and definitions
 *   **Attachments**: Media files, images, diagrams, and other supporting content used throughout the knowledge base.
@@ -54,7 +54,7 @@ Each directory contains two types of documentation to serve different audiences:
 
 ## Contributing
 
-We welcome contributions to the SuperBenefit Knowledge Base! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines on how to contribute.
+We welcome contributions to the SuperBenefit Knowledge Base! Please see [CONTRIBUTING.md](/CONTRIBUTING.md) for detailed guidelines on how to contribute.
 
 Here are some ways you can contribute:
 
@@ -78,9 +78,9 @@ This system is designed to be adaptable. You can fork this repository to create 
 ## Additional Resources
 
 - Directory-specific guides in local readme files
-- Technical details in [tools](tools/readme.md)
-- Templates for different content types in [tools/templates](tools/templates/readme.md)
-- Metadata schemas in [tools/types](tools/types/readme.md)
+- Technical details in [tools](/tools/readme.md)
+- Templates for different content types in [tools/templates](/tools/templates/readme.md)
+- Metadata schemas in [tools/types](/tools/types/readme.md)
 
 For support:
 1. Check existing documentation

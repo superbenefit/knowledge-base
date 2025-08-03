@@ -149,7 +149,7 @@ const createBackup = async (filePath) => {
 const processFile = async (filePath) => {
     try {
         const file = app.vault.getAbstractFileByPath(filePath);
-        if (!file || !(file instanceof TFile)) {
+        if (!file) {
             throw new Error('File not found');
         }
         
@@ -263,9 +263,13 @@ try {
             .map(f => f.path);
             
     } else if (mode === "From List") {
-        const listPath = await tp.system.prompt("Enter path to file list:");
-        const listContent = await app.vault.adapter.read(listPath);
-        targetFiles = listContent.split('\n').filter(line => line.trim());
+        // Provide the list of 3 files with code block issues
+        const filesWithCodeBlockIssues = [
+            "tools/plugin-notes/dataview/dataview-queries.md",
+            "tools/templates/link-fix-templates/T06-Protect-Code-Blocks.md",
+            "notes/rpp/rpp-playbooks/playbook-working-docs/07-resource-audit.md"
+        ];
+        targetFiles = filesWithCodeBlockIssues;
         
     } else if (mode === "Test Mode") {
         // Create a test file
@@ -275,7 +279,7 @@ Regular [[wikilink]] and [markdown](link.md).
 
 \`\`\`javascript
 // Code block with [[wikilink]] and [markdown](link.md)
-const test = "[[another]] link";
+const test = "[another](another) link";
 \`\`\`
 
 Inline code: \`[[inline-wiki]]\` and \`[inline-md](link.md)\`
@@ -337,6 +341,14 @@ Regular text with [[more-links]].`;
     tR += `- **Backup**: \`${backupFolder}\`\n`;
     tR += `- **Inventory**: \`${OUTPUT_DIR}/${inventoryFile}\`\n`;
     tR += `- **Restoration script**: \`${OUTPUT_DIR}/restore-code-blocks-${timestamp}.js\`\n`;
+    
+    tR += `\n### Files with Code Block Issues\n\n`;
+    if (mode === "From List") {
+        tR += `The following files were processed:\n`;
+        targetFiles.forEach(file => {
+            tR += `- ${file}\n`;
+        });
+    }
     
     new Notice(`Protection complete: ${protectedContent.size} code sections protected`);
     

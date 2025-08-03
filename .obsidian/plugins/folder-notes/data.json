@@ -3,8 +3,8 @@
   "ctrlKey": true,
   "altKey": false,
   "hideFolderNote": true,
-  "templatePath": "templates/folder-note.md",
-  "autoCreate": true,
+  "templatePath": "tools/templates/index.md",
+  "autoCreate": false,
   "enableCollapsing": false,
   "excludeFolders": [
     {
@@ -88,7 +88,7 @@
     "explorer": true,
     "path": true
   },
-  "settingsTab": "exclude_folders",
+  "settingsTab": "general",
   "supportedFileTypes": [
     "md"
   ],

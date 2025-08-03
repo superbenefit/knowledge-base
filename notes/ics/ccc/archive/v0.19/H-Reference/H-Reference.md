@@ -15,9 +15,9 @@ This directory contains supplementary reference materials to support the impleme
 
 ## Relationship to Other Documents
 
-- For practical guides on system usage, see [E-Guides](../E-Guides/E.00-guides.md)
-- For examples of how the system works, refer to [D-Examples](../D-Examples/D.00-examples.md)
-- For implementation details, see [C-Implementation](../C-Implementation/C.00-implementation.md)
+- For practical guides on system usage, see [E-Guides](notes/ics/ccc/archive/v0.19/E-Guides/E.00-guides.md)
+- For examples of how the system works, refer to [D-Examples](notes/ics/ccc/archive/v0.19/D-Examples/D.00-examples.md)
+- For implementation details, see [C-Implementation](notes/ics/ccc/archive/v0.19/C-Implementation/C.00-implementation.md)
 
 ## Using These References
 

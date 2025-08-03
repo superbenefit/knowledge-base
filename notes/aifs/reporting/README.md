@@ -12,8 +12,8 @@ This directory contains reports and documentation related to the All In For Spor
 
 ## Reports
 
-- [OTF Report](otf-report.md) - Comprehensive report on the knowledge mobilization partnership, including deliverables, metrics, and reflection questions
-- [Evaluation and Next Steps Report](evaluation-next-steps-report.md) - Detailed evaluation of program outcomes and strategic recommendations for future work
+- OTF Report - Comprehensive report on the knowledge mobilization partnership, including deliverables, metrics, and reflection questions
+- Evaluation and Next Steps Report - Detailed evaluation of program outcomes and strategic recommendations for future work
 
 These reports document the success of the AIFS salon series that explored the intersection of Web3 technologies, community governance, and grassroots sports initiatives. The partnership engaged 111 participants from 38 organizations through six interactive learning sessions, created supportive online communities, and facilitated new collaborations.
 

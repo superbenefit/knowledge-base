@@ -30,8 +30,8 @@ _<% tp.frontmatter.description || "A brief overview of this directory's purpose 
 
 %% Connect this directory to related areas of the knowledge base. This helps users see the broader context and navigate between related content areas. %%
 
-- **[[path/to/related-directory|Related Directory]]**: How it relates to this content
-- **[[path/to/related-directory|Related Directory]]**: How it relates to this content
+- **[Related Directory](path/to/related-directory)**: How it relates to this content
+- **[Related Directory](path/to/related-directory)**: How it relates to this content
 
 ## Directory Contents
 

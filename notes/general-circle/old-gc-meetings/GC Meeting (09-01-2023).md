@@ -2,7 +2,7 @@
 tags: meetings
 date: 09-01-2023
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 ## Attendees
 - Alex, Heenal, Michael, Michelle
 
@@ -10,7 +10,7 @@ date: 09-01-2023
 - How do you arrive?
 
 ## Projects
-- Project name/link: #[[P-193 Community Experience- Revolution 1]] 
+- Project name/link: #[P-193 Community Experience- Revolution 1](P-193%20Community%20Experience-%20Revolution%201) 
 	- Last week:
 		- @heenal created [Year in Review 2022 document](https://docs.google.com/document/d/12QE9vEvaqiD8IXJI2TfIkQEuC0VGcAtgVwblvsvq5qA/edit) - please add any additions
 		- added all upcoming events and posted about events this week
@@ -19,18 +19,18 @@ date: 09-01-2023
 	- This week:
 		- Upcoming meeting with @heenal @MBaldwin about community experience plan
 	- Blockers:
-- #[[P-196 Information Squad- Revolution 1]]
+- #[P-196 Information Squad- Revolution 1](P-196%20Information%20Squad-%20Revolution%201)
 	- Last week:
 		- Updated website with latest project updates
 		- Created v0.1 CRM system for AIFS
 	- This week:
 		- Reflections process for 2022?
-- Project name/link #[[P-264 Systems Transformation Project]] 
+- Project name/link #[P-264 Systems Transformation Project](P-264%20Systems%20Transformation%20Project) 
 	- Last week:
 		- 
 	- This week:
 	- Blockers:
-- #[[P-236 Krause House Collaboration]]
+- #[P-236 Krause House Collaboration](P-236%20Krause%20House%20Collaboration)
 	- Looking for a visual designer to help on the Future of Sport roadmap/model visualization.
 
 ## Triage Items

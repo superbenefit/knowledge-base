@@ -2,7 +2,7 @@
 tags: meetings
 date: 17-04-2023
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 ## Attendees
 - Rowan, Michelle, Michael, Heenal, Alex
 - 

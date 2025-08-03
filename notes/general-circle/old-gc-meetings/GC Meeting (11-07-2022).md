@@ -2,9 +2,9 @@
 tags: meetings
 date: 11-07-2022
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 # Week of July 11, 2022
-#[[tactical meetings]] 
+#[tactical meetings](/notes/archive/clarity/Tags/tactical%20meetings.md) 
 
 ## Attendees
 - Ayusha, Heenal, Michael, Michelle, Rowan
@@ -14,14 +14,14 @@ date: 11-07-2022
 
 
 ## Projects
-- Project name/link: #[[governance conversations]] 
+- Project name/link: #[governance conversations](/notes/archive/clarity/Tags/governance%20conversations.md) 
 	- Last week:
 		- @AlexH writing wrap up reflection
 	- This week:
 		- Governance Convos wrap up meeting [https://docs.google.com/document/d/1cpysnkcr8lBLu4dkg_oENsZ-doFXTLuJtpE_gMp6ISI/edit](https://docs.google.com/document/d/1cpysnkcr8lBLu4dkg_oENsZ-doFXTLuJtpE_gMp6ISI/edit) 
 		- Plan for $SPRB allocation for speakers
 	- Blockers:
-- Project name/link: #[[P-193 Community Experience- Revolution 1]] 
+- Project name/link: #[P-193 Community Experience- Revolution 1](P-193%20Community%20Experience-%20Revolution%201) 
 	- Last week: 
 		- "Weekly" Update
 		- Follow up with community about token distribution through DM
@@ -33,7 +33,7 @@ date: 11-07-2022
 		- Catalyst Onboarding - Wed July 13, 13 people
 		- $SPRB token distribution Governance Convos, Contributor Guide, Early Contributors 
 	- Blockers:
-- Project name/link: #[[SUP-257 Proposal SBP8- DAO Primitive Project]]
+- Project name/link: #[SUP-257 Proposal SBP8- DAO Primitive Project](SUP-257%20Proposal%20SBP8-%20DAO%20Primitive%20Project)
 	- Last week 
 		- proposal passed
 		- Research underway
@@ -42,7 +42,7 @@ date: 11-07-2022
 	- This week
 		- Research
 		- Next article 
--  #[[SUP-246 [BOUNTY] Distribute some $SPRB to the Discord community]]
+-  #[SUP-246 [BOUNTY](SUP-246%20[BOUNTY)
 	- Last week
 		- Got contributors' wallet addresses 
 	- This week:

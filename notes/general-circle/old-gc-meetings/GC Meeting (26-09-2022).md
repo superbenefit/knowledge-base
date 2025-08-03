@@ -2,7 +2,7 @@
 tags: meetings
 date: 26-09-2022
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 # Week of September 26, 2022
 ## Attendees
 - @MBaldwin regrets 
@@ -16,7 +16,7 @@ date: 26-09-2022
 	- Last week:
 	- This week:
 	- Blockers:
-- Project name/link #[[proposal sbp11- dao systems transformation repository-library]] 
+- Project name/link #[proposal sbp11- dao systems transformation repository-library](/notes/archive/clarity/Tags/proposal%20sbp11-%20dao%20systems%20transformation%20repository-library.md) 
 	- Last week: 
 		- input from SuperBenefit community on proposal
 	- This week:
@@ -24,11 +24,11 @@ date: 26-09-2022
 		- Proposal on Snapshot for voting 
 	- Blockers:
 		- Considering funding proposal for $50K to pay for the framework creation and research as seems beyond what can ask of contributors without any fiat currency. Thoughts?
-- Project name/link - #[[notes/archive/clarity/Tags/dao primitives]] 
+- Project name/link - #[dao primitives](/notes/archive/clarity/Tags/dao%20primitives.md) 
 	- Last week: Working with rathermecurial on Conflict management in DAOs 
 	- This week: Pushing forward the group collaboration work
 	- Blockers:
-- Project name/link #[[P-193 Community Experience- Revolution 1]] /Information 
+- Project name/link #[P-193 Community Experience- Revolution 1](P-193%20Community%20Experience-%20Revolution%201) /Information 
 	- Last week:
 		- Planning for DAO Governance Case Study with @Bpetes
 Join us Oct 7th 4pm EST in #cafe channel where @Bpetes will walk through a DAO Primitive virtual case study of a hypothetical implementation using banklessDAO. Check out this article for context [https://mirror.xyz/media.sobol.eth/_qfTMgEws2OZOMBxj-Elz7A0lto2gyaHmAFv_gKLYBE](https://mirror.xyz/media.sobol.eth/_qfTMgEws2OZOMBxj-Elz7A0lto2gyaHmAFv_gKLYBE). 
