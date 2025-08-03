@@ -44,11 +44,4 @@ This [transparency](tags/transparency.md) allows for decentralized [coordination
 
 ---
 
-%% Begin Waypoint %%
-- [[cells|Cells (primitive)]]
-- [[daos|DAOs (Primitive)]]
-- [[roles|Roles (Primitive)]]
-- [[tasks|Tasks (Primitive)]]
-
-%% End Waypoint %%
 - *[Cells (Primitive)](artifacts/guides/dao-primitives-framework/group-primitives/cells.md)DAOs (Primitive)) (PRoles (Primitive)s/dao-primitives/dao-primitives-framework/group-primitives/tasks|Tasks (Primitive)]]

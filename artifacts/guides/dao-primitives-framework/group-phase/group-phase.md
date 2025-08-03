@@ -30,6 +30,7 @@ The five group phases are:
 - [Organization Phase](artifacts/guides/dao-primitives-framework/group-phase/organization-phase.md) - Implementation
 - [Coordination Phase](artifacts/guides/dao-primitives-framework/group-phase/coordination-phase.md) - Execution & Evolution
 - [Completion Phase](artifacts/guides/dao-primitives-framework/group-phase/completion-phase.md) - Releasing & Returning
+
   ![Pasted image 20250213104038](attachments/Pasted image 20250213104038.png)
 
 ---

@@ -44,12 +44,4 @@ This [transparency](tags/transparency.md) allows for decentralized [coordination
 
 ---
 
-%% Begin Waypoint %%
-- **[group-primitives](artifacts/guides/dao-primitives-framework/group-primitives/group-primitives.md)**
-  - [cells](artifacts/guides/dao-primitives-framework/group-primitives/cells.md)
-  - [daos](artifacts/guides/dao-primitives-framework/group-primitives/daos.md)
-  - [roles](artifacts/guides/dao-primitives-framework/group-primitives/roles.md)
-  - [tasks](artifacts/guides/dao-primitives-framework/group-primitives/tasks.md)
-
-%% End Waypoint %%
 - *[Cells (Primitive)](artifacts/guides/dao-primitives-framework/group-primitives/cells.md)DAOs (Primitive)) (PRoles (Primitive)s/dao-primitives/dao-primitives-framework/group-primitives/tasks|Tasks (Primitive)]]

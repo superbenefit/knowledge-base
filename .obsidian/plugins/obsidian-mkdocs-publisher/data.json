@@ -2,11 +2,11 @@
   "github": {
     "user": "superbenefit",
     "repo": "knowledge-garden",
-    "branch": "rpp-update",
+    "branch": "plugin-test",
     "automaticallyMergePR": false,
     "dryRun": {
       "enable": false,
-      "folderName": "enveloppe"
+      "folderName": "tools/plugin-notes/enveloppe/test"
     },
     "tokenPath": "%configDir%/plugins/%pluginID%/env",
     "api": {
@@ -19,7 +19,7 @@
     },
     "otherRepo": [],
     "verifiedRepo": true,
-    "rateLimit": 4294
+    "rateLimit": 4996
   },
   "upload": {
     "behavior": "obsidian",
@@ -63,10 +63,10 @@
       "internal": true,
       "unshared": false,
       "wiki": true,
-      "slugify": "disable",
-      "unlink": false,
+      "slugify": "strict",
+      "unlink": true,
       "relativePath": false,
-      "textPrefix": ""
+      "textPrefix": "/"
     }
   },
   "embed": {
@@ -79,7 +79,7 @@
     "charConvert": "->",
     "unHandledObsidianExt": [],
     "sendSimpleLinks": true,
-    "forcePush": true,
+    "forcePush": false,
     "useObsidianFolder": false,
     "bake": {
       "textBefore": "",
@@ -110,5 +110,5 @@
     "setFrontmatterKey": "Set",
     "migrated": true
   },
-  "tabsId": "text-conversion"
+  "tabsId": "plugin-settings"
 }
