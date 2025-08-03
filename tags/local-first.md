@@ -1,7 +1,8 @@
 ---
 title: Local-first
 description: A software development approach that prioritizes user data ownership and local device control while enabling collaboration, creating applications that function fully offline and give users sovereignty over their information
-harvester: heenal
+harvester:
+  - heenal.eth
 tags:
   - technology
   - autonomy
@@ -10,7 +11,7 @@ tags:
 aliases:
   - "#local-first"
   - "#local-first-software"
-publish: "false"
+publish: true
 ---
 
 _Local-first is a software development approach that prioritizes storing and processing user data locally on their devices rather than in centralized cloud servers, while maintaining the ability to collaborate and synchronize across devices when desired. This approach gives users full ownership and control over their data while enabling the collaborative benefits of cloud computing._

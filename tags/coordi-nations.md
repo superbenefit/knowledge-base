@@ -3,7 +3,7 @@ title: Coordi-nations
 description: Network sovereignty through voluntary association and mutual support, creating alternatives to hierarchical organizations
 tags:
   - patterns
-publish: "false"
+publish: true
 type: pattern
 protocols:
 ---

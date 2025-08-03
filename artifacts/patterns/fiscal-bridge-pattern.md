@@ -9,9 +9,9 @@ tags:
   - web3
   - rpp
   - regulatory-compliance
-publish: false
+publish: true
 type: pattern
-protocols: 
+protocols:
 ---
 # Fiscal Bridge Pattern (Canadian Context)
 

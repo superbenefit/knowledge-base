@@ -2,7 +2,7 @@
 title: Cooperative
 description: An autonomous association of persons united voluntarily to meet their common economic, social, and cultural needs through a jointly owned and democratically controlled enterprise
 harvester:
-  - heenal
+  - heenal.eth
 tags:
   - structures
   - governance
@@ -10,7 +10,7 @@ tags:
 aliases:
   - "#cooperative"
   - "#co-op"
-publish: "false"
+publish: true
 ---
 
 _A cooperative is an autonomous association of persons who voluntarily unite to meet their common economic, social, and cultural needs and aspirations through a jointly owned and democratically controlled enterprise, operating according to internationally recognized principles of member ownership, democratic governance, and equitable distribution of benefits._

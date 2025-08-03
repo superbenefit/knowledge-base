@@ -1,8 +1,9 @@
 ---
 title: Distributed
 description: An architectural arrangement where resources, components, or processes are spread across multiple locations or participants, communicating through networks to coordinate collective outcomes
-harvester: heenal
-publish: false
+harvester:
+  - heenal.eth
+publish: true
 type: tag
 aliases:
   - "#distributed"

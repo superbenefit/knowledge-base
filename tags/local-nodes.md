@@ -1,12 +1,11 @@
 ---
 title: Local Nodes
 description: Distributed community anchors that bridge global protocols with local communities
-url: 
+harvester: heenal.eth
 tags:
   - patterns
-publish: "false"
+publish: "true"
 type: pattern
-protocols: 
 ---
 # Local Nodes
 

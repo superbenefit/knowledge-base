@@ -8,7 +8,7 @@ tags:
   - culture
   - harvesting
   - implementation
-publish: "false"
+publish: true
 type: guide
 ---
 

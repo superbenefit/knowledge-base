@@ -1,14 +1,12 @@
 ---
 title: Impact Attestations
 description: A pattern for creating transparent, verifiable documentation of social and environmental impact using blockchain technology
-url: 
+harvester: heenal.eth
 tags:
   - patterns
 publish: true
 type: pattern
-protocols: 
 ---
-# Impact Attestations
 
 _A pattern for creating transparent, verifiable documentation of social and environmental impact using blockchain technology_
 

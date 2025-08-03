@@ -21,7 +21,7 @@ tags:
   - regeneration
   - mutualism
   - peer-to-peer
-publish: false
+publish: true
 type: pattern
 ---
 # Knowledge Gardens Pattern
