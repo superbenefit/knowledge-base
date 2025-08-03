@@ -185,16 +185,3 @@ To deliver the above, ideally a Cell's state will be stored in a digital platfor
 
 
 
-```dataview
-LIST description
-WHERE (
-    (contains(patterns, this.file.name) OR patterns = this.file.name)
-)
-AND (
-    contains(type, "study") OR type = "study"
-)
-AND (
-    !contains(file.path, "tools/")
-    AND !contains(file.path, "drafts/")
-)
-```
