@@ -55,6 +55,29 @@ _Notes and other documents from the Reimagining Power project at SuperBenefit_
       - [Playbook Structural Guidelines & Templates](./rpp-playbooks/reference/Playbook%20Structural%20Guidelines%20&%20Templates.md)
       - [Playbooks - RPP](./rpp-playbooks/reference/Playbooks%20-%20RPP.md)
       - [Reimagining Power Project - Stakeholder Reflection Responses](./rpp-playbooks/reference/Reimagining%20Power%20Project%20-%20Stakeholder%20Reflection%20Responses.md)
+  - **[rpp-stakeholders](./rpp-stakeholders/rpp-stakeholders.md)**
+    - **[meeting-notes](./rpp-stakeholders/meeting-notes/meeting-notes.md)**
+      - [stakeholder-meeting-1-notes](./rpp-stakeholders/meeting-notes/stakeholder-meeting-1-notes.md)
+      - [stakeholder-meeting-5-notes](./rpp-stakeholders/meeting-notes/stakeholder-meeting-5-notes.md)
+      - [stakeholder-meeting-6-notes](./rpp-stakeholders/meeting-notes/stakeholder-meeting-6-notes.md)
+      - [stakeholder-meeting-8-notes](./rpp-stakeholders/meeting-notes/stakeholder-meeting-8-notes.md)
+      - [stakeholder-meeting-10-notes](./rpp-stakeholders/meeting-notes/stakeholder-meeting-10-notes.md)
+      - [stakeholder-meeting-15-notes](./rpp-stakeholders/meeting-notes/stakeholder-meeting-15-notes.md)
+      - [stakeholder-meeting-16-notes](./rpp-stakeholders/meeting-notes/stakeholder-meeting-16-notes.md)
+      - [stakeholder-meeting-17-notes](./rpp-stakeholders/meeting-notes/stakeholder-meeting-17-notes.md)
+      - [stakeholder-meeting-18-notes](./rpp-stakeholders/meeting-notes/stakeholder-meeting-18-notes.md)
+      - [stakeholder-meeting-19-notes](./rpp-stakeholders/meeting-notes/stakeholder-meeting-19-notes.md)
+    - **[poetic-harvests](./rpp-stakeholders/poetic-harvests/poetic-harvests.md)**
+      - [stakeholder-meeting-1](./rpp-stakeholders/poetic-harvests/stakeholder-meeting-1.md)
+      - [stakeholder-meeting-4](./rpp-stakeholders/poetic-harvests/stakeholder-meeting-4.md)
+      - [stakeholder-meeting-5](./rpp-stakeholders/poetic-harvests/stakeholder-meeting-5.md)
+      - [stakeholder-meeting-6](./rpp-stakeholders/poetic-harvests/stakeholder-meeting-6.md)
+      - [stakeholder-meeting-10](./rpp-stakeholders/poetic-harvests/stakeholder-meeting-10.md)
+      - [stakeholder-meeting-11](./rpp-stakeholders/poetic-harvests/stakeholder-meeting-11.md)
+      - [stakeholder-meeting-12](./rpp-stakeholders/poetic-harvests/stakeholder-meeting-12.md)
+      - [stakeholder-meeting-15](./rpp-stakeholders/poetic-harvests/stakeholder-meeting-15.md)
+      - [stakeholder-meeting-18](./rpp-stakeholders/poetic-harvests/stakeholder-meeting-18.md)
+      - [stakeholder-meeting-19](./rpp-stakeholders/poetic-harvests/stakeholder-meeting-19.md)
   - **[rpp-working-docs](./rpp-working-docs/rpp-working-docs.md)**
   - **[working-docs](./working-docs/working-docs.md)**
     - [state](./working-docs/state.md)
