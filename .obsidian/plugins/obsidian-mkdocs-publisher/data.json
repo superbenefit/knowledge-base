@@ -1,90 +1,70 @@
 {
   "github": {
-    "user": "superbenefit",
-    "repo": "knowledge-garden",
-    "branch": "plugin-test",
-    "automaticallyMergePR": false,
-    "dryRun": {
-      "enable": false,
-      "folderName": "tools/plugin-notes/enveloppe/test"
-    },
-    "tokenPath": "%configDir%/plugins/%pluginID%/env",
+    "branch": "v4",
+    "automaticallyMergePR": true,
+    "tokenPath": ".obsidian/plugins/obsidian-mkdocs-publisher/env",
     "api": {
       "tiersForApi": "Github Free/Pro/Team (default)",
       "hostname": ""
     },
     "workflow": {
-      "commitMessage": "[Enveloppe] Update content",
+      "commitMessage": "[PUBLISHER] MERGE",
       "name": ""
     },
-    "otherRepo": [],
     "verifiedRepo": true,
+    "repo": "knowledge-garden",
+    "user": "superbenefit",
+    "otherRepo": [],
     "rateLimit": 4996
   },
   "upload": {
     "behavior": "obsidian",
     "defaultName": "content",
-    "rootFolder": "content",
+    "rootFolder": "",
     "yamlFolderKey": "",
     "frontmatterTitle": {
-      "enable": false,
+      "enable": true,
       "key": "title"
     },
     "replaceTitle": [],
     "replacePath": [],
     "autoclean": {
-      "includeAttachments": true,
-      "enable": true,
+      "enable": false,
       "excluded": []
     },
     "folderNote": {
       "enable": true,
-      "rename": "index.md",
+      "rename": "_index.md",
       "addTitle": {
-        "enable": false,
+        "enable": true,
         "key": "title"
       }
     },
-    "metadataExtractorPath": ""
+    "metadataExtractorPath": "",
+    "subFolder": ""
   },
   "conversion": {
     "hardbreak": false,
     "dataview": true,
     "censorText": [],
     "tags": {
-      "inline": false,
+      "inline": true,
       "exclude": [],
-      "fields": [
-        "functions",
-        "qualities"
-      ]
+      "fields": []
     },
     "links": {
-      "internal": true,
+      "internal": false,
       "unshared": false,
-      "wiki": true,
-      "slugify": "strict",
-      "unlink": true,
-      "relativePath": false,
-      "textPrefix": "/"
+      "wiki": false,
+      "slugify": false
     }
   },
   "embed": {
     "attachments": true,
-    "overrideAttachments": [],
     "keySendFile": [],
     "notes": true,
-    "folder": "attachments",
-    "convertEmbedToLinks": "keep",
-    "charConvert": "->",
-    "unHandledObsidianExt": [],
-    "sendSimpleLinks": true,
-    "forcePush": false,
-    "useObsidianFolder": false,
-    "bake": {
-      "textBefore": "",
-      "textAfter": ""
-    }
+    "folder": "",
+    "useObsidianFolder": true
   },
   "plugin": {
     "shareKey": "publish",
@@ -95,8 +75,8 @@
       "_tools"
     ],
     "copyLink": {
-      "enable": false,
-      "links": "",
+      "enable": true,
+      "links": "https://knowledge.superbenefit.org/",
       "removePart": [],
       "addCmd": false,
       "transform": {
@@ -110,5 +90,5 @@
     "setFrontmatterKey": "Set",
     "migrated": true
   },
-  "tabsId": "plugin-settings"
+  "tabsId": "github-configuration"
 }

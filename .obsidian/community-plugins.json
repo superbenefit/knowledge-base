@@ -16,5 +16,6 @@
   "mcp-tools",
   "smart-vault-visualizer",
   "obsidian-mkdocs-publisher",
-  "obsidian-link-converter"
+  "obsidian-link-converter",
+  "quartz-syncer"
 ]
