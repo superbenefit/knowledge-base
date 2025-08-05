@@ -1,7 +1,7 @@
 ---
 title: Drafts
 description: Draft notes
-publish: "false"
+publish: false
 type: index
 ---
 

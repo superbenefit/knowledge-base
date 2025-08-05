@@ -9,47 +9,7 @@
   "autoCreateForAttachmentFolder": false,
   "autoCreateForFiles": false,
   "enableCollapsing": false,
-  "excludeFolders": [
-    {
-      "type": "folder",
-      "path": "attachments",
-      "subFolders": true,
-      "disableSync": true,
-      "disableAutoCreate": true,
-      "disableFolderNote": false,
-      "enableCollapsing": false,
-      "position": 0,
-      "excludeFromFolderOverview": false,
-      "string": "",
-      "hideInSettings": false
-    },
-    {
-      "type": "folder",
-      "path": "drafts",
-      "subFolders": true,
-      "disableSync": true,
-      "disableAutoCreate": true,
-      "disableFolderNote": false,
-      "enableCollapsing": false,
-      "position": 1,
-      "excludeFromFolderOverview": false,
-      "string": "",
-      "hideInSettings": false
-    },
-    {
-      "type": "folder",
-      "path": "tools",
-      "subFolders": true,
-      "disableSync": true,
-      "disableAutoCreate": true,
-      "disableFolderNote": false,
-      "enableCollapsing": false,
-      "position": 2,
-      "excludeFromFolderOverview": false,
-      "string": "",
-      "hideInSettings": false
-    }
-  ],
+  "excludeFolders": [],
   "whitelistFolders": [],
   "showDeleteConfirmation": true,
   "underlineFolder": false,

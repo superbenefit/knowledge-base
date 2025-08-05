@@ -1,5 +1,0 @@
-file,directory,wikilinks_before,wikilinks_after,markdown_before,markdown_after,total_before,total_after,batch,status,timestamp
-Batch 1 - Articles (13 files),artifacts/articles/,600,0,0,600,600,600,1,COMPLETE,2025-08-02 01:30:00
-Bulk Conversion - All Artifacts (62 files),artifacts/,3751,0,0,3751,3751,3751,ALL,COMPLETE,2025-08-02 02:00:00
-Edge Case Cleanup,artifacts/,0,0,100,100,100,100,CLEANUP,IN_PROGRESS,2025-08-02 02:15:00
-Template Cleanup - Implementation Guides (8 files),artifacts/guides/dao-primitives-framework/,0,0,593,226+,593,367,TEMPLATE,IN_PROGRESS,2025-08-02 03:00:00
