@@ -1,4 +1,4 @@
-#[[P-264 Systems Transformation Project]] 
+#[P-264 Systems Transformation Project](P-264%20Systems%20Transformation%20Project) 
 **Note**: This proposal follows the **Purpose | Design | Momentum** format that we have been experimenting with for the DAO primitive concept. 
 # Purpose: 
 **

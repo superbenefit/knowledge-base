@@ -34,9 +34,9 @@ This directory contains concrete examples of how the Community Exchange works in
 
 ## Relationship to Other Documents
 
-- For detailed activities information, see [F-Activities](../F-Activities/F.00-activities.md)
-- For detailed how-to guides, refer to [E-Guides](../E-Guides/E.00-guides.md)
-- For implementation strategy, see [C.02-implementation_timeline.md](../C-Implementation/C.02-implementation_timeline.md)
+- For detailed activities information, see [F-Activities](notes/ics/ccc/archive/v0.19/F-Activities/F.00-activities.md)
+- For detailed how-to guides, refer to [E-Guides](notes/ics/ccc/archive/v0.19/E-Guides/E.00-guides.md)
+- For implementation strategy, see [C.02-implementation_timeline.md](notes/ics/ccc/archive/v0.19/C-Implementation/C.02-implementation_timeline.md)
 
 ## Using These Examples
 

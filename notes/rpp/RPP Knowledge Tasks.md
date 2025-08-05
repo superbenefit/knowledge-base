@@ -13,9 +13,9 @@ kanban-plugin: board
 - [ ] Create Treasury management Tag Page
 	- [treasury](tags/treasury.md)
 - [ ] Windfall Protocol primitive page
-	- [windfall-protocol](artifacts/primitives/windfall-protocol.md)
+	- windfall-protocol
 - [ ] Create MycoFi pattern
-	- [municipal-mycofi](municipal-mycofi.md)
+	- municipal-mycofi
 
 
 ## Planned
@@ -26,22 +26,22 @@ kanban-plugin: board
 
 - [ ] Create Cell (working group) Pattern ^9tyowr
 	- [cell](artifacts/patterns/cell.md)
-- [ ] Create Circle Primitive [circle](circle.md)
+- [ ] Create Circle Primitive circle
 - [ ] Create Decider Primitive 
 	- [decider-protocol](artifacts/patterns/decider-protocol.md)
 - [ ] Create Nucleus Primitive
 	- [nucleus](notes/dao-primitives/implementation/patterns/collaboration-scale-patterns/nucleus.md)
 - [ ] Create Group State Pattern
-	- [state](notes/rpp/working-docs/state.md)
+	- [state](notes/rpp/rpp-working-docs/state.md)
 
 
 ## Iterating
 
 - [ ] BioFi Pattern
 	
-	- [biofi](biofi.md)
+	- biofi
 - [ ] Privacy Payments Pattern
-	- [privacy-payments](privacy-payments.md)
+	- privacy-payments
 
 
 ## Complete

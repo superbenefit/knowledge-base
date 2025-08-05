@@ -190,6 +190,6 @@ Journeyland runs experiential community gatherings that serve as both a testing 
 ## Related Documents
 
 - [F.02-celebrations-and-reviews.md](notes/ics/ccc/v0.2/F-Activities/F.02-celebrations-and-reviews.md)
-- [G.12-neighbourhood-networks.md](./G.12-neighbourhood-networks.md)
+- [G.12-neighbourhood-networks.md](notes/ics/ccc/archive/v0.2/G-Future/G.12-neighbourhood-networks.md)
 - [C.01-onboarding-process.md](notes/ics/ccc/v0.2/C-Implementation/C.01-onboarding-process.md)
 - [E.07-proposing-community-activities.md](notes/ics/ccc/v0.2/E-Guides/E.07-proposing-community-activities.md)

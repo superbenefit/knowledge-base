@@ -10,7 +10,7 @@ This directory serves as the active workspace for developing knowledge resources
 
 This directory currently focuses on three key areas:
 
-* **DAO Primitives Project (`/primitives/`):** Research into the fundamental building blocks of DAO organization, including core concepts, frameworks for understanding context and application (phase, scale, state), and the relationships between primitives and patterns.  [See the project's README](artifacts/primitives/readme.md) for details.
+* **DAO Primitives Project (`/primitives/`):** Research into the fundamental building blocks of DAO organization, including core concepts, frameworks for understanding context and application (phase, scale, state), and the relationships between primitives and patterns.  See the project's README for details.
 
 ---
 

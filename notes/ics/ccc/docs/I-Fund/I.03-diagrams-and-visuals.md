@@ -21,7 +21,7 @@ This document references and explains the key diagrams illustrating the Impact Y
 
 ## 1. Yield Fund High Level
 
-![[Pasted image 20250507140746 1.png]]
+![Pasted image 20250507140746 1](attachments/Pasted image 20250507140746 1.png)
 
 This diagram illustrates the basic structure of the yield fund:
 
@@ -35,7 +35,7 @@ This high-level view shows the separation between yield generation and yield all
 
 ## 2. SuperBenefit Impact Fund Value Flows (Simplified)
 
-![[Pasted image 20250507141003 1.png]]
+![Pasted image 20250507141003 1](attachments/Pasted image 20250507141003 1.png)
 
 This more detailed diagram shows:
 
@@ -51,7 +51,7 @@ The diagram demonstrates how corporate funders/foundations/endowments provide ca
 
 ## 3. Breadchain Value Flows
 
-![[Pasted image 20250507140859 1.png]]
+![Pasted image 20250507140859 1](attachments/Pasted image 20250507140859 1.png)
 
 This diagram shows a parallel model implemented by Breadchain Co-op:
 
@@ -65,7 +65,7 @@ This model provides inspiration for a cooperative approach to impact fund govern
 
 ## 4. SB Impact Fund Value Flows (Comprehensive)
 
-![[Pasted image 20250507140913 1.png]]
+![Pasted image 20250507140913 1](attachments/Pasted image 20250507140913 1.png)
 
 This comprehensive diagram shows:
 

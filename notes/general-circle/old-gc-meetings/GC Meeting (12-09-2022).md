@@ -2,9 +2,9 @@
 tags: meetings
 date: 12-09-2022
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 # Week of September 12, 2022
-#[[tactical meetings]] 
+#[tactical meetings](/notes/archive/clarity/Tags/tactical%20meetings.md) 
 ## Attendees
 - @AlexH @ayusha01 @heenal @Lewwwk @MBaldwin@Rowan  @MBaldwin 
 
@@ -13,7 +13,7 @@ date: 12-09-2022
 
 
 ## Projects
-- Project name/link: #[[P-193 Community Experience- Revolution 1]] @MBaldwin 
+- Project name/link: #[P-193 Community Experience- Revolution 1](P-193%20Community%20Experience-%20Revolution%201) @MBaldwin 
 	- Last week:
 		- Onboarding InfiniteGwei
 		- Drafted [Proposal SBP 10: DAO Systems Transformation Library](https://app.clarity.so/superbenefit/pages/b7aef38a-926f-4acf-98a0-616a8c1a6d3c)
@@ -29,12 +29,12 @@ date: 12-09-2022
 		- Meeting Karie Crisp & team Karie is really interested in DAOs and how they may be integrated to support Bioregional initiatives, submitted a proposal for $3 million for a case study on Coevolution of Culture and Technology in Bioregional Regeneration - involving the creation of a DAO for the San Francisco Bay Delta bioregion. 
 		- Meeting Nate CCS about workshop about systems transformation and possible elective in next cohort - link to systems transformation library, Heenal interested too
 	- Blockers:
-- Project - #[[SUP-257 Proposal SBP8- DAO Primitive Project]]@Rowan  
+- Project - #[SUP-257 Proposal SBP8- DAO Primitive Project](SUP-257%20Proposal%20SBP8-%20DAO%20Primitive%20Project)@Rowan  
 	- Setting up tooling - goal to easily house new projects  
-- Project - #[[P-236 Krause House Collaboration]]@Lewwwk 
+- Project - #[P-236 Krause House Collaboration](P-236%20Krause%20House%20Collaboration)@Lewwwk 
 	- Purpose and Values team on board - proposal up for review (stewards meeting on Thursday evening)
 	- Proposal to go up to SuperBenefit asap (thx @Rowan  for feedback)
-- Project - #[[P-261 Windfall - Residential Energy NFT]]@Lewwwk 
+- Project - #[P-261 Windfall - Residential Energy NFT](P-261%20Windfall%20-%20Residential%20Energy%20NFT)@Lewwwk 
 	- Still on me for getting the draft done. Personal deadline tomorrow.
 	- Seeing lots more coming up around 'dynamic NFTs' which help to describe how something like this could function  
 

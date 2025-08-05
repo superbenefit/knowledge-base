@@ -2,7 +2,7 @@
 tags: meetings
 date: 17-01-2022
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 # Week of January 17, 2022
 ## Attendees
 @Lewwwk @AlexH @heenal @MBaldwin @Rowan  @Ryan  
@@ -28,7 +28,7 @@ What's your capacity for SB in the coming week?
 - @Ryan  1 day
 
 ## Projects
-#[[74 Crowdfund - "Hello World"]] 
+#[74 Crowdfund - "Hello World"](74%20Crowdfund%20-%20"Hello%20World") 
 - Last week:
 	- Artist engaged
 	- Drafting of post initiated
@@ -37,19 +37,19 @@ What's your capacity for SB in the coming week?
 	- First art drafts
 	- Explore mirror process
 
-#[[45 Launch $SPRB Governance Token]] 
+#[45 Launch $SPRB Governance Token](45%20Launch%20$SPRB%20Governance%20Token) 
 - Last week:
 	- No additional commentary received on allocation parameters
 - This week:
 	- Pause until launch of crowdfund
 	- How to allocate tokens to contributors? Could be a piece of work for the community
 
-#[[106 Theory of change - Map #1]] 
+#[](106%20Theory%20of%20change%20-%20Map%20#1) 
 - Last week: Governance circle feedback integrated into next version of ToC
 - This week: prep and share Miro board to community (with navigation and indication of what next)
 - @AlexH to take the squad lead role in this revolution 
 
-#[[Community Experience Project]] 
+#[Community Experience Project](Community%20Experience%20Project) 
 - Last week:
 	- Onboarded Reflective Practice Coordinator
 	- Town Hall, Welcome Party, Weekly Update, Weekly Tactical Meeting
@@ -59,7 +59,7 @@ What's your capacity for SB in the coming week?
 	- Meeting Future of Good
 	- Develop micro-bounty ideas
 
-#[[68 Set up Information Systems]] 
+#[68 Set up Information Systems](68%20Set%20up%20Information%20Systems) 
 - Last week:
 	- Web3 library
 	- Krause House onboarding
@@ -71,16 +71,16 @@ What's your capacity for SB in the coming week?
 	- Complete Discord channel descriptions
 	- Set up metrics tracking
 
-#[[9 General Circle Lead invites individuals into Squad Lead roles]] 
+#[9 General Circle Lead invites individuals into Squad Lead roles](9%20General%20Circle%20Lead%20invites%20individuals%20into%20Squad%20Lead%20roles) 
 - Last week: 
-	- set up #[[discovery and sense-making squad]] squad
+	- set up #[discovery and sense-making squad](/notes/archive/clarity/Tags/discovery%20and%20sense-making%20squad.md) squad
 - This week:
 	- to finalize new squad addition (investment squad)
 
 ## Triage Items
 What tensions do you have that need resolution to move forward in your work?
 - I didn't have enough context to comment of the $SPRB token feedback (Rowan)
-	- @Rowan  would it be help to setup a call on this specifcally or is there some more context you could use in #[[$sprb]]
+	- @Rowan  would it be help to setup a call on this specifcally or is there some more context you could use in #[$sprb](/notes/archive/clarity/Tags/$sprb.md)
 	- I too felt that I don't know enough about other structures and felt that important to the transparency but trusted that you were holding values of SB
 	- ✅ SUP-115 SPRB Design Conversation
 - Discord video performance is often very bad. Can we fix it with boosts or should we switch to Zoom (at least for the welcome parties)? - boosted to next level, so will re-visit next week 

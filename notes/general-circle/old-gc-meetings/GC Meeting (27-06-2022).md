@@ -2,9 +2,9 @@
 tags: meetings
 date: 27-06-2022
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 # Week of June 27, 2022
-#[[tactical meetings]] Template
+#[tactical meetings](/notes/archive/clarity/Tags/tactical%20meetings.md) Template
 ## Attendees
 - Ayusha, Heenal, Michael
 
@@ -39,12 +39,12 @@ date: 27-06-2022
 		- Governance Chat - @MBaldwin won't be there this week
 - SB Governance (Heenal)
 	- Last week:
-		- Drafted #[[governance concept v2.1]] and received feedback
+		- Drafted #[governance concept v2.1](/notes/archive/clarity/Tags/governance%20concept%20v2.1.md) and received feedback
 		- Fist-to-five vote passed
 	- This week:
 		- Can we consider this to be officially adopted now? Is a Snapshot vote necessary?
 		- ⬜️ SUP-258 We can post this and the contributor guide and be open to feedback and review again at the end of Rev 1 
-- #[[SUP-246 [BOUNTY] Distribute some $SPRB to the Discord community]](Heenal)
+- #[SUP-246 [BOUNTY](SUP-246%20[BOUNTY)(Heenal)
 	- Last week:
 		- Created [spreadsheet with proposed $SPRB distribution](https://docs.google.com/spreadsheets/d/1woeSHgViAYAxzIqYUQIz9cdPBR4J8vro5EGfM4OY1yU/edit#gid=0) for Rev 0 Discord supporters (thanks, Ash!) to be distributed from 100k Rev 1 pot.
 	- This week:
@@ -64,7 +64,7 @@ date: 27-06-2022
 		- This could be a good bounty to post
 
 ## Triage
-- Can we consider #[[governance concept v2.1]] to be officially adopted now? Is a Snapshot vote necessary?
+- Can we consider #[governance concept v2.1](/notes/archive/clarity/Tags/governance%20concept%20v2.1.md) to be officially adopted now? Is a Snapshot vote necessary?
 	- No vote needed at this stage
 - Twitter recordings - need verification code from Michael (Heenal)
 	- Got the code :)

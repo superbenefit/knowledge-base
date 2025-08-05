@@ -229,7 +229,7 @@ true/false          (boolean)
 "text"              (text)
 date(2021-04-18)    (date)
 dur(1 day)          (duration)
-[[Link]]            (link)
+[[link]]            (link)
 [1, 2, 3]           (list)
 { a: 1, b: 2 }      (object)
 ```
@@ -401,4 +401,3 @@ dur(1s 2m 3h)
 ---
 
 *This reference documentation aims to be comprehensive but may be updated as Dataview evolves. Always refer to the [official Dataview documentation](https://blacksmithgu.github.io/obsidian-dataview/) for the latest information.*
-

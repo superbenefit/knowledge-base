@@ -2,7 +2,7 @@
 tags: meetings
 date: 29-05-2023
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 ## Attendees
 - @Lewwwk @Rowan  @MBaldwin @heenal 
 
@@ -18,7 +18,7 @@ date: 29-05-2023
 		- Possibility of helping imagination foundation 
 	- This week: 
 	- Blockers: 
-- #[[P-264 Systems Transformation Project]]
+- #[P-264 Systems Transformation Project](P-264%20Systems%20Transformation%20Project)
 	- Michelle met with Liz Gillies -  (Menzies Foundation). Possible future partner. Connected to Shaping Innovation Futures with Griffith University. Meeting again in July
 	- Criterion institute is writing a paper on Web3 with Menzies Foundation
 	- Liz will ask Mark Cabaj and explore McConnell foundation as a partner

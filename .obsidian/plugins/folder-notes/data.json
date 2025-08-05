@@ -3,50 +3,13 @@
   "ctrlKey": true,
   "altKey": false,
   "hideFolderNote": true,
-  "templatePath": "templates/folder-note.md",
-  "autoCreate": true,
+  "templatePath": "tools/templates/index.md",
+  "autoCreate": false,
+  "autoCreateFocusFiles": true,
+  "autoCreateForAttachmentFolder": false,
+  "autoCreateForFiles": false,
   "enableCollapsing": false,
-  "excludeFolders": [
-    {
-      "type": "folder",
-      "path": "attachments",
-      "subFolders": true,
-      "disableSync": true,
-      "disableAutoCreate": true,
-      "disableFolderNote": false,
-      "enableCollapsing": false,
-      "position": 0,
-      "excludeFromFolderOverview": false,
-      "string": "",
-      "hideInSettings": false
-    },
-    {
-      "type": "folder",
-      "path": "drafts",
-      "subFolders": true,
-      "disableSync": true,
-      "disableAutoCreate": true,
-      "disableFolderNote": false,
-      "enableCollapsing": false,
-      "position": 1,
-      "excludeFromFolderOverview": false,
-      "string": "",
-      "hideInSettings": false
-    },
-    {
-      "type": "folder",
-      "path": "tools",
-      "subFolders": true,
-      "disableSync": true,
-      "disableAutoCreate": true,
-      "disableFolderNote": false,
-      "enableCollapsing": false,
-      "position": 2,
-      "excludeFromFolderOverview": false,
-      "string": "",
-      "hideInSettings": false
-    }
-  ],
+  "excludeFolders": [],
   "whitelistFolders": [],
   "showDeleteConfirmation": true,
   "underlineFolder": false,
@@ -54,6 +17,8 @@
   "underlineFolderInPath": false,
   "openFolderNoteOnClickInPath": true,
   "openInNewTab": false,
+  "focusExistingTab": false,
+  "oldFolderNoteName": "{{folder_name}}",
   "folderNoteName": "{{folder_name}}",
   "folderNoteType": ".md",
   "disableFolderHighlighting": false,
@@ -79,7 +44,14 @@
     "onlyIncludeSubfolders": false,
     "storeFolderCondition": true,
     "showFolderNotes": false,
-    "disableCollapseIcon": true
+    "disableCollapseIcon": true,
+    "alwaysCollapse": false,
+    "autoSync": true,
+    "allowDragAndDrop": true,
+    "hideLinkList": true,
+    "hideFolderOverview": false,
+    "useActualLinks": false,
+    "fmtpIntegration": false
   },
   "useSubmenus": true,
   "syncMove": true,
@@ -88,7 +60,7 @@
     "explorer": true,
     "path": true
   },
-  "settingsTab": "exclude_folders",
+  "settingsTab": "general",
   "supportedFileTypes": [
     "md"
   ],
@@ -127,7 +99,18 @@
     "hideInSettings": false
   },
   "hideCollapsingIcon": false,
+  "hideCollapsingIconForEmptyFolders": false,
   "tabManagerEnabled": true,
   "ignoreAttachmentFolder": true,
-  "deleteFilesAction": "trash"
+  "deleteFilesAction": "trash",
+  "openSidebar": {
+    "mobile": false,
+    "desktop": true
+  },
+  "highlightFolder": true,
+  "persistentSettingsTab": {
+    "afterRestart": true,
+    "afterChangingTab": true
+  },
+  "firstTimeInsertOverview": true
 }

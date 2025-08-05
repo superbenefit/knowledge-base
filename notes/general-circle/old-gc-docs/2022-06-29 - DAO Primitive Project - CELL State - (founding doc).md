@@ -1,4 +1,4 @@
-#[[drafts/sb-clarity/Tags/nucleus]] #[[notes/archive/clarity/Tags/dao primitives]] 
+#[drafts/sb-clarity/Tags/nucleus](drafts/sb-clarity/Tags/nucleus) #[dao primitives](/notes/archive/clarity/Tags/dao%20primitives.md) 
 
 
 ## Purpose & Insight

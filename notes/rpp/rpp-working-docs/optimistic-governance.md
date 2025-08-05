@@ -18,7 +18,7 @@ _A governance framework where proposals are approved by default unless a specifi
 
 ## Context
 
-This pattern is best applied in organizations where there is a clear separation between an empowered operational team and a higher-level stewardship or security body. It is ideal for organizations that want to move away from slow, bureaucratic, top-down decision-making and enable small, autonomous teams ([[notes/archive/clarity/Tags/cells]]) to act quickly. It thrives in environments with a high degree of trust and is perfectly suited for managing frequent, routine, or time-sensitive operational decisions that don't require the full consensus of the entire organization.
+This pattern is best applied in organizations where there is a clear separation between an empowered operational team and a higher-level stewardship or security body. It is ideal for organizations that want to move away from slow, bureaucratic, top-down decision-making and enable small, autonomous teams ([cells](notes/archive/clarity/Tags/cells.md)) to act quickly. It thrives in environments with a high degree of trust and is perfectly suited for managing frequent, routine, or time-sensitive operational decisions that don't require the full consensus of the entire organization.
 
 ---
 
@@ -69,5 +69,5 @@ The effectiveness of Optimistic Governance hinges on a few critical design choic
 ## References
 
 - **[Multi-Stakeholder Governance](artifacts/guides/dao-primitives-framework/dao-primitives-implemention/implementation-guide-multi-stakeholder-governance.md):** This implementation guide provides a real-world use case for Optimistic Governance as the core interface between funders and operational teams.
-- **[Council Governance](council-governance.md):** A council is often the perfect entity to serve as the "veto body" in an optimistic system, as it's an elected, trusted group able to act decisively.
-- **[[on-chain-vs.-off-chain-governance]]:** Optimistic Governance is a powerful pattern that bridges the off-chain and on-chain worlds. It allows the speed of off-chain decision-making while retaining the security of an on-chain veto mechanism.
+- **Council Governance:** A council is often the perfect entity to serve as the "veto body" in an optimistic system, as it's an elected, trusted group able to act decisively.
+- **[on-chain-vs.-off-chain-governance](notes/rpp/rpp-working-docs/on-chain-vs.-off-chain-governance.md):** Optimistic Governance is a powerful pattern that bridges the off-chain and on-chain worlds. It allows the speed of off-chain decision-making while retaining the security of an on-chain veto mechanism.

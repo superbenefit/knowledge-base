@@ -14,12 +14,6 @@ _Notes and other documents related to experiments with Women Win in the Reimagin
 
 ## Contents
 
-%% Begin Landmark %%
-- **[[women-win]]**
-  - [[Meeting with Women Win & Equality Fund (copy)]]
-  - [[Meeting with Women Win]]
-  - [[Women Win Experiment Discussion]]
 
-%% End Landmark %%
 
 ---

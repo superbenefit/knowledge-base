@@ -21,11 +21,11 @@ Some basic tools for the Reimagining Power project have been set up for contribu
 - ### Documents
 	- **Tag Pages** are used to compile tasks and documents related to particular learning journeys and focus areas. These can be used to record learnings, describe projects or concepts, and help fellow contributors discover relevant information.
 		- Tags can be added to any document or task by typing `#`, pressing `Ctrl/Cmd + U`, or using the / key to add a "Tag" block using the context menu. Learn more [here](https://app.clarity.so/wiki/tags/e1bdb0ed-065b-458d-a666-ba1672e2fcdb).
-		- The main project tag is [[notes/archive/clarity/Tags/reimagining power]]. Also included are:
-			- [[reimagine institute]]
-			- [[equality fund]]
-			- [[all in for sport]]
-			- [[ontario trillium foundation]]
+		- The main project tag is [reimagining power](notes/archive/clarity/Tags/reimagining%20power.md). Also included are:
+			- [reimagine institute](notes/archive/clarity/Tags/reimagine%20institute.md)
+			- [equality fund](notes/archive/clarity/Tags/equality%20fund.md)
+			- [all in for sport](notes/archive/clarity/Tags/all%20in%20for%20sport.md)
+			- [ontario trillium foundation](notes/archive/clarity/Tags/ontario%20trillium%20foundation.md)
 	- Group-wide document storage is available for notes and other docs related to the project. These docs are only visible to group members, and are best suited to note taking, reference materials and other miscellaneous information.
 		- [**Group-wide Docs**](https://app.clarity.so/superbenefit/group/POW/docs)
 

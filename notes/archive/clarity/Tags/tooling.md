@@ -33,12 +33,12 @@
 ### Roadmap & Project Structure
 - All Projects are part of the **Roadmap** (see link in sidebar)
 - SuperBenefit's work is organized into Revolutions (equivalent to Seasons in other DAOs):
-	- #[[revolution 0- foundations]] 
-	- #[[revolution 1- genesis]] 
+	- #[revolution 0- foundations](/notes/archive/clarity/Tags/revolution%200-%20foundations.md) 
+	- #[revolution 1- genesis](/notes/archive/clarity/Tags/revolution%201-%20genesis.md) 
 - **Initiatives** in Clarity correspond to the Interventions outlined in SuperBenefit's [first Mirror post](https://mirror.xyz/superbenefit.eth/8Icbwygio4EJfEvh8we9Xz4IcZxzWfjyzmlMGXlxxjc):
-	- #[[Intervention 1- Mapping pathways to the future]] 
-	- #[[Intervention 2- Building Capacity and Interdependence Through Governance]] 
-	- #[[Intervention 3- Creating a Soul-Bound Portal to a Better Future]] 
+	- #[Intervention 1- Mapping pathways to the future](Intervention%201-%20Mapping%20pathways%20to%20the%20future) 
+	- #[Intervention 2- Building Capacity and Interdependence Through Governance](Intervention%202-%20Building%20Capacity%20and%20Interdependence%20Through%20Governance) 
+	- #[Intervention 3- Creating a Soul-Bound Portal to a Better Future](Intervention%203-%20Creating%20a%20Soul-Bound%20Portal%20to%20a%20Better%20Future) 
 	- #[[Intervention 4- A Metacurrency for Metagovernance, Values and Acceleration
 ]]
 	- #[[Intervention 5- A Commitment to Bridging Old Into Better

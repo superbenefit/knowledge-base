@@ -1,10 +1,10 @@
-The #[[notes/archive/clarity/Tags/reimagining power]] project is a collaboration between #[[superbenefit]], #[[reimagine institute]], #[[equality fund]], #[[all in for sport]] and the #[[ontario trillium foundation]] to explore how web3 can shift power, transform systems and shape better futures.
+The #[reimagining power](/notes/archive/clarity/Tags/reimagining%20power.md) project is a collaboration between #[superbenefit](/notes/archive/clarity/Tags/superbenefit.md), #[reimagine institute](/notes/archive/clarity/Tags/reimagine%20institute.md), #[equality fund](/notes/archive/clarity/Tags/equality%20fund.md), #[all in for sport](/notes/archive/clarity/Tags/all%20in%20for%20sport.md) and the #[ontario trillium foundation](/notes/archive/clarity/Tags/ontario%20trillium%20foundation.md) to explore how web3 can shift power, transform systems and shape better futures.
 
 This project is organized by the **[Reimagining Power Group](https://app.clarity.so/superbenefit/group/POW)**.
 # Project Purpose
 - To explore how web3 can shift power, transform systems and shape better futures. In particular, how the concept of DAOs as purpose driven networks of small autonomous teams can redistribute power, value flows and resources across society at scale. 
 - ## Key Stakeholders
-	- #[[superbenefit]], #[[ontario trillium foundation]], #[[reimagine institute]], #[[equality fund]], #[[all in for sport]] 
+	- #[superbenefit](/notes/archive/clarity/Tags/superbenefit.md), #[ontario trillium foundation](/notes/archive/clarity/Tags/ontario%20trillium%20foundation.md), #[reimagine institute](/notes/archive/clarity/Tags/reimagine%20institute.md), #[equality fund](/notes/archive/clarity/Tags/equality%20fund.md), #[all in for sport](/notes/archive/clarity/Tags/all%20in%20for%20sport.md) 
 - ## Current Goals
 	- Create a playbook to answer questions specific to needs of Stakeholders:
 		- What does web3 uniquely enable to shift power and transform systems?
@@ -15,11 +15,11 @@ This project is organized by the **[Reimagining Power Group](https://app.clarity
 
 # Learning Journeys
 - The learnings we gain from this work will be recorded here to inform the DAO and its community.
-- [[equality fund]]  
-[[reimagine institute]]  
-[[ontario trillium foundation]]  
-[[all in for sport]]  
-[[participatory grantmaking]]
+- [equality fund](/notes/archive/clarity/Tags/equality%20fund.md)  
+[reimagine institute](/notes/archive/clarity/Tags/reimagine%20institute.md)  
+[ontario trillium foundation](/notes/archive/clarity/Tags/ontario%20trillium%20foundation.md)  
+[all in for sport](/notes/archive/clarity/Tags/all%20in%20for%20sport.md)  
+[participatory grantmaking](/notes/archive/clarity/Tags/participatory%20grantmaking.md)
 
 # Stories & Conversations
 - 
@@ -32,4 +32,4 @@ This project is organized by the **[Reimagining Power Group](https://app.clarity
 
 **This page should be used to describe the Reimagining Power project. Important details can be displayed here to help readers understand and navigate the project workspace.**
 **
-Adding the #[[notes/archive/clarity/Tags/reimagining power]] tag to any document, task or project will add it to the **Mentions** section below. You can use mentions to find pages related to the project.
+Adding the #[reimagining power](/notes/archive/clarity/Tags/reimagining%20power.md) tag to any document, task or project will add it to the **Mentions** section below. You can use mentions to find pages related to the project.

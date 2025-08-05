@@ -2,7 +2,7 @@
 tags:
   - meetings
 date: 12-09-2023
-source: "[[2022-04-19 - Weekly Meeting Notes - DAO Primitives]]"
+source: "[2022-04-19 - Weekly Meeting Notes - DAO Primitives](notes/dao-primitives/primitives-archive/primitives-docs/2022-04-19%20-%20Weekly%20Meeting%20Notes%20-%20DAO%20Primitives.md)"
 ---
 
 # DAO Primitives Meeting - **9/12/23**
@@ -12,7 +12,7 @@ source: "[[2022-04-19 - Weekly Meeting Notes - DAO Primitives]]"
 	- **Regrets:** 
 - ## **Updates** 
 	- 
-	- (rather) Added #[[notes/archive/clarity/Tags/dao primitives]] tag and re-tagged all linked pages
+	- (rather) Added #[dao primitives](notes/archive/clarity/Tags/dao%20primitives.md) tag and re-tagged all linked pages
 	- (rather) Cleaned up tasks and flattened Patterns/Modules Hierarchy
 
 		- ⬜️ P-290 Patterns & Modules - DAO Primitives
@@ -36,7 +36,7 @@ This leaves teams free to use grouping behavior to self-select and can form cell
 - ## Action Items
 	- [x]  @Ananth to redeploy the AIFS hats tree
 	- [x] @rathermercurial will draft Hats tree for obligatory DAO model
-	- [x] @rathermercurial to outline DSL for problem space in #[[DAO Primitives Framework]] 
+	- [x] @rathermercurial to outline DSL for problem space in #[DAO Primitives Framework](DAO%20Primitives%20Framework) 
 	- [x] @Rowan  Add a summary of the RPP doc to the top of the doc and share the draft with the team before the meeting
 
 >Notes from meetings held prior to this point were recorded in the All In For Sport Clarity base and have been copied here for convenience.

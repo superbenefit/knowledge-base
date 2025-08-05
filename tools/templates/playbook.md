@@ -108,9 +108,9 @@ This section often helps orient readers to available implementation resources ra
 ### Available Implementation Guides
 
 %% You could link to specific implementation guides that support this playbook:
-- [[Link to Implementation Guide A]] - for [specific context]
-- [[Link to Implementation Guide B]] - for [specific context]
-- [[Link to Implementation Guide C]] - for [specific context]
+- [Link to Implementation Guide A](Link%20to%20Implementation%20Guide%20A) - for [specific context]
+- [Link to Implementation Guide B](Link%20to%20Implementation%20Guide%20B) - for [specific context]
+- [Link to Implementation Guide C](Link%20to%20Implementation%20Guide%20C) - for [specific context]
 %%
 
 ### Sustaining & Evolving

@@ -2,7 +2,7 @@
 tags: meetings
 date: 12-06-2023
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 ## Attendees
 - @Lewwwk @Rowan  @heenal @MBaldwin 
 
@@ -16,7 +16,7 @@ date: 12-06-2023
 		- Writing up AIFS documentation - showing how we got to this stage so that others can reproduce the work
 	- This week: 
 		- Bankers Without Boundaries application going in
-- #[[P-264 Systems Transformation Project]]
+- #[P-264 Systems Transformation Project](P-264%20Systems%20Transformation%20Project)
 	- Last week:
 		- Setting up meeting to discuss OTF project
 		- Contributor tracking [https://app.clarity.so/superbenefit/docs/fa52b66f-0d5c-44a1-abae-9940bc13e9d5](https://app.clarity.so/superbenefit/docs/fa52b66f-0d5c-44a1-abae-9940bc13e9d5) 

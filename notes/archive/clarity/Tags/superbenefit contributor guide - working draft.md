@@ -1,6 +1,6 @@
 # The Purpose of this Guide 
 - The Purpose of this Guide is to support the mission and work of SuperBenefit and to enable the mission to move faster.
-- The Contributor Guide will provide clarity to the SuperBenefit community about the opportunities available to take up existing bounties that interest them or to make proposals they think are aligned with the #[[ethos]] and #[[interventions]].
+- The Contributor Guide will provide clarity to the SuperBenefit community about the opportunities available to take up existing bounties that interest them or to make proposals they think are aligned with the #[ethos](/notes/archive/clarity/Tags/ethos.md) and #[interventions](/notes/archive/clarity/Tags/interventions.md).
 - Broadening the range of contributors to SuperBenefit will allow for the distribution of $SPRB to more individuals in an open and transparent fashion, and will make SuperBenefit more resilient and diverse.
 - This guide will outline the systems of organization that characterize SuperBenefit, helping you to understand how and where your impact will be greatest. 
 
@@ -112,7 +112,7 @@
 	- ### **[Coordinape](https://app.coordinape.com/circles/1655/history)**
 		- Coordinape is used, as needed, to allocate tokens for a project and/or based on a peer-to-peer review process
 - ## Governance
-	- ### **[Snapshot](https://snapshot.org/#/superbenefit.eth ) **
+	- ### **[Snapshot](https://snapshot.org/#/superbenefit.eth-) **
 		- Snapshot is the voting framework that allows SuperBenefit and other DAOs to run our governance on-chain on layer 2 and execute transactions on Ethereum in a fully trustless way.
 
 # Workflows - WHO? - leave out for now

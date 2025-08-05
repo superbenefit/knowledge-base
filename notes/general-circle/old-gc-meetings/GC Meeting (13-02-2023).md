@@ -2,7 +2,7 @@
 tags: meetings
 date: 13-02-2023
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 ## Attendees
 - @AlexH @Lewwwk @MBaldwin Itamar
 
@@ -11,7 +11,7 @@ date: 13-02-2023
 - lots of weather talk and UFOs
 
 ## Updates
-- #[[P-264 Systems Transformation Project]] 
+- #[P-264 Systems Transformation Project](P-264%20Systems%20Transformation%20Project) 
 - Last week: 
 	- Draft Systems Transformation Framework outline for feedback [https://docs.google.com/document/d/1d_zpiPIXggk5_7EUHBuVn4fDuhMFIBygDCamFCecNPk/edit#heading=h.882a6lgp86n1](https://docs.google.com/document/d/1d_zpiPIXggk5_7EUHBuVn4fDuhMFIBygDCamFCecNPk/edit#heading=h.882a6lgp86n1) 
 	- Draft web3 and philanthropy Salon concept for feedback [https://docs.google.com/document/d/1s-Ro04GMFSKd_gq6RDCDm_7xATPUhyDxretQ1CSm2EI/edit#](https://docs.google.com/document/d/1s-Ro04GMFSKd_gq6RDCDm_7xATPUhyDxretQ1CSm2EI/edit#) 
@@ -24,7 +24,7 @@ date: 13-02-2023
 	- AIFS Amplification Package [https://docs.google.com/document/d/1oMvyD7qxv43nChzHa-9qUAI9vAGCwFP_354mHIFfZa0/edit?usp=share_link](https://docs.google.com/document/d/1oMvyD7qxv43nChzHa-9qUAI9vAGCwFP_354mHIFfZa0/edit?usp=share_link) 
 	- 
 - Blockers:
-- #[[P-193 Community Experience- Revolution 1]]
+- #[P-193 Community Experience- Revolution 1](P-193%20Community%20Experience-%20Revolution%201)
 - Last week:
 	- Meeting Kate Sutton with @Rowan  about her next steps and engagement with web3 and philanthropy
 	- Meeting Mike Janzen and connected to @Lewwwk for meeting

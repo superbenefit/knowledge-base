@@ -64,7 +64,7 @@ The governance structures of mutual credit systems often mirror cooperative demo
 
 - **[Complementary Currencies](tags/complementary-currencies.md)**: Mutual credit systems represent a specific type of complementary currency focused on reciprocal exchange
 - **[Mutualism](tags/mutualism.md)**: Mutual credit operationalizes mutualist principles of reciprocity and voluntary cooperation in exchange systems
-- **[Cooperative](tags/cooperative.md)**: Mutual credit systems often employ cooperative governance structures and democratic decision-making
+- **Cooperative**: Mutual credit systems often employ cooperative governance structures and democratic decision-making
 - **[Solidarity](tags/solidarity.md)**: Mutual credit embodies economic solidarity through systems based on mutual support and shared accountability
 - **[Mutual Aid](tags/mutual-aid.md)**: Mutual credit can formalize and expand mutual aid networks through trackable exchange systems
 - **[Decentralization](tags/decentralization.md)**: Mutual credit distributes monetary creation and exchange governance across communities rather than centralizing control

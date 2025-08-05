@@ -99,5 +99,5 @@ Reimagine Co, a plant-based meal service, demonstrates how businesses can create
 
 - [B.03-how-it-works.md](notes/ics/ccc/v0.2/B-Overview/B.03-how-it-works.md)
 - [C.05-risks-and-mitigation.md](notes/ics/ccc/v0.2/C-Implementation/C.05-risks-and-mitigation.md)
-- [G.04-cash-integration-pathways.md](./G.04-cash-integration-pathways.md)
+- [G.04-cash-integration-pathways.md](notes/ics/ccc/archive/v0.2/G-Future/G.04-cash-integration-pathways.md)
 - [E.02-requesting-from-pool.md](notes/ics/ccc/v0.2/E-Guides/E.02-requesting-from-pool.md)

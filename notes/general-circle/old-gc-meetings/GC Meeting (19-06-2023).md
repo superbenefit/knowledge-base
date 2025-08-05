@@ -2,7 +2,7 @@
 tags: meetings
 date: 19-06-2023
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 ## Attendees
 - @Lewwwk @Rowan  @heenal @MBaldwin 
 
@@ -13,7 +13,7 @@ date: 19-06-2023
 - Bummer update - Windfall funding proposal didn't succeed 
 - Governance
 	- How do we spin up a cell that has other stakeholders able to influence SB and can also set its own purpose and priorities - idea of a stakeholder module that does the job of community governance. If the cell becomes its own DAO, the stakeholder module gets spun out into community governance
-- #[[P-264 Systems Transformation Project]] 
+- #[P-264 Systems Transformation Project](P-264%20Systems%20Transformation%20Project) 
 	- Last week: 
 		- follow up with OTF about next steps - July 13 review by full team
 		- follow up allocation - Susie?
@@ -24,7 +24,7 @@ date: 19-06-2023
 			- met with Lana Dingwall from Blue3DAO and Green Pill Ottawa Chapter about the hackathon and SuperBenefit 
 	- This week: 
 		- promote equality fund session
-- #[[P-193 Community Experience- Revolution 1]]
+- #[P-193 Community Experience- Revolution 1](P-193%20Community%20Experience-%20Revolution%201)
 	-   token allocation for governance project revolution 0 - 10K total - 7k Rowan, 2K Heenal, 1K MBaldwin
 
 ## Triage/Discussion 

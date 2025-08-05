@@ -15,20 +15,20 @@ publish: "true"
 
 ---
 
-The Coordination Phase represents the mature [group-phase](artifacts/guides/dao-primitives-framework/group-phase/group-phase.md) where [[tags/groups|groups]] transition from establishing their structures and processes in the [organization phase](artifacts/guides/dao-primitives-framework/group-phase/organization-phase.md) to focused execution on their [[tags/purpose|purpose]] and goals. In this phase, a group leverages its fully implemented operational capabilities and [[tags/governance|governance]] systems to deliver maximum value and impact. The emphasis shifts from internal development to effective delivery, with [[tags/coordination|coordination]] becoming a key mechanism for accessing necessary [[tags/resources|resources]], capabilities, and support from the broader [[tags/networks|network]] or ecosystem.
+The Coordination Phase represents the mature [group-phase](artifacts/guides/dao-primitives-framework/group-phase/group-phase.md) where [groups](tags/groups.md) transition from establishing their structures and processes in the [organization phase](artifacts/guides/dao-primitives-framework/group-phase/organization-phase.md) to focused execution on their [purpose](tags/purpose.md) and goals. In this phase, a group leverages its fully implemented operational capabilities and [governance](tags/governance.md) systems to deliver maximum value and impact. The emphasis shifts from internal development to effective delivery, with [coordination](tags/coordination.md) becoming a key mechanism for accessing necessary [resources](tags/resources.md), capabilities, and support from the broader [network](tags/networks.md) or ecosystem.
 
-The coordination phase is where a group, as an autonomous (or semi-autonomous) entity, both leverages and contributes to the power and collective intelligence of the decentralized [[tags/networks|network]] it inhabits (or in the case of a DAO, is creating).
+The coordination phase is where a group, as an autonomous (or semi-autonomous) entity, both leverages and contributes to the power and collective intelligence of the decentralized [network](tags/networks.md) it inhabits (or in the case of a DAO, is creating).
 
-When the Coordination phase is complete, a group may either evolve into a [[tags/governance|governance]] or operational structure or enter a [completion phase](artifacts/guides/dao-primitives-framework/group-phase/completion-phase.md) as its [[tags/purpose|purpose]] is fulfilled.
+When the Coordination phase is complete, a group may either evolve into a [governance](tags/governance.md) or operational structure or enter a [completion phase](artifacts/guides/dao-primitives-framework/group-phase/completion-phase.md) as its [purpose](tags/purpose.md) is fulfilled.
 
 ## Key Characteristics
 
-- **Purpose-Driven Execution:** The group's activities are tightly aligned with its core [[tags/purpose|purpose]], with clear prioritization of high-impact initiatives that advance its goals.
-- **[[tags/resources|Resource]] Sharing:** The group optimizes the use of its internal [[tags/resources|resources]] while accessing and/or contributing resources externally through [[tags/networks|network]] relationships.
-- **Decentralized [[tags/coordination|Coordination]]:** The group fully implements the onchain tooling and [[tags/practices|practices]] that allow its [[tags/governance|governance]] and operational structure to leverage decentralization in effective ways.
+- **Purpose-Driven Execution:** The group's activities are tightly aligned with its core [purpose](tags/purpose.md), with clear prioritization of high-impact initiatives that advance its goals.
+- **[Resource](tags/resources.md) Sharing:** The group optimizes the use of its internal [resources](tags/resources.md) while accessing and/or contributing resources externally through [network](tags/networks.md) relationships.
+- **Decentralized [Coordination](tags/coordination.md):** The group fully implements the onchain tooling and [practices](tags/practices.md) that allow its [governance](tags/governance.md) and operational structure to leverage decentralization in effective ways.
 - **Operational Excellence:** Internal systems and processes function smoothly, allowing focus to shift from setup and maintenance to optimization and results.
-- **Evolution:** The group evolves its [[tags/governance|governance]] and operational structure and [[tags/practices|practices]] over time in response to its evolving context.
-- **Measurable Impact:** The group consistently delivers and documents concrete outcomes that advance its [[tags/purpose|purpose]] and provide value to the broader [[tags/networks|network]].
+- **Evolution:** The group evolves its [governance](tags/governance.md) and operational structure and [practices](tags/practices.md) over time in response to its evolving context.
+- **Measurable Impact:** The group consistently delivers and documents concrete outcomes that advance its [purpose](tags/purpose.md) and provide value to the broader [network](tags/networks.md).
 
 ## Functional Elements
 
@@ -36,28 +36,28 @@ When the Coordination phase is complete, a group may either evolve into a [[tags
 
 The activities of a Coordination phase group are outlined in their [group state](artifacts/guides/dao-primitives-framework/group-state.md) documentation. Broadly these include:
 
-- **Internal [[tags/governance|Governance]]:** Execution of the group's ongoing governance structure and [[tags/practices|practices]]. Including keeping group state documentation up to date and accessible to participants in the [[tags/networks|network]].
-- **Network [[tags/governance|Governance]]:** Participating in external decentralized governance processes within coordinating [[tags/networks|networks]].
+- **Internal [Governance](tags/governance.md):** Execution of the group's ongoing governance structure and [practices](tags/practices.md). Including keeping group state documentation up to date and accessible to participants in the [network](tags/networks.md).
+- **Network [Governance](tags/governance.md):** Participating in external decentralized governance processes within coordinating [networks](tags/networks.md).
 - **Strategic Execution:** Implementing the group's strategy through coordinated action that delivers on key objectives and milestones.
-- **Operational [[tags/coordination|Coordination]]:** Strategic planning, [[tags/resources|resource]] allocation, contributor and partner coordination, etc.
-- **External Partnerships:** Establishing and executing on partnerships with other autonomous entities in the decentralized [[tags/networks|network]] or other stakeholders from outside the network.
+- **Operational [Coordination](tags/coordination.md):** Strategic planning, [resource](tags/resources.md) allocation, contributor and partner coordination, etc.
+- **External Partnerships:** Establishing and executing on partnerships with other autonomous entities in the decentralized [network](tags/networks.md) or other stakeholders from outside the network.
 - **Impact Measurement:** Tracking and communicating the outcomes and value created by the group's activities.
-- **Feedback Integration:** Systematically gathering and responding to feedback from users, stakeholders, and [[tags/networks|network]] participants.
-- **Knowledge Sharing:** Documenting and sharing learnings, tools, and approaches that could benefit others in the [[tags/networks|network]]. Including consistently updating and sharing its [group state](artifacts/guides/dao-primitives-framework/group-state.md) documentation.
+- **Feedback Integration:** Systematically gathering and responding to feedback from users, stakeholders, and [network](tags/networks.md) participants.
+- **Knowledge Sharing:** Documenting and sharing learnings, tools, and approaches that could benefit others in the [network](tags/networks.md). Including consistently updating and sharing its [group state](artifacts/guides/dao-primitives-framework/group-state.md) documentation.
 
 ### Navigating Challenges
 
-- **Maintaining Momentum:** Sustaining energy and [[tags/progress|progress]] toward goals despite obstacles and competing priorities.
+- **Maintaining Momentum:** Sustaining energy and [progress](tags/progress.md) toward goals despite obstacles and competing priorities.
 - **Balancing Flexibility and Focus:** Adapting to changing circumstances without losing sight of core objectives and priorities.
-- **Principled Evolution:** Ensuring that as the group evolves, it grows in principled ways, avoiding centralization, governance capture, bureaucratic bloat, etc. Leveraging decentralized tooling and [[tags/practices|practices]] to ensure [[tags/governance|governance]] and operations stay true to design.
-- **Maintaining Alignment with Coordinating Entities:** Ensuring that new opportunities and partnerships remain aligned with the group's fundamental [[tags/purpose|purpose]] and with the purpose of the [[tags/networks|network]] that the group is participating in.
-- **Consistently Communicating [[tags/progress|Progress]]:** Ensuring that the [[tags/networks|network]] that the group is coordinating with can see and understand the progress it is making and trust that it is a good [[tags/coordination|coordination]] partner.
+- **Principled Evolution:** Ensuring that as the group evolves, it grows in principled ways, avoiding centralization, governance capture, bureaucratic bloat, etc. Leveraging decentralized tooling and [practices](tags/practices.md) to ensure [governance](tags/governance.md) and operations stay true to design.
+- **Maintaining Alignment with Coordinating Entities:** Ensuring that new opportunities and partnerships remain aligned with the group's fundamental [purpose](tags/purpose.md) and with the purpose of the [network](tags/networks.md) that the group is participating in.
+- **Consistently Communicating [Progress](tags/progress.md):** Ensuring that the [network](tags/networks.md) that the group is coordinating with can see and understand the progress it is making and trust that it is a good [coordination](tags/coordination.md) partner.
 
 ### Signs of Readiness for Evolution
 
 A coordination phase group may be ready to evolve to a new form or enter completion when:
 
-- The group's [[tags/purpose|purpose]] has been substantially fulfilled or has evolved significantly
+- The group's [purpose](tags/purpose.md) has been substantially fulfilled or has evolved significantly
 - The operational context has changed in ways that require fundamental restructuring
 - New capabilities or approaches have emerged that would better serve the purpose
 - The group's work has been effectively systematized or automated
@@ -69,65 +69,58 @@ A coordination phase group may be ready to evolve to a new form or enter complet
 
 ### State Documentation
 
-During the Coordination Phase, the group's [group state](artifacts/guides/dao-primitives-framework/group-state.md) documentation is the critical interface between the group and the [[tags/networks|network]] it inhabits. It contains the [[tags/agreements|agreements]] between the group and other coordinating entities, as well as references to web3 tooling and onchain information that allows for effective decentralized [[tags/coordination|coordination]] between the group and its network.
+During the Coordination Phase, the group's [group state](artifacts/guides/dao-primitives-framework/group-state.md) documentation is the critical interface between the group and the [network](tags/networks.md) it inhabits. It contains the [agreements](tags/agreements.md) between the group and other coordinating entities, as well as references to web3 tooling and onchain information that allows for effective decentralized [coordination](tags/coordination.md) between the group and its network.
 
-At coordination phase, if a group fails to maintain their state documentation, or to communicate it clearly and transparently, this should be a red flag for any entity or [[tags/networks|network]] coordinating with the group.
+At coordination phase, if a group fails to maintain their state documentation, or to communicate it clearly and transparently, this should be a red flag for any entity or [network](tags/networks.md) coordinating with the group.
 
-**[[tags/purpose|Purpose]] Elements:**
+**[Purpose](tags/purpose.md) Elements:**
 
 - Evolution of the group's strategy and goals in line with its purpose
-- Evolution of its relationship with/to other entities in its [[tags/networks|network]] and the network itself
+- Evolution of its relationship with/to other entities in its [network](tags/networks.md) and the network itself
 
-**[[tags/practices|Practice]] Elements:**
+**[Practice](tags/practices.md) Elements:**
 
-- Updated [[tags/governance|governance]] practices that evolve as the group grows and changes
-- Maintaining [[tags/agreements|agreements]] and internal and external [[tags/coordination|coordination]] processes
+- Updated [governance](tags/governance.md) practices that evolve as the group grows and changes
+- Maintaining [agreements](tags/agreements.md) and internal and external [coordination](tags/coordination.md) processes
 - Evolving contributor engagement and coordination mechanisms
-- Maintaining [[tags/treasury|treasury]] and [[tags/resources|resource]] allocation practices
+- Maintaining [treasury](tags/treasury.md) and [resource](tags/resources.md) allocation practices
 - Ongoing retrospectives and feedback processes and ongoing governance and operational evolution
-- Records of major group [[tags/decisions|decisions]] and transactions
+- Records of major group [decisions](tags/decisions.md) and transactions
 
-**[[tags/progress|Progress]] Elements:**
+**[Progress](tags/progress.md) Elements:**
 
 - Implementation of onchain tools where practical
 - Collaborative project management tools tracking group activities and deliverables
 - Communication platforms - meetings, group channels, broadcast channels
 - Shared workspaces, documentation, and data platforms
 - Documentation of learnings and group evolution
-- Impact metrics that track progress toward key objectives - clear articulation of how activities connect to broader [[tags/networks|network]] goals
+- Impact metrics that track progress toward key objectives - clear articulation of how activities connect to broader [network](tags/networks.md) goals
 
 ### Technical Implementation
 
-Coordination Phase groups typically employ various technical tools to support execution and [[tags/coordination|coordination]]. At this phase these should, where practical, be onchain tools. This promotes the decentralized properties that are designed into the group's [[tags/governance|governance]]. Using onchain tools is especially important for:
+Coordination Phase groups typically employ various technical tools to support execution and [coordination](tags/coordination.md). At this phase these should, where practical, be onchain tools. This promotes the decentralized properties that are designed into the group's [governance](tags/governance.md). Using onchain tools is especially important for:
 
-- Governing the group's [[tags/treasury|treasury]] and allocation of [[tags/resources|resources]].
-- Managing changes in the overall [[tags/governance|governance]] structure of the group, i.e., who has [[tags/decisions|decision-making]] authorities.
-- Information for external stakeholders. [[tags/coordination|Coordination]] partners need to have trust in the group's processes at a glance.
+- Governing the group's [treasury](tags/treasury.md) and allocation of [resources](tags/resources.md).
+- Managing changes in the overall [governance](tags/governance.md) structure of the group, i.e., who has [decision-making](tags/decisions.md) authorities.
+- Information for external stakeholders. [Coordination](tags/coordination.md) partners need to have trust in the group's processes at a glance.
 
-There is always a balance to be struck between the flexibility of a lightweight minimal organizational structure, and the need for solid tools, [[tags/practices|practices]], processes, and policies to support a group to function successfully. At coordination phase, the group should have its structure fully implemented with technical tooling, in line with what it needs to deliver on its stated [[tags/governance|governance]] and operational design.
+There is always a balance to be struck between the flexibility of a lightweight minimal organizational structure, and the need for solid tools, [practices](tags/practices.md), processes, and policies to support a group to function successfully. At coordination phase, the group should have its structure fully implemented with technical tooling, in line with what it needs to deliver on its stated [governance](tags/governance.md) and operational design.
 
 ## Success Indicators
 
 A coordination phase has been successful when:
 
-- **[[tags/purpose|Purpose]] Advancement:** The group consistently delivers outcomes that meaningfully advance its purpose
-- **[[tags/resources|Resource]] Effectiveness:** Available resources are deployed efficiently to create maximum impact
-- **[[tags/networks|Network]] Support:** The group maintains ongoing support from the networks that it inhabits
+- **[Purpose](tags/purpose.md) Advancement:** The group consistently delivers outcomes that meaningfully advance its purpose
+- **[Resource](tags/resources.md) Effectiveness:** Available resources are deployed efficiently to create maximum impact
+- **[Network](tags/networks.md) Support:** The group maintains ongoing support from the networks that it inhabits
 - **Contributor Engagement:** The group successfully attracts and retains contributors with aligned skills and interests to deliver on its strategy
-- **Clear [[tags/governance|Governance]]:** The group executes on its governance practices in an effective and [[tags/transparency|transparent]] way
-- **Operational Fluidity:** The group's ability to create and manage operations via tools like [[tags/roles|roles]] and [[tags/tasks|tasks]] can scale coherently to meet the operational needs of the group
+- **Clear [Governance](tags/governance.md):** The group executes on its governance practices in an effective and [transparent](tags/transparency.md) way
+- **Operational Fluidity:** The group's ability to create and manage operations via tools like [roles](tags/roles.md) and [tasks](tags/tasks.md) can scale coherently to meet the operational needs of the group
 - **Adaptive Capacity:** The group effectively executes on retrospectives and other feedback processes, and translates insights generated through these processes into changes in the governance and operational structure of the group
 - **Documented Impact:** Clear evidence demonstrates the value and outcomes created by the group's activities
 
-The coordination phase represents the period when a group's full potential is realized through effective execution on its [[tags/purpose|purpose]]. To do this, it effectively coordinates with the decentralized [[tags/networks|networks]] it inhabits.
+The coordination phase represents the period when a group's full potential is realized through effective execution on its [purpose](tags/purpose.md). To do this, it effectively coordinates with the decentralized [networks](tags/networks.md) it inhabits.
 
-When successful, the group creates tangible value for itself and for the broader [[tags/networks|networks]] while building a foundation for sustainable impact and evolution.
-
-
-
-
-
-
-
+When successful, the group creates tangible value for itself and for the broader [networks](tags/networks.md) while building a foundation for sustainable impact and evolution.
 
 

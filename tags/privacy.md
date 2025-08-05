@@ -41,7 +41,7 @@ For social impact initiatives, privacy is often a critical requirement rather th
 - **Equity**: Preventing exploitation of vulnerable populations
 - **Trust**: Creating safe spaces for authentic participation
 
-The [Privacy-Preserving Crypto Payments](privacy-payments.md) pattern exemplifies how privacy technologies can support humanitarian work in challenging environments, enabling resource distribution while protecting participant identities.
+The Privacy-Preserving Crypto Payments pattern exemplifies how privacy technologies can support humanitarian work in challenging environments, enabling resource distribution while protecting participant identities.
 
 ### Privacy as Collective Responsibility
 
@@ -61,7 +61,7 @@ Privacy intersects with numerous other concepts in the lexicon:
 - **[Autonomy](tags/autonomy.md)**: Privacy enables genuine self-determination and agency
 - **[Decentralization](tags/decentralization.md)**: Distributing data and control reduces centralized surveillance
 - **[Consent](tags/consent.md)**: Privacy requires meaningful permission for data usage
-- **[Trust](tags/trust.md)**: Privacy protections foster confidence in systems and communities
-- **[Security](tags/security.md)**: Privacy and security are complementary but distinct requirements
+- **Trust**: Privacy protections foster confidence in systems and communities
+- **Security**: Privacy and security are complementary but distinct requirements
 
 Understanding these relationships helps create more holistic approaches to privacy in system design and governance.

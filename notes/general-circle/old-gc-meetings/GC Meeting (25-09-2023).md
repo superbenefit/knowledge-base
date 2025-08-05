@@ -2,7 +2,7 @@
 tags: meetings
 date: 25-09-2023
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 ## 25/9/23
 ### Attendees
 - @Rowan  @heenal @MBaldwin @Lewwwk @rathermercurial 
@@ -10,8 +10,8 @@ date: 25-09-2023
 ### Updates
 - Menzies Foundation
 	- [Proposal sent to Liz Gillies](https://docs.google.com/document/d/1s0o6b46FQsQFEtXHAH_uBg8aJXqexIdPUOzY1l_cNXc/edit#heading=h.r0oytpmule8j)
-- #[[POW-275 Project Planning - Reimagining Power]] 
-	- Reviewing and refining #[[Partnership Governance - Reimagining Power]]doc
+- #[POW-275 Project Planning - Reimagining Power](POW-275%20Project%20Planning%20-%20Reimagining%20Power) 
+	- Reviewing and refining #[Partnership Governance - Reimagining Power](Partnership%20Governance%20-%20Reimagining%20Power)doc
 	-  Discussing/Presenting governance to IPRF tomorrow 
 	- [Notes from Sept 21](https://app.clarity.so/superbenefit/docs/422ea92a-404f-41ca-84cd-727d2faf359d)
 
@@ -24,12 +24,12 @@ date: 25-09-2023
 
 			- Decided to have a task to design a task management and compensation framework for the RPP ([https://app.clarity.so/superbenefit/work/POW-292](https://app.clarity.so/superbenefit/work/POW-292))
 			- Will request DAO Primitives cell handle the above in cooperation with Reimagining Power
-- #[[P-261 Windfall - Residential Energy NFT]]
+- #[P-261 Windfall - Residential Energy NFT](P-261%20Windfall%20-%20Residential%20Energy%20NFT)
 	- This is moving forwards quickly 
-- #[[P-287 Re-Storying Power Project]] 
+- #[P-287 Re-Storying Power Project](P-287%20Re-Storying%20Power%20Project) 
 	- Starting by putting together a piece on how we got from SB to systems transformation to RPP
 	- Sites of Power session - Oct 10th at 4pm ET - event link [https://discord.com/events/874697948838101092/1154114891129552896](https://discord.com/events/874697948838101092/1154114891129552896) 
-- DAO Primitives to steward #[[G-294 Internal Coordination Functions]] for SB 
+- DAO Primitives to steward #[G-294 Internal Coordination Functions](G-294%20Internal%20Coordination%20Functions) for SB 
 
 ### Discussion topics
 - Review discord and remove unneeded channels (rowan)

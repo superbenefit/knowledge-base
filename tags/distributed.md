@@ -71,7 +71,7 @@ Distributed social coordination often involves creating frameworks that enable a
 - **[Networks](tags/networks.md)**: Distributed systems typically organize as networks that enable coordination between geographically or organizationally separated components
 - **[Coordination](tags/coordination.md)**: Distributed systems require coordination mechanisms to maintain coherence and shared purpose across independent components
 - **[Autonomy](tags/autonomy.md)**: Distributed architectures often preserve autonomy for individual participants while enabling collective action
-- **[Cooperative](tags/cooperative.md)**: Cooperatives often implement distributed ownership and benefit-sharing across members
+- **Cooperative**: Cooperatives often implement distributed ownership and benefit-sharing across members
 - **[Governance](tags/governance.md)**: Distributed governance spreads decision-making authority and implementation capacity across multiple participants
 
 ## References and Resources
@@ -87,6 +87,6 @@ Distributed social coordination often involves creating frameworks that enable a
 - [Distributed and decentralized systems explained | LinkedIn](https://www.linkedin.com/pulse/distributed-decentralized-systems-explained-sameh-farouk) - Clear explanations with control plane and data plane analogies
 
 **SuperBenefit Context:**
-- [[tags/decentralization]] - Related concept focusing on power and authority distribution
-- [[tags/cooperative]] - Examples of distributed ownership and benefit-sharing models
-- [[notes/solidarity-draft]] - Discussion of distributed coordination in Web3 systems
+- [decentralization](tags/decentralization.md) - Related concept focusing on power and authority distribution
+- tags/cooperative - Examples of distributed ownership and benefit-sharing models
+- notes/solidarity-draft - Discussion of distributed coordination in Web3 systems

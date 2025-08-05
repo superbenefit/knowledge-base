@@ -37,42 +37,42 @@ What's your capacity for SB in the coming week?
 - Jai - 2 hrs
 
 ## Projects
-#[[149 Tidy up CXI Resources on Clarity]]- @heenal  
+#[149 Tidy up CXI Resources on Clarity](149%20Tidy%20up%20CXI%20Resources%20on%20Clarity)- @heenal  
 - Last week: clarity access for Daniel and Jai / all CXI meetings now tagged CXI Tactical Meetings 
 	- Action: follow up on fuller access for Daniel and Jai
 - This week: organize welcome party and town hall resources
 
-#[[121 Develop & Publish CXI Bounties]] - @heenal 
-- Last week: shared bounty with Daniel #[[153 [BOUNTY] Develop a Pluriverse Reflection Guide]] 
+#[121 Develop & Publish CXI Bounties](121%20Develop%20&%20Publish%20CXI%20Bounties) - @heenal 
+- Last week: shared bounty with Daniel #[153 [BOUNTY](153%20[BOUNTY) 
 - This week: publish at least 3 more bounties
 	- Weekly Update
 	- Getting Started
 	- Other
 - Blockers: lack of computer
 
-#[[77 Build Community Relationships *]] - @MBaldwin 
+#[77 Build Community Relationships *](77%20Build%20Community%20Relationships%20*) - @MBaldwin 
 - Last week: following up with new Discord members
 	- continued with 1:1 meetings - Victor Beausoleil, Jayne Engle, Tanya Chung-Tiam-Fook
 - This week: Will link to launch plan
 - Blockers: Scope of the launch, resolved at GC meeting tonight
 
-Develop Communications for #[[74 Crowdfund - "Hello World"]]- @heenal / @MBaldwin  
+Develop Communications for #[74 Crowdfund - "Hello World"](74%20Crowdfund%20-%20"Hello%20World")- @heenal / @MBaldwin  
 - Last week:
 	- Developed [ideas for launch plan](https://app.clarity.so/superbenefit/notes/123bc9c8-b6de-4c76-9821-0789e823e417)
 	- Tasks were established for this Squad:
-		- #[[Publish "how to setup a wallet" content ]] 
-		- #[[159 Publish a specific ask ("Time to get involved, your help is needed to share the news of our public launch") ]]
-		- #[[160 Publish communication strategy, key dates, and link to copy deck and-or post content directly ]] 
+		- #[Publish "how to setup a wallet" content ](Publish%20"how%20to%20setup%20a%20wallet"%20content%20) 
+		- #[159 Publish a specific ask ("Time to get involved, your help is needed to share the news of our public launch") ](159%20Publish%20a%20specific%20ask%20("Time%20to%20get%20involved,%20your%20help%20is%20needed%20to%20share%20the%20news%20of%20our%20public%20launch")%20)
+		- #[160 Publish communication strategy, key dates, and link to copy deck and-or post content directly ](160%20Publish%20communication%20strategy,%20key%20dates,%20and%20link%20to%20copy%20deck%20and-or%20post%20content%20directly%20) 
 - This week: 
 - Blocker: 
 
-#[[157 Add mini community survey to Discord welcome message]] - @MBaldwin 
+#[157 Add mini community survey to Discord welcome message](157%20Add%20mini%20community%20survey%20to%20Discord%20welcome%20message) - @MBaldwin 
 - Last week:
 	- Mini community survey - MB to do survey questions, Heenal will look at set up, need to keep it short, may engage Ryan if required - review CCS, DAO Social Club as examples 
 	- Data analytical art piece of the group - Daniel experience this for DAO for entrepreneurial, NFT is sent as part of it - creates an inclusive nature - Action: Daniel to send info
 - This week: Action: MB to write up survey and Heenal to do set up, need this before launch
 
-#[[153 [BOUNTY] Develop a Pluriverse Reflection Guide]] - @Daniel 
+#[153 [BOUNTY](153%20[BOUNTY) - @Daniel 
 - Last week: first draft completed
 - This week: 2-4 hrs required this week 
 	- Pluriverse shifted the launch date to Wed Jan 10 due to situation with ENS staff member's hate posts
@@ -93,10 +93,10 @@ What tensions do you have that need resolution to move forward in your work?
 	- Heenal follow up to confirm
 	- We have PST time and EST time zones 
 - Need to agree details, timeline and responsibilities for the following tasks:
-	- #[[Publish "how to setup a wallet" content ]] 
+	- #[Publish "how to setup a wallet" content ](Publish%20"how%20to%20setup%20a%20wallet"%20content%20) 
 	- Daniel may have some suggestions, send him some parameters
-	- #[[159 Publish a specific ask ("Time to get involved, your help is needed to share the news of our public launch") ]]
-	- #[[160 Publish communication strategy, key dates, and link to copy deck and-or post content directly ]] 
+	- #[159 Publish a specific ask ("Time to get involved, your help is needed to share the news of our public launch") ](159%20Publish%20a%20specific%20ask%20("Time%20to%20get%20involved,%20your%20help%20is%20needed%20to%20share%20the%20news%20of%20our%20public%20launch")%20)
+	- #[160 Publish communication strategy, key dates, and link to copy deck and-or post content directly ](160%20Publish%20communication%20strategy,%20key%20dates,%20and%20link%20to%20copy%20deck%20and-or%20post%20content%20directly%20) 
 - what else do we need to do to get ready for the launch?
 - Action: Townhall for launch with SB community and use Welcome Party for a set up your wallet 
 - Governance mini-review questions from @remarkk 

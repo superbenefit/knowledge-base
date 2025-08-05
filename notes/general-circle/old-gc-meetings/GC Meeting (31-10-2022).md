@@ -2,7 +2,7 @@
 tags: meetings
 date: 31-10-2022
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 ## Attendees
 - @MBaldwin @heenal 
 
@@ -15,7 +15,7 @@ date: 31-10-2022
 	- This week:
 	- Blockers:
 
-Project name/link #[[P-193 Community Experience- Revolution 1]] 
+Project name/link #[P-193 Community Experience- Revolution 1](P-193%20Community%20Experience-%20Revolution%201) 
 - Last week:
 	- Firmed up @sy_zygy_ for Future of Good Dismantling Barriers Summit Nov 29 today, booked meeting to chat thru systems transformation lens for plenary panel
 	- Contributing to CCS DAO UnSemester, delayed so shifted workshop sessions for 4 part series - web3 for better futures: transforming systems, sectors and institutions - [https://docs.google.com/document/d/1hQhwKALt0JmvWlIpCZJrkzaLbpIfRKYn9r4mDmYr59A/edit#](https://docs.google.com/document/d/1hQhwKALt0JmvWlIpCZJrkzaLbpIfRKYn9r4mDmYr59A/edit#)  - if delayed further will just move forward with series. Confirmed Taryn Lucas as harvester/capture notes for series - exploring Forefront partnership
@@ -25,7 +25,7 @@ Project name/link #[[P-193 Community Experience- Revolution 1]]
 	- Reach out to speaker for equity session on Dec 6 - @cult_en 
 - Blockers:
 
-Project name/link #[[P-264 Systems Transformation Project]] 
+Project name/link #[P-264 Systems Transformation Project](P-264%20Systems%20Transformation%20Project) 
 - Last week:
 	- Prep before weekly meet up with @AlexH about framework 
 	- Weekly meet up and started with what makes you intrigued about this project, frame out purpose, DAO cell outline [https://app.clarity.so/superbenefit/notes/30f4e383-8a3c-4364-89e3-26682ca3051f](https://app.clarity.so/superbenefit/notes/30f4e383-8a3c-4364-89e3-26682ca3051f)  
@@ -36,27 +36,27 @@ Project name/link #[[P-264 Systems Transformation Project]]
 - Blockers:
 	- What is task management in DAO cell outline? (@heenal to @Rowan  ) - what is visibilities of task, do you have PM in place 
 
-#[[P-196 Information Squad- Revolution 1]] @heenal 
+#[P-196 Information Squad- Revolution 1](P-196%20Information%20Squad-%20Revolution%201) @heenal 
 - Last week:
 	- Updated copy on Discord onboarding flow
-	- Weekly #[[P-264 Systems Transformation Project]] meeting 
-	- Set up #[[CCS Workshop]] sub-project during weekly meeting
+	- Weekly #[P-264 Systems Transformation Project](P-264%20Systems%20Transformation%20Project) meeting 
+	- Set up #[CCS Workshop](CCS%20Workshop) sub-project during weekly meeting
 - This week:
 	- Update superbenefit.org website
-	- #[[P-264 Systems Transformation Project]]
-		- #[[SUP-268 Create a new Figjam board ]] 
-		- Draft Tooling section of #[[drafts/sb-clarity/Tags/nucleus]]
+	- #[P-264 Systems Transformation Project](P-264%20Systems%20Transformation%20Project)
+		- #[SUP-268 Create a new Figjam board ](SUP-268%20Create%20a%20new%20Figjam%20board%20) 
+		- Draft Tooling section of #[drafts/sb-clarity/Tags/nucleus](drafts/sb-clarity/Tags/nucleus)
 
-Project name/link - #[[notes/archive/clarity/Tags/dao primitives]] 
+Project name/link - #[dao primitives](/notes/archive/clarity/Tags/dao%20primitives.md) 
 - Last week: 
 	- Proposals in for AIFS
 	- Governance design for AIFS
 
-#[[P-236 Krause House Collaboration]] 
+#[P-236 Krause House Collaboration](P-236%20Krause%20House%20Collaboration) 
 - Alex begins the facilitation this week (6 sessions over the rest of this year and early next)
 	- Good core group
 
-#[[P-263 All In For Sport - Collaboration]]
+#[P-263 All In For Sport - Collaboration](P-263%20All%20In%20For%20Sport%20-%20Collaboration)
 - Last week
 	- Nouns model notionally agreed
 - This week

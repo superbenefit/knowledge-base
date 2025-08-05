@@ -21,6 +21,6 @@
 - ⬜️ GR-309 Partnership Governance - Reimagining Power
 
 # Notes
-- [ ] Tag key terms in #[[Partnership Governance - Reimagining Power]] and copy definitions to tag pages
-- [ ] Writeup #[[stakeholder governance]] overview according to Michelle's suggestions
-- [ ] RP Meeting - Recap weekend conversation and provide #[[stakeholder governance]] doc
+- [ ] Tag key terms in #[Partnership Governance - Reimagining Power](Partnership%20Governance%20-%20Reimagining%20Power) and copy definitions to tag pages
+- [ ] Writeup #[stakeholder governance](/notes/archive/clarity/Tags/stakeholder%20governance.md) overview according to Michelle's suggestions
+- [ ] RP Meeting - Recap weekend conversation and provide #[stakeholder governance](/notes/archive/clarity/Tags/stakeholder%20governance.md) doc

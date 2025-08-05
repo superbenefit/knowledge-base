@@ -5,7 +5,7 @@ tags: tasks
 **Please visit [Charmverse](https://app.charmverse.io/superbenefit/task-board-reimagining-power-18270894134568505) for current tasks and other documents.
 # Notes:
 - ## Meeting 9/21/23:
-- Where we landed as a plan is for #[[Stakeholder Engagement - Reimagining Power]]:
+- Where we landed as a plan is for #[Stakeholder Engagement - Reimagining Power](Stakeholder%20Engagement%20-%20Reimagining%20Power):
 
 
 	1. Michelle to reach out to all the potential stakeholders (OTF, EF, RI, AIFS and SB). And invite them to become part of the Stakeholder Group for the project. Share with them a brief outline of what being in the Stakeholder Group would look like (plus share the outline that **@rathermercurial** is working on and the updated stakeholder model doc once **@Rowan** and **@heenal** have reworked it).

@@ -4,8 +4,8 @@
 #ImpactDAO #Governance #FeministValues #DistributedFunding
 
 ## Related Pages
-- [[/artifacts/experiments/experiments.md|Experiments]]
-- [[/experiments/case-studies.md|Case Studies]]
+- Experiments
+- Case Studies
 
 ## Overview
 The Equality Fund is exploring innovative governance models for feminist funding that embody their values of distributed power and collective decision-making.
@@ -17,10 +17,10 @@ The Equality Fund is exploring innovative governance models for feminist funding
 - Ensuring diverse voices are heard and valued
 
 ## SuperBenefit Patterns Applied
-- [[/tags/participatory-governance|Participatory Governance]] for inclusive decision-making
+- [Participatory Governance](tags/participatory-governance.md) for inclusive decision-making
 - DisCo pattern for distributed cooperative structures
-- [[/tags/local-nodes|Local Nodes]] for regional representation
-- [[/tags/impact-attestations|Impact Attestations]] for tracking social outcomes
+- [Local Nodes](tags/local-nodes.md) for regional representation
+- [Impact Attestations](tags/impact-attestations.md) for tracking social outcomes
 
 ## Outcomes & Learnings
 - Successfully designed a multi-stakeholder governance model

@@ -1,10 +1,10 @@
-#[[governance conversations]] #[[223 Proposal 4- Initiate the Governance Conversations project (Rev 1)]] 
+#[governance conversations](/notes/archive/clarity/Tags/governance%20conversations.md) #[223 Proposal 4- Initiate the Governance Conversations project (Rev 1)](223%20Proposal%204-%20Initiate%20the%20Governance%20Conversations%20project%20(Rev%201)) 
 
 
 # Governance Conversations Project - 12 April 2022
 
 
-#[[223 Proposal 4- Initiate the Governance Conversations project (Rev 1)]] 
+#[223 Proposal 4- Initiate the Governance Conversations project (Rev 1)](223%20Proposal%204-%20Initiate%20the%20Governance%20Conversations%20project%20(Rev%201)) 
 See also:[](https://miro.com/app/board/uXjVODY0_-c=/)
 - [web3 governance research project Miro board](https://miro.com/app/board/uXjVODY0_-c=/)
 - [Governance Conversations notes](https://app.clarity.so/superbenefit/notes/4fd0bfcc-aed9-4c72-8c30-df8101220a05)

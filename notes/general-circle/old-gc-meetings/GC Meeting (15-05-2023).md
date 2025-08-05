@@ -2,7 +2,7 @@
 tags: meetings
 date: 15-05-2023
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 ## Attendees
 - @Lewwwk @Rowan  @MBaldwin 
 
@@ -10,7 +10,7 @@ date: 15-05-2023
 - 
 
 ## Updates
-- Project - #[[P-236 Krause House Collaboration]] 
+- Project - #[P-236 Krause House Collaboration](P-236%20Krause%20House%20Collaboration) 
 	- Last week: 
 		- Transformation mapping - Blog post drafted from Alex and will use that for SB and then Commodore KH will do more rallying. Will be a session hosted in KH about this to socialize it. Should be shareable for internal for showing the work we do soon. Public could be shortly after. Work to demonstrate on how to use it and test how people can pick it up and do something with it. Illustration is a facilitation tool in itself.- purpose piece is so important and where innovation is. Will help to tell SB story. 
 		- Consulting - turning upside down - what is reflection opportunity - documentation step for the cell primitive/governance related to AIFS will be a big piece with this KH transformation mapping. This will be the infrastructure and tooling 
@@ -18,7 +18,7 @@ date: 15-05-2023
 	- 
 	- Blockers:
 		- N/A
-- Project - #[[P-264 Systems Transformation Project]] 
+- Project - #[P-264 Systems Transformation Project](P-264%20Systems%20Transformation%20Project) 
 	- Last week: 
 	- Meeting booked with OTF May 24 about AIFS and Equality Fund
 		- **Key Questions:**
@@ -29,7 +29,7 @@ date: 15-05-2023
 		- Briefing concept note for OTF meeting
 	- Blockers:
 
-Project - #[[notes/archive/clarity/Tags/dao primitives]] 
+Project - #[dao primitives](/notes/archive/clarity/Tags/dao%20primitives.md) 
 - Last week: 
 	- Possible Alternative visual design for DAO primitive cell added to figma [https://www.figma.com/file/G77aOdrUeg6494UrGHs47C/AIFS-Governance-Design?type=whiteboard](https://www.figma.com/file/G77aOdrUeg6494UrGHs47C/AIFS-Governance-Design?type=whiteboard)  -
 - This week:

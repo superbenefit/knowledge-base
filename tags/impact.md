@@ -63,7 +63,7 @@ In this context, impact is closely tied to principles of:
 - **[Attestations](tags/attestations.md)**: Verified digital statements that provide cryptographic proof of impact claims
 - **[Resources](tags/resources.md)**: Assets deployed toward creating impact, including financial and non-financial capital
 - **[Governance](tags/governance.md)**: Systems for making decisions about resource allocation and impact priorities
-- **[Evaluation](tags/evaluation.md)**: Processes for assessing the effectiveness and outcomes of interventions
+- **Evaluation**: Processes for assessing the effectiveness and outcomes of interventions
 - **[Transformation](tags/transformation.md)**: Fundamental shifts in systems and structures to address root causes
 - **[Sustainability](tags/sustainability.md)**: The capacity for interventions to maintain positive outcomes over time
 - **[Grants](tags/grants.md)**: Financial awards directed toward impact-focused initiatives

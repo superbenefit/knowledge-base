@@ -2,9 +2,9 @@
 tags: meetings
 date: 25-04-2022
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 # Week of April 25, 2022
-#[[tactical meetings]] Template
+#[tactical meetings](/notes/archive/clarity/Tags/tactical%20meetings.md) Template
 
 ## Attendees
 @heenal @MBaldwin @Lewwwk @Rowan  
@@ -16,17 +16,17 @@ date: 25-04-2022
 - Explanation of this meeting format
 
 ## Projects
-- Project name/link #[[222 Proposal for Governance Research Project (Rev1)]](Rowan)
+- Project name/link #[222 Proposal for Governance Research Project (Rev1)](222%20Proposal%20for%20Governance%20Research%20Project%20(Rev1))(Rowan)
 	- Last week: 
 		- Setting up project gnosis safe - we now have funding to get things done
 		- Post ready to go. Any thoughts on what to do next. + how to post on Mirror
 	- This week: Fleshing out research areas and engaging people to participate. Getting contributors onboard  
-- Project name/link  #[[227 Project - governance design experiment #1]] (Rowan) 
+- Project name/link  #[](227%20Project%20-%20governance%20design%20experiment%20#1) (Rowan) 
 	- Last week: 
 		-  DAO-Cell founding doc. Feel free to use this as an experimental template for setting up projects [https://app.clarity.so/superbenefit/notes/ec753aec-320d-413a-9f80-39b9ca9fe064](https://app.clarity.so/superbenefit/notes/ec753aec-320d-413a-9f80-39b9ca9fe064) 
 		- ⬜️ SUP-247 Gnosis safe project set-up guide https://discord.com/channels/874697948838101092/945403358443884634/966862457945616444 (@heenal where should this go?) - probably put in notion and link to from the main page 
 		- Fleshing out DAO-cell primitives outline in miro [https://miro.com/app/board/uXjVODY0_-c=/?share_link_id=10883339838](https://miro.com/app/board/uXjVODY0_-c=/?share_link_id=10883339838) 
-- #[[66 Run contribution recognition event]] (ML)
+- #[66 Run contribution recognition event](66%20Run%20contribution%20recognition%20event) (ML)
 
 	- In process - complete tomorrow. Most have participated.
 - Other updates (ML)
@@ -35,13 +35,13 @@ date: 25-04-2022
 	- in discussion with krause house on TOC collaboration proposal
 	- Pluriverse/SuperBenefit CCS session happening on Thursday: [https://bit.ly/ccszoom](https://bit.ly/ccszoom) - 12-2 pm EST
 		- "If you're not confused, you're not doing this right"
-- #[[governance conversations]] (HR)
+- #[governance conversations](/notes/archive/clarity/Tags/governance%20conversations.md) (HR)
 	- Last week: Developed framing for convos
 	- This week: Develop invitations
-- #[[[BOUNTY] Distribute some $SPRB to the Discord community]] 
+- #[[BOUNTY]([BOUNTY) 
 	- Last week: Drafted bounty
 	- This week: Publish bounty (after feedback)
-- #[[193 Community Experience- Revolution 1]] (Michelle)
+- #[193 Community Experience- Revolution 1](193%20Community%20Experience-%20Revolution%201) (Michelle)
 	- Last Week
 		- Kick of Contribution Guide Meeting - next steps outline in progress [https://app.clarity.so/superbenefit/work/209](https://app.clarity.so/superbenefit/work/209) 
 		- Weekly Update

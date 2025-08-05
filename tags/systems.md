@@ -52,17 +52,17 @@ These approaches help practitioners identify emergent properties, anticipate uni
 
 ## Related Concepts
 
-- [[tags/networks]]: Systems often take the form of interconnected networks of agents and resources
-- [[tags/governance]]: The frameworks and processes through which systems are directed and managed
-- [[tags/protocols]]: Standardized rules that enable coordination within decentralized systems
-- [[tags/primitives]]: Fundamental building blocks from which more complex systems are constructed
-- [[tags/coordination]]: The processes through which diverse agents align their actions within systems
-- [[tags/emergence]]: The way complex behaviors and properties arise from simpler system interactions
-- [[tags/transformation]]: Fundamental shifts in how societal systems and structures operate
-- [[tags/complexity]]: The property of systems with many interdependent parts and non-linear behaviors
+- [networks](tags/networks.md): Systems often take the form of interconnected networks of agents and resources
+- [governance](tags/governance.md): The frameworks and processes through which systems are directed and managed
+- [protocols](tags/protocols.md): Standardized rules that enable coordination within decentralized systems
+- [primitives](tags/primitives.md): Fundamental building blocks from which more complex systems are constructed
+- [coordination](tags/coordination.md): The processes through which diverse agents align their actions within systems
+- [emergence](tags/emergence.md): The way complex behaviors and properties arise from simpler system interactions
+- [transformation](tags/transformation.md): Fundamental shifts in how societal systems and structures operate
+- tags/complexity: The property of systems with many interdependent parts and non-linear behaviors
 
 ## References and Resources
 
-- [DAOs - From fractal primitives to network scale.](artifacts/articles/network-evolution%201/DAOs%20-%20From%20fractal%20primitives%20to%20network%20scale..md)
-- [Scale and the levers that provide DAOs their power](artifacts/articles/network-evolution%201/Scale%20and%20the%20levers%20that%20provide%20DAOs%20their%20power.md)
-- [Governance for better futures - Meta-governance](artifacts/articles/governance-for-better-futures%201/Governance%20for%20better%20futures%20-%20Meta-governance.md)
+- DAOs - From fractal primitives to network scale.
+- Scale and the levers that provide DAOs their power
+- Governance for better futures - Meta-governance

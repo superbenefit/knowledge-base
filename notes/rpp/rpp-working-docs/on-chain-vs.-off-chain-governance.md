@@ -72,6 +72,6 @@ When designing your governance system, use the following comparison to place act
 
 ## References
 
-*   **[[token-based-governance]]:** This pattern often relies on a hybrid model, using tokens for off-chain voting power on platforms like Snapshot and for on-chain voting power in formal protocols.
-*   **[Council Governance](<council-governance.md>):** A council, often implemented as a multi-sig wallet, is a common and effective "bridge" to execute the results of off-chain votes on-chain.
-*   **[Delegated Governance](<delegated-governance.md>):** Delegation is a key feature in both domains. A token holder might delegate their voting power on Snapshot (off-chain) and separately delegate their on-chain proposal and voting power within the protocol itself.
+*   **[token-based-governance](notes/rpp/rpp-working-docs/token-based-governance.md):** This pattern often relies on a hybrid model, using tokens for off-chain voting power on platforms like Snapshot and for on-chain voting power in formal protocols.
+*   **Council Governance:** A council, often implemented as a multi-sig wallet, is a common and effective "bridge" to execute the results of off-chain votes on-chain.
+*   **Delegated Governance:** Delegation is a key feature in both domains. A token holder might delegate their voting power on Snapshot (off-chain) and separately delegate their on-chain proposal and voting power within the protocol itself.

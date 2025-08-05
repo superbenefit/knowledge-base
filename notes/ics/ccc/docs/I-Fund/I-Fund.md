@@ -33,7 +33,7 @@ The Impact Yield Fund captures value from low-risk DeFi strategies while directi
 - **Impact Allocation**: Surplus yield funds community initiatives
 - **Governance**: Transparent decision-making for impact allocation
 
-![Yield Fund High Level](yield-fund-diagram.png)
+!Yield Fund High Level
 
 ### Fund Structure
 - Initial Seed: $1M (potential to scale to $5-10M)
@@ -63,7 +63,7 @@ The unique innovation lies in leveraging impact yields through commitment pools:
 - Year 3: Further $20K yield grows total capacity to ~$300-600K
 - $BREAD backing accumulates while commitments cycle through redemption/creation
 
-![SB Impact Fund Value Flows](superb-impact-fund-flows.png)
+!SB Impact Fund Value Flows
 
 ---
 

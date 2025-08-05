@@ -115,14 +115,14 @@ Technical infrastructure tools now have verified URLs:
    ## Resource Directory
    
    ### Patterns (Standalone)
-   - [Community Governance](artifacts/patterns/community-governance.md)
-   - [Operational Governance](artifacts/patterns/operational-governance.md)
+   - Community Governance (/artifacts/patterns/community-governance.md)
+   - Operational Governance (/artifacts/patterns/operational-governance.md)
    ...
    
    ### Patterns (Tag Collections)  
-   - [Peer to Peer Payments](tags/p2p-payments)
-   - [Participatory Governance](tags/participatory-governance)
-   - [Local Nodes](tags/local-nodes)
+   - Peer to Peer Payments (tags/p2p-payments)
+   - Participatory Governance (tags/participatory-governance)
+   - Local Nodes (tags/local-nodes)
    
    ### External Tools
    - [Snapshot](https://snapshot.box) - Token-free voting

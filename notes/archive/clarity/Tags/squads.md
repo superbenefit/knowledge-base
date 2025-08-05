@@ -1,1 +1,1 @@
-Squads are governance groups led by someone who fills a #[[squad lead]]. Squads are created and dissolved by the #[[general circle]]. 
+Squads are governance groups led by someone who fills a #[squad lead](/notes/archive/clarity/Tags/squad%20lead.md). Squads are created and dissolved by the #[general circle](/notes/archive/clarity/Tags/general%20circle.md). 

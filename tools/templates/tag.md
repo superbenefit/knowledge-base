@@ -31,7 +31,7 @@ tags:
 
 ## Related Concepts
 
-%% Create links to related concepts in the knowledge base. This section can be in paragraph form or a bulleted list. Explain the relationships between concepts (e.g., "Unlike [[tags/another-concept]], this concept..."). %%
+%% Create links to related concepts in the knowledge base. This section can be in paragraph form or a bulleted list. Explain the relationships between concepts (e.g., "Unlike [tags/another-concept](tags/another-concept), this concept..."). %%
 
 ## References and Resources
 

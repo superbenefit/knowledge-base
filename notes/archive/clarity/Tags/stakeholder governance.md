@@ -4,11 +4,11 @@ This document has been moved here:
  [https://app.charmverse.io/superbenefit/stakeholder-governance-9333924420657016](https://app.charmverse.io/superbenefit/stakeholder-governance-9333924420657016) 
 
 
-#[[stakeholder]] #[[notes/archive/clarity/Tags/governance]] in web3 is the practice of governing common-pool resources by coordinating potentially diverse groups of stakeholders who contribute resources to collectively-owned smart contracts. 
+#[stakeholder](/notes/archive/clarity/Tags/stakeholder.md) #[governance](/notes/archive/clarity/Tags/governance.md) in web3 is the practice of governing common-pool resources by coordinating potentially diverse groups of stakeholders who contribute resources to collectively-owned smart contracts. 
 Such groups are _purpose-aligned_, using their shared resources to accomplish commonly held objectives such as [grantmaking](https://lunardao.net/), [investing](https://www.metacartel.org/), [stewardship of resources or ](https://www.krausehouse.club/)[culture](https://www.krausehouse.club/), [proliferating memes](https://nouns.wtf/), [providing social security and solidarity](https://breadchain.xyz/), [activism](https://daocentral.com/dao/ukraine), [advocacy](https://www.lobby3.io/), etc.
 ## The Purpose of Stakeholder Governance in web3
 In web3, **Stakeholder Governance** is primarily used as a secure way for financial contributors to pool and cooperatively allocate funds in the form of **grants**. This is often performed under the banner of [a single DAO](https://molochdao.com/) but can also be [part of a ](https://match.optimism.io/)[larger community](https://match.optimism.io/). Stakeholder groups can also form spontaneously as a result of a [crowdfund](https://juicebox.money/success-stories/constitutiondao) or [governance decision](https://nouns.wtf/fork).
-In contrast with other forms of collective ownership in web3, such as #[[community governance]] or #[[operational governance]], **Stakeholder Governance** prioritizes the rights and security of the Stakeholders (those who contribute resources such as money, labor, social capital or other forms of value to the common pool) over that of other entities (such as states, grantees, speculators, fans, customers and others) in the administration of shared resources.
+In contrast with other forms of collective ownership in web3, such as #[community governance](/notes/archive/clarity/Tags/community%20governance.md) or #[operational governance](/notes/archive/clarity/Tags/operational%20governance.md), **Stakeholder Governance** prioritizes the rights and security of the Stakeholders (those who contribute resources such as money, labor, social capital or other forms of value to the common pool) over that of other entities (such as states, grantees, speculators, fans, customers and others) in the administration of shared resources.
 ## Benefits of web3 Stakeholder Governance
 Web3 stakeholder governance offers a variety of features and benefits for participants which aren't found in traditional financial systems. This allows for experimentation with novel forms of capital allocation and collective ownership not previously accessible using banks and other legacy institutions.
 Because stakeholder modules use blockchain-based smart contract technology, participants are able to create trust-minimized environments with nearly instant transaction settlement and relatively low fees. These smart contracts also offer a variety of features which can be composed to form tailored solutions for highly specific use cases and experiments.
@@ -20,7 +20,7 @@ Stakeholder governance is conducted using specialized tooling, referred to here 
 - **Exit (AKA: "Rage Quit")** - Most stakeholder modules allow depositors to exit by redeeming some or all of their governance rights for their proportional share of treasury funds at any time, helping to prevent capture of a depositor's funds by malicious actors or misaligned governance decisions.
 - **Crowdfunding** - Some stakeholder modules provide features to which allow some or all members of the public to contribute resources in exchange for some form of membership (including governance, economic or other rights). These are typically used for crowdfunding or group buying purposes, but can be useful for other cases such as grantmaking.
 
-It's important to choose the right tools for your particular needs and situation. See GR-312 Web3 Stakeholder Modules - DAO Primitives for more information. You can contact the #[[notes/archive/clarity/Tags/dao primitives]] team for help choosing the right stakeholder module for your needs.
+It's important to choose the right tools for your particular needs and situation. See GR-312 Web3 Stakeholder Modules - DAO Primitives for more information. You can contact the #[dao primitives](/notes/archive/clarity/Tags/dao%20primitives.md) team for help choosing the right stakeholder module for your needs.
 ### Advantages over traditional systems
 - >What inequities and financial/coordination bottlenecks are currently visible in the NFP/Philanthropy space? Which are a priority for key stakeholders and their peers? 
 See [https://app.clarity.so/superbenefit/docs/d7c1faa1-7ac8-4733-9e15-f776da01c60f](https://app.clarity.so/superbenefit/docs/d7c1faa1-7ac8-4733-9e15-f776da01c60f)  
@@ -50,16 +50,16 @@ The easiest way to get started with Stakeholder Governance in web3 is to learn b
 - ### Create a DAO
 	- If you know some frens who also want to familiarize themselves with stakeholder governance, you can start a DAO or club to make collective decisions, purchase NFT's, pool money for a cause or simply have fun. Platforms like [party.app](https://www.party.app/) are a convenient way to explore crypto and web3 in a multiplayer environment.
 - ### Partner With a DAO
-	- Some service DAOs, such as #[[superbenefit]], offer facilitation to partners and outside stakeholders who seek a guided web3 experience. This offers mature organizations the opportunity to explore web3 coordination and decentralized governance without the hassle of developing these initiatives internally.
+	- Some service DAOs, such as #[superbenefit](/notes/archive/clarity/Tags/superbenefit.md), offer facilitation to partners and outside stakeholders who seek a guided web3 experience. This offers mature organizations the opportunity to explore web3 coordination and decentralized governance without the hassle of developing these initiatives internally.
 
 # Notes
 - ## Constraints
 	- Should be distinct from GR-312 Web3 Stakeholder Modules - DAO Primitives  in order to separate design concepts from technical implementations.
 	- Should conform to the concept of GR-304 Patterns - DAO Primitives as a design pattern for prototyping a specified implementation of [modular politics](https://arxiv.org/pdf/2005.13701.pdf).
 - ##  Requirements
-	- Should be useful in facilitating #[[Stakeholder Engagement - Reimagining Power]]
-	- Should be useful as a generalized model for adopters of #[[notes/archive/clarity/Tags/dao primitives]]
-	- Should meaningfully relate the concept of Stakeholder Governance to  #[[notes/archive/clarity/Tags/reimagining power]] and #[[notes/archive/clarity/Tags/dao primitives]]  in order to assist...
+	- Should be useful in facilitating #[Stakeholder Engagement - Reimagining Power](Stakeholder%20Engagement%20-%20Reimagining%20Power)
+	- Should be useful as a generalized model for adopters of #[dao primitives](/notes/archive/clarity/Tags/dao%20primitives.md)
+	- Should meaningfully relate the concept of Stakeholder Governance to  #[reimagining power](/notes/archive/clarity/Tags/reimagining%20power.md) and #[dao primitives](/notes/archive/clarity/Tags/dao%20primitives.md)  in order to assist...
 		- ...Stakeholders in understanding the purpose and value of their participation.
 		- ...All readers in understanding Stakeholder Governance as it relates to SuperBenfit and Web3 in general.
 	- Should convey:

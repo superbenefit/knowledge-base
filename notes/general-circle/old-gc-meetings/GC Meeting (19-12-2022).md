@@ -2,7 +2,7 @@
 tags: meetings
 date: 19-12-2022
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 ## Attendees
 - 
 
@@ -14,7 +14,7 @@ date: 19-12-2022
 	- Last week:
 	- This week:
 	- Blockers:
-- Project name/link #[[P-264 Systems Transformation Project]] 
+- Project name/link #[P-264 Systems Transformation Project](P-264%20Systems%20Transformation%20Project) 
 	- Last week: 
 		- Weekly meet up - deep dive in Gitcoin, planning for next steps
 		- Final web3 & systems transformation session with CCS & SuperBenefit
@@ -23,14 +23,14 @@ date: 19-12-2022
 		- Sector Transformation DAO session @Lewwwk about Krause House with CCS Unsemester [https://us02web.zoom.us/rec/share/djYZgU81KBy0q5LzhfTo1AkwvzQJEovSGxD77IyDV2gBa-4G7lCvltM7ngfIaYac.y4y3G8dDnEi-w5A6](https://us02web.zoom.us/rec/share/djYZgU81KBy0q5LzhfTo1AkwvzQJEovSGxD77IyDV2gBa-4G7lCvltM7ngfIaYac.y4y3G8dDnEi-w5A6) 
 Passcode: B$$?pXJ4
 		- 
-	- Project name - #[[P-193 Community Experience- Revolution 1]]
+	- Project name - #[P-193 Community Experience- Revolution 1](P-193%20Community%20Experience-%20Revolution%201)
 	- This week
 		-  reached out Northpine and CanadaHelps about the gap of having fiat come in from charities/foundations that can be transferred to eth/crypto. 
 	- Next week
 		- 
 	- Blockers:
-- #[[P-261 Windfall - Residential Energy NFT]] : government has delayed their decision until the new year.
-- Project name - #[[notes/archive/clarity/Tags/dao primitives]] 
+- #[P-261 Windfall - Residential Energy NFT](P-261%20Windfall%20-%20Residential%20Energy%20NFT) : government has delayed their decision until the new year.
+- Project name - #[dao primitives](/notes/archive/clarity/Tags/dao%20primitives.md) 
 	- Governance progress
 	- Gitcoin grants 
 	- Looking to get some scale to the team 

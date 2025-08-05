@@ -2,7 +2,7 @@
 tags: meetings
 date: 24-01-2022
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 # Week of January 24, 2022
 ## Attendees
 @AlexH @flashlight @heenal @Lewwwk @MBaldwin @Rowan  @Ryan  @remarkk 
@@ -31,41 +31,41 @@ What's your capacity for SB in the coming week?
 - @flashlight : 1
 
 ## Projects
-#[[74 Crowdfund - "Hello World"]]  - @Lewwwk 
+#[74 Crowdfund - "Hello World"](74%20Crowdfund%20-%20"Hello%20World")  - @Lewwwk 
 - Last week
 	- Post drafted
-	- #[[84 Crowdfund NFT]] art created
+	- #[84 Crowdfund NFT](84%20Crowdfund%20NFT) art created
 - This week
 	- Final version
 	- Pre-seed draft
-	- #[[135 Launch Strategy]] (get people to get their wallets ready, get key reviewers, explore partnerships with verses.xyz around pluriverse and crypto, culture and society)
+	- #[135 Launch Strategy](135%20Launch%20Strategy) (get people to get their wallets ready, get key reviewers, explore partnerships with verses.xyz around pluriverse and crypto, culture and society)
 		- "There is something coming soon" - Web3 insiders - some reusable content
 		- Messaging in all the relevant channels
 		- Ask for the group to build lists of people to reach out to
 - 
 
-#[[45 Launch $SPRB Governance Token]] - @Lewwwk 
+#[45 Launch $SPRB Governance Token](45%20Launch%20$SPRB%20Governance%20Token) - @Lewwwk 
 - Last week
-	- Proposal drafted #[[138 Proposal 3- Create $SPRB ERC20 token for the SuperBenefit DAO [DRAFT]]] 
+	- Proposal drafted #[138 Proposal 3- Create $SPRB ERC20 token for the SuperBenefit DAO [DRAFT](138%20Proposal%203-%20Create%20$SPRB%20ERC20%20token%20for%20the%20SuperBenefit%20DAO%20[DRAFT)] 
 		- Squad Leads review this evening
-	- Mulit-sig signers proposed #[[137 Create SB Multisig]] 
+	- Mulit-sig signers proposed #[137 Create SB Multisig](137%20Create%20SB%20Multisig) 
 - This week
 	- Setup multi-sig
 	- Create token
 
-#[[9 General Circle Lead invites individuals into Squad Lead roles]] 
+#[9 General Circle Lead invites individuals into Squad Lead roles](9%20General%20Circle%20Lead%20invites%20individuals%20into%20Squad%20Lead%20roles) 
 - Last week
-	- Agreed on #[[discovery and sense-making squad]] and #[[resource flow squad]] 
+	- Agreed on #[discovery and sense-making squad](/notes/archive/clarity/Tags/discovery%20and%20sense-making%20squad.md) and #[resource flow squad](/notes/archive/clarity/Tags/resource%20flow%20squad.md) 
 - No further activity required
 
-#[[140 Draw up high-level outline of the resource flow squad]] - @Rowan  
+#[140 Draw up high-level outline of the resource flow squad](140%20Draw%20up%20high-level%20outline%20of%20the%20resource%20flow%20squad) - @Rowan  
 - Last week 
 	- Set up the resource flow squad
 	- Explanation of what the resource flow squad is
 - Next week
 	- Draw up a high-level outline as a starting point to shaping up the squad
 
-#[[Community Experience Project]] - @MBaldwin 
+#[Community Experience Project](Community%20Experience%20Project) - @MBaldwin 
 - Last week:
 	- Strategy for engagement of SB community for feedback for ToC
 	- Finalize SuperBenefit Community Survey and add questions for ToC input
@@ -83,14 +83,14 @@ What's your capacity for SB in the coming week?
 	- Engage Daniel and Jai
 	- Strategize for community engagement following Mirror crowdfund
 
-#[[68 Set up Information Systems]]  - @heenal 
+#[68 Set up Information Systems](68%20Set%20up%20Information%20Systems)  - @heenal 
 - Last week:
 	- @remarkk Needs to schedule a call with BPetes of Sobol with @Ryan  and @heenal to get a download on best practice structure for governance, projects, guilds and the connectivity of the various systems.
 		- @remarkk I think this then unblocks for getting guilds / discord structure finalized
 	- Set up SuperBenefit Community Survey in Notion 
 	- CXI Tactical Meeting
 	- Set up [metrics tracking](https://www.notion.so/superbenefit/be8cc48814ad49508e0c6fe34d9ba4f9?v=5da1ddbdb1644c328b06666fa2e6840d)
-		- This will be easier when #[[$sprb]] is launched and we have bounties, as we'll be able to see who has received it
+		- This will be easier when #[$sprb](/notes/archive/clarity/Tags/$sprb.md) is launched and we have bounties, as we'll be able to see who has received it
 	- Attended Making Crypto Inclusive + web3 x social impact Twitter space
 	- Completed 5 interviews for Transformation Storytelling Fellow which will be focused on SB
 - This week:

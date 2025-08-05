@@ -74,4 +74,4 @@ These values often manifest as qualities that systems embody to varying degrees.
 
 - DAO Primitives Framework: Explores how values inform the design of decentralized organizations
 - Reimagining Power: Examines how values can be encoded into technical systems for social transformation
-- [Building DAOs as scalable networks](artifacts/articles/network-evolution%201/Building%20DAOs%20as%20scalable%20networks.md): Discusses values alignment across different governance scales
+- Building DAOs as scalable networks: Discusses values alignment across different governance scales

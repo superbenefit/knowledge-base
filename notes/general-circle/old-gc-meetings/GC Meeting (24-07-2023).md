@@ -2,7 +2,7 @@
 tags: meetings
 date: 24-07-2023
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 ## Attendees
 - @heenal @rathermercurial @Lewwwk @Rowan  @MBaldwin 
 
@@ -10,7 +10,7 @@ date: 24-07-2023
 - feeling relaxed or stressed? yes!
 
 ## Updates
-- #[[Clarity Workspace - Reimagining Power]]
+- #[Clarity Workspace - Reimagining Power](Clarity%20Workspace%20-%20Reimagining%20Power)
 	- Last week:
 		- Call with Tracey & Sue
 		- Tracey shared the learning questions below (we think that "the tool" = the playbook)
@@ -30,19 +30,19 @@ date: 24-07-2023
 		- Meeting with Steve Waddell - 4pm Aug 8th
 	- Blocks: 
 		- Not sure of how to respond to her questions
-- #[[P-261 Windfall - Residential Energy NFT]]
+- #[P-261 Windfall - Residential Energy NFT](P-261%20Windfall%20-%20Residential%20Energy%20NFT)
 	- Providing letter of support with following language: 
 
 	- >... individual contributors to SuperBenefit are committed to providing in-kind services in the amount of $10,000 through discounts to approved proposals (work done for the project).
-- #[[community experience squad]] 
+- #[community experience squad](/notes/archive/clarity/Tags/community%20experience%20squad.md) 
 	- 
-- #[[P-264 Systems Transformation Project]] 
+- #[P-264 Systems Transformation Project](P-264%20Systems%20Transformation%20Project) 
 	- Looking to sunset this cell - meeting next Tuesday 4 pm EST
 		- Process for this - "must do" + "optional" pieces
 			- SEE HERE for draft agenda: [https://app.clarity.so/superbenefit/docs/3e76c16f-6d6d-4674-b558-aab592fed709](https://app.clarity.so/superbenefit/docs/3e76c16f-6d6d-4674-b558-aab592fed709) 
 			- @Aditi can help with packaging up the materials we've developed and telling the story of the project
 				- what do we want to put into the cell state that tells the story of the cell? this is where collective intelligence can be drawn from, work can be recognized, etc
-- #[[notes/archive/clarity/Tags/dao primitives]] 
+- #[dao primitives](/notes/archive/clarity/Tags/dao%20primitives.md) 
 	- Update on neighbourhood retrofit project - hit a speed bump but continuing positively  
 
 ## Triage/Discussion 

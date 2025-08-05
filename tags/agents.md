@@ -24,15 +24,15 @@ In decentralized systems like DAOs, the relationship between agents and governan
 
 In systems and organizational design, agents represent the basic units of action and decision-making that enable collective behavior to emerge. All systems—from companies to cities to online platforms—can be understood as networks of agents interacting according to explicit or implicit rules. How these agents are incentivized, constrained, and coordinated fundamentally shapes system outcomes and characteristics.
 
-The [Anticapture framework](Anticapture.md) describes agents as decision-making entities that control resources and participate in networks. It distinguishes between individual agents controlling private resources and networks of agents governing shared resources, highlighting how agent relationships determine whether systems become extractive or regenerative.
+The Anticapture framework describes agents as decision-making entities that control resources and participate in networks. It distinguishes between individual agents controlling private resources and networks of agents governing shared resources, highlighting how agent relationships determine whether systems become extractive or regenerative.
 
 ### Agents in DAOs and Web3
 
 In [DAOs](tags/daos.md) and web3 contexts, agents include core contributors, token holders, community members, and autonomous teams ([Cells](artifacts/patterns/cell.md)) that participate in network governance and operations. These agents interact through transparent [protocols](tags/protocols.md) and operate with varying levels of [autonomy](tags/autonomy.md) while remaining aligned with collective [purpose](tags/purpose.md).
 
-As described in [DAOs aren't things... they are flows](artifacts/articles/network-evolution%201/DAOs%20aren't%20things...%20they%20are%20flows..md), DAOs function as "purpose-aligned networks of small autonomous teams" where these agent-teams self-organize around opportunities while maintaining coherence within the broader network. These agents exercise their agency through mechanisms like submitting proposals, contributing to projects, participating in governance, and allocating [resources](tags/resources.md).
+As described in DAOs aren't things... they are flows, DAOs function as "purpose-aligned networks of small autonomous teams" where these agent-teams self-organize around opportunities while maintaining coherence within the broader network. These agents exercise their agency through mechanisms like submitting proposals, contributing to projects, participating in governance, and allocating [resources](tags/resources.md).
 
-The effectiveness of DAOs depends on creating conditions where individual agents can act autonomously while remaining aligned with collective goals—what [Building DAOs as scalable networks](artifacts/articles/network-evolution%201/Building%20DAOs%20as%20scalable%20networks.md) describes as "DAOs as network intelligence that flows," where resources and attention naturally orient toward the highest-value opportunities through distributed agent decisions rather than centralized direction.
+The effectiveness of DAOs depends on creating conditions where individual agents can act autonomously while remaining aligned with collective goals—what Building DAOs as scalable networks describes as "DAOs as network intelligence that flows," where resources and attention naturally orient toward the highest-value opportunities through distributed agent decisions rather than centralized direction.
 
 ### AI Agents
 

@@ -1,7 +1,7 @@
-#[[264 Systems Transformation Project]] #[[CCS Workshop]] 
+#[264 Systems Transformation Project](264%20Systems%20Transformation%20Project) #[CCS Workshop](CCS%20Workshop) 
 @heenal @Nate @MBaldwin 
 ## Links & Resources
-See the main project page here for links & previous notes: #[[CCS Workshop]] 
+See the main project page here for links & previous notes: #[CCS Workshop](CCS%20Workshop) 
 ## Workshop & Elective Schedule 
 
 Agreed to push start back one week

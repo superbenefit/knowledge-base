@@ -2,7 +2,7 @@
 tags: meetings
 date: 03-04-2023
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 ## Attendees
 - Rowan, Michelle, Michael, Heenal, Rather
 - 
@@ -15,14 +15,14 @@ date: 03-04-2023
 	- Last week: 
 	- This week:
 	- Blockers:
-- Project - #[[notes/archive/clarity/Tags/dao primitives]] 
+- Project - #[dao primitives](/notes/archive/clarity/Tags/dao%20primitives.md) 
 	- Last week: 
 		- AIFS Developments 
 		- Putting a post together
 		- Rather is working up a set of document templates. These can be open sourced by Rather as well as by SuperBenefit 
 	- This week: 
 	- Blockers:
-- Project - #[[P-264 Systems Transformation Project]] 
+- Project - #[P-264 Systems Transformation Project](P-264%20Systems%20Transformation%20Project) 
 	- Last week: 
 		- meeting to shift from this phase/revolution with contribution allocation and then new ideas of where will go next
 		- web3 & systems transformation sharing at Transition Innovation Group April 5 and Heenal presenting
@@ -34,7 +34,7 @@ date: 03-04-2023
 			- Q: Is anonymous allocation possible (no) and/or desirable?
 			- Coordinape may not be right for this situation. Can be indicative. If do it, emphasize to all participants to come up with their own allocation strategy and to respect others'.
 	- Blockers:
-- Project - #[[P-193 Community Experience- Revolution 1]] 
+- Project - #[P-193 Community Experience- Revolution 1](P-193%20Community%20Experience-%20Revolution%201) 
 	- Last week: 
 		- onboarding Kayla Love - Pilira DAO with Njoki Mburu
 		- AIFS (not sure if right place) - Twitter Spaces with Kim, Phelps, Shanny and possibly Bryan Weaver Hoops Sagrado

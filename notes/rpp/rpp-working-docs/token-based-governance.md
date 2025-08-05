@@ -59,7 +59,7 @@ The success of a token-based governance system is highly dependent on its initia
 
 ## References
 
-*   **[[on-chain-vs.-off-chain-governance]]:** This pattern provides the technical framework for how token votes are actually conducted and executed.
-*   **[Delegated Governance](<delegated-governance.md>):** A crucial sub-pattern used to address voter apathy and the expertise gap in token-based systems.
-*   **[Council Governance](<council-governance.md>):** Often used in conjunction with token governance, where token holders elect a council to handle more specialized or rapid decisions.
-*   **[[quadratic-voting]]:** A contrasting pattern that aims to solve the plutocracy problem by making an individual's subsequent votes more "expensive" than their first, thus promoting a more egalitarian distribution of power.
+*   **[on-chain-vs.-off-chain-governance](notes/rpp/rpp-working-docs/on-chain-vs.-off-chain-governance.md):** This pattern provides the technical framework for how token votes are actually conducted and executed.
+*   **Delegated Governance:** A crucial sub-pattern used to address voter apathy and the expertise gap in token-based systems.
+*   **Council Governance:** Often used in conjunction with token governance, where token holders elect a council to handle more specialized or rapid decisions.
+*   **[quadratic-voting](notes/rpp/rpp-working-docs/quadratic-voting.md):** A contrasting pattern that aims to solve the plutocracy problem by making an individual's subsequent votes more "expensive" than their first, thus promoting a more egalitarian distribution of power.

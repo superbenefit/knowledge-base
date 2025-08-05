@@ -76,7 +76,7 @@ _Learn more
 ## **Project Updates**
 
 **SBP 8: DAO Primitive Project**
-The DAO Primitive project has been building out their approach and there are some use cases that are testing the DAO cell model in their projects including #[[proposal sbp11- dao systems transformation repository-library]]. 
+The DAO Primitive project has been building out their approach and there are some use cases that are testing the DAO cell model in their projects including #[proposal sbp11- dao systems transformation repository-library](/notes/archive/clarity/Tags/proposal%20sbp11-%20dao%20systems%20transformation%20repository-library.md). 
 The exploration of tooling to support the DAO cell model and a deeper dive on code of conduct/conflict management primitives have been in progress.
 The DAO Primitive project team has a weekly meet up on Tuesdays at 5:30pmEST in #cafe channel. All are welcome.
 Current work on the DAO primitive models can be seen here: [https://miro.com/app/board/uXjVODY0_-c=/](https://miro.com/app/board/uXjVODY0_-c=/) 
@@ -606,7 +606,7 @@ In order to buy NFTs, cryptocurrencies or other tokens, you will need to set up 
 ## **Current Assets**
 - **Multi-sig: **`0x731c837121C15e1e7e3cfc0E2588f4d0B35FdD48` ([etherscan](https://etherscan.io/address/0x731c837121c15e1e7e3cfc0e2588f4d0b35fdd48))
 - **Hot-wallet (superbenefit.eth):** `0x9C3e186d24432f07847460aFa741f98a039AD57d` ([etherscan](https://etherscan.io/address/0x9c3e186d24432f07847460afa741f98a039ad57d))
-- #[[$sprb]]: `0xfC3Ac26D9A4A00B2534298c933A84F54430B3850`  [Token Tracker](https://etherscan.io/token/0xfC3Ac26D9A4A00B2534298c933A84F54430B3850))
+- #[$sprb](/notes/archive/clarity/Tags/$sprb.md): `0xfC3Ac26D9A4A00B2534298c933A84F54430B3850`  [Token Tracker](https://etherscan.io/token/0xfC3Ac26D9A4A00B2534298c933A84F54430B3850))
 
 
 

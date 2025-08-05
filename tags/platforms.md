@@ -29,13 +29,13 @@ Key examples include layer-1 blockchains like Ethereum that provide foundational
 
 In the context of Decentralized Autonomous Organizations, platforms provide the technical and social infrastructure for coordination across different scales and functions. They enable the creation and operation of governance processes, resource allocation mechanisms, and collaboration tools that allow DAOs to function effectively without traditional hierarchical management.
 
-As described in [Building DAOs as scalable networks](artifacts/articles/network-evolution%201/Building%20DAOs%20as%20scalable%20networks.md), platforms support multicameral DAO governance by providing infrastructure for both community-level decision-making and operational coordination between working groups. These platforms combine technological components (like voting systems and treasury management tools) with social coordination mechanisms to enable effective decentralized action.
+As described in Building DAOs as scalable networks, platforms support multicameral DAO governance by providing infrastructure for both community-level decision-making and operational coordination between working groups. These platforms combine technological components (like voting systems and treasury management tools) with social coordination mechanisms to enable effective decentralized action.
 
 ### Platforms in the DAO Primitives Framework
 
 In the DAO Primitives Framework, platforms represent one of the three core resource primitives alongside roles and resources. They provide the infrastructure that enables DAO operations, including tools for governance, communication, and coordination.
 
-![[tags/primitives#^83b042]]
+!
 
 Platforms in this context serve as the technical and social foundation upon which DAOs build their activities. They include both the underlying blockchain infrastructure and the specialized tools and interfaces that enable specific DAO functions. The effectiveness of a DAO often depends on how well its platforms align with its purpose, structure, and operational needs.
 

@@ -1,4 +1,4 @@
-#[[documents]] 
+#[documents](notes/archive/clarity/Tags/documents.md) 
 # **web3 Inclusivity Summit**
 
 When: Friday April 29th
@@ -16,11 +16,11 @@ Carrianne Agawa
 
 Decolonizing Web3 Panel
 
-Michael Redhead Champagne [@northendmc](/) 
-Davion Ziere [@davionziere](/) 
-Danaiiii Danae Vachata [@danaevachata](/) 
+Michael Redhead Champagne [@northendmc](https://twitter.com/northendmc) 
+Davion Ziere [@davionziere](https://twitter.com/davionziere) 
+Danaiiii Danae Vachata [@danaevachata](https://twitter.com/danaevachata) 
 Heenal Rajani @HeenalR
-Michelle Baldwin [@ml_baldwin](/) 
+Michelle Baldwin [@ml_baldwin](https://twitter.com/ml_baldwin) 
 
 **Unable to Attend**
 Jake - Indigenized Internet - timezone issue because 3am for him

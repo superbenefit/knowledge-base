@@ -12,14 +12,14 @@ National observer article
 - [x] Conflict resolution process and next steps
 - [x] Publishing more bounties
 - [ ] TSF - Michelle
-- [ ] Heenal #[[121 Develop & Publish CXI Bounties]] 
+- [ ] Heenal #[121 Develop & Publish CXI Bounties](121%20Develop%20&%20Publish%20CXI%20Bounties) 
 
 - [x] Adding Jay & Daniel to Clarity
 - [ ] Review [Getting Started update](https://docs.google.com/document/d/1YuPy2dJHavTrFtoTEJfyq5x8NzC4aQUmCC53kRpOAY8/edit#) by Jai
 - [ ] Launch Plan - reflection and Daniel
 
 ## Soon
-- [ ] #[[Community Experience Project]] - Review this document. What are we doing well and what gaps are we still not addressing?
+- [ ] #[Community Experience Project](Community%20Experience%20Project) - Review this document. What are we doing well and what gaps are we still not addressing?
 
 
 ## Later 
@@ -33,5 +33,5 @@ National observer article
 - [ ] Burning Man's 10 principles
 - [ ] [Member Experience "30 questions to consider"](https://app.clarity.so/superbenefit/notes/d9ef05b5-01a8-4c99-9156-b3d42e23c5e1): go through the list and add bullet point answers for each question
 - [ ] [Potential blog response](https://app.clarity.so/superbenefit/notes/a8f35f74-c740-4c22-8532-81ec96e7e56f) to "techno-feudalism" article
-- [ ] #[[76 Reach out to DAO Community Experience Leads to garner learning]] - Who do we need to reach out, when & about what?
+- [ ] #[76 Reach out to DAO Community Experience Leads to garner learning](76%20Reach%20out%20to%20DAO%20Community%20Experience%20Leads%20to%20garner%20learning) - Who do we need to reach out, when & about what?
 - [ ] Launch Party - Discord or Twitter Chat

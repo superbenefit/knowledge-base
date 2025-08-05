@@ -2,7 +2,7 @@
 tags: meetings
 date: 14-02-2022
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 # Week of February 14, 2022
 ## Attendees
 Present: @AlexH @heenal @Rowan  @Ryan  
@@ -40,14 +40,14 @@ What's your capacity for SB in the coming week?
 - Ryan: .5-1 day 
 
 ## Projects
-#[[138 Proposal 3- Create $SPRB ERC20 token for the SuperBenefit DAO [DRAFT]]] @Lewwwk 
+#[138 Proposal 3- Create $SPRB ERC20 token for the SuperBenefit DAO [DRAFT](138%20Proposal%203-%20Create%20$SPRB%20ERC20%20token%20for%20the%20SuperBenefit%20DAO%20[DRAFT)] @Lewwwk 
 - Last week: 
 	- revised allocations to better align with next wave of contributions, partnerships, and treasury diversification (discuss in discord channel #sprb)
 	- updated proposal and submitted for comment in discord #proposal-discussion (under Governance section)
 - This week:
 	- Finalization and submission for vote.
 
-#[[74 Crowdfund - "Hello World"]] @Lewwwk 
+#[74 Crowdfund - "Hello World"](74%20Crowdfund%20-%20"Hello%20World") @Lewwwk 
 - Last week:
 	- Significant edits to clarify, with particular emphasis on invitations.
 - This week:
@@ -55,7 +55,7 @@ What's your capacity for SB in the coming week?
 	- Upon final edits Lewwwk to pre-share with select web3 allies
 	- Add 6th invitation to develop SuperBenefit's brand
 
-#[[Resource Flow strategy ]] @Rowan  
+#[Resource Flow strategy ](Resource%20Flow%20strategy%20) @Rowan  
 - Last week:
 	- Clarifying RF, Treasury, Governance relationship
 	- Developing RF strategy - but holding back for hello world post. 
@@ -63,36 +63,36 @@ What's your capacity for SB in the coming week?
 	- Putting up work so far in miro for collaboration and discussion
 	- Designing early ask of the community to crowd source possible opportunities 
 
-#[[68 Set up Information Systems]] - @heenal 
+#[68 Set up Information Systems](68%20Set%20up%20Information%20Systems) - @heenal 
 - Last week:
-	- #[[Update Discord welcome message]] + reviewed onboarding flow
+	- #[Update Discord welcome message](Update%20Discord%20welcome%20message) + reviewed onboarding flow
 	- Updated [Community Resources page](https://www.notion.so/superbenefit/Community-Resources-7842086e42064061b7d48709c151c93c) - added Crowdfund teaser + Squad page Clarity links
 - This week: 
-	- #[[Weekly Update Feb 22]] + 1-1 outreach
+	- #[Weekly Update Feb 22](Weekly%20Update%20Feb%2022) + 1-1 outreach
 	- Notion analytics 
-	- #[[161 Publish "how to setup a wallet" content ]] 
-	- #[[164 [BOUNTY] Update "Getting Started to web3" Notion page]]
-	- #[[157 Add mini community survey to Discord welcome message]]
+	- #[161 Publish "how to setup a wallet" content ](161%20Publish%20"how%20to%20setup%20a%20wallet"%20content%20) 
+	- #[164 [BOUNTY](164%20[BOUNTY)
+	- #[157 Add mini community survey to Discord welcome message](157%20Add%20mini%20community%20survey%20to%20Discord%20welcome%20message)
 		- Might defer the survey in fact, but would still very much like to tweak the Onboarding flow before the crowdfund launch
 - Blockers:
-	- Need to connect with #[[operations squad]] re Discord flow. 
+	- Need to connect with #[operations squad](/notes/archive/clarity/Tags/operations%20squad.md) re Discord flow. 
 
-#[[23 Community Experience Project]] @MBaldwin 
+#[23 Community Experience Project](23%20Community%20Experience%20Project) @MBaldwin 
 - Last week: 
-	- #[[174 Follow up with Peter to make an introduction to Ayusha ]] 
+	- #[174 Follow up with Peter to make an introduction to Ayusha ](174%20Follow%20up%20with%20Peter%20to%20make%20an%20introduction%20to%20Ayusha%20) 
 	- Ayusha onboarding as new Transformation Storytelling Fellow
 	- Weekly Update
 	- SuperBenefit Townhall (Feb 23) and SuperBenefit AMA (Mar 2) set up events and planning
 	- Draft of Discord mini survey when people join 
 - This week:
-	- Prepare for #[[176 SuperBenefit Townhall & Agenda]] 
+	- Prepare for #[176 SuperBenefit Townhall & Agenda](176%20SuperBenefit%20Townhall%20&%20Agenda) 
 	- @heenal to set up mini survey for Discord when people join
 	- Weekly Update
 	- Reminders about SuperBenefit Townhall and SuperBenefit AMA
 - Blockers:
 	- Tech support for Townhall (music, recording) - can @Ryan  or Kai help?
 
-#[[discovery and sense-making squad]] @AlexH 
+#[discovery and sense-making squad](/notes/archive/clarity/Tags/discovery%20and%20sense-making%20squad.md) @AlexH 
 - Last week
 	- Final iteration of ToC 
 - This week

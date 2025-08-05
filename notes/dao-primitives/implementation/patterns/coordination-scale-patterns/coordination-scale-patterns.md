@@ -13,8 +13,3 @@ Patterns related to coordination between teams and other entities in decentraliz
 These patterns provide practical implementations of coordination mechanisms that enable autonomous teams to work together effectively in a decentralized context.
 
 ---
-
-%% Begin Waypoint %%
-
-
-%% End Waypoint %%

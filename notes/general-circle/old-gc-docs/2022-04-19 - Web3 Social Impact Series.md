@@ -1,9 +1,9 @@
-#[[web3 & social impact series]] 
+#[web3 & social impact series](/notes/archive/clarity/Tags/web3%20&%20social%20impact%20series.md) 
 
 
 
 
-#[[196 Information Squad- Revolution 1]] #[[information squad]] #communication 
+#[196 Information Squad- Revolution 1](196%20Information%20Squad-%20Revolution%201) #[information squad](/notes/archive/clarity/Tags/information%20squad.md) #communication 
 
 # **Web3 & Social Impact Series**
 

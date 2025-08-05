@@ -25,7 +25,7 @@ This pattern applies to organizations seeking a more equitable and expressive fo
 This pattern is a direct response to the inherent flaws in traditional voting mechanisms:
 
 *   **Tyranny of the Majority:** In a "one person, one vote" system, a 51% majority with a weak preference can consistently overrule a 49% minority with a very strong preference, leading to suboptimal outcomes and alienation.
-*   **Plutocracy in Token Voting:** In a "one token, one vote" system, governance is skewed towards whales, whose interests may not align with the broader community. This is a central challenge that the [[token-based-governance]] pattern must address, and Quadratic Voting offers a direct alternative.
+*   **Plutocracy in Token Voting:** In a "one token, one vote" system, governance is skewed towards whales, whose interests may not align with the broader community. This is a central challenge that the [token-based-governance](notes/rpp/rpp-working-docs/token-based-governance.md) pattern must address, and Quadratic Voting offers a direct alternative.
 *   **Lack of Nuance:** Most voting systems are binary (yes/no) and fail to capture the *intensity* of preference. They don't distinguish between a casual "yes" and a deeply-held conviction, yet both are counted equally.
 
 ---
@@ -78,6 +78,6 @@ Implementing Quadratic Voting effectively is highly dependent on solving one cri
 
 ## References
 
-*   **[[token-based-governance]]**: Quadratic Voting is often positioned as a direct alternative or remedy to the plutocratic tendencies inherent in the "one token, one vote" model.
+*   **[token-based-governance](notes/rpp/rpp-working-docs/token-based-governance.md)**: Quadratic Voting is often positioned as a direct alternative or remedy to the plutocratic tendencies inherent in the "one token, one vote" model.
 *   **Sybil Resistance Mechanisms:** QV is fundamentally dependent on a reliable solution for proving unique identity. Its implementation is therefore tightly coupled with patterns like Proof of Personhood.
 *   **Council Governance:** A council could be elected using a QV system. This would ensure that council members have broad support across the community, rather than being elected by a single powerful faction.

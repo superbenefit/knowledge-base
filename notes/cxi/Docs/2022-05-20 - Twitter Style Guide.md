@@ -1,4 +1,4 @@
-#[[233 [BOUNTY] Twitter Style Guide]] 
+#233 [BOUNTY 
 # Twitter Guidelines for SuperBenefit
 In the world of web3 Twitter is currently recognised as part of the connection mix. As ownership changes take hold and new web3 platforms emerge this is something to keep a watch on. Platforms like [Islands ](https://islands.xyz/)are new but looking to be the ‘homepage’ or passport to the metaverse. But for now - DAOs still look to Twitter to engage.
 ## So how should SuperBenefit present on Twitter?

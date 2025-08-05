@@ -12,8 +12,8 @@ To map, engage, mobilize and provision the communities around SuperBenefit to in
 ## Current Activities
 ⬜️ P-23 Community Experience Project
 ## Resources
-- This Squad works closely with the #[[information squad]] 
-- #[[cxi agenda]] 
-- #[[member experience]] 
-- #[[townhall]] 
-- #[[welcome party]]
+- This Squad works closely with the #[information squad](/notes/archive/clarity/Tags/information%20squad.md) 
+- #[cxi agenda](/notes/archive/clarity/Tags/cxi%20agenda.md) 
+- #[member experience](/notes/archive/clarity/Tags/member%20experience.md) 
+- #[townhall](/notes/archive/clarity/Tags/townhall.md) 
+- #[welcome party](/notes/archive/clarity/Tags/welcome%20party.md)

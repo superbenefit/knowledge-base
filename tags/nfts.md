@@ -62,10 +62,10 @@ When combined with privacy-preserving technologies like zero-knowledge proofs, t
 
 ## Related Concepts
 
-- [[tags/blockchain]]: The underlying distributed ledger technology that enables NFT verification and tracking
-- [[tags/governance]]: How NFTs can be used as instruments for participation and collective decision-making
-- [[tags/primitives]]: NFTs function as fundamental building blocks for more complex decentralized systems
-- [[tags/resources]]: NFTs can represent and help manage collective resources in decentralized contexts
-- [[tags/attestations]]: Verified claims that can be represented or enhanced through NFT mechanisms
-- [[tags/payments]]: NFT transfers can trigger or represent value exchanges beyond simple cryptocurrency transactions
-- [[tags/community]]: How NFTs enable new forms of belonging, contribution, and collective organization
+- [blockchain](tags/blockchain.md): The underlying distributed ledger technology that enables NFT verification and tracking
+- [governance](tags/governance.md): How NFTs can be used as instruments for participation and collective decision-making
+- [primitives](tags/primitives.md): NFTs function as fundamental building blocks for more complex decentralized systems
+- [resources](tags/resources.md): NFTs can represent and help manage collective resources in decentralized contexts
+- [attestations](tags/attestations.md): Verified claims that can be represented or enhanced through NFT mechanisms
+- [payments](tags/payments.md): NFT transfers can trigger or represent value exchanges beyond simple cryptocurrency transactions
+- [community](tags/community.md): How NFTs enable new forms of belonging, contribution, and collective organization

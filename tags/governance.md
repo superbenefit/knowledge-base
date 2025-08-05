@@ -16,11 +16,11 @@ Decentralized governance in the context of Web3 and [DAOs](tags/daos.md) refers 
 
 ### [Community Governance](artifacts/patterns/community-governance.md)
 
-Operates at [Constituency Scale](tags/groups/scale/Constituency%20Scale.md) to safeguard and evolve the network's overarching purpose. Community governance includes a broad base of stakeholders who may not be directly involved in operations but are aligned with the network's purpose. It uses slower, more deliberative mechanisms like conviction voting and optimistic governance to make long-term decisions about network direction and treasury allocation.
+Operates at Constituency Scale to safeguard and evolve the network's overarching purpose. Community governance includes a broad base of stakeholders who may not be directly involved in operations but are aligned with the network's purpose. It uses slower, more deliberative mechanisms like conviction voting and optimistic governance to make long-term decisions about network direction and treasury allocation.
 
 ### [Operational Governance](artifacts/patterns/operational-governance.md)
 
-Functions at [Coordination Scale](tags/groups/scale/Coordination%20Scale.md) to enable effective day-to-day operations and resource allocation. Built on sociocratic structures where [Cells](test-pattern.md) (small autonomous teams) coordinate their activities. Operational governance provides the flexibility and autonomy needed for teams to execute effectively while maintaining coordination across the network.
+Functions at Coordination Scale to enable effective day-to-day operations and resource allocation. Built on sociocratic structures where Cells (small autonomous teams) coordinate their activities. Operational governance provides the flexibility and autonomy needed for teams to execute effectively while maintaining coordination across the network.
 
 ### [multi-stakeholder-governance](notes/dao-primitives/implementation/patterns/constituency-scale-patterns/multi-stakeholder-governance.md)
 
@@ -32,20 +32,20 @@ Focuses on aligning key stakeholder interests and managing relationships between
 
 ### Governance for Better Futures series:
 
-- [Governance for better futures - DAO 2 DAO Co-operation](artifacts/articles/governance-for-better-futures%201/Governance%20for%20better%20futures%20-%20DAO%202%20DAO%20Co-operation.md)
-- [Governance for better futures - Meta-governance](artifacts/articles/governance-for-better-futures%201/Governance%20for%20better%20futures%20-%20Meta-governance.md)
-- [Governance for better futures - New and Old](artifacts/articles/governance-for-better-futures%201/Governance%20for%20better%20futures%20-%20New%20and%20Old.md)
+- Governance for better futures - DAO 2 DAO Co-operation
+- Governance for better futures - Meta-governance
+- Governance for better futures - New and Old
 
 ### DAO Primitives Articles
 
-- [DAOs aren't things... they are flows.](artifacts/articles/network-evolution%201/DAOs%20aren't%20things...%20they%20are%20flows..md)
--  [Scale and the levers that provide DAOs their power](artifacts/articles/network-evolution%201/Scale%20and%20the%20levers%20that%20provide%20DAOs%20their%20power.md)
--  [DAOs - From fractal primitives to network scale.](artifacts/articles/network-evolution%201/DAOs%20-%20From%20fractal%20primitives%20to%20network%20scale..md)
--  [Minimum Viable Permissionless-ness](artifacts/articles/network-evolution%201/Minimum%20Viable%20Permissionless-ness.md)
--  [Building DAOs as scalable networks](artifacts/articles/network-evolution%201/Building%20DAOs%20as%20scalable%20networks.md)
+- DAOs aren't things... they are flows.
+-  Scale and the levers that provide DAOs their power
+-  DAOs - From fractal primitives to network scale.
+-  Minimum Viable Permissionless-ness
+-  Building DAOs as scalable networks
 
 
 ## Governance Frameworks
 
-- [Anticapture](Anticapture.md)
-- [The Blockchain Governance Toolkit](notes/links/to-review/The%20Blockchain%20Governance%20Toolkit.md)
+- Anticapture
+- The Blockchain Governance Toolkit

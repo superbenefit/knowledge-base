@@ -32,17 +32,17 @@ _A decentralized approach to collective knowledge creation and preservation thro
 
 In an era of information abundance and platform capitalism, communities face critical challenges around knowledge sovereignty, collective memory, and distributed sensemaking. Traditional knowledge management approaches—whether corporate wikis, centralized databases, or platform-dependent social media—fail to serve the deeper needs of communities seeking to build shared understanding while maintaining autonomy.
 
-Knowledge gardens emerge as a response to these challenges, offering a metaphor and methodology for cultivating collective intelligence. Drawing from the organic metaphor of gardening, these systems recognize knowledge as a living ecosystem that requires tending, cross-pollination, and communal care rather than extraction and control. This approach embodies principles of [[/tags/localism|localism]] and [[/tags/cosmolocalism|cosmolocalism]]—rooting knowledge in place while enabling planetary connections.
+Knowledge gardens emerge as a response to these challenges, offering a metaphor and methodology for cultivating collective intelligence. Drawing from the organic metaphor of gardening, these systems recognize knowledge as a living ecosystem that requires tending, cross-pollination, and communal care rather than extraction and control. This approach embodies principles of [localism](tags/localism.md) and [cosmolocalism](tags/cosmolocalism.md)—rooting knowledge in place while enabling planetary connections.
 
 This pattern is particularly relevant for:
-- [[/tags/community|Communities]] of practice developing shared understanding across distributed members
+- [Communities](tags/community.md) of practice developing shared understanding across distributed members
 - Social movements building resistance infrastructure against knowledge enclosure
 - Regenerative organizations seeking alternatives to extractive knowledge management
 - Web3 initiatives requiring community-owned documentation and learning systems
 - Networks working toward collective liberation and systems change
 - Groups preserving cultural knowledge and community wisdom
 
-The pattern aligns with Web3 principles of decentralization, community ownership, and [[/tags/peer-to-peer|peer-to-peer]] collaboration while remaining accessible to communities without deep technical expertise. It represents both a technological approach and a philosophical stance toward knowledge as a [[/tags/commons|commons]] to be cultivated rather than a resource to be mined.
+The pattern aligns with Web3 principles of decentralization, community ownership, and [peer-to-peer](tags/peer-to-peer.md) collaboration while remaining accessible to communities without deep technical expertise. It represents both a technological approach and a philosophical stance toward knowledge as a commons to be cultivated rather than a resource to be mined.
 
 ---
 
@@ -60,7 +60,7 @@ Communities attempting to build collective knowledge face systemic obstacles:
 - Information overload without effective synthesis mechanisms
 - Difficulty connecting insights across different contexts and contributors
 - Loss of tacit knowledge and contextual understanding
-- Challenge of maintaining coherence while honoring diverse perspectives in a [[/tags/polycentric|polycentric]] ecosystem
+- Challenge of maintaining coherence while honoring diverse perspectives in a [polycentric](tags/polycentric.md) ecosystem
 
 ### Accessibility and Participation
 - Technical barriers exclude non-technical community members
@@ -89,10 +89,10 @@ The Knowledge Gardens pattern provides a framework for decentralized, community-
 ### Core Principles
 
 1. **Organic Growth**: Knowledge develops through natural emergence rather than top-down structure
-2. **Collective Tending**: Community members act as gardeners, nurturing shared understanding through [[/tags/mutualism|mutualist]] practices
+2. **Collective Tending**: Community members act as gardeners, nurturing shared understanding through [mutualist](tags/mutualism.md) practices
 3. **Interconnection**: Ideas cross-pollinate through rich linking and spatial relationships
 4. **Living Documentation**: Knowledge remains dynamic and connected to practice
-5. **Distributed Ownership**: Community maintains [[/tags/sovereignty|sovereignty]] over collective wisdom
+5. **Distributed Ownership**: Community maintains sovereignty over collective wisdom
 
 ### Key Components
 
@@ -100,8 +100,8 @@ The Knowledge Gardens pattern provides a framework for decentralized, community-
 
 Build on foundations that resist centralized control:
 
-- **[[/tags/distributed|Distributed]] Storage**: Use IPFS, blockchain, or peer-to-peer systems for resilience
-- **[[/tags/local-first|Local-First]] Design**: Ensure knowledge remains accessible offline and portable
+- **[Distributed](tags/distributed.md) Storage**: Use IPFS, blockchain, or peer-to-peer systems for resilience
+- **[Local-First](tags/local-first.md) Design**: Ensure knowledge remains accessible offline and portable
 - **Federation Protocols**: Enable gardens to connect while maintaining autonomy
 - **Open Standards**: Use formats that prevent vendor lock-in and ensure longevity
 
@@ -144,7 +144,7 @@ Allow structure to arise from use rather than imposing hierarchy:
 
 #### 5. Regenerative Economics
 
-Create sustainable value flows for maintenance aligned with [[/tags/regeneration|regenerative]] principles:
+Create sustainable value flows for maintenance aligned with [regenerative](tags/regeneration.md) principles:
 
 - **Contribution Recognition**: Track and celebrate knowledge contributions
 - **Commons Funding**: Pooled resources for infrastructure and coordination
@@ -186,7 +186,7 @@ Create sustainable value flows for maintenance aligned with [[/tags/regeneration
 
 The combination of Obsidian and Quartz provides a powerful, future-ready foundation for knowledge gardens:
 
-**Obsidian** serves as the [[/tags/local-first|local-first]] editing environment:
+**Obsidian** serves as the [local-first](tags/local-first.md) editing environment:
 - Markdown files ensure portability and longevity
 - Bidirectional linking creates natural knowledge graphs
 - Community plugins enable custom workflows
@@ -272,9 +272,9 @@ JournoDAO experiments with knowledge gardens for collaborative journalism:
 
 #### [Ethereum Localism](https://ethereumlocalism.xyz)
 
-Exploring knowledge gardens for place-based Web3 organizing, embodying [[/tags/cosmolocalism|cosmolocal]] principles:
+Exploring knowledge gardens for place-based Web3 organizing, embodying [cosmolocal](tags/cosmolocalism.md) principles:
 
-- Documentation of [[/tags/localism|local]] blockchain initiatives and experiments
+- Documentation of [local](tags/localism.md) blockchain initiatives and experiments
 - Mapping connections between physical communities and digital infrastructure
 - Case studies of regenerative economics in specific bioregions
 - Knowledge sharing between local nodes while maintaining autonomy
@@ -285,9 +285,9 @@ Exploring knowledge gardens for place-based Web3 organizing, embodying [[/tags/c
 ## References
 
 ### Related Patterns
-- [[/artifacts/patterns/poetic-harvesting|Poetic Harvesting Pattern]] - Creative synthesis of collective wisdom
-- [[/artifacts/patterns/progressive-web3-adoption|Progressive Web3 Adoption Pattern]] - Gradual introduction of decentralized tools
-- [[/artifacts/patterns/fiscal-bridge-pattern|Fiscal Bridge Pattern]] - Managing flows between traditional and Web3 systems
+- [Poetic Harvesting Pattern](artifacts/patterns/poetic-harvesting.md) - Creative synthesis of collective wisdom
+- [Progressive Web3 Adoption Pattern](artifacts/patterns/progressive-web3-adoption.md) - Gradual introduction of decentralized tools
+- [Fiscal Bridge Pattern](artifacts/patterns/fiscal-bridge-pattern.md) - Managing flows between traditional and Web3 systems
 
 ### Technical Resources
 - [Obsidian Documentation](https://help.obsidian.md/) - Getting started with Obsidian
@@ -330,3 +330,4 @@ Exploring knowledge gardens for place-based Web3 organizing, embodying [[/tags/c
 - Extractive knowledge intentions
 
 **Remember**: Knowledge gardens grow slowly but deeply. Like any garden, they require patience, care, and community commitment to flourish. The pattern's power lies not in the tools but in the collective cultivation practices that emerge around them.
+

@@ -2,7 +2,7 @@
 tags:
   - meetings
 date: 31-08-2023
-source: "[[2023-08-08 - [TO MOVE] Meeting Notes - RP Planning Workstream]]"
+source: "[2023-08-08 - [TO MOVE](2023-08-08%20-%20[TO%20MOVE)"
 ---
 
 # RPP Core Team Meeting - **31/08/23**

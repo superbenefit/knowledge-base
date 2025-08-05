@@ -87,7 +87,7 @@ The agreed proposal becomes a binding agreement for all participating team membe
 
 - **Define what method of decision-making you want to employ**
 - The protocol can be modified to be used for different types of decisions. For example:
-	1. [Consent](tags/consent.md) - the original design of the protocol is for small teams making fast consent based decisions. A decision only passes if everyone is either a thumbs-up or support vote - i.e there are no strong objections. See [[https://patterns.sociocracy30.org/consent-decision-making.html]]
+	1. [Consent](tags/consent.md) - the original design of the protocol is for small teams making fast consent based decisions. A decision only passes if everyone is either a thumbs-up or support vote - i.e there are no strong objections. See [https://patterns.sociocracy30.org/consent-decision-making.html](https://patterns.sociocracy30.org/consent-decision-making.html)
 	2. Consensus - the protocol can be used for consensus based decisions if the criteria is shifted to getting everyone to a thumbs up. This process is generally slower as it requires more conversation and negotiation
 	3. Majority rule - the protocol can also be used to quickly get to a majority decision based on requiring a simple majority of voters to be thumbs up or support.
 
@@ -107,7 +107,6 @@ The agreed proposal becomes a binding agreement for all participating team membe
 The decider primitive can be combined with:
 - [Decision-log](notes/dao-primitives/implementation/patterns/collaboration-scale-patterns/decision-log.md) - a formal log of decisions, ideally that provides some security and version control
 - [Cells](notes/archive/clarity/Tags/cells.md) - the decider protocol is often the go-to tool for Cells to use for collaborative decision making
-
 
 
 

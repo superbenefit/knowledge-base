@@ -251,10 +251,10 @@ ICS pioneered this pattern as fiscal sponsor for the Reimagining Power Project:
 ## References
 
 ### Related Patterns
-- [[/artifacts/patterns/progressive-web3-adoption|Progressive Web3 Adoption]] - Gradual approach to introducing Web3 tools
+- [Progressive Web3 Adoption](artifacts/patterns/progressive-web3-adoption.md) - Gradual approach to introducing Web3 tools
 
 ### Complementary Resources
-- [[/drafts/artifacts/working-docs/fiscal-bridge-primitive/fiscal-bridge-primitive|Fiscal Bridge Primitive]] - Core mechanism for value transfer
+- Fiscal Bridge Primitive - Core mechanism for value transfer
 
 ### Regulatory Resources
 - CRA Guidance on Cryptocurrency (link to be added)
@@ -286,3 +286,4 @@ ICS pioneered this pattern as fiscal sponsor for the Reimagining Power Project:
 - No technical support
 - High reputational risk
 - Immediate financial pressure
+

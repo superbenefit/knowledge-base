@@ -1,19 +1,18 @@
 [
   "tags-overview",
   "dataview",
-  "obsidian-mkdocs-publisher",
   "folder-notes",
   "templater-obsidian",
   "auto-template-trigger",
   "waypoint",
   "github-sync",
   "obsidian-kanban",
-  "smart-connections",
   "recent-files-obsidian",
   "multi-properties",
   "obsidian42-brat",
   "obsidian-local-rest-api",
   "metadata-menu",
   "mcp-tools",
-  "smart-vault-visualizer"
+  "obsidian-link-converter",
+  "obsidian-mkdocs-publisher"
 ]

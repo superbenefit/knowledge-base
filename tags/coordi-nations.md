@@ -137,9 +137,9 @@ The Green Pill Network demonstrates coordi-nations principles through its networ
 
 ### Related Patterns
 - **[Cells](notes/archive/clarity/Tags/cells.md)**: Autonomous teams form the operational units within coordi-nations, implementing the principle of distributed execution within aligned networks
-- **[local-nodes](local-nodes.md)**: Physical and social bridges between global coordi-nation protocols and specific geographic communities
-- **[Gatherings](gatherings.md)**: Structured spaces for building relationships and shared understanding across diverse communities within the coordi-nation
-- **[Fractal Networks](fractal-networks.md)**: Self-similar organizational structures that enable coordi-nations to scale while maintaining coherence
+- **local-nodes**: Physical and social bridges between global coordi-nation protocols and specific geographic communities
+- **Gatherings**: Structured spaces for building relationships and shared understanding across diverse communities within the coordi-nation
+- **Fractal Networks**: Self-similar organizational structures that enable coordi-nations to scale while maintaining coherence
 
 ### Theoretical Foundations
 - Primavera de Filippi & Jessy Kate Schingler - "Coordi-nations: A New Institutional Structure for Global Cooperation" (2023)

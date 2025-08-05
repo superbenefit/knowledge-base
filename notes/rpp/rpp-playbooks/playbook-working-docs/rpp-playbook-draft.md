@@ -107,7 +107,7 @@ In nonprofit contexts, community governance transforms traditional board-centric
 
 **First step**: Map your current governance decisions into two categories: those affecting mission/values (strategic) versus those affecting daily operations (tactical). Survey stakeholders about which decisions they want voice in—you'll likely find they care most about strategic direction, not operational details.
 
-**Link to full pattern**: [[artifacts/patterns/community-governance.md]]
+**Link to full pattern**: [community-governance](artifacts/patterns/community-governance.md)
 
 #### Operational Governance
 
@@ -123,7 +123,7 @@ _Note: Cells are autonomous teams with defined scope operating within shared org
 
 **First step**: Identify your most frustrated program team—the one constantly waiting for approvals. Define clear boundaries (budget, scope, values alignment) within which they can make all decisions without seeking permission. Start with a 3-month experiment to build confidence on both sides.
 
-**Link to full pattern**: [[artifacts/patterns/operational-governance.md]]
+**Link to full pattern**: [operational-governance](artifacts/patterns/operational-governance.md)
 
 ### Pattern Group B: Building Participation Infrastructure
 
@@ -141,7 +141,7 @@ Nonprofits often struggle with invisible influence networks where persuasive ind
 
 **First step**: Set up a free Snapshot space for your organization and run your next strategic planning survey through it. This creates a permanent, transparent record of stakeholder input without requiring any cryptocurrency. Use the results to demonstrate the value of transparent decision-making to your board.
 
-**Link to pattern documentation**: [[notes/rpp/rpp-working-docs/token-based-governance.md]]
+**Link to pattern documentation**: [token-based-governance](notes/rpp/rpp-working-docs/token-based-governance.md)
 
 #### Peer to Peer Payments
 
@@ -155,7 +155,7 @@ For international nonprofits, P2P payments promise reduced fees and faster trans
 
 **First step**: Before exploring blockchain payments, map your actual transaction costs and pain points at the most granular level—not country by country, but city by city, partner by partner. You may discover, like Equality Fund, that your assumed problems don't exist while real barriers lie elsewhere.
 
-**Related resources**: [[tags/p2p-payments]]
+**Related resources**: [p2p-payments](tags/p2p-payments.md)
 
 #### Privacy Payments
 
@@ -169,7 +169,7 @@ Human rights organizations and their grantees face real surveillance risks from 
 
 **First step**: Conduct a threat assessment with your most vulnerable grant recipients. Map which ones face genuine risks from financial transparency—considering not just current governments but potential future regime changes. Use this assessment to guide whether privacy tools are essential infrastructure or nice-to-have features.
 
-**Link to pattern documentation**: [[notes/rpp/rpp-working-docs/privacy-payments.md]]
+**Link to pattern documentation**: [privacy-payments](notes/rpp/rpp-working-docs/privacy-payments.md)
 
 #### Participatory Governance
 
@@ -183,7 +183,7 @@ Traditional grantmaking treats recipients as beneficiaries rather than partners,
 
 **First step**: Start where you have most freedom—often program design rather than fund allocation. Create a formal advisory group of current recipients with real veto power over new program proposals. Document how this shifts power dynamics and use evidence to advocate for deeper governance changes.
 
-**Related resources**: [[tags/participatory-governance]]
+**Related resources**: [participatory-governance](tags/participatory-governance.md)
 
 ### Pattern Group C: Bridging Divides
 
@@ -203,7 +203,7 @@ Most nonprofit convenings reinforce existing divisions—technical people talk t
 
 **First step**: Design a 2-hour pilot gathering on your most pressing challenge. Invite 8-12 people split evenly between "insiders" (staff/board) and "outsiders" (community members, technical experts, or other perspectives you lack). Use this structure: 30-min joint opening to frame the challenge, 60-min breakouts by perspective group, 30-min joint closing to share insights. Document what emerges when different groups tackle the same problem.
 
-**Link to full pattern**: [[artifacts/patterns/gatherings.md]]
+**Link to full pattern**: [gatherings](artifacts/patterns/gatherings.md)
 
 #### Local Nodes
 
@@ -217,7 +217,7 @@ For isolated nonprofits, joining a coordi-nation provides instant connection to 
 
 **First step**: Map your mission to existing Web3 coordi-nations. Green Pill Network serves regenerative projects. ReFi DAO connects climate initiatives. Gitcoin funds public goods. Research which networks have local chapters you could join or where you could pioneer the first node in your city. Apply with a clear value proposition of what you bring to the network, not just what you hope to receive.
 
-**Related resources**: [[tags/local-nodes]]
+**Related resources**: [local-nodes](tags/local-nodes.md)
 
 ### Pattern Interactions and Dependencies
 
@@ -398,14 +398,14 @@ Equality Fund's discoveries challenged core RPP assumptions about blockchain's p
 
 ### Patterns
 
-- [Community Governance](https://claude.ai/chat/artifacts/patterns/community-governance.md) - Collective stewardship through constituency-scale decision making
-- [Operational Governance](https://claude.ai/chat/artifacts/patterns/operational-governance.md) - Sociocratic coordination of autonomous teams
-- [Gatherings](https://claude.ai/chat/artifacts/patterns/gatherings.md) - Structured spaces for cross-sector relationship building
-- [Token-based Governance](https://claude.ai/chat/notes/rpp/rpp-working-docs/token-based-governance.md) - Digital voting systems for transparent decision-making
-- [Privacy Payments](https://claude.ai/chat/notes/rpp/rpp-working-docs/privacy-payments.md) - Protection for sensitive financial transactions
-- [Peer to Peer Payments](https://claude.ai/chat/tags/p2p-payments) - Direct fund transfers without intermediaries
-- [Participatory Governance](https://claude.ai/chat/tags/participatory-governance) - Meaningful inclusion of affected communities
-- [Local Nodes](https://claude.ai/chat/tags/local-nodes) - Connection points to global movements
+- [Community Governance](artifacts/patterns/community-governance.md) - Collective stewardship through constituency-scale decision making
+- [Operational Governance](artifacts/patterns/operational-governance.md) - Sociocratic coordination of autonomous teams
+- [Gatherings](artifacts/patterns/gatherings.md) - Structured spaces for cross-sector relationship building
+- [Token-based Governance](notes/rpp/rpp-working-docs/token-based-governance.md) - Digital voting systems for transparent decision-making
+- [Privacy Payments](notes/rpp/rpp-working-docs/privacy-payments.md) - Protection for sensitive financial transactions
+- Peer to Peer Payments - Direct fund transfers without intermediaries
+- Participatory Governance - Meaningful inclusion of affected communities
+- Local Nodes - Connection points to global movements
 
 ### Implementation Guides
 

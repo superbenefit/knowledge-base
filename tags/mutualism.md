@@ -55,7 +55,7 @@ Contemporary applications include cooperative enterprise networks, community-con
 
 ## Related Concepts
 
-- **[Cooperative](tags/cooperative.md)**: Mutualism provides the theoretical foundation for cooperative enterprise models and democratic ownership structures
+- **Cooperative**: Mutualism provides the theoretical foundation for cooperative enterprise models and democratic ownership structures
 - **[Mutual Aid](tags/mutual-aid.md)**: Mutual aid practices embody mutualist principles of reciprocity and community solidarity in direct action
 - **[Solidarity](tags/solidarity.md)**: Mutualism creates economic structures that operationalize solidarity through shared ownership and democratic control
 - **[Decentralization](tags/decentralization.md)**: Mutualism distributes economic power across communities rather than concentrating it in centralized institutions

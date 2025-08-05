@@ -116,7 +116,7 @@ Common Templater features in our templates include:
 - Generating dates and other dynamic content
 - Creating links to related content
 
-If you're creating or modifying templates, we recommend reviewing our [[Guide to Using Templater]] for detailed implementation guidelines.
+If you're creating or modifying templates, we recommend reviewing our [Guide to Using Templater](tools/plugin-notes/templater/Guide%20to%20Using%20Templater.md) for detailed implementation guidelines.
 
 ## Best Practices for Template Usage
 

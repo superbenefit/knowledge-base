@@ -33,4 +33,4 @@ tags: tasks
 	- Offer continued web3 adventure tours and learning session(s) (example web3 and systems transformation series).
 
 # Stakeholders
-- #[[Stakeholder Engagement - Reimagining Power]] 
+- #[Stakeholder Engagement - Reimagining Power](Stakeholder%20Engagement%20-%20Reimagining%20Power) 

@@ -20,8 +20,8 @@ Community Exchange is a local economic system that combines relationship-buildin
 
 ## Quick Start
 
-- [Project Overview](ccc.md) - Main project file
-- [Latest Documentation](docs/) - Current version
+- Project Overview - Main project file
+- Latest Documentation - Current version
 - [Contributing](CONTRIBUTING.md) - How to contribute
 
 ## What is Community Exchange?
@@ -66,14 +66,14 @@ Community Exchange harnesses our community's abundance—our time, skills, knowl
 ## Getting Started
 
 ### For New Members
-1. Read the [Community Exchange Overview](docs/B-Overview/B.01-introduction.md)
-2. Learn about [Principles and Values](docs/B-Overview/B.05-principles-and-values.md)
-3. Check the [Onboarding Process](docs/C-Implementation/C.01-onboarding-process.md)
+1. Read the Community Exchange Overview
+2. Learn about Principles and Values
+3. Check the Onboarding Process
 
 ### For Implementers
-1. Review the [Implementation Timeline](docs/C-Implementation/C.02-implementation-timeline.md)
-2. Study the [Governance Structure](docs/C-Implementation/C.03-governance-structure.md)
-3. Consider [Scaling Strategies](docs/G-Future/G.01-scaling-strategy.md)
+1. Review the Implementation Timeline
+2. Study the Governance Structure
+3. Consider Scaling Strategies
 
 ## Key Success Factors
 
