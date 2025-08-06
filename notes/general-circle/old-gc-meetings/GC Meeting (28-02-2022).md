@@ -2,11 +2,11 @@
 tags: meetings
 date: 28-02-2022
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 
 
 # Week of February 28, 2022
-## #[[tactical meetings]] Template
+## #[tactical meetings](/notes/archive/clarity/Tags/tactical%20meetings.md) Template
 ## Attendees
 - @Lewwwk @Rowan  @heenal @MBaldwin @flashlight @Ryan  @remarkk 
 - Regrets: @AlexH 
@@ -49,13 +49,13 @@ What's our Crowdfund status?
 - 6.7 ETH/20 ETH
 
 ## Projects
-- Project #[[Resource Flow strategy ]] @Rowan  
+- Project #[Resource Flow strategy ](Resource%20Flow%20strategy%20) @Rowan  
 	- Last week:
-		- #[[Steps for multisig signers to follow]] multisig process to be implemented on next proposals
+		- #[Steps for multisig signers to follow](Steps%20for%20multisig%20signers%20to%20follow) multisig process to be implemented on next proposals
 		- Design for Revolution 1 - Lots here looking forward to syncing up on the bigger SB picture to get clarity on where energy should go.  
 	- This week:
 		- Launching into workstream for rev 1 
-- Project #[[Community Experience- Revolution 1]] 
+- Project #[Community Experience- Revolution 1](Community%20Experience-%20Revolution%201) 
 	- Last week: 
 		- Promotions and updates to SB community about hello world post
 		- Weekly Update
@@ -70,9 +70,9 @@ What's our Crowdfund status?
 		- Weekly Update
 		- Meeting with Caryn Tan from CCS and Clarity about SB experience with Clarity and Community Experience
 	- Blockers:
-- #[[45 Launch $SPRB Governance Token]] 
+- #[45 Launch $SPRB Governance Token](45%20Launch%20$SPRB%20Governance%20Token) 
 	- Last week: LAUNCHED!
-- #[[74 Crowdfund - "Hello World"]] 
+- #[74 Crowdfund - "Hello World"](74%20Crowdfund%20-%20"Hello%20World") 
 	- Last week: LAUNCHED!
 	- This week: Collect first portion of sales in order to...
 		- ✅ SUP-198 SBP2: [Treasury] Reimbursement of Revolution 0 Expense
@@ -83,7 +83,7 @@ What's our Crowdfund status?
 		- Each invitation can become its own thread and can be developed more fully
 
 
-#[[Information Squad- Revolution 1]] 
+#[Information Squad- Revolution 1](Information%20Squad-%20Revolution%201) 
 - Last week: 
 	- Launch, Townhall
 	- Updated Getting started, wallet & crowdfund resources on Notion + Discord #start-here
@@ -91,15 +91,15 @@ What's our Crowdfund status?
 	- Planning for CX and Information Squad Revolution 1
 - This week: 
 	- Update FAQ
-	- Develop Information Squad plan for Revolution 1 #[[Information Squad- Revolution 1]] 
-	- #[[191 Review Discord Onboarding Flow]] 
+	- Develop Information Squad plan for Revolution 1 #[Information Squad- Revolution 1](Information%20Squad-%20Revolution%201) 
+	- #[191 Review Discord Onboarding Flow](191%20Review%20Discord%20Onboarding%20Flow) 
 
 ## Triage Items
 - What tensions do you have that need resolution to move forward in your work?
 	- How to direct SB community to roles/guilds/invitations? (Michelle)
 	- Confirm availability for reflection session (Rowan)
 	- What projects are now complete? What are the projects that we're going to have moving forwards? (Mark)
-	- What is the #[[$sprb]] address so that I can see the tokens in Metamask? (Heenal)
+	- What is the #[$sprb](/notes/archive/clarity/Tags/$sprb.md) address so that I can see the tokens in Metamask? (Heenal)
 		- @Lewwwk  ? :) 0xfC3Ac26D9A4A00B2534298c933A84F54430B3850
 	- 
 	- Budget for each Squad for the next Revolution - not sure if we are ready to talk about this yet or if it's one for a future date (Heenal)

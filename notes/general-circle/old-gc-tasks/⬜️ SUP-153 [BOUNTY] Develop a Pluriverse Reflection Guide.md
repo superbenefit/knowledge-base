@@ -14,4 +14,4 @@ We can come up with a simple facilitation guide and worksheet help people host t
 - Estimated effort: 4-6 hours
 - Bounty Reward: 100 $SPRB
 - Due date: February 7, 2022
-- Reporting to @heenal as part of #[[information squad]] 
+- Reporting to @heenal as part of #[information squad](/notes/archive/clarity/Tags/information%20squad.md) 

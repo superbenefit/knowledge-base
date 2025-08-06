@@ -2,9 +2,9 @@
 tags: meetings
 date: 18-07-2022
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 # Week of July 18, 2022
-#[[tactical meetings]] 
+#[tactical meetings](/notes/archive/clarity/Tags/tactical%20meetings.md) 
 
 ## Attendees
 - Heenal, Rowan
@@ -19,12 +19,12 @@ date: 18-07-2022
 	- Last week:
 	- This week:
 	- Blockers:
-- #[[governance conversations]] @heenal 
+- #[governance conversations](/notes/archive/clarity/Tags/governance%20conversations.md) @heenal 
 	- Last week:
 		- Edited 3 Twitter Space recordings, uploaded to AWS (via Notion), added links to Mirror post
 	- This week:
 		- Promote 3rd blog once published
-- #[[SUP-246 [BOUNTY] Distribute some $SPRB to the Discord community]]@heenal 
+- #[SUP-246 [BOUNTY](SUP-246%20[BOUNTY)@heenal 
 	- Last week:
 		- 5,644 of 10,00 $SPRB distributed :)
 	- This week:
@@ -37,7 +37,7 @@ date: 18-07-2022
 - @Lewwwk updates:
 	- Krause House proposal day-day holding pattern as they navigate some intensity
 	- Foundation conversation in progress - partners having an internal conversation
-- Project name/link: #[[P-193 Community Experience- Revolution 1]] 
+- Project name/link: #[P-193 Community Experience- Revolution 1](P-193%20Community%20Experience-%20Revolution%201) 
 	- Last week:
 		- follow up about token distribution by DM
 		- support token allocation in gnosis
@@ -47,7 +47,7 @@ date: 18-07-2022
 		- promote governance series final blog
 		- follow up Northpine Foundation
 	- Blockers:
-- Project name/link: #[[superbenefit contributor guide - v1]] 
+- Project name/link: #[superbenefit contributor guide - v1](/notes/archive/clarity/Tags/superbenefit%20contributor%20guide%20-%20v1.md) 
 	- Last week:
 		- started token distribution document
 		- in weekly update

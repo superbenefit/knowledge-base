@@ -2,7 +2,7 @@
 tags: meetings
 date: 24-10-2022
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 ## Attendees
 - 
 - Apologies: heenal, Lewwwk
@@ -16,19 +16,19 @@ date: 24-10-2022
 	- Last week:
 	- This week:
 	- Blockers:
-- #[[P-196 Information Squad- Revolution 1]] @heenal 
+- #[P-196 Information Squad- Revolution 1](P-196%20Information%20Squad-%20Revolution%201) @heenal 
 	- Last week:
 		- Updated [Notion Community website](https://superbenefit.org/community) with current projects, updated governance, design tweaks
 		- Set up Clarity updates in Discord for Systems Transformation, Community Experience and Primitive projects
 		- Reviewed Discord onboarding flow & channel setup
-		- Reviewed plan for #[[CCS Workshop]] 
+		- Reviewed plan for #[CCS Workshop](CCS%20Workshop) 
 		- Encourage SB community to visit the Community site
 	- This week:
 		- Update copy on Discord onboarding flow
 		- Update superbenefit.org website?
 	- Blockers:
 		- Waiting for Squarespace access for the website
-- Project name/link #[[P-193 Community Experience- Revolution 1]] 
+- Project name/link #[P-193 Community Experience- Revolution 1](P-193%20Community%20Experience-%20Revolution%201) 
 	- Last week:
 		- @Lewwwk connected Sy from Klima DAO to @MBaldwin  for Future of Good Dismantling Barriers Summit for panel as example of systems transformation
 		- Meeting Steve Waddell about  SuperBenefit & access to SPRB
@@ -36,7 +36,7 @@ date: 24-10-2022
 	- This week:
 		- Organize meeting for those interested in revenue/consulting model for SuperBenefit?
 	- Blockers:
-- Project name/link #[[P-264 Systems Transformation Project]] 
+- Project name/link #[P-264 Systems Transformation Project](P-264%20Systems%20Transformation%20Project) 
 	- Last week:
 		- Kick off meeting with those interested in project with walk through of DAO Cell Primitive 
 		- Crypto Culture and Society workshop and elective  - web3 for better futures: transforming systems, sectors and institutions - posted to community for feedback [https://docs.google.com/document/d/1fbk_t7lYgT7CvbaBRnSFtIwNquovqHJ6vN-Ke8qz8Lg/edit](https://docs.google.com/document/d/1fbk_t7lYgT7CvbaBRnSFtIwNquovqHJ6vN-Ke8qz8Lg/edit) 
@@ -45,7 +45,7 @@ date: 24-10-2022
 	- This week:
 		- Prep meeting @heenal @Nate workshop 1 for web3 for better futures: transforming systems, sectors and institutions 
 	- Blockers:
-- #[[P-236 Krause House Collaboration]]
+- #[P-236 Krause House Collaboration](P-236%20Krause%20House%20Collaboration)
 - all in for sport collaboration underway (@Rowan  can update)
 
 ## Triage Items

@@ -128,8 +128,8 @@ dv.table(
             !p.file.path.startsWith("drafts/")
         )
         .sort(p => p.title, 'asc')
-        .map(p => [
-            `**[${p.title}](${p.file.path})**`,  
+        .map(p => 
+            `**[${p.title}**`,  
             p.description
         ])
 );

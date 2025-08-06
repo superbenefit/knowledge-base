@@ -2,9 +2,9 @@
 tags: meetings
 date: 29-08-2022
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 # Week of August 29, 2022
-#[[tactical meetings]] 
+#[tactical meetings](/notes/archive/clarity/Tags/tactical%20meetings.md) 
 ## Attendees
 - Michelle, Ayusha, Michael, Rowan 
 
@@ -28,8 +28,8 @@ date: 29-08-2022
 	- Blockers:
 
 
-- #[[Krause House Collaboration]]
--  #[[P-193 Community Experience- Revolution 1]] 
+- #[Krause House Collaboration](Krause%20House%20Collaboration)
+-  #[P-193 Community Experience- Revolution 1](P-193%20Community%20Experience-%20Revolution%201) 
 	- DAO and nature comparisons videos
 	- Plenary for Future of Good Digital Barriers Summit Nov 28-29 on web3 in partnership with CFC/Future of Good
 	- Youthful Cities - meeting Robert Barnard, exploring DAOs interested in our work

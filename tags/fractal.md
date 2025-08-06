@@ -53,7 +53,7 @@ Blockchain protocols and distributed systems often exhibit fractal characteristi
 - **[Governance](tags/governance.md)**: Fractal governance implements recursive decision-making structures that scale democratic participation
 - **[Autonomy](tags/autonomy.md)**: Fractal structures preserve autonomy at different levels while maintaining coherent coordination
 - **[Coordination](tags/coordination.md)**: Fractal coordination uses self-similar patterns to manage complexity across multiple organizational scales
-- **[Recursive](tags/recursive.md)**: Fractal patterns emerge through recursive processes where simple rules create complex, self-similar structures
+- **Recursive**: Fractal patterns emerge through recursive processes where simple rules create complex, self-similar structures
 
 ## References and Resources
 
@@ -72,6 +72,6 @@ Blockchain protocols and distributed systems often exhibit fractal characteristi
 - [The ins and outs of decentralized autonomous organizations (DAOs) | ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2096720923000180) - Research on DAO organizational structures and governance patterns
 
 **SuperBenefit Context:**
-- [[tags/cooperative]] - Examples of self-similar organizational patterns across scales
-- [[tags/governance]] - Recursive governance structures and democratic participation
-- [[notes/solidarity-draft]] - Distributed coordination systems with self-similar solidarity patterns
+- tags/cooperative - Examples of self-similar organizational patterns across scales
+- [governance](tags/governance.md) - Recursive governance structures and democratic participation
+- notes/solidarity-draft - Distributed coordination systems with self-similar solidarity patterns

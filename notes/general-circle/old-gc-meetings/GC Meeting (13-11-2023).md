@@ -2,13 +2,13 @@
 tags: meetings
 date: 13-11-2023
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 ## Attendees
 - 
 - **Regrets:** 
 
 ## Updates 
-- #[[P-257 DAO Primitives Framework]]
+- #[P-257 DAO Primitives Framework](P-257%20DAO%20Primitives%20Framework)
 	- Charmverse Setup:
 		- Token Gates & Roles enabled for self-service
 		- [Community Pages](https://app.charmverse.io/superbenefit/community-8590899773427281) imported from Notion. Databases are WIP
@@ -18,18 +18,18 @@ date: 13-11-2023
 			- [Ops Databases](https://app.charmverse.io/superbenefit/ops-databases-014266549665047146) for [Tasks](https://app.charmverse.io/superbenefit/operational-tasks-9523209970867428), [Meetings](https://app.charmverse.io/superbenefit/operational-meetings-059769870862250274) & [In-Kind Contributions](https://app.charmverse.io/superbenefit/in-kind-contributions-26808141817358866)
 		-  [Treasury Log](https://app.charmverse.io/superbenefit/treasury-log-superbenefit-eth-21962092310353531) & authorization flow is WIP
 		- [Reusable templates](https://app.charmverse.io/superbenefit/charmverse-templates-244289220874357) for most pages
-- #[[P-261 Windfall - Residential Energy NFT]]
+- #[P-261 Windfall - Residential Energy NFT](P-261%20Windfall%20-%20Residential%20Energy%20NFT)
 	- Hoping to have funds in the WREEP safe by end of the weekend. 
 	- Finalizing docs & onboarding for the stakeholder community (by tomorrow)
 		- We will be able to reuse these for stakeholder groups in other projects, too
-- #[[P-267 Initial Planning - Reimagining Power]]
+- #[P-267 Initial Planning - Reimagining Power](P-267%20Initial%20Planning%20-%20Reimagining%20Power)
 	- OTF Funding
 		- We got the agreement to sign! However, it had some errors and had to be sent back for revisions. We heard today that revisions are being incorporated.
 	- Menzies Foundation
 		- update on meeting 
 	- Restorying Power - meeting this Thurs - working through visual
 	- Stakeholder meetings coming up on Nov 20 and Dec 11
-- #[[community experience squad]] 
+- #[community experience squad](/notes/archive/clarity/Tags/community%20experience%20squad.md) 
 	- Weekly/Bi-weekly Newsletter - in progress
 - Rev 1 - initial allocation proposal
 	- being executed now

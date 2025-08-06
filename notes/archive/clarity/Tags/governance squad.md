@@ -17,5 +17,5 @@ To develop and steward the structures and practices of self-management and decis
 ## Current Activity
 ✅ P-7 Governance Implementation
 ## History
-- Dec 30: Governance Squad was instantiated through #[[9 General Circle Lead invites individuals into Squad Lead roles]] 
+- Dec 30: Governance Squad was instantiated through #[9 General Circle Lead invites individuals into Squad Lead roles](9%20General%20Circle%20Lead%20invites%20individuals%20into%20Squad%20Lead%20roles) 
 

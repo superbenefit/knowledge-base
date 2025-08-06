@@ -43,10 +43,10 @@ Community self-governance often involves consensus-building processes, distribut
 - **[Autonomy](tags/autonomy.md)**: Self-governance preserves individual and group autonomy while enabling collective coordination
 - **[Decentralization](tags/decentralization.md)**: Self-governance distributes authority away from centralized control toward participant communities
 - **[Governance](tags/governance.md)**: Self-governance represents participatory approaches to collective decision-making and coordination
-- **[Cooperative](tags/cooperative.md)**: Cooperatives implement self-governance through democratic member control and collective ownership
+- **Cooperative**: Cooperatives implement self-governance through democratic member control and collective ownership
 - **[Networks](tags/networks.md)**: Self-governing networks enable coordination without hierarchical control structures
 - **[Consensus](tags/consensus.md)**: Self-governance often relies on consensus-building processes for collective decision-making
-- **[Democratic](tags/democratic.md)**: Self-governance emphasizes democratic participation and shared decision-making authority
+- **Democratic**: Self-governance emphasizes democratic participation and shared decision-making authority
 
 ## References and Resources
 
@@ -60,6 +60,6 @@ Community self-governance often involves consensus-building processes, distribut
 - [Blockchain and DAOs: An Integrative Model | ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0040162522003304) - Research on autonomous governance mechanisms in blockchain-based organizations
 
 **SuperBenefit Context:**
-- [[tags/cooperative]] - Democratic governance and member control in cooperative organization
-- [[tags/decentralization]] - Distribution of authority enabling community self-governance
-- [[notes/solidarity-draft]] - Decentralized coordination systems supporting autonomous collective action
+- tags/cooperative - Democratic governance and member control in cooperative organization
+- [decentralization](tags/decentralization.md) - Distribution of authority enabling community self-governance
+- notes/solidarity-draft - Decentralized coordination systems supporting autonomous collective action

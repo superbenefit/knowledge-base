@@ -2,7 +2,7 @@
 tags:
   - meetings
 date: 19-09-2023
-source: "[[2022-04-19 - Weekly Meeting Notes - DAO Primitives]]"
+source: "[2022-04-19 - Weekly Meeting Notes - DAO Primitives](notes/dao-primitives/primitives-archive/primitives-docs/2022-04-19%20-%20Weekly%20Meeting%20Notes%20-%20DAO%20Primitives.md)"
 ---
 
 # DAO Primitives Meeting - **9/19/23**
@@ -24,7 +24,7 @@ source: "[[2022-04-19 - Weekly Meeting Notes - DAO Primitives]]"
 		- The financial stewardship covers the bases of a contract
 		- The stakeholder group (including the financial steward) can communicate any requirements that they need from the relationship. This (along with the purpose/direction is referenced in the TLC Cell State (and stored somewhere else). This is the basic starting point for the stakeholder and TLC partnership.
 		- 
-	- Review DSL in #[[P-257 DAO Primitives Framework]] (rather)
+	- Review DSL in #[P-257 DAO Primitives Framework](P-257%20DAO%20Primitives%20Framework) (rather)
 	- Can we surface the AIFS hats tree in Sobol so that we can demo it for RPP and stakeholders (rowan)
 	- Sobol for visualising projects (rowan)
 		- Setting up Sobol for SP as a way of demonstrating out governance structure 

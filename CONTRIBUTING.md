@@ -12,7 +12,7 @@ Our shared language grows similarly - new terms emerge naturally in our work, ge
 
 ### Documents & Metadata
 
-Every document in our base has both visible content and helpful metadata that helps it find its place in the ecosystem. Our [type definitions](tools/types/readme.md) provide patterns for different kinds of content, but don't let the structure overshadow the substance. The most important thing is capturing and connecting ideas effectively.
+Every document in our base has both visible content and helpful metadata that helps it find its place in the ecosystem. Our [type definitions](/tools/types/readme.md) provide patterns for different kinds of content, but don't let the structure overshadow the substance. The most important thing is capturing and connecting ideas effectively.
 
 ### Setting Up Your Environment
 

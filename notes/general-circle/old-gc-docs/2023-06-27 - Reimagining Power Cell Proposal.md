@@ -1,4 +1,4 @@
-#[[governance proposals]] #[[notes/archive/clarity/Tags/reimagining power]] #[[Cell State (DRAFT) - Reimagining Power]] 
+#[governance proposals](/notes/archive/clarity/Tags/governance%20proposals.md) #[reimagining power](/notes/archive/clarity/Tags/reimagining%20power.md) #[Cell State (DRAFT) - Reimagining Power](Cell%20State%20(DRAFT)%20-%20Reimagining%20Power) 
 From @rathermercurial @Ananth @Rowan  
 
 ## Purpose

@@ -1,7 +1,7 @@
 Below we will note our contributions to this project to date.
 10,000 $SPRB in total for distribution to contributors to SuperBenefit Contributor Guide V1
-#[[SUP-209 Proposal for Contributor Guide]]
-#[[superbenefit contributor guide - v1]]  
+#[SUP-209 Proposal for Contributor Guide](SUP-209%20Proposal%20for%20Contributor%20Guide)
+#[superbenefit contributor guide - v1](/notes/archive/clarity/Tags/superbenefit%20contributor%20guide%20-%20v1.md)  
 
 @Calvin 
  -proposed outline, and indicated sections to be fleshed out

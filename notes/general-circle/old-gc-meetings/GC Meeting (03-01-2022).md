@@ -2,7 +2,7 @@
 tags: meetings
 date: 03-01-2022
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 # Week of January 3, 2022
 ## Attendees
 
@@ -37,32 +37,32 @@ date: 03-01-2022
 	- Mark 0.5-1 days
 
 ## Projects
-- #[[60 Draft Season 0 Roadmap]]
+- #[60 Draft Season 0 Roadmap](60%20Draft%20Season%200%20Roadmap)
 	- Last Week
 		- Draft roadmap is done! See "Roadmap" link on left of Clarity
 	- This Week
 	- Blockers
-- #[[7 Governance Implementation]] 
+- #[7 Governance Implementation](7%20Governance%20Implementation) 
 	- Last Week
 		- Invited people into lead roles
 		- Convened first Tactical Meeting
 	- This Week
 		- Tension about what the priorities are
 	- Blockers
-- #[[Membership NFT]] 
+- #[Membership NFT](Membership%20NFT) 
 	- Last Week
 		- Worked on concept and mechanics
 		- Mint site sketched out in Miro
 	- This Week
 		- Will connect with Ryan this week
 	- Blockers
-- #[[45 Launch $SPRB Governance Token]] 
+- #[45 Launch $SPRB Governance Token](45%20Launch%20$SPRB%20Governance%20Token) 
 	- Last Week
 		- Started spec-ing out what needs to happen
 	- This Week
 		- Will lay out a draft of potential allocations and potential drop approach
 	- Blockers
-- #[[Community Experience Project]]
+- #[Community Experience Project](Community%20Experience%20Project)
 	- Last Week
 		- Drafted community experience survey for all Discord members
 		- Planning Town Hall
@@ -75,7 +75,7 @@ date: 03-01-2022
 	- Blockers
 		- Roles
 		- 
-- #[[Set up Information Systems]] 
+- #[Set up Information Systems](Set%20up%20Information%20Systems) 
 	- Last Week
 		- Web3 library updates
 		- FAQ development and community resources content

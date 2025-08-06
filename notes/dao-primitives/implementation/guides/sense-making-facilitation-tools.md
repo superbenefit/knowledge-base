@@ -24,8 +24,8 @@ Each tool is documented with the following structure:
 **Links:**
 - [Using Causal Layered Analysis for Transformational Change](https://medium.com/foresight-matters/using-causal-layered-analysis-for-transformational-change-51b461bbfffb)
 
-![[pyramid-image.png]]
-![[causal-layered-analysis.png]]
+![pyramid-image](attachments/pyramid-image.png)
+![causal-layered-analysis](attachments/causal-layered-analysis.png)
 
 ---
 

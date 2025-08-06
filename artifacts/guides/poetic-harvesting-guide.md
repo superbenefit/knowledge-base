@@ -14,9 +14,9 @@ type: guide
 
 # Poetic Harvesting Implementation Guide
 
-This guide provides practical implementation guidance for **[Poetic Harvesting](/artifacts/patterns/poetic-harvesting.md)** - the practice of acting as sacred witness to collective conversations and reflecting wisdom back through spoken word poetry.
+This guide provides practical implementation guidance for **[Poetic Harvesting](artifacts/patterns/poetic-harvesting.md)** - the practice of acting as sacred witness to collective conversations and reflecting wisdom back through spoken word poetry.
 
-For a full understanding of what poetic harvesting is and when to use it, see the **[Poetic Harvesting Pattern](/artifacts/patterns/poetic-harvesting.md)**. This guide focuses on the practical how-to for organizations and communities ready to implement this practice.
+For a full understanding of what poetic harvesting is and when to use it, see the **[Poetic Harvesting Pattern](artifacts/patterns/poetic-harvesting.md)**. This guide focuses on the practical how-to for organizations and communities ready to implement this practice.
 
 ---
 
@@ -245,7 +245,7 @@ Poetic harvesting works best as **part of a documentation ecosystem**, not a rep
 ## Additional Resources
 
 **Examples and Templates:**
-- [AIFS Poetic Harvests Collection](/notes/aifs/poetic-harvests/)
+- AIFS Poetic Harvests Collection
 
 **Related Practices:**
 - [Sacred Witness Traditions](https://example.com) - Japanese and other cultural practices
@@ -264,4 +264,4 @@ Poetic harvesting works best as **part of a documentation ecosystem**, not a rep
 
 ---
 
-*For the full conceptual framework and background on poetic harvesting, see the **[Poetic Harvesting Pattern](/artifacts/patterns/poetic-harvesting.md)**.*
+*For the full conceptual framework and background on poetic harvesting, see the **[Poetic Harvesting Pattern](artifacts/patterns/poetic-harvesting.md)**.*

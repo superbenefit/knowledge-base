@@ -1,4 +1,4 @@
-#[[notes/archive/clarity/Tags/reimagining power]] #[[equality fund]] 
+#[reimagining power](notes/archive/clarity/Tags/reimagining%20power.md) #[equality fund](notes/archive/clarity/Tags/equality%20fund.md) 
 
 >THIS DOC IS NOW ON CHARMVERSE: [https://app.charmverse.io/superbenefit/equality-fund-call-transcript-4-7-23-4547316900937055](https://app.charmverse.io/superbenefit/equality-fund-call-transcript-4-7-23-4547316900937055) 
 

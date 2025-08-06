@@ -69,13 +69,13 @@ This approach encompasses:
 
 ### DeFi in Social Impact
 
-In the context of social impact initiatives, DeFi tools can enable more transparent, efficient, and equitable resource distribution. Privacy-preserving payment systems like those described in the [Privacy-Preserving Crypto Payments](privacy-payments.md) pattern demonstrate how DeFi mechanisms can be adapted to meet the needs of vulnerable communities while protecting participant security.
+In the context of social impact initiatives, DeFi tools can enable more transparent, efficient, and equitable resource distribution. Privacy-preserving payment systems like those described in the Privacy-Preserving Crypto Payments pattern demonstrate how DeFi mechanisms can be adapted to meet the needs of vulnerable communities while protecting participant security.
 
 ## Related Concepts
 
-- [[tags/blockchain]]: The underlying technology that enables decentralized, trustless financial applications
-- [[tags/governance]]: The mechanisms by which DeFi protocols make decisions and evolve
-- [[tags/protocols]]: Standardized sets of rules that govern DeFi interactions
-- [[tags/payments]]: The exchange of value between parties, transformed by DeFi mechanisms
-- [[tags/privacy]]: A critical consideration in designing ethical DeFi systems
-- [[tags/attestations]]: Verified statements that can enhance trust and functionality in DeFi applications
+- [blockchain](tags/blockchain.md): The underlying technology that enables decentralized, trustless financial applications
+- [governance](tags/governance.md): The mechanisms by which DeFi protocols make decisions and evolve
+- [protocols](tags/protocols.md): Standardized sets of rules that govern DeFi interactions
+- [payments](tags/payments.md): The exchange of value between parties, transformed by DeFi mechanisms
+- [privacy](tags/privacy.md): A critical consideration in designing ethical DeFi systems
+- [attestations](tags/attestations.md): Verified statements that can enhance trust and functionality in DeFi applications

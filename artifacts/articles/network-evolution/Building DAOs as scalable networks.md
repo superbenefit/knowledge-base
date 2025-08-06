@@ -10,7 +10,7 @@ publish: "true"
 type: link
 ---
 
-The article "Building DAOs as Scalable Networks" explores how decentralized autonomous organizations ([DAOs](/tags/daos.md)) can scale by structuring smaller autonomous units called "Cells" within a broader governance system. It proposes a two-house model of governance — [Community Governance](/artifacts/patterns/community-governance.md) to safeguard the network's purpose and [Operational Governance](/artifacts/patterns/operational-governance.md) to allow flexibility and innovation. This approach enhances collaboration and coordination while ensuring long-term [purpose](/tags/purpose.md) alignment, enabling DAOs to influence larger systems effectively.
+The article "Building DAOs as Scalable Networks" explores how decentralized autonomous organizations ([DAOs](tags/daos.md)) can scale by structuring smaller autonomous units called "Cells" within a broader governance system. It proposes a two-house model of governance — [Community Governance](artifacts/patterns/community-governance.md) to safeguard the network's purpose and [Operational Governance](artifacts/patterns/operational-governance.md) to allow flexibility and innovation. This approach enhances collaboration and coordination while ensuring long-term [purpose](tags/purpose.md) alignment, enabling DAOs to influence larger systems effectively.
 
 For more details, read the full article [here](https://superbenefit.mirror.xyz/Gx_rXSPOyt2sydHwlStfbrgVqYt6P3k5huT3xyZAolo).
 
@@ -20,13 +20,13 @@ _Rowan is a contributor to [SuperBenefitDAO](https://www.superbenefit.org/) and 
 
 ## Designing network economies for autonomous teams to operate in.
 
-Recently many in the web3 community have been refocusing the concept of DAOs. Going from the idea of DAOs being sprawling, unwieldy communities to DAOs ideally being smaller, more pragmatic units of creative innovation that can engage with communities in new and richer ways. This is an attempt to retain a lot of the power and potential of DAOs, but reduce much of the complexity that has been encountered as communities have scaled, and their ability to govern themselves has failed to [scale](/tags/scale.md) with them.
+Recently many in the web3 community have been refocusing the concept of DAOs. Going from the idea of DAOs being sprawling, unwieldy communities to DAOs ideally being smaller, more pragmatic units of creative innovation that can engage with communities in new and richer ways. This is an attempt to retain a lot of the power and potential of DAOs, but reduce much of the complexity that has been encountered as communities have scaled, and their ability to govern themselves has failed to [scale](tags/scale.md) with them.
 
 The problem with this refocusing however, is that we can't escape the fact that these smaller more functional DAOs still operate inside an existing economic and social context. And this larger context will continue to exert a profound influence on everything that occurs at smaller scales. I think that transforming this larger socio/economic context still remains the fundamental opportunity for web3.
 
-Over the past year at SuperBenefit we have been working on DAO governance design that is focused on redesigning both the small innovation units building in web3 and also the larger [networks](/tags/networks.md) that they operate inside. The goal is to create DAOs as coherent wholes that are made up of networked smaller nodes formed into complex systems that can scale.
+Over the past year at SuperBenefit we have been working on DAO governance design that is focused on redesigning both the small innovation units building in web3 and also the larger [networks](tags/networks.md) that they operate inside. The goal is to create DAOs as coherent wholes that are made up of networked smaller nodes formed into complex systems that can scale.
 
-We have been exploring [DAO primitives](/tags/primitives.md), and have found unique and valuable territory in applying them at network scales. These primitive building blocks can allow the growth of DAOs as autonomous teams of people - working groups, pods, sub-DAOs (we refer to them as [Cells](/tags/cells.md) for the sake of the metaphor of evolving complex organisms), being coordinated as collectively intelligent purpose driven networks. This embraces the fact that small teams are the fundamental atomic unit of crypto/web3, but places them inside the larger context of purpose driven **network economies**. You can track this research through this series of articles:
+We have been exploring [DAO primitives](tags/primitives.md), and have found unique and valuable territory in applying them at network scales. These primitive building blocks can allow the growth of DAOs as autonomous teams of people - working groups, pods, sub-DAOs (we refer to them as [Cells](notes/archive/clarity/Tags/cells.md) for the sake of the metaphor of evolving complex organisms), being coordinated as collectively intelligent purpose driven networks. This embraces the fact that small teams are the fundamental atomic unit of crypto/web3, but places them inside the larger context of purpose driven **network economies**. You can track this research through this series of articles:
 
 - **[DAOs aren't things they are flows](https://superbenefit.mirror.xyz/3-ESNDLcf44dZ6VteaqZSpQuTL0oouSxlLJwuAlcQ_s)**
     
@@ -93,9 +93,9 @@ Evolving past early decision-making to a scalable governance structure.
 
 As more working groups (Cells) are created, Governance splits into two different houses – Community Governance & Operational Governance.
 
-1. **[Community Governance](/artifacts/patterns/community-governance.md)** - safeguards the purpose of the network
+1. **[Community Governance](artifacts/patterns/community-governance.md)** - safeguards the purpose of the network
     
-2. **[Operational Governance](/artifacts/guides/dao-primitives-framework/dao-primitives-implemention/implementation-guide-operational-governance.md)** - gives flexibility, autonomy and modern incentive design to produce innovation and scale
+2. **[Operational Governance](artifacts/guides/dao-primitives-framework/dao-primitives-implemention/implementation-guide-operational-governance.md)** - gives flexibility, autonomy and modern incentive design to produce innovation and scale
     
 
 ![](https://superbenefit.mirror.xyz/_next/image?url=https%3A%2F%2Fimages.mirror-media.xyz%2Fpublication-images%2Fe8XTKLhYwcB4nY9F6QxH4.png&w=3840&q=75)
@@ -118,9 +118,9 @@ In the early examples we are experimenting with, the design requires that if Com
 
 This system leverages mechanisms that derive collective intelligence from the three different scales that a DAO network operates across:
 
-1. **[Collaboration Scale](/artifacts/guides/dao-primitives-framework/group-scale/collaboration-scale.md)** - Cells operating as high bandwidth small scale collaborative units that can think and move fast and are operating at the grassroots of the system.
-2. **[Coordination Scale](/artifacts/guides/dao-primitives-framework/group-scale/coordination-scale.md)** - structures of Cells operating together in coordinating systems using [sociocratic governance](https://www.sociocracyforall.org/sociocracy/) to allocate resources and effectively create and implement strategies for the Cells to execute on (Operational Governance).
-3. **[Constituency Scale](/artifacts/guides/dao-primitives-framework/group-scale/constituency-scale.md)** - participation of a broader constituency of stakeholders that safeguard and evolve the long-term purpose of the network (Community Governance).
+1. **[Collaboration Scale](artifacts/guides/dao-primitives-framework/group-scale/collaboration-scale.md)** - Cells operating as high bandwidth small scale collaborative units that can think and move fast and are operating at the grassroots of the system.
+2. **[Coordination Scale](artifacts/guides/dao-primitives-framework/group-scale/coordination-scale.md)** - structures of Cells operating together in coordinating systems using [sociocratic governance](https://www.sociocracyforall.org/sociocracy/) to allocate resources and effectively create and implement strategies for the Cells to execute on (Operational Governance).
+3. **[Constituency Scale](artifacts/guides/dao-primitives-framework/group-scale/constituency-scale.md)** - participation of a broader constituency of stakeholders that safeguard and evolve the long-term purpose of the network (Community Governance).
 
 ![](https://superbenefit.mirror.xyz/_next/image?url=https%3A%2F%2Fimages.mirror-media.xyz%2Fpublication-images%2FLHhCO36Aq6bN48886TQQA.png&w=3840&q=75)
 
@@ -144,6 +144,6 @@ _We are learning as these experiments evolve and are deeply appreciative of the 
 
 ### Article Series
 
-- Previous: [Minimum Viable Permissionless-ness](/artifacts/articles/network-evolution/Minimum Viable Permissionless-ness.md)
+- Previous: [Minimum Viable Permissionless-ness](artifacts/articles/network-evolution/Minimum Viable Permissionless-ness.md)
     
 - Next: …coming soon…

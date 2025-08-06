@@ -7,7 +7,7 @@ This document provides step-by-step instructions for common actions within the C
 ### Step 1: Identify What You Can Offer
 - Reflect on your skills, time, resources, and interests
 - Consider what you enjoy doing or what you're good at
-- Review the [Commitment Examples](./commitment_examples.md) for inspiration
+- Review the [Commitment Examples](notes/ics/ccc/archive/v0.1/commitment_examples.md) for inspiration
 - Think about what would be sustainable for you to offer regularly
 
 ### Step 2: Define Your Commitment Details

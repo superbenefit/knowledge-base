@@ -5,5 +5,5 @@ Squad leads have the following accountabilities and responsibilities:
 - Recruit and appoint sub-roles as might be required. Such roles may include:
 	- Guide / Recruiter 
 	- Fixer (gather/obtain what the squad requires)
-	- Facilitator - running #[[tactical meetings]] 
+	- Facilitator - running #[tactical meetings](/notes/archive/clarity/Tags/tactical%20meetings.md) 
 	- Secretary - documenting decisions and referring to governance rules/constraints 

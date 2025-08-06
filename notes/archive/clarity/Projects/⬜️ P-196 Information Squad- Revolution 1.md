@@ -2,7 +2,7 @@
 To facilitate the collection, storage and flow of information that supports the work of SuperBenefit’s squads and community.
 ## Accountabilities
 - Develop and maintain community resources on Notion
-- Support #[[squads]] in record-keeping, documentation and knowledge-sharing
+- Support #[squads](/notes/archive/clarity/Tags/squads.md) in record-keeping, documentation and knowledge-sharing
 - Document the unfolding story of SuperBenefit so that Contributors and community members have a shared sense of place and history
 
 
@@ -18,7 +18,7 @@ To facilitate the collection, storage and flow of information that supports the 
 	- Support other squads with sharing their ongoing work, updates & invitations (see Krause House)
 	- Onboarding handbook ([see CCS](https://www.notion.so/cryptosociety/CCS-Member-Handbook-bd533f8f34c94dac8bf5d68504a25d11))
 	- Discord Guide ([CCS example](https://app.clarity.so/superbenefit/work/196))
-	- Metrics tracking (see #[[Community Experience- Revolution 1]])
+	- Metrics tracking (see #[Community Experience- Revolution 1](Community%20Experience-%20Revolution%201))
 	- Consider transition to a super.so site (investigate possible limitations and check with @Lewwwk)
 - Clarity
 	- Support other squads with developing and publishing bounties and proposals

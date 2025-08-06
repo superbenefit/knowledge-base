@@ -81,7 +81,7 @@ Privacy Payments offer several key advantages:
 - **Increased Scalability:** The system can handle large-scale distributions efficiently, unlike traditional paper-based systems. The use of smart contracts automates many processes, reducing the administrative burden.
 - **Enhanced Transparency and Auditability:** Smart contracts provide a transparent and auditable record of all transactions, allowing for verification of fund distribution without compromising recipient privacy.
 - **Resilience:** The decentralized nature of the system makes it more resilient to disruptions in traditional financial systems. It can function effectively even in unstable or conflict-affected regions.
-- **Cost-Effectiveness:** By reducing reliance on intermediaries and automating processes, the system can lead to significant cost savings, especially compared to traditional methods. This aligns with the UN OCHA’s emphasis on cost savings in humanitarian operations [2](attachments/Blockchain%20Humanitarian%20Opportunities.pdf).
+- **Cost-Effectiveness:** By reducing reliance on intermediaries and automating processes, the system can lead to significant cost savings, especially compared to traditional methods. This aligns with the UN OCHA’s emphasis on cost savings in humanitarian operations [2](attachments/Blockchain Humanitarian Opportunities.pdf).
 
 ### Risks and Opportunities
 
@@ -102,7 +102,7 @@ Addressing these risks is crucial for successful implementation. However, the po
 ## Resources, References, and Further Reading
 
 - https://www.privacyguides.org/en/advanced/payments/
-- [Emergency Financing Tokens - Geoffrey Goodell ](attachments/Emergency%20Financing%20Tokens.pdf)
+- [Emergency Financing Tokens - Geoffrey Goodell ](attachments/Emergency Financing Tokens.pdf)
 - [Blockchain for the Humanitarian Sector: Future Opportunities - UN OCHA](https://www.unocha.org/publications/report/world/blockchain-humanitarian-sector-future-opportunities)
 - [Considering Digital Assets for Humanitarian Cash-Based Transfers](attachments/considering-digital-assets.pdf)
-- [Not Yet Another Digital ID: Privacy-Preserving Humanitarian Aid Distribution](attachments/Privacy%20Preserving%20Aid%20Distribution.pdf)
+- [Not Yet Another Digital ID: Privacy-Preserving Humanitarian Aid Distribution](attachments/Privacy Preserving Aid Distribution.pdf)

@@ -1,4 +1,4 @@
 ---
 tags: tasks
 ---
-Being drafted directly in #[[tags/treasury]] 
+Being drafted directly in #[treasury](/tags/treasury.md) 

@@ -27,7 +27,7 @@ phase:
 
 
 ## Nucleus Overview
-For decentralized coordination using small autonomous [[teams]] to be successful, groups need a mechanism to capture and display a clear articulation of the group's current "state". The nucleus primitive serves this role of capturing and maintaining a [group's state](tags/group-state.md). 
+For decentralized coordination using small autonomous [teams](tags/teams.md) to be successful, groups need a mechanism to capture and display a clear articulation of the group's current "state". The nucleus primitive serves this role of capturing and maintaining a group's state. 
 
 A team/group's nucleus will usually be in the form of a digital document of some sort. 
 
@@ -96,7 +96,7 @@ Here are some guidelines for creating an effective team/group nucleus:
 
   [OpenCivics Collaborative Initiative – Specification Template](https://github.com/superbenefit/knowledge-base/blob/main/links/OpenCivics%20Collaborative%20Initiative%20%E2%80%93%20Specification%20Template.md)
 
-[state](notes/rpp/working-docs/state.md)
+[state](notes/rpp/rpp-working-docs/state.md)
 
 State - pattern (to be created)
 

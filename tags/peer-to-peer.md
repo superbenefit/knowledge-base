@@ -44,8 +44,8 @@ These distributed resource systems demonstrate how P2P principles can create abu
 - **[Decentralization](tags/decentralization.md)**: P2P systems implement decentralization by distributing authority and resources across equal participants
 - **[Networks](tags/networks.md)**: P2P architecture creates resilient networks through direct peer-to-peer connections and coordination
 - **[Distributed](tags/distributed.md)**: P2P systems distribute resources and capabilities across multiple autonomous participants
-- **[Cooperative](tags/cooperative.md)**: Cooperatives implement P2P principles through member-to-member resource sharing and democratic participation
-- **[Autonomous](tags/autonomous.md)**: P2P networks enable autonomous operation without requiring centralized control or coordination
+- **Cooperative**: Cooperatives implement P2P principles through member-to-member resource sharing and democratic participation
+- **Autonomous**: P2P networks enable autonomous operation without requiring centralized control or coordination
 - **[Mutual Aid](tags/mutual-aid.md)**: Mutual aid networks operate on P2P principles of direct resource sharing between community members
 
 ## References and Resources
@@ -60,6 +60,6 @@ These distributed resource systems demonstrate how P2P principles can create abu
 - [Peer-to-Peer (P2P) Service Definition | Investopedia](https://www.investopedia.com/terms/p/peertopeer-p2p-service.asp) - Overview of P2P services in finance and sharing economy applications
 
 **SuperBenefit Context:**
-- [[tags/cooperative]] - Member-to-member resource sharing and democratic participation principles
-- [[tags/networks]] - Decentralized network coordination and peer-based organizing
-- [[tags/mutual-aid]] - Direct resource sharing and community support systems
+- tags/cooperative - Member-to-member resource sharing and democratic participation principles
+- [networks](tags/networks.md) - Decentralized network coordination and peer-based organizing
+- [mutual-aid](tags/mutual-aid.md) - Direct resource sharing and community support systems

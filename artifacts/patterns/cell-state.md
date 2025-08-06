@@ -56,13 +56,13 @@ The cell's operating model - including its practices, protocols, roles, and cult
 **Progress (What)**
 The cell's actual achievements and impact - tracking initiatives, metrics, and value creation to enable accountability and adaptation.
 
-
 **Phase**
-The cell state document can serve 5 different purposes depending on the [phase](artifacts/guides/dao-primitives-framework/group-phase/group-phase.md) a group is at in its lifecycle: 
-1. As a collaborative document to start to gather thoughts and intentions for the group in the [conversation](artifacts/guides/dao-primitives-framework/group-phase/conversation-phase.md) phase 
-2. As a proposal template for a formal proposal to approve the establishment of the team in the [formation](artifacts/guides/dao-primitives-framework/group-phase/formation-phase.md) 
-3. As the structure within which to develop and record the team's specific agreements and plans during [organization](artifacts/guides/dao-primitives-framework/group-phase/organization-phase.md) phase 
-4. As the capture of the ongoing evolving current state of the operating group. Visible, public (to the extent that this is practical) interface for those coordinating with the group through [coordination](artifacts/guides/dao-primitives-framework/group-phase/coordination-phase.md)phase 
+The cell state document can serve 5 different purposes depending on the [phase](artifacts/guides/dao-primitives-framework/group-phase/group-phase.md) a group is at in its lifecycle:
+
+1. As a collaborative document to start to gather thoughts and intentions for the group in the [conversation](artifacts/guides/dao-primitives-framework/group-phase/conversation-phase.md) phase
+2. As a proposal template for a formal proposal to approve the establishment of the team in the [formation](artifacts/guides/dao-primitives-framework/group-phase/formation-phase.md)
+3. As the structure within which to develop and record the team's specific agreements and plans during [organization](artifacts/guides/dao-primitives-framework/group-phase/organization-phase.md) phase
+4. As the capture of the ongoing evolving current state of the operating group. Visible, public (to the extent that this is practical) interface for those coordinating with the group through [coordination](artifacts/guides/dao-primitives-framework/group-phase/coordination-phase.md)phase
 5. As the final record that archives what the group has achieved and who contributed to these achievements through[completion](artifacts/guides/dao-primitives-framework/group-phase/completion-phase.md) phase
 
 ## Components of group state
@@ -91,10 +91,10 @@ The following is a recommended set of components designed to provide the key inf
   - Simple decisions in the team. Being clear about making and recording decisions as part of your meetings and other interactions
   - Formal decisions - including treasury decisions and making changes to your Cell state
   - Dispute resolutions - agreements about how you will approach disputes and conflict within your team
-  - [Decision-log](decision-log.md) - recording important decisions in a secure way
+  - [Decision-log](notes/dao-primitives/implementation/patterns/collaboration-scale-patterns/decision-log.md) - recording important decisions in a secure way
   - Tools
     - Record keeping - tools for keeping records of decisions that the team makes
-    - Decision protocols - e.g adopting something like [decider](notes/rpp/working-drafts/decider.md) as a shared standard for decision-making
+    - Decision protocols - e.g adopting something like decider as a shared standard for decision-making
 - **Treasury management**
   - Multisig
     - Treasury multisig configuration
@@ -133,6 +133,7 @@ The tools and practices by which the team achieves and demonstrates progress. Th
 
 **Balancing costs & benefits**
 A careful balancing of the cost of creating and maintaining cell state vs the gains from better collaboration and coordination is required. If too much emphasis is put on creating and maintaining group-state then it can become overly burdensome and counter productive. But if group-state is not sufficiently detailed it will fail to offer the collaboration and coordination benefits desired.
+
 ### Risks
 
 **State-bloat** - Teams can over-index on process related to state creating unnecessary operational overhead
@@ -151,8 +152,6 @@ A careful balancing of the cost of creating and maintaining cell state vs the ga
 
 - Onchain data, via the use of crypto primitives, also allows for more automation, trustless interoperability and potential collective intelligence across the larger network that the group is coordinating inside.
 
-
-
 ---
 
 ## Implementation
@@ -167,7 +166,7 @@ There are several variables that will influence what and how much detail a team 
 - **Responsibilities to outside entities** - Cells may require specific information to be included in their group-state based on agreements they have with entities they are coordinating with.
 - **Amount of resources managed** - a Cell with a large treasury would likely require more rigorous decision-making and treasury management practices to be included in its group-state
 
-- If available, ask for facilitation support to help decide what to include and the level of depth/detail to include based on the cell's [phase](drafts/framework%20backup/group-phase/group-phase.md) and the coordination requirements of the network that the group will operate in.
+- If available, ask for facilitation support to help decide what to include and the level of depth/detail to include based on the cell's phase and the coordination requirements of the network that the group will operate in.
 
 ### Technical implementation
 
@@ -182,8 +181,6 @@ To deliver the above, ideally a Cell's state will be stored in a digital platfor
 - **Token gated access control** - granular control over who can view and edit the content. Ensuring that only key team members can edit the group state document, but also ensure that the state document is visible to the wider network/community.
 - **Version control and attribution** - the ability to see past versions of the document and potentially roll back changes made to it. Seeing the evolution of decisions and changes made to the group over time is important for audit-ability of the group state. It also ensure that the document can be reverted if it includes accidental on deliberate errors occur.
 - **Links to specific documents and applications** - rather than trying to include large amounts of operational information, the group state document should list and link to the different applications that the group is using to manage its work. E.g project management, treasury management, comms platforms etc
-
-
 
 ```dataview
 LIST description

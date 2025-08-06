@@ -1,4 +1,4 @@
-#[[notes/archive/clarity/Tags/reimagining power]] #[[ontario trillium foundation]] 
+#[reimagining power](notes/archive/clarity/Tags/reimagining%20power.md) #[ontario trillium foundation](notes/archive/clarity/Tags/ontario%20trillium%20foundation.md) 
 >**THIS DOC IS NOW IN CHARMVERSE
 **
 Please use the Charmverse doc instead:

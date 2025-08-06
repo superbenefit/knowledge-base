@@ -2,7 +2,7 @@
 tags: meetings
 date: 10-01-2022
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 # Week of January 10, 2022
 ## Attendees
 - @remarkk @heenal @MBaldwin @Lewwwk @flashlight @AlexH @Rowan  @Ryan  
@@ -26,13 +26,13 @@ date: 10-01-2022
 	- Michelle 1
 
 ## Projects
-- #[[7 Governance Implementation]] 
+- #[7 Governance Implementation](7%20Governance%20Implementation) 
 	- Last Week:
 		- convened first Tactical Meeting
 		- interviewed BPetes about DAO Governance structures
 	- This Week:
 		- update the structure map with clear language
-- #[[74 Crowdfund - "Hello World"]] / Origin NFT
+- #[74 Crowdfund - "Hello World"](74%20Crowdfund%20-%20"Hello%20World") / Origin NFT
 	- Last week:
 		- Decided to do a hello world post and crowd fund on mirror.xyz to bootstrap treasury and introduce theory of change
 		- Initial outline of post drafted
@@ -40,19 +40,19 @@ date: 10-01-2022
 	- This week:
 		- Artist in negotiation
 		- Rough draft complete and ask zilla to help with writing
-- #[[Membership NFT]] 
+- #[Membership NFT](Membership%20NFT) 
 	- Last Week:
 		- Specification refined and detailed, technical limitations and possibilities explored
 		- came up with some strong names for parts of this
 	- This Week:
 		- Paused for crowdfund launch
-- #[[45 Launch $SPRB Governance Token]] 
+- #[45 Launch $SPRB Governance Token](45%20Launch%20$SPRB%20Governance%20Token) 
 	- Last week:
 		- Explored technical options for launching the contract
-		- Scoped initial allocation outline #[[63 Initial $SPRB allocation parameters]] 
+		- Scoped initial allocation outline #[63 Initial $SPRB allocation parameters](63%20Initial%20$SPRB%20allocation%20parameters) 
 	- This week
 		- Finalize initial allocation parameters
-- #[[Community Experience Project]] 
+- #[Community Experience Project](Community%20Experience%20Project) 
 	- Last Week:
 		- 5 x 1-1 meetings
 		- Welcome Party
@@ -69,7 +69,7 @@ date: 10-01-2022
 			- Squad language 
 			- Scarcity vs abundance and ownership - what can we invert - limits on tokens, currency, time blocks, limits on NFTs
 			- Need for working sessions - talking not just individual commenting
-- #[[68 Set up Information Systems]] 
+- #[68 Set up Information Systems](68%20Set%20up%20Information%20Systems) 
 	- Last Week:
 		- Updated Community Resources on Notion, including getting started, upgraded web3 library and new FAQ section
 		- Set up CRM system & user guide
@@ -83,7 +83,7 @@ date: 10-01-2022
 	- Blockers:
 		- Waiting for Discord guild/channel refactor
 		- Confirmation on Contributor onboarding process
-- #[[notes/archive/clarity/Tags/theory of change]] 
+- #[theory of change](/notes/archive/clarity/Tags/theory%20of%20change.md) 
 	- v1 versions of ToC angles uploaded on Miro with navigation 
 	- GC working session on ToC to be scheduled in the next week
 	- Next:
@@ -92,7 +92,7 @@ date: 10-01-2022
 		- Scaffold next stages of 'map', and indicate how the ToC will drive various elements
 		- Work on assumptions that underpin the ToC and consider tests...
 	- Mapping through to action (Rowan)
-- #[[47 Refactor Guilds]] 
+- #[47 Refactor Guilds](47%20Refactor%20Guilds) 
 	- Last week:
 		- did another draft
 		- guilds are for pools of people that we want to tap into at scale
@@ -102,7 +102,7 @@ date: 10-01-2022
 	- This week:
 		-  please take a look above before EOD tomorrow
 		- let's finalize and implement
-- #[[92 Clarify Discord Roles and Flow]] 
+- #[92 Clarify Discord Roles and Flow](92%20Clarify%20Discord%20Roles%20and%20Flow) 
 	- Last week:
 		- drafted the above to clarify the intended roles, flow, and access
 	- This week:
@@ -112,7 +112,7 @@ date: 10-01-2022
 	- Last week:
 	- This week:
 		- find and engage designer
-- #[[90 Outline Treasury Strategy]] 
+- #[90 Outline Treasury Strategy](90%20Outline%20Treasury%20Strategy) 
 	- Last week:
 		- Updated to add more clarity to the strategy
 		- Distinguish between two pools of the treasury
@@ -125,9 +125,9 @@ date: 10-01-2022
 - Metrics - remarkk
 - Miro account structure - remarkk
 - Tell me again, what are the various tokens in train? (Alex)
-	- #[[$sprb]] (governance) and #[[$superb]] (meta currency / ohm fork) TBD if sprb gets replaced by superb, or may be useful to have both. 
+	- #[$sprb](/notes/archive/clarity/Tags/$sprb.md) (governance) and #[$superb](/notes/archive/clarity/Tags/$superb.md) (meta currency / ohm fork) TBD if sprb gets replaced by superb, or may be useful to have both. 
 - Michael is the "$SPRB governance token" the full OHM fork? (Rowan)
-	- No, the governance token #[[$sprb]] - the ohm fork will be #[[$superb]] 
+	- No, the governance token #[$sprb](/notes/archive/clarity/Tags/$sprb.md) - the ohm fork will be #[$superb](/notes/archive/clarity/Tags/$superb.md) 
 - Discord Boost - for better tech experience in video chat for Town Hall and larger events- MB can go ahead and purchase a boost level package if any suggestions based on experience  (MB)
 	- ✅ SUP-104 @Lewwwk to Boost the account
 - Will someone help Peter and Alex create a project
@@ -135,14 +135,14 @@ date: 10-01-2022
 - Scheduling ToC working session (Alex)
 	- @AlexH Doodle poll int he channel
 - Confirm the process to onboard a Contributor - Heenal
-	- @heenal Use #[[squad-proposals]] and the related squad tag: e.g. #[[community experience squad]] 
+	- @heenal Use #[squad-proposals](/notes/archive/clarity/Tags/squad-proposals.md) and the related squad tag: e.g. #[community experience squad](/notes/archive/clarity/Tags/community%20experience%20squad.md) 
 - how are we making decisions about art and design? - Peter
 	- @flashlight Can decide how to decide. Engage advice as he sees fit.
 - Scarcity vs abundance and ownership - what can we invert - limits on tokens, currency, timing. out, limits on NFTs (MB) and opportunity for deeper discussions
-	- the #[[Membership NFT]]  will be unlimited and free to mint, #[[$sprb]]  will be free to earn through contributions as approved, #[[$superb]] will be very cheap to buy (like Klima) -ok thx will keep chatting things out with Heenal Michelle I had some thoughts about this since we chatted earlier! ;)
+	- the #[Membership NFT](Membership%20NFT)  will be unlimited and free to mint, #[$sprb](/notes/archive/clarity/Tags/$sprb.md)  will be free to earn through contributions as approved, #[$superb](/notes/archive/clarity/Tags/$superb.md) will be very cheap to buy (like Klima) -ok thx will keep chatting things out with Heenal Michelle I had some thoughts about this since we chatted earlier! ;)
 - Timeline for Revolution 0 and Revolution 1 - Heenal
-	- note: shifting language to 'revolutions' :) and want to orient around major outcomes that take us to a new level of momentum or scale. so for rev 0, maybe the crowdfund? and for rev 1 the launch of #[[$superb]] ?
-- #[[nft series]] <- is where I'm starting to outline the different NFT series and possibilities.
+	- note: shifting language to 'revolutions' :) and want to orient around major outcomes that take us to a new level of momentum or scale. so for rev 0, maybe the crowdfund? and for rev 1 the launch of #[$superb](/notes/archive/clarity/Tags/$superb.md) ?
+- #[nft series](/notes/archive/clarity/Tags/nft%20series.md) <- is where I'm starting to outline the different NFT series and possibilities.
 - ✅ SUP-107 @Lewwwk Finalize Lead Roles for Alex and Rowan
 
 

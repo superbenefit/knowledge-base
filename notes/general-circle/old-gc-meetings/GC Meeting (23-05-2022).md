@@ -2,9 +2,9 @@
 tags: meetings
 date: 23-05-2022
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 # Week of May 23, 2022
-#[[tactical meetings]] Template
+#[tactical meetings](/notes/archive/clarity/Tags/tactical%20meetings.md) Template
 
 ## Attendees
 - 
@@ -13,7 +13,7 @@ date: 23-05-2022
 - How do you arrive?
 
 ## Projects
-- Project name/link - #[[239 Governance research project (Rev 1) DAO-Cell founding doc]]  (Rowan)
+- Project name/link - #[239 Governance research project (Rev 1) DAO-Cell founding doc](239%20Governance%20research%20project%20(Rev%201)%20DAO-Cell%20founding%20doc)  (Rowan)
 	- Last week:
 		- Post 2 almost done
 		- Updates from team meeting
@@ -21,14 +21,14 @@ date: 23-05-2022
 		- Incubator ideas - football.xyz
 	- This week:
 	- Blockers:
-- Project name/link - #[[superbenefit contributor guide - working draft]] 
+- Project name/link - #[superbenefit contributor guide - working draft](/notes/archive/clarity/Tags/superbenefit%20contributor%20guide%20-%20working%20draft.md) 
 	- Last week: 
 		- Added some content and questions
 	- This week:
 		- Meeting with contributor guide team, set deadline
 	- Blockers:
 		- Set a deadline
-- #[[governance conversations]] 
+- #[governance conversations](/notes/archive/clarity/Tags/governance%20conversations.md) 
 	- Last week: 
 		- Confirmed panellists for Conversation 1
 		- Started tweeting & sharing in Discord servers
@@ -36,7 +36,7 @@ date: 23-05-2022
 		- Promote Conversation 1
 		- Secure panellists for Conversations 2 & 3
 	- Blockers:
-- Project name/link - #[[superbenefit contributor guide - working draft]]#[[233 [BOUNTY] Twitter Style Guide]]  
+- Project name/link - #[superbenefit contributor guide - working draft](/notes/archive/clarity/Tags/superbenefit%20contributor%20guide%20-%20working%20draft.md)#[233 [BOUNTY](233%20[BOUNTY)  
 	- Last week: 
 		- Feedback given 
 	- This week:
@@ -44,7 +44,7 @@ date: 23-05-2022
 	- Blockers:
 		- Set a deadline
 - [https://www.icloud.com/keynote/009VvwQL7V41K0_aVi6cHc8jA#SB_-_Catalyst_2030](https://www.icloud.com/keynote/009VvwQL7V41K0_aVi6cHc8jA#SB_-_Catalyst_2030) 
-- Project name/link - #[[193 Community Experience- Revolution 1]] 
+- Project name/link - #[193 Community Experience- Revolution 1](193%20Community%20Experience-%20Revolution%201) 
 	- Last week: 
 		- Institute for Community Prosperity - Mt Royal webinar for Social Impact Technology presentation
 		- Presentation to Working Group 11 - Next Economies Innovation - Business Structure [https://www.icloud.com/keynote/009VvwQL7V41K0_aVi6cHc8jA#SB_-_Catalyst_2030](https://www.icloud.com/keynote/009VvwQL7V41K0_aVi6cHc8jA#SB_-_Catalyst_2030) 
@@ -63,7 +63,7 @@ date: 23-05-2022
 	- Token wallets - please have a look - Any questions (Rowan)
 	- What is the WG11business...
 	- Governance structure conversation (Rowan)
-		- Heenal & Rowan to meet to prune/update #[[superbenefit governance]] doc
+		- Heenal & Rowan to meet to prune/update #[superbenefit governance](/notes/archive/clarity/Tags/superbenefit%20governance.md) doc
 	- [https://docs.google.com/document/d/1ShkU4lmrOHnffcFQE3bcKPU6L9NdPoYQAC9sRMK0mT8/edit?usp=sharing](https://docs.google.com/document/d/1ShkU4lmrOHnffcFQE3bcKPU6L9NdPoYQAC9sRMK0mT8/edit?usp=sharing) 
 
 ## Checkout

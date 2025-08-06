@@ -4,23 +4,23 @@ This directory contains supplementary reference materials to support the impleme
 
 ## Reference Materials
 
-1. [H.01-key-terms.md](notes/ics/ccc/v0.2/H-Reference/H.01-key-terms.md)
+1. H.01-key-terms.md
    - Essential terminology and concepts used throughout the Community Exchange system
 
-2. [H.02-glossary.md](notes/ics/ccc/v0.2/H-Reference/H.02-glossary.md)
+2. H.02-glossary.md
    - Comprehensive definitions of all terms used in the Community Exchange documentation
 
-3. [H.03-faq.md](notes/ics/ccc/v0.2/H-Reference/H.03-faq.md)
+3. H.03-faq.md
    - Answers to common questions about the Community Exchange system
 
-4. [H.04-appendix-resources.md](notes/ics/ccc/v0.2/H-Reference/H.04-appendix-resources.md)
+4. H.04-appendix-resources.md
    - Additional resources, readings, tools, and examples from similar initiatives
 
 ## Relationship to Other Documents
 
-- For practical guides on system usage, see [E-Guides](../E-Guides/E.00-guides.md)
-- For examples of how the system works, refer to [D-Examples](../D-Examples/D.00-examples.md)
-- For implementation details, see [C-Implementation](../C-Implementation/C.00-implementation.md)
+- For practical guides on system usage, see E-Guides
+- For examples of how the system works, refer to D-Examples
+- For implementation details, see C-Implementation
 
 ## Using These References
 

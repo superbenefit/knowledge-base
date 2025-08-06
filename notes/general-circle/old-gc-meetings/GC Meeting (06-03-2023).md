@@ -2,7 +2,7 @@
 tags: meetings
 date: 06-03-2023
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 ## Attendees
 - Michelle, Michael, Rowan, Heenal
 
@@ -19,12 +19,12 @@ date: 06-03-2023
 	- Working up to proposing gov structure
 	- Reworking the Cell Nucleus Doc into Cell State - [https://www.figma.com/file/G77aOdrUeg6494UrGHs47C/AIFS-Governance-Design?node-id=0%3A1&t=xoQ7dqCnDBitUaC8-1](https://www.figma.com/file/G77aOdrUeg6494UrGHs47C/AIFS-Governance-Design?node-id=0%3A1&t=xoQ7dqCnDBitUaC8-1) 
 	- Web3/philanthropy Salon 
-- Task: #[[SUP-277 Treasury Allocation for SBP13 & SBP6]] 
+- Task: #[SUP-277 Treasury Allocation for SBP13 & SBP6](SUP-277%20Treasury%20Allocation%20for%20SBP13%20&%20SBP6) 
 	- Completed
 	- Surfaced an unallocated 120k SPRB for the General Circle
 		- How to allocate?
 		- No need to decide on this now, but we can all take this away and think about it
-- Project - #[[P-264 Systems Transformation Project]] 
+- Project - #[P-264 Systems Transformation Project](P-264%20Systems%20Transformation%20Project) 
 	- Last week: 
 	- Recap:
 		- key question to explore: **what does web3 uniquely enable that has not been possible before?**

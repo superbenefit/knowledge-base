@@ -9,7 +9,7 @@ tags: tasks
 - [Current Getting Started page](https://www.notion.so/superbenefit/Getting-Started-with-web3-0618fe7d45dc4575843a9396f7e12c8a) (Notion)
 - [Notes on web3 library and Getting Started page](https://app.clarity.so/superbenefit/notes/0e6dce33-a3f4-47dc-ae80-dd95116c72cd) from conversation with @Jai 
 - [New Getting Started content](https://docs.google.com/document/d/1YuPy2dJHavTrFtoTEJfyq5x8NzC4aQUmCC53kRpOAY8/edit) drafted by @Jai (Google Doc)
-- Related Task: #[[164 [BOUNTY] Update "Getting Started to web3" Notion page]] 
+- Related Task: #[164 [BOUNTY](164%20[BOUNTY) 
 
 ## Desired Results
 - Revamp the page so that it covers the following topics:
@@ -25,5 +25,5 @@ tags: tasks
 - Estimated effort: 4-6 hours
 - Bounty Reward: y $SPRB
 - Due date: February 19, 2022
-- Reporting to @heenal as part of #[[information squad]] 
+- Reporting to @heenal as part of #[information squad](/notes/archive/clarity/Tags/information%20squad.md) 
 

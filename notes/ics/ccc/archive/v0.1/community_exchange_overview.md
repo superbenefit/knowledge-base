@@ -32,34 +32,34 @@ The Community Exchange consists of two interconnected elements:
 
 ## Core Documents
 
-- [Core Principles and Values](./principles_and_values.md)
-- [Key Terms Glossary](./glossary.md)
-- [Frequently Asked Questions](./faq.md)
-- [Visual Concept Overview](./visual_concept.md)
+- [Core Principles and Values](notes/ics/ccc/archive/v0.1/principles_and_values.md)
+- [Key Terms Glossary](notes/ics/ccc/archive/v0.1/glossary.md)
+- [Frequently Asked Questions](notes/ics/ccc/archive/v0.1/faq.md)
+- [Visual Concept Overview](notes/ics/ccc/archive/v0.1/visual_concept.md)
 
 ## Implementation Framework
 
-- [Detailed Onboarding Process](./onboarding_process.md)
-- [Technology Implementation Plan](./technology_implementation.md)
-- [Quarterly Timeline (2025-2026)](./implementation_timeline.md)
-- [Governance Structure](./governance_structure.md)
-- [Risk Management Strategy](./risks_and_mitigation.md)
+- [Detailed Onboarding Process](notes/ics/ccc/archive/v0.1/onboarding_process.md)
+- [Technology Implementation Plan](notes/ics/ccc/archive/v0.1/technology_implementation.md)
+- [Quarterly Timeline (2025-2026)](notes/ics/ccc/archive/v0.1/implementation_timeline.md)
+- [Governance Structure](notes/ics/ccc/archive/v0.1/governance_structure.md)
+- [Risk Management Strategy](notes/ics/ccc/archive/v0.1/risks_and_mitigation.md)
 
 ## Member Experience
 
-- [Commitment Examples Catalog](./commitment_examples.md)
-- [Example Exchanges](./credit_flow_examples.md)
-- [Member Stories & Scenarios](./testimonial_scenarios.md)
-- [Community Activities](./community_activities.md)
-- [How-To Guides](./how_to_guides.md)
+- [Commitment Examples Catalog](notes/ics/ccc/archive/v0.1/commitment_examples.md)
+- [Example Exchanges](notes/ics/ccc/archive/v0.1/credit_flow_examples.md)
+- [Member Stories & Scenarios](notes/ics/ccc/archive/v0.1/testimonial_scenarios.md)
+- [Community Activities](notes/ics/ccc/archive/v0.1/community_activities.md)
+- [How-To Guides](notes/ics/ccc/archive/v0.1/how_to_guides.md)
 
 ## Growth & Sustainability
 
-- [Success Metrics & Evaluation Framework](./success_metrics.md)
-- [Scaling Strategy](./scaling_strategy.md)
-- [Future Possibilities](./future_possibilities.md)
-- [Conflict Resolution Process](./conflict_resolution.md)
-- [Additional Resources & References](./appendix_resources.md)
+- [Success Metrics & Evaluation Framework](notes/ics/ccc/archive/v0.1/success_metrics.md)
+- [Scaling Strategy](notes/ics/ccc/archive/v0.1/scaling_strategy.md)
+- [Future Possibilities](notes/ics/ccc/archive/v0.1/future_possibilities.md)
+- [Conflict Resolution Process](notes/ics/ccc/archive/v0.1/conflict_resolution.md)
+- [Additional Resources & References](notes/ics/ccc/archive/v0.1/appendix_resources.md)
 
 ## Join Us!
 

@@ -1,4 +1,4 @@
-#[[notes/archive/clarity/Tags/dao primitives]] 
+#[dao primitives](/notes/archive/clarity/Tags/dao%20primitives.md) 
 
 
 # Oct 25 2022

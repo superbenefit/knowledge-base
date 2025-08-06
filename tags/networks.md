@@ -52,14 +52,14 @@ The [cosmolocalism](tags/cosmolocalism.md) framework demonstrates how networks c
 
 ## Related Concepts
 
-- [[tags/systems|Systems]]: Networks are composed of interconnected systems that work together through coordinated processes
-- [[tags/agents|Agents]]: The autonomous individuals or entities that form the nodes of networks
-- [[tags/flows|Flows]]: The movement of resources, information, and value through networks
-- [[tags/governance|Governance]]: The frameworks and processes for collective decision-making in networks
-- [[tags/primitives|Primitives]]: Network structures can be built from foundational building blocks
-- [[notes/archive/clarity/Tags/cells|Cells]]: Autonomous teams that form the nodes of DAO networks
-- [[tags/coordination|Coordination]]: The processes through which network participants align their actions
-- [[tags/communities|Community]]: The social fabric that enables trust and collaboration in networks
+- [Systems](tags/systems.md): Networks are composed of interconnected systems that work together through coordinated processes
+- [Agents](tags/agents.md): The autonomous individuals or entities that form the nodes of networks
+- Flows: The movement of resources, information, and value through networks
+- [Governance](tags/governance.md): The frameworks and processes for collective decision-making in networks
+- [Primitives](tags/primitives.md): Network structures can be built from foundational building blocks
+- [Cells](notes/archive/clarity/Tags/cells.md): Autonomous teams that form the nodes of DAO networks
+- [Coordination](tags/coordination.md): The processes through which network participants align their actions
+- Community: The social fabric that enables trust and collaboration in networks
 
 ## References and Resources
 

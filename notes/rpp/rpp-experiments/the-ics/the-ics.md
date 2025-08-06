@@ -4,8 +4,8 @@
 #MutualAid #CooperativeEconomics #DualPower #RewardMechanisms
 
 ## Related Pages
-- [[/artifacts/experiments/experiments.md|Experiments]]
-- [[/experiments/case-studies.md|Case Studies]]
+- Experiments
+- Case Studies
 
 ## Overview
 ICS (Invisible Care Squad) is pioneering cooperative models for mutual aid that integrate Web3 tools while maintaining focus on real-world community impact.
@@ -19,8 +19,8 @@ ICS (Invisible Care Squad) is pioneering cooperative models for mutual aid that 
 ## SuperBenefit Patterns Applied
 - Token-based governance for member participation
 - Privacy payments patterns for sensitive support
-- [[/tags/p2p-payments|Peer to peer payments]] for direct mutual aid
-- [[/notes/rpp/rpp-working-docs/multistakeholder-governance|Multistakeholder governance]] for community decisions
+- [Peer to peer payments](tags/p2p-payments.md) for direct mutual aid
+- [Multistakeholder governance](notes/rpp/rpp-working-docs/multistakeholder-governance.md) for community decisions
 
 ## Innovations
 - Hybrid online/offline coordination models

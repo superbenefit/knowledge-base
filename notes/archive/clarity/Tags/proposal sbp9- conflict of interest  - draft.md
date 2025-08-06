@@ -29,7 +29,7 @@ The skills and experience required for this project will include research, proje
 
 
 
-#[[SUP-262 Conflict of Interest (COI) Proposal]] 
+#[SUP-262 Conflict of Interest (COI) Proposal](SUP-262%20Conflict%20of%20Interest%20(COI)%20Proposal) 
 
 
 

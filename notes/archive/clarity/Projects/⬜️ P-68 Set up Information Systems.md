@@ -1,1 +1,1 @@
-#[[information squad]] 
+#[information squad](/notes/archive/clarity/Tags/information%20squad.md) 

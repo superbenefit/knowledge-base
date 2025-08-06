@@ -20,19 +20,19 @@ This directory contains the foundational documents that explain the Community Ex
 
 ## Contents
 
-1. [B.01-introduction.md](notes/ics/ccc/v0.2/B-Overview/B.01-introduction.md)
+1. B.01-introduction.md
    - Introduction to the Community Exchange system and its core components
 
-2. [B.02-why-community-exchange.md](notes/ics/ccc/v0.2/B-Overview/B.02-why-community-exchange.md)
+2. B.02-why-community-exchange.md
    - The purpose, vision, and rationale behind the Community Exchange
 
-3. [B.03-how-it-works.md](notes/ics/ccc/v0.2/B-Overview/B.03-how-it-works.md)
+3. B.03-how-it-works.md
    - Detailed explanation of the two pathways: Connection Circles and Commitment Pool
 
-4. [B.04-visual-concept.md](notes/ics/ccc/v0.2/B-Overview/B.04-visual-concept.md)
+4. B.04-visual-concept.md
    - Visual explanations and diagrams of the Community Exchange system
 
-5. [B.05-principles-and-values.md](notes/ics/ccc/v0.2/B-Overview/B.05-principles-and-values.md)
+5. B.05-principles-and-values.md
    - Core values and principles that guide the Community Exchange
 
 ## Purpose
@@ -43,4 +43,4 @@ These overview documents should be read first by anyone seeking to understand or
 
 ## Index File
 
-The full index for this section is in [B-Overview.md](notes/ics/ccc/v0.2/B-Overview/B-Overview.md).
+The full index for this section is in B-Overview.md.

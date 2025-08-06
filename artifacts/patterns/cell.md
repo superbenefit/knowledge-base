@@ -43,7 +43,7 @@ Working groups, described as "Cells" are the fundamental operational entities wi
 The Cell pattern serves as a foundational structure that integrates other organizational primitives and coordination practices to create an effective functional unit. This composition enables both internal self-management and external coordination within DAOs and other onchain organizations.
 
 
-A Cell can be composed into a spectrum of different forms based on the complexity and needs of the organization. See [DAOs - From fractal primitives to network scale.](artifacts/articles/network-evolution/DAOs%20-%20From%20fractal%20primitives%20to%20network%20scale..md)
+A Cell can be composed into a spectrum of different forms based on the complexity and needs of the organization. See [DAOs - From fractal primitives to network scale.](artifacts/articles/network-evolution/DAOs - From fractal primitives to network scale..md)
 
 ### When to use a Cell
 Use the Cell pattern to design ways for small groups of people to collaborate in a coherent way. 
@@ -55,7 +55,7 @@ Consider:
 	- Is there a clear purpose that the team can be formed around?
 	- Is the work going to be ongoing? 
 	- Is it likely to evolve over time? 
-If the work could be done more efficiently by coordinating a set of individual contributors using [[tags/roles]] or [tasks](tags/tasks.md), then do not use a Cell. Collaborating teams are expensive compared to individual contributors executing on well defined tasks. But Cells are capable of creativity, adaptability and are therefore ideally suited for complex evolving contexts. Make sure you are choosing the right tool for the job.   
+If the work could be done more efficiently by coordinating a set of individual contributors using [tags/roles](tags/roles.md) or [tasks](tags/tasks.md), then do not use a Cell. Collaborating teams are expensive compared to individual contributors executing on well defined tasks. But Cells are capable of creativity, adaptability and are therefore ideally suited for complex evolving contexts. Make sure you are choosing the right tool for the job.   
 
 
 ### Mechanism
@@ -75,14 +75,14 @@ They are designed to be flexible enough to allow for many different ways of comb
 	- Progress - project management, outputs, execution towards goals [progress](tags/progress.md)
 
 
-![cell diagram](attachments/cell%20diagram.png)
+![cell diagram](attachments/cell diagram.png)
     
 **Scale**
 - Cells operate internally at [collaboration scale](artifacts/guides/dao-primitives-framework/group-scale/collaboration-scale.md), within their core team. This means that they are a team of fewer than 10 people who communicate regularly and in a high-bandwidth way to manage something complex. 
 - And at [coordination-scale](artifacts/guides/dao-primitives-framework/group-scale/coordination-scale.md), as they coordinate contributors, partners and other Cells in the larger DAO/network
 
 **Phase**
-At any point a Cell will be at one of 5 [group phases](drafts/framework%20backup/group-phase/group-phase.md)in its evolution
+At any point a Cell will be at one of 5 group phasesin its evolution
 - [conversation-phase](artifacts/guides/dao-primitives-framework/group-phase/conversation-phase.md)
 - [formation-phase](artifacts/guides/dao-primitives-framework/group-phase/formation-phase.md)
 - [organization-phase](artifacts/guides/dao-primitives-framework/group-phase/organization-phase.md)
@@ -102,7 +102,7 @@ Generally Cells have 3 different ways that they can operationalize their purpose
 
 Cells often use [roles](tags/roles.md) and [tasks](tags/tasks.md) as basic patterns for managing both their internal collaboration and external coordination activities. 
 
-![](attachments/cell-structure.png)
+![cell-structure](attachments/cell-structure.png)
 
 ###  Cell Formation Patterns
 
@@ -163,8 +163,8 @@ dv.table(
             !p.file.path.startsWith("drafts/")
         )
         .sort(p => p.title, 'asc')
-        .map(p => [
-            `**[${p.title}](${p.file.path})**`,  
+        .map(p => 
+            `**[${p.title}**`,  
             p.description
         ])
 );
@@ -191,3 +191,4 @@ AND (
 ```
 
 ---
+

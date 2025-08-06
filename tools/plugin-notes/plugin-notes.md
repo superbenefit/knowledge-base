@@ -19,7 +19,7 @@ Several core plugins are used to organize and edit the content of this vault. %%
 
 You can enable, disable, or replace core plugins to suit your workflow. 
 
-![](https://youtu.be/eOsL2eP-N6g)
+![[https://youtu.be/eOsL2eP-N6g]]
 
 ### Core Plugins Currently In-Use
 
@@ -39,7 +39,7 @@ Community plugins are used to extend Obsidian's functionality to enable new feat
 
 You can use community plugins to customize obsidian's features to suit your workflow. Here are some examples:
 
-![](https://youtu.be/3UMncGbocAU)
+![[https://youtu.be/3UMncGbocAU]]
 
 ---
 
@@ -51,12 +51,12 @@ These community plugins are required for the functionality of various features i
 
 ### Dataview
 We use dataview to query this vault's contents for creating custom views.
-![](tools/plugin-notes/dataview/dataview.md)
+![[tools/plugin-notes/dataview/dataview.md]]
 
 ### Templater
 We use templater to populate dynamic content within this vault. 
-![](tools/plugin-notes/templater/templater.md)
+![[tools/plugin-notes/templater/templater.md]]
 
 ### Metadata Menu
 We use Metadata Menu to standardize file metadata across the vault
-![](tools/plugin-notes/metadata-menu/metadata-menu.md)
+![[tools/plugin-notes/metadata-menu/metadata-menu.md]]

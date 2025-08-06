@@ -2,7 +2,7 @@
 tags: meetings
 date: 30-01-2023
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 ## Attendees
 
 
@@ -16,7 +16,7 @@ date: 30-01-2023
 	- This week:
 	- Blockers:
 
-Project name/link #[[P-264 Systems Transformation Project]] 
+Project name/link #[P-264 Systems Transformation Project](P-264%20Systems%20Transformation%20Project) 
 - Last week:
 	- Weekly Meet Up - 
 	- Notes - thx Heenal [https://app.clarity.so/superbenefit/docs/f166a619-b270-47a9-9579-8a71cc645f0e](https://app.clarity.so/superbenefit/docs/f166a619-b270-47a9-9579-8a71cc645f0e)
@@ -36,7 +36,7 @@ Next Steps:
 	- Cecile Smith-Christensen from World Heritage Catalysis is joining web3 and systems transformation group to share on the Hypha Flow journey recently commenced
 	- BLab Europe re web3 @AlexH & @MBaldwin  Friday Feb 3 
 - Blockers:
-- Project name/link #[[P-193 Community Experience- Revolution 1]] 
+- Project name/link #[P-193 Community Experience- Revolution 1](P-193%20Community%20Experience-%20Revolution%201) 
 	- Last week:
 	- Connected @tmarsh who will join DAO primitive governance meeting on Feb 7
 	- Weekly announcements
@@ -54,9 +54,9 @@ Next Steps:
 	- Meeting AIFS Community Experience cell kick off - Thurs 11am for 30 mins
 	- Blockers:
 	- 
-- Project name/link #[[SUP-257 Proposal SBP8- DAO Primitive Project]]
+- Project name/link #[SUP-257 Proposal SBP8- DAO Primitive Project](SUP-257%20Proposal%20SBP8-%20DAO%20Primitive%20Project)
 - DAO primitive will work on way to present to AIFS Thurs Feb 2 about tooling, get governance and proposals to accelerate towards the round
-- #[[P-236 Krause House Collaboration]]
+- #[P-236 Krause House Collaboration](P-236%20Krause%20House%20Collaboration)
 	- will/have engage/d a designer for the future of sport roadmap. will be submitting a proposal for costs, likely not more than $1,000 USD (ETH in treasury currently ~$8000)
 
 ## Triage Items

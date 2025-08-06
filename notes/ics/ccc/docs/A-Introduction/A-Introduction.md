@@ -20,16 +20,16 @@ This directory contains the introductory materials for the Community Connection 
 
 ## Contents
 
-1. [A.01-cover-page.md](notes/ics/ccc/v0.2/A-Introduction/A.01-cover-page.md)
+1. A.01-cover-page.md
    - Main cover page with project overview and context
 
-2. [A.02-executive-summary.md](notes/ics/ccc/v0.2/A-Introduction/A.02-executive-summary.md)
+2. A.02-executive-summary.md
    - Concise summary of the project, its components, and implementation approach
 
-3. [A.03-how-to-use.md](notes/ics/ccc/v0.2/A-Introduction/A.03-how-to-use.md)
+3. A.03-how-to-use.md
    - Guide to navigating and using the documentation effectively
 
-4. [A.04-table-of-contents.md](notes/ics/ccc/v0.2/A-Introduction/A.04-table-of-contents.md)
+4. A.04-table-of-contents.md
    - Comprehensive table of contents for the full documentation
 
 ## Purpose

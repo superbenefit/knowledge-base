@@ -14,4 +14,4 @@ tags: tasks
 - Estimated effort: 2-3 hours
 - Bounty Reward: 50 $SPRB (tbc)
 - Due date: February 18, 2022
-- Reporting to @heenal <lead> as part of #[[information squad]] 
+- Reporting to @heenal <lead> as part of #[information squad](/notes/archive/clarity/Tags/information%20squad.md) 

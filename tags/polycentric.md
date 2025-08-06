@@ -50,10 +50,10 @@ Polycentric commons governance often involves nested institutions where local re
 - **[Distributed](tags/distributed.md)**: Polycentric governance distributes decision-making authority across multiple centers while maintaining institutional coordination
 - **[Networks](tags/networks.md)**: Polycentric systems organize as networks of autonomous decision-making centers with overlapping responsibilities and coordination mechanisms
 - **[Governance](tags/governance.md)**: Polycentric governance creates multi-level, multi-stakeholder approaches to collective decision-making and coordination
-- **[Cooperative](tags/cooperative.md)**: Multi-stakeholder cooperatives exemplify polycentric governance through multiple autonomous stakeholder decision-making centers
+- **Cooperative**: Multi-stakeholder cooperatives exemplify polycentric governance through multiple autonomous stakeholder decision-making centers
 - **[Autonomy](tags/autonomy.md)**: Polycentric systems preserve autonomy for individual decision-making centers while enabling collective coordination
 - **[Coordination](tags/coordination.md)**: Polycentric systems require sophisticated coordination mechanisms to align multiple autonomous decision-making centers
-- **[Nested](tags/nested.md)**: Polycentric governance often involves nested institutional arrangements across multiple scales and domains
+- **Nested**: Polycentric governance often involves nested institutional arrangements across multiple scales and domains
 
 ## References and Resources
 
@@ -72,6 +72,6 @@ Polycentric commons governance often involves nested institutions where local re
 - [Key Examples of Polycentric Governance | Ostrom Workshop](https://ostromworkshop.indiana.edu/courses-teaching/teaching-tools/polycentric-goverance/key-examples.html) - Case studies and theoretical applications
 
 **SuperBenefit Context:**
-- [[tags/cooperatives]] - Examples of multi-stakeholder governance with multiple decision-making centers
-- [[tags/solidarity-economics]] - Decentralized coordination systems aligning individual and collective outcomes
-- [[tags/governance]] - Multi-level governance approaches and democratic coordination mechanisms
+- [cooperatives](tags/cooperatives.md) - Examples of multi-stakeholder governance with multiple decision-making centers
+- [solidarity-economics](tags/solidarity-economics.md) - Decentralized coordination systems aligning individual and collective outcomes
+- [governance](tags/governance.md) - Multi-level governance approaches and democratic coordination mechanisms

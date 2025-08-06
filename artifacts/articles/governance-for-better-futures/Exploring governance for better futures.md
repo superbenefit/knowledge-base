@@ -11,7 +11,7 @@ publish: "true"
 type: link
 ---
 
-**SuperBenefit DAO is convening a short series of Twitter Spaces** to explore how the nature of [governance](/tags/governance.md) is evolving, and to inquire into the governance we need to accelerate the arrival of better futures. We call this project _[Exploring governance for better futures](http://exploregov.xyz/)_.
+**SuperBenefit DAO is convening a short series of Twitter Spaces** to explore how the nature of tags/governance.md is evolving, and to inquire into the governance we need to accelerate the arrival of better futures. We call this project _[Exploring governance for better futures](http://exploregov.xyz/)_.
 
 We are specifically interested in how Web3 technologies are enabling new models of governance towards these ends, and their potential to combine with existing practices, perspectives, and wisdom.
 
@@ -19,15 +19,15 @@ Beyond the governance of orgs, communities, and networks, we'll probe the notion
 
 ## Three conversations
 
-Over three conversations, we engaged with people who bring different and complementary perspectives to governance. This included experience and views from [daos](/tags/daos.md), other [decentralised](/tags/decentralization.md) [networks](/tags/networks.md), the co-operative movement, Indigenous cultures, purpose-led business, and civic and systems innovation.
+Over three conversations, we engaged with people who bring different and complementary perspectives to governance. This included experience and views from tags/daos.md, other tags/decentralization.md tags/networks.md, the co-operative movement, Indigenous cultures, purpose-led business, and civic and systems innovation.
 
-We explored perspectives on the essential functions and attributes of governance, and the design implications for governance arrangements that seek to foster decentralisation, pluralism, and [regeneration](/tags/regeneration.md).
+We explored perspectives on the essential functions and attributes of governance, and the design implications for governance arrangements that seek to foster decentralisation, pluralism, and tags/regeneration.md.
 
 Each of the conversations were framed around a question:
 
-- **[June 2, 2022](Governance for better futures - DAO 2 DAO Co-operation.md):** Metagovernance - what is it and what's its potential?
-- **[June 16, 2022](Governance for better futures - Meta-governance.md):** DAO to DAO - what are we seeing and learning from inter-DAO cooperation?
-- **[June 30, 2022](Governance for better futures - New and Old.md):** New and old - what can Web3 learn from and contribute to existing governance perspectives and practices?
+- **artifacts/articles/governance-for-better-futures/Governance%20for%20better%20futures%20-%20DAO%202%20DAO%20Co-operation.md:** Metagovernance - what is it and what's its potential?
+- **artifacts/articles/governance-for-better-futures/Governance%20for%20better%20futures%20-%20Meta-governance.md:** DAO to DAO - what are we seeing and learning from inter-DAO cooperation?
+- **artifacts/articles/governance-for-better-futures/Governance%20for%20better%20futures%20-%20New%20and%20Old.md:** New and old - what can Web3 learn from and contribute to existing governance perspectives and practices?
     
 All Twitter Spaces took place from 6:30 to 7:30 pm EST and were hosted on the [SuperBenefit Twitter account.](https://twitter.com/superbenefitdao)
 

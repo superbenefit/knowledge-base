@@ -63,7 +63,7 @@ This resource directly connects to SuperBenefit's focus on cosmolocalism and bio
 
 ### Related Concepts
 
-- [[tags/localism|Localism]] - The resource expands on local organization while connecting to global systems
-- [[tags/cosmolocalism|Cosmolocalism]] - Exemplifies the "light is global, heavy is local" principle
-- [[tags/blockchain|Blockchain]] - Demonstrates practical applications of blockchain for community empowerment
-- [[tags/community|Community]] - Explores community-driven approaches to governance and resource management
+- [Localism](tags/localism.md) - The resource expands on local organization while connecting to global systems
+- [Cosmolocalism](tags/cosmolocalism.md) - Exemplifies the "light is global, heavy is local" principle
+- [Blockchain](tags/blockchain.md) - Demonstrates practical applications of blockchain for community empowerment
+- [Community](tags/community.md) - Explores community-driven approaches to governance and resource management

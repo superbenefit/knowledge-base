@@ -1,4 +1,4 @@
-#[[notes/archive/clarity/Tags/dao primitives]] 
+#[dao primitives](notes/archive/clarity/Tags/dao%20primitives.md) 
 >ℹ DAO Primitives Meeting Notes have moved to [Charmverse](https://app.charmverse.io/superbenefit/dao-primitives-weekly-meeting-11-28-23-481378320587434).
 ## 11/15/23
 ### Checkin 
@@ -220,15 +220,15 @@ Decision - Allocate 20k SPRB to Ananth and rather, 10K to Rowan, 3k To Heenal an
 	- **Regrets:** 
 - ## **Updates**
 	- Rowan had convo with Filsan and Aditi re: governance design. 
-	- rather - #[[stakeholder governance]] doc created. Do we need this for #[[community governance]] and #[[operational governance]] as well?
-	- rather - Generic group phase checklist created at #[[GR-299 Group Phase - DAO Primitives]] for ideation through organization phases.
+	- rather - #[stakeholder governance](notes/archive/clarity/Tags/stakeholder%20governance.md) doc created. Do we need this for #[community governance](notes/archive/clarity/Tags/community%20governance.md) and #[operational governance](notes/archive/clarity/Tags/operational%20governance.md) as well?
+	- rather - Generic group phase checklist created at #[GR-299 Group Phase - DAO Primitives](GR-299%20Group%20Phase%20-%20DAO%20Primitives) for ideation through organization phases.
 		- Longer than I thought it would be. Does this need to be adjusted before moving forward?
 - ## Discussion Topics
 	- 
 	- Feedback from last RP meeting:
 		- Context needed around terminology, especially as names and definitions evolve. 
-			- #[[stakeholder]] #[[stakeholder governance]] #[[community governance]]  #[[notes/archive/clarity/Tags/dao primitives]] 
-			- #[[tags/governance]] #[[notes/archive/clarity/Tags/reimagining power]] #[[operational governance]] #[[web3]] #[[tags/governance]] 
+			- #[stakeholder](notes/archive/clarity/Tags/stakeholder.md) #[stakeholder governance](notes/archive/clarity/Tags/stakeholder%20governance.md) #[community governance](notes/archive/clarity/Tags/community%20governance.md)  #[dao primitives](notes/archive/clarity/Tags/dao%20primitives.md) 
+			- #[governance](tags/governance.md) #[reimagining power](notes/archive/clarity/Tags/reimagining%20power.md) #[operational governance](notes/archive/clarity/Tags/operational%20governance.md) #[web3](notes/archive/clarity/Tags/web3.md) #[governance](tags/governance.md) 
 		- Assistance needed in onboarding, context gathering, other help to be empowered to contribute. Knowledge gaps and difficulty keeping up with meetings/conversations is challenging.
 		- Greater focus on facilitating communication & relationships is needed, along with hands-on assistance needed to help SHG participants onboard to tooling like Discord, Figma, etc. 
 			- How do we integrate this into the web3 onboarding workflow for stakeholders? - rather
@@ -237,7 +237,7 @@ Decision - Allocate 20k SPRB to Ananth and rather, 10K to Rowan, 3k To Heenal an
 	- ### Topics for next week
 		- 
 - ## Action Items
-	- [ ] rather - Wrap language project into #[[G-294 Internal Coordination Functions]], correlate with #[[P-273 SB Governance Design - SuperBenefit]]
+	- [ ] rather - Wrap language project into #[G-294 Internal Coordination Functions](G-294%20Internal%20Coordination%20Functions), correlate with #[P-273 SB Governance Design - SuperBenefit](P-273%20SB%20Governance%20Design%20-%20SuperBenefit)
 	- [ ]   rather - draft bill of deliverables for Possibilian and share in Discord
 	- [ ]  ananth - sobol team management
 
@@ -245,8 +245,8 @@ Decision - Allocate 20k SPRB to Ananth and rather, 10K to Rowan, 3k To Heenal an
 - ## Attendees
 	-  @Rowan  @Ananth @rathermercurial 
 - ## **Updates**
-	- #[[notes/archive/clarity/Tags/reimagining power]] has requested #[[notes/archive/clarity/Tags/dao primitives]] team take on #[[Design Task Management and Compensation Framework - DAO Primitives (Old)]] in cooperation with #[[notes/archive/clarity/Tags/reimagining power]] 
-	- #[[energy efficiency project]] has requested #[[notes/archive/clarity/Tags/dao primitives]] create cell incubation / stakeholder engagement / spin down/out function for sb
+	- #[reimagining power](notes/archive/clarity/Tags/reimagining%20power.md) has requested #[dao primitives](notes/archive/clarity/Tags/dao%20primitives.md) team take on #[Design Task Management and Compensation Framework - DAO Primitives (Old)](Design%20Task%20Management%20and%20Compensation%20Framework%20-%20DAO%20Primitives%20(Old)) in cooperation with #[reimagining power](notes/archive/clarity/Tags/reimagining%20power.md) 
+	- #[energy efficiency project](notes/archive/clarity/Tags/energy%20efficiency%20project.md) has requested #[dao primitives](notes/archive/clarity/Tags/dao%20primitives.md) create cell incubation / stakeholder engagement / spin down/out function for sb
 	- Sobol Labs
 - ## Discussion Topics
 	- On potential divergence in design ideas (rowan)
@@ -257,10 +257,10 @@ Decision - Allocate 20k SPRB to Ananth and rather, 10K to Rowan, 3k To Heenal an
 		- 
 - ## Action Items
 	- [x] rather - Create checklist for cell formation at each stage
-		- #[[GR-299 Group Phase - DAO Primitives]]  
+		- #[GR-299 Group Phase - DAO Primitives](GR-299%20Group%20Phase%20-%20DAO%20Primitives)  
 	- [ ] rather - write up a simple rubric for the SHG to define their purpose 
 	- [ ] Rowan - work with Michelle to set up the stakeholder conversations in the RPP
-	- [ ] rather - Organize dao coordination projects in #[[G-294 Internal Coordination Functions]] 
+	- [ ] rather - Organize dao coordination projects in #[G-294 Internal Coordination Functions](G-294%20Internal%20Coordination%20Functions) 
 	- [ ] rather - outline process for creating & managing Projects & Tasks in Clarity 
 	- [ ] rather - Import EEP tasks from Figma to Clarity
 
@@ -282,7 +282,7 @@ Decision - Allocate 20k SPRB to Ananth and rather, 10K to Rowan, 3k To Heenal an
 		- The financial stewardship covers the bases of a contract
 		- The stakeholder group (including the financial steward) can communicate any requirements that they need from the relationship. This (along with the purpose/direction is referenced in the TLC Cell State (and stored somewhere else). This is the basic starting point for the stakeholder and TLC partnership.
 		- 
-	- Review DSL in #[[P-257 DAO Primitives Framework]] (rather)
+	- Review DSL in #[P-257 DAO Primitives Framework](P-257%20DAO%20Primitives%20Framework) (rather)
 	- Can we surface the AIFS hats tree in Sobol so that we can demo it for RPP and stakeholders (rowan)
 	- Sobol for visualising projects (rowan)
 		- Setting up Sobol for SP as a way of demonstrating out governance structure 
@@ -308,7 +308,7 @@ Decision - Allocate 20k SPRB to Ananth and rather, 10K to Rowan, 3k To Heenal an
 	- **Regrets:** 
 - ## **Updates** 
 	- 
-	- (rather) Added #[[notes/archive/clarity/Tags/dao primitives]] tag and re-tagged all linked pages
+	- (rather) Added #[dao primitives](notes/archive/clarity/Tags/dao%20primitives.md) tag and re-tagged all linked pages
 	- (rather) Cleaned up tasks and flattened Patterns/Modules Hierarchy
 
 		- ⬜️ P-290 Patterns & Modules - DAO Primitives
@@ -332,7 +332,7 @@ This leaves teams free to use grouping behavior to self-select and can form cell
 - ## Action Items
 	- [x]  @Ananth to redeploy the AIFS hats tree
 	- [x] @rathermercurial will draft Hats tree for obligatory DAO model
-	- [x] @rathermercurial to outline DSL for problem space in #[[DAO Primitives Framework]] 
+	- [x] @rathermercurial to outline DSL for problem space in #[DAO Primitives Framework](DAO%20Primitives%20Framework) 
 	- [x] @Rowan  Add a summary of the RPP doc to the top of the doc and share the draft with the team before the meeting
 
 >Notes from meetings held prior to this point were recorded in the All In For Sport Clarity base and have been copied here for convenience.
@@ -1155,7 +1155,7 @@ This leaves teams free to use grouping behavior to self-select and can form cell
 	1. Review [cell founding doc](https://app.clarity.so/superbenefit/notes/ec753aec-320d-413a-9f80-39b9ca9fe064)
 	2. Review and approve setting up on multi-sig (Rowan)
 	3. ⬜️ SUP-240 Look into setting up a recurring weekly meeting template on Clarity
-	4. Connecting the dots with the #[[governance conversations]] project (Heenal)
+	4. Connecting the dots with the #[governance conversations](notes/archive/clarity/Tags/governance%20conversations.md) project (Heenal)
 		- Rowan could be a part of the 3 panels
 		- Waiting for Alex to develop framing/invitation to see what points of connection there may between the projects
 	5. How to engage others in the project? (Michelle)

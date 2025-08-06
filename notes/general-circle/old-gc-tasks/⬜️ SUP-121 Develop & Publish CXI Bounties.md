@@ -14,13 +14,13 @@ tags: tasks
 
 ## Ideas for bounties
 ### Now
-- Summarizing alternative strategies for recognizing past contributions: #[[139 [BOUNTY] Provide a summary of approaches to rewarding past contributors]] 
-- #[[153 [BOUNTY] Develop a Pluriverse Reflection Guide]] 
-- #[[158 [BOUNTY] SuperBenefit Origin Story Artifact]] 
+- Summarizing alternative strategies for recognizing past contributions: #[139 [BOUNTY](139%20[BOUNTY) 
+- #[153 [BOUNTY](153%20[BOUNTY) 
+- #[158 [BOUNTY](158%20[BOUNTY) 
 
 ### Soon
-- #[[165 [BOUNTY] Discord -> notion web3 library bot ]] 
-- #[[164 [BOUNTY] Update "Getting Started to web3" Notion page]] 
+- #[165 [BOUNTY](165%20[BOUNTY) 
+- #[164 [BOUNTY](164%20[BOUNTY) 
 - Write weekly update @MBaldwin 
 - Scribe: capture meeting notes from a meeting (Welcome Party/Town Hall)
 - Research - equity and web3, decolonizing web3

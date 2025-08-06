@@ -2,7 +2,7 @@
 tags: meetings
 date: 05-06-2023
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 ## Attendees
 - @Lewwwk @Rowan  @heenal
 - Regrets: @MBaldwin 
@@ -24,7 +24,7 @@ date: 05-06-2023
 - CFC Conference Talk - web3 and emerging technologies
 	- Small room but was overflowing. Heenal, Njoki and Michelle presented
 	- Good questions from those who attended. We may see some people join SuperBenefit. The message around SuperBenefit's work is getting clearer. 
-- #[[P-264 Systems Transformation Project]]
+- #[P-264 Systems Transformation Project](P-264%20Systems%20Transformation%20Project)
 	- Last week:
 		- web3 session at CFC Conference in Toronto
 		- Planning for grant project with Reimagine Institute. [See grant application](https://docs.google.com/document/d/1hNS_XkbsX_lLBVM3zg2vRaCfoUH6_8LOS6utdSk1TIg/edit#)

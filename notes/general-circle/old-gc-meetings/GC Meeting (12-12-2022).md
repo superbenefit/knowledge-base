@@ -2,7 +2,7 @@
 tags: meetings
 date: 12-12-2022
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 ## Attendees
 - @Rowan  @MBaldwin @njoki @Lewwwk 
 
@@ -20,7 +20,7 @@ date: 12-12-2022
 		- Gov state on Github / Gitbook
 		- Badging for voting / snapshot
 		- Conversations with Gitcoin grants and Wonderverse
-- Project name/link: #[[P-264 Systems Transformation Project]] 
+- Project name/link: #[P-264 Systems Transformation Project](P-264%20Systems%20Transformation%20Project) 
 	- Last week:
 	- Session III - CCS & SB web3 transformation & equity 
 		- [Poetic Harvest Document](https://docs.google.com/document/d/1k29fgg75OVpv3mG4cqTZUlusDR-mtB_pufQa_rc9MV0/edit)
@@ -35,7 +35,7 @@ date: 12-12-2022
 	- Sector Transformation through a DAO session with @Lewwwk for CCS UnSemester
 	- Meetings Deepa from Impact DAO and Shanny from AIFS
 	- Marmalade 2023 April 11-14 - web3 & systems transformation 
-- Project name/link #[[P-193 Community Experience- Revolution 1]] 
+- Project name/link #[P-193 Community Experience- Revolution 1](P-193%20Community%20Experience-%20Revolution%201) 
 	- Last week:
 	- shared some resources & updated web3 library 
 	- Connect with rathermercurial about anonymity discussion

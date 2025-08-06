@@ -2,9 +2,9 @@
 tags: meetings
 date: 20-06-2022
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 # Week of June 20, 2022
-#[[tactical meetings]] Template
+#[tactical meetings](/notes/archive/clarity/Tags/tactical%20meetings.md) Template
 ## Attendees
 - Ayusha, Heenal, Michael, Michelle, Rowan
 

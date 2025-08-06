@@ -1,3 +1,6 @@
+---
+publish: false
+---
 This directory is your private space for unpolished ideas and experimental thinking. It's excluded from version control to ensure your drafts remain private.
 
 # Personal Drafts

@@ -1,9 +1,9 @@
-#[[general circle]] 
+#[general circle](/notes/archive/clarity/Tags/general%20circle.md) 
 # Purpose
 Season 0 is about establishing the foundations for SuperBenefit to be able to:
 1. Self-fund core operations
 2. Support a community of 10,000 people, with 1,000 active participants, and 100 Contributors
-3. Execute on the next NFT Series and the #[[$superb]] meta-currency in 93 Revolution 1: Genesis.
+3. Execute on the next NFT Series and the #[$superb](/notes/archive/clarity/Tags/$superb.md) meta-currency in 93 Revolution 1: Genesis.
 
 # Priorities
 Accordingly, our priorities are:

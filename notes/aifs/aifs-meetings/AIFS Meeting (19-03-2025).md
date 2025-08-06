@@ -72,10 +72,10 @@ shortDate from shortTime until shortTime
 > Instructions for joining the meeting go here
 
 **Quick Links:** (gated)
-- [This Meeting's Notes](url)  
-- [Other Meeting Notes](url)  
-- [Task Board](url)
-- [Document Tracker](url)
+- This Meeting's Notes  
+- Other Meeting Notes  
+- Task Board
+- Document Tracker
 ```
 
 ## Transcripts

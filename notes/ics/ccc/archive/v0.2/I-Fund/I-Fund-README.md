@@ -29,11 +29,11 @@ The Impact Yield Fund aims to create a virtuous cycle where:
 
 ## Directory Structure
 
-- **[I.01-impact-yield-fund-concept.md](./I.01-impact-yield-fund-concept.md)** - Overview of the Impact Yield Fund concept, structure, and key components
-- **[I.02-meeting-notes.md](./I.02-meeting-notes.md)** - Compilation of meeting notes and discussions related to the fund
-- **[I.03-diagrams-and-visuals.md](./I.03-diagrams-and-visuals.md)** - Key diagrams illustrating the fund structure and flows
-- **[I.04-project-plan.md](./I.04-project-plan.md)** - Step-by-step plan for developing and implementing the fund
-- **[I.05-discussion-paper-outline.md](./I.05-discussion-paper-outline.md)** - Outline for the formal discussion paper to share with potential funders
+- **[I.01-impact-yield-fund-concept.md](notes/ics/ccc/archive/v0.2/I-Fund/I.01-impact-yield-fund-concept.md)** - Overview of the Impact Yield Fund concept, structure, and key components
+- **[I.02-meeting-notes.md](notes/ics/ccc/archive/v0.2/I-Fund/I.02-meeting-notes.md)** - Compilation of meeting notes and discussions related to the fund
+- **[I.03-diagrams-and-visuals.md](notes/ics/ccc/archive/v0.2/I-Fund/I.03-diagrams-and-visuals.md)** - Key diagrams illustrating the fund structure and flows
+- **[I.04-project-plan.md](notes/ics/ccc/archive/v0.2/I-Fund/I.04-project-plan.md)** - Step-by-step plan for developing and implementing the fund
+- **[I.05-discussion-paper-outline.md](notes/ics/ccc/archive/v0.2/I-Fund/I.05-discussion-paper-outline.md)** - Outline for the formal discussion paper to share with potential funders
 
 ## Connection to Community Exchange
 

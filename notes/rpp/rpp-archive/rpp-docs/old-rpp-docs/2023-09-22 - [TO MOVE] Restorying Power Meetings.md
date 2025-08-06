@@ -1,4 +1,4 @@
-#[[notes/archive/clarity/Tags/reimagining power]] #[[287 Re-Storying Power Project]] 
+#[reimagining power](notes/archive/clarity/Tags/reimagining%20power.md) #[287 Re-Storying Power Project](287%20Re-Storying%20Power%20Project) 
 >Doc pending transfer to Charmverse
 # November 22, 2023
 @MBaldwin @duara @heenal @rathermercurial @Aditi 
@@ -68,10 +68,10 @@ Discussion
 	- Then perhaps some more abstract writing later. 
 - Would this be a cell of SuperBenefit or of Reimagining Power?
 - What is our a) initial and b) future possible scope of work?
-- How does this project relate to SuperBenefit's goal of #[[G-291 Telling SuperBenefit's Story]]?
-	- Does it relate to other projects or goals, like #[[mapping pathways to the future]]?
-- How does this project relate to the #[[notes/archive/clarity/Tags/reimagining power]]?
-- Does this squad (Michelle, Njoki, Heenal) desire/require autonomy to take on responsibilities and create within the whole of SuperBenefit DAO? Or are they wanting to collaborate strictly within the scope of the #[[notes/archive/clarity/Tags/reimagining power]] project?
+- How does this project relate to SuperBenefit's goal of #[G-291 Telling SuperBenefit's Story](G-291%20Telling%20SuperBenefit's%20Story)?
+	- Does it relate to other projects or goals, like #[mapping pathways to the future](notes/archive/clarity/Tags/mapping%20pathways%20to%20the%20future.md)?
+- How does this project relate to the #[reimagining power](notes/archive/clarity/Tags/reimagining%20power.md)?
+- Does this squad (Michelle, Njoki, Heenal) desire/require autonomy to take on responsibilities and create within the whole of SuperBenefit DAO? Or are they wanting to collaborate strictly within the scope of the #[reimagining power](notes/archive/clarity/Tags/reimagining%20power.md) project?
 - Consistent Nomenclature: Restorying vs ReStorying vs Re-Storying
 - Purpose or Focus: 
 	- Harvest learning from the RPP and share out - and need consensus from stakeholders on sharing it out 

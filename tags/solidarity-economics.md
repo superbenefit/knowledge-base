@@ -56,7 +56,7 @@ Contemporary applications span from local cooperatives and community currencies 
 ## Related Concepts
 
 - **[Solidarity](tags/solidarity.md)**: Solidarity economics operationalizes solidarity principles through economic institutions and relationships
-- **[Cooperative](tags/cooperative.md)**: Cooperatives represent key organizational forms within solidarity economics frameworks
+- **Cooperative**: Cooperatives represent key organizational forms within solidarity economics frameworks
 - **[Mutual Aid](tags/mutual-aid.md)**: Mutual aid networks embody solidarity economics principles of reciprocity and community care
 - **[Mutualism](tags/mutualism.md)**: Mutualism provides philosophical foundations for solidarity economics emphasis on reciprocal exchange
 - **[Mutual Credit](tags/mutual-credit.md)**: Mutual credit systems exemplify solidarity economics alternatives to interest-bearing debt

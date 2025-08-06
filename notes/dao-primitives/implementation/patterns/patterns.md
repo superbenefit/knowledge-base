@@ -14,10 +14,10 @@ The patterns are organized into categories to facilitate discovery based on your
 
 ## Pattern Categories
 
-- **[Cell Patterns](collaboration-scale-patterns.md)**: Patterns related to implementing and managing Cells (small autonomous teams) in DAO networks
-- **[DAO Patterns](dao-patterns.md)**: Patterns related to implementing and managing DAOs as networks of autonomous teams
-- **[Decision Patterns](decision-patterns/decision-patterns.md)**: Patterns related to decision-making processes in decentralized organizations
-- **[Coordination Patterns](coordination-scale-patterns.md)**: Patterns related to coordination between teams and entities in decentralized networks
+- **Cell Patterns**: Patterns related to implementing and managing Cells (small autonomous teams) in DAO networks
+- **DAO Patterns**: Patterns related to implementing and managing DAOs as networks of autonomous teams
+- **Decision Patterns**: Patterns related to decision-making processes in decentralized organizations
+- **Coordination Patterns**: Patterns related to coordination between teams and entities in decentralized networks
 
 ## Using the Pattern Library
 
@@ -32,15 +32,3 @@ To effectively leverage the Pattern Library:
 4. **Implement and Iterate:** Implement the chosen patterns and monitor their effectiveness. Iterate on your implementation based on feedback and experience, refining your approach as needed.
 
 ---
-
-%% Begin Waypoint %%
-- **[patterns](./patterns.md)**
-  - **[collaboration-scale-patterns](./collaboration-scale-patterns/collaboration-scale-patterns.md)**
-  - **[constituency-scale-patterns](./constituency-scale-patterns/constituency-scale-patterns.md)**
-    - [community-governance](./constituency-scale-patterns/community-governance.md)
-    - [multi-stakeholder-governance](./constituency-scale-patterns/multi-stakeholder-governance.md)
-  - **[coordination-scale-patterns](./coordination-scale-patterns/coordination-scale-patterns.md)**
-  - **[dao-patterns](./dao-patterns/dao-patterns.md)**
-  - **[network-scale-patterns](./network-scale-patterns/network-scale-patterns.md)**
-
-%% End Waypoint %%

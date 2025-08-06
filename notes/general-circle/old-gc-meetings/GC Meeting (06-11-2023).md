@@ -2,13 +2,13 @@
 tags: meetings
 date: 06-11-2023
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 ## Attendees
 - @Lewwwk @Rowan  @rathermercurial @MBaldwin @heenal 
 - **Regrets:** 
 
 ## Updates 
-- #[[P-267 Initial Planning - Reimagining Power]]
+- #[P-267 Initial Planning - Reimagining Power](P-267%20Initial%20Planning%20-%20Reimagining%20Power)
 	- OTF Funding - Incremental progress
 	- Stakeholder meeting booked for Nov 20th - planning in progress
 	- [Climate Blog](https://docs.google.com/document/d/1oOYPMHP2jUO-ig3YyL9vTV5Q8Eqsiqjk2mx-pfOjVDE/edit) - Heenal finally finishing today
@@ -20,13 +20,13 @@ date: 06-11-2023
 	- Charmverse gates setup - GC has admin access. Should be ready for content import.
  [https://app.charmverse.io/superbenefit](https://app.charmverse.io/superbenefit) 
 
-- #[[P-257 DAO Primitives Framework]]
+- #[P-257 DAO Primitives Framework](P-257%20DAO%20Primitives%20Framework)
 	- 
-- #[[P-261 Windfall - Residential Energy NFT]]
+- #[P-261 Windfall - Residential Energy NFT](P-261%20Windfall%20-%20Residential%20Energy%20NFT)
 	- Expecting first payment this week.
 	- Stakeholder engagement beginning in next couple of weeks
 	- Introductory blog post - targeting end of next week
-- #[[community experience squad]] 
+- #[community experience squad](/notes/archive/clarity/Tags/community%20experience%20squad.md) 
 	- Welcoming new folks - let's make sure we are collaborating
 
 ## Discussion topics

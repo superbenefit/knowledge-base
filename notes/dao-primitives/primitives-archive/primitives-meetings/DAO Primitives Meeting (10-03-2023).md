@@ -2,7 +2,7 @@
 tags:
   - meetings
 date: 03-10-2023
-source: "[[2022-04-19 - Weekly Meeting Notes - DAO Primitives]]"
+source: "[2022-04-19 - Weekly Meeting Notes - DAO Primitives](notes/dao-primitives/primitives-archive/primitives-docs/2022-04-19%20-%20Weekly%20Meeting%20Notes%20-%20DAO%20Primitives.md)"
 ---
 
 # DAO Primitives Meeting - **10/3/23**
@@ -12,15 +12,15 @@ source: "[[2022-04-19 - Weekly Meeting Notes - DAO Primitives]]"
 	- **Regrets:** 
 - ## **Updates**
 	- Rowan had convo with Filsan and Aditi re: governance design. 
-	- rather - #[[stakeholder governance]] doc created. Do we need this for #[[community governance]] and #[[operational governance]] as well?
-	- rather - Generic group phase checklist created at #[[GR-299 Group Phase - DAO Primitives]] for ideation through organization phases.
+	- rather - #[stakeholder governance](notes/archive/clarity/Tags/stakeholder%20governance.md) doc created. Do we need this for #[community governance](notes/archive/clarity/Tags/community%20governance.md) and #[operational governance](notes/archive/clarity/Tags/operational%20governance.md) as well?
+	- rather - Generic group phase checklist created at #[GR-299 Group Phase - DAO Primitives](GR-299%20Group%20Phase%20-%20DAO%20Primitives) for ideation through organization phases.
 		- Longer than I thought it would be. Does this need to be adjusted before moving forward?
 - ## Discussion Topics
 	- 
 	- Feedback from last RP meeting:
 		- Context needed around terminology, especially as names and definitions evolve. 
-			- #[[stakeholder]] #[[stakeholder governance]] #[[community governance]]  #[[notes/archive/clarity/Tags/dao primitives]] 
-			- #[[tags/governance]] #[[notes/archive/clarity/Tags/reimagining power]] #[[operational governance]] #[[web3]] #[[tags/governance]] 
+			- #[stakeholder](notes/archive/clarity/Tags/stakeholder.md) #[stakeholder governance](notes/archive/clarity/Tags/stakeholder%20governance.md) #[community governance](notes/archive/clarity/Tags/community%20governance.md)  #[dao primitives](notes/archive/clarity/Tags/dao%20primitives.md) 
+			- #[governance](tags/governance.md) #[reimagining power](notes/archive/clarity/Tags/reimagining%20power.md) #[operational governance](notes/archive/clarity/Tags/operational%20governance.md) #[web3](notes/archive/clarity/Tags/web3.md) #[governance](tags/governance.md) 
 		- Assistance needed in onboarding, context gathering, other help to be empowered to contribute. Knowledge gaps and difficulty keeping up with meetings/conversations is challenging.
 		- Greater focus on facilitating communication & relationships is needed, along with hands-on assistance needed to help SHG participants onboard to tooling like Discord, Figma, etc. 
 			- How do we integrate this into the web3 onboarding workflow for stakeholders? - rather
@@ -29,6 +29,6 @@ source: "[[2022-04-19 - Weekly Meeting Notes - DAO Primitives]]"
 	- ### Topics for next week
 		- 
 - ## Action Items
-	- [ ] rather - Wrap language project into #[[G-294 Internal Coordination Functions]], correlate with #[[P-273 SB Governance Design - SuperBenefit]]
+	- [ ] rather - Wrap language project into #[G-294 Internal Coordination Functions](G-294%20Internal%20Coordination%20Functions), correlate with #[P-273 SB Governance Design - SuperBenefit](P-273%20SB%20Governance%20Design%20-%20SuperBenefit)
 	- [ ]   rather - draft bill of deliverables for Possibilian and share in Discord
 	- [ ]  ananth - sobol team management

@@ -10,7 +10,7 @@ publish: "true"
 type: link
 ---
 
-**[SuperBenefit DAO](https://www.superbenefit.org/) is convening a [series of conversations](https://superbenefit.mirror.xyz/Bcsl19CZ67amLJY_bee5dUy0DEboZykuMQqw58wGlGI) to explore how the nature of [governance](/tags/governance.md) is evolving and its role in accelerating transitions to better futures. We're specifically interested in how [Web3](/tags/blockchain.md) technologies are enabling new thinking and ways of doing, and their potential to combine with existing practices, perspectives, and wisdom.**
+**[SuperBenefit DAO](https://www.superbenefit.org/) is convening a [series of conversations](https://superbenefit.mirror.xyz/Bcsl19CZ67amLJY_bee5dUy0DEboZykuMQqw58wGlGI) to explore how the nature of tags/governance.md is evolving and its role in accelerating transitions to better futures. We're specifically interested in how tags/blockchain.md technologies are enabling new thinking and ways of doing, and their potential to combine with existing practices, perspectives, and wisdom.**
 
 The first conversation we hosted was on 'meta-governance' - [a summary of which you can find here](https://superbenefit.mirror.xyz/yyY2khsoDSgCBaLSIJMeT6xNPJ0c9d2T83rYyt6UfX8). In this second conversation, the focus turned to what we're seeing and learning from 'DAO2DAO cooperation'.
 
@@ -29,11 +29,11 @@ Listening to this conversation reinforced the categorical differences between DA
 
 Companies, charities, and public sector entities, alike, have exoskeletons and hard-wired functions that determine how and why they cooperate with each other, and also how they interact with people - which is usually, essentially, transactional in nature.
 
-Conversely, the edges of [DAOs](/tags/daos.md) are blurred, dynamic, and porous. In many respects, DAOs have no boundaries and are only held together by the gravity of their members' interests, agreements, and beliefs at any point in time. They are organic, fluid, and, essentially, human (_DAO = [Decentralised](/tags/decentralization.md) Autonomous ~~Organisation~~ Organism)._ This is also why many of them will flourish and then fall apart.
+Conversely, the edges of tags/daos.md are blurred, dynamic, and porous. In many respects, DAOs have no boundaries and are only held together by the gravity of their members' interests, agreements, and beliefs at any point in time. They are organic, fluid, and, essentially, human (_DAO = tags/decentralization.md Autonomous ~~Organisation~~ Organism)._ This is also why many of them will flourish and then fall apart.
 
-It follows that while tools and tokens may provide the interstitial fluid within and between these organisms, the human aspects of purpose, identity, and values are more likely to determine both the success and sustainability of any inter-organism [cooperation](/tags/coordination.md). So, although technology has enabled DAOs to emerge, it may well be the nature of the relational ties and infrastructures that enables them to evolve and thrive.
+It follows that while tools and tokens may provide the interstitial fluid within and between these organisms, the human aspects of purpose, identity, and values are more likely to determine both the success and sustainability of any inter-organism tags/coordination.md. So, although technology has enabled DAOs to emerge, it may well be the nature of the relational ties and infrastructures that enables them to evolve and thrive.
 
-How this relates to the interplay between digital spaces and physical contexts may also be an area ripe for further exploration (_might digital technologies enhance, and be enhanced by, [networks](/tags/networks.md) and systems with existing social capital?_). Indeed, this is an inquiry likely to feature in our next and final conversation of the series - _'New and Old'_.
+How this relates to the interplay between digital spaces and physical contexts may also be an area ripe for further exploration (_might digital technologies enhance, and be enhanced by, tags/networks.md and systems with existing social capital?_). Indeed, this is an inquiry likely to feature in our next and final conversation of the series - _'New and Old'_.
 
 ## The discussion
 
@@ -55,7 +55,7 @@ The text below is an attempt to capture key themes and insights from the discuss
     - Essentially, the proto-space where we're learning how decentralised groups and networks interact with each other
 - [@stefdelev](https://twitter.com/stefdelev):
     - The dynamics of DAOs lean towards collaboration
-    - Enables us to explore how we create networks and ecosystems of [communities](/tags/community.md) versus siloed structures and systems
+    - Enables us to explore how we create networks and ecosystems of tags/community.md versus siloed structures and systems
 
 ### What are the principles for proactive cooperation
 
@@ -148,7 +148,7 @@ The text below is an attempt to capture key themes and insights from the discuss
     - We need governance mechanisms to retain alignment around mission when scaling happens.
     - How can individuals and smaller groups command access to treasuries to follow emergent energies without getting constrained by bureaucracy (or a majority)?
 - [@chaserchapman](https://twitter.com/chaserchapman):
-    - Models where you can 'rage quit' your funds from the [treasury](/tags/treasury.md), but an extreme measure
+    - Models where you can 'rage quit' your funds from the tags/treasury.md, but an extreme measure
     - There is a lot of potential functionality that can be used to change controls around treasuries, but this comes with tradeoffs that a lot of DAOs aren't willing to make, but that may be an area for further change
 
 ### Coming up…
@@ -159,8 +159,8 @@ If this caught your interest, join us for the next conversations. On June 30, 6.
 
 Some other governance discovery being undertaken by @SuperBenefitDAO:
 
-- [Governance for better futures - Meta-governance](Governance for better futures - Meta-governance.md)
-- [Governance for better futures - New and Old](Governance for better futures - New and Old.md)
+- artifacts/articles/governance-for-better-futures/Governance%20for%20better%20futures%20-%20Meta-governance.md
+- artifacts/articles/governance-for-better-futures/Governance%20for%20better%20futures%20-%20New%20and%20Old.md
 
 Summary produced by: [@AlexHannant](https://twitter.com/AlexHannant) and [@TarynLucas6](https://twitter.com/TarynLucas6)
 

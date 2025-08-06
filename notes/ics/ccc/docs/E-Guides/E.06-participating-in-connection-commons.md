@@ -104,4 +104,4 @@ The Connection Commons program and its Belonging Circle gatherings are designed 
 
 ---
 
-*For more information about the role of the Connection Commons in the Community Connection & Commitment Commons, see [D.04-community_activities.md](../D-Examples/D.04-community_activities.md).*
+*For more information about the role of the Connection Commons in the Community Connection & Commitment Commons, see D.04-community_activities.md.*

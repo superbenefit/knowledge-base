@@ -2,7 +2,7 @@
 tags: meetings
 date: 31-01-2022
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 # Week of January 31, 2022
 ## Attendees
 @Lewwwk @remarkk @Ryan  @MBaldwin @heenal @AlexH @Rowan  
@@ -39,7 +39,7 @@ How are you arriving?
 - Ryan: 1 day (late week/wkend) 
 
 ## Projects
-- #[[Community Experience Project]] - @MBaldwin 
+- #[Community Experience Project](Community%20Experience%20Project) - @MBaldwin 
 	- Last week:
 		- 1:1 meetings
 		- Weekly Update
@@ -55,54 +55,54 @@ How are you arriving?
 		- Final interviews Transformation Storytelling Fellow 
 		- Practical ideas related to equity conversation 
 		- Start Introduction to web3, Crypto & DeFi  and we have a debrief session booked with Heenal Rajani, Gordon Holley, Michael Redhead Champagne [https://dandelion.earth/events/61ad29373d9e26000f67acb9](https://dandelion.earth/events/61ad29373d9e26000f67acb9) 
-- #[[68 Set up Information Systems]] - @heenal 
+- #[68 Set up Information Systems](68%20Set%20up%20Information%20Systems) - @heenal 
 	- Last week:
 		- GC meeting, CXI Tactical meeting, ToC meeting, Welcome Party, web3 library meeting, verses meeting,  Storytelling meeting, CXI General Meeting, meeting with BPetes
 		- Support Verses DAO
-		- #[[storytelling]] planning
+		- #[storytelling](/notes/archive/clarity/Tags/storytelling.md) planning
 		- Tidy up Clarity
-		- #[[tooling]] Guide v0.1 
-		- Drafted: #[[153 [BOUNTY] Develop a Pluriverse Reflection Guide]] 
+		- #[tooling](/notes/archive/clarity/Tags/tooling.md) Guide v0.1 
+		- Drafted: #[153 [BOUNTY](153%20[BOUNTY) 
 		- Got Discord admin access
 	- This week:
 		- Update Getting Started page on Notion (Jai)
-		- Publish more #[[bounties]]
+		- Publish more #[bounties](/notes/archive/clarity/Tags/bounties.md)
 		- Update Discord rules/welcome message
-		- #[[Update Discord welcome message]] 
+		- #[Update Discord welcome message](Update%20Discord%20welcome%20message) 
 		- Start 4-week crypto course
 		- Upon completion of Discord channel/guides refactor: Update Discord messages and Notion site
 		- Other things that come up ;)
-- #[[$sprb]]
-	- #[[45 Launch $SPRB Governance Token]] 
+- #[$sprb](/notes/archive/clarity/Tags/$sprb.md)
+	- #[45 Launch $SPRB Governance Token](45%20Launch%20$SPRB%20Governance%20Token) 
 		- Last week: Discussion on multisig
-		- This week: #[[137 Create SB Multisig]], #[[138 Proposal 3- Create $SPRB ERC20 token for the SuperBenefit DAO [DRAFT]]] 
-	- #[[46 Contribution recognition and rewards event]] 
-		- Last week: #[[139 [BOUNTY] Provide a summary of approaches to rewarding past contributors]] not claimed, #[[65 Design contribution recognition and reward process]] , #[[151 Pre-launch contribution register]] 
+		- This week: #[137 Create SB Multisig](137%20Create%20SB%20Multisig), #[138 Proposal 3- Create $SPRB ERC20 token for the SuperBenefit DAO [DRAFT](138%20Proposal%203-%20Create%20$SPRB%20ERC20%20token%20for%20the%20SuperBenefit%20DAO%20[DRAFT)] 
+	- #[46 Contribution recognition and rewards event](46%20Contribution%20recognition%20and%20rewards%20event) 
+		- Last week: #[139 [BOUNTY](139%20[BOUNTY) not claimed, #[65 Design contribution recognition and reward process](65%20Design%20contribution%20recognition%20and%20reward%20process) , #[151 Pre-launch contribution register](151%20Pre-launch%20contribution%20register) 
 		- This week: tbd
-- #[[74 Crowdfund - "Hello World"]] 
+- #[74 Crowdfund - "Hello World"](74%20Crowdfund%20-%20"Hello%20World") 
 	- Blocked on equity inclusion
 	- This week: tbd
-- #[[notes/archive/clarity/Tags/theory of change]] #toc
+- #[theory of change](/notes/archive/clarity/Tags/theory%20of%20change.md) #toc
 	- Feedback to be reviewed and incorporated into final iteration at end of week
 	- Initial thinking on map making has been shared for comment - will progress further and repost in a new project after ToC is wrapped
-- #[[7 Governance Implementation]] 
+- #[7 Governance Implementation](7%20Governance%20Implementation) 
 	- Need to reopen our v0 governance concept with new findings
-- #[[resource flow squad]] 
+- #[resource flow squad](/notes/archive/clarity/Tags/resource%20flow%20squad.md) 
 	- first draft of layout of outline shared with feedback collected
 	- working with Alex on map making to integrate that into the Resource Flow
 
 ## Triage Items
-- Lewwwk: Still learning how to collaborate in this context and would appreciate #[[notes/aifs/feedback/feedback]] from #[[squad lead]]s when it comes up.
-	- **ACTION:** Please use #[[notes/aifs/feedback/feedback]] protocol and give Michael feedback.
+- Lewwwk: Still learning how to collaborate in this context and would appreciate #[feedback](/notes/aifs/feedback/feedback.md) from #[squad lead](/notes/archive/clarity/Tags/squad%20lead.md)s when it comes up.
+	- **ACTION:** Please use #[feedback](/notes/aifs/feedback/feedback.md) protocol and give Michael feedback.
 - Flashlight - need help recruiting graphic designers and writers.
 	- The Storytelling Fellow could potentially help in both regards. @MBaldwin & @heenal are interviewing 2 candidates tomorrow (2nd interview)
 	- **ACTION:** Request @flashlight to provide an outline of what he's looking for, something that can be shared; What can we offer people? How much time? Post to Guilds?
-- #[[92 Clarify Discord Roles and Flow]] - blocked until next iteration on governance (guilds/squads) - @Lewwwk 
+- #[92 Clarify Discord Roles and Flow](92%20Clarify%20Discord%20Roles%20and%20Flow) - blocked until next iteration on governance (guilds/squads) - @Lewwwk 
 	- Blocked: Right approach from Mark to cascade.
 - Learnings from BPetes on DAO Structure/Governance  - @remarkk 
 	- It appears that some aspects of our holocractic approach to governance may not be appropriate for a DAO.
 	- Guilds are guilds. It's all about skillsets.
-		- **ACTION:** If there's a skillset your squad needs, ensure it's captured in the roles/guilds here: #[[47 Refactor Guilds]] 
+		- **ACTION:** If there's a skillset your squad needs, ensure it's captured in the roles/guilds here: #[47 Refactor Guilds](47%20Refactor%20Guilds) 
 	- How do people become a contributor? Bounties are a great way of trying someone out!
 		- **ACTION:** Leads to create bounties, post to guilds to invite people in
 	- Avoid creating many roles; Lead/Convenor and Contributor are sufficient. Squads are an emergent place for work to happen.

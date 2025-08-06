@@ -168,7 +168,7 @@ poem: |
   He kindly stopped for me;
   The carriage held but just ourselves
   And Immortality.
-author: "[[Emily Dickinson]]"
+author: "[Emily Dickinson](Emily%20Dickinson)"
 title: "Because I could not stop for Death"
 ---
 ```
@@ -245,12 +245,12 @@ Example:: 9 yrs 8 min
 
 ### Link
 
-Obsidian links like [[Page]] or [[Page|Page Display]].
+Obsidian links like [Page](Page) or [Page Display](Page).
 
-Example:: [[A Page]]
-Example:: [[Some Other Page|Render Text]]
+Example:: [A Page](A%20Page)
+Example:: [Render Text](Some%20Other%20Page)
 
-Links in YAML Frontmatter need to be quoted: `key: "[[Link]]"`. This is default Obsidian-supported behavior. Unquoted links lead to invalid YAML frontmatter.
+Links in YAML Frontmatter need to be quoted: `key: "[link](tools/types/link.md)"`. This is default Obsidian-supported behavior. Unquoted links lead to invalid YAML frontmatter.
 
 ### List
 

@@ -36,7 +36,7 @@ Even a small donation of $2-20 significantly increases our matching funds! The n
 
 **Support options:**
 - [Donate via Gitcoin](https://explorer.gitcoin.co/#/round/42220/31/52) (Web3 option)
-- [Donate via PayPal/Credit Card](YOUR PAYPAL LINK) (Traditional option)
+- Donate via PayPal/Credit Card (Traditional option)
 
 Not familiar with quadratic funding? [Learn why small donations make a big difference](https://wtfisqf.com).
 

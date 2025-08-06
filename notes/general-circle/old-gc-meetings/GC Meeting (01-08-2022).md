@@ -2,9 +2,9 @@
 tags: meetings
 date: 01-08-2022
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 # Week of August 1, 2022
-#[[tactical meetings]] 
+#[tactical meetings](/notes/archive/clarity/Tags/tactical%20meetings.md) 
 
 ## Attendees
 - Ayusha, Heenal, Michael, Michelle, Rowan
@@ -14,7 +14,7 @@ date: 01-08-2022
 
 
 ## Projects
-- Project name/link - #[[notes/archive/clarity/Tags/dao primitives]] 
+- Project name/link - #[dao primitives](/notes/archive/clarity/Tags/dao%20primitives.md) 
 	- Last week: 
 		- Conversation with Catalyst 2030 group + follow up with Steve
 		- Research with Ananth continuing - [https://app.clarity.so/superbenefit/group/GR/notes](https://app.clarity.so/superbenefit/group/GR/notes) 
@@ -23,11 +23,11 @@ date: 01-08-2022
 		- Research
 		- Next post progress
 		- 
-- #[[SUP-191 Review Discord Onboarding Flow]] (Heenal)
+- #[SUP-191 Review Discord Onboarding Flow](SUP-191%20Review%20Discord%20Onboarding%20Flow) (Heenal)
 	- Last week: archived guilds channels, opened up projects channels, updated start-here  message
 	- Next week: add "role" selection for interest in intervention areas
 	- Blockers: Zira bot access
-- Project name/link: #[[P-193 Community Experience- Revolution 1]] (Michelle)
+- Project name/link: #[P-193 Community Experience- Revolution 1](P-193%20Community%20Experience-%20Revolution%201) (Michelle)
 	- Last week:
 		- Ethelo DAO about learning/rationale [https://ethelo.com/dao/](https://ethelo.com/dao/)  - Ashoka has web3 team, couldb e
 		- World Heritage Catalysis DAO meeting [https://www.whcatalysis.org/](https://www.whcatalysis.org/) 
@@ -35,18 +35,18 @@ date: 01-08-2022
 	- This week:
 		- Northpine Foundation meeting about potential DAO 
 	- Blockers:
-- Project name/link:  #[[SUP-209 Proposal for Contributor Guide]] 
+- Project name/link:  #[SUP-209 Proposal for Contributor Guide](SUP-209%20Proposal%20for%20Contributor%20Guide) 
 	- Last week: 
 		- still waiting on 1-2 more contributions for token distribution
 	- This week:
 		- follow up for token distribution
 	- Blockers:
-- #[[Krause House Collaboration]]
+- #[Krause House Collaboration](Krause%20House%20Collaboration)
 	- Last week: the blocker is being removed this week (announcing the advisor)
 	- This week: reinitiating getting this going
 - Other (Lewwwk)
 	- Building efficiency labelling NFT (residential)
-- Project name/link: #[[governance conversations]] 
+- Project name/link: #[governance conversations](/notes/archive/clarity/Tags/governance%20conversations.md) 
 	- Last week:
 		- token allocation draft
 		- email to contributors

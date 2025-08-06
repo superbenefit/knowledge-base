@@ -7,26 +7,26 @@ Last updated: June 21, 2022
 - Respects the autonomy of Contributors working to advance SuperBenefit's Purpose
 - Key decisions and actions are documented and transparent to all
 
-[[$sprb]]
+[$sprb](/notes/archive/clarity/Tags/$sprb.md)
 - SuperBenefit rewards the work of Contributors with tokens, including the $SPRB token which is used in the DAO's governance.
 - Contributors use $SPRB to vote on major strategic decisions of SuperBenefit DAO.
 
-#[[proposals]] 
-- Proposals are the primary means by which decisions are made which affect SuperBenefit's #[[ethos]] or the deployment of SuperBenefit's #[[notes/archive/clarity/Tags/treasury]].
+#[proposals](/notes/archive/clarity/Tags/proposals.md) 
+- Proposals are the primary means by which decisions are made which affect SuperBenefit's #[ethos](/notes/archive/clarity/Tags/ethos.md) or the deployment of SuperBenefit's #[treasury](/notes/archive/clarity/Tags/treasury.md).
 - Any $SPRB holder may make a Proposal by following this process:
 	- Share a draft of the Proposal in the #proposal-ideas or #proposal-development channels in Discord. The preference is to reach a fist-to-five soft consensus, so that any major revisions can happen in conversation before the Proposal goes to Snapshot.
 	- Once a proposal is developed, it is turned into a task in Clarity and the General Circle facilitates a voting process via Snapshot for a duration of no less than 48 hours
 	- Following the voting period, the results of the Proposal will be recorded, publicized and executed promptly
 - Individual Circles (including the General Circle) may determine their own processes for making, voting on, recording and executing Proposals pertaining to that Circle's Purpose and Accountabilities
 
-[[general circle]] 
+[general circle](/notes/archive/clarity/Tags/general%20circle.md) 
 - The General Circle is the originator of the core Circles of SuperBenefit and is accountable for setting and resourcing strategic direction
 - The members of the General Circle are the General Circle Lead and all Circle Leads.
 - Any $SPRB holder may propose changes to the Purpose and Accountabilities of the General Circle by making a Proposal. Such a Proposal requires a super-majority (66.67%) to pass.
 - Any $SPRB holder may make a Proposal to remove a Circle Lead from their role.
 
 General Circle Lead
-- The General Circle Lead guides the General Circle to collectively steer SuperBenefit towards its Purpose (see #[[ethos]]).
+- The General Circle Lead guides the General Circle to collectively steer SuperBenefit towards its Purpose (see #[ethos](/notes/archive/clarity/Tags/ethos.md)).
 - The General Circle Lead is accountable to holders of $SPRB, who have the authority to change who fills the General Circle Lead role through the Proposal process.
 
  Circles (or Cells)

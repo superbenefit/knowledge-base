@@ -26,7 +26,7 @@ In web3 contexts, transparency takes on both technological and social dimensions
 
 In decentralized autonomous organizations, transparency functions as a core governance principle that enables legitimate collective decision-making. By making proposals, deliberations, and voting processes visible to all members, DAOs create the conditions for informed participation and meaningful accountability.
 
-As described in [Building DAOs as scalable networks](artifacts/Building%20DAOs%20as%20scalable%20networks.md), transparent governance processes allow community members to "step in and require changes" when operations become misaligned with shared purpose. This oversight capacity creates an essential safeguard against capture or corruption, particularly in two-house governance models where Community Governance must maintain visibility into Operational Governance activities.
+As described in Building DAOs as scalable networks, transparent governance processes allow community members to "step in and require changes" when operations become misaligned with shared purpose. This oversight capacity creates an essential safeguard against capture or corruption, particularly in two-house governance models where Community Governance must maintain visibility into Operational Governance activities.
 
 Transparency in DAO contexts typically manifests through:
 - On-chain voting records and proposal histories
@@ -39,7 +39,7 @@ Transparency in DAO contexts typically manifests through:
 
 In resource allocation and coordination, transparency enables participants to understand how collective assets are being used, creating the accountability necessary for sustainable stewardship. This visibility applies not only to financial resources but also to attention, contribution recognition, and decision rights.
 
-As noted in [Minimum Viable Permissionless-ness](artifacts/Minimum%20Viable%20Permissionless-ness.md), transparency in resource allocation allows talent to "flow toward opportunity and act on it," creating emergent strategy through visible signals rather than centralized planning. When resource flows and allocation criteria are transparent, participants can make informed decisions about where to direct their efforts, creating more efficient and responsive systems.
+As noted in Minimum Viable Permissionless-ness, transparency in resource allocation allows talent to "flow toward opportunity and act on it," creating emergent strategy through visible signals rather than centralized planning. When resource flows and allocation criteria are transparent, participants can make informed decisions about where to direct their efforts, creating more efficient and responsive systems.
 
 ### Transparency in Cell-Based Organizations
 
@@ -63,12 +63,12 @@ These technical mechanisms create what is sometimes called "radical transparency
 ## Related Concepts
 
 - **[Accountability](tags/accountability.md)**: Transparency enables verification of commitments and actions, creating the foundation for meaningful accountability
-- **[Trust](tags/trust.md)**: Transparent systems reduce the need for blind trust in authorities while enabling informed trust in processes and outcomes
+- **Trust**: Transparent systems reduce the need for blind trust in authorities while enabling informed trust in processes and outcomes
 - **[Privacy](tags/privacy.md)**: Balancing transparency with appropriate protection of sensitive information
 - **[Agreements](tags/agreements.md)**: Clear documentation of commitments and expectations
 
 ## References and Resources
 
-- [Building DAOs as scalable networks](artifacts/Building%20DAOs%20as%20scalable%20networks.md): Discusses transparency in two-house governance structures
-- [Minimum Viable Permissionless-ness](artifacts/Minimum%20Viable%20Permissionless-ness.md): Explores how transparency enables emergent strategy in decentralized systems
-- [Scale and the levers that provide DAOs their power](artifacts/Scale%20and%20the%20levers%20that%20provide%20DAOs%20their%20power.md): Examines transparency as a coordination mechanism across scales
+- Building DAOs as scalable networks: Discusses transparency in two-house governance structures
+- Minimum Viable Permissionless-ness: Explores how transparency enables emergent strategy in decentralized systems
+- Scale and the levers that provide DAOs their power: Examines transparency as a coordination mechanism across scales

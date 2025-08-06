@@ -2,9 +2,9 @@
 tags: meetings
 date: 25-07-2022
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 # Week of July 25, 2022
-#[[tactical meetings]] 
+#[tactical meetings](/notes/archive/clarity/Tags/tactical%20meetings.md) 
 
 ## Attendees
 - 
@@ -18,13 +18,13 @@ date: 25-07-2022
 	- Last week:
 	- This week:
 	- Blockers:
-- Project name/link: #[[P-193 Community Experience- Revolution 1]] 
+- Project name/link: #[P-193 Community Experience- Revolution 1](P-193%20Community%20Experience-%20Revolution%201) 
 	- Last week:
 		- Further $SPRB token distribution communication
 	- This week:
 		- 
 	- Blockers:
-- Project name/link: #[[governance conversations]] 
+- Project name/link: #[governance conversations](/notes/archive/clarity/Tags/governance%20conversations.md) 
 	- Last week:
 		- @AlexH completed blog for conversation 3 of series -Governance for better futures Insights from conversation #3: 'New and Old'  [https://superbenefit.mirror.xyz/uf-c2rynYK0ODKQmJGLj5tc8TU4_V1L76Lbp_71Sh3s](https://superbenefit.mirror.xyz/uf-c2rynYK0ODKQmJGLj5tc8TU4_V1L76Lbp_71Sh3s) 
 		- 

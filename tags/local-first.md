@@ -76,6 +76,6 @@ This creates technological infrastructure that supports the localist principle o
 - [PowerSync: Local-First Software Origins and Evolution](https://www.powersync.com/blog/local-first-software-origins-and-evolution) - Analysis of local-first movement development and practical implementation challenges
 
 **SuperBenefit Context:**
-- [[tags/localism]] - Local-first computing supports community autonomy and place-based solutions
-- [[tags/cosmolocalism]] - Local data sovereignty with global knowledge sharing and coordination
-- [[tags/decentralization]] - Distribution of data control away from centralized platforms
+- [localism](tags/localism.md) - Local-first computing supports community autonomy and place-based solutions
+- [cosmolocalism](tags/cosmolocalism.md) - Local data sovereignty with global knowledge sharing and coordination
+- [decentralization](tags/decentralization.md) - Distribution of data control away from centralized platforms

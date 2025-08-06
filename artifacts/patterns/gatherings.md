@@ -132,8 +132,8 @@ All In For Sport conducted six Gatherings from November 2024 to February 2025, c
 ## References
 
 ### Related Patterns
-- **[Participatory Governance](/tags/participatory-governance)**: Gatherings incorporate participatory design principles but focus specifically on cross-sector bridge-building rather than design outcomes
-- **[Local Nodes](/tags/local-nodes.md)**: Gatherings often serve as activation mechanisms for Local Nodes, bringing together stakeholders who will sustain ongoing collaboration
+- **[Participatory Governance](tags/participatory-governance.md)**: Gatherings incorporate participatory design principles but focus specifically on cross-sector bridge-building rather than design outcomes
+- **[Local Nodes](tags/local-nodes.md)**: Gatherings often serve as activation mechanisms for Local Nodes, bringing together stakeholders who will sustain ongoing collaboration
 
 ### Theoretical Foundations
 - Contact theory and intergroup dialogue practices

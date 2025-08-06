@@ -67,4 +67,4 @@ Community practices create the conditions for trust, reciprocity, and collective
 - **[Roles](tags/roles.md)**: Defined responsibilities that practices help coordinate
 - **[Tasks](tags/tasks.md)**: Specific actions guided by established practices
 - **[Governance](tags/governance.md)**: Systems for collective decision-making that incorporate various practices
-- **[patterns](tags/patterns.md)**: Reusable solutions to recurring problems, which often codify effective practices
+- **patterns**: Reusable solutions to recurring problems, which often codify effective practices

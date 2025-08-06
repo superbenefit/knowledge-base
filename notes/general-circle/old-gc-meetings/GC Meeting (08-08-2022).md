@@ -2,7 +2,7 @@
 tags: meetings
 date: 08-08-2022
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 # Week of August 8, 2022
 ## Attendees
 - Michael, Rowan, Ayusha
@@ -11,10 +11,10 @@ date: 08-08-2022
 - How do you arrive?
 
 ## Projects
-- #[[P-260 TrustDAO - Child Welfare, Canada]] 
+- #[P-260 TrustDAO - Child Welfare, Canada](P-260%20TrustDAO%20-%20Child%20Welfare,%20Canada) 
 	- Last week: initial meeting with Northpine and Children's Aid Society
 	- This week: draft a mini-proposal @Lewwwk 
-- #[[P-261 Windfall - Residential Energy NFT]]
+- #[P-261 Windfall - Residential Energy NFT](P-261%20Windfall%20-%20Residential%20Energy%20NFT)
 	- Last week: initial scoping
 	- This week: @Lewwwk to draft a possible proposal integration
 -  #[[SUP-257 Proposal SBP8- DAO Primitive Project

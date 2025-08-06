@@ -25,11 +25,11 @@ The Impact Yield Fund (IYF) is a novel financial structure that preserves capita
 
 This directory contains the following resources for understanding and implementing the Impact Yield Fund:
 
-- **[I.01-impact-yield-fund-concept.md](./I.01-impact-yield-fund-concept.md)** - Detailed explanation of the fund concept, structure, and key components
-- **[I.03-diagrams-and-visuals.md](./I.03-diagrams-and-visuals.md)** - Visual representations of the fund structure and flows
-- **[I.04-project-plan.md](./I.04-project-plan.md)** - Implementation roadmap and action items
-- **[I.05-discussion-paper-outline.md](./I.05-discussion-paper-outline.md)** - Structure for formal presentation to funders
-- **[I-Fund.md](./I-Fund.md)** - Comprehensive overview of the fund purpose and design
+- **[I.01-impact-yield-fund-concept.md](notes/ics/ccc/docs/I-Fund/I.01-impact-yield-fund-concept.md)** - Detailed explanation of the fund concept, structure, and key components
+- **[I.03-diagrams-and-visuals.md](notes/ics/ccc/docs/I-Fund/I.03-diagrams-and-visuals.md)** - Visual representations of the fund structure and flows
+- **[I.04-project-plan.md](notes/ics/ccc/docs/I-Fund/I.04-project-plan.md)** - Implementation roadmap and action items
+- **[I.05-discussion-paper-outline.md](notes/ics/ccc/docs/I-Fund/I.05-discussion-paper-outline.md)** - Structure for formal presentation to funders
+- **[I-Fund.md](notes/ics/ccc/docs/I-Fund/I-Fund.md)** - Comprehensive overview of the fund purpose and design
 
 ## Discussion Paper Development
 

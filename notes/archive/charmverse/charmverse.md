@@ -8,10 +8,7 @@ curator:
 publish: "false"
 type: note
 ---
-%% Begin Waypoint %%
 
-
-%% End Waypoint %%
 
 See also:
-- [[clarity]]
+- [clarity](/notes/archive/clarity/clarity.md)

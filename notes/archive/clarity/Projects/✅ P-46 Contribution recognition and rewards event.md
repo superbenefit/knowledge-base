@@ -1,5 +1,5 @@
 # Purpose
-Allocate #[[$sprb]] to contributors for S0 contributions (includes everything back to founding)
+Allocate #[$sprb](/notes/archive/clarity/Tags/$sprb.md) to contributors for S0 contributions (includes everything back to founding)
 # Objectives
 - Reward distribution that recognizes past contributions
 - Prototype a periodic reward recognition process

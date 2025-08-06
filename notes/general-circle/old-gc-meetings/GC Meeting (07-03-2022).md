@@ -2,9 +2,9 @@
 tags: meetings
 date: 07-03-2022
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 # Week of March 7, 2022
-## #[[tactical meetings]] Template
+## #[tactical meetings](/notes/archive/clarity/Tags/tactical%20meetings.md) Template
 ## Attendees
 - 
 
@@ -43,7 +43,7 @@ date: 07-03-2022
 	- Peter:
 
 ## Projects
-- #[[68 Set up Information Systems]]
+- #[68 Set up Information Systems](68%20Set%20up%20Information%20Systems)
 	- Last week:
 		- Updated Discord welcome/rules, start-here, branding; Tooling Guide on Clarity; FAQ
 		- Call with Clarity
@@ -51,7 +51,7 @@ date: 07-03-2022
 	- This week:
 		- Further develop plans for Revolution 1
 	- Blockers:
-- Project #[[Community Experience- Revolution 1]] 
+- Project #[Community Experience- Revolution 1](Community%20Experience-%20Revolution%201) 
 	- Last week:
 		- Weekly update
 		- Call with Clarity team

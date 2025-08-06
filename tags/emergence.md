@@ -47,13 +47,13 @@ These innovations frequently combine traditional community knowledge with new te
 
 ## Related Concepts
 
-- **[Complex Systems](tags/complex-systems.md)**: Emergence is a fundamental characteristic of complex systems with multiple interacting components
+- **Complex Systems**: Emergence is a fundamental characteristic of complex systems with multiple interacting components
 - **[Networks](tags/networks.md)**: Network interactions create the conditions where emergence occurs between autonomous participants
-- **[Self-Governed](tags/self-governed.md)**: Emergence enables self-governance by creating collective capabilities without external control
-- **[Adaptive](tags/adaptive.md)**: Systems displaying emergence often develop adaptive capacity that allows them to respond to changing conditions
-- **[Collective](tags/collective.md)**: Emergence represents collective capabilities that exceed individual participant contributions
+- **Self-Governed**: Emergence enables self-governance by creating collective capabilities without external control
+- **Adaptive**: Systems displaying emergence often develop adaptive capacity that allows them to respond to changing conditions
+- **Collective**: Emergence represents collective capabilities that exceed individual participant contributions
 - **[Decentralization](tags/decentralization.md)**: Decentralized systems rely on emergence to achieve collective outcomes without central authority
-- **[Cooperative](tags/cooperative.md)**: Cooperatives demonstrate emergence in democratic governance and collective economic capacity
+- **Cooperative**: Cooperatives demonstrate emergence in democratic governance and collective economic capacity
 - **[Coordination](tags/coordination.md)**: Coordination often arises through emergence from participant interactions within shared frameworks and protocols
 
 ## References and Resources
@@ -69,6 +69,6 @@ These innovations frequently combine traditional community knowledge with new te
 - [From the origin of life to pandemics: emergent phenomena in complex systems | Royal Society](https://royalsocietypublishing.org/doi/10.1098/rsta.2020.0410) - Scientific research on emergence across biological and social systems
 
 **SuperBenefit Context:**
-- [[notes/solidarity-draft]] - Examples of emergence in coordination systems within decentralized networks
-- [[tags/cooperative]] - Emergence in democratic governance and collective economic capabilities in cooperative organization
-- [[tags/networks]] - Network-based systems where emergence occurs through participant interactions
+- notes/solidarity-draft - Examples of emergence in coordination systems within decentralized networks
+- tags/cooperative - Emergence in democratic governance and collective economic capabilities in cooperative organization
+- [networks](tags/networks.md) - Network-based systems where emergence occurs through participant interactions

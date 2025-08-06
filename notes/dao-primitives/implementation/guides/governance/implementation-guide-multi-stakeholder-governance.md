@@ -22,11 +22,11 @@ description
 
 ## Introduction
 
-[[tags/primitives|Crypto primitives]] give us the opportunity to fundamentally redesign organizational and financial models in ways that are better for individuals, communities and society. This opportunity to reimagine organizations brings with it complexity, as structures and practices that were once fixed become flexible and adaptable. As a result, we need to lean on primitives, and patterns for combining these primitives, that we can use to reliably produce organizational structures with the features we want.
+[Crypto primitives](tags/primitives.md) give us the opportunity to fundamentally redesign organizational and financial models in ways that are better for individuals, communities and society. This opportunity to reimagine organizations brings with it complexity, as structures and practices that were once fixed become flexible and adaptable. As a result, we need to lean on primitives, and patterns for combining these primitives, that we can use to reliably produce organizational structures with the features we want.
 
-At SuperBenefit we have developed the [[artifacts/guides/dao-primitives-framework/dao-primitives-framework|DAO primitives framework]] to provide a set of primitives and patterns with which these new organizational structures can be composed.
+At SuperBenefit we have developed the [DAO primitives framework](artifacts/guides/dao-primitives-framework/dao-primitives-framework.md) to provide a set of primitives and patterns with which these new organizational structures can be composed.
 
-We have identified and experimented with using the DAO primitives framework to produce governance systems based on 3 interlocking governance structures: [[tags/governance#Community Governance|Community Governance]], [[tags/governance#Operational Governance|Operational Governance]] and [[tags/governance#Multi-Stakeholder Governance|Multi-Stakeholder Governance]].
+We have identified and experimented with using the DAO primitives framework to produce governance systems based on 3 interlocking governance structures: [Community Governance](tags/governance.md), [Operational Governance](tags/governance.md) and [Multi-Stakeholder Governance](notes/dao-primitives/implementation/patterns/constituency-scale-patterns/multi-stakeholder-governance.md).
 
 Guides to setting up these 3 interlocking governance structures can be found here:
 
@@ -46,7 +46,7 @@ This governance model creates a way for stakeholders to come together to support
 
 This implementation guide provides a comprehensive framework for designing, implementing, and evolving multi-stakeholder governance structures using the DAO primitives approach. By breaking down governance into fundamental building blocks (primitives), organizations can create customized, effective structures that align with their unique needs and values.
 
-_Note: this implementation guide follows the structure outlined in the DAO Primitives [[artifacts/guides/dao-primitives-framework/group-facilitation|group-facilitation]] process. It outlines specific steps for the Design and Implementation steps in this process for multi-stakeholder governance. It assumes that at least an early versions of community and operational governance has been implemented and the network is ready to commence with designing its multi-stakeholder governance structure._
+_Note: this implementation guide follows the structure outlined in the DAO Primitives [group-facilitation](artifacts/guides/dao-primitives-framework/group-facilitation.md) process. It outlines specific steps for the Design and Implementation steps in this process for multi-stakeholder governance. It assumes that at least an early versions of community and operational governance has been implemented and the network is ready to commence with designing its multi-stakeholder governance structure._
 
 ## Context & Orientation
 
@@ -79,7 +79,7 @@ Effective multi-stakeholder governance enables:
 This guide will help you:
 
 1. Understand the partnership model of multi-stakeholder governance
-2. Design a governance structure using the [[artifacts/guides/dao-primitives-framework/dao-primitives-framework|DAO primitives framework]]
+2. Design a governance structure using the [DAO primitives framework](artifacts/guides/dao-primitives-framework/dao-primitives-framework.md)
 3. Implement appropriate governance processes and mechanisms
 4. Establish paths for evolution and adaptation
 
@@ -88,7 +88,7 @@ This guide will help you:
 This guide is designed for:
 
 - **Funders and Investors**: Seeking to support projects with more collaborative governance
-- **[[tags/daos|DAOs]] and Web3 Projects**: Looking to implement more balanced stakeholder relationships
+- **[DAOs](tags/daos.md) and Web3 Projects**: Looking to implement more balanced stakeholder relationships
 - **Traditional Organizations**: Exploring transition to more decentralized decision-making
 - **Governance Designers**: Building systems for complex multi-stakeholder ecosystems
 
@@ -105,11 +105,11 @@ To effectively work with this guide, it's important to understand these key term
 
 - **Stakeholder Group (SHG)**: A collective of individuals or organizations with financial or strategic interest in the project who provide high-level stewardship
 - **Purpose**: The shared high-level intention that guides the partnership's activities and decision-making
-- **Top Level Cell (TLC)**: The highest operational [[tags/coordination|coordination]] point that interacts with the Stakeholder Group
-- **[[tags/roles|Cell]]**: An autonomous team (fewer than 10 people) who collectively define and execute their work
+- **Top Level Cell (TLC)**: The highest operational [coordination](tags/coordination.md) point that interacts with the Stakeholder Group
+- **[Cell](tags/roles.md)**: An autonomous team (fewer than 10 people) who collectively define and execute their work
 - **Operational Autonomy**: The principle that execution teams have freedom to determine how they achieve objectives
 - **Optimistic Governance**: A mechanism where proposals automatically pass unless explicitly rejected
-- **Cell State**: A formal declaration of a [[tags/roles|Cell's]] purpose, strategy, [[tags/agreements|agreements]], and other properties
+- **Cell State**: A formal declaration of a [Cell's](tags/roles.md) purpose, strategy, [agreements](tags/agreements.md), and other properties
 - **Exit Rights**: The ability for stakeholders to withdraw uncommitted resources if they choose to leave
 - **Contribution**: Resources (financial, labor, social capital, etc.) provided to the common pool
 - **Proposals**: Formal recommendations for action or resource allocation requiring approval
@@ -121,25 +121,25 @@ The following principles guide effective multi-stakeholder governance design:
 1. **Purpose Alignment**: Stakeholders unite around shared purpose rather than controlling operations
 2. **Separation of Powers**: Clear distinction between stewardship (Stakeholder Group) and execution (Operational Structure)
 3. **Subsidiarity**: Decisions should be made at the lowest appropriate level with required context
-4. **Progressive [[tags/decentralization|Decentralization]]**: Governance evolves toward greater distribution of power over time
-5. **Autonomous [[tags/coordination|Coordination]]**: Small teams self-organize while maintaining network relationships
+4. **Progressive [Decentralization](tags/decentralization.md)**: Governance evolves toward greater distribution of power over time
+5. **Autonomous [Coordination](tags/coordination.md)**: Small teams self-organize while maintaining network relationships
 6. **Checks and Balances**: Preventing any single group from capturing excessive control
 7. **Transparency**: Making processes, decisions, and resources visible to all participants
 8. **Exit Rights**: Ensuring stakeholders can withdraw support if values or direction misalign
 
 ## DAO Primitives Framework
 
-The [[artifacts/guides/dao-primitives-framework/dao-primitives-framework|DAO primitives framework]] provides 4 fundamental building blocks for creating effective decentralized organizations:
+The [DAO primitives framework](artifacts/guides/dao-primitives-framework/dao-primitives-framework.md) provides 4 fundamental building blocks for creating effective decentralized organizations:
 
-1. **[[tags/daos|DAOs]]** - the larger constituency scale community container that the operational governance operates inside
-2. **[[tags/roles|Cells]]** - the basic operational unit in a DAO - a small autonomous team
-3. **[[tags/roles|Roles]]** - which contain and manage specific [[tags/responsibilities|responsibilities]] and sets of permissions
+1. **[DAOs](tags/daos.md)** - the larger constituency scale community container that the operational governance operates inside
+2. **[Cells](tags/roles.md)** - the basic operational unit in a DAO - a small autonomous team
+3. **[Roles](tags/roles.md)** - which contain and manage specific [responsibilities](tags/responsibilities.md) and sets of permissions
 4. **Tasks** - which are defined pieces of work/deliverable that individuals or teams can commit to delivering
 
 The framework considers three dimensions:
 
-- **Phase** - each DAO, Cell, Role or Task can move through a [[tags/groups#Groups in Developmental Phases|group phase lifecycle]]
-- **Scale** - different organizational levels from [[tags/groups#Groups at Different Scales|collaboration to coordination to constituency]] to network
+- **Phase** - each DAO, Cell, Role or Task can move through a [group phase lifecycle](tags/groups.md#groups-in-developmental-phases)
+- **Scale** - different organizational levels from [collaboration to coordination to constituency](tags/groups.md#groups-at-different-scales) to network
 - **State** - an articulation of the core relevant information about each primitive that allows it to be addressable across the network
 
 The goal of the DAO primitives framework is to allow us to compose governance systems that can produce purpose aligned networks of small autonomous teams that have powerful organizational dynamics making these networks effective in solving important problems.
@@ -159,19 +159,19 @@ To do this we compose together organizational infrastructures (social and techni
 
 ### Multi-Stakeholder Governance Overview: Three-Layer Structure
 
-Using the [[artifacts/guides/dao-primitives-framework/dao-primitives-framework|DAO primitives framework]] to create a purpose aligned network of small autonomous teams, we utilize 3 distinct and interlocking systems of governance:
+Using the [DAO primitives framework](artifacts/guides/dao-primitives-framework/dao-primitives-framework.md) to create a purpose aligned network of small autonomous teams, we utilize 3 distinct and interlocking systems of governance:
 
-1. **[[tags/governance#Community Governance|Community Governance]]**: [[tags/groups#Groups at Different Scales|constituency scale]] governance that guides and protects the network
-2. **[[tags/governance#Operational Governance|Operational Governance]]**: [[tags/groups#Groups at Different Scales|coordination and collaboration scale]] governance that effectively executes on the purpose and goals of the community governance
-3. **[[tags/governance#Multi-Stakeholder Governance|Multi-Stakeholder Governance]]**: the mechanism by which the network can connect to and partner with other organizations and networks (network scale)
+1. **[Community Governance](tags/governance.md#community-governanceartifactspatternscommunity-governancemd)**: [constituency scale](tags/groups.md#groups-at-different-scales) governance that guides and protects the network
+2. **[Operational Governance](tags/governance.md#operational-governanceartifactspatternsoperational-governancemd)**: [coordination and collaboration scale](tags/groups.md#groups-at-different-scales) governance that effectively executes on the purpose and goals of the community governance
+3. **[Multi-Stakeholder Governance](tags/governance.md#multi-stakeholder-governance)**: the mechanism by which the network can connect to and partner with other organizations and networks (network scale)
 
-The multi-stakeholder governance model effectively creates a small version (a fractal) of a [[tags/daos|DAO]] within another DAO network. It has the same properties as a larger DAO and attempts to provide the same powerful organizational dynamics, but allows for smaller projects and partnerships to be easily spun up in flexible ways. Creating connections between partners and allowing traditional organizations to gain the benefits of operating in a decentralized web3 enabled context.
+The multi-stakeholder governance model effectively creates a small version (a fractal) of a [DAO](tags/daos.md) within another DAO network. It has the same properties as a larger DAO and attempts to provide the same powerful organizational dynamics, but allows for smaller projects and partnerships to be easily spun up in flexible ways. Creating connections between partners and allowing traditional organizations to gain the benefits of operating in a decentralized web3 enabled context.
 
 The partnership governance model operates across three interconnected layers:
 
 1. **Stakeholder Governance**: The high-level stakeholder group (SHG) that (like community governance for a DAO) defines purpose of the partnership, provides resources and backstops the operational governance in case it becomes dysfunctional or captured
-2. **Operational Governance**: The Top Level Cell (TLC) that interfaces with the stakeholder group and creates and coordinates the [[tags/roles|Cells]], partners and contributors that make up the operational structure.
-3. **Cell-Level Governance**: Individual autonomous small teams working on specific [[tags/roles|roles]] and tasks outlined by the TLC or other [[tags/roles|Cells]] in the operational structure
+2. **Operational Governance**: The Top Level Cell (TLC) that interfaces with the stakeholder group and creates and coordinates the [Cells](tags/roles.md), partners and contributors that make up the operational structure.
+3. **Cell-Level Governance**: Individual autonomous small teams working on specific [roles](tags/roles.md) and tasks outlined by the TLC or other [Cells](tags/roles.md) in the operational structure
 
 This three-layer approach creates clear boundaries between different governance functions while maintaining connections between them through well-defined interfaces.
 
@@ -208,7 +208,7 @@ Based on your purpose statement, define 3-5 high-level goals for your governance
 
 #### Impact Model
 
-You may want to or have already created an impact model (or theory of change) to describe how you want your network to have positive impact on the world. It is not necessary to do this right away, as in the early [[tags/groups#Groups in Developmental Phases|phases]] ([[tags/groups#Groups in Developmental Phases|conversation and formation phases]]) of developing your governance structure these details may still be emerging. But it is recommended to have a clearly articulated impact model as you move into [[tags/groups#Groups in Developmental Phases|coordination and organization phases]]. This will ensure that you have a solid coherent and testable foundation to connect your network's purpose to actual measurable change in the world.
+You may want to or have already created an impact model (or theory of change) to describe how you want your network to have positive impact on the world. It is not necessary to do this right away, as in the early [phases](tags/groups.md#groups-in-developmental-phases) ([conversation and formation phases](tags/groups.md#groups-in-developmental-phases)) of developing your governance structure these details may still be emerging. But it is recommended to have a clearly articulated impact model as you move into [coordination and organization phases](tags/groups.md#groups-in-developmental-phases). This will ensure that you have a solid coherent and testable foundation to connect your network's purpose to actual measurable change in the world.
 
 ### 2. Define Requirements
 
@@ -221,7 +221,7 @@ Based on the purpose and high-level goals for the multi-stakeholder governance, 
 1. **Decision Scope**: What types of decisions will be made at which level of governance and with what consultation?
     - Purpose definition and evolution
     - Resource allocation
-    - Changes to fundamental [[tags/agreements|agreements]]
+    - Changes to fundamental [agreements](tags/agreements.md)
     - Conflict resolution
 2. **Stakeholder Inclusion**: Who needs representation in the stakeholder group?
     - Financial contributors
@@ -250,24 +250,24 @@ Document these requirements in a structured format that can be referenced throug
 
 Clearly delineate which decisions belong to each governance layer: _(Note - these are guidelines only you may want to formulate this differently)_
 
-**Stakeholder Group [[tags/responsibilities|Responsibilities]]:**
+**Stakeholder Group [Responsibilities](tags/responsibilities.md):**
 
 - Purpose definition and evolution
 - High-level resource allocation approval
 - Optimistic review of operational proposals
 - Fundamental agreement changes
 
-**Top Level Cell [[tags/responsibilities|Responsibilities]]:**
+**Top Level Cell [Responsibilities](tags/responsibilities.md):**
 
 - Strategy development
 - Operational structure design
 - Resource allocation within approved budgets
-- Prioritization and [[tags/coordination|coordination]]
+- Prioritization and [coordination](tags/coordination.md)
 
-**Cell-Level [[tags/responsibilities|Responsibilities]]:**
+**Cell-Level [Responsibilities](tags/responsibilities.md):**
 
 - Task execution approaches
-- Internal [[tags/roles|Cell]] organization
+- Internal [Cell](tags/roles.md) organization
 - Local resource utilization
 - Contribution tracking and recognition
 
@@ -277,31 +277,31 @@ Clearly delineate which decisions belong to each governance layer: _(Note - thes
 
 1. Define membership criteria (contribution thresholds, expertise requirements)
 2. Establish decision-making process (consent, voting, etc.)
-3. Create [[tags/roles|roles]] (facilitator, liaison to TLC, etc.)
+3. Create [roles](tags/roles.md) (facilitator, liaison to TLC, etc.)
 4. Document meeting cadence and communication channels
-5. Define funding [[tags/agreements|agreements]] - who will contribute funding and what rights will they have?
+5. Define funding [agreements](tags/agreements.md) - who will contribute funding and what rights will they have?
 
 #### Top Level Cell Structure
 
 1. Define core team composition based on needed expertise and interest
 2. Create treasury management and resource allocation processes
-3. Create communication protocols with SHG and other [[tags/roles|cells]]
+3. Create communication protocols with SHG and other [cells](tags/roles.md)
 4. Document strategic planning and review cycles
 5. Document core information in a Cell state
 
 #### Stakeholder Group and TLC Coordination
 
-1. Set up optimistic governance [[tags/agreements|agreements]] and processes
+1. Set up optimistic governance [agreements](tags/agreements.md) and processes
     - Create standardized proposal template
     - Set review period, feedback process, quorum etc
     - Define valid rejection criteria
     - Establish escalation path for disputed proposals
-2. Set up [[tags/agreements|agreements]] and processes for treasury management and token transfers
+2. Set up [agreements](tags/agreements.md) and processes for treasury management and token transfers
 
 #### Cell Network Design
 
-1. Define [[tags/roles|cell]] formation process
-2. Establish [[tags/roles|cell]] [[tags/coordination|coordination]] mechanisms
+1. Define [cell](tags/roles.md) formation process
+2. Establish [cell](tags/roles.md) [coordination](tags/coordination.md) mechanisms
 3. Create resource request protocols
 4. Set up shared tools
     - Inter-cell communication channels
@@ -314,7 +314,7 @@ Take the above design and create a comprehensive document outlining your governa
 
 1. **Core Components**: The specific patterns and primitives that will form your governance system and how they fit together
 2. **Decision Processes**: How different types of decisions will flow through governance
-3. **[[tags/roles|Roles]] and [[tags/responsibilities|Responsibilities]]**: Key functions within the governance system
+3. **[Roles](tags/roles.md) and [Responsibilities](tags/responsibilities.md)**: Key functions within the governance system
 4. **Resource Allocation**: How governance will manage organizational resources
 5. **Boundaries and Constraints**: Limits on governance authority
 6. **Evolution Mechanisms**: How governance can be updated over time
@@ -329,32 +329,32 @@ Depending on the context, the design of the community governance system should b
 
 Implementation should follow a phased approach that allows for learning and adaptation.
 
-#### Phase 1: [[tags/groups#Groups in Developmental Phases|Conversation]]
+#### Phase 1: [Conversation](tags/groups.md#groups-in-developmental-phases)
 
 - Early informal conversation between core stakeholder participants
 - Align on purpose and values
 - Define overview of governance structure
-- Document preliminary [[tags/agreements|agreements]]
+- Document preliminary [agreements](tags/agreements.md)
 - Establish communication channels
 
-#### Phase 2: [[tags/groups#Groups in Developmental Phases|Formation]]
+#### Phase 2: [Formation](tags/groups.md#groups-in-developmental-phases)
 
 - Formalize Stakeholder Group
     - Define purpose and high-level goals
     - Create initial proposal process
-    - Establish Top Level Cell - core [[tags/agreements|agreements]] between SHG and TLC
+    - Establish Top Level Cell - core [agreements](tags/agreements.md) between SHG and TLC
     - Set up SHG treasury management and processes
 
-#### Phase 3: [[tags/groups#Groups in Developmental Phases|Organization]]
+#### Phase 3: [Organization](tags/groups.md#groups-in-developmental-phases)
 
 - Formalize Top Level Cell
     - TLC develops strategy
-    - Implements operational structure - creates first operational [[tags/roles|Cells]] in the network
+    - Implements operational structure - creates first operational [Cells](tags/roles.md) in the network
     - Establishes treasury management and resource allocation processes
     - Formalize documentation and processes in Cell state
-    - Establish communication channels and other [[tags/coordination|coordination]] tooling
+    - Establish communication channels and other [coordination](tags/coordination.md) tooling
 
-#### Phase 4: [[tags/groups#Groups in Developmental Phases|Coordination]]
+#### Phase 4: [Coordination](tags/groups.md#groups-in-developmental-phases)
 
 - SHG and TLC ongoing cadence of meetings for updates and collaboration
 - TLC expands the operational structure as needed
@@ -382,7 +382,7 @@ Following some simple principles in how you document the design of the multi-sta
 
 Implementing your multi-stakeholder governance will involve the selection of several different tools and platforms to make it work successfully.
 
-If you are setting up multi-stakeholder governance inside an existing [[tags/daos|DAO]] or other network, there will already be established tools and practices used by the community. In this case it would likely make sense to utilize these.
+If you are setting up multi-stakeholder governance inside an existing [DAO](tags/daos.md) or other network, there will already be established tools and practices used by the community. In this case it would likely make sense to utilize these.
 
 #### Technical Considerations
 
@@ -396,7 +396,7 @@ If you are setting up multi-stakeholder governance inside an existing [[tags/dao
     - Where information about the operational network can be articulated and shared
     - Examples: Charmverse, Notion, Google Docs
     
-    b. **[[tags/roles|Cell]] state repository**
+    b. **[Cell](tags/roles.md) state repository**
     
     - A mechanism for containing and updating Cell state
     - Ideally editor controlled and version controlled but accessible to the network
@@ -413,7 +413,7 @@ If you are setting up multi-stakeholder governance inside an existing [[tags/dao
     
     e. **Communication platforms**
     
-    - Communication will happen at different [[tags/groups#Groups at Different Scales|scales]]
+    - Communication will happen at different [scales](tags/groups.md#groups-at-different-scales)
     - Choose one platform or a combination of several different platforms
     - Example: Discord is useful because it can be set up to cover all three scales with granular access control
     
@@ -423,26 +423,26 @@ If you are setting up multi-stakeholder governance inside an existing [[tags/dao
     - Governance platforms (Snapshot, Tally, Commonwealth, etc.)
     - Communication tools (Discord, Discourse, Telegram, etc.)
     - Documentation systems (Charmverse, Notion, GitHub, etc.)
-    - Voting mechanisms ([[artifacts/articles/network-evolution/Building DAOs as scalable networks#Community Governance|token-based]], [[artifacts/articles/governance-for-better-futures/Governance for better futures - Meta-governance#quadratic voting|quadratic]], reputation-based, etc.)
+    - Voting mechanisms ([token-based](artifacts/articles/network-evolution/Building DAOs as scalable networks.md#community-governance), [quadratic](artifacts/articles/governance-for-better-futures/Governance for better futures - Meta-governance.md#quadratic-voting), reputation-based, etc.)
 3. **Implementation Approach**
-    - Start with minimum viable governance tools as required by the [[tags/groups#Groups in Developmental Phases|phase]] of development
+    - Start with minimum viable governance tools as required by the [phase](tags/groups.md#groups-in-developmental-phases) of development
     - Create clear user guides, videos and other resources to support accessibility for all community members
     - Establish support/help systems for technical assistance
 
 ## 5. Launch & Evolution
 
-Use the [[tags/groups#Groups in Developmental Phases|group phase framework]] to implement your governance structure in an evolutionary way, formalizing the stakeholder group, top level cell and then [[tags/roles|Cells]] and other primitives as they are needed, rather than forcing a completed governance design in one go.
+Use the [group phase framework](tags/groups.md#groups-in-developmental-phases) to implement your governance structure in an evolutionary way, formalizing the stakeholder group, top level cell and then [Cells](tags/roles.md) and other primitives as they are needed, rather than forcing a completed governance design in one go.
 
-1. [[tags/groups#Groups in Developmental Phases|Conversation Phase]]
-2. [[tags/groups#Groups in Developmental Phases|Formation Phase]]
-3. [[tags/groups#Groups in Developmental Phases|Organization Phase]]
-4. [[tags/groups#Groups in Developmental Phases|Coordination Phase]]
+1. [Conversation Phase](tags/groups.md#groups-in-developmental-phases)
+2. [Formation Phase](tags/groups.md#groups-in-developmental-phases)
+3. [Organization Phase](tags/groups.md#groups-in-developmental-phases)
+4. [Coordination Phase](tags/groups.md#groups-in-developmental-phases)
 
 #### Activity: Phased Implementation Strategy
 
 Based on the outputs of working through the implementation steps section, create a phased implementation strategy.
 
-For each [[tags/groups#Groups in Developmental Phases|phase]] identify clear:
+For each [phase](tags/groups.md#groups-in-developmental-phases) identify clear:
 
 - Timeframes
 - Deliverables
@@ -452,7 +452,7 @@ For each [[tags/groups#Groups in Developmental Phases|phase]] identify clear:
 
 Define how the system will gather and respond to input. Implement ways for the network to reflect and feedback on how the governance model is working.
 
-However the system is structured, it is important to have feedback mechanisms that can source feedback from all of the different [[tags/groups#Groups at Different Scales|scales]] that the system operates at—[[tags/groups#Groups at Different Scales|collaboration, coordination, constituency]] and network scales—and from diverse members of the community operating at its edges.
+However the system is structured, it is important to have feedback mechanisms that can source feedback from all of the different [scales](tags/groups.md#groups-at-different-scales) that the system operates at—[collaboration, coordination, constituency](tags/groups.md#groups-at-different-scales) and network scales—and from diverse members of the community operating at its edges.
 
 Depending on the size of the partnership here are some potential feedback mechanisms to design in:
 
@@ -482,7 +482,7 @@ Governance must evolve to remain effective over time. A multi-stakeholder partne
 2. **Amendment Processes** - create clear pathways for governance updates. Document requirements and develop proposals to implement changes to the governance system. Create the opportunities/spaces to experiment with small governance changes so that governance can be evolutionary and not volatile
 3. **Crisis Response Protocol** - consider putting in place a protocol to deal with governance emergencies granting temporary governance authority in the event of a governance attack
 
-This adaptation needs to occur at all levels in the system. Evolution of the stakeholder governance and the operational governance structures as well as individual [[tags/roles|Cells]] evolving their governance practices.
+This adaptation needs to occur at all levels in the system. Evolution of the stakeholder governance and the operational governance structures as well as individual [Cells](tags/roles.md) evolving their governance practices.
 
 ## Getting Help
 
@@ -512,7 +512,7 @@ For technical implementation assistance, SuperBenefit and our partner organizati
 
 ## Conclusion
 
-The partnership model of multi-stakeholder governance offers a powerful framework for balancing stakeholder stewardship with operational autonomy. By implementing this model using the [[artifacts/guides/dao-primitives-framework/dao-primitives-framework|DAO primitives]] approach, you can create governance that is both robust and adaptable.
+The partnership model of multi-stakeholder governance offers a powerful framework for balancing stakeholder stewardship with operational autonomy. By implementing this model using the [DAO primitives](artifacts/guides/dao-primitives-framework/dao-primitives-framework.md) approach, you can create governance that is both robust and adaptable.
 
 Remember that governance is a journey rather than a destination. Start with clear purpose alignment and basic mechanisms, then evolve your approach based on real experience and feedback. The most effective governance emerges from thoughtful design followed by continuous learning and adaptation.
 

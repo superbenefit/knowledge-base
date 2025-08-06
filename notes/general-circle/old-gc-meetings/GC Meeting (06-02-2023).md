@@ -2,7 +2,7 @@
 tags: meetings
 date: 06-02-2023
 ---
-#[[old-gc-meetings]] 
+#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
 ## Attendees
 - Heenal, Michael, Michelle, Rowan
 - 
@@ -20,7 +20,7 @@ date: 06-02-2023
 	- This week:
 		- Get Twitter spaces set up
 	- Blockers:
-- #[[P-264 Systems Transformation Project]] 
+- #[P-264 Systems Transformation Project](P-264%20Systems%20Transformation%20Project) 
 	- Last week:
 		- Susie Kavanagh doing a Twitter Thread about Njoki's web3 and systems transformation article
 		- Njoki writing a next piece on web3 and systems transformation for Mirror - Michelle & Nate met to brainstorm. 
@@ -28,13 +28,13 @@ Njoki also met with Sharlene Ghandi at Future of Good and may collaborate on pie
 		- Nate writing a blog about where we have been and where we are going - Michelle & Nate met to brainstorm
 	- This week:
 	- Blockers:
-- #[[P-193 Community Experience- Revolution 1]] 
+- #[P-193 Community Experience- Revolution 1](P-193%20Community%20Experience-%20Revolution%201) 
 	- Last week:
 		- Met with Marcello from BCorp Europe about web3 and BCorps - @AlexH did a write up about How might web3 enhance the B Corp movement?[https://docs.google.com/document/d/1wvUeg9P82PSvOiywSVhOt_YNpYxixPLqEGuaqLaijnw/edit#heading=h.cmwkbedd9sr9](https://docs.google.com/document/d/1wvUeg9P82PSvOiywSVhOt_YNpYxixPLqEGuaqLaijnw/edit#heading=h.cmwkbedd9sr9) 
 		- 
 	- This week:
 	- Blockers:
-- #[[notes/archive/clarity/Tags/dao primitives]] 
+- #[dao primitives](/notes/archive/clarity/Tags/dao%20primitives.md) 
 	- Last weej
 		- Lots of good things happening
 	- This week:
@@ -49,12 +49,12 @@ _What tensions do you have that need resolution to move forward in your work?_
 
 
 Rough numbers for $SPRB
-- #[[P-264 Systems Transformation Project]] (20k already) (25%) 45k
-- #[[notes/archive/clarity/Tags/dao primitives]]  (10k already) (45%) 55k
--  #[[general circle]] 10% 10k
+- #[P-264 Systems Transformation Project](P-264%20Systems%20Transformation%20Project) (20k already) (25%) 45k
+- #[dao primitives](/notes/archive/clarity/Tags/dao%20primitives.md)  (10k already) (45%) 55k
+-  #[general circle](/notes/archive/clarity/Tags/general%20circle.md) 10% 10k
 - Transformation mapping (5k already) (10%) 15k
-- #[[P-193 Community Experience- Revolution 1]] (10%) 10k
+- #[P-193 Community Experience- Revolution 1](P-193%20Community%20Experience-%20Revolution%201) (10%) 10k
 
 Rough stablecoin allocation (USDC) (50% up front)
-- #[[P-264 Systems Transformation Project]] - 3k
-- #[[notes/archive/clarity/Tags/dao primitives]]  - 6k
+- #[P-264 Systems Transformation Project](P-264%20Systems%20Transformation%20Project) - 3k
+- #[dao primitives](/notes/archive/clarity/Tags/dao%20primitives.md)  - 6k

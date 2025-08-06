@@ -27,6 +27,9 @@ drafts/
 # ignore obsidian changes
 .obsidian/
 
+# ignore enveloppe backup
+.enveloppe/
+
 #ignore smart connections
 .smart-env/
 
@@ -34,3 +37,9 @@ drafts/
 CLAUDE.md
 node_modules
 notes/rpp/rpp-archive/rpp-meetings/
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env

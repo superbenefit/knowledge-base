@@ -20,4 +20,3 @@ This folder contains guides and tools to be used when using the DAO primitives f
 - [Operational Governance](artifacts/guides/dao-primitives-framework/dao-primitives-implemention/implementation-guide-operational-governance.md)
 
 - [Multi-Stakeholder Governance](artifacts/guides/dao-primitives-framework/dao-primitives-implemention/implementation-guide-multi-stakeholder-governance.md)
-

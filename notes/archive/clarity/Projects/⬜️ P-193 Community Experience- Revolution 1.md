@@ -1,9 +1,9 @@
 # **Community Experience** Squad Plan - Revolution 1
 
 ## References
-#[[23 Community Experience Project]] 
+#[23 Community Experience Project](23%20Community%20Experience%20Project) 
 ## Accountabilities
-#[[community experience squad]] 
+#[community experience squad](/notes/archive/clarity/Tags/community%20experience%20squad.md) 
 - ## Purpose
 - To map, engage, mobilize and provision the communities around SuperBenefit to inform, participate in and contribute to SB's purpose.
 - ## Accountabilities
@@ -60,7 +60,7 @@ Access to tools - notion, clarity
 ***There should be low-stakes ways to contribute
 
 **Bounties **
-#[[121 Develop & Publish CXI Bounties]] 
+#[121 Develop & Publish CXI Bounties](121%20Develop%20&%20Publish%20CXI%20Bounties) 
 -start with those outlined and test with small $SPRB token 
 ⁃ make SB playlist - Mark started who will continue - shared among SB
 
