@@ -21,67 +21,67 @@ type: entity
 The Institute for Community Sustainability (ICS) is a federal not-for-profit organization based in London, Ontario in the Carolinian Canada bioregion. 
 
 %% Begin Waypoint %%
-- **[[ics]]**
-  - **[[about]]**
-    - [[ics-business-description]]
-    - [[ics-community-exchange|Community Exchange]]
-    - [[ics-discovery-report|ICS Discovery Report]]
-    - [[ics-experiment-scoping|ICS Experiment Scoping]]
-    - [[ics-implementation-plan|ICS Experiment Implementation Plan]]
-  - **[[ccc]]**
-  - **[[city-grant-reporting]]**
-    - [[0 - Full Year Data]]
-    - [[1 - Project Impact on Equity-Denied Groups]]
-    - [[2 - Supporting Anti-Racism and Inclusion]]
-    - [[3 - Community Impact Story]]
-    - [[4 - Additional Comments]]
-  - [[earthfest-greenpill-booth]]
-  - **[[gg23]]**
-    - [[gg23-project-description|GG23 Project Description]]
-    - [[gg23-shill-plan|GG23 Shill Plan]]
-    - **[[graphics]]**
-      - [[graphics-guide]]
-    - [[master-execution-plan]]
-    - **[[newsletters]]**
-      - [[ics-newsletter]]
-      - [[reimagine-newsletter]]
-    - **[[outreach]]**
-      - [[community-groups]]
-      - [[core-narrative]]
-      - [[newsletter-copy-updated]]
-      - [[newsletter-copy]]
-      - [[outreach-templates]]
-      - [[personal-templates]]
-      - [[priority-contacts]]
-      - [[team-template]]
-      - [[thank-you]]
-    - [[progress]]
-    - [[shill-plan]]
-    - **[[social-media]]**
-      - [[facebook-instagram-posts]]
-      - [[farcaster-strategy]]
-    - **[[tweets]]**
-      - [[additional-strategic-tweets]]
-      - [[core-tweets]]
-      - [[enhanced-tweets]]
-      - [[mention-tweets]]
-      - [[non-web3-audience-tweets]]
-      - [[transformative-impact-threads]]
-      - [[tweet-analysis]]
-      - [[twitter-threads]]
-    - [[updated-strategy-fixed]]
-    - [[updated-strategy]]
-    - **[[website]]**
-      - [[web3-page-content]]
-      - [[web3-page-updated]]
-      - [[web3-page]]
-      - [[website-analysis]]
-      - [[website-review]]
-  - [[greenpill-london-application|Green Pill London - New Chapter Application]]
-  - **[[rpp-reporting]]**
-    - [[continuation-prompt]]
-    - [[ics-experiment-reflection-draft]]
-  - [[Web3 & Regenerative Finance]]
+- **[ics](./ics.md)**
+  - **[about](./about/about.md)**
+    - [ics-business-description](./about/ics-business-description.md)
+    - [Community Exchange](./about/ics-community-exchange.md)
+    - [ICS Discovery Report](./about/ics-discovery-report.md)
+    - [ICS Experiment Scoping](./about/ics-experiment-scoping.md)
+    - [ICS Experiment Implementation Plan](./about/ics-implementation-plan.md)
+  - **[ccc](./ccc/ccc.md)**
+  - **[city-grant-reporting](./city-grant-reporting/city-grant-reporting.md)**
+    - [0 - Full Year Data](./city-grant-reporting/0%20-%20Full%20Year%20Data.md)
+    - [1 - Project Impact on Equity-Denied Groups](./city-grant-reporting/1%20-%20Project%20Impact%20on%20Equity-Denied%20Groups.md)
+    - [2 - Supporting Anti-Racism and Inclusion](./city-grant-reporting/2%20-%20Supporting%20Anti-Racism%20and%20Inclusion.md)
+    - [3 - Community Impact Story](./city-grant-reporting/3%20-%20Community%20Impact%20Story.md)
+    - [4 - Additional Comments](./city-grant-reporting/4%20-%20Additional%20Comments.md)
+  - [earthfest-greenpill-booth](./earthfest-greenpill-booth.md)
+  - **[gg23](./gg23/gg23.md)**
+    - [GG23 Project Description](./gg23/gg23-project-description.md)
+    - [GG23 Shill Plan](./gg23/gg23-shill-plan.md)
+    - **[graphics](./gg23/graphics/graphics.md)**
+      - [graphics-guide](./gg23/graphics/graphics-guide.md)
+    - [master-execution-plan](./gg23/master-execution-plan.md)
+    - **[newsletters](./gg23/newsletters/newsletters.md)**
+      - [ics-newsletter](./gg23/newsletters/ics-newsletter.md)
+      - [reimagine-newsletter](./gg23/newsletters/reimagine-newsletter.md)
+    - **[outreach](./gg23/outreach/outreach.md)**
+      - [community-groups](./gg23/outreach/community-groups.md)
+      - [core-narrative](./gg23/outreach/core-narrative.md)
+      - [newsletter-copy-updated](./gg23/outreach/newsletter-copy-updated.md)
+      - [newsletter-copy](./gg23/outreach/newsletter-copy.md)
+      - [outreach-templates](./gg23/outreach/outreach-templates.md)
+      - [personal-templates](./gg23/outreach/personal-templates.md)
+      - [priority-contacts](./gg23/outreach/priority-contacts.md)
+      - [team-template](./gg23/outreach/team-template.md)
+      - [thank-you](./gg23/outreach/thank-you.md)
+    - [progress](./gg23/progress.md)
+    - [shill-plan](./gg23/shill-plan.md)
+    - **[social-media](./gg23/social-media/social-media.md)**
+      - [facebook-instagram-posts](./gg23/social-media/facebook-instagram-posts.md)
+      - [farcaster-strategy](./gg23/social-media/farcaster-strategy.md)
+    - **[tweets](./gg23/tweets/tweets.md)**
+      - [additional-strategic-tweets](./gg23/tweets/additional-strategic-tweets.md)
+      - [core-tweets](./gg23/tweets/core-tweets.md)
+      - [enhanced-tweets](./gg23/tweets/enhanced-tweets.md)
+      - [mention-tweets](./gg23/tweets/mention-tweets.md)
+      - [non-web3-audience-tweets](./gg23/tweets/non-web3-audience-tweets.md)
+      - [transformative-impact-threads](./gg23/tweets/transformative-impact-threads.md)
+      - [tweet-analysis](./gg23/tweets/tweet-analysis.md)
+      - [twitter-threads](./gg23/tweets/twitter-threads.md)
+    - [updated-strategy-fixed](./gg23/updated-strategy-fixed.md)
+    - [updated-strategy](./gg23/updated-strategy.md)
+    - **[website](./gg23/website/website.md)**
+      - [web3-page-content](./gg23/website/web3-page-content.md)
+      - [web3-page-updated](./gg23/website/web3-page-updated.md)
+      - [web3-page](./gg23/website/web3-page.md)
+      - [website-analysis](./gg23/website/website-analysis.md)
+      - [website-review](./gg23/website/website-review.md)
+  - [Green Pill London - New Chapter Application](./greenpill-london-application.md)
+  - **[rpp-reporting](./rpp-reporting/rpp-reporting.md)**
+    - [continuation-prompt](./rpp-reporting/continuation-prompt.md)
+    - [ics-experiment-reflection-draft](./rpp-reporting/ics-experiment-reflection-draft.md)
+  - [Web3 & Regenerative Finance](./Web3%20&%20Regenerative%20Finance.md)
 
 %% End Waypoint %%
 
