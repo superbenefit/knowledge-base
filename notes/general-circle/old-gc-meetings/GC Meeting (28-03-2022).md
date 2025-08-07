@@ -2,7 +2,7 @@
 tags: meetings
 date: 28-03-2022
 ---
-#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
+#[index](notes/general-circle/old-gc-meetings/index.md) 
 # Week of March 28, 2022
 ## Attendees
 @Lewwwk @Ryan  @MBaldwin @Rowan  @heenal 

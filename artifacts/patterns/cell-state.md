@@ -29,13 +29,13 @@ _A pattern for creating and managing group state for purpose aligned networks of
 
 ## Problem / Solution Context
 
-This pattern is designed to be used in the creation of [cells](artifacts/guides/dao-primitives-framework/group-primitives/cells.md) as [collaboration](artifacts/guides/dao-primitives-framework/group-scale/collaboration-scale.md) scale teams as described in the [DAO Primitives Framework](artifacts/guides/dao-primitives-framework/dao-primitives-framework.md)
+This pattern is designed to be used in the creation of [cells](artifacts/guides/dao-primitives-framework/group-primitives/cells.md) as [collaboration](artifacts/guides/dao-primitives-framework/group-scale/collaboration-scale.md) scale teams as described in the [DAO Primitives Framework](artifacts/guides/dao-primitives-framework/index.md)
 
 Capturing and maintaining a cell's state is fundamental to enabling both autonomous operation and effective network coordination within DAOs. A clear and consistent cell state document serves as a living state that enables the cell to maintain coherence while evolving and provides transparency for network-level coordination. Without documented state, Cells risk falling into internal dysfunction and lack of effectiveness. They also fail to fully leverage the value of coordination and efficient resource and information flows across the network.
 
 **The need for a consistent state template**
 
-Unless a team is highly skilled in organizational design, implementing the cell state primitive to create a useful group-state will be difficult and time consuming. On top of this, if teams are required to develop their own cell state document without additional supporting structure, there is a risk that there will not be enough consistency between the ways different teams document their state. This can prevent many of the interoperability benefits that the [DAO Primitives Framework](artifacts/guides/dao-primitives-framework/dao-primitives-framework.md) promises from being realized.
+Unless a team is highly skilled in organizational design, implementing the cell state primitive to create a useful group-state will be difficult and time consuming. On top of this, if teams are required to develop their own cell state document without additional supporting structure, there is a risk that there will not be enough consistency between the ways different teams document their state. This can prevent many of the interoperability benefits that the [DAO Primitives Framework](artifacts/guides/dao-primitives-framework/index.md) promises from being realized.
 
 To prevent this from happening we have developed this pattern as a template for teams to develop a simple and consistent cell state document to capture their group-state.
 
@@ -57,7 +57,7 @@ The cell's operating model - including its practices, protocols, roles, and cult
 The cell's actual achievements and impact - tracking initiatives, metrics, and value creation to enable accountability and adaptation.
 
 **Phase**
-The cell state document can serve 5 different purposes depending on the [phase](artifacts/guides/dao-primitives-framework/group-phase/group-phase.md) a group is at in its lifecycle:
+The cell state document can serve 5 different purposes depending on the [phase](artifacts/guides/dao-primitives-framework/group-phase/index.md) a group is at in its lifecycle:
 
 1. As a collaborative document to start to gather thoughts and intentions for the group in the [conversation](artifacts/guides/dao-primitives-framework/group-phase/conversation-phase.md) phase
 2. As a proposal template for a formal proposal to approve the establishment of the team in the [formation](artifacts/guides/dao-primitives-framework/group-phase/formation-phase.md)
@@ -162,7 +162,7 @@ A careful balancing of the cost of creating and maintaining cell state vs the ga
 
 There are several variables that will influence what and how much detail a team will choose to include in it's group state. These can include:
 
-- **Phase of development** - a Cell in an early [phase](artifacts/guides/dao-primitives-framework/group-phase/group-phase.md) of development may require less specific detail, reflecting its lack of formal structure, compared to an mature operational Cell.
+- **Phase of development** - a Cell in an early [phase](artifacts/guides/dao-primitives-framework/group-phase/index.md) of development may require less specific detail, reflecting its lack of formal structure, compared to an mature operational Cell.
 - **Responsibilities to outside entities** - Cells may require specific information to be included in their group-state based on agreements they have with entities they are coordinating with.
 - **Amount of resources managed** - a Cell with a large treasury would likely require more rigorous decision-making and treasury management practices to be included in its group-state
 

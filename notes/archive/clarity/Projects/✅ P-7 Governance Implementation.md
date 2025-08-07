@@ -5,7 +5,7 @@ We are feeling the need to implement governance sooner rather than later in orde
 - We work transparently in public with the community consulted at key moments
 - We prioritize momentum even over perfection
 - We watch out for each others' blindspots as this process unfolds
-- Role fillers learn and practice giving and receiving [feedback](/notes/aifs/feedback/feedback.md) early and often
+- Role fillers learn and practice giving and receiving [index](notes/aifs/feedback/index.md) early and often
 - We work to put SuperBenefit under full [Contributor](Contributor) governance control as soon as practical
 
 # Workplan

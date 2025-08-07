@@ -2,7 +2,7 @@
 tags: meetings
 date: 01-08-2022
 ---
-#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
+#[index](notes/general-circle/old-gc-meetings/index.md) 
 # Week of August 1, 2022
 #[tactical meetings](/notes/archive/clarity/Tags/tactical%20meetings.md) 
 

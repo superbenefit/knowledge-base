@@ -2,7 +2,7 @@
 tags: meetings
 date: 31-01-2022
 ---
-#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
+#[index](notes/general-circle/old-gc-meetings/index.md) 
 # Week of January 31, 2022
 ## Attendees
 @Lewwwk @remarkk @Ryan  @MBaldwin @heenal @AlexH @Rowan  
@@ -92,8 +92,8 @@ How are you arriving?
 	- working with Alex on map making to integrate that into the Resource Flow
 
 ## Triage Items
-- Lewwwk: Still learning how to collaborate in this context and would appreciate #[feedback](/notes/aifs/feedback/feedback.md) from #[squad lead](/notes/archive/clarity/Tags/squad%20lead.md)s when it comes up.
-	- **ACTION:** Please use #[feedback](/notes/aifs/feedback/feedback.md) protocol and give Michael feedback.
+- Lewwwk: Still learning how to collaborate in this context and would appreciate #[index](notes/aifs/feedback/index.md) from #[squad lead](/notes/archive/clarity/Tags/squad%20lead.md)s when it comes up.
+	- **ACTION:** Please use #[index](notes/aifs/feedback/index.md) protocol and give Michael feedback.
 - Flashlight - need help recruiting graphic designers and writers.
 	- The Storytelling Fellow could potentially help in both regards. @MBaldwin & @heenal are interviewing 2 candidates tomorrow (2nd interview)
 	- **ACTION:** Request @flashlight to provide an outline of what he's looking for, something that can be shared; What can we offer people? How much time? Post to Guilds?

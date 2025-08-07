@@ -2,7 +2,7 @@
 tags: meetings
 date: 07-02-2022
 ---
-#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
+#[index](notes/general-circle/old-gc-meetings/index.md) 
 # Week of February 7, 2022
 ## Attendees
 @Lewwwk @remarkk @Ryan  @MBaldwin @heenal @AlexH @Rowan   @flashlight 

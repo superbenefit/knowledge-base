@@ -2,7 +2,7 @@
 tags: meetings
 date: 21-03-2022
 ---
-#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
+#[index](notes/general-circle/old-gc-meetings/index.md) 
 # Week of March 21, 2022
 `Lewwwk: Suggest we do NOT do metrics check-ins for the next couple weeks until we build some momentum and can slowly add things that truly matter to our progress. Also request that we keep the updates to what's relevant to coordinating our activities and progress, not laundry list of all activity. Lean and minmimal is important to give space for us to focus on the most important things.`
 - Focus energy outwards not inwards. We created good foundations; now focus on activity and how our processes and structures can support that. Activity creates energy.

@@ -15,9 +15,9 @@ type: note
 
 # Conversation Phase
 
-The Conversation Phase represents the foundational [group-phase](artifacts/guides/dao-primitives-framework/group-phase/group-phase.md) of development within decentralized [networks](tags/networks.md), characterized by open exploration, idea generation, and relationship building. During this phase, potential collaborators gather around areas of shared interest to explore possibilities before formal structures or commitments are established. The primary goal is to establish shared context, build relationships, and develop a collective vision that can inspire and guide future collaboration.
+The Conversation Phase represents the foundational [index](artifacts/guides/dao-primitives-framework/group-phase/index.md) of development within decentralized [networks](tags/networks.md), characterized by open exploration, idea generation, and relationship building. During this phase, potential collaborators gather around areas of shared interest to explore possibilities before formal structures or commitments are established. The primary goal is to establish shared context, build relationships, and develop a collective vision that can inspire and guide future collaboration.
 
-At a high level, the activities of a Conversation phase group can be described as "Discovery." This can often manifest as a formal [discovery process](drafts/pdf-old/old-original-structure/discovery/discovery.md) resulting in a discovery report as an indicator that the group has completed the Conversation phase of its development.
+At a high level, the activities of a Conversation phase group can be described as "Discovery." This can often manifest as a formal [discovery process](drafts/pdf-old/old-original-structure/discovery/index.md) resulting in a discovery report as an indicator that the group has completed the Conversation phase of its development.
 
 When the conversation phase is complete, a group is ready to move on to the [formation-phase](artifacts/guides/dao-primitives-framework/group-phase/formation-phase.md) phase.
 
@@ -58,7 +58,7 @@ A conversation phase group may be ready to evolve to a more structured [formatio
 - Participants express readiness to make concrete contributions toward shared goals.
 - The need for more defined [roles](tags/roles.md) and processes becomes apparent to enable effective [coordination](tags/coordination.md).
 - [Resources](tags/resources.md) or other forms of coordination are required that entail making a proposal to the wider [community](tags/community.md), which will require group formalization.
-- Often this phase will culminate in the completion of a formal [discovery](drafts/pdf-old/old-original-structure/discovery/discovery.md) and the preparation of a discovery report.
+- Often this phase will culminate in the completion of a formal [index](drafts/pdf-old/old-original-structure/discovery/index.md) and the preparation of a discovery report.
 
 ## Tools and Practices
 

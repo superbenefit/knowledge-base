@@ -2,7 +2,7 @@
 tags: meetings
 date: 26-09-2022
 ---
-#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
+#[index](notes/general-circle/old-gc-meetings/index.md) 
 # Week of September 26, 2022
 ## Attendees
 - @MBaldwin regrets 

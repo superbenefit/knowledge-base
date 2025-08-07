@@ -2,7 +2,7 @@
 tags: meetings
 date: 30-05-2022
 ---
-#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
+#[index](notes/general-circle/old-gc-meetings/index.md) 
 # Week of May 30, 2022
 #[tactical meetings](/notes/archive/clarity/Tags/tactical%20meetings.md) Template
 ## Attendees

@@ -17,7 +17,7 @@ type: guide
 
 [Crypto primitives](tags/primitives.md) give us the opportunity to fundamentally redesign organizational and financial models in ways that are better for individuals, communities and society. This opportunity to reimagine organizations brings with it complexity, as structures and practices that were once fixed become flexible and adaptable. As a result, we need to lean on primitives, and patterns for combining these primitives, that we can use to reliably produce organizational structures with the features we want.
 
-At SuperBenefit we have developed the [DAO primitives framework](artifacts/guides/dao-primitives-framework/dao-primitives-framework.md) to provide a set of primitives and patterns with which these new organizational structures can be composed.
+At SuperBenefit we have developed the [DAO primitives framework](artifacts/guides/dao-primitives-framework/index.md) to provide a set of primitives and patterns with which these new organizational structures can be composed.
 
 We have identified and experimented with using the DAO primitives framework to produce governance systems based on 3 interlocking governance structures: [Community Governance](tags/governance.md), [Operational Governance](tags/governance.md) and [Multi-Stakeholder Governance](notes/dao-primitives/implementation/patterns/constituency-scale-patterns/multi-stakeholder-governance.md).
 
@@ -55,7 +55,7 @@ Prerequisites:
 
 ### Fundamental Principles Informing This Approach
 
-The [DAO primitives framework](artifacts/guides/dao-primitives-framework/dao-primitives-framework.md) is designed to allow us to compose governance systems that produce purpose-aligned networks of small autonomous teams with powerful organizational dynamics, making these networks effective in solving important problems.
+The [DAO primitives framework](artifacts/guides/dao-primitives-framework/index.md) is designed to allow us to compose governance systems that produce purpose-aligned networks of small autonomous teams with powerful organizational dynamics, making these networks effective in solving important problems.
 
 Key principles and concepts include: **Organizational Dynamics**
 
@@ -77,7 +77,7 @@ Key principles and concepts include: **Organizational Dynamics**
 
 ## DAO Primitives Framework
 
-The [DAO primitives framework](artifacts/guides/dao-primitives-framework/dao-primitives-framework.md) provides 4 fundamental building blocks for creating effective decentralized organizations:
+The [DAO primitives framework](artifacts/guides/dao-primitives-framework/index.md) provides 4 fundamental building blocks for creating effective decentralized organizations:
 
 1. **[DAOs](tags/daos.md)** - the larger constituency scale community container that the operational governance operates inside
 2. **[Cells](tags/roles.md)** - the basic operational unit in a DAO - a small autonomous team
@@ -107,7 +107,7 @@ To do this we compose together organizational infrastructures (social and techni
 
 ### Operational Governance Overview: Three-Layer Structure
 
-Using the [DAO primitives framework](artifacts/guides/dao-primitives-framework/dao-primitives-framework.md) to create a purpose aligned network of small autonomous teams, there tend to be three facets of governance structure.
+Using the [DAO primitives framework](artifacts/guides/dao-primitives-framework/index.md) to create a purpose aligned network of small autonomous teams, there tend to be three facets of governance structure.
 
 1. **[Community Governance](tags/governance.md#community-governanceartifactspatternscommunity-governancemd)**: [constituency scale](tags/groups.md#groups-at-different-scales) governance that guides and protects the network
 2. **[Operational Governance](tags/governance.md#operational-governanceartifactspatternsoperational-governancemd)**: [coordination and collaboration scale](tags/groups.md#groups-at-different-scales) governance that effectively executes on the purpose and goals of the community governance
@@ -127,7 +127,7 @@ This three-layer approach creates clear boundaries between community stewardship
 
 ## Designing Your Operational Governance Structure
 
-There are many ways to use the [DAO primitives](artifacts/guides/dao-primitives-framework/dao-primitives-framework.md) to compose a network of operational teams. The particular system you create will reflect the specific needs of the work your community wants to engage in.
+There are many ways to use the [DAO primitives](artifacts/guides/dao-primitives-framework/index.md) to compose a network of operational teams. The particular system you create will reflect the specific needs of the work your community wants to engage in.
 
 ### 1. Define Purpose and High-Level Goals
 
@@ -213,7 +213,7 @@ With clear purpose, goals, and requirements established, you can now design your
 
 #### Activity: Governance Approach Selection
 
-There are many ways that you can use the [DAO primitives](artifacts/guides/dao-primitives-framework/dao-primitives-framework.md) to construct a network of operational teams. The particular system you put together will reflect both the specific realities of the work and the ways in which members want to work together:
+There are many ways that you can use the [DAO primitives](artifacts/guides/dao-primitives-framework/index.md) to construct a network of operational teams. The particular system you put together will reflect both the specific realities of the work and the ways in which members want to work together:
 
 1. **Highly structured top-down decision-making**
    - If a lot of control is desired (optimizing for operational efficiency over creativity and flexibility)
@@ -231,11 +231,11 @@ There are many ways that you can use the [DAO primitives](artifacts/guides/dao-p
    - Allow more or less autonomy based on specific operational needs
    - Balance unlocks the dynamics and system properties listed earlier
 
-See [patterns](artifacts/patterns/patterns.md) for different approaches to building operational structures with the DAO Primitives.
+See [index](artifacts/patterns/index.md) for different approaches to building operational structures with the DAO Primitives.
 
 #### Activity: Community-Operational Boundary Design
 
-Using the [DAO primitives framework](artifacts/guides/dao-primitives-framework/dao-primitives-framework.md), design a structure that implements a network of operational [Cells](tags/roles.md). It needs to cover four different levels of scale:
+Using the [DAO primitives framework](artifacts/guides/dao-primitives-framework/index.md), design a structure that implements a network of operational [Cells](tags/roles.md). It needs to cover four different levels of scale:
 
 1. **Community governance level ([constituency scale](tags/groups.md#groups-at-different-scales))**
    - How community decision-making translates into instructions for the operational network
@@ -517,7 +517,7 @@ For technical implementation assistance, SuperBenefit and our partner organizati
 
 ## Conclusion
 
-Effective operational governance is not a fixed structure but an evolving system that grows more sophisticated as your network learns and adapts. By thoughtfully applying the [DAO primitives framework](artifacts/guides/dao-primitives-framework/dao-primitives-framework.md), organizations can create operational structures that balance autonomy with [coordination](tags/coordination.md), enabling small autonomous teams to work together powerfully while maintaining the flexibility to innovate and respond to changing conditions.
+Effective operational governance is not a fixed structure but an evolving system that grows more sophisticated as your network learns and adapts. By thoughtfully applying the [DAO primitives framework](artifacts/guides/dao-primitives-framework/index.md), organizations can create operational structures that balance autonomy with [coordination](tags/coordination.md), enabling small autonomous teams to work together powerfully while maintaining the flexibility to innovate and respond to changing conditions.
 
 The key to successful operational governance design is creating structures that can harness the collective intelligence and creativity of autonomous teams while maintaining coherent direction and efficient resource allocation. When done well, operational governance becomes the engine that transforms community purpose into tangible impact.
 

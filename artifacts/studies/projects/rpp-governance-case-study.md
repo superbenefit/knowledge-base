@@ -67,7 +67,7 @@ Each stakeholder brought different perspectives, resources, and expectations to 
 
 ### Multi-Stakeholder Governance with DAO Primitives
 
-The governance design utilized SuperBenefit's [DAO Primitives framework](artifacts/guides/dao-primitives-framework/dao-primitives-framework.md), implementing a multi-stakeholder approach with distinct but interconnected governance layers:
+The governance design utilized SuperBenefit's [DAO Primitives framework](artifacts/guides/dao-primitives-framework/index.md), implementing a multi-stakeholder approach with distinct but interconnected governance layers:
 
 1. **Community Governance** (Constituency Scale): SuperBenefit's broader community governance provided the outermost layer, offering oversight and purpose alignment while establishing boundaries for the project's autonomy.
 2. **Stakeholder Group** (Coordination Scale): Representatives from each stakeholder organization formed a collaborative forum for strategic direction, resource oversight, and cross-organizational alignment.
@@ -270,7 +270,7 @@ While the model ultimately proved effective, several challenges emerged that pro
 
 ### Conclusion
 
-The RPP governance design demonstrates the potential of applying [DAO Primitives framework](artifacts/guides/dao-primitives-framework/dao-primitives-framework.md) to complex multi-stakeholder initiatives. By thoughtfully balancing stakeholder oversight with operational autonomy and deliberately designing for different scales of coordination, the model enabled effective collaboration across organizational boundaries while maintaining alignment with core purpose.
+The RPP governance design demonstrates the potential of applying [DAO Primitives framework](artifacts/guides/dao-primitives-framework/index.md) to complex multi-stakeholder initiatives. By thoughtfully balancing stakeholder oversight with operational autonomy and deliberately designing for different scales of coordination, the model enabled effective collaboration across organizational boundaries while maintaining alignment with core purpose.
 
 There are of course improvements to make for future versions of this governance design. Many of the aspects of the project that were less than optimal reflect the fact that this project, as well as engaging in experiments, was in itself an experiment. Indeed the entire multi-stakeholder-governance model was experimental. Thus the learning outlined above will be used to inform the evolution of this model.
 

@@ -2,7 +2,7 @@
 tags: meetings
 date: 04-09-2023
 ---
-#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
+#[index](notes/general-circle/old-gc-meetings/index.md) 
 ## 5/9/23
 ## Attendees:
 - Lewwwk, Rather, Rowan 

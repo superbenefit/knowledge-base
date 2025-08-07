@@ -15,22 +15,22 @@ This digital garden serves as a collaborative space for exploring, documenting, 
 
 This garden is organized into four main areas, each serving a distinct purpose. Use the descriptions below to find the type of content you're looking for:
 
-#### [Artifacts](artifacts/artifacts.md): Polished & Validated Knowledge
+#### [Artifacts](artifacts/index.md): Polished & Validated Knowledge
 
 *   **Purpose:** This section contains our most refined and validated content, representing our collective understanding. Think of it as the "finished product" of our research and collaboration.
 *   **Look Here For:** Finished research reports, project documentation, published articles, and community-validated knowledge.
 
-#### [Lexicon](tags/tags.md): Our Shared Vocabulary
+#### [Lexicon](tags/index.md): Our Shared Vocabulary
 
 *   **Purpose:** This is where we define and organize the key terms and concepts used throughout the garden. It provides a shared vocabulary for understanding our work.
 *   **Look Here For:** Term definitions, tag hierarchies, explanations of common concepts, and evolving terminology.
 
-#### [Library](links/links.md): Curated External Resources
+#### [Library](links/index.md): Curated External Resources
 
 *   **Purpose:** This section contains links to external resources that we find valuable and relevant to our work. It's a curated collection of articles, papers, and projects that inform our thinking.
 *   **Look Here For:** Referenced articles and papers, commentary and analysis on external resources, relevant external projects, and connections to related ideas.
 
-#### [Notes](notes/notes.md): Works in Progress
+#### [Notes](notes/index.md): Works in Progress
 
 *   **Purpose:** This is our active workspace, where ideas are developed and refined. It contains project-specific documentation, research in progress, and materials from working groups.
 *   **Look Here For:** Project-specific documentation, research in progress, working group materials, and emerging concepts and patterns.

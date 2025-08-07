@@ -50,7 +50,7 @@ SuperBenefit needs an initial governance structure to support its work, creating
 - Contributor Voting 
 	- Contributors only use their governance tokens to vote on questions of fundamental purpose, mission, values and strategic objectives, in addition to the appointment of the General Circle Lead.
 	- Contributor votes are facilitated by a tool such as Snapshot.
-- #[feedback](/notes/aifs/feedback/feedback.md)
+- #[index](notes/aifs/feedback/index.md)
 	- Contributors are encouraged to provide constructive feedback to each other as they work to help improve the Squad or Circle's ability to execute on its Purpose.
 	- SuperBenefit Contributors will be provided with practices they can use in giving or receiving feedback
 

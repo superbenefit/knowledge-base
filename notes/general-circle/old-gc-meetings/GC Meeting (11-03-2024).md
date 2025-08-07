@@ -2,7 +2,7 @@
 tags: meetings
 date: 11-03-2024
 ---
-#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
+#[index](notes/general-circle/old-gc-meetings/index.md) 
 # Date
 ## Attendees
 - rowan rather michelle heenal lewwwk

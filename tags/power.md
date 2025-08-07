@@ -33,7 +33,7 @@ Despite these innovations, web3 systems still face challenges in addressing powe
 
 ### Power in the Reimagining Power Project
 
-The [Reimagining Power Project](notes/rpp/rpp.md) specifically examines how power operates within philanthropic and social impact contexts, with a focus on transforming traditional power dynamics that have historically concentrated decision-making among funders rather than communities affected by those decisions.
+The [Reimagining Power Project](notes/rpp/index.md) specifically examines how power operates within philanthropic and social impact contexts, with a focus on transforming traditional power dynamics that have historically concentrated decision-making among funders rather than communities affected by those decisions.
 
 In this context, power is viewed as a systemic property that needs fundamental restructuring rather than incremental reform. The project explores how web3 technologies and decentralized governance can enable:
 

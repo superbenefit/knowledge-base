@@ -46,7 +46,7 @@ Together, these three dimensions create comprehensive role state documentation t
 
 ## Phase & Scale Considerations
 
-**Cross-Phase Adaptability**: Roles evolve through [group phases](artifacts/guides/dao-primitives-framework/group-phase/group-phase.md) as entities mature - from informal role emergence in [Conversation Phase](artifacts/guides/dao-primitives-framework/group-phase/conversation-phase.md) to formalized role structures in [Organization Phase](artifacts/guides/dao-primitives-framework/group-phase/organization-phase.md) to network-integrated roles in [Coordination Phase](artifacts/guides/dao-primitives-framework/group-phase/coordination-phase.md).
+**Cross-Phase Adaptability**: Roles evolve through [group phases](artifacts/guides/dao-primitives-framework/group-phase/index.md) as entities mature - from informal role emergence in [Conversation Phase](artifacts/guides/dao-primitives-framework/group-phase/conversation-phase.md) to formalized role structures in [Organization Phase](artifacts/guides/dao-primitives-framework/group-phase/organization-phase.md) to network-integrated roles in [Coordination Phase](artifacts/guides/dao-primitives-framework/group-phase/coordination-phase.md).
 
 **Scale-Appropriate Complexity**: Role definition and management mechanisms adapt to scale requirements - simple, relationship-based roles at collaboration scale versus formal, documented roles with explicit [permissions](tags/permissions.md) systems at coordination and constituency scales.
 

@@ -2,7 +2,7 @@
 tags: meetings
 date: 08-08-2022
 ---
-#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
+#[index](notes/general-circle/old-gc-meetings/index.md) 
 # Week of August 8, 2022
 ## Attendees
 - Michael, Rowan, Ayusha
