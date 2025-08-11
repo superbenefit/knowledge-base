@@ -8,11 +8,11 @@ filesPaths:
   - tags
 bookmarksGroups: 
 excludes: 
-extends: note
+extends: reference
 savedViews: []
 favoriteView: 
 fieldsOrder: []
-version: "2.5"
+version: "2.7"
 ---
 The Tag type defines entries in the SuperBenefit lexicon - our shared vocabulary of concepts, terms, and ideas. Extending the Note type, Tag provides structured documentation of terminology used throughout the knowledge base, creating consistency and clarity in communication.
 

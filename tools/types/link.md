@@ -7,11 +7,11 @@ filesPaths:
   - library
 bookmarksGroups: 
 excludes: 
-extends: note
+extends: reference
 savedViews: []
 favoriteView: 
 fieldsOrder: []
-version: "2.5"
+version: "2.7"
 ---
 The Link type documents external resources and references that inform the SuperBenefit knowledge base. Extending the Note type, Link provides structured metadata for curating and contextualizing external content such as articles, papers, videos, and other resources.
 

@@ -6,11 +6,11 @@ tagNames:
 filesPaths: 
 bookmarksGroups: 
 excludes: 
-extends: 
+extends: reference
 savedViews: []
 favoriteView: 
 fieldsOrder: []
-version: "2.1"
+version: "2.3"
 ---
 The Index type provides structure and navigation for directories within the knowledge base. It serves as the foundation for folder index pages that orient users to the contents and organization of specific sections of the knowledge base.
 

@@ -12,7 +12,7 @@ This guide serves nonprofit leaders ready to distribute power rather than concen
 
 ### The Challenge Landscape
 
-Traditional nonprofit [governance](/tags/governance.md) creates systematic inefficiencies that limit both impact and stakeholder satisfaction. Board structures disconnect from constituent needs. Operational decisions bottleneck through overloaded executives. Volunteers contribute labor without influencing direction. These aren't failures of individual organizations but structural limitations of hierarchical models designed for different contexts.
+Traditional nonprofit [governance](tags/governance.md) creates systematic inefficiencies that limit both impact and stakeholder satisfaction. Board structures disconnect from constituent needs. Operational decisions bottleneck through overloaded executives. Volunteers contribute labor without influencing direction. These aren't failures of individual organizations but structural limitations of hierarchical models designed for different contexts.
 
 The Reimagining Power Project began with a hypothesis: web3 tools could address these systemic governance failures. The journey revealed both the promise and limitations of that hypothesis.
 
@@ -35,16 +35,16 @@ Before beginning, assess your organization's readiness through these indicators:
 ✓ Leadership willing to distribute rather than consolidate power  
 ✓ Core team committed to sustained experimentation  
 ✓ Tolerance for productive confusion during transition  
-✓ Existing culture of [transparency](/tags/transparency.md) in decision-making  
+✓ Existing culture of [transparency](tags/transparency.md) in decision-making  
 ✓ Basic digital literacy among core participants
 
 Organizations scoring 4-5 indicators can begin immediately. Those with 2-3 should focus on building readiness. Below 2 suggests fundamental preparation work needed before attempting governance transformation.
 
 ### Core Principles Guiding Implementation
 
-**Start Small, Validate, Then Scale**: AIFS achieved significant change with just 4-5 core participants. ICS found success by partnering with web3-native contributors through the Green Pill Network, a global movement of web3 practitioners focused on using [blockchain](/tags/blockchain.md) technology to create positive externalities and solve coordination failures. Attempting broad adoption before building core capacity consistently fails.
+**Start Small, Validate, Then Scale**: AIFS achieved significant change with just 4-5 core participants. ICS found success by partnering with web3-native contributors through the Green Pill Network, a global movement of web3 practitioners focused on using [blockchain](tags/blockchain.md) technology to create positive externalities and solve coordination failures. Attempting broad adoption before building core capacity consistently fails.
 
-**Flexibility Enables Opportunity**: ICS pivoted from workshops to cohorts; AIFS abandoned Non-Fungible Tokens ([NFTs](/tags/nfts.md)) for coordination. Rigid adherence to initial plans guarantees failure in governance transformation.
+**Flexibility Enables Opportunity**: ICS pivoted from workshops to cohorts; AIFS abandoned Non-Fungible Tokens ([NFTs](tags/nfts.md)) for coordination. Rigid adherence to initial plans guarantees failure in governance transformation.
 
 **Technical Infrastructure Supports Social Change**: Governance transformation requires primarily social change, with technical tools serving as enablers rather than drivers.
 
@@ -54,7 +54,7 @@ Organizations scoring 4-5 indicators can begin immediately. Those with 2-3 shoul
 
 **Recreating Old Hierarchies**: web3 tools don't automatically create equitable governance. Without intentional design, organizations often replicate the same top-down power structures they sought to escape. Clear separation between strategic and operational governance helps prevent this concentration.
 
-**Security Vulnerabilities**: Organizations face real risks of losing funds through phishing attacks or compromised wallets. Basic security practices - hardware [wallets](/tags/wallets.md) for [treasuries](/tags/treasury.md), multi-signature requirements, regular security audits - are essential prerequisites often overlooked in governance excitement.
+**Security Vulnerabilities**: Organizations face real risks of losing funds through phishing attacks or compromised wallets. Basic security practices - hardware [wallets](tags/wallets.md) for [treasuries](tags/treasury.md), multi-signature requirements, regular security audits - are essential prerequisites often overlooked in governance excitement.
 
 **Wrong Chain, Wrong Tools**: Each blockchain has different costs, speeds, and capabilities. Some chains' high fees make small transactions prohibitive. Some chains prioritize speed over decentralization. Research infrastructure requirements before committing - migration is difficult and expensive.
 
@@ -66,7 +66,7 @@ Organizations scoring 4-5 indicators can begin immediately. Those with 2-3 shoul
 
 ### What is Decentralized Governance?
 
-In governance systems, [decentralization](/tags/decentralization.md) refers to distributing power and authority across stakeholders rather than concentrating it in representative bodies or executive leadership. This can involve direct participation in decision-making, delegation mechanisms that preserve accountability, and nested governance structures that handle decisions at appropriate scales.
+In governance systems, [decentralization](tags/decentralization.md) refers to distributing power and authority across stakeholders rather than concentrating it in representative bodies or executive leadership. This can involve direct participation in decision-making, delegation mechanisms that preserve accountability, and nested governance structures that handle decisions at appropriate scales.
 
 Traditional nonprofits and philanthropic organizations tend to be structured around management hierarchies, confining important decision-making to board and executive levels of organizations. Decentralized governance aims to distribute decision-making power across stakeholders - community members, contributors, volunteers, beneficiaries, donors etc. Blockchain tools make this practically possible by allowing entities and individuals to coordinate horizontally though transparent and verifiable decisions and agreements, rather than chains of command. 
 
@@ -77,7 +77,7 @@ In a social impact context, decentralized coordination is becoming increasingly 
 - **Legacy hierarchies** - the world is increasingly conscious of the colonial double standards found in a small number of capital holders making decisions on behalf of a large number of disempowered "beneficiaries"   
 - **Collective intelligence** - hierarchies are ineffective at operating in complex problem spaces. What is needed are distributed networks that can surface and evolve an understanding of a complex problem space.   
 - **Systemic exclusion** - conventional financial and governance systems systematically exclude marginalized communities, reinforcing existing power imbalances; decentralized coordination can operate outside these gatekeeping structures  
-- **Cross-border coordination** - global challenges require coordination across jurisdictions and cultures, but existing institutions move slowly and often exclude the most affected communities; decentralized systems enable "[cosmolocal](/tags/cosmolocalism.md)" approaches that combine local autonomy with global funding flows and knowledge sharing
+- **Cross-border coordination** - global challenges require coordination across jurisdictions and cultures, but existing institutions move slowly and often exclude the most affected communities; decentralized systems enable "[cosmolocal](tags/cosmolocalism.md)" approaches that combine local autonomy with global funding flows and knowledge sharing
 
 Blockchains and other web3 primitives and patterns provide four capabilities traditional systems lack:
 
@@ -105,7 +105,7 @@ Organizations consistently struggle with decisions queuing across all levels, fr
 
 A pattern for enabling collective stewardship through community-driven decision making at constituency scale, where broad networks of stakeholders collectively guide organizational evolution through transparent, participatory processes.
 
-In nonprofit contexts, community governance transforms traditional board-centric models by distributing strategic decision-making across all stakeholders - staff, volunteers, beneficiaries, and supporters. This creates [accountability](/tags/accountability.md) to those served rather than just major donors or board members.
+In nonprofit contexts, community governance transforms traditional board-centric models by distributing strategic decision-making across all stakeholders - staff, volunteers, beneficiaries, and supporters. This creates [accountability](tags/accountability.md) to those served rather than just major donors or board members.
 
 **Problem it solves**: Mission drift occurs when operational pressures override organizational purpose. Community governance protects core values while enabling operational flexibility.
 
@@ -113,11 +113,11 @@ In nonprofit contexts, community governance transforms traditional board-centric
 
 **First step**: Map your current governance decisions into two categories: those affecting mission/values (strategic) versus those affecting daily operations (tactical). Survey stakeholders about which decisions they want voice in - you'll likely find they care most about strategic direction, not operational details.
 
-**Link to full pattern**: [Community Governance](/artifacts/patterns/community-governance.md)
+**Link to full pattern**: [Community Governance](artifacts/patterns/community-governance.md)
 
 #### Operational Governance
 
-A pattern enabling effective day-to-day operations through sociocratic coordination of [autonomous](/tags/autonomy.md) teams (cells), where execution decisions happen at the edge rather than the center.
+A pattern enabling effective day-to-day operations through sociocratic coordination of [autonomous](tags/autonomy.md) teams (cells), where execution decisions happen at the edge rather than the center.
 
 For nonprofits drowning in approval processes, operational governance creates "departments with decision rights" rather than advisory committees. Program teams gain authority to execute within clear boundaries, dramatically accelerating response times while maintaining alignment through shared protocols rather than hierarchical oversight.
 
@@ -129,7 +129,7 @@ For nonprofits drowning in approval processes, operational governance creates "d
 
 **First step**: Identify your most frustrated program team - the one constantly waiting for approvals. Define clear boundaries (budget, scope, values alignment) within which they can make all decisions without seeking permission. Start with a 3-month experiment to build confidence on both sides.
 
-**Link to full pattern**: [Operational Governance](/artifacts/patterns/operational-governance.md)
+**Link to full pattern**: [Operational Governance](artifacts/patterns/operational-governance.md)
 
 ### Pattern Group B: Building Participation Infrastructure
 
@@ -147,7 +147,7 @@ Nonprofits often struggle with invisible influence networks where persuasive ind
 
 **First step**: Set up a free Snapshot space for your organization and run your next strategic planning survey through it. This creates a permanent, transparent record of stakeholder input without requiring any cryptocurrency. Use the results to demonstrate the value of transparent decision-making to your board.
 
-**Link to pattern documentation**: [Token-based Governance](/notes/rpp/rpp-working-docs/token-based-governance.md)
+**Link to pattern documentation**: [Token-based Governance](notes/rpp/rpp-working-docs/token-based-governance.md)
 
 #### Peer to Peer Payments
 
@@ -161,7 +161,7 @@ For international nonprofits, P2P payments promise reduced fees and faster trans
 
 **First step**: Before exploring blockchain payments, map your actual transaction costs and pain points at the most granular level - not country by country, but city by city, partner by partner. You may discover, like Equality Fund, that your assumed problems don't exist while real barriers lie elsewhere.
 
-**Related resources**: [P2P Payments](/tags/p2p-payments.md)
+**Related resources**: [P2P Payments](tags/p2p-payments.md)
 
 #### Privacy Payments
 
@@ -175,7 +175,7 @@ Human rights organizations and their grantees face real surveillance risks from 
 
 **First step**: Conduct a threat assessment with your most vulnerable grant recipients. Map which ones face genuine risks from financial transparency - considering not just current governments but potential future regime changes. Use this assessment to guide whether privacy tools are essential infrastructure or nice-to-have features.
 
-**Link to pattern documentation**: [Privacy Payments](/notes/rpp/rpp-working-docs/privacy-payments.md)
+**Link to pattern documentation**: [Privacy Payments](notes/rpp/rpp-working-docs/privacy-payments.md)
 
 #### Participatory Governance
 
@@ -189,7 +189,7 @@ Traditional grantmaking treats recipients as beneficiaries rather than partners,
 
 **First step**: Start where you have most freedom - often program design rather than fund allocation. Create a formal advisory group of current recipients with real veto power over new program proposals. Document how this shifts power dynamics and use evidence to advocate for deeper governance changes.
 
-**Related resources**: [Participatory Governance](/tags/participatory-governance.md)
+**Related resources**: [Participatory Governance](tags/participatory-governance.md)
 
 ### Pattern Group C: Bridging Divides
 
@@ -209,11 +209,11 @@ Most nonprofit convenings reinforce existing divisions - technical people talk t
 
 **First step**: Design a 2-hour pilot gathering on your most pressing challenge. Invite 8-12 people split evenly between "insiders" (staff/board) and "outsiders" (community members, technical experts, or other perspectives you lack). Use this structure: 30-min joint opening to frame the challenge, 60-min breakouts by perspective group, 30-min joint closing to share insights. Document what emerges when different groups tackle the same problem.
 
-**Link to full pattern**: [Gatherings](/artifacts/patterns/gatherings.md)
+**Link to full pattern**: [Gatherings](artifacts/patterns/gatherings.md)
 
 #### Local Nodes
 
-[Coordi-nations](/tags/coordi-nations.md) are networks of aligned organizations sharing resources, governance practices, and collective action - examples include Green Pill Network for regenerative finance and Gitcoin's grants ecosystem.
+[Coordi-nations](tags/coordi-nations.md) are networks of aligned organizations sharing resources, governance practices, and collective action - examples include Green Pill Network for regenerative finance and Gitcoin's grants ecosystem.
 
 For isolated nonprofits, joining a coordi-nation provides instant connection to global movements while maintaining local autonomy. Rather than building everything alone, organizations tap into existing infrastructure, funding mechanisms, and peer communities. ICS discovered this was their breakthrough - not implementing web3 tools in isolation but finding their tribe within the regenerative finance movement.
 
@@ -221,9 +221,9 @@ For isolated nonprofits, joining a coordi-nation provides instant connection to 
 
 **ICS success**: Established Green Pill London as a local node connecting grassroots sustainability initiatives with global regenerative finance networks, building on London's existing sustainability community. Achieved top 10% ranking in Gitcoin Grants round #23 through engagement with Regen Coordi-Nation. External validation accelerated internal confidence for further transformation. The node provided community engagement pathways and funding support that ICS couldn't achieve alone.
 
-**First step**: Map your mission to existing web3 coordi-nations. Green Pill Network serves regenerative projects. [ReFi](/tags/refi.md) DAO connects climate initiatives. Gitcoin funds public goods. Research which networks have local chapters you could join or where you could pioneer the first node in your city. Apply with a clear value proposition of what you bring to the network, not just what you hope to receive.
+**First step**: Map your mission to existing web3 coordi-nations. Green Pill Network serves regenerative projects. [ReFi](tags/refi.md) DAO connects climate initiatives. Gitcoin funds public goods. Research which networks have local chapters you could join or where you could pioneer the first node in your city. Apply with a clear value proposition of what you bring to the network, not just what you hope to receive.
 
-**Related resources**: [Local Nodes](/tags/local-nodes.md)
+**Related resources**: [Local Nodes](tags/local-nodes.md)
 
 ### Pattern Interactions and Dependencies
 
@@ -332,9 +332,9 @@ The key is honest assessment of your starting point. Pushing beyond organization
 
 The ICS and AIFS experiments leveraged the DAO Primitives Framework to help design and implement governance experiments and final structures. The framework contains a set of lenses through which to understand how governance structures can be composed to serve specific organizational needs across a series of different phases and scales. These lenses, along with implementation guides and governance patterns, provide a framework for creating small experiments that can evolve into sophisticated decentralized governance structures that can operate at scale.
 
-- artifacts/guides/dao-primitives-framework/[dao-primitives-framework.md](http://dao-primitives-framework.md)  
-- artifacts/guides/dao-primitives-framework/dao-primitives-implemention/[implementation-guide-community-governance.md](http://implementation-guide-community-governance.md)  
-- artifacts/guides/dao-primitives-framework/dao-primitives-implemention/[implementation-guide-multi-stakeholder-governance.md](http://implementation-guide-multi-stakeholder-governance.md)  
+- artifacts/guides/dao-primitives-framework/dao-primitives-framework.md  
+- artifacts/guides/dao-primitives-framework/dao-primitives-implemention/implementation-guide-community-governance.md  
+- artifacts/guides/dao-primitives-framework/dao-primitives-implemention/implementation-guide-multi-stakeholder-governance.md  
 - artifacts/guides/dao-primitives-framework/dao-primitives-implemention/implementation-guide-operational-governance.md
 
 ---
@@ -356,7 +356,7 @@ The ICS and AIFS experiments leveraged the DAO Primitives Framework to help desi
 **Transformation Process**: Eight months of experimentation revealed AIFS's true value as coordination infrastructure, not direct service provider. Governance proposal separated mission protection from operational execution. Gatherings created bridges between web3 developers and sports organizations previously unable to collaborate.
 
 AIFS's governance team utilized the DAO Primitives Framework and implementation patterns developed within SuperBenefit to inform the design on the updated AIFS governance system. This included developing an overarching community governance structure (DAO) that wraps a network of small teams (Cells) responsible for operational execution.    
-[artifacts/guides/dao-primitives-framework/]
+artifacts/guides/dao-primitives-framework/
 
 **Measurable Outcomes**:
 
@@ -379,7 +379,7 @@ AIFS's transformation raised questions the project continues exploring: How do w
 
 - Token-based governance (multisig wallet)  
 - Local nodes (Green Pill London)  
-- [DAOs](/tags/daos.md) structure (decentralized autonomous organization framework combining technical tools with social governance protocols)  
+- [DAOs](tags/daos.md) structure (decentralized autonomous organization framework combining technical tools with social governance protocols)  
 - Effective adoption (responding flexibly to emerging opportunities rather than following rigid implementation plans)
 
 **Implementation Journey**: One ICS member worked with web3 contributors from London, Ontario to establish Green Pill London as a local node. This created the entry point ICS needed - participation in coordi-nations like Green Pill Network (for community engagement) and Regen Coordi-Nation (for funding support). They established collaborative workspaces (CharmVerse), voting systems (Snapshot), and role management (Hats Protocol) as part of their DAOs infrastructure. Discovered 6-18 month timeline for meaningful web3 adoption. Pivoted from single workshop to cohort model based on community readiness. 
@@ -424,15 +424,15 @@ Equality Fund's discoveries challenged core RPP assumptions about blockchain's p
 
 ### Patterns
 
-- [Community Governance](https://claude.ai/chat/artifacts/patterns/community-governance.md) - Collective stewardship through constituency-scale decision making  
-- [Operational Governance](https://claude.ai/chat/artifacts/patterns/operational-governance.md) - Sociocratic coordination of autonomous teams  
-- [Gatherings](https://claude.ai/chat/artifacts/patterns/gatherings.md) - Structured spaces for cross-sector relationship building  
-- [Token-based Governance](https://claude.ai/chat/notes/rpp/rpp-working-docs/token-based-governance.md) - Digital voting systems for transparent decision-making  
-- [Privacy Payments](https://claude.ai/chat/notes/rpp/rpp-working-docs/privacy-payments.md) - Protection for sensitive financial transactions  
-- [Peer to Peer Payments](https://claude.ai/chat/tags/p2p-payments) - Direct fund transfers without intermediaries  
-- [Participatory Governance](https://claude.ai/chat/tags/participatory-governance) - Meaningful inclusion of affected communities  
-- [Local Nodes](https://claude.ai/chat/tags/local-nodes) - Connection points to global movements  
-- [Knowledge Gardens](https://claude.ai/chat/artifacts/patterns/knowledge-gardens) - Living documentation ecosystems
+- [Community Governance](artifacts/patterns/community-governance.md) - Collective stewardship through constituency-scale decision making  
+- [Operational Governance](artifacts/patterns/operational-governance.md) - Sociocratic coordination of autonomous teams  
+- [Gatherings](artifacts/patterns/gatherings.md) - Structured spaces for cross-sector relationship building  
+- [Token-based Governance](notes/rpp/rpp-working-docs/token-based-governance.md) - Digital voting systems for transparent decision-making  
+- [Privacy Payments](notes/rpp/rpp-working-docs/privacy-payments.md) - Protection for sensitive financial transactions  
+- [Peer to Peer Payments](tags/p2p-payments.md) - Direct fund transfers without intermediaries  
+- [Participatory Governance](tags/participatory-governance.md) - Meaningful inclusion of affected communities  
+- [Local Nodes](tags/local-nodes.md) - Connection points to global movements  
+- [Knowledge Gardens](artifacts/patterns/knowledge-gardens.md) - Living documentation ecosystems
 
 ### Implementation Guides
 
