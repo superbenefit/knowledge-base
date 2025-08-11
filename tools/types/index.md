@@ -12,8 +12,14 @@ favoriteView:
 fieldsOrder: []
 version: "2.3"
 ---
-The Index type provides structure and navigation for directories within the knowledge base. It serves as the foundation for folder index pages that orient users to the contents and organization of specific sections of the knowledge base.
+## Index Type
 
-Index files act as landing pages for directories, offering context, explanation, and navigation guidance. They help users understand the purpose of each directory, how its contents are organized, and how to find specific information within it.
+Directory navigation pages that provide orientation, context, and wayfinding for each section of the knowledge base, transforming folder structures into meaningful organizational narratives.
 
-Unlike most other types, Index does not extend from the base Note type, as it serves a unique structural role. With its folder-search icon, this type is visually distinct, helping contributors identify directory-level documentation throughout the knowledge base.
+Index pages do more than list contents—they explain the purpose of each directory, how its contents relate to each other, and guide visitors toward the resources they need. With the distinctive folder-search icon, index pages are immediately recognizable as structural elements rather than content pieces.
+
+Extending the reference type and typically placed at directory roots, index pages serve as the connective tissue of our information architecture. They help contributors understand where to place new content and help readers navigate our expanding knowledge ecosystem with purpose and clarity.
+
+**Key distinction**: Index pages organize and explain directory structure, while other types contain actual content. An index describes what's in `/artifacts/patterns/` and how to use it; patterns themselves contain the reusable solutions.
+
+**Template**: [/tools/templates/index.md](/tools/templates/index.md)

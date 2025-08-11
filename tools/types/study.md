@@ -26,8 +26,14 @@ fields:
     path: ""
     id: D3j1km
 ---
-The Study type documents real-world implementations, applications, and outcomes of DAO patterns, primitives, or approaches. Extending the Artifact type, Studies provide empirical evidence and concrete examples that complement the more theoretical pattern and playbook documentation.
+## Study Type
 
-Each Study includes background context, implementation details, outcomes, and reflections on lessons learned. The unique 'case' field connects studies to specific entities or organizations, enabling cross-referencing and comparative analysis across similar implementations.
+Real-world implementation documentation that bridges theory and practice through empirical analysis of how patterns, protocols, and playbooks perform in actual organizational contexts.
 
-Tagged with 'studies', this type serves as a critical bridge between theory and practice, validating concepts through real-world examples while also highlighting adaptations, challenges, and unexpected outcomes that emerge during practical application.
+Studies provide the evidence base for our knowledge claims, documenting what happened when specific approaches were implemented, what outcomes emerged, and what lessons were learned. The unique 'case' field enables linking studies to specific entities or organizations, creating a rich web of implementation examples that others can learn from.
+
+With automatic tagging through `mapWithTag` and a higher record limit to accommodate detailed documentation, studies serve as the empirical foundation of our knowledge base. They validate theoretical patterns, reveal unexpected adaptations, and highlight contextual factors that influence success.
+
+**Key distinction**: Studies document and analyze real implementations with measurable outcomes, while articles provide opinion or analysis. A study examines "how ConsensusDAO implemented quadratic voting and what happened"; an article might argue "why quadratic voting improves governance."
+
+**Template**: [/tools/templates/study.md](/tools/templates/study.md)

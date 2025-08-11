@@ -13,8 +13,14 @@ favoriteView:
 fieldsOrder: []
 version: "2.1"
 ---
-The Article type represents formal publications, essays, or in-depth analyses on topics related to DAOs, Web3 governance, and decentralized organizations. Extending the Artifact type, Article provides structure for longer-form content that presents coherent arguments, research findings, or thought leadership.
+## Article Type
 
-Articles may be originally published on external platforms (like Mirror.xyz) and referenced with a URL, or they may be native publications within the knowledge base. The 'author' field can include multiple contributors, acknowledging collaborative authorship.
+Long-form publications that present coherent arguments, thought leadership, or in-depth analysis on topics central to DAOs, Web3 governance, and decentralized social impact.
 
-Tagged with 'articles' and stored in the `/artifacts/articles/` directory, this type serves as a vehicle for distributing more polished, comprehensive perspectives that contribute to the broader discourse on decentralization, governance, and social impact.
+Articles represent our community's voice in broader conversations, offering perspectives that combine theoretical understanding with practical experience. Whether originally published externally (like on Mirror.xyz) or created natively within our knowledge base, articles provide space for nuanced exploration of complex topics that benefit from narrative structure.
+
+Located in `/artifacts/articles/` and extending the artifact type, articles complement our pattern and playbook documentation with reflective, analytical content. They often synthesize insights from multiple studies, critically examine emerging trends, or articulate vision for the future of decentralized organization.
+
+**Key distinction**: Articles present analysis, opinion, or thought leadership, while studies document empirical implementations. An article might argue "The Future of Consent-Based Governance"; a study would document "How Organization X Implemented Consent Governance: Results and Lessons."
+
+**Template**: [/tools/templates/article.md](/tools/templates/article.md)

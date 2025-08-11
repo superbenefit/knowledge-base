@@ -38,11 +38,15 @@
   "frontmatterListDisplay": "asList",
   "fileClassExcludedFolders": [],
   "showIndexingStatusInStatusBar": true,
-  "fileIndexingExcludedFolders": [],
+  "fileIndexingExcludedFolders": [
+    "tools/"
+  ],
   "fileIndexingExcludedExtensions": [
     ".excalidraw.md"
   ],
-  "fileIndexingExcludedRegex": [],
+  "fileIndexingExcludedRegex": [
+    "readme*"
+  ],
   "frontmatterOnly": true,
   "showFileClassSelectInModal": true,
   "chooseFileClassAtFileCreation": false,
