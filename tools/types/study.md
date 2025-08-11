@@ -26,14 +26,8 @@ fields:
     path: ""
     id: D3j1km
 ---
-## Study Type
+The Study type documents real-world implementations and case studies that provide empirical evidence for patterns and approaches. Studies capture the messy reality of organizational experiments, including both successes and failures, to build an evidence base for DAO design.
 
-Real-world implementation documentation that bridges theory and practice through empirical analysis of how patterns, protocols, and playbooks perform in actual organizational contexts.
+Tagged with "studies" for automatic association, these documents provide the crucial feedback loop from practice to theory. Studies validate or challenge patterns, surface unexpected emergent behaviors, and document the context-specific adaptations required for successful implementation. They transform isolated experiments into collective learning.
 
-Studies provide the evidence base for our knowledge claims, documenting what happened when specific approaches were implemented, what outcomes emerged, and what lessons were learned. The unique 'case' field enables linking studies to specific entities or organizations, creating a rich web of implementation examples that others can learn from.
-
-With automatic tagging through `mapWithTag` and a higher record limit to accommodate detailed documentation, studies serve as the empirical foundation of our knowledge base. They validate theoretical patterns, reveal unexpected adaptations, and highlight contextual factors that influence success.
-
-**Key distinction**: Studies document and analyze real implementations with measurable outcomes, while articles provide opinion or analysis. A study examines "how ConsensusDAO implemented quadratic voting and what happened"; an article might argue "why quadratic voting improves governance."
-
-**Template**: [/tools/templates/study.md](/tools/templates/study.md)
+**Template**: [study.md](/tools/templates/study.md)

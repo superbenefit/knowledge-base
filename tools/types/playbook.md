@@ -15,14 +15,10 @@ fieldsOrder: []
 version: "2.6"
 fields: 
 ---
-## Playbook Type
+The Playbook type provides comprehensive, actionable guidance for implementing specific processes or frameworks within decentralized organizations. Playbooks transform theoretical knowledge into practical, step-by-step instructions that practitioners can directly apply.
 
-Comprehensive, actionable guides that combine multiple patterns and practices into step-by-step implementation instructions for specific organizational processes or transformations.
+Extending Artifact, Playbooks synthesize multiple patterns and primitives into cohesive implementation guides. These documents accommodate the detailed procedures, examples, troubleshooting sections, and comprehensive appendices needed for successful implementation.
 
-Playbooks bridge the gap between conceptual understanding and practical application. Where patterns provide the "what" and "why," playbooks deliver the "how"—offering detailed procedures, checklists, timelines, and decision criteria that practitioners can follow directly. The higher record limit (50) accommodates the detailed nature of implementation guidance.
+Stored in `/artifacts/playbooks/` and automatically associated with content tagged "playbooks," these documents bridge the gap between understanding and action. While Patterns explain conceptual solutions, Playbooks provide the detailed roadmaps for implementation, including prerequisites, procedures, troubleshooting guides, and success metrics. They represent the practical wisdom gained from real-world application of organizational patterns.
 
-Located in `/artifacts/playbooks/` and auto-tagged through `mapWithTag`, playbooks serve as the practical manuals of our knowledge base. They often reference multiple patterns, weaving them together into cohesive implementation strategies that have been tested in real-world contexts.
-
-**Key distinction**: Playbooks focus on practical, sequential implementation steps, while patterns describe reusable conceptual solutions. A playbook tells you exactly how to run a consent process meeting; a pattern explains why consent-based decision making works.
-
-**Template**: [/tools/templates/playbook.md](/tools/templates/playbook.md)
+**Template**: [playbook.md](/tools/templates/playbook.md), [rpp-playbook.md](/tools/templates/rpp-playbook.md)

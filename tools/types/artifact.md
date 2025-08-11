@@ -14,14 +14,10 @@ fieldsOrder: []
 version: "2.87"
 fields: []
 ---
-## Artifact Type
+The Artifact type represents polished, validated content that has successfully completed the knowledge development cycle. Artifacts embody the collective understanding and consensus of the SuperBenefit community on specific topics, having evolved from exploratory notes through collaborative refinement.
 
-Published, validated content that represents the collective understanding and consensus of the SuperBenefit community on specific topics, patterns, or concepts.
+Extending the Note type, Artifacts inherit core metadata while adding the semantic weight of "published" status within the knowledge base. The `/artifacts/` directory serves as the repository for these refined pieces, signaling to readers that this content has been vetted and represents established knowledge rather than work in progress.
 
-Artifacts mark the maturation of knowledge from exploratory notes into refined, reliable resources. The transition from note to artifact signifies that content has undergone collaborative review, achieved clarity, and provides genuine value to the broader community. This evolution is documented in both this type definition and the [note type](/tools/types/note.md).
+This type serves as the parent for specialized artifacts (patterns, playbooks, studies, articles), providing consistent quality standards while allowing domain-specific extensions. The distinction between Note and Artifact is primarily about maturity and validation rather than structure, supporting a clear content lifecycle.
 
-Living in the `/artifacts/` directory, these pieces serve as the primary knowledge products of our collaborative efforts. By extending the note type, artifacts inherit all base fields while representing a fundamentally different stage in our knowledge development cycle—from exploration to establishment.
-
-**Key distinction**: Unlike notes which capture ideas in development, artifacts represent completed thinking ready for implementation and reuse. This type serves as the parent for specialized formats like patterns, playbooks, and studies.
-
-**Template**: [/tools/templates/artifact.md](/tools/templates/artifact.md) (if exists)
+**Template**: [artifact.md](/tools/templates/artifact.md) (rarely used directly)

@@ -2,15 +2,15 @@
 limit: 20
 mapWithTag: false
 icon: notepad-text
-tagNames: null
+tagNames: 
 filesPaths:
   - notes
   - drafts
-bookmarksGroups: null
-excludes: null
-extends: null
+bookmarksGroups: 
+excludes: 
+extends: 
 savedViews: []
-favoriteView: null
+favoriteView: 
 fieldsOrder:
   - anCEWM
   - Pgb5mz
@@ -42,39 +42,11 @@ fields:
       linkPath: ""
     path: ""
     id: n6F5Oz
-"---": >-
-  
-
-  ## Note Type
-
-
-  The foundation type for all content in the SuperBenefit Knowledge Base,
-  establishing core metadata fields that support the knowledge development cycle
-  from initial capture through collaborative refinement.
-
-
-  Notes represent dynamic, evolving content—ideas in motion rather than fixed
-  conclusions. They live primarily in `/notes/` for collaborative work and
-  `/drafts/` for personal exploration, providing the flexibility needed for
-  knowledge to mature naturally through community interaction.
-
-
-  As the base type with no parent, Note defines the essential fields inherited
-  by most other types: title, description, date, and the critical publish field
-  that controls visibility in the Knowledge Garden. This minimal but complete
-  structure ensures consistency while avoiding unnecessary complexity.
-
-
-  **Key distinction**: Notes are works-in-progress meant for internal
-  development, while artifacts represent validated, publication-ready content.
-  The transition from note to artifact marks a significant milestone in our
-  knowledge development process.
-
-
-  **Template**: [/tools/templates/note.md](/tools/templates/note.md)
 ---
-The Note type serves as the foundation for content creation in the SuperBenefit Knowledge Base. It defines the essential metadata structure for works-in-progress, research notes, and evolving ideas.
+The Note type serves as the foundational building block for all content in the SuperBenefit Knowledge Base. It defines the essential metadata structure that enables consistent organization, discovery, and evolution of knowledge from initial ideas to polished artifacts.
 
-As the base type that most other types extend from, Note establishes core fields including title, description, curator, and harvester information. Notes represent dynamic, evolving content that may eventually mature into more structured artifacts.
+Notes represent dynamic, evolving content that captures research, meeting outcomes, working thoughts, and collaborative explorations. They support the natural knowledge development cycle where personal insights mature through collaboration into validated community knowledge. The core fields (title, description, date, publish) provide just enough structure without constraining creative exploration.
 
-This type is primarily used in the `/notes/` and `/drafts/` directories, supporting the knowledge development cycle where ideas begin as personal drafts before evolving into collaborative notes and eventually becoming polished artifacts.
+This type is primarily used in `/notes/` for collaborative work and `/drafts/` for personal exploration. The publish field controls visibility in the Knowledge Garden, allowing contributors to choose when their work is ready for public consumption. As the base type that most others extend, Note establishes patterns that cascade throughout the entire type system.
+
+**Template**: [note.md](/tools/templates/note.md)

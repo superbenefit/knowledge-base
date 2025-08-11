@@ -12,14 +12,10 @@ favoriteView:
 fieldsOrder: []
 version: "2.1"
 ---
-## Reference Type
+The Reference type extends Note to provide a parent classification for structural and navigational content within the knowledge base. It serves as an organizational type that groups together various forms of reference materials that support content discovery and orientation.
 
-Parent type for specialized reference materials including indices, links, and tags, providing a common foundation for content that supports navigation and contextualization rather than primary knowledge creation.
+Reference content differs from regular notes in that it primarily serves to organize, categorize, and connect other content rather than containing substantive information itself. Reference types focus on creating pathways, relationships, and context rather than presenting original ideas or research.
 
-Reference materials serve supporting roles in our knowledge ecosystem—they help people find, understand, and connect information rather than presenting new knowledge directly. By extending the note type, reference materials inherit basic metadata while serving fundamentally different purposes than standard notes or artifacts.
+As a parent type, Reference is rarely used directly but provides the foundation for specialized reference types like Index, Link, and Tag. This inheritance structure ensures consistent behavior across all organizational content while allowing each subtype to add its specific functionality.
 
-This type primarily exists as a parent for more specific reference types (index, link, tag) and is rarely used directly. It establishes the conceptual category of "supporting materials" that enhance the usability and interconnectedness of our primary content.
-
-**Key distinction**: Reference types support navigation and understanding of other content, while notes and artifacts contain primary knowledge. This is an intermediate parent type primarily used for inheritance.
-
-**Template**: Typically not used directly - use specific reference subtypes instead
+**Template**: Typically uses subtypes (index, link, tag)

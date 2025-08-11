@@ -13,14 +13,10 @@ favoriteView:
 fieldsOrder: []
 version: "2.7"
 ---
-## Link Type
+The Link type documents and contextualizes external resources relevant to the SuperBenefit knowledge base. Links go beyond simple bookmarking by adding analysis, commentary, and connections to internal knowledge.
 
-Curated external resources enhanced with contextual analysis and connections to our internal knowledge ecosystem, transforming simple references into valuable knowledge bridges.
+Located in `/library/` to create a curated resource collection, Links extend the Reference type. Each link entry includes not just the URL and basic metadata, but also summaries, relevance explanations, and relationships to patterns, studies, or other content types.
 
-Links go beyond bookmarking—each entry includes commentary that explains why the resource matters, what insights it offers, and how it connects to patterns, concepts, and discussions within our knowledge base. This added context transforms a collection of URLs into a living library where external knowledge enriches our internal understanding.
+This type enables the curation of a living library that bridges internal knowledge development with the broader ecosystem of ideas. Links maintain awareness of external developments, credit sources of inspiration, and provide pathways for deeper exploration beyond the knowledge base boundaries.
 
-Housed in the `/library/` directory and extending the reference type, links serve as windows to the broader ecosystem of ideas about DAOs, governance, and decentralized organization. The curation process itself generates value by filtering signal from noise and highlighting connections that might not be immediately apparent.
-
-**Key distinction**: Links are external resources with our analysis and context, not internal content we've created. They extend the reference type (not note), emphasizing their role as connective tissue between our knowledge and the wider world.
-
-**Template**: [/tools/templates/link.md](/tools/templates/link.md)
+**Template**: [link.md](/tools/templates/link.md), [library.md](/tools/templates/library.md)

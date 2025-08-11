@@ -15,14 +15,10 @@ fieldsOrder: []
 version: "2.29"
 fields: []
 ---
-## Pattern Type
+The Pattern type documents reusable solutions to recurring challenges in decentralized organization design and governance. Patterns capture proven approaches that can be adapted across different contexts, building a library of organizational building blocks for the DAO ecosystem.
 
-Reusable solutions to recurring challenges in decentralized organization design and governance, providing conceptual frameworks that can be adapted across different contexts and implementations.
+As validated conceptual frameworks within the artifact family, Patterns balance theoretical understanding with practical applicability. Each pattern includes problem context, solution mechanisms, implementation considerations, and relationships to other patterns. Content tagged with "patterns" automatically associates with this type.
 
-Patterns capture proven approaches that have emerged from practical experience, abstracting the essential elements that make solutions work while remaining flexible enough for contextual adaptation. Unlike prescriptive guides, patterns focus on the underlying principles and mechanisms—the "what" and "why" rather than the detailed "how."
+Located in `/artifacts/patterns/`, these documents form the core of SuperBenefit's contribution to DAO knowledge - identifying and codifying successful organizational designs. Patterns differ from Playbooks by focusing on conceptual solutions rather than step-by-step implementation, providing the "why" and "what" that complements the "how."
 
-Stored in `/artifacts/patterns/` and automatically associated with content tagged 'patterns' through `mapWithTag`, this type enables building a pattern language for DAOs. Each pattern documents problem context, solution approach, implementation considerations, and relationships to other patterns.
-
-**Key distinction**: Patterns provide conceptual frameworks and reusable solutions, while playbooks offer step-by-step implementation instructions. A pattern might describe "consent-based decision making" as a concept; a playbook would detail "how to implement consent voting in your DAO."
-
-**Template**: [/tools/templates/pattern.md](/tools/templates/pattern.md)
+**Template**: [pattern.md](/tools/templates/pattern.md)
