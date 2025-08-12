@@ -28,7 +28,7 @@ Purpose aligned networks of small autonomous teams
 
 DAOs and other decentralized forms of organizing enable more flexible, powerful and inclusive group coordination patterns by utilizing small autonomous teams in place of rigid top-down hierarchies. However without the rigid rulesets and chains of command typical in traditional organizations these small autonomous teams often fall victim to group dynamic dysfunctions that undermine the potential that decentralized organizing holds (see [The Tyranny of Structurelessness](https://en.wikipedia.org/wiki/The_Tyranny_of_Structurelessness))
 
-The [DAO Primitives Framework](artifacts/guides/dao-primitives-framework/dao-primitives-framework.md) use the concept of a Cell as a primitive to provide teams with enough scaffolding to function as dynamic, autonomous units, avoiding bureaucratic overhead while protecting against group dysfunction. Additionally, Cells establishe clear interfaces that enable trust-based coordination between groups and individuals across a broader DAO network. 
+The [DAO Primitives Framework](artifacts/guides/dao-primitives-framework/index.md) use the concept of a Cell as a primitive to provide teams with enough scaffolding to function as dynamic, autonomous units, avoiding bureaucratic overhead while protecting against group dysfunction. Additionally, Cells establishe clear interfaces that enable trust-based coordination between groups and individuals across a broader DAO network. 
 
 This balanced approach to structure - implemented through the Cell pattern - helps realized the benefits of decentralized organization while mitigating common failure modes.
 

@@ -20,7 +20,7 @@ DAOs within the DAO Primitives Framework are defined as **purpose-aligned [netwo
 
 ## Core Characteristics
 
-**Contain a Network**: DAOs contain a [network](tags/networks.md) of groups operating at different levels of [group-scale](artifacts/guides/dao-primitives-framework/group-scale/group-scale.md) and stages of [group-phase](artifacts/guides/dao-primitives-framework/group-phase/group-phase.md). By coordinating this network, DAOs create flexible, adaptive organizational forms that can evolve organically without requiring a top-down structure.
+**Contain a Network**: DAOs contain a [network](tags/networks.md) of groups operating at different levels of [index](artifacts/guides/dao-primitives-framework/group-scale/index.md) and stages of [index](artifacts/guides/dao-primitives-framework/group-phase/index.md). By coordinating this network, DAOs create flexible, adaptive organizational forms that can evolve organically without requiring a top-down structure.
 
 **Purpose-Aligned [Coordination](tags/coordination.md)**: DAOs maintain coherence through shared network [purpose](tags/purpose.md) that enables autonomous teams to coordinate and make aligned [decisions](tags/decisions.md) without central authority. Purpose serves as the gravitational center that guides decentralized DAO decision-making.
 
@@ -62,9 +62,9 @@ DAOs create coherence and make successful [coordination](tags/coordination.md) p
 
 **Group State Documentation**: DAOs implement systematic documentation of [Purpose](tags/purpose.md)/[Practice](tags/practices.md)/[Progress](tags/progress.md) across all constituent teams, creating the [transparency](tags/transparency.md) needed for decentralized [coordination](tags/coordination.md) and accountability. See [dao-state](notes/dao-primitives/implementation/patterns/dao-patterns/dao-state.md)
 
-**Facilitation Frameworks**: DAOs often employ structured approaches to group development and organizational design, helping teams navigate phases and scales while maintaining network coherence. See [notes/dao-primitives/implementation/guides/governance/governance](notes/dao-primitives/implementation/guides/governance/governance.md)
+**Facilitation Frameworks**: DAOs often employ structured approaches to group development and organizational design, helping teams navigate phases and scales while maintaining network coherence. See [notes/dao-primitives/implementation/guides/governance/index](notes/dao-primitives/implementation/guides/governance/index.md)
 
-**[Governance](tags/governance.md) [Primitives](tags/primitives.md)**: In the DAO Primitives Framework, DAOs utilize the other 3 [group-primitives](artifacts/guides/dao-primitives-framework/group-primitives/group-primitives.md) to implement their governance and operational design:
+**[Governance](tags/governance.md) [Primitives](tags/primitives.md)**: In the DAO Primitives Framework, DAOs utilize the other 3 [index](artifacts/guides/dao-primitives-framework/group-primitives/index.md) to implement their governance and operational design:
 
 - [Cells](artifacts/guides/dao-primitives-framework/group-primitives/cells.md) - The autonomous teams that comprise DAO networks
 - [Roles](artifacts/guides/dao-primitives-framework/group-primitives/roles.md) - Specialized functions within DAO coordination systems
@@ -74,7 +74,7 @@ DAOs create coherence and make successful [coordination](tags/coordination.md) p
 
 ## Examples in Practice
 
-**All in for Sport**: The DAO primitives framework has been applied to design the AIFS [governance](tags/governance.md) model and partnership with SuperBenefit. More can be read about this example here: [all-in-for-sport](notes/rpp/rpp-experiments/all-in-for-sport/all-in-for-sport.md).
+**All in for Sport**: The DAO primitives framework has been applied to design the AIFS [governance](tags/governance.md) model and partnership with SuperBenefit. More can be read about this example here: [index](notes/rpp/rpp-experiments/all-in-for-sport/index.md).
 
 **RPP [Governance](tags/governance.md)**: This project is a good example of how a larger DAO structure (SuperBenefit) can support multi-stakeholder partnerships within its broad [community](tags/community.md) governance umbrella. This shows how complex governance and operations can be made simple and effective while maintaining appropriate levels of high-level governance. See [artifacts/studies/projects/rpp-governance-case-study](artifacts/studies/projects/rpp-governance-case-study.md)
 

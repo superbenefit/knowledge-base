@@ -2,4 +2,4 @@
 tags: meetings
 date: 26-02-2024
 ---
-#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
+#[index](notes/general-circle/old-gc-meetings/index.md) 

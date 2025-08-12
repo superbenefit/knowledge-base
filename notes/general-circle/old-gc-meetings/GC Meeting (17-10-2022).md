@@ -2,7 +2,7 @@
 tags: meetings
 date: 17-10-2022
 ---
-#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
+#[index](notes/general-circle/old-gc-meetings/index.md) 
 # Week of October 17, 2022
 
 ## Attendees

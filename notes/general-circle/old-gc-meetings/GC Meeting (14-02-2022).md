@@ -2,7 +2,7 @@
 tags: meetings
 date: 14-02-2022
 ---
-#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
+#[index](notes/general-circle/old-gc-meetings/index.md) 
 # Week of February 14, 2022
 ## Attendees
 Present: @AlexH @heenal @Rowan  @Ryan  

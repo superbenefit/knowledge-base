@@ -35,7 +35,7 @@ Many [blockchain](tags/blockchain.md) [protocols](tags/protocols.md) use DAOs to
 
 ### DAOs as Purpose-Aligned Networks
 
-As described in the [DAO Primitives Project](notes/dao-primitives/dao-primitives.md), DAOs can be understood as "purpose-aligned networks of small autonomous teams" rather than discrete entities. This perspective views DAOs as fluid coordination systems where smaller groups (Cells) self-organize around a shared purpose while maintaining their autonomy. The network provides infrastructure for these groups to discover each other, share resources, and align activities toward common goals without requiring centralized direction.
+As described in the [DAO Primitives Project](notes/dao-primitives/index.md), DAOs can be understood as "purpose-aligned networks of small autonomous teams" rather than discrete entities. This perspective views DAOs as fluid coordination systems where smaller groups (Cells) self-organize around a shared purpose while maintaining their autonomy. The network provides infrastructure for these groups to discover each other, share resources, and align activities toward common goals without requiring centralized direction.
 
 As noted in DAOs aren't things... they are flows:
 

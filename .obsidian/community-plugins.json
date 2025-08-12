@@ -4,7 +4,6 @@
   "folder-notes",
   "templater-obsidian",
   "auto-template-trigger",
-  "waypoint",
   "github-sync",
   "obsidian-kanban",
   "recent-files-obsidian",
@@ -13,6 +12,6 @@
   "obsidian-local-rest-api",
   "metadata-menu",
   "mcp-tools",
-  "obsidian-link-converter",
-  "obsidian-mkdocs-publisher"
+  "obsidian-mkdocs-publisher",
+  "links"
 ]

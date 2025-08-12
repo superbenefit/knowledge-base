@@ -2,7 +2,7 @@
 tags: meetings
 date: 21-08-2023
 ---
-#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
+#[index](notes/general-circle/old-gc-meetings/index.md) 
 # **Date 21 Aug 2023**
 - ## Attendees:
 	- @Rowan  @heenal @rathermercurial @Lewwwk @MBaldwin @Aditi 

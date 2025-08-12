@@ -2,7 +2,7 @@
 tags: meetings
 date: 09-10-2023
 ---
-#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
+#[index](notes/general-circle/old-gc-meetings/index.md) 
 ## 9/10/23
 ### Attendees
 - @Rowan  @heenal @MBaldwin @Lewwwk @rathermercurial 

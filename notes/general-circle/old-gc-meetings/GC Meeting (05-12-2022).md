@@ -2,7 +2,7 @@
 tags: meetings
 date: 05-12-2022
 ---
-#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
+#[index](notes/general-circle/old-gc-meetings/index.md) 
 ## Attendees
 - @heenal @MBaldwin @Rowan  @Lewwwk 
 

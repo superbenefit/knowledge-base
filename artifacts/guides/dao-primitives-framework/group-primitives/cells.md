@@ -66,7 +66,7 @@ Together, these three dimensions create a comprehensive view of the Cell that en
 
 ## Implementation Patterns
 
-**Cell Formation Patterns**: The cell-working-group pattern identifies four primary ways new Cells form within [DAO networks](artifacts/guides/dao-primitives-framework/group-primitives/daos.md), each with different implications for how the Cell develops through the [group phases](artifacts/guides/dao-primitives-framework/group-phase/group-phase.md):
+**Cell Formation Patterns**: The cell-working-group pattern identifies four primary ways new Cells form within [DAO networks](artifacts/guides/dao-primitives-framework/group-primitives/daos.md), each with different implications for how the Cell develops through the [group phases](artifacts/guides/dao-primitives-framework/group-phase/index.md):
 
 - **Operational Scaling**: An existing Cell creates a new Cell when operational needs extend beyond its current scope, either delegating to existing Cells or creating new ones to handle expanded [responsibilities](tags/responsibilities.md)
 - **Community Operationalization**: A community forms a Cell when it needs to execute on plans, such as when funding is approved for specific activities that require coordinated implementation
@@ -81,7 +81,7 @@ Together, these three dimensions create a comprehensive view of the Cell that en
 
 **[State](artifacts/guides/dao-primitives-framework/group-state.md) Implementation**: Cells use the [state](artifacts/guides/dao-primitives-framework/group-state.md) pattern as their core structural foundation, working through and defining their [Purpose](tags/purpose.md), [Practice](tags/practices.md), and [Progress](tags/progress.md) to create the documentation that enables both internal self-management and external [coordination](tags/coordination.md) within the [DAO network](artifacts/guides/dao-primitives-framework/group-primitives/daos.md).
 
-**Phase-Adaptive Structure**: Because Cells can form through different pathways, they move through [development phases](artifacts/guides/dao-primitives-framework/group-phase/group-phase.md) in varied ways. Cells created for specific operational functions may move quickly through [Conversation](artifacts/guides/dao-primitives-framework/group-phase/conversation-phase.md) and [Formation](artifacts/guides/dao-primitives-framework/group-phase/formation-phase.md) phases, while autonomous Cells emerging from community conversations may take longer to develop through these phases organically.
+**Phase-Adaptive Structure**: Because Cells can form through different pathways, they move through [development phases](artifacts/guides/dao-primitives-framework/group-phase/index.md) in varied ways. Cells created for specific operational functions may move quickly through [Conversation](artifacts/guides/dao-primitives-framework/group-phase/conversation-phase.md) and [Formation](artifacts/guides/dao-primitives-framework/group-phase/formation-phase.md) phases, while autonomous Cells emerging from community conversations may take longer to develop through these phases organically.
 
 ## Examples in Practice
 
@@ -91,7 +91,7 @@ Together, these three dimensions create a comprehensive view of the Cell that en
 
 **Function-Based Cells**: Cells organized around specific organizational functions (like communications, development, or governance) that provide specialized services to the broader network while maintaining operational autonomy.
 
-**All in for Sport**: The DAO primitives framework has been applied to design the AIFS governance model and partnership with SuperBenefit. This governance model features a larger DAO (All in for Sport) which provides a community governance wrapper for an operational structure of coordinating Cells. More can be read about this example here: [all-in-for-sport](notes/rpp/rpp-experiments/all-in-for-sport/all-in-for-sport.md).
+**All in for Sport**: The DAO primitives framework has been applied to design the AIFS governance model and partnership with SuperBenefit. This governance model features a larger DAO (All in for Sport) which provides a community governance wrapper for an operational structure of coordinating Cells. More can be read about this example here: [index](notes/rpp/rpp-experiments/all-in-for-sport/index.md).
 
 **RPP Governance**: This project is a good example of a multi-stakeholder partnership within a community governance wrapper, utilizing a network of coordinating Cells to deliver the strategy and operations for a complex project. This shows how a network of autonomous Cells can be used to create a complex operations structure. See [artifacts/studies/projects/rpp-governance-case-study](artifacts/studies/projects/rpp-governance-case-study.md).
 

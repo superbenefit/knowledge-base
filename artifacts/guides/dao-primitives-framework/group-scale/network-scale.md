@@ -22,7 +22,7 @@ This scale is characterized by high levels of interdependence, complex communica
 - **Interconnected Organizations:** The Network Scale involves multiple organizations or [groups](tags/groups.md) working together, often with varying degrees of autonomy.
 - **Decentralized Organizing**: Seeks to create effective mechanisms for partnership by leveraging decentralized patterns of organizing.
 - **Shared or Complementary Goals:** Organizations within the [network](tags/networks.md) may share common goals or have complementary goals that contribute to a larger ecosystem.
-- **Multi-Scale:** The network is operationalized through interdependent entities that operate at different [group-scales](artifacts/guides/dao-primitives-framework/group-scale/group-scale.md), in order to most effectively deliver on the goals of the network.
+- **Multi-Scale:** The network is operationalized through interdependent entities that operate at different [group-scales](artifacts/guides/dao-primitives-framework/group-scale/index.md), in order to most effectively deliver on the goals of the network.
 - **Complex Communication:** Communication flows are complex, requiring robust mechanisms for information sharing and [coordination](tags/coordination.md).
 - **Decentralized [Resource](tags/resources.md) Allocation:** [Governance](tags/governance.md) at multiple levels in the network allocates [resources](tags/resources.md) based on local knowledge and context.
 - **Adaptability:** The network must be adaptable to changing circumstances and the evolving needs of its constituent organizations.

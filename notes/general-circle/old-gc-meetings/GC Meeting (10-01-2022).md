@@ -2,7 +2,7 @@
 tags: meetings
 date: 10-01-2022
 ---
-#[old-gc-meetings](/notes/general-circle/old-gc-meetings/old-gc-meetings.md) 
+#[index](notes/general-circle/old-gc-meetings/index.md) 
 # Week of January 10, 2022
 ## Attendees
 - @remarkk @heenal @MBaldwin @Lewwwk @flashlight @AlexH @Rowan  @Ryan  

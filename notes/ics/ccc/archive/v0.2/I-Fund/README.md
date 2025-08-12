@@ -29,7 +29,7 @@ This directory contains the following resources for understanding and implementi
 - **[I.03-diagrams-and-visuals.md](notes/ics/ccc/archive/v0.2/I-Fund/I.03-diagrams-and-visuals.md)** - Visual representations of the fund structure and flows
 - **[I.04-project-plan.md](notes/ics/ccc/archive/v0.2/I-Fund/I.04-project-plan.md)** - Implementation roadmap and action items
 - **[I.05-discussion-paper-outline.md](notes/ics/ccc/archive/v0.2/I-Fund/I.05-discussion-paper-outline.md)** - Structure for formal presentation to funders
-- **[I-Fund.md](notes/ics/ccc/archive/v0.2/I-Fund/I-Fund.md)** - Comprehensive overview of the fund purpose and design
+- **[I-Fund.md](notes/ics/ccc/archive/v0.2/I-Fund/index.md)** - Comprehensive overview of the fund purpose and design
 
 ## Discussion Paper Development
 

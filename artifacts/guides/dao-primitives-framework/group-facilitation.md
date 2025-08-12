@@ -38,7 +38,7 @@ The facilitation process follows these key steps:
 
 1. **Assessing Context**: Understanding the group's current phase, scale, and state
 2. **Identifying Needs**: Determining the most pressing challenges and opportunities
-3. **Selecting Patterns**: Choosing appropriate organizational patterns from the [Pattern Library](notes/dao-primitives/implementation/patterns/patterns.md)
+3. **Selecting Patterns**: Choosing appropriate organizational patterns from the [Pattern Library](notes/dao-primitives/implementation/patterns/index.md)
 4. **Implementing Solutions**: Adapting and applying these patterns to the specific context
 5. **Evolving & Iterating**: Continuously refining the approach based on feedback
 
@@ -181,7 +181,7 @@ Based on the articulated [purpose](tags/purpose.md) and mapped requirements, the
 
 The discovery phase should have surfaced key insights into what qualities the group wants from its governance approach—whether they prioritize maximally decentralized [decision-making](tags/decisions.md), trust and capture resistance, technical sophistication, or other values. These insights become crucial selection criteria when evaluating governance options.
 
-Review the [dao-primitives framework](artifacts/guides/dao-primitives-framework/dao-primitives-framework.md) along with [patterns](notes/dao-primitives/implementation/patterns/patterns.md) and [case-studies](notes/dao-primitives/implementation/case-studies/case-studies.md) to guide the group toward settling on a governance approach that matches their outlined requirements rather than defaulting to popular or familiar options that may not fit their context.
+Review the [dao-primitives framework](artifacts/guides/dao-primitives-framework/index.md) along with [index](notes/dao-primitives/implementation/patterns/index.md) and [index](notes/dao-primitives/implementation/case-studies/index.md) to guide the group toward settling on a governance approach that matches their outlined requirements rather than defaulting to popular or familiar options that may not fit their context.
 
 #### 2. Entities and Agreements
 
@@ -189,20 +189,20 @@ The DAO Primitives Framework provides four basic organizational [primitives](tag
 
 ##### Core Primitives
 
-Using the [group-primitives](artifacts/guides/dao-primitives-framework/group-primitives/group-primitives.md) as building blocks:
+Using the [index](artifacts/guides/dao-primitives-framework/group-primitives/index.md) as building blocks:
 
 - **[DAOs](artifacts/guides/dao-primitives-framework/group-primitives/daos.md)**: Entity structure for purpose-aligned [networks](tags/networks.md)
 - **Cells**: Entity structure for small autonomous teams
 - **[Roles](artifacts/guides/dao-primitives-framework/group-primitives/roles.md)**: Agreement primitive for ongoing [responsibilities](tags/responsibilities.md) and permissions
 - **[Tasks](artifacts/guides/dao-primitives-framework/group-primitives/tasks.md)**: Agreement primitive for specific work deliverables
 
-The design process involves determining which combination of these [primitives](tags/primitives.md) will best serve the group's requirements, then identifying specific patterns for how to compose them into functional structures. Examples of using these primitives to compose governance and operational models can be found in [case-studies](notes/dao-primitives/implementation/case-studies/case-studies.md), including case studies like [artifacts/studies/projects/rpp-governance-case-study](artifacts/studies/projects/rpp-governance-case-study.md).
+The design process involves determining which combination of these [primitives](tags/primitives.md) will best serve the group's requirements, then identifying specific patterns for how to compose them into functional structures. Examples of using these primitives to compose governance and operational models can be found in [index](notes/dao-primitives/implementation/case-studies/index.md), including case studies like [artifacts/studies/projects/rpp-governance-case-study](artifacts/studies/projects/rpp-governance-case-study.md).
 
 #### 3. Pattern Selection
 
 Based on the chosen [governance](tags/governance.md) approach, the design team builds out a complete governance and operational model by selecting patterns and [primitives](tags/primitives.md) best suited to delivering the desired functionality. This selection process requires balancing multiple considerations: the group's current capacity, their growth projections, the complexity they can manage, and the specific [coordination](tags/coordination.md) challenges they face.
 
-Governance and operational patterns can be found in [patterns](notes/dao-primitives/implementation/patterns/patterns.md). Facilitators should help the group select patterns that work effectively in conjunction with the chosen primitives (DAOs, Cells, Roles & Tasks) to create a governance and operational system that functions as intended rather than creating elegant structures that fail in practice.
+Governance and operational patterns can be found in [index](notes/dao-primitives/implementation/patterns/index.md). Facilitators should help the group select patterns that work effectively in conjunction with the chosen primitives (DAOs, Cells, Roles & Tasks) to create a governance and operational system that functions as intended rather than creating elegant structures that fail in practice.
 
 #### 4. Feedback and Approval
 
@@ -230,7 +230,7 @@ The final component of the design phase involves creating a clear roadmap for im
 
 #### Group-Phase Considerations
 
-Follow the [group-phase](artifacts/guides/dao-primitives-framework/group-phase/group-phase.md) model to ensure implementation steps are appropriate for each phase of the group's evolution:
+Follow the [index](artifacts/guides/dao-primitives-framework/group-phase/index.md) model to ensure implementation steps are appropriate for each phase of the group's evolution:
 
 - **Conversation Phase**: Informal gathering of ideas and intentions
 - **Formation Phase**: Basic [agreements](tags/agreements.md) and initial structures
@@ -277,14 +277,14 @@ The implementation plan itself requires approval through appropriate [governance
 
 ### A. Framework Documentation
 
-- [Complete Framework Overview](artifacts/guides/dao-primitives-framework/dao-primitives-framework.md)
-- [Implementation Resources](notes/dao-primitives/implementation/implementation.md)
-- [Case Studies](notes/dao-primitives/implementation/case-studies/case-studies.md) for real-world examples
+- [Complete Framework Overview](artifacts/guides/dao-primitives-framework/index.md)
+- [Implementation Resources](notes/dao-primitives/implementation/index.md)
+- [Case Studies](notes/dao-primitives/implementation/case-studies/index.md) for real-world examples
 
 ### B. Specific Implementation Support
 
-- Detailed implementation [notes/dao-primitives/implementation/guides/guides](notes/dao-primitives/implementation/guides/guides.md) for each governance type
-- Pattern Library for specific solutions -  [patterns](artifacts/patterns/patterns.md)
+- Detailed implementation [notes/dao-primitives/implementation/guides/index](notes/dao-primitives/implementation/guides/index.md) for each governance type
+- Pattern Library for specific solutions -  [index](artifacts/patterns/index.md)
 - Templates and tools within the implementation guides
 - - Facilitation support through SuperBenefit network
 

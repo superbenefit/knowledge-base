@@ -31,7 +31,7 @@ The documents in `/artifacts/` represent mature, carefully reviewed knowledge. A
 
 *   **Link Verification:** Regularly check for broken links within artifacts. Use a link checker tool to identify and fix any broken links to ensure that users can access all referenced resources.
 
-*   **Metadata Consistency:** Ensure that metadata associated with artifacts (e.g., [tags](tags/tags.md), categories, authors) is consistent and accurate. This helps users find and understand the content more easily.
+*   **Metadata Consistency:** Ensure that metadata associated with artifacts (e.g., [index](tags/index.md), categories, authors) is consistent and accurate. This helps users find and understand the content more easily.
 
 *   **Additional Instructions:** When in doubt, seek guidance from experienced contributors or SuperBenefit admins.
 
