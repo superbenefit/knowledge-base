@@ -8,14 +8,16 @@ filesPaths:
   - tags
 bookmarksGroups: 
 excludes: 
-extends: note
+extends: reference
 savedViews: []
 favoriteView: 
 fieldsOrder: []
-version: "2.5"
+version: "2.7"
 ---
-The Tag type defines entries in the SuperBenefit lexicon - our shared vocabulary of concepts, terms, and ideas. Extending the Note type, Tag provides structured documentation of terminology used throughout the knowledge base, creating consistency and clarity in communication.
+The Tag type defines entries in the SuperBenefit lexicon - the shared vocabulary that enables precise communication about complex organizational concepts. Tags establish common definitions, document etymology, and map relationships between terms.
 
-Each Tag includes a concise definition, contextual explanations, related concepts, and usage examples. The 'aliases' field captures alternative names or hashtag formats, ensuring terms can be found regardless of how they're referenced.
+Located in `/tags/` and automatically associated through tag mapping, this type processes lexicon entries that extend the Reference type. This emphasizes their role in organizing and relating concepts rather than containing substantive content themselves.
 
-Mapped with related tags and stored in the `/tags/` directory, this type forms the foundation of our shared language, enabling precise communication about complex concepts while revealing relationships between ideas that might otherwise remain hidden.
+Each tag entry includes definitions, context, usage examples, aliases, and related terms. This creates a controlled vocabulary that reduces ambiguity and reveals conceptual relationships. The lexicon forms the linguistic foundation for all other content types, ensuring consistent terminology across the knowledge base.
+
+**Template**: [tag.md](/tools/templates/tag.md)

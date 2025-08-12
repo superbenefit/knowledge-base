@@ -13,8 +13,10 @@ favoriteView:
 fieldsOrder: []
 version: "2.1"
 ---
-The Article type represents formal publications, essays, or in-depth analyses on topics related to DAOs, Web3 governance, and decentralized organizations. Extending the Artifact type, Article provides structure for longer-form content that presents coherent arguments, research findings, or thought leadership.
+The Article type represents formal publications, essays, and in-depth analyses on topics relevant to decentralized organizations. Articles provide space for thought leadership, theoretical exploration, and comprehensive treatment of complex topics.
 
-Articles may be originally published on external platforms (like Mirror.xyz) and referenced with a URL, or they may be native publications within the knowledge base. The 'author' field can include multiple contributors, acknowledging collaborative authorship.
+Extending Artifact, Articles accommodate longer-form content that develops arguments, presents research, or offers perspectives. Content may originate on external platforms like Mirror.xyz or be native to the knowledge base. The `/artifacts/articles/` directory houses these more formal writings.
 
-Tagged with 'articles' and stored in the `/artifacts/articles/` directory, this type serves as a vehicle for distributing more polished, comprehensive perspectives that contribute to the broader discourse on decentralization, governance, and social impact.
+Articles differ from other artifact types by emphasizing narrative and argumentation over structured frameworks (patterns) or procedures (playbooks). They contribute to discourse, challenge assumptions, and explore implications, serving as a bridge between the SuperBenefit knowledge base and broader Web3 conversations.
+
+**Template**: [article.md](/tools/templates/article.md)

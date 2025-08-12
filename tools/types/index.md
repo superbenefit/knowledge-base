@@ -6,14 +6,16 @@ tagNames:
 filesPaths: 
 bookmarksGroups: 
 excludes: 
-extends: 
+extends: reference
 savedViews: []
 favoriteView: 
 fieldsOrder: []
-version: "2.1"
+version: "2.3"
 ---
-The Index type provides structure and navigation for directories within the knowledge base. It serves as the foundation for folder index pages that orient users to the contents and organization of specific sections of the knowledge base.
+The Index type provides directory-level navigation and orientation pages throughout the knowledge base. Index files serve as landing pages that help users understand the structure, purpose, and contents of each section.
 
-Index files act as landing pages for directories, offering context, explanation, and navigation guidance. They help users understand the purpose of each directory, how its contents are organized, and how to find specific information within it.
+Extending Reference rather than Note, Index pages reflect their role in organizing rather than containing information. They typically include section overviews, content maps, navigation guides, and curated links to key resources within their directory.
 
-Unlike most other types, Index does not extend from the base Note type, as it serves a unique structural role. With its folder-search icon, this type is visually distinct, helping contributors identify directory-level documentation throughout the knowledge base.
+Every major directory should have an index.md file that explains its purpose, describes its contents, and guides users to relevant resources. These pages are essential for maintaining navigability as the knowledge base grows, providing consistent entry points for exploration.
+
+**Template**: [index.md](/tools/templates/index.md)

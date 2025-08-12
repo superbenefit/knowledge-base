@@ -7,14 +7,16 @@ filesPaths:
   - library
 bookmarksGroups: 
 excludes: 
-extends: note
+extends: reference
 savedViews: []
 favoriteView: 
 fieldsOrder: []
-version: "2.5"
+version: "2.7"
 ---
-The Link type documents external resources and references that inform the SuperBenefit knowledge base. Extending the Note type, Link provides structured metadata for curating and contextualizing external content such as articles, papers, videos, and other resources.
+The Link type documents and contextualizes external resources relevant to the SuperBenefit knowledge base. Links go beyond simple bookmarking by adding analysis, commentary, and connections to internal knowledge.
 
-Links serve as bridges between the internal knowledge base and the broader ecosystem of ideas, research, and projects. Each link includes not just the reference itself, but also commentary, analysis, and connections to related concepts within the knowledge base.
+Located in `/library/` to create a curated resource collection, Links extend the Reference type. Each link entry includes not just the URL and basic metadata, but also summaries, relevance explanations, and relationships to patterns, studies, or other content types.
 
-Primarily used in the `/library/` directory, this type enables the SuperBenefit community to maintain a curated collection of valuable external resources while adding contextual information that enhances their relevance to our specific focus areas.
+This type enables the curation of a living library that bridges internal knowledge development with the broader ecosystem of ideas. Links maintain awareness of external developments, credit sources of inspiration, and provide pathways for deeper exploration beyond the knowledge base boundaries.
+
+**Template**: [link.md](/tools/templates/link.md), [library.md](/tools/templates/library.md)

@@ -15,8 +15,10 @@ fieldsOrder: []
 version: "2.29"
 fields: []
 ---
-The Pattern type documents reusable solutions to common challenges in decentralized organization (DAO) design and governance. Extending the Artifact type, Pattern represents well-established approaches that can be applied across different contexts and implementations.
+The Pattern type documents reusable solutions to recurring challenges in decentralized organization design and governance. Patterns capture proven approaches that can be adapted across different contexts, building a library of organizational building blocks for the DAO ecosystem.
 
-Patterns capture both the theoretical framework and practical implementation details of organizational structures, processes, or mechanisms. Each pattern includes problem/solution context, mechanism explanation, implementation guidance, and relationships to other patterns and protocols.
+As validated conceptual frameworks within the artifact family, Patterns balance theoretical understanding with practical applicability. Each pattern includes problem context, solution mechanisms, implementation considerations, and relationships to other patterns. Content tagged with "patterns" automatically associates with this type.
 
-Stored in the `/artifacts/patterns/` directory and tagged with 'patterns', this type enables the SuperBenefit community to build a shared library of proven approaches, creating a common language and framework for discussing organizational design.
+Located in `/artifacts/patterns/`, these documents form the core of SuperBenefit's contribution to DAO knowledge - identifying and codifying successful organizational designs. Patterns differ from Playbooks by focusing on conceptual solutions rather than step-by-step implementation, providing the "why" and "what" that complements the "how."
+
+**Template**: [pattern.md](/tools/templates/pattern.md)
