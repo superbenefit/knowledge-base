@@ -12,6 +12,7 @@ tags:
   - networks
 publish: "true"
 type: link
+banner: "![[attachments/CZkS0TIqq19IH8wIkdxbT.png]]"
 ---
 
 _Rowan is a contributor to [SuperBenefitDAO](https://www.superbenefit.org/) and works on scalable models of coordination and fractal [governance](tags/governance.md). Much thanks goes to Heenal Rajani, Michael Lewkowitz and Michelle Baldwin who contributed to this article. This comes out of work that SuperBenefit is doing to explore the evolving nature of governance in web3._

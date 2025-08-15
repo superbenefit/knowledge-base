@@ -8,6 +8,8 @@ tags:
   - daos
 publish: "true"
 type: link
+banner: "![[attachments/zenGd_02dGdVDJ581M_9A.jpeg]]"
+banner_y: 0.468
 ---
 
 **[SuperBenefit DAO](https://www.superbenefit.org/) is convening a [series of conversations](https://superbenefit.mirror.xyz/Bcsl19CZ67amLJY_bee5dUy0DEboZykuMQqw58wGlGI) to explore how the nature of tags/governance.md is evolving and its role in accelerating transitions to better futures. We're specifically interested in how tags/blockchain.md technologies are enabling new thinking and ways of doing, and their potential to combine with existing practices, perspectives, and wisdom.**
