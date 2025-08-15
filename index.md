@@ -1,6 +1,6 @@
 ---
 title: SuperBenefit Knowledge Garden
-description: 
+description: A digital garden for knowledge curated by the SuperBenefit community
 publish: true
 banner: "![[attachments/playbook-temp-image.webp]]"
 banner_x: 0.48115
