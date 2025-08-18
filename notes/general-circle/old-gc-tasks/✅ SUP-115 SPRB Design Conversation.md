@@ -1,4 +1,5 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 (if necessary)

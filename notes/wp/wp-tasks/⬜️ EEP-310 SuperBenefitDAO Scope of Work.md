@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 ## Windfall Residential Energy Efficiency project
 ## Project Plan

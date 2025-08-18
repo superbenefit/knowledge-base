@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 # **Summary**
 As Revolution 1 commences, we are proposing the development of a Contributor Guide to support the mission and work of SuperBenefit and to enable the mission to move faster. This guide will provide clarity to the SuperBenefit about how they can contribute to the mission and harness their gifts and skills. Broadening the range of contributors to SuperBenefit will enable SuperBenefit to move more swiftly towards achieving its mission, allow for the distribution of $SPRB to more individuals in an open and transparent fashion, and make SuperBenefit more resilient and diverse.

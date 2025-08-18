@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 
 - Discover what onboarding resources already exist that we can adapt and learn from - 2

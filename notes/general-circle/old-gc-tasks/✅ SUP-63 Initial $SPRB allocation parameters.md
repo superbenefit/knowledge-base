@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
  #[SPRB](SPRB) will be an ERC20 governance token for the SuperBenefit DAO. It should enable the DAO to recognize contributions by allocating $SPRB and will be used in voting on #[governance proposals](/notes/archive/clarity/Tags/governance%20proposals.md). It should have an ample treasury that allows the DAO to continue rewarding new contributors, form partnerships, and whatever other arrangements might be necessary in the future.
 The initial allocation of 10,000,000 (fixed supply) is proposed as follows (note, the following allocations can be changed at any time prior to distribution of tokens from that allocation. These are just notional): 

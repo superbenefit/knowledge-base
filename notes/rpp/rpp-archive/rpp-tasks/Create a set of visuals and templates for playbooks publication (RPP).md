@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 
 We can use this task as the place to develop the plan with Spencer and put a budget on it

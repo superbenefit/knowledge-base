@@ -1,5 +1,6 @@
 ---
-tags: playbooks
+tags:
+  - playbooks
 ---
 Instructions for understanding and creating playbook components for the Reimagining Power project  
 

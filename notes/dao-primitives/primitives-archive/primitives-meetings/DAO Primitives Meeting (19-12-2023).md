@@ -1,5 +1,6 @@
 ---
-tags: meetings
+tags:
+  - meetings
 date: 19-12-2023
 ---
 During the SuperBenefit DAO Primitives cell's weekly meeting on December 19, 2023, the team discussed updates and action items. AIFS onboarding quests and a state update were published. Key discussion points included bridging funds to OP, with Naan queuing a bungee transaction and notifying signers. Rowan prepared for stakeholder sessions, deciding on titles for Luma events, including "WREEP Stakeholder Discussion" and "WREEP Community Call," and planned follow-up email content. The team also focused on firming up community onboarding plans. Action items included Naan queuing the bungee transaction and upgrading the Wonderverse space, rathermercurial.eth creating follow-up email content and Luma messaging for community sessions, and yeoro.eth sharing event outlines with other stewards to prepare for the first two sessions.

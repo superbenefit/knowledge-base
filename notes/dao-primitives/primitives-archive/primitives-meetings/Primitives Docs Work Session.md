@@ -1,5 +1,6 @@
 ---
-tags: meetings
+tags:
+  - meetings
 ---
 Discussion about organizing the documentation for the DAO primitives framework, patterns, etc
 

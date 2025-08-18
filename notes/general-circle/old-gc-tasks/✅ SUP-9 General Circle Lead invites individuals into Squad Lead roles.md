@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 The #[general circle](/notes/archive/clarity/Tags/general%20circle.md) Lead will draw upon advice from whomever they choose and using a process that seems appropriate to them to complete this task.
 The following people will be appointed to fill the #[squad lead](/notes/archive/clarity/Tags/squad%20lead.md) for the associated #[squads](/notes/archive/clarity/Tags/squads.md).

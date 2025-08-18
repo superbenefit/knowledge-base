@@ -1,5 +1,6 @@
 ---
-tags: playbooks
+tags:
+  - playbooks
 ---
 
 MoreReese has drafted a Playbook discovery report based on his conversations with the RP core team. He'd like the core team to submit their feedback on the report, and provide some additional details described below.

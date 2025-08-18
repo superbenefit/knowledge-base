@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 # Background
 SuperBenefit has been in development since summer 2021 with significant contributions made since by several different members of the community. With the upcoming launch of #[$sprb](/notes/archive/clarity/Tags/$sprb.md) we want to fairly recognize the contributions of those members by distributing an allocation to them.

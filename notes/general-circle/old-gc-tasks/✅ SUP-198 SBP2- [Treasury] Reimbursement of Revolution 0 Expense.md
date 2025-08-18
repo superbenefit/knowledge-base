@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 The following proposal will be posted on Snapshot for voting.
 Snapshot: [https://snapshot.org/#/superbenefit.eth/proposal/QmY2tFVbVc7qQMazSHk38aBRXy9ZyPiH32k5MgiFoMHWSu](https://snapshot.org/#/superbenefit.eth/proposal/QmY2tFVbVc7qQMazSHk38aBRXy9ZyPiH32k5MgiFoMHWSu) 

@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 **BLOCKED: Waiting on resolution of structure by **#[governance squad](/notes/archive/clarity/Tags/governance%20squad.md) 
 # Proposed flow and structure.

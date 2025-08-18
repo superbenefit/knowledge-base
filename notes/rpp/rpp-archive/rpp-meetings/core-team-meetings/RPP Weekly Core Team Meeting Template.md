@@ -1,5 +1,6 @@
 ---
-tags: meetings
+tags:
+  - meetings
 ---
 _Weekly meeting of the Reimagining Power Core Team at SuperBenefit._
 

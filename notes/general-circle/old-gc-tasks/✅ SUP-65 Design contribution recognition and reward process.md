@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 Process Objectives
 - Ensure core contributors are able to surface their contributions

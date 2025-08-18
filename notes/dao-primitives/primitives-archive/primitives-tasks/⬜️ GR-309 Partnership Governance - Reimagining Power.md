@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 ------------------------------------------------------------------------------------------------------------------
 ## Partnership Governance Model for the Reimagining Power Project

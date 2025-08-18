@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 - [ ] in Discord 
 - [ ] an email to our list

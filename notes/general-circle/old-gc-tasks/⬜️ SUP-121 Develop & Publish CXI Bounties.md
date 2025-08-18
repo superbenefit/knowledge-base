@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 ## Process
 - [x] Brainstorm ideas for bounties below 

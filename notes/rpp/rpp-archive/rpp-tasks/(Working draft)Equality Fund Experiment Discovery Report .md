@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 _Consolidated discovery notes and outline for Equality Fund's experiment within the Reimagining Power project at SuperBenefit._
 

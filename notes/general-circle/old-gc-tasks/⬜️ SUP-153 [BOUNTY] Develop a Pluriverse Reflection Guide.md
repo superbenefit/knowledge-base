@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 ## Background
 The Pluriverse artifact at pluriverse.world - and the movement that is gathering around it - represents an opportunity to shape the values of web3 and of future human society. The pluriverse text could be a great conversation/reflection prompt for a 30-60 minute session in any DAO/discord/group involved in web3. 

@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 ## Attendees
 - Michelle, Daniel, Jai, Heenal

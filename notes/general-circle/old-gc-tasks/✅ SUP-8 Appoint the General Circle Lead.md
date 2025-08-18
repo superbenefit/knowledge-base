@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 To Do:
 - Initiate a public proposal in Discord, seeking consent (no objections)

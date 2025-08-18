@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 # What are guilds?
 - Guilds are groups formed around skills or specific types of contribution that we currently need.

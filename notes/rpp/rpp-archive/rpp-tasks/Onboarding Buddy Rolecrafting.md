@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 
 Crafting the Onboarding Buddy role in the Reimagining Power project at SuperBenefit.  

@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 Some basic tools for the Reimagining Power project have been set up for contributors to use. This tool selection is not set in stone and can be changed if a different toolset is needed.
 ## Discord Channel

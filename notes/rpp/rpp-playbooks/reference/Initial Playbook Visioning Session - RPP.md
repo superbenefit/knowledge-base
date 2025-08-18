@@ -1,5 +1,6 @@
 ---
-tags: playbooks
+tags:
+  - playbooks
 ---
 _Playbook strategy and visioning session for the Reimagining Power project at SuperBenefit._
 

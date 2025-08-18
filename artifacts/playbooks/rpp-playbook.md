@@ -4,7 +4,7 @@ description:
 author:
   - Reimagining Power
 banner: "![[attachments/rpp-playbook-cover-temp.webp]]"
-banner_y: 0.2
+banner_y: 0.224
 publish: true
 type: playbook
 relatedArtifacts:

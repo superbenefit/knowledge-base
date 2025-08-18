@@ -1,5 +1,6 @@
 ---
-tags: meetings
+tags:
+  - meetings
 date: 25-02-2025
 ---
 _Weekly meeting of the Reimagining Power Core Team at SuperBenefit._

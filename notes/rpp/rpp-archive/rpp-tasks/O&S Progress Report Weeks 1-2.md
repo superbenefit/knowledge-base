@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 The progress of the OS Stewards so far can be summarized as follows:
 Overall Focus:

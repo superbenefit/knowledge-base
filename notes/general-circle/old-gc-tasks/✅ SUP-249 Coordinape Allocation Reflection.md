@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 Here's the allocation result from the coordinape process. 
 Personal reflection:

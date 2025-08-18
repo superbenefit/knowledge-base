@@ -1,5 +1,6 @@
 ---
-tags: playbooks
+tags:
+  - playbooks
 ---
 # DAO Cell and Community Governance Playbook - Context Capture
 

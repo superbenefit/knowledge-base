@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 _Crafting the Community Weaver role in the Community Experience workstream at SuperBenefit._  
 

@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 
 The Reimagining Power Project (RPP), a project of SuperBenefit DAO, explores how web3 technologies can decentralize power, mobilize capital, and promote equitable systems. One key initiative of the RPP is the Gatherings program - interactive, participatory events fostering collaboration, strategic exploration, and community engagement within the web3 and philanthropy ecosystems.

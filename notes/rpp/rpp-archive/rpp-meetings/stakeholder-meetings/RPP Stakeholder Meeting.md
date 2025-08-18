@@ -1,4 +1,5 @@
 ---
-tags: meetings
+tags:
+  - meetings
 ---
 Error generating markdown for this page

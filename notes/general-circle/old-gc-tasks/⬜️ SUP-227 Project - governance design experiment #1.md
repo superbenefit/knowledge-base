@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 Use the Governance research project (currently at proposal stage) to experiment with some new governance design ideas. 
 - This project is based around some ideas @Lewwwk and @Rowan  have being discussing around the inversion of centralised authority and fractal governance structure for DAOs. We will use #[222 Proposal for Governance Research Project](222%20Proposal%20for%20Governance%20Research%20Project) as an opportunity to test out some of these ideas 

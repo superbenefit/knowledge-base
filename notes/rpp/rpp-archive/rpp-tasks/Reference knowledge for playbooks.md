@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 > This page is being re-purposed. The info here is probably incomplete and out of date.
 

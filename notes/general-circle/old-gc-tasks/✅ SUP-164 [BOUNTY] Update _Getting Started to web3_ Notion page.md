@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 ## Background
 - The current "Getting started with web3" page on SuperBenefit's Community Resources Notion site feels incomplete and needs to be reworked

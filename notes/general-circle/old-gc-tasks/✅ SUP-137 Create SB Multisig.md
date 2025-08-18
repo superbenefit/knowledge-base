@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 To be set up, using gnosis safe: [https://gnosis-safe.io/](https://gnosis-safe.io/) 
 Proposed Signatories:

@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 Agenda:
 - Review overall Squad resourcing and readiness

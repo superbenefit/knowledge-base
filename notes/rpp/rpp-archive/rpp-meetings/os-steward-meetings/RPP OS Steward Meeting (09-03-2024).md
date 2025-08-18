@@ -1,5 +1,6 @@
 ---
-tags: meetings
+tags:
+  - meetings
 date: 09-03-2024
 ---
 _5th weekly meeting of the Operations & Strategy Stewards for the Reimagining Power projects at SuperBenefit._

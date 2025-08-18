@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 [https://twitter.com/chaserchapman](https://twitter.com/chaserchapman) 
 [https://twitter.com/gabagooldoteth](https://twitter.com/gabagooldoteth) 

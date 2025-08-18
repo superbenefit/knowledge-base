@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 ## Community Experience & Information Squads Tactical Meeting #2
 - [Tactical Meetings process here](https://app.clarity.so/superbenefit/pages/a0c2bc6a-956c-420d-a2b3-39557346a877) or at the bottom of this page: 

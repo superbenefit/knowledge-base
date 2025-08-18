@@ -1,5 +1,6 @@
 ---
-tags: experiments
+tags:
+  - experiments
 ---
 _Discovery notes and outline for the Institute for Community Sustainability's experiment within the Reimagining Power project at SuperBenefit._
 

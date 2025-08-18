@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 #[P-236 Krause House Collaboration](P-236%20Krause%20House%20Collaboration)
 Context

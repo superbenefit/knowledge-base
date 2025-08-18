@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 - [ ] Completed/lapsed tasks 
 - [ ] Uncategorized tasks

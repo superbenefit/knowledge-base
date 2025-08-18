@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 _Coordination of Gatherings within the Reimagining Power project at SuperBenefit._
 

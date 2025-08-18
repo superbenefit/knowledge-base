@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 ## Background
 The Transformation Storytelling Fellow (TSF) will participate in SuperBenefit and other web3 DAOs (decentralized autonomous organizations) and help to reflect, capture the learning and document the journey of SuperBenefit through storytelling tools relevant to them. Community Foundations of Canada will be providing the support for this role and the individuals will be available between 10-20 hours per week towards the work of SuperBenefit.

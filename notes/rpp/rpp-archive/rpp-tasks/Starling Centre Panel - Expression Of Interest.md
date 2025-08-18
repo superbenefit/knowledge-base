@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 
 # Reimagining Power: Building Open-Source Infrastructures for Decentralized Futures

@@ -1,3 +1,4 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
