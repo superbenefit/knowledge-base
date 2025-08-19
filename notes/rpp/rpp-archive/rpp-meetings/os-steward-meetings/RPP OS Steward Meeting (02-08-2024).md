@@ -1,5 +1,6 @@
 ---
-tags: meetings
+tags:
+  - meetings
 date: 02-08-2024
 ---
 _Weekly meeting of the Operations & Strategy Stewards within the Reimagining Power Core Team at SuperBenefit._

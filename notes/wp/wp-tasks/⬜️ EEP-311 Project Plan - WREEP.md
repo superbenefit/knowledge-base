@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 --------------------------------------------------------------------
 # **SuperBenefit Project Plan for WREEP**

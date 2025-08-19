@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 > This template is a placeholder. You're on your own, fren.
 

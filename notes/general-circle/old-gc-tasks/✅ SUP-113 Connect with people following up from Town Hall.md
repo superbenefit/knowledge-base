@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 MB to connect with ML about Gord and Treasury
 MB to connect with Mk about Max D and Governance

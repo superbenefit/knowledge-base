@@ -1,10 +1,11 @@
 ---
-title: 
-description: 
-author: 
-tags: playbooks
-harvester: 
-curator: 
+title:
+description:
+author:
+tags:
+  - playbooks
+harvester:
+curator:
 publish: "false"
 type: note
 ---

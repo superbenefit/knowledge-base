@@ -1,5 +1,6 @@
 ---
-tags: meetings
+tags:
+  - meetings
 date: 04-04-2024
 ---
 

@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 ## Background
 A detailed description of an initial model for SuperBenefit DAO Governance has been shared on Discord. Please review that proposal at this link:  [https://app.clarity.so/superbenefit/notes/028deeaf-1370-4b8f-9cd4-3a6e26584dfe](https://app.clarity.so/superbenefit/notes/028deeaf-1370-4b8f-9cd4-3a6e26584dfe) 

@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 clarify the spaces and purposes of them
 informed by mapping activity

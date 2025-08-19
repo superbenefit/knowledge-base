@@ -1,5 +1,6 @@
 ---
-tags: meetings
+tags:
+  - meetings
 date: 04-04-2022
 ---
 #[index](notes/general-circle/old-gc-meetings/index.md) 

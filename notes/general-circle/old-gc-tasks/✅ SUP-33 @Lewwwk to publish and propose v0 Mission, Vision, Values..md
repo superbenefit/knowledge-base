@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 Discord Proposal:
 **Do you support Proposal 2: Adopt the SuperBenefit Ethos?** (See [Proposal 2](https://app.clarity.so/superbenefit1/notes/0f209316-b81e-4a1a-bd28-3adcfe144151) for details).

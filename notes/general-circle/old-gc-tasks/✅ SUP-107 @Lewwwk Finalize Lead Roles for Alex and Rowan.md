@@ -1,4 +1,5 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 That reminds me @AlexH @Rowan  we need to finalize your lead roles / #[squads](/notes/archive/clarity/Tags/squads.md) 

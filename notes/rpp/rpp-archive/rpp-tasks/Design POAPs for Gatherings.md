@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 
 [](https://s3.amazonaws.com/charm.public/user-content/1f636c9f-6a52-4f5d-bbc8-1ab9c751b4f3/d20104e3-f546-4bb4-81f1-de819a7a2c18/f8fd1c63-2d9e-41a1-b704-67d92dd969ac.gif)

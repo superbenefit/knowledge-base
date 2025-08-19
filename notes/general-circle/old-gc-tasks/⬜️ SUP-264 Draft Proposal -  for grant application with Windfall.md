@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 # Background
 - SuperBenefitDAO and [Windfall Ecology Centre](https://windfallcentre.ca) have been in discussions to partner on the development of a stakeholder-led dynamic energy-labelling NFT protocol.

@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 ## Background
 A clear purpose, mission and values are important for SuperBenefit to scale as a DAO. If effective, they allow for collective action that is decentralized but consistent in it's aims, direction, and approach.

@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 >**This page is deprecated**. Please see the current version of this document here:
 

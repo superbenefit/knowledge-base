@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 ## Background
 - The Community Experience Squad's function is growing and we need more capacity (contributors) in order to be effective.

@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 - [ ] Welcome Party
 - [ ] Town Hall

@@ -10,9 +10,22 @@ excludes:
 extends: note
 savedViews: []
 favoriteView: 
-fieldsOrder: []
-version: "2.87"
-fields: []
+fieldsOrder:
+  - U2d0e1
+version: "2.88"
+fields:
+  - name: relatedArtifacts
+    type: Multi
+    options:
+      sourceType: ValuesFromDVQuery
+      valuesList: {}
+      valuesFromDVQuery: |-
+        dv.pages()
+                .where(p => ['article', 'pattern', 'study', 'playbook', 'guide', 'protocol'].includes(p.type) 
+                        && p.file.path !== dv.current().file.path)
+                .map(p => `[${p.type}] ${p.file.link}`)
+    path: ""
+    id: U2d0e1
 ---
 The Artifact type represents polished, validated content that has successfully completed the knowledge development cycle. Artifacts embody the collective understanding and consensus of the SuperBenefit community on specific topics, having evolved from exploratory notes through collaborative refinement.
 

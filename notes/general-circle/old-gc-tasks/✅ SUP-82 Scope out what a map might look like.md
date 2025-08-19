@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 **(Notes from Rowan)**
 **==Context==**

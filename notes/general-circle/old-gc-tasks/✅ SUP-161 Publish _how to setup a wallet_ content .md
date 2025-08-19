@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 @heenal added 15 minutes to end of townhall to support setting up a wallet - we will need the content on how to do this. would be a good thing to ask Jai to help with?
 

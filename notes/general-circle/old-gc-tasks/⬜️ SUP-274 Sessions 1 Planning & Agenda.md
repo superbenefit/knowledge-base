@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 ## Session 1 planning
 - What is systems transformation?

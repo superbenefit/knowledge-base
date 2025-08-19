@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 Book scoping call for EF Experiment 
 Prep for EF Experiment

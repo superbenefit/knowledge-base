@@ -1,5 +1,6 @@
 ---
-tags: meetings
+tags:
+  - meetings
 ---
 **Weekly meeting notes & agenda for the SuperBenefit DAO Primitives cell.**
 

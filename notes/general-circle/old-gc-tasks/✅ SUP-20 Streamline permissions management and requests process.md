@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 Already did first refactor through #[21 Refactor discord channels for clarity](21%20Refactor%20discord%20channels%20for%20clarity) 
 Still need to finalize #[47 Refactor Guilds](47%20Refactor%20Guilds) 

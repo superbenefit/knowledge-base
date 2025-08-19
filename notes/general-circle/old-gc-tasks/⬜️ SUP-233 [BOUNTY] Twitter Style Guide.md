@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 **Background**
 SuperBenefit is looking for a contributor to create a Twitter style guide.

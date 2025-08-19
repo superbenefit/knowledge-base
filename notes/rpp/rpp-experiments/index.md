@@ -1,7 +1,8 @@
 ---
 title: RPP Experiments
 description: Notes and other documents related to experiments in the Reimagining Power project
-tags: experiments
+tags:
+  - experiments
 harvester:
 curator:
 publish: false

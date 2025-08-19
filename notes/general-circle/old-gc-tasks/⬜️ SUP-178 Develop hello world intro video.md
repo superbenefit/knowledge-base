@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 Write brief 
 Project Brief: intro to SuperBenefit teaser video

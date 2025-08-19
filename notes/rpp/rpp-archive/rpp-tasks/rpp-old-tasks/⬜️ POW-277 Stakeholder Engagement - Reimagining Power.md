@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 >**This page has been deprecated.  
 **Please visit [Charmverse](https://app.charmverse.io/superbenefit/task-board-reimagining-power-18270894134568505) for current tasks and other documents.

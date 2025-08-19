@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 ## Background
 Currently, only General Circle members hold $SPRB. While we are publishing bounties and developing other mechanisms to reward Rev 1 contributors, it is also desirable to distribute some $SPRB to the SuperBenefit Discord community to thank them for their contributions and to encourage them to participate in governance. A retroactive distribution could be based on each community member's participation in Discord, as codified by their "Level" on the Mee6 leaderboard here: [https://mee6.xyz/leaderboard/874697948838101092](https://mee6.xyz/leaderboard/874697948838101092) 

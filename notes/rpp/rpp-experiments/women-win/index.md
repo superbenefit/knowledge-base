@@ -1,10 +1,11 @@
 ---
 title: Reimagining Power at Women Win
 description: Notes and other documents related to experiments with Women Win in the Reimagining Power project at SuperBenefit
-author: 
-tags: experiments
-harvester: 
-curator: 
+author:
+tags:
+  - experiments
+harvester:
+curator:
 publish: "false"
 type: note
 ---

@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 Based on the discovery report compiled by MoreReese, put together a clear concise description of the purpose and goals for Playbooks in the context of the RPP playbook project. 
 

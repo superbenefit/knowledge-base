@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 **"It'd be great to find some convergent language around AI+Web3 that's easy to share and sensemake around! This stuff sure is hard to communicate otherwise"**
 

@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 _[Just saw the opportunity below. We’ve discussed this summit before.](https://docs.google.com/forms/d/e/1FAIpQLSf652WmOQeSFnpgCmA5gadMrkdCKQESiodYTCnlRc3v4h5VXA/viewform)_
 

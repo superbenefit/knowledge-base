@@ -1,8 +1,11 @@
 ---
 title: Reimagining Power - How Web3 Can Transform Impact
-tags: impact
+description: Exploring how emerging web3 technologies can be leveraged to redistribute power, mobilize capital, and transform systems toward more equitable outcomes.
+tags:
+  - impact
 description: ""
 publish: true
+banner: "![[attachments/rpp-article-cover.webp]]"
 ---
 
 In the face of multiple crises, systemic inequities, and entrenched power imbalances, philanthropy stands at a pivotal moment. Achieving transformational change requires bold shifts in how we understand and exercise tags/power.md, mobilize tags/resources.md, and distribute value. It is no longer enough to acknowledge the power and privilege inherent in philanthropy; we must fundamentally alter the structures and tags/systems.md that perpetuate these dynamics.

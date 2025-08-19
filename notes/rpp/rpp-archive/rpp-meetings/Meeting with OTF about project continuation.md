@@ -1,5 +1,5 @@
 ---
-See briefing note: 
+See briefing note:
 Highlights:
   - Walkthrough of briefing materials, including onboarding systems, DAO primitives framework, governance documents, and the knowledge garden.
   - Discussion of deliverables and the potential opportunities tied to BioFi. Positive reception towards the $100K funding request but with the condition of securing partial co-funding (\~$25K suggested).
@@ -18,7 +18,8 @@ Highlights:
           - Article link
           - Biofi link
           - Knowledge garden link
-tags: meetings
+tags:
+  - meetings
 ---
 
 # Decision Log

@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 
 _Crafting the Gatherings Steward role in the Reimagining Power project at SuperBenefit._  

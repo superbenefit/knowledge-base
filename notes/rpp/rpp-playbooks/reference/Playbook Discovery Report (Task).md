@@ -1,5 +1,6 @@
 ---
-tags: playbooks
+tags:
+  - playbooks
 ---
 > .
 

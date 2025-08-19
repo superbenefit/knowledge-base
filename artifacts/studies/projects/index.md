@@ -1,6 +1,6 @@
 ---
 title: Project Case Studies
 description: 
-publish: 
+publish: true
 type: index
 ---

@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 # Background
 SuperBenefit requires an ERC20 token to enable on-chain governance, recognize contributions, and facilitate partnerships.

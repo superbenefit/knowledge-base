@@ -1,7 +1,14 @@
-# DAO Cell and Community Governance Playbook
-
-## Summary
-
+---
+title: DAO Cell and Community Governance Playbook
+description: 
+author:
+  - Reimagining Power
+banner: "![[attachments/rpp-playbook-cover-temp.webp]]"
+banner_y: 0.224
+publish: true
+type: playbook
+relatedArtifacts:
+---
 This playbook emerges from the Reimagining Power Project's 18-month journey exploring how web3 technologies might redistribute rather than replicate existing power structures. What began as technology exploration evolved into fundamental questions about participation, ownership, and collective decision-making. The playbook documents how three organizations evolved from centralized control to autonomous cells coordinating within shared purpose, achieving measurable improvements in participation, innovation, and impact. Based on 18 months of real-world experimentation, it provides tested patterns for enabling meaningful stakeholder participation without sacrificing operational effectiveness.
 
 This guide serves nonprofit leaders ready to distribute power rather than concentrate it, organizations facing governance bottlenecks that limit growth and innovation, and teams seeking authentic stakeholder participation beyond advisory committees. Through concrete examples from sports coordination, sustainability initiatives, and international grantmaking, it demonstrates how decentralized governance patterns work in practice.

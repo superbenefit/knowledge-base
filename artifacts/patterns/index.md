@@ -1,13 +1,8 @@
 ---
 title: Pattern Library
-description: A comprehensive index of reusable patterns for decentralized organization design and governance
-url: 
-tags:
-  - patterns
-  - index
+description: A comprehensive index of reusable patterns for decentralized organizing and governance
 publish: true
 type: index
-protocols: 
 ---
 _A comprehensive guide to organizational patterns for decentralized coordination and collective benefit_
 

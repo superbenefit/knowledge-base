@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 ## Background
 - SuperBenefit has an opportunity to engage the web3 community and those interested in our mission through Twitter, which is the primary social media platform utilized in the web3 community. There is a need for high-quality ongoing content and interaction in order to establish SuperBenefit's presence on Twitter and build credibility.

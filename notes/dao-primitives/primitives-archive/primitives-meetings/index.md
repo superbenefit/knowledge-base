@@ -1,3 +1,4 @@
 ---
-tags: meetings
+tags:
+  - meetings
 ---

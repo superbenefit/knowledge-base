@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 > Possibly do a higher level version of this for creating operational governance and then have this one be a specific implementation of operational governance using the Cell primitive to do it. 
 > 

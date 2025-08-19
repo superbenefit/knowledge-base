@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 See mapping of philanthropy sector critiques below. The next step is to map this to what web3 can uniquely enable/what we can experiment with in RPP.
 

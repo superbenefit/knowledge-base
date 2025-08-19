@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 _Drafting documentation for using DAO primitives in the Reimagining Power project at SuperBenefit._
 

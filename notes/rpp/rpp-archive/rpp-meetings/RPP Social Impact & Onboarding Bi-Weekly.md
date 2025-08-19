@@ -1,5 +1,6 @@
 ---
-tags: meetings
+tags:
+  - meetings
 ---
 
 **MEETING NOTES:**

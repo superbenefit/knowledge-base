@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 # SuperBenefit DAO Governance Concept v1
 SuperBenefit needs an initial governance structure to support its work, creating a framework for future evolution as the DAO evolves. The min spec of governance is whatever is fit for purpose to get to the NFT drop without damaging future contributors and the long-run success of the initiative towards its Purpose.

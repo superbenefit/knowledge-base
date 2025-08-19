@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 ## Background
 “Without inner change there can be no outer change. Without collective change, no change matters.”

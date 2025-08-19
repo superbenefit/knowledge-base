@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 >This document is for information related to the initial planning of the Reimagining Power project.
 ## Purpose Statement

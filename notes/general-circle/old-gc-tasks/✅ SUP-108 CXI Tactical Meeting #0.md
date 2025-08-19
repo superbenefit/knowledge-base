@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 Town Hall Debrief
 - people showed up, attendance was 25, met our goal

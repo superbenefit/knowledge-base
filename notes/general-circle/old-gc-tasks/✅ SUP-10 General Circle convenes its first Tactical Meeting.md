@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 ✅ SUP-56 Format for Tactical Meetings drafted and shared
 ✅ SUP-57 First Tactical Meeting scheduled

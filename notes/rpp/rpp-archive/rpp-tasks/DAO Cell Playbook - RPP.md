@@ -1,5 +1,6 @@
 ---
-tags: tasks
+tags:
+  - tasks
 ---
 > SolNote - this task in under construction. It needs to be fleshed out with details by those working on the DAO Cell Playbook
 
