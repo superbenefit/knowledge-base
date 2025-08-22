@@ -1,29 +1,12 @@
 {
-  "presetFields": [
-    {
-      "type": "Date",
-      "tagName": "date",
-      "icon": "calendar-with-checkmark",
-      "tooltip": "Accepts a date",
-      "colorClass": "date",
-      "options": {
-        "dateShiftInterval": "1 day",
-        "dateFormat": "DD-MM-YYYY",
-        "defaultInsertAsLink": false,
-        "linkPath": ""
-      },
-      "name": "date",
-      "id": "8xGJSk",
-      "path": ""
-    }
-  ],
+  "presetFields": [],
   "fileClassQueries": [],
   "displayFieldsInContextMenu": true,
   "globallyIgnoredFields": [],
   "classFilesPath": "tools/types/",
   "isAutosuggestEnabled": true,
   "fileClassAlias": "type",
-  "settingsVersion": "5.18",
+  "settingsVersion": "5.0",
   "globalFileClass": "note",
   "firstDayOfWeek": 1,
   "enableLinks": true,
@@ -34,23 +17,19 @@
   "enableFileExplorer": true,
   "enableSearch": true,
   "enableProperties": true,
-  "tableViewMaxRecords": 40,
+  "tableViewMaxRecords": 20,
   "frontmatterListDisplay": "asList",
   "fileClassExcludedFolders": [],
   "showIndexingStatusInStatusBar": true,
-  "fileIndexingExcludedFolders": [
-    "tools/"
-  ],
+  "fileIndexingExcludedFolders": [],
   "fileIndexingExcludedExtensions": [
     ".excalidraw.md"
   ],
-  "fileIndexingExcludedRegex": [
-    "readme*"
-  ],
+  "fileIndexingExcludedRegex": [],
   "frontmatterOnly": true,
   "showFileClassSelectInModal": true,
   "chooseFileClassAtFileCreation": false,
-  "autoInsertFieldsAtFileClassInsertion": true,
-  "fileClassIcon": "notepad-text",
+  "autoInsertFieldsAtFileClassInsertion": false,
+  "fileClassIcon": "package",
   "isAutoCalculationEnabled": true
 }

@@ -6,6 +6,9 @@
     "author": "multitext",
     "harvester": "multitext",
     "curator": "multitext",
-    "date": "date"
+    "date": "date",
+    "relatedArtifacts": "multitext",
+    "test2": "multitext",
+    "test4": "multitext"
   }
 }

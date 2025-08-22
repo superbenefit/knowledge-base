@@ -3,15 +3,14 @@
   "dataview",
   "folder-notes",
   "templater-obsidian",
-  "auto-template-trigger",
   "github-sync",
   "obsidian-kanban",
   "recent-files-obsidian",
   "multi-properties",
   "obsidian42-brat",
   "obsidian-local-rest-api",
-  "metadata-menu",
   "mcp-tools",
-  "links",
-  "obsidian-banners"
+  "obsidian-banners",
+  "metadata-menu",
+  "smart-connections"
 ]
