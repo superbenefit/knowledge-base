@@ -12,21 +12,6 @@
   "excludeFolders": [
     {
       "type": "folder",
-      "id": "804ac594-56bb-4e84-a941-10419bf29044",
-      "path": "tools/types",
-      "subFolders": false,
-      "disableSync": false,
-      "disableAutoCreate": false,
-      "disableFolderNote": false,
-      "enableCollapsing": false,
-      "position": 0,
-      "excludeFromFolderOverview": false,
-      "string": "",
-      "hideInSettings": true,
-      "showFolderNote": true
-    },
-    {
-      "type": "folder",
       "id": "0cc28798-e72e-4183-bb46-b9e6fe61202b",
       "path": "tools",
       "subFolders": false,
