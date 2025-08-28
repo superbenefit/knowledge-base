@@ -7,9 +7,9 @@
   "newFileFolderPath": "drafts",
   "newLinkFormat": "absolute",
   "pdfExportSettings": {
-    "pageSize": "Legal",
+    "pageSize": "Letter",
     "landscape": false,
-    "margin": "2",
+    "margin": "0",
     "downscalePercent": 100
   },
   "livePreview": false,
