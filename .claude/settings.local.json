@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:obsidian-scripts.mihaiconstantin.com)",
+      "WebFetch(domain:docs.obsidian.md)",
+      "Bash(node:*)",
+      "Bash(mkdir:*)",
+      "Bash(cp:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
