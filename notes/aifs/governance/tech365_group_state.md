@@ -50,7 +50,7 @@
 - Collaborative rather than hierarchical structure
 
 **Formal structure**
-- Two-tier governance: Community Governance (monthly oversight meetings) and Operational Governance (frequent execution meetings)
+- Dual-role governance: Governance (monthly oversight meetings) and Operations (frequent execution meetings)
 - All partners represented equally in community governance
 - Operational group selected by and accountable to community governance
 - Consensus-based decision making
@@ -64,7 +64,7 @@
 
 **Decision-making**
 - Consensus-based among all partners
-- Community governance provides oversight and strategic decisions
+- Governance workstream provides oversight and strategic decisions
 - Operational group handles day-to-day implementation decisions
 - Regular check-ins and validation processes
 
