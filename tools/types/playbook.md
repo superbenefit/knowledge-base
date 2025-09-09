@@ -21,4 +21,4 @@ Extending Artifact, Playbooks synthesize multiple patterns and primitives into c
 
 Stored in `/artifacts/playbooks/` and automatically associated with content tagged "playbooks," these documents bridge the gap between understanding and action. While Patterns explain conceptual solutions, Playbooks provide the detailed roadmaps for implementation, including prerequisites, procedures, troubleshooting guides, and success metrics. They represent the practical wisdom gained from real-world application of organizational patterns.
 
-**Template**: [playbook.md](/tools/templates/playbook.md), [rpp-playbook.md](/tools/templates/rpp-playbook.md)
+**Template**: [playbook.md](tools/templates/layouts/playbook.md), [rpp-playbook.md](tools/templates/layouts/rpp-playbook.md)

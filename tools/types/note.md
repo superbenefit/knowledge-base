@@ -49,4 +49,4 @@ Notes represent dynamic, evolving content that captures research, meeting outcom
 
 This type is primarily used in `/notes/` for collaborative work and `/drafts/` for personal exploration. The publish field controls visibility in the Knowledge Garden, allowing contributors to choose when their work is ready for public consumption. As the base type that most others extend, Note establishes patterns that cascade throughout the entire type system.
 
-**Template**: [note.md](/tools/templates/note.md)
+**Template**: [note.md](tools/templates/layouts/note.md)

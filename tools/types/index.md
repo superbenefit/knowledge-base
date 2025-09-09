@@ -18,4 +18,4 @@ Extending Reference rather than Note, Index pages reflect their role in organizi
 
 Every major directory should have an index.md file that explains its purpose, describes its contents, and guides users to relevant resources. These pages are essential for maintaining navigability as the knowledge base grows, providing consistent entry points for exploration.
 
-**Template**: [index.md](/tools/templates/index.md)
+**Template**: [index.md](tools/templates/layouts/index.md)

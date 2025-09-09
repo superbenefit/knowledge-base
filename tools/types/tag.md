@@ -20,4 +20,4 @@ Located in `/tags/` and automatically associated through tag mapping, this type 
 
 Each tag entry includes definitions, context, usage examples, aliases, and related terms. This creates a controlled vocabulary that reduces ambiguity and reveals conceptual relationships. The lexicon forms the linguistic foundation for all other content types, ensuring consistent terminology across the knowledge base.
 
-**Template**: [tag.md](/tools/templates/tag.md)
+**Template**: [tag.md](tools/templates/layouts/tag.md)

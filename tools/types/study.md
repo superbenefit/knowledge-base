@@ -30,4 +30,4 @@ The Study type documents real-world implementations and case studies that provid
 
 Tagged with "studies" for automatic association, these documents provide the crucial feedback loop from practice to theory. Studies validate or challenge patterns, surface unexpected emergent behaviors, and document the context-specific adaptations required for successful implementation. They transform isolated experiments into collective learning.
 
-**Template**: [study.md](/tools/templates/study.md)
+**Template**: [study.md](tools/templates/layouts/study.md)

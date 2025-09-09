@@ -22,9 +22,9 @@ _<% tp.frontmatter.description || "A brief overview of this directory's purpose 
 
 %% List and briefly describe the most important or frequently accessed resources in this directory. This section provides quick access to essential content. %%
 
-- **[Resource Name](link)**: Brief description
-- **[Resource Name](link)**: Brief description
-- **[Resource Name](link)**: Brief description
+- **[Resource Name](tools/templates/layouts/link.md)**: Brief description
+- **[Resource Name](tools/templates/layouts/link.md)**: Brief description
+- **[Resource Name](tools/templates/layouts/link.md)**: Brief description
 
 ## Related Directories
 

@@ -19,4 +19,4 @@ Extending Artifact, Articles accommodate longer-form content that develops argum
 
 Articles differ from other artifact types by emphasizing narrative and argumentation over structured frameworks (patterns) or procedures (playbooks). They contribute to discourse, challenge assumptions, and explore implications, serving as a bridge between the SuperBenefit knowledge base and broader Web3 conversations.
 
-**Template**: [article.md](/tools/templates/article.md)
+**Template**: [article.md](tools/templates/layouts/article.md)

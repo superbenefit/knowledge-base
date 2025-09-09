@@ -20,4 +20,4 @@ Located in `/artifacts/guides/` and automatically associated with content tagged
 
 Currently reserved for future use in the SuperBenefit knowledge base, the Guide type is positioned to support educational initiatives as the community's learning needs evolve. It provides a structured approach to knowledge transfer distinct from the implementation focus of Playbooks or the conceptual focus of Patterns.
 
-**Template**: [guide.md](/tools/templates/guide.md)
+**Template**: [guide.md](tools/templates/layouts/guide.md)

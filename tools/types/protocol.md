@@ -19,4 +19,4 @@ As a specialized artifact type, Protocols focus on standardized, repeatable proc
 
 Currently reserved for future use, the Protocol type will accommodate governance procedures, technical standards, communication protocols, and other formal specifications as the SuperBenefit knowledge base expands to include more operational documentation.
 
-**Template**: [protocol.md](/tools/templates/protocol.md)
+**Template**: [protocol.md](tools/templates/layouts/protocol.md)

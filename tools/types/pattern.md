@@ -21,4 +21,4 @@ As validated conceptual frameworks within the artifact family, Patterns balance 
 
 Located in `/artifacts/patterns/`, these documents form the core of SuperBenefit's contribution to DAO knowledge - identifying and codifying successful organizational designs. Patterns differ from Playbooks by focusing on conceptual solutions rather than step-by-step implementation, providing the "why" and "what" that complements the "how."
 
-**Template**: [pattern.md](/tools/templates/pattern.md)
+**Template**: [pattern.md](tools/templates/layouts/pattern.md)

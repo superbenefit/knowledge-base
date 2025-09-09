@@ -19,4 +19,4 @@ Located in `/library/` to create a curated resource collection, Links extend the
 
 This type enables the curation of a living library that bridges internal knowledge development with the broader ecosystem of ideas. Links maintain awareness of external developments, credit sources of inspiration, and provide pathways for deeper exploration beyond the knowledge base boundaries.
 
-**Template**: [link.md](/tools/templates/link.md), [library.md](/tools/templates/library.md)
+**Template**: [link.md](tools/templates/layouts/link.md), [library.md](tools/templates/layouts/library.md)
