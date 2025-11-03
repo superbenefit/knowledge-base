@@ -1,5 +1,5 @@
 ---
-title: Cells (primitive)
+title: Cells (organizational element)
 description: Small autonomous teams that form the basic organizational units in DAO networks
 author:
   - yeoro.eth

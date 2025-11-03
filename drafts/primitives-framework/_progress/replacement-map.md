@@ -6,7 +6,7 @@ Track which files in `_outputs/` replace which originals in the knowledge base. 
 ## Status: In Progress
 - Phase 0: Setup complete
 - Phase 1: Unpublished resources - ✅ Complete (2025-11-03)
-- Phase 2: Terminology updates - Not started
+- Phase 2: Terminology updates - ✅ Complete (2025-11-03)
 - Phase 3: New documents - Not started
 - Phase 4: Reorganization - Not started
 - Phase 5: Integration - Not started
@@ -15,19 +15,134 @@ Track which files in `_outputs/` replace which originals in the knowledge base. 
 ---
 
 ## Section 1: Framework Files (22 files)
-**Status**: To be populated in Phase 2
+**Status**: ✅ Complete (Phase 2 - 2025-11-03)
 
-These files currently exist in `artifacts/guides/dao-primitives-framework/` and will be transformed with updated terminology and digital twin language.
+These files currently exist in `artifacts/guides/dao-primitives-framework/` and have been transformed with updated terminology and digital twin language.
 
 ### Transformation Notes
-- "group primitives" → "organizational elements"
-- "primitive" (in entity context) → "element"
-- Add Territory → Map → Graph progression language
-- Insert digital twin references
-- Emphasize: organizational elements (conceptual) vs DAO primitives (technical)
+- ✅ "group primitives" → "organizational elements"
+- ✅ "primitive" (in entity context) → "element"
+- ✅ Added Territory → Map → Graph progression language (in index.md)
+- ✅ Inserted digital twin references (in index.md)
+- ✅ Emphasized: organizational elements (conceptual) vs DAO primitives (technical)
 
 ### Mappings
-*To be populated during Phase 2 execution*
+
+#### Root Framework Files (3 files)
+1. **index.md**
+   - Original: `artifacts/guides/dao-primitives-framework/index.md`
+   - Transformed: `drafts/primitives-framework/_outputs/framework/index.md`
+   - Status: ✅ Complete
+   - Notable changes: Added "Organizational Elements vs. DAO Primitives" and "From Territory to Map to Graph" sections
+
+2. **group-facilitation.md**
+   - Original: `artifacts/guides/dao-primitives-framework/group-facilitation.md`
+   - Transformed: `drafts/primitives-framework/_outputs/framework/group-facilitation.md`
+   - Status: ✅ Complete
+
+3. **group-state.md**
+   - Original: `artifacts/guides/dao-primitives-framework/group-state.md`
+   - Transformed: `drafts/primitives-framework/_outputs/framework/group-state.md`
+   - Status: ✅ Complete
+
+#### Organizational Elements (4 files)
+4. **daos.md**
+   - Original: `artifacts/guides/dao-primitives-framework/group-primitives/daos.md`
+   - Transformed: `drafts/primitives-framework/_outputs/framework/group-primitives/daos.md`
+   - Status: ✅ Complete
+
+5. **roles.md**
+   - Original: `artifacts/guides/dao-primitives-framework/group-primitives/roles.md`
+   - Transformed: `drafts/primitives-framework/_outputs/framework/group-primitives/roles.md`
+   - Status: ✅ Complete
+
+6. **tasks.md**
+   - Original: `artifacts/guides/dao-primitives-framework/group-primitives/tasks.md`
+   - Transformed: `drafts/primitives-framework/_outputs/framework/group-primitives/tasks.md`
+   - Status: ✅ Complete
+
+7. **group-primitives/index.md**
+   - Original: `artifacts/guides/dao-primitives-framework/group-primitives/index.md`
+   - Transformed: `drafts/primitives-framework/_outputs/framework/group-primitives/index.md`
+   - Status: ✅ Complete
+
+#### Group Phase Files (6 files)
+8. **conversation-phase.md**
+   - Original: `artifacts/guides/dao-primitives-framework/group-phase/conversation-phase.md`
+   - Transformed: `drafts/primitives-framework/_outputs/framework/group-phase/conversation-phase.md`
+   - Status: ✅ Complete
+
+9. **formation-phase.md**
+   - Original: `artifacts/guides/dao-primitives-framework/group-phase/formation-phase.md`
+   - Transformed: `drafts/primitives-framework/_outputs/framework/group-phase/formation-phase.md`
+   - Status: ✅ Complete
+
+10. **organization-phase.md**
+    - Original: `artifacts/guides/dao-primitives-framework/group-phase/organization-phase.md`
+    - Transformed: `drafts/primitives-framework/_outputs/framework/group-phase/organization-phase.md`
+    - Status: ✅ Complete
+
+11. **coordination-phase.md**
+    - Original: `artifacts/guides/dao-primitives-framework/group-phase/coordination-phase.md`
+    - Transformed: `drafts/primitives-framework/_outputs/framework/group-phase/coordination-phase.md`
+    - Status: ✅ Complete
+
+12. **completion-phase.md**
+    - Original: `artifacts/guides/dao-primitives-framework/group-phase/completion-phase.md`
+    - Transformed: `drafts/primitives-framework/_outputs/framework/group-phase/completion-phase.md`
+    - Status: ✅ Complete
+
+13. **group-phase/index.md**
+    - Original: `artifacts/guides/dao-primitives-framework/group-phase/index.md`
+    - Transformed: `drafts/primitives-framework/_outputs/framework/group-phase/index.md`
+    - Status: ✅ Complete
+
+#### Group Scale Files (5 files)
+14. **collaboration-scale.md**
+    - Original: `artifacts/guides/dao-primitives-framework/group-scale/collaboration-scale.md`
+    - Transformed: `drafts/primitives-framework/_outputs/framework/group-scale/collaboration-scale.md`
+    - Status: ✅ Complete
+
+15. **coordination-scale.md**
+    - Original: `artifacts/guides/dao-primitives-framework/group-scale/coordination-scale.md`
+    - Transformed: `drafts/primitives-framework/_outputs/framework/group-scale/coordination-scale.md`
+    - Status: ✅ Complete
+
+16. **constituency-scale.md**
+    - Original: `artifacts/guides/dao-primitives-framework/group-scale/constituency-scale.md`
+    - Transformed: `drafts/primitives-framework/_outputs/framework/group-scale/constituency-scale.md`
+    - Status: ✅ Complete
+
+17. **network-scale.md**
+    - Original: `artifacts/guides/dao-primitives-framework/group-scale/network-scale.md`
+    - Transformed: `drafts/primitives-framework/_outputs/framework/group-scale/network-scale.md`
+    - Status: ✅ Complete
+
+18. **group-scale/index.md**
+    - Original: `artifacts/guides/dao-primitives-framework/group-scale/index.md`
+    - Transformed: `drafts/primitives-framework/_outputs/framework/group-scale/index.md`
+    - Status: ✅ Complete
+
+#### DAO Primitives Implementation Guides (4 files)
+19. **implementation-guide-community-governance.md**
+    - Original: `artifacts/guides/dao-primitives-framework/dao-primitives-implemention/implementation-guide-community-governance.md`
+    - Transformed: `drafts/primitives-framework/_outputs/framework/dao-primitives-implementation/implementation-guide-community-governance.md`
+    - Status: ✅ Complete
+
+20. **implementation-guide-operational-governance.md**
+    - Original: `artifacts/guides/dao-primitives-framework/dao-primitives-implemention/implementation-guide-operational-governance.md`
+    - Transformed: `drafts/primitives-framework/_outputs/framework/dao-primitives-implementation/implementation-guide-operational-governance.md`
+    - Status: ✅ Complete
+
+21. **implementation-guide-multi-stakeholder-governance.md**
+    - Original: `artifacts/guides/dao-primitives-framework/dao-primitives-implemention/implementation-guide-multi-stakeholder-governance.md`
+    - Transformed: `drafts/primitives-framework/_outputs/framework/dao-primitives-implementation/implementation-guide-multi-stakeholder-governance.md`
+    - Status: ✅ Complete
+
+22. **dao-primitives-implementation/index.md**
+    - Original: `artifacts/guides/dao-primitives-framework/dao-primitives-implemention/index.md`
+    - Transformed: `drafts/primitives-framework/_outputs/framework/dao-primitives-implementation/index.md`
+    - Status: ✅ Complete
 
 ---
 
@@ -155,10 +270,10 @@ drafts/primitives-framework/_outputs/
 
 ## Summary Statistics
 
-### Current State (Phase 1 Complete - 2025-11-03)
-- **Transformed Files**: 5/27
+### Current State (Phase 2 Complete - 2025-11-03)
+- **Transformed Files**: 27/27 ✅
 - **New Documents**: 0/8
-- **Total Deliverables**: 5/35
+- **Total Deliverables**: 27/35 (77%)
 - **Documented Gaps**: 1
 
 ### Target State (All Phases Complete)

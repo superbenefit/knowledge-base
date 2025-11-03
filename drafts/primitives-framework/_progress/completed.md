@@ -49,5 +49,41 @@
 
 ---
 
+## Phase 2: Terminology Standardization (2025-11-03)
+
+### 2.1 Copy Framework Files to _outputs/
+- ✅ Created framework subdirectories (group-primitives, group-phase, group-scale, dao-primitives-implementation)
+- ✅ Copied 22 framework files preserving directory structure
+- ✅ Excluded cells.md (already processed in Phase 1)
+- ✅ Excluded readme.md (meta documentation)
+
+### 2.2 Execute Bulk Terminology Updates
+- ✅ "agreement primitive" → "organizational agreement"
+- ✅ "entity primitive" → "organizational entity"
+- ✅ "group primitives" → "organizational elements"
+- ✅ "group primitive" → "organizational element"
+- ✅ "Organizational Primitives" → "Organizational Elements"
+- ✅ "type: primitive" → "type: organizational-element"
+- ✅ "(primitive)" → "(organizational element)" in titles
+- Applied to all 27 files in _outputs/ using sed
+
+### 2.3 Add Digital Twin Language
+- ✅ Added "Organizational Elements vs. DAO Primitives" section to framework/index.md
+- ✅ Added "From Territory to Map to Graph" progression explanation
+- ✅ Emphasized conceptual vs. technical distinction throughout
+
+### 2.4 Update Phase Documentation
+- ✅ Updated `replacement-map.md` with comprehensive Section 1 (all 22 framework files mapped)
+- ✅ Updated `replacement-map.md` summary statistics (27/27 files complete)
+- ✅ Updated `replacement-map.md` status (Phase 2 complete)
+- ✅ Updated `current-phase.md` to reflect Phase 2 completion
+- ✅ Updated `completed.md` with Phase 2 accomplishments
+
+### 2.5 Establish Git Checkpoint
+- ✅ Committed Phase 2 changes
+- ✅ Tagged as `primitives-phase-2-terminology-complete`
+
+---
+
 ## Running Log
-*Completed items will be appended here as work progresses through phases 2-6*
+*Completed items will be appended here as work progresses through phases 3-6*

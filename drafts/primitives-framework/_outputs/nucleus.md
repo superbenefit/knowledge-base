@@ -10,7 +10,7 @@ tags:
   - teams
   - group-state
 publish: true
-type: primitive
+type: organizational-element
 functions:
   - governance
 qualities:
