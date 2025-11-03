@@ -5,7 +5,7 @@ Track which files in `_outputs/` replace which originals in the knowledge base. 
 
 ## Status: In Progress
 - Phase 0: Setup complete
-- Phase 1: Unpublished resources - Not started
+- Phase 1: Unpublished resources - ✅ Complete (2025-11-03)
 - Phase 2: Terminology updates - Not started
 - Phase 3: New documents - Not started
 - Phase 4: Reorganization - Not started
@@ -32,37 +32,37 @@ These files currently exist in `artifacts/guides/dao-primitives-framework/` and 
 ---
 
 ## Section 2: Unpublished Resources (5 files ready)
-**Status**: To be populated in Phase 1
+**Status**: ✅ Complete (Phase 1 - 2025-11-03)
 
 ### 2.1 Cells
 - **Original**: `artifacts/guides/dao-primitives-framework/group-primitives/cells.md`
 - **Transformed**: `drafts/primitives-framework/_outputs/cells.md`
-- **Status**: Pending
-- **Changes**: Set publish: true, verify frontmatter
+- **Status**: ✅ Complete
+- **Changes**: Set publish: true, verified frontmatter
 
 ### 2.2 Group State Template
 - **Original**: `notes/dao-primitives/resources/templates/group-state-template.md`
 - **Transformed**: `drafts/primitives-framework/_outputs/group-state-template.md`
-- **Status**: Pending
-- **Changes**: Set publish: true, verify frontmatter
+- **Status**: ✅ Complete
+- **Changes**: Set publish: true, verified frontmatter
 
 ### 2.3 Circle Pattern
 - **Original**: `notes/dao-primitives/implementation/patterns/collaboration-scale-patterns/circle.md`
 - **Transformed**: `drafts/primitives-framework/_outputs/circle.md`
-- **Status**: Pending
-- **Changes**: Set publish: true, verify content completeness
+- **Status**: ✅ Complete
+- **Changes**: Set publish: true, verified content completeness
 
 ### 2.4 Nucleus Pattern
 - **Original**: `notes/dao-primitives/implementation/patterns/collaboration-scale-patterns/nucleus.md`
 - **Transformed**: `drafts/primitives-framework/_outputs/nucleus.md`
-- **Status**: Pending
-- **Changes**: Set publish: true, verify content completeness
+- **Status**: ✅ Complete
+- **Changes**: Set publish: true, verified content completeness
 
 ### 2.5 Sense-Making Facilitation Tools
 - **Original**: `notes/dao-primitives/implementation/guides/sense-making-facilitation-tools.md`
 - **Transformed**: `drafts/primitives-framework/_outputs/sense-making-facilitation-tools.md`
-- **Status**: Pending
-- **Changes**: Set publish: true, check field
+- **Status**: ✅ Complete
+- **Changes**: Added frontmatter with publish: true
 
 ---
 
@@ -155,10 +155,10 @@ drafts/primitives-framework/_outputs/
 
 ## Summary Statistics
 
-### Current State (Phase 0 Complete)
-- **Transformed Files**: 0/27
+### Current State (Phase 1 Complete - 2025-11-03)
+- **Transformed Files**: 5/27
 - **New Documents**: 0/8
-- **Total Deliverables**: 0/35
+- **Total Deliverables**: 5/35
 - **Documented Gaps**: 1
 
 ### Target State (All Phases Complete)
