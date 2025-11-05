@@ -11,8 +11,9 @@
 # ignore archive
 tools/archive/
 
-# ignore drafts
-drafts/
+# ignore drafts except readme.md
+drafts/*
+!drafts/readme.md
 
 # ignore obsidian customization files
 .obsidian/themes
