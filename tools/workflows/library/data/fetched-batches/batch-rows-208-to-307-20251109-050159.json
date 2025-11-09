@@ -1,0 +1,1806 @@
+{
+  "batch_info": {
+    "timestamp": "2025-11-09T05:51:10.087964Z",
+    "start_row": 208,
+    "count": 100,
+    "urls_attempted": 100,
+    "successful": 2,
+    "failed": 98
+  },
+  "results": [
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://communityfoundations.zoom.us/j/82476480610?pwd=dmVYNkt6SHpvVmxDQWMrU3NTWUppUT09",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 208,
+      "csv_data": [
+        "https://communityfoundations.zoom.us/j/82476480610?pwd=dmVYNkt6SHpvVmxDQWMrU3NTWUppUT09",
+        "1",
+        "contributor-guide",
+        "2022-05-06T15:39:11.797000+00:00",
+        "communityfoundations.zoom.us",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://communityfoundations.zoom.us/j/82657037604?pwd=MGEweVIzOUNHcmNkZUtPdzFGQWQ0QT09",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 209,
+      "csv_data": [
+        "https://communityfoundations.zoom.us/j/82657037604?pwd=MGEweVIzOUNHcmNkZUtPdzFGQWQ0QT09",
+        "3",
+        "rp-community; 📣-announcements; ⛲｜general",
+        "2023-09-20T17:58:38.455000+00:00",
+        "communityfoundations.zoom.us",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://communityfoundations.zoom.us/j/82908555246?pwd=MjgvOVFhWU1NVkQvZXY4MTMzdEp2QT09",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 210,
+      "csv_data": [
+        "https://communityfoundations.zoom.us/j/82908555246?pwd=MjgvOVFhWU1NVkQvZXY4MTMzdEp2QT09",
+        "12",
+        "general-circle; ⛲｜general; systems-transformation",
+        "2022-11-08T14:42:10.430000+00:00",
+        "communityfoundations.zoom.us",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://communityfoundations.zoom.us/j/85078527091?pwd=hllYon5qMB4idXzDLl0GodaTGzVaMO.1",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 211,
+      "csv_data": [
+        "https://communityfoundations.zoom.us/j/85078527091?pwd=hllYon5qMB4idXzDLl0GodaTGzVaMO.1",
+        "1",
+        "rp-stakeholders",
+        "2024-08-22T21:42:33.785000+00:00",
+        "communityfoundations.zoom.us",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://communityfoundations.zoom.us/j/85640320880?pwd=leEG5QqctgUqaIaTBMbghAVsqhlc26.1",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 212,
+      "csv_data": [
+        "https://communityfoundations.zoom.us/j/85640320880?pwd=leEG5QqctgUqaIaTBMbghAVsqhlc26.1",
+        "1",
+        "chat-transcripts",
+        "2023-09-21T21:05:22.787000+00:00",
+        "communityfoundations.zoom.us",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://communityfoundations.zoom.us/j/85950527966?pwd=VFhHaGt1NWNrcUNLM2FRbUJPcWR4QT09",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 213,
+      "csv_data": [
+        "https://communityfoundations.zoom.us/j/85950527966?pwd=VFhHaGt1NWNrcUNLM2FRbUJPcWR4QT09",
+        "1",
+        "📣-announcements",
+        "2023-09-25T12:12:31.627000+00:00",
+        "communityfoundations.zoom.us",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://communityfoundations.zoom.us/j/88375855348?pwd=PbICNr0zHdSe8Rr2YfrTBdpc2TfpDh.1",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 214,
+      "csv_data": [
+        "https://communityfoundations.zoom.us/j/88375855348?pwd=PbICNr0zHdSe8Rr2YfrTBdpc2TfpDh.1",
+        "1",
+        "rp-stakeholders",
+        "2023-12-18T21:05:04.560000+00:00",
+        "communityfoundations.zoom.us",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://communityrule.info/",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 215,
+      "csv_data": [
+        "https://communityrule.info/",
+        "2",
+        "governance; 📚｜reading-room",
+        "2022-04-05T16:16:54.142000+00:00",
+        "communityrule.info",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": true,
+      "status_code": 200,
+      "url": "https://consensus2025.coindesk.com/",
+      "content": "Consensus 2025 Highlights Recap\\_60sec from Service Owner on Vimeo\n\n![video thumbnail](https://i.vimeocdn.com/video/2020181366-309543d36caf70c10575933bc2840958c8006fcc0cddf1cce5af97959767fba9-d?mw=80&q=85)\n\nPlaying in picture-in-picture\n\nMore options\n\nLike\n\nAdd to Watch Later\n\nShare\n\nPlay\n\n00:00\n\n00:58\n\nCC/subtitlesSettingsTranscriptPicture-in-PictureFullscreen\n\nShow controls\n\nQualityAuto\n\nSpeedNormal\n\nCC/subtitlesOff\n\n### That's a Wrap!\n\nThanks to 14,771 people from across 102 countries who made Consensus legendary.\n\nMissed the magic? Meet us in Miami for the next Consensus.\n\n[Register for 2026](https://events.coindesk.com/)\n\nThe Super Bowl of Blockchain, the World Cup of Web3.\n\n\n15k+Attendees\n\nWill gather from over 100 countries to attend Consensus 2025\n\n\n$4TAUM\n\nAssets managed by the finance giants gathered at Consensus 2024\n\n\n![](https://consensus-hongkong2025.coindesk.com/images/userfiles/home/home-what-is-consensus.png)\n\n## What is Consensus?\n\nSince 2015, Consensus has been more than an event–it's the annual gathering of the tribes. It's where the most influential voices in blockchain, Web3, and AI come together to drive innovation forward.\n\nIn 2025, Consensus brings its flagship event to Toronto, where the world's first Bitcoin and Ethereum ETFs were born. As North America's third-largest tech ecosystem and second-largest financial hub, Toronto unites global innovation with transformative technology leadership.\n\nBuilt on CoinDesk's foundation of independent, unbiased journalism, Consensus Toronto will weave together breakthrough technologies, from digital assets to artificial intelligence, fostering the collaborations that define what's next.\n\nDon’t miss this moment—join us in Toronto.\n\n#### 2025 Speakers\n\n[![](data:,)\\\\\n\\\\\n![Eric Trump](https://d2pasa6bkzkrjd.cloudfront.net/_resize/consensus2025/speaker/300/site/consensus2025/images/userfiles/speakers/b1d00abf06afe9ab6b73a5b9f1b24efa.jpg)\\\\\n\\\\\nEric Trump\\\\\n\\\\\n\\\\\nFinance\\\\\n\\\\\nCo-Founder & Chief Strategy Officer\\\\\n\\\\\nAmerican Bitcoin](https://consensus2025.coindesk.com/agenda/speaker/-eric-trump)\n\n[![](data:,)\\\\\n\\\\\n![Kevin O'Leary](https://d2pasa6bkzkrjd.cloudfront.net/_resize/consensus2025/speaker/300/site/consensus2025/images/userfiles/speakers/c5e50f8d0b867157d56234698fcd9514.jpg)\\\\\n\\\\\nKevin O'Leary\\\\\n\\\\\n\\\\\nFinance\\\\\n\\\\\nChairman\\\\\n\\\\\nO'Leary Ventures](https://consensus2025.coindesk.com/agenda/speaker/-kevin-oleary)\n\n[![](data:,)\\\\\n\\\\\n![Robert Hines](https://d2pasa6bkzkrjd.cloudfront.net/_resize/consensus2025/speaker/300/site/consensus2025/images/userfiles/speakers/7cb6a26889b8b45cd7b51df51dce8ac7.jpg)\\\\\n\\\\\nRobert Hines\\\\\n\\\\\n\\\\\nPolicy\\\\\n\\\\\nExecutive Director of the President’s Council of Advisors for Digital Assets \\\\\n\\\\\nThe White House](https://consensus2025.coindesk.com/agenda/speaker/-robert-hines)\n\n[![](data:,)\\\\\n\\\\\n![Charles Hoskinson](https://d2pasa6bkzkrjd.cloudfront.net/_resize/consensus2025/speaker/300/site/consensus2025/images/userfiles/speakers/0ba2ab346bcd28bd33530f9c081e8f50.jpg)\\\\\n\\\\\nCharles Hoskinson\\\\\n\\\\\n\\\\\nCEO & Founder\\\\\n\\\\\nInput Output](https://consensus2025.coindesk.com/agenda/speaker/-charles-hoskinson)\n\n[![](data:,)\\\\\n\\\\\n![Dave  Portnoy](https://d2pasa6bkzkrjd.cloudfront.net/_resize/consensus2025/speaker/300/site/consensus2025/images/userfiles/speakers/0fd0d1cc7cb17141654abda4125bac38.jpg)\\\\\n\\\\\nDave Portnoy\\\\\n\\\\\n\\\\\nFounder & Chief of Content \\\\\n\\\\\nBarstool Sports](https://consensus2025.coindesk.com/agenda/speaker/-dave-portnoy)\n\n[![](data:,)\\\\\n\\\\\n![Adrienne A. Harris](https://d2pasa6bkzkrjd.cloudfront.net/_resize/consensus2025/speaker/300/site/consensus2025/images/userfiles/speakers/6f82d6f5391e4438efdffd9f7c38a68d.jpg)\\\\\n\\\\\nAdrienne A. Harris\\\\\n\\\\\n\\\\\nPolicy\\\\\n\\\\\nSuperintendent\\\\\n\\\\\nNew York Department of Financial Services](https://consensus2025.coindesk.com/agenda/speaker/-adrienne-a-harris)\n\n[![](data:,)\\\\\n\\\\\n![Sergey Nazarov](https://d2pasa6bkzkrjd.cloudfront.net/_resize/consensus2025/speaker/300/site/consensus2025/images/userfiles/speakers/8230575e651a332b63135454934f765f.jpg)\\\\\n\\\\\nSergey Nazarov\\\\\n\\\\\n\\\\\nBuildersWeb3\\\\\n\\\\\nCo-Founder\\\\\n\\\\\nChainlink](https://consensus2025.coindesk.com/agenda/speaker/-sergey-nazarov-2)\n\n[![](data:,)\\\\\n\\\\\n![Dan Morehead](https://d2pasa6bkzkrjd.cloudfront.net/_resize/consensus2025/speaker/300/site/consensus2025/images/userfiles/speakers/0567316e38078ce6aa35fee8734a9c40.jpg)\\\\\n\\\\\nDan Morehead\\\\\n\\\\\n\\\\\nFinance\\\\\n\\\\\nFounder & CEO\\\\\n\\\\\nPantera Capital](https://consensus2025.coindesk.com/agenda/speaker/-dan-morehead)\n\n[![](data:,)\\\\\n\\\\\n![Anthony Scaramucci](https://d2pasa6bkzkrjd.cloudfront.net/_resize/consensus2025/speaker/300/site/consensus2025/images/userfiles/speakers/74803195e4b7a661358ce5ef7538e2c6.jpg)\\\\\n\\\\\nAnthony Scaramucci\\\\\n\\\\\n\\\\\nFinance\\\\\n\\\\\nFounder\\\\\n\\\\\nSkyBridge Capital](https://consensus2025.coindesk.com/agenda/speaker/-anthony-scaramucci)\n\n[![](data:,)\\\\\n\\\\\n![Ambre Soubiran](https://d2pasa6bkzkrjd.cloudfront.net/_resize/consensus2025/speaker/300/site/consensus2025/images/userfiles/speakers/25c1cce4d29b8f5593c230baed9aa018.jpg)\\\\\n\\\\\nAmbre Soubiran\\\\\n\\\\\n\\\\\nFinance\\\\\n\\\\\nCEO\\\\\n\\\\\nKaiko](https://consensus2025.coindesk.com/agenda/speaker/-ambre-soubiran)\n\n[![](data:,)\\\\\n\\\\\n![Jose Fernandez da Ponte](https://d2pasa6bkzkrjd.cloudfront.net/_resize/consensus2025/speaker/300/site/consensus2025/images/userfiles/speakers/c68ce1a9c44e54a3d9123268690bf77f.jpg)\\\\\n\\\\\nJose Fernandez da Ponte\\\\\n\\\\\n\\\\\nFinance\\\\\n\\\\\nSenior Vice President, Digital Currencies\\\\\n\\\\\nPayPal](https://consensus2025.coindesk.com/agenda/speaker/-jose-fernandez-da-ponte)\n\n[![](data:,)\\\\\n\\\\\n![Lindsey Einhaus](https://d2pasa6bkzkrjd.cloudfront.net/_resize/consensus2025/speaker/300/site/consensus2025/images/userfiles/speakers/b214c8a4b1344d5e650159099f86e297.jpg)\\\\\n\\\\\nLindsey Einhaus\\\\\n\\\\\n\\\\\nCrypto Strategy and Operations\\\\\n\\\\\nStripe](https://consensus2025.coindesk.com/agenda/speaker/-lindsey-einhaus)\n\n[View All Speakers](https://consensus2025.coindesk.com/speakers/)\n\nIt’s **a real b2b conference** where you can get three months worth of meetings done in three days. Prioritize this one!\n\n\nIan Rogers\n\nChief Experience Officer\n\nConsensus 2024 was an **electrifying gathering** of the **brightest minds in the Web3 and cryptocurrency** space, fostering collaboration and innovation.\n\n\nHead of Web3, North America\n\nConsensus is **the place for dealmaking** as the ecosystem continues to mature. Very impressive!\n\n\nKeith A. Grossman\n\nPresident, Enterprise\n\n## Top Companies That Attend Consensus\n\n![](https://d2pasa6bkzkrjd.cloudfront.net/site/consensus2025/images/userfiles/home/ckto-top-companies-mobile_v4.png)\n\n![](https://d2pasa6bkzkrjd.cloudfront.net/site/consensus2025/images/userfiles/home/ckto-top-companies-desktop_v4.png)\n\nCelebrating 10+ Years of Consensus\n\n## 2015\n\nThe first Consensus takes place in a New York City ballroom, welcoming 500 guests, 12 sponsors and a handful of speakers including a young crypto-anarchist by the name of Vitalik Buterin.\n\n![](https://d2pasa6bkzkrjd.cloudfront.net/site/consensus2025/images/userfiles/consensus-timeline/Image-consensus-2015.jpg)\n\nCelebrating 10+ Years of Consensus\n\n## 2016\n\nBlockchain tech leaders debate the mystery of Satoshi Nakamoto, scaling and more at Consensus 2016\n\n![](https://d2pasa6bkzkrjd.cloudfront.net/site/consensus2025/images/userfiles/consensus-timeline/Image-consensus-2016.jpg)\n\nCelebrating 10+ Years of Consensus\n\n## 2017\n\nThe ICO boom hallmarks Consensus 2017 – speakers and attendees alike debate their legality and speculate the future.\n\n![](https://d2pasa6bkzkrjd.cloudfront.net/site/consensus2025/images/userfiles/consensus-timeline/Image-consensus-2017.jpg)\n\nCelebrating 10+ Years of Consensus\n\n## 2018\n\nWEN LAMBO? One of the most infamous moments in Consensus history is when BitMEX founder Arthur Hayes rented three Lamborghinis and revved their engines just outside the Consensus doors.\n\n![](https://d2pasa6bkzkrjd.cloudfront.net/site/consensus2025/images/userfiles/consensus-timeline/Image-consensus-2018.jpg)\n\nCelebrating 10+ Years of Consensus\n\n## 2019\n\nConsensys founder Joe Lubin bets Bitcoin maxi Jimmy Song $500,000 that Ethereum's decentralized apps would have a non-trivial number of users in five years.\n\n![](https://d2pasa6bkzkrjd.cloudfront.net/site/consensus2025/images/userfiles/consensus-timeline/Image-Consensus-2019.jpg)\n\nCelebrating 10+ Years of Consensus\n\n## 2020\n\nBitcoin’s highly-anticipated third halving event happens mid-panel during 2020’s virtual Consensus Distributed.\n\n![](https://d2pasa6bkzkrjd.cloudfront.net/site/consensus2025/images/userfiles/consensus-timeline/Image-Consensus-2020.jpg)\n\nCelebrating 10+ Years of Consensus\n\n## 2021\n\nBinance founder and CEO Changpeng “CZ” Zhao gave a virtual keynote on the importance of regulatory freedom and competition in the crypto space, stating “no one can shut down Bitcoin.”\n\n![](https://d2pasa6bkzkrjd.cloudfront.net/site/consensus2025/images/userfiles/consensus-timeline/Image-consensus-2021.jpg)\n\nCelebrating 10+ Years of Consensus\n\n## 2022\n\nConsensus returns IRL in Austin, Texas, for its biggest gathering yet. 20,000+ people attend the annual confab in June, unknowingly on the precipice of one of the biggest collapses in crypto history.\n\n![](https://d2pasa6bkzkrjd.cloudfront.net/site/consensus2025/images/userfiles/consensus-timeline/Image-consensus-2022.jpg)\n\nCelebrating 10+ Years of Consensus\n\n## 2023\n\nIn the midst of crypto’s darkest winter, 15,000 of the industry’s most dedicated builders and innovators showed up to discuss the best path forward for crypto, blockchain, and Web3.\n\n![](https://d2pasa6bkzkrjd.cloudfront.net/site/consensus2025/images/userfiles/consensus-timeline/Image-consensus-2023.jpg)\n\nCelebrating 10+ Years of Consensus\n\n## 2024\n\nCoinDesk celebrates its 10th annual Consensus in Austin, Texas, featuring talks from presidential candidate RFK Jr. and a16z’s Chris Dixon, among others.\n\n![](https://d2pasa6bkzkrjd.cloudfront.net/site/consensus2025/images/userfiles/consensus-timeline/Image-consensus-2024.jpg)\n\nCelebrating 10+ Years of Consensus\n\n## 2025\n\nConsensus goes global with events in Toronto and Hong Kong. Join us to be a part of this historic journey.\n\n![](https://d2pasa6bkzkrjd.cloudfront.net/site/consensus2025/images/userfiles/consensus-timeline/slide-2025-v3x2.jpg)\n\n2015\n\n2016\n\n2017\n\n2018\n\n2019\n\n2020\n\n2021\n\n2022\n\n2023\n\n2024\n\n2025\n\nConsensus 2024 Highlights from Service Owner on Vimeo\n\n![video thumbnail](https://i.vimeocdn.com/video/1869263551-47ee9bee840c6a7b312d0f60e02c797c52eacdec3e7273eab84b32df75eac77d-d?mw=80&q=85)\n\nPlaying in picture-in-picture\n\nMore options\n\nLike\n\nPlay\n\n00:00\n\n00:38\n\nCC/subtitlesSettingsTranscriptPicture-in-PictureFullscreen\n\nShow controls\n\nQualityAuto\n\nCC/subtitlesOff\n\n### Experience the Energy: Consensus 2024 Recap\n\n## Stay Connected\n\nSign up for promotions, program updates, speaker announcements and more.\n\nForm [Skip to form](https://js-eu1.hsforms.net/ui-forms-embed-components-app/frame.html?_hsPortalId=27197889&_hsFormId=baa061c0-615d-4457-8a4c-f47b489718e2&_hsIsQa=false&_hsHublet=eu1&_hsDisableScriptloader=true&_hsDisableRedirect=true&_hsInstanceId=de36fd7f-b5b9-4c35-afb4-a3f14866b776#main)\n\nFirst Name\\*\n\nLast Name\\*\n\nJob Title\\*\n\nCompany\\*\n\nEmail Address\\*\n\nCountry\n\n- Algeria\n- American Samoa\n- Andorra\n- Angola\n- Anguilla\n- Antigua and Barbuda\n- Argentina\n- Armenia\n- Aruba\n- Australia\n- Austria\n- Azerbaijan\n- Antarctica\n- Aland Islands\n- Bahamas\n- Bahrain\n- Bangladesh\n- Barbados\n- Belgium\n- Belize\n- Benin\n- Bermuda\n- Bhutan\n- Bolivia, Plurinational State of\n- Botswana\n- Brazil\n- Virgin Islands, British\n- Brunei Darussalam\n- Bulgaria\n- Burkina Faso\n- Bonaire, Sint Eustatius and Saba\n- Bouvet Island\n- British Indian Ocean Territory\n- Cambodia\n- Cameroon\n- Canada\n- Cape Verde\n- Cayman Islands\n- Chad\n- Chile\n- Colombia\n- Comoros\n- Republic of the Congo\n- Cook Islands\n- Costa Rica\n- Croatia\n- Curaçao\n- Cyprus\n- Czech Republic\n- Denmark\n- Djibouti\n- Dominica\n- Dominican Republic\n- Ecuador\n- El Salvador\n- Equatorial Guinea\n- Eritrea\n- Estonia\n- Eswatini\n- Ethiopia\n- Falkland Islands (Malvinas)\n- Faroe Islands\n- Fiji\n- Finland\n- France\n- French Polynesia\n- French Guiana\n- French Southern Territories\n- Gabon\n- Gambia\n- Georgia\n- Germany\n- Ghana\n- Gibraltar\n- Greece\n- Greenland\n- Grenada\n- Guadeloupe\n- Guam\n- Guatemala\n- Guernsey\n- Guinea\n- Guinea-Bissau\n- Guyana\n- Haiti\n- Holy See (Vatican City State)\n- Honduras\n- Hong Kong SAR, China\n- Hungary\n- Iceland\n- India\n- Indonesia\n- Ireland\n- Isle of Man\n- Italy\n- Jamaica\n- Japan\n- Jersey\n- Jordan\n- Kazakhstan\n- Kenya\n- Kiribati\n- Korea, Republic of\n- Kuwait\n- Kyrgyzstan\n- name: \"Lao People's Democratic Republic\",\n- Latvia\n- Lesotho\n- Liechtenstein\n- Lithuania\n- Macau SAR, China\n- Madagascar\n- Malawi\n- Maldives\n- Malta\n- Marshall Islands\n- Mauritania\n- Mauritius\n- Mexico\n- Micronesia, Federated States of\n- Moldova, Republic of\n- Monaco\n- Mongolia\n- Montserrat\n- Morocco\n- Mozambique\n- Martinique\n- Mayotte\n- Namibia\n- Nauru\n- Nepal\n- Netherlands\n- Netherlands Antilles\n- New Caledonia\n- New Zealand\n- Niger\n- Nigeria\n- Northern Mariana Islands\n- Norway\n- Niue\n- Oman\n- Pakistan\n- Palau\n- Panama\n- Papua New Guinea\n- Paraguay\n- Peru\n- Philippines\n- Poland\n- Portugal\n- Pitcairn\n- Puerto Rico\n- Qatar\n- Reunion\n- Romania\n- Rwanda\n- Saint Pierre and Miquelon\n- Samoa\n- San Marino\n- Sao Tome and Principe\n- Senegal\n- Serbia\n- Seychelles\n- Sierra Leone\n- Singapore\n- Slovakia\n- Slovenia\n- Solomon Islands\n- Sri Lanka\n- Saint Kitts and Nevis\n- Saint Lucia\n- Saint Vincent and the Grenadines\n- Suriname\n- Sweden\n- Switzerland\n- Saint Barthélemy\n- South Africa\n- South Georgia and the South Sandwich Islands\n- Saint Martin (French part)\n- Saint Helena, Ascension and Tristan da Cunha\n- Svalbard and Jan Mayen\n- Sint Maarten (Dutch part)\n- Taiwan\n- Tajikistan\n- Tanzania, United Republic of\n- Thailand\n- Timor-Leste\n- Togo\n- Tonga\n- Trinidad and Tobago\n- Tunisia\n- Turkey\n- Turkmenistan\n- Turks and Caicos Islands\n- Tuvalu\n- Tokelau\n- Uganda\n- United Arab Emirates\n- United Kingdom\n- United States Minor Outlying Islands\n- United States\n- Uruguay\n- Uzbekistan\n- Vanuatu\n- Virgin Islands, U.S.\n- Viet Nam\n- Wallis and Futuna\n- Western Sahara\n- Zambia\n\n**What are you interested in?**\n\nFinance\n\nIndustry Builder\n\nWeb3\n\nGaming\n\nMarketing/Advertising\n\nDeveloper\n\nOther\n\nBy submitting, you agree to receive email communications from Consensus and CoinDesk, including upcoming promotions and discounted tickets, news, and access to exclusive invite-only events.\n\nSUBMIT",
+      "title": "Consensus 2025 Presented by CoinDesk",
+      "metadata": {
+        "og:title": "Consensus 2025 Presented by CoinDesk",
+        "description": "Consensus is CoinDesk’s longest-running and most influential crypto event that brings together all sides of DeFi, blockchain, Web3 and the metaverse.",
+        "twitter:description": "Consensus is CoinDesk’s longest-running and most influential crypto event that brings together all sides of DeFi, blockchain, Web3 and the metaverse.",
+        "og:locale": "en_US",
+        "twitter:creator": "@consensus2025",
+        "ogUrl": "https://consensus2025.coindesk.com/",
+        "og:image": "https://consensus2025.coindesk.com/site/consensus2025/images/userfiles/metadata/2025/C25-Homepage.png",
+        "author": "HubSpot, Inc.",
+        "twitter:image": "https://consensus2025.coindesk.com/site/consensus2025/images/userfiles/metadata/2025/C25-Homepage.png",
+        "viewport": [
+          "width=device-width, initial-scale=1.0",
+          "width=device-width,initial-scale=1,user-scalable=yes",
+          "width=device-width,initial-scale=1,user-scalable=yes",
+          "width=device-width, initial-scale=1"
+        ],
+        "og:url": "https://consensus2025.coindesk.com/",
+        "ogTitle": "Consensus 2025 Presented by CoinDesk",
+        "msapplication-TileColor": "#2b5797",
+        "ogDescription": "Consensus is CoinDesk’s longest-running and most influential crypto event that brings together all sides of DeFi, blockchain, Web3 and the metaverse.",
+        "twitter:title": "Consensus 2025 Presented by CoinDesk",
+        "og:description": "Consensus is CoinDesk’s longest-running and most influential crypto event that brings together all sides of DeFi, blockchain, Web3 and the metaverse.",
+        "twitter:site": "@consensus2025",
+        "googlebot": [
+          "noindex,indexifembedded",
+          "noindex,indexifembedded",
+          "noindex"
+        ],
+        "robots": "noindex, nofollow",
+        "twitter:url": "https://consensus2025.coindesk.com/",
+        "twitter:card": "summary_large_image",
+        "keywords": "consensus 2025, crypto event, toronto",
+        "ogImage": "https://consensus2025.coindesk.com/site/consensus2025/images/userfiles/metadata/2025/C25-Homepage.png",
+        "ogLocale": "en_US",
+        "title": "Consensus 2025 Presented by CoinDesk",
+        "language": "en",
+        "favicon": "https://consensus2025.coindesk.com/site/consensus2025/images/userfiles/site-defaults/site-logo.ico",
+        "scrapeId": "966b740e-1755-4894-a8c2-36618160bc38",
+        "sourceURL": "https://consensus2025.coindesk.com/",
+        "url": "https://consensus2025.coindesk.com/",
+        "statusCode": 200,
+        "contentType": "text/html; charset=UTF-8",
+        "proxyUsed": "basic",
+        "cacheState": "hit",
+        "cachedAt": "2025-11-08T11:22:58.016Z",
+        "creditsUsed": 1
+      },
+      "row_number": 216,
+      "csv_data": [
+        "https://consensus2025.coindesk.com/",
+        "1",
+        "⛲｜general",
+        "2025-04-17T12:40:17.896000+00:00",
+        "consensus2025.coindesk.com",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://console.brahma.fi/",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 217,
+      "csv_data": [
+        "https://console.brahma.fi/",
+        "1",
+        "primitive-community",
+        "2023-10-06T03:40:36.608000+00:00",
+        "console.brahma.fi",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://constitutions.metagov.org/",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 218,
+      "csv_data": [
+        "https://constitutions.metagov.org/",
+        "1",
+        "governance-research-project",
+        "2022-07-12T04:05:03.998000+00:00",
+        "constitutions.metagov.org",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://coordinape.com/",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 219,
+      "csv_data": [
+        "https://coordinape.com/",
+        "2",
+        "governance; general-circle",
+        "2022-04-23T13:11:08.556000+00:00",
+        "coordinape.com",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://corruptions.netlify.app/index.html",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 220,
+      "csv_data": [
+        "https://corruptions.netlify.app/index.html",
+        "1",
+        "🔭-web3-examples",
+        "2021-12-04T14:03:28.122000+00:00",
+        "corruptions.netlify.app",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://cortescommunityhousing.org/",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 221,
+      "csv_data": [
+        "https://cortescommunityhousing.org/",
+        "1",
+        "rp-core-team",
+        "2025-01-24T22:33:11.704000+00:00",
+        "cortescommunityhousing.org",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://cosanostra.gg/papers/subsidized-on-chain-public-goods",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 222,
+      "csv_data": [
+        "https://cosanostra.gg/papers/subsidized-on-chain-public-goods",
+        "1",
+        "primitive-community",
+        "2022-11-01T01:01:17.726000+00:00",
+        "cosanostra.gg",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://council.element.fi/",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 223,
+      "csv_data": [
+        "https://council.element.fi/",
+        "1",
+        "primitive-community",
+        "2023-03-10T06:04:18.477000+00:00",
+        "council.element.fi",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://cpagency.org.au/our-work/workshops-training/social_redev_course/",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 224,
+      "csv_data": [
+        "https://cpagency.org.au/our-work/workshops-training/social_redev_course/",
+        "1",
+        "community-hosting",
+        "2021-12-15T20:48:18.942000+00:00",
+        "cpagency.org.au",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://create.zora.co/collections/0xf663029d6d04fde7a3ca012f34d30381da1df5c2",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 225,
+      "csv_data": [
+        "https://create.zora.co/collections/0xf663029d6d04fde7a3ca012f34d30381da1df5c2",
+        "1",
+        "systems-transformation",
+        "2022-12-28T12:55:42.088000+00:00",
+        "create.zora.co",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://creators.mirror.xyz/6-iNptibzKNrQaZJR_ufiMkLQvj5mgpFYueWFKu9agU",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 226,
+      "csv_data": [
+        "https://creators.mirror.xyz/6-iNptibzKNrQaZJR_ufiMkLQvj5mgpFYueWFKu9agU",
+        "2",
+        "📣-announcements; 📚｜reading-room",
+        "2022-06-09T10:27:54.233000+00:00",
+        "creators.mirror.xyz",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://creators.mirror.xyz/Le68ptgaqsBh1g6w8UqqVL2kIrA_Lqn37bELMO-W_-0",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 227,
+      "csv_data": [
+        "https://creators.mirror.xyz/Le68ptgaqsBh1g6w8UqqVL2kIrA_Lqn37bELMO-W_-0",
+        "1",
+        "governance",
+        "2021-10-21T17:51:55.756000+00:00",
+        "creators.mirror.xyz",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://creators.mirror.xyz/yl57fgfDTVxMZsy2g2UryiaQkyFD9Dlv0otaRz7Rnuc",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 228,
+      "csv_data": [
+        "https://creators.mirror.xyz/yl57fgfDTVxMZsy2g2UryiaQkyFD9Dlv0otaRz7Rnuc",
+        "1",
+        "systems-transformation",
+        "2023-05-24T01:52:52.245000+00:00",
+        "creators.mirror.xyz",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://criterioninstitute.org/wp-content/uploads/Fostering_a_Feminist_Financial_Imagination.pdf",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 229,
+      "csv_data": [
+        "https://criterioninstitute.org/wp-content/uploads/Fostering_a_Feminist_Financial_Imagination.pdf",
+        "1",
+        "general-circle",
+        "2023-05-16T01:13:30.433000+00:00",
+        "criterioninstitute.org",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://crowdfi.withfabric.xyz",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 230,
+      "csv_data": [
+        "https://crowdfi.withfabric.xyz",
+        "1",
+        "primitive-community",
+        "2023-09-15T14:39:20.118000+00:00",
+        "crowdfi.withfabric.xyz",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://cryptoculturesociety.substack.com/",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 231,
+      "csv_data": [
+        "https://cryptoculturesociety.substack.com/",
+        "1",
+        "⛲｜general",
+        "2022-07-07T02:28:03.737000+00:00",
+        "cryptoculturesociety.substack.com",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://cryptoculturesociety.substack.com/p/the-crypto-culture-and-society-newsletter-edf?utm_source=twitter&utm_campaign=auto_share&r=ymwao",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 232,
+      "csv_data": [
+        "https://cryptoculturesociety.substack.com/p/the-crypto-culture-and-society-newsletter-edf?utm_source=twitter&utm_campaign=auto_share&r=ymwao",
+        "1",
+        "⛲｜general",
+        "2022-12-11T15:06:55.911000+00:00",
+        "cryptoculturesociety.substack.com",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://cryptogood.substack.com/p/a-multi-dao-contributor-shares-everything?utm_source=substack&utm_medium=email",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 233,
+      "csv_data": [
+        "https://cryptogood.substack.com/p/a-multi-dao-contributor-shares-everything?utm_source=substack&utm_medium=email",
+        "1",
+        "c2030-wg11-business-structures",
+        "2022-07-28T15:16:11.319000+00:00",
+        "cryptogood.substack.com",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://cryptogood.substack.com/p/ai-in-daos-the-ultimate-guide-to?utm_source=post-email-title&publication_id=356023&post_id=148356473&utm_campaign=email-post-title&isFreemail=true&r=gnppg&triedRedirect=true&utm_medium=email",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 234,
+      "csv_data": [
+        "https://cryptogood.substack.com/p/ai-in-daos-the-ultimate-guide-to?utm_source=post-email-title&publication_id=356023&post_id=148356473&utm_campaign=email-post-title&isFreemail=true&r=gnppg&triedRedirect=true&utm_medium=email",
+        "1",
+        "📚｜reading-room",
+        "2024-09-09T19:09:09.490000+00:00",
+        "cryptogood.substack.com",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://cryptogood.substack.com/p/building-an-impact-dao-what-i-learned?utm_medium=email",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 235,
+      "csv_data": [
+        "https://cryptogood.substack.com/p/building-an-impact-dao-what-i-learned?utm_medium=email",
+        "1",
+        "community-experience",
+        "2022-12-30T19:47:15.227000+00:00",
+        "cryptogood.substack.com",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://cryptogood.substack.com/p/how-we-picked-the-10-impact-daos",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 236,
+      "csv_data": [
+        "https://cryptogood.substack.com/p/how-we-picked-the-10-impact-daos",
+        "1",
+        "systems-transformation",
+        "2022-12-19T21:28:50.504000+00:00",
+        "cryptogood.substack.com",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://cryptogood.substack.com/p/how-we-picked-the-10-impact-daos?utm_source=substack&utm_medium=email",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 237,
+      "csv_data": [
+        "https://cryptogood.substack.com/p/how-we-picked-the-10-impact-daos?utm_source=substack&utm_medium=email",
+        "1",
+        "systems-transformation/Systems Transformation Frameworks & Resources",
+        "2022-11-06T18:45:17.917000+00:00",
+        "cryptogood.substack.com",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://cryptogood.substack.com/p/impact-dao-beginners-course",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 238,
+      "csv_data": [
+        "https://cryptogood.substack.com/p/impact-dao-beginners-course",
+        "1",
+        "systems-transformation",
+        "2023-05-02T00:46:20.234000+00:00",
+        "cryptogood.substack.com",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://cryptogood.substack.com/p/meet-cog-the-impact-daos-tech-stack",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 239,
+      "csv_data": [
+        "https://cryptogood.substack.com/p/meet-cog-the-impact-daos-tech-stack",
+        "1",
+        "systems-transformation/Systems Transformation Frameworks & Resources",
+        "2023-01-25T02:55:51.546000+00:00",
+        "cryptogood.substack.com",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://cryptogood.substack.com/p/what-are-impact-daos",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 240,
+      "csv_data": [
+        "https://cryptogood.substack.com/p/what-are-impact-daos",
+        "1",
+        "systems-transformation/Systems Transformation Frameworks & Resources",
+        "2022-11-05T20:28:44.707000+00:00",
+        "cryptogood.substack.com",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://cryptohayes.medium.com/white-man-5001d38a5e4e",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 241,
+      "csv_data": [
+        "https://cryptohayes.medium.com/white-man-5001d38a5e4e",
+        "1",
+        "📚｜reading-room",
+        "2022-11-29T01:29:33.368000+00:00",
+        "cryptohayes.medium.com",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://cryptohun3y.substack.com/p/decentralized-media-in-web3-is-not?r=1ispmj&s=r&utm_campaign=post&utm_medium=web",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 242,
+      "csv_data": [
+        "https://cryptohun3y.substack.com/p/decentralized-media-in-web3-is-not?r=1ispmj&s=r&utm_campaign=post&utm_medium=web",
+        "1",
+        "📚｜reading-room",
+        "2022-07-13T12:40:43.947000+00:00",
+        "cryptohun3y.substack.com",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://cryptorisks.substack.com/p/subdao-legal-entity-formation",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 243,
+      "csv_data": [
+        "https://cryptorisks.substack.com/p/subdao-legal-entity-formation",
+        "1",
+        "primitive-community",
+        "2023-11-05T07:12:47.433000+00:00",
+        "cryptorisks.substack.com",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://cryptosociety.notion.site/CCS-Code-of-Conduct-cd112e02f5314d968b1c2e61c87d8bb2",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 244,
+      "csv_data": [
+        "https://cryptosociety.notion.site/CCS-Code-of-Conduct-cd112e02f5314d968b1c2e61c87d8bb2",
+        "1",
+        "primitive-core",
+        "2022-10-19T12:52:58.882000+00:00",
+        "cryptosociety.notion.site",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://cryptosociety.notion.site/cryptosociety/Crypto-Culture-Society-01f39bcff26b422183061e6011b16892",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 245,
+      "csv_data": [
+        "https://cryptosociety.notion.site/cryptosociety/Crypto-Culture-Society-01f39bcff26b422183061e6011b16892",
+        "1",
+        "3｜🤝introductions",
+        "2022-03-13T15:33:15.583000+00:00",
+        "cryptosociety.notion.site",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://cryptosociety.notion.site/Web3-Starter-Pack-5a922714348e4a7cbaa45b2f0a8861bd",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 246,
+      "csv_data": [
+        "https://cryptosociety.notion.site/Web3-Starter-Pack-5a922714348e4a7cbaa45b2f0a8861bd",
+        "2",
+        "📣-announcements; 🕸｜new-to-web3",
+        "2022-01-05T03:05:22.387000+00:00",
+        "cryptosociety.notion.site",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://cryptosociety.notion.site/WEB3-STARTER-PACK-5a922714348e4a7cbaa45b2f0a8861bd",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 247,
+      "csv_data": [
+        "https://cryptosociety.notion.site/WEB3-STARTER-PACK-5a922714348e4a7cbaa45b2f0a8861bd",
+        "1",
+        "chat-transcripts",
+        "2022-05-03T01:22:20.135000+00:00",
+        "cryptosociety.notion.site",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://cryptosrus.com/snowdog-rug-pull-rocks-avalanche-what-happened/",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 248,
+      "csv_data": [
+        "https://cryptosrus.com/snowdog-rug-pull-rocks-avalanche-what-happened/",
+        "1",
+        "🔭-web3-examples",
+        "2021-12-08T15:33:48.348000+00:00",
+        "cryptosrus.com",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://dandelion.earth/events/61ad29373d9e26000f67acb9",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 249,
+      "csv_data": [
+        "https://dandelion.earth/events/61ad29373d9e26000f67acb9",
+        "1",
+        "📚｜reading-room",
+        "2021-12-22T13:25:13.401000+00:00",
+        "dandelion.earth",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://dandelion.earth/events/638b3ac3a1f6db000ba2a472",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 250,
+      "csv_data": [
+        "https://dandelion.earth/events/638b3ac3a1f6db000ba2a472",
+        "1",
+        "💡｜inspiration",
+        "2022-12-03T12:26:50.671000+00:00",
+        "dandelion.earth",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://dandelion.earth/events/6391dedf7fcda1000b579b73",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 251,
+      "csv_data": [
+        "https://dandelion.earth/events/6391dedf7fcda1000b579b73",
+        "1",
+        "⛲｜general",
+        "2022-12-13T22:14:21.696000+00:00",
+        "dandelion.earth",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://dandelion.earth/events/6393380fac459f000b4149dc",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 252,
+      "csv_data": [
+        "https://dandelion.earth/events/6393380fac459f000b4149dc",
+        "1",
+        "⛲｜general",
+        "2022-12-16T18:49:38.881000+00:00",
+        "dandelion.earth",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://dandelion.earth/events/639b8dd030c9ca000b76472d",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 253,
+      "csv_data": [
+        "https://dandelion.earth/events/639b8dd030c9ca000b76472d",
+        "1",
+        "⛲｜general",
+        "2022-12-16T18:49:38.881000+00:00",
+        "dandelion.earth",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://dandelion.earth/events/639cbcfee7ad90000b723744",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 254,
+      "csv_data": [
+        "https://dandelion.earth/events/639cbcfee7ad90000b723744",
+        "1",
+        "⛲｜general",
+        "2022-12-16T18:49:38.881000+00:00",
+        "dandelion.earth",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://dao-masters-onboard.super.site/find-ways-to-participate/join-as-a-contributor",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 255,
+      "csv_data": [
+        "https://dao-masters-onboard.super.site/find-ways-to-participate/join-as-a-contributor",
+        "1",
+        "general-circle",
+        "2022-01-02T13:34:51.793000+00:00",
+        "dao-masters-onboard.super.site",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://dao-or-never.simplecast.com/episodes/impact-daos-how-web3-can-address-humanitys-challenges",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 256,
+      "csv_data": [
+        "https://dao-or-never.simplecast.com/episodes/impact-daos-how-web3-can-address-humanitys-challenges",
+        "1",
+        "🔭-web3-examples",
+        "2023-01-12T21:10:59.718000+00:00",
+        "dao-or-never.simplecast.com",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://dao.allforclimate.earth/",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 257,
+      "csv_data": [
+        "https://dao.allforclimate.earth/",
+        "1",
+        "3｜🤝introductions",
+        "2021-12-16T14:51:13.145000+00:00",
+        "dao.allforclimate.earth",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://dao.mirror.xyz/19gUZ0AS7Xh4hQ75HI4C57Y58624f5BTBsBLvJBbgOE",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 258,
+      "csv_data": [
+        "https://dao.mirror.xyz/19gUZ0AS7Xh4hQ75HI4C57Y58624f5BTBsBLvJBbgOE",
+        "1",
+        "⛲｜general",
+        "2022-03-10T12:19:56.086000+00:00",
+        "dao.mirror.xyz",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://daocollective.xyz/advanced-search/",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 259,
+      "csv_data": [
+        "https://daocollective.xyz/advanced-search/",
+        "1",
+        "📚｜reading-room",
+        "2022-11-16T13:19:31.144000+00:00",
+        "daocollective.xyz",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://daocollective.xyz/advanced-search/?_p04674766=governance",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 260,
+      "csv_data": [
+        "https://daocollective.xyz/advanced-search/?_p04674766=governance",
+        "1",
+        "📣-announcements",
+        "2022-12-23T13:09:05.674000+00:00",
+        "daocollective.xyz",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://daocollective.xyz/governance/",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 261,
+      "csv_data": [
+        "https://daocollective.xyz/governance/",
+        "1",
+        "primitive-community",
+        "2023-02-01T02:57:05.597000+00:00",
+        "daocollective.xyz",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://daocollective.xyz/treasury-management/",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 262,
+      "csv_data": [
+        "https://daocollective.xyz/treasury-management/",
+        "1",
+        "📚｜reading-room",
+        "2022-09-26T22:27:27.901000+00:00",
+        "daocollective.xyz",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://daodrops.io/",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 263,
+      "csv_data": [
+        "https://daodrops.io/",
+        "2",
+        "general-circle; ⛲｜general",
+        "2023-01-16T21:52:15.199000+00:00",
+        "daodrops.io",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://daos.icdevs.org/ICDevs_DAO_Project.pdf",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 264,
+      "csv_data": [
+        "https://daos.icdevs.org/ICDevs_DAO_Project.pdf",
+        "1",
+        "📚｜reading-room",
+        "2024-07-09T12:26:47.864000+00:00",
+        "daos.icdevs.org",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://daostack.notion.site/DAOstack-end-of-road-update-and-the-Common-Open-Development-program-announcement-b808c3bf9e3a4b47bd42b7a67da707b4",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 265,
+      "csv_data": [
+        "https://daostack.notion.site/DAOstack-end-of-road-update-and-the-Common-Open-Development-program-announcement-b808c3bf9e3a4b47bd42b7a67da707b4",
+        "1",
+        "primitive-community",
+        "2024-02-20T09:36:17.486000+00:00",
+        "daostack.notion.site",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://daostar.org/",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 266,
+      "csv_data": [
+        "https://daostar.org/",
+        "1",
+        "governance",
+        "2022-04-05T16:30:08.380000+00:00",
+        "daostar.org",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://daotimes.com/an-interview-with-a-dao-money-grabber-how-they-are-draining-treasuries/",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 267,
+      "csv_data": [
+        "https://daotimes.com/an-interview-with-a-dao-money-grabber-how-they-are-draining-treasuries/",
+        "1",
+        "primitive-community",
+        "2023-05-01T19:46:46.490000+00:00",
+        "daotimes.com",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://daotimes.com/coinbase-commends-canadas-crypto-regulatory-framework-amid-increasing-u-s-scrutiny/",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 268,
+      "csv_data": [
+        "https://daotimes.com/coinbase-commends-canadas-crypto-regulatory-framework-amid-increasing-u-s-scrutiny/",
+        "1",
+        "5-bridging-old-into-better",
+        "2023-05-26T09:45:59.395000+00:00",
+        "daotimes.com",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://daotimes.com/comprehensive-dao-tooling-guide-list-of-dao-tools/?ref=dao-times-newsletter",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 269,
+      "csv_data": [
+        "https://daotimes.com/comprehensive-dao-tooling-guide-list-of-dao-tools/?ref=dao-times-newsletter",
+        "1",
+        "sb-governance",
+        "2023-01-20T17:27:59.070000+00:00",
+        "daotimes.com",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://daotimes.com/weekly-newsletter-of-dao-highlights-issue-24/",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 270,
+      "csv_data": [
+        "https://daotimes.com/weekly-newsletter-of-dao-highlights-issue-24/",
+        "1",
+        "📚｜reading-room",
+        "2023-05-26T09:49:26.054000+00:00",
+        "daotimes.com",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://daringfireball.net/projects/markdown/syntax",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 271,
+      "csv_data": [
+        "https://daringfireball.net/projects/markdown/syntax",
+        "1",
+        "general-circle",
+        "2022-03-02T15:01:07.428000+00:00",
+        "daringfireball.net",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://darkmatterlabs.org/feed/bioregional-financing-facilities",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 272,
+      "csv_data": [
+        "https://darkmatterlabs.org/feed/bioregional-financing-facilities",
+        "1",
+        "rp-core-team",
+        "2024-12-13T03:14:02.607000+00:00",
+        "darkmatterlabs.org",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://dash.scripty.org/premium",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 273,
+      "csv_data": [
+        "https://dash.scripty.org/premium",
+        "7",
+        "chat-transcripts",
+        "2023-11-23T22:13:17.967000+00:00",
+        "dash.scripty.org",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://davidphelps.substack.com/p/against-scarcity",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 274,
+      "csv_data": [
+        "https://davidphelps.substack.com/p/against-scarcity",
+        "1",
+        "📚｜reading-room",
+        "2022-01-10T14:22:16.355000+00:00",
+        "davidphelps.substack.com",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://dayone.ac/challenges/",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 275,
+      "csv_data": [
+        "https://dayone.ac/challenges/",
+        "1",
+        "primitive-community",
+        "2025-04-15T00:58:01.353000+00:00",
+        "dayone.ac",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://dayra.net/",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 276,
+      "csv_data": [
+        "https://dayra.net/",
+        "1",
+        "💡｜inspiration",
+        "2024-04-04T18:58:56.163000+00:00",
+        "dayra.net",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://decentralizedcollective.substack.com/p/community-builders-retrospective",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 277,
+      "csv_data": [
+        "https://decentralizedcollective.substack.com/p/community-builders-retrospective",
+        "1",
+        "community-experience",
+        "2022-07-11T17:04:59.191000+00:00",
+        "decentralizedcollective.substack.com",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://decolonialfutures.net/portfolio/preparing-for-the-end-of-the-world-as-we-know-it/",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 278,
+      "csv_data": [
+        "https://decolonialfutures.net/portfolio/preparing-for-the-end-of-the-world-as-we-know-it/",
+        "1",
+        "💡｜inspiration",
+        "2022-09-04T12:35:21.132000+00:00",
+        "decolonialfutures.net",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://decrypt.co/90276/defi-bribes-are-on-the-rise",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 279,
+      "csv_data": [
+        "https://decrypt.co/90276/defi-bribes-are-on-the-rise",
+        "1",
+        "📚｜reading-room",
+        "2022-01-17T15:06:58.128000+00:00",
+        "decrypt.co",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://decrypt.co/author/morereese",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 280,
+      "csv_data": [
+        "https://decrypt.co/author/morereese",
+        "1",
+        "rp-community",
+        "2024-02-20T16:54:05.785000+00:00",
+        "decrypt.co",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://deepfunding.org/",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 281,
+      "csv_data": [
+        "https://deepfunding.org/",
+        "2",
+        "primitive-community; 📚｜reading-room",
+        "2024-12-13T22:07:16.099000+00:00",
+        "deepfunding.org",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://definityfoundation.org/archives/50256",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 282,
+      "csv_data": [
+        "https://definityfoundation.org/archives/50256",
+        "1",
+        "📚｜reading-room",
+        "2024-11-01T12:27:42.848000+00:00",
+        "definityfoundation.org",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://degen.deafbeef.com/",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 283,
+      "csv_data": [
+        "https://degen.deafbeef.com/",
+        "1",
+        "🔭-web3-examples",
+        "2021-12-18T11:40:33.425000+00:00",
+        "degen.deafbeef.com",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://degenscore.com/",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 284,
+      "csv_data": [
+        "https://degenscore.com/",
+        "1",
+        "primitive-community",
+        "2023-10-04T23:12:52.999000+00:00",
+        "degenscore.com",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://delphilabs.medium.com/assimilating-the-borg-a-new-cryptolegal-framework-for-dao-adjacent-entities-569e54a43f83",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 285,
+      "csv_data": [
+        "https://delphilabs.medium.com/assimilating-the-borg-a-new-cryptolegal-framework-for-dao-adjacent-entities-569e54a43f83",
+        "1",
+        "primitive-community",
+        "2023-07-15T20:50:05.458000+00:00",
+        "delphilabs.medium.com",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://demoshelsinki.fi/wp-content/uploads/2022/01/Landscape-analysis-of-an-emergent-economic-movement-14012022.pdf",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 286,
+      "csv_data": [
+        "https://demoshelsinki.fi/wp-content/uploads/2022/01/Landscape-analysis-of-an-emergent-economic-movement-14012022.pdf",
+        "1",
+        "v0-toc-investment-thesis",
+        "2022-01-17T14:14:44.601000+00:00",
+        "demoshelsinki.fi",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://desktop.github.com/download/",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 287,
+      "csv_data": [
+        "https://desktop.github.com/download/",
+        "1",
+        "rp-core-team",
+        "2025-06-05T22:18:41.804000+00:00",
+        "desktop.github.com",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://dev.mirror.xyz/wghpfxTpxwXjXM9HsH7GUm4177oDXrTOjKI-aKPMOB0",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 288,
+      "csv_data": [
+        "https://dev.mirror.xyz/wghpfxTpxwXjXM9HsH7GUm4177oDXrTOjKI-aKPMOB0",
+        "1",
+        "governance",
+        "2021-10-13T22:53:32.485000+00:00",
+        "dev.mirror.xyz",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://devacademy.co.nz",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 289,
+      "csv_data": [
+        "https://devacademy.co.nz",
+        "1",
+        "community-hosting",
+        "2021-12-15T20:48:18.942000+00:00",
+        "devacademy.co.nz",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://devcon.org/en/",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 290,
+      "csv_data": [
+        "https://devcon.org/en/",
+        "1",
+        "rp-community",
+        "2024-11-11T17:38:07.365000+00:00",
+        "devcon.org",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": true,
+      "status_code": 200,
+      "url": "https://developers.cloudflare.com/pages/configuration/custom-domains/#add-a-custom-subdomain",
+      "content": "[Skip to content](https://developers.cloudflare.com/pages/configuration/custom-domains/#_top)\n\nCopy page\n\n# Custom domains\n\nWhen deploying your Pages project, you may wish to point custom domains (or subdomains) to your site.\n\n## Add a custom domain\n\nTo add a custom domain:\n\n1. In the Cloudflare dashboard, go to the **Workers & Pages** page.\n    [Go to **Workers & Pages**](https://dash.cloudflare.com/?to=/:account/workers-and-pages)\n2. Select your Pages project > **Custom domains**.\n\n3. Select **Set up a domain**.\n\n4. Provide the domain that you would like to serve your Cloudflare Pages site on and select **Continue**.\n\n\n![Adding a custom domain for your Pages project through the Cloudflare dashboard](https://developers.cloudflare.com/_astro/domains.zq4iMU_J_jMmg9.webp)\n\n### Add a custom apex domain\n\nIf you are deploying to an apex domain (for example, `example.com`), then you will need to add your site as a Cloudflare zone and [configure your nameservers](https://developers.cloudflare.com/pages/configuration/custom-domains/#configure-nameservers).\n\n#### Configure nameservers\n\nTo use a custom apex domain (for example, `example.com`) with your Pages project, [configure your nameservers to point to Cloudflare's nameservers](https://developers.cloudflare.com/dns/zone-setups/full-setup/setup/). If your nameservers are successfully pointed to Cloudflare, Cloudflare will proceed by creating a CNAME record for you.\n\n### Add a custom subdomain\n\nIf you are deploying to a subdomain, it is not necessary for your site to be a Cloudflare zone. You will need to [add a custom CNAME record](https://developers.cloudflare.com/pages/configuration/custom-domains/#add-a-custom-cname-record) to point the domain to your Cloudflare Pages site. To deploy your Pages project to a custom apex domain, that custom domain must be a zone on the Cloudflare account you have created your Pages project on.\n\n#### Add a custom CNAME record\n\nIf you do not want to point your nameservers to Cloudflare, you must create a custom CNAME record to use a subdomain with Cloudflare Pages. After logging in to your DNS provider, add a CNAME record for your desired subdomain, for example, `shop.example.com`. This record should point to your custom Pages subdomain, for example, `<YOUR_SITE>.pages.dev`.\n\n| Type | Name | Content |\n| --- | --- | --- |\n| `CNAME` | `shop.example.com` | `<YOUR_SITE>.pages.dev` |\n\nIf your site is already managed as a Cloudflare zone, the CNAME record will be added automatically after you confirm your DNS record.\n\n## Delete a custom domain\n\nTo detach a custom domain from your Pages project, you must modify your zone's DNS records.\n\n1. Go to the **DNS Records** page for your website in the Cloudflare dashboard.\n    [Go to **Records**](https://dash.cloudflare.com/?to=/:account/:zone/dns/records)\n2. Locate your Pages project's CNAME record.\n\n3. Select **Edit**.\n\n4. Select **Delete**.\n\n5. In the Cloudflare dashboard, go to the **Workers & Pages** page.\n    [Go to **Workers & Pages**](https://dash.cloudflare.com/?to=/:account/workers-and-pages)\n6. Select your Pages project.\n\n7. Go to **Custom domains**.\n\n8. Select the **three dot icon** next to your custom domain > **Remove domain**.\n\n\nAfter completing these steps, your Pages project will only be accessible through the `*.pages.dev` subdomain you chose when creating your project.\n\n## Disable access to `*.pages.dev` subdomain\n\nTo disable access to your project's provided `*.pages.dev` subdomain:\n\n1. Use Cloudflare Access over your previews (`*.{project}.pages.dev`). Refer to [Customize preview deployments access](https://developers.cloudflare.com/pages/configuration/preview-deployments/#customize-preview-deployments-access).\n\n2. Redirect the `*.pages.dev` URL associated with your production Pages project to a custom domain. You can use the account-level [Bulk Redirect](https://developers.cloudflare.com/rules/url-forwarding/bulk-redirects/) feature to redirect your `*.pages.dev` URL to a custom domain.\n\n\n## Caching\n\nFor guidelines on caching, refer to [Caching and performance](https://developers.cloudflare.com/pages/configuration/serving-pages/#caching-and-performance).\n\n## Known issues\n\n### CAA records\n\nCertification Authority Authorization (CAA) records allow you to restrict certificate issuance to specific Certificate Authorities (CAs).\n\nThis can cause issues when adding a [custom domain](https://developers.cloudflare.com/pages/configuration/custom-domains/) to your Pages project if you have CAA records that do not allow Cloudflare to issue a certificate for your custom domain.\n\nTo resolve this, add the necessary CAA records to allow Cloudflare to issue a certificate for your custom domain.\n\n```\nexample.com.            300     IN      CAA     0 issue \"letsencrypt.org\"\n\nexample.com.            300     IN      CAA     0 issue \"pki.goog; cansignhttpexchanges=yes\"\n\nexample.com.            300     IN      CAA     0 issue \"ssl.com\"\n\nexample.com.            300     IN      CAA     0 issuewild \"letsencrypt.org\"\n\nexample.com.            300     IN      CAA     0 issuewild \"pki.goog; cansignhttpexchanges=yes\"\n\nexample.com.            300     IN      CAA     0 issuewild \"ssl.com\"\n```\n\nRefer to the [Certification Authority Authorization (CAA) FAQ](https://developers.cloudflare.com/ssl/edge-certificates/troubleshooting/caa-records/) for more information.\n\n### Change DNS entry away from Pages and then back again\n\nOnce a custom domain is set up, if you change the DNS entry to point to something else (for example, your origin), the custom domain will become inactive. If you then change that DNS entry to point back at your custom domain, anybody using that DNS entry to visit your website will get errors until it becomes active again. If you want to redirect traffic away from your Pages project temporarily instead of changing the DNS entry, it would be better to use an [Origin rule](https://developers.cloudflare.com/rules/origin-rules/) or a [redirect rule](https://developers.cloudflare.com/rules/url-forwarding/single-redirects/create-dashboard/) instead.\n\n## Relevant resources\n\n- [Debugging Pages](https://developers.cloudflare.com/pages/configuration/debugging-pages/) \\- Review common errors when deploying your Pages project.\n\n## Was this helpful?\n\n- **Resources**\n- [API](https://developers.cloudflare.com/api/)\n- [New to Cloudflare?](https://developers.cloudflare.com/fundamentals/)\n- [Directory](https://developers.cloudflare.com/directory/)\n- [Sponsorships](https://developers.cloudflare.com/sponsorships/)\n- [Open Source](https://github.com/cloudflare)\n\n- **Support**\n- [Help Center](https://support.cloudflare.com/)\n- [System Status](https://www.cloudflarestatus.com/)\n- [Compliance](https://www.cloudflare.com/trust-hub/compliance-resources/)\n- [GDPR](https://www.cloudflare.com/trust-hub/gdpr/)\n\n- **Company**\n- [cloudflare.com](https://www.cloudflare.com/)\n- [Our team](https://www.cloudflare.com/people/)\n- [Careers](https://www.cloudflare.com/careers/)\n\n- **Tools**\n- [Cloudflare Radar](https://radar.cloudflare.com/)\n- [Speed Test](https://speed.cloudflare.com/)\n- [Is BGP Safe Yet?](https://isbgpsafeyet.com/)\n- [RPKI Toolkit](https://rpki.cloudflare.com/)\n- [Certificate Transparency](https://ct.cloudflare.com/)\n\n- **Community**\n- [X](https://x.com/cloudflare)\n- [Discord](http://discord.cloudflare.com/)\n- [YouTube](https://www.youtube.com/cloudflare)\n- [GitHub](https://github.com/cloudflare/cloudflare-docs)\n\n- © 2025 Cloudflare, Inc.\n- [Privacy Policy](https://www.cloudflare.com/privacypolicy/)\n- [Terms of Use](https://www.cloudflare.com/website-terms/)\n- [Report Security Issues](https://www.cloudflare.com/disclosure/)\n- [Trademark](https://www.cloudflare.com/trademark/)\n- ![privacy options](https://developers.cloudflare.com/_astro/privacyoptions.BWXSiJOZ_22PXh4.svg)Your Privacy Choices\n\n\nBack to top",
+      "title": "Custom domains · Cloudflare Pages docs",
+      "metadata": {
+        "og:site_name": "Cloudflare Docs",
+        "og:title": [
+          "Custom domains",
+          "Custom domains · Cloudflare Pages docs"
+        ],
+        "twitter:image": "https://developers.cloudflare.com/dev-products-preview.png",
+        "og:image": "https://developers.cloudflare.com/dev-products-preview.png",
+        "image": "https://developers.cloudflare.com/dev-products-preview.png",
+        "pcx_last_modified": "52",
+        "description": "When deploying your Pages project, you may wish to point custom domains (or subdomains) to your site.",
+        "pcx_content_type": "How to",
+        "viewport": "width=device-width, initial-scale=1",
+        "ogImage": "https://developers.cloudflare.com/dev-products-preview.png",
+        "ogDescription": "When deploying your Pages project, you may wish to point custom domains (or subdomains) to your site.",
+        "og:locale": "en",
+        "generator": [
+          "Astro v5.13.7",
+          "Starlight v0.36.0"
+        ],
+        "og:type": "article",
+        "title": "Custom domains · Cloudflare Pages docs",
+        "ogLocale": "en",
+        "pcx_product": "Pages",
+        "algolia_product_filter": "Pages",
+        "pcx_additional_products": "",
+        "twitter:card": "summary_large_image",
+        "ogUrl": "https://developers.cloudflare.com/pages/configuration/custom-domains/",
+        "pcx_content_group": "Developer platform",
+        "og:url": "https://developers.cloudflare.com/pages/configuration/custom-domains/",
+        "language": "en",
+        "twitter:site": "@cloudflare",
+        "algolia_content_type": "How to",
+        "ogSiteName": "Cloudflare Docs",
+        "og:description": "When deploying your Pages project, you may wish to point custom domains (or subdomains) to your site.",
+        "ogTitle": "Custom domains",
+        "favicon": "https://developers.cloudflare.com/favicon.png",
+        "scrapeId": "ca551201-3ee9-41ab-a634-b7dff48aa0c8",
+        "sourceURL": "https://developers.cloudflare.com/pages/configuration/custom-domains/#add-a-custom-subdomain",
+        "url": "https://developers.cloudflare.com/pages/configuration/custom-domains/",
+        "statusCode": 200,
+        "contentType": "text/html",
+        "proxyUsed": "basic",
+        "cacheState": "hit",
+        "cachedAt": "2025-11-09T02:30:42.480Z",
+        "creditsUsed": 1
+      },
+      "row_number": 291,
+      "csv_data": [
+        "https://developers.cloudflare.com/pages/configuration/custom-domains/#add-a-custom-subdomain",
+        "1",
+        "operations-chat",
+        "2024-10-17T21:11:25.991000+00:00",
+        "developers.cloudflare.com",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://devpost.com/software/impactdaos-map",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 292,
+      "csv_data": [
+        "https://devpost.com/software/impactdaos-map",
+        "1",
+        "research-and-sense-making",
+        "2022-03-26T16:37:38.410000+00:00",
+        "devpost.com",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://diatom.fund/",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 293,
+      "csv_data": [
+        "https://diatom.fund/",
+        "2",
+        "governance; chat-transcripts",
+        "2022-01-24T22:40:10.395000+00:00",
+        "diatom.fund",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://diatom.fund/auction/1",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 294,
+      "csv_data": [
+        "https://diatom.fund/auction/1",
+        "1",
+        "3-soulbound-portal",
+        "2021-12-03T08:37:14.050000+00:00",
+        "diatom.fund",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://dirtroads.substack.com/p/-19-klima-a-family-story",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 295,
+      "csv_data": [
+        "https://dirtroads.substack.com/p/-19-klima-a-family-story",
+        "1",
+        "🔭-web3-examples",
+        "2021-10-25T12:35:17.424000+00:00",
+        "dirtroads.substack.com",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://dirtroads.substack.com/p/-42-valkyrie-makerdao-and-our-side",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 296,
+      "csv_data": [
+        "https://dirtroads.substack.com/p/-42-valkyrie-makerdao-and-our-side",
+        "1",
+        "governance-research-project",
+        "2022-08-31T22:15:32.270000+00:00",
+        "dirtroads.substack.com",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://discord.bots.gg/bots/564426594144354315",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 297,
+      "csv_data": [
+        "https://discord.bots.gg/bots/564426594144354315",
+        "1",
+        "request-channel",
+        "2022-01-02T14:27:25.035000+00:00",
+        "discord.bots.gg",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://discord.new/ZrSxF8XxdW3N",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 298,
+      "csv_data": [
+        "https://discord.new/ZrSxF8XxdW3N",
+        "1",
+        "primitive-community",
+        "2023-02-25T20:31:36.501000+00:00",
+        "discord.new",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://discordapp.com/channels/874697948838101092/912749268832509993/915416762701479967",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 299,
+      "csv_data": [
+        "https://discordapp.com/channels/874697948838101092/912749268832509993/915416762701479967",
+        "1",
+        "v0-mission-vision-values",
+        "2021-12-01T01:53:42.320000+00:00",
+        "discordapp.com",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://discordbotlist.com/bots/feedbackbot",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 300,
+      "csv_data": [
+        "https://discordbotlist.com/bots/feedbackbot",
+        "1",
+        "request-channel",
+        "2022-01-02T14:27:25.035000+00:00",
+        "discordbotlist.com",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://discordguide.xyz/",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 301,
+      "csv_data": [
+        "https://discordguide.xyz/",
+        "1",
+        "📚｜reading-room",
+        "2022-01-05T12:08:54.396000+00:00",
+        "discordguide.xyz",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://discourse.metricsdao.xyz/t/feb-2022-contributor-rewards/87",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 302,
+      "csv_data": [
+        "https://discourse.metricsdao.xyz/t/feb-2022-contributor-rewards/87",
+        "1",
+        "chat-transcripts",
+        "2022-07-19T22:02:06.095000+00:00",
+        "discourse.metricsdao.xyz",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://discourse.metricsdao.xyz/t/metip-1-ratifying-the-metricsdao-constitution/228/2",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 303,
+      "csv_data": [
+        "https://discourse.metricsdao.xyz/t/metip-1-ratifying-the-metricsdao-constitution/228/2",
+        "1",
+        "chat-transcripts",
+        "2022-08-30T21:37:09.494000+00:00",
+        "discourse.metricsdao.xyz",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://discourse.metricsdao.xyz/t/template-metricsdao-improvement-proposal-metip/226",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 304,
+      "csv_data": [
+        "https://discourse.metricsdao.xyz/t/template-metricsdao-improvement-proposal-metip/226",
+        "1",
+        "primitive-core",
+        "2022-11-17T20:31:37.834000+00:00",
+        "discourse.metricsdao.xyz",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://dnschecker.org/all-dns-records-of-domain.php?query=_vercel.superbenefit.org&rtype=ALL&dns=cloudflare",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 305,
+      "csv_data": [
+        "https://dnschecker.org/all-dns-records-of-domain.php?query=_vercel.superbenefit.org&rtype=ALL&dns=cloudflare",
+        "1",
+        "operations-chat",
+        "2024-10-30T17:56:54.963000+00:00",
+        "dnschecker.org",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://docs.bitdao.io/",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 306,
+      "csv_data": [
+        "https://docs.bitdao.io/",
+        "1",
+        "v0-toc-investment-thesis",
+        "2022-01-13T18:23:23.266000+00:00",
+        "docs.bitdao.io",
+        "",
+        ""
+      ]
+    },
+    {
+      "success": false,
+      "status_code": 0,
+      "url": "https://docs.commonwealth.im/commonwealth/account-overview/creating-your-account",
+      "error": "Request timeout after 30 seconds",
+      "content": "",
+      "row_number": 307,
+      "csv_data": [
+        "https://docs.commonwealth.im/commonwealth/account-overview/creating-your-account",
+        "1",
+        "primitive-core",
+        "2023-02-22T23:44:27.003000+00:00",
+        "docs.commonwealth.im",
+        "",
+        ""
+      ]
+    }
+  ]
+}
