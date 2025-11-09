@@ -47,7 +47,7 @@ def fetch_url(url, api_key):
     """
 
     # Firecrawl API endpoint
-    api_url = "https://api.firecrawl.dev/v1/scrape"
+    api_url = "https://api.firecrawl.dev/v2/scrape"
 
     headers = {
         "Authorization": f"Bearer {api_key}",
