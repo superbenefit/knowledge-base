@@ -1,7 +1,7 @@
 ---
 title: Community Building in DAOs
 description: A practical guide to fostering vibrant, engaged communities within decentralized autonomous organizations, addressing key challenges and opportunities in web3 community development.
-publish: false
+publish: true
 type: guide
 source: https://docs.google.com/document/d/1CDUF9AZo9o8s5w5ouzkL_E3c_8WGx23FUv6mjLhYRuY/mobilebasic
 author:
@@ -42,4 +42,4 @@ This resource directly supports SuperBenefit's work on what the DAO Primitives f
 
 Relating to the Reimagining Power Project, the guide offers practical approaches to implementing what SuperBenefit calls "community governance" - systems that enable broad participation in shaping collective direction while maintaining operational effectiveness. The emphasis on cultural development as complementary to formal governance mechanisms supports SuperBenefit's holistic approach to coordination.
 
-The guide's exploration of diverse contribution mechanisms aligns with SuperBenefit's focus on creating what it terms "plurality" in participation models - recognizing that effective decentralized systems must accommodate different levels and forms of engagement rather than assuming uniform participation.
+The guide's exploration of diverse contribution mechanisms aligns with SuperBenefit's focus on creating "plurality" in participation models - recognizing that effective decentralized systems must accommodate different levels and forms of engagement rather than assuming uniform participation.

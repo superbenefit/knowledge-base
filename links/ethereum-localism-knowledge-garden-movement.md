@@ -1,7 +1,7 @@
 ---
 title: Ethereum Localism - Knowledge Garden and Movement
 description: An action-oriented research hub and community movement bridging digital blockchain innovation with real-world local impact through community-driven initiatives, tools, and educational resources that ground global technologies in local contexts.
-publish: false
+publish: true
 type: movement
 source: http://ethereumlocalism.xyz
 author:
@@ -21,6 +21,7 @@ tags:
 Ethereum Localism represents a groundbreaking movement that bridges the global potential of blockchain technology with the grounded reality of local community needs and resilience. Operating as both a knowledge garden and action-oriented research hub, the project challenges the typical "move fast and break things" mentality of tech innovation by asking how digital tools can strengthen rather than disrupt local economic and social systems. The movement emphasizes that "what is heavy should be local, what is light should be global and shared," creating frameworks for communities to leverage blockchain infrastructure while maintaining local autonomy and decision-making power.
 
 ### Key Highlights
+
 - **Knowledge Garden Approach**: Rather than static documentation, Ethereum Localism operates as a living, interconnected collection of ideas that grows through community contributions. This organic approach to knowledge creation mirrors the decentralized, community-driven principles the movement advocates for in economic and governance systems.
 - **Grounded Innovation Philosophy**: The movement explicitly counters extractive technology deployment by focusing on how blockchain tools can serve existing community needs rather than creating new dependencies. This includes practical applications like local stablecoins, quadratic funding for community projects, and decentralized governance systems that strengthen rather than replace local decision-making.
 - **Action Kit Implementation**: Beyond theoretical frameworks, Ethereum Localism provides concrete tools and templates for communities to implement blockchain-powered local initiatives. This includes step-by-step guides for creating local economic systems, funding community projects, and building resilient local infrastructure using decentralized technologies.

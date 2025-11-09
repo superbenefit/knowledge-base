@@ -17,7 +17,7 @@ tags:
   - open-source
 ---
 
-This foundational article introduces Retroactive Public Goods Funding (RetroQF), a mechanism designed to solve the fundamental problem of funding public goods and open source projects. Written collaboratively by Optimism and Vitalik Buterin, the piece addresses why talented builders often abandon public good projects for profit-driven ventures despite genuine desire to maximize social benefit. By creating "exits" for public goods projects based on demonstrated impact rather than business models, RetroQF aims to attract more resources and talent to projects that serve community benefit over individual wealth accumulation.
+This foundational article introduces Retroactive Public Goods Funding, a mechanism designed to solve the fundamental problem of funding public goods and open source projects. Written collaboratively by Optimism and Vitalik Buterin, the piece addresses why talented builders often abandon public good projects for profit-driven ventures despite genuine desire to maximize social benefit. By creating "exits" for public goods projects based on demonstrated impact rather than business models, RetroQF aims to attract more resources and talent to projects that serve community benefit over individual wealth accumulation.
 
 ### Key Highlights
 - **Core Innovation - Results Oracle**: The mechanism introduces a "Results Oracle" DAO that funds projects retroactively, rewarding those recognized as having already provided value. This approach leverages the principle that "it's easier to agree on what was useful than what will be useful," making impact assessment more objective and achievable than predictive funding.

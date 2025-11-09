@@ -1,7 +1,7 @@
 ---
 title: The Handbook of Handbooks for Decentralised Organising
 description: A comprehensive meta-resource collecting handbooks, guides, and toolkits for non-hierarchical coordination, serving groups from grassroots movements to cooperative workplaces.
-publish: false
+publish: true
 type: directory
 source: https://hackmd.io/@yHk1snI9T9SNpiFu2o17oA/Skh_dXNbE?type=view
 author:

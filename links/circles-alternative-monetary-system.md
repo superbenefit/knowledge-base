@@ -1,7 +1,7 @@
 ---
 title: Circles - Alternative Monetary System
 description: A radical reimagining of money where each person issues their own currency instead of relying on central authorities, creating trust-based networks for direct peer-to-peer exchange without banks or governments.
-publish: false
+publish: true
 type: platform
 source: https://aboutcircles.com/
 author:

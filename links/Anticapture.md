@@ -10,7 +10,7 @@ tags:
   - daos
 curator:
   - rathermercurial.eth
-publish: "true"
+publish: true
 type: link, practice
 functions:
   - governance

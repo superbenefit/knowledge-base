@@ -1,7 +1,7 @@
 ---
 title: 10 tools for systems change to a zero carbon world
 description: A concise toolkit presenting core approaches to systemic transformation for sustainability, offering practical frameworks for understanding and addressing complex climate challenges.
-publish: false
+publish: true
 type: guide
 source: https://futurestewards.com/wp-content/uploads/2021/12/10-tools-for-systems-change-to-a-zero-carbon-world.pdf
 author:

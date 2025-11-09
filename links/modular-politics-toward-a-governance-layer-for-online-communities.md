@@ -1,7 +1,7 @@
 ---
 title: Modular Politics - Toward a Governance Layer for Online Communities
 description: A framework proposing modular, interoperable governance components that enable communities to build flexible and adaptable governance systems across digital platforms.
-publish: false
+publish: true
 type: framework
 source: https://arxiv.org/pdf/2005.13701.pdf
 author:
@@ -18,7 +18,7 @@ tags:
   - coordination
 ---
 
-Modular Politics presents a comprehensive vision for digital governance that moves beyond platform-specific approaches toward interoperable, composable governance systems. Developed by a multidisciplinary team of researchers including Nathan Schneider and Primavera De Filippi, this framework proposes creating a governance layer for online communities that allows them to mix and match governance components across different platforms and contexts. Connected to the [Metagov](links/Metagov.md) research initiative, this paper outlines both the theoretical foundations and practical design considerations for implementing modular governance systems.
+*Modular Politics* presents a comprehensive vision for digital governance that moves beyond platform-specific approaches toward interoperable, composable governance systems. Developed by a multidisciplinary team of researchers including Nathan Schneider and Primavera De Filippi, this framework proposes creating a governance layer for online communities that allows them to mix and match governance components across different platforms and contexts. Connected to the [Metagov](links/Metagov.md) research initiative, this paper outlines both the theoretical foundations and practical design considerations for implementing modular governance systems.
 
 ### Key Highlights
 - **Governance Composability**: The framework introduces the concept of governance as modular components that can be combined like building blocks, allowing communities to create customized governance systems by selecting, configuring, and arranging various governance elements.
@@ -35,24 +35,6 @@ The framework proposes a governance layer with four fundamental design goals:
 > 2. **Expressiveness**: The governance layer should be able to implement as wide a range of processes as possible.
 > 3. **Portability**: Governance tools developed for one platform should be portable to another platform for reuse and adaptation.
 > 4. **Interoperability**: Governance systems operating on different platforms and protocols should have the ability to interact with each other, sharing data and influencing each other's processes.
-
-### Key Concepts
-
-The Modular Politics framework consists of several foundational elements:
-
-**Instances**: Operational environments where Modular Politics is implemented, tied to underlying platforms and defining the interface between governance systems and platforms.
-
-**Orgs (Organizations)**: Semi-autonomous governance environments within instances, representing specific groups or communities with defined governance structures that can be nested or parallel.
-
-**Modules**: Building blocks of the governance system - software packages that define specific governance functions like voting, petitioning, or resource management, highly flexible and combinable.
-
-**Monitors**: Special modules that gather and analyze data within the system, providing real-time feedback on governance processes, participant behavior, and resource management.
-
-**Permissions**: Control systems that determine what actions participants can perform within instances, Orgs, or modules, managing authority and access at different levels.
-
-**Resources**: Assets or objects within the governance system that participants can manage or affect, controlled by rules set in modules and Orgs.
-
-**Entities**: Participants in the system (individuals, bots, or groups) who engage with governance structures and have defined roles and permissions.
 
 ### Practical Applications
 

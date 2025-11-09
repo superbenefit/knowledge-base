@@ -1,7 +1,7 @@
 ---
 title: Rich Decibels - Decentralized Organizing Expert
 description: Personal resource hub of Richard D. Bartlett, co-founder of Loomio, Enspiral, and Microsolidarity, bridging community organizing traditions with decentralized governance innovations.
-publish: false
+publish: true
 type: resource-hub
 source: http://richdecibels.com/
 author:
