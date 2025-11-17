@@ -1,7 +1,7 @@
 {
-  "current_row": 517,
-  "total_analyzed": 573,
-  "last_session": "2025-11-10T12:14:13.716363Z",
+  "current_row": 1017,
+  "total_analyzed": 1073,
+  "last_session": "2025-11-17T22:48:00.046075Z",
   "method_used": "Firecrawl API via GitHub Actions for web scraping, manual triple-gate evaluation",
   "status_counts": {
     "Working": 141,
@@ -515,6 +515,258 @@
       "values_score": 32,
       "quality_score": 30,
       "uniqueness_score": 12
+    },
+    {
+      "url": "https://journals.sagepub.com/doi/full/10.1177/13505084221090632",
+      "score": 96,
+      "category": "ESSENTIAL",
+      "note": "Academic: Anarchist Technologies - anarchism, cybernetics, and mutual aid. Deep theoretical analysis of alternative technological systems",
+      "values_score": 40,
+      "quality_score": 38,
+      "uniqueness_score": 18
+    },
+    {
+      "url": "https://journals.sagepub.com/doi/10.1177/21582440211002526",
+      "score": 94,
+      "category": "ESSENTIAL",
+      "note": "Academic: When Ostrom Meets Blockchain - rigorous analysis of commons governance principles applied to blockchain systems",
+      "values_score": 38,
+      "quality_score": 38,
+      "uniqueness_score": 18
+    },
+    {
+      "url": "https://gov.gitcoin.co/t/the-donut-economy-x-8-forms-of-capital/10079",
+      "score": 90,
+      "category": "ESSENTIAL",
+      "note": "Gitcoin: Donut Economy x 8 Forms of Capital - comprehensive integration of regenerative economics frameworks",
+      "values_score": 38,
+      "quality_score": 36,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://journals.sagepub.com/doi/10.1177/20539517231159629",
+      "score": 90,
+      "category": "ESSENTIAL",
+      "note": "Academic: Expansive and Extractive Networks of Web3 - critical power-aware analysis of Web3 systems",
+      "values_score": 36,
+      "quality_score": 38,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://metagov.org/",
+      "score": 90,
+      "category": "ESSENTIAL",
+      "note": "Metagov.org - leading governance research organization and resource hub",
+      "values_score": 36,
+      "quality_score": 36,
+      "uniqueness_score": 18
+    },
+    {
+      "url": "https://otherinter.net/research/positive-sum-worlds/",
+      "score": 90,
+      "category": "ESSENTIAL",
+      "note": "Other Internet: Positive Sum Worlds - Remaking Public Goods. Thoughtful framework for public goods innovation",
+      "values_score": 38,
+      "quality_score": 36,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://hats.mirror.xyz/sZjE4zm3jwV9pwUoiqkfbQzabTlWYcdTQqN46iiLkyw",
+      "score": 88,
+      "category": "VALUABLE",
+      "note": "Hats Protocol: Structure Without Capture - anti-capture governance structure framework",
+      "values_score": 36,
+      "quality_score": 36,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://medium.com/metagov/beyond-daos-design-decisions-for-internet-organizations-5e5b21779104",
+      "score": 88,
+      "category": "VALUABLE",
+      "note": "Metagov: Beyond DAOs - Design Decisions for Internet Organizations. Comprehensive governance framework",
+      "values_score": 34,
+      "quality_score": 38,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://otherinter.net/research/crypto-philanthropy/",
+      "score": 88,
+      "category": "VALUABLE",
+      "note": "Other Internet: Aping into Progress - Crypto Philanthropy Report. Comprehensive research on crypto philanthropy",
+      "values_score": 36,
+      "quality_score": 36,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://medium.com/commonsstack/automating-ostrom-for-effective-dao-management-cfe7a7aea138",
+      "score": 88,
+      "category": "VALUABLE",
+      "note": "Commons Stack: Automating Ostrom for Effective DAO Management - practical commons governance framework",
+      "values_score": 38,
+      "quality_score": 34,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://gov.gitcoin.co/t/assembly-theory-x-onchain-capital-allocation-a-powerful-approach-to-allo-design-space-exploration/19729",
+      "score": 86,
+      "category": "VALUABLE",
+      "note": "Gitcoin: Assembly Theory x Onchain Capital Allocation - novel capital allocation approach with theoretical framework",
+      "values_score": 34,
+      "quality_score": 36,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://govbase.metagov.org/",
+      "score": 84,
+      "category": "VALUABLE",
+      "note": "Govbase - Metagov database of online governance projects. Specialized governance database",
+      "values_score": 32,
+      "quality_score": 34,
+      "uniqueness_score": 18
+    },
+    {
+      "url": "https://greenpill.network/pdf/onchain-impact-networks.pdf",
+      "score": 84,
+      "category": "VALUABLE",
+      "note": "GreenPill: Onchain Impact Networks (PDF) - regenerative impact networks resource",
+      "values_score": 36,
+      "quality_score": 34,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://hub.regencoordination.xyz/t/open-space-to-share-proposals-for-network-structure-strategy/258",
+      "score": 84,
+      "category": "VALUABLE",
+      "note": "Regen Coordination: Open Space for Network Structure Proposals - regenerative coordination process documentation",
+      "values_score": 38,
+      "quality_score": 32,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://hypercerts.org/",
+      "score": 84,
+      "category": "VALUABLE",
+      "note": "Hypercerts - impact certificates protocol. Novel impact tracking primitive",
+      "values_score": 34,
+      "quality_score": 34,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://journals.sagepub.com/doi/full/10.1177/0001839214557638",
+      "score": 84,
+      "category": "VALUABLE",
+      "note": "Academic: Using Negotiated Joining to Construct Open-ended Roles - organizational role construction research",
+      "values_score": 30,
+      "quality_score": 38,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://otherinter.net/research/pooltogether-offchain-report/",
+      "score": 84,
+      "category": "VALUABLE",
+      "note": "Other Internet: PoolTogether - Vibes, Labor, Constituencies. In-depth DAO ethnography case study",
+      "values_score": 34,
+      "quality_score": 36,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://medium.com/metagov/introducing-the-agreement-engine-bf03b6d5c16c",
+      "score": 84,
+      "category": "VALUABLE",
+      "note": "Metagov: Introducing the Agreement Engine - contract systems for community governance",
+      "values_score": 34,
+      "quality_score": 34,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://mirror.xyz/0x8B580433568E521ad351b92b98150c0C65ce69B7/1zGqbsh1YZNi3I9yvtk_2VMcpyg_dvHF1GlZ_LAO3p4",
+      "score": 82,
+      "category": "VALUABLE",
+      "note": "RnDAO: What is a DAO? Conceptual Foundations - comprehensive DAO conceptual analysis",
+      "values_score": 32,
+      "quality_score": 36,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://hats.mirror.xyz/xAk_yb7dDL1OLBx8nq47Ni7V1SuiC6L6B-49u7vz520",
+      "score": 82,
+      "category": "VALUABLE",
+      "note": "Hats: Modules - A New Era for Programmable Organizations. Modular organizational primitives",
+      "values_score": 32,
+      "quality_score": 34,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://gov.gitcoin.co/t/the-impactdao-poster-book-is-here/10323",
+      "score": 80,
+      "category": "VALUABLE",
+      "note": "Gitcoin: The ImpactDAO Poster/Book - visual educational resource for impact DAOs",
+      "values_score": 34,
+      "quality_score": 32,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://medium.com/flipside-governance/emerging-consensus-a-way-to-accelerate-decision-making-in-daos-c75aee6be87",
+      "score": 80,
+      "category": "VALUABLE",
+      "note": "Flipside: Emerging Consensus - practical framework for accelerating DAO decision-making",
+      "values_score": 32,
+      "quality_score": 34,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://society.mirror.xyz/B5ygLAJOcbI29x7vpNFBq3kmjDuvl6RW52oBuYKoBT0",
+      "score": 80,
+      "category": "VALUABLE",
+      "note": "Society: Building an Economy Within a DAO - economic framework for internal DAO economies",
+      "values_score": 34,
+      "quality_score": 32,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://medium.com/1kxnetwork/organization-legos-the-state-of-dao-tooling-866b6879e93e",
+      "score": 78,
+      "category": "GOOD",
+      "note": "1kx: Organization Legos - State of DAO Tooling. Comprehensive DAO tooling landscape analysis",
+      "values_score": 30,
+      "quality_score": 34,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://mirror.xyz/media.sobol.eth/wX2TBIdTZTR0t7K5y2qzDIi-U15nfacBhItMIbaawBU",
+      "score": 78,
+      "category": "GOOD",
+      "note": "Sobol: Diagramming DAOs #1 - Gitcoin. Visual DAO analysis and mapping case study",
+      "values_score": 32,
+      "quality_score": 32,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://operator.mirror.xyz/MBNHkLf0s-NPRty1gAsf1OrJji28JL3DfDCC7tACBW4",
+      "score": 76,
+      "category": "GOOD",
+      "note": "Operator: Protocol-first DAO Strategy - strategic framework for protocol-focused DAOs",
+      "values_score": 30,
+      "quality_score": 32,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://mirror.xyz/media.sobol.eth/_qfTMgEws2OZOMBxj-Elz7A0lto2gyaHmAFv_gKLYBE",
+      "score": 74,
+      "category": "GOOD",
+      "note": "Sobol: The Pragmatists Guide to DAOing - practical DAO governance guide",
+      "values_score": 30,
+      "quality_score": 32,
+      "uniqueness_score": 12
+    },
+    {
+      "url": "https://mirror.xyz/joaxap.eth/SBlRa5cehZx8ETMsTrbFpwRZ42zZaaxABsL5XSYJFn4",
+      "score": 72,
+      "category": "GOOD",
+      "note": "joaxap: DAO Governance Models - 101. Educational overview of DAO governance approaches",
+      "values_score": 30,
+      "quality_score": 30,
+      "uniqueness_score": 12
     }
   ],
   "sessions": [
@@ -607,6 +859,16 @@
       "failed_fetches": 20,
       "acceptance_rate": "15%",
       "note": "Systematic evaluation of 200 URLs (180 successful, 122 substantial). Applied rigorous triple-gate scoring. Found 18 library candidates (2 ESSENTIAL, 6 VALUABLE, 10 GOOD)"
+    },
+    {
+      "date": "2025-11-17T19:11:25.357873Z",
+      "method": "GitHub Actions + Firecrawl API",
+      "rows_processed": "518-1017",
+      "links_analyzed": 500,
+      "successful_fetches": 472,
+      "failed_fetches": 28,
+      "acceptance_rate": "5.9%",
+      "note": "Systematic evaluation of 500 URLs (472 successful, 336 substantial). Applied rigorous triple-gate scoring. Found 28 library candidates (6 ESSENTIAL, 17 VALUABLE, 5 GOOD). Includes outstanding academic papers on Ostrom, anarchist tech, and Web3 critique."
     }
   ]
 }
