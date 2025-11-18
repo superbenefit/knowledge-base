@@ -57,14 +57,8 @@ The comprehensive nature of the report provides both conceptual frameworks and p
 
 ### Connection With SuperBenefit
 
-- **Regenerative Coordination Frameworks**: The report's emphasis on collective intelligence for sustainability directly aligns with SuperBenefit's work on regenerative coordination, providing research-backed frameworks for how distributed decision-making can address complex challenges.
+- Validates SuperBenefit's conviction that addressing complex challenges like coordi-nation transformation requires collective intelligence across diverse knowledge domains—the report's integration of scientific expertise, lived experience, and multiple epistemologies mirrors how AIFS needed to bridge Web3 developers, grassroots sports organizers, and community members whose different ways of knowing couldn't be reduced to single technical framework.
 
-- **Digital Democracy for DAOs**: The analysis of digital democracy tools offers practical guidance for SuperBenefit's development of DAO governance mechanisms that genuinely distribute power rather than merely decentralizing technical infrastructure.
+- The emphasis on subsidiarity and nested governance provides theoretical grounding for SuperBenefit's approach to small autonomous teams coordinating across scales, showing how local operational autonomy within cells can coexist with collective strategic stewardship without requiring centralized control—the Demos Helsinki research demonstrates this works for sustainability challenges just as SuperBenefit applies it to organizational coordination.
 
-- **Multiple Ways of Knowing**: The report's integration of diverse epistemologies supports SuperBenefit's commitment to power-aware approaches that recognize different forms of expertise and lived experience rather than privileging technical knowledge.
-
-- **Subsidiarity and Nested Governance**: The framework's exploration of decision-making across scales informs SuperBenefit's work on nested working circles and polycentric coordination, showing how local autonomy and global coordination can coexist.
-
-- **Regenerative vs. Extractive Technology**: The report's clear distinction between regenerative and extractive approaches provides language for SuperBenefit to articulate why certain Web3 applications serve collective benefit while others reproduce extraction with new technologies.
-
-- **AI for Collective Intelligence**: The analysis of AI designed to augment rather than replace collective wisdom supports SuperBenefit's exploration of how decentralized technologies can enhance human coordination rather than automating governance.
+- Challenges SuperBenefit to ensure that AI and digital tools genuinely augment collective wisdom rather than concentrating decision-making power, resonating with the commitment to technology that enhances rather than replaces human relationship and judgment in governance processes.

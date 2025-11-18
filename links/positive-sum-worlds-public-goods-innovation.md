@@ -56,14 +56,8 @@ The combination of theoretical rigor and documented implementation makes the fra
 
 ### Connection With SuperBenefit
 
-- **Regenerative Economics Foundation**: The positive-sum framework provides theoretical grounding for SuperBenefit's regenerative economics work, showing how mechanisms can expand collective capacity rather than merely redistribute or extract value.
+- The positive-sum mechanism design framework provides mathematical grounding for SuperBenefit's regenerative economics emphasis, showing how quadratic funding and retroactive public goods funding can genuinely expand collective capacity rather than merely redistributing fixed resources—these mechanisms reward contribution to collective benefit in ways that align individual interest with ecosystem health, addressing the fundamental challenge of sustaining public goods without extraction or coercion.
 
-- **Public Goods Funding**: The report's examination of quadratic funding and retroactive mechanisms directly informs SuperBenefit's exploration of alternative funding approaches that reward community benefit over individual accumulation.
+- Other Internet's analysis of real-world implementations including Gitcoin Grants and Optimism's RetroPGF demonstrates that positive-sum public goods funding works at meaningful scale, validating SuperBenefit's conviction that crypto-economic mechanisms can serve regenerative outcomes when properly designed—providing proof points beyond theoretical advocacy that alternative funding approaches can deploy significant capital toward collective benefit.
 
-- **Coordination Mechanisms**: The analysis of coordination failure solutions supports SuperBenefit's work on primitives that enable collective action, providing evidence that well-designed mechanisms can overcome coordination challenges.
-
-- **Network Effects**: The emphasis on composability and network effects aligns with SuperBenefit's approach to building interoperable coordination tools that become more valuable as more communities use them.
-
-- **Measurement Challenges**: The report's treatment of impact measurement informs SuperBenefit's thinking about how to make regenerative value creation legible without reducing everything to financial metrics.
-
-- **Proof of Concept**: The documented real-world implementations provide evidence for SuperBenefit's advocacy that regenerative crypto-economics can work at scale, not just in theory but with actual capital deployed.
+- The emphasis on making impact legible through attestations and reputation systems informs SuperBenefit's thinking about how to recognize diverse forms of value creation beyond financial metrics, showing how mechanisms can reward social capital, knowledge sharing, and ecosystem building that conventional markets ignore.

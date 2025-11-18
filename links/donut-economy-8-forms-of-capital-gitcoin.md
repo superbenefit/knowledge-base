@@ -57,14 +57,8 @@ The framework's combination of theoretical rigor and practical applicability mak
 
 ### Connection With SuperBenefit
 
-- **Regenerative Economics Foundation**: The donut x 8 capitals integration provides comprehensive framework for SuperBenefit's regenerative economics work, offering specific language and metrics for what makes coordination systems genuinely regenerative rather than merely sustainable.
+- The 8 Forms of Capital framework provides language for SuperBenefit's understanding that regenerative coordination creates value across multiple dimensions—living capital (ecosystems), social capital (relationships), cultural capital (traditions), experiential capital (wisdom)—that conventional economics and even most Web3 tokenomics completely ignore, offering practical tools to evaluate whether coordination primitives genuinely enhance collective capacity or merely redistribute financial wealth.
 
-- **Holistic Value Recognition**: The 8 capitals model supports SuperBenefit's emphasis that value manifests in relationships, knowledge, cultural practices, and ecological health—not only financial tokens—informing how DAO mechanisms can reward diverse forms of contribution.
+- Donut economics' dual commitment to planetary boundaries (ecological ceiling) and social foundations (meeting basic needs) challenges SuperBenefit to ensure that regenerative systems don't just reduce harm but actively operate within ecological limits while guaranteeing wellbeing—moving beyond sustainability rhetoric to concrete constraints and positive commitments that must be embedded at protocol level.
 
-- **Planetary Boundaries Integration**: The donut economics planetary ceiling provides concrete constraints for SuperBenefit's work, showing how regenerative coordination must respect ecological limits rather than assuming infinite growth possibilities.
-
-- **Social Foundation Commitments**: The donut's social floor informs SuperBenefit's understanding that regenerative systems must ensure collective wellbeing and basic needs, not merely reduce extraction—requiring positive commitments beyond harm reduction.
-
-- **Gitcoin Precedent**: The framework's application in Gitcoin demonstrates that major Web3 projects can operationalize regenerative principles, providing precedent for SuperBenefit's advocacy that alternative economics can work at scale.
-
-- **Multi-Capital Measurement**: The capitals framework offers practical tools for SuperBenefit to evaluate whether coordination primitives enhance or deplete different forms of wealth, moving beyond abstract values rhetoric to concrete assessment criteria.
+- Gitcoin's implementation of this integrated framework demonstrates that alternative economics can work at meaningful scale with real capital deployed, providing evidence for SuperBenefit's conviction that quadratic funding and public goods mechanisms can reward community benefit over individual accumulation when properly designed.

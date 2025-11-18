@@ -58,14 +58,8 @@ The rigorous scholarly approach provides credibility when challenging dominant W
 
 ### Connection With SuperBenefit
 
-- **Power-Aware Protocol Design**: The article's detailed power analysis directly supports SuperBenefit's commitment to power-aware approaches, providing analytical tools for distinguishing genuinely regenerative coordination from extraction disguised as decentralization.
+- The expansive versus extractive framework provides rigorous analytical tools for SuperBenefit's power-aware approach, offering clear criteria to distinguish coordination systems that genuinely distribute decision-making power and enhance collective capacity from those that concentrate wealth through token plutocracy while claiming decentralization—the paper's methodology enables evaluating whether specific protocols serve regenerative values or reproduce extraction with new technical infrastructure.
 
-- **Beyond Token Plutocracy**: The critique of token-weighted governance informs SuperBenefit's exploration of alternative mechanisms (quadratic voting, reputation systems, participation-based rights) that distribute power beyond capital ownership.
+- The detailed critique of token-weighted governance validates SuperBenefit's exploration of alternatives like quadratic mechanisms and participation-based rights rather than one-token-one-vote systems, showing why capital-based governance reproduces plutocracy despite decentralization rhetoric—directly relevant to RPP's multi-stakeholder governance challenges where equitable voice couldn't depend on equal capital stakes.
 
-- **Labor and Value Distribution**: The analysis of value extraction from community labor supports SuperBenefit's work on rewarding diverse forms of contribution rather than directing gains primarily toward token holders.
-
-- **Commons Protection**: The enclosure critique helps SuperBenefit recognize and resist when coordination tools risk enclosing shared resources, informing commitment to commons stewardship rather than protocol ownership.
-
-- **Expansive Network Goals**: The expansive networks framework provides language for SuperBenefit's aspirations—building coordination systems that genuinely enhance collective capacity rather than merely changing who extracts value.
-
-- **Critical Evaluation Tools**: The article's methodology offers SuperBenefit practical tools for evaluating whether specific Web3 projects align with regenerative values or reproduce extraction, enabling more rigorous partner assessment and design choices.
+- The commons enclosure analysis helps SuperBenefit recognize when Web3 coordination tools risk enclosing previously shared resources through protocol fees and proprietary layers, informing the commitment to commons stewardship and ensuring that DAO primitives serve collective benefit rather than concentrating gains among early investors and founders.

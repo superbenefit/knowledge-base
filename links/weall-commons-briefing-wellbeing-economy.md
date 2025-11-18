@@ -56,14 +56,8 @@ The policy-oriented framing makes the briefing particularly useful for advocacy 
 
 ### Connection With SuperBenefit
 
-- **Wellbeing Over Growth**: WEAll's challenge to growth economics aligns with SuperBenefit's regenerative approach, providing framework for why Web3 systems should optimize for collective flourishing rather than merely decentralizing growth-based models.
+- WEAll's challenge to growth-at-all-costs economics provides essential framing for SuperBenefit's regenerative approach, showing why genuinely transformative Web3 systems must optimize for collective wellbeing and ecological health rather than merely decentralizing GDP growth models—the briefing demonstrates that commons governance can prioritize regeneration over extraction when properly structured.
 
-- **Commons Governance Precedents**: The documented commons models inform SuperBenefit's work on DAO governance and community stewardship, showing how shared resource management works in practice across diverse contexts.
+- The documented commons governance models across community land trusts, cooperative fisheries, and indigenous stewardship systems validate SuperBenefit's emphasis on shared resource management and community stewardship, offering proven precedents that DAO governance can learn from rather than assuming blockchain represents entirely novel coordination challenges.
 
-- **Third Way Beyond Markets and State**: The briefing's articulation of commons as alternative to both private ownership and state control supports SuperBenefit's exploration of coordination systems that distribute power beyond traditional dichotomies.
-
-- **Participatory Economic Democracy**: The emphasis on participatory decision-making in resource governance aligns with SuperBenefit's commitment to democratic coordination, showing why economic and governance participation should be integrated rather than separated.
-
-- **Ecological Integration**: The briefing's grounding in ecological economics informs SuperBenefit's understanding that regenerative systems must respect planetary boundaries and serve ecological health, not just reduce extraction rates.
-
-- **Policy Advocacy Tools**: WEAll's policy recommendations provide frameworks for SuperBenefit to engage institutions and policymakers about regulatory support for decentralized commons governance.
+- The briefing's articulation of commons as third way beyond private property and state control resonates with SuperBenefit's exploration of coordination systems that distribute power beyond traditional market/state dichotomies, showing how participatory resource governance can combine distributed stewardship with collective accountability—relevant to how DAOs can serve commons rather than reproducing corporate structures with tokens.

@@ -56,14 +56,8 @@ The toolkit's combination of principles, practical frameworks, and honest case s
 
 ### Connection With SuperBenefit
 
-- **Decolonial Partnership Models**: The toolkit provides practical frameworks for SuperBenefit's commitment to indigenous partnership and decolonial practice, showing how to structure collaboration that genuinely redistributes power rather than merely consulting indigenous voices.
+- The toolkit's distinction between placekeeping (ongoing indigenous relationship with land) and settler placemaking challenges SuperBenefit to recognize that regenerative coordination must honor existing relationships with territory rather than imposing new structures—suggesting that bioregional organizing and place-based work requires entering into relationship with lands already cared for through millennia of indigenous stewardship, not creating coordination systems from scratch.
 
-- **Land Relationships**: The emphasis on land as relationship rather than resource informs SuperBenefit's understanding that regenerative approaches must address relationship with territory, not just reduce extraction metrics—challenging purely digital coordination models.
+- Provides practical frameworks for power redistribution and resource sharing that ground SuperBenefit's commitment to decolonial practice in concrete actions beyond consultation, showing how meaningful partnership requires institutional transformation, capacity building, and recognizing indigenous sovereignty rather than merely including indigenous voices in predetermined Web3 governance structures.
 
-- **Sovereignty and Self-Determination**: The toolkit's centering of indigenous sovereignty supports SuperBenefit's work to ensure that decentralized governance tools serve community self-determination rather than imposing new coordination structures on communities with existing governance systems.
-
-- **Power-Aware Design**: The explicit treatment of power imbalances and resource redistribution provides practical guidance for SuperBenefit's commitment to power-aware approaches in DAO governance and funding mechanisms.
-
-- **Reconciliation as Transformation**: The framing of reconciliation as ongoing institutional transformation rather than diversity initiative challenges SuperBenefit to address how Web3 projects can participate in reconciliation through sovereignty support, resource sharing, and structural change.
-
-- **Place-Based Coordination**: The placekeeping emphasis suggests that some aspects of regenerative coordination must be place-based and rooted in relationship with specific territories rather than abstracted to global digital platforms—informing how SuperBenefit thinks about local-global relationships.
+- The reconciliation-as-ongoing-practice framing challenges SuperBenefit to understand decolonization as continuous accountability and relationship-building rather than achieved state, informing how regenerative projects must address complicity with colonial systems through sustained commitment to land back, sovereignty support, and structural change.

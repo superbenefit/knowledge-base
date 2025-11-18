@@ -59,14 +59,8 @@ The interview's value lies in expanding imaginative possibilities rather than pr
 
 ### Connection With SuperBenefit
 
-- **Regenerative Technology Principles**: Bridle's ecological framing provides philosophical depth for SuperBenefit's commitment to regenerative approaches, showing why genuinely regenerative systems must reimagine relationship with living world rather than merely reducing extraction.
+- Bridle's ecological technology framework challenges SuperBenefit to ensure regenerative approaches engage relationship with the more-than-human world rather than merely optimizing extractive systems—suggesting that genuinely regenerative coordination must acknowledge interdependence with living systems and bioregional contexts, not just reduce carbon footprints or improve social equity within fundamentally extractive structures.
 
-- **More-Than-Human Considerations**: The emphasis on technologies that acknowledge non-human intelligence and agency supports SuperBenefit's work to ensure Web3 applications consider ecological impacts beyond carbon accounting—recognizing interconnection with broader living systems.
+- The emphasis on different temporalities and slowness offers critical counterpoint to Web3's speed obsessions, resonating with SuperBenefit's experience that trust-building and relationship work in experiments like AIFS required patience across seasons and cycles rather than rapid iteration toward predetermined outcomes—some coordination emerges through attention and care rather than efficiency optimization.
 
-- **Indigenous Technology Wisdom**: Bridle's respect for indigenous technological traditions aligns with SuperBenefit's decolonial commitments, offering frameworks for why indigenous knowledge must inform rather than merely be consulted in regenerative design.
-
-- **Slowness vs. Speed**: The temporal critique challenges SuperBenefit to question Web3's speed obsessions (transaction throughput, rapid iteration), suggesting that some coordination requires different timescales for relationship-building and emergence.
-
-- **Systemic Over Isolated Solutions**: The systemic thinking emphasis supports SuperBenefit's integrated approach to transformation rather than isolated technical fixes, recognizing how governance, economics, and ecology form inseparable wholes.
-
-- **Opacity and Non-Transparency**: Bridle's argument for appropriate opacity provides counterpoint to blockchain's total transparency rhetoric, suggesting that some aspects of regenerative coordination may require privacy, mystery, and limits to knowability rather than comprehensive visibility.
+- Bridle's respect for indigenous technological traditions as sophisticated multi-generational practices grounds SuperBenefit's decolonial commitments, showing why indigenous knowledge must fundamentally inform regenerative design rather than being consulted as validation for predetermined Western approaches.
