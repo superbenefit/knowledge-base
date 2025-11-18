@@ -1,6 +1,6 @@
 {
-  "current_row": 1517,
-  "total_analyzed": 1573,
+  "current_row": 1817,
+  "total_analyzed": 1790,
   "last_session": "2025-11-18T00:06:19.481548Z",
   "method_used": "Firecrawl API via GitHub Actions for web scraping, manual triple-gate evaluation",
   "status_counts": {
@@ -938,6 +938,132 @@
       "values_score": 32,
       "quality_score": 30,
       "uniqueness_score": 12
+    },
+    {
+      "url": "https://www.radicalxchange.org/media/blog/plurality-technology-for-collaborative-diversity-and-democracy/",
+      "score": 97,
+      "category": "ESSENTIAL",
+      "note": "Plurality: Technology for Collaborative Diversity and Democracy - RadicalxChange. The full Plurality book by Glen Weyl, Audrey Tang et al. Massive (208K chars) comprehensive work on pluralistic democracy and technology. Essential resource on democratic innovation, collective intelligence, and collaborative governance.",
+      "values_score": 38,
+      "quality_score": 39,
+      "uniqueness_score": 20
+    },
+    {
+      "url": "https://www.taylorfrancis.com/books/oa-edit/10.4324/9781003199816/sacred-civics-jayne-engle-julian-agyeman-tanya-chung-tiam-fook",
+      "score": 88,
+      "category": "VALUABLE",
+      "note": "Sacred Civics: Building Seven Generation Cities - Open access book exploring Indigenous knowledge and seven-generation thinking in urban governance. Integrates participatory governance, commons, and transformation. Strong on decolonial perspectives and long-term systems change.",
+      "values_score": 35,
+      "quality_score": 35,
+      "uniqueness_score": 18
+    },
+    {
+      "url": "https://www.noemamag.com/we-need-to-rewild-the-internet/?utm_source=premiumnewsletter&utm_medium=email",
+      "score": 87,
+      "category": "VALUABLE",
+      "note": "We Need To Rewild The Internet - Noema Magazine. Applies ecological restoration principles to internet infrastructure. Outstanding metaphor of monoculture vs. biodiversity for understanding tech monopolies. Regenerative, anti-extractive vision for digital commons.",
+      "values_score": 32,
+      "quality_score": 36,
+      "uniqueness_score": 19
+    },
+    {
+      "url": "https://www.noemamag.com/how-we-can-encode-human-rights-in-the-blockchain",
+      "score": 85,
+      "category": "VALUABLE",
+      "note": "How We Can Encode Human Rights In The Blockchain - Nathan Schneider for Noema. Explores embedding human rights protections into blockchain protocols. Power-aware critique of 'neutrality' in crypto. Envisions blockchains as alternative to state-based international order.",
+      "values_score": 33,
+      "quality_score": 35,
+      "uniqueness_score": 17
+    },
+    {
+      "url": "https://www.rockpa.org/wp-content/uploads/2023/02/Power-Equity-Summary-Report-2.pdf",
+      "score": 84,
+      "category": "VALUABLE",
+      "note": "Shifting Power to Shift Systems - Rockefeller Philanthropy Advisors report. Comprehensive framework on power equity in philanthropy and systems change. Strong on participatory approaches, solidarity, and addressing power dynamics in funding.",
+      "values_score": 33,
+      "quality_score": 36,
+      "uniqueness_score": 15
+    },
+    {
+      "url": "https://www.vancouverfoundation.ca/wp-content/uploads/2022/08/RR-Fund-Equity-Matrix.pdf",
+      "score": 84,
+      "category": "VALUABLE",
+      "note": "Equity Matrix - Vancouver Foundation. Practical tool adapted from Indigenous-led work distinguishing orgs that serve equity-denied groups vs. those led by them. Grounded in proximity to issue and self-determination. Excellent for grant-making.",
+      "values_score": 34,
+      "quality_score": 34,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://www.whcatalysis.org/whao",
+      "score": 84,
+      "category": "VALUABLE",
+      "note": "WHAO (World Heritage Autonomous Organisation) - World Heritage Catalysis. Applying Ostrom's commons governance principles to DAOs in context of World Heritage sites. Polycentric governance, participatory structures, regenerative communities. Novel synthesis.",
+      "values_score": 34,
+      "quality_score": 32,
+      "uniqueness_score": 18
+    },
+    {
+      "url": "https://zine.zora.co/solarpunk-web3-kareola",
+      "score": 84,
+      "category": "VALUABLE",
+      "note": "Planetary Infrastructure as Resistance: Solarpunk and Web3 - ZORA ZINE. Connects solarpunk aesthetics/values to regenerative Web3. Bridges crypto-economics with climate/sustainability. Cites Ursula K. Le Guin and decentralized futures. Strong on regenerative coordination.",
+      "values_score": 34,
+      "quality_score": 33,
+      "uniqueness_score": 17
+    },
+    {
+      "url": "https://www.noemamag.com/tomorrows-democracy-is-open-source",
+      "score": 83,
+      "category": "VALUABLE",
+      "note": "Tomorrow's Democracy Is Open Source - Noema Magazine. Argues for treating democracy like open-source software: participatory, iterative, collaborative. Digital governance as commons. Strong on democratic innovation and public code.",
+      "values_score": 33,
+      "quality_score": 35,
+      "uniqueness_score": 15
+    },
+    {
+      "url": "https://www.radicalxchange.org/#",
+      "score": 82,
+      "category": "VALUABLE",
+      "note": "RadicalxChange - Main organization site. Core resource on democratic transformation, resilient decentralization, and collective agency. Practical tools for plural publics and systemic transition. Foundational organization in the space.",
+      "values_score": 35,
+      "quality_score": 32,
+      "uniqueness_score": 15
+    },
+    {
+      "url": "https://www.regen.melbourne/news/new-urban-governance-first-report",
+      "score": 82,
+      "category": "VALUABLE",
+      "note": "Enabling a Thriving Civic Life: Trialling Distributed Grant Making - Regen Melbourne report on experimenting with the Wellbeing Protocol (Hum app) for participatory grant-making. New urban governance, community-democratic systems relationship.",
+      "values_score": 33,
+      "quality_score": 34,
+      "uniqueness_score": 15
+    },
+    {
+      "url": "https://www.noemamag.com/what-if-money-expired",
+      "score": 81,
+      "category": "VALUABLE",
+      "note": "What If Money Expired? - Noema Magazine on Silvio Gesell's alternative currency concept (demurrage). Post-capitalist economics, challenges accumulation/hoarding. Historical anarchist economics with contemporary relevance.",
+      "values_score": 31,
+      "quality_score": 33,
+      "uniqueness_score": 17
+    },
+    {
+      "url": "https://www.thefuturescentre.org/governance-the-overlooked-route-to-transformation-how-can-we-best-organise-for-change/",
+      "score": 76,
+      "category": "GOOD",
+      "note": "Governance: The Overlooked Route to Transformation - Forum for the Future on strategic foresight and transformative governance. Participatory futures, systems thinking, regenerative approaches.",
+      "values_score": 32,
+      "quality_score": 30,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://www3.weforum.org/docs/WEF_Decentralized_Autonomous_Organization_Toolkit_2023.pdf",
+      "score": 76,
+      "category": "GOOD",
+      "note": "Decentralized Autonomous Organization Toolkit - World Economic Forum 2023 report. Comprehensive DAO operations, governance frameworks, legal structures. Educational resource from institutional perspective. Practical recommendations.",
+      "values_score": 27,
+      "quality_score": 36,
+      "uniqueness_score": 13
     }
   ],
   "sessions": [
@@ -1050,6 +1176,14 @@
       "failed_fetches": 58,
       "acceptance_rate": "4.3%",
       "note": "Systematic evaluation of 500 URLs (442 successful, 271 substantial). Very rigorous scoring. Found 19 library candidates (2 ESSENTIAL, 13 VALUABLE, 4 GOOD). Includes Bayo Akomolafe decolonial philanthropy, SSIR articles, Vitalik on DAOs, Funding the Commons, and more."
+    },
+    {
+      "date": "2025-11-18T01:03:16.635754",
+      "batch": "rows-1518-to-1817",
+      "urls_evaluated": 217,
+      "candidates_added": 14,
+      "acceptance_rate": "6.4%",
+      "notes": "FINAL BATCH - Discord URL mining complete! Rigorous triple-gate scoring maintained high standards (6.4% acceptance). Top finds: Plurality book (97 ESSENTIAL), Sacred Civics (88), Rewild Internet (87), RadicalxChange resources, Noema Magazine articles, regenerative governance frameworks. Total mission accomplished: 1817 rows analyzed, 111 library candidates identified."
     }
   ]
 }
