@@ -16,11 +16,11 @@ _A pattern for enabling collective stewardship and evolution of decentralized ne
 
 ## Context
 
-Community governance enables broad networks of stakeholders to collectively steward shared resources and guide organizational evolution through transparent, participatory decision-making processes at the constituency scale. This pattern provides frameworks for implementing inclusive, transparent, and sustainable governance systems that safeguard organizational purpose while enabling community-driven evolution.
+Community [governance](tags/governance.md) enables broad networks of stakeholders to collectively steward shared resources and guide organizational evolution through transparent, participatory decision-making processes at the constituency scale. This pattern provides frameworks for implementing inclusive, transparent, and sustainable governance systems that safeguard organizational purpose while enabling community-driven evolution.
 
-The pattern serves organizations and networks operating at scales beyond individual teams, particularly those managing commons resources, coordinating diverse stakeholder interests, or seeking to distribute power across constituent communities. Unlike operational governance that focuses on execution, community governance addresses strategic direction, values alignment, and long-term sustainability through collective stewardship.
+The pattern serves organizations and networks operating at scales beyond individual [teams](tags/teams.md), particularly those managing commons resources, coordinating diverse stakeholder interests, or seeking to distribute power across constituent communities. Unlike operational governance that focuses on execution, community governance addresses strategic direction, values alignment, and long-term sustainability through collective stewardship.
 
-Organizations implementing this pattern include DAOs managing protocol evolution and treasury resources, commons initiatives stewarding shared environmental or digital resources, multi-stakeholder cooperatives balancing diverse member interests, and movement networks coordinating action across autonomous local groups. The pattern has emerged from recognition that sustainable governance requires meaningful participation from affected communities rather than delegation to representative bodies.
+Organizations implementing this pattern include [DAOs](tags/daos.md) managing protocol evolution and treasury resources, commons initiatives stewarding shared environmental or digital resources, multi-stakeholder cooperatives balancing diverse member interests, and movement networks [coordinating](tags/coordination.md) action across autonomous local groups. The pattern has emerged from recognition that sustainable governance requires meaningful participation from affected communities rather than delegation to representative bodies.
 
 ---
 
@@ -126,3 +126,13 @@ ICS's approach showed particular wisdom in not forcing broader participation bef
 The organization faced a specific challenge: their Prepare funding stream selected 6-7 grants from approximately 1,000 applications annually, operating across 85 countries. Traditional participatory methods—where all stakeholders could meaningfully engage with all decisions—became impossible at this scale. The exploration revealed that community governance at scale requires new mechanisms that maintain participatory values while acknowledging practical constraints.
 
 Key insights from their exploration included the need for tiered participation structures where different stakeholder groups engage at appropriate levels, delegation mechanisms that maintain accountability while enabling efficiency, and technology infrastructure that could support global participation while respecting safety constraints in restricted contexts. While full implementation remained incomplete during the experiment period, the exploration provided critical learning about prerequisites for community governance in international development contexts.
+
+---
+
+## Related Concepts
+
+- [Governance](tags/governance.md) - Decision-making frameworks and processes
+- [DAOs](tags/daos.md) - Decentralized organizations that community governance enables
+- [Coordination](tags/coordination.md) - Mechanisms for aligning collective action
+- [Operational Governance](artifacts/patterns/operational-governance.md) - Day-to-day execution within community-set boundaries
+- [Teams](tags/teams.md) - Small autonomous groups operating within community governance frameworks

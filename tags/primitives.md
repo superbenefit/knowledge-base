@@ -45,3 +45,13 @@ At SuperBenefit, we're exploring the potential and practical uses of web3 primit
 Some notes in this knowledge garden represent primitives, and include metadata to help you navigate and discover them.
 
 Notes which represent #primitives are indicated using the tools/types/primitive file class (`type: primitive`). This file class (a subclass of tools/types/resource/resource and [link](tools/types/link.md) ) contains several metadata fields which are either inherited or unique.
+
+---
+
+## Related Concepts
+
+- [DAO Primitives Project](notes/dao-primitives/index.md) - Framework for building purpose-aligned networks using organizational primitives
+- [Patterns](artifacts/patterns/index.md) - Reusable solutions built from combining primitives
+- [Coordination](tags/coordination.md) - The fundamental challenge that primitives help address
+- [Protocols](tags/protocols.md) - Standardized rules that enable primitives to work together
+- [Governance](tags/governance.md) - Systems built using governance primitives

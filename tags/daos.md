@@ -73,7 +73,7 @@ While implementations vary widely, most DAOs share several defining characterist
 
 - [Governance](tags/governance.md) - The frameworks and processes that guide decision-making in DAOs
 - [Decentralization](tags/decentralization.md) - A key design principle in DAO structures
-- [Cells](drafts/test-resources/test-pattern.md) - Autonomous teams that form the building blocks of DAO networks
+- [Cells](artifacts/guides/dao-primitives-framework/group-primitives/cells.md) - Autonomous teams that form the building blocks of DAO networks
 - [Primitives](tags/primitives.md) - Fundamental components used to design and build DAO systems
 - [Consensus](tags/consensus.md) - Mechanisms for reaching agreement in distributed systems
 - [Consent](tags/consent.md) - Decision-making approaches based on absence of objection rather than unanimous agreement
