@@ -1,7 +1,7 @@
 {
-  "current_row": 1017,
-  "total_analyzed": 1073,
-  "last_session": "2025-11-17T22:48:00.046075Z",
+  "current_row": 1517,
+  "total_analyzed": 1573,
+  "last_session": "2025-11-18T00:06:19.481548Z",
   "method_used": "Firecrawl API via GitHub Actions for web scraping, manual triple-gate evaluation",
   "status_counts": {
     "Working": 141,
@@ -767,6 +767,177 @@
       "values_score": 30,
       "quality_score": 30,
       "uniqueness_score": 12
+    },
+    {
+      "url": "https://www.bayoakomolafe.net/post/paraphilanthropy-giving-money-its-freedom-papers",
+      "score": 94,
+      "category": "ESSENTIAL",
+      "note": "Bayo Akomolafe: Paraphilanthropy - Giving Money its Freedom. Decolonial, transformative philanthropy with deep philosophical analysis",
+      "values_score": 40,
+      "quality_score": 36,
+      "uniqueness_score": 18
+    },
+    {
+      "url": "https://weall.org/wp-content/uploads/WEAllBriefing_Commons_IN_15November2021-1.pdf",
+      "score": 90,
+      "category": "ESSENTIAL",
+      "note": "WEAll: Commons Briefing - Wellbeing Economy Alliance resource on commons-based approaches",
+      "values_score": 38,
+      "quality_score": 36,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://vitalik.eth.limo/general/2022/09/20/daos.html",
+      "score": 88,
+      "category": "VALUABLE",
+      "note": "Vitalik Buterin: Thoughts on DAOs - deep analysis of DAO governance from Ethereum founder",
+      "values_score": 32,
+      "quality_score": 38,
+      "uniqueness_score": 18
+    },
+    {
+      "url": "https://ssir.org/articles/entry/web3_and_the_trap_of_for_good?utm_source=substack&utm_medium=email",
+      "score": 88,
+      "category": "VALUABLE",
+      "note": "SSIR: Web3 and the Trap of 'For Good' - critical power-aware analysis of Web3",
+      "values_score": 36,
+      "quality_score": 36,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://www.fundingthecommons.io/sf-2025",
+      "score": 88,
+      "category": "VALUABLE",
+      "note": "Funding the Commons - San Francisco 2025 - public goods funding initiative and conference",
+      "values_score": 38,
+      "quality_score": 34,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://www.clubofrome.org/wp-content/uploads/2023/10/Changing_Finance_2023-3.pdf",
+      "score": 88,
+      "category": "VALUABLE",
+      "note": "Club of Rome: Changing Finance - financial system transformation report",
+      "values_score": 36,
+      "quality_score": 36,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://www.cryptoaltruism.org/podcast",
+      "score": 86,
+      "category": "VALUABLE",
+      "note": "Crypto Altruism Podcast - comprehensive podcast resource on crypto for social impact (202K chars)",
+      "values_score": 36,
+      "quality_score": 34,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://www.biofi.earth/biofi-cultivator",
+      "score": 84,
+      "category": "VALUABLE",
+      "note": "BioFi Cultivator - bioregional finance and regenerative economic framework",
+      "values_score": 36,
+      "quality_score": 32,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://www.communityland.ca/canadian-clts/",
+      "score": 84,
+      "category": "VALUABLE",
+      "note": "Community Land Trusts in Canada - commons-based land governance network",
+      "values_score": 38,
+      "quality_score": 32,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://whyphilanthropymatters.com/wp-content/uploads/2024/01/TRANSFORMING-PHILANTHROPY-CHURCHILL-FELLOWSHIP-REPORT.pdf",
+      "score": 84,
+      "category": "VALUABLE",
+      "note": "Churchill Fellowship Report: Transforming Philanthropy - comprehensive research on philanthropic transformation",
+      "values_score": 36,
+      "quality_score": 34,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://www.ecocertain.xyz/",
+      "score": 84,
+      "category": "VALUABLE",
+      "note": "Ecocertain - ecological certification and finance platform (93K chars)",
+      "values_score": 36,
+      "quality_score": 32,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://ssir.org/articles/entry/ten_nonprofit_funding_models",
+      "score": 82,
+      "category": "VALUABLE",
+      "note": "SSIR: Ten Nonprofit Funding Models - comprehensive funding model framework",
+      "values_score": 32,
+      "quality_score": 36,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://ssir.org/articles/entry/working_toward_financial_inclusion_with_blockchain?utm_source=Enews&utm_medium=Email&utm_campaign=SSIR_Now",
+      "score": 82,
+      "category": "VALUABLE",
+      "note": "SSIR: Working Toward Financial Inclusion With Blockchain - analysis of blockchain for inclusion",
+      "values_score": 34,
+      "quality_score": 34,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://www.fundingthecommons.io/residencies",
+      "score": 82,
+      "category": "VALUABLE",
+      "note": "Funding the Commons - Past Residencies - public goods research residency documentation",
+      "values_score": 36,
+      "quality_score": 32,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://www.cryptoaltruism.org/blog/22-of-the-top-web3-social-impact-developments-of-2022",
+      "score": 80,
+      "category": "VALUABLE",
+      "note": "Crypto Altruism: 22 top Web3 social impact developments of 2022 - comprehensive year-in-review",
+      "values_score": 34,
+      "quality_score": 32,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://thephilanthropist.ca/2023/12/criticism-is-good-for-philanthropy-if-done-well/",
+      "score": 78,
+      "category": "GOOD",
+      "note": "The Philanthropist: Criticism is good for philanthropy - if done well",
+      "values_score": 34,
+      "quality_score": 32,
+      "uniqueness_score": 12
+    },
+    {
+      "url": "https://www.mtroyal.ca/nonprofit/InstituteforCommunityProsperity/_pdfs/David-Sinclair_How-Might-Technology-be-Leveraged-to-Empower-Indigenous-Youth-in-Sports_Scholarly-Output.pdf",
+      "score": 76,
+      "category": "GOOD",
+      "note": "Mount Royal Institute: Nonprofit sector research paper by David Lasby",
+      "values_score": 30,
+      "quality_score": 34,
+      "uniqueness_score": 12
+    },
+    {
+      "url": "https://www.dunsky.com/wp-content/uploads/2023/09/FINAL_English_Public_McConnell_Dunsky_2023-09-11.pdf",
+      "score": 76,
+      "category": "GOOD",
+      "note": "Dunsky: Public engagement research report",
+      "values_score": 32,
+      "quality_score": 32,
+      "uniqueness_score": 12
+    },
+    {
+      "url": "https://society.mirror.xyz/diEjKIIbFNpxTsJEQYOJP79NF4SSAIGqbfNDU0pmN3g",
+      "score": 74,
+      "category": "GOOD",
+      "note": "Society (mirror.xyz): DAO and community article",
+      "values_score": 32,
+      "quality_score": 30,
+      "uniqueness_score": 12
     }
   ],
   "sessions": [
@@ -869,6 +1040,16 @@
       "failed_fetches": 28,
       "acceptance_rate": "5.9%",
       "note": "Systematic evaluation of 500 URLs (472 successful, 336 substantial). Applied rigorous triple-gate scoring. Found 28 library candidates (6 ESSENTIAL, 17 VALUABLE, 5 GOOD). Includes outstanding academic papers on Ostrom, anarchist tech, and Web3 critique."
+    },
+    {
+      "date": "2025-11-17T23:34:21.502372Z",
+      "method": "GitHub Actions + Firecrawl API",
+      "rows_processed": "1018-1517",
+      "links_analyzed": 500,
+      "successful_fetches": 442,
+      "failed_fetches": 58,
+      "acceptance_rate": "4.3%",
+      "note": "Systematic evaluation of 500 URLs (442 successful, 271 substantial). Very rigorous scoring. Found 19 library candidates (2 ESSENTIAL, 13 VALUABLE, 4 GOOD). Includes Bayo Akomolafe decolonial philanthropy, SSIR articles, Vitalik on DAOs, Funding the Commons, and more."
     }
   ]
 }
