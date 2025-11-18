@@ -58,12 +58,8 @@ The essay's power lies in its capacity to trouble comfortable assumptions rather
 
 ### Connection With SuperBenefit
 
-- **Decolonial Foundations for Regenerative Economics**: Akomolafe's critique provides philosophical depth for SuperBenefit's commitment to post-capitalist alternatives, showing why genuinely regenerative systems must address colonial extraction rather than merely greening existing economic models.
+- **Decolonial Critique of Power Dynamics**: Akomolafe's analysis of giver-receiver relationships as sites of ongoing colonial violence informs the AIFS experiment's shift from traditional funding to coordi-nation model—[AIFS Case Study](artifacts/studies/experiments/aifs-experiment-case-study.md) documents how the project rejected extractive funder-grantee dynamics in favor of voluntary association and mutual support, embodying paraphilanthropy's invitation to release rather than direct money.
 
-- **More-Than-Human Relationships**: The emphasis on land and ecological relationships as central rather than peripheral supports SuperBenefit's regenerative framing, offering language for why Web3 projects must consider ecological impacts and relationships beyond human coordination.
+- **Relationship as Infrastructure**: The essay's emphasis on entanglement and mutual vulnerability validates SuperBenefit's approach to [Group State](artifacts/guides/dao-primitives-framework/group-state.md) tracking, which treats relationship quality and trust-building as foundational infrastructure rather than soft byproducts of coordination—AIFS's transformation showed how attending to relationship enabled sustainable coordination where transactional approaches had failed.
 
-- **Power-Aware Funding Approaches**: Paraphilanthropy's analysis of giver-receiver power dynamics informs SuperBenefit's exploration of alternative funding mechanisms (quadratic funding, retroactive public goods funding) that challenge traditional philanthropic control.
-
-- **Fugitivity as Design Principle**: The concept of fugitive practices—running alongside and away from dominant systems—resonates with SuperBenefit's work on alternatives to platform capitalism, suggesting that regenerative coordination requires escaping rather than reforming extractive logics.
-
-- **Refusing Measurement Frameworks**: Akomolafe's invitation to become lost challenges SuperBenefit to question whether all impact can or should be measured, supporting approaches to community work that value emergence, relationship, and long-term transformation over trackable metrics.
+- **Fugitivity From Measurement**: Akomolafe's critique of strategic plans and metrics challenges the DAO Primitives Framework to balance structure with emergence—while SuperBenefit provides patterns like [Cell](artifacts/patterns/cell.md), the framework maintains adaptability and contextual wisdom rather than prescribing universal implementation, acknowledging that some transformative work requires becoming "lost" to colonial maps of productivity.

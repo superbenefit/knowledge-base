@@ -55,12 +55,8 @@ The article's scholarly rigor and connection to established commons theory provi
 
 ### Connection With SuperBenefit
 
-- **Commons Stewardship Framework**: Ostrom's work provides scholarly foundation for SuperBenefit's emphasis on community stewardship over private ownership or state control, showing how commons governance can work effectively when properly designed rather than inevitably failing.
+- **Ostrom Principles in Cell Pattern**: The article's application of Ostrom's design principles (clearly defined boundaries, graduated sanctions, monitoring, conflict resolution) directly shaped SuperBenefit's [Cell](artifacts/patterns/cell.md) pattern—each Cell implements bounded membership (<10 people), participatory rule-making, and internal accountability mechanisms that Ostrom documented as essential for commons governance success.
 
-- **Design Principles for DAO Governance**: The article's application of Ostrom's principles to blockchain offers concrete guidance for SuperBenefit's development of coordination primitives and governance frameworks, translating abstract values into specific institutional design patterns.
+- **Polycentric Governance in RPP Architecture**: Ostrom's polycentricity concept validates the [RPP Governance Case Study](artifacts/studies/projects/rpp-governance-case-study.md) multi-layer design where operational decisions happen in autonomous Cells while strategic decisions occur at higher levels—this nested structure mirrors Ostrom's finding that successful commons have multiple centers of authority at appropriate scales.
 
-- **Evidence Against Tragedy Narratives**: Ostrom's research directly counters arguments that shared resources inevitably lead to exploitation, supporting SuperBenefit's case that regenerative, commons-based approaches are viable alternatives to extraction rather than naive idealism.
-
-- **Polycentric Coordination Models**: The analysis of polycentricity aligns with SuperBenefit's work on multi-scale coordination and nested working circles, providing theoretical grounding for distributed governance that avoids both fragmentation and centralization.
-
-- **Institutional Diversity Principle**: Ostrom's emphasis on context-specific governance supports SuperBenefit's approach of developing adaptable patterns rather than universal solutions, recognizing that effective regenerative organizations must fit their particular communities and challenges.
+- **Commons Treasury Management**: The article's treatment of appropriation rules and monitoring informs SuperBenefit's Community Governance patterns for DAO treasury management—implementing Ostrom's principle that commons users must participate in rules governing resource distribution rather than having allocations imposed by external authority.

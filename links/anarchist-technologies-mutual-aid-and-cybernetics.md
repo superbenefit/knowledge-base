@@ -53,12 +53,8 @@ The academic rigor provides credibility when advocating for alternative technica
 
 ### Connection With SuperBenefit
 
-- **Theoretical Foundation for Regenerative Tech**: The article provides scholarly grounding for SuperBenefit's intuition that genuinely regenerative technology must embody anti-hierarchical principles, offering language and frameworks from established political theory rather than merely critiquing extractive models.
+- **Mutual Aid in Cell Design**: The article's analysis of mutual aid as organizational principle validates SuperBenefit's [Cell](artifacts/patterns/cell.md) pattern where small autonomous teams (<10 people) practice horizontal coordination without hierarchy—the AIFS experiment demonstrated this when Web3 developers and sports organizers supported each other's work voluntarily rather than through managerial control, as documented in [AIFS Case Study](artifacts/studies/experiments/aifs-experiment-case-study.md).
 
-- **Mutual Aid Primitives**: The analysis of mutual aid as a design principle directly supports SuperBenefit's work on coordination primitives and solidarity mechanisms, showing why tools for collective care and support are infrastructural rather than supplementary.
+- **Anti-Hierarchical Coordination**: Anarchist theory's emphasis on federation and voluntary association provides philosophical grounding for SuperBenefit's separation of [Operational Governance](artifacts/patterns/operational-governance.md) (execution autonomy for Cells) from [Community Governance](artifacts/patterns/community-governance.md) (collective stewardship)—this two-layer approach avoids both centralized command and chaotic structurelessness that the article critiques.
 
-- **Commons Governance Philosophy**: Anarchist theory's emphasis on self-governing commons aligns with SuperBenefit's approach to community stewardship and distributed ownership, providing historical precedent for why commons-based coordination can work without central control.
-
-- **Power-Aware System Design**: The article's critical analysis of how technical systems reproduce or challenge hierarchy helps SuperBenefit articulate why protocol design choices matter politically, not just functionally—supporting arguments for why DAO governance must address power dynamics explicitly.
-
-- **Alternative to Blockchain Hype**: The work's skeptical analysis of decentralization rhetoric helps SuperBenefit distinguish genuinely transformative Web3 approaches from those that merely transfer power to new elites, providing theoretical tools for evaluating whether specific protocols serve collective benefit or individual accumulation.
+- **Cybernetic Self-Organization for Group State**: The article's synthesis of anarchism with cybernetics informs SuperBenefit's [Group State](artifacts/guides/dao-primitives-framework/group-state.md) tracking, which treats teams as self-organizing systems that maintain coherence through feedback loops rather than top-down management—enabling Cells to coordinate across the DAO network without central planning.
