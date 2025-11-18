@@ -55,8 +55,8 @@ The article's scholarly rigor and connection to established commons theory provi
 
 ### Connection With SuperBenefit
 
-- **Ostrom Principles in Cell Pattern**: The article's application of Ostrom's design principles (clearly defined boundaries, graduated sanctions, monitoring, conflict resolution) directly shaped SuperBenefit's [Cell](artifacts/patterns/cell.md) pattern—each Cell implements bounded membership (<10 people), participatory rule-making, and internal accountability mechanisms that Ostrom documented as essential for commons governance success.
+- Ostrom's empirically-proven design principles for commons governance directly validate SuperBenefit's emphasis on bounded membership, participatory rule-making, and graduated accountability within small teams—providing Nobel Prize-winning evidence that community stewardship can outperform both markets and state control when properly structured.
 
-- **Polycentric Governance in RPP Architecture**: Ostrom's polycentricity concept validates the [RPP Governance Case Study](artifacts/studies/projects/rpp-governance-case-study.md) multi-layer design where operational decisions happen in autonomous Cells while strategic decisions occur at higher levels—this nested structure mirrors Ostrom's finding that successful commons have multiple centers of authority at appropriate scales.
+- The article's analysis of polycentricity offers theoretical grounding for SuperBenefit's multi-scale coordination approach, explaining why the RPP needed nested governance layers where operational decisions happen autonomously while strategic alignment occurs collectively, mirroring Ostrom's finding that successful commons govern at appropriate scales.
 
-- **Commons Treasury Management**: The article's treatment of appropriation rules and monitoring informs SuperBenefit's Community Governance patterns for DAO treasury management—implementing Ostrom's principle that commons users must participate in rules governing resource distribution rather than having allocations imposed by external authority.
+- Demonstrates that "tragedy of the commons" is not inevitable but results from poor institutional design, supporting SuperBenefit's regenerative economics emphasis that shared resource governance can work when communities participate in creating rules rather than having allocations imposed externally.
