@@ -123,3 +123,12 @@ The article proposes a framework similar to this
 
 - **Revised Proposals**  
   *If a proposal is rejected, it can be modified and submitted for a new vote.*
+---
+
+## Related Concepts
+
+- [Governance](tags/governance.md) - Decision-making frameworks
+- [DAOs](tags/daos.md) - Organizations exploring these governance models
+- [Community Governance](artifacts/patterns/community-governance.md) - Constituency-scale governance patterns
+- [Coordination](tags/coordination.md) - Collective coordination mechanisms
+- [Primitives](tags/primitives.md) - Building blocks for governance systems

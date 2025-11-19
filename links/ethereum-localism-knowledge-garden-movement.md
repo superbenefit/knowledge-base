@@ -47,3 +47,12 @@ The movement provides particular value for communities seeking to harness techno
 - Provides practical frameworks for implementing the kind of local economic sovereignty that SuperBenefit advocates through its regenerative economics work, particularly in areas like community currencies and democratic resource allocation.
 - The knowledge garden methodology aligns with SuperBenefit's pattern-based approach to organizational design, creating reusable frameworks that communities can adapt to their specific contexts rather than imposing one-size-fits-all solutions.
 - Demonstrates the "cellular" organizational approach that SuperBenefit explores, where autonomous local initiatives connect through shared principles and mutual support rather than hierarchical coordination.
+---
+
+## Related Concepts
+
+- [Coordination](tags/coordination.md) - Local and network-scale coordination
+- [DAOs](tags/daos.md) - Decentralized organizational forms
+- [Governance](tags/governance.md) - Community and network governance
+- [Knowledge Gardens](artifacts/patterns/knowledge-gardens.md) - Decentralized knowledge creation
+- [Primitives](tags/primitives.md) - Building blocks for local networks

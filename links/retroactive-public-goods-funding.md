@@ -45,3 +45,12 @@ The model provides a replicable framework for any organization seeking to align 
 - Provides a practical implementation of impact-based resource allocation that SuperBenefit can reference for funding its own regenerative initiatives and community projects.
 - The Results Oracle concept resonates with SuperBenefit's emphasis on community stewardship and democratic decision-making about resource allocation, offering a technical framework for implementing collective governance over funding decisions.
 - Addresses the challenge of sustaining regenerative projects by creating economic incentives that don't rely on extractive business models, supporting SuperBenefit's vision of viable alternatives to traditional capitalist structures.
+---
+
+## Related Concepts
+
+- [Primitives](tags/primitives.md) - Building blocks for alternative systems
+- [DAOs](tags/daos.md) - Organizations implementing these mechanisms
+- [Governance](tags/governance.md) - Community governance of resources
+- [Coordination](tags/coordination.md) - Mechanisms for resource allocation
+- [DeFi](tags/defi.md) - Decentralized finance primitives

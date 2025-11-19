@@ -207,3 +207,12 @@ The article is presented as an interactive HackMD page, offering links to handbo
 11. [Round Sky Solutions](https://roundskysolutions.com/) – Worker-owned co-op offering collaborative governance training.
 12. [Evolutesix](https://www.evolutesix.com/) – Programs for startups and established organizations deploying integrated legal and developmental practices.
 13. [Effective Collective](https://www.treegroup.info/) – Kavana Tree Bressen’s facilitation and training resources for horizontal power structures.
+---
+
+## Related Concepts
+
+- [Coordination](tags/coordination.md) - Mechanisms for decentralized organizing
+- [Governance](tags/governance.md) - Decision-making in decentralized contexts
+- [DAOs](tags/daos.md) - Organizations using these organizing approaches
+- [Teams](tags/teams.md) - Small groups coordinating decentrally
+- [Collaboration](tags/collaboration.md) - Collective work patterns

@@ -44,3 +44,12 @@ The system provides particular value for communities seeking to build economic a
 - Demonstrates practical implementation of trust-based coordination systems that operate through social relationships rather than extractive market mechanisms, aligning with SuperBenefit's emphasis on community stewardship and mutual aid principles.
 - Provides a working model for local economic resilience that complements SuperBenefit's bioregional organizing approach by enabling communities to create economic infrastructure that serves local needs rather than external profit extraction.
 - Challenges fundamental assumptions about monetary systems in ways that align with SuperBenefit's regenerative economics approach, showing how technology can support community autonomy rather than corporate concentration of power.
+---
+
+## Related Concepts
+
+- [Primitives](tags/primitives.md) - Building blocks for alternative systems
+- [DAOs](tags/daos.md) - Organizations implementing these mechanisms
+- [Governance](tags/governance.md) - Community governance of resources
+- [Coordination](tags/coordination.md) - Mechanisms for resource allocation
+- [DeFi](tags/defi.md) - Decentralized finance primitives

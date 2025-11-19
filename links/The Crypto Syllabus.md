@@ -42,3 +42,11 @@ The syllabus is particularly valuable for those involved in web3 social impact i
 - Supports SuperBenefit's focus on anticapture and "Reimagining Power" by examining how blockchain systems can either challenge or reinforce existing concentrations of power.
 - Helps SuperBenefit navigate the tension between utilizing blockchain tools and ensuring implementations serve ecological health through critical analysis of environmental impacts.
 - The syllabus's global perspective complements SuperBenefit's efforts to develop globally relevant but contextually adaptable approaches to decentralized organization.
+---
+
+## Related Concepts
+
+- [Governance](tags/governance.md) - Decision-making frameworks
+- [DAOs](tags/daos.md) - Decentralized organizations
+- [Primitives](tags/primitives.md) - Building blocks for organization
+- [Coordination](tags/coordination.md) - Collective action mechanisms

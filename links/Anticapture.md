@@ -271,3 +271,11 @@ Until then, good luck resisting capture!
 1. “Private” in this context refers to the general concept of power and control described here, not to the specific exercise of power in the form of access control or obfuscation (as in “privacy”).
 2. Claims on such resources, however, can be shared.
 3. Social dynamics and reputation can mediate these effects, but only partially and under certain conditions, such as when executives have public reputations to uphold.
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Decentralized organizations this resource discusses
+- [Governance](tags/governance.md) - Decision-making frameworks and practices
+- [Coordination](tags/coordination.md) - Mechanisms for collective action
+- [Primitives](tags/primitives.md) - Building blocks for decentralized organization

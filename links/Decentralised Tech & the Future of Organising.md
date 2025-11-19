@@ -39,3 +39,12 @@ The resource is particularly valuable because it doesn't present web3 as a panac
 
 - Aligns with SuperBenefit's focus on using web3 for transformative social impact rather than financial extraction, featuring projects and practices that exemplify the cosmolocal approach.
 - Many highlighted governance tools implement what SuperBenefit describes as "coordination scale" operations, enabling groups to make decisions and allocate resources without centralized control.
+---
+
+## Related Concepts
+
+- [Coordination](tags/coordination.md) - Mechanisms for decentralized organizing
+- [Governance](tags/governance.md) - Decision-making in decentralized contexts
+- [DAOs](tags/daos.md) - Organizations using these organizing approaches
+- [Teams](tags/teams.md) - Small groups coordinating decentrally
+- [Collaboration](tags/collaboration.md) - Collective work patterns

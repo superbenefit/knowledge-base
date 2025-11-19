@@ -177,3 +177,11 @@ Maturation is the phase of development in which the social organism is fully ful
 ### **Decomposition**
 
 Once the social organism has reached the peak of its maturity, it begins the process of decomposition and death. This phase of the lifecycle is focused on integrating the evolutionary learnings of the dying generation into the core DNA of the rising one. The decomposition process includes contributing the constituent parts of the organism back to the commons where they can be re-composed into new life as well as the evolutionary process of maintaining whatever aspect of the organism’s iterative experimentation was life-affirming. This process of natural selection, applied to social organisms, supports the ongoing evolutionary feedback process of iterative development, improvement, and refinement.
+---
+
+## Related Concepts
+
+- [Governance](tags/governance.md) - Decision-making frameworks
+- [DAOs](tags/daos.md) - Decentralized organizations
+- [Primitives](tags/primitives.md) - Building blocks for organization
+- [Coordination](tags/coordination.md) - Collective action mechanisms

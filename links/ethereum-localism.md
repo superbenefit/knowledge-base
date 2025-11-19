@@ -67,3 +67,13 @@ This resource directly connects to SuperBenefit's focus on cosmolocalism and bio
 - [Cosmolocalism](tags/cosmolocalism.md) - Exemplifies the "light is global, heavy is local" principle
 - [Blockchain](tags/blockchain.md) - Demonstrates practical applications of blockchain for community empowerment
 - [Community](tags/community.md) - Explores community-driven approaches to governance and resource management
+
+---
+
+## Related Concepts
+
+- [Coordination](tags/coordination.md) - Local and network-scale coordination
+- [DAOs](tags/daos.md) - Decentralized organizational forms
+- [Governance](tags/governance.md) - Community and network governance
+- [Knowledge Gardens](artifacts/patterns/knowledge-gardens.md) - Decentralized knowledge creation
+- [Primitives](tags/primitives.md) - Building blocks for local networks

@@ -41,3 +41,12 @@ A specific implementation example is Boulder Regen Hub's local market network, w
 - Embodies the cosmolocal principle of "resilient localized production with access to global knowledge commons" in the financial domain.
 - Demonstrates SuperBenefit's biomimicry approach by applying natural mycelial network principles to human economic systems.
 - Provides a practical framework for implementing "structural redistribution" – shifting resource allocation authority from centralized institutions to community-governed systems.
+---
+
+## Related Concepts
+
+- [Coordination](tags/coordination.md) - Local and network-scale coordination
+- [DAOs](tags/daos.md) - Decentralized organizational forms
+- [Governance](tags/governance.md) - Community and network governance
+- [Knowledge Gardens](artifacts/patterns/knowledge-gardens.md) - Decentralized knowledge creation
+- [Primitives](tags/primitives.md) - Building blocks for local networks
