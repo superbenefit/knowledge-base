@@ -48,9 +48,9 @@ The challenge of maintaining both autonomy and alignment proves especially diffi
 
 ## Solution
 
-Operational governance resolves the autonomy-alignment tension through sociocratic principles implemented via decentralized infrastructure. This approach creates clear protocols for coordination while preserving team independence in execution decisions.
+Operational governance resolves the autonomy-alignment tension through sociocratic principles implemented via decentralized infrastructure. This approach creates clear protocols for [coordination](tags/coordination.md) while preserving team independence in execution decisions.
 
-The pattern begins with defining clear domains of operational autonomy. Each team or cell receives explicit authority over specific activities, resources, or outcomes. These domains interconnect through defined interfaces rather than hierarchical reporting. A product development cell might have full autonomy over technical architecture decisions while coordinating with marketing cells through agreed release protocols. This clarity eliminates constant boundary negotiations while enabling independent operation.
+The pattern begins with defining clear domains of operational autonomy. Each team or [cell](artifacts/patterns/cell.md) receives explicit authority over specific activities, resources, or outcomes. These domains interconnect through defined interfaces rather than hierarchical reporting. A product development cell might have full autonomy over technical architecture decisions while coordinating with marketing cells through agreed release protocols. This clarity eliminates constant boundary negotiations while enabling independent operation. Many organizations adopt the [circle](notes/dao-primitives/implementation/patterns/collaboration-scale-patterns/circle.md) structure from sociocracy to define these team domains and relationships.
 
 Resource allocation occurs through transparent, consent-based processes rather than competitive bidding or hierarchical distribution. Teams propose resource needs with clear justification linked to organizational objectives. Other affected teams can raise principled objections based on impact to their operations or overall organizational health. This sociocratic approach ensures decisions consider all stakeholder impacts while moving faster than consensus models requiring universal agreement.
 
@@ -128,3 +128,17 @@ The key learning was that operational governance tools must be enjoyable and acc
 
 **Platform Cooperative Operations**: Various platform cooperatives have implemented operational governance to balance member autonomy with platform maintenance needs. Driver cooperatives allow local chapters to set regional policies while coordinating through shared technology infrastructure. Freelancer cooperatives enable project teams to form dynamically while maintaining collective resource pools. These implementations demonstrate operational governance scaling from dozens to thousands of participants.
 
+
+---
+
+## Related Concepts
+
+- [Cell](artifacts/patterns/cell.md) - Small autonomous teams that form the operational units
+- [Circle](notes/dao-primitives/implementation/patterns/collaboration-scale-patterns/circle.md) - Sociocratic team structure for operational governance
+- [Cell State](artifacts/patterns/cell-state.md) - Pattern for documenting team state to enable coordination
+- [Community Governance](artifacts/patterns/community-governance.md) - Strategic oversight complementing operational execution
+- [Teams](tags/teams.md) - Autonomous groups coordinating through operational governance
+- [Coordination](tags/coordination.md) - Mechanisms for aligning team activities
+- [Governance](tags/governance.md) - Decision-making frameworks for operations
+- [DAOs](tags/daos.md) - Organizations that use operational governance for execution
+- [Autonomy](tags/autonomy.md) - Self-direction capacity that operational governance preserves
