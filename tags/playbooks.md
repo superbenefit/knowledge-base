@@ -41,3 +41,11 @@ A well-crafted web3 playbook often includes:
 - Evolution frameworks for adapting the approach as systems mature
 
 The Reimagining Power Playbook being developed by the Reimagining Power Project represents an example of this approach, outlining frameworks for transforming traditional power dynamics in philanthropy and social impact through decentralized technologies.
+---
+
+## Related Concepts
+
+- [Patterns](tags/Patterns.md) - Reusable solutions that playbooks document
+- [Practices](tags/practices.md) - Specific practices in playbooks
+- [Coordination](tags/coordination.md) - Playbooks for coordination
+- [Teams](tags/teams.md) - Groups using playbooks

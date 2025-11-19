@@ -41,3 +41,11 @@ The key innovation in web3 implementations is the creation of technical infrastr
 - Coordinate actions without central authority
 - Build resilient local systems within global networks
 - Participate in larger economic systems on their own terms
+---
+
+## Related Concepts
+
+- [Localism](tags/localism.md) - Local production and governance
+- [Networks](tags/networks.md) - Global knowledge networks
+- [Coordination](tags/coordination.md) - Cross-scale coordination
+- [Knowledge Gardens](artifacts/patterns/knowledge-gardens.md) - Distributed knowledge

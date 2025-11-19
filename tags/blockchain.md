@@ -25,3 +25,12 @@ Blockchains can be public or private, permissioned or permissionless. In permiss
 ## New societal governance mechanisms?
 
 Information management is a critical part of modern societies. Since blockchains enable a wider degree of participation in the design and management of computer networks (relative to typical modern systems), and since cryptocurrencies can be programed to incentivize specific kinds of cooperative behavior, blockchain networks expand the scope to build sophisticated, large scale networks outside of traditional structures. For example, they make it possible to build transnational networks that are difficult, though not impossible, for governments to control, because states tend to assert regulatory authority via centralized bureaucracies or trusted intermediaries.
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Organizations using blockchain
+- [Primitives](tags/primitives.md) - Blockchain provides organizational primitives
+- [DeFi](tags/defi.md) - Decentralized finance on blockchains
+- [Governance](tags/governance.md) - Blockchain-based governance systems
+- [Transparency](tags/transparency.md) - Transparency enabled by blockchains

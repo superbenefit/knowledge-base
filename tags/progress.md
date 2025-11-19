@@ -40,3 +40,11 @@ As a component of Group State, Progress includes:
 Progress documentation in this framework serves a dual purpose: it provides internal structure for team coordination while creating transparency for external entities that need to understand and trust the team's activities. This external transparency is crucial for enabling effective coordination between autonomous [Cells](artifacts/patterns/cell.md) within a larger [DAO](tags/daos.md) network.
 
 By maintaining accessible and current progress information, teams can demonstrate accountability, build trust, and enable efficient resource allocation across a decentralized ecosystem.
+---
+
+## Related Concepts
+
+- [Cell State](artifacts/patterns/cell-state.md) - Tracking team progress
+- [Tasks](tags/tasks.md) - Work units tracked as progress
+- [Teams](tags/teams.md) - Groups demonstrating progress
+- [Coordination](tags/coordination.md) - Progress enables coordination

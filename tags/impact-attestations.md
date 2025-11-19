@@ -121,3 +121,11 @@ Their discovery that transaction costs weren't the primary barrier—rather, las
 **Environmental Sensor Networks**: Multiple projects have implemented automated impact attestations using IoT sensors. Forestry projects record tree growth and carbon sequestration through satellite imagery and ground sensors. Water quality initiatives create continuous attestations of contamination reduction. These implementations demonstrate how technology can reduce verification costs while increasing data granularity and credibility.
 
 **Community Development Attestations**: Grassroots organizations have adapted impact attestations for social outcomes that resist easy quantification. Rather than focusing on numerical metrics, these implementations use community validation processes where beneficiaries attest to changes in their lives. Photo documentation, story collection, and peer verification create rich impact records that preserve human elements often lost in traditional reporting.
+---
+
+## Related Concepts
+
+- [Impact](tags/impact.md) - Measuring and attesting impact
+- [Attestations](tags/attestations.md) - Verification mechanisms
+- [NFTs](tags/nfts.md) - Attestation tokens
+- [Transparency](tags/transparency.md) - Transparent impact tracking

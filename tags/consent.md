@@ -21,3 +21,13 @@ In DAO contexts, consent operates as a coordination primitive that balances auto
 Example: 
 https://patterns.sociocracy30.org/consent-decision-making.html
 
+
+---
+
+## Related Concepts
+
+- [Consensus](tags/consensus.md) - Related decision-making approach
+- [Governance](tags/governance.md) - Decision-making frameworks
+- [Decisions](tags/decisions.md) - Outcomes of consent processes
+- [Circle](notes/dao-primitives/implementation/patterns/collaboration-scale-patterns/circle.md) - Sociocratic structure using consent
+- [Teams](tags/teams.md) - Groups using consent-based decisions

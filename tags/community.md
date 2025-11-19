@@ -59,3 +59,12 @@ As described in Building DAOs as scalable networks, community governance "safegu
 During the early [Conversation Phase](artifacts/guides/dao-primitives-framework/group-phase/conversation-phase.md) of group development, community serves as the foundation for exploration and idea generation. This phase is characterized by "open exploration and idea generation" where "all perspectives are valued" to establish a shared vision and understanding.
 
 The community at this stage focuses on relationship building, creating trust and rapport among members that will be essential for effective collaboration in later stages of development.
+---
+
+## Related Concepts
+
+- [Community Governance](artifacts/patterns/community-governance.md) - Patterns for community stewardship
+- [DAOs](tags/daos.md) - Decentralized community organizations
+- [Coordination](tags/coordination.md) - Community coordination mechanisms
+- [Teams](tags/teams.md) - Small groups within communities
+- [Networks](tags/networks.md) - Interconnected communities

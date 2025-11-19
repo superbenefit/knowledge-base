@@ -116,3 +116,11 @@ Despite not completing blockchain transactions, the experiment generated valuabl
 **Ukraine Humanitarian Response (2022-ongoing)**: During the 2022 crisis, blockchain payments enabled rapid humanitarian support when traditional banking systems were disrupted. Some Ukrainian cities had sophisticated cryptocurrency infrastructure enabling direct aid delivery. Other regions lacked basic exchange services, requiring creative solutions through merchant networks. This demonstrated both the potential and limitations of peer to peer payments in crisis contexts.
 
 **Global Grassroots Support Networks**: Various informal networks have emerged using blockchain for direct community support. Environmental defenders in restricted contexts receive sustaining funds through cryptocurrency. Artist communities transfer value across borders for collaborative projects. These implementations often operate below regulatory radar while demonstrating practical utility for excluded communities.
+---
+
+## Related Concepts
+
+- [Peer-to-Peer](tags/peer-to-peer.md) - P2P exchange patterns
+- [Payments](tags/payments.md) - Payment mechanisms
+- [DeFi](tags/defi.md) - Decentralized finance
+- [Primitives](tags/primitives.md) - Payment primitives

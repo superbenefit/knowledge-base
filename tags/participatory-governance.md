@@ -125,3 +125,11 @@ Their Green Pill London chapter meetings evolved from information sharing to col
 **Participatory Budgeting Movements**: Cities worldwide have implemented participatory budgeting, allocating portions of municipal budgets through resident decisions. Successful implementations like Porto Alegre's pioneering model demonstrate how participatory governance can redirect resources to community priorities. Challenges include maintaining participation over time and ensuring marginalized communities can access processes.
 
 **Indigenous Governance Models**: Many indigenous communities maintain sophisticated participatory governance systems balancing individual and collective decision-making. These models offer lessons about consensus building, elder knowledge integration, and land-based decision processes. However, they emerge from specific cultural contexts requiring thoughtful adaptation rather than direct replication.
+---
+
+## Related Concepts
+
+- [Governance](tags/governance.md) - Decision-making frameworks
+- [Community Governance](artifacts/patterns/community-governance.md) - Participatory patterns
+- [DAOs](tags/daos.md) - Participatory organizations
+- [Coordination](tags/coordination.md) - Participatory coordination

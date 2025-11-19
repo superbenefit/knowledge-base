@@ -47,3 +47,10 @@ Within shared knowledge commons, AI agents can act as dynamic translators across
 - Maintain connections between knowledge bases as they evolve independently
 
 This approach liberates communities from the need to agree on shared data standards or ontologies. Each community can organize and manage their knowledge in ways that make sense locally, while AI agents handle the complex task of bridging these different systems within the broader commons.
+---
+
+## Related Concepts
+
+- [Coordination](tags/coordination.md) - Bridging for coordination
+- [Gatherings](artifacts/patterns/gatherings.md) - Cross-sector bridging
+- [Community](tags/community.md) - Bridging communities
