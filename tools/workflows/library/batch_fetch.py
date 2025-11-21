@@ -64,7 +64,7 @@ def fetch_url(url, api_key):
     }
 
     try:
-        response = requests.post(api_url, headers=headers, json=payload, timeout=30)
+        response = requests.post(api_url, headers=headers, json=payload, timeout=60)
 
         result = {
             'success': response.status_code == 200,
@@ -86,7 +86,7 @@ def fetch_url(url, api_key):
             'success': False,
             'status_code': 0,
             'url': url,
-            'error': 'Request timeout after 30 seconds',
+            'error': 'Request timeout after 60 seconds',
             'content': ''
         }
     except requests.exceptions.ConnectionError as e:
@@ -247,10 +247,10 @@ def main():
     print(f"Results saved to: {output_path}")
     print(f"{'='*80}\n")
 
-    # Exit code based on whether we got at least some successful fetches
+    # Always exit successfully so GitHub Action commits results
+    # (even if all URLs failed, we want to record the failures)
     if batch_data['batch_info']['successful'] == 0:
-        print("Warning: No URLs were successfully fetched")
-        sys.exit(1)
+        print("Warning: No URLs were successfully fetched (but results were still saved)")
 
     sys.exit(0)
 

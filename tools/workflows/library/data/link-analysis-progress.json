@@ -1,8 +1,8 @@
 {
-  "current_row": 187,
-  "total_analyzed": 263,
-  "last_session": "2025-07-28T18:45:00Z",
-  "method_used": "obsidian-mcp-tools:fetch for actual web page analysis",
+  "current_row": 1817,
+  "total_analyzed": 1790,
+  "last_session": "2025-11-18T00:06:19.481548Z",
+  "method_used": "Firecrawl API via GitHub Actions for web scraping, manual triple-gate evaluation",
   "status_counts": {
     "Working": 141,
     "Dead": 47,
@@ -245,6 +245,825 @@
     {
       "url": "https://cryptocommons.cc/",
       "note": "Excellent academic resource on 'Peer Production on the Crypto Commons' - theoretical framework for understanding blockchains as common pool resources, perfectly aligned with regenerative values"
+    },
+    {
+      "url": "https://demoshelsinki.fi/julkaisut/collectively-intelligent-sustainable-common-future/",
+      "score": 92,
+      "category": "ESSENTIAL",
+      "note": "Comprehensive report on collectively intelligent governance for sustainability - addresses digital democracy, AI, collective intelligence through regenerative lens",
+      "values_score": 38,
+      "quality_score": 38,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://decolonialfutures.net/",
+      "score": 90,
+      "category": "ESSENTIAL",
+      "note": "Decolonial Futures - foundational resource on decolonization, indigenous wisdom, and alternatives to modernity. Critical for understanding power and regenerative transitions",
+      "values_score": 40,
+      "quality_score": 34,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://dfinity.icdevs.org/",
+      "score": 80,
+      "category": "VALUABLE",
+      "note": "ICDevs DAO - developer-focused DAO for Internet Computer ecosystem with transparent governance and bounty systems",
+      "values_score": 32,
+      "quality_score": 32,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://david-bollier.medium.com/the-political-economy-of-the-commons-an-interview-with-me-e8c8bc95daa5",
+      "score": 80,
+      "category": "VALUABLE",
+      "note": "David Bollier on commons-based economics - challenges scarcity mindset, explores alternatives to capitalism through commons lens",
+      "values_score": 38,
+      "quality_score": 30,
+      "uniqueness_score": 12
+    },
+    {
+      "url": "https://feministfinance.net/",
+      "score": 80,
+      "category": "VALUABLE",
+      "note": "Feminist economics and alternative finance - critiques patriarchal financial systems, explores care-centered economic models",
+      "values_score": 36,
+      "quality_score": 32,
+      "uniqueness_score": 12
+    },
+    {
+      "url": "https://trustbasedphilanthropy.org/",
+      "score": 80,
+      "category": "VALUABLE",
+      "note": "Trust-based philanthropy principles - addresses power dynamics in funding, promotes community-centered approaches",
+      "values_score": 36,
+      "quality_score": 32,
+      "uniqueness_score": 12
+    },
+    {
+      "url": "https://www.cabin.city/census",
+      "score": 78,
+      "category": "GOOD",
+      "note": "Cabin DAO - network city building regenerative communities, practical case study of DAO coordination for physical space",
+      "values_score": 34,
+      "quality_score": 30,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://daorescollective.xyz/",
+      "score": 76,
+      "category": "GOOD",
+      "note": "DAO Research Collective - curated research repository on DAO governance and coordination",
+      "values_score": 30,
+      "quality_score": 32,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://daos.paradigm.xyz/",
+      "score": 75,
+      "category": "GOOD",
+      "note": "Impact DAO Media - comprehensive database and analysis of DAO landscape with governance focus",
+      "values_score": 28,
+      "quality_score": 32,
+      "uniqueness_score": 15
+    },
+    {
+      "url": "https://daostack.io/",
+      "score": 74,
+      "category": "GOOD",
+      "note": "DAOstack - holographic consensus governance framework and platform for collective decision-making",
+      "values_score": 30,
+      "quality_score": 30,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://docs.impactdaos.xyz/",
+      "score": 72,
+      "category": "GOOD",
+      "note": "Impact DAOs guide - practical resource for social impact organizations using DAO structures",
+      "values_score": 32,
+      "quality_score": 28,
+      "uniqueness_score": 12
+    },
+    {
+      "url": "https://ecf.network/",
+      "score": 72,
+      "category": "GOOD",
+      "note": "Ethereum Community Fund - supports ecosystem development and token engineering research",
+      "values_score": 28,
+      "quality_score": 30,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://emergencemagazine.org/interview/an-ecological-technology/",
+      "score": 92,
+      "category": "ESSENTIAL",
+      "note": "Emergence Magazine: An Ecological Technology - James Bridle interview on ecological, systemic thinking about technology",
+      "values_score": 38,
+      "quality_score": 38,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://futurecitiescanada.ca/portal/resources/civic-indigenous-placekeeping-and-partnership-building-toolkit/",
+      "score": 90,
+      "category": "ESSENTIAL",
+      "note": "Civic-Indigenous Placekeeping and Partnership Building Toolkit - comprehensive resource on indigenous partnership and decolonial practice",
+      "values_score": 38,
+      "quality_score": 36,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://equalityfund.ca/grantmaking/step-up-step-back-reimagining-non-competitive-grantmaking-in-community/",
+      "score": 84,
+      "category": "VALUABLE",
+      "note": "Equality Fund: Step Up, Step Back - Reimagining non-competitive grantmaking with feminist, power-aware approach",
+      "values_score": 36,
+      "quality_score": 34,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://edtechinsiders.substack.com/p/educators-guide-to-web3-for-absolute",
+      "score": 84,
+      "category": "VALUABLE",
+      "note": "EdTech Insiders: Educator's Guide to Web3 for Absolute Beginners - comprehensive educational resource",
+      "values_score": 32,
+      "quality_score": 36,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://femwealth.substack.com/p/-web3-the-promise-of-a-denizens-owned",
+      "score": 82,
+      "category": "VALUABLE",
+      "note": "FemWealth: Web3 - The Promise of a Denizens-Owned Internet - feminist critique of Web3 and citizen ownership",
+      "values_score": 36,
+      "quality_score": 32,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://gardens.substack.com/p/daos-and-the-pitfalls-of-progressive",
+      "score": 82,
+      "category": "VALUABLE",
+      "note": "Gardens: DAOs and the Pitfalls of Progressive Decentralisation - critical governance analysis",
+      "values_score": 34,
+      "quality_score": 34,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://gap.karmahq.xyz/project/the-institute-for-community-sustainability/?invite-code=0xb6a78a16348df33a938a89d9e966b7fd2564980fa3bece327fd1d99c2ecda3b5",
+      "score": 82,
+      "category": "VALUABLE",
+      "note": "Gardens: Regen Coordination x Institute for Community Sustainability - regenerative coordination partnership case study",
+      "values_score": 36,
+      "quality_score": 32,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://equalityfund.ca/learn/shifting-power-to-catalyze-movements/",
+      "score": 80,
+      "category": "VALUABLE",
+      "note": "Equality Fund: Shifting Power to Catalyze Movements - power-shifting and movement building approaches",
+      "values_score": 36,
+      "quality_score": 32,
+      "uniqueness_score": 12
+    },
+    {
+      "url": "https://drc.beehiiv.com/p/drc-december-report?_bhlid=db616e822095e9f91439a3a054651a85475b24f6&utm_campaign=drc-december-report&utm_medium=newsletter&utm_source=drc.beehiiv.com",
+      "score": 78,
+      "category": "GOOD",
+      "note": "DRC December Report: Liquid Democracy, Cooperative AI, Web3 Philanthropy - research synthesis on democratic governance",
+      "values_score": 32,
+      "quality_score": 32,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://embodied-economics.ghost.io/starlings/",
+      "score": 78,
+      "category": "GOOD",
+      "note": "Embodied Economics: What Economists Can Learn from Starlings - alternative economics with ecological thinking",
+      "values_score": 34,
+      "quality_score": 30,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://future.a16z.com/dao-canon/",
+      "score": 78,
+      "category": "GOOD",
+      "note": "a16z: DAOs, A Canon - comprehensive curated list of DAO resources",
+      "values_score": 28,
+      "quality_score": 36,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://future.a16z.com/what-is-decentralized-science-aka-desci/",
+      "score": 78,
+      "category": "GOOD",
+      "note": "a16z: Guide to DeSci (Decentralized Science) - comprehensive guide to emerging decentralized science field",
+      "values_score": 30,
+      "quality_score": 34,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Technological_transitions#Socio-technical_systems_and_transitions",
+      "score": 78,
+      "category": "GOOD",
+      "note": "Wikipedia: Technological Transitions - comprehensive overview of socio-technical systems and transitions",
+      "values_score": 30,
+      "quality_score": 36,
+      "uniqueness_score": 12
+    },
+    {
+      "url": "https://early-venom-c6c.notion.site/BlockchainGov-Knowledge-Base-df40420e46574d1b8a6d49ec8286fa62",
+      "score": 76,
+      "category": "GOOD",
+      "note": "BlockchainGov Knowledge Base - specialized blockchain governance resource directory",
+      "values_score": 30,
+      "quality_score": 30,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://futureofgood.co/",
+      "score": 76,
+      "category": "GOOD",
+      "note": "Future of Good - media platform informing changemakers about social impact",
+      "values_score": 34,
+      "quality_score": 30,
+      "uniqueness_score": 12
+    },
+    {
+      "url": "https://enchanted.network/working-with-lore/discursive-landscapes",
+      "score": 76,
+      "category": "GOOD",
+      "note": "Enchanted Network: Working With Lore - Discursive Landscapes - alternative knowledge systems",
+      "values_score": 32,
+      "quality_score": 30,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://forefront.mirror.xyz/LCPVlxuOHJ2yCHvL5hJ9ErCwjwvJ2-Fk1lnOyHviIPc",
+      "score": 74,
+      "category": "GOOD",
+      "note": "Forefront: Tokenized Communities - community-focused tokenomics insights",
+      "values_score": 30,
+      "quality_score": 32,
+      "uniqueness_score": 12
+    },
+    {
+      "url": "https://enchanted.network/working-with-lore/the-future-of-work",
+      "score": 74,
+      "category": "GOOD",
+      "note": "Enchanted Network: Working With Lore - The Future of Work - alternative work futures",
+      "values_score": 32,
+      "quality_score": 30,
+      "uniqueness_score": 12
+    },
+    {
+      "url": "https://journals.sagepub.com/doi/full/10.1177/13505084221090632",
+      "score": 96,
+      "category": "ESSENTIAL",
+      "note": "Academic: Anarchist Technologies - anarchism, cybernetics, and mutual aid. Deep theoretical analysis of alternative technological systems",
+      "values_score": 40,
+      "quality_score": 38,
+      "uniqueness_score": 18
+    },
+    {
+      "url": "https://journals.sagepub.com/doi/10.1177/21582440211002526",
+      "score": 94,
+      "category": "ESSENTIAL",
+      "note": "Academic: When Ostrom Meets Blockchain - rigorous analysis of commons governance principles applied to blockchain systems",
+      "values_score": 38,
+      "quality_score": 38,
+      "uniqueness_score": 18
+    },
+    {
+      "url": "https://gov.gitcoin.co/t/the-donut-economy-x-8-forms-of-capital/10079",
+      "score": 90,
+      "category": "ESSENTIAL",
+      "note": "Gitcoin: Donut Economy x 8 Forms of Capital - comprehensive integration of regenerative economics frameworks",
+      "values_score": 38,
+      "quality_score": 36,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://journals.sagepub.com/doi/10.1177/20539517231159629",
+      "score": 90,
+      "category": "ESSENTIAL",
+      "note": "Academic: Expansive and Extractive Networks of Web3 - critical power-aware analysis of Web3 systems",
+      "values_score": 36,
+      "quality_score": 38,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://metagov.org/",
+      "score": 90,
+      "category": "ESSENTIAL",
+      "note": "Metagov.org - leading governance research organization and resource hub",
+      "values_score": 36,
+      "quality_score": 36,
+      "uniqueness_score": 18
+    },
+    {
+      "url": "https://otherinter.net/research/positive-sum-worlds/",
+      "score": 90,
+      "category": "ESSENTIAL",
+      "note": "Other Internet: Positive Sum Worlds - Remaking Public Goods. Thoughtful framework for public goods innovation",
+      "values_score": 38,
+      "quality_score": 36,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://hats.mirror.xyz/sZjE4zm3jwV9pwUoiqkfbQzabTlWYcdTQqN46iiLkyw",
+      "score": 88,
+      "category": "VALUABLE",
+      "note": "Hats Protocol: Structure Without Capture - anti-capture governance structure framework",
+      "values_score": 36,
+      "quality_score": 36,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://medium.com/metagov/beyond-daos-design-decisions-for-internet-organizations-5e5b21779104",
+      "score": 88,
+      "category": "VALUABLE",
+      "note": "Metagov: Beyond DAOs - Design Decisions for Internet Organizations. Comprehensive governance framework",
+      "values_score": 34,
+      "quality_score": 38,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://otherinter.net/research/crypto-philanthropy/",
+      "score": 88,
+      "category": "VALUABLE",
+      "note": "Other Internet: Aping into Progress - Crypto Philanthropy Report. Comprehensive research on crypto philanthropy",
+      "values_score": 36,
+      "quality_score": 36,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://medium.com/commonsstack/automating-ostrom-for-effective-dao-management-cfe7a7aea138",
+      "score": 88,
+      "category": "VALUABLE",
+      "note": "Commons Stack: Automating Ostrom for Effective DAO Management - practical commons governance framework",
+      "values_score": 38,
+      "quality_score": 34,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://gov.gitcoin.co/t/assembly-theory-x-onchain-capital-allocation-a-powerful-approach-to-allo-design-space-exploration/19729",
+      "score": 86,
+      "category": "VALUABLE",
+      "note": "Gitcoin: Assembly Theory x Onchain Capital Allocation - novel capital allocation approach with theoretical framework",
+      "values_score": 34,
+      "quality_score": 36,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://govbase.metagov.org/",
+      "score": 84,
+      "category": "VALUABLE",
+      "note": "Govbase - Metagov database of online governance projects. Specialized governance database",
+      "values_score": 32,
+      "quality_score": 34,
+      "uniqueness_score": 18
+    },
+    {
+      "url": "https://greenpill.network/pdf/onchain-impact-networks.pdf",
+      "score": 84,
+      "category": "VALUABLE",
+      "note": "GreenPill: Onchain Impact Networks (PDF) - regenerative impact networks resource",
+      "values_score": 36,
+      "quality_score": 34,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://hub.regencoordination.xyz/t/open-space-to-share-proposals-for-network-structure-strategy/258",
+      "score": 84,
+      "category": "VALUABLE",
+      "note": "Regen Coordination: Open Space for Network Structure Proposals - regenerative coordination process documentation",
+      "values_score": 38,
+      "quality_score": 32,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://hypercerts.org/",
+      "score": 84,
+      "category": "VALUABLE",
+      "note": "Hypercerts - impact certificates protocol. Novel impact tracking primitive",
+      "values_score": 34,
+      "quality_score": 34,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://journals.sagepub.com/doi/full/10.1177/0001839214557638",
+      "score": 84,
+      "category": "VALUABLE",
+      "note": "Academic: Using Negotiated Joining to Construct Open-ended Roles - organizational role construction research",
+      "values_score": 30,
+      "quality_score": 38,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://otherinter.net/research/pooltogether-offchain-report/",
+      "score": 84,
+      "category": "VALUABLE",
+      "note": "Other Internet: PoolTogether - Vibes, Labor, Constituencies. In-depth DAO ethnography case study",
+      "values_score": 34,
+      "quality_score": 36,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://medium.com/metagov/introducing-the-agreement-engine-bf03b6d5c16c",
+      "score": 84,
+      "category": "VALUABLE",
+      "note": "Metagov: Introducing the Agreement Engine - contract systems for community governance",
+      "values_score": 34,
+      "quality_score": 34,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://mirror.xyz/0x8B580433568E521ad351b92b98150c0C65ce69B7/1zGqbsh1YZNi3I9yvtk_2VMcpyg_dvHF1GlZ_LAO3p4",
+      "score": 82,
+      "category": "VALUABLE",
+      "note": "RnDAO: What is a DAO? Conceptual Foundations - comprehensive DAO conceptual analysis",
+      "values_score": 32,
+      "quality_score": 36,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://hats.mirror.xyz/xAk_yb7dDL1OLBx8nq47Ni7V1SuiC6L6B-49u7vz520",
+      "score": 82,
+      "category": "VALUABLE",
+      "note": "Hats: Modules - A New Era for Programmable Organizations. Modular organizational primitives",
+      "values_score": 32,
+      "quality_score": 34,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://gov.gitcoin.co/t/the-impactdao-poster-book-is-here/10323",
+      "score": 80,
+      "category": "VALUABLE",
+      "note": "Gitcoin: The ImpactDAO Poster/Book - visual educational resource for impact DAOs",
+      "values_score": 34,
+      "quality_score": 32,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://medium.com/flipside-governance/emerging-consensus-a-way-to-accelerate-decision-making-in-daos-c75aee6be87",
+      "score": 80,
+      "category": "VALUABLE",
+      "note": "Flipside: Emerging Consensus - practical framework for accelerating DAO decision-making",
+      "values_score": 32,
+      "quality_score": 34,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://society.mirror.xyz/B5ygLAJOcbI29x7vpNFBq3kmjDuvl6RW52oBuYKoBT0",
+      "score": 80,
+      "category": "VALUABLE",
+      "note": "Society: Building an Economy Within a DAO - economic framework for internal DAO economies",
+      "values_score": 34,
+      "quality_score": 32,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://medium.com/1kxnetwork/organization-legos-the-state-of-dao-tooling-866b6879e93e",
+      "score": 78,
+      "category": "GOOD",
+      "note": "1kx: Organization Legos - State of DAO Tooling. Comprehensive DAO tooling landscape analysis",
+      "values_score": 30,
+      "quality_score": 34,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://mirror.xyz/media.sobol.eth/wX2TBIdTZTR0t7K5y2qzDIi-U15nfacBhItMIbaawBU",
+      "score": 78,
+      "category": "GOOD",
+      "note": "Sobol: Diagramming DAOs #1 - Gitcoin. Visual DAO analysis and mapping case study",
+      "values_score": 32,
+      "quality_score": 32,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://operator.mirror.xyz/MBNHkLf0s-NPRty1gAsf1OrJji28JL3DfDCC7tACBW4",
+      "score": 76,
+      "category": "GOOD",
+      "note": "Operator: Protocol-first DAO Strategy - strategic framework for protocol-focused DAOs",
+      "values_score": 30,
+      "quality_score": 32,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://mirror.xyz/media.sobol.eth/_qfTMgEws2OZOMBxj-Elz7A0lto2gyaHmAFv_gKLYBE",
+      "score": 74,
+      "category": "GOOD",
+      "note": "Sobol: The Pragmatists Guide to DAOing - practical DAO governance guide",
+      "values_score": 30,
+      "quality_score": 32,
+      "uniqueness_score": 12
+    },
+    {
+      "url": "https://mirror.xyz/joaxap.eth/SBlRa5cehZx8ETMsTrbFpwRZ42zZaaxABsL5XSYJFn4",
+      "score": 72,
+      "category": "GOOD",
+      "note": "joaxap: DAO Governance Models - 101. Educational overview of DAO governance approaches",
+      "values_score": 30,
+      "quality_score": 30,
+      "uniqueness_score": 12
+    },
+    {
+      "url": "https://www.bayoakomolafe.net/post/paraphilanthropy-giving-money-its-freedom-papers",
+      "score": 94,
+      "category": "ESSENTIAL",
+      "note": "Bayo Akomolafe: Paraphilanthropy - Giving Money its Freedom. Decolonial, transformative philanthropy with deep philosophical analysis",
+      "values_score": 40,
+      "quality_score": 36,
+      "uniqueness_score": 18
+    },
+    {
+      "url": "https://weall.org/wp-content/uploads/WEAllBriefing_Commons_IN_15November2021-1.pdf",
+      "score": 90,
+      "category": "ESSENTIAL",
+      "note": "WEAll: Commons Briefing - Wellbeing Economy Alliance resource on commons-based approaches",
+      "values_score": 38,
+      "quality_score": 36,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://vitalik.eth.limo/general/2022/09/20/daos.html",
+      "score": 88,
+      "category": "VALUABLE",
+      "note": "Vitalik Buterin: Thoughts on DAOs - deep analysis of DAO governance from Ethereum founder",
+      "values_score": 32,
+      "quality_score": 38,
+      "uniqueness_score": 18
+    },
+    {
+      "url": "https://ssir.org/articles/entry/web3_and_the_trap_of_for_good?utm_source=substack&utm_medium=email",
+      "score": 88,
+      "category": "VALUABLE",
+      "note": "SSIR: Web3 and the Trap of 'For Good' - critical power-aware analysis of Web3",
+      "values_score": 36,
+      "quality_score": 36,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://www.fundingthecommons.io/sf-2025",
+      "score": 88,
+      "category": "VALUABLE",
+      "note": "Funding the Commons - San Francisco 2025 - public goods funding initiative and conference",
+      "values_score": 38,
+      "quality_score": 34,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://www.clubofrome.org/wp-content/uploads/2023/10/Changing_Finance_2023-3.pdf",
+      "score": 88,
+      "category": "VALUABLE",
+      "note": "Club of Rome: Changing Finance - financial system transformation report",
+      "values_score": 36,
+      "quality_score": 36,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://www.cryptoaltruism.org/podcast",
+      "score": 86,
+      "category": "VALUABLE",
+      "note": "Crypto Altruism Podcast - comprehensive podcast resource on crypto for social impact (202K chars)",
+      "values_score": 36,
+      "quality_score": 34,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://www.biofi.earth/biofi-cultivator",
+      "score": 84,
+      "category": "VALUABLE",
+      "note": "BioFi Cultivator - bioregional finance and regenerative economic framework",
+      "values_score": 36,
+      "quality_score": 32,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://www.communityland.ca/canadian-clts/",
+      "score": 84,
+      "category": "VALUABLE",
+      "note": "Community Land Trusts in Canada - commons-based land governance network",
+      "values_score": 38,
+      "quality_score": 32,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://whyphilanthropymatters.com/wp-content/uploads/2024/01/TRANSFORMING-PHILANTHROPY-CHURCHILL-FELLOWSHIP-REPORT.pdf",
+      "score": 84,
+      "category": "VALUABLE",
+      "note": "Churchill Fellowship Report: Transforming Philanthropy - comprehensive research on philanthropic transformation",
+      "values_score": 36,
+      "quality_score": 34,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://www.ecocertain.xyz/",
+      "score": 84,
+      "category": "VALUABLE",
+      "note": "Ecocertain - ecological certification and finance platform (93K chars)",
+      "values_score": 36,
+      "quality_score": 32,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://ssir.org/articles/entry/ten_nonprofit_funding_models",
+      "score": 82,
+      "category": "VALUABLE",
+      "note": "SSIR: Ten Nonprofit Funding Models - comprehensive funding model framework",
+      "values_score": 32,
+      "quality_score": 36,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://ssir.org/articles/entry/working_toward_financial_inclusion_with_blockchain?utm_source=Enews&utm_medium=Email&utm_campaign=SSIR_Now",
+      "score": 82,
+      "category": "VALUABLE",
+      "note": "SSIR: Working Toward Financial Inclusion With Blockchain - analysis of blockchain for inclusion",
+      "values_score": 34,
+      "quality_score": 34,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://www.fundingthecommons.io/residencies",
+      "score": 82,
+      "category": "VALUABLE",
+      "note": "Funding the Commons - Past Residencies - public goods research residency documentation",
+      "values_score": 36,
+      "quality_score": 32,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://www.cryptoaltruism.org/blog/22-of-the-top-web3-social-impact-developments-of-2022",
+      "score": 80,
+      "category": "VALUABLE",
+      "note": "Crypto Altruism: 22 top Web3 social impact developments of 2022 - comprehensive year-in-review",
+      "values_score": 34,
+      "quality_score": 32,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://thephilanthropist.ca/2023/12/criticism-is-good-for-philanthropy-if-done-well/",
+      "score": 78,
+      "category": "GOOD",
+      "note": "The Philanthropist: Criticism is good for philanthropy - if done well",
+      "values_score": 34,
+      "quality_score": 32,
+      "uniqueness_score": 12
+    },
+    {
+      "url": "https://www.mtroyal.ca/nonprofit/InstituteforCommunityProsperity/_pdfs/David-Sinclair_How-Might-Technology-be-Leveraged-to-Empower-Indigenous-Youth-in-Sports_Scholarly-Output.pdf",
+      "score": 76,
+      "category": "GOOD",
+      "note": "Mount Royal Institute: Nonprofit sector research paper by David Lasby",
+      "values_score": 30,
+      "quality_score": 34,
+      "uniqueness_score": 12
+    },
+    {
+      "url": "https://www.dunsky.com/wp-content/uploads/2023/09/FINAL_English_Public_McConnell_Dunsky_2023-09-11.pdf",
+      "score": 76,
+      "category": "GOOD",
+      "note": "Dunsky: Public engagement research report",
+      "values_score": 32,
+      "quality_score": 32,
+      "uniqueness_score": 12
+    },
+    {
+      "url": "https://society.mirror.xyz/diEjKIIbFNpxTsJEQYOJP79NF4SSAIGqbfNDU0pmN3g",
+      "score": 74,
+      "category": "GOOD",
+      "note": "Society (mirror.xyz): DAO and community article",
+      "values_score": 32,
+      "quality_score": 30,
+      "uniqueness_score": 12
+    },
+    {
+      "url": "https://www.radicalxchange.org/media/blog/plurality-technology-for-collaborative-diversity-and-democracy/",
+      "score": 97,
+      "category": "ESSENTIAL",
+      "note": "Plurality: Technology for Collaborative Diversity and Democracy - RadicalxChange. The full Plurality book by Glen Weyl, Audrey Tang et al. Massive (208K chars) comprehensive work on pluralistic democracy and technology. Essential resource on democratic innovation, collective intelligence, and collaborative governance.",
+      "values_score": 38,
+      "quality_score": 39,
+      "uniqueness_score": 20
+    },
+    {
+      "url": "https://www.taylorfrancis.com/books/oa-edit/10.4324/9781003199816/sacred-civics-jayne-engle-julian-agyeman-tanya-chung-tiam-fook",
+      "score": 88,
+      "category": "VALUABLE",
+      "note": "Sacred Civics: Building Seven Generation Cities - Open access book exploring Indigenous knowledge and seven-generation thinking in urban governance. Integrates participatory governance, commons, and transformation. Strong on decolonial perspectives and long-term systems change.",
+      "values_score": 35,
+      "quality_score": 35,
+      "uniqueness_score": 18
+    },
+    {
+      "url": "https://www.noemamag.com/we-need-to-rewild-the-internet/?utm_source=premiumnewsletter&utm_medium=email",
+      "score": 87,
+      "category": "VALUABLE",
+      "note": "We Need To Rewild The Internet - Noema Magazine. Applies ecological restoration principles to internet infrastructure. Outstanding metaphor of monoculture vs. biodiversity for understanding tech monopolies. Regenerative, anti-extractive vision for digital commons.",
+      "values_score": 32,
+      "quality_score": 36,
+      "uniqueness_score": 19
+    },
+    {
+      "url": "https://www.noemamag.com/how-we-can-encode-human-rights-in-the-blockchain",
+      "score": 85,
+      "category": "VALUABLE",
+      "note": "How We Can Encode Human Rights In The Blockchain - Nathan Schneider for Noema. Explores embedding human rights protections into blockchain protocols. Power-aware critique of 'neutrality' in crypto. Envisions blockchains as alternative to state-based international order.",
+      "values_score": 33,
+      "quality_score": 35,
+      "uniqueness_score": 17
+    },
+    {
+      "url": "https://www.rockpa.org/wp-content/uploads/2023/02/Power-Equity-Summary-Report-2.pdf",
+      "score": 84,
+      "category": "VALUABLE",
+      "note": "Shifting Power to Shift Systems - Rockefeller Philanthropy Advisors report. Comprehensive framework on power equity in philanthropy and systems change. Strong on participatory approaches, solidarity, and addressing power dynamics in funding.",
+      "values_score": 33,
+      "quality_score": 36,
+      "uniqueness_score": 15
+    },
+    {
+      "url": "https://www.vancouverfoundation.ca/wp-content/uploads/2022/08/RR-Fund-Equity-Matrix.pdf",
+      "score": 84,
+      "category": "VALUABLE",
+      "note": "Equity Matrix - Vancouver Foundation. Practical tool adapted from Indigenous-led work distinguishing orgs that serve equity-denied groups vs. those led by them. Grounded in proximity to issue and self-determination. Excellent for grant-making.",
+      "values_score": 34,
+      "quality_score": 34,
+      "uniqueness_score": 16
+    },
+    {
+      "url": "https://www.whcatalysis.org/whao",
+      "score": 84,
+      "category": "VALUABLE",
+      "note": "WHAO (World Heritage Autonomous Organisation) - World Heritage Catalysis. Applying Ostrom's commons governance principles to DAOs in context of World Heritage sites. Polycentric governance, participatory structures, regenerative communities. Novel synthesis.",
+      "values_score": 34,
+      "quality_score": 32,
+      "uniqueness_score": 18
+    },
+    {
+      "url": "https://zine.zora.co/solarpunk-web3-kareola",
+      "score": 84,
+      "category": "VALUABLE",
+      "note": "Planetary Infrastructure as Resistance: Solarpunk and Web3 - ZORA ZINE. Connects solarpunk aesthetics/values to regenerative Web3. Bridges crypto-economics with climate/sustainability. Cites Ursula K. Le Guin and decentralized futures. Strong on regenerative coordination.",
+      "values_score": 34,
+      "quality_score": 33,
+      "uniqueness_score": 17
+    },
+    {
+      "url": "https://www.noemamag.com/tomorrows-democracy-is-open-source",
+      "score": 83,
+      "category": "VALUABLE",
+      "note": "Tomorrow's Democracy Is Open Source - Noema Magazine. Argues for treating democracy like open-source software: participatory, iterative, collaborative. Digital governance as commons. Strong on democratic innovation and public code.",
+      "values_score": 33,
+      "quality_score": 35,
+      "uniqueness_score": 15
+    },
+    {
+      "url": "https://www.radicalxchange.org/#",
+      "score": 82,
+      "category": "VALUABLE",
+      "note": "RadicalxChange - Main organization site. Core resource on democratic transformation, resilient decentralization, and collective agency. Practical tools for plural publics and systemic transition. Foundational organization in the space.",
+      "values_score": 35,
+      "quality_score": 32,
+      "uniqueness_score": 15
+    },
+    {
+      "url": "https://www.regen.melbourne/news/new-urban-governance-first-report",
+      "score": 82,
+      "category": "VALUABLE",
+      "note": "Enabling a Thriving Civic Life: Trialling Distributed Grant Making - Regen Melbourne report on experimenting with the Wellbeing Protocol (Hum app) for participatory grant-making. New urban governance, community-democratic systems relationship.",
+      "values_score": 33,
+      "quality_score": 34,
+      "uniqueness_score": 15
+    },
+    {
+      "url": "https://www.noemamag.com/what-if-money-expired",
+      "score": 81,
+      "category": "VALUABLE",
+      "note": "What If Money Expired? - Noema Magazine on Silvio Gesell's alternative currency concept (demurrage). Post-capitalist economics, challenges accumulation/hoarding. Historical anarchist economics with contemporary relevance.",
+      "values_score": 31,
+      "quality_score": 33,
+      "uniqueness_score": 17
+    },
+    {
+      "url": "https://www.thefuturescentre.org/governance-the-overlooked-route-to-transformation-how-can-we-best-organise-for-change/",
+      "score": 76,
+      "category": "GOOD",
+      "note": "Governance: The Overlooked Route to Transformation - Forum for the Future on strategic foresight and transformative governance. Participatory futures, systems thinking, regenerative approaches.",
+      "values_score": 32,
+      "quality_score": 30,
+      "uniqueness_score": 14
+    },
+    {
+      "url": "https://www3.weforum.org/docs/WEF_Decentralized_Autonomous_Organization_Toolkit_2023.pdf",
+      "score": 76,
+      "category": "GOOD",
+      "note": "Decentralized Autonomous Organization Toolkit - World Economic Forum 2023 report. Comprehensive DAO operations, governance frameworks, legal structures. Educational resource from institutional perspective. Practical recommendations.",
+      "values_score": 27,
+      "quality_score": 36,
+      "uniqueness_score": 13
     }
   ],
   "sessions": [
@@ -308,6 +1127,63 @@
       "rows_processed": "162-186",
       "links_analyzed": 25,
       "note": "Session with unusually high failure rate (88% dead/error links) but found excellent cryptocommons.cc resource on commons-based peer production in crypto. Many DAO domains appear offline."
+    },
+    {
+      "date": "2025-11-09T06:34:34Z",
+      "method": "GitHub Actions + Firecrawl API",
+      "rows_processed": "208-217",
+      "links_analyzed": 10,
+      "successful_fetches": 9,
+      "failed_fetches": 1,
+      "note": "First GitHub Actions batch using Firecrawl API (60s timeout)"
+    },
+    {
+      "date": "2025-11-09T06:40:14Z",
+      "method": "GitHub Actions + Firecrawl API",
+      "rows_processed": "218-317",
+      "links_analyzed": 100,
+      "successful_fetches": 74,
+      "failed_fetches": 26,
+      "acceptance_rate": "14%",
+      "note": "Large batch with systematic triple-gate evaluation. Found 14 library candidates (2 ESSENTIAL, 5 VALUABLE, 7 GOOD) from 53 substantial resources"
+    },
+    {
+      "date": "2025-11-10T03:30:54.861799Z",
+      "method": "GitHub Actions + Firecrawl API",
+      "rows_processed": "318-517",
+      "links_analyzed": 200,
+      "successful_fetches": 180,
+      "failed_fetches": 20,
+      "acceptance_rate": "15%",
+      "note": "Systematic evaluation of 200 URLs (180 successful, 122 substantial). Applied rigorous triple-gate scoring. Found 18 library candidates (2 ESSENTIAL, 6 VALUABLE, 10 GOOD)"
+    },
+    {
+      "date": "2025-11-17T19:11:25.357873Z",
+      "method": "GitHub Actions + Firecrawl API",
+      "rows_processed": "518-1017",
+      "links_analyzed": 500,
+      "successful_fetches": 472,
+      "failed_fetches": 28,
+      "acceptance_rate": "5.9%",
+      "note": "Systematic evaluation of 500 URLs (472 successful, 336 substantial). Applied rigorous triple-gate scoring. Found 28 library candidates (6 ESSENTIAL, 17 VALUABLE, 5 GOOD). Includes outstanding academic papers on Ostrom, anarchist tech, and Web3 critique."
+    },
+    {
+      "date": "2025-11-17T23:34:21.502372Z",
+      "method": "GitHub Actions + Firecrawl API",
+      "rows_processed": "1018-1517",
+      "links_analyzed": 500,
+      "successful_fetches": 442,
+      "failed_fetches": 58,
+      "acceptance_rate": "4.3%",
+      "note": "Systematic evaluation of 500 URLs (442 successful, 271 substantial). Very rigorous scoring. Found 19 library candidates (2 ESSENTIAL, 13 VALUABLE, 4 GOOD). Includes Bayo Akomolafe decolonial philanthropy, SSIR articles, Vitalik on DAOs, Funding the Commons, and more."
+    },
+    {
+      "date": "2025-11-18T01:03:16.635754",
+      "batch": "rows-1518-to-1817",
+      "urls_evaluated": 217,
+      "candidates_added": 14,
+      "acceptance_rate": "6.4%",
+      "notes": "FINAL BATCH - Discord URL mining complete! Rigorous triple-gate scoring maintained high standards (6.4% acceptance). Top finds: Plurality book (97 ESSENTIAL), Sacred Civics (88), Rewild Internet (87), RadicalxChange resources, Noema Magazine articles, regenerative governance frameworks. Total mission accomplished: 1817 rows analyzed, 111 library candidates identified."
     }
   ]
 }

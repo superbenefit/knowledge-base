@@ -67,6 +67,7 @@ jobs:
         fi
 
     - name: Upload results as artifact
+      if: always()
       uses: actions/upload-artifact@v4
       with:
         name: fetched-urls-${{ inputs.start_row }}-to-$((${{ inputs.start_row }} + ${{ inputs.count }} - 1))
