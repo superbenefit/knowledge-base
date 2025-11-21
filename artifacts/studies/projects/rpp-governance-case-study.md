@@ -308,3 +308,13 @@ Here is an outline of how the governance structure of the RPP.
 - Institute for Community Sustainability (ICS)
 - Ontario Trillium Foundation (OTF)
 - Women Win
+
+---
+
+## Related Concepts
+
+- [Governance](tags/governance.md) - Decision-making systems studied in RPP
+- [Case Studies](tags/case-studies.md) - Real-world implementation documentation
+- [Reimagining Power Project](notes/rpp/index.md) - Project explored in this study
+- [Power](tags/power.md) - Transformation focus of the project
+- [Coordination](tags/coordination.md) - Mechanisms implemented in practice

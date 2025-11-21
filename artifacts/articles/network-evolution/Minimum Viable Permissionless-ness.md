@@ -137,3 +137,12 @@ You have a system that can tags/scale.md collective intelligence in a way that: 
 - Previous: artifacts/articles/network-evolution/DAOs%20-%20From%20fractal%20primitives%20to%20network%20scale..md
     
 - Next: artifacts/articles/network-evolution/Building%20DAOs%20as%20scalable%20networks.md
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Organizations balancing permission and openness
+- [Governance](tags/governance.md) - Decision-making about permissions
+- [Decentralization](tags/decentralization.md) - Tension between openness and coordination
+- [Coordination](tags/coordination.md) - Mechanisms requiring varying permission levels
+- [Power](tags/power.md) - Distribution through permissionless structures

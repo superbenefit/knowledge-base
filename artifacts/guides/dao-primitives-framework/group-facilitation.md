@@ -292,3 +292,13 @@ The implementation plan itself requires approval through appropriate [governance
 
 - SuperBenefit Knowledge Garden for broader context as well as specific Patterns, Guides and Tools
 
+
+---
+
+## Related Concepts
+
+- [Facilitation](tags/facilitation.md) - Processes for guiding group work
+- [Coordination](tags/coordination.md) - Mechanisms enabled by facilitation
+- [Teams](tags/teams.md) - Groups benefiting from facilitation
+- [Governance](tags/governance.md) - Decision-making supported by facilitation
+- [DAO Primitives Framework](notes/dao-primitives/index.md) - Framework using facilitation practices

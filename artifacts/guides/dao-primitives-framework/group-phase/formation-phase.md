@@ -129,3 +129,13 @@ Proposal development can center around the group state document outlined above, 
 
 The formation phase establishes the foundation for effective collective action by translating inspiration into structured commitment. It bridges the gap between exploration and execution, creating the conditions for a group to be formally established in the community or network that it is participating in.
 
+
+---
+
+## Related Concepts
+
+- [Group Phases](tags/group-phases.md) - Developmental stages of group formation and work
+- [DAOs](tags/daos.md) - Organizations moving through phases
+- [Coordination](tags/coordination.md) - Phase-appropriate coordination mechanisms
+- [Governance](tags/governance.md) - Decision-making suited to each phase
+- [DAO Primitives Framework](notes/dao-primitives/index.md) - Framework for phase-based coordination

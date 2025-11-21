@@ -524,3 +524,13 @@ The key to successful operational governance design is creating structures that 
 The patterns and primitives outlined in the DAO primitives framework provide a foundation for composing operational structures that can reliably produce the organizational dynamics needed to tackle complex challenges—from decentralized decision-making and creative innovation to economies of scale and adaptive capacity.
 
 Remember that operational governance is fundamentally about unleashing human potential through better [coordination](tags/coordination.md). Start with clear purpose alignment and basic coordination mechanisms, then evolve your operational structure based on real experience and feedback from the teams doing the work. The most effective operational governance emerges when autonomous teams have both the freedom to innovate and the support to coordinate effectively.
+
+---
+
+## Related Concepts
+
+- [Governance](tags/governance.md) - Decision-making systems being implemented
+- [DAOs](tags/daos.md) - Organizations implementing these patterns
+- [Coordination](tags/coordination.md) - Mechanisms for implementing governance
+- [Primitives](tags/primitives.md) - Building blocks used in implementation
+- [DAO Primitives Framework](notes/dao-primitives/index.md) - Framework guiding implementation
