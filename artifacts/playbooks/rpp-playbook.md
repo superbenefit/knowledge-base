@@ -539,3 +539,12 @@ Questions remain: How do we bridge the vast conceptual gap between web3 and trad
 Special recognition to All In For Sport, Institute for Community Sustainability, and Equality Fund & Women Win for courageously experimenting with new models and sharing both successes and failures.
 
 Supported by Ontario Trillium Foundation. Facilitated by SuperBenefit. Documented with gratitude for all participants who contributed time, wisdom, and patience to these experiments.
+---
+
+## Related Concepts
+
+- [Reimagining Power Project](notes/rpp/index.md) - Project documented in this playbook
+- [Governance](tags/governance.md) - Decision-making transformation explored
+- [Power](tags/power.md) - Redistribution through decentralized coordination
+- [Coordination](tags/coordination.md) - Mechanisms for distributed decision-making
+- [Case Studies](tags/case-studies.md) - Real-world implementations documented

@@ -265,3 +265,12 @@ Poetic harvesting works best as **part of a documentation ecosystem**, not a rep
 ---
 
 *For the full conceptual framework and background on poetic harvesting, see the **[Poetic Harvesting Pattern](artifacts/patterns/poetic-harvesting.md)**.*
+---
+
+## Related Concepts
+
+- [Facilitation](tags/facilitation.md) - Practice of guiding collective processes
+- [Sensemaking](tags/sensemaking.md) - Collective meaning-making activities
+- [Community](tags/community.md) - Groups engaging in harvest practices
+- [Coordination](tags/coordination.md) - Mechanisms for collective reflection
+- [Documentation](tags/documentation.md) - Capturing and sharing insights

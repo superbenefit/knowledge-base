@@ -477,3 +477,13 @@ if channel.name in target_channels:
 ---
 
 *This primitive supports community-driven knowledge curation by transforming collective intelligence into structured, actionable resources. When combined with human curation and AI assistance, it enables communities to systematically harvest and organize their shared wisdom.*
+
+---
+
+## Related Concepts
+
+- [Tools](tags/tools.md) - Technical utilities for coordination work
+- [Discord](tags/discord.md) - Platform where links are scraped
+- [Documentation](tags/documentation.md) - Capturing community resources
+- [Community](tags/community.md) - Context for tool usage
+- [Knowledge Management](tags/knowledge-management.md) - Organizing collected resources
