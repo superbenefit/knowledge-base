@@ -55,3 +55,13 @@ Bollier's framework enables commons-based approaches across contexts:
 - The emphasis on "commoning" as active social practice rather than static governance structure resonates with SuperBenefit's understanding that coordination tools must serve relationship-building and adaptation rather than replacing human judgment with automated rules, suggesting that effective DAO primitives enable ongoing negotiation and emergence rather than merely encoding predetermined procedures.
 
 - Bollier's power-aware analysis of enclosure helps SuperBenefit recognize when Web3 coordination tools risk privatizing previously shared resources through protocol control and platform extraction, informing the commitment to commons stewardship and ensuring that DAO governance serves collective ownership rather than merely redistributing who captures value while maintaining extractive structures.
+
+---
+
+## Related Concepts
+
+- [Commons](tags/commons.md) - Shared resources and governance approaches
+- [Governance](tags/governance.md) - Decision-making for collective resources
+- [Coordination](tags/coordination.md) - Mechanisms for managing shared resources
+- [Sustainability](tags/sustainability.md) - Long-term resource stewardship
+- [Community](tags/community.md) - Groups managing commons together

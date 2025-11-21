@@ -50,3 +50,13 @@ This database enables research and informed practice:
 - Impact DAO Media's database infrastructure validates SuperBenefit's commitment to evidence-based coordination tool development, demonstrating that effective primitive design requires empirical understanding of how governance mechanisms actually function across diverse organizational contexts rather than building based on theoretical assumptions or single-project anecdotes—showing that genuinely serving communities means grounding tool development in systematic analysis of participation patterns, coordination challenges, and governance evolution across ecosystem not just highlighting successful examples while ignoring failures and limitations.
 
 - The database's emphasis on impact-focused DAOs resonates with SuperBenefit's mission to support regenerative and social-benefit coordination, providing empirical foundation for understanding what governance patterns serve community-focused organizations versus purely financial projects—illustrating that effective primitives for impact DAOs may differ from mechanisms optimized for speculation or profit distribution, requiring attention to how values and mission shape appropriate coordination tools rather than assuming universal mechanisms work equally well for all organizational purposes and community contexts.
+
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Organizations using these tools and approaches
+- [Coordination](tags/coordination.md) - Mechanisms for organizing work
+- [Roles](tags/roles.md) - Authority and responsibility structures
+- [Governance](tags/governance.md) - Decision-making frameworks
+- [Primitives](tags/primitives.md) - Building blocks for organization

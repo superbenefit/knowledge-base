@@ -52,3 +52,13 @@ Vitalik's analysis enables realistic DAO engagement:
 - The convex versus concave decision framework provides tools for SuperBenefit to evaluate which governance choices benefit from collective input versus requiring focused expertise—suggesting that effective coordination primitives should enable graduated delegation where operational decisions benefit from autonomous execution while strategic choices engage broader deliberation.
 
 - Vitalik's intellectual honesty as Ethereum founder who could profit from uncritical DAO promotion resonates with SuperBenefit's commitment to power-aware analysis that acknowledges limitations alongside possibilities—showing that genuinely serving communities requires truthful assessment of what coordination tools accomplish rather than amplifying hype that serves developer or investor interests.
+
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Organizations examined conceptually
+- [Governance](tags/governance.md) - Decision-making systems discussed
+- [Coordination](tags/coordination.md) - Mechanisms for collective action
+- [Decentralization](tags/decentralization.md) - Foundational principle analyzed
+- [DAO Primitives Framework](notes/dao-primitives/index.md) - Practical framework complement

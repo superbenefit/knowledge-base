@@ -52,3 +52,13 @@ This ethnography enables power-aware DAO understanding:
 - The documentation of invisible contributor labor resonates with SuperBenefit's understanding that coordination requires ongoing care work often uncompensated by token systems, challenging DAO primitives to value community building, conflict mediation, and knowledge work that makes governance possible but doesn't produce easily tokenized deliverables.
 
 - PoolTogether ethnography's revelation of stakeholder constituencies with distinct interests provides framework for SuperBenefit's power-aware approach, showing that technical decentralization doesn't eliminate political dynamics requiring navigation—suggesting that coordination primitives should acknowledge rather than obscure the stakeholder negotiation inherent in collective decision-making.
+
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Organizations and communities discussed
+- [Coordination](tags/coordination.md) - Mechanisms for collective action
+- [Governance](tags/governance.md) - Decision-making in funding contexts
+- [Public Goods](tags/public-goods.md) - Commons funding approaches
+- [Impact](tags/impact.md) - Outcomes and value creation

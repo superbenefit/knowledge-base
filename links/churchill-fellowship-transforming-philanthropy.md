@@ -52,3 +52,13 @@ This report enables philanthropic transformation:
 - The report's emphasis on power analysis rather than merely improved practices resonates with SuperBenefit's power-aware approach, showing that effective transformation requires examining and redistributing decision-making authority not just optimizing existing philanthropic structures—suggesting that coordination primitives should be evaluated for whether they genuinely shift power or merely change implementation details.
 
 - Churchill Fellowship's global documentation validates SuperBenefit's pattern-based learning across contexts, demonstrating that coordination primitive development should draw on proven approaches from diverse philanthropic, community, and governance traditions rather than assuming Web3 represents entirely novel coordination requiring design without reference to existing successful patterns.
+
+---
+
+## Related Concepts
+
+- [Power](tags/power.md) - Distribution and transformation in funding relationships
+- [Governance](tags/governance.md) - Decision-making in philanthropic contexts
+- [Community](tags/community.md) - Leadership and self-determination
+- [Coordination](tags/coordination.md) - Mechanisms for resource distribution
+- [Grants](tags/grants.md) - Funding approaches and practices

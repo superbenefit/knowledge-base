@@ -50,3 +50,13 @@ This framework enables transition-oriented practice:
 - Technological transitions framework validates SuperBenefit's systems-level perspective on coordination innovation, demonstrating that effective primitives can't be designed as isolated technical solutions but must account for how governance mechanisms interact with institutional contexts, cultural practices, and economic structures that constitute socio-technical regimes—showing that moving from niche DAO experiments to genuine transformation of organizational coordination requires strategic attention to regime resistance and deliberate creation of conditions enabling alternative systems to develop and scale.
 
 - The emphasis on how established regimes resist change through technical lock-in, institutional inertia, and cultural assumptions resonates with SuperBenefit's analysis of power dynamics in coordination systems, illustrating that designing regenerative governance tools requires understanding and actively working to overcome incumbent organizational models' structural advantages rather than assuming better mechanisms automatically spread—demonstrating need for strategic niche management, coalition building, and policy advocacy beyond pure technology development.
+
+---
+
+## Related Concepts
+
+- [Sustainability](tags/sustainability.md) - Ecological approaches to technology
+- [Coordination](tags/coordination.md) - Alternative organizing mechanisms
+- [Community](tags/community.md) - Digital and local organizing
+- [Regeneration](tags/regeneration.md) - Restorative systems design
+- [Governance](tags/governance.md) - Democratic technology frameworks

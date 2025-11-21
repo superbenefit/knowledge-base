@@ -54,3 +54,13 @@ This framework enables transformative urban governance:
 - The book's emphasis on participatory transformation grounded in indigenous wisdom validates SuperBenefit's decolonial commitments, demonstrating that effective coordination must center indigenous knowledge and governance traditions rather than imposing Western organizational models claiming universal applicability—showing that coordination tools should enable communities to draw on their own wisdom traditions.
 
 - Sacred Civics' integration of ecological reciprocity with governance provides framework for SuperBenefit's regenerative approach, showing how coordination must consider relationship with more-than-human world and long-term ecological health rather than treating environment as externality—suggesting that DAO primitives should enable communities to account for impacts across generations and species, not just immediate human participants.
+
+---
+
+## Related Concepts
+
+- [Roles](tags/roles.md) - Organizational structures and membership
+- [Governance](tags/governance.md) - Decision-making frameworks
+- [DAOs](tags/daos.md) - Decentralized organizations explored
+- [Community](tags/community.md) - Social structures and participation
+- [Coordination](tags/coordination.md) - Mechanisms for organizing work

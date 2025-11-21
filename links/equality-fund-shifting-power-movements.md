@@ -54,3 +54,13 @@ This framework enables power-shifting philanthropic practice:
 - The emphasis on movement-centered metrics rather than funder-defined success measures resonates with SuperBenefit's understanding that coordination tools should enable communities to define thriving on their own terms instead of imposing predetermined outcomes that serve external accountability but may undermine community autonomy and learning.
 
 - Equality Fund's call for sustained long-term investment validates SuperBenefit's conviction that effective coordination requires patience and multi-year commitment rather than optimizing for transaction speed—showing that genuine relationship-building and power redistribution happen across years, not through rapid iteration that extracts short-term value while undermining sustained community capacity.
+
+---
+
+## Related Concepts
+
+- [Power](tags/power.md) - Distribution and transformation in funding relationships
+- [Governance](tags/governance.md) - Decision-making in philanthropic contexts
+- [Community](tags/community.md) - Leadership and self-determination
+- [Coordination](tags/coordination.md) - Mechanisms for resource distribution
+- [Grants](tags/grants.md) - Funding approaches and practices

@@ -50,3 +50,13 @@ This framework enables transformative governance design:
 - Forum for the Future's positioning of governance as transformation site validates SuperBenefit's conviction that coordination primitives aren't neutral infrastructure but political tools that either enable or block regenerative change, demonstrating that effective governance mechanisms must align with values of participation, emergence, and power distribution rather than optimizing efficiency within extractive organizational paradigms—showing that designing coordination tools requires examining what transformation they serve and whose agency they support or undermine through structural choices that appear technical but encode political commitments.
 
 - The analysis's integration of participatory futures, systems thinking, and regenerative principles resonates with SuperBenefit's multidisciplinary approach to coordination innovation, illustrating that effective governance design draws on diverse knowledge traditions including strategic foresight, complexity science, and ecological thinking rather than treating organizational decision-making as purely technical problem solved through mechanism design divorced from broader frameworks for navigating transformation, justice, and sustainability that shape what "good governance" actually means in practice.
+
+---
+
+## Related Concepts
+
+- [Community](tags/community.md) - Local and network organizing
+- [Coordination](tags/coordination.md) - Mechanisms for collective action
+- [Governance](tags/governance.md) - Decision-making and leadership frameworks
+- [Culture](tags/culture.md) - Values and practices shaping coordination
+- [Sustainability](tags/sustainability.md) - Regenerative community approaches

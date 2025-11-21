@@ -52,3 +52,13 @@ This framework enables commons-informed DAO design:
 - The emphasis on participatory rule-making resonates with SuperBenefit's conviction that communities must be able to adapt coordination tools to their contexts rather than accepting predetermined protocols—Ostrom's research shows that sustainable commons require participants to collectively create and modify rules, suggesting that effective DAO primitives should enable ongoing governance evolution rather than static structures.
 
 - Commons Stack's examination of how smart contracts can automate monitoring while maintaining human judgment for rule creation provides model for how SuperBenefit can balance technical automation with participatory governance—showing that blockchain mechanisms should enhance rather than replace collective decision-making, automating enforcement of community-determined rules rather than hard-coding governance that communities cannot modify.
+
+---
+
+## Related Concepts
+
+- [Commons](tags/commons.md) - Shared resources and governance approaches
+- [Governance](tags/governance.md) - Decision-making for collective resources
+- [Coordination](tags/coordination.md) - Mechanisms for managing shared resources
+- [Sustainability](tags/sustainability.md) - Long-term resource stewardship
+- [Community](tags/community.md) - Groups managing commons together

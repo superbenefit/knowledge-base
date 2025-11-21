@@ -50,3 +50,13 @@ This analysis enables informed tokenization decisions:
 - Forefront's critical tokenization analysis validates SuperBenefit's careful attention to how economic mechanisms affect community coordination, demonstrating that shared tokens create complex trade-offs rather than pure benefits—showing that effective primitive development requires examining when financial incentives genuinely align participation versus when they introduce speculation, inequality, and motivation crowding-out that undermine community purposes, illustrating that coordination tools unavoidably encode political and economic assumptions requiring explicit examination rather than treating tokenization as neutral coordination upgrade.
 
 - The emphasis on context-dependent evaluation resonates with SuperBenefit's commitment to supporting communities in choosing appropriate coordination patterns for their specific needs rather than prescribing universal solutions, showing that genuinely serving diverse communities means providing frameworks for thoughtful assessment of coordination approaches including their risks and limitations—demonstrating that effective guidance acknowledges when tokenization or other mechanisms may not serve particular communities despite working elsewhere, requiring humility about tool limitations rather than promoting primitives as universally applicable solutions.
+
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Organizations and communities discussed
+- [Governance](tags/governance.md) - Decision-making frameworks explored
+- [Coordination](tags/coordination.md) - Mechanisms for collective action
+- [Communities](tags/community.md) - Social structures and dynamics
+- [Frameworks](tags/frameworks.md) - Organizational approaches and toolkits

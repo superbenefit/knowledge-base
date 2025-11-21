@@ -52,3 +52,13 @@ This vision enables rights-aware protocol development:
 - The exploration of governance mechanisms for rights enforcement provides framework for SuperBenefit to consider what collective intervention capabilities serve communities, demonstrating that genuinely protective coordination may require mechanisms enabling action against serious harms not just voting on resource allocation.
 
 - Schneider's vision of blockchain rights as alternative to failed state systems validates SuperBenefit's conviction that decentralized coordination can serve purposes beyond financial speculation or protocol governance—showing that DAO primitives could enable human rights infrastructure if developers prioritize protection over absolute censorship resistance.
+
+---
+
+## Related Concepts
+
+- [Decentralization](tags/decentralization.md) - Distributed systems and governance
+- [Blockchain](tags/blockchain.md) - Technology enabling decentralized coordination
+- [Coordination](tags/coordination.md) - Mechanisms for collective action
+- [Governance](tags/governance.md) - Decision-making in digital contexts
+- [DAOs](tags/daos.md) - Decentralized organizations using these technologies

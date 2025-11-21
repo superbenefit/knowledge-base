@@ -54,3 +54,13 @@ This educational framework enables informed Web3 engagement in learning contexts
 - EdTech Insiders' critical perspective on hype while acknowledging genuine potential resonates with SuperBenefit's balanced approach to Web3—neither dismissing possibilities nor uncritically promoting technologies, maintaining honesty about limitations while exploring where decentralized coordination genuinely offers alternatives to extractive platforms.
 
 - The focus on community governance and collective decision-making as educational applications validates SuperBenefit's conviction that DAO primitives serve broader coordination needs beyond financial speculation, showing how participatory governance concepts apply to learning communities, student organizations, and collaborative projects in educational contexts.
+
+---
+
+## Related Concepts
+
+- [Decentralization](tags/decentralization.md) - Distributed systems and governance
+- [Blockchain](tags/blockchain.md) - Technology enabling decentralized coordination
+- [Coordination](tags/coordination.md) - Mechanisms for collective action
+- [Governance](tags/governance.md) - Decision-making in digital contexts
+- [DAOs](tags/daos.md) - Decentralized organizations using these technologies

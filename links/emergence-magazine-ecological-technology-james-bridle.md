@@ -64,3 +64,13 @@ The interview's value lies in expanding imaginative possibilities rather than pr
 - The emphasis on different temporalities and slowness offers critical counterpoint to Web3's speed obsessions, resonating with SuperBenefit's experience that trust-building and relationship work in experiments like AIFS required patience across seasons and cycles rather than rapid iteration toward predetermined outcomes—some coordination emerges through attention and care rather than efficiency optimization.
 
 - Bridle's respect for indigenous technological traditions as sophisticated multi-generational practices grounds SuperBenefit's decolonial commitments, showing why indigenous knowledge must fundamentally inform regenerative design rather than being consulted as validation for predetermined Western approaches.
+
+---
+
+## Related Concepts
+
+- [Sustainability](tags/sustainability.md) - Ecological approaches to technology
+- [Coordination](tags/coordination.md) - Alternative organizing mechanisms
+- [Community](tags/community.md) - Digital and local organizing
+- [Regeneration](tags/regeneration.md) - Restorative systems design
+- [Governance](tags/governance.md) - Democratic technology frameworks

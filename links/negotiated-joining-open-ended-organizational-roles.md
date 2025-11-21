@@ -52,3 +52,13 @@ This research enables adaptive role construction:
 - Negotiated joining's emphasis on dialogue between individual capabilities and collective needs resonates with SuperBenefit's approach to small autonomous teams where role clarity emerges from ongoing collective sense-making—showing that coordination tools should facilitate negotiation rather than requiring communities to fit predetermined organizational templates.
 
 - The research's recognition of power dynamics in role negotiation provides framework for SuperBenefit to ensure that adaptive role construction doesn't concentrate power with those comfortable self-advocacy, suggesting that effective coordination primitives should support participatory dialogue where diverse voices can shape responsibilities rather than defaulting to those who speak loudest in unstructured negotiation.
+
+---
+
+## Related Concepts
+
+- [Roles](tags/roles.md) - Organizational structures and membership
+- [Governance](tags/governance.md) - Decision-making frameworks
+- [DAOs](tags/daos.md) - Decentralized organizations explored
+- [Community](tags/community.md) - Social structures and participation
+- [Coordination](tags/coordination.md) - Mechanisms for organizing work

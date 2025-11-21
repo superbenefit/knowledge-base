@@ -63,3 +63,13 @@ The essay's power lies in its capacity to trouble comfortable assumptions rather
 - The emphasis on relationship and entanglement as transformation itself—not means to an end—validates SuperBenefit's understanding that trust-building and attending to group dynamics constitute foundational infrastructure rather than soft prerequisites, explaining why AIFS needed to prioritize relationship before coordination could become sustainable.
 
 - Challenges SuperBenefit to hold the tension between providing reusable patterns for decentralized coordination while honoring Akomolafe's invitation to "lostness" and emergence, recognizing that genuinely decolonial futures cannot be fully mapped in advance but must arise through practices that refuse colonial logics of productivity and measurement.
+
+---
+
+## Related Concepts
+
+- [Power](tags/power.md) - Dynamics in funding and resource distribution
+- [Community](tags/community.md) - Organizations and movements being funded
+- [Coordination](tags/coordination.md) - Mechanisms for collective resource allocation
+- [Impact](tags/impact.md) - Outcomes and effectiveness measures
+- [Governance](tags/governance.md) - Decision-making in funding contexts

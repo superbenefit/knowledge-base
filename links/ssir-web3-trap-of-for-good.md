@@ -52,3 +52,13 @@ This framework enables critical Web3 evaluation:
 - The framework for distinguishing genuine impact from washing provides tools for SuperBenefit to evaluate DAO mechanisms rigorously, asking whose wealth increases, who controls decisions, and whose labor is extracted rather than assuming decentralization automatically produces equitable outcomes—showing that effective assessment requires analyzing structural incentives alongside stated values.
 
 - SSIR's emphasis on structural dynamics over individual intentions resonates with SuperBenefit's understanding that regenerative coordination requires designing systems where incentives align with collective benefit rather than relying on good intentions within extractive structures—validating the conviction that genuine transformation demands changing structural dynamics, not just rhetoric or participant virtue.
+
+---
+
+## Related Concepts
+
+- [ReFi](tags/refi.md) - Regenerative finance and alternative economics
+- [Coordination](tags/coordination.md) - Mechanisms for resource allocation
+- [Community](tags/community.md) - Local and regional organizing
+- [Sustainability](tags/sustainability.md) - Ecological and social resilience
+- [Governance](tags/governance.md) - Decision-making about resource distribution

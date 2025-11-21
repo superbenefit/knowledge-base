@@ -62,3 +62,13 @@ The framework's combination of theoretical rigor and practical applicability mak
 - Donut economics' dual commitment to planetary boundaries (ecological ceiling) and social foundations (meeting basic needs) challenges SuperBenefit to ensure that regenerative systems don't just reduce harm but actively operate within ecological limits while guaranteeing wellbeing—moving beyond sustainability rhetoric to concrete constraints and positive commitments that must be embedded at protocol level.
 
 - Gitcoin's implementation of this integrated framework demonstrates that alternative economics can work at meaningful scale with real capital deployed, providing evidence for SuperBenefit's conviction that quadratic funding and public goods mechanisms can reward community benefit over individual accumulation when properly designed.
+
+---
+
+## Related Concepts
+
+- [Commons](tags/commons.md) - Shared resources and governance approaches
+- [Governance](tags/governance.md) - Decision-making for collective resources
+- [Coordination](tags/coordination.md) - Mechanisms for managing shared resources
+- [Sustainability](tags/sustainability.md) - Long-term resource stewardship
+- [Community](tags/community.md) - Groups managing commons together

@@ -50,3 +50,13 @@ This collection enables DAO learning and reference:
 - a16z's DAO canon demonstrates value of curated resource collections for navigating complex fields, validating SuperBenefit's knowledge garden approach to assembling and contextualizing resources—though SuperBenefit's regenerative values lens offers important complement to a16z's venture capital perspective, showing that different curation principles surface different resources and frame similar materials through distinct interpretive lenses that shape how readers understand DAO possibilities.
 
 - The canon's practical implementation emphasis resonates with SuperBenefit's commitment to actionable guidance beyond theoretical frameworks, though SuperBenefit's attention to power dynamics, regenerative principles, and community stewardship offers necessary counterbalance to a16z's focus on scalability and growth—illustrating how resource curation unavoidably reflects curator's values and intended use cases, making explicit curatorial frameworks essential for readers to critically engage with collected materials.
+
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Organizations discussed throughout the canon
+- [Governance](tags/governance.md) - Decision-making frameworks explored in the collection
+- [Frameworks](tags/frameworks.md) - Organizational structures and approaches covered
+- [Coordination](tags/coordination.md) - Core challenge addressed by DAO mechanisms
+- [Decentralization](tags/decentralization.md) - Foundational principle examined across resources

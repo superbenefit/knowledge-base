@@ -52,3 +52,13 @@ RxC enables democratic transformation practice:
 - The organization's "third way" beyond markets and states resonates with SuperBenefit's regenerative approach seeking alternatives to both platform capitalism and centralized control, validating conviction that decentralized coordination doesn't merely redistribute who benefits from extraction but can fundamentally transform economic and governance logics.
 
 - RxC's integration of rigorous research with practical tools provides model for SuperBenefit ensuring coordination primitives emerge from both theoretical grounding and implementation experience—showing that effective development requires dialogue between mechanism design innovation and community organizing practice, not just technical implementation or only academic speculation.
+
+---
+
+## Related Concepts
+
+- [Coordination](tags/coordination.md) - Mechanisms for collective decision-making
+- [Governance](tags/governance.md) - Democratic and participatory frameworks
+- [Community](tags/community.md) - Network organizing and collaboration
+- [Power](tags/power.md) - Distribution and relational dynamics
+- [Sustainability](tags/sustainability.md) - Regenerative coordination approaches

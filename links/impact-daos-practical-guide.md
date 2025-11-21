@@ -50,3 +50,13 @@ This guide enables impact DAO implementation:
 - Impact DAOs guide's mission-driven focus validates SuperBenefit's commitment to coordination primitives serving social benefit and regenerative purposes beyond financial applications, demonstrating need for governance resources specifically addressing impact organization contexts rather than assuming coordination mechanisms transfer unchanged from DeFi to social impact—showing that genuinely serving mission-driven communities requires understanding their distinct needs including multi-stakeholder participation, impact measurement integration, and values alignment maintenance that generic DAO tooling often overlooks in favor of token-holder governance optimized for financial returns.
 
 - The guide's accessible practical documentation resonates with SuperBenefit's commitment to actionable guidance supporting implementation rather than purely theoretical frameworks, illustrating that effective support for communities adopting decentralized coordination requires comprehensive resources addressing full organizational lifecycle from legal formation through governance operation to impact evaluation—demonstrating that primitive development should integrate with broader ecosystem of practical resources enabling organizations to actually implement coordination innovations rather than leaving communities to bridge gap between abstract mechanism design and operational reality requiring expertise across legal, technical, social, and mission-specific dimensions.
+
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Organizations using these approaches
+- [Governance](tags/governance.md) - Decision-making frameworks explored
+- [Coordination](tags/coordination.md) - Collective action mechanisms
+- [DAO Primitives Framework](notes/dao-primitives/index.md) - SuperBenefit's pattern-based approach
+- [Frameworks](tags/frameworks.md) - Organizational structures analyzed

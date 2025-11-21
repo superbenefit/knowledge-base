@@ -52,3 +52,13 @@ This report enables financial system transformation:
 - The report's emphasis on stakeholder governance beyond shareholder primacy resonates with SuperBenefit's exploration of multi-stakeholder coordination, demonstrating that regenerative economics requires governance including diverse affected parties rather than only capital owners—validating that DAO primitives should enable participation beyond token holdings.
 
 - Club of Rome's systems perspective validates SuperBenefit's understanding that coordination transformation connects with broader systems change, showing that financial alternatives alone prove insufficient if governance, culture, and economic logics maintain extraction—suggesting that effective primitives should address systemic dynamics not just isolated mechanisms.
+
+---
+
+## Related Concepts
+
+- [ReFi](tags/refi.md) - Regenerative finance and alternative economics
+- [Coordination](tags/coordination.md) - Mechanisms for resource allocation
+- [Community](tags/community.md) - Local and regional organizing
+- [Sustainability](tags/sustainability.md) - Ecological and social resilience
+- [Governance](tags/governance.md) - Decision-making about resource distribution

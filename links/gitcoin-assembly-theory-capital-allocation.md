@@ -52,3 +52,13 @@ This theoretical framework enables principled allocation design:
 - The emphasis on understanding capital allocation as selection process resonates with SuperBenefit's recognition that funding mechanisms shape what work gets done and what communities value—showing that choices about quadratic versus retroactive versus conviction-based allocation aren't merely technical details but fundamental decisions about what receives resources and attention, requiring intentional design aligned with regenerative goals.
 
 - Assembly theory's focus on emergence and complexity validates SuperBenefit's systems-thinking approach to coordination, demonstrating that understanding how simple rules produce complex outcomes through selection requires theoretical frameworks from complexity science rather than only analyzing individual mechanism properties in isolation.
+
+---
+
+## Related Concepts
+
+- [Public Goods](tags/public-goods.md) - Collective benefit funding explored
+- [Impact](tags/impact.md) - Outcomes and measurement approaches
+- [Coordination](tags/coordination.md) - Mechanisms for collective action
+- [DAOs](tags/daos.md) - Organizations funding and creating impact
+- [Grants](tags/grants.md) - Funding mechanisms discussed

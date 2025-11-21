@@ -52,3 +52,13 @@ This framework enables intentional governance design across contexts:
 - The framework's examination of governance mechanism tradeoffs validates SuperBenefit's power-aware analysis, showing that every coordination structure involves choices between competing values—recognizing that technical decentralization, operational effectiveness, democratic legitimacy, and capture resistance often conflict rather than naturally aligning, requiring intentional design addressing which tradeoffs serve regenerative goals.
 
 - Metagov's empirical grounding in what actually works across functioning organizations provides evidence base for SuperBenefit's conviction that governance design should learn from practice rather than theoretical ideals—suggesting that coordination primitives should emerge from systematic study of successful patterns rather than implementing untested mechanisms because they seem philosophically pure.
+
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Organizations using these approaches
+- [Governance](tags/governance.md) - Decision-making frameworks explored
+- [Coordination](tags/coordination.md) - Collective action mechanisms
+- [DAO Primitives Framework](notes/dao-primitives/index.md) - SuperBenefit's pattern-based approach
+- [Frameworks](tags/frameworks.md) - Organizational structures analyzed

@@ -48,3 +48,13 @@ This synthesis enables informed governance design:
 - Democracy Research Collective's research synthesis validates SuperBenefit's commitment to evidence-based primitive development rather than building tools based on speculative claims, demonstrating that effective coordination mechanisms require understanding both theoretical foundations and empirical outcomes from implementation—showing that genuine service to communities means grounding governance innovation in research evidence not technological enthusiasm.
 
 - The report's integration of liquid democracy, cooperative AI governance, and Web3 philanthropy resonates with SuperBenefit's understanding that coordination challenges are interconnected, illustrating how delegation mechanisms, algorithmic governance, and funding distribution address related questions about participation, expertise, and legitimacy that require coherent frameworks rather than isolated technical solutions applied without understanding their relationships.
+
+---
+
+## Related Concepts
+
+- [Roles](tags/roles.md) - Organizational structures and membership
+- [Governance](tags/governance.md) - Decision-making frameworks
+- [DAOs](tags/daos.md) - Decentralized organizations explored
+- [Community](tags/community.md) - Social structures and participation
+- [Coordination](tags/coordination.md) - Mechanisms for organizing work

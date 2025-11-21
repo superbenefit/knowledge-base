@@ -52,3 +52,13 @@ CLT model enables commons land governance:
 - The CLT emphasis on permanent affordability through removing resources from speculative markets resonates with SuperBenefit's regenerative economics focus, demonstrating that genuine alternatives to extraction require structural changes preventing commodification rather than temporary interventions within market logics—suggesting that effective coordination should create commons rather than merely redistributing who profits from extraction.
 
 - CLT network's documentation of functioning examples validates SuperBenefit's pattern-based approach learning from proven implementations, showing that coordination primitive development should draw on decades of commons governance experience rather than assuming blockchain represents entirely novel coordination requiring design from first principles—commons patterns work across contexts when adapted appropriately.
+
+---
+
+## Related Concepts
+
+- [Community](tags/community.md) - Collective organizing and mutual support
+- [Coordination](tags/coordination.md) - Mechanisms for collective action
+- [Mutual Aid](tags/mutual-aid.md) - Solidarity-based resource sharing
+- [Sustainability](tags/sustainability.md) - Regenerative approaches to organizing
+- [Power](tags/power.md) - Distribution and transformation dynamics

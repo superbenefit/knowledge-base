@@ -63,3 +63,13 @@ The rigorous scholarly approach provides credibility when challenging dominant W
 - The detailed critique of token-weighted governance validates SuperBenefit's exploration of alternatives like quadratic mechanisms and participation-based rights rather than one-token-one-vote systems, showing why capital-based governance reproduces plutocracy despite decentralization rhetoric—directly relevant to RPP's multi-stakeholder governance challenges where equitable voice couldn't depend on equal capital stakes.
 
 - The commons enclosure analysis helps SuperBenefit recognize when Web3 coordination tools risk enclosing previously shared resources through protocol fees and proprietary layers, informing the commitment to commons stewardship and ensuring that DAO primitives serve collective benefit rather than concentrating gains among early investors and founders.
+
+---
+
+## Related Concepts
+
+- [Coordination](tags/coordination.md) - Mechanisms for collective decision-making
+- [Governance](tags/governance.md) - Democratic and participatory frameworks
+- [Community](tags/community.md) - Network organizing and collaboration
+- [Power](tags/power.md) - Distribution and relational dynamics
+- [Sustainability](tags/sustainability.md) - Regenerative coordination approaches

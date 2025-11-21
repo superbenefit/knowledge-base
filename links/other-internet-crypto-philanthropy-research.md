@@ -52,3 +52,13 @@ This research enables informed crypto philanthropy engagement:
 - The research's comparative analysis of traditional, trust-based, and crypto philanthropy resonates with SuperBenefit's understanding that alternative coordination mechanisms should be judged against both conventional systems and other progressive approaches—not just whether crypto improves on corporate platforms but whether it serves communities better than trust-based, participatory, or commons-oriented alternatives.
 
 - Other Internet's documentation of crypto philanthropy's actual scale versus hype validates SuperBenefit's commitment to honest assessment of what Web3 accomplishes in practice—showing that transformative claims should be verified through systematic study of implementations rather than amplifying announcements that promise more than they deliver.
+
+---
+
+## Related Concepts
+
+- [Public Goods](tags/public-goods.md) - Collective benefit funding explored
+- [Impact](tags/impact.md) - Outcomes and measurement approaches
+- [Coordination](tags/coordination.md) - Mechanisms for collective action
+- [DAOs](tags/daos.md) - Organizations funding and creating impact
+- [Grants](tags/grants.md) - Funding mechanisms discussed

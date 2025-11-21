@@ -50,3 +50,13 @@ This guide enables DeSci exploration and engagement:
 - a16z's DeSci guide demonstrates how decentralized coordination mechanisms can extend beyond organizational governance to knowledge production systems, validating SuperBenefit's vision that coordination primitives could enable communities to collectively steward not just organizational decisions but shared intellectual resources—though SuperBenefit's emphasis on regenerative principles and commons stewardship offers important complement to a16z's innovation framing, showing that scientific knowledge represents commons requiring care and protection from commodification rather than primarily representing market opportunity for disruption.
 
 - The guide's attention to how current scientific institutions create gatekeeping and access barriers resonates with SuperBenefit's analysis of power concentration in coordination systems, illustrating that effective decentralized coordination tools should support genuinely open knowledge production rather than replacing institutional gatekeepers with token-holder gatekeeping or venture-backed platforms that maintain power asymmetries through different mechanisms while claiming decentralization.
+
+---
+
+## Related Concepts
+
+- [Decentralization](tags/decentralization.md) - Distributed systems and governance
+- [Blockchain](tags/blockchain.md) - Technology enabling decentralized coordination
+- [Coordination](tags/coordination.md) - Mechanisms for collective action
+- [Governance](tags/governance.md) - Decision-making in digital contexts
+- [DAOs](tags/daos.md) - Decentralized organizations using these technologies

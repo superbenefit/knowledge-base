@@ -51,3 +51,13 @@ This partnership model enables regenerative community development:
 - Regen Coordination's practical application of regenerative principles to community development validates SuperBenefit's conviction that regenerative economics extends beyond environmental sustainability to encompass how communities coordinate, make decisions, and distribute resources—showing that regenerative approaches address fundamental questions about power, participation, and collective flourishing.
 
 - The focus on building sustainable community capacity rather than creating dependency provides model for how SuperBenefit can ensure DAO primitives strengthen communities' ability to coordinate autonomously rather than locking them into specific platforms or requiring ongoing technical support that concentrates power with developers.
+
+---
+
+## Related Concepts
+
+- [Coordination](tags/coordination.md) - Mechanisms for collective decision-making
+- [Governance](tags/governance.md) - Democratic and participatory frameworks
+- [Community](tags/community.md) - Network organizing and collaboration
+- [Power](tags/power.md) - Distribution and relational dynamics
+- [Sustainability](tags/sustainability.md) - Regenerative coordination approaches

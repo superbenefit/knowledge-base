@@ -52,3 +52,13 @@ This framework enables democratic innovation:
 - The emphasis on governance as commons validates SuperBenefit's conviction that coordination tools should be collective resources communities steward together, showing that effective primitives function as public infrastructure enabling diverse uses rather than proprietary platforms extracting value from users.
 
 - Noema's vision of participatory governance development provides model for SuperBenefit ensuring coordination primitive creation involves diverse community voices rather than only technical builders—showing that genuinely democratic tools emerge from collaborative development process not expert design imposed on users.
+
+---
+
+## Related Concepts
+
+- [Decentralization](tags/decentralization.md) - Distributed systems and governance
+- [Blockchain](tags/blockchain.md) - Technology enabling decentralized coordination
+- [Coordination](tags/coordination.md) - Mechanisms for collective action
+- [Governance](tags/governance.md) - Decision-making in digital contexts
+- [DAOs](tags/daos.md) - Decentralized organizations using these technologies

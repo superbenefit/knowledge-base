@@ -54,3 +54,13 @@ Hypercerts enables impact-based funding across contexts:
 - The emphasis on making positive externalities trackable and rewardable resonates with SuperBenefit's regenerative economics focus, showing how blockchain primitives can explicitly value ecological and social benefit that traditional economics treats as unmeasurable externalities—demonstrating that coordination tools should enable communities to define and reward impact beyond financial metrics.
 
 - Hypercerts' flexible impact definition validates SuperBenefit's pattern-based approach recognizing that communities must define value on their own terms, suggesting that impact tracking primitives should enable context-specific metrics rather than imposing universal measures that may not reflect what particular communities consider beneficial contributions.
+
+---
+
+## Related Concepts
+
+- [Impact](tags/impact.md) - Social and environmental outcomes explored
+- [DAOs](tags/daos.md) - Organizations creating collective impact
+- [Coordination](tags/coordination.md) - Mechanisms enabling impact work
+- [ReFi](tags/refi.md) - Regenerative finance approaches
+- [Public Goods](tags/public-goods.md) - Collective benefit creation

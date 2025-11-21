@@ -50,3 +50,13 @@ This funding model enables ecosystem coordination development:
 - Ethereum Community Fund's emphasis on ecosystem infrastructure and public goods funding validates SuperBenefit's recognition that effective coordination primitives represent commons infrastructure requiring collective investment beyond what individual organizations or market mechanisms will provide, demonstrating that genuinely serving communities means supporting foundational tool development, research, and shared coordination capacity that benefits ecosystem health rather than assuming coordination innovation happens automatically through commercial competition—showing that regenerative governance requires funding models enabling commons stewardship and infrastructure development serving collective benefit.
 
 - ECF's integration of technical development with coordination research resonates with SuperBenefit's conviction that effective primitives require ongoing investigation of social, economic, and governance dimensions alongside technical implementation, illustrating that coordination tool development shouldn't separate mechanism design from understanding how governance mechanisms function in practice, what participation patterns emerge, what power dynamics tools create, and how technical infrastructure serves or undermines community agency—demonstrating that funding should support multidisciplinary coordination innovation rather than purely technical development divorced from social context and values considerations.
+
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Organizations and communities discussed
+- [Coordination](tags/coordination.md) - Mechanisms for collective action
+- [Governance](tags/governance.md) - Decision-making in funding contexts
+- [Public Goods](tags/public-goods.md) - Commons funding approaches
+- [Impact](tags/impact.md) - Outcomes and value creation

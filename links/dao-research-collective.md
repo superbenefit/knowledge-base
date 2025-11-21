@@ -50,3 +50,12 @@ This repository enables research-informed practice:
 - DAO Research Collective's curation of scholarly work validates SuperBenefit's commitment to evidence-based primitive development rather than building tools based on speculative claims or promotional narratives, demonstrating that genuinely serving communities requires grounding governance innovation in research examining what actually works in practice—though SuperBenefit's inclusion of practitioner knowledge and lived experience alongside academic research offers important complement to scholarly focus, showing that effective coordination tools require integrating multiple knowledge sources including communities' own expertise about their needs.
 
 - The repository's multidisciplinary approach resonates with SuperBenefit's recognition that DAO governance challenges span technical, social, legal, and economic dimensions requiring insights from diverse fields, illustrating that coordination primitives can't be designed from single disciplinary perspective—showing that effective tools emerge from synthesis across organization science, political economy, cultural analysis, and technical infrastructure rather than treating governance as purely technical problem or purely social challenge divorced from material constraints and power dynamics.
+
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Primary research subject
+- [Governance](tags/governance.md) - Decision-making systems studied
+- [Coordination](tags/coordination.md) - Collective action mechanisms examined
+- [Frameworks](tags/frameworks.md) - Organizational structures analyzed

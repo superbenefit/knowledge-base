@@ -52,3 +52,13 @@ This initiative enables public goods funding advancement:
 - The initiative's cross-sector approach validates SuperBenefit's conviction that learning should span traditional and blockchain contexts rather than treating Web3 as isolated domain—showing that effective commons funding draws on governance patterns, economic frameworks, and practical knowledge across philanthropic, policy, and crypto-native approaches.
 
 - Funding the Commons' integration of research with practice provides model for how SuperBenefit can ensure coordination primitives emerge from systematic study of what works rather than theoretical ideals—demonstrating that genuine innovation requires dialogue between academic frameworks and operational implementation challenges.
+
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Organizations and communities discussed
+- [Coordination](tags/coordination.md) - Mechanisms for collective action
+- [Governance](tags/governance.md) - Decision-making in funding contexts
+- [Public Goods](tags/public-goods.md) - Commons funding approaches
+- [Impact](tags/impact.md) - Outcomes and value creation

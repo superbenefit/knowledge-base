@@ -61,3 +61,13 @@ The combination of theoretical rigor and documented implementation makes the fra
 - Other Internet's analysis of real-world implementations including Gitcoin Grants and Optimism's RetroPGF demonstrates that positive-sum public goods funding works at meaningful scale, validating SuperBenefit's conviction that crypto-economic mechanisms can serve regenerative outcomes when properly designed—providing proof points beyond theoretical advocacy that alternative funding approaches can deploy significant capital toward collective benefit.
 
 - The emphasis on making impact legible through attestations and reputation systems informs SuperBenefit's thinking about how to recognize diverse forms of value creation beyond financial metrics, showing how mechanisms can reward social capital, knowledge sharing, and ecosystem building that conventional markets ignore.
+
+---
+
+## Related Concepts
+
+- [Public Goods](tags/public-goods.md) - Collective benefit funding explored
+- [Impact](tags/impact.md) - Outcomes and measurement approaches
+- [Coordination](tags/coordination.md) - Mechanisms for collective action
+- [DAOs](tags/daos.md) - Organizations funding and creating impact
+- [Grants](tags/grants.md) - Funding mechanisms discussed

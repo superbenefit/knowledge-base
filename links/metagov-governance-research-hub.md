@@ -64,3 +64,13 @@ The combination of tools, research, and frameworks makes Metagov immediately val
 - The emphasis on governance standards and composable tools directly aligns with SuperBenefit's pattern-based approach, showing how reusable coordination primitives can enable communities to combine different mechanisms based on context rather than being locked into monolithic governance systems—Metagov's "governance OS" vision mirrors SuperBenefit's commitment to adaptable infrastructure over prescriptive frameworks.
 
 - Metagov's focus on democratic legitimacy through meaningful participation and accountability grounds SuperBenefit's understanding that technical decentralization doesn't automatically produce democratic outcomes—coordination systems must be designed for genuine power distribution, not just assumed to be democratic because they use blockchain.
+
+---
+
+## Related Concepts
+
+- [Governance](tags/governance.md) - Research focus and tool development area
+- [DAOs](tags/daos.md) - Organizations studied and supported by Metagov
+- [Coordination](tags/coordination.md) - Collective decision-making mechanisms researched
+- [Frameworks](tags/frameworks.md) - Design patterns and standards developed
+- [DAO Primitives Framework](notes/dao-primitives/index.md) - Informed by Metagov research

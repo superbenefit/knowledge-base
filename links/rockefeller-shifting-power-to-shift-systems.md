@@ -52,3 +52,13 @@ This framework enables power-shifting philanthropy:
 - The framework's call for community leadership rather than funder control validates SuperBenefit's conviction that coordination tools should enable community self-determination, demonstrating that genuinely empowering systems support communities defining their own priorities and solutions rather than imposing external frameworks claiming universal applicability.
 
 - Rockefeller's connection of power-shifting philanthropy with structural transformation validates SuperBenefit's understanding that coordination primitive development serves broader systems change—showing that funding mechanisms, governance structures, and economic systems interrelate rather than changing in isolation, requiring coordinated transformation addressing power across interconnected systems.
+
+---
+
+## Related Concepts
+
+- [Power](tags/power.md) - Distribution and transformation in funding relationships
+- [Governance](tags/governance.md) - Decision-making in philanthropic contexts
+- [Community](tags/community.md) - Leadership and self-determination
+- [Coordination](tags/coordination.md) - Mechanisms for resource distribution
+- [Grants](tags/grants.md) - Funding approaches and practices

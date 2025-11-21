@@ -52,3 +52,13 @@ This framework enables strategic funding decisions:
 - The emphasis on understanding organizational implications of funding choices resonates with SuperBenefit's power-aware approach, demonstrating that revenue sources create dynamics affecting governance and decision-making—suggesting that DAO funding mechanisms should be evaluated for what power relationships they create not just what capital they provide.
 
 - SSIR's recognition that sustainable funding requires alignment between revenue and organizational identity validates SuperBenefit's conviction that coordination tools should serve community self-determination—showing that effective primitives enable organizations to sustain themselves through approaches reflecting their values rather than requiring compromise for financial viability.
+
+---
+
+## Related Concepts
+
+- [Power](tags/power.md) - Dynamics in funding and resource distribution
+- [Community](tags/community.md) - Organizations and movements being funded
+- [Coordination](tags/coordination.md) - Mechanisms for collective resource allocation
+- [Impact](tags/impact.md) - Outcomes and effectiveness measures
+- [Governance](tags/governance.md) - Decision-making in funding contexts

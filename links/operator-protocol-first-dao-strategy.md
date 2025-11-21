@@ -50,3 +50,13 @@ This framework enables strategic governance alignment:
 - Operator's protocol-first framework validates SuperBenefit's recognition that coordination primitives aren't one-size-fits-all but must fit organizational context and purpose, demonstrating that infrastructure governance requires different patterns than mission-driven organizational coordination—though SuperBenefit's emphasis on participatory governance and community agency may require nuancing minimal governance advocacy, showing that even protocol DAOs need inclusive decision-making about what neutrality means and how stability serves different stakeholders rather than treating governance minimization as purely technical optimization.
 
 - The framework's emphasis on strategic clarity resonates with SuperBenefit's commitment to helping communities choose appropriate coordination patterns for their context, illustrating that effective primitive development requires understanding when different governance approaches apply rather than promoting universal mechanisms—showing that serving diverse communities means providing frameworks for strategic governance design rather than prescribing singular solutions, though SuperBenefit's values lens adds important dimension asking whose interests "credible neutrality" and "minimal governance" actually serve in practice.
+
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Organizations and communities discussed
+- [Governance](tags/governance.md) - Decision-making frameworks explored
+- [Coordination](tags/coordination.md) - Mechanisms for collective action
+- [Communities](tags/community.md) - Social structures and dynamics
+- [Frameworks](tags/frameworks.md) - Organizational approaches and toolkits

@@ -55,3 +55,13 @@ Trust-based principles enable transformative grantmaking across funding contexts
 - The emphasis on unrestricted multi-year support versus project-specific control resonates with SuperBenefit's understanding that effective coordination requires operational autonomy for small teams pursuing long-term work, not short-term accountability to shifting external priorities—suggesting that DAO funding primitives should enable sustained general support rather than only rewarding discrete deliverables.
 
 - Trust-based philanthropy's commitment to soliciting and acting on grantee feedback provides model for how SuperBenefit can ensure that coordination tools genuinely serve community needs rather than imposing predetermined structures—the framework demonstrates that redistributing power requires not just different mechanisms but ongoing willingness to change practices based on input from those with less structural power.
+
+---
+
+## Related Concepts
+
+- [Power](tags/power.md) - Distribution and transformation in funding relationships
+- [Governance](tags/governance.md) - Decision-making in philanthropic contexts
+- [Community](tags/community.md) - Leadership and self-determination
+- [Coordination](tags/coordination.md) - Mechanisms for resource distribution
+- [Grants](tags/grants.md) - Funding approaches and practices

@@ -51,3 +51,13 @@ This DAO model enables implementation across technical communities:
 - The nested governance model—where ICDevs makes autonomous technical decisions while participating in broader Internet Computer governance—provides practical precedent for SuperBenefit's thinking about polycentric coordination, showing how small autonomous teams can maintain operational independence while engaging in collective stewardship at ecosystem level.
 
 - ICDevs' focus on public goods development through open-source bounties resonates with SuperBenefit's regenerative economics emphasis, demonstrating that DAOs can direct resources toward shared infrastructure and commons-building rather than exclusively funding projects with direct financial returns, creating value that benefits entire ecosystems rather than extracting toward token holders.
+
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Organizations and communities discussed
+- [Governance](tags/governance.md) - Decision-making frameworks explored
+- [Coordination](tags/coordination.md) - Mechanisms for collective action
+- [Communities](tags/community.md) - Social structures and dynamics
+- [Frameworks](tags/frameworks.md) - Organizational approaches and toolkits

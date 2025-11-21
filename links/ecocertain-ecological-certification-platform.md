@@ -52,3 +52,13 @@ This platform enables ecological finance:
 - The platform's connection of verified impact with willing funders provides model for how SuperBenefit can bridge coordination between those creating value and those seeking to support it, suggesting that DAO primitives should include discovery and matching mechanisms not just allocation tools—enabling supply and demand for collective benefit to find each other.
 
 - Ecocertain's focus on creating financial sustainability for regeneration rather than depending on perpetual subsidy validates SuperBenefit's conviction that genuinely regenerative systems must enable economic viability for practices serving collective wellbeing—showing that effective coordination creates sustainable support for work that benefits ecosystems and communities, not just one-time funding requiring continuous external resources.
+
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Organizations using these platforms and tools
+- [Coordination](tags/coordination.md) - Mechanisms for organizing work
+- [Governance](tags/governance.md) - Decision-making frameworks
+- [Community](tags/community.md) - Networks and collaborative structures
+- [Primitives](tags/primitives.md) - Building blocks for coordination tools

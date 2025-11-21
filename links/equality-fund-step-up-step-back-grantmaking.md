@@ -55,3 +55,13 @@ Step Up, Step Back enables movement-centered grantmaking across contexts:
 - The power-aware facilitation approach provides model for how SuperBenefit can ensure that governance tools don't reproduce existing hierarchies despite good intentions—recognizing that technical decentralization alone doesn't redistribute power if better-resourced actors dominate participation, requiring intentional design and facilitation to enable genuinely collective decision-making.
 
 - Equality Fund's feminist funding values validate SuperBenefit's conviction that regenerative coordination must center care, relationship, and collective wellbeing over efficiency and individual achievement—showing that slowing down for dialogue and trust-building produces better outcomes than optimizing transaction speed, even when this feels inefficient by conventional market logic.
+
+---
+
+## Related Concepts
+
+- [Power](tags/power.md) - Distribution and transformation in funding relationships
+- [Governance](tags/governance.md) - Decision-making in philanthropic contexts
+- [Community](tags/community.md) - Leadership and self-determination
+- [Coordination](tags/coordination.md) - Mechanisms for resource distribution
+- [Grants](tags/grants.md) - Funding approaches and practices

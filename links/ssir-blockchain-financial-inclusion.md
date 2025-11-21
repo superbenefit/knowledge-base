@@ -52,3 +52,13 @@ This analysis enables informed financial inclusion work:
 - The recognition that financial exclusion reflects systemic inequity beyond technical access resonates with SuperBenefit's power-aware approach, demonstrating that coordination tools cannot solve structural problems through mechanism design alone—suggesting that effective primitives must be accompanied by addressing power dynamics, resources, and systemic barriers that create exclusion.
 
 - SSIR's comparative analysis shows SuperBenefit should evaluate DAO coordination against alternative approaches not just traditional systems, asking whether decentralized mechanisms genuinely serve communities better than participatory, commons-based, or cooperative alternatives that may have lower barriers to meaningful participation.
+
+---
+
+## Related Concepts
+
+- [Power](tags/power.md) - Dynamics in funding and resource distribution
+- [Community](tags/community.md) - Organizations and movements being funded
+- [Coordination](tags/coordination.md) - Mechanisms for collective resource allocation
+- [Impact](tags/impact.md) - Outcomes and effectiveness measures
+- [Governance](tags/governance.md) - Decision-making in funding contexts

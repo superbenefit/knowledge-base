@@ -50,3 +50,13 @@ This framework enables narrative transformation work:
 - Enchanted Network's discursive landscapes framework challenges SuperBenefit to examine what narratives and worldviews coordination primitives inadvertently encode and reproduce, demonstrating that governance mechanisms aren't neutral infrastructure but embed particular understandings of human nature, value, and relationship—showing that genuinely regenerative tools might require fundamentally different discursive landscapes emphasizing enchantment, relationality, and emergence rather than inadvertently perpetuating mechanistic control paradigms through different technical means.
 
 - The framework's integration of Indigenous wisdom traditions offers important counterbalance to SuperBenefit's primarily Western coordination theory foundations, suggesting that effective primitives for regenerative governance might require drawing on epistemologies that resist commodification and extraction rather than only critiquing capitalist coordination within Western rationalist paradigms—demonstrating that transformation may require not just better mechanisms but different ways of knowing, relating, and making meaning together that current discursive landscapes struggle to even articulate.
+
+---
+
+## Related Concepts
+
+- [Community](tags/community.md) - Local and network organizing
+- [Coordination](tags/coordination.md) - Mechanisms for collective action
+- [Governance](tags/governance.md) - Decision-making and leadership frameworks
+- [Culture](tags/culture.md) - Values and practices shaping coordination
+- [Sustainability](tags/sustainability.md) - Regenerative community approaches

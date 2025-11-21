@@ -52,3 +52,13 @@ Solarpunk framework enables regenerative Web3:
 - The article's connection of aesthetics with political imagination validates SuperBenefit's understanding that coordination primitive development requires visioning desirable futures not just optimizing current systems—showing that speculative design enables imagining possibilities that technical optimization within existing logics cannot reach.
 
 - Solarpunk's integration of ecological limits with technological optimism provides framework for SuperBenefit's regenerative approach, demonstrating that effective coordination must serve planetary thriving within biophysical constraints rather than enabling infinite growth through efficiency optimization—showing that DAO primitives should help communities coordinate ecological stewardship not just financial transactions.
+
+---
+
+## Related Concepts
+
+- [Sustainability](tags/sustainability.md) - Ecological approaches to technology
+- [Coordination](tags/coordination.md) - Alternative organizing mechanisms
+- [Community](tags/community.md) - Digital and local organizing
+- [Regeneration](tags/regeneration.md) - Restorative systems design
+- [Governance](tags/governance.md) - Democratic technology frameworks

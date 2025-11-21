@@ -50,3 +50,13 @@ This analysis enables informed tooling decisions:
 - 1kx's "organization legos" framework resonates with SuperBenefit's primitive-based approach to coordination tools, validating the vision of composable organizational infrastructure where communities assemble custom governance systems from modular components rather than adopting one-size-fits-all platforms—though SuperBenefit's emphasis on social context and regenerative values adds critical dimension missing from purely functional tooling analysis, showing that effective primitives require attention to power dynamics and community needs beyond technical interoperability and user experience metrics.
 
 - The report's comprehensive tooling landscape analysis demonstrates both the richness of Web3 coordination infrastructure and the overwhelming complexity facing communities trying to build appropriate governance systems, validating SuperBenefit's commitment to guidance that helps organizations navigate tool choices based on values and context rather than technical capabilities alone—illustrating that composability creates flexibility but also requires support for practitioners to make informed decisions about which legos actually serve their communities versus which reproduce venture-backed solutions to problems organizations don't have.
+
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Organizations that use these modular tooling components
+- [Governance](tags/governance.md) - Decision-making systems implemented through DAO tools
+- [Coordination](tags/coordination.md) - Core challenge that DAO tooling addresses
+- [Primitives](tags/primitives.md) - Building blocks that compose into DAO infrastructure
+- [DAO Primitives Framework](notes/dao-primitives/index.md) - SuperBenefit's approach to composable coordination

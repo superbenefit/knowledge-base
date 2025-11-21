@@ -70,3 +70,13 @@ The project's depth and rigor provides essential grounding for anyone serious ab
 - **Temporal Reorientation**: The critique of progress narratives and futurity challenges SuperBenefit to question Web3's innovation rhetoric, suggesting that regenerative approaches may require different relationships to time, ancestry, and emergence.
 
 - **Complicity and Accountability**: The work's emphasis on ongoing complicity in colonial systems—even while working for change—supports SuperBenefit's commitment to power-aware approaches that acknowledge how regenerative projects participate in and benefit from extraction even while seeking alternatives.
+
+---
+
+## Related Concepts
+
+- [Community](tags/community.md) - Collective organizing and mutual support
+- [Coordination](tags/coordination.md) - Mechanisms for collective action
+- [Mutual Aid](tags/mutual-aid.md) - Solidarity-based resource sharing
+- [Sustainability](tags/sustainability.md) - Regenerative approaches to organizing
+- [Power](tags/power.md) - Distribution and transformation dynamics

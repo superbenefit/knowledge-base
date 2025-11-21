@@ -50,3 +50,13 @@ This guide enables effective DAO participation:
 - Sobol's pragmatic participant-centered guide validates SuperBenefit's commitment to accessible guidance grounded in lived coordination experience rather than abstract theoretical frameworks, demonstrating that genuinely serving communities requires addressing practical challenges people actually encounter when participating in decentralized governance—showing that effective primitive development means designing not just technically functional mechanisms but coordination tools that work within real human constraints of time, attention, communication challenges, and relationship-building needs that participants navigate daily.
 
 - The guide's honest acknowledgment of DAO frustrations and limitations resonates with SuperBenefit's realistic assessment of coordination tool capabilities rather than uncritical promotion, illustrating that serving communities well means helping them understand both possibilities and persistent challenges of decentralized organization—demonstrating that effective support provides pragmatic guidance for navigating messy reality of coordination innovation rather than selling aspirational visions that set up participants for disappointment when encountering inevitable challenges that current primitives don't fully solve.
+
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Organizations using these platforms and tools
+- [Coordination](tags/coordination.md) - Mechanisms for organizing work
+- [Governance](tags/governance.md) - Decision-making frameworks
+- [Community](tags/community.md) - Networks and collaborative structures
+- [Primitives](tags/primitives.md) - Building blocks for coordination tools

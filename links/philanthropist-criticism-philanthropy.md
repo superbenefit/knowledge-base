@@ -50,3 +50,13 @@ This framework enables accountability culture:
 - The article's analysis of how philanthropic power imbalances suppress criticism validates SuperBenefit's attention to power dynamics in funding systems, demonstrating that even decentralized funding mechanisms face similar challenges if token-weighted governance or financial gatekeeping creates dependencies preventing honest feedback—showing that genuinely accountable coordination primitives must protect critics from retaliation and center community voices in evaluation, not just technically distribute decision-making while maintaining structural power imbalances through different mechanisms.
 
 - The emphasis on how defensive organizational cultures resist learning from criticism resonates with SuperBenefit's commitment to reflective practice and adaptive governance, illustrating that effective coordination tools should enable communities to surface critiques, examine failures, and adjust practices based on feedback rather than optimizing for positive narratives that protect organizational comfort over genuine service to communities—demonstrating that regenerative governance requires cultural capacity for self-examination alongside technical coordination infrastructure.
+
+---
+
+## Related Concepts
+
+- [Power](tags/power.md) - Dynamics in funding and resource distribution
+- [Community](tags/community.md) - Organizations and movements being funded
+- [Coordination](tags/coordination.md) - Mechanisms for collective resource allocation
+- [Impact](tags/impact.md) - Outcomes and effectiveness measures
+- [Governance](tags/governance.md) - Decision-making in funding contexts

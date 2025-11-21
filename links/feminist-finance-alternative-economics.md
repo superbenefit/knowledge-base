@@ -55,3 +55,13 @@ Feminist economics enables transformative approaches across financial contexts:
 - The intersectional analysis provides framework for SuperBenefit's power-aware approach, showing how extraction operates through interlocking systems of patriarchy, colonialism, and racial capitalism—suggesting that genuinely regenerative coordination must address gender, race, and decolonization together rather than treating equity as separate concern to be added after technical design.
 
 - Feminist finance's emphasis on transformation over reform resonates with SuperBenefit's commitment to alternatives beyond platform capitalism, validating the conviction that Web3 coordination cannot merely redistribute who benefits from extraction but must fundamentally reorganize around care, interdependence, and collective flourishing rather than individual accumulation.
+
+---
+
+## Related Concepts
+
+- [ReFi](tags/refi.md) - Regenerative finance and alternative economics
+- [Coordination](tags/coordination.md) - Mechanisms for resource allocation
+- [Community](tags/community.md) - Local and regional organizing
+- [Sustainability](tags/sustainability.md) - Ecological and social resilience
+- [Governance](tags/governance.md) - Decision-making about resource distribution

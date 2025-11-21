@@ -50,3 +50,13 @@ This platform enables sector connection and learning:
 - Future of Good's integration of journalism with practical resources demonstrates how information platforms can serve changemakers not just by documenting developments but by supporting practice, validating SuperBenefit's knowledge garden approach that combines analysis with actionable guidance—though SuperBenefit's more explicitly values-driven curation and systems-level frameworks offer important complement to Future of Good's journalistic model, showing different approaches to supporting social impact practitioners through curated knowledge and shared resources.
 
 - The platform's cross-sector coverage bridging traditional nonprofits, social enterprises, community organizing, and emerging models resonates with SuperBenefit's recognition that social change happens through diverse approaches requiring understanding connections and shared challenges across organizational forms, illustrating that effective support for changemakers means spanning conventional sector boundaries rather than privileging particular organizational models or change strategies as exclusively legitimate paths to impact.
+
+---
+
+## Related Concepts
+
+- [Community](tags/community.md) - Local and network organizing
+- [Coordination](tags/coordination.md) - Mechanisms for collective action
+- [Governance](tags/governance.md) - Decision-making and leadership frameworks
+- [Culture](tags/culture.md) - Values and practices shaping coordination
+- [Sustainability](tags/sustainability.md) - Regenerative community approaches

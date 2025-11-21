@@ -50,3 +50,13 @@ This framework enables scalable governance design:
 - DAOstack's holographic consensus demonstrates that scalable coordination requires more sophisticated mechanisms than simple voting or delegation, validating SuperBenefit's recognition that effective primitives must address attention scarcity, knowledge distribution, and collective intelligence rather than assuming participation simply means everyone votes on everything—showing that genuinely serving large communities requires governance innovations accommodating human cognitive limits and time constraints while preserving collective decision legitimacy through predictive attention-focusing rather than abandoning participatory principles when organizations grow.
 
 - The framework's integration of multiple coordination mechanisms including prediction markets, reputation systems, and token staking illustrates how effective primitives may need to compose diverse elements rather than relying on single mechanism types, resonating with SuperBenefit's systems perspective on coordination tool development—though the complexity DAOstack introduces raises important questions about accessibility and comprehensibility for non-technical communities, demonstrating ongoing tension between sophisticated governance capabilities and inclusive participation that SuperBenefit must navigate in primitive design.
+
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Organizations navigating governance challenges
+- [Governance](tags/governance.md) - Decision-making systems explored
+- [Coordination](tags/coordination.md) - Mechanisms for collective action
+- [Decentralization](tags/decentralization.md) - Core principle examined
+- [Consensus](tags/consensus.md) - Decision-making processes

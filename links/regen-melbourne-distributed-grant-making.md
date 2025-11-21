@@ -52,3 +52,13 @@ This documentation enables participatory funding learning:
 - The report's honest assessment of both achievements and persistent challenges validates SuperBenefit's commitment to realistic evaluation of coordination tools, showing that genuinely serving communities requires acknowledging barriers around digital access, deliberation quality, and decision authority rather than treating participation technology as automatic solution to funding democracy deficits.
 
 - Documentation of how Wellbeing Protocol design choices affected outcomes provides lessons for SuperBenefit's primitive development, illustrating how seemingly technical decisions about voting mechanisms or information architecture shape who participates and what gets funded—demonstrating that coordination tools unavoidably encode political choices about voice, authority, and value that should be made explicit rather than buried in technical implementation.
+
+---
+
+## Related Concepts
+
+- [ReFi](tags/refi.md) - Regenerative finance and alternative economics
+- [Coordination](tags/coordination.md) - Mechanisms for resource allocation
+- [Community](tags/community.md) - Local and regional organizing
+- [Sustainability](tags/sustainability.md) - Ecological and social resilience
+- [Governance](tags/governance.md) - Decision-making about resource distribution

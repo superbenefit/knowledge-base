@@ -50,3 +50,13 @@ This critique enables more honest DAO governance evaluation:
 - The analysis of governance theater—participation in marginal decisions while founders retain fundamental control—resonates with SuperBenefit's understanding that meaningful governance requires distributing power over consequential choices, not just creating appearance of participation through votes on implementation details.
 
 - Gardens' demand for concrete transition mechanisms validates SuperBenefit's emphasis on power-aware design, showing that genuine decentralization requires intentional structures preventing power concentration rather than assuming founders will voluntarily redistribute control once projects succeed and they've accumulated tokens, knowledge, and institutional position that would be sacrificed through actual power-sharing.
+
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Organizations navigating governance challenges
+- [Governance](tags/governance.md) - Decision-making systems explored
+- [Coordination](tags/coordination.md) - Mechanisms for collective action
+- [Decentralization](tags/decentralization.md) - Core principle examined
+- [Consensus](tags/consensus.md) - Decision-making processes

@@ -52,3 +52,13 @@ This framework enables regenerative internet development:
 - The article's emphasis on systemic transformation resonates with SuperBenefit's understanding that genuine alternatives require fundamental restructuring not incremental platform reform—validating that regenerative coordination demands building parallel infrastructure and changing incentive structures, not just redistributing ownership of extractive systems.
 
 - Rewilding's restoration of commons governance validates SuperBenefit's conviction that healthy internet requires participatory stewardship rather than corporate or state control alone—showing that coordination primitives should enable collective stewardship of shared infrastructure, creating digital commons that communities govern together.
+
+---
+
+## Related Concepts
+
+- [Sustainability](tags/sustainability.md) - Ecological approaches to technology
+- [Coordination](tags/coordination.md) - Alternative organizing mechanisms
+- [Community](tags/community.md) - Digital and local organizing
+- [Regeneration](tags/regeneration.md) - Restorative systems design
+- [Governance](tags/governance.md) - Democratic technology frameworks

@@ -52,3 +52,13 @@ This framework enables bioregional economic development:
 - The framework's positioning of ecological health as economic foundation resonates with SuperBenefit's regenerative approach, demonstrating that genuinely regenerative systems must reward ecosystem stewardship and landscape resilience rather than treating environmental benefit as unmeasurable positive externality—showing that coordination mechanisms should enable communities to value and fund what sustains collective thriving including more-than-human wellbeing.
 
 - BioFi's multi-generational orientation validates SuperBenefit's understanding that effective coordination requires long-term perspective matching ecosystem and community cycles rather than optimizing for quarterly returns or rapid iteration—suggesting that DAO primitives should support patient sustained investment in regeneration over years and decades, not just efficient short-term transactions.
+
+---
+
+## Related Concepts
+
+- [ReFi](tags/refi.md) - Regenerative finance and alternative economics
+- [Coordination](tags/coordination.md) - Mechanisms for resource allocation
+- [Community](tags/community.md) - Local and regional organizing
+- [Sustainability](tags/sustainability.md) - Ecological and social resilience
+- [Governance](tags/governance.md) - Decision-making about resource distribution

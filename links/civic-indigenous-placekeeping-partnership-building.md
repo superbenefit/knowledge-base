@@ -61,3 +61,13 @@ The toolkit's combination of principles, practical frameworks, and honest case s
 - Provides practical frameworks for power redistribution and resource sharing that ground SuperBenefit's commitment to decolonial practice in concrete actions beyond consultation, showing how meaningful partnership requires institutional transformation, capacity building, and recognizing indigenous sovereignty rather than merely including indigenous voices in predetermined Web3 governance structures.
 
 - The reconciliation-as-ongoing-practice framing challenges SuperBenefit to understand decolonization as continuous accountability and relationship-building rather than achieved state, informing how regenerative projects must address complicity with colonial systems through sustained commitment to land back, sovereignty support, and structural change.
+
+---
+
+## Related Concepts
+
+- [Community](tags/community.md) - Local and network organizing
+- [Coordination](tags/coordination.md) - Mechanisms for collective action
+- [Governance](tags/governance.md) - Decision-making and leadership frameworks
+- [Culture](tags/culture.md) - Values and practices shaping coordination
+- [Sustainability](tags/sustainability.md) - Regenerative community approaches

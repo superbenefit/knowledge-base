@@ -52,3 +52,13 @@ Govbase enables evidence-based governance design:
 - Metagov's commitment to making governance knowledge openly accessible resonates with SuperBenefit's emphasis on commons and shared infrastructure, demonstrating that coordination patterns should be public resources enabling collective learning rather than proprietary knowledge controlled by consulting firms or extracted through paywalled research.
 
 - The database's cross-domain coverage validates SuperBenefit's understanding that DAO coordination can learn from platform cooperatives, online communities, and civic tech—suggesting that effective primitives should draw on successful patterns wherever they appear rather than limiting design inspiration to crypto-native contexts.
+
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Organizations navigating governance challenges
+- [Governance](tags/governance.md) - Decision-making systems explored
+- [Coordination](tags/coordination.md) - Mechanisms for collective action
+- [Decentralization](tags/decentralization.md) - Core principle examined
+- [Consensus](tags/consensus.md) - Decision-making processes

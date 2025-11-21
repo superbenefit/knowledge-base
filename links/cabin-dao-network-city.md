@@ -48,3 +48,13 @@ This model enables network city experimentation:
 - Cabin's network city model challenges SuperBenefit to consider how coordination primitives enable not just digital collaboration but physical place-making and bioregional stewardship, demonstrating that effective tools for decentralized organization should support communities investing in land, buildings, and local ecosystems—showing that "decentralization" means more than software governance but includes regenerating physical spaces through distributed coordination.
 
 - The tension Cabin navigates between DAO coordination mechanisms and place-based community needs validates SuperBenefit's attention to social context in primitive design, illustrating that digital coordination tools must accommodate physical infrastructure management, local relationship building, and bioregional specificity rather than imposing standardized governance patterns that ignore material realities of land stewardship and neighborhood formation.
+
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Organizations using these platforms and tools
+- [Coordination](tags/coordination.md) - Mechanisms for organizing work
+- [Governance](tags/governance.md) - Decision-making frameworks
+- [Community](tags/community.md) - Networks and collaborative structures
+- [Primitives](tags/primitives.md) - Building blocks for coordination tools

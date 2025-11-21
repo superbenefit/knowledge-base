@@ -52,3 +52,13 @@ This matrix enables equity-centered funding:
 - The matrix's focus on proximity validates SuperBenefit's conviction that those experiencing challenges understand solutions better than distant experts, suggesting that coordination tools should amplify community wisdom rather than imposing predetermined frameworks claiming universal applicability—demonstrating that effective primitives enable communities to define their own coordination approaches.
 
 - Vancouver Foundation's indigenous attribution models how SuperBenefit should acknowledge knowledge sources and compensate wisdom-holders rather than appropriating frameworks without credit—showing that genuinely regenerative development requires honoring intellectual sovereignty and providing meaningful acknowledgment beyond nominal citation.
+
+---
+
+## Related Concepts
+
+- [Power](tags/power.md) - Dynamics in funding and resource distribution
+- [Community](tags/community.md) - Organizations and movements being funded
+- [Coordination](tags/coordination.md) - Mechanisms for collective resource allocation
+- [Impact](tags/impact.md) - Outcomes and effectiveness measures
+- [Governance](tags/governance.md) - Decision-making in funding contexts

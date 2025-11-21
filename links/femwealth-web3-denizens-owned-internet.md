@@ -50,3 +50,13 @@ This feminist critique enables power-aware Web3 engagement:
 - The emphasis on inclusion barriers beyond technical access resonates with SuperBenefit's power-aware approach, suggesting that effective coordination tools must address not just who can technically participate but whose knowledge is valued, whose labor is compensated, and whose priorities guide development rather than assuming decentralization solves inclusion.
 
 - FemWealth's call for feminist values in Web3 design validates SuperBenefit's conviction that regenerative coordination requires intentional commitment to care, collective flourishing, and addressing historical exclusions—technical mechanisms alone won't redistribute power if underlying values prioritize accumulation and privilege existing hierarchies.
+
+---
+
+## Related Concepts
+
+- [Decentralization](tags/decentralization.md) - Distributed systems and governance
+- [Blockchain](tags/blockchain.md) - Technology enabling decentralized coordination
+- [Coordination](tags/coordination.md) - Mechanisms for collective action
+- [Governance](tags/governance.md) - Decision-making in digital contexts
+- [DAOs](tags/daos.md) - Decentralized organizations using these technologies

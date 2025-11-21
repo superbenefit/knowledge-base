@@ -52,3 +52,13 @@ Hats Modules enables custom organizational design:
 - The emphasis on programmable accountability validates SuperBenefit's understanding that technical mechanisms should handle routine enforcement enabling collective attention to focus on complex judgment requiring human deliberation—suggesting coordination tools should automate clear accountability while preserving participatory decision-making for nuanced situations.
 
 - Hats' modular architecture enabling extension through new primitives demonstrates how SuperBenefit can ensure coordination infrastructure evolves with emerging needs rather than locking communities into founding capabilities—showing that effective systems should welcome developer contributions expanding possibilities while maintaining coherent composability.
+
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Organizations using these tools and approaches
+- [Coordination](tags/coordination.md) - Mechanisms for organizing work
+- [Roles](tags/roles.md) - Authority and responsibility structures
+- [Governance](tags/governance.md) - Decision-making frameworks
+- [Primitives](tags/primitives.md) - Building blocks for organization

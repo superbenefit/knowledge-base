@@ -50,3 +50,13 @@ This framework enables alternative livelihood design:
 - Enchanted Network's reimagining of work challenges SuperBenefit to examine whether coordination primitives inadvertently reproduce capitalist economic assumptions about contribution, compensation, and value even when enabling decentralized governance, demonstrating that genuinely regenerative coordination might require fundamentally different economic relationships beyond improving how DAO treasuries pay contributors—showing that transformation may mean not just better employment contracts or fairer token distribution but economic patterns emphasizing gift, care, and commons stewardship that resist commodification rather than optimizing it through different mechanisms.
 
 - The framework's integration of Indigenous economics and feminist analysis of care work offers important expansion beyond SuperBenefit's primarily Western coordination theory foundations, suggesting that effective primitives for regenerative economies require learning from knowledge traditions that never organized around wage labor, productivity metrics, or growth imperatives—demonstrating that building genuinely alternative coordination tools means not just critiquing capitalist structures but actively incorporating economic wisdom from communities who maintained gift economies, commons management, and reciprocity-based livelihoods despite colonial imposition of capitalist work paradigms.
+
+---
+
+## Related Concepts
+
+- [Community](tags/community.md) - Local and network organizing
+- [Coordination](tags/coordination.md) - Mechanisms for collective action
+- [Governance](tags/governance.md) - Decision-making and leadership frameworks
+- [Culture](tags/culture.md) - Values and practices shaping coordination
+- [Sustainability](tags/sustainability.md) - Regenerative community approaches

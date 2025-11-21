@@ -53,3 +53,13 @@ Hats Protocol enables anti-capture organizational design across contexts:
 - The tension between delegated authority for operational effectiveness and preventing power capture directly addresses challenges SuperBenefit explores in small autonomous teams coordinating at scale—Hats shows how explicit role structures with revocable delegation can enable both operational autonomy and collective accountability, avoiding false choice between ineffective flatness and hierarchical capture.
 
 - Hats' programmable accountability through smart contracts provides concrete model for how SuperBenefit can translate power-aware governance principles into enforceable mechanisms rather than relying on social norms that powerful actors can circumvent—demonstrating that genuine accountability requires technical infrastructure making power visible and constraints automatic.
+
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Organizations using these tools and approaches
+- [Coordination](tags/coordination.md) - Mechanisms for organizing work
+- [Roles](tags/roles.md) - Authority and responsibility structures
+- [Governance](tags/governance.md) - Decision-making frameworks
+- [Primitives](tags/primitives.md) - Building blocks for organization

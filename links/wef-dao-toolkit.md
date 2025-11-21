@@ -50,3 +50,13 @@ This toolkit enables institutional DAO engagement:
 - WEF's institutional DAO toolkit demonstrates both opportunity and risk as decentralized coordination gains broader attention—opportunity because accessible frameworks can support wider adoption beyond crypto-native communities, yet risk that institutional framings emphasize efficiency and scalability over power distribution and community agency, potentially domesticating DAOs into simply digital versions of hierarchical organizations rather than genuinely transformative coordination innovations, challenging SuperBenefit to consider how primitive development can resist co-optation while remaining accessible to diverse communities.
 
 - The toolkit's comprehensive operational coverage validates importance of addressing practical implementation concerns including legal structures, treasury management, and contributor coordination rather than purely theoretical governance mechanisms, resonating with SuperBenefit's commitment to actionable guidance—though SuperBenefit's explicit values framing and attention to power dynamics offers necessary complement to WEF's institutional lens, showing that effective DAO support requires not just operational guidance but frameworks helping communities navigate whose interests coordination tools serve and what transformation actually means beyond organizational efficiency gains.
+
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Organizations and communities discussed
+- [Governance](tags/governance.md) - Decision-making frameworks explored
+- [Coordination](tags/coordination.md) - Mechanisms for collective action
+- [Communities](tags/community.md) - Social structures and dynamics
+- [Frameworks](tags/frameworks.md) - Organizational approaches and toolkits

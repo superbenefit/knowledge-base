@@ -52,3 +52,13 @@ This visual resource enables accessible DAO education:
 - The impact DAO focus resonates with SuperBenefit's regenerative coordination emphasis, demonstrating how educational resources can specifically address mission-driven organizations rather than treating all DAOs as identical—suggesting that learning materials should acknowledge different coordination needs for impact work versus financial speculation or protocol governance.
 
 - The community-created nature of the resource validates SuperBenefit's understanding that knowledge production should be collective work emerging from communities using coordination tools, not only centralized documentation by developers—showing how decentralized organizations can create public educational resources through participatory effort.
+
+---
+
+## Related Concepts
+
+- [Public Goods](tags/public-goods.md) - Collective benefit funding explored
+- [Impact](tags/impact.md) - Outcomes and measurement approaches
+- [Coordination](tags/coordination.md) - Mechanisms for collective action
+- [DAOs](tags/daos.md) - Organizations funding and creating impact
+- [Grants](tags/grants.md) - Funding mechanisms discussed

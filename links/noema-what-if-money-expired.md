@@ -52,3 +52,13 @@ This framework enables monetary system reimagination:
 - The emphasis on how monetary design shapes behavior resonates with SuperBenefit's understanding that coordination primitives aren't neutral infrastructure but actively shape participation patterns and power distribution, validating the conviction that effective tools should make these political choices explicit rather than hiding them in technical implementation that appears inevitable.
 
 - Gesell's framework connecting individual incentives with collective wellbeing through system design provides model for SuperBenefit's primitive development, illustrating how coordination tools can align personal benefit with community health through structural mechanisms rather than requiring altruism or moral appeals—showing that genuinely regenerative economics emerges from designing systems where circulation and contribution generate more value than accumulation and extraction.
+
+---
+
+## Related Concepts
+
+- [Sustainability](tags/sustainability.md) - Ecological approaches to technology
+- [Coordination](tags/coordination.md) - Alternative organizing mechanisms
+- [Community](tags/community.md) - Digital and local organizing
+- [Regeneration](tags/regeneration.md) - Restorative systems design
+- [Governance](tags/governance.md) - Democratic technology frameworks

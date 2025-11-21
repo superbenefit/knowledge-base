@@ -52,3 +52,13 @@ This residency model enables collaborative knowledge production:
 - The emphasis on diverse expertise recognizes that coordination challenges require integrated understanding across specializations—governance, economics, technology, community organizing—resonating with SuperBenefit's interdisciplinary approach showing that effective primitives cannot be designed through single domain expertise alone.
 
 - Residency focus on publicly accessible knowledge production validates SuperBenefit's commitment to commons-oriented documentation, showing that coordination primitive development should create public resources enabling broad learning rather than proprietary knowledge controlled by particular organizations or extracted through paywalled research.
+
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Organizations and communities discussed
+- [Coordination](tags/coordination.md) - Mechanisms for collective action
+- [Governance](tags/governance.md) - Decision-making in funding contexts
+- [Public Goods](tags/public-goods.md) - Commons funding approaches
+- [Impact](tags/impact.md) - Outcomes and value creation

@@ -52,3 +52,13 @@ This framework enables onchain regenerative coordination:
 - The emphasis on network coordination rather than isolated projects resonates with SuperBenefit's understanding that effective regeneration requires ecosystems of aligned organizations rather than individual initiatives—suggesting that coordination tools should facilitate knowledge exchange, shared standards, and collective funding rather than only enabling single-organization governance.
 
 - GreenPill's positioning of onchain systems as public infrastructure for regenerative coordination aligns with SuperBenefit's commons-oriented approach, showing that blockchain mechanisms should function as shared resources enabling collective action rather than privatized platforms extracting value through protocol fees or token appreciation controlled by early adopters.
+
+---
+
+## Related Concepts
+
+- [Impact](tags/impact.md) - Social and environmental outcomes explored
+- [DAOs](tags/daos.md) - Organizations creating collective impact
+- [Coordination](tags/coordination.md) - Mechanisms enabling impact work
+- [ReFi](tags/refi.md) - Regenerative finance approaches
+- [Public Goods](tags/public-goods.md) - Collective benefit creation

@@ -61,3 +61,13 @@ The policy-oriented framing makes the briefing particularly useful for advocacy 
 - The documented commons governance models across community land trusts, cooperative fisheries, and indigenous stewardship systems validate SuperBenefit's emphasis on shared resource management and community stewardship, offering proven precedents that DAO governance can learn from rather than assuming blockchain represents entirely novel coordination challenges.
 
 - The briefing's articulation of commons as third way beyond private property and state control resonates with SuperBenefit's exploration of coordination systems that distribute power beyond traditional market/state dichotomies, showing how participatory resource governance can combine distributed stewardship with collective accountability—relevant to how DAOs can serve commons rather than reproducing corporate structures with tokens.
+
+---
+
+## Related Concepts
+
+- [Commons](tags/commons.md) - Shared resources and governance approaches
+- [Governance](tags/governance.md) - Decision-making for collective resources
+- [Coordination](tags/coordination.md) - Mechanisms for managing shared resources
+- [Sustainability](tags/sustainability.md) - Long-term resource stewardship
+- [Community](tags/community.md) - Groups managing commons together

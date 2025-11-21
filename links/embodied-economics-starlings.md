@@ -48,3 +48,13 @@ This framework enables ecological economic thinking:
 - The murmuration essay challenges SuperBenefit to interrogate whether coordination primitives inadvertently reproduce market logic and hierarchical assumptions by focusing on voting mechanisms and token incentives, suggesting that genuinely regenerative coordination might require different principles inspired by embodied, ecological patterns where sophisticated collective behavior emerges from relational responsiveness and local interaction rather than gamified participation or financialized governance.
 
 - Embodied Economics' attention to how starlings achieve coordination through immediate physical responsiveness validates SuperBenefit's conviction that effective primitives must account for social and relational dimensions of coordination, demonstrating that reducing collective decision-making to information processing or incentive design misses how communities actually coordinate through embodied relationships, shared context, and mutual responsiveness that can't be captured by abstract governance mechanisms divorced from lived social practice.
+
+---
+
+## Related Concepts
+
+- [Community](tags/community.md) - Collective organizing and mutual support
+- [Coordination](tags/coordination.md) - Mechanisms for collective action
+- [Mutual Aid](tags/mutual-aid.md) - Solidarity-based resource sharing
+- [Sustainability](tags/sustainability.md) - Regenerative approaches to organizing
+- [Power](tags/power.md) - Distribution and transformation dynamics

@@ -52,3 +52,13 @@ This framework enables sustainable DAO economies:
 - The framework's focus on reciprocal exchange rather than extractive transactions resonates with SuperBenefit's regenerative economics emphasis, showing how internal economies can strengthen community bonds through mutual obligation instead of treating all value exchange as opportunities for individual accumulation—suggesting that sustainable coordination requires economic infrastructure building relationship alongside distributing resources.
 
 - Society's distinction between internal economies and speculative tokenomics provides framework for SuperBenefit to design contribution recognition avoiding financialization that rewards trading over participation—showing that effective value systems should serve community sustainability rather than creating markets where extractive speculation dominates genuine contribution.
+
+---
+
+## Related Concepts
+
+- [Roles](tags/roles.md) - Organizational structures and membership
+- [Governance](tags/governance.md) - Decision-making frameworks
+- [DAOs](tags/daos.md) - Decentralized organizations explored
+- [Community](tags/community.md) - Social structures and participation
+- [Coordination](tags/coordination.md) - Mechanisms for organizing work

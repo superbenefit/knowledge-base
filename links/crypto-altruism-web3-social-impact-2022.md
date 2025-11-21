@@ -52,3 +52,13 @@ This documentation enables informed social impact engagement:
 - The honest assessment including both successes and challenges resonates with SuperBenefit's commitment to realistic evaluation rather than promotional hype, demonstrating that genuinely serving communities requires acknowledging persistent barriers alongside documenting achievements—showing that effective development requires learning from both what works and what doesn't.
 
 - Year-review format creating historical record validates SuperBenefit's approach to documenting coordination primitive development over time, recognizing that understanding requires tracking evolution not just current implementations—showing how coordination tools and practices develop through iterative learning rather than appearing fully formed.
+
+---
+
+## Related Concepts
+
+- [Impact](tags/impact.md) - Social and environmental outcomes explored
+- [DAOs](tags/daos.md) - Organizations creating collective impact
+- [Coordination](tags/coordination.md) - Mechanisms enabling impact work
+- [ReFi](tags/refi.md) - Regenerative finance approaches
+- [Public Goods](tags/public-goods.md) - Collective benefit creation

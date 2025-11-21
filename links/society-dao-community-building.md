@@ -50,3 +50,13 @@ This framework enables community-centered DAO design:
 - Society's emphasis on community as essential DAO infrastructure validates SuperBenefit's conviction that coordination primitives must support social and relational dimensions of collective action not just technical voting and resource management, demonstrating that effective governance mechanisms require trust, shared meaning, and belonging foundations that can't be reduced to smart contract execution—showing that genuinely serving communities means designing tools enabling not just procedural coordination but relationship-building, culture creation, and care practices that constitute communities as meaningful social groups beyond instrumental organizations.
 
 - The analysis challenges SuperBenefit to examine whether primitive development adequately addresses community formation or risks creating technically functional but socially hollow coordination infrastructure, illustrating that decentralized governance tools should facilitate rituals, storytelling, conflict navigation, and informal relationship-building that enable DAOs to function as actual communities rather than optimizing isolated mechanisms for voting and treasury management while neglecting social fabric that makes collective decision-making legitimate and sustainable when technical coordination alone proves insufficient for maintaining organizational coherence and member commitment over time.
+
+---
+
+## Related Concepts
+
+- [Roles](tags/roles.md) - Organizational structures and membership
+- [Governance](tags/governance.md) - Decision-making frameworks
+- [DAOs](tags/daos.md) - Decentralized organizations explored
+- [Community](tags/community.md) - Social structures and participation
+- [Coordination](tags/coordination.md) - Mechanisms for organizing work
