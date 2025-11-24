@@ -15,7 +15,7 @@ tags:
   - impact-measurement
 ---
 
-GreenPill's onchain impact networks framework articulates how blockchain coordination can serve ecological and social regeneration through networks that measure, verify, and reward positive externalities. Traditional economics treats environmental restoration and community benefit as "externalities" outside market calculation, systematically undervaluing regenerative work while rewarding extraction. The framework shows how onchain systems can make impact measurable and rewardable—creating incentives aligned with regeneration rather than extraction. Rather than assuming markets will address environmental and social harm, GreenPill demonstrates how to build coordination infrastructure that explicitly values and funds work creating ecological and community benefit, using blockchain mechanisms to coordinate action across organizations and geographies.
+GreenPill's onchain [impact](tags/impact.md) networks [framework](tags/frameworks.md) articulates how [blockchain](tags/blockchain.md) [coordination](tags/coordination.md) can serve ecological and social [regeneration](tags/regeneration.md) through [networks](tags/networks.md) that measure, verify, and reward positive externalities. Traditional economics treats environmental restoration and [community](tags/community.md) benefit as "externalities" outside market calculation, systematically undervaluing [regenerative](tags/regeneration.md) work while rewarding extraction. The [framework](tags/frameworks.md) shows how onchain systems can make [impact](tags/impact.md) measurable and rewardable—creating incentives aligned with [regeneration](tags/regeneration.md) rather than extraction. Rather than assuming markets will address environmental and social harm, GreenPill demonstrates how to build [coordination](tags/coordination.md) infrastructure that explicitly values and funds work creating ecological and [community](tags/community.md) benefit, using [blockchain](tags/blockchain.md) mechanisms to coordinate action across organizations and geographies.
 
 ### Key Highlights
 
@@ -35,23 +35,23 @@ GreenPill's onchain impact networks framework articulates how blockchain coordin
 
 This framework enables onchain regenerative coordination:
 
-- Ecological restoration projects can use GreenPill's infrastructure to coordinate funding and verify impact, creating networks that reward biodiversity enhancement or carbon sequestration with onchain certificates communities can value and exchange
+- Ecological restoration projects can use GreenPill's infrastructure to coordinate funding and verify [impact](tags/impact.md), creating [networks](tags/networks.md) that reward biodiversity enhancement or carbon sequestration with onchain certificates [communities](tags/community.md) can value and exchange
 
-- Community benefit organizations can implement impact measurement frameworks showing how their work creates value beyond immediate beneficiaries, enabling funding from impact networks rather than relying only on philanthropy or extractive revenue
+- [Community](tags/community.md) benefit organizations can implement [impact](tags/impact.md) measurement [frameworks](tags/frameworks.md) showing how their work creates value beyond immediate beneficiaries, enabling funding from [impact](tags/impact.md) [networks](tags/networks.md) rather than relying only on philanthropy or extractive revenue
 
-- Regenerative agriculture networks can coordinate through onchain systems that verify and reward soil health, water quality, and ecosystem benefit—creating incentives for farming practices that generate positive externalities conventional markets ignore
+- [Regenerative](tags/regeneration.md) agriculture [networks](tags/networks.md) can coordinate through onchain systems that verify and reward soil health, water quality, and ecosystem benefit—creating incentives for farming practices that generate positive externalities conventional markets ignore
 
-- Impact funders can reference the framework when designing allocation mechanisms that reward demonstrated ecological and social benefit rather than speculative promises or narrow financial returns
+- [Impact](tags/impact.md) funders can reference the [framework](tags/frameworks.md) when designing allocation mechanisms that reward demonstrated ecological and social benefit rather than speculative promises or narrow financial returns
 
-- Protocol designers can apply GreenPill's principles when building blockchain systems, ensuring coordination infrastructure serves regenerative goals rather than optimizing for transaction volume or token appreciation
+- [Protocol](tags/protocols.md) designers can apply GreenPill's principles when building [blockchain](tags/blockchain.md) systems, ensuring [coordination](tags/coordination.md) infrastructure serves [regenerative](tags/regeneration.md) goals rather than optimizing for transaction volume or token appreciation
 
 ### Connection With SuperBenefit
 
-- GreenPill's framework for making positive externalities measurable and rewardable validates SuperBenefit's regenerative economics emphasis, showing how coordination primitives can explicitly value ecological and social benefit that conventional systems treat as unmeasurable externalities—demonstrating that blockchain mechanisms should enable communities to define and reward impact beyond financial metrics.
+- GreenPill's [framework](tags/frameworks.md) for making positive externalities measurable and rewardable validates SuperBenefit's [regenerative](tags/regeneration.md) economics emphasis, showing how [coordination](tags/coordination.md) [primitives](tags/primitives.md) can explicitly value ecological and social benefit that conventional systems treat as unmeasurable externalities—demonstrating that [blockchain](tags/blockchain.md) mechanisms should enable [communities](tags/community.md) to define and reward [impact](tags/impact.md) beyond financial metrics.
 
-- The emphasis on network coordination rather than isolated projects resonates with SuperBenefit's understanding that effective regeneration requires ecosystems of aligned organizations rather than individual initiatives—suggesting that coordination tools should facilitate knowledge exchange, shared standards, and collective funding rather than only enabling single-organization governance.
+- The emphasis on [network](tags/networks.md) [coordination](tags/coordination.md) rather than isolated projects resonates with SuperBenefit's understanding that effective [regeneration](tags/regeneration.md) requires [ecosystems](tags/ecosystems.md) of aligned organizations rather than individual initiatives—suggesting that [coordination](tags/coordination.md) tools should facilitate knowledge exchange, shared standards, and collective funding rather than only enabling single-organization [governance](tags/governance.md).
 
-- GreenPill's positioning of onchain systems as public infrastructure for regenerative coordination aligns with SuperBenefit's commons-oriented approach, showing that blockchain mechanisms should function as shared resources enabling collective action rather than privatized platforms extracting value through protocol fees or token appreciation controlled by early adopters.
+- GreenPill's positioning of onchain systems as public infrastructure for [regenerative](tags/regeneration.md) [coordination](tags/coordination.md) aligns with SuperBenefit's [commons](tags/commons.md)-oriented approach, showing that [blockchain](tags/blockchain.md) mechanisms should function as shared resources enabling collective action rather than privatized platforms extracting value through [protocol](tags/protocols.md) fees or token appreciation controlled by early adopters.
 
 ---
 

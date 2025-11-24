@@ -1,6 +1,6 @@
 ---
 title: PoolTogether - Vibes, Labor, Constituencies (DAO Ethnography)
-description: Other Internet in-depth ethnographic case study of PoolTogether DAO examining how community vibes, contributor labor, and stakeholder constituencies shape governance reality beyond token-weighted voting mechanisms.
+description: Other Internet in-depth ethnographic case study of PoolTogether DAO examining how [community](tags/community.md) vibes, contributor labor, and stakeholder constituencies shape [governance](tags/governance.md) reality beyond token-weighted voting mechanisms.
 publish: true
 type: ethnography
 source: https://otherinter.net/research/pooltogether-offchain-report/
@@ -10,26 +10,26 @@ tags:
   - dao-ethnography
   - pooltogether
   - other-internet
-  - community-vibes
+  - [community](tags/community.md)-vibes
   - contributor-labor
-  - governance-reality
+  - [governance](tags/governance.md)-reality
 ---
 
-Other Internet's ethnographic study of PoolTogether DAO provides rare in-depth examination of how DAOs actually function beyond governance mechanisms visible onchain. Rather than analyzing token distributions or vote outcomes, the research explores community vibes, contributor labor dynamics, and stakeholder constituencies—the social infrastructure that shapes governance reality often invisible in protocol analysis. The ethnography documents how informal norms, relationship networks, communication patterns, and labor expectations create actual coordination while formal voting mechanisms provide legitimacy. This work challenges assumptions that governance happens primarily through onchain votes, showing how much DAO function depends on offchain social dynamics that token-weighted systems don't capture.
+Other Internet's ethnographic study of PoolTogether DAO provides rare in-depth examination of how [DAOs](tags/daos.md) actually function beyond [governance](tags/governance.md) mechanisms visible onchain. Rather than analyzing token distributions or vote outcomes, the research explores [community](tags/community.md) vibes, contributor labor dynamics, and stakeholder constituencies—the social infrastructure that shapes [governance](tags/governance.md) reality often invisible in protocol analysis. The ethnography documents how informal norms, relationship networks, communication patterns, and labor expectations create actual [coordination](tags/coordination.md) while formal voting mechanisms provide legitimacy. This work challenges assumptions that [governance](tags/governance.md) happens primarily through onchain votes, showing how much DAO function depends on offchain social dynamics that token-weighted systems don't capture.
 
 ### Key Highlights
 
-- **Vibes as Governance**: The ethnography examines how community "vibes"—shared culture, communication norms, relationship patterns—shape what proposals emerge and what governance is possible, showing that social atmosphere creates coordination infrastructure as important as voting mechanisms.
+- **Vibes as Governance**: The ethnography examines how [community](tags/community.md) "vibes"—shared culture, communication norms, relationship patterns—shape what proposals emerge and what governance is possible, showing that social atmosphere creates [coordination](tags/coordination.md) infrastructure as important as voting mechanisms.
 
 - **Invisible Labor**: Other Internet documents extensive contributor work invisible in token governance—community building, conflict mediation, knowledge documentation, newcomer onboarding—showing how DAO function depends on labor that voting mechanisms don't compensate or even acknowledge.
 
 - **Stakeholder Constituencies**: The research identifies distinct groups within PoolTogether with different interests and influence—core contributors, token holders, users, community members—revealing how governance involves navigating stakeholder politics beyond one-token-one-vote formalism.
 
-- **Offchain Coordination**: The ethnography shows how much actual decision-making happens through Discord conversations, Twitter exchanges, and relationship networks rather than formal proposals and votes that provide legitimacy after offchain coordination settles directions.
+- **Offchain Coordination**: The ethnography shows how much actual decision-making happens through Discord conversations, Twitter exchanges, and relationship networks rather than formal proposals and votes that provide legitimacy after offchain [coordination](tags/coordination.md) settles directions.
 
 - **Power Beyond Tokens**: Other Internet documents how influence operates through expertise, relationship networks, time availability, and communication skills—not just token holdings—showing that formal governance mechanisms don't capture actual power distribution.
 
-- **Ethnographic Method Value**: The work demonstrates importance of thick description and participant observation for understanding DAOs, revealing dynamics that protocol analysis and governance metrics miss entirely.
+- **Ethnographic Method Value**: The work demonstrates importance of thick description and participant observation for understanding [DAOs](tags/daos.md), revealing dynamics that protocol analysis and governance metrics miss entirely.
 
 ### Practical Applications
 
@@ -37,11 +37,11 @@ This ethnography enables power-aware DAO understanding:
 
 - DAO participants can recognize governance happening through vibes, labor, and constituencies beyond formal votes, understanding that effective participation requires engaging social dynamics not just casting tokens
 
-- Governance designers can account for offchain coordination when creating mechanisms, recognizing that formal votes legitimate decisions already negotiated through relationship networks rather than being first point of discussion
+- Governance designers can account for offchain [coordination](tags/coordination.md) when creating mechanisms, recognizing that formal votes legitimate decisions already negotiated through relationship networks rather than being first point of discussion
 
-- Community builders can intentionally cultivate vibes and norms that enable inclusive coordination, understanding that social atmosphere shapes whose voices matter as much as voting weights
+- Community builders can intentionally cultivate vibes and norms that enable inclusive [coordination](tags/coordination.md), understanding that social atmosphere shapes whose voices matter as much as voting weights
 
-- Researchers can apply ethnographic methods to study DAOs, using participant observation and thick description to understand social dynamics that onchain analysis misses
+- Researchers can apply ethnographic methods to study [DAOs](tags/daos.md), using participant observation and thick description to understand social dynamics that onchain analysis misses
 
 - Token holders can acknowledge limits of governance power, recognizing that influence requires relationship building and labor contribution beyond capital ownership
 
@@ -61,4 +61,4 @@ This ethnography enables power-aware DAO understanding:
 - [Coordination](tags/coordination.md) - Mechanisms for collective action
 - [Governance](tags/governance.md) - Decision-making in funding contexts
 - [Public Goods](tags/public-goods.md) - Commons funding approaches
-- [Impact](tags/impact.md) - Outcomes and value creation
+- [Impact](tags/[impact](tags/impact.md).md) - Outcomes and value creation

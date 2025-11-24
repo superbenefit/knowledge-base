@@ -1,6 +1,6 @@
 ---
 title: Funding the Commons - Past Research Residencies
-description: Documentation of Funding the Commons research residencies bringing scholars and practitioners together for intensive study of public goods funding mechanisms, creating knowledge production bridging academic research with implementation practice.
+description: Documentation of Funding the Commons research residencies bringing scholars and practitioners together for intensive study of [public goods](tags/public-goods.md) funding mechanisms, creating knowledge production bridging academic research with implementation practice.
 publish: true
 type: residency-program
 source: https://www.fundingthecommons.io/residencies
@@ -15,7 +15,7 @@ tags:
   - collaborative-research
 ---
 
-Funding the Commons research residencies create intensive collaborative environments where scholars and practitioners work together on public goods funding challenges, bridging academic frameworks with implementation knowledge. The residencies bring together diverse expertise—economists, governance researchers, mechanism designers, crypto developers, nonprofit practitioners—enabling cross-pollination between theoretical analysis and operational realities. Rather than separated academic research and practitioner experimentation, the residencies create integrated knowledge production addressing both intellectual rigor and practical applicability. This model shows how collaborative research can advance public goods funding more effectively than isolated academic or practitioner work.
+Funding the Commons research residencies create intensive collaborative environments where scholars and practitioners work together on [public goods](tags/public-goods.md) funding challenges, bridging academic frameworks with implementation knowledge. The residencies bring together diverse expertise—economists, [governance](tags/governance.md) researchers, mechanism designers, crypto developers, nonprofit practitioners—enabling cross-pollination between theoretical analysis and operational realities. Rather than separated academic research and practitioner experimentation, the residencies create integrated knowledge production addressing both intellectual rigor and practical applicability. This model shows how collaborative research can advance [public goods](tags/public-goods.md) funding more effectively than isolated academic or practitioner work.
 
 ### Key Highlights
 
@@ -23,7 +23,7 @@ Funding the Commons research residencies create intensive collaborative environm
 
 - **Collaborative Knowledge Production**: Rather than individual research projects, residencies create collaborative environments where participants build on each other's expertise, generating insights impossible through solo work or parallel efforts.
 
-- **Intensive Focus**: The residency format enables concentrated attention on public goods funding questions, contrasting with fragmented work schedules that characterize much research and practice allowing deeper exploration.
+- **Intensive Focus**: The residency format enables concentrated attention on [public goods](tags/public-goods.md) funding questions, contrasting with fragmented work schedules that characterize much research and practice allowing deeper exploration.
 
 - **Diverse Expertise**: Funding the Commons brings together varied knowledge domains from economics to computer science to nonprofit operations, recognizing that public goods challenges require integrated understanding across specializations.
 
@@ -47,18 +47,18 @@ This residency model enables collaborative knowledge production:
 
 ### Connection With SuperBenefit
 
-- Funding the Commons residencies model how SuperBenefit can integrate research with practice in developing coordination primitives, demonstrating that effective tools emerge from collaborative environments bridging theoretical frameworks with operational implementation knowledge rather than only technical development or only academic analysis.
+- Funding the Commons residencies model how SuperBenefit can integrate research with practice in developing [coordination](tags/coordination.md) primitives, demonstrating that effective tools emerge from collaborative environments bridging theoretical frameworks with operational implementation knowledge rather than only technical development or only academic analysis.
 
-- The emphasis on diverse expertise recognizes that coordination challenges require integrated understanding across specializations—governance, economics, technology, community organizing—resonating with SuperBenefit's interdisciplinary approach showing that effective primitives cannot be designed through single domain expertise alone.
+- The emphasis on diverse expertise recognizes that [coordination](tags/coordination.md) challenges require integrated understanding across specializations—[governance](tags/governance.md), economics, technology, [community](tags/community.md) organizing—resonating with SuperBenefit's interdisciplinary approach showing that effective primitives cannot be designed through single domain expertise alone.
 
-- Residency focus on publicly accessible knowledge production validates SuperBenefit's commitment to commons-oriented documentation, showing that coordination primitive development should create public resources enabling broad learning rather than proprietary knowledge controlled by particular organizations or extracted through paywalled research.
+- Residency focus on publicly accessible knowledge production validates SuperBenefit's commitment to commons-oriented documentation, showing that [coordination](tags/coordination.md) primitive development should create public resources enabling broad learning rather than proprietary knowledge controlled by particular organizations or extracted through paywalled research.
 
 ---
 
 ## Related Concepts
 
 - [DAOs](tags/daos.md) - Organizations and communities discussed
-- [Coordination](tags/coordination.md) - Mechanisms for collective action
-- [Governance](tags/governance.md) - Decision-making in funding contexts
+- [Coordination](tags/[coordination](tags/coordination.md).md) - Mechanisms for collective action
+- [Governance](tags/[governance](tags/governance.md).md) - Decision-making in funding contexts
 - [Public Goods](tags/public-goods.md) - Commons funding approaches
-- [Impact](tags/impact.md) - Outcomes and value creation
+- [Impact](tags/[impact](tags/impact.md).md) - Outcomes and value creation
