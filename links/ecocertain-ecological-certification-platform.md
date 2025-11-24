@@ -15,7 +15,7 @@ tags:
   - impact-certificates
 ---
 
-Ecocertain provides platform connecting ecological certification with finance, enabling verified environmental benefit—from soil carbon sequestration to biodiversity enhancement to water quality improvement—to generate economic value that rewards regenerative land stewardship. The platform addresses challenge that ecosystem health creates collective benefit but no direct revenue for stewards, making regenerative practices economically unviable compared to extraction despite superior long-term outcomes. By certifying ecological improvements and connecting them with funders willing to pay for verified environmental benefit, Ecocertain creates financial sustainability for regeneration. This shows how certification infrastructure combined with impact-oriented finance can align economic incentives with ecosystem health.
+Ecocertain provides platform connecting ecological certification with finance, enabling verified environmental benefit—from soil carbon sequestration to biodiversity enhancement to water quality improvement—to generate economic value that rewards regenerative land stewardship. The platform addresses challenge that ecosystem health creates collective benefit but no direct revenue for stewards, making regenerative practices economically unviable compared to extraction despite superior long-term outcomes. By certifying ecological improvements and connecting them with funders willing to pay for verified environmental benefit, Ecocertain creates financial [sustainability](tags/sustainability.md) for regeneration. This shows how certification infrastructure combined with impact-oriented finance can align economic incentives with ecosystem health.
 
 ### Key Highlights
 
@@ -25,7 +25,7 @@ Ecocertain provides platform connecting ecological certification with finance, e
 
 - **Multiple Impact Domains**: Ecocertain certifies diverse ecological improvements including soil health, carbon sequestration, biodiversity, water quality, showing how verification can serve various regenerative practices not single narrow metric.
 
-- **Connecting Supply and Demand**: The platform bridges land stewards creating verified ecological benefit with funders seeking environmental impact, solving coordination challenge where willing buyers and sellers of ecological outcomes cannot easily find each other.
+- **Connecting Supply and Demand**: The platform bridges land stewards creating verified ecological benefit with funders seeking environmental impact, solving [coordination](tags/coordination.md) challenge where willing buyers and sellers of ecological outcomes cannot easily find each other.
 
 - **Financial Sustainability**: By creating revenue streams from ecological certification, Ecocertain enables regenerative land management to be economically viable without requiring perpetual subsidies or steward wealth enabling unpaid conservation.
 
@@ -47,11 +47,11 @@ This platform enables ecological finance:
 
 ### Connection With SuperBenefit
 
-- Ecocertain's approach to making ecological benefit economically valuable resonates with SuperBenefit's regenerative economics emphasis, demonstrating how coordination infrastructure can enable communities to reward environmental stewardship that conventional markets systematically undervalue—showing that effective primitives should help communities define and compensate collective benefit beyond financial metrics.
+- Ecocertain's approach to making ecological benefit economically valuable resonates with SuperBenefit's regenerative economics emphasis, demonstrating how [coordination](tags/coordination.md) infrastructure can enable communities to reward environmental stewardship that conventional markets systematically undervalue—showing that effective primitives should help communities define and compensate collective benefit beyond financial metrics.
 
-- The platform's connection of verified impact with willing funders provides model for how SuperBenefit can bridge coordination between those creating value and those seeking to support it, suggesting that DAO primitives should include discovery and matching mechanisms not just allocation tools—enabling supply and demand for collective benefit to find each other.
+- The platform's connection of verified impact with willing funders provides model for how SuperBenefit can bridge [coordination](tags/coordination.md) between those creating value and those seeking to support it, suggesting that DAO primitives should include discovery and matching mechanisms not just allocation tools—enabling supply and demand for collective benefit to find each other.
 
-- Ecocertain's focus on creating financial sustainability for regeneration rather than depending on perpetual subsidy validates SuperBenefit's conviction that genuinely regenerative systems must enable economic viability for practices serving collective wellbeing—showing that effective coordination creates sustainable support for work that benefits ecosystems and communities, not just one-time funding requiring continuous external resources.
+- Ecocertain's focus on creating financial [sustainability](tags/sustainability.md) for regeneration rather than depending on perpetual subsidy validates SuperBenefit's conviction that genuinely regenerative systems must enable economic viability for practices serving collective wellbeing—showing that effective [coordination](tags/coordination.md) creates sustainable support for work that benefits ecosystems and communities, not just one-time funding requiring continuous external resources.
 
 ---
 

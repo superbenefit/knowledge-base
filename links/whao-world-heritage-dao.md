@@ -1,6 +1,6 @@
 ---
 title: WHAO - World Heritage Autonomous Organisation
-description: World Heritage Catalysis applying Ostrom's commons governance principles to DAOs in context of World Heritage sites, showing how polycentric coordination can serve cultural and ecological heritage through participatory blockchain governance.
+description: World Heritage Catalysis applying Ostrom's commons [governance](tags/governance.md) principles to [DAOs](tags/daos.md) in context of World Heritage sites, showing how polycentric [coordination](tags/coordination.md) can serve cultural and ecological heritage through participatory [blockchain](tags/blockchain.md) [governance](tags/governance.md).
 publish: true
 type: dao-project
 source: https://www.whcatalysis.org/whao
@@ -15,21 +15,21 @@ tags:
   - dao-application
 ---
 
-WHAO (World Heritage Autonomous Organisation) applies DAO coordination to World Heritage site stewardship, using Ostrom's commons governance principles to create participatory management of cultural and ecological treasures. Rather than purely state control of heritage sites, WHAO explores how local communities, researchers, visitors, and global stakeholders can collectively govern preservation through blockchain coordination. The project synthesizes Ostrom's empirically-proven commons principles with DAO mechanisms, showing how polycentric governance—coordinating across multiple scales from local stewards to global communities—can serve heritage conservation. This demonstrates DAO applications beyond finance, using decentralized coordination for cultural and ecological preservation.
+WHAO (World Heritage Autonomous Organisation) applies DAO [coordination](tags/coordination.md) to World Heritage site stewardship, using Ostrom's commons [governance](tags/governance.md) principles to create participatory management of cultural and ecological treasures. Rather than purely state control of heritage sites, WHAO explores how local communities, researchers, visitors, and global stakeholders can collectively govern preservation through [blockchain](tags/blockchain.md) [coordination](tags/coordination.md). The project synthesizes Ostrom's empirically-proven commons principles with DAO mechanisms, showing how polycentric [governance](tags/governance.md)—coordinating across multiple scales from local stewards to global communities—can serve heritage conservation. This demonstrates DAO applications beyond finance, using [decentralized](tags/decentralization.md) [coordination](tags/coordination.md) for cultural and ecological preservation.
 
 ### Key Highlights
 
 - **Heritage Commons Governance**: WHAO positions World Heritage sites as commons requiring participatory stewardship rather than purely state ownership, showing how diverse stakeholders can collectively govern preservation.
 
-- **Ostrom Principles Applied**: The project explicitly applies Ostrom's commons governance principles to DAO design—clear boundaries, participatory rule-making, monitoring, graduated sanctions, conflict resolution—showing how proven patterns inform blockchain coordination.
+- **Ostrom Principles Applied**: The project explicitly applies Ostrom's commons governance principles to DAO design—clear boundaries, participatory rule-making, monitoring, graduated sanctions, conflict resolution—showing how proven patterns inform [blockchain](tags/blockchain.md) coordination.
 
 - **Polycentric Coordination**: WHAO demonstrates governance across nested scales where local communities steward sites daily while regional networks and global stakeholders provide support and oversight—creating coordination without centralized control.
 
 - **Cultural-Ecological Integration**: The organization addresses both cultural heritage and ecological conservation, recognizing World Heritage sites encompass interconnected human and more-than-human communities requiring integrated stewardship.
 
-- **Participatory Preservation**: Rather than expert-controlled conservation, WHAO centers community participation in heritage preservation, showing how those living with sites can govern protection while welcoming broader stakeholder input.
+- **Participatory Preservation**: Rather than expert-controlled conservation, WHAO centers [community](tags/community.md) participation in heritage preservation, showing how those living with sites can govern protection while welcoming broader stakeholder input.
 
-- **Novel DAO Application**: The project shows DAOs serving purposes beyond protocol governance or financial coordination, demonstrating how blockchain mechanisms can support cultural preservation and ecological conservation.
+- **Novel DAO Application**: The project shows [DAOs](tags/daos.md) serving purposes beyond protocol governance or financial coordination, demonstrating how [blockchain](tags/blockchain.md) mechanisms can support cultural preservation and ecological conservation.
 
 ### Practical Applications
 
@@ -39,11 +39,11 @@ WHAO model enables heritage commons coordination:
 
 - Cultural preservation organizations can adapt WHAO approach to other commons contexts, using DAO coordination for museums, archaeological sites, or intangible heritage requiring multi-stakeholder governance
 
-- Ecological conservation projects can reference the model when designing participatory management, showing how blockchain coordination can serve biodiversity protection and habitat stewardship involving diverse communities
+- Ecological conservation projects can reference the model when designing participatory management, showing how [blockchain](tags/blockchain.md) coordination can serve biodiversity protection and habitat stewardship involving diverse communities
 
 - Tourism management can use DAO mechanisms from WHAO to balance visitor access with preservation needs, creating governance where local communities maintain authority while visitors contribute to and participate in stewardship
 
-- Researchers can study how Ostrom principles function in blockchain contexts, understanding what aspects of commons governance translate directly to DAOs versus requiring adaptation for digital coordination
+- Researchers can study how Ostrom principles function in blockchain contexts, understanding what aspects of commons governance translate directly to [DAOs](tags/daos.md) versus requiring adaptation for digital coordination
 
 ### Connection With SuperBenefit
 
@@ -51,7 +51,7 @@ WHAO model enables heritage commons coordination:
 
 - The project's polycentric governance model demonstrates coordination across nested scales resonating with SuperBenefit's exploration of how small autonomous teams participate in collective stewardship, showing that effective primitives should enable local operational authority while supporting broader strategic coordination without requiring centralized control.
 
-- WHAO's cultural-ecological heritage focus shows SuperBenefit that DAO applications extend beyond financial speculation or protocol governance to serve preservation, conservation, and commons stewardship—demonstrating that coordination primitives should accommodate diverse missions from ecological restoration to cultural preservation to community organizing.
+- WHAO's cultural-ecological heritage focus shows SuperBenefit that DAO applications extend beyond financial speculation or protocol governance to serve preservation, conservation, and commons stewardship—demonstrating that coordination primitives should accommodate diverse missions from ecological restoration to cultural preservation to [community](tags/community.md) organizing.
 
 ---
 

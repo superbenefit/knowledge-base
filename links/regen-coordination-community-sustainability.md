@@ -1,22 +1,22 @@
 ---
 title: Regen Coordination x Institute for Community Sustainability
-description: Regenerative coordination partnership case study documenting collaboration between regen coordination practitioners and community sustainability researchers, demonstrating practical application of regenerative principles to community development.
+description: Regenerative [coordination](tags/coordination.md) partnership case study documenting collaboration between regen [coordination](tags/coordination.md) practitioners and [community](tags/community.md) [sustainability](tags/sustainability.md) researchers, demonstrating practical application of regenerative principles to [community](tags/community.md) development.
 publish: true
 type: case-study
-source: https://gap.karmahq.xyz/project/the-institute-for-community-sustainability/?invite-code=0xb6a78a16348df33a938a89d9e966b7fd2564980fa3bece327fd1d99c2ecda3b5
+source: https://gap.karmahq.xyz/project/the-institute-for-[community](tags/community.md)-[sustainability](tags/sustainability.md)/?invite-code=0xb6a78a16348df33a938a89d9e966b7fd2564980fa3bece327fd1d99c2ecda3b5
 author:
   - Regen Coordination
   - Institute for Community Sustainability
 tags:
-  - regenerative-coordination
-  - community-sustainability
+  - regenerative-[coordination](tags/coordination.md)
+  - [community](tags/community.md)-[sustainability](tags/sustainability.md)
   - partnership-model
   - case-study
   - regen-economics
-  - collaborative-governance
+  - collaborative-[governance](tags/governance.md)
 ---
 
-This case study documents partnership between regenerative coordination practitioners and the Institute for Community Sustainability, showing how regen principles apply to community development beyond purely environmental or blockchain contexts. The collaboration demonstrates practical integration of regenerative economics, participatory governance, and community-led sustainability initiatives—bridging academic research with grassroots practice while centering local knowledge and self-determination. Rather than imposing predetermined frameworks, the partnership creates space for communities to define sustainability on their own terms while providing coordination tools, research support, and connections to broader regenerative movements. The work shows how regenerative approaches can strengthen community capacity without extracting value toward external actors or requiring communities to adopt specific technological solutions.
+This case study documents partnership between regenerative [coordination](tags/coordination.md) practitioners and the Institute for Community Sustainability, showing how regen principles apply to [community](tags/community.md) development beyond purely environmental or blockchain contexts. The collaboration demonstrates practical integration of regenerative economics, participatory [governance](tags/governance.md), and community-led [sustainability](tags/sustainability.md) initiatives—bridging academic research with grassroots practice while centering local knowledge and self-determination. Rather than imposing predetermined frameworks, the partnership creates space for [communities](tags/community.md) to define sustainability on their own terms while providing [coordination](tags/coordination.md) tools, research support, and connections to broader regenerative movements. The work shows how regenerative approaches can strengthen community capacity without extracting value toward external actors or requiring [communities](tags/community.md) to adopt specific technological solutions.
 
 ### Key Highlights
 
@@ -24,9 +24,9 @@ This case study documents partnership between regenerative coordination practiti
 
 - **Regenerative Coordination Practice**: The case study demonstrates practical application of regenerative coordination principles—creating conditions for community self-organization, supporting capacity-building, and facilitating connections rather than directing outcomes through centralized control.
 
-- **Research-Practice Integration**: The collaboration bridges academic sustainability research with community practice, ensuring that theoretical frameworks serve grassroots needs while community experiences inform scholarly understanding—creating reciprocal knowledge exchange rather than extractive research on communities.
+- **Research-Practice Integration**: The collaboration bridges academic sustainability research with community practice, ensuring that theoretical frameworks serve grassroots needs while community experiences inform scholarly understanding—creating reciprocal knowledge exchange rather than extractive research on [communities](tags/community.md).
 
-- **Participatory Governance Structures**: The partnership develops governance approaches enabling communities to make collective decisions about sustainability priorities, resource allocation, and coordination mechanisms—demonstrating how participatory structures work in non-blockchain contexts while offering patterns applicable to DAO governance.
+- **Participatory Governance Structures**: The partnership develops [governance](tags/governance.md) approaches enabling [communities](tags/community.md) to make collective decisions about sustainability priorities, resource allocation, and coordination mechanisms—demonstrating how participatory structures work in non-blockchain contexts while offering patterns applicable to DAO [governance](tags/governance.md).
 
 - **Network Strengthening**: Rather than creating dependency on partnership resources, the work focuses on strengthening community capacity and connections within broader regenerative movements, building sustainable infrastructure for ongoing coordination beyond initial collaboration.
 
@@ -36,7 +36,7 @@ This partnership model enables regenerative community development:
 
 - Community organizations can adapt the collaboration framework when partnering with academic institutions or funders, ensuring relationships serve community self-determination rather than extracting knowledge or requiring adoption of predetermined solutions
 
-- Sustainability practitioners can use the case study to understand how regenerative principles apply beyond environmental contexts, showing how coordination, governance, and economics shape community capacity for self-organized flourishing
+- Sustainability practitioners can use the case study to understand how regenerative principles apply beyond environmental contexts, showing how coordination, [governance](tags/governance.md), and economics shape community capacity for self-organized flourishing
 
 - Research institutions can apply the reciprocal knowledge exchange model when engaging communities, creating relationships where academic frameworks serve grassroots needs while community wisdom informs scholarly development
 
@@ -48,9 +48,9 @@ This partnership model enables regenerative community development:
 
 - The partnership's emphasis on community-led definitions of sustainability resonates with SuperBenefit's pattern-based approach that provides adaptable frameworks rather than prescriptive solutions—demonstrating how coordination tools should enable communities to define thriving on their own terms instead of imposing predetermined metrics that may not reflect local values and knowledge.
 
-- Regen Coordination's practical application of regenerative principles to community development validates SuperBenefit's conviction that regenerative economics extends beyond environmental sustainability to encompass how communities coordinate, make decisions, and distribute resources—showing that regenerative approaches address fundamental questions about power, participation, and collective flourishing.
+- Regen Coordination's practical application of regenerative principles to community development validates SuperBenefit's conviction that regenerative economics extends beyond environmental sustainability to encompass how communities coordinate, make decisions, and distribute resources—showing that regenerative approaches address fundamental questions about [power](tags/power.md), participation, and collective flourishing.
 
-- The focus on building sustainable community capacity rather than creating dependency provides model for how SuperBenefit can ensure DAO primitives strengthen communities' ability to coordinate autonomously rather than locking them into specific platforms or requiring ongoing technical support that concentrates power with developers.
+- The focus on building sustainable community capacity rather than creating dependency provides model for how SuperBenefit can ensure DAO primitives strengthen communities' ability to coordinate autonomously rather than locking them into specific platforms or requiring ongoing technical support that concentrates [power](tags/power.md) with developers.
 
 ---
 
@@ -59,5 +59,5 @@ This partnership model enables regenerative community development:
 - [Coordination](tags/coordination.md) - Mechanisms for collective decision-making
 - [Governance](tags/governance.md) - Democratic and participatory frameworks
 - [Community](tags/community.md) - Network organizing and collaboration
-- [Power](tags/power.md) - Distribution and relational dynamics
+- [Power](tags/[power](tags/power.md).md) - Distribution and relational dynamics
 - [Sustainability](tags/sustainability.md) - Regenerative coordination approaches
