@@ -9,41 +9,41 @@ aliases:
 publish: "true"
 ---
 
-_Platforms are infrastructure systems that enable coordination, interaction, and value exchange between participants through standardized interfaces, protocols, and governance mechanisms, creating environments where diverse activities, services, and communities can develop and thrive._ ^2f34bd
+_Platforms are infrastructure systems that enable [coordination](coordination.md), interaction, and value exchange between participants through standardized interfaces, protocols, and [governance](governance.md) mechanisms, creating environments where diverse activities, services, and [community](community.md) can develop and thrive._ ^2f34bd
 
-Platforms serve as foundational architecture upon which diverse applications, services, and coordination mechanisms can be built and operated. Unlike traditional siloed systems, effective platforms create generative environments where value creation extends beyond the platform provider to include an ecosystem of contributors, users, and complementary services. This multi-sided nature enables network effects where platforms become more valuable as participation increases, creating powerful coordination advantages while also raising important questions about governance, incentive alignment, and power distribution.
+Platforms serve as foundational architecture upon which diverse applications, services, and [coordination](coordination.md) mechanisms can be built and operated. Unlike traditional siloed systems, effective platforms create generative environments where value creation extends beyond the platform provider to include an ecosystem of contributors, users, and complementary services. This multi-sided nature enables network effects where platforms become more valuable as [participation](participation.md) increases, creating powerful [coordination](coordination.md) advantages while also raising important questions about [governance](governance.md), incentive alignment, and [power](power.md) distribution.
 
-In the context of web3 and decentralized systems, platforms take on new dimensions through their emphasis on open protocols, community ownership, programmable incentives, and transparent governance. These characteristics can transform traditional platform dynamics by distributing control more widely, reducing extraction by intermediaries, and creating infrastructure that better aligns with the interests of all participants rather than primarily benefiting platform operators.
+In the context of web3 and [decentralized](decentralization.md) systems, platforms take on new dimensions through their emphasis on open protocols, [community](community.md) ownership, programmable incentives, and transparent [governance](governance.md). These characteristics can transform traditional platform dynamics by distributing control more widely, reducing extraction by intermediaries, and creating infrastructure that better aligns with the interests of all participants rather than primarily benefiting platform operators.
 
 ---
 
 ## Uses of "Platforms"
 
-### Platforms in Web3 and Blockchain Ecosystems
+### Platforms in Web3 and [Blockchain](blockchain.md) Ecosystems
 
-In web3, platforms typically provide infrastructure layers that enable decentralized applications, coordination, and value exchange without requiring trust in central intermediaries. These platforms use blockchain technology, smart contracts, and tokenized incentives to create open systems where participants can interact according to transparent, programmable rules.
+In web3, platforms typically provide infrastructure layers that enable [decentralized](decentralization.md) applications, [coordination](coordination.md), and value exchange without requiring trust in central intermediaries. These platforms use [blockchain](blockchain.md) technology, smart contracts, and tokenized incentives to create open systems where participants can interact according to transparent, programmable rules.
 
-Key examples include layer-1 blockchains like Ethereum that provide foundational infrastructure, layer-2 scaling solutions that extend base layer capabilities, and specialized protocol platforms for decentralized finance, identity management, or data exchange. Unlike traditional web platforms that often extract value through controlling user data and access, web3 platforms typically distribute value and governance rights more widely through tokens, enabling community ownership and participation.
+Key examples include layer-1 blockchains like Ethereum that provide foundational infrastructure, layer-2 scaling solutions that extend base layer capabilities, and specialized protocol platforms for [decentralized](decentralization.md) finance, identity management, or data exchange. Unlike traditional web platforms that often extract value through controlling user data and access, web3 platforms typically distribute value and [governance](governance.md) rights more widely through tokens, enabling [community](community.md) ownership and [participation](participation.md).
 
 ### Platforms in DAO Coordination
 
-In the context of Decentralized Autonomous Organizations, platforms provide the technical and social infrastructure for coordination across different scales and functions. They enable the creation and operation of governance processes, resource allocation mechanisms, and collaboration tools that allow DAOs to function effectively without traditional hierarchical management.
+In the context of Decentralized Autonomous Organizations, platforms provide the technical and social infrastructure for coordination across different scales and functions. They enable the creation and operation of governance processes, resource allocation mechanisms, and collaboration tools that allow [DAOs](daos.md) to function effectively without traditional hierarchical management.
 
-As described in Building DAOs as scalable networks, platforms support multicameral DAO governance by providing infrastructure for both community-level decision-making and operational coordination between working groups. These platforms combine technological components (like voting systems and treasury management tools) with social coordination mechanisms to enable effective decentralized action.
+As described in Building [DAOs](daos.md) as scalable networks, platforms support multicameral DAO governance by providing infrastructure for both [community](community.md)-level [decision-making](decision-making.md) and operational coordination between working groups. These platforms combine technological components (like voting systems and treasury management tools) with social coordination mechanisms to enable effective decentralized action.
 
-### Platforms in the DAO Primitives Framework
+### Platforms in the DAO [Primitives](primitives.md) Framework
 
-In the DAO Primitives Framework, platforms represent one of the three core resource primitives alongside roles and resources. They provide the infrastructure that enables DAO operations, including tools for governance, communication, and coordination.
+In the DAO [Primitives](primitives.md) Framework, platforms represent one of the three core resource [primitives](primitives.md) alongside roles and resources. They provide the infrastructure that enables DAO operations, including tools for governance, communication, and coordination.
 
 !
 
-Platforms in this context serve as the technical and social foundation upon which DAOs build their activities. They include both the underlying blockchain infrastructure and the specialized tools and interfaces that enable specific DAO functions. The effectiveness of a DAO often depends on how well its platforms align with its purpose, structure, and operational needs.
+Platforms in this context serve as the technical and social foundation upon which [DAOs](daos.md) build their activities. They include both the underlying [blockchain](blockchain.md) infrastructure and the specialized tools and interfaces that enable specific DAO functions. The effectiveness of a DAO often depends on how well its platforms align with its purpose, structure, and operational needs.
 
 ### Platforms in Social Impact
 
-In social impact contexts, platforms create infrastructure for collective action, resource distribution, and community-driven solutions. They can help address coordination challenges in complex social problems by connecting diverse stakeholders, aligning incentives, and enabling more equitable participation in decision-making.
+In social impact contexts, platforms create infrastructure for collective action, resource distribution, and [community](community.md)-driven solutions. They can help address coordination challenges in complex social problems by connecting diverse stakeholders, aligning incentives, and enabling more equitable [participation](participation.md) in [decision-making](decision-making.md).
 
-For example, in the Governance for better futures series, web3 platforms are discussed as potential enablers of more participatory governance and coordination across different scales, from local communities to global systems. These platforms can help bridge between digital and physical contexts, enabling experimentation with new governance models while remaining grounded in real-world needs and constraints.
+For example, in the Governance for better futures series, web3 platforms are discussed as potential enablers of more participatory governance and coordination across different scales, from local [community](community.md) to global systems. These platforms can help bridge between digital and physical contexts, enabling experimentation with new governance models while remaining grounded in real-world needs and constraints.
 
 ## Related Concepts
 

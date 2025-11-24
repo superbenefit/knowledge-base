@@ -11,11 +11,11 @@ aliases:
 publish: "true"
 ---
 
-_Attestations are cryptographically verified digital statements or claims that establish proof of specific facts, relationships, or properties, enabling trust and transparency in decentralized systems without requiring centralized authorities._
+_Attestations are cryptographically verified digital statements or claims that establish proof of specific facts, relationships, or properties, enabling trust and [transparency](transparency.md) in [decentralized](decentralization.md) systems without requiring centralized authorities._
 
-Attestations serve as fundamental building blocks for trust in digital environments by providing verifiable evidence that specific conditions have been met, relationships exist, or claims are valid. Unlike traditional certification systems that rely on centralized authorities, cryptographic attestations leverage public-key cryptography and distributed ledgers to create tamper-resistant records that can be independently verified by any party. This decentralized approach to verification enables more open, transparent, and censorship-resistant systems for establishing trust.
+Attestations serve as fundamental building blocks for trust in digital environments by providing verifiable evidence that specific conditions have been met, relationships exist, or claims are valid. Unlike traditional certification systems that rely on centralized authorities, cryptographic attestations leverage public-key cryptography and distributed ledgers to create tamper-resistant records that can be independently verified by any party. This [decentralized](decentralization.md) approach to verification enables more open, transparent, and censorship-resistant systems for establishing trust.
 
-In web3 ecosystems, attestations create the infrastructure for reputation, identity, and accountability while preserving user sovereignty and data control. By separating the verification of information from its storage and presentation, attestation systems allow selective disclosure of credentials, minimizing data exposure while maximizing utility. This capability bridges traditional real-world systems with decentralized digital infrastructure, creating interoperable layers of trust across domains.
+In web3 ecosystems, attestations create the infrastructure for reputation, identity, and accountability while preserving user sovereignty and data control. By separating the verification of information from its storage and presentation, attestation systems allow selective disclosure of credentials, minimizing data exposure while maximizing utility. This capability bridges traditional real-world systems with [decentralized](decentralization.md) digital infrastructure, creating interoperable layers of trust across domains.
 
 ---
 
@@ -29,9 +29,9 @@ Traditional attestations serve critical social functions by reducing information
 
 ### Cryptographic Attestations
 
-In web3 systems, cryptographic attestations leverage blockchain technology and public-key cryptography to create tamper-evident, verifiable claims without relying on centralized authorities. These attestations are issued using decentralized identifiers (DIDs), signed cryptographically, and often recorded on public blockchains to ensure transparency and immutability.
+In web3 systems, cryptographic attestations leverage [blockchain](blockchain.md) technology and public-key cryptography to create tamper-evident, verifiable claims without relying on centralized authorities. These attestations are issued using decentralized identifiers (DIDs), signed cryptographically, and often recorded on public blockchains to ensure [transparency](transparency.md) and immutability.
 
-Platforms like Ethereum Attestation Service (EAS) provide standardized infrastructure for creating, managing, and verifying on-chain attestations. EAS enables composable, schema-based attestations that can represent virtually any type of claim while maintaining cryptographic verifiability. These systems support diverse applications including identity verification, credential issuance, reputation systems, and governance participation.
+Platforms like Ethereum Attestation Service (EAS) provide standardized infrastructure for creating, managing, and verifying on-chain attestations. EAS enables composable, schema-based attestations that can represent virtually any type of claim while maintaining cryptographic verifiability. These systems support diverse applications including identity verification, credential issuance, reputation systems, and [governance](governance.md) [participation](participation.md).
 
 As noted in the ecosystem: "At its core, attestation is simply evidence or proof of something. In the case of Web3, it contains digital signatures and cryptographic proofs that state a fact about an identity or entity. These proofs can be used to prove the identity of a user, confirm that a device or system is trustworthy, or to demonstrate that certain conditions have been met."
 
@@ -49,9 +49,9 @@ Self-attestations are claims made directly by project implementers about their a
 
 Self-attestation mechanisms provide standardized formats for reporting progress, ensuring consistency across projects and enabling easier aggregation and analysis of impact data. They serve as the foundation for more robust verification by establishing documented claims that can be subsequently validated.
 
-#### Community Verification
+#### [Community](community.md) Verification
 
-Validator attestations provide independent verification of impact claims through third-party confirmation. Community validators, experts, or affected stakeholders can corroborate specific outcomes, confirming that reported impacts genuinely occurred and meet quality standards. This creates a distributed verification layer that enhances credibility without requiring centralized certification bodies.
+Validator attestations provide independent verification of impact claims through third-party confirmation. [Community](community.md) validators, experts, or affected stakeholders can corroborate specific outcomes, confirming that reported impacts genuinely occurred and meet quality standards. This creates a distributed verification layer that enhances credibility without requiring centralized certification bodies.
 
 Validator attestation mechanisms often implement reputation systems, stake-based commitments, or sampling methods to ensure the integrity of verification processes. By creating transparent records of who validated what claims and under what conditions, these systems enable progressive trust-building over time.
 

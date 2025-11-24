@@ -7,9 +7,9 @@ publish: "true"
 type: tag
 ---
 
-*A system that combines resilient localized production with access to global knowledge commons and coordination protocols, following the principle "what is heavy is local, what is light is global."*
+*A system that combines resilient localized production with access to global knowledge commons and [coordination](coordination.md) protocols, following the principle "what is heavy is local, what is light is global."*
 
-Cosmo-localism represents a third way beyond pure globalization or localism, enabling communities to maintain autonomy while benefiting from global networks of knowledge and resources. It emphasizes local production for local needs while sharing knowledge, design, and coordination tools globally.
+Cosmo-localism represents a third way beyond pure globalization or localism, enabling [community](community.md) to maintain [autonomy](autonomy.md) while benefiting from global networks of knowledge and resources. It emphasizes local production for local needs while sharing knowledge, design, and [coordination](coordination.md) tools globally.
 
 ---
 
@@ -21,23 +21,23 @@ In production contexts, cosmo-localism promotes manufacturing closer to the poin
 
 ### Cosmo-localism in Knowledge Management
 
-In knowledge management, cosmo-localism involves creating global commons of shared information and expertise while maintaining local sovereignty over implementation. Communities contribute to and draw from shared knowledge pools while adapting solutions to local contexts.
+In knowledge management, cosmo-localism involves creating global commons of shared information and expertise while maintaining local sovereignty over implementation. [community](community.md) contribute to and draw from shared knowledge pools while adapting solutions to local contexts.
 
 ### Cosmo-localism in web3
 
 In web3 contexts, cosmo-localism finds powerful expression through:
 
-- Distributed ledger technologies enabling transparent coordination
+- Distributed ledger technologies enabling transparent [coordination](coordination.md)
 - Smart contracts managing complex multi-stakeholder relationships
 - Token systems aligning global and local incentives
 - Open protocols for knowledge and resource sharing
-- Decentralized governance tools for community autonomy
+- [Decentralized](decentralization.md) [governance](governance.md) tools for [community](community.md) [autonomy](autonomy.md)
 - Global capital pools supporting local initiatives
 
-The key innovation in web3 implementations is the creation of technical infrastructure that enables efficient coordination between autonomous local communities while preserving their independence and unique characteristics. This allows communities to:
+The key innovation in web3 implementations is the creation of technical infrastructure that enables efficient [coordination](coordination.md) between autonomous local [community](community.md) while preserving their independence and unique characteristics. This allows communities to:
 
 - Access global resources while maintaining local control
-- Share knowledge without losing autonomy
+- Share knowledge without losing [autonomy](autonomy.md)
 - Coordinate actions without central authority
 - Build resilient local systems within global networks
 - Participate in larger economic systems on their own terms

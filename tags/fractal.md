@@ -13,37 +13,37 @@ tags:
 
 *Fractal refers to patterns or structures that exhibit self-similarity at different scales, where smaller components mirror the characteristics of the larger whole through recursive, repeating processes. This property enables complex systems to maintain coherent organization across multiple levels while adapting to different scales of operation.*
 
-Fractals, originally defined in mathematics by Benoit Mandelbrot, describe geometric shapes with detailed structure at arbitrarily small scales, where "zooming in" reveals patterns similar to the overall structure. This concept of self-similarity through recursive iteration has profound applications beyond mathematics, particularly in organizational design and governance systems where similar principles operate at individual, team, community, and network levels.
+Fractals, originally defined in mathematics by Benoit Mandelbrot, describe geometric shapes with detailed structure at arbitrarily small scales, where "zooming in" reveals patterns similar to the overall structure. This concept of self-similarity through recursive iteration has profound applications beyond mathematics, particularly in organizational design and [governance](governance.md) systems where similar principles operate at individual, team, [community](community.md), and network levels.
 
-In the context of decentralized organizations and social coordination, fractal structures enable scalable governance by creating nested decision-making processes where similar patterns of participation, consensus-building, and resource allocation repeat at different organizational levels. This approach allows communities to maintain coherent values and processes while adapting to different scales of operation, from small working groups to large networks, without losing essential characteristics of democratic participation and autonomous coordination.
+In the context of [decentralized](decentralization.md) organizations and social [coordination](coordination.md), fractal structures enable scalable [governance](governance.md) by creating nested [decision-making](decision-making.md) processes where similar patterns of [participation](participation.md), [consensus](consensus.md)-building, and resource allocation repeat at different organizational levels. This approach allows [community](community.md) to maintain coherent [values](values.md) and processes while adapting to different scales of operation, from small working groups to large networks, without losing essential characteristics of democratic [participation](participation.md) and autonomous [coordination](coordination.md).
 
 ---
 
 ## Uses of "Fractal"
 
-### Fractal Governance in DAOs
+### Fractal [Governance](governance.md) in [DAOs](daos.md)
 
-In decentralized autonomous organizations, fractal governance creates recursive decision-making structures that "invert the pyramid of power" by implementing similar governance processes at multiple scales. As pioneered by platforms like Fractally, this approach enables small groups to make autonomous decisions while participating in larger collective processes that maintain overall coherence and coordination.
+In [decentralized](decentralization.md) autonomous organizations, fractal [governance](governance.md) creates recursive [decision-making](decision-making.md) structures that "invert the pyramid of [power](power.md)" by implementing similar governance processes at multiple scales. As pioneered by platforms like Fractally, this approach enables small groups to make autonomous decisions while participating in larger collective processes that maintain overall coherence and [coordination](coordination.md).
 
-Fractal governance addresses traditional scaling challenges in decentralized organizations by creating nested structures where working groups operate with similar principles to the broader DAO, enabling "wisdom of crowds" approaches that scale from small teams to large communities. This recursive pattern ensures that democratic participation and consensus-building processes remain effective regardless of organizational size, while maintaining connection between local autonomy and collective purpose.
+Fractal governance addresses traditional scaling challenges in [decentralized](decentralization.md) organizations by creating nested structures where working groups operate with similar principles to the broader DAO, enabling "wisdom of crowds" approaches that scale from small teams to large [community](community.md). This recursive pattern ensures that democratic [participation](participation.md) and [consensus](consensus.md)-building processes remain effective regardless of organizational size, while maintaining connection between local [autonomy](autonomy.md) and collective purpose.
 
 ### Fractal Structures in Cooperative Organization
 
-In cooperative contexts, fractal principles appear in organizational designs where similar patterns of ownership, decision-making, and benefit distribution operate at multiple levels. Multi-stakeholder cooperatives often implement fractal structures where individual member participation mirrors broader governance patterns, and local cooperative groups connect to larger networks while maintaining their essential cooperative characteristics.
+In cooperative contexts, fractal principles appear in organizational designs where similar patterns of ownership, [decision-making](decision-making.md), and benefit distribution operate at multiple levels. Multi-stakeholder cooperatives often implement fractal structures where individual member participation mirrors broader governance patterns, and local cooperative groups connect to larger networks while maintaining their essential cooperative characteristics.
 
-These fractal arrangements enable cooperatives to scale their democratic principles across different organizational levels—from individual member participation, to working group coordination, to federation-level decision-making—while preserving the essential cooperative values of democratic control, equitable benefit distribution, and member autonomy. Each level mirrors the others in fundamental structure while adapting to its specific scale and context.
+These fractal arrangements enable cooperatives to scale their democratic principles across different organizational levels—from individual member participation, to working group [coordination](coordination.md), to federation-level decision-making—while preserving the essential cooperative [values](values.md) of democratic control, equitable benefit distribution, and member [autonomy](autonomy.md). Each level mirrors the others in fundamental structure while adapting to its specific scale and context.
 
 ### Fractal Patterns in Network Coordination
 
 In decentralized networks and mutual aid systems, fractal structures enable coordination across different scales of social organization while maintaining coherent values and practices. Local solidarity networks may mirror broader movement patterns, creating resilient coordination systems where disruption at one level doesn't compromise the entire network's functionality.
 
-These fractal coordination patterns appear in movements where local groups maintain autonomy while participating in broader networks that share similar organizational principles, decision-making processes, and mutual support practices. The self-similar structure enables both local responsiveness and network-wide coordination without requiring centralized control or homogenization of local approaches.
+These fractal coordination patterns appear in movements where local groups maintain [autonomy](autonomy.md) while participating in broader networks that share similar organizational principles, decision-making processes, and mutual support practices. The self-similar structure enables both local responsiveness and network-wide coordination without requiring centralized control or homogenization of local approaches.
 
 ### Fractal Design in Technical Systems
 
 In technological contexts relevant to Web3 and decentralized systems, fractal architectures create self-similar patterns of resource allocation, processing, and coordination across different system levels. This might involve similar consensus mechanisms operating at different network layers, or recursive resource-sharing patterns that maintain system resilience across various scales of operation.
 
-Blockchain protocols and distributed systems often exhibit fractal characteristics where similar validation, consensus, and coordination processes operate at different levels—from individual transaction validation to network-wide consensus mechanisms—creating robust systems that maintain coherent operation across different scales of participation and resource allocation.
+[Blockchain](blockchain.md) protocols and distributed systems often exhibit fractal characteristics where similar validation, consensus, and coordination processes operate at different levels—from individual transaction validation to network-wide consensus mechanisms—creating robust systems that maintain coherent operation across different scales of participation and resource allocation.
 
 ## Related Concepts
 

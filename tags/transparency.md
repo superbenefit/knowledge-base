@@ -12,21 +12,21 @@ publish: "true"
 type: tag
 ---
 
-*Transparency is the practice of making information, processes, and decisions visible and accessible to relevant stakeholders, enabling verification, accountability, and informed participation in collective systems without requiring trust in centralized authorities.*
+*[Transparency](transparency.md) is the practice of making information, processes, and decisions visible and accessible to relevant stakeholders, enabling verification, accountability, and informed [participation](participation.md) in collective systems without requiring trust in centralized authorities.*
 
-Transparency serves as a foundational principle in decentralized systems, creating the conditions for trust and effective coordination without relying on traditional hierarchical oversight. By making actions, decisions, and resource flows visible to all participants, transparent systems enable collective verification and accountability that would otherwise require trusted intermediaries. This visibility reduces information asymmetries that often lead to power imbalances, creating more equitable participation in governance and resource allocation.
+[Transparency](transparency.md) serves as a foundational principle in [decentralized](decentralization.md) systems, creating the conditions for trust and effective [coordination](coordination.md) without relying on traditional hierarchical oversight. By making actions, decisions, and resource flows visible to all participants, transparent systems enable collective verification and accountability that would otherwise require trusted intermediaries. This visibility reduces information asymmetries that often lead to [power](power.md) imbalances, creating more equitable [participation](participation.md) in [governance](governance.md) and resource allocation.
 
-In web3 contexts, transparency takes on both technological and social dimensions. While blockchain systems provide cryptographic verification and immutable records that make certain activities inherently transparent, the full promise of transparency requires intentional practices that make complex information accessible, contextual, and actionable for diverse stakeholders. Effective transparency balances comprehensive disclosure with appropriate information design, ensuring that visibility translates to genuine understanding and empowerment rather than information overload.
+In web3 contexts, transparency takes on both technological and social dimensions. While [blockchain](blockchain.md) systems provide cryptographic verification and immutable records that make certain activities inherently transparent, the full promise of transparency requires intentional practices that make complex information accessible, contextual, and actionable for diverse stakeholders. Effective transparency balances comprehensive disclosure with appropriate information design, ensuring that visibility translates to genuine understanding and empowerment rather than information overload.
 
 ---
 
 ## Uses of "Transparency"
 
-### Transparency in DAO Governance
+### Transparency in DAO [Governance](governance.md)
 
-In decentralized autonomous organizations, transparency functions as a core governance principle that enables legitimate collective decision-making. By making proposals, deliberations, and voting processes visible to all members, DAOs create the conditions for informed participation and meaningful accountability.
+In [decentralized](decentralization.md) autonomous organizations, transparency functions as a core [governance](governance.md) principle that enables legitimate collective [decision-making](decision-making.md). By making proposals, deliberations, and voting processes visible to all members, [DAOs](daos.md) create the conditions for informed [participation](participation.md) and meaningful accountability.
 
-As described in Building DAOs as scalable networks, transparent governance processes allow community members to "step in and require changes" when operations become misaligned with shared purpose. This oversight capacity creates an essential safeguard against capture or corruption, particularly in two-house governance models where Community Governance must maintain visibility into Operational Governance activities.
+As described in Building [DAOs](daos.md) as scalable networks, transparent [governance](governance.md) processes allow [community](community.md) members to "step in and require changes" when operations become misaligned with shared purpose. This oversight capacity creates an essential safeguard against capture or corruption, particularly in two-house governance models where [Community](community.md) Governance must maintain visibility into Operational Governance activities.
 
 Transparency in DAO contexts typically manifests through:
 - On-chain voting records and proposal histories
@@ -35,21 +35,21 @@ Transparency in DAO contexts typically manifests through:
 - Public documentation of decisions and their rationales
 - Accessible progress tracking across workstreams
 
-### Transparency in Resource Coordination
+### Transparency in Resource [Coordination](coordination.md)
 
-In resource allocation and coordination, transparency enables participants to understand how collective assets are being used, creating the accountability necessary for sustainable stewardship. This visibility applies not only to financial resources but also to attention, contribution recognition, and decision rights.
+In resource allocation and [coordination](coordination.md), transparency enables participants to understand how collective assets are being used, creating the accountability necessary for sustainable stewardship. This visibility applies not only to financial resources but also to attention, contribution recognition, and decision rights.
 
 As noted in Minimum Viable Permissionless-ness, transparency in resource allocation allows talent to "flow toward opportunity and act on it," creating emergent strategy through visible signals rather than centralized planning. When resource flows and allocation criteria are transparent, participants can make informed decisions about where to direct their efforts, creating more efficient and responsive systems.
 
 ### Transparency in Cell-Based Organizations
 
-Within the cellular organizational model described in the DAO Primitives Framework, transparency functions as a coordination mechanism between autonomous teams. By documenting their "state" in transparent formats, cells enable other teams to understand their purpose, practices, and progress without requiring constant communication or oversight.
+Within the cellular organizational model described in the DAO [Primitives](primitives.md) Framework, transparency functions as a [coordination](coordination.md) mechanism between autonomous teams. By documenting their "state" in transparent formats, cells enable other teams to understand their purpose, practices, and progress without requiring constant communication or oversight.
 
-This transparent state documentation creates what the framework calls "clear interfaces that enable trust-based coordination between groups and individuals across a broader DAO network." Rather than depending on hierarchical reporting structures, cells coordinate through shared visibility into each other's work, allowing for efficient collaboration while maintaining autonomy.
+This transparent state documentation creates what the framework calls "clear interfaces that enable trust-based coordination between groups and individuals across a broader DAO network." Rather than depending on hierarchical reporting structures, cells coordinate through shared visibility into each other's work, allowing for efficient collaboration while maintaining [autonomy](autonomy.md).
 
 ### Transparency in Technical Systems
 
-In blockchain and web3 technical systems, transparency is often implemented through cryptographic verification mechanisms that make transactions, code, and governance actions publicly visible and verifiable. Unlike traditional systems where transparency depends on voluntary disclosure, cryptographic transparency creates structural accountability that cannot be easily circumvented.
+In [blockchain](blockchain.md) and web3 technical systems, transparency is often implemented through cryptographic verification mechanisms that make transactions, code, and governance actions publicly visible and verifiable. Unlike traditional systems where transparency depends on voluntary disclosure, cryptographic transparency creates structural accountability that cannot be easily circumvented.
 
 Key technical implementations include:
 - Open-source code that allows inspection and verification

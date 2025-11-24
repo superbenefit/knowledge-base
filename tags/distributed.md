@@ -13,55 +13,55 @@ tags:
 
 *Distributed refers to systems, resources, or processes that are spread across multiple locations, nodes, or participants, rather than being concentrated in a single place or entity. These components communicate and coordinate through networks to achieve collective outcomes while maintaining operational independence.*
 
-Distributed architectures appear across technological, social, and economic systems, representing a fundamental pattern for organizing complex activities across space and participants. Unlike simple geographic spread, distributed systems maintain coherence through coordination mechanisms that allow independent components to work toward shared goals. This arrangement can enhance resilience, efficiency, and accessibility by leveraging diverse resources and reducing dependency on single points of provision.
+Distributed architectures appear across technological, social, and economic systems, representing a fundamental pattern for organizing complex activities across space and participants. Unlike simple geographic spread, distributed systems maintain coherence through [coordination](coordination.md) mechanisms that allow independent components to work toward shared goals. This arrangement can enhance resilience, efficiency, and accessibility by leveraging diverse resources and reducing dependency on single points of provision.
 
-In social and economic contexts, distributed approaches can democratize access to resources and opportunities by spreading them across communities rather than concentrating them in centralized institutions. The degree and nature of distribution varies significantly across applications—from technical infrastructure that distributes computational load across servers, to economic models that distribute value creation and benefits across network participants.
+In social and economic contexts, distributed approaches can democratize access to resources and opportunities by spreading them across [community](community.md) rather than concentrating them in centralized institutions. The degree and nature of distribution varies significantly across applications—from technical infrastructure that distributes computational load across servers, to economic models that distribute value creation and benefits across network participants.
 
 ---
 
-## Distributed vs. Decentralized
+## Distributed vs. [Decentralized](decentralization.md)
 
-While "distributed" and "decentralized" are often used interchangeably, they address fundamentally different aspects of system organization and serve distinct purposes in SuperBenefit's work.
+While "distributed" and "[decentralized](decentralization.md)" are often used interchangeably, they address fundamentally different aspects of system organization and serve distinct purposes in SuperBenefit's work.
 
 **Distributed** primarily concerns the **physical or logical arrangement** of resources, components, and processes. It addresses questions of location, resource allocation, and operational distribution: *Where* are things located? *How* are resources spread across participants? *What* capabilities exist at different nodes in the network?
 
-**Decentralized** primarily concerns the **control and authority structure** within systems. It addresses questions of power, decision-making, and governance: *Who* has authority to make decisions? *How* is control distributed or concentrated? *What* mechanisms exist for collective coordination without central control?
+**[Decentralized](decentralization.md)** primarily concerns the **control and authority structure** within systems. It addresses questions of [power](power.md), [decision-making](decision-making.md), and [governance](governance.md): *Who* has authority to make decisions? *How* is control distributed or concentrated? *What* mechanisms exist for collective [coordination](coordination.md) without central control?
 
 These concepts can be combined in various ways:
 
-- **Distributed but Centralized**: A system where resources are spread across multiple locations but control remains with a central authority. For example, a company with offices worldwide but centralized management decision-making.
+- **Distributed but Centralized**: A system where resources are spread across multiple locations but control remains with a central authority. For example, a company with offices worldwide but centralized management [decision-making](decision-making.md).
 
-- **Decentralized but Not Distributed**: A system where control is shared among participants but operations remain geographically concentrated. For example, a local community cooperative where all members participate in governance but activities happen in one location.
+- **Decentralized but Not Distributed**: A system where control is shared among participants but operations remain geographically concentrated. For example, a local [community](community.md) cooperative where all members participate in [governance](governance.md) but activities happen in one location.
 
-- **Both Distributed and Decentralized**: A system where both resources and control are spread across networks. Blockchain protocols exemplify this combination, spreading both computational resources and governance authority across global networks.
+- **Both Distributed and Decentralized**: A system where both resources and control are spread across networks. [Blockchain](blockchain.md) protocols exemplify this combination, spreading both computational resources and [governance](governance.md) authority across global networks.
 
 - **Neither (Centralized and Concentrated)**: Traditional centralized systems where both resources and control are concentrated in single entities.
 
-In SuperBenefit's context, understanding this distinction helps in designing systems that intentionally address both resource allocation and power dynamics. For instance, platform cooperatives might implement distributed technical infrastructure while maintaining decentralized governance, ensuring both operational resilience and democratic control.
+In SuperBenefit's context, understanding this distinction helps in designing systems that intentionally address both resource allocation and [power](power.md) dynamics. For instance, platform cooperatives might implement distributed technical infrastructure while maintaining decentralized [governance](governance.md), ensuring both operational resilience and democratic control.
 
 ## Uses of "Distributed"
 
 ### Distributed in Technological Systems
 
-In Web3 and blockchain technologies, distributed architecture refers to spreading computational resources, data storage, and processing across multiple nodes in a network. This technical distribution creates systems that can share workload, improve performance, and maintain operations even when individual components fail. Unlike decentralized systems which focus on eliminating central authority, distributed systems primarily address the physical arrangement and coordination of resources.
+In Web3 and [blockchain](blockchain.md) technologies, distributed architecture refers to spreading computational resources, data storage, and processing across multiple nodes in a network. This technical distribution creates systems that can share workload, improve performance, and maintain operations even when individual components fail. Unlike decentralized systems which focus on eliminating central authority, distributed systems primarily address the physical arrangement and [coordination](coordination.md) of resources.
 
-Distributed networks enable resource sharing and collective computation while potentially maintaining centralized coordination. For example, a distributed application might spread processing across multiple servers while still having centralized management of user authentication or business logic. This combination allows systems to scale efficiently while maintaining coherent user experiences and operational control where needed.
+Distributed networks enable resource sharing and collective computation while potentially maintaining centralized [coordination](coordination.md). For example, a distributed application might spread processing across multiple servers while still having centralized management of user authentication or business logic. This combination allows systems to scale efficiently while maintaining coherent user experiences and operational control where needed.
 
-### Distributed in Governance and Decision-Making
+### Distributed in Governance and [Decision-Making](decision-making.md)
 
-In governance contexts, distributed approaches spread decision-making authority, resources, and implementation capacity across multiple participants rather than concentrating them in single institutions. As seen in SuperBenefit's work with cooperatives and DAOs, distributed governance can involve "mechanisms that distribute both decision-making power and responsibility across networks rather than concentrating them in centralized entities".
+In governance contexts, distributed approaches spread decision-making authority, resources, and implementation capacity across multiple participants rather than concentrating them in single institutions. As seen in SuperBenefit's work with cooperatives and [DAOs](daos.md), distributed governance can involve "mechanisms that distribute both decision-making [power](power.md) and responsibility across networks rather than concentrating them in centralized entities".
 
 This governance distribution often operates at multiple scales simultaneously—individual participants make autonomous decisions within their domains while coordinating through shared protocols and collective processes. Distributed governance doesn't necessarily eliminate hierarchy or coordination structures, but rather spreads authority and accountability across networks of participants who maintain operational independence while contributing to collective outcomes.
 
 ### Distributed in Economic Systems
 
-In economic contexts, distributed approaches focus on spreading value creation, resource allocation, and benefit distribution across multiple participants rather than concentrating them in single entities or locations. Platform cooperatives exemplify this approach by ensuring "that value created on digital platforms flows to the communities that generate it rather than being extracted by external investors", while "creating value chains that distribute benefits across multiple participants".
+In economic contexts, distributed approaches focus on spreading value creation, resource allocation, and benefit distribution across multiple participants rather than concentrating them in single entities or locations. Platform cooperatives exemplify this approach by ensuring "that value created on digital platforms flows to the [community](community.md) that generate it rather than being extracted by external investors", while "creating value chains that distribute benefits across multiple participants".
 
 Distributed economic models can operate through various mechanisms: mutual credit systems that distribute currency creation across participants, resource-sharing networks that distribute access to tools and capabilities, and cooperative structures that distribute ownership and control across stakeholders. These approaches often combine distributed resource allocation with coordination mechanisms that maintain system coherence and collective purpose.
 
 ### Distributed in Social Coordination
 
-In social impact and community organizing, distributed approaches spread capacity, knowledge, and implementation across networks of participants rather than concentrating them in single organizations or institutions. This distribution can increase resilience and local responsiveness while maintaining coordination across broader networks.
+In social impact and [community](community.md) organizing, distributed approaches spread capacity, knowledge, and implementation across networks of participants rather than concentrating them in single organizations or institutions. This distribution can increase resilience and local responsiveness while maintaining coordination across broader networks.
 
 Distributed social coordination often involves creating frameworks that enable autonomous local action while facilitating resource sharing, knowledge exchange, and collective decision-making across the network. This approach recognizes that effective social change often requires both local contextual knowledge and broader coordination to achieve systemic impact.
 
