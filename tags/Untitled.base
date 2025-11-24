@@ -1,0 +1,12 @@
+filters:
+  and:
+    - file.path.startsWith("tags")
+    - file.ext == "md"
+    - file.basename != "index"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - publish
+      - description

@@ -10,7 +10,7 @@
 
 **Case study example**: All In For Sport's AIFSIP-04 proposal created clear boundaries - community governance protects mission and values while operational cells execute autonomously. This resolved longstanding tensions and passed "without significant contention" because it addressed recognized needs.
 
-**Link to full pattern**: [community-governance](artifacts/patterns/community-governance.md)
+**Link to full pattern**: [community-governance](artifacts/dao-primitives-framework/patterns/community-governance.md)
 
 ---
 
@@ -22,7 +22,7 @@
 
 **Case study example**: AIFS operational cells enabled the Tech365 coordination - managing 25 organizations across 16 countries without constant board approval. ICS's 4-person core team made all governance decisions autonomously, exceeding their participation goals.
 
-**Link to full pattern**: [operational-governance](artifacts/patterns/operational-governance.md)
+**Link to full pattern**: [operational-governance](artifacts/dao-primitives-framework/patterns/operational-governance.md)
 
 ---
 
@@ -34,7 +34,7 @@
 
 **Case study example**: All In For Sport connected 111 participants across 6 gatherings, transforming relationships between Web3 developers and grassroots sports organizations. Key insight: "In trying to be maximally inclusive, we sometimes became accidentally exclusive."
 
-**Link to full pattern**: [gatherings](artifacts/patterns/gatherings.md)
+**Link to full pattern**: [gatherings](artifacts/misc/patterns/gatherings.md)
 
 ---
 
@@ -46,7 +46,7 @@
 
 **Case study example**: AIFS cells for events, partnerships, and Tech365 coordination operated independently while maintaining alignment. SuperBenefit's Community Experience, DAO Primitives, and Playbooks cells each advanced specific objectives autonomously.
 
-**Link to full pattern**: Referenced in operational governance - [operational-governance](artifacts/patterns/operational-governance.md)
+**Link to full pattern**: Referenced in operational governance - [operational-governance](artifacts/dao-primitives-framework/patterns/operational-governance.md)
 
 ---
 

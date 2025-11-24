@@ -37,7 +37,7 @@ In these contexts, coordination mechanisms must address power imbalances, inform
 
 Transparent documentation of agreements, progress, and context serves as a critical coordination mechanism in decentralized systems. By making relevant information accessible to all participants, shared state documentation enables independent decision-making that naturally aligns with collective aims without requiring constant communication or oversight.
 
-The Cell working group pattern demonstrates this approach through "nucleus" documentation that captures a team's purpose, practices, and progress in a format accessible to both internal members and external collaborators. This transparency creates what the [readme](artifacts/guides/dao-primitives-framework/readme.md) calls "clear interfaces that enable trust-based coordination between groups and individuals across a broader DAO network."
+The Cell working group pattern demonstrates this approach through "nucleus" documentation that captures a team's purpose, practices, and progress in a format accessible to both internal members and external collaborators. This transparency creates what the [readme](artifacts/dao-primitives-framework/readme.md) calls "clear interfaces that enable trust-based coordination between groups and individuals across a broader DAO network."
 
 ## Related Concepts
 

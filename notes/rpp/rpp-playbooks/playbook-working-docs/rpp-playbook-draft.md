@@ -107,7 +107,7 @@ In nonprofit contexts, community governance transforms traditional board-centric
 
 **First step**: Map your current governance decisions into two categories: those affecting mission/values (strategic) versus those affecting daily operations (tactical). Survey stakeholders about which decisions they want voice in—you'll likely find they care most about strategic direction, not operational details.
 
-**Link to full pattern**: [community-governance](artifacts/patterns/community-governance.md)
+**Link to full pattern**: [community-governance](artifacts/dao-primitives-framework/patterns/community-governance.md)
 
 #### Operational Governance
 
@@ -123,7 +123,7 @@ _Note: Cells are autonomous teams with defined scope operating within shared org
 
 **First step**: Identify your most frustrated program team—the one constantly waiting for approvals. Define clear boundaries (budget, scope, values alignment) within which they can make all decisions without seeking permission. Start with a 3-month experiment to build confidence on both sides.
 
-**Link to full pattern**: [operational-governance](artifacts/patterns/operational-governance.md)
+**Link to full pattern**: [operational-governance](artifacts/dao-primitives-framework/patterns/operational-governance.md)
 
 ### Pattern Group B: Building Participation Infrastructure
 
@@ -203,7 +203,7 @@ Most nonprofit convenings reinforce existing divisions—technical people talk t
 
 **First step**: Design a 2-hour pilot gathering on your most pressing challenge. Invite 8-12 people split evenly between "insiders" (staff/board) and "outsiders" (community members, technical experts, or other perspectives you lack). Use this structure: 30-min joint opening to frame the challenge, 60-min breakouts by perspective group, 30-min joint closing to share insights. Document what emerges when different groups tackle the same problem.
 
-**Link to full pattern**: [gatherings](artifacts/patterns/gatherings.md)
+**Link to full pattern**: [gatherings](artifacts/misc/patterns/gatherings.md)
 
 #### Local Nodes
 
@@ -398,9 +398,9 @@ Equality Fund's discoveries challenged core RPP assumptions about blockchain's p
 
 ### Patterns
 
-- [Community Governance](artifacts/patterns/community-governance.md) - Collective stewardship through constituency-scale decision making
-- [Operational Governance](artifacts/patterns/operational-governance.md) - Sociocratic coordination of autonomous teams
-- [Gatherings](artifacts/patterns/gatherings.md) - Structured spaces for cross-sector relationship building
+- [Community Governance](artifacts/dao-primitives-framework/patterns/community-governance.md) - Collective stewardship through constituency-scale decision making
+- [Operational Governance](artifacts/dao-primitives-framework/patterns/operational-governance.md) - Sociocratic coordination of autonomous teams
+- [Gatherings](artifacts/misc/patterns/gatherings.md) - Structured spaces for cross-sector relationship building
 - [Token-based Governance](notes/rpp/rpp-working-docs/token-based-governance.md) - Digital voting systems for transparent decision-making
 - [Privacy Payments](notes/rpp/rpp-working-docs/privacy-payments.md) - Protection for sensitive financial transactions
 - Peer to Peer Payments - Direct fund transfers without intermediaries

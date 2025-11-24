@@ -63,8 +63,8 @@ A community-based initiative that brings together skilled volunteers and communi
       - **[H-Reference](./ccc/docs/H-Reference/H-Reference.md)**
       - **[I-Fund](./ccc/docs/I-Fund/I-Fund.md)**
   - **city-grant-reporting**
-    - **[2024-final](./city-grant-reporting/2024-final/2024-final.md)**
-    - **[2025-mid](./city-grant-reporting/2025-mid/2025-mid.md)**
+    - **[index](notes/ics/city-grant-reporting/2024-final/index.md)**
+    - **[index](notes/ics/city-grant-reporting/2025-mid/index.md)**
   - **[gg23](./gg23/gg23.md)**
     - **[graphics](./gg23/graphics/graphics.md)**
     - **[newsletters](./gg23/newsletters/newsletters.md)**

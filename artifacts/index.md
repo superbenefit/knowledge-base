@@ -11,13 +11,13 @@ Welcome to the SuperBenefit artifacts repository! This section contains the fini
 
 This repository is organized into thematic sections, each representing a different type of knowledge resource. These artifacts are intended to inspire, educate, and provide actionable tools for community-driven change.
 
-* **[Articles](artifacts/articles/index.md):** Essays and reflections that distill key ideas and spark dialogue about the future of [DAOs](tags/daos.md), [governance](tags/governance.md), and organizational design.
+* **[Articles](artifacts/misc/articles/index.md):** Essays and reflections that distill key ideas and spark dialogue about the future of [DAOs](tags/daos.md), [governance](tags/governance.md), and organizational design.
 
-* **[Patterns](artifacts/patterns/index.md):** Practical templates and models for solving common challenges in [decentralized](tags/decentralization.md) and [community](tags/community.md)-driven contexts.
+* **[Patterns](artifacts/misc/patterns/index.md):** Practical templates and models for solving common challenges in [decentralized](tags/decentralization.md) and [community](tags/community.md)-driven contexts.
 
-* **[Playbooks](artifacts/playbooks/index.md):** Step-by-step guides that empower communities to experiment with new tools, practices, and [protocols](tags/protocols.md).
+* **[Playbooks](artifacts/misc/playbooks/index.md):** Step-by-step guides that empower communities to experiment with new tools, practices, and [protocols](tags/protocols.md).
 
-* **[Studies](artifacts/studies/index.md):** Case studies and in-depth analyses of successful projects, offering lessons and best practices for replication.
+* **[Studies](artifacts/misc/stories/index.md):** Case studies and in-depth analyses of successful projects, offering lessons and best practices for replication.
 
 
 

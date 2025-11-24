@@ -36,7 +36,7 @@ Organizations can benefit from primitives by leveraging these basic building blo
 
 These elements are simple, repeatable, and can be applied across different departments or projects, allowing the organization to maintain consistency while adapting to various challenges. By utilizing these foundational building blocks, organizations can ensure that their operations are efficient, flexible, and aligned with their strategic goals.
 
-At SuperBenefit, we're exploring the potential and practical uses of web3 primitives in the [DAO Primitives Project](notes/dao-primitives/index.md). For help choosing the patterns, practices and primitives for your project, check out the [group facilitation framework](artifacts/guides/dao-primitives-framework/group-facilitation.md). You can learn more about our approach in the [conceptual framework](artifacts/guides/dao-primitives-framework/index.md).
+At SuperBenefit, we're exploring the potential and practical uses of web3 primitives in the [DAO Primitives Project](notes/dao-primitives/index.md). For help choosing the patterns, practices and primitives for your project, check out the [group facilitation framework](artifacts/dao-primitives-framework/group-facilitation.md). You can learn more about our approach in the [conceptual framework](artifacts/dao-primitives-framework/index.md).
 
 ---
 
