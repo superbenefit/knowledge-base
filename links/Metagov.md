@@ -10,7 +10,7 @@ publish: false
 description: 
 ---
 
-[Metagov](https://metagov.org/) is a community of research and practice gathered around the mission to cultivate tools, practices, and communities that enable self-governance in the digital age.
+[Metagov](https://metagov.org/) is a [community](tags/community.md) of research and practice gathered around the mission to cultivate tools, practices, and [community](tags/community.md) that enable self-[governance](tags/governance.md) in the digital age.
 
 ---
 

@@ -15,13 +15,13 @@ tags:
   - impact-documentation
 ---
 
-Crypto Altruism's 2022 year-in-review provides comprehensive documentation of significant Web3 social impact developments, spanning humanitarian aid delivery to environmental conservation funding to decentralized identity for refugees to transparent charitable giving. The review demonstrates breadth of blockchain social applications beyond financial speculation, showing concrete implementations serving real community needs. Rather than promotional content highlighting only successes, the documentation includes honest assessment of both achievements and persistent challenges, providing realistic picture of Web3 social impact landscape. This creates valuable resource for understanding what blockchain mechanisms accomplish in practice versus aspirational claims.
+Crypto Altruism's 2022 year-in-review provides comprehensive documentation of significant Web3 social [impact](tags/impact.md) developments, spanning humanitarian aid delivery to environmental conservation funding to [decentralized](tags/decentralization.md) identity for refugees to transparent charitable giving. The review demonstrates breadth of [blockchain](tags/blockchain.md) social applications beyond financial speculation, showing concrete implementations serving real [community](tags/community.md) needs. Rather than promotional content highlighting only successes, the documentation includes honest assessment of both achievements and persistent challenges, providing realistic picture of Web3 social [impact](tags/impact.md) landscape. This creates valuable resource for understanding what [blockchain](tags/blockchain.md) mechanisms accomplish in practice versus aspirational claims.
 
 ### Key Highlights
 
-- **Diverse Impact Domains**: The review spans humanitarian relief, environmental conservation, financial inclusion, healthcare, education, governance, and other social domains—showing blockchain applications across impact areas not single narrow use case.
+- **Diverse [Impact](tags/impact.md) Domains**: The review spans humanitarian relief, environmental conservation, financial inclusion, healthcare, education, [governance](tags/governance.md), and other social domains—showing [blockchain](tags/blockchain.md) applications across impact areas not single narrow use case.
 
-- **Concrete Implementations**: Rather than theoretical possibilities, Crypto Altruism documents actual 2022 deployments with real beneficiaries and measurable outcomes, providing evidence of blockchain social impact beyond pilot projects or whitepapers.
+- **Concrete Implementations**: Rather than theoretical possibilities, Crypto Altruism documents actual 2022 deployments with real beneficiaries and measurable outcomes, providing evidence of [blockchain](tags/blockchain.md) social impact beyond pilot projects or whitepapers.
 
 - **Honest Assessment**: The review acknowledges both successes and limitations, discussing what worked well alongside persistent challenges including adoption barriers, technical complexity, and regulatory uncertainty.
 
@@ -47,11 +47,11 @@ This documentation enables informed social impact engagement:
 
 ### Connection With SuperBenefit
 
-- Crypto Altruism's comprehensive documentation across impact domains validates SuperBenefit's understanding that coordination primitives should serve diverse missions not single use case—showing that effective DAO tools must accommodate different organizational needs from humanitarian response to environmental restoration to community organizing, each requiring adapted coordination approaches.
+- Crypto Altruism's comprehensive documentation across impact domains validates SuperBenefit's understanding that [coordination](tags/coordination.md) [primitives](tags/primitives.md) should serve diverse missions not single use case—showing that effective DAO tools must accommodate different organizational needs from humanitarian response to environmental restoration to [community](tags/community.md) organizing, each requiring adapted [coordination](tags/coordination.md) approaches.
 
-- The honest assessment including both successes and challenges resonates with SuperBenefit's commitment to realistic evaluation rather than promotional hype, demonstrating that genuinely serving communities requires acknowledging persistent barriers alongside documenting achievements—showing that effective development requires learning from both what works and what doesn't.
+- The honest assessment including both successes and challenges resonates with SuperBenefit's commitment to realistic evaluation rather than promotional hype, demonstrating that genuinely serving [community](tags/community.md) requires acknowledging persistent barriers alongside documenting achievements—showing that effective development requires learning from both what works and what doesn't.
 
-- Year-review format creating historical record validates SuperBenefit's approach to documenting coordination primitive development over time, recognizing that understanding requires tracking evolution not just current implementations—showing how coordination tools and practices develop through iterative learning rather than appearing fully formed.
+- Year-review format creating historical record validates SuperBenefit's approach to documenting [coordination](tags/coordination.md) primitive development over time, recognizing that understanding requires tracking evolution not just current implementations—showing how [coordination](tags/coordination.md) tools and practices develop through iterative learning rather than appearing fully formed.
 
 ---
 

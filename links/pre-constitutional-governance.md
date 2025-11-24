@@ -23,25 +23,25 @@ phase:
   - formation
 ---
 
-This article introduces a foundational framework for groups moving from unstructured beginnings to formal governance. It emphasizes the importance of transparent, well-documented decisions to ensure legitimacy and reduce ambiguities that could impact future operations. It also provides a flexible, platform-independent template to help establish essential governance procedures as a stable starting point.
+This article introduces a foundational framework for groups moving from unstructured beginnings to formal [governance](tags/governance.md). It emphasizes the importance of transparent, well-documented decisions to ensure legitimacy and reduce ambiguities that could [impact](tags/impact.md) future operations. It also provides a flexible, platform-independent template to help establish essential [governance](tags/governance.md) procedures as a stable starting point.
 
 ### Sumamry
 
-The text discusses the complexity of creating governance in unstructured organizations, likening the early phase to a “structureless social soup.” Without pre-existing rules, establishing consensus on basic decisions can be challenging, especially since no formal procedures guide agreement.
+The text discusses the complexity of creating [governance](tags/governance.md) in unstructured organizations, likening the early phase to a “structureless social soup.” Without pre-existing rules, establishing consensus on basic decisions can be challenging, especially since no formal procedures guide agreement.
 
 Some key points include:
 
 #### Initial Consensus Challenges
 Explores the difficulties unstructured groups face in establishing consensus on basic decisions due to the lack of formal procedures.
 
-#### Transparency for Legitimacy
+#### [Transparency](tags/transparency.md) for Legitimacy
 Highlights the importance of making early decisions transparent and well-documented to establish legitimacy and build trust within the organization.
 
-#### Risks of Informal Governance
-Discusses potential operational complexities that arise from a lack of clear, formalized governance in early-stage organizations.
+#### Risks of Informal [Governance](tags/governance.md)
+Discusses potential operational complexities that arise from a lack of clear, formalized [governance](tags/governance.md) in early-stage organizations.
 
 #### Suggested Platform-Agnostic Approach
-Presents a flexible, adaptable governance framework that is independent of specific platforms, allowing organizations to choose tools that best fit their needs.
+Presents a flexible, adaptable [governance](tags/governance.md) framework that is independent of specific platforms, allowing organizations to choose tools that best fit their needs.
 
 #### Pre-Constitutional Governance Framework
 Describes an initial governance structure providing basic organization without full legal formalization, creating a foundation for growth and evolving governance practices.
@@ -58,7 +58,7 @@ The article proposes a framework similar to this
   *Individuals approved to submit proposals, such as core team members.*
 
 - **Vote-Authorized Person**  
-  *Individuals permitted to vote on proposals, like community participants.*
+  *Individuals permitted to vote on proposals, like [community](tags/community.md) participants.*
 
 - **Designated Drafting Platform**  
   *The specified platform used for drafting and editing proposals, e.g., Google Docs.*

@@ -18,20 +18,20 @@ tags:
   - coordination
 ---
 
-*Modular Politics* presents a comprehensive vision for digital governance that moves beyond platform-specific approaches toward interoperable, composable governance systems. Developed by a multidisciplinary team of researchers including Nathan Schneider and Primavera De Filippi, this framework proposes creating a governance layer for online communities that allows them to mix and match governance components across different platforms and contexts. Connected to the [Metagov](links/Metagov.md) research initiative, this paper outlines both the theoretical foundations and practical design considerations for implementing modular governance systems.
+*Modular Politics* presents a comprehensive vision for digital [governance](tags/governance.md) that moves beyond platform-specific approaches toward interoperable, composable [governance](tags/governance.md) systems. Developed by a multidisciplinary team of researchers including Nathan Schneider and Primavera De Filippi, this framework proposes creating a [governance](tags/governance.md) layer for online [community](tags/community.md) that allows them to mix and match [governance](tags/governance.md) components across different platforms and contexts. Connected to the [Metagov](links/Metagov.md) research initiative, this paper outlines both the theoretical foundations and practical design considerations for implementing modular [governance](tags/governance.md) systems.
 
 ### Key Highlights
-- **Governance Composability**: The framework introduces the concept of governance as modular components that can be combined like building blocks, allowing communities to create customized governance systems by selecting, configuring, and arranging various governance elements.
+- **[Governance](tags/governance.md) Composability**: The framework introduces the concept of governance as modular components that can be combined like building blocks, allowing [community](tags/community.md) to create customized governance systems by selecting, configuring, and arranging various governance elements.
 - **Cross-Platform Interoperability**: Modular Politics challenges platform-specific governance by proposing standards that allow governance tools and processes to operate across different platforms and protocols, reducing lock-in and enabling wider experimentation.
 - **Core Design Goals**: The framework articulates four key objectives: modularity (enabling component-based construction), expressiveness (supporting diverse governance processes), portability (allowing reuse across platforms), and interoperability (facilitating interaction between governance systems).
 - **Structural Design Elements**: The paper outlines structural elements including Instances (operational environments), Orgs (governance units), Modules (functional components), Monitors (data analytics), Permissions (access controls), Resources (governed assets), and Entities (participants) that together form a comprehensive governance ecosystem.
-- **Evolutionary Approach**: Rather than proposing a single governance solution, Modular Politics embraces an evolutionary perspective where governance systems can adapt and evolve based on community needs, technological developments, and changing contexts.
+- **Evolutionary Approach**: Rather than proposing a single governance solution, Modular Politics embraces an evolutionary perspective where governance systems can adapt and evolve based on [community](tags/community.md) needs, technological developments, and changing contexts.
 
 ### Design Goals
 
 The framework proposes a governance layer with four fundamental design goals:
 
-> 1. **Modularity**: Platform operators and community members should have the ability to construct systems by creating, importing, and arranging composable parts together as a coherent whole.
+> 1. **Modularity**: Platform operators and [community](tags/community.md) members should have the ability to construct systems by creating, importing, and arranging composable parts together as a coherent whole.
 > 2. **Expressiveness**: The governance layer should be able to implement as wide a range of processes as possible.
 > 3. **Portability**: Governance tools developed for one platform should be portable to another platform for reuse and adaptation.
 > 4. **Interoperability**: Governance systems operating on different platforms and protocols should have the ability to interact with each other, sharing data and influencing each other's processes.
@@ -40,7 +40,7 @@ The framework proposes a governance layer with four fundamental design goals:
 
 The Modular Politics framework can be applied in various contexts:
 
-- Enabling DAO communities to experiment with multiple governance approaches without rebuilding their entire infrastructure
+- Enabling DAO [community](tags/community.md) to experiment with multiple governance approaches without rebuilding their entire infrastructure
 - Creating governance "libraries" where successful governance patterns can be documented, shared, and reused across different communities
 - Developing middleware that allows governance processes to span multiple platforms (e.g., proposal discussions on one platform with voting executed on another)
 - Supporting "governance portability" when communities need to migrate between platforms or protocols
@@ -50,7 +50,7 @@ The framework is particularly valuable for communities that need to adapt their 
 
 ### Connection With SuperBenefit
 
-- Directly aligns with SuperBenefit's DAO Primitives approach, viewing organizational structures as composed of fundamental building blocks that can be recombined for different contexts.
+- Directly aligns with SuperBenefit's DAO [Primitives](tags/primitives.md) approach, viewing organizational structures as composed of fundamental building blocks that can be recombined for different contexts.
 - Supports SuperBenefit's commitment to context-specific governance rather than one-size-fits-all solutions through its emphasis on composability.
 - Addresses a critical need identified in SuperBenefit's work on anticapture mechanisms by enabling communities to maintain governance sovereignty even when underlying technical infrastructure changes.
 - Complements SuperBenefit's cosmolocal approach by enabling local governance customization while maintaining connections to broader governance commons and shared practices.
