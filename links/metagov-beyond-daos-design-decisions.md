@@ -15,7 +15,7 @@ tags:
   - design-decisions
 ---
 
-This Metagov framework challenges the assumption that all internet organizations should adopt DAO structures, offering comprehensive analysis of governance design choices across coordination models. Rather than treating DAOs as universal solution, the work examines when token-weighted governance, representative democracy, liquid democracy, futarchy, or other mechanisms serve specific organizational needs and values. Metagov identifies key design dimensions—decision-making authority, membership boundaries, proposal processes, execution mechanisms—showing how different combinations create distinct governance systems with different tradeoffs. The framework enables organizations to make intentional design choices aligned with their goals rather than defaulting to popular patterns that may not fit their contexts.
+This Metagov framework challenges the assumption that all internet organizations should adopt DAO structures, offering comprehensive analysis of governance design choices across coordination models. Rather than treating DAOs as universal solution, the work examines when token-weighted governance, representative democracy, liquid democracy, futarchy, or other mechanisms serve specific organizational needs and values. Metagov identifies key design dimensions—[decision-making](tags/decisions.md) authority, membership boundaries, proposal processes, execution mechanisms—showing how different combinations create distinct governance systems with different tradeoffs. The framework enables organizations to make intentional design choices aligned with their goals rather than defaulting to popular patterns that may not fit their contexts.
 
 ### Key Highlights
 
@@ -37,7 +37,7 @@ This framework enables intentional governance design across contexts:
 
 - Internet organizations can use Metagov's dimensions to audit current governance structures, identifying whether mechanisms align with organizational values and needs or merely replicate popular patterns without intentional design
 
-- DAO developers can apply the framework when designing governance systems, making explicit choices about participation boundaries, decision-making authority, and execution mechanisms rather than defaulting to token-weighted voting
+- DAO developers can apply the framework when designing governance systems, making explicit choices about participation boundaries, [decision-making](tags/decisions.md) authority, and execution mechanisms rather than defaulting to token-weighted voting
 
 - Platform cooperatives can reference the analysis when creating member governance, understanding how different mechanisms serve cooperative principles better than structures borrowed from corporate or blockchain contexts
 

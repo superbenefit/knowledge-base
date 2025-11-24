@@ -15,7 +15,7 @@ tags:
   - participation-balance
 ---
 
-Flipside's emerging consensus framework addresses DAO governance challenge of balancing comprehensive participation with timely decision-making. Traditional consensus processes ensure broad input but can create gridlock when decisions require extensive deliberation, while rushed votes exclude those who need time to understand proposals. Emerging consensus enables action based on developing agreement among engaged participants while maintaining legitimacy through transparency and objection mechanisms. The framework shows how DAOs can move forward when consensus emerges among those actively participating rather than waiting for universal agreement or forcing premature votes, creating space for both swift execution and meaningful deliberation.
+Flipside's emerging consensus framework addresses [DAO](tags/daos.md) [governance](tags/governance.md) challenge of balancing comprehensive participation with timely decision-making. Traditional consensus processes ensure broad input but can create gridlock when decisions require extensive deliberation, while rushed votes exclude those who need time to understand proposals. Emerging consensus enables action based on developing agreement among engaged participants while maintaining legitimacy through transparency and objection mechanisms. The framework shows how DAOs can move forward when consensus emerges among those actively participating rather than waiting for universal agreement or forcing premature votes, creating space for both swift execution and meaningful deliberation.
 
 ### Key Highlights
 
@@ -33,7 +33,7 @@ Flipside's emerging consensus framework addresses DAO governance challenge of ba
 
 ### Practical Applications
 
-Emerging consensus enables balanced DAO governance:
+Emerging consensus enables balanced [DAO](tags/daos.md) [governance](tags/governance.md):
 
 - DAOs can implement graduated decision processes using emerging consensus for operational choices while reserving comprehensive voting for strategic decisions, enabling efficiency without eliminating participation for consequential governance
 

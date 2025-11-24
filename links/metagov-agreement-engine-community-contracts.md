@@ -15,7 +15,7 @@ tags:
   - community-governance
 ---
 
-Metagov's Agreement Engine provides infrastructure for communities to create enforceable agreements through programmable contracts that bridge informal norms and rigid smart contracts. Communities often need collective commitments more flexible than immutable blockchain code but more accountable than unenforced social norms—agreements about resource sharing, behavior expectations, decision-making processes that require enforceability without eliminating human judgment. The Agreement Engine enables communities to formalize mutual obligations while retaining interpretation flexibility, creating contracts that can be amended through collective processes rather than requiring forks when contexts change. This addresses limitation of both purely social coordination and purely technical automation.
+Metagov's Agreement Engine provides infrastructure for [communities](tags/community.md) to create enforceable [agreements](tags/agreements.md) through programmable contracts that bridge informal norms and rigid smart contracts. [Communities](tags/community.md) often need collective commitments more flexible than immutable [blockchain](tags/blockchain.md) code but more accountable than unenforced social norms—[agreements](tags/agreements.md) about resource sharing, behavior expectations, [decision-making](tags/decisions.md) processes that require enforceability without eliminating human judgment. The Agreement Engine enables [communities](tags/community.md) to formalize mutual obligations while retaining interpretation flexibility, creating contracts that can be amended through collective processes rather than requiring forks when contexts change. This addresses limitation of both purely social [coordination](tags/coordination.md) and purely technical automation.
 
 ### Key Highlights
 
@@ -35,23 +35,23 @@ Metagov's Agreement Engine provides infrastructure for communities to create enf
 
 Agreement Engine enables accountable community contracts:
 
-- Communities can formalize resource-sharing agreements specifying how shared tools, spaces, or funds should be used, creating accountability without requiring immutable rules that prevent adaptation
+- [Communities](tags/community.md) can formalize resource-sharing [agreements](tags/agreements.md) specifying how shared tools, spaces, or funds should be used, creating accountability without requiring immutable rules that prevent adaptation
 
-- DAOs can implement governance agreements about decision-making processes that participants commit to follow, making procedural norms enforceable while retaining collective capacity to amend processes
+- [DAOs](tags/daos.md) can implement [governance](tags/governance.md) [agreements](tags/agreements.md) about [decision-making](tags/decisions.md) processes that participants commit to follow, making procedural norms enforceable while retaining collective capacity to amend processes
 
 - Cooperatives can encode member obligations through Agreement Engine, formalizing mutual commitments about labor contribution, benefit-sharing, and participation while enabling democratic amendment
 
-- Funding organizations can create enforceable agreements with grantees about resource use and reporting, balancing accountability with flexibility rather than choosing between trust-based or rigid contract approaches
+- Funding organizations can create enforceable [agreements](tags/agreements.md) with grantees about resource use and reporting, balancing accountability with flexibility rather than choosing between trust-based or rigid contract approaches
 
-- Researchers can study how communities use Agreement Engine, understanding what types of commitments benefit from programmable formalization versus what remains better as informal norms
+- Researchers can study how [communities](tags/community.md) use Agreement Engine, understanding what types of commitments benefit from programmable formalization versus what remains better as informal norms
 
 ### Connection With SuperBenefit
 
-- Metagov's Agreement Engine provides infrastructure for the middle ground SuperBenefit navigates between informal coordination and rigid technical automation—demonstrating how coordination primitives can enable accountability while preserving human judgment and collective amendment capacity rather than forcing choice between unenforced social norms or immutable code.
+- Metagov's Agreement Engine provides infrastructure for the middle ground SuperBenefit navigates between informal [coordination](tags/coordination.md) and rigid technical automation—demonstrating how [coordination](tags/coordination.md) [primitives](tags/primitives.md) can enable accountability while preserving human judgment and collective amendment capacity rather than forcing choice between unenforced social norms or immutable code.
 
-- The protocol's emphasis on collective amendment capacity resonates with SuperBenefit's pattern-based approach recognizing that communities must adapt coordination tools as contexts change, suggesting that effective primitives should support ongoing evolution through participatory processes rather than locking organizations into founding agreements.
+- The protocol's emphasis on collective amendment capacity resonates with SuperBenefit's pattern-based approach recognizing that [communities](tags/community.md) must adapt [coordination](tags/coordination.md) tools as contexts change, suggesting that effective [primitives](tags/primitives.md) should support ongoing evolution through participatory processes rather than locking organizations into founding [agreements](tags/agreements.md).
 
-- Agreement Engine's combination of automated execution for clear cases with human judgment for interpretation challenges validates SuperBenefit's understanding that coordination tools should enhance rather than replace collective decision-making—showing that technical mechanisms should handle routine enforcement while complex situations requiring nuanced judgment remain subject to community deliberation.
+- Agreement Engine's combination of automated execution for clear cases with human judgment for interpretation challenges validates SuperBenefit's understanding that [coordination](tags/coordination.md) tools should enhance rather than replace collective [decision-making](tags/decisions.md)—showing that technical mechanisms should handle routine enforcement while complex situations requiring nuanced judgment remain subject to [community](tags/community.md) deliberation.
 
 ---
 
