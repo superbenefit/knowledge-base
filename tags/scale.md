@@ -22,7 +22,7 @@ In decentralized contexts, scale takes on particular importance as organizations
 
 ### Scale in the DAO Primitives Framework
 
-The [index](artifacts/dao-primitives-framework/index.md) identifies three fundamental scales at which groups operate, each with distinct coordination patterns and governance requirements:
+The [dao-primitives-concepts](artifacts/dao-primitives-framework/dao-primitives-concepts.md) identifies three fundamental scales at which groups operate, each with distinct coordination patterns and governance requirements:
 
 1. **Collaboration Scale**: Small teams of 3-8 people working closely together through high-bandwidth, synchronous interaction. At this scale, coordination happens primarily through direct relationships, shared context, and continuous communication. As the framework explains, these intimate groups enable "ongoing conversation, presence, trust and commitment" that create the foundation for effective collaboration without requiring formal governance structures.
     
@@ -54,4 +54,4 @@ The article argues that DAOs, when properly designed, can uniquely combine both 
 
 - Scale and the levers that provide DAOs their power: Explores fundamental scaling dynamics in organizational systems
 - Building DAOs as scalable networks: Proposes multi-scale governance approaches for decentralized organizations
-- [index](artifacts/dao-primitives-framework/index.md): Provides detailed analysis of different group scales and their characteristics
+- [dao-primitives-concepts](artifacts/dao-primitives-framework/dao-primitives-concepts.md): Provides detailed analysis of different group scales and their characteristics

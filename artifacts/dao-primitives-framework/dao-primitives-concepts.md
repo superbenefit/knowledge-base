@@ -2,7 +2,7 @@
 title: DAO Primitives Framework
 description: A comprehensive framework for designing decentralized organizations as networks of small autonomous teams
 publish: true
-type: release
+type: guide
 tags:
   - cell
   - dao

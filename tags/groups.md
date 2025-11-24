@@ -22,7 +22,7 @@ In decentralized systems, groups function as both autonomous units and interconn
 
 ### Groups at Different Scales
 
-The [index](artifacts/dao-primitives-framework/index.md) identifies three fundamental scales at which groups operate within decentralized networks, each with distinct coordination mechanisms and dynamics:
+The [dao-primitives-concepts](artifacts/dao-primitives-framework/dao-primitives-concepts.md) identifies three fundamental scales at which groups operate within decentralized networks, each with distinct coordination mechanisms and dynamics:
 
 1. **Collaboration Scale**: Small teams of 3-8 people engaging in high-bandwidth, synchronous interaction to accomplish specific tasks. These intimate groups enable deep trust, rapid iteration, and contextual learning.
     

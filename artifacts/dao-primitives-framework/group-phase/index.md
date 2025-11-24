@@ -12,7 +12,7 @@ type: index, tag
 
 Groups evolve through distinct phases, each demanding unique tools and approaches. Understanding these phases is crucial for effective group function and coordination. Clearly defining a group's phase allows for the design of an appropriate set of tools and constraints for the group, affording it both internal coherence and coherence in the network within which it exists.
 
-**5 Group Phases:** The [DAO Primitives Framework](artifacts/dao-primitives-framework/index.md) identifies five phases of group development. Understanding these phases is a key component of designing decentralized structures that leverage a network of autonomous teams. This group phase framework can enable the creation of a governance design that can balance autonomy and structure throughout a group's lifecycle.
+**5 Group Phases:** The [DAO Primitives Framework](artifacts/dao-primitives-framework/dao-primitives-concepts.md) identifies five phases of group development. Understanding these phases is a key component of designing decentralized structures that leverage a network of autonomous teams. This group phase framework can enable the creation of a governance design that can balance autonomy and structure throughout a group's lifecycle.
 
 For example, an emerging idea being explored by a small team may require nothing more than basic communication channels for discussion and ideation. In contrast, a team allocated significant resources to perform core functions within a DAO will need robust organizational structures to safely and transparently fulfill its responsibilities.
 

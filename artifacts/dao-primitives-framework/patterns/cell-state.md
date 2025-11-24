@@ -29,13 +29,13 @@ _A pattern for creating and managing group state for purpose aligned networks of
 
 ## Problem / Solution Context
 
-This pattern is designed to be used in the creation of [cells](artifacts/dao-primitives-framework/group-primitives/cells.md) as [collaboration](artifacts/dao-primitives-framework/group-scale/collaboration-scale.md) scale teams as described in the [DAO Primitives Framework](artifacts/dao-primitives-framework/index.md)
+This pattern is designed to be used in the creation of [cells](artifacts/dao-primitives-framework/group-primitives/cells.md) as [collaboration](artifacts/dao-primitives-framework/group-scale/collaboration-scale.md) scale teams as described in the [DAO Primitives Framework](artifacts/dao-primitives-framework/dao-primitives-concepts.md)
 
 Capturing and maintaining a cell's state is fundamental to enabling both autonomous operation and effective network coordination within DAOs. A clear and consistent cell state document serves as a living state that enables the cell to maintain coherence while evolving and provides transparency for network-level coordination. Without documented state, Cells risk falling into internal dysfunction and lack of effectiveness. They also fail to fully leverage the value of coordination and efficient resource and information flows across the network.
 
 **The need for a consistent state template**
 
-Unless a team is highly skilled in organizational design, implementing the cell state primitive to create a useful group-state will be difficult and time consuming. On top of this, if teams are required to develop their own cell state document without additional supporting structure, there is a risk that there will not be enough consistency between the ways different teams document their state. This can prevent many of the interoperability benefits that the [DAO Primitives Framework](artifacts/dao-primitives-framework/index.md) promises from being realized.
+Unless a team is highly skilled in organizational design, implementing the cell state primitive to create a useful group-state will be difficult and time consuming. On top of this, if teams are required to develop their own cell state document without additional supporting structure, there is a risk that there will not be enough consistency between the ways different teams document their state. This can prevent many of the interoperability benefits that the [DAO Primitives Framework](artifacts/dao-primitives-framework/dao-primitives-concepts.md) promises from being realized.
 
 To prevent this from happening we have developed this pattern as a template for teams to develop a simple and consistent cell state document to capture their group-state.
 
