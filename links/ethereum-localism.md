@@ -38,28 +38,28 @@ tags:
   - biofi
 ---
 
-*Ethereum Localism* represents a framework for using blockchain technology to enable both local autonomy and global coordination. The concept explores how Ethereum and Web3 tools can help communities develop resilient local systems while maintaining beneficial connections to global networks and resources.
+*Ethereum Localism* represents a framework for using blockchain technology to enable both local autonomy and global [coordination](tags/coordination.md). The concept explores how Ethereum and Web3 tools can help [community](tags/community.md) develop resilient local systems while maintaining beneficial connections to global [networks](tags/networks.md) and resources.
 
 ### Key Highlights
 
 - **Cosmo-Local Approach**: Combining resilient local production with globally shared knowledge commons and protocols for cooperation
 - **Bioregional Organization**: Structuring human activity around ecological rather than political boundaries
-- **Open Protocols**: Using transparent, replicable systems for knowledge sharing and coordination
-- **Community Finance**: Developing new economic models that serve local needs while connecting to global capital flows
-- **Democratic Infrastructure**: Creating tools for community self-governance and resource management
+- **Open Protocols**: Using transparent, replicable systems for knowledge sharing and [coordination](tags/coordination.md)
+- **[Community](tags/community.md) Finance**: Developing new economic models that serve local needs while connecting to global capital flows
+- **Democratic Infrastructure**: Creating tools for [community](tags/community.md) self-[governance](tags/governance.md) and resource management
 
 ### Practical Applications
 
 The collection features essays exploring how Ethereum and Web3 technologies can support:
 - Local economic resilience
-- Community-driven governance 
-- Resource sharing and coordination
+- [Community](tags/community.md)-driven [governance](tags/governance.md) 
+- Resource sharing and [coordination](tags/coordination.md)
 - Cultural preservation
 - Environmental regeneration
 
 ### Relevance to SuperBenefit
 
-This resource directly connects to SuperBenefit's focus on cosmolocalism and bioregional approaches, providing both conceptual frameworks and practical examples of how blockchain technology can enhance community autonomy while maintaining beneficial global connections. It offers valuable insights for projects integrating web3 tools with local community activism and regenerative systems.
+This resource directly connects to SuperBenefit's focus on cosmolocalism and bioregional approaches, providing both conceptual frameworks and practical examples of how blockchain technology can enhance [community](tags/community.md) autonomy while maintaining beneficial global connections. It offers valuable insights for projects integrating web3 tools with local [community](tags/community.md) activism and regenerative systems.
 
 ### Related Concepts
 
@@ -70,10 +70,3 @@ This resource directly connects to SuperBenefit's focus on cosmolocalism and bio
 
 ---
 
-## Related Concepts
-
-- [Coordination](tags/coordination.md) - Local and network-scale coordination
-- [DAOs](tags/daos.md) - Decentralized organizational forms
-- [Governance](tags/governance.md) - Community and network governance
-- [Knowledge Gardens](artifacts/patterns/knowledge-gardens.md) - Decentralized knowledge creation
-- [Primitives](tags/primitives.md) - Building blocks for local networks
