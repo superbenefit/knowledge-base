@@ -1,6 +1,6 @@
 ---
 title: Govbase - Online Governance Projects Database
-description: Metagov comprehensive database documenting online governance systems across platforms, communities, and protocols, providing searchable repository of coordination mechanisms for research and design inspiration.
+description: Metagov comprehensive database documenting online governance systems across platforms, communities, and protocols, providing searchable repository of [coordination](tags/coordination.md) mechanisms for research and design inspiration.
 publish: true
 type: database-resource
 source: https://govbase.metagov.org/
@@ -15,7 +15,7 @@ tags:
   - coordination-systems
 ---
 
-Govbase represents Metagov's systematic effort to document and analyze online governance systems across diverse platforms, protocols, and communities. The database catalogs governance mechanisms from DAOs to platform cooperatives to online communities, capturing information about decision-making processes, participation structures, proposal systems, and implementation patterns. Rather than theoretical speculation about governance possibilities, Govbase provides empirical foundation showing what coordination approaches actually exist, enabling researchers to study patterns across contexts and practitioners to learn from functioning systems. The searchable database makes governance knowledge accessible, supporting evidence-based design rather than reinventing coordination from first principles.
+Govbase represents Metagov's systematic effort to document and analyze online governance systems across diverse platforms, protocols, and communities. The database catalogs governance mechanisms from [DAOs](tags/daos.md) to platform cooperatives to online communities, capturing information about decision-making processes, participation structures, proposal systems, and implementation patterns. Rather than theoretical speculation about governance possibilities, Govbase provides empirical foundation showing what coordination approaches actually exist, enabling researchers to study patterns across contexts and practitioners to learn from functioning systems. The searchable database makes governance knowledge accessible, supporting evidence-based design rather than reinventing coordination from first principles.
 
 ### Key Highlights
 
@@ -43,11 +43,11 @@ Govbase enables evidence-based governance design:
 
 - Educators can use Govbase as teaching resource, showing students real examples of diverse governance approaches rather than only discussing theory or well-known cases
 
-- Platform developers can reference the database when designing governance features, understanding what coordination mechanisms communities actually use rather than building based on assumptions about what platforms should provide
+- Platform developers can reference the database when designing governance features, understanding what [coordination](tags/coordination.md) mechanisms communities actually use rather than building based on assumptions about what platforms should provide
 
 ### Connection With SuperBenefit
 
-- Govbase's systematic documentation of governance systems across contexts provides empirical foundation for SuperBenefit's pattern-based approach, showing that learning from functioning coordination mechanisms across domains offers richer design space than only studying blockchain-specific DAOs—validating the conviction that successful patterns emerge from studying diverse implementations rather than treating crypto governance as entirely novel.
+- Govbase's systematic documentation of governance systems across contexts provides empirical foundation for SuperBenefit's pattern-based approach, showing that learning from functioning coordination mechanisms across domains offers richer design space than only studying blockchain-specific [DAOs](tags/daos.md)—validating the conviction that successful patterns emerge from studying diverse implementations rather than treating crypto governance as entirely novel.
 
 - Metagov's commitment to making governance knowledge openly accessible resonates with SuperBenefit's emphasis on commons and shared infrastructure, demonstrating that coordination patterns should be public resources enabling collective learning rather than proprietary knowledge controlled by consulting firms or extracted through paywalled research.
 
