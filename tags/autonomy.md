@@ -48,7 +48,7 @@ This connection is evident in patterns like Privacy-Preserving Crypto Payments, 
 - [Consent](tags/consent.md): Autonomous decision-making often relies on consent-based processes, where actions proceed unless there are substantive objections
 - [Decisions](tags/decisions.md): The capacity to make independent decisions is central to meaningful autonomy
 - [Permissions](tags/permissions.md): Systems for managing access and authority create the boundaries within which autonomy operates
-- [Cell](artifacts/dao-primitives-framework/patterns/cell.md): Autonomous teams operating within a purpose-aligned network
+- [Cell](artifacts/primitives-framework/patterns/cell.md): Autonomous teams operating within a purpose-aligned network
 - Sovereignty: A related concept emphasizing self-governance and authority over defined domains
 
 ## References and Resources

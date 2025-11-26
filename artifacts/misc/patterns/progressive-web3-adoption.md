@@ -317,7 +317,7 @@ CFC demonstrates network-level progressive adoption:
 
 ### Related Patterns
 - [Fiscal Bridge Pattern](artifacts/misc/patterns/fiscal-bridge-pattern.md) - Complementary pattern for managing financial flows
-- [Community Governance Pattern](artifacts/dao-primitives-framework/patterns/community-governance.md) - Next-stage pattern for distributed decision-making
+- [Community Governance Pattern](artifacts/primitives-framework/patterns/community-governance.md) - Next-stage pattern for distributed decision-making
 
 ### Assessment Tools
 - Progressive Adoption Readiness Checklist

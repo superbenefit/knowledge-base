@@ -12,7 +12,7 @@ type: note
 
 This template is designed to serve as a framework for a group/team/cell to develop, capture and maintain it's group state. 
 
-For instruction on how to use this template please refer to the [cell-state](artifacts/dao-primitives-framework/patterns/cell-state.md) pattern, implementation section. 
+For instruction on how to use this template please refer to the [cell-state](artifacts/primitives-framework/patterns/cell-state.md) pattern, implementation section. 
 %% Introduce your note here. %%
 
 ---

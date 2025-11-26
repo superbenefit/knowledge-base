@@ -25,10 +25,10 @@ kanban-plugin: board
 ## In-Progress
 
 - [ ] Create Cell (working group) Pattern ^9tyowr
-	- [cell](artifacts/dao-primitives-framework/patterns/cell.md)
+	- [cell](artifacts/primitives-framework/patterns/cell.md)
 - [ ] Create Circle Primitive circle
 - [ ] Create Decider Primitive 
-	- [decider-protocol](artifacts/dao-primitives-framework/patterns/decider-protocol.md)
+	- [decider-protocol](artifacts/primitives-framework/patterns/decider-protocol.md)
 - [ ] Create Nucleus Primitive
 	- [nucleus](notes/dao-primitives/implementation/patterns/collaboration-scale-patterns/nucleus.md)
 - [ ] Create Group State Pattern

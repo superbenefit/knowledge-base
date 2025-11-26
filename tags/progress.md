@@ -28,7 +28,7 @@ In agile methodologies and responsive systems, progress is tracked through more 
 
 ### Progress in DAO Primitives Framework
 
-In the [DAO Primitives Framework](tags/primitives.md), "Progress" is one of three core dimensions of [Group State](artifacts/dao-primitives-framework/patterns/group-state.md) (alongside [Purpose](tags/purpose.md) and [Practice](tags/practices.md)). It represents the tools and practices by which a team achieves and demonstrates its activities and outcomes, serving both internal and external coordination needs.
+In the [DAO Primitives Framework](tags/primitives.md), "Progress" is one of three core dimensions of [Group State](artifacts/primitives-framework/patterns/group-state.md) (alongside [Purpose](tags/purpose.md) and [Practice](tags/practices.md)). It represents the tools and practices by which a team achieves and demonstrates its activities and outcomes, serving both internal and external coordination needs.
 
 As a component of Group State, Progress includes:
 
@@ -37,6 +37,6 @@ As a component of Group State, Progress includes:
 - **Milestone Tracking**: Documentation of achievements against defined goals
 - **Metrics and Reporting**: Quantitative and qualitative measures of effectiveness and impact
 
-Progress documentation in this framework serves a dual purpose: it provides internal structure for team coordination while creating transparency for external entities that need to understand and trust the team's activities. This external transparency is crucial for enabling effective coordination between autonomous [Cells](artifacts/dao-primitives-framework/patterns/cell.md) within a larger [DAO](tags/daos.md) network.
+Progress documentation in this framework serves a dual purpose: it provides internal structure for team coordination while creating transparency for external entities that need to understand and trust the team's activities. This external transparency is crucial for enabling effective coordination between autonomous [Cells](artifacts/primitives-framework/patterns/cell.md) within a larger [DAO](tags/daos.md) network.
 
 By maintaining accessible and current progress information, teams can demonstrate accountability, build trust, and enable efficient resource allocation across a decentralized ecosystem.

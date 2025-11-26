@@ -104,7 +104,7 @@ For detailed guidance on implementing poetic harvesting in your organization or 
 - AIFS Poetic Harvests Collection
 
 **Related Patterns:**
-- [Community Governance](artifacts/dao-primitives-framework/patterns/community-governance.md) - Democratic decision-making that benefits from cultural documentation  
+- [Community Governance](artifacts/primitives-framework/patterns/community-governance.md) - Democratic decision-making that benefits from cultural documentation  
 - [Knowledge Gardens](artifacts/misc/patterns/knowledge-gardens.md) - Living knowledge systems that integrate creative capture
 
 **Cultural Context:**
