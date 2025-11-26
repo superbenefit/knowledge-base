@@ -1,11 +1,12 @@
 ---
-title: DAOs (Primitive)
+title: DAOs (organizational pattern)
 description: Decentralized Autonomous Organizations as networks of small autonomous teams
 author:
   - yeoro.eth
 tags:
-  - primitives
+  - patterns
   - daos
+  - organizational-patterns
 publish: true
 type: pattern
 ---
@@ -15,7 +16,9 @@ See [DAO](tags/daos.md)
 
 ## Definition
 
-DAOs within the DAO Primitives Framework are defined as **purpose-aligned [networks](tags/networks.md) of small autonomous teams** that coordinate through transparent [agreements](tags/agreements.md), rather than hierarchical management structures. They represent the highest-scale organizational [primitive](tags/primitives.md) that encompasses and coordinates other primitives (Cells, Roles, Tasks) to create coherent collective action. They can also coordinate at network scale with other DAOs, organizations, and stakeholders.
+DAOs within the Primitives Framework are defined as **purpose-aligned [networks](tags/networks.md) of small autonomous teams** that coordinate through transparent [agreements](tags/agreements.md), rather than hierarchical management structures. They represent the highest-scale organizational pattern that encompasses and coordinates other patterns (Cells, Roles, Tasks) to create coherent collective action. They can also coordinate at network scale with other DAOs, organizations, and stakeholders.
+
+> **Pattern vs Primitive**: DAOs are an organizational pattern - a network structure for coordinating autonomous teams. Technical primitives (governance protocols, treasury systems, token contracts) are used to implement DAO operations.
 
 ## Core Characteristics
 
@@ -29,13 +32,32 @@ DAOs within the DAO Primitives Framework are defined as **purpose-aligned [netwo
 
 ## DAO State
 
-DAOs create coherence and make successful [coordination](tags/coordination.md) possible through maintaining a comprehensive DAO-state.
+DAOs document their state using the **[Purpose/Practice/Progress framework](group-state.md)**: Purpose (foundational why and goals), Practice (governance and coordination protocols), Progress (network activities and achievements). This comprehensive state documentation creates coherence and enables successful coordination across the network.
 
-**[Purpose](tags/purpose.md)**: DAOs document their foundational "why" and high-level goals - this shared vision creates network coherence and guides [decision-making](tags/decisions.md) throughout the DAO at different scales. Purpose [agreements](tags/agreements.md) establish the boundaries within which teams can operate independently while maintaining alignment with collective aims.
+See [Group State Pattern](group-state.md) for detailed guidance.
 
-**[Practice](tags/practices.md)**: DAOs establish transparent [governance](tags/governance.md) and coordination protocols - how [decisions](tags/decisions.md) are made, how [resources](tags/resources.md) are allocated, how conflicts are resolved, and how new teams and the larger operational structure of the DAO are formed. These [agreements](tags/agreements.md) are where innovative new governance and operational designs become reality.
+## When to Use DAOs
 
-**[Progress](tags/progress.md)**: DAOs maintain visible documentation of network activities, [resource](tags/resources.md) flows, team formation, and collective achievements. This [transparency](tags/transparency.md) enables members of the network to understand, trust, as well as participate in DAO [governance](tags/governance.md).
+**Use DAOs when:**
+- Coordinating multiple autonomous teams toward shared purpose
+- Need transparent governance across diverse stakeholders
+- Work spans multiple scales (collaboration → coordination → constituency)
+- Want to enable permissionless innovation within boundaries
+- Require trust-minimized coordination infrastructure
+
+**Don't use DAOs when:**
+- A single team can accomplish the purpose (use a [Cell](cells.md) instead)
+- Central coordination is more efficient and stakeholders accept it
+- Complexity and coordination overhead exceed benefits
+- Stakeholders lack capacity for participatory governance
+- Purpose and boundaries are too vague to guide autonomous teams
+
+**Common Anti-Patterns:**
+- **DAO for everything**: Using DAO structure when simpler patterns would work
+- **Premature DAOification**: Creating DAO before clarity on purpose and community
+- **Governance theater**: Complex governance without actual decision-making needs
+- **Undefined purpose**: DAOs without clear purpose lose coherence quickly
+- **Coordination gaps**: Cells operating without effective DAO-level coordination
 
 ## Phase & Scale Considerations
 
