@@ -1,22 +1,22 @@
 ---
-title: Tasks (Primitive)
+title: Tasks (organizational pattern)
 description: Specific, coordinated actions or duties assigned to roles or agents within decentralized systems
 author:
   - yeoro.eth
 tags:
-  - primitives
+  - patterns
   - tasks
+  - organizational-patterns
 publish: true
-type: note
+type: pattern
 ---
-
----
-
 
 
 ## Definition
 
-Tasks within the DAO Primitives Framework function as **agreement primitives** that establish formalized commitments about specific [actions](tags/actions.md), deliverables, and coordinated activities that need to be accomplished within [DAO networks](artifacts/primitives-framework/patterns/daos.md). As defined in [our lexicon](tags/tasks.md), Tasks are "specific, coordinated actions or duties assigned to [roles](tags/roles.md) or [agents](tags/agents.md) within decentralized systems" - serving as the operational [agreements](tags/agreements.md) that define **what** specific work needs to be accomplished, while [Roles](artifacts/primitives-framework/patterns/roles.md) define **who** has the [responsibility](tags/responsibilities.md) and [authority](tags/authorities.md) to coordinate that work.
+Tasks within the Primitives Framework function as **agreement patterns** that establish formalized commitments about specific [actions](tags/actions.md), deliverables, and coordinated activities that need to be accomplished within [DAO networks](artifacts/primitives-framework/patterns/daos.md). As defined in [our lexicon](tags/tasks.md), Tasks are "specific, coordinated actions or duties assigned to [roles](tags/roles.md) or [agents](tags/agents.md) within decentralized systems" - serving as the operational [agreements](tags/agreements.md) that define **what** specific work needs to be accomplished, while [Roles](artifacts/primitives-framework/patterns/roles.md) define **who** has the [responsibility](tags/responsibilities.md) and [authority](tags/authorities.md) to coordinate that work.
+
+> **Pattern vs Primitive**: Tasks are an organizational pattern - a structure for coordinating specific work. Technical primitives (project management tools, workflow systems, smart contract bounties) are used to implement Task tracking and execution.
 
 ---
 

@@ -1,19 +1,22 @@
 ---
-title: Roles (Primitive)
+title: Roles (organizational pattern)
 description: Sets of responsibilities, permissions, and accountabilities that enable coordination and specialization
 author:
   - yeoro.eth
 tags:
-  - primitives
+  - patterns
   - roles
+  - organizational-patterns
 publish: true
-type: note
+type: pattern
 ---
 
 
 ## Definition
 
-Roles within the DAO Primitives Framework function as **agreement primitives** that establish formalized commitments about [responsibilities](tags/responsibilities.md), [permissions](tags/permissions.md), and [authorities](tags/authorities.md) between [agents](tags/agents.md) and [entities](artifacts/primitives-framework/patterns/cells.md) in the network. As defined in [our lexicon](tags/roles.md), Roles are "defined sets of responsibilities, permissions, and accountabilities that enable coordination and specialization within decentralized systems" - serving as the relationship infrastructure that connects autonomous actors across [DAO networks](artifacts/primitives-framework/patterns/daos.md).
+Roles within the Primitives Framework function as **agreement patterns** that establish formalized commitments about [responsibilities](tags/responsibilities.md), [permissions](tags/permissions.md), and [authorities](tags/authorities.md) between [agents](tags/agents.md) and [entities](artifacts/primitives-framework/patterns/cells.md) in the network. As defined in [our lexicon](tags/roles.md), Roles are "defined sets of responsibilities, permissions, and accountabilities that enable coordination and specialization within decentralized systems" - serving as the relationship infrastructure that connects autonomous actors across [DAO networks](artifacts/primitives-framework/patterns/daos.md).
+
+> **Pattern vs Primitive**: Roles are an organizational pattern - a proven structure for defining responsibilities. Technical primitives (access control systems, permission management tools) are used to implement Role operations.
 
 ---
 
