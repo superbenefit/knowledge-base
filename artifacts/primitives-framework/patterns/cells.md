@@ -1,12 +1,13 @@
 ---
-title: Cells (primitive)
+title: Cells (organizational pattern)
 description: Small autonomous teams that form the basic organizational units in DAO networks
 author:
   - yeoro.eth
 tags:
-  - primitives
+  - patterns
   - cells
-publish: false
+  - organizational-patterns
+publish: true
 type: pattern
 ---
 
@@ -14,6 +15,8 @@ type: pattern
 ## Definition
 
 Cells are **small autonomous teams** of 10 or fewer people (typically 3-8 people) that function as the basic organizational units within DAO networks. They operate through high-bandwidth, synchronous interaction while maintaining "networked autonomy" - making independent decisions about how to achieve their purpose while coordinating with other Cells and the broader network through transparent state documentation.
+
+> **Pattern vs Primitive**: Cells are an organizational pattern - a proven structure for coordinating small teams. When implementing a Cell, you'll use technical primitives (tools like chat platforms, project management systems, governance protocols) to support the Cell's operations.
 
 ---
 
@@ -29,21 +32,34 @@ Cells are **small autonomous teams** of 10 or fewer people (typically 3-8 people
 
 **Flexible Operation**: Cells have a high degree of flexibility in how they can operate. At creation, the Cell can define its governance structure and agreements with other entities in the network to form whatever structure its creators want.
 
+## When to Use Cells
+
+**Use Cells when:**
+- Work requires ongoing coordination among 3-10 people
+- Team needs autonomy in HOW but alignment on WHAT
+- Activities are complex enough to need a dedicated team
+- High-bandwidth, synchronous communication is beneficial
+- Work spans weeks to months (or longer) rather than days
+
+**Don't use Cells when:**
+- Work is a straightforward task taking less than a week (use [Tasks](tasks.md) instead)
+- Only 1-2 people are needed (use [Roles](roles.md) instead)
+- Team would need more than 10 people (consider splitting into multiple Cells)
+- Coordination overhead exceeds value created
+- Work is purely individual contribution without coordination needs
+
+**Common Anti-Patterns:**
+- **Cells for everything**: Creating Cells for every small task adds unnecessary overhead
+- **Oversized Cells**: Cells with >10 people lose the high-bandwidth coordination benefits
+- **Undersized Cells**: 1-2 person "Cells" should typically be Roles instead
+- **Zombie Cells**: Keeping Cells active when their purpose is complete
+- **Unclear purpose**: Cells without clear, documented purpose struggle to maintain coherence
+
 ## Cell State
 
-**[Cell State](artifacts/primitives-framework/patterns/group-state.md)** serves as the foundational documentation pattern that enables Cells to function effectively both internally and within broader [DAO networks](artifacts/primitives-framework/patterns/daos.md). Each Cell maintains a [Cell State](artifacts/primitives-framework/patterns/group-state.md) document that "holds the key information that the Cell needs to run itself while also providing what others in the [DAO](artifacts/primitives-framework/patterns/daos.md) need to be able to understand and judge what the Cell does and how it does it."
+Cells document their state using the **[Purpose/Practice/Progress framework](group-state.md)**: Purpose (why the Cell exists and what it aims to achieve), Practice (how decisions are made and work is coordinated), Progress (what's been accomplished and current status). This transparent documentation enables both internal coherence and external coordination across the network.
 
-By maintaining transparent, accessible [Cell State](artifacts/primitives-framework/patterns/group-state.md) documentation, Cells enable both internal coherence and external [coordination](tags/coordination.md) across the network.
-
-[Cell State](artifacts/primitives-framework/patterns/group-state.md) consists of three core components:
-
-**[Purpose](tags/purpose.md)**: Documents the Cell's goals, intentions, plans, and relationships to and [agreements](tags/agreements.md) with the [DAO](artifacts/primitives-framework/patterns/daos.md) and other entities. This provides internal clarity for the Cell's direction while creating external [transparency](tags/transparency.md) that enables other entities to understand why the Cell exists.
-
-**[Practice](tags/practices.md)**: Establishes the Cell's core team makeup, team [roles](artifacts/primitives-framework/patterns/roles.md), [governance](tags/governance.md) practices, and policies. This includes both internal coordination mechanisms (decision-making, resource management, conflict resolution) and external coordination protocols (interfaces with other Cells, contributors, and the broader network).
-
-**[Progress](tags/progress.md)**: Maintains documentation of project management systems, outputs, and execution toward goals. This serves both internal accountability (helping the Cell assess performance and adapt strategies) and external [transparency](tags/transparency.md) (enabling others to understand activities, judge effectiveness, and identify support opportunities).
-
-Together, these three dimensions create a comprehensive view of the Cell that enables "dynamic, autonomous units" to operate effectively while maintaining the network coordination necessary for collective success.
+See [Group State Pattern](group-state.md) for detailed guidance on state documentation.
 
 ## Phase & Scale Considerations
 
