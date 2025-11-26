@@ -1,6 +1,6 @@
 ---
-title: DAO Primitives Group Facilitation Guide
-description: A guide for facilitators to navigate the DAO Primitives Framework and work with groups to define purpose, design and implement governance and operational structures
+title: Primitives Framework Group Facilitation Guide
+description: A guide for facilitators to navigate the Primitives Framework and work with groups to define purpose, design and implement governance and operational structures
 type: guide
 author:
   - yeoro.eth
@@ -15,16 +15,18 @@ publish: true
 
 ## Purpose of this Guide
 
-This guide helps facilitators navigate and use the DAO Primitives Framework to support a group to develop a decentralized [governance](tags/governance.md) and operational structure. It follows steps to assess group context, design appropriate governance and operational structures, and then implement and operationalize these systems. It serves as a roadmap to navigate through the existing DAO Primitives framework resources, showing facilitators how to sequence and apply the tools developed here.
+This guide helps facilitators navigate and use the Primitives Framework to support a group to develop a decentralized [governance](tags/governance.md) and operational structure. It follows steps to assess group context, design appropriate governance and operational structures, and then implement and operationalize these systems. It serves as a roadmap to navigate through the existing framework resources, showing facilitators how to sequence and apply the tools developed here.
+
+> **Quick Navigation**: **First time facilitating?** Start with Discovery (Section II) · **Have discovery report already?** Jump to Design (Section III) · **Design approved, need to implement?** Implementation (Section IV)
 
 ---
 
-## I. Introduction: Facilitating Using the DAO Primitives
+## I. Introduction: Facilitating Using the Primitives Framework
 
-This guide draws from the DAO Primitives Framework and utilizes many of the documents and tools in the framework. It works through 3 basic steps in the facilitation flow: Discover, Design & Implement:
+This guide draws from the Primitives Framework and utilizes many of the documents and tools in the framework. It works through 3 basic steps in the facilitation flow: Discover, Design & Implement:
 
 1. **Discover** - Learn about the group and understand the starting context - produce a discovery report/proposal
-2. **Design** - [Governance](tags/governance.md) and operational structure using organizational [primitives](tags/primitives.md) and patterns - produce a governance design/proposal
+2. **Design** - [Governance](tags/governance.md) and operational structure using organizational patterns and tools - produce a governance design/proposal
 3. **Implement** - The design using the structured processes from implementation guides
 
 This process will vary in its depth and rigor based on the scale and phase of the group that is being facilitated.
@@ -184,24 +186,26 @@ Review the [dao-primitives framework](artifacts/primitives-framework/primitives-
 
 #### 2. Entities and Agreements
 
-The DAO Primitives Framework provides four basic organizational [primitives](tags/primitives.md) that offer a flexible system for [governance](tags/governance.md) design. These building blocks are designed so governance and operational patterns can be applied to them to compose bespoke yet coherent governance structures that deliver the governance qualities a group desires.
+The Primitives Framework provides four basic organizational patterns that offer a flexible system for [governance](tags/governance.md) design. These building blocks are designed so governance and operational patterns can be applied to them to compose bespoke yet coherent governance structures that deliver the governance qualities a group desires.
 
-##### Core Primitives
+##### Core Organizational Patterns
 
-Using the [index](artifacts/primitives-framework/org-elements/index.md) as building blocks:
+Using organizational patterns as building blocks:
 
 - **[DAOs](artifacts/primitives-framework/patterns/daos.md)**: Entity structure for purpose-aligned [networks](tags/networks.md)
-- **Cells**: Entity structure for small autonomous teams
-- **[Roles](artifacts/primitives-framework/patterns/roles.md)**: Agreement primitive for ongoing [responsibilities](tags/responsibilities.md) and permissions
-- **[Tasks](artifacts/primitives-framework/patterns/tasks.md)**: Agreement primitive for specific work deliverables
+- **[Cells](artifacts/primitives-framework/patterns/cells.md)**: Entity structure for small autonomous teams
+- **[Roles](artifacts/primitives-framework/patterns/roles.md)**: Agreement pattern for ongoing [responsibilities](tags/responsibilities.md) and permissions
+- **[Tasks](artifacts/primitives-framework/patterns/tasks.md)**: Agreement pattern for specific work deliverables
 
-The design process involves determining which combination of these [primitives](tags/primitives.md) will best serve the group's requirements, then identifying specific patterns for how to compose them into functional structures. Examples of using these primitives to compose governance and operational models can be found in [index](notes/dao-primitives/implementation/case-studies/index.md), including case studies like [artifacts/primitives-framework/rpp-governance-case-study](artifacts/primitives-framework/rpp-governance-case-study.md).
+> **Note**: These are organizational patterns (structural building blocks), distinct from technical primitives (implementation tools like smart contracts, tokens, governance protocols) that you'll select during implementation.
+
+The design process involves determining which combination of these patterns will best serve the group's requirements, then identifying specific approaches for how to compose them into functional structures. Examples of using these patterns to compose governance and operational models can be found in [index](notes/dao-primitives/implementation/case-studies/index.md), including case studies like [artifacts/primitives-framework/rpp-governance-case-study](artifacts/primitives-framework/rpp-governance-case-study.md).
 
 #### 3. Pattern Selection
 
-Based on the chosen [governance](tags/governance.md) approach, the design team builds out a complete governance and operational model by selecting patterns and [primitives](tags/primitives.md) best suited to delivering the desired functionality. This selection process requires balancing multiple considerations: the group's current capacity, their growth projections, the complexity they can manage, and the specific [coordination](tags/coordination.md) challenges they face.
+Based on the chosen [governance](tags/governance.md) approach, the design team builds out a complete governance and operational model by selecting patterns best suited to delivering the desired functionality. This selection process requires balancing multiple considerations: the group's current capacity, their growth projections, the complexity they can manage, and the specific [coordination](tags/coordination.md) challenges they face.
 
-Governance and operational patterns can be found in [index](notes/dao-primitives/implementation/patterns/index.md). Facilitators should help the group select patterns that work effectively in conjunction with the chosen primitives (DAOs, Cells, Roles & Tasks) to create a governance and operational system that functions as intended rather than creating elegant structures that fail in practice.
+Governance and operational patterns can be found in [index](notes/dao-primitives/implementation/patterns/index.md). Facilitators should help the group select patterns that work effectively in conjunction with the chosen organizational building blocks (DAOs, Cells, Roles & Tasks) to create a governance and operational system that functions as intended rather than creating elegant structures that fail in practice.
 
 #### 4. Feedback and Approval
 
