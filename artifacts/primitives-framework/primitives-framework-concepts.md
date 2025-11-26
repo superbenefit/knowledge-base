@@ -1,5 +1,5 @@
 ---
-title: DAO Primitives Framework
+title: Primitives Framework
 description: A comprehensive framework for designing decentralized organizations as networks of small autonomous teams
 publish: true
 type: guide
@@ -12,7 +12,7 @@ tags:
   - group-state
 ---
 
-The DAO Primitives Framework provides a systematic approach to designing and implementing decentralized organizations as purpose-aligned networks. Building on the overview provided in the [DAO Primitives Project](notes/dao-primitives/index.md), this framework offers a deeper exploration of the key concepts, dimensions, and components that enable effective decentralized coordination.
+The Primitives Framework provides a systematic approach to designing and implementing decentralized organizations as purpose-aligned networks. Building on the overview provided in the [DAO Primitives Project](notes/dao-primitives/index.md), this framework offers a deeper exploration of the key concepts, dimensions, and components that enable effective decentralized coordination.
 
 
 The DAO Primitives Project provides a framework, conceptual tools, and practical patterns for building **[purpose](tags/purpose.md)-aligned networks of small autonomous [teams](tags/teams.md)** that can scale effectively while maintaining coordination, adaptability, and emergent collective intelligence.
@@ -25,21 +25,23 @@ Traditional corporations, governments, and NGOs, designed for stability in predi
 
 We developed the DAO Primitives project around **[purpose](tags/purpose.md)-aligned networks of small autonomous [teams](tags/teams.md)** as a conceptual starting point for designing decentralized organizations. The DAO primitives allow communities of all kinds to build their own purpose aligned networks that can act in deliberate coherent ways to create better futures for everyone who participates in them.
 
-## What Are DAO Primitives?
+## Understanding the Framework
 
-The DAO [Primitives](tags/primitives.md) are a handful of building blocks for designing [decentralized organizations](tags/decentralization.md). They're un-opinionated components that can be combined and configured to create governance and operational systems tailored to specific contexts and needs.
+The Primitives Framework helps organizations design coordination systems by providing **organizational patterns** (structural building blocks like DAOs, Cells, Roles, Tasks) and **dimensional lenses** (assessment tools for Phase, Scale, and State). These are un-opinionated components that can be combined and configured to create governance and operational systems tailored to specific contexts and needs.
 
-Unlike prescriptive frameworks that dictate how organizations should be structured, the primitives offer maximum flexibility while maintaining coherence and interoperability. They enable experimentation with novel forms of [coordination](tags/coordination.md) that can potentially outperform traditional organizational models.
+Unlike prescriptive frameworks that dictate how organizations should be structured, this approach offers maximum flexibility while maintaining coherence and interoperability. It enables experimentation with novel forms of [coordination](tags/coordination.md) that can potentially outperform traditional organizational models.
 
-The primitives approach addresses a crucial challenge: **how can decentralized networks scale while balancing efficiency with innovation, autonomy with alignment, and flexibility with coherence?**
+> **Note on "Primitives"**: The framework uses "patterns" to describe organizational structures (DAOs, Cells, Roles, Tasks) and reserves "primitives" for technical implementation tools (smart contracts, tokens, governance protocols). The framework helps you understand your organizational structure before selecting technical primitives to implement it.
+
+The framework addresses a crucial challenge: **how can decentralized networks scale while balancing efficiency with innovation, autonomy with alignment, and flexibility with coherence?**
 
 
-## Framework
+## Framework Components
 
-At its core, the DAO Primitives Framework is built around two complementary elements:
+At its core, the Primitives Framework is built around two complementary elements:
 
 1. **Dimensional Lenses**: Three key perspectives - Group Phase, Group Scale, and Group State - that help assess and understand organizational contexts
-2. **Organizational Primitives**: Fundamental building blocks - DAOs, Cells, Roles, and Tasks - that can be combined to create tailored organizational systems
+2. **Organizational Patterns**: Fundamental building blocks - DAOs, Cells, Roles, and Tasks - that can be combined to create tailored organizational systems
 
 Together, these elements provide a flexible yet coherent approach to designing decentralized organizations that can harness collective intelligence while maintaining purpose alignment across diverse and distributed teams.
 
@@ -88,7 +90,7 @@ This state documentation serves as a "public interface" that enables both intern
 Learn more about [Group State](artifacts/primitives-framework/patterns/group-state.md)
 
 
-## Organizational Primitives
+## Organizational Patterns
 
 Building on these dimensional lenses, the framework identifies fundamental building blocks that can be combined to create organizational systems:
 
@@ -101,16 +103,16 @@ At the highest level, three foundational organizational primitives:
 - **Networks**: Clusters of entities animated by shared purpose and common agreements
 - **Agreements**: Commitments within and between entities that enable coordination
 
-### 2. Operational Primitives
+### 2. Organizational Building Blocks
 
-Although the above conceptual framework could be used to design a wide range of different governance and operational structures, the DAO Primitives framework leans heavily on the following 4 organizational structures:
+Although the above conceptual framework could be used to design a wide range of different governance and operational structures, the Primitives Framework leans heavily on the following 4 organizational patterns:
 
 1. **[DAOs](artifacts/primitives-framework/patterns/daos.md)**: Purpose-aligned networks of small autonomous teams
 2. **[Cells](artifacts/primitives-framework/patterns/cells.md)**: Teams of fewer than 10 people collaborating on specific ongoing activities
 3. **[Roles](artifacts/primitives-framework/patterns/roles.md)**: Sets of responsibilities, permissions, and accountabilities held by individuals or entities
 4. **[Tasks](artifacts/primitives-framework/patterns/tasks.md)**: Defined pieces of work with clear deliverables delivered by individuals or entities
 
-These primitives can be combined in various ways to create organizational systems tailored to specific contexts and needs. Their power lies in their flexibility and composability while maintaining coherent patterns that enable interoperability.
+These patterns can be combined in various ways to create organizational systems tailored to specific contexts and needs. Their power lies in their flexibility and composability while maintaining coherence that enables interoperability. When ready for implementation, these patterns are realized using technical primitives like smart contracts, governance protocols, and coordination tools.
 
 ## Group Facilitation
 
@@ -126,7 +128,7 @@ The facilitation process typically involves:
 
 ## Framework Applications
 
-The DAO Primitives Framework can be applied to diverse organizational contexts:
+The Primitives Framework can be applied to diverse organizational contexts:
 
 ### New Organization Design
 
@@ -155,40 +157,13 @@ For networks of organizations working together, the framework provides:
 
 ## Enabling Collective Intelligence
 
-A central goal of the framework is to enable emergent collective intelligence in decentralized networks. This is achieved through several key mechanisms:
+A central goal of the framework is to enable emergent collective intelligence in decentralized networks through three key mechanisms:
 
-### Permissionless Network Access
+**Permissionless Network Access**: As outlined in [Minimum Viable Permissionless-ness](artifacts/articles/network-evolution/Minimum Viable Permissionless-ness.md), the framework emphasizes essential freedoms - the freedom to work on something without permission, the ability to attract collaborators, and the right to propose to the broader network. These freedoms enable knowledge from individuals working "close to reality" to influence strategy and resource allocation through decentralized governance rather than centralized decision-making.
 
-As outlined in [Minimum Viable Permissionless-ness](artifacts/articles/network-evolution/Minimum Viable Permissionless-ness.md), the framework emphasizes three essential freedoms:
+**Transparent State Documentation**: Clear documentation of group state (Purpose, Practice, Progress) creates the transparency needed for decentralized coordination. By making purpose, practices, and progress visible, organizations enable self-organization around emerging opportunities, autonomous yet aligned decision-making, and effective collaboration across teams and entities.
 
-1. The freedom to work on something without requiring permission
-2. The ability to attract others to work on a project
-3. The right to put up proposals to the broader network
-
-These freedoms enable knowledge and insights from individuals working "close to reality" to influence strategy and resource allocation using decentralized governance mechanisms, rather than relying on centralized decision-making.
-
-### Transparent State Documentation
-
-Clear and accessible documentation of group state creates the transparency needed for decentralized coordination. By making purpose, practices, and progress visible, organizations enable:
-
-- Self-organization around emerging opportunities
-- Autonomous yet aligned decision-making
-- Effective collaboration across different teams and entities
-
-### Multi-scale Governance
-
-The framework's attention to different scales enables organizations to implement governance mechanisms appropriate to each context, combining:
-
-- High-context, relationship-based collaboration at small scales
-- Explicit agreements and role-based coordination at medium scales
-- Democratic, representative and delegated governance at larger scales
-- Inter-network partnerships and coordination
-
-This multi-scale approach allows organizations to achieve:
-
-- Both the efficiency benefits of structured coordination and the innovation benefits of autonomous experimentation
-- Capture resistance as there are fewer governance concentrations points in the system
-- Flexibility to respond to changing contexts
+**Multi-scale Governance**: The framework's attention to different scales enables organizations to implement appropriate governance mechanisms at each context - from high-context, relationship-based collaboration at small scales to explicit role-based coordination at medium scales to democratic, representative governance at larger scales. This multi-scale approach achieves both the efficiency benefits of structured coordination and the innovation benefits of autonomous experimentation, with capture resistance through fewer governance concentration points and flexibility to respond to changing contexts.
 
 ## Further Exploration
 
