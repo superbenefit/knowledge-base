@@ -1,64 +1,69 @@
-*This directory helps bridge theory and practice by showing how primitives and patterns apply in different organizational contexts.*
+*This directory helps bridge theory and practice by showing how organizational patterns and implementation tools apply in different organizational contexts.*
 
-# Framework Directory
+# Primitives Framework
 
-This directory houses the practical application of the DAO Primitives conceptual framework, guiding you through the phases and scales of organizational development while providing fundamental building blocks for designing decentralized organizations. The theoretical model is described in artifacts/guides/dao-primitives-framework/dao-primitives-framework.md.
+This directory houses the Primitives Framework - a systematic approach to designing decentralized organizations as purpose-aligned networks of small autonomous teams. The framework guides you through phases and scales of organizational development while providing fundamental building blocks for governance and operational design.
 
-## Understanding Organizational Context: Phase, Scale, State, and Primitives
+## Start Here
 
-This framework helps you understand and navigate the complexities of organizational development by focusing on four key aspects:
+**New to the framework?** Read [Framework Concepts](primitives-framework-concepts.md) to understand core ideas
+**Ready to design?** See [Group Facilitation Guide](group-facilitation.md) for the Discovery → Design → Implementation process
+**Looking for patterns?** Browse the [Patterns Directory](patterns/) for organizational building blocks
 
-* **Phase:** The stage of development your group is currently in. This influences the tools, practices, and approaches that will be most effective. The phases are: Conversation, Formation, Organization, Coordination, and Completion. `group-phase/` contains detailed documentation for each phase.
+**Quick links:** [DAOs](patterns/daos.md) · [Cells](patterns/cells.md) · [Roles](patterns/roles.md) · [Tasks](patterns/tasks.md)
 
-* **Scale:** The size and complexity of your group. Different scales require different strategies and approaches. The scales are: Collaboration, Coordination, Constituency, and Network. `group-scale/` provides detailed analysis for each scale.
+## Understanding Organizational Context
 
-* **State:** The overall properties and characteristics of your organization at a given point in time. Understanding your organization's state is crucial for making informed decisions and planning for future growth. artifacts/guides/dao-primitives-framework/group-state.md provides a comprehensive overview of group states and transitions.
+The framework provides two complementary tools for organizational design:
 
-* **Primitives:** The fundamental building blocks used to create purpose-aligned networks of small autonomous teams. These primitives - DAOs, Cells, Roles, and Tasks - can be combined in various ways to create organizational systems tailored to specific contexts. `group-primitives/` contains detailed documentation for each primitive.
+### 1. Dimensional Lenses (Assessment Tools)
 
----
+How to understand where your organization is:
 
-## Using the Framework: A Practical Roadmap
+* **[Phase](group-phase/index.md):** The developmental stage your group is in - Conversation, Formation, Organization, Coordination, or Completion. Different phases need different tools and practices.
 
-This framework offers a practical roadmap for building and managing effective organizations. It guides you through:
+* **[Scale](group-scale/index.md):** The size and complexity of your group - Collaboration (<10), Coordination (10-150), Constituency (100s+), or Network (inter-organizational). Different scales require different coordination strategies.
 
-1. **Diagnosing Your Current State:** Identifying your group's current phase and scale.
-2. **Selecting Appropriate Building Blocks:** Choosing the primitives and patterns best suited to your context.
-3. **Planning for Growth:** Anticipating and planning for upcoming transitions.
-4. **Maintaining Coordination:** Ensuring effective coordination as your organization evolves.
+* **[State](patterns/group-state.md):** Documentation of Purpose, Practice, and Progress that enables transparent coordination. Understanding and documenting your organizational state is crucial for decentralized operations.
 
-### Example: Contextualizing Phase and Scale
+### 2. Organizational Patterns (Building Blocks)
 
-A group in the *Conversation Phase* at a *Collaboration Scale* will have vastly different needs and priorities than a group in the *Coordination Phase* at a *Network Scale*. This framework helps clarify these distinctions, guiding you towards the most effective strategies and organizational primitives.
+What to build with:
 
----
-
-## Framework Components
-
-### Core Dimensional Lenses
-
-* **artifacts/guides/dao-primitives-framework/group-phase/group-phase.md:** Understanding the five phases of group development - Conversation, Formation, Organization, Coordination, and Completion.
-
-* **artifacts/guides/dao-primitives-framework/group-scale/group-scale.md:** Understanding the four scales of organization - Collaboration, Coordination, Constituency, and Network.
-
-* **artifacts/guides/dao-primitives-framework/group-state.md:** Documentation of Purpose, Practice, and Progress that enables decentralized coordination.
-
-### Organizational Building Blocks
-
-* **artifacts/guides/dao-primitives-framework/group-primitives/group-primitives.md:** The four fundamental organizational structures - DAOs, Cells, Roles, and Tasks - that can be combined to create tailored governance and operational systems.
+* **[Organizational Patterns](patterns/):** The four fundamental structures - DAOs, Cells, Roles, and Tasks - that can be combined to create tailored governance and operational systems. These are organizational patterns (what you design), distinct from technical primitives (how you implement using smart contracts, tokens, governance protocols).
 
 ---
 
-## Getting Started with Implementation
+## Three-Phase Process
 
-* **artifacts/guides/dao-primitives-framework/group-facilitation.md:** A comprehensive guide for facilitators to navigate the framework and support groups in developing decentralized governance and operational structures through Discovery, Design, and Implementation phases.
+The framework guides you through Discovery → Design → Implementation:
 
-* **artifacts/guides/dao-primitives-framework/dao-primitives-framework.md:** Deep dive into the theoretical foundations and practical applications of the dimensional lenses and organizational primitives.
+1. **Discovery:** Assess your group's current phase, scale, and state. Understand stakeholder needs and organizational context.
+2. **Design:** Select appropriate organizational patterns (DAOs, Cells, Roles, Tasks) and governance approaches based on discovery insights.
+3. **Implementation:** Deploy technical infrastructure using governance protocols, smart contracts, and coordination tools.
+
+See the [Group Facilitation Guide](group-facilitation.md) for detailed guidance on this process.
 
 ---
 
-## Further Resources
+## Directory Structure
 
-* **Implementation Guides:** See `dao-primitives-implemention/` for detailed implementation processes.
-* **Pattern Library:** See `patterns/` for reusable solutions to common coordination challenges.
-* **Documentation Standards:** See `types/` for contribution guidelines.
+### Core Documentation
+
+* **[primitives-framework-concepts.md](primitives-framework-concepts.md)** - Conceptual foundations and framework overview
+* **[group-facilitation.md](group-facilitation.md)** - Complete facilitation guide for Discovery → Design → Implementation
+
+### Dimensional Lenses
+
+* **[group-phase/](group-phase/)** - Five phases: Conversation, Formation, Organization, Coordination, Completion
+* **[group-scale/](group-scale/)** - Four scales: Collaboration, Coordination, Constituency, Network
+
+### Organizational Patterns
+
+* **[patterns/](patterns/)** - DAOs, Cells, Roles, Tasks, plus coordination patterns like group-state, community-governance, operational-governance
+
+### Implementation Resources
+
+* **[dao-primitives-implementation/](dao-primitives-implementation/)** - Detailed implementation guides for different governance approaches
+* **[network-evolution/](network-evolution/)** - Articles on scaling and network dynamics
+* **[rpp-governance-case-study.md](rpp-governance-case-study.md)** - Real-world implementation example
