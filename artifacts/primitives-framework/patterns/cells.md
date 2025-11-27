@@ -9,8 +9,29 @@ tags:
   - organizational-patterns
 publish: true
 type: pattern
+functions:
+  - governance
+qualities:
+  - decentralization
+  - autonomy
+  - decision-making
+scale:
+  - collaboration
+  - coordination
+phase:
+  - organization
+  - coordination
 ---
 
+*A pattern for creating working groups that can reliably govern themselves and coordinate with other working groups and DAO-like structures.*
+
+## Problem / Solution Context
+
+DAOs and other decentralized forms of organizing enable more flexible, powerful and inclusive group coordination patterns by utilizing small autonomous teams in place of rigid top-down hierarchies. However without the rigid rulesets and chains of command typical in traditional organizations these small autonomous teams often fall victim to group dynamic dysfunctions that undermine the potential that decentralized organizing holds (see [The Tyranny of Structurelessness](https://en.wikipedia.org/wiki/The_Tyranny_of_Structurelessness))
+
+The Cell pattern provides teams with enough scaffolding to function as dynamic, autonomous units, avoiding bureaucratic overhead while protecting against group dysfunction. Additionally, Cells establish clear interfaces that enable trust-based coordination between groups and individuals across a broader DAO network. This balanced approach to structure helps realize the benefits of decentralized organization while mitigating common failure modes.
+
+---
 
 ## Definition
 
@@ -26,7 +47,7 @@ Cells are **small autonomous teams** of 10 or fewer people (typically 3-8 people
 
 **Balanced Structure**: The Cell pattern provides a "balanced approach to structure" that helps "realize the benefits of decentralized organization while mitigating common failure modes." Unlike rigid hierarchies or completely unstructured groups, Cells offer sufficient organization to function effectively while maintaining the [autonomy](tags/autonomy.md) and adaptability that make decentralized coordination powerful.
 
-**Clear Network Interfaces**: Cells establish "clear interfaces that enable trust-based [coordination](tags/coordination.md) between groups and individuals across a broader [DAO network](artifacts/primitives-framework/patterns/daos.md)." Through their [Cell State](artifacts/primitives-framework/patterns/group-state.md) documentation, they create [transparency](tags/transparency.md) about their [Purpose](tags/purpose.md), [Practice](tags/practices.md), and [Progress](tags/progress.md), enabling other entities to understand and coordinate with them without requiring hierarchical oversight.
+**Clear Network Interfaces**: Cells establish "clear interfaces that enable trust-based [coordination](tags/coordination.md) between groups and individuals across a broader [DAO network](artifacts/primitives-framework/patterns/daos.md)." Through their [Cell State](tags/group-state.md) documentation, they create [transparency](tags/transparency.md) about their [Purpose](tags/purpose.md), [Practice](tags/practices.md), and [Progress](tags/progress.md), enabling other entities to understand and coordinate with them without requiring hierarchical oversight.
 
 **Dynamic Autonomous Units**: Cells function as "dynamic, autonomous units, avoiding bureaucratic overhead while protecting against group dysfunction." With fewer than 10 people, they provide enough scaffolding to enable effective self-governance while maintaining the flexibility needed for complex, evolving contexts without falling victim to the [coordination](tags/coordination.md) failures common in unstructured groups.
 
@@ -57,9 +78,9 @@ Cells are **small autonomous teams** of 10 or fewer people (typically 3-8 people
 
 ## Cell State
 
-Cells document their state using the **[Purpose/Practice/Progress framework](group-state.md)**: Purpose (why the Cell exists and what it aims to achieve), Practice (how decisions are made and work is coordinated), Progress (what's been accomplished and current status). This transparent documentation enables both internal coherence and external coordination across the network.
+Cells document their state using the **[Purpose/Practice/Progress framework](tags/group-state.md)**: Purpose (why the Cell exists and what it aims to achieve), Practice (how decisions are made and work is coordinated), Progress (what's been accomplished and current status). This transparent documentation enables both internal coherence and external coordination across the network.
 
-See [Group State Pattern](group-state.md) for detailed guidance on state documentation.
+See [Group State Pattern](tags/group-state.md) for detailed guidance on state documentation.
 
 ## Phase & Scale Considerations
 
@@ -94,7 +115,7 @@ See [Group State Pattern](group-state.md) for detailed guidance on state documen
 - **Cell Coordination**: The Cell acts as a coordinating body for other Cells, creating or connecting with additional Cells to accomplish larger initiatives
 - **Contributor Coordination**: The Cell engages external contributors to execute work, often using [roles](artifacts/primitives-framework/patterns/roles.md) and [tasks](artifacts/primitives-framework/patterns/tasks.md) as coordination mechanisms
 
-**[State](artifacts/primitives-framework/patterns/group-state.md) Implementation**: Cells use the [state](artifacts/primitives-framework/patterns/group-state.md) pattern as their core structural foundation, working through and defining their [Purpose](tags/purpose.md), [Practice](tags/practices.md), and [Progress](tags/progress.md) to create the documentation that enables both internal self-management and external [coordination](tags/coordination.md) within the [DAO network](artifacts/primitives-framework/patterns/daos.md).
+**[State](tags/group-state.md) Implementation**: Cells use the [state](tags/group-state.md) pattern as their core structural foundation, working through and defining their [Purpose](tags/purpose.md), [Practice](tags/practices.md), and [Progress](tags/progress.md) to create the documentation that enables both internal self-management and external [coordination](tags/coordination.md) within the [DAO network](artifacts/primitives-framework/patterns/daos.md).
 
 **Phase-Adaptive Structure**: Because Cells can form through different pathways, they move through [development phases](artifacts/primitives-framework/group-phase/index.md) in varied ways. Cells created for specific operational functions may move quickly through [Conversation](artifacts/primitives-framework/group-phase/conversation-phase.md) and [Formation](artifacts/primitives-framework/group-phase/formation-phase.md) phases, while autonomous Cells emerging from community conversations may take longer to develop through these phases organically.
 
@@ -120,4 +141,4 @@ See [Group State Pattern](group-state.md) for detailed guidance on state documen
 - [Autonomy](tags/autonomy.md) - The self-governance capacity that defines Cell operation
 - [Coordination](tags/coordination.md) - The mechanisms through which Cells align with networks
 - [Scale](tags/scale.md) - The collaboration scale at which Cells operate
-- [Group State](artifacts/primitives-framework/patterns/group-state.md) - The transparency framework that enables Cell coordination
+- [Group State](tags/group-state.md) - The transparency framework that enables Cell coordination
