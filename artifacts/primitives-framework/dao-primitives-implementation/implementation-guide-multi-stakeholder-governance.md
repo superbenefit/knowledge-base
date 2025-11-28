@@ -12,7 +12,9 @@ publish: true
 type: guide
 ---
 
-description
+> **Quick Navigation**: [Introduction](#introduction) · [Context & Orientation](#context--orientation) · [Design Process](#design-process) · [Implementation](#implementation) · [Related Resources](#related-resources)
+
+## Introduction
 
 %% Introduce your note here. %%
 

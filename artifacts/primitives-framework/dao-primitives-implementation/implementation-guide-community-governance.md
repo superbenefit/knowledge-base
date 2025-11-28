@@ -10,7 +10,8 @@ tags:
 publish: true
 type: guide
 ---
- 
+
+> **Quick Navigation**: [Introduction](#introduction) · [Context & Orientation](#context--orientation) · [Design Process](#design-process) · [Implementation](#implementation) · [Related Resources](#related-resources)
 
 ## Introduction
 
