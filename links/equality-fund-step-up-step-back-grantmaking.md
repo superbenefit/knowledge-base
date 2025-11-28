@@ -16,7 +16,7 @@ tags:
   - feminist-philanthropy
 ---
 
-Equality Fund's "Step Up, Step Back" framework offers radical alternative to competitive grantmaking by recognizing how traditional funding competitions damage social movements. When organizations compete for limited resources, funders consolidate [power](tags/power.md) while forcing potential collaborators into adversarial relationships, extracting unpaid proposal labor, and incentivizing organizations to emphasize individual achievements over collective movement-building. Step Up, Step Back inverts this by bringing funded organizations together to collectively determine resource distribution through facilitated process where groups advocate for their own needs ("step up") while acknowledging others' priorities ("step back"), creating solidarity rather than competition. This feminist approach centers relationship, addresses [power](tags/power.md) dynamics explicitly, and redistributes decision-making from funders to movement actors who understand [community](tags/community.md) needs better than distant philanthropists.
+Equality Fund's "Step Up, Step Back" framework offers radical alternative to competitive grantmaking by recognizing how traditional funding competitions damage social movements. When organizations compete for limited resources, funders consolidate [power](tags/power.md) while forcing potential collaborators into adversarial relationships, extracting unpaid proposal labor, and incentivizing organizations to emphasize individual achievements over collective movement-building. Step Up, Step Back inverts this by bringing funded organizations together to collectively determine resource distribution through facilitated process where groups advocate for their own needs ("step up") while acknowledging others' priorities ("step back"), creating solidarity rather than competition. This feminist approach centers relationship, addresses power dynamics explicitly, and redistributes decision-making from funders to movement actors who understand [community](tags/community.md) needs better than distant philanthropists.
 
 ### Key Highlights
 
@@ -24,9 +24,9 @@ Equality Fund's "Step Up, Step Back" framework offers radical alternative to com
 
 - **Participatory Allocation Process**: Step Up, Step Back brings all funded organizations into shared space where each presents their work and resource needs, then collectively determines distribution through facilitated dialogue. Organizations "step up" to advocate for their funding while "stepping back" to acknowledge others' importance, creating process that builds relationship rather than extracting competitive proposals.
 
-- **Power-Aware Facilitation**: The framework recognizes how [power](tags/power.md) dynamics shape whose voices dominate participatory processes, using skilled facilitation to ensure marginalized organizations can advocate effectively while preventing well-resourced groups from dominating decisions. This addresses valid critique that participation can reproduce existing hierarchies without intentional [power](tags/power.md) analysis.
+- **Power-Aware Facilitation**: The framework recognizes how power dynamics shape whose voices dominate participatory processes, using skilled facilitation to ensure marginalized organizations can advocate effectively while preventing well-resourced groups from dominating decisions. This addresses valid critique that participation can reproduce existing hierarchies without intentional power analysis.
 
-- **Feminist Funding Values**: Step Up, Step Back embodies feminist principles—centering care and relationship, making power visible, prioritizing collective over individual success, honoring diverse leadership, and trusting [communities](tags/community.md) closest to issues. These values reshape funding from transactional exchange to movement investment based on solidarity rather than funder control.
+- **Feminist Funding Values**: Step Up, Step Back embodies feminist principles—centering care and relationship, making power visible, prioritizing collective over individual success, honoring diverse leadership, and trusting communities closest to issues. These values reshape funding from transactional exchange to movement investment based on solidarity rather than funder control.
 
 - **Building Trust and Accountability**: Rather than accountability upward to funders proving worth through reports, the framework creates horizontal accountability among peers who understand each other's work. Organizations become accountable to movement collectively, building trust through ongoing relationship rather than extractive reporting to distant decision-makers.
 
@@ -44,7 +44,7 @@ Step Up, Step Back enables movement-centered grantmaking across contexts:
 
 - Collaborative funds and pooled giving circles can use the framework to make collective decisions about resource distribution, building trust among diverse funders while ensuring that allocation decisions reflect movement priorities rather than individual donor preferences
 
-- Corporate giving programs can integrate participatory elements when funding social movements, recognizing that collective allocation by funded organizations produces better outcomes than corporate staff determining what [communities](tags/community.md) need
+- Corporate giving programs can integrate participatory elements when funding social movements, recognizing that collective allocation by funded organizations produces better outcomes than corporate staff determining what communities need
 
 - Philanthropic networks can advocate for broader adoption of non-competitive approaches, documenting how Step Up, Step Back and similar models build movement capacity rather than fragmenting organizations through competition
 
@@ -54,7 +54,7 @@ Step Up, Step Back enables movement-centered grantmaking across contexts:
 
 - The power-aware facilitation approach provides model for how SuperBenefit can ensure that [governance](tags/governance.md) tools don't reproduce existing hierarchies despite good intentions—recognizing that technical decentralization alone doesn't redistribute power if better-resourced actors dominate participation, requiring intentional design and facilitation to enable genuinely collective decision-making.
 
-- Equality Fund's feminist funding values validate SuperBenefit's conviction that regenerative [coordination](tags/coordination.md) must center care, relationship, and collective wellbeing over efficiency and individual achievement—showing that slowing down for dialogue and trust-building produces better outcomes than optimizing transaction speed, even when this feels inefficient by conventional market logic.
+- Equality Fund's feminist funding values validate SuperBenefit's conviction that regenerative coordination must center care, relationship, and collective wellbeing over efficiency and individual achievement—showing that slowing down for dialogue and trust-building produces better outcomes than optimizing transaction speed, even when this feels inefficient by conventional market logic.
 
 ---
 

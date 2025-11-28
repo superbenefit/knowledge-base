@@ -23,13 +23,13 @@ Club of Rome's Changing Finance report provides comprehensive analysis of how fi
 
 - **Planetary Boundaries Incompatibility**: Club of Rome shows current finance fundamentally incompatible with operating within planetary boundaries, requiring not just sustainable investment but transformation of financial purpose from maximizing returns to enabling collective flourishing within ecological limits.
 
-- **Alternative Financial Structures**: The report explores concrete alternatives including stakeholder [governance](tags/governance.md), patient capital, local currencies, commons financing—showing how different financial structures could reward regeneration over extraction.
+- **Alternative Financial Structures**: The report explores concrete alternatives including stakeholder governance, patient capital, local currencies, commons financing—showing how different financial structures could reward regeneration over extraction.
 
-- **Policy Frameworks**: Rather than only advocating voluntary corporate responsibility, the analysis identifies regulatory reforms necessary for financial transformation—from accounting standards valuing ecosystems to [governance](tags/governance.md) requirements including stakeholders beyond shareholders.
+- **Policy Frameworks**: Rather than only advocating voluntary corporate responsibility, the analysis identifies regulatory reforms necessary for financial transformation—from accounting standards valuing ecosystems to governance requirements including stakeholders beyond shareholders.
 
 - **Historical Analysis**: The report provides context showing how current financial structures emerged historically rather than being natural or inevitable, opening space to imagine alternatives not constrained by treating existing systems as fixed.
 
-- **Systems Perspective**: Club of Rome connects financial transformation with broader systems change across [governance](tags/governance.md), economics, culture, and technology—recognizing that finance alone cannot shift while other systems maintain extractive logics.
+- **Systems Perspective**: Club of Rome connects financial transformation with broader systems change across governance, economics, culture, and technology—recognizing that finance alone cannot shift while other systems maintain extractive logics.
 
 ### Practical Applications
 
@@ -49,9 +49,9 @@ This report enables financial system transformation:
 
 - Club of Rome's analysis of how financial structures drive extraction provides context for SuperBenefit's regenerative economics work, showing that genuinely transformative [coordination](tags/coordination.md) requires addressing systemic financial incentives rewarding growth and short-term profit over collective wellbeing and ecological sustainability—suggesting that DAO economics should be evaluated for whether they reproduce extractive imperatives or enable alternatives.
 
-- The report's emphasis on stakeholder governance beyond shareholder primacy resonates with SuperBenefit's exploration of multi-stakeholder [coordination](tags/coordination.md), demonstrating that regenerative economics requires governance including diverse affected parties rather than only capital owners—validating that DAO primitives should enable participation beyond token holdings.
+- The report's emphasis on stakeholder governance beyond shareholder primacy resonates with SuperBenefit's exploration of multi-stakeholder coordination, demonstrating that regenerative economics requires governance including diverse affected parties rather than only capital owners—validating that DAO primitives should enable participation beyond token holdings.
 
-- Club of Rome's systems perspective validates SuperBenefit's understanding that [coordination](tags/coordination.md) transformation connects with broader systems change, showing that financial alternatives alone prove insufficient if governance, culture, and economic logics maintain extraction—suggesting that effective primitives should address systemic dynamics not just isolated mechanisms.
+- Club of Rome's systems perspective validates SuperBenefit's understanding that coordination transformation connects with broader systems change, showing that financial alternatives alone prove insufficient if governance, culture, and economic logics maintain extraction—suggesting that effective primitives should address systemic dynamics not just isolated mechanisms.
 
 ---
 

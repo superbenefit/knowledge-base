@@ -15,21 +15,21 @@ tags:
   - dao-infrastructure
 ---
 
-Hats Modules extends the Hats Protocol by providing modular organizational [primitives](tags/primitives.md) that communities can compose to create custom [governance](tags/governance.md) structures. Rather than choosing between predetermined organizational templates, the modules system enables building [coordination](tags/coordination.md) infrastructure from composable components—eligibility modules determining who can wear hats, toggle modules controlling when hats are active, accountability modules enforcing responsibilities. This composability allows organizations to construct [governance](tags/governance.md) fitting their specific needs by combining primitives rather than accepting one-size-fits-all solutions. The modular approach recognizes that effective organization emerges from contextual assembly of [coordination](tags/coordination.md) mechanisms rather than universal best practices.
+Hats Modules extends the Hats Protocol by providing modular organizational [primitives](tags/primitives.md) that communities can compose to create custom [governance](tags/governance.md) structures. Rather than choosing between predetermined organizational templates, the modules system enables building [coordination](tags/coordination.md) infrastructure from composable components—eligibility modules determining who can wear hats, toggle modules controlling when hats are active, accountability modules enforcing responsibilities. This composability allows organizations to construct governance fitting their specific needs by combining primitives rather than accepting one-size-fits-all solutions. The modular approach recognizes that effective organization emerges from contextual assembly of coordination mechanisms rather than universal best practices.
 
 ### Key Highlights
 
-- **Modular Organizational Primitives**: Hats Modules provides composable components for organizational structure—eligibility criteria, accountability mechanisms, permission systems—enabling communities to build custom [governance](tags/governance.md) from reusable primitives rather than predetermined templates.
+- **Modular Organizational Primitives**: Hats Modules provides composable components for organizational structure—eligibility criteria, accountability mechanisms, permission systems—enabling communities to build custom governance from reusable primitives rather than predetermined templates.
 
-- **Composable Infrastructure**: Organizations can combine multiple modules to create sophisticated [coordination](tags/coordination.md) mechanisms, stacking eligibility requirements, accountability checks, and permission controls rather than being limited to simple role assignments.
+- **Composable Infrastructure**: Organizations can combine multiple modules to create sophisticated coordination mechanisms, stacking eligibility requirements, accountability checks, and permission controls rather than being limited to simple role assignments.
 
-- **Programmable Accountability**: Modules enable automated enforcement of organizational commitments—[roles](tags/roles.md) can require proof of contribution, expire without renewal, or trigger based on onchain events—creating technical accountability without manual [governance](tags/governance.md) overhead.
+- **Programmable Accountability**: Modules enable automated enforcement of organizational commitments—[roles](tags/roles.md) can require proof of contribution, expire without renewal, or trigger based on onchain events—creating technical accountability without manual governance overhead.
 
-- **Extensible System**: The modules architecture allows developers to create new primitives addressing emerging [coordination](tags/coordination.md) needs, ensuring the system can evolve rather than being limited to initially imagined use cases.
+- **Extensible System**: The modules architecture allows developers to create new primitives addressing emerging coordination needs, ensuring the system can evolve rather than being limited to initially imagined use cases.
 
 - **Plug-and-Play Coordination**: Communities can adopt proven modules created by others rather than building from scratch, enabling knowledge sharing across organizations while maintaining customization for local contexts.
 
-- **Reduced Governance Theater**: By automating routine accountability through modules, organizations can focus collective decision-making on genuinely complex choices rather than spending [governance](tags/governance.md) bandwidth on enforceable programmatic checks.
+- **Reduced Governance Theater**: By automating routine accountability through modules, organizations can focus collective decision-making on genuinely complex choices rather than spending governance bandwidth on enforceable programmatic checks.
 
 ### Practical Applications
 
@@ -41,7 +41,7 @@ Hats Modules enables custom organizational design:
 
 - Working groups can adopt accountability modules ensuring responsible parties deliver commitments, automating checks for completion rather than relying on social pressure or manual governance to enforce obligations
 
-- Protocol governance can implement modules distinguishing different stakeholder groups—users, developers, token holders—ensuring specialized [roles](tags/roles.md) have appropriate permissions and accountability rather than treating all participants identically
+- Protocol governance can implement modules distinguishing different stakeholder groups—users, developers, token holders—ensuring specialized roles have appropriate permissions and accountability rather than treating all participants identically
 
 - Platform cooperatives can use Hats Modules to encode member obligations, automating verification of labor contributions or participation requirements rather than manual tracking by coordinators
 

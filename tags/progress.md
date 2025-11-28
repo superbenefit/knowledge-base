@@ -26,7 +26,7 @@ In traditional organizational structures, progress typically refers to advanceme
 
 In agile methodologies and responsive systems, progress is tracked through more dynamic and visible systems like kanban boards, burndown charts, and regular stand-up meetings. These approaches emphasize real-time visibility of work in process, blockers, and completed items, allowing for rapid adaptation and continuous improvement.
 
-### Progress in DAO Primitives Framework
+### Progress in [DAO Primitives framework](../artifacts/guides/dao-primitives-framework/index.md)
 
 In the [DAO Primitives Framework](tags/primitives.md), "Progress" is one of three core dimensions of [Group State](artifacts/guides/dao-primitives-framework/group-state.md) (alongside [Purpose](tags/purpose.md) and [Practice](tags/practices.md)). It represents the tools and practices by which a team achieves and demonstrates its activities and outcomes, serving both internal and external coordination needs.
 

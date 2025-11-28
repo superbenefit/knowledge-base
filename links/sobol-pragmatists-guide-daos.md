@@ -15,17 +15,17 @@ tags:
   - sobol
 ---
 
-Sobol's "Pragmatist's Guide to DAOing" provides accessible practical introduction to participating in and coordinating through [DAOs](tags/daos.md), cutting through hype and technical complexity to offer concrete guidance for contributors navigating these emerging organizational forms. Rather than theoretical frameworks or aspirational visions, the guide addresses everyday challenges including understanding [governance](tags/governance.md) processes, finding meaningful contribution opportunities, navigating communication tools, managing [coordination](tags/coordination.md) across time zones and contexts, and building relationships in primarily digital environments. The pragmatic approach acknowledges that [DAOs](tags/daos.md) remain messy, experimental, and often frustrating organizational structures while providing actionable advice for making participation effective despite persistent challenges. This grounds DAO [coordination](tags/coordination.md) in lived participant experience rather than idealized narratives, offering realistic perspective valuable for both new contributors and experienced practitioners seeking to improve organizational functioning.
+Sobol's "Pragmatist's Guide to DAOing" provides accessible practical introduction to participating in and coordinating through [DAOs](tags/daos.md), cutting through hype and technical complexity to offer concrete guidance for contributors navigating these emerging organizational forms. Rather than theoretical frameworks or aspirational visions, the guide addresses everyday challenges including understanding [governance](tags/governance.md) processes, finding meaningful contribution opportunities, navigating communication tools, managing [coordination](tags/coordination.md) across time zones and contexts, and building relationships in primarily digital environments. The pragmatic approach acknowledges that DAOs remain messy, experimental, and often frustrating organizational structures while providing actionable advice for making participation effective despite persistent challenges. This grounds DAO coordination in lived participant experience rather than idealized narratives, offering realistic perspective valuable for both new contributors and experienced practitioners seeking to improve organizational functioning.
 
 ### Key Highlights
 
-- **Participant-Centered Perspective**: Guide focuses on contributor experience navigating DAO [coordination](tags/coordination.md) rather than theoretical [governance](tags/governance.md) frameworks or founder perspectives, centering practical challenges participants actually face.
+- **Participant-Centered Perspective**: Guide focuses on contributor experience navigating DAO coordination rather than theoretical governance frameworks or founder perspectives, centering practical challenges participants actually face.
 
 - **Accessible Communication**: Rather than technical jargon or crypto-native assumptions, content communicates clearly for audiences exploring DAO participation without deep [blockchain](tags/blockchain.md) or Web3 background.
 
-- **Concrete Operational Guidance**: Coverage addresses specific challenges including finding contribution opportunities, understanding [governance](tags/governance.md) participation expectations, navigating communication platforms, and managing asynchronous coordination.
+- **Concrete Operational Guidance**: Coverage addresses specific challenges including finding contribution opportunities, understanding governance participation expectations, navigating communication platforms, and managing asynchronous coordination.
 
-- **Realistic Challenge Acknowledgment**: Rather than purely promoting [DAOs](tags/daos.md), guide honestly addresses frustrations, inefficiencies, and limitations in current [decentralized](tags/decentralization.md) organization practice, providing realistic expectations alongside practical advice.
+- **Realistic Challenge Acknowledgment**: Rather than purely promoting DAOs, guide honestly addresses frustrations, inefficiencies, and limitations in current [decentralized](tags/decentralization.md) organization practice, providing realistic expectations alongside practical advice.
 
 - **Relationship Building Focus**: Emphasis on building trust and relationships in digital environments, recognizing that effective DAO coordination requires social connections beyond pure technical mechanisms or transactional exchanges.
 
@@ -35,9 +35,9 @@ Sobol's "Pragmatist's Guide to DAOing" provides accessible practical introductio
 
 This guide enables effective DAO participation:
 
-- New DAO contributors can use guide as accessible introduction understanding [governance](tags/governance.md) participation, communication norms, and contribution pathways without requiring technical [blockchain](tags/blockchain.md) expertise or extensive crypto-cultural knowledge
+- New DAO contributors can use guide as accessible introduction understanding governance participation, communication norms, and contribution pathways without requiring technical blockchain expertise or extensive crypto-cultural knowledge
 
-- DAO operators can reference participant perspective when designing onboarding, communication structures, and contribution pathways, understanding challenges new members face when joining [decentralized](tags/decentralization.md) organizations
+- DAO operators can reference participant perspective when designing onboarding, communication structures, and contribution pathways, understanding challenges new members face when joining decentralized organizations
 
 - Communities evaluating DAO structures can gain realistic understanding of coordination challenges and participant experience, informing whether decentralized organization aligns with their needs and capacity for navigating complexity
 

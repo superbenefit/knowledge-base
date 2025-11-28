@@ -7,7 +7,7 @@ tags:
 publish: "true"
 ---
 
-A [warehouse of datasets](https://airtable.com/appx3e9Przn9iprkU/shrgnUrj0dqzZDsOd/tblXLaQeoKygb4ais/viw3rNQQfK1S6ipfe) related to online [community [governance](tags/governance.md)](artifacts/patterns/[community](tags/community.md)-[governance](tags/governance.md).md), by [Metagov](links/Metagov.md).
+A [warehouse of datasets](https://airtable.com/appx3e9Przn9iprkU/shrgnUrj0dqzZDsOd/tblXLaQeoKygb4ais/viw3rNQQfK1S6ipfe) related to online [community [governance](tags/governance.md)](artifacts/patterns/[community](tags/community.md)-governance.md), by [Metagov](links/Metagov.md).
 
 ---
 

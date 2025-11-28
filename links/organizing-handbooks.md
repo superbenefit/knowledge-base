@@ -19,26 +19,26 @@ https://hackmd.io/@yHk1snI9T9SNpiFu2o17oA/Skh_dXNbE
 
 ## Summary of the Article
 
-The _Handbook of Handbooks for Decentralised Organising_ is a curated compendium of resources tailored for groups and organizations adopting [decentralized](tags/decentralization.md) and non-hierarchical management structures. This document is particularly valuable for collectives, grassroots movements, cooperatives, open-source initiatives, and workplace environments aiming to function without a top-down management style.
+The _Handbook of Handbooks for Decentralised Organising_ is a curated compendium of resources tailored for groups and organizations adopting decentralized and non-hierarchical management structures. This document is particularly valuable for collectives, grassroots movements, cooperatives, open-source initiatives, and workplace environments aiming to function without a top-down management style.
 
-Compiled by Richard Bartlett, a co-founder of Enspiral and advocate of [decentralized](tags/decentralization.md) methods, this resource acts as both a reference and an invitation for [collaboration](tags/collaboration.md). It includes handbooks from diverse fields, showcasing practical approaches to [decision-making](tags/decision-making.md), facilitation, and [governance](tags/governance.md) in flat organizational structures.
+Compiled by Richard Bartlett, a co-founder of Enspiral and advocate of decentralized methods, this resource acts as both a reference and an invitation for collaboration. It includes handbooks from diverse fields, showcasing practical approaches to [decision-making](tags/decision-making.md), facilitation, and [governance](tags/governance.md) in flat organizational structures.
 
-For more information, check out [Patterns for [Decentralized](tags/decentralization.md) [Organizing](tags/organizing.md)](https://leanpub.com/patterns-for-decentralised-organising/).
+For more information, check out Patterns for [Decentralized [Organizing](tags/organizing.md)](https://leanpub.com/patterns-for-decentralised-organising/).
 
 ### Key Highlights:
 
 - **Living Document**: Open for [community](tags/community.md) contributions, reflecting the decentralized ethos by allowing updates and shared insights.
-- **Broad Applications**: Suitable for contexts ranging from **[social movements](tags/social-movements.md)**, **cooperatives**, **startups**, to large organizations transitioning to decentralized models.
+- **Broad Applications**: Suitable for contexts ranging from **social movements**, **cooperatives**, **startups**, to large organizations transitioning to decentralized models.
 - **Accessibility**: All handbooks and tools are freely available for anyone to adapt and share.
 
 ### Structure of the Article:
 
 The article is presented as an interactive HackMD page, offering links to handbooks grouped by thematic relevance. Some prominent themes include:
 
-- **[Decision-making](tags/decision-making.md)**: Guides for consensus and collaborative decision models.
+- **Decision-making**: Guides for consensus and collaborative decision models.
 - **Conflict resolution**: Techniques for addressing challenges in a decentralized setup.
 - **Facilitation tools**: Resources for leading productive and inclusive discussions.
-- **[Governance](tags/governance.md) models**: Frameworks for equitable and sustainable organizational structures.
+- **Governance models**: Frameworks for equitable and sustainable organizational structures.
 
 ---
 
@@ -47,25 +47,25 @@ The article is presented as an interactive HackMD page, offering links to handbo
 ### Permanent Organizations (Workplaces, Businesses, NGOs)
 
 1. [Enspiral Handbook](https://handbook.enspiral.com) – Explains how Loomio, part of the Enspiral network, self-governs with 200+ people.
-2. [Crisp DNA](https://crisp.se/docs/dna) – Handbook for a self-[organizing](tags/organizing.md) company of 35+ consultants with innovative practices in money and ownership.
-3. [Gini Handbook](https://gini.net/handbook/) – Covers [decision-making](tags/decision-making.md), communication skills, personal growth, and feedback in a German tech company.
+2. [Crisp DNA](https://crisp.se/docs/dna) – Handbook for a self-organizing company of 35+ consultants with innovative practices in money and ownership.
+3. [Gini Handbook](https://gini.net/handbook/) – Covers decision-making, communication skills, personal growth, and feedback in a German tech company.
 4. [GitLab Handbook](https://about.gitlab.com/handbook/) – A resource for remote teams with 800+ staff across 50+ countries.
 5. [OuiShare Handbook](https://handbook.ouishare.net/) – Structures and practices for the distributed OuiShare network.
 6. [Hanno Playbook](https://playbook.hanno.co/) – Documentation about internal operations of an 8-person design team.
 7. [Software Mill Handbook](https://softwaremill.com/handbook/) – Focuses on decision-making and communication in a remote team of 50+ people.
 8. [Alcoholics Anonymous Manual](https://www.aa.org) – A guide from an 80-year-old decentralized organization.
-9. [Tao of the IETF](https://www.ietf.org/tao/) – Principles of open, voluntary, self-[organizing](tags/organizing.md) processes in Internet [governance](tags/governance.md).
+9. [Tao of the IETF](https://www.ietf.org/tao/) – Principles of open, voluntary, self-organizing processes in Internet governance.
 10. [Women’s Center for Creative Work Handbook](https://womenscenterforcreativework.com/) – Details operational insights from a feminist organization.
 11. [Public Interest Research Center Transition Story](https://publicinterest.org.uk/) – Explores their shift to a flat organizational structure.
 12. [Social Justice Waging System by Platform](https://platformlondon.org/) – Innovative wage structure details from an arts and research organization.
 13. [How to Start a Tool Lending Library](https://sharestarter.org/) – Toolkit for creating lending libraries globally.
-14. [Transition Towns' Essential Guide](https://transitionnetwork.org/) – Multilingual resources for [community](tags/community.md) transitions.
+14. [Transition Towns' Essential Guide](https://transitionnetwork.org/) – Multilingual resources for community transitions.
 15. [Valve Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf) – A guide from a software company operating without bosses.
-16. [Edgeryders [Collaboration](tags/collaboration.md) Principles](https://edgeryders.eu/) – Operational guidelines for a think tank and mutual aid network.
-17. [The Borderland Processes](https://www.theborderland.se/) – Dream Prototyping and Advice Process for [organizing](tags/organizing.md) collaborative events.
+16. Edgeryders [Collaboration Principles](https://edgeryders.eu/) – Operational guidelines for a think tank and mutual aid network.
+17. [The Borderland Processes](https://www.theborderland.se/) – Dream Prototyping and Advice Process for organizing collaborative events.
 18. [Outseta Operating Agreement](https://www.outseta.com/) – Public documentation of [self-management](tags/self-management.md) practices in a SaaS company.
 19. [350 Seattle Structure Resources](https://350seattle.org/) – Resources for campaigning organizations.
-20. [Open Coop [Governance](tags/governance.md) Model](https://opencoop.org/) – A [governance](tags/governance.md) model used by Guerilla Translation.
+20. Open Coop [Governance Model](https://opencoop.org/) – A governance model used by Guerilla Translation.
 21. [DisCO Co-op Manifesto](https://disco.coop/) – Detailed framework for distributed cooperative organizations.
 22. [Spotify Agile Model](https://engineering.atspotify.com/2020/03/27/scaling-agile-at-spotify/) – Explanation of their tribe and squad [coordination](tags/coordination.md).
 23. [Bridge Foundry Workshop Guides](https://bridgefoundry.org/) – Resources for organizing free programming workshops.
@@ -75,13 +75,13 @@ The article is presented as an interactive HackMD page, offering links to handbo
 27. [Datopian Culture Handbook](https://handbook.datopian.com/) – Unique insights into a small digital company’s culture.
 28. [CPI Playbook](https://www.centreforpublicimpact.org/) – Collaborative governance resources.
 29. [Hypha Worker Co-op Handbook](https://handbook.hypha.coop/) – Guidance from a co-op focused on technology redesign.
-30. [dOrg Handbook](https://handbook.dorg.tech/) – Blockchain development collective’s [self-management](tags/self-management.md) principles.
+30. [dOrg Handbook](https://handbook.dorg.tech/) – Blockchain development collective’s self-management principles.
 
 ### Temporary Organizations (Campaigns, Events)
 
 31. [Barcelona en Comú Guide](https://guia.barcelonaencomu.cat/) – A guide for grassroots political activism.
 32. [How We Organize the Allied Media Conference](https://alliedmedia.org/) – Methodology for decentralized conference organizing.
-33. [Repair Café Handbook](https://repaircafe.org/en/) – Instructions for setting up local repair [community](tags/community.md).
+33. [Repair Café Handbook](https://repaircafe.org/en/) – Instructions for setting up local repair community.
 34. [TEDx Organizer's Guide](https://www.ted.com/participate/organize-a-local-tedx-event/tedx-organizer-guide) – Tools for TEDx event organizers.
 35. [Awesome Foundation Wiki](https://wiki.awesomefoundation.org/) – Resources for autonomous micro-granting groups.
 36. [Food Not Bombs Chapter Toolkit](http://www.foodnotbombs.net/) – Guidelines for decentralized food-sharing groups.
@@ -108,7 +108,7 @@ The article is presented as an interactive HackMD page, offering links to handbo
 14. [Teaming](https://amycedmondson.com/books/teaming/) – Amy C. Edmondson’s book on how teams learn, innovate, and compete.
 15. [Google's Team Effectiveness Guide](https://rework.withgoogle.com/guides/) – Framework emphasizing psychological safety, dependability, and impact.
 16. [OS Canvas by The Ready](https://theready.com/os-canvas/) – Tool for mapping and planning organizational change.
-17. [Why Employees Are Always a Bad Idea](https://chuckblakeman.com/) – Business insights from Chuck Blakeman on the [Participation](tags/participation.md) Age.
+17. [Why Employees Are Always a Bad Idea](https://chuckblakeman.com/) – Business insights from Chuck Blakeman on the Participation Age.
 18. [HyperIsland Toolbox](https://toolbox.hyperisland.com/) – Toolkit for collaboration and innovation.
 19. [Liberating Structures](https://www.liberatingstructures.com/) – 33 meeting formats fostering inclusion and creativity.
 20. [The Future of Work is Human](https://enliveningedge.org/tools-practices/) – Practices for holistic learning and innovation.
@@ -121,8 +121,8 @@ The article is presented as an interactive HackMD page, offering links to handbo
 27. [The Second Cycle by Lars Kolind](https://kolindkuren.dk/) – Guide on renewal cycles in organizations.
 28. [Maverick by Ricardo Semler](https://www.semler.com/) – Semler’s story of radical management practices.
 29. [Team of Teams](https://www.mcchrystalgroup.com/team-of-teams-book/) – General Stanley McChrystal’s insights on networked management in urban warfare.
-30. [A Lapsed Anarchist’s Approach to Building a Great Business](https://www.zingtrain.com/) – Series by Ari Weinzweig about running Zingerman’s [Community](tags/community.md) of Businesses.
-31. [The Haier Model](https://www.haier.net/) – Organizational case study of Haier’s [self-management](tags/self-management.md) system.
+30. [A Lapsed Anarchist’s Approach to Building a Great Business](https://www.zingtrain.com/) – Series by Ari Weinzweig about running Zingerman’s Community of Businesses.
+31. [The Haier Model](https://www.haier.net/) – Organizational case study of Haier’s self-management system.
 32. [Freedom, Inc.](https://www.amazon.com/Freedom-Inc-Corporate-Liberation-Unleashes/dp/0307409386) – Book by Brian Carney and Isaac Getz.
 33. [Future of Management](https://www.amazon.com/Future-Management-Gary-Hamel/dp/1422102505) – Gary Hamel explores innovative organizational strategies.
 34. [The Holacracy Constitution 4.1](https://www.holacracy.org/constitution) – Holacracy’s governance rules.
@@ -142,8 +142,8 @@ The article is presented as an interactive HackMD page, offering links to handbo
 48. [Membership Puzzle Project](https://membershippuzzle.org/) – Insights on membership-based organizations.
 49. [Turn the Ship Around!](https://davidmarquet.com/) – L. David Marquet’s book on servant leadership.
 50. [Peerdom Showcase](https://www.peerdom.com/) – Organizational design maps from transformational journeys.
-51. [Future Togetherness Handbook](https://humansystems.co/) – Practices for [community](tags/community.md) resilience and collaboration.
-52. [Reinvent Organization Map](https://enliveningedge.org/tools-practices/) – Assessment tool for teal organizations.
+51. [Future Togetherness Handbook](https://humansystems.co/) – Practices for community resilience and collaboration.
+52. Reinvent Organization Map – Assessment tool for teal organizations.
 53. [Planet Centric Design Toolkit](https://planetscentrix.com/) – Tools for creating responsible and sustainable products.
 54. [Community Building Canvas](https://[community](tags/community.md)-canvas.org/) – Resource for designing community-oriented organizations.
 
@@ -168,7 +168,7 @@ The article is presented as an interactive HackMD page, offering links to handbo
 17. [Sociocracy 3.0](https://sociocracy30.org/) – Open guide for consent-based, resilient organizations.
 18. [Distributed Organizing Guide](https://distributedorganizing.org/) – Toolkit for campaigners using distributed models.
 19. [Mobilisation Lab Resources](https://mobilisationlab.org/) – Online courses, articles, and guides for campaigners.
-20. [How to Welcome & Engage People in Community Spaces](https://dannyspitzberg.com/) – Advice by Danny Spitzberg on fostering inclusive [community](tags/community.md).
+20. [How to Welcome & Engage People in Community Spaces](https://dannyspitzberg.com/) – Advice by Danny Spitzberg on fostering inclusive community.
 21. [Skessa Toolkit](https://skessa.org/) – Resources for diverse and inclusive organizations.
 22. [Art of Hosting](https://www.artofhosting.org/) – Practices for participatory leadership and hosting conversations.
 23. [The Viable System Model](https://en.wikipedia.org/wiki/Viable_system_model) – Framework for designing healthy business systems.
@@ -190,7 +190,7 @@ The article is presented as an interactive HackMD page, offering links to handbo
 2. [Sustainable Economies Law Center (SELC)](https://www.theselc.org/) – Resources for creating ethical and sustainable legal structures.
 3. [Purpose Economy Steward Ownership Model](https://purpose-economy.org/) – Stewardship ownership examples like Sharetribe.
 4. [FairShares Model](https://www.fairshares.coop/) – Articles on multi-stakeholder limited companies, co-ops, and associations.
-5. [FairShares Commons Extension](https://www.fairshares.coop/) – Expanded FairShares model for regenerative ecosystems.
+5. FairShares Commons Extension – Expanded FairShares model for regenerative ecosystems.
 
 ### Trainers
 
@@ -202,7 +202,7 @@ The article is presented as an interactive HackMD page, offering links to handbo
 6. [Organisational Misbehaviourists](https://www.organizationalmisbehaviorists.com/) – Trainers focusing on psychological safety and collective wisdom.
 7. [PowerLabs](https://powerlabs.io/) – Campaign training resources for grassroots groups.
 8. [RAD.cat (Research Action Design)](https://rad.cat/) – Uses community-led research and secure digital strategies for grassroots power.
-9. [NetChange](https://netchange.co/) – Trainers for distributed organizing campaigns.
+9. NetChange – Trainers for distributed organizing campaigns.
 10. [Tripod Training](https://tripodtraining.org/) – Support for groups through facilitation, mediation, and training.
 11. [Round Sky Solutions](https://roundskysolutions.com/) – Worker-owned co-op offering collaborative governance training.
 12. [Evolutesix](https://www.evolutesix.com/) – Programs for startups and established organizations deploying integrated legal and developmental practices.

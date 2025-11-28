@@ -25,7 +25,7 @@ Frameworks serve distinct yet complementary purposes across different domains: i
 
 In organizational contexts, frameworks provide structured approaches to governance, coordination, and development. They offer conceptual models for understanding key components and relationships in organizational systems, helping stakeholders visualize complex interactions and design coherent structures.
 
-The [DAO Primitives Framework](artifacts/guides/dao-primitives-framework/index.md) exemplifies this approach, providing foundational concepts and patterns for building decentralized organizations. As noted in the knowledge base, this framework explores how DAOs function as "purpose-aligned networks of small autonomous teams" and offers tools for facilitating group development across different phases and scales. This framework helps practitioners design organizations that balance autonomy with coordination, creating systems that can scale while maintaining alignment with core purpose.
+The [[DAO Primitives framework](../artifacts/guides/dao-primitives-framework/index.md)](artifacts/guides/dao-primitives-framework/index.md) exemplifies this approach, providing foundational concepts and patterns for building decentralized organizations. As noted in the knowledge base, this framework explores how DAOs function as "purpose-aligned networks of small autonomous teams" and offers tools for facilitating group development across different phases and scales. This framework helps practitioners design organizations that balance autonomy with coordination, creating systems that can scale while maintaining alignment with core purpose.
 
 ### Frameworks in Web3 Governance
 

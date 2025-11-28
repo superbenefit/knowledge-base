@@ -27,7 +27,7 @@ Wikipedia's technological transitions article synthesizes established academic f
 
 - **Strategic Niche Management**: Coverage includes how protected spaces enable radical innovations to develop without immediate regime competition, showing importance of incubation and experimentation for alternatives that initially can't compete with optimized incumbent systems.
 
-- **Sustainability Transitions**: Specific focus on how societies can deliberately guide transitions toward environmental and social [sustainability](tags/sustainability.md) rather than assuming market-driven change addresses ecological crises, exploring [governance](tags/governance.md) and policy roles in transition pathways.
+- **Sustainability Transitions**: Specific focus on how societies can deliberately guide transitions toward environmental and social sustainability rather than assuming market-driven change addresses ecological crises, exploring [governance](tags/governance.md) and policy roles in transition pathways.
 
 - **Academic Foundation**: As Wikipedia synthesis of transition studies literature, article provides accessible entry to established academic field with substantial empirical research across sectors and geographies.
 
@@ -39,17 +39,17 @@ This framework enables transition-oriented practice:
 
 - Policy designers can apply strategic niche management principles to create protected spaces for alternative systems to develop, recognizing that sustainability transitions require deliberate support not just removal of obstacles to market competition
 
-- DAO and Web3 builders can situate their [governance](tags/governance.md) innovations within technological transitions framework, understanding their projects as niche experiments challenging established organizational regimes while facing landscape pressures for alternative [coordination](tags/coordination.md)
+- DAO and Web3 builders can situate their governance innovations within technological transitions framework, understanding their projects as niche experiments challenging established organizational regimes while facing landscape pressures for alternative [coordination](tags/coordination.md)
 
 - Funders supporting systems change can use transition theory to evaluate where investments can most effectively support transformation—whether in niche development, regime destabilization, or landscape-level advocacy creating openings for change
 
-- Researchers studying organizational innovation can employ socio-technical systems lens to examine how [governance](tags/governance.md) changes require alignment across technical tools, institutional rules, cultural practices, and economic structures beyond isolated mechanism design
+- Researchers studying organizational innovation can employ socio-technical systems lens to examine how governance changes require alignment across technical tools, institutional rules, cultural practices, and economic structures beyond isolated mechanism design
 
 ### Connection With SuperBenefit
 
-- Technological transitions framework validates SuperBenefit's systems-level perspective on [coordination](tags/coordination.md) innovation, demonstrating that effective primitives can't be designed as isolated technical solutions but must account for how [governance](tags/governance.md) mechanisms interact with institutional contexts, cultural practices, and economic structures that constitute socio-technical regimes—showing that moving from niche DAO experiments to genuine transformation of organizational [coordination](tags/coordination.md) requires strategic attention to regime resistance and deliberate creation of conditions enabling alternative systems to develop and scale.
+- Technological transitions framework validates SuperBenefit's systems-level perspective on coordination innovation, demonstrating that effective primitives can't be designed as isolated technical solutions but must account for how governance mechanisms interact with institutional contexts, cultural practices, and economic structures that constitute socio-technical regimes—showing that moving from niche DAO experiments to genuine transformation of organizational coordination requires strategic attention to regime resistance and deliberate creation of conditions enabling alternative systems to develop and scale.
 
-- The emphasis on how established regimes resist change through technical lock-in, institutional inertia, and cultural assumptions resonates with SuperBenefit's analysis of power dynamics in [coordination](tags/coordination.md) systems, illustrating that designing regenerative [governance](tags/governance.md) tools requires understanding and actively working to overcome incumbent organizational models' structural advantages rather than assuming better mechanisms automatically spread—demonstrating need for strategic niche management, coalition building, and policy advocacy beyond pure technology development.
+- The emphasis on how established regimes resist change through technical lock-in, institutional inertia, and cultural assumptions resonates with SuperBenefit's analysis of power dynamics in coordination systems, illustrating that designing regenerative governance tools requires understanding and actively working to overcome incumbent organizational models' structural advantages rather than assuming better mechanisms automatically spread—demonstrating need for strategic niche management, coalition building, and policy advocacy beyond pure technology development.
 
 ---
 

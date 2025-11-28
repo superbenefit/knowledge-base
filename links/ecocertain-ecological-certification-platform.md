@@ -47,11 +47,11 @@ This platform enables ecological finance:
 
 ### Connection With SuperBenefit
 
-- Ecocertain's approach to making ecological benefit economically valuable resonates with SuperBenefit's regenerative economics emphasis, demonstrating how [coordination](tags/coordination.md) infrastructure can enable communities to reward environmental stewardship that conventional markets systematically undervalue—showing that effective primitives should help communities define and compensate collective benefit beyond financial metrics.
+- Ecocertain's approach to making ecological benefit economically valuable resonates with SuperBenefit's regenerative economics emphasis, demonstrating how coordination infrastructure can enable communities to reward environmental stewardship that conventional markets systematically undervalue—showing that effective primitives should help communities define and compensate collective benefit beyond financial metrics.
 
-- The platform's connection of verified impact with willing funders provides model for how SuperBenefit can bridge [coordination](tags/coordination.md) between those creating value and those seeking to support it, suggesting that DAO primitives should include discovery and matching mechanisms not just allocation tools—enabling supply and demand for collective benefit to find each other.
+- The platform's connection of verified impact with willing funders provides model for how SuperBenefit can bridge coordination between those creating value and those seeking to support it, suggesting that DAO primitives should include discovery and matching mechanisms not just allocation tools—enabling supply and demand for collective benefit to find each other.
 
-- Ecocertain's focus on creating financial [sustainability](tags/sustainability.md) for regeneration rather than depending on perpetual subsidy validates SuperBenefit's conviction that genuinely regenerative systems must enable economic viability for practices serving collective wellbeing—showing that effective [coordination](tags/coordination.md) creates sustainable support for work that benefits ecosystems and communities, not just one-time funding requiring continuous external resources.
+- Ecocertain's focus on creating financial sustainability for regeneration rather than depending on perpetual subsidy validates SuperBenefit's conviction that genuinely regenerative systems must enable economic viability for practices serving collective wellbeing—showing that effective coordination creates sustainable support for work that benefits ecosystems and communities, not just one-time funding requiring continuous external resources.
 
 ---
 

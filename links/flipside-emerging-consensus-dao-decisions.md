@@ -33,7 +33,7 @@ Flipside's emerging consensus framework addresses [DAO](tags/daos.md) [governanc
 
 ### Practical Applications
 
-Emerging consensus enables balanced [DAO](tags/daos.md) [governance](tags/governance.md):
+Emerging consensus enables balanced DAO governance:
 
 - DAOs can implement graduated decision processes using emerging consensus for operational choices while reserving comprehensive voting for strategic decisions, enabling efficiency without eliminating participation for consequential governance
 

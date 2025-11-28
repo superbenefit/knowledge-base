@@ -14,13 +14,13 @@ tags:
   - coordination
 ---
 
-The [Blockchain](tags/blockchain.md) [Governance](tags/governance.md) Toolkit provides a structured yet flexible approach to designing [governance](tags/governance.md) systems for [blockchain](tags/blockchain.md) networks. Created by BlockchainGov, this "cookbook" offers developers and [community](tags/community.md) leaders a framework for creating [governance](tags/governance.md) structures that balance competing priorities while maintaining resilience and adaptability. Rather than prescribing one-size-fits-all solutions, the toolkit embraces the inherent trade-offs in [governance](tags/governance.md) design and provides modular components that can be combined based on context-specific needs.
+The [Blockchain](tags/blockchain.md) [Governance](tags/governance.md) Toolkit provides a structured yet flexible approach to designing governance systems for blockchain networks. Created by BlockchainGov, this "cookbook" offers developers and [community](tags/community.md) leaders a framework for creating governance structures that balance competing priorities while maintaining resilience and adaptability. Rather than prescribing one-size-fits-all solutions, the toolkit embraces the inherent trade-offs in governance design and provides modular components that can be combined based on context-specific needs.
 
 ### Framework Elements
 
 The toolkit is organized around several key components:
 
-**1. [Governance](tags/governance.md) Trade-offs (Flavors)**: [Blockchain](tags/blockchain.md) [governance](tags/governance.md) involves trade-offs across three dimensions:
+**1. Governance Trade-offs (Flavors)**: Blockchain governance involves trade-offs across three dimensions:
 - **Expediency vs. [Participation](tags/participation.md)**: Balancing between fast, cost-effective decisions made by a select few versus more inclusive [decision-making](tags/decision-making.md) involving a broader group of stakeholders
 - **Immutability vs. Adaptability**: Weighing permanent governance rules versus flexible rules that can change in response to internal and external developments
 - **Determinism vs. Discretion**: Choosing between hard-coded, self-executing on-chain rules and more discretionary, human-driven governance processes
@@ -29,9 +29,9 @@ The toolkit is organized around several key components:
 
 **3. Safeguards**: Essential counterbalances that ensure resilience:
 - For Expediency: Recall mechanisms, slashing, and [power](tags/power.md) checks
-- For [Participation](tags/participation.md): Whitelisting and decay functions  
+- For Participation: Whitelisting and decay functions  
 - For Immutability: Exit, hard forking, and exception states
-- For Adaptability: Formal [blockchain](tags/blockchain.md) constitutions
+- For Adaptability: Formal blockchain constitutions
 - For Determinism: On-chain time delays and smart contract kill switches
 - For Discretion: On-chain fund distributions
 
@@ -40,9 +40,9 @@ The toolkit is organized around several key components:
 **5. Legal Entities**: Integration of legal structures to provide additional protections, contractual capabilities, and limited liability for participants.
 
 ### Key Highlights
-- **Governance Trade-offs (Flavors)**: The toolkit identifies three fundamental tensions in blockchain governance that must be balanced: Expediency vs. [Participation](tags/participation.md) (how widely [decision-making](tags/decision-making.md) [power](tags/power.md) is distributed), Immutability vs. Adaptability (how easily rules can be changed), and Determinism vs. Discretion (how much governance is encoded in smart contracts versus human judgment).
-- **Modular Governance [Primitives](tags/primitives.md)**: Rather than viewing governance as monolithic, the framework breaks governance into composable building blocks ([primitives](tags/primitives.md)) that can be mixed and matched. These include voting mechanisms, proposal systems, parameter controls, and permission structures.
-- **Safeguards and Counterbalances**: The toolkit emphasizes the importance of implementing safeguards that counterbalance governance preferences. For example, systems prioritizing expediency should include recall mechanisms and [power](tags/power.md) checks, while systems emphasizing immutability need clear exit paths and exception handling.
+- **Governance Trade-offs (Flavors)**: The toolkit identifies three fundamental tensions in blockchain governance that must be balanced: Expediency vs. Participation (how widely decision-making power is distributed), Immutability vs. Adaptability (how easily rules can be changed), and Determinism vs. Discretion (how much governance is encoded in smart contracts versus human judgment).
+- **Modular Governance Primitives**: Rather than viewing governance as monolithic, the framework breaks governance into composable building blocks (primitives) that can be mixed and matched. These include voting mechanisms, proposal systems, parameter controls, and permission structures.
+- **Safeguards and Counterbalances**: The toolkit emphasizes the importance of implementing safeguards that counterbalance governance preferences. For example, systems prioritizing expediency should include recall mechanisms and power checks, while systems emphasizing immutability need clear exit paths and exception handling.
 - **Adaptive Feedback Loops**: The framework incorporates continuous feedback mechanisms that allow governance systems to evolve based on both internal signals and external developments, creating resilience through responsive adaptation rather than rigid structures.
 - **Multi-stakeholder Design Considerations**: Recognizing that different stakeholders have different needs and incentives, the toolkit provides approaches for aligning diverse interests through token engineering, reputation systems, and layered governance structures.
 
@@ -54,7 +54,7 @@ The toolkit can be applied across various blockchain contexts to:
 - Evolve governance for existing [DAOs](tags/daos.md) and protocols facing [coordination](tags/coordination.md) challenges at scale
 - Create specialized governance mechanisms for specific functions like treasury management, dispute resolution, or protocol upgrades
 - Implement graduated safeguards that grow more robust as the value secured by a protocol increases
-- Develop cross-chain governance mechanisms that enable [coordination](tags/coordination.md) between interconnected protocols
+- Develop cross-chain governance mechanisms that enable coordination between interconnected protocols
 
 The modular approach allows teams to start with minimal viable governance and iteratively add components as their projects mature, rather than attempting to design perfect systems from the outset.
 
@@ -62,12 +62,12 @@ The modular approach allows teams to start with minimal viable governance and it
 
 - Directly supports SuperBenefit's multi-stakeholder governance approach with its modular primitives that can be recombined for different contexts.
 - Offers concrete mechanisms for implementing "capture-resistant governance" that distributes authority across networks rather than concentrating it.
-- The balance between deterministic and discretionary governance mirrors SuperBenefit's exploration of on-chain and off-chain [coordination](tags/coordination.md) systems.
+- The balance between deterministic and discretionary governance mirrors SuperBenefit's exploration of on-chain and off-chain coordination systems.
 - The toolkit's emphasis on safeguards resonates with SuperBenefit's concern for protecting shared resources while enabling permissionless participation.
 
 ### Design Philosophy
 
-The toolkit advocates for governance systems customized to fit specific project needs and contexts. It emphasizes balancing governance preferences and applying the right mix of primitives and safeguards to ensure systems are adaptable yet robust, resilient enough to handle unforeseen challenges while remaining responsive to [community](tags/community.md) needs.
+The toolkit advocates for governance systems customized to fit specific project needs and contexts. It emphasizes balancing governance preferences and applying the right mix of primitives and safeguards to ensure systems are adaptable yet robust, resilient enough to handle unforeseen challenges while remaining responsive to community needs.
 
 ---
 

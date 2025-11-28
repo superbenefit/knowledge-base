@@ -43,7 +43,7 @@ Bridle's ecological framework offers generative provocations rather than direct 
 
 - Technology designers and developers can use ecological principles as evaluation criteria—asking whether systems acknowledge interdependence, embrace appropriate opacity, operate across adequate timescales, and participate in rather than dominate ecological relationships
 
-- Sustainability practitioners can apply Bridle's critique of "[sustainability](tags/sustainability.md)" as maintaining extractive systems, shifting toward ecological approaches that fundamentally reimagine relationship between human technologies and living world
+- Sustainability practitioners can apply Bridle's critique of "sustainability" as maintaining extractive systems, shifting toward ecological approaches that fundamentally reimagine relationship between human technologies and living world
 
 - Indigenous-led technology projects can reference the interview when articulating why their approaches differ from Western tech paradigms—the conversation provides accessible language for sophisticated indigenous technological traditions
 
@@ -61,7 +61,7 @@ The interview's value lies in expanding imaginative possibilities rather than pr
 
 - Bridle's ecological technology framework challenges SuperBenefit to ensure regenerative approaches engage relationship with the more-than-human world rather than merely optimizing extractive systems—suggesting that genuinely regenerative [coordination](tags/coordination.md) must acknowledge interdependence with living systems and bioregional contexts, not just reduce carbon footprints or improve social equity within fundamentally extractive structures.
 
-- The emphasis on different temporalities and slowness offers critical counterpoint to Web3's speed obsessions, resonating with SuperBenefit's experience that trust-building and relationship work in experiments like AIFS required patience across seasons and cycles rather than rapid iteration toward predetermined outcomes—some [coordination](tags/coordination.md) emerges through attention and care rather than efficiency optimization.
+- The emphasis on different temporalities and slowness offers critical counterpoint to Web3's speed obsessions, resonating with SuperBenefit's experience that trust-building and relationship work in experiments like AIFS required patience across seasons and cycles rather than rapid iteration toward predetermined outcomes—some coordination emerges through attention and care rather than efficiency optimization.
 
 - Bridle's respect for indigenous technological traditions as sophisticated multi-generational practices grounds SuperBenefit's decolonial commitments, showing why indigenous knowledge must fundamentally inform regenerative design rather than being consulted as validation for predetermined Western approaches.
 

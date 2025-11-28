@@ -15,17 +15,17 @@ tags:
 
 _Eligibility refers to the set of criteria, conditions, or qualifications that determine whether an individual, group, or entity can participate in specific activities, access particular resources, or exercise certain rights within a system or network._
 
-In [decentralized](decentralization.md) contexts, eligibility mechanisms establish boundaries that help balance openness with necessary constraints. They create frameworks for determining who can participate in [governance](governance.md), receive resources, or take on specific roles while maintaining alignment with organizational purpose. Unlike traditional access controls that often rely on centralized gatekeepers, [decentralized](decentralization.md) eligibility systems frequently leverage transparent, verifiable credentials, on-chain history, or cryptographic proofs to establish qualification without requiring trusted intermediaries.
+In [decentralized](decentralization.md) contexts, eligibility mechanisms establish boundaries that help balance openness with necessary constraints. They create frameworks for determining who can participate in [governance](governance.md), receive resources, or take on specific roles while maintaining alignment with organizational purpose. Unlike traditional access controls that often rely on centralized gatekeepers, decentralized eligibility systems frequently leverage transparent, verifiable credentials, on-chain history, or cryptographic proofs to establish qualification without requiring trusted intermediaries.
 
-Well-designed eligibility systems balance inclusivity with protection against exploitation or capture. They establish clear, fair criteria that align with an organization's [values](values.md) and purpose while remaining flexible enough to adapt to changing conditions. The mechanisms used to determine and verify eligibility represent critical [governance](governance.md) decisions that fundamentally shape who has voice, influence, and access in [decentralized](decentralization.md) systems.
+Well-designed eligibility systems balance inclusivity with protection against exploitation or capture. They establish clear, fair criteria that align with an organization's [values](values.md) and purpose while remaining flexible enough to adapt to changing conditions. The mechanisms used to determine and verify eligibility represent critical governance decisions that fundamentally shape who has voice, influence, and access in decentralized systems.
 
 ---
 
 ## Uses of "Eligibility"
 
-### Eligibility in DAO [Governance](governance.md)
+### Eligibility in DAO Governance
 
-In DAO [governance](governance.md) contexts, eligibility defines who can participate in various [decision-making](decision-making.md) processes. These criteria help ensure that those with appropriate context, stake, or relevant experience can influence decisions while protecting against potential attacks or manipulation.
+In DAO governance contexts, eligibility defines who can participate in various [decision-making](decision-making.md) processes. These criteria help ensure that those with appropriate context, stake, or relevant experience can influence decisions while protecting against potential attacks or manipulation.
 
 Common governance eligibility mechanisms include:
 
@@ -35,7 +35,7 @@ Common governance eligibility mechanisms include:
 - **Delegation qualification**: Establishing criteria for who can receive delegated voting [power](power.md)
 - **Committee membership**: Determining who can serve in specialized governance roles
 
-As discussed in [Community](community.md) Governance, effective governance often implements different eligibility requirements at different scales, with more stringent criteria for high-impact decisions and broader [participation](participation.md) for constituency-level direction setting.
+As discussed in Community Governance, effective governance often implements different eligibility requirements at different scales, with more stringent criteria for high-impact decisions and broader [participation](participation.md) for constituency-level direction setting.
 
 ### Eligibility in Resource Allocation
 
@@ -43,7 +43,7 @@ In the context of resource distribution and funding, eligibility defines the con
 
 Examples include:
 
-- **Grant eligibility**: Qualifications required to receive funding from [community](community.md) treasuries
+- **Grant eligibility**: Qualifications required to receive funding from community treasuries
 - **Retroactive funding**: Criteria for receiving rewards based on demonstrated impact
 - **Treasury access**: Requirements for initiating or approving expenditures from shared resources
 - **Quadratic funding matching**: Conditions for projects to participate in matching fund distributions
@@ -59,9 +59,9 @@ In the Cell working group pattern, eligibility for different roles is documented
 - **Skill or knowledge requirements**: Technical capabilities needed for specialized roles
 - **Contribution history**: Track record of engagement required for responsible positions
 - **Attestations**: Verification or endorsements from existing participants
-- **Time commitment**: Availability requirements for consistent [participation](participation.md)
+- **Time commitment**: Availability requirements for consistent participation
 
-As noted in Minimum Viable Permissionless-ness, effective decentralized organizations balance permissionless access to the network with appropriate eligibility criteria for resource allocation and [decision-making](decision-making.md) authority.
+As noted in [Minimum Viable Permissionless-ness](../artifacts/articles/network-evolution/Minimum Viable Permissionless-ness.md), effective decentralized organizations balance permissionless access to the network with appropriate eligibility criteria for resource allocation and decision-making authority.
 
 ## Related Concepts
 

@@ -12,7 +12,7 @@ publish: "true"
 
 _Agreements are formalized understandings or commitments between parties that establish shared expectations, terms, and parameters for interaction, resource allocation, and collective action, creating a foundation for [coordination](coordination.md) and accountability._
 
-Agreements serve as the connective tissue in any [coordination](coordination.md) system, enabling diverse entities to align their actions without requiring centralized control. They transform implicit assumptions into explicit commitments that can be referenced, revised, and relied upon. In [decentralized](decentralization.md) systems, agreements take on particular importance as they replace traditional command structures with consent-based protocols that respect the [autonomy](autonomy.md) of participants while ensuring coherent collective action.
+Agreements serve as the connective tissue in any coordination system, enabling diverse entities to align their actions without requiring centralized control. They transform implicit assumptions into explicit commitments that can be referenced, revised, and relied upon. In [decentralized](decentralization.md) systems, agreements take on particular importance as they replace traditional command structures with consent-based protocols that respect the [autonomy](autonomy.md) of participants while ensuring coherent collective action.
 
 The form of agreements can vary widely - from informal social norms to detailed smart contracts with automated enforcement. Regardless of their form, effective agreements balance clarity and flexibility, providing enough structure to enable confident action while allowing for adaptation as contexts change. In web3 and DAO contexts, agreements often exist across multiple layers simultaneously: as social commitments, [governance](governance.md) protocols, and executable code.
 
@@ -20,9 +20,9 @@ The form of agreements can vary widely - from informal social norms to detailed 
 
 ## Uses of "Agreements"
 
-### Agreements in DAO [Primitives](primitives.md) Framework
+### Agreements in [DAO Primitives framework](../artifacts/guides/dao-primitives-framework/index.md)
 
-In the DAO [Primitives](primitives.md) Framework, agreements are considered one of three foundational organizational [primitives](primitives.md) alongside entities/groups and networks. They represent the commitments within and between entities that allow for [coordination](coordination.md) across different scales. The framework identifies several key types of agreements that form the basis of [decentralized](decentralization.md) [coordination](coordination.md):
+In the DAO [Primitives](primitives.md) Framework, agreements are considered one of three foundational organizational primitives alongside entities/groups and networks. They represent the commitments within and between entities that allow for coordination across different scales. The framework identifies several key types of agreements that form the basis of decentralized coordination:
 
 - **Purpose agreements**: Shared commitments to the "why" of a collective effort
 - **Practice agreements**: How a group operates, makes decisions, and governs itself
@@ -30,23 +30,23 @@ In the DAO [Primitives](primitives.md) Framework, agreements are considered one 
 
 Within this framework, specific organizational structures like Cells, Roles, and Tasks are implementations of different types of agreements. The Cell state pattern demonstrates how agreements can be documented to provide both internal coherence for team collaboration and external [transparency](transparency.md) for network coordination.
 
-### Agreements in [Governance](governance.md) Systems
+### Agreements in Governance Systems
 
-In [governance](governance.md) contexts, agreements establish the rules, processes, and boundaries for collective [decision-making](decision-making.md). These can include:
+In governance contexts, agreements establish the rules, processes, and boundaries for collective [decision-making](decision-making.md). These can include:
 
 - **Decision protocols**: Methods for reaching collective decisions such as consent-based or [consensus](consensus.md)-based processes
-- **Policies**: Formalized rules and guidelines that establish parameters for [decision-making](decision-making.md)
+- **Policies**: Formalized rules and guidelines that establish parameters for decision-making
 - **Permission systems**: Frameworks defining who can take which actions in what contexts
-- **Delegation frameworks**: Rules for transferring [decision-making](decision-making.md) authority between parties
+- **Delegation frameworks**: Rules for transferring decision-making authority between parties
 
-As described in [Governance](governance.md) for better futures, effective governance agreements must balance structure with emergence, enabling both consistency and adaptation as circumstances evolve.
+As described in Governance for better futures, effective governance agreements must balance structure with emergence, enabling both consistency and adaptation as circumstances evolve.
 
 ### Agreements in Web3 and [Blockchain](blockchain.md) Systems
 
 In web3 contexts, agreements often take the form of technical protocols and smart contracts that automate enforcement and verification. These include:
 
 - **Smart contracts**: Self-executing agreements with terms directly written into code
-- **Protocol parameters**: Rules governing how [decentralized](decentralization.md) systems operate
+- **Protocol parameters**: Rules governing how decentralized systems operate
 - **Token agreements**: Rights and responsibilities associated with token ownership
 - **Digital signatures**: Cryptographic verification of consent to specific terms
 
@@ -54,14 +54,14 @@ These technical implementations allow agreements to function across trustless en
 
 ### Agreements in [Community](community.md) Coordination
 
-At the [community](community.md) level, agreements establish shared norms, [values](values.md), and practices that enable large groups to collaborate effectively. These often include:
+At the community level, agreements establish shared norms, [values](values.md), and practices that enable large groups to collaborate effectively. These often include:
 
 - **Codes of conduct**: Expectations for behavior and interaction
-- **Cultural norms**: Implicit agreements about [values](values.md) and priorities
+- **Cultural norms**: Implicit agreements about values and priorities
 - **Reputation systems**: Social agreements about how contribution is recognized
 - **Resource allocation**: Processes for making decisions about shared resources
 
-The success of initiatives like [Community](community.md) Governance depends on creating agreements that stakeholders find legitimate, accessible, and aligned with their needs and values.
+The success of initiatives like Community Governance depends on creating agreements that stakeholders find legitimate, accessible, and aligned with their needs and values.
 
 ## Related Concepts
 

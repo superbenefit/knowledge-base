@@ -15,7 +15,7 @@ tags:
   - [governance](tags/governance.md)-commons
 ---
 
-Noema's essay reimagines democracy through open-source software metaphor, showing how participatory development, iterative improvement, and collaborative [governance](tags/governance.md) could transform democratic practice. Just as open-source communities continuously improve code through diverse contributor collaboration, democratic systems could evolve through participatory experimentation rather than remaining locked in 18th-century institutional forms. The article explores how treating [governance](tags/governance.md) as commons enabling collective innovation—forking experiments, sharing improvements, adapting to contexts—creates living democracy continuously renewed rather than static structures defending against change.
+Noema's essay reimagines democracy through open-source software metaphor, showing how participatory development, iterative improvement, and collaborative [governance](tags/governance.md) could transform democratic practice. Just as open-source communities continuously improve code through diverse contributor collaboration, democratic systems could evolve through participatory experimentation rather than remaining locked in 18th-century institutional forms. The article explores how treating governance as commons enabling collective innovation—forking experiments, sharing improvements, adapting to contexts—creates living democracy continuously renewed rather than static structures defending against change.
 
 ### Key Highlights
 
@@ -47,11 +47,11 @@ This framework enables democratic innovation:
 
 ### Connection With SuperBenefit
 
-- Noema's open-source democracy framework resonates with SuperBenefit's pattern-based approach enabling adaptation rather than prescriptive structures, showing that effective [coordination](tags/coordination.md) should support continuous evolution through participatory experimentation—demonstrating that DAO primitives should enable communities to fork, modify, and share governance innovations rather than locking into founding configurations.
+- Noema's open-source democracy framework resonates with SuperBenefit's pattern-based approach enabling adaptation rather than prescriptive structures, showing that effective coordination should support continuous evolution through participatory experimentation—demonstrating that DAO primitives should enable communities to fork, modify, and share governance innovations rather than locking into founding configurations.
 
-- The emphasis on governance as commons validates SuperBenefit's conviction that [coordination](tags/coordination.md) tools should be collective resources communities steward together, showing that effective primitives function as public infrastructure enabling diverse uses rather than proprietary platforms extracting value from users.
+- The emphasis on governance as commons validates SuperBenefit's conviction that coordination tools should be collective resources communities steward together, showing that effective primitives function as public infrastructure enabling diverse uses rather than proprietary platforms extracting value from users.
 
-- Noema's vision of participatory governance development provides model for SuperBenefit ensuring [coordination](tags/coordination.md) primitive creation involves diverse [community](tags/community.md) voices rather than only technical builders—showing that genuinely democratic tools emerge from collaborative development process not expert design imposed on users.
+- Noema's vision of participatory governance development provides model for SuperBenefit ensuring coordination primitive creation involves diverse [community](tags/community.md) voices rather than only technical builders—showing that genuinely democratic tools emerge from collaborative development process not expert design imposed on users.
 
 ---
 

@@ -15,7 +15,7 @@ tags:
   - watershed-economics
 ---
 
-BioFi Cultivator provides framework for bioregional finance—economic systems rooted in specific ecological regions that fund restoration, reward ecosystem stewardship, and build [community](tags/community.md) wellbeing aligned with watershed and landscape health. Rather than abstract global finance disconnected from place, bioregional approaches create financial mechanisms serving specific territories and the human and more-than-human [communities](tags/community.md) within them. The framework shows how local currencies, ecological certificates, watershed bonds, and other tools can direct resources toward regeneration while keeping value circulating within regions. This addresses how regenerative economics requires reconnecting finance with place, ecology, and long-term landscape health rather than extracting toward distant investors.
+BioFi Cultivator provides framework for bioregional finance—economic systems rooted in specific ecological regions that fund restoration, reward ecosystem stewardship, and build [community](tags/community.md) wellbeing aligned with watershed and landscape health. Rather than abstract global finance disconnected from place, bioregional approaches create financial mechanisms serving specific territories and the human and more-than-human communities within them. The framework shows how local currencies, ecological certificates, watershed bonds, and other tools can direct resources toward regeneration while keeping value circulating within regions. This addresses how regenerative economics requires reconnecting finance with place, ecology, and long-term landscape health rather than extracting toward distant investors.
 
 ### Key Highlights
 
@@ -23,13 +23,13 @@ BioFi Cultivator provides framework for bioregional finance—economic systems r
 
 - **Ecological Health as Foundation**: The framework positions ecosystem health as economic foundation rather than externality, creating financial mechanisms rewarding biodiversity enhancement, soil regeneration, water quality, and landscape resilience.
 
-- **Community Stewardship**: BioFi connects bioregional finance with [community](tags/community.md) [governance](tags/governance.md), showing how place-based economic systems enable local stewardship rather than extraction by distant investors with no relationship to land.
+- **Community Stewardship**: BioFi connects bioregional finance with community [governance](tags/governance.md), showing how place-based economic systems enable local stewardship rather than extraction by distant investors with no relationship to land.
 
 - **Diverse Financial Tools**: The Cultivator documents various bioregional finance mechanisms including watershed bonds funding ecological restoration, bioregional currencies keeping value local, ecological certificates rewarding verified environmental benefit.
 
 - **Long-Term Orientation**: Bioregional finance emphasizes multi-generational timeframes matching ecosystem cycles, challenging short-term profit maximization that drives environmental destruction for immediate financial returns.
 
-- **Integrated Systems**: BioFi shows how bioregional finance integrates with food systems, energy, housing, and [governance](tags/governance.md)—recognizing that regenerative economics requires systemic transformation rather than isolated financial mechanisms.
+- **Integrated Systems**: BioFi shows how bioregional finance integrates with food systems, energy, housing, and governance—recognizing that regenerative economics requires systemic transformation rather than isolated financial mechanisms.
 
 ### Practical Applications
 
@@ -37,7 +37,7 @@ This framework enables bioregional economic development:
 
 - Watershed organizations can explore BioFi mechanisms for funding ecological restoration, using bonds or certificates that create financial return from verified environmental benefit rather than relying only on [grants](tags/grants.md) or government funding
 
-- Bioregional [communities](tags/community.md) can implement local currencies keeping economic value circulating within territories while funding local ecological stewardship rather than extracting toward global financial centers
+- Bioregional communities can implement local currencies keeping economic value circulating within territories while funding local ecological stewardship rather than extracting toward global financial centers
 
 - Land stewards can access bioregional finance rewarding regenerative practices—from soil carbon sequestration to biodiversity enhancement to water quality—creating economic viability for ecological restoration
 
@@ -47,11 +47,11 @@ This framework enables bioregional economic development:
 
 ### Connection With SuperBenefit
 
-- BioFi's emphasis on place-based economics challenges SuperBenefit to consider how [coordination](tags/coordination.md) primitives can serve bioregional [communities](tags/community.md) rather than only placeless global DAOs—suggesting that effective tools should enable territorial [governance](tags/governance.md) and finance rooted in specific landscapes and watersheds, not just abstract digital [coordination](tags/coordination.md) disconnected from ecological contexts.
+- BioFi's emphasis on place-based economics challenges SuperBenefit to consider how [coordination](tags/coordination.md) primitives can serve bioregional communities rather than only placeless global DAOs—suggesting that effective tools should enable territorial governance and finance rooted in specific landscapes and watersheds, not just abstract digital coordination disconnected from ecological contexts.
 
-- The framework's positioning of ecological health as economic foundation resonates with SuperBenefit's regenerative approach, demonstrating that genuinely regenerative systems must reward ecosystem stewardship and landscape resilience rather than treating environmental benefit as unmeasurable positive externality—showing that [coordination](tags/coordination.md) mechanisms should enable [communities](tags/community.md) to value and fund what sustains collective thriving including more-than-human wellbeing.
+- The framework's positioning of ecological health as economic foundation resonates with SuperBenefit's regenerative approach, demonstrating that genuinely regenerative systems must reward ecosystem stewardship and landscape resilience rather than treating environmental benefit as unmeasurable positive externality—showing that coordination mechanisms should enable communities to value and fund what sustains collective thriving including more-than-human wellbeing.
 
-- BioFi's multi-generational orientation validates SuperBenefit's understanding that effective [coordination](tags/coordination.md) requires long-term perspective matching ecosystem and [community](tags/community.md) cycles rather than optimizing for quarterly returns or rapid iteration—suggesting that DAO primitives should support patient sustained investment in regeneration over years and decades, not just efficient short-term transactions.
+- BioFi's multi-generational orientation validates SuperBenefit's understanding that effective coordination requires long-term perspective matching ecosystem and community cycles rather than optimizing for quarterly returns or rapid iteration—suggesting that DAO primitives should support patient sustained investment in regeneration over years and decades, not just efficient short-term transactions.
 
 ---
 

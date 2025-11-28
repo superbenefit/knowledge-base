@@ -153,7 +153,7 @@ The Green Pill Network demonstrates coordi-nations principles through its networ
 - **Pure Networks**: Lack coordination mechanisms for collective action and resource sharing
 
 ### Implementation Resources
-- SuperBenefit DAO Primitives Framework for governance structures
+- SuperBenefit [DAO Primitives framework](../artifacts/guides/dao-primitives-framework/index.md) for governance structures
 - All In For Sport case study documentation
 - Blockchaingov research on coordi-nations implementation
 - "Overthrowing the Network State" podcast series

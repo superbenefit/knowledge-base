@@ -31,15 +31,15 @@ Knowledge workers use refizzing to transform initial brain dumps, meeting notes,
 
 ### Refizz in Collaborative Documentation
 
-Within collaborative teams and [community](community.md), refizzing serves as a [community](community.md) practice where members improve each other's contributions without diminishing the value of initial documentation efforts. This collaborative approach to refinement allows specialists to contribute domain expertise while enabling others to enhance how that information is structured and presented.
+Within collaborative teams and community, refizzing serves as a community practice where members improve each other's contributions without diminishing the value of initial documentation efforts. This collaborative approach to refinement allows specialists to contribute domain expertise while enabling others to enhance how that information is structured and presented.
 
-As seen in the SuperBenefit [community](community.md)'s practices, members explicitly "do a refizz" on documents, reports, and knowledge assets to simplify concepts, improve clarity, and ensure information serves its intended purpose. This normalized practice creates psychological safety around sharing early-stage work with the understanding that collective refizzing will enhance rather than replace individual contributions.
+As seen in the SuperBenefit community's practices, members explicitly "do a refizz" on documents, reports, and knowledge assets to simplify concepts, improve clarity, and ensure information serves its intended purpose. This normalized practice creates psychological safety around sharing early-stage work with the understanding that collective refizzing will enhance rather than replace individual contributions.
 
 ### Refizz in DAO Operations
 
 In [decentralized](decentralization.md) autonomous organization (DAO) contexts, refizzing plays a particularly important role in [governance](governance.md) documentation and proposal development. As [DAOs](daos.md) operate through distributed [decision-making](decision-making.md) processes, clear documentation becomes essential for informed [participation](participation.md).
 
-Refizzing [governance](governance.md) documents, proposals, and technical specifications helps ensure that diverse stakeholders with varying levels of context can meaningfully engage with important decisions. The practice supports more inclusive [governance](governance.md) by transforming specialist knowledge into formats accessible to the broader [community](community.md) while maintaining accuracy and depth.
+Refizzing governance documents, proposals, and technical specifications helps ensure that diverse stakeholders with varying levels of context can meaningfully engage with important decisions. The practice supports more inclusive governance by transforming specialist knowledge into formats accessible to the broader community while maintaining accuracy and depth.
 
 ## Related Concepts
 

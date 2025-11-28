@@ -16,13 +16,13 @@ tags:
   - regenerative-economics
 ---
 
-This policy briefing from the Wellbeing Economy Alliance (WEAll) articulates how [commons](tags/commons.md)-based approaches to resource [governance](tags/governance.md) can serve collective wellbeing and ecological health rather than perpetuating extractive growth economics. WEAll—a global collaboration of organizations, alliances, and individuals working toward wellbeing economies—synthesizes [commons](tags/commons.md) theory, ecological economics, and practical [governance](tags/governance.md) examples to show why shared stewardship of resources offers viable alternative to both privatization and state control. The briefing makes accessible complex economic concepts, providing frameworks and case studies that policymakers, [community](tags/community.md) organizers, and practitioners can use to advocate for and implement [commons](tags/commons.md) approaches in diverse contexts from local land trusts to digital platform [governance](tags/governance.md).
+This policy briefing from the Wellbeing Economy Alliance (WEAll) articulates how [commons](tags/commons.md)-based approaches to resource [governance](tags/governance.md) can serve collective wellbeing and ecological health rather than perpetuating extractive growth economics. WEAll—a global collaboration of organizations, alliances, and individuals working toward wellbeing economies—synthesizes commons theory, ecological economics, and practical governance examples to show why shared stewardship of resources offers viable alternative to both privatization and state control. The briefing makes accessible complex economic concepts, providing frameworks and case studies that policymakers, [community](tags/community.md) organizers, and practitioners can use to advocate for and implement commons approaches in diverse contexts from local land trusts to digital platform governance.
 
 ### Key Highlights
 
-- **Wellbeing vs. GDP Growth**: The briefing challenges growth-at-all-costs economics, showing how commons [governance](tags/governance.md) can prioritize collective wellbeing, ecological health, and equitable access rather than maximizing GDP—offering economic frameworks that serve regeneration rather than extraction.
+- **Wellbeing vs. GDP Growth**: The briefing challenges growth-at-all-costs economics, showing how commons governance can prioritize collective wellbeing, ecological health, and equitable access rather than maximizing GDP—offering economic frameworks that serve regeneration rather than extraction.
 
-- **Commons Governance Models**: The work documents diverse commons governance approaches including [community](tags/community.md) land trusts, cooperative management of fisheries and forests, indigenous stewardship systems, and digital commons—demonstrating that shared resource governance works across scales and contexts when properly designed.
+- **Commons Governance Models**: The work documents diverse commons governance approaches including community land trusts, cooperative management of fisheries and forests, indigenous stewardship systems, and digital commons—demonstrating that shared resource governance works across scales and contexts when properly designed.
 
 - **Against False Dichotomy**: The briefing explicitly counters the presumed choice between private property (leading to extraction) and state ownership (leading to inefficiency), showing how commons offer third way that combines distributed stewardship with collective accountability.
 
@@ -32,17 +32,17 @@ This policy briefing from the Wellbeing Economy Alliance (WEAll) articulates how
 
 - **Social Equity**: The work addresses how commons can promote equity by ensuring access based on need and participation rather than wealth, challenging systems where money determines who benefits from shared resources.
 
-- **Policy Recommendations**: Unlike merely theoretical advocacy, the briefing offers concrete policy mechanisms for supporting commons including legal frameworks for [community](tags/community.md) ownership, public funding for commons infrastructure, and regulation that protects shared resources from enclosure.
+- **Policy Recommendations**: Unlike merely theoretical advocacy, the briefing offers concrete policy mechanisms for supporting commons including legal frameworks for community ownership, public funding for commons infrastructure, and regulation that protects shared resources from enclosure.
 
 ### Practical Applications
 
 This briefing enables commons implementation across scales:
 
-- Local [communities](tags/community.md) can reference the documented commons models when establishing [community](tags/community.md) land trusts, tool libraries, cooperative energy systems, or shared workspace—learning from proven approaches rather than starting from scratch
+- Local communities can reference the documented commons models when establishing community land trusts, tool libraries, cooperative energy systems, or shared workspace—learning from proven approaches rather than starting from scratch
 
-- Policy makers can adopt the recommended legal and funding frameworks to enable commons governance, creating institutional support for [community](tags/community.md) stewardship rather than assuming all resources must be privately owned or state-managed
+- Policy makers can adopt the recommended legal and funding frameworks to enable commons governance, creating institutional support for community stewardship rather than assuming all resources must be privately owned or state-managed
 
-- Environmental organizations can use the ecological limits framing to advocate for commons-based resource management that enables collective self-limitation, showing why shared governance serves [sustainability](tags/sustainability.md) better than market competition
+- Environmental organizations can use the ecological limits framing to advocate for commons-based resource management that enables collective self-limitation, showing why shared governance serves sustainability better than market competition
 
 - Economic justice advocates can employ the briefing when arguing that wellbeing economics requires commons approaches, not just wealth redistribution within growth-based systems—articulating systemic alternatives to extractive capitalism
 
@@ -60,7 +60,7 @@ The policy-oriented framing makes the briefing particularly useful for advocacy 
 
 - The documented commons governance models across community land trusts, cooperative fisheries, and indigenous stewardship systems validate SuperBenefit's emphasis on shared resource management and community stewardship, offering proven precedents that DAO governance can learn from rather than assuming blockchain represents entirely novel [coordination](tags/coordination.md) challenges.
 
-- The briefing's articulation of commons as third way beyond private property and state control resonates with SuperBenefit's exploration of [coordination](tags/coordination.md) systems that distribute [power](tags/power.md) beyond traditional market/state dichotomies, showing how participatory resource governance can combine distributed stewardship with collective accountability—relevant to how DAOs can serve commons rather than reproducing corporate structures with tokens.
+- The briefing's articulation of commons as third way beyond private property and state control resonates with SuperBenefit's exploration of coordination systems that distribute [power](tags/power.md) beyond traditional market/state dichotomies, showing how participatory resource governance can combine distributed stewardship with collective accountability—relevant to how DAOs can serve commons rather than reproducing corporate structures with tokens.
 
 ---
 

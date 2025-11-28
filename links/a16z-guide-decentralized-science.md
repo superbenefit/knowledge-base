@@ -15,19 +15,19 @@ tags:
   - scientific-commons
 ---
 
-Andreessen Horowitz's DeSci guide introduces decentralized science movement seeking to reform scientific research through [blockchain](tags/blockchain.md)-enabled [coordination](tags/coordination.md) mechanisms. The guide examines how current research system faces challenges around funding allocation (often captured by established institutions and conservative peer review), data accessibility (paywalls and proprietary databases), intellectual property restrictions, and reproducibility crises. DeSci proponents argue that Web3 tools—including decentralized research funding through [DAOs](tags/daos.md), tokenized intellectual property, [blockchain](tags/blockchain.md)-based peer review, and public research data storage—could address these systemic issues by creating more open, transparent, and [community](tags/community.md)-governed scientific infrastructure. While maintaining venture capital perspective that emphasizes innovation and disruption, the guide provides accessible overview of DeSci landscape including funding mechanisms, tooling projects, and early experiments in applying decentralized [coordination](tags/coordination.md) to scientific knowledge production.
+Andreessen Horowitz's DeSci guide introduces decentralized science movement seeking to reform scientific research through [blockchain](tags/blockchain.md)-enabled [coordination](tags/coordination.md) mechanisms. The guide examines how current research system faces challenges around funding allocation (often captured by established institutions and conservative peer review), data accessibility (paywalls and proprietary databases), intellectual property restrictions, and reproducibility crises. DeSci proponents argue that Web3 tools—including decentralized research funding through [DAOs](tags/daos.md), tokenized intellectual property, blockchain-based peer review, and public research data storage—could address these systemic issues by creating more open, transparent, and [community](tags/community.md)-governed scientific infrastructure. While maintaining venture capital perspective that emphasizes innovation and disruption, the guide provides accessible overview of DeSci landscape including funding mechanisms, tooling projects, and early experiments in applying decentralized coordination to scientific knowledge production.
 
 ### Key Highlights
 
 - **Scientific System Challenges**: Guide clearly articulates problems with current research funding, publishing, and data sharing systems—including gatekeeping by established institutions, slow peer review, paywalled access, and reproducibility issues.
 
-- **DeSci Mechanisms Overview**: Explains how [blockchain](tags/blockchain.md) tools could address scientific system challenges through decentralized funding [DAOs](tags/daos.md), tokenized IP enabling shared ownership of research outputs, [blockchain](tags/blockchain.md)-based peer review providing transparent evaluation, and public data repositories.
+- **DeSci Mechanisms Overview**: Explains how blockchain tools could address scientific system challenges through decentralized funding DAOs, tokenized IP enabling shared ownership of research outputs, blockchain-based peer review providing transparent evaluation, and public data repositories.
 
-- **Emerging DeSci Projects**: Guide catalogs early DeSci initiatives including research funding [DAOs](tags/daos.md), decentralized publishing platforms, scientific NFTs for data and findings, and [coordination](tags/coordination.md) tools for distributed research collaborations.
+- **Emerging DeSci Projects**: Guide catalogs early DeSci initiatives including research funding DAOs, decentralized publishing platforms, scientific NFTs for data and findings, and coordination tools for distributed research collaborations.
 
 - **Accessible Introduction**: Provides entry point for scientists, funders, and policymakers to understand DeSci concepts without requiring deep blockchain knowledge, translating technical mechanisms into scientific context.
 
-- **Critical Considerations**: While generally enthusiastic, guide acknowledges implementation challenges including scientific [community](tags/community.md) adoption barriers, regulatory questions around tokenized IP, and need to prove DeSci mechanisms actually improve research quality and accessibility.
+- **Critical Considerations**: While generally enthusiastic, guide acknowledges implementation challenges including scientific community adoption barriers, regulatory questions around tokenized IP, and need to prove DeSci mechanisms actually improve research quality and accessibility.
 
 - **Venture Capital Framing**: a16z perspective emphasizes innovation and market opportunities in DeSci, which may downplay concerns about financialization of science or commodification of knowledge commons.
 
@@ -37,7 +37,7 @@ This guide enables DeSci exploration and engagement:
 
 - Research scientists can understand how DeSci mechanisms might address frustrations with current funding and publishing systems, evaluating whether blockchain-based alternatives align with their values and research needs
 
-- Research funders and foundations can explore decentralized funding mechanisms as potential alternative or complement to traditional grant-making, understanding DAO [coordination](tags/coordination.md) for scientific resource allocation
+- Research funders and foundations can explore decentralized funding mechanisms as potential alternative or complement to traditional grant-making, understanding DAO coordination for scientific resource allocation
 
 - Academic institutions can assess DeSci relevance for open science initiatives, data sharing policies, and research infrastructure, determining where blockchain tools might support institutional missions versus introducing unwanted financialization
 

@@ -27,7 +27,7 @@ This academic research explores how organizations create open-ended roles throug
 
 - **Organizational Flexibility**: The research demonstrates how negotiated role construction enables adaptive organizations to respond to changing environments, contrasting with bureaucratic structures where role rigidity prevents response to emerging challenges.
 
-- **[Power](tags/power.md) and [Participation](tags/participation.md)**: The work examines how negotiated joining distributes [power](tags/power.md) in role definition, showing potential for participatory construction while noting risks that negotiation could concentrate [power](tags/power.md) with those comfortable advocating for themselves.
+- **[Power](tags/power.md) and [Participation](tags/participation.md)**: The work examines how negotiated joining distributes power in role definition, showing potential for participatory construction while noting risks that negotiation could concentrate power with those comfortable advocating for themselves.
 
 - **Implications for Distributed Organizations**: The findings apply particularly to networked and [decentralized](tags/decentralization.md) contexts where traditional hierarchical role definition doesn't fit, suggesting that [DAOs](tags/daos.md) and platform cooperatives might benefit from negotiated role construction.
 
@@ -37,21 +37,21 @@ This research enables adaptive role construction:
 
 - Organizations can implement negotiated joining processes when integrating new participants, creating space for dialogue about responsibilities rather than only offering predetermined positions that may not match capabilities or needs
 
-- [DAOs](tags/daos.md) can apply negotiated role construction when defining contributor relationships, enabling flexible responsibilities that adapt as projects and participants evolve rather than rigid positions specified in founding documents
+- DAOs can apply negotiated role construction when defining contributor relationships, enabling flexible responsibilities that adapt as projects and participants evolve rather than rigid positions specified in founding documents
 
 - Platform cooperatives can use the framework to construct worker roles through participatory processes, ensuring that job definitions emerge from collective dialogue rather than management imposing requirements
 
 - Teams can adopt ongoing role renegotiation as contexts change, recognizing that responsibilities defined at one moment may not serve evolving organizational needs or participant capabilities
 
-- Researchers can study how negotiated joining functions in [decentralized](tags/decentralization.md) contexts, understanding what enables effective role construction through dialogue versus what creates confusion without shared understanding
+- Researchers can study how negotiated joining functions in decentralized contexts, understanding what enables effective role construction through dialogue versus what creates confusion without shared understanding
 
 ### Connection With SuperBenefit
 
 - The research on negotiated role construction validates SuperBenefit's understanding that effective [coordination](tags/coordination.md) requires flexibility to adapt as contexts change, suggesting that DAO [primitives](tags/primitives.md) should enable ongoing role renegotiation rather than locking organizations into founding definitions that become misaligned as projects and participants evolve.
 
-- Negotiated joining's emphasis on dialogue between individual capabilities and collective needs resonates with SuperBenefit's approach to small autonomous teams where role clarity emerges from ongoing collective sense-making—showing that [coordination](tags/coordination.md) tools should facilitate negotiation rather than requiring [community](tags/community.md) to fit predetermined organizational templates.
+- Negotiated joining's emphasis on dialogue between individual capabilities and collective needs resonates with SuperBenefit's approach to small autonomous teams where role clarity emerges from ongoing collective sense-making—showing that coordination tools should facilitate negotiation rather than requiring community to fit predetermined organizational templates.
 
-- The research's recognition of power dynamics in role negotiation provides framework for SuperBenefit to ensure that adaptive role construction doesn't concentrate power with those comfortable self-advocacy, suggesting that effective [coordination](tags/coordination.md) [primitives](tags/primitives.md) should support participatory dialogue where diverse voices can shape responsibilities rather than defaulting to those who speak loudest in unstructured negotiation.
+- The research's recognition of power dynamics in role negotiation provides framework for SuperBenefit to ensure that adaptive role construction doesn't concentrate power with those comfortable self-advocacy, suggesting that effective coordination primitives should support participatory dialogue where diverse voices can shape responsibilities rather than defaulting to those who speak loudest in unstructured negotiation.
 
 ---
 

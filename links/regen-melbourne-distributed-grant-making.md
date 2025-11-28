@@ -25,11 +25,11 @@ Regen Melbourne's report documents participatory grant-making experiment using t
 
 - **Honest Implementation Assessment**: The documentation includes candid evaluation of both achievements and challenges—participation barriers, decision quality concerns, technical limitations—providing realistic picture of participatory funding practice.
 
-- **Urban Civic Innovation**: The trial positions distributed grant-making within broader urban [governance](tags/governance.md) innovation, connecting participatory funding to regenerative city-building and enhanced civic engagement.
+- **Urban Civic Innovation**: The trial positions distributed grant-making within broader urban governance innovation, connecting participatory funding to regenerative city-building and enhanced civic engagement.
 
 - **Design Choice Analysis**: Rather than treating the digital platform as neutral, the report examines how specific design decisions affected participation patterns and outcomes, showing technology's constitutive role in shaping democratic processes.
 
-- **Community Agency**: The experiment tested whether participatory approaches could enhance [community](tags/community.md) agency in resource allocation decisions, moving funding authority beyond philanthropic institutions to diverse residents.
+- **Community Agency**: The experiment tested whether participatory approaches could enhance community agency in resource allocation decisions, moving funding authority beyond philanthropic institutions to diverse residents.
 
 ### Practical Applications
 
@@ -41,17 +41,17 @@ This documentation enables participatory funding learning:
 
 - Digital platform developers can learn how specific design choices affected participation and decision quality, improving tools for collective resource allocation beyond isolated technical features
 
-- Community organizers can understand participatory funding from implementer perspective, anticipating challenges around inclusion, deliberation, and legitimacy when proposing [community](tags/community.md)-led funding
+- Community organizers can understand participatory funding from implementer perspective, anticipating challenges around inclusion, deliberation, and legitimacy when proposing community-led funding
 
 - Researchers can access detailed implementation documentation for studying participatory funding mechanisms, comparing Melbourne trial with other approaches across contexts
 
 ### Connection With SuperBenefit
 
-- Regen Melbourne's participatory grant-making experiment resonates with SuperBenefit's exploration of [coordination](tags/coordination.md) primitives enabling [communities](tags/community.md) to collectively allocate resources, demonstrating that effective funding mechanisms require more than voting technology—they need deliberation support, inclusive facilitation, and careful attention to how platform design shapes participation patterns and decision legitimacy.
+- Regen Melbourne's participatory grant-making experiment resonates with SuperBenefit's exploration of coordination primitives enabling communities to collectively allocate resources, demonstrating that effective funding mechanisms require more than voting technology—they need deliberation support, inclusive facilitation, and careful attention to how platform design shapes participation patterns and decision legitimacy.
 
-- The report's honest assessment of both achievements and persistent challenges validates SuperBenefit's commitment to realistic evaluation of [coordination](tags/coordination.md) tools, showing that genuinely serving [communities](tags/community.md) requires acknowledging barriers around digital access, deliberation quality, and decision authority rather than treating participation technology as automatic solution to funding democracy deficits.
+- The report's honest assessment of both achievements and persistent challenges validates SuperBenefit's commitment to realistic evaluation of coordination tools, showing that genuinely serving communities requires acknowledging barriers around digital access, deliberation quality, and decision authority rather than treating participation technology as automatic solution to funding democracy deficits.
 
-- Documentation of how Wellbeing Protocol design choices affected outcomes provides lessons for SuperBenefit's primitive development, illustrating how seemingly technical decisions about voting mechanisms or information architecture shape who participates and what gets funded—demonstrating that [coordination](tags/coordination.md) tools unavoidably encode political choices about voice, authority, and value that should be made explicit rather than buried in technical implementation.
+- Documentation of how Wellbeing Protocol design choices affected outcomes provides lessons for SuperBenefit's primitive development, illustrating how seemingly technical decisions about voting mechanisms or information architecture shape who participates and what gets funded—demonstrating that coordination tools unavoidably encode political choices about voice, authority, and value that should be made explicit rather than buried in technical implementation.
 
 ---
 

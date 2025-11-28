@@ -49,7 +49,7 @@ Decolonial Futures offers transformative frameworks across contexts:
 
 - Social change organizations can distinguish between soft reforms (inclusion within existing systems) and radical interruptions (disentangling from colonial logics), clarifying whether work perpetuates or challenges fundamental structures
 
-- Indigenous-led initiatives can reference the resource when engaging non-indigenous allies, using the frameworks to articulate why meaningful solidarity requires addressing [power](tags/power.md), land, and sovereignty rather than merely diversifying representation
+- Indigenous-led initiatives can reference the resource when engaging non-indigenous allies, using the frameworks to articulate why meaningful solidarity requires addressing power, land, and sovereignty rather than merely diversifying representation
 
 - Technology projects can apply decolonial analysis to examine how platforms and protocols reproduce colonial assumptions about progress, ownership, efficiency, and human exceptionalism—informing genuinely alternative rather than rebranded extractive approaches
 
@@ -69,7 +69,7 @@ The project's depth and rigor provides essential grounding for anyone serious ab
 
 - **Temporal Reorientation**: The critique of progress narratives and futurity challenges SuperBenefit to question Web3's innovation rhetoric, suggesting that regenerative approaches may require different relationships to time, ancestry, and emergence.
 
-- **Complicity and Accountability**: The work's emphasis on ongoing complicity in colonial systems—even while working for change—supports SuperBenefit's commitment to [power](tags/power.md)-aware approaches that acknowledge how regenerative projects participate in and benefit from extraction even while seeking alternatives.
+- **Complicity and Accountability**: The work's emphasis on ongoing complicity in colonial systems—even while working for change—supports SuperBenefit's commitment to power-aware approaches that acknowledge how regenerative projects participate in and benefit from extraction even while seeking alternatives.
 
 ---
 

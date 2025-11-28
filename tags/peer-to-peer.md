@@ -15,7 +15,7 @@ tags:
 
 P2P architecture fundamentally differs from traditional client-server models by eliminating central points of control and distributing both resources and authority across network participants. This creates systems that are "equally privileged, equipotent participants" where [coordination](coordination.md) emerges through direct peer interaction rather than hierarchical management.
 
-In the context of [decentralized](decentralization.md) organizations and social [coordination](coordination.md), P2P principles extend beyond technical networks to describe organizational models where participants engage directly with each other as equals, sharing resources and [decision-making](decision-making.md) authority without centralized gatekeepers. This makes P2P particularly relevant to cooperative organization, [community](community.md) networks, and Web3 systems that prioritize democratic [participation](participation.md) and distributed [coordination](coordination.md).
+In the context of decentralized organizations and social coordination, P2P principles extend beyond technical networks to describe organizational models where participants engage directly with each other as equals, sharing resources and [decision-making](decision-making.md) authority without centralized gatekeepers. This makes P2P particularly relevant to cooperative organization, [community](community.md) networks, and Web3 systems that prioritize democratic [participation](participation.md) and distributed coordination.
 
 ---
 
@@ -23,21 +23,21 @@ In the context of [decentralized](decentralization.md) organizations and social 
 
 ### Peer-to-peer in [Blockchain](blockchain.md) and Web3 Systems
 
-[Blockchain](blockchain.md) networks exemplify P2P architecture where nodes maintain distributed ledgers and validate transactions without centralized control. Each participant functions as both a client requesting services and a server providing validation, storage, and network security. This creates "[decentralized](decentralization.md) autonomous organizations" and protocols where [consensus](consensus.md) emerges through peer [coordination](coordination.md) rather than central authority.
+Blockchain networks exemplify P2P architecture where nodes maintain distributed ledgers and validate transactions without centralized control. Each participant functions as both a client requesting services and a server providing validation, storage, and network security. This creates "decentralized autonomous organizations" and protocols where [consensus](consensus.md) emerges through peer coordination rather than central authority.
 
 Web3 applications leverage P2P principles to enable direct interaction between users, eliminating traditional intermediaries in finance, [governance](governance.md), and digital asset exchange. These systems demonstrate how P2P architecture can support complex organizational functions while maintaining [transparency](transparency.md), resilience, and participant [autonomy](autonomy.md).
 
-### Peer-to-peer in Cooperative and [Community](community.md) Networks
+### Peer-to-peer in Cooperative and Community Networks
 
-Cooperative organizations embody P2P principles through member-to-member resource sharing and democratic [participation](participation.md) where each member has equal voice and responsibility. These networks enable direct exchange of knowledge, resources, and support between participants without requiring hierarchical coordination or external management.
+Cooperative organizations embody P2P principles through member-to-member resource sharing and democratic participation where each member has equal voice and responsibility. These networks enable direct exchange of knowledge, resources, and support between participants without requiring hierarchical coordination or external management.
 
-[Community](community.md) mutual aid networks operate on P2P principles where neighbors directly support each other through resource sharing, skill exchange, and collective organizing. This creates resilient social infrastructure that emerges from peer relationships rather than institutional provision, enabling [community](community.md) to respond autonomously to local challenges and opportunities.
+Community mutual aid networks operate on P2P principles where neighbors directly support each other through resource sharing, skill exchange, and collective organizing. This creates resilient social infrastructure that emerges from peer relationships rather than institutional provision, enabling community to respond autonomously to local challenges and opportunities.
 
 ### Peer-to-peer in Distributed Resource Systems
 
 P2P systems enable efficient resource distribution where participants both contribute and consume shared resources like computational [power](power.md), storage, bandwidth, or knowledge. This creates scalable networks that grow stronger as more peers participate, contrasting with traditional systems where additional users strain centralized resources.
 
-These distributed resource systems demonstrate how P2P principles can create abundance through sharing, where collective resources exceed what individual participants could access independently. This model applies to everything from file sharing networks to [community](community.md) tool libraries and cooperative economic systems.
+These distributed resource systems demonstrate how P2P principles can create abundance through sharing, where collective resources exceed what individual participants could access independently. This model applies to everything from file sharing networks to community tool libraries and cooperative economic systems.
 
 ## Related Concepts
 

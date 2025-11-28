@@ -29,7 +29,7 @@ This peer-reviewed academic article provides a deep theoretical analysis of how 
 
 - **Voluntary Association and Exit Rights**: The analysis emphasizes how anarchist insistence on voluntary participation translates to technical design: systems must enable genuine exit rights, forking, and alternative implementations rather than lock-in. This provides principled foundations for open protocols and interoperability.
 
-- **Critique of Techno-Solutionism**: The article critically examines how both corporate platforms and blockchain projects often claim decentralization while reproducing hierarchies. It offers analytical tools for distinguishing genuinely anti-authoritarian technologies from those that merely distribute [power](tags/power.md) among new elites.
+- **Critique of Techno-Solutionism**: The article critically examines how both corporate platforms and blockchain projects often claim decentralization while reproducing hierarchies. It offers analytical tools for distinguishing genuinely anti-authoritarian technologies from those that merely distribute power among new elites.
 
 - **Historical-Material Analysis**: Unlike ahistorical tech discourse, the work grounds its analysis in the material conditions and historical struggles that shaped anarchist theory, showing why these principles emerged from actual experiments in cooperative organization rather than abstract philosophy.
 
@@ -37,15 +37,15 @@ This peer-reviewed academic article provides a deep theoretical analysis of how 
 
 This theoretical framework can inform concrete technical development:
 
-- Protocol designers and developers can use anarchist principles as evaluation criteria for technical architectures, asking whether systems enable genuine voluntary association, horizontal [coordination](tags/coordination.md), and exit rights rather than merely claiming decentralization
+- Protocol designers and developers can use anarchist principles as evaluation criteria for technical architectures, asking whether systems enable genuine voluntary association, horizontal coordination, and exit rights rather than merely claiming decentralization
 
-- DAO [governance](tags/governance.md) designers can draw on the article's analysis of federation, consensus, and rotating [coordination](tags/coordination.md) to structure decision-making that avoids both plutocracy and rigid majoritarianism, implementing mechanisms that respect minority autonomy
+- DAO [governance](tags/governance.md) designers can draw on the article's analysis of federation, consensus, and rotating coordination to structure decision-making that avoids both plutocracy and rigid majoritarianism, implementing mechanisms that respect minority autonomy
 
 - Platform cooperative developers can apply mutual aid principles to design sharing economy alternatives where participants support each other directly rather than extracting value through intermediary platforms
 
 - Open source [communities](tags/community.md) can use the framework to understand why successful FOSS projects often reflect anarchist organizational patterns (meritocracy critiques, consensus decision-making, forking rights) even when not explicitly political
 
-- Critical technologists and researchers can employ the article's analytical tools to evaluate whether emerging technologies (blockchain, federated systems, mesh networks) genuinely distribute [power](tags/power.md) or reproduce hierarchies in new forms
+- Critical technologists and researchers can employ the article's analytical tools to evaluate whether emerging technologies (blockchain, federated systems, mesh networks) genuinely distribute power or reproduce hierarchies in new forms
 
 - Social movement technologists can ground their work in robust political economy analysis rather than naive techno-optimism, understanding technology as shaped by social relations rather than neutral tools
 
@@ -53,11 +53,11 @@ The academic rigor provides credibility when advocating for alternative technica
 
 ### Connection With SuperBenefit
 
-- Provides scholarly foundation for SuperBenefit's conviction that regenerative [coordination](tags/coordination.md) must embody horizontal mutual aid rather than merely decentralizing hierarchical control—the article's analysis of how voluntary support networks create resilience validates the design choice to build small autonomous teams rather than flattening traditional org charts.
+- Provides scholarly foundation for SuperBenefit's conviction that regenerative coordination must embody horizontal mutual aid rather than merely decentralizing hierarchical control—the article's analysis of how voluntary support networks create resilience validates the design choice to build small autonomous teams rather than flattening traditional org charts.
 
-- The synthesis of anarchist federation with cybernetic self-organization directly supports SuperBenefit's two-layer [governance](tags/governance.md) approach separating operational autonomy from collective stewardship, offering theoretical explanation for why this structure avoids both tyranny of structurelessness and centralized command that plague most organizational experiments.
+- The synthesis of anarchist federation with cybernetic self-organization directly supports SuperBenefit's two-layer governance approach separating operational autonomy from collective stewardship, offering theoretical explanation for why this structure avoids both tyranny of structurelessness and centralized command that plague most organizational experiments.
 
-- Anarchist emphasis on genuine exit rights and forking aligns with SuperBenefit's commitment to pattern languages over prescriptive frameworks, recognizing that effective decentralized [coordination](tags/coordination.md) requires [communities](tags/community.md) to adapt and diverge based on context rather than implement universal solutions.
+- Anarchist emphasis on genuine exit rights and forking aligns with SuperBenefit's commitment to pattern languages over prescriptive frameworks, recognizing that effective decentralized coordination requires communities to adapt and diverge based on context rather than implement universal solutions.
 
 ---
 

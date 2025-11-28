@@ -15,7 +15,7 @@ tags:
   - complexity-science
 ---
 
-This Embodied Economics essay uses starling murmuration—the mesmerizing coordinated flight patterns of thousands of birds moving as single organism—to challenge fundamental economic assumptions about how [coordination](tags/coordination.md) happens. Rather than accepting that complex [coordination](tags/coordination.md) requires either market price signals or hierarchical management, the essay examines how starlings achieve sophisticated collective behavior through simple local rules and embodied responses to immediate neighbors. Each bird follows basic principles about proximity and alignment without knowing the flock's overall pattern or following central direction, yet emergent [coordination](tags/coordination.md) produces adaptive responses to threats and environmental changes. The essay argues that economics has systematically ignored embodied, ecological forms of coordination that don't fit market or hierarchy models, suggesting that genuinely alternative economic thinking requires learning from biological systems demonstrating coordination without commodification or control hierarchies.
+This Embodied Economics essay uses starling murmuration—the mesmerizing coordinated flight patterns of thousands of birds moving as single organism—to challenge fundamental economic assumptions about how [coordination](tags/coordination.md) happens. Rather than accepting that complex coordination requires either market price signals or hierarchical management, the essay examines how starlings achieve sophisticated collective behavior through simple local rules and embodied responses to immediate neighbors. Each bird follows basic principles about proximity and alignment without knowing the flock's overall pattern or following central direction, yet emergent coordination produces adaptive responses to threats and environmental changes. The essay argues that economics has systematically ignored embodied, ecological forms of coordination that don't fit market or hierarchy models, suggesting that genuinely alternative economic thinking requires learning from biological systems demonstrating coordination without commodification or control hierarchies.
 
 ### Key Highlights
 
@@ -37,7 +37,7 @@ This framework enables ecological economic thinking:
 
 - Commons management practitioners can reference embodied coordination principles when designing [governance](tags/governance.md) systems, understanding how local rules and relational responsiveness can produce sophisticated collective behavior without centralized control
 
-- DAO designers can learn from murmuration's local interaction patterns, questioning whether blockchain [governance](tags/governance.md) needs to reproduce market logic or can instead enable coordination through different principles inspired by biological systems
+- DAO designers can learn from murmuration's local interaction patterns, questioning whether blockchain governance needs to reproduce market logic or can instead enable coordination through different principles inspired by biological systems
 
 - Systems thinkers can use essay's integration of embodied intelligence and complexity science to develop richer vocabulary for decentralized coordination beyond simplistic "emergent order" narratives that smuggle in market ideology
 
@@ -45,9 +45,9 @@ This framework enables ecological economic thinking:
 
 ### Connection With SuperBenefit
 
-- The murmuration essay challenges SuperBenefit to interrogate whether coordination primitives inadvertently reproduce market logic and hierarchical assumptions by focusing on voting mechanisms and token incentives, suggesting that genuinely regenerative coordination might require different principles inspired by embodied, ecological patterns where sophisticated collective behavior emerges from relational responsiveness and local interaction rather than gamified participation or financialized [governance](tags/governance.md).
+- The murmuration essay challenges SuperBenefit to interrogate whether coordination primitives inadvertently reproduce market logic and hierarchical assumptions by focusing on voting mechanisms and token incentives, suggesting that genuinely regenerative coordination might require different principles inspired by embodied, ecological patterns where sophisticated collective behavior emerges from relational responsiveness and local interaction rather than gamified participation or financialized governance.
 
-- Embodied Economics' attention to how starlings achieve coordination through immediate physical responsiveness validates SuperBenefit's conviction that effective primitives must account for social and relational dimensions of coordination, demonstrating that reducing collective decision-making to information processing or incentive design misses how [communities](tags/community.md) actually coordinate through embodied relationships, shared context, and mutual responsiveness that can't be captured by abstract [governance](tags/governance.md) mechanisms divorced from lived social practice.
+- Embodied Economics' attention to how starlings achieve coordination through immediate physical responsiveness validates SuperBenefit's conviction that effective primitives must account for social and relational dimensions of coordination, demonstrating that reducing collective decision-making to information processing or incentive design misses how [communities](tags/community.md) actually coordinate through embodied relationships, shared context, and mutual responsiveness that can't be captured by abstract governance mechanisms divorced from lived social practice.
 
 ---
 

@@ -19,15 +19,15 @@ Other Internet's comprehensive crypto philanthropy report provides rigorous anal
 
 ### Key Highlights
 
-- **Landscape Mapping**: The report comprehensively maps crypto philanthropy ecosystem including retroactive funding (Optimism's RetroPGF), quadratic funding (Gitcoin Grants), [impact](tags/impact.md) certificates (Hypercerts), donor [DAOs](tags/daos.md), and various hybrid models—providing systematic overview of diverse approaches rather than treating crypto giving as monolithic.
+- **Landscape Mapping**: The report comprehensively maps crypto philanthropy ecosystem including retroactive funding (Optimism's RetroPGF), quadratic funding (Gitcoin Grants), impact certificates (Hypercerts), donor DAOs, and various hybrid models—providing systematic overview of diverse approaches rather than treating crypto giving as monolithic.
 
-- **Mechanism Analysis**: Other Internet examines how specific crypto mechanisms address traditional philanthropy problems—retroactive funding's focus on proven [impact](tags/impact.md) versus speculative proposals, quadratic funding's resistance to plutocratic control, on-chain transparency versus donor privacy, programmable distribution versus discretionary grantmaking.
+- **Mechanism Analysis**: Other Internet examines how specific crypto mechanisms address traditional philanthropy problems—retroactive funding's focus on proven impact versus speculative proposals, quadratic funding's resistance to plutocratic control, on-chain transparency versus donor privacy, programmable distribution versus discretionary grantmaking.
 
 - **Power Dynamics**: The research critically examines whether crypto philanthropy redistributes power from wealthy donors to [communities](tags/community.md) or merely changes who extracts value while maintaining fundamental dynamics where capital controls priorities—showing that decentralized mechanisms alone don't guarantee democratic outcomes.
 
-- **Scale and Capital Flows**: The report documents actual capital deployed through crypto philanthropy versus hype, showing where meaningful funding flows to [public goods](tags/public-goods.md) and where announcement exceeds implementation—providing reality check on claims about crypto transforming charitable giving.
+- **Scale and Capital Flows**: The report documents actual capital deployed through crypto philanthropy versus hype, showing where meaningful funding flows to public goods and where announcement exceeds implementation—providing reality check on claims about crypto transforming charitable giving.
 
-- **Legitimacy and Trust**: Other Internet explores how crypto philanthropy builds legitimacy with [communities](tags/community.md) and traditional funders or alienates both through association with speculation, complexity, and volatility—examining barriers to adoption beyond technical implementation.
+- **Legitimacy and Trust**: Other Internet explores how crypto philanthropy builds legitimacy with communities and traditional funders or alienates both through association with speculation, complexity, and volatility—examining barriers to adoption beyond technical implementation.
 
 - **Comparative Assessment**: The research compares crypto approaches to traditional and trust-based philanthropy, identifying genuine innovations versus rebranded existing practices—helping practitioners understand when blockchain mechanisms offer actual improvements versus adding unnecessary complexity.
 
@@ -41,13 +41,13 @@ This research enables informed crypto philanthropy engagement:
 
 - DAO practitioners can apply mechanism analysis when designing treasury allocation, understanding how different crypto philanthropy approaches perform in practice rather than implementing mechanisms based on theoretical appeal
 
-- Researchers can build on Other Internet's framework when studying philanthropic innovation, using systematic comparison across traditional, trust-based, and crypto approaches to identify what actually improves outcomes for [communities](tags/community.md)
+- Researchers can build on Other Internet's framework when studying philanthropic innovation, using systematic comparison across traditional, trust-based, and crypto approaches to identify what actually improves outcomes for communities
 
 - Policy advocates can draw on the report when arguing for regulation ensuring crypto philanthropy serves public benefit, showing where blockchain mechanisms genuinely redistribute power versus where they reproduce extraction with new technology
 
 ### Connection With SuperBenefit
 
-- Other Internet's rigorous mechanism analysis provides framework for SuperBenefit to evaluate crypto-economic approaches critically rather than assuming blockchain automatically serves regenerative goals—demonstrating that genuine assessment requires examining actual power distribution, capital flows, and [community](tags/community.md) impact rather than accepting self-descriptions about decentralization.
+- Other Internet's rigorous mechanism analysis provides framework for SuperBenefit to evaluate crypto-economic approaches critically rather than assuming blockchain automatically serves regenerative goals—demonstrating that genuine assessment requires examining actual power distribution, capital flows, and community impact rather than accepting self-descriptions about decentralization.
 
 - The research's comparative analysis of traditional, trust-based, and crypto philanthropy resonates with SuperBenefit's understanding that alternative [coordination](tags/coordination.md) mechanisms should be judged against both conventional systems and other progressive approaches—not just whether crypto improves on corporate platforms but whether it serves communities better than trust-based, participatory, or commons-oriented alternatives.
 

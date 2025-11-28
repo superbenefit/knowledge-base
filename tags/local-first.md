@@ -32,27 +32,27 @@ Examples include note-taking applications that work fully offline, collaborative
 
 ### Local-first and Data Sovereignty
 
-Local-first software embodies principles of data sovereignty by ensuring users maintain primary control over their information rather than surrendering it to corporate platforms. This approach addresses concerns about surveillance capitalism, data mining, and the loss of digital [autonomy](autonomy.md) that characterize cloud-centric computing models.
+Local-first software embodies principles of data sovereignty by ensuring users maintain primary control over their information rather than surrendering it to corporate platforms. This approach addresses concerns about surveillance capitalism, data mining, and the loss of digital autonomy that characterize cloud-centric computing models.
 
-By keeping data on user devices, local-first applications enable "user control" over privacy settings, data portability, and long-term access without depending on corporate policies or service continuity. This creates "future-proof data" that remains accessible regardless of changes in business models, company ownership, or service availability, aligning with digital rights principles that treat data ownership as fundamental to user [autonomy](autonomy.md).
+By keeping data on user devices, local-first applications enable "user control" over privacy settings, data portability, and long-term access without depending on corporate policies or service continuity. This creates "future-proof data" that remains accessible regardless of changes in business models, company ownership, or service availability, aligning with digital rights principles that treat data ownership as fundamental to user autonomy.
 
 ### Local-first in Web3 and [Decentralized](decentralization.md) Systems
 
-Local-first principles complement Web3 technologies by creating client-side applications that interact with [decentralized](decentralization.md) networks without surrendering user data to centralized platforms. This combination enables truly peer-to-peer applications where users maintain both custody of their data and sovereignty over their interactions.
+Local-first principles complement Web3 technologies by creating client-side applications that interact with decentralized networks without surrendering user data to centralized platforms. This combination enables truly peer-to-peer applications where users maintain both custody of their data and sovereignty over their interactions.
 
-[Blockchain](blockchain.md) technologies can provide [consensus](consensus.md) mechanisms for global [coordination](coordination.md) while local-first applications handle data storage and processing at the user level. This creates systems where "collaborative features" emerge from direct peer-to-peer interaction rather than platform mediation, enabling new forms of cooperation that preserve individual autonomy while supporting collective action.
+[Blockchain](blockchain.md) technologies can provide [consensus](consensus.md) mechanisms for global coordination while local-first applications handle data storage and processing at the user level. This creates systems where "collaborative features" emerge from direct peer-to-peer interaction rather than platform mediation, enabling new forms of cooperation that preserve individual autonomy while supporting collective action.
 
 ### Local-first and [Community](community.md) Technology
 
-Local-first approaches can support [community](community.md) technology initiatives by reducing dependence on corporate infrastructure while maintaining the benefits of digital [coordination](coordination.md). [Community](community.md) networks can implement local-first applications that serve local needs without requiring external service providers or ongoing subscription costs.
+Local-first approaches can support community technology initiatives by reducing dependence on corporate infrastructure while maintaining the benefits of digital coordination. Community networks can implement local-first applications that serve local needs without requiring external service providers or ongoing subscription costs.
 
-This enables [community](community.md) to develop digital infrastructure that supports local organizing, resource sharing, and collaborative work while maintaining [community](community.md) control over both technology and data. Local-first community applications can function independently during internet outages or when [community](community.md) choose to operate autonomously, creating resilient technological foundations for community self-determination.
+This enables community to develop digital infrastructure that supports local organizing, resource sharing, and collaborative work while maintaining community control over both technology and data. Local-first community applications can function independently during internet outages or when community choose to operate autonomously, creating resilient technological foundations for community self-determination.
 
-## Local-first and Cosmolocal [Coordination](coordination.md)
+## Local-first and Cosmolocal Coordination
 
 Local-first principles align closely with cosmolocal approaches that combine local autonomy with global knowledge sharing. Just as cosmolocalism advocates for "what is heavy is local, what is light is global," local-first software keeps data and processing local while enabling global coordination through open protocols and knowledge commons.
 
-This creates technological infrastructure that supports the localist principle of maintaining "sovereignty over local resources and [decision-making](decision-making.md)" while "sharing knowledge and protocols globally through open systems." Local-first applications can enable [community](community.md) to "access global capital while preserving local control" by providing technological tools that support both local autonomy and broader network [participation](participation.md).
+This creates technological infrastructure that supports the localist principle of maintaining "sovereignty over local resources and [decision-making](decision-making.md)" while "sharing knowledge and protocols globally through open systems." Local-first applications can enable community to "access global capital while preserving local control" by providing technological tools that support both local autonomy and broader network [participation](participation.md).
 
 ## Related Concepts
 

@@ -15,7 +15,7 @@ tags:
   - collective-agency
 ---
 
-RadicalxChange stands as foundational organization in democratic transformation and pluralistic [coordination](tags/coordination.md), developing mechanisms, research, and [community](tags/community.md) for systemic transition beyond both extractive markets and authoritarian states. Co-founded by economist Glen Weyl, RxC advances quadratic voting, plural funding, data dignity, and other innovations showing how mechanism design can serve collective agency and democratic vitality. Rather than accepting dichotomy between free markets and state control, the organization articulates "third way" through plural publics where diverse [communities](tags/community.md) govern shared resources cooperatively. RxC provides intellectual foundation, practical tools, and collaborative [community](tags/community.md) for those building alternatives to extractive capitalism and authoritarian politics.
+RadicalxChange stands as foundational organization in democratic transformation and pluralistic [coordination](tags/coordination.md), developing mechanisms, research, and [community](tags/community.md) for systemic transition beyond both extractive markets and authoritarian states. Co-founded by economist Glen Weyl, RxC advances quadratic voting, plural funding, data dignity, and other innovations showing how mechanism design can serve collective agency and democratic vitality. Rather than accepting dichotomy between free markets and state control, the organization articulates "third way" through plural publics where diverse communities govern shared resources cooperatively. RxC provides intellectual foundation, practical tools, and collaborative community for those building alternatives to extractive capitalism and authoritarian politics.
 
 ### Key Highlights
 
@@ -35,23 +35,23 @@ RadicalxChange stands as foundational organization in democratic transformation 
 
 RxC enables democratic transformation practice:
 
-- Organizations can adopt RadicalxChange mechanisms like quadratic voting for participatory decision-making, using mathematically-grounded approaches to democratic resource allocation and [governance](tags/governance.md)
+- Organizations can adopt RadicalxChange mechanisms like quadratic voting for participatory decision-making, using mathematically-grounded approaches to democratic resource allocation and governance
 
 - Researchers can engage RxC's intellectual frameworks when studying alternatives to markets and states, building on mechanism design innovation serving democratic goals
 
 - Communities can join RadicalxChange chapters to connect with others pursuing systemic transformation, accessing collaborative network rather than working in isolation
 
-- Policy advocates can reference RxC research when arguing for democratic reforms, using rigorous analysis showing how specific mechanisms redistribute [power](tags/power.md) and enhance participation
+- Policy advocates can reference RxC research when arguing for democratic reforms, using rigorous analysis showing how specific mechanisms redistribute power and enhance participation
 
 - Educators can integrate RadicalxChange ideas into curricula exploring economic and political alternatives, helping students envision possibilities beyond capitalist markets or authoritarian control
 
 ### Connection With SuperBenefit
 
-- RadicalxChange's work on plural publics and quadratic mechanisms provides theoretical foundation for SuperBenefit's exploration of [coordination](tags/coordination.md) beyond token plutocracy, showing that effective [governance](tags/governance.md) should harness diversity rather than requiring consensus—demonstrating that DAO primitives should enable [communities](tags/community.md) to leverage different knowledge, values, and priorities rather than flattening into algorithmic monoculture.
+- RadicalxChange's work on plural publics and quadratic mechanisms provides theoretical foundation for SuperBenefit's exploration of coordination beyond token plutocracy, showing that effective governance should harness diversity rather than requiring consensus—demonstrating that DAO primitives should enable communities to leverage different knowledge, values, and priorities rather than flattening into algorithmic monoculture.
 
-- The organization's "third way" beyond markets and states resonates with SuperBenefit's regenerative approach seeking alternatives to both platform capitalism and centralized control, validating conviction that decentralized [coordination](tags/coordination.md) doesn't merely redistribute who benefits from extraction but can fundamentally transform economic and [governance](tags/governance.md) logics.
+- The organization's "third way" beyond markets and states resonates with SuperBenefit's regenerative approach seeking alternatives to both platform capitalism and centralized control, validating conviction that decentralized coordination doesn't merely redistribute who benefits from extraction but can fundamentally transform economic and governance logics.
 
-- RxC's integration of rigorous research with practical tools provides model for SuperBenefit ensuring [coordination](tags/coordination.md) primitives emerge from both theoretical grounding and implementation experience—showing that effective development requires dialogue between mechanism design innovation and [community](tags/community.md) organizing practice, not just technical implementation or only academic speculation.
+- RxC's integration of rigorous research with practical tools provides model for SuperBenefit ensuring coordination primitives emerge from both theoretical grounding and implementation experience—showing that effective development requires dialogue between mechanism design innovation and community organizing practice, not just technical implementation or only academic speculation.
 
 ---
 

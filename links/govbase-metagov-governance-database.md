@@ -47,7 +47,7 @@ Govbase enables evidence-based governance design:
 
 ### Connection With SuperBenefit
 
-- Govbase's systematic documentation of governance systems across contexts provides empirical foundation for SuperBenefit's pattern-based approach, showing that learning from functioning coordination mechanisms across domains offers richer design space than only studying blockchain-specific [DAOs](tags/daos.md)—validating the conviction that successful patterns emerge from studying diverse implementations rather than treating crypto governance as entirely novel.
+- Govbase's systematic documentation of governance systems across contexts provides empirical foundation for SuperBenefit's pattern-based approach, showing that learning from functioning coordination mechanisms across domains offers richer design space than only studying blockchain-specific DAOs—validating the conviction that successful patterns emerge from studying diverse implementations rather than treating crypto governance as entirely novel.
 
 - Metagov's commitment to making governance knowledge openly accessible resonates with SuperBenefit's emphasis on commons and shared infrastructure, demonstrating that coordination patterns should be public resources enabling collective learning rather than proprietary knowledge controlled by consulting firms or extracted through paywalled research.
 

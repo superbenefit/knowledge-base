@@ -64,7 +64,7 @@ Describe the future system equilibrium that the initiative hopes to achieve.
 
 ## Agreements
 
-These agreements form the basis of our collective practice of being and moving together. Principles of commons [governance](tags/governance.md) are encouraged to pursue a healthy, self-organizing field capable of self-monitoring and self-enforced graduated sanctions for broken agreements.
+These agreements form the basis of our collective practice of being and moving together. Principles of commons governance are encouraged to pursue a healthy, self-organizing field capable of self-monitoring and self-enforced graduated sanctions for broken agreements.
 
 ### Membranes
 
@@ -82,7 +82,7 @@ These agreements form the basis of our collective practice of being and moving t
 - How will members exit the group if they are unable to resolve a dispute?
 - How will the group fork into or merge with other groups?
 
-### [Coordination](tags/coordination.md)
+### Coordination
 
 - What are the necessary specialized roles or sub-groups for this initiative and how will they work together?
 - Where and how will collaboration take place?
@@ -115,7 +115,7 @@ These agreements form the basis of our collective practice of being and moving t
 ### Agency
 
 - **Agents:** Individual actors who initiate actions, make decisions, hold roles and responsibilities, have needs and skills, and influence outcomes within the social [system|organism], contributing as a component part to a social organism’s overall adaptive and dynamic processes.
-- **Agencies:** Groups of agents that collectively initiate actions, influence outcomes, and produce outputs based utilizing participatory [governance](tags/governance.md) patterns to coordinate collective agency towards a mutually shared mission, vision, and purpose.
+- **Agencies:** Groups of agents that collectively initiate actions, influence outcomes, and produce outputs based utilizing participatory governance patterns to coordinate collective agency towards a mutually shared mission, vision, and purpose.
 
 ### Membranes
 
@@ -153,7 +153,7 @@ These agreements form the basis of our collective practice of being and moving t
 - **Agreements:** Agreements refer to a broad range of different types of social constructs related to the relational qualities of the social organism. Agreements can establish mutually determined behavioral norms, participatory processes, or communication patterns.
     - The following are examples of collaborative agreements that may be made between participants in a collaborative initiative:
         - **Open communication:** Participants agree to keep each other informed about progress, challenges, and opportunities related to the initiative.
-        - **Shared [decision-making](tags/decision-making.md):** Participants agree to work together to make decisions that affect the initiative, taking into account the needs and perspectives of all stakeholders.
+        - **Shared decision-making:** Participants agree to work together to make decisions that affect the initiative, taking into account the needs and perspectives of all stakeholders.
         - **Mutual accountability:** Participants agree to hold each other accountable for meeting agreed-upon objectives and timelines.
         - **Resource sharing:** Participants agree to share resources, including personnel, funding, and expertise, as needed to achieve the initiative's goals.
         - **Intellectual property:** Participants agree to establish clear guidelines for intellectual property ownership and use, including any patents, copyrights, or trademarks that may arise from the initiative.
@@ -168,7 +168,7 @@ Conception is the initial phase of generating and formulating new ideas, visions
 
 ### **Gestation**
 
-Gestation is the period during which ideas, plans, or initiatives are developed, refined, and prepared for implementation. This stage involves nurturing, organizing, and iterating on the initial concept, ensuring it matures and evolves into a viable and actionable form that can contribute effectively to the social ecology. The gestation process involves further sensemaking and mapping of [community](tags/community.md) needs, testing the hypothesis of the initial conception period, and developing the internal membranes, roles, and flows necessary for the organism to begin to fulfill its ecological purpose. As roles are defined and additional agents are included in the development process, [governance](tags/governance.md) mechanisms are needed to support initial decision making processes and establish the nested functions and flows that will support the organism in achieving its purpose as it matures.
+Gestation is the period during which ideas, plans, or initiatives are developed, refined, and prepared for implementation. This stage involves nurturing, organizing, and iterating on the initial concept, ensuring it matures and evolves into a viable and actionable form that can contribute effectively to the social ecology. The gestation process involves further sensemaking and mapping of [community](tags/community.md) needs, testing the hypothesis of the initial conception period, and developing the internal membranes, roles, and flows necessary for the organism to begin to fulfill its ecological purpose. As roles are defined and additional agents are included in the development process, governance mechanisms are needed to support initial decision making processes and establish the nested functions and flows that will support the organism in achieving its purpose as it matures.
 
 ### **Maturation**
 

@@ -37,7 +37,7 @@ This framework enables intentional governance design across contexts:
 
 - Internet organizations can use Metagov's dimensions to audit current governance structures, identifying whether mechanisms align with organizational values and needs or merely replicate popular patterns without intentional design
 
-- DAO developers can apply the framework when designing governance systems, making explicit choices about participation boundaries, [decision-making](tags/decisions.md) authority, and execution mechanisms rather than defaulting to token-weighted voting
+- DAO developers can apply the framework when designing governance systems, making explicit choices about participation boundaries, decision-making authority, and execution mechanisms rather than defaulting to token-weighted voting
 
 - Platform cooperatives can reference the analysis when creating member governance, understanding how different mechanisms serve cooperative principles better than structures borrowed from corporate or blockchain contexts
 

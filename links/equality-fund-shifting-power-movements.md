@@ -15,7 +15,7 @@ tags:
   - equality-fund
 ---
 
-Equality Fund's framework articulates how funders can shift [power](tags/power.md) to movement actors rather than consolidating control through philanthropic resources. Moving beyond charity models where funders determine priorities and measure success, the framework explores how to redistribute decision-making, resources, and legitimacy to [communities](tags/community.md) leading social change. This requires funders to release control, trust movement wisdom, provide flexible long-term support, and use [power](tags/power.md) intentionally to open doors and shift systems rather than directing how movements operate. The work addresses uncomfortable reality that traditional philanthropy concentrates power with wealthy elites while claiming to serve social justice, offering alternative practices that genuinely support movement autonomy and self-determination.
+Equality Fund's framework articulates how funders can shift [power](tags/power.md) to movement actors rather than consolidating control through philanthropic resources. Moving beyond charity models where funders determine priorities and measure success, the framework explores how to redistribute decision-making, resources, and legitimacy to [communities](tags/community.md) leading social change. This requires funders to release control, trust movement wisdom, provide flexible long-term support, and use power intentionally to open doors and shift systems rather than directing how movements operate. The work addresses uncomfortable reality that traditional philanthropy concentrates power with wealthy elites while claiming to serve social justice, offering alternative practices that genuinely support movement autonomy and self-determination.
 
 ### Key Highlights
 
@@ -37,11 +37,11 @@ al**: The framework centers power analysis in philanthropy, recognizing that res
 
 This framework enables power-shifting philanthropic practice:
 
-- Foundations can adopt Equality Fund's practices systematically, moving from restricted project [grants](tags/grants.md) to unrestricted movement support, from annual cycles to multi-year commitments, and from funder-determined priorities to movement-led strategy
+- Foundations can adopt Equality Fund's practices systematically, moving from restricted project grants to unrestricted movement support, from annual cycles to multi-year commitments, and from funder-determined priorities to movement-led strategy
 
-- Community foundations can integrate power-shifting when working with local movements, creating advisory structures that give grassroots leaders [governance](tags/governance.md) voice rather than treating them as beneficiaries of services designed by foundation staff
+- Community foundations can integrate power-shifting when working with local movements, creating advisory structures that give grassroots leaders governance voice rather than treating them as beneficiaries of services designed by foundation staff
 
-- Impact investors can apply power-redistribution principles even within investment structures, recognizing that capital always carries power and intentionally using influence to support [community](tags/community.md) autonomy rather than extracting control through investment terms
+- Impact investors can apply power-redistribution principles even within investment structures, recognizing that capital always carries power and intentionally using influence to support community autonomy rather than extracting control through investment terms
 
 - Philanthropic networks can collaborate on power-shifting, reducing burdens on movement organizations through aligned practices and creating spaces for movement actors to shape broader philanthropic strategies collectively
 
@@ -49,11 +49,11 @@ This framework enables power-shifting philanthropic practice:
 
 ### Connection With SuperBenefit
 
-- Equality Fund's power-shifting framework directly challenges SuperBenefit to examine how DAO treasuries and funding mechanisms actually redistribute decision-making power rather than merely changing who holds tokens—revealing that genuine power redistribution requires not just different allocation mechanisms but willingness to release funder control and trust [community](tags/community.md) wisdom about priorities.
+- Equality Fund's power-shifting framework directly challenges SuperBenefit to examine how DAO treasuries and funding mechanisms actually redistribute decision-making power rather than merely changing who holds tokens—revealing that genuine power redistribution requires not just different allocation mechanisms but willingness to release funder control and trust community wisdom about priorities.
 
-- The emphasis on movement-centered metrics rather than funder-defined success measures resonates with SuperBenefit's understanding that [coordination](tags/coordination.md) tools should enable [communities](tags/community.md) to define thriving on their own terms instead of imposing predetermined outcomes that serve external accountability but may undermine [community](tags/community.md) autonomy and learning.
+- The emphasis on movement-centered metrics rather than funder-defined success measures resonates with SuperBenefit's understanding that [coordination](tags/coordination.md) tools should enable communities to define thriving on their own terms instead of imposing predetermined outcomes that serve external accountability but may undermine community autonomy and learning.
 
-- Equality Fund's call for sustained long-term investment validates SuperBenefit's conviction that effective [coordination](tags/coordination.md) requires patience and multi-year commitment rather than optimizing for transaction speed—showing that genuine relationship-building and power redistribution happen across years, not through rapid iteration that extracts short-term value while undermining sustained [community](tags/community.md) capacity.
+- Equality Fund's call for sustained long-term investment validates SuperBenefit's conviction that effective coordination requires patience and multi-year commitment rather than optimizing for transaction speed—showing that genuine relationship-building and power redistribution happen across years, not through rapid iteration that extracts short-term value while undermining sustained community capacity.
 
 ---
 

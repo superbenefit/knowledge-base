@@ -32,7 +32,7 @@ Patterns can be applied to a wide range of challenges, such as:
 
 *   **Software Design:** Design patterns provide solutions for common software design problems.
 *   **Organizational Structure:** Organizational patterns offer guidance on building effective teams and organizations.
-*   **[Community](community.md) [Governance](governance.md):** [Governance](governance.md) patterns provide frameworks for making decisions and managing resources in a [decentralized](decentralization.md) [community](community.md).
+*   **Community [Governance](governance.md):** Governance patterns provide frameworks for making decisions and managing resources in a [decentralized](decentralization.md) community.
 
 ## Patterns at SuperBenefit
 
@@ -40,7 +40,7 @@ At SuperBenefit, we use patterns to capture and share our collective knowledge a
 
 *   **Reusable:** They can be adapted and applied to a variety of projects and contexts.
 *   **Practical:** They provide clear and actionable guidance.
-*   **[Community](community.md)-Driven:** They are developed and refined through collaboration and feedback from our community.
+*   **Community-Driven:** They are developed and refined through collaboration and feedback from our community.
 
 We see patterns as bridging the gap between high-level principles and on-the-ground implementation. They help us translate our vision into reality by providing concrete steps and proven solutions.
 

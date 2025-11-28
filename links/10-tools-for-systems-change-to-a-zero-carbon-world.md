@@ -21,7 +21,7 @@ tags:
 - **Iceberg Model**: This fundamental systems thinking tool reveals the deeper structures beneath visible events, highlighting how patterns, systemic structures, and mental models must be addressed for genuine transformation rather than merely responding to surface-level symptoms.
 - **Three Horizons Framework**: A method for conceptualizing transformation as the interaction between the declining first horizon (business-as-usual), the emerging third horizon (the sustainable future), and the transitional second horizon (innovation and adaptation). This approach helps balance immediate needs with long-term vision.
 - **Transformative Scenarios**: The toolkit presents approaches for developing narratives about possible futures that challenge assumptions and create shared understanding among diverse stakeholders, moving beyond prediction to actively shaping desirable outcomes.
-- **[Power](tags/power.md) & Systems Mapping**: Practical approaches for visualizing system dynamics and [power](tags/power.md) relationships, revealing hidden connections, feedback loops, and leverage points that might otherwise remain invisible to change-makers.
+- **[Power](tags/power.md) & Systems Mapping**: Practical approaches for visualizing system dynamics and power relationships, revealing hidden connections, feedback loops, and leverage points that might otherwise remain invisible to change-makers.
 
 ### Practical Applications
 
@@ -40,7 +40,7 @@ The tools are designed to be accessible to non-specialists while still providing
 
 - Directly connects to SuperBenefit's bioregional approach to economic organization and systems transformation focus.
 - The Three Horizons framework resonates with SuperBenefit's commitment to balancing pragmatic near-term action with transformative long-term vision.
-- The toolkit's [power](tags/power.md) mapping approaches complement SuperBenefit's "anticapture" mechanisms that prevent shared resources from being monopolized by concentrated interests.
+- The toolkit's power mapping approaches complement SuperBenefit's "anticapture" mechanisms that prevent shared resources from being monopolized by concentrated interests.
 
 ---
 

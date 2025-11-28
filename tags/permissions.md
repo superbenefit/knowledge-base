@@ -14,9 +14,9 @@ type: tag
 
 _Permissions are formalized rights and access controls that determine which agents can perform specific actions within a system, enabling secure [coordination](coordination.md) by balancing [autonomy](autonomy.md) with accountability across [decentralized](decentralization.md) networks._
 
-Permissions serve as the foundational infrastructure for [coordination](coordination.md) in [decentralized](decentralization.md) systems, establishing boundaries that both enable and constrain participant actions. Unlike traditional permissions that enforce rigid hierarchies, web3 permission systems create dynamic, contextual access patterns that can evolve with the needs of the organization. When thoughtfully designed, permissions create the conditions for appropriate [decentralization](decentralization.md) - distributing authority without sacrificing coherence or security.
+Permissions serve as the foundational infrastructure for coordination in decentralized systems, establishing boundaries that both enable and constrain participant actions. Unlike traditional permissions that enforce rigid hierarchies, web3 permission systems create dynamic, contextual access patterns that can evolve with the needs of the organization. When thoughtfully designed, permissions create the conditions for appropriate decentralization - distributing authority without sacrificing coherence or security.
 
-In complex [coordination](coordination.md) systems, permissions operate at multiple levels simultaneously: technical permissions enforce rules through code and cryptography, while social permissions establish norms and expectations through [governance](governance.md) processes and agreements. The interplay between these layers determines how [power](power.md) flows throughout a system and shapes both its operational effectiveness and its resilience against capture or misuse.
+In complex coordination systems, permissions operate at multiple levels simultaneously: technical permissions enforce rules through code and cryptography, while social permissions establish norms and expectations through [governance](governance.md) processes and agreements. The interplay between these layers determines how [power](power.md) flows throughout a system and shapes both its operational effectiveness and its resilience against capture or misuse.
 
 ---
 
@@ -24,15 +24,15 @@ In complex [coordination](coordination.md) systems, permissions operate at multi
 
 ### Permissions in DAO [Primitives](primitives.md)
 
-In the DAO [Primitives](primitives.md) framework, permissions function as a core mechanism for coordinating autonomous teams (Cells) within a larger network. The framework treats permissions not as static assignments but as relational agreements between network participants that determine how resources, decisions, and responsibilities are distributed across the system.
+In the [DAO Primitives framework](../artifacts/guides/dao-primitives-framework/index.md), permissions function as a core mechanism for coordinating autonomous teams (Cells) within a larger network. The framework treats permissions not as static assignments but as relational agreements between network participants that determine how resources, decisions, and responsibilities are distributed across the system.
 
-As [DAOs](daos.md) scale through fractal structures of interconnected Cells, permissions enable what Minimum Viable Permissionless-ness describes as "permissionless access to the network" while still providing necessary constraints on resource allocation. This distinction is crucial - while anyone can see opportunities and start working, permissions govern who can access treasuries, make binding decisions, or modify shared infrastructure.
+As [DAOs](daos.md) scale through fractal structures of interconnected Cells, permissions enable what [Minimum Viable Permissionless-ness](../artifacts/articles/network-evolution/Minimum Viable Permissionless-ness.md) describes as "permissionless access to the network" while still providing necessary constraints on resource allocation. This distinction is crucial - while anyone can see opportunities and start working, permissions govern who can access treasuries, make binding decisions, or modify shared infrastructure.
 
-This approach creates what might be called "calibrated permissioning" - deliberately designing where authority lies to achieve appropriate decentralization without sacrificing [coordination](coordination.md) capacity or security.
+This approach creates what might be called "calibrated permissioning" - deliberately designing where authority lies to achieve appropriate decentralization without sacrificing coordination capacity or security.
 
 ### Permissions in Technical Infrastructure
 
-At the technical level, permissions are encoded directly into [blockchain](blockchain.md) protocols, smart contracts, and [governance](governance.md) mechanisms. These programmatic permissions establish cryptographically secured rights that determine who can interact with contracts, trigger [governance](governance.md) processes, or access protected resources.
+At the technical level, permissions are encoded directly into [blockchain](blockchain.md) protocols, smart contracts, and governance mechanisms. These programmatic permissions establish cryptographically secured rights that determine who can interact with contracts, trigger governance processes, or access protected resources.
 
 Unlike traditional database access controls, on-chain permissions are publicly verifiable, immutable unless explicitly designed to be modified, and enforced without the need for trusted intermediaries. This creates strong guarantees around permission execution that can serve as the foundation for complex coordination systems.
 
@@ -43,11 +43,11 @@ Technical implementations include:
 - Token-gated permissions where ownership of specific tokens grants access rights
 - Time-locked or condition-based permissions that activate under specific circumstances
 
-### Permissions in [Governance](governance.md) Systems
+### Permissions in Governance Systems
 
 In governance contexts, permissions define who can participate in different aspects of [decision-making](decision-making.md) and under what conditions. This includes rights to create proposals, vote on decisions, delegate authority, or implement approved changes.
 
-Permissions in governance typically operate across multiple scales, with different decision types requiring different permission structures. As described in Building [DAOs](daos.md) as scalable networks, a two-house governance structure might separate permission systems:
+Permissions in governance typically operate across multiple scales, with different decision types requiring different permission structures. As described in Building DAOs as scalable networks, a two-house governance structure might separate permission systems:
 
 - **[Community](community.md) Governance** permissions focus on long-term, high-stakes decisions about purpose and treasury management, often requiring broader stakeholder [participation](participation.md)
 - **Operational Governance** permissions address day-to-day implementation and tactical decisions, distributed across autonomous teams in a sociocratic structure
@@ -56,7 +56,7 @@ This multi-scale approach allows permissions to be calibrated to the specific na
 
 ### Permissions and Permissionless-ness
 
-A key tension in web3 systems exists between permissioned access and "permissionless-ness" - the ability to participate without requiring approval from gatekeepers. As explored in Minimum Viable Permissionless-ness, effective [DAOs](daos.md) must balance open [participation](participation.md) with structured coordination.
+A key tension in web3 systems exists between permissioned access and "permissionless-ness" - the ability to participate without requiring approval from gatekeepers. As explored in Minimum Viable Permissionless-ness, effective DAOs must balance open participation with structured coordination.
 
 The solution proposed involves distinguishing between "access to the network" (which should be permissionless) and "access to resources" (which requires appropriate permissions). This approach enables three essential freedoms:
 

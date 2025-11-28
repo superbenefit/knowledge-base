@@ -44,22 +44,22 @@ tags:
 
 - **Cosmo-Local Approach**: Combining resilient local production with globally shared knowledge commons and protocols for cooperation
 - **Bioregional Organization**: Structuring human activity around ecological rather than political boundaries
-- **Open Protocols**: Using transparent, replicable systems for knowledge sharing and [coordination](tags/coordination.md)
-- **[Community](tags/community.md) Finance**: Developing new economic models that serve local needs while connecting to global capital flows
-- **Democratic Infrastructure**: Creating tools for [community](tags/community.md) self-[governance](tags/governance.md) and resource management
+- **Open Protocols**: Using transparent, replicable systems for knowledge sharing and coordination
+- **Community Finance**: Developing new economic models that serve local needs while connecting to global capital flows
+- **Democratic Infrastructure**: Creating tools for community self-[governance](tags/governance.md) and resource management
 
 ### Practical Applications
 
 The collection features essays exploring how Ethereum and Web3 technologies can support:
 - Local economic resilience
-- [Community](tags/community.md)-driven [governance](tags/governance.md) 
-- Resource sharing and [coordination](tags/coordination.md)
+- Community-driven governance 
+- Resource sharing and coordination
 - Cultural preservation
 - Environmental regeneration
 
 ### Relevance to SuperBenefit
 
-This resource directly connects to SuperBenefit's focus on cosmolocalism and bioregional approaches, providing both conceptual frameworks and practical examples of how blockchain technology can enhance [community](tags/community.md) autonomy while maintaining beneficial global connections. It offers valuable insights for projects integrating web3 tools with local [community](tags/community.md) activism and regenerative systems.
+This resource directly connects to SuperBenefit's focus on cosmolocalism and bioregional approaches, providing both conceptual frameworks and practical examples of how blockchain technology can enhance community autonomy while maintaining beneficial global connections. It offers valuable insights for projects integrating web3 tools with local community activism and regenerative systems.
 
 ### Related Concepts
 

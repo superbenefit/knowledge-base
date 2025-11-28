@@ -25,11 +25,11 @@ In organizational design, playbooks provide structured approaches for creating a
 
 ### Playbooks in Social Impact
 
-In social impact contexts, playbooks offer methodologies for addressing complex social challenges through coordinated action. They typically combine contextual understanding, stakeholder engagement approaches, and implementation frameworks tailored to specific domains such as [community](community.md) development, environmental restoration, or economic empowerment. These playbooks help translate abstract impact goals into coherent action plans with clear metrics and feedback mechanisms.
+In social impact contexts, playbooks offer methodologies for addressing complex social challenges through coordinated action. They typically combine contextual understanding, stakeholder engagement approaches, and implementation frameworks tailored to specific domains such as community development, environmental restoration, or economic empowerment. These playbooks help translate abstract impact goals into coherent action plans with clear metrics and feedback mechanisms.
 
 ### Playbooks in Web3 
 
-In web3 environments, playbooks provide guidance for implementing [decentralized](decentralization.md) systems and protocols in ways that fulfill their technical potential while addressing real human needs. They bridge the gap between technical possibilities and practical implementation by addressing [governance](governance.md) design, stakeholder onboarding, resource allocation, and [coordination](coordination.md) across different scales. Web3 playbooks often incorporate patterns for managing the unique challenges of digital commons, tokenomics, and multi-stakeholder alignment.
+In web3 environments, playbooks provide guidance for implementing decentralized systems and protocols in ways that fulfill their technical potential while addressing real human needs. They bridge the gap between technical possibilities and practical implementation by addressing governance design, stakeholder onboarding, resource allocation, and coordination across different scales. Web3 playbooks often incorporate patterns for managing the unique challenges of digital commons, tokenomics, and multi-stakeholder alignment.
 
 A well-crafted web3 playbook often includes:
 
@@ -40,7 +40,7 @@ A well-crafted web3 playbook often includes:
 - Technical and social considerations for successful deployment
 - Evolution frameworks for adapting the approach as systems mature
 
-The Reimagining [Power](power.md) Playbook being developed by the Reimagining [Power](power.md) Project represents an example of this approach, outlining frameworks for transforming traditional [power](power.md) dynamics in philanthropy and social impact through [decentralized](decentralization.md) technologies.
+The Reimagining [Power](power.md) Playbook being developed by the Reimagining Power Project represents an example of this approach, outlining frameworks for transforming traditional power dynamics in philanthropy and social impact through decentralized technologies.
 ---
 
 ## Related Concepts

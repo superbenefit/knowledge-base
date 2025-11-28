@@ -21,13 +21,13 @@ Enchanted Network's "Future of Work" exploration challenges fundamental assumpti
 
 - **Beyond Wage Labor Paradigm**: Framework challenges capitalist employment assumptions including wage labor, employer control, productivity metrics, and growth imperatives, examining alternative economic relationships enabling livelihood outside these structures.
 
-- **Gift Economy Integration**: Analysis explores gift economy principles including reciprocity, abundance mindset, and value creation beyond monetary exchange, showing how [community](tags/community.md) can organize economic relationships around generosity rather than scarcity and competition.
+- **Gift Economy Integration**: Analysis explores gift economy principles including reciprocity, abundance mindset, and value creation beyond monetary exchange, showing how community can organize economic relationships around generosity rather than scarcity and competition.
 
 - **Commons-Based Production**: Coverage examines commons-based peer production where contributors create value collectively without traditional employment hierarchies, demonstrating [coordination](tags/coordination.md) patterns beyond firm structures or market transactions.
 
-- **Care Economy Valuation**: Framework centers care work, emotional labor, and reproductive activities systematically devalued in capitalist metrics, arguing that regenerative economics must value relationship-building and [community](tags/community.md) maintenance as essential work.
+- **Care Economy Valuation**: Framework centers care work, emotional labor, and reproductive activities systematically devalued in capitalist metrics, arguing that regenerative economics must value relationship-building and community maintenance as essential work.
 
-- **Bioregional Stewardship**: Rather than abstract employment, analysis grounds work in place-based ecological stewardship and bioregional contribution, connecting livelihood to land health and [community](tags/community.md) needs beyond global labor markets.
+- **Bioregional Stewardship**: Rather than abstract employment, analysis grounds work in place-based ecological stewardship and bioregional contribution, connecting livelihood to land health and community needs beyond global labor markets.
 
 - **Indigenous and Feminist Economics**: Work draws on Indigenous economic traditions and feminist economics challenging Western capitalist paradigms, demonstrating how alternative knowledge systems inform different work relationships and livelihood possibilities.
 
@@ -37,7 +37,7 @@ This framework enables alternative livelihood design:
 
 - Individuals seeking livelihood alternatives to conventional employment can use framework to imagine economic relationships beyond wage labor, exploring gift economy, commons production, and bioregional stewardship as viable paths
 
-- [community](tags/community.md) designing local economies can reference principles for economic relationships emphasizing reciprocity, care, and regeneration rather than defaulting to capitalist employment patterns even when pursuing cooperative or solidarity economy projects
+- community designing local economies can reference principles for economic relationships emphasizing reciprocity, care, and regeneration rather than defaulting to capitalist employment patterns even when pursuing cooperative or solidarity economy projects
 
 - Worker cooperatives and mutual aid [networks](tags/networks.md) can ground their economic models in gift economy and commons production principles, creating internal cultures aligned with values rather than reproducing capitalist workplace dynamics with different ownership structures
 
@@ -47,9 +47,9 @@ This framework enables alternative livelihood design:
 
 ### Connection With SuperBenefit
 
-- Enchanted Network's reimagining of work challenges SuperBenefit to examine whether [coordination](tags/coordination.md) [primitives](tags/primitives.md) inadvertently reproduce capitalist economic assumptions about contribution, compensation, and value even when enabling [decentralized](tags/decentralization.md) [governance](tags/governance.md), demonstrating that genuinely regenerative [coordination](tags/coordination.md) might require fundamentally different economic relationships beyond improving how DAO treasuries pay contributors—showing that transformation may mean not just better employment contracts or fairer token distribution but economic patterns emphasizing gift, care, and commons stewardship that resist commodification rather than optimizing it through different mechanisms.
+- Enchanted Network's reimagining of work challenges SuperBenefit to examine whether coordination [primitives](tags/primitives.md) inadvertently reproduce capitalist economic assumptions about contribution, compensation, and value even when enabling [decentralized](tags/decentralization.md) [governance](tags/governance.md), demonstrating that genuinely regenerative coordination might require fundamentally different economic relationships beyond improving how DAO treasuries pay contributors—showing that transformation may mean not just better employment contracts or fairer token distribution but economic patterns emphasizing gift, care, and commons stewardship that resist commodification rather than optimizing it through different mechanisms.
 
-- The framework's integration of Indigenous economics and feminist analysis of care work offers important expansion beyond SuperBenefit's primarily Western [coordination](tags/coordination.md) theory foundations, suggesting that effective [primitives](tags/primitives.md) for regenerative economies require learning from knowledge traditions that never organized around wage labor, productivity metrics, or growth imperatives—demonstrating that building genuinely alternative [coordination](tags/coordination.md) tools means not just critiquing capitalist structures but actively incorporating economic wisdom from [community](tags/community.md) who maintained gift economies, commons management, and reciprocity-based livelihoods despite colonial imposition of capitalist work paradigms.
+- The framework's integration of Indigenous economics and feminist analysis of care work offers important expansion beyond SuperBenefit's primarily Western coordination theory foundations, suggesting that effective primitives for regenerative economies require learning from knowledge traditions that never organized around wage labor, productivity metrics, or growth imperatives—demonstrating that building genuinely alternative coordination tools means not just critiquing capitalist structures but actively incorporating economic wisdom from community who maintained gift economies, commons management, and reciprocity-based livelihoods despite colonial imposition of capitalist work paradigms.
 
 ---
 

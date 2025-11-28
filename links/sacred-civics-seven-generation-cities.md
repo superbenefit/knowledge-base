@@ -17,15 +17,15 @@ tags:
   - long-term-sustainability
 ---
 
-Sacred Civics explores how urban [governance](tags/governance.md) can integrate indigenous seven-generation thinking—considering decisions' impacts seven generations forward—with participatory systems transformation. The open access book shows how cities can learn from indigenous wisdom about long-term ecological sustainability, reciprocal relationships, and collective [decision-making](tags/decision-making.md) that honors intergenerational responsibility. Rather than treating indigenous knowledge as historical artifact, the work demonstrates how these frameworks apply to contemporary urban challenges including climate adaptation, social equity, and participatory [governance](tags/governance.md). The book bridges indigenous cosmologies with urban planning, showing how seven-generation perspectives transform priorities from short-term growth to sustainable flourishing across centuries.
+Sacred Civics explores how urban [governance](tags/governance.md) can integrate indigenous seven-generation thinking—considering decisions' impacts seven generations forward—with participatory systems transformation. The open access book shows how cities can learn from indigenous wisdom about long-term ecological sustainability, reciprocal relationships, and collective [decision-making](tags/decision-making.md) that honors intergenerational responsibility. Rather than treating indigenous knowledge as historical artifact, the work demonstrates how these frameworks apply to contemporary urban challenges including climate adaptation, social equity, and participatory governance. The book bridges indigenous cosmologies with urban planning, showing how seven-generation perspectives transform priorities from short-term growth to sustainable flourishing across centuries.
 
 ### Key Highlights
 
-- **Seven-Generation Framework**: Sacred Civics centers indigenous principle of considering seven generations—roughly 140 years—forward when making decisions, challenging short-term thinking dominating contemporary [governance](tags/governance.md) that optimizes for electoral cycles or quarterly returns.
+- **Seven-Generation Framework**: Sacred Civics centers indigenous principle of considering seven generations—roughly 140 years—forward when making decisions, challenging short-term thinking dominating contemporary governance that optimizes for electoral cycles or quarterly returns.
 
-- **Indigenous Urban [Governance](tags/governance.md)**: The book shows how indigenous [governance](tags/governance.md) principles including participatory [decision-making](tags/decision-making.md), ecological reciprocity, and holistic systems thinking apply to cities, not just traditional [community](tags/community.md) or rural contexts.
+- **Indigenous Urban Governance**: The book shows how indigenous governance principles including participatory decision-making, ecological reciprocity, and holistic systems thinking apply to cities, not just traditional [community](tags/community.md) or rural contexts.
 
-- **Participatory Transformation**: Sacred Civics emphasizes transformation emerging through participatory processes rather than expert planning, showing how seven-generation thinking requires involving diverse [community](tags/community.md) voices particularly those historically excluded.
+- **Participatory Transformation**: Sacred Civics emphasizes transformation emerging through participatory processes rather than expert planning, showing how seven-generation thinking requires involving diverse community voices particularly those historically excluded.
 
 - **Ecological Integration**: The framework integrates urban systems with broader ecological contexts including watersheds, bioregions, and planetary cycles, challenging artificial separation of cities from natural systems they depend on and impact.
 
@@ -39,21 +39,21 @@ This framework enables transformative urban governance:
 
 - Cities can integrate seven-generation assessment into planning processes, evaluating decisions not just for immediate benefit but for impacts across multiple human generations and ecosystem cycles
 
-- Participatory governance practitioners can adopt indigenous [decision-making](tags/decision-making.md) frameworks emphasizing consensus, collective wisdom, and long-term thinking rather than only majority voting or expert authority
+- Participatory governance practitioners can adopt indigenous decision-making frameworks emphasizing consensus, collective wisdom, and long-term thinking rather than only majority voting or expert authority
 
 - Urban planners can reference Sacred Civics when designing climate adaptation strategies, ensuring approaches honor intergenerational responsibility and ecological reciprocity rather than only protecting current populations
 
-- [community](tags/community.md) can use seven-generation framework for visioning work, considering what flourishing looks like across generations rather than only addressing immediate challenges
+- community can use seven-generation framework for visioning work, considering what flourishing looks like across generations rather than only addressing immediate challenges
 
 - Researchers can study how indigenous governance principles function in urban contexts, understanding what enables integration of traditional wisdom with contemporary city challenges
 
 ### Connection With SuperBenefit
 
-- Sacred Civics' seven-generation framework challenges SuperBenefit to ensure [coordination](tags/coordination.md) [primitives](tags/primitives.md) support long-term thinking matching ecosystem and [community](tags/community.md) cycles rather than optimizing for transaction speed or quarterly token appreciation—showing that genuinely regenerative systems must operate on multi-generational timescales, not just efficient short-term [coordination](tags/coordination.md).
+- Sacred Civics' seven-generation framework challenges SuperBenefit to ensure [coordination](tags/coordination.md) [primitives](tags/primitives.md) support long-term thinking matching ecosystem and community cycles rather than optimizing for transaction speed or quarterly token appreciation—showing that genuinely regenerative systems must operate on multi-generational timescales, not just efficient short-term coordination.
 
-- The book's emphasis on participatory transformation grounded in indigenous wisdom validates SuperBenefit's decolonial commitments, demonstrating that effective [coordination](tags/coordination.md) must center indigenous knowledge and governance traditions rather than imposing Western organizational models claiming universal applicability—showing that [coordination](tags/coordination.md) tools should enable [community](tags/community.md) to draw on their own wisdom traditions.
+- The book's emphasis on participatory transformation grounded in indigenous wisdom validates SuperBenefit's decolonial commitments, demonstrating that effective coordination must center indigenous knowledge and governance traditions rather than imposing Western organizational models claiming universal applicability—showing that coordination tools should enable community to draw on their own wisdom traditions.
 
-- Sacred Civics' integration of ecological reciprocity with governance provides framework for SuperBenefit's regenerative approach, showing how [coordination](tags/coordination.md) must consider relationship with more-than-human world and long-term ecological health rather than treating environment as externality—suggesting that DAO [primitives](tags/primitives.md) should enable [community](tags/community.md) to account for impacts across generations and species, not just immediate human participants.
+- Sacred Civics' integration of ecological reciprocity with governance provides framework for SuperBenefit's regenerative approach, showing how coordination must consider relationship with more-than-human world and long-term ecological health rather than treating environment as externality—suggesting that DAO primitives should enable community to account for impacts across generations and species, not just immediate human participants.
 
 ---
 

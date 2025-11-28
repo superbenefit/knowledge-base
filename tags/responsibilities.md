@@ -13,9 +13,9 @@ type: tag
 
 _Responsibilities are specific duties, obligations, and expected contributions that individuals, groups, or roles commit to fulfilling within an organization or network, creating clear accountability while enabling [decentralized](decentralization.md) [coordination](coordination.md) without hierarchical management._
 
-Responsibilities form the basic units of distributed accountability in [decentralized](decentralization.md) systems. Unlike traditional management structures that use supervision and authority to ensure task completion, [decentralized](decentralization.md) organizations rely on explicit, transparent responsibilities that participants voluntarily accept and commit to fulfilling. These commitments create predictable patterns of action and accountability without requiring centralized control, enabling autonomous agents to coordinate effectively around shared goals.
+Responsibilities form the basic units of distributed accountability in decentralized systems. Unlike traditional management structures that use supervision and authority to ensure task completion, decentralized organizations rely on explicit, transparent responsibilities that participants voluntarily accept and commit to fulfilling. These commitments create predictable patterns of action and accountability without requiring centralized control, enabling autonomous agents to coordinate effectively around shared goals.
 
-In the context of purpose-aligned networks, responsibilities represent the negotiated boundaries and expectations between individuals and the collective. They define what each participant contributes to the whole while preserving [autonomy](autonomy.md) in how these contributions are delivered. Well-designed responsibility frameworks balance clarity (to enable [coordination](coordination.md)) with flexibility (to enable adaptation and innovation), distributing accountability across the network rather than concentrating it in management hierarchies.
+In the context of purpose-aligned networks, responsibilities represent the negotiated boundaries and expectations between individuals and the collective. They define what each participant contributes to the whole while preserving [autonomy](autonomy.md) in how these contributions are delivered. Well-designed responsibility frameworks balance clarity (to enable coordination) with flexibility (to enable adaptation and innovation), distributing accountability across the network rather than concentrating it in management hierarchies.
 
 ---
 
@@ -31,16 +31,16 @@ The explicit documentation of responsibilities in role descriptions serves sever
 
 - Creates clarity about expectations and deliverables
 - Enables autonomous execution without micromanagement
-- Facilitates [coordination](coordination.md) between interdependent roles
+- Facilitates coordination between interdependent roles
 - Provides a framework for performance assessment and feedback
 
 ### Responsibilities in DAO [Governance](governance.md)
 
-In DAO [governance](governance.md) contexts, responsibilities are allocated across different [governance](governance.md) layers and stakeholder groups according to the principle of subsidiarity—assigning decision rights and duties to the most local level capable of handling them effectively.
+In DAO governance contexts, responsibilities are allocated across different governance layers and stakeholder groups according to the principle of subsidiarity—assigning decision rights and duties to the most local level capable of handling them effectively.
 
-As outlined in Building [DAOs](daos.md) as scalable networks, effective DAO [governance](governance.md) often separates responsibilities between [community](community.md) governance (safeguarding purpose and long-term direction) and operational governance (day-to-day execution and [coordination](coordination.md)). Each layer has distinct responsibilities that complement rather than duplicate each other:
+As outlined in Building [DAOs](daos.md) as scalable networks, effective DAO governance often separates responsibilities between [community](community.md) governance (safeguarding purpose and long-term direction) and operational governance (day-to-day execution and coordination). Each layer has distinct responsibilities that complement rather than duplicate each other:
 
-- **[Community](community.md) Governance Responsibilities**: Maintaining alignment with purpose, approving high-level resource allocation, ensuring accountability of operational teams, and evolving core [values](values.md) and direction
+- **Community Governance Responsibilities**: Maintaining alignment with purpose, approving high-level resource allocation, ensuring accountability of operational teams, and evolving core [values](values.md) and direction
 - **Operational Governance Responsibilities**: Implementing strategic initiatives, coordinating across teams, managing resources within approved parameters, and delivering on specific objectives
 
 This distribution of responsibilities creates a balance between decentralized execution and coherent alignment, allowing autonomous teams to operate effectively within a framework of shared purpose.

@@ -44,25 +44,25 @@ Akomolafe's work resists direct application but offers transformative provocatio
 
 - Philanthropic organizations and funders can use paraphilanthropy as invitation to examine their own assumptions about control, measurement, and strategic giving—asking what it might mean to release money rather than direct it, to become vulnerable rather than maintain [power](tags/power.md)
 
-- Grant-making institutions can experiment with relationship-based funding that prioritizes long-term accountability to [communities](tags/community.md) and land over short-term outcomes, recognizing that meaningful change happens in timescales beyond funding cycles
+- Grant-making institutions can experiment with relationship-based funding that prioritizes long-term accountability to communities and land over short-term outcomes, recognizing that meaningful change happens in timescales beyond funding cycles
 
 - Movements for economic justice can draw on the concept of money as "congealated violence" to articulate why redistribution alone is insufficient—transformation requires addressing the extractive relationships money embodies
 
 - Land-based and indigenous-led initiatives can reference paraphilanthropy when articulating why conventional funding frameworks don't fit their work—the essay provides language for why relationship with land and more-than-human kin cannot be reduced to measurable outcomes
 
-- Those exploring gift economies and alternative exchange can use Akomolafe's analysis of giving as entanglement to develop practices that refuse transactional logics while acknowledging [power](tags/power.md) differentials
+- Those exploring gift economies and alternative exchange can use Akomolafe's analysis of giving as entanglement to develop practices that refuse transactional logics while acknowledging power differentials
 
 - Decolonial practitioners across sectors can engage the work's invitation to "lostness"—building capacity to operate outside colonial maps rather than merely diversifying representation within existing structures
 
-The essay's [power](tags/power.md) lies in its capacity to trouble comfortable assumptions rather than providing reassuring answers.
+The essay's power lies in its capacity to trouble comfortable assumptions rather than providing reassuring answers.
 
 ### Connection With SuperBenefit
 
-- Akomolafe's radical critique of philanthropic [power](tags/power.md) dynamics resonates deeply with AIFS's transformation from transactional funding model to coordi-nation based on voluntary association and mutual support, embodying paraphilanthropy's invitation to release money rather than direct it toward predetermined outcomes measured by colonial metrics.
+- Akomolafe's radical critique of philanthropic power dynamics resonates deeply with AIFS's transformation from transactional funding model to coordi-nation based on voluntary association and mutual support, embodying paraphilanthropy's invitation to release money rather than direct it toward predetermined outcomes measured by colonial metrics.
 
 - The emphasis on relationship and entanglement as transformation itself—not means to an end—validates SuperBenefit's understanding that trust-building and attending to group dynamics constitute foundational infrastructure rather than soft prerequisites, explaining why AIFS needed to prioritize relationship before [coordination](tags/coordination.md) could become sustainable.
 
-- Challenges SuperBenefit to hold the tension between providing reusable patterns for decentralized [coordination](tags/coordination.md) while honoring Akomolafe's invitation to "lostness" and emergence, recognizing that genuinely decolonial futures cannot be fully mapped in advance but must arise through practices that refuse colonial logics of productivity and measurement.
+- Challenges SuperBenefit to hold the tension between providing reusable patterns for decentralized coordination while honoring Akomolafe's invitation to "lostness" and emergence, recognizing that genuinely decolonial futures cannot be fully mapped in advance but must arise through practices that refuse colonial logics of productivity and measurement.
 
 ---
 

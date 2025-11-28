@@ -15,19 +15,19 @@ tags:
   - coliving
 ---
 
-Cabin DAO represents practical experiment in using [decentralized](tags/decentralization.md) [coordination](tags/coordination.md) tools to build "network city"—geographically distributed neighborhoods connected through shared regenerative values rather than proximity. The project coordinates physical infrastructure including coliving spaces, workshops, and [community](tags/community.md) gathering places across multiple locations, using DAO [governance](tags/governance.md) structures to align members around place-making principles. Rather than treating [decentralized](tags/decentralization.md) organization as purely digital phenomenon, Cabin demonstrates how [coordination](tags/coordination.md) primitives can support communities investing in land, buildings, and local ecosystems. The Census tool maps member locations and creates visibility into distributed network, showing how digital coordination enables physical [community](tags/community.md) building that transcends traditional geographic constraints while maintaining bioregional rootedness.
+Cabin DAO represents practical experiment in using [decentralized](tags/decentralization.md) [coordination](tags/coordination.md) tools to build "network city"—geographically distributed neighborhoods connected through shared regenerative values rather than proximity. The project coordinates physical infrastructure including coliving spaces, workshops, and [community](tags/community.md) gathering places across multiple locations, using DAO [governance](tags/governance.md) structures to align members around place-making principles. Rather than treating decentralized organization as purely digital phenomenon, Cabin demonstrates how coordination primitives can support communities investing in land, buildings, and local ecosystems. The Census tool maps member locations and creates visibility into distributed network, showing how digital coordination enables physical community building that transcends traditional geographic constraints while maintaining bioregional rootedness.
 
 ### Key Highlights
 
-- **Network City Model**: Cabin pioneers "network city" concept—geographically distributed neighborhoods united by values and [governance](tags/governance.md) rather than contiguous geography, demonstrating how coordination tools can connect place-based communities.
+- **Network City Model**: Cabin pioneers "network city" concept—geographically distributed neighborhoods united by values and governance rather than contiguous geography, demonstrating how coordination tools can connect place-based communities.
 
-- **Physical Infrastructure Coordination**: The DAO coordinates real physical assets including coliving properties, land stewardship, and [community](tags/community.md) spaces, showing decentralized [governance](tags/governance.md) applied beyond purely digital contexts to built environment.
+- **Physical Infrastructure Coordination**: The DAO coordinates real physical assets including coliving properties, land stewardship, and community spaces, showing decentralized governance applied beyond purely digital contexts to built environment.
 
 - **Census Mapping**: Cabin's Census tool creates visibility into member distribution and local clusters, using data to identify potential neighborhood sites and coordinate place-based gatherings across distributed network.
 
-- **Regenerative Place-Making**: Community emphasizes environmental stewardship, bioregional awareness, and regenerative land practices, applying [decentralization](tags/decentralization.md) principles to ecological restoration and sustainable living infrastructure.
+- **Regenerative Place-Making**: Community emphasizes environmental stewardship, bioregional awareness, and regenerative land practices, applying decentralization principles to ecological restoration and sustainable living infrastructure.
 
-- **Hybrid Governance**: Cabin balances DAO coordination mechanisms with needs of physical space management and local [community](tags/community.md) building, navigating tensions between digital [governance](tags/governance.md) and place-based decision-making.
+- **Hybrid Governance**: Cabin balances DAO coordination mechanisms with needs of physical space management and local community building, navigating tensions between digital governance and place-based decision-making.
 
 ### Practical Applications
 
@@ -45,7 +45,7 @@ This model enables network city experimentation:
 
 ### Connection With SuperBenefit
 
-- Cabin's network city model challenges SuperBenefit to consider how coordination primitives enable not just digital collaboration but physical place-making and bioregional stewardship, demonstrating that effective tools for decentralized organization should support communities investing in land, buildings, and local ecosystems—showing that "[decentralization](tags/decentralization.md)" means more than software governance but includes regenerating physical spaces through distributed coordination.
+- Cabin's network city model challenges SuperBenefit to consider how coordination primitives enable not just digital collaboration but physical place-making and bioregional stewardship, demonstrating that effective tools for decentralized organization should support communities investing in land, buildings, and local ecosystems—showing that "decentralization" means more than software governance but includes regenerating physical spaces through distributed coordination.
 
 - The tension Cabin navigates between DAO coordination mechanisms and place-based community needs validates SuperBenefit's attention to social context in primitive design, illustrating that digital coordination tools must accommodate physical infrastructure management, local relationship building, and bioregional specificity rather than imposing standardized governance patterns that ignore material realities of land stewardship and neighborhood formation.
 

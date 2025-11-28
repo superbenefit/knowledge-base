@@ -27,20 +27,20 @@ In cultural translation, semiotic bridging goes beyond literal language translat
 
 ## Semiotic Bridging in web3
 
-In web3 contexts, semiotic bridging often involves using AI and [decentralized](decentralization.md) technologies to help [community](community.md) share knowledge while maintaining sovereignty over their own information. This can include:
+In web3 contexts, semiotic bridging often involves using AI and [decentralized](decentralization.md) technologies to help community share knowledge while maintaining sovereignty over their own information. This can include:
 
-- [Community](community.md)-controlled knowledge bases that interface with AI translation layers
+- Community-controlled knowledge bases that interface with AI translation layers
 - Systems for sharing local knowledge while preserving cultural protocols and context
-- Tools for discovering patterns and connections across different [community](community.md) knowledge systems
+- Tools for discovering patterns and connections across different community knowledge systems
 - Methods for translating practices and insights between different local contexts
 
-The key innovation in web3 implementations is the combination of local control with global accessibility - [community](community.md) can maintain their own knowledge bases while still participating in broader knowledge exchange networks.
+The key innovation in web3 implementations is the combination of local control with global accessibility - community can maintain their own knowledge bases while still participating in broader knowledge exchange networks.
 
 ### AI Agents in Semiotic Bridging
 
-Within shared knowledge commons, AI agents can act as dynamic translators across different [community](community.md) knowledge bases. These agents can:
+Within shared knowledge commons, AI agents can act as dynamic translators across different community knowledge bases. These agents can:
 
-- Navigate and map relationships between different [community](community.md) data models without requiring standardization
+- Navigate and map relationships between different community data models without requiring standardization
 - Translate between various schemas, taxonomies, and organizational systems automatically
 - Handle cross-language knowledge management without manual intervention
 - Identify and connect related concepts across different community contexts

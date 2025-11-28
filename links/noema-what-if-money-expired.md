@@ -43,15 +43,15 @@ This framework enables monetary system reimagination:
 
 - Policy advocates can reference Gesell's framework when arguing for monetary system reform, showing alternatives to conventional assumptions about currency neutrality and wealth accumulation
 
-- Community organizers can understand how circulation incentives could function in local economic development, imagining monetary tools serving [community](tags/community.md) wellbeing rather than individual wealth maximization
+- Community organizers can understand how circulation incentives could function in local economic development, imagining monetary tools serving community wellbeing rather than individual wealth maximization
 
 ### Connection With SuperBenefit
 
-- Noema's exploration of demurrage currency challenges SuperBenefit to interrogate token design assumptions in DAO [coordination](tags/coordination.md), showing how seemingly technical choices about value stability and accumulation encode political decisions about wealth distribution and power—demonstrating that [coordination](tags/coordination.md) primitives should enable communities to experiment with diverse economic logics including circulation incentives rather than defaulting to conventional monetary mechanics that privilege holders over contributors.
+- Noema's exploration of demurrage currency challenges SuperBenefit to interrogate token design assumptions in DAO [coordination](tags/coordination.md), showing how seemingly technical choices about value stability and accumulation encode political decisions about wealth distribution and power—demonstrating that coordination primitives should enable communities to experiment with diverse economic logics including circulation incentives rather than defaulting to conventional monetary mechanics that privilege holders over contributors.
 
-- The emphasis on how monetary design shapes behavior resonates with SuperBenefit's understanding that [coordination](tags/coordination.md) primitives aren't neutral infrastructure but actively shape participation patterns and power distribution, validating the conviction that effective tools should make these political choices explicit rather than hiding them in technical implementation that appears inevitable.
+- The emphasis on how monetary design shapes behavior resonates with SuperBenefit's understanding that coordination primitives aren't neutral infrastructure but actively shape participation patterns and power distribution, validating the conviction that effective tools should make these political choices explicit rather than hiding them in technical implementation that appears inevitable.
 
-- Gesell's framework connecting individual incentives with collective wellbeing through system design provides model for SuperBenefit's primitive development, illustrating how [coordination](tags/coordination.md) tools can align personal benefit with [community](tags/community.md) health through structural mechanisms rather than requiring altruism or moral appeals—showing that genuinely regenerative economics emerges from designing systems where circulation and contribution generate more value than accumulation and extraction.
+- Gesell's framework connecting individual incentives with collective wellbeing through system design provides model for SuperBenefit's primitive development, illustrating how coordination tools can align personal benefit with community health through structural mechanisms rather than requiring altruism or moral appeals—showing that genuinely regenerative economics emerges from designing systems where circulation and contribution generate more value than accumulation and extraction.
 
 ---
 

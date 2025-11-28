@@ -21,11 +21,11 @@ This Gitcoin framework applies assembly theory—a complexity science approach m
 
 - **Assembly Theory Fundamentals**: The framework introduces assembly theory's core insight that complex structures require multiple selection events to emerge, using "assembly index" to measure how much history and selection shapes current state—offering mathematical tools for understanding emergence in [coordination](tags/coordination.md) systems.
 
-- **Capital Allocation as Selection**: Gitcoin applies assembly theory to see funding mechanisms as selection processes shaping ecosystem evolution, where different allocation approaches create distinct selection pressures determining which projects receive resources and what characteristics [communities](tags/community.md) reinforce through funding.
+- **Capital Allocation as Selection**: Gitcoin applies assembly theory to see funding mechanisms as selection processes shaping ecosystem evolution, where different allocation approaches create distinct selection pressures determining which projects receive resources and what characteristics communities reinforce through funding.
 
 - **Design Space Exploration**: Rather than advocating single mechanism, the framework uses assembly theory to explore capital allocation design space systematically—understanding how parameter choices create different selection dynamics with distinct evolutionary consequences for ecosystem development.
 
-- **Signal Amplification**: The analysis examines how mechanisms amplify different signals—quadratic funding amplifying broad [community](tags/community.md) support, retroactive funding amplifying demonstrated [impact](tags/impact.md), conviction voting amplifying sustained preference—showing how each creates distinct selection for different project characteristics.
+- **Signal Amplification**: The analysis examines how mechanisms amplify different signals—quadratic funding amplifying broad community support, retroactive funding amplifying demonstrated [impact](tags/impact.md), conviction voting amplifying sustained preference—showing how each creates distinct selection for different project characteristics.
 
 - **Complexity and Emergence**: Assembly theory helps explain why simple allocation mechanisms can produce complex ecosystem outcomes through selection dynamics, offering tools to understand how funding choices cascade through network effects and create emergent patterns of project development.
 
@@ -43,15 +43,15 @@ This theoretical framework enables principled allocation design:
 
 - Grant program designers can draw on signal amplification analysis when choosing mechanisms, understanding how quadratic funding versus retroactive rewards versus conviction voting each select for different project qualities
 
-- Community organizers can use the framework to articulate why funding mechanism choices matter beyond implementation details, showing how allocation design fundamentally shapes which work [communities](tags/community.md) support
+- Community organizers can use the framework to articulate why funding mechanism choices matter beyond implementation details, showing how allocation design fundamentally shapes which work communities support
 
 ### Connection With SuperBenefit
 
-- Gitcoin's assembly theory framework provides sophisticated theoretical grounding for SuperBenefit's exploration of funding mechanisms, offering complexity science tools to understand how capital allocation creates selection pressures shaping ecosystem development—suggesting that [coordination](tags/coordination.md) primitives should be evaluated not just by immediate distribution properties but by long-term evolutionary dynamics they create through reinforcing different project characteristics.
+- Gitcoin's assembly theory framework provides sophisticated theoretical grounding for SuperBenefit's exploration of funding mechanisms, offering complexity science tools to understand how capital allocation creates selection pressures shaping ecosystem development—suggesting that coordination primitives should be evaluated not just by immediate distribution properties but by long-term evolutionary dynamics they create through reinforcing different project characteristics.
 
-- The emphasis on understanding capital allocation as selection process resonates with SuperBenefit's recognition that funding mechanisms shape what work gets done and what [communities](tags/community.md) value—showing that choices about quadratic versus retroactive versus conviction-based allocation aren't merely technical details but fundamental decisions about what receives resources and attention, requiring intentional design aligned with regenerative goals.
+- The emphasis on understanding capital allocation as selection process resonates with SuperBenefit's recognition that funding mechanisms shape what work gets done and what communities value—showing that choices about quadratic versus retroactive versus conviction-based allocation aren't merely technical details but fundamental decisions about what receives resources and attention, requiring intentional design aligned with regenerative goals.
 
-- Assembly theory's focus on emergence and complexity validates SuperBenefit's systems-thinking approach to [coordination](tags/coordination.md), demonstrating that understanding how simple rules produce complex outcomes through selection requires theoretical frameworks from complexity science rather than only analyzing individual mechanism properties in isolation.
+- Assembly theory's focus on emergence and complexity validates SuperBenefit's systems-thinking approach to coordination, demonstrating that understanding how simple rules produce complex outcomes through selection requires theoretical frameworks from complexity science rather than only analyzing individual mechanism properties in isolation.
 
 ---
 

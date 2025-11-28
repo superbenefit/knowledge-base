@@ -24,9 +24,9 @@ Feminist Finance offers comprehensive resource hub and framework for understandi
 
 - **Patriarchal Finance Critique**: The resources examine how financial systems embody patriarchal values: prioritizing individual accumulation over collective wellbeing, rewarding competition over cooperation, separating "productive" wage labor from "unproductive" care work, and extracting value from feminized and racialized labor while concentrating wealth among privileged men—revealing finance as gendered [power](tags/power.md) system, not neutral mechanism.
 
-- **Alternative Financial Models**: Feminist Finance documents practical alternatives from [community](tags/community.md) investment funds to rotating savings circles to platform cooperatives that redistribute financial [power](tags/power.md), showing how finance can serve [community](tags/community.md) wealth-building and mutual support rather than extracting toward distant investors.
+- **Alternative Financial Models**: Feminist Finance documents practical alternatives from community investment funds to rotating savings circles to platform cooperatives that redistribute financial power, showing how finance can serve community wealth-building and mutual support rather than extracting toward distant investors.
 
-- **Intersectional Analysis**: The framework integrates feminist analysis with racial justice, decolonization, and class struggle, recognizing how patriarchal finance intersects with colonialism and racial capitalism to create compounding extraction from women of color, indigenous [communities](tags/community.md), and Global South populations—avoiding single-axis analysis that misses how [power](tags/power.md) operates through interlocking systems.
+- **Intersectional Analysis**: The framework integrates feminist analysis with racial justice, decolonization, and class struggle, recognizing how patriarchal finance intersects with colonialism and racial capitalism to create compounding extraction from women of color, indigenous communities, and Global South populations—avoiding single-axis analysis that misses how power operates through interlocking systems.
 
 - **Social Reproduction and Climate**: Feminist Finance connects care work to ecological sustainability, showing how capitalism's separation of economy from social/ecological reproduction drives both gender injustice and environmental destruction. Care-centered economics that value sustaining life rather than accumulating capital offer path toward both gender equity and planetary survival.
 
@@ -36,23 +36,23 @@ Feminist Finance offers comprehensive resource hub and framework for understandi
 
 Feminist economics enables transformative approaches across financial contexts:
 
-- Community organizations can adopt care-centered evaluation frameworks when assessing economic initiatives, measuring success by strengthened care capacity and collective wellbeing rather than narrow financial returns, ensuring that [community](tags/community.md) wealth-building serves social reproduction
+- Community organizations can adopt care-centered evaluation frameworks when assessing economic initiatives, measuring success by strengthened care capacity and collective wellbeing rather than narrow financial returns, ensuring that community wealth-building serves social reproduction
 
 - Alternative finance practitioners can use feminist analysis to design investment vehicles that value care work, support cooperative ownership, and redistribute resources toward feminized and racialized labor rather than extracting toward privileged investors
 
 - Policy advocates can draw on feminist economics when arguing for universal care infrastructure, showing how public investment in care creates economic foundation rather than drain, and how conventional GDP growth that depends on unpaid care labor fundamentally miscounts economic value
 
-- DAO designers can apply care-centered frameworks when creating tokenomics and [governance](tags/governance.md) systems, questioning whether [coordination](tags/coordination.md) mechanisms reward care work, [community](tags/community.md)-building, and relationship maintenance or only value easily quantifiable outputs while extracting from invisible labor
+- DAO designers can apply care-centered frameworks when creating tokenomics and [governance](tags/governance.md) systems, questioning whether [coordination](tags/coordination.md) mechanisms reward care work, community-building, and relationship maintenance or only value easily quantifiable outputs while extracting from invisible labor
 
-- Philanthropic organizations can use feminist finance principles to transform grantmaking, supporting care workers and social reproduction rather than privileging projects that fit conventional economic metrics, and redistributing decision-making [power](tags/power.md) to [communities](tags/community.md) providing care
+- Philanthropic organizations can use feminist finance principles to transform grantmaking, supporting care workers and social reproduction rather than privileging projects that fit conventional economic metrics, and redistributing decision-making power to communities providing care
 
 - Economic justice movements can integrate feminist economics into their analysis and demands, connecting struggles for care justice, gender equity, racial justice, and climate action through shared critique of extractive economic logics
 
 ### Connection With SuperBenefit
 
-- Feminist finance's care-centered economics challenges SuperBenefit to ensure that [coordination](tags/coordination.md) primitives value relationship-building, trust work, and community care rather than only rewarding easily tokenized outputs—the critique reveals how even well-intentioned DAO [governance](tags/governance.md) can reproduce patriarchal devaluation of care labor if mechanisms don't account for social reproduction work that sustains [coordination](tags/coordination.md) itself.
+- Feminist finance's care-centered economics challenges SuperBenefit to ensure that coordination primitives value relationship-building, trust work, and community care rather than only rewarding easily tokenized outputs—the critique reveals how even well-intentioned DAO governance can reproduce patriarchal devaluation of care labor if mechanisms don't account for social reproduction work that sustains coordination itself.
 
-- The intersectional analysis provides framework for SuperBenefit's [power](tags/power.md)-aware approach, showing how extraction operates through interlocking systems of patriarchy, colonialism, and racial capitalism—suggesting that genuinely regenerative [coordination](tags/coordination.md) must address gender, race, and decolonization together rather than treating equity as separate concern to be added after technical design.
+- The intersectional analysis provides framework for SuperBenefit's power-aware approach, showing how extraction operates through interlocking systems of patriarchy, colonialism, and racial capitalism—suggesting that genuinely regenerative coordination must address gender, race, and decolonization together rather than treating equity as separate concern to be added after technical design.
 
 - Feminist finance's emphasis on transformation over reform resonates with SuperBenefit's commitment to alternatives beyond platform capitalism, validating the conviction that Web3 coordination cannot merely redistribute who benefits from extraction but must fundamentally reorganize around care, interdependence, and collective flourishing rather than individual accumulation.
 

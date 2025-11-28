@@ -25,7 +25,7 @@ Noema's powerful essay applies ecological rewilding principles to internet infra
 
 - **Decentralization as Biodiversity**: The essay positions protocol diversity and federated platforms as digital biodiversity creating resilient ecosystems, contrasting with monoculture platform consolidation that maximizes short-term efficiency while creating long-term vulnerability.
 
-- **Commons Governance**: Noema connects rewilding with commons-based [governance](tags/governance.md), showing how participatory stewardship of internet infrastructure creates healthier ecosystems than proprietary platform control.
+- **Commons Governance**: Noema connects rewilding with commons-based governance, showing how participatory stewardship of internet infrastructure creates healthier ecosystems than proprietary platform control.
 
 - **Regenerative Infrastructure**: The article articulates vision for regenerative internet that sustains itself and communities rather than extracting toward platform owners, drawing parallels with regenerative agriculture versus industrial farming.
 
@@ -41,17 +41,17 @@ This framework enables regenerative internet development:
 
 - Policy advocates can draw on rewilding framework when arguing for antitrust enforcement or regulation supporting interoperability, making case for biodiversity over monoculture in terms of ecosystem health rather than only competition
 
-- Community organizers can reference rewilding when building alternatives to extractive platforms, understanding [decentralization](tags/decentralization.md) as restoring healthy ecosystems rather than merely fragmenting existing monopolies
+- Community organizers can reference rewilding when building alternatives to extractive platforms, understanding decentralization as restoring healthy ecosystems rather than merely fragmenting existing monopolies
 
 - Researchers can explore how ecological principles apply to digital systems, studying whether protocol diversity and federation create measurably more resilient internet infrastructure
 
 ### Connection With SuperBenefit
 
-- Noema's rewilding metaphor provides powerful framework for SuperBenefit's regenerative approach, showing that genuinely transformative [coordination](tags/coordination.md) infrastructure requires ecosystem biodiversity rather than monopolistic platforms—suggesting that DAO primitives should prioritize interoperability and federation over proprietary lock-in, creating resilient [coordination](tags/coordination.md) ecosystems not single-platform dominance.
+- Noema's rewilding metaphor provides powerful framework for SuperBenefit's regenerative approach, showing that genuinely transformative [coordination](tags/coordination.md) infrastructure requires ecosystem biodiversity rather than monopolistic platforms—suggesting that DAO primitives should prioritize interoperability and federation over proprietary lock-in, creating resilient coordination ecosystems not single-platform dominance.
 
-- The article's emphasis on systemic transformation resonates with SuperBenefit's understanding that genuine alternatives require fundamental restructuring not incremental platform reform—validating that regenerative [coordination](tags/coordination.md) demands building parallel infrastructure and changing incentive structures, not just redistributing ownership of extractive systems.
+- The article's emphasis on systemic transformation resonates with SuperBenefit's understanding that genuine alternatives require fundamental restructuring not incremental platform reform—validating that regenerative coordination demands building parallel infrastructure and changing incentive structures, not just redistributing ownership of extractive systems.
 
-- Rewilding's restoration of commons [governance](tags/governance.md) validates SuperBenefit's conviction that healthy internet requires participatory stewardship rather than corporate or state control alone—showing that [coordination](tags/coordination.md) primitives should enable collective stewardship of shared infrastructure, creating digital commons that communities govern together.
+- Rewilding's restoration of commons governance validates SuperBenefit's conviction that healthy internet requires participatory stewardship rather than corporate or state control alone—showing that coordination primitives should enable collective stewardship of shared infrastructure, creating digital commons that communities govern together.
 
 ---
 

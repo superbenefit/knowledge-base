@@ -22,19 +22,19 @@ This peer-reviewed academic article provides rigorous critical analysis of how W
 
 - **Expansive vs. Extractive Framework**: The article introduces analytical distinction between expansive networks (that enhance collective capacity, distribute decision-making power, and enable broad participation) and extractive networks (that concentrate value, limit [governance](tags/governance.md) access, and serve elite accumulation). This framework enables evaluating specific protocols rather than treating "Web3" as monolithic.
 
-- **Power Concentration Through Code**: The work examines how technical design choices—token distribution, [governance](tags/governance.md) mechanisms, protocol fees—concentrate or distribute power, showing that dec
+- **Power Concentration Through Code**: The work examines how technical design choices—token distribution, governance mechanisms, protocol fees—concentrate or distribute power, showing that dec
 
 entralization claims require scrutiny of actual power dynamics rather than accepting self-descriptions at face value.
 
-- **Token Plutocracy Analysis**: The article provides detailed critique of token-weighted [governance](tags/governance.md), showing how this common Web3 pattern reproduces plutocracy (rule by the wealthy) despite decentralization rhetoric. The analysis demonstrates why one-token-one-vote systems advantage capital holders over diverse [community](tags/community.md) participants.
+- **Token Plutocracy Analysis**: The article provides detailed critique of token-weighted governance, showing how this common Web3 pattern reproduces plutocracy (rule by the wealthy) despite decentralization rhetoric. The analysis demonstrates why one-token-one-vote systems advantage capital holders over diverse [community](tags/community.md) participants.
 
-- **New Forms of Enclosure**: Drawing on [commons](tags/commons.md) theory, the work analyzes how Web3 platforms can enclose previously open resources through protocol control, fee extraction, and proprietary layers—creating new [commons](tags/commons.md) enclosures that concentrate benefits while distributing risks.
+- **New Forms of Enclosure**: Drawing on [commons](tags/commons.md) theory, the work analyzes how Web3 platforms can enclose previously open resources through protocol control, fee extraction, and proprietary layers—creating new commons enclosures that concentrate benefits while distributing risks.
 
-- **Labor and Value Extraction**: The article examines how decentralized platforms extract value from unpaid [community](tags/community.md) labor ([governance](tags/governance.md) participation, content creation, protocol improvement) while directing financial gains to token holders and founders—revealing continuities with platform capitalism's exploitation patterns.
+- **Labor and Value Extraction**: The article examines how decentralized platforms extract value from unpaid community labor (governance participation, content creation, protocol improvement) while directing financial gains to token holders and founders—revealing continuities with platform capitalism's exploitation patterns.
 
 - **Legitimacy Through Decentralization Discourse**: The work critically analyzes how "decentralization" functions rhetorically to legitimize systems that may not meaningfully distribute power, showing how the language of democracy can obscure plutocratic realities.
 
-- **Alternatives and Possibilities**: Unlike purely critical accounts, the article identifies design patterns that could enable genuinely expansive networks: quadratic voting, reputation-based governance, progressive fee structures, [commons](tags/commons.md) stewardship frameworks—showing that alternative approaches exist even if less common than extractive patterns.
+- **Alternatives and Possibilities**: Unlike purely critical accounts, the article identifies design patterns that could enable genuinely expansive networks: quadratic voting, reputation-based governance, progressive fee structures, commons stewardship frameworks—showing that alternative approaches exist even if less common than extractive patterns.
 
 ### Practical Applications
 
@@ -52,7 +52,7 @@ This analytical framework enables critical evaluation across Web3 contexts:
 
 - Policy advocates can reference the academic analysis when arguing for regulation that addresses power concentration in decentralized systems, showing that technical decentralization doesn't automatically produce democratic outcomes
 
-- Social movement organizations can use the [commons](tags/commons.md) enclosure analysis to recognize and resist when Web3 projects enclose previously shared resources through protocol control
+- Social movement organizations can use the commons enclosure analysis to recognize and resist when Web3 projects enclose previously shared resources through protocol control
 
 The rigorous scholarly approach provides credibility when challenging dominant Web3 narratives or advocating for alternative approaches.
 
@@ -62,7 +62,7 @@ The rigorous scholarly approach provides credibility when challenging dominant W
 
 - The detailed critique of token-weighted governance validates SuperBenefit's exploration of alternatives like quadratic mechanisms and participation-based rights rather than one-token-one-vote systems, showing why capital-based governance reproduces plutocracy despite decentralization rhetoric—directly relevant to RPP's multi-stakeholder governance challenges where equitable voice couldn't depend on equal capital stakes.
 
-- The [commons](tags/commons.md) enclosure analysis helps SuperBenefit recognize when Web3 [coordination](tags/coordination.md) tools risk enclosing previously shared resources through protocol fees and proprietary layers, informing the commitment to commons stewardship and ensuring that DAO primitives serve collective benefit rather than concentrating gains among early investors and founders.
+- The commons enclosure analysis helps SuperBenefit recognize when Web3 coordination tools risk enclosing previously shared resources through protocol fees and proprietary layers, informing the commitment to commons stewardship and ensuring that DAO primitives serve collective benefit rather than concentrating gains among early investors and founders.
 
 ---
 
