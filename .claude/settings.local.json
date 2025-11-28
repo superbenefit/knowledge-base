@@ -16,8 +16,7 @@
       "Bash(git branch:*)",
       "Bash(git checkout:*)",
       "Bash(git commit:*)",
-      "Bash(xargs:*)",
-      "Bash(git log:*)"
+      "Bash(xargs:*)"
     ],
     "deny": [],
     "ask": []

@@ -14,19 +14,19 @@ tags:
 
 The Primitives Framework provides a systematic approach to designing and implementing decentralized organizations as purpose-aligned networks. Building on the overview provided in the [DAO Primitives Project](notes/dao-primitives/index.md), this framework offers a deeper exploration of the key concepts, dimensions, and components that enable effective decentralized coordination.
 
-The DAO Primitives Project provides a framework, conceptual tools, and practical patterns for building **[purpose](tags/purpose.md)-aligned networks of small autonomous [teams](tags/teams.md)** that can scale effectively while maintaining coordination, adaptability, and emergent collective intelligence.
+The DAO Primitives Project provides a framework, conceptual tools, and practical patterns for building **[purpose](../../tags/purpose.md)-aligned networks of small autonomous [teams](../../tags/teams.md)** that can scale effectively while maintaining coordination, adaptability, and emergent collective intelligence.
 
-Our current organizational models were optimized for an era of industrial production and hierarchical management, creating structures that excel at efficiency but struggle with complexity, adaptability, and equitable value distribution. [Decentralized organizations](tags/decentralization.md) offer transformative alternatives through their core properties: distributed authority that prevents power concentration, permissionless innovation that unlocks collective intelligence, transparent operations that build trust, and aligned incentives that share value with all contributors. 
+Our current organizational models were optimized for an era of industrial production and hierarchical management, creating structures that excel at efficiency but struggle with complexity, adaptability, and equitable value distribution. [Decentralized organizations](../../tags/decentralization.md) offer transformative alternatives through their core properties: distributed authority that prevents power concentration, permissionless innovation that unlocks collective intelligence, transparent operations that build trust, and aligned incentives that share value with all contributors. 
 
-As our societal challenges grow increasingly complex and interconnected—from climate change to economic inequality—we need [coordination](tags/coordination.md) systems that can harness diverse perspectives, adapt quickly to emerging conditions, and align human activity with regenerative outcomes. 
+As our societal challenges grow increasingly complex and interconnected—from climate change to economic inequality—we need [coordination](../../tags/coordination.md) systems that can harness diverse perspectives, adapt quickly to emerging conditions, and align human activity with regenerative outcomes. 
 
-We developed the DAO Primitives project around **[purpose](tags/purpose.md)-aligned networks of small autonomous [teams](tags/teams.md)** as a conceptual starting point for designing decentralized organizations. The DAO primitives allow communities of all kinds to build their own purpose aligned networks that can act in deliberate coherent ways to create better futures for everyone who participates in them.
+We developed the DAO Primitives project around **[purpose](../../tags/purpose.md)-aligned networks of small autonomous [teams](../../tags/teams.md)** as a conceptual starting point for designing decentralized organizations. The DAO primitives allow communities of all kinds to build their own purpose aligned networks that can act in deliberate coherent ways to create better futures for everyone who participates in them.
 
 ## Understanding the Framework
 
 The Primitives Framework helps organizations design coordination systems by providing **organizational patterns** (structural building blocks like DAOs, Cells, Roles, Tasks) and **dimensional lenses** (assessment tools for Phase, Scale, and State). These are un-opinionated components that can be combined and configured to create governance and operational systems tailored to specific contexts and needs.
 
-Unlike prescriptive frameworks that dictate how organizations should be structured, this approach offers maximum flexibility while maintaining coherence and interoperability. It enables experimentation with novel forms of [coordination](tags/coordination.md) that can potentially outperform traditional organizational models.
+Unlike prescriptive frameworks that dictate how organizations should be structured, this approach offers maximum flexibility while maintaining coherence and interoperability. It enables experimentation with novel forms of [coordination](../../tags/coordination.md) that can potentially outperform traditional organizational models.
 
 > **Note on "Primitives"**: The framework uses "patterns" to describe organizational structures (DAOs, Cells, Roles, Tasks) and reserves "primitives" for technical implementation tools (smart contracts, tokens, governance protocols). The framework helps you understand your organizational structure before selecting technical primitives to implement it.
 
@@ -72,7 +72,7 @@ Most contexts require organizations operate at multiple scales simultaneously, w
 Learn more about [Group Scale](artifacts/primitives-framework/group-scale/index.md)
 
 
-### 3\. [Group State](tags/group-state.md)
+### 3\. [Group State](../../tags/group-state.md)
 
 Group State focuses on how having a transparent organizational state for each entity in a network, enables effective coordination in decentralized systems. For groups to interact effectively without centralized control, they need clear interfaces that make them interoperable and universally addressable.
 
@@ -84,7 +84,7 @@ In the DAO primitives framework Group state consists of three core components:
 
 This state documentation serves as a "public interface" that enables both internal coherence and external coordination. It allows groups to have an existence that is both independent from the larger network and integrated into it through agreements with other entities.
 
-Learn more about [Group State](tags/group-state.md)
+Learn more about [Group State](../../tags/group-state.md)
 
 
 ## Organizational Patterns
@@ -104,10 +104,10 @@ At the highest level, three foundational organizational primitives:
 
 Although the above conceptual framework could be used to design a wide range of different governance and operational structures, the Primitives Framework leans heavily on the following 4 organizational patterns:
 
-1. **[DAOs](tags/daos.md)**: Purpose-aligned networks of small autonomous teams
-2. **[Cells](tags/cells.md)**: Teams of fewer than 10 people collaborating on specific ongoing activities
-3. **[Roles](tags/roles.md)**: Sets of responsibilities, permissions, and accountabilities held by individuals or entities
-4. **[Tasks](tags/tasks.md)**: Defined pieces of work with clear deliverables delivered by individuals or entities
+1. **[DAOs](../../tags/daos.md)**: Purpose-aligned networks of small autonomous teams
+2. **[Cells](../../tags/cells.md)**: Teams of fewer than 10 people collaborating on specific ongoing activities
+3. **[Roles](../../tags/roles.md)**: Sets of responsibilities, permissions, and accountabilities held by individuals or entities
+4. **[Tasks](../../tags/tasks.md)**: Defined pieces of work with clear deliverables delivered by individuals or entities
 
 These patterns can be combined in various ways to create organizational systems tailored to specific contexts and needs. Their power lies in their flexibility and composability while maintaining coherence that enables interoperability. When ready for implementation, these patterns are realized using technical primitives like smart contracts, governance protocols, and coordination tools.
 

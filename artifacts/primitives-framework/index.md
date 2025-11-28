@@ -63,7 +63,7 @@ Choose your path based on where you are:
 The framework is built on two complementary elements:
 
 **[Dimensional Lenses](primitives-framework-concepts.md#dimensional-lense)** - Three perspectives for assessing organizational context:
-- **Phase:** Developmental stage (Conversation → Formation → Organization → Iteration → Completion)
+- **Phase:** Developmental stage (Conversation → Formation → Organization → Coordination → Completion)
 - **Scale:** Size and complexity (Collaboration < 10 → Coordination 10-150 → Constituency 100s+ → Network)
 - **State:** Documentation of Purpose, Practice, and Progress
 
@@ -110,16 +110,16 @@ The framework guides you through a three-phase process:
 ### Dimensional Lenses
 
 - **[Group Phase](group-phase/)** - Five developmental stages and their characteristics
-  - Conversation, Formation, Organization, Iteration, Completion
+  - Conversation, Formation, Organization, Coordination, Completion
 - **[Group Scale](group-scale/)** - Four scales and appropriate coordination mechanisms
   - Collaboration (< 10), Coordination (10-150), Constituency (100s+), Network
 
 ### Organizational Patterns
 
 All patterns are documented in the [tags directory](../../tags/):
-- **Organizational patterns**: [DAOs](../../tags/daos.md), [Cells](../../tags/cells.md), [Roles](../../tags/roles.md), [Tasks](../../tags/tasks.md)
-- **Coordination patterns**: [Group State](../../tags/group-state.md), [Community Governance](../../tags/community-governance.md), [Operational Governance](../../tags/operational-governance.md)
-- **Cell patterns**: [Cell State](../../tags/cell-state.md), [Decider Protocol](../../tags/decider.md)
+- **Organizational patterns**: [DAOs](tags/daos.md), [Cells](tags/cells.md), [Roles](tags/roles.md), [Tasks](tags/tasks.md)
+- **Coordination patterns**: [Group State](tags/group-state.md), [Community Governance](tags/community-governance.md), [Operational Governance](tags/operational-governance.md)
+- **Cell patterns**: [Cell State](tags/cell-state.md), [Decider Protocol](tags/decider.md)
 
 ### Implementation Resources
 
