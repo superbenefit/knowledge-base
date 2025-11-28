@@ -17,21 +17,21 @@ _Rowan is a contributor to [SuperBenefitDAO](https://www.superbenefit.org/) and 
 
 ### Goodbye "business model". Hello "network economy"
 
-As we described in our recent article artifacts/dao-primitives-framework/network-evolution/DAOs%20aren't%20things...%20they%20are%20flows..md, tags/blockchain.md presents the possibility of a new paradigm to replace the company-centric paradigm that has been evolving over the past 400 years.
+As we described in our recent article [DAOs aren't things... they are flows](/artifacts/dao-primitives-framework/network-evolution/DAOs%20aren't%20things...%20they%20are%20flows..md), [blockchain](/tags/blockchain.md) presents the possibility of a new paradigm to replace the company-centric paradigm that has been evolving over the past 400 years.
 
 ![](https://superbenefit.mirror.xyz/_next/image?url=https%3A%2F%2Fimages.mirror-media.xyz%2Fpublication-images%2FwzujkB3B59tUd80JEcLsV.png&w=3840&q=75)
 
-If we can shed this 'company as centralising entity' paradigm and instead see DAOs not as entities but as centerless tags/networks.md with coordinated flows of tags/resources.md, then a whole new way of looking at business and economics becomes possible.
+If we can shed this 'company as centralising entity' paradigm and instead see DAOs not as entities but as centerless [networks](/tags/networks.md) with coordinated flows of [resources](/tags/resources.md), then a whole new way of looking at business and economics becomes possible.
 
-DAOs and companies are fundamentally different tags/systems.md. Companies operate **business models**. DAOs are **network economies**. And this distinction is at the heart of why DAOs have the potential to usher in a new paradigm.
+DAOs and companies are fundamentally different [systems](/tags/systems.md). Companies operate **business models**. DAOs are **network economies**. And this distinction is at the heart of why DAOs have the potential to usher in a new paradigm.
 
-Unpacking what network economies are and how they are different and more powerful than business models will require some framing. The concept of artifacts/guides/dao-primitives-framework/group-scale/group-scale.md will be our way into understanding this; and to explain scale, I will lean heavily on Geoffrey West's work on the dynamics of how systems scale.
+Unpacking what network economies are and how they are different and more powerful than business models will require some framing. The concept of [scale](/artifacts/guides/dao-primitives-framework/group-scale/group-scale.md) will be our way into understanding this; and to explain scale, I will lean heavily on Geoffrey West's work on the dynamics of how systems scale.
 
 A fuller explanation can be found [here](https://www.youtube.com/watch?v=nxgHyPCCqaw&t=2s), but at a high level there are two fundamental dynamics to understand:
 
 ![](https://superbenefit.mirror.xyz/_next/image?url=https%3A%2F%2Fimages.mirror-media.xyz%2Fpublication-images%2FRLL22d1B8r-fONy7Cj_-N.png&w=3840&q=75)
 
-I will start by outlining both of these dynamics and, if I do this well, hopefully it will become obvious that these two systems are the keys to unlocking the tags/power.md that DAOs can embody in the world.
+I will start by outlining both of these dynamics and, if I do this well, hopefully it will become obvious that these two systems are the keys to unlocking the [power](/tags/power.md) that DAOs can embody in the world.
 
 ![](https://superbenefit.mirror.xyz/_next/image?url=https%3A%2F%2Fimages.mirror-media.xyz%2Fpublication-images%2FbauTbkeITvUDgsK_5MJdW.png&w=3840&q=75)
 
@@ -39,7 +39,7 @@ West's work starts with understanding that biological systems scale in a **sub-l
 
 Biological systems create fractal hierarchies with branching structures and every layer in the hierarchy creates an increase in efficiency. A good example is the cardiovascular system of a mammal. All of us mammals have a heart that pumps blood around our bodies in the same way; the heart pumps blood under pressure into an aorta which branches into two arteries. These then branch into more arteries and these then branch into still more. The physics that govern this system means that the more layers in the branching hierarchy, the more efficient the system becomes (the amount of work your heart has to do to get oxygenated blood to every cell in your body drops as you grow). This is why a 220 ton blue whale's heart only has to beat 11 times per minute to circulate blood to every cell in its body, while a mouse's heart needs to beat 500 times a minute to do the same thing. And every mammal in between these two exhibits the exact same heart rate to size ratio.
 
-Amazing as this is, what is more incredible is that this dynamic holds true for human-built systems too. This scaling effect is the fundamental dynamic that makes companies work. As a business grows, it is essentially building a set of branching hierarchies that generate economies of artifacts/guides/dao-primitives-framework/group-scale/group-scale.md using the [same mathematics](https://arxiv.org/abs/2109.10379) that mammals, insects and trees use to grow. As the company increases its size and adds more layers to its hierarchy, efficiencies are gained across all the layers in the hierarchy. This causes the unit cost of the goods it produces to fall as its size increases. This is known as **sub-linear scaling**, where the use of resources becomes more and more efficient as the system grows in size.
+Amazing as this is, what is more incredible is that this dynamic holds true for human-built systems too. This scaling effect is the fundamental dynamic that makes companies work. As a business grows, it is essentially building a set of branching hierarchies that generate economies of [scale](/artifacts/guides/dao-primitives-framework/group-scale/group-scale.md) using the [same mathematics](https://arxiv.org/abs/2109.10379) that mammals, insects and trees use to grow. As the company increases its size and adds more layers to its hierarchy, efficiencies are gained across all the layers in the hierarchy. This causes the unit cost of the goods it produces to fall as its size increases. This is known as **sub-linear scaling**, where the use of resources becomes more and more efficient as the system grows in size.
 
 ### Fractal hierarchies are finite
 
@@ -115,8 +115,8 @@ And to do this DAOs have to be able to leverage **both** Dynamic-One **and** Dyn
 
 ### Article Series
 
-- Previous: artifacts/dao-primitives-framework/network-evolution/DAOs%20aren't%20things...%20they%20are%20flows..md
-- Next: artifacts/dao-primitives-framework/network-evolution/DAOs%20-%20From%20fractal%20primitives%20to%20network%20scale..md
+- Previous: [DAOs aren't things... they are flows](/artifacts/dao-primitives-framework/network-evolution/DAOs%20aren't%20things...%20they%20are%20flows..md)
+- Next: [DAOs - From fractal primitives to network scale](/artifacts/dao-primitives-framework/network-evolution/DAOs%20-%20From%20fractal%20primitives%20to%20network%20scale..md)
 ---
 
 ## Related Concepts

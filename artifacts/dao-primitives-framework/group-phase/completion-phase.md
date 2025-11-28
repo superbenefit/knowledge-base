@@ -13,7 +13,7 @@ type: note
 
 
 
-The Completion Phase marks the final artifacts/guides/dao-primitives-framework/group-phase/group-phase.md of development, where a group that has fulfilled its purpose or reached a natural end point engages in a deliberate process of closure and transition. Following the active delivery work of the artifacts/guides/dao-primitives-framework/group-phase/coordination-phase.md, this phase focuses on preserving the group's legacy, ensuring its knowledge and resources transition appropriately, and celebrating its achievements. Just as beginning a group requires intentionality, so too does ending one—a thoughtful completion process honors the group's contributions while freeing resources for new opportunities within the network.
+The Completion Phase marks the final [phase](/artifacts/guides/dao-primitives-framework/group-phase/group-phase.md) of development, where a group that has fulfilled its purpose or reached a natural end point engages in a deliberate process of closure and transition. Following the active delivery work of the [Coordination Phase](/artifacts/guides/dao-primitives-framework/group-phase/coordination-phase.md), this phase focuses on preserving the group's legacy, ensuring its knowledge and resources transition appropriately, and celebrating its achievements. Just as beginning a group requires intentionality, so too does ending one—a thoughtful completion process honors the group's contributions while freeing resources for new opportunities within the network.
 
 Every group consumes resources - whether that's team members' time, financial assets, or communication bandwidth. When a group's purpose is fulfilled, a clear process for winding down operations ensures these resources can be redirected where needed. Without such processes, organizations accumulate organizational debt, becoming rigid and inefficient. This directly undermines the flexible decision-making and resource allocation that these decentralized structures aim to achieve.
 
@@ -61,7 +61,7 @@ A completion phase is proceeding effectively when the activities listed above ha
 
 ### State Documentation
 
-During the Completion Phase, the artifacts/guides/dao-primitives-framework/group-state.md documentation evolves into its final form, serving as both a transition tool and a historical record:
+During the Completion Phase, the [Group State](/artifacts/guides/dao-primitives-framework/group-state.md) documentation evolves into its final form, serving as both a transition tool and a historical record:
 
 **Purpose Elements**:
 

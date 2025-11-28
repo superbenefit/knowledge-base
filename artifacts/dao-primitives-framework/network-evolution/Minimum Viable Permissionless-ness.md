@@ -21,7 +21,7 @@ As we wrote in our recent article [DAOs: From Fractal Primitives to Network Scal
 
 This is what sets DAOs apart from businesses and other organizations. Traditionally we work on the notion that the smartest people sit at the top of an organization. They filter all of the information from across the whole org and then come up with a strategy that is sent down the chain of command to be implemented by the "little people" at the coal face.
 
-But DAOs **—** as fractal networks of notes/archive/clarity/Tags/cells.md **—** have the ability to self-organize around the best opportunities emerging across the system in real-time. This dynamic, occurring constantly across the whole network, causes the system to become "intelligent". It can prioritize opportunities, allocate tags/resources.md, make strategic tags/decisions.md, change its shape and change its direction. It can do all of this traditional "strategy" much more effectively than a traditional organization can. Furthermore it can do it organically and from the bottom up in a deeply decentralized way.
+But DAOs **—** as fractal networks of [cells](/notes/archive/clarity/Tags/cells.md) **—** have the ability to self-organize around the best opportunities emerging across the system in real-time. This dynamic, occurring constantly across the whole network, causes the system to become "intelligent". It can prioritize opportunities, allocate [resources](/tags/resources.md), make strategic [decisions](/tags/decisions.md), change its shape and change its direction. It can do all of this traditional "strategy" much more effectively than a traditional organization can. Furthermore it can do it organically and from the bottom up in a deeply decentralized way.
 
 Central to harnessing this decentralized collective intelligence in DAOs is the concept of "Permissionless-ness". The concept of "permissionless access" gets thrown around a lot in DAO-land but mostly as an ideal or an aspiration, and usually not in a very principled way.
 
@@ -128,15 +128,14 @@ Knowledge and insights from many individuals working "close to reality" become t
 
 - _**NB:**_ _I am aware the term "talent" may feel a bit loaded, but I am using it in a deliberate way to mean not just "people," but people who have specific skills and intentions that make them relevant to a particular context. Broadly "talent" is: individuals with skills, discernment and motivation._
 
-When "talent" is free to make choices and act based on motivation and discernment, it can flow toward opportunity and act on it. Then if "capital" is able to flow towards this "talent taking action", you have strategy and capital allocation done at artifacts/guides/dao-primitives-framework/group-scale/network-scale.md, in real-time from the ground up.
+When "talent" is free to make choices and act based on motivation and discernment, it can flow toward opportunity and act on it. Then if "capital" is able to flow towards this "talent taking action", you have strategy and capital allocation done at [network scale](/artifacts/guides/dao-primitives-framework/group-scale/network-scale.md), in real-time from the ground up.
 
-You have a system that can tags/scale.md collective intelligence in a way that: (1) evolves to closely match the environment the system is operating in; (2) remains in alignment with the purpose and values of the broader network; and (3) is far more resistant to governance capture and attack than centralized systems.
+You have a system that can [scale](/tags/scale.md) collective intelligence in a way that: (1) evolves to closely match the environment the system is operating in; (2) remains in alignment with the purpose and values of the broader network; and (3) is far more resistant to governance capture and attack than centralized systems.
 
 ### Article Series
 
-- Previous: artifacts/dao-primitives-framework/network-evolution/DAOs%20-%20From%20fractal%20primitives%20to%20network%20scale..md
-    
-- Next: artifacts/dao-primitives-framework/network-evolution/Building%20DAOs%20as%20scalable%20networks.md
+- Previous: [DAOs - From fractal primitives to network scale](/artifacts/dao-primitives-framework/network-evolution/DAOs%20-%20From%20fractal%20primitives%20to%20network%20scale..md)
+- Next: [Building DAOs as scalable networks](/artifacts/dao-primitives-framework/network-evolution/Building%20DAOs%20as%20scalable%20networks.md)
 ---
 
 ## Related Concepts
