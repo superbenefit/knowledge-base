@@ -15,7 +15,7 @@ tags:
   - design-decisions
 ---
 
-This Metagov framework challenges the assumption that all internet organizations should adopt DAO structures, offering comprehensive analysis of governance design choices across coordination models. Rather than treating DAOs as universal solution, the work examines when token-weighted governance, representative democracy, liquid democracy, futarchy, or other mechanisms serve specific organizational needs and values. Metagov identifies key design dimensions—decision-making authority, membership boundaries, proposal processes, execution mechanisms—showing how different combinations create distinct governance systems with different tradeoffs. The framework enables organizations to make intentional design choices aligned with their goals rather than defaulting to popular patterns that may not fit their contexts.
+This Metagov framework challenges the assumption that all internet organizations should adopt DAO structures, offering comprehensive analysis of governance design choices across coordination models. Rather than treating DAOs as universal solution, the work examines when token-weighted governance, representative democracy, liquid democracy, futarchy, or other mechanisms serve specific organizational needs and values. Metagov identifies key design dimensions—[decision-making](tags/decisions.md) authority, membership boundaries, proposal processes, execution mechanisms—showing how different combinations create distinct governance systems with different tradeoffs. The framework enables organizations to make intentional design choices aligned with their goals rather than defaulting to popular patterns that may not fit their contexts.
 
 ### Key Highlights
 
@@ -52,3 +52,13 @@ This framework enables intentional governance design across contexts:
 - The framework's examination of governance mechanism tradeoffs validates SuperBenefit's power-aware analysis, showing that every coordination structure involves choices between competing values—recognizing that technical decentralization, operational effectiveness, democratic legitimacy, and capture resistance often conflict rather than naturally aligning, requiring intentional design addressing which tradeoffs serve regenerative goals.
 
 - Metagov's empirical grounding in what actually works across functioning organizations provides evidence base for SuperBenefit's conviction that governance design should learn from practice rather than theoretical ideals—suggesting that coordination primitives should emerge from systematic study of successful patterns rather than implementing untested mechanisms because they seem philosophically pure.
+
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Organizations using these approaches
+- [Governance](tags/governance.md) - Decision-making frameworks explored
+- [Coordination](tags/coordination.md) - Collective action mechanisms
+- [DAO Primitives Framework](notes/dao-primitives/index.md) - SuperBenefit's pattern-based approach
+- [Frameworks](tags/frameworks.md) - Organizational structures analyzed

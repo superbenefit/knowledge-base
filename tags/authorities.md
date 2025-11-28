@@ -13,9 +13,9 @@ tags:
   - agreements
 ---
 
-_Authorities are entities, roles, or mechanisms that possess recognized legitimacy to make specific decisions, validate actions, or enforce rules within organizational systems, influencing how power and permissions flow through governance structures._
+_Authorities are entities, roles, or mechanisms that possess recognized legitimacy to make specific decisions, validate actions, or enforce rules within organizational systems, influencing how [power](power.md) and permissions flow through [governance](governance.md) structures._
 
-Authorities represent formalized concentrations of decision-making capacity that shape how systems operate and evolve. Unlike traditional centralized authorities that derive power from hierarchical position, authorities in decentralized contexts are often distributed across networks, with legitimacy stemming from explicit agreements, technical protocols, or community consent. These distributed authorities create the necessary structure for coordinated action while avoiding the rigidity and capture risks of centralized power.
+Authorities represent formalized concentrations of [decision-making](decision-making.md) capacity that shape how systems operate and evolve. Unlike traditional centralized authorities that derive power from hierarchical position, authorities in [decentralized](decentralization.md) contexts are often distributed across networks, with legitimacy stemming from explicit agreements, technical protocols, or [community](community.md) consent. These distributed authorities create the necessary structure for coordinated action while avoiding the rigidity and capture risks of centralized power.
 
 In web3 and DAO contexts, authorities take many forms—from multisignature wallets controlling treasury assets to governance councils reviewing proposals or technical validators securing network operations. The distribution, accountability, and limitations of these authorities fundamentally determine how decentralized a system truly is. Well-designed authority systems balance the need for efficient decision-making with resistance to capture and alignment with collective purpose.
 
@@ -25,7 +25,7 @@ In web3 and DAO contexts, authorities take many forms—from multisignature wall
 
 ### Authorities in DAO Governance
 
-In DAO governance frameworks, authorities represent the mechanisms through which collective decisions are transformed into actions. Unlike traditional organizations where authority typically flows from hierarchical position, DAOs distribute decision-making authority across different roles, functions, and processes based on clearly defined agreements.
+In DAO governance frameworks, authorities represent the mechanisms through which collective decisions are transformed into actions. Unlike traditional organizations where authority typically flows from hierarchical position, [DAOs](daos.md) distribute decision-making authority across different roles, functions, and processes based on clearly defined agreements.
 
 These distributed authorities may include:
 
@@ -34,7 +34,7 @@ These distributed authorities may include:
 - **Parameter setters**: Technical authorities able to modify protocol parameters
 - **Dispute resolvers**: Mechanisms for addressing conflicts within the governance system
 
-As noted in the Building DAOs as scalable networks article, effective DAO design creates appropriate authority structures across different scales. Community Governance authorities "safeguard the purpose of the network," while Operational Governance authorities enable "flexibility, autonomy and modern incentive design to produce innovation and scale."
+As noted in the Building DAOs as scalable networks article, effective DAO design creates appropriate authority structures across different scales. Community Governance authorities "safeguard the purpose of the network," while Operational Governance authorities enable "flexibility, [autonomy](autonomy.md) and modern incentive design to produce innovation and scale."
 
 ### Authorities in Technical Systems
 
@@ -42,7 +42,7 @@ In technical systems like blockchains and smart contract protocols, authorities 
 
 Technical authorities may include:
 
-- **Validators**: Nodes responsible for processing transactions and maintaining consensus
+- **Validators**: Nodes responsible for processing transactions and maintaining [consensus](consensus.md)
 - **Admin keys**: Cryptographic permissions allowing modification of protocol parameters
 - **Oracle providers**: Trusted sources of external information that trigger contract execution
 - **Upgradeability mechanisms**: Processes through which protocol code can be modified
@@ -53,7 +53,7 @@ The design of these technical authorities involves critical trade-offs between s
 
 In cell-based organizational models, authorities are distributed across autonomous teams (Cells) that maintain decision-making independence while coordinating with the broader network. Each Cell establishes its own internal authorities through transparent agreements documented in its state.
 
-As described in the Cell working group pattern, these decentralized authorities enable "dynamic, autonomous units, avoiding bureaucratic overhead while protecting against group dysfunction." This approach creates "clear interfaces that enable trust-based coordination between groups and individuals across a broader DAO network."
+As described in the Cell working group pattern, these decentralized authorities enable "dynamic, autonomous units, avoiding bureaucratic overhead while protecting against group dysfunction." This approach creates "clear interfaces that enable trust-based [coordination](coordination.md) between groups and individuals across a broader DAO network."
 
 The distribution of authorities in this model follows the principle that decisions should be made at the most appropriate scale and by those with the most relevant context. This creates flexibility while maintaining overall alignment with network purpose.
 

@@ -16,7 +16,7 @@ banner: "![[attachments/FzK303B84CkXp5lxZT5Uq.png]]"
 
 _Rowan is a contributor to [SuperBenefitDAO](https://www.superbenefit.org/) and works on scalable models of coordination and fractal DAO governance. Deep gratitude to Heenal Rajani and Michael Lewkowitz for contributing to this article. This article is the third in our series exploring the concept of DAOs as networks and their evolutionary nature._
 
-### tags/scale.md matters
+### [Scale](/tags/scale.md) matters
 
 DAOs are extraordinary for their capacity to test experimental ideas. And the innovation DAOs are unlocking because of this, all across Web3, is astounding! But, in order to have a transformational impact on the world, we need DAOs to scale beyond experiments. There is a risk that if they can't successfully scale what they do, their potentially transformational innovations will just get co-opted by more centralised organisations (pseudo-DAOs and companies), who can more effectively scale and exploit them. Leaving us in much the same position we are in now.
 
@@ -50,13 +50,13 @@ DAO structures need to start simply but then be able to grow into massive comple
 
 SuperBenefitDAO recently hosted a [conversation on metagovernance](https://superbenefit.mirror.xyz/yyY2khsoDSgCBaLSIJMeT6xNPJ0c9d2T83rYyt6UfX8) with Gabagool.eth, BPetes.eth and Justinehy.eth. As we explored the topic of metagovernance, one theme that came through strongly was the idea that we need to keep coming back to the magic that we all saw in DAOs in the first place. The magic of small groups of inspired people working together on something that matters to them – and the simple primitives that make this possible. From here we work our way up to complex governance and metagovernance, but we keep this simple starting point in focus. This is a great signpost for us to think about the simple primitives out of which complex DAO networks can emerge.
 
-### DAOs as fractal networks of connected notes/archive/clarity/Tags/cells.md
+### DAOs as fractal networks of connected [cells](/notes/archive/clarity/Tags/cells.md)
 
 When a core team of people come together to start a DAO, pretty quickly they feel the need to create sub-teams as a way of separating tasks and managing accountability. As soon as this happens, they have begun the complex and difficult journey of experimental org design.
 
 The mental model that rescues us from this becoming a morass of incoherent and unscalable structure is that of **fractal design**. Rather than umbrellaing these teams inside an entity (like a company does), we can think of these smaller teams as being identical in type to the DAO that birthed them. Each starts as a **DAO primitive**; a version of the DAO created out of itself, in order to get things done. All of these **DAO cells** exist in relationship with one another in a complex and emerging network.
 
-Call them subDAOs, Pods, Fractals, Working Groups, Circles – I'll refer to them as notes/archive/clarity/Tags/cells.md in this article because that works nicely with a biological metaphor, but the naming of them is neither here nor there – the mental model is to understand them as their own independent DAO cells that are defined by their relationships with other cells in the DAO network.
+Call them subDAOs, Pods, Fractals, Working Groups, Circles – I'll refer to them as [cells](/notes/archive/clarity/Tags/cells.md) in this article because that works nicely with a biological metaphor, but the naming of them is neither here nor there – the mental model is to understand them as their own independent DAO cells that are defined by their relationships with other cells in the DAO network.
 
 This notion of DAO cells as the primitive starting point for DAO networks is the basis for DAOs being able to leverage both of the scaling dynamics laid out in the [previous article](https://superbenefit.mirror.xyz/unisNGUtHyRF7Zcp9CBbC-VhICOvVm0uzTFJUPX-Icg).
 
@@ -157,5 +157,14 @@ The limited liability company primitive was able to produce the vastly complex g
 
 ### Article Series
 
-- Previous: artifacts/articles/network-evolution/Scale%20and%20the%20levers%20that%20provide%20DAOs%20their%20power.md
-- Next: artifacts/articles/network-evolution/Minimum%20Viable%20Permissionless-ness.md
+- Previous: [Scale and the levers that provide DAOs their power](/artifacts/dao-primitives-framework/network-evolution/Scale%20and%20the%20levers%20that%20provide%20DAOs%20their%20power.md)
+- Next: [Minimum Viable Permissionless-ness](/artifacts/dao-primitives-framework/network-evolution/Minimum%20Viable%20Permissionless-ness.md)
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Organizations built from fractal primitives
+- [Primitives](tags/primitives.md) - Building blocks that compose at network scale
+- [Scale](tags/scale.md) - Fractal patterns across organizational scales
+- [Networks](tags/networks.md) - Structure emerging from primitive composition
+- [DAO Primitives Framework](notes/dao-primitives/index.md) - Framework for composable coordination

@@ -15,21 +15,21 @@ tags:
   - theoretical-framework
 ---
 
-This Gitcoin framework applies assembly theory—a complexity science approach measuring how much selection and evolution shapes systems—to onchain capital allocation design. Assembly theory examines how complex structures emerge through selection processes, offering lens for understanding which funding mechanisms enable valuable projects to emerge from ecosystem noise versus which concentrate resources based on existing power. Rather than evaluating allocation mechanisms purely through implementation details, the framework provides theoretical foundation for understanding fundamental properties of different approaches—how quadratic funding amplifies community signals differently than retroactive rewards, how conviction voting creates different selection dynamics than snapshot voting. This bridges complexity science with practical DAO treasury management.
+This Gitcoin framework applies assembly theory—a complexity science approach measuring how much selection and evolution shapes systems—to onchain capital allocation design. Assembly theory examines how complex structures emerge through selection processes, offering lens for understanding which funding mechanisms enable valuable projects to emerge from ecosystem noise versus which concentrate resources based on existing power. Rather than evaluating allocation mechanisms purely through implementation details, the framework provides theoretical foundation for understanding fundamental properties of different approaches—how quadratic funding amplifies [community](tags/community.md) signals differently than retroactive rewards, how conviction voting creates different selection dynamics than snapshot voting. This bridges complexity science with practical DAO treasury management.
 
 ### Key Highlights
 
-- **Assembly Theory Fundamentals**: The framework introduces assembly theory's core insight that complex structures require multiple selection events to emerge, using "assembly index" to measure how much history and selection shapes current state—offering mathematical tools for understanding emergence in coordination systems.
+- **Assembly Theory Fundamentals**: The framework introduces assembly theory's core insight that complex structures require multiple selection events to emerge, using "assembly index" to measure how much history and selection shapes current state—offering mathematical tools for understanding emergence in [coordination](tags/coordination.md) systems.
 
 - **Capital Allocation as Selection**: Gitcoin applies assembly theory to see funding mechanisms as selection processes shaping ecosystem evolution, where different allocation approaches create distinct selection pressures determining which projects receive resources and what characteristics communities reinforce through funding.
 
 - **Design Space Exploration**: Rather than advocating single mechanism, the framework uses assembly theory to explore capital allocation design space systematically—understanding how parameter choices create different selection dynamics with distinct evolutionary consequences for ecosystem development.
 
-- **Signal Amplification**: The analysis examines how mechanisms amplify different signals—quadratic funding amplifying broad community support, retroactive funding amplifying demonstrated impact, conviction voting amplifying sustained preference—showing how each creates distinct selection for different project characteristics.
+- **Signal Amplification**: The analysis examines how mechanisms amplify different signals—quadratic funding amplifying broad community support, retroactive funding amplifying demonstrated [impact](tags/impact.md), conviction voting amplifying sustained preference—showing how each creates distinct selection for different project characteristics.
 
 - **Complexity and Emergence**: Assembly theory helps explain why simple allocation mechanisms can produce complex ecosystem outcomes through selection dynamics, offering tools to understand how funding choices cascade through network effects and create emergent patterns of project development.
 
-- **Novel Theoretical Integration**: The framework represents rare integration of complexity science with crypto-economics, bringing sophisticated theoretical tools to practically important questions about how DAOs should distribute resources.
+- **Novel Theoretical Integration**: The framework represents rare integration of complexity science with crypto-economics, bringing sophisticated theoretical tools to practically important questions about how [DAOs](tags/daos.md) should distribute resources.
 
 ### Practical Applications
 
@@ -52,3 +52,13 @@ This theoretical framework enables principled allocation design:
 - The emphasis on understanding capital allocation as selection process resonates with SuperBenefit's recognition that funding mechanisms shape what work gets done and what communities value—showing that choices about quadratic versus retroactive versus conviction-based allocation aren't merely technical details but fundamental decisions about what receives resources and attention, requiring intentional design aligned with regenerative goals.
 
 - Assembly theory's focus on emergence and complexity validates SuperBenefit's systems-thinking approach to coordination, demonstrating that understanding how simple rules produce complex outcomes through selection requires theoretical frameworks from complexity science rather than only analyzing individual mechanism properties in isolation.
+
+---
+
+## Related Concepts
+
+- [Public Goods](tags/public-goods.md) - Collective benefit funding explored
+- Impact - Outcomes and measurement approaches
+- Coordination - Mechanisms for collective action
+- DAOs - Organizations funding and creating impact
+- [Grants](tags/grants.md) - Funding mechanisms discussed

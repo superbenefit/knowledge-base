@@ -15,7 +15,7 @@ tags:
   - accessible-learning
 ---
 
-Gitcoin's ImpactDAO Poster Book provides visual educational resource making impact DAO concepts accessible through design-forward explanatory posters. Rather than dense text or technical documentation, the resource uses visual communication to explain how DAOs can coordinate social and environmental impact work—funding mechanisms, governance structures, impact measurement approaches. The poster format enables both comprehensive learning for dedicated study and quick reference for specific topics, recognizing different educational needs. By prioritizing visual accessibility, the resource welcomes broader audiences into understanding coordination mechanisms often explained through jargon excluding those without technical or crypto backgrounds.
+Gitcoin's ImpactDAO Poster Book provides visual educational resource making [impact](tags/impact.md) DAO concepts accessible through design-forward explanatory posters. Rather than dense text or technical documentation, the resource uses visual communication to explain how [DAOs](tags/daos.md) can coordinate social and environmental impact work—funding mechanisms, [governance](tags/governance.md) structures, impact measurement approaches. The poster format enables both comprehensive learning for dedicated study and quick reference for specific topics, recognizing different educational needs. By prioritizing visual accessibility, the resource welcomes broader audiences into understanding [coordination](tags/coordination.md) mechanisms often explained through jargon excluding those without technical or crypto backgrounds.
 
 ### Key Highlights
 
@@ -27,7 +27,7 @@ Gitcoin's ImpactDAO Poster Book provides visual educational resource making impa
 
 - **Accessible Entry Point**: By prioritizing visual clarity over technical precision, the resource provides entry point for those new to DAOs without requiring existing crypto knowledge or organizational theory background.
 
-- **Community Creation**: The poster book emerged from Gitcoin community rather than centralized educational team, demonstrating how decentralized organizations can produce public educational resources through collective effort.
+- **Community Creation**: The poster book emerged from Gitcoin [community](tags/community.md) rather than centralized educational team, demonstrating how decentralized organizations can produce public educational resources through collective effort.
 
 - **Shareable Knowledge**: The visual format enables easy sharing across communities and contexts, supporting knowledge dissemination beyond those directly participating in Gitcoin ecosystem.
 
@@ -52,3 +52,13 @@ This visual resource enables accessible DAO education:
 - The impact DAO focus resonates with SuperBenefit's regenerative coordination emphasis, demonstrating how educational resources can specifically address mission-driven organizations rather than treating all DAOs as identical—suggesting that learning materials should acknowledge different coordination needs for impact work versus financial speculation or protocol governance.
 
 - The community-created nature of the resource validates SuperBenefit's understanding that knowledge production should be collective work emerging from communities using coordination tools, not only centralized documentation by developers—showing how decentralized organizations can create public educational resources through participatory effort.
+
+---
+
+## Related Concepts
+
+- [Public Goods](tags/public-goods.md) - Collective benefit funding explored
+- Impact - Outcomes and measurement approaches
+- Coordination - Mechanisms for collective action
+- DAOs - Organizations funding and creating impact
+- [Grants](tags/grants.md) - Funding mechanisms discussed

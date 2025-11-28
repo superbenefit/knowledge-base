@@ -15,11 +15,11 @@ tags:
   - decentralization
 ---
 
-RnDAO's conceptual analysis tackles fundamental question of what constitutes a DAO—examining boundaries and characteristics distinguishing decentralized autonomous organizations from other coordination forms. As "DAO" term proliferates, conceptual clarity matters for distinguishing genuinely novel coordination from traditional organizations using blockchain for limited functions. The analysis explores core characteristics including decentralization of decision-making, autonomy from individual control, organizational coherence, and onchain infrastructure. Rather than offering single definition, RnDAO examines DAO as spectrum with varying degrees of decentralization, autonomy, and blockchain integration—recognizing that boundary between DAO and non-DAO involves judgment calls about what matters most for organizational identity.
+RnDAO's conceptual analysis tackles fundamental question of what constitutes a [DAO](tags/daos.md)—examining boundaries and characteristics distinguishing decentralized autonomous organizations from other [coordination](tags/coordination.md) forms. As "DAO" term proliferates, conceptual clarity matters for distinguishing genuinely novel coordination from traditional organizations using [blockchain](tags/blockchain.md) for limited functions. The analysis explores core characteristics including [decentralization](tags/decentralization.md) of [decision-making](tags/decisions.md), [autonomy](tags/autonomy.md) from individual control, organizational coherence, and onchain infrastructure. Rather than offering single definition, RnDAO examines DAO as spectrum with varying degrees of decentralization, autonomy, and blockchain integration—recognizing that boundary between DAO and non-DAO involves judgment calls about what matters most for organizational identity.
 
 ### Key Highlights
 
-- **Conceptual Clarity Challenge**: RnDAO addresses confusion where "DAO" describes vastly different organizational forms from fully autonomous protocols to traditional companies with governance tokens, showing need for clearer conceptual frameworks distinguishing coordination approaches.
+- **Conceptual Clarity Challenge**: RnDAO addresses confusion where "DAO" describes vastly different organizational forms from fully autonomous [protocols](tags/protocols.md) to traditional companies with [governance](tags/governance.md) tokens, showing need for clearer conceptual [frameworks](tags/frameworks.md) distinguishing coordination approaches.
 
 - **Decentralization Dimensions**: The analysis examines multiple forms of decentralization—decision-making authority, resource control, technical infrastructure, geographic distribution—showing that organizations can be decentralized along some dimensions while centralized on others.
 
@@ -47,8 +47,18 @@ This conceptual work enables clearer DAO discourse:
 
 ### Connection With SuperBenefit
 
-- RnDAO's conceptual analysis of decentralization dimensions provides framework for SuperBenefit to examine which aspects of coordination genuinely require decentralization versus where centralized elements might serve community needs—showing that effective organizational design involves intentional choices about distributing different functions rather than assuming all coordination should be maximally decentralized.
+- RnDAO's conceptual analysis of decentralization dimensions provides framework for SuperBenefit to examine which aspects of coordination genuinely require decentralization versus where centralized elements might serve [community](tags/community.md) needs—showing that effective organizational design involves intentional choices about distributing different functions rather than assuming all coordination should be maximally decentralized.
 
 - The recognition of DAO as spectrum rather than binary category resonates with SuperBenefit's pattern-based approach acknowledging that organizations should adopt coordination structures fitting their contexts—validating that genuine assessment requires examining actual decentralization and autonomy rather than accepting self-descriptions or presence of governance tokens as sufficient.
 
-- RnDAO's examination of autonomy from individual control relates to SuperBenefit's exploration of how small teams maintain operational independence while participating in collective stewardship, suggesting that coordination primitives should enable governance continuing regardless of specific participants rather than depending on particular leaders or founders who could capture power.
+- RnDAO's examination of autonomy from individual control relates to SuperBenefit's exploration of how small [teams](tags/teams.md) maintain operational independence while participating in collective stewardship, suggesting that coordination [primitives](tags/primitives.md) should enable governance continuing regardless of specific participants rather than depending on particular leaders or founders who could capture [power](tags/power.md).
+
+---
+
+## Related Concepts
+
+- DAOs - Organizations examined conceptually
+- Governance - Decision-making systems discussed
+- Coordination - Mechanisms for collective action
+- Decentralization - Foundational principle analyzed
+- [DAO Primitives Framework](notes/dao-primitives/index.md) - Practical framework complement

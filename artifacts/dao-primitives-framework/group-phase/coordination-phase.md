@@ -123,3 +123,13 @@ The coordination phase represents the period when a group's full potential is re
 When successful, the group creates tangible value for itself and for the broader [networks](tags/networks.md) while building a foundation for sustainable impact and evolution.
 
 
+
+---
+
+## Related Concepts
+
+- [Group Phases](tags/group-phases.md) - Developmental stages of group formation and work
+- [DAOs](tags/daos.md) - Organizations moving through phases
+- [Coordination](tags/coordination.md) - Phase-appropriate coordination mechanisms
+- [Governance](tags/governance.md) - Decision-making suited to each phase
+- [DAO Primitives Framework](notes/dao-primitives/index.md) - Framework for phase-based coordination

@@ -15,7 +15,7 @@ tags:
   - rights-infrastructure
 ---
 
-Nathan Schneider's provocative essay examines how blockchain protocols could encode human rights protections rather than treating "censorship resistance" and "immutability" as sole values. While crypto evangelizes freedom from control, Schneider shows how this enables both liberation and atrocity—protocols that resist censorship equally serve human rights defenders and human traffickers. The essay explores how rights could be embedded in protocols themselves through mechanisms enabling intervention against genocide, environmental destruction, or exploitation without requiring state enforcement. This challenges assumptions that blockchains must be purely "neutral" showing how protocol design always embodies values—the question is whose values and through what governance.
+Nathan Schneider's provocative essay examines how [blockchain](tags/blockchain.md) protocols could encode human rights protections rather than treating "censorship resistance" and "immutability" as sole values. While crypto evangelizes freedom from control, Schneider shows how this enables both liberation and atrocity—protocols that resist censorship equally serve human rights defenders and human traffickers. The essay explores how rights could be embedded in protocols themselves through mechanisms enabling intervention against genocide, environmental destruction, or exploitation without requiring state enforcement. This challenges assumptions that blockchains must be purely "neutral" showing how protocol design always embodies values—the question is whose values and through what [governance](tags/governance.md).
 
 ### Key Highlights
 
@@ -23,7 +23,7 @@ Nathan Schneider's provocative essay examines how blockchain protocols could enc
 
 - **Protocol-Encoded Rights**: The essay explores mechanisms for encoding human rights in protocols—automatic sanctions against verified atrocities, intervention capabilities for serious violations, rights-respecting defaults rather than purely permissionless systems.
 
-- **Governance for Rights**: Schneider examines what governance would enable rights enforcement without recreating problems of state sovereignty—from decentralized tribunals to community-based verification to graduated intervention capabilities.
+- **Governance for Rights**: Schneider examines what governance would enable rights enforcement without recreating problems of state sovereignty—from [decentralized](tags/decentralization.md) tribunals to [community](tags/community.md)-based verification to graduated intervention capabilities.
 
 - **Challenging Crypto Dogma**: The work questions whether blockchains' primary purpose must be "no one can stop this transaction" versus "this enables human flourishing within rights protections"—reframing what decentralization should serve.
 
@@ -47,8 +47,18 @@ This vision enables rights-aware protocol development:
 
 ### Connection With SuperBenefit
 
-- Schneider's challenge to blockchain neutrality resonates with SuperBenefit's power-aware approach, showing that protocol design always embodies values—the question is whose values and through what governance—suggesting that coordination primitives should intentionally encode regenerative commitments rather than claiming neutrality that effectively prioritizes freedom from accountability.
+- Schneider's challenge to blockchain neutrality resonates with SuperBenefit's power-aware approach, showing that protocol design always embodies values—the question is whose values and through what governance—suggesting that [coordination](tags/coordination.md) primitives should intentionally encode regenerative commitments rather than claiming neutrality that effectively prioritizes freedom from accountability.
 
 - The exploration of governance mechanisms for rights enforcement provides framework for SuperBenefit to consider what collective intervention capabilities serve communities, demonstrating that genuinely protective coordination may require mechanisms enabling action against serious harms not just voting on resource allocation.
 
 - Schneider's vision of blockchain rights as alternative to failed state systems validates SuperBenefit's conviction that decentralized coordination can serve purposes beyond financial speculation or protocol governance—showing that DAO primitives could enable human rights infrastructure if developers prioritize protection over absolute censorship resistance.
+
+---
+
+## Related Concepts
+
+- Decentralization - Distributed systems and governance
+- Blockchain - Technology enabling decentralized coordination
+- Coordination - Mechanisms for collective action
+- Governance - Decision-making in digital contexts
+- [DAOs](tags/daos.md) - Decentralized organizations using these technologies

@@ -28,11 +28,11 @@ The Anticapture framework describes agents as decision-making entities that cont
 
 ### Agents in DAOs and Web3
 
-In [DAOs](tags/daos.md) and web3 contexts, agents include core contributors, token holders, community members, and autonomous teams ([Cells](artifacts/dao-primitives-framework/patterns/cell.md)) that participate in network governance and operations. These agents interact through transparent [protocols](tags/protocols.md) and operate with varying levels of [autonomy](tags/autonomy.md) while remaining aligned with collective [purpose](tags/purpose.md).
+In [DAOs](tags/daos.md) and web3 contexts, agents include core contributors, token holders, community members, and autonomous teams ([Cells](artifacts/patterns/cell.md)) that participate in network governance and operations. These agents interact through transparent [protocols](tags/protocols.md) and operate with varying levels of autonomy while remaining aligned with collective [purpose](tags/purpose.md).
 
-As described in DAOs aren't things... they are flows, DAOs function as "purpose-aligned networks of small autonomous teams" where these agent-teams self-organize around opportunities while maintaining coherence within the broader network. These agents exercise their agency through mechanisms like submitting proposals, contributing to projects, participating in governance, and allocating [resources](tags/resources.md).
+As described in [DAOs aren't things... they are flows](../artifacts/dao-primitives-framework/network-evolution/DAOs aren't things... they are flows..md), DAOs function as "purpose-aligned networks of small autonomous teams" where these agent-teams self-organize around opportunities while maintaining coherence within the broader network. These agents exercise their agency through mechanisms like submitting proposals, contributing to projects, participating in governance, and allocating [resources](tags/resources.md).
 
-The effectiveness of DAOs depends on creating conditions where individual agents can act autonomously while remaining aligned with collective goals—what Building DAOs as scalable networks describes as "DAOs as network intelligence that flows," where resources and attention naturally orient toward the highest-value opportunities through distributed agent decisions rather than centralized direction.
+The effectiveness of DAOs depends on creating conditions where individual agents can act autonomously while remaining aligned with collective goals—what [Building DAOs as scalable networks](../artifacts/dao-primitives-framework/network-evolution/Building DAOs as scalable networks.md) describes as "DAOs as network intelligence that flows," where resources and attention naturally orient toward the highest-value opportunities through distributed agent decisions rather than centralized direction.
 
 ### AI Agents
 
@@ -78,7 +78,7 @@ This approach represents a fundamentally different relationship with technology�
 
 - [Actions](tags/actions.md): The processes or events initiated by agents that result in change
 - [Roles](tags/roles.md): Defined responsibilities that structure how agents participate in systems
-- [Permissions](tags/permissions.md): Controls that determine what actions agents can take
-- [Autonomy](tags/autonomy.md): The capacity of agents to operate independently
+- Permissions: Controls that determine what actions agents can take
+- Autonomy: The capacity of agents to operate independently
 - [Delegation](tags/delegation.md): The process of transferring authority between agents
-- [Decisions](tags/decisions.md): The choices agents make that determine outcomes
+- Decisions: The choices agents make that determine outcomes

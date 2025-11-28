@@ -2,7 +2,7 @@
 
 # Framework Directory
 
-This directory houses the practical application of the DAO Primitives conceptual framework, guiding you through the phases and scales of organizational development while providing fundamental building blocks for designing decentralized organizations. The theoretical model is described in artifacts/guides/dao-primitives-framework/dao-primitives-framework.md.
+This directory houses the practical application of the DAO Primitives conceptual framework, guiding you through the phases and scales of organizational development while providing fundamental building blocks for designing decentralized organizations. The theoretical model is described in the [DAO Primitives Framework](/artifacts/guides/dao-primitives-framework/dao-primitives-framework.md).
 
 ## Understanding Organizational Context: Phase, Scale, State, and Primitives
 
@@ -12,7 +12,7 @@ This framework helps you understand and navigate the complexities of organizatio
 
 * **Scale:** The size and complexity of your group. Different scales require different strategies and approaches. The scales are: Collaboration, Coordination, Constituency, and Network. `group-scale/` provides detailed analysis for each scale.
 
-* **State:** The overall properties and characteristics of your organization at a given point in time. Understanding your organization's state is crucial for making informed decisions and planning for future growth. artifacts/guides/dao-primitives-framework/group-state.md provides a comprehensive overview of group states and transitions.
+* **State:** The overall properties and characteristics of your organization at a given point in time. Understanding your organization's state is crucial for making informed decisions and planning for future growth. [Group State](/artifacts/guides/dao-primitives-framework/group-state.md) provides a comprehensive overview of group states and transitions.
 
 * **Primitives:** The fundamental building blocks used to create purpose-aligned networks of small autonomous teams. These primitives - DAOs, Cells, Roles, and Tasks - can be combined in various ways to create organizational systems tailored to specific contexts. `group-primitives/` contains detailed documentation for each primitive.
 

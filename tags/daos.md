@@ -37,7 +37,7 @@ Many [blockchain](tags/blockchain.md) [protocols](tags/protocols.md) use DAOs to
 
 As described in the [DAO Primitives Project](notes/dao-primitives/index.md), DAOs can be understood as "purpose-aligned networks of small autonomous teams" rather than discrete entities. This perspective views DAOs as fluid coordination systems where smaller groups (Cells) self-organize around a shared purpose while maintaining their autonomy. The network provides infrastructure for these groups to discover each other, share resources, and align activities toward common goals without requiring centralized direction.
 
-As noted in DAOs aren't things... they are flows:
+As noted in [DAOs aren't things... they are flows](../artifacts/dao-primitives-framework/network-evolution/DAOs aren't things... they are flows..md):
 
 > "If we can shed this 'company as centralising entity' paradigm and instead see DAOs not as entities but as centerless networks with coordinated flows of resources, then a whole new way of looking at business and economics becomes possible."
 
@@ -47,7 +47,7 @@ DAOs also represent laboratories for social, economic, and governance experiment
 
 ### DAOs as Network Economies
 
-Unlike companies that operate business models, DAOs can function as network economies that harness both scaling infrastructure and creative networks. As described in Scale and the levers that provide DAOs their power, this enables DAOs to achieve efficiencies similar to traditional organizations while maintaining the innovation capacity typically lost in rigid hierarchies.
+Unlike companies that operate business models, DAOs can function as network economies that harness both scaling infrastructure and creative networks. As described in [Scale and the levers that provide DAOs their power](../artifacts/dao-primitives-framework/network-evolution/Scale and the levers that provide DAOs their power.md), this enables DAOs to achieve efficiencies similar to traditional organizations while maintaining the innovation capacity typically lost in rigid hierarchies.
 
 > "DAOs are network economies, not business models. And as network economies they can be more like cities and can escape the rigid and finite fate of companies."
 
@@ -72,8 +72,8 @@ While implementations vary widely, most DAOs share several defining characterist
 ## Related Concepts
 
 - [Governance](tags/governance.md) - The frameworks and processes that guide decision-making in DAOs
-- [Decentralization](tags/decentralization.md) - A key design principle in DAO structures
-- [Cells](drafts/test-resources/test-pattern.md) - Autonomous teams that form the building blocks of DAO networks
+- Decentralization - A key design principle in DAO structures
+- [Cells](artifacts/guides/dao-primitives-framework/group-primitives/cells.md) - Autonomous teams that form the building blocks of DAO networks
 - [Primitives](tags/primitives.md) - Fundamental components used to design and build DAO systems
 - [Consensus](tags/consensus.md) - Mechanisms for reaching agreement in distributed systems
 - [Consent](tags/consent.md) - Decision-making approaches based on absence of objection rather than unanimous agreement

@@ -16,7 +16,7 @@ tags:
   - shared-resources
 ---
 
-This interview with David Bollier—author, activist, and leading commons scholar—offers accessible entry into the political economy of commons-based systems as alternatives to both market capitalism and state control. Bollier articulates how commons governance transcends the presumed dichotomy between private property and public ownership, showing how communities worldwide manage shared resources through participatory stewardship that prioritizes collective wellbeing over individual accumulation. Rather than accepting scarcity as natural condition requiring competitive markets, Bollier demonstrates how commons create abundance through cooperation, challenging fundamental assumptions about human nature and economic organization. The interview synthesizes decades of commons research and practice into frameworks directly applicable to contemporary questions about digital governance, platform cooperatives, and regenerative economics.
+This interview with David Bollier—author, activist, and leading commons scholar—offers accessible entry into the political economy of commons-based systems as alternatives to both market capitalism and state control. Bollier articulates how commons [governance](tags/governance.md) transcends the presumed dichotomy between private property and public ownership, showing how [communities](tags/community.md) worldwide manage shared resources through participatory stewardship that prioritizes collective wellbeing over individual accumulation. Rather than accepting scarcity as natural condition requiring competitive markets, Bollier demonstrates how commons create abundance through cooperation, challenging fundamental assumptions about human nature and economic organization. The interview synthesizes decades of commons research and practice into frameworks directly applicable to contemporary questions about digital governance, platform cooperatives, and regenerative economics.
 
 ### Key Highlights
 
@@ -28,7 +28,7 @@ This interview with David Bollier—author, activist, and leading commons schola
 
 - **Beyond Market and State**: The political economy Bollier describes offers "third way" distinct from both privatization and nationalization. Commons governance distributes stewardship among those affected by resources, combining collective ownership with participatory management—neither controlled by profit-seeking corporations nor distant bureaucracies.
 
-- **Power and Enclosure**: Bollier addresses how powerful interests enclose commons—privatizing shared resources from land to knowledge to culture—requiring active political struggle to defend and expand commons. This power-aware analysis connects historical enclosures to contemporary platform capitalism's extraction of user-generated value.
+- **Power and Enclosure**: Bollier addresses how powerful interests enclose commons—privatizing shared resources from land to knowledge to culture—requiring active political struggle to defend and expand commons. This [power](tags/power.md)-aware analysis connects historical enclosures to contemporary platform capitalism's extraction of user-generated value.
 
 - **Digital Commons Potential**: The interview explores how digital technologies enable new commons forms while also threatening enclosure at unprecedented scale. Bollier shows how blockchain, platform cooperatives, and open-source movements can serve commons or extraction depending on governance design and power distribution.
 
@@ -44,7 +44,7 @@ Bollier's framework enables commons-based approaches across contexts:
 
 - Economic justice organizers can draw on commons political economy to articulate alternatives to capitalism that aren't merely state socialism, demonstrating how cooperative resource governance has functioned successfully across cultures and contexts
 
-- DAO designers can study commons governance patterns when creating blockchain-based coordination systems, learning from centuries of commons practice about participatory decision-making, conflict resolution, and preventing power concentration
+- DAO designers can study commons governance patterns when creating blockchain-based [coordination](tags/coordination.md) systems, learning from centuries of commons practice about participatory decision-making, conflict resolution, and preventing power concentration
 
 - Researchers can build on Bollier's synthesis to study how digital commons differ from physical resource commons, understanding what aspects of traditional commons governance translate to digital contexts and what requires new approaches
 
@@ -55,3 +55,13 @@ Bollier's framework enables commons-based approaches across contexts:
 - The emphasis on "commoning" as active social practice rather than static governance structure resonates with SuperBenefit's understanding that coordination tools must serve relationship-building and adaptation rather than replacing human judgment with automated rules, suggesting that effective DAO primitives enable ongoing negotiation and emergence rather than merely encoding predetermined procedures.
 
 - Bollier's power-aware analysis of enclosure helps SuperBenefit recognize when Web3 coordination tools risk privatizing previously shared resources through protocol control and platform extraction, informing the commitment to commons stewardship and ensuring that DAO governance serves collective ownership rather than merely redistributing who captures value while maintaining extractive structures.
+
+---
+
+## Related Concepts
+
+- [Commons](tags/commons.md) - Shared resources and governance approaches
+- Governance - Decision-making for collective resources
+- Coordination - Mechanisms for managing shared resources
+- [Sustainability](tags/sustainability.md) - Long-term resource stewardship
+- Community - Groups managing commons together

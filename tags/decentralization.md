@@ -9,11 +9,11 @@ aliases:
 publish: "true"
 ---
 
-_Decentralization refers to the distribution of power, decision-making, and control away from a central authority to multiple individuals or entities, allowing for more distributed and autonomous operations._
+_Decentralization refers to the distribution of [power](power.md), [decision-making](decision-making.md), and control away from a central authority to multiple individuals or entities, allowing for more distributed and autonomous operations._
 
-Decentralization represents a fundamental shift in how systems are organized and governed, moving from hierarchical, centralized structures toward networked, distributed arrangements. This organizational principle can be applied to technological systems (like blockchains), governance structures (like DAOs), and social coordination mechanisms. At its core, decentralization seeks to reduce single points of failure, minimize capture by concentrated interests, and enable greater participation by diverse stakeholders.
+[Decentralization](decentralization.md) represents a fundamental shift in how systems are organized and governed, moving from hierarchical, centralized structures toward networked, distributed arrangements. This organizational principle can be applied to technological systems (like blockchains), [governance](governance.md) structures (like [DAOs](daos.md)), and social [coordination](coordination.md) mechanisms. At its core, decentralization seeks to reduce single points of failure, minimize capture by concentrated interests, and enable greater [participation](participation.md) by diverse stakeholders.
 
-The degree of decentralization exists on a spectrum rather than as a binary state. Systems can decentralize specific functions (like decision-making or resource allocation) while maintaining centralization in others. The effectiveness of decentralization depends heavily on context - what works for one system or community might be inappropriate for another. Well-designed decentralized systems carefully balance autonomy with coordination, creating structures that enable individual freedom while maintaining coherent collective action.
+The degree of decentralization exists on a spectrum rather than as a binary state. Systems can decentralize specific functions (like decision-making or resource allocation) while maintaining centralization in others. The effectiveness of decentralization depends heavily on context - what works for one system or [community](community.md) might be inappropriate for another. Well-designed decentralized systems carefully balance [autonomy](autonomy.md) with coordination, creating structures that enable individual freedom while maintaining coherent collective action.
 
 ---
 
@@ -21,9 +21,9 @@ The degree of decentralization exists on a spectrum rather than as a binary stat
 
 ### Decentralization in Technological Systems
 
-In blockchain and Web3 technologies, decentralization refers to the distribution of network infrastructure, data storage, and processing across multiple independent nodes. This technical decentralization creates systems that are resistant to censorship, tampering, and single points of failure. Bitcoin pioneered this approach by distributing the verification and recording of transactions across a global network of computers, eliminating the need for trusted intermediaries like banks or payment processors.
+In [blockchain](blockchain.md) and Web3 technologies, decentralization refers to the distribution of network infrastructure, data storage, and processing across multiple independent nodes. This technical decentralization creates systems that are resistant to censorship, tampering, and single points of failure. Bitcoin pioneered this approach by distributing the verification and recording of transactions across a global network of computers, eliminating the need for trusted intermediaries like banks or payment processors.
 
-The technical implementation of decentralization typically involves consensus mechanisms, cryptographic verification, and incentive structures that allow a network to maintain consistency and security without central control. Different protocols make different trade-offs between decentralization, scalability, and security (often called the "blockchain trilemma"), leading to varied approaches across the Web3 ecosystem.
+The technical implementation of decentralization typically involves [consensus](consensus.md) mechanisms, cryptographic verification, and incentive structures that allow a network to maintain consistency and security without central control. Different protocols make different trade-offs between decentralization, scalability, and security (often called the "blockchain trilemma"), leading to varied approaches across the Web3 ecosystem.
 
 ### Decentralization in Organizational Design
 
@@ -39,9 +39,9 @@ As explored in the Governance for better futures series, decentralized governanc
 
 ### Decentralization in Social Impact
 
-In social impact contexts, decentralization addresses traditional power imbalances in philanthropy and development work. By distributing decision-making authority to affected communities rather than donors or intermediaries, decentralized approaches can create more equitable, contextually appropriate, and sustainable solutions.
+In social impact contexts, decentralization addresses traditional power imbalances in philanthropy and development work. By distributing decision-making authority to affected community rather than donors or intermediaries, decentralized approaches can create more equitable, contextually appropriate, and sustainable solutions.
 
-This application of decentralization particularly emphasizes the importance of transferring not just nominal authority but also resources, knowledge access, and implementation capacity to historically marginalized communities. Web3 tools can enhance this process by creating transparent resource flows, participatory decision mechanisms, and direct community ownership of assets and infrastructure.
+This application of decentralization particularly emphasizes the importance of transferring not just nominal authority but also resources, knowledge access, and implementation capacity to historically marginalized community. Web3 tools can enhance this process by creating transparent resource flows, participatory decision mechanisms, and direct community ownership of assets and infrastructure.
 
 ## Related Concepts
 

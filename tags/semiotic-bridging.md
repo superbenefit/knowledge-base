@@ -10,7 +10,7 @@ tags:
 
 *A practice of mediating between different knowledge systems and cultural frameworks to enable meaningful exchange while preserving local context and meaning.*
 
-Semiotic bridging refers to the process of translating not just words but entire systems of meaning between different communities or cultural contexts. It focuses on maintaining the integrity and nuance of local knowledge while making it accessible and understandable to others.
+Semiotic bridging refers to the process of translating not just words but entire systems of meaning between different [community](community.md) or cultural contexts. It focuses on maintaining the integrity and nuance of local knowledge while making it accessible and understandable to others.
 
 Credit: [Giulio Quarta - Commons Economy Roadmap](https://www.commonseconomy.org/Giulio-Quarta-5d9b026c5ffb4d4c86e2e39e8fff9ba0)
 [Semiotic Bridging: a practice for Ethereum Localism and the Commons Economy](https://greenpill.network/pdf/ethereum-localism.pdf), Featured in Ethereum Localism
@@ -27,14 +27,14 @@ In cultural translation, semiotic bridging goes beyond literal language translat
 
 ## Semiotic Bridging in web3
 
-In web3 contexts, semiotic bridging often involves using AI and decentralized technologies to help communities share knowledge while maintaining sovereignty over their own information. This can include:
+In web3 contexts, semiotic bridging often involves using AI and [decentralized](decentralization.md) technologies to help community share knowledge while maintaining sovereignty over their own information. This can include:
 
 - Community-controlled knowledge bases that interface with AI translation layers
 - Systems for sharing local knowledge while preserving cultural protocols and context
 - Tools for discovering patterns and connections across different community knowledge systems
 - Methods for translating practices and insights between different local contexts
 
-The key innovation in web3 implementations is the combination of local control with global accessibility - communities can maintain their own knowledge bases while still participating in broader knowledge exchange networks.
+The key innovation in web3 implementations is the combination of local control with global accessibility - community can maintain their own knowledge bases while still participating in broader knowledge exchange networks.
 
 ### AI Agents in Semiotic Bridging
 
@@ -47,3 +47,10 @@ Within shared knowledge commons, AI agents can act as dynamic translators across
 - Maintain connections between knowledge bases as they evolve independently
 
 This approach liberates communities from the need to agree on shared data standards or ontologies. Each community can organize and manage their knowledge in ways that make sense locally, while AI agents handle the complex task of bridging these different systems within the broader commons.
+---
+
+## Related Concepts
+
+- [Coordination](tags/coordination.md) - Bridging for coordination
+- [Gatherings](artifacts/patterns/gatherings.md) - Cross-sector bridging
+- [Community](tags/community.md) - Bridging communities

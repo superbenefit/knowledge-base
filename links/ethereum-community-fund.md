@@ -15,7 +15,7 @@ tags:
   - web3-infrastructure
 ---
 
-The Ethereum Community Fund provides grants and support for ecosystem development projects advancing Ethereum network capabilities, governance innovations, and public goods infrastructure. Rather than focusing exclusively on application-level development, ECF emphasizes foundational work including token engineering research, coordination mechanism design, governance tooling, and shared infrastructure benefiting broader ecosystem rather than individual commercial products. The fund supports both technical development and research examining how blockchain-based coordination can serve community benefit, public goods provision, and regenerative outcomes. This positions ECF at intersection of Ethereum technical infrastructure and social impact applications, recognizing that effective decentralized coordination requires ongoing research, experimentation, and tool development beyond what market incentives alone will support—demonstrating role of community-directed funding in sustaining commons infrastructure and governance innovation serving ecosystem health.
+The Ethereum Community Fund provides grants and support for ecosystem development projects advancing Ethereum network capabilities, [governance](tags/governance.md) innovations, and [public goods](tags/public-goods.md) infrastructure. Rather than focusing exclusively on application-level development, ECF emphasizes foundational work including token engineering research, [coordination](tags/coordination.md) mechanism design, governance tooling, and shared infrastructure benefiting broader ecosystem rather than individual commercial products. The fund supports both technical development and research examining how blockchain-based coordination can serve [community](tags/community.md) benefit, public goods provision, and regenerative outcomes. This positions ECF at intersection of Ethereum technical infrastructure and social [impact](tags/impact.md) applications, recognizing that effective decentralized coordination requires ongoing research, experimentation, and tool development beyond what market incentives alone will support—demonstrating role of community-directed funding in sustaining commons infrastructure and governance innovation serving ecosystem health.
 
 ### Key Highlights
 
@@ -23,7 +23,7 @@ The Ethereum Community Fund provides grants and support for ecosystem developmen
 
 - **Token Engineering Support**: Fund specifically supports token engineering research examining how economic mechanisms, governance systems, and incentive design can enable coordination serving community benefit beyond financial speculation.
 
-- **Governance Innovation Emphasis**: Grants target governance mechanism development, voting systems, coordination tooling, and decision-making infrastructure serving DAOs and decentralized communities across ecosystem.
+- **Governance Innovation Emphasis**: Grants target governance mechanism development, voting systems, coordination tooling, and decision-making infrastructure serving [DAOs](tags/daos.md) and decentralized communities across ecosystem.
 
 - **Research and Development Integration**: ECF supports both technical development and research examining coordination challenges, recognizing that effective tools require ongoing investigation of social, economic, and technical dimensions.
 
@@ -50,3 +50,13 @@ This funding model enables ecosystem coordination development:
 - Ethereum Community Fund's emphasis on ecosystem infrastructure and public goods funding validates SuperBenefit's recognition that effective coordination primitives represent commons infrastructure requiring collective investment beyond what individual organizations or market mechanisms will provide, demonstrating that genuinely serving communities means supporting foundational tool development, research, and shared coordination capacity that benefits ecosystem health rather than assuming coordination innovation happens automatically through commercial competition—showing that regenerative governance requires funding models enabling commons stewardship and infrastructure development serving collective benefit.
 
 - ECF's integration of technical development with coordination research resonates with SuperBenefit's conviction that effective primitives require ongoing investigation of social, economic, and governance dimensions alongside technical implementation, illustrating that coordination tool development shouldn't separate mechanism design from understanding how governance mechanisms function in practice, what participation patterns emerge, what power dynamics tools create, and how technical infrastructure serves or undermines community agency—demonstrating that funding should support multidisciplinary coordination innovation rather than purely technical development divorced from social context and values considerations.
+
+---
+
+## Related Concepts
+
+- DAOs - Organizations and communities discussed
+- Coordination - Mechanisms for collective action
+- Governance - Decision-making in funding contexts
+- Public Goods - Commons funding approaches
+- Impact - Outcomes and value creation

@@ -16,19 +16,19 @@ tags:
   - blockchain-governance
 ---
 
-This peer-reviewed academic article provides rigorous critical analysis of how Web3 technologies embody competing logics: expansive networks that genuinely distribute power and enable collective capacity, versus extractive networks that concentrate wealth and control through new mechanisms while claiming decentralization. Published in a leading interdisciplinary journal, the work applies political economy frameworks and power analysis to examine whether and how blockchain systems challenge or reproduce hierarchies. Rather than celebratory or dismissive, the analysis offers nuanced tools for distinguishing genuinely transformative decentralized approaches from those that merely transfer extraction to new elites—essential reading for anyone seeking to build or evaluate regenerative Web3 systems.
+This peer-reviewed academic article provides rigorous critical analysis of how Web3 technologies embody competing logics: expansive networks that genuinely distribute [power](tags/power.md) and enable collective capacity, versus extractive networks that concentrate wealth and control through new mechanisms while claiming decentralization. Published in a leading interdisciplinary journal, the work applies political economy frameworks and power analysis to examine whether and how blockchain systems challenge or reproduce hierarchies. Rather than celebratory or dismissive, the analysis offers nuanced tools for distinguishing genuinely transformative decentralized approaches from those that merely transfer extraction to new elites—essential reading for anyone seeking to build or evaluate regenerative Web3 systems.
 
 ### Key Highlights
 
-- **Expansive vs. Extractive Framework**: The article introduces analytical distinction between expansive networks (that enhance collective capacity, distribute decision-making power, and enable broad participation) and extractive networks (that concentrate value, limit governance access, and serve elite accumulation). This framework enables evaluating specific protocols rather than treating "Web3" as monolithic.
+- **Expansive vs. Extractive Framework**: The article introduces analytical distinction between expansive networks (that enhance collective capacity, distribute decision-making power, and enable broad participation) and extractive networks (that concentrate value, limit [governance](tags/governance.md) access, and serve elite accumulation). This framework enables evaluating specific protocols rather than treating "Web3" as monolithic.
 
 - **Power Concentration Through Code**: The work examines how technical design choices—token distribution, governance mechanisms, protocol fees—concentrate or distribute power, showing that dec
 
 entralization claims require scrutiny of actual power dynamics rather than accepting self-descriptions at face value.
 
-- **Token Plutocracy Analysis**: The article provides detailed critique of token-weighted governance, showing how this common Web3 pattern reproduces plutocracy (rule by the wealthy) despite decentralization rhetoric. The analysis demonstrates why one-token-one-vote systems advantage capital holders over diverse community participants.
+- **Token Plutocracy Analysis**: The article provides detailed critique of token-weighted governance, showing how this common Web3 pattern reproduces plutocracy (rule by the wealthy) despite decentralization rhetoric. The analysis demonstrates why one-token-one-vote systems advantage capital holders over diverse [community](tags/community.md) participants.
 
-- **New Forms of Enclosure**: Drawing on commons theory, the work analyzes how Web3 platforms can enclose previously open resources through protocol control, fee extraction, and proprietary layers—creating new commons enclosures that concentrate benefits while distributing risks.
+- **New Forms of Enclosure**: Drawing on [commons](tags/commons.md) theory, the work analyzes how Web3 platforms can enclose previously open resources through protocol control, fee extraction, and proprietary layers—creating new commons enclosures that concentrate benefits while distributing risks.
 
 - **Labor and Value Extraction**: The article examines how decentralized platforms extract value from unpaid community labor (governance participation, content creation, protocol improvement) while directing financial gains to token holders and founders—revealing continuities with platform capitalism's exploitation patterns.
 
@@ -58,8 +58,18 @@ The rigorous scholarly approach provides credibility when challenging dominant W
 
 ### Connection With SuperBenefit
 
-- The expansive versus extractive framework provides rigorous analytical tools for SuperBenefit's power-aware approach, offering clear criteria to distinguish coordination systems that genuinely distribute decision-making power and enhance collective capacity from those that concentrate wealth through token plutocracy while claiming decentralization—the paper's methodology enables evaluating whether specific protocols serve regenerative values or reproduce extraction with new technical infrastructure.
+- The expansive versus extractive framework provides rigorous analytical tools for SuperBenefit's power-aware approach, offering clear criteria to distinguish [coordination](tags/coordination.md) systems that genuinely distribute decision-making power and enhance collective capacity from those that concentrate wealth through token plutocracy while claiming decentralization—the paper's methodology enables evaluating whether specific protocols serve regenerative values or reproduce extraction with new technical infrastructure.
 
 - The detailed critique of token-weighted governance validates SuperBenefit's exploration of alternatives like quadratic mechanisms and participation-based rights rather than one-token-one-vote systems, showing why capital-based governance reproduces plutocracy despite decentralization rhetoric—directly relevant to RPP's multi-stakeholder governance challenges where equitable voice couldn't depend on equal capital stakes.
 
 - The commons enclosure analysis helps SuperBenefit recognize when Web3 coordination tools risk enclosing previously shared resources through protocol fees and proprietary layers, informing the commitment to commons stewardship and ensuring that DAO primitives serve collective benefit rather than concentrating gains among early investors and founders.
+
+---
+
+## Related Concepts
+
+- Coordination - Mechanisms for collective decision-making
+- Governance - Democratic and participatory frameworks
+- Community - Network organizing and collaboration
+- Power - Distribution and relational dynamics
+- [Sustainability](tags/sustainability.md) - Regenerative coordination approaches

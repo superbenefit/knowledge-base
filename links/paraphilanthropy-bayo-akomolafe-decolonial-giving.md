@@ -30,7 +30,7 @@ Bayo Akomolafe's "Paraphilanthropy" represents one of the most philosophically p
 
 - **Giving as Entanglement Not Transaction**: Against transactional charity models, Akomolafe proposes giving as deepening entanglement—acknowledging mutual vulnerability and interconnection rather than maintaining distance between giver and receiver. This challenges philanthropic assumptions about boundaries, expertise, and who has agency to create change.
 
-- **Land as Primary Relationship**: The work centers land not as property but as alive, agential, and in relationship with human and more-than-human communities. Paraphilanthropy means attending to land's requests and needs, not merely funding land-based projects according to human frameworks.
+- **Land as Primary Relationship**: The work centers land not as property but as alive, agential, and in relationship with human and more-than-human [communities](tags/community.md). Paraphilanthropy means attending to land's requests and needs, not merely funding land-based projects according to human frameworks.
 
 - **Decolonial Invitation to Lostness**: Akomolafe argues that meaningful change requires becoming lost to colonial maps and metrics—embracing not-knowing rather than strategic plans. Paraphilanthropy invites funders into uncertainty, relationship, and transformation rather than maintaining control through measurement frameworks.
 
@@ -42,7 +42,7 @@ Bayo Akomolafe's "Paraphilanthropy" represents one of the most philosophically p
 
 Akomolafe's work resists direct application but offers transformative provocations:
 
-- Philanthropic organizations and funders can use paraphilanthropy as invitation to examine their own assumptions about control, measurement, and strategic giving—asking what it might mean to release money rather than direct it, to become vulnerable rather than maintain power
+- Philanthropic organizations and funders can use paraphilanthropy as invitation to examine their own assumptions about control, measurement, and strategic giving—asking what it might mean to release money rather than direct it, to become vulnerable rather than maintain [power](tags/power.md)
 
 - Grant-making institutions can experiment with relationship-based funding that prioritizes long-term accountability to communities and land over short-term outcomes, recognizing that meaningful change happens in timescales beyond funding cycles
 
@@ -60,6 +60,16 @@ The essay's power lies in its capacity to trouble comfortable assumptions rather
 
 - Akomolafe's radical critique of philanthropic power dynamics resonates deeply with AIFS's transformation from transactional funding model to coordi-nation based on voluntary association and mutual support, embodying paraphilanthropy's invitation to release money rather than direct it toward predetermined outcomes measured by colonial metrics.
 
-- The emphasis on relationship and entanglement as transformation itself—not means to an end—validates SuperBenefit's understanding that trust-building and attending to group dynamics constitute foundational infrastructure rather than soft prerequisites, explaining why AIFS needed to prioritize relationship before coordination could become sustainable.
+- The emphasis on relationship and entanglement as transformation itself—not means to an end—validates SuperBenefit's understanding that trust-building and attending to group dynamics constitute foundational infrastructure rather than soft prerequisites, explaining why AIFS needed to prioritize relationship before [coordination](tags/coordination.md) could become sustainable.
 
 - Challenges SuperBenefit to hold the tension between providing reusable patterns for decentralized coordination while honoring Akomolafe's invitation to "lostness" and emergence, recognizing that genuinely decolonial futures cannot be fully mapped in advance but must arise through practices that refuse colonial logics of productivity and measurement.
+
+---
+
+## Related Concepts
+
+- Power - Dynamics in funding and resource distribution
+- Community - Organizations and movements being funded
+- Coordination - Mechanisms for collective resource allocation
+- [Impact](tags/impact.md) - Outcomes and effectiveness measures
+- [Governance](tags/governance.md) - Decision-making in funding contexts

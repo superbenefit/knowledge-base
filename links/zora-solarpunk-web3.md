@@ -15,11 +15,11 @@ tags:
   - planetary-infrastructure
 ---
 
-ZORA ZINE's essay bridges solarpunk—aesthetic and movement envisioning ecologically sustainable post-capitalist futures—with regenerative Web3 potential. Solarpunk imagines worlds powered by renewable energy, governed through mutual aid, and organized around ecological thriving rather than extraction. The article shows how blockchain coordination could serve solarpunk visions through decentralized renewable energy grids, climate-resilient infrastructure, and community-governed resources—positioning Web3 as potential tool for building post-capitalist futures rather than merely financializing existing systems. This connects speculative fiction's imaginative power with practical coordination mechanisms.
+ZORA ZINE's essay bridges solarpunk—aesthetic and movement envisioning ecologically sustainable post-capitalist futures—with regenerative Web3 potential. Solarpunk imagines worlds powered by renewable energy, governed through mutual aid, and organized around ecological thriving rather than extraction. The article shows how [blockchain](tags/blockchain.md) [coordination](tags/coordination.md) could serve solarpunk visions through [decentralized](tags/decentralization.md) renewable energy grids, climate-resilient infrastructure, and [community](tags/community.md)-governed resources—positioning Web3 as potential tool for building post-capitalist futures rather than merely financializing existing systems. This connects speculative fiction's imaginative power with practical coordination mechanisms.
 
 ### Key Highlights
 
-- **Solarpunk Values**: The essay articulates solarpunk core principles—ecological sustainability, community autonomy, renewable energy, mutual aid, decolonization, technological optimism tempered by ecological limits—showing how these inform regenerative Web3 visions.
+- **Solarpunk Values**: The essay articulates solarpunk core principles—ecological [sustainability](tags/sustainability.md), community autonomy, renewable energy, mutual aid, decolonization, technological optimism tempered by ecological limits—showing how these inform regenerative Web3 visions.
 
 - **Planetary Infrastructure**: Rather than treating climate as externality, the piece positions infrastructure itself as ecological intervention—renewable energy coordination, climate adaptation networks, regenerative agriculture systems—using Web3 mechanisms to organize planetary stewardship.
 
@@ -29,7 +29,7 @@ ZORA ZINE's essay bridges solarpunk—aesthetic and movement envisioning ecologi
 
 - **Ursula K. Le Guin**: The essay references Le Guin's anarchist science fiction showing how speculative fiction enables imagining coordination beyond markets and states, providing conceptual resources for alternative futures.
 
-- **Practical Utopianism**: Rather than purely aspirational, the piece explores concrete Web3 applications serving solarpunk goals—from renewable energy certificates to climate adaptation DAOs to regenerative land management coordination.
+- **Practical Utopianism**: Rather than purely aspirational, the piece explores concrete Web3 applications serving solarpunk goals—from renewable energy certificates to climate adaptation [DAOs](tags/daos.md) to regenerative land management coordination.
 
 ### Practical Applications
 
@@ -52,3 +52,13 @@ Solarpunk framework enables regenerative Web3:
 - The article's connection of aesthetics with political imagination validates SuperBenefit's understanding that coordination primitive development requires visioning desirable futures not just optimizing current systems—showing that speculative design enables imagining possibilities that technical optimization within existing logics cannot reach.
 
 - Solarpunk's integration of ecological limits with technological optimism provides framework for SuperBenefit's regenerative approach, demonstrating that effective coordination must serve planetary thriving within biophysical constraints rather than enabling infinite growth through efficiency optimization—showing that DAO primitives should help communities coordinate ecological stewardship not just financial transactions.
+
+---
+
+## Related Concepts
+
+- Sustainability - Ecological approaches to technology
+- Coordination - Alternative organizing mechanisms
+- Community - Digital and local organizing
+- [Regeneration](tags/regeneration.md) - Restorative systems design
+- [Governance](tags/governance.md) - Democratic technology frameworks

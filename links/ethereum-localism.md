@@ -38,7 +38,7 @@ tags:
   - biofi
 ---
 
-*Ethereum Localism* represents a framework for using blockchain technology to enable both local autonomy and global coordination. The concept explores how Ethereum and Web3 tools can help communities develop resilient local systems while maintaining beneficial connections to global networks and resources.
+*Ethereum Localism* represents a framework for using blockchain technology to enable both local autonomy and global [coordination](tags/coordination.md). The concept explores how Ethereum and Web3 tools can help [community](tags/community.md) develop resilient local systems while maintaining beneficial connections to global [networks](tags/networks.md) and resources.
 
 ### Key Highlights
 
@@ -46,7 +46,7 @@ tags:
 - **Bioregional Organization**: Structuring human activity around ecological rather than political boundaries
 - **Open Protocols**: Using transparent, replicable systems for knowledge sharing and coordination
 - **Community Finance**: Developing new economic models that serve local needs while connecting to global capital flows
-- **Democratic Infrastructure**: Creating tools for community self-governance and resource management
+- **Democratic Infrastructure**: Creating tools for community self-[governance](tags/governance.md) and resource management
 
 ### Practical Applications
 
@@ -66,4 +66,7 @@ This resource directly connects to SuperBenefit's focus on cosmolocalism and bio
 - [Localism](tags/localism.md) - The resource expands on local organization while connecting to global systems
 - [Cosmolocalism](tags/cosmolocalism.md) - Exemplifies the "light is global, heavy is local" principle
 - [Blockchain](tags/blockchain.md) - Demonstrates practical applications of blockchain for community empowerment
-- [Community](tags/community.md) - Explores community-driven approaches to governance and resource management
+- Community - Explores community-driven approaches to governance and resource management
+
+---
+

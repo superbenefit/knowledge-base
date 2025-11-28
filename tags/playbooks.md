@@ -11,9 +11,9 @@ publish: "true"
 
 *Playbooks are comprehensive, structured guides that provide practical frameworks and step-by-step instructions for implementing patterns, practices, and protocols in particular contexts.*
 
-Playbooks serve as actionable roadmaps that bridge theory and implementation, translating complex concepts into concrete steps for various stakeholders. Unlike patterns, which focus on reusable solutions to specific problems, playbooks orchestrate multiple patterns, primitives, and practices into cohesive strategies addressing broader challenges. They combine conceptual frameworks with practical guidance, enabling users to navigate complexity while maintaining alignment with core principles and values.
+Playbooks serve as actionable roadmaps that bridge theory and implementation, translating complex concepts into concrete steps for various stakeholders. Unlike patterns, which focus on reusable solutions to specific problems, playbooks orchestrate multiple patterns, [primitives](primitives.md), and practices into cohesive strategies addressing broader challenges. They combine conceptual frameworks with practical guidance, enabling users to navigate complexity while maintaining alignment with core principles and [values](values.md).
 
-In the context of decentralized organizations and social impact initiatives, playbooks play a crucial role in knowledge transfer and replication. They document tested approaches in a systematic way that allows others to adapt and implement them in their own contexts. By capturing both the "how" and the "why" of implementation strategies, playbooks accelerate learning and reduce the need for communities to repeatedly solve similar challenges from scratch.
+In the context of [decentralized](decentralization.md) organizations and social impact initiatives, playbooks play a crucial role in knowledge transfer and replication. They document tested approaches in a systematic way that allows others to adapt and implement them in their own contexts. By capturing both the "how" and the "why" of implementation strategies, playbooks accelerate learning and reduce the need for [community](community.md) to repeatedly solve similar challenges from scratch.
 
 ---
 
@@ -21,7 +21,7 @@ In the context of decentralized organizations and social impact initiatives, pla
 
 ### Playbooks in Organizational Design
 
-In organizational design, playbooks provide structured approaches for creating and evolving governance systems, operational structures, and coordination mechanisms. They integrate theoretical frameworks with practical implementation steps, helping organizations navigate transitions between different phases of development or adapt to changing contexts while maintaining coherence and purpose alignment.
+In organizational design, playbooks provide structured approaches for creating and evolving [governance](governance.md) systems, operational structures, and [coordination](coordination.md) mechanisms. They integrate theoretical frameworks with practical implementation steps, helping organizations navigate transitions between different phases of development or adapt to changing contexts while maintaining coherence and purpose alignment.
 
 ### Playbooks in Social Impact
 
@@ -40,4 +40,12 @@ A well-crafted web3 playbook often includes:
 - Technical and social considerations for successful deployment
 - Evolution frameworks for adapting the approach as systems mature
 
-The Reimagining Power Playbook being developed by the Reimagining Power Project represents an example of this approach, outlining frameworks for transforming traditional power dynamics in philanthropy and social impact through decentralized technologies.
+The Reimagining [Power](power.md) Playbook being developed by the Reimagining Power Project represents an example of this approach, outlining frameworks for transforming traditional power dynamics in philanthropy and social impact through decentralized technologies.
+---
+
+## Related Concepts
+
+- [Patterns](tags/Patterns.md) - Reusable solutions that playbooks document
+- [Practices](tags/practices.md) - Specific practices in playbooks
+- [Coordination](tags/coordination.md) - Playbooks for coordination
+- [Teams](tags/teams.md) - Groups using playbooks

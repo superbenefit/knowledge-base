@@ -79,3 +79,13 @@ For instruction on how to use this template please refer to the [cell-state](art
 
 ---
 
+
+---
+
+## Related Concepts
+
+- [Cell State](artifacts/patterns/cell-state.md) - Pattern this template implements
+- [Cell](artifacts/patterns/cell.md) - Working groups that use this template
+- [Nucleus](notes/dao-primitives/implementation/patterns/collaboration-scale-patterns/nucleus.md) - Primitive for state tracking
+- [Teams](tags/teams.md) - Groups that document their state
+- [Governance](tags/governance.md) - Practices documented in cell state

@@ -16,11 +16,11 @@ tags:
   - grantmaking
 ---
 
-The Trust-Based Philanthropy Project articulates comprehensive framework for transforming philanthropic practice by addressing the power imbalances inherent in traditional grantmaking. Rather than treating power disparities as unfortunate side effects of funding relationships, trust-based philanthropy recognizes how conventional practices—restrictive grants, burdensome reporting, short time horizons, funder-determined priorities—concentrate power with wealthy donors while extracting labor from community organizations. The framework proposes six core practices that redistribute power: multi-year unrestricted funding, streamlined applications, transparent responsive communication, soliciting and acting on feedback, offering support beyond money, and committing to equity and justice. These aren't merely procedural improvements but fundamental shifts that center grantee leadership, build genuine partnership, and acknowledge that those closest to issues understand solutions better than distant funders.
+The Trust-Based Philanthropy Project articulates comprehensive framework for transforming philanthropic practice by addressing the [power](tags/power.md) imbalances inherent in traditional grantmaking. Rather than treating power disparities as unfortunate side effects of funding relationships, trust-based philanthropy recognizes how conventional practices—restrictive grants, burdensome reporting, short time horizons, funder-determined priorities—concentrate power with wealthy donors while extracting labor from [community](tags/community.md) organizations. The framework proposes six core practices that redistribute power: multi-year unrestricted funding, streamlined applications, transparent responsive communication, soliciting and acting on feedback, offering support beyond money, and committing to equity and justice. These aren't merely procedural improvements but fundamental shifts that center grantee leadership, build genuine partnership, and acknowledge that those closest to issues understand solutions better than distant funders.
 
 ### Key Highlights
 
-- **Power-Aware Grantmaking**: Trust-based philanthropy explicitly names how traditional practices consolidate funder power—controlling how money is used, demanding extensive reporting to prove worthiness, changing priorities that force grantees to chase new funding, maintaining opacity about decision-making. By surfacing these dynamics, the framework enables intentional power redistribution rather than perpetuating extraction through progressive rhetoric.
+- **Power-Aware Grantmaking**: Trust-based philanthropy explicitly names how traditional practices consolidate funder power—controlling how money is used, demanding extensive reporting to prove worthiness, changing priorities that force grantees to chase new funding, maintaining opacity about [decision-making](tags/decision-making.md). By surfacing these dynamics, the framework enables intentional power redistribution rather than perpetuating extraction through progressive rhetoric.
 
 - **Multi-Year Unrestricted Funding**: The project advocates for general operating support over extended periods rather than project-specific grants, recognizing that unrestricted multi-year commitments enable organizations to plan strategically, invest in staff and infrastructure, and respond to emergent community needs rather than contorting work to fit narrow funder priorities that shift unpredictably.
 
@@ -38,11 +38,11 @@ Trust-based principles enable transformative grantmaking across funding contexts
 
 - Foundations can implement the six practices systematically, starting with existing grantees by converting project grants to general operating support, extending grant periods, and soliciting feedback about what would genuinely help rather than assuming current practices serve community needs
 
-- Community foundations can use the framework to transform relationships with local organizations, reducing application burdens, increasing transparency about allocation decisions, and creating ongoing feedback loops that give grantees real voice in shaping funding practices
+- Community foundations can use the framework to transform relationships with local organizations, reducing application burdens, increasing [transparency](tags/transparency.md) about allocation decisions, and creating ongoing feedback loops that give grantees real voice in shaping funding practices
 
 - Corporate giving programs can adopt trust-based approaches to move beyond transactional philanthropy toward authentic partnership, providing unrestricted support that recognizes community organizations as experts rather than vendors delivering predetermined outcomes
 
-- Impact investors can apply trust-based principles even within investment structures, offering patient capital with flexible terms, minimizing extractive reporting requirements, and centering entrepreneur/community leadership over investor control
+- [Impact](tags/impact.md) investors can apply trust-based principles even within investment structures, offering patient capital with flexible terms, minimizing extractive reporting requirements, and centering entrepreneur/community leadership over investor control
 
 - Individual donors can practice trust-based giving through donor-advised funds or direct support, providing unrestricted multi-year commitments to organizations they trust rather than directing how money should be used or demanding proof of specific outcomes
 
@@ -52,6 +52,16 @@ Trust-based principles enable transformative grantmaking across funding contexts
 
 - Trust-based philanthropy's power-aware framework directly informs SuperBenefit's exploration of funding mechanisms that redistribute decision-making power rather than merely decentralizing who holds capital—the principles challenge Web3 funding models to examine whether quadratic mechanisms, retroactive funding, or DAO treasuries actually center community leadership or reproduce extractive dynamics where those with tokens determine priorities while extracting labor through proposal and reporting processes.
 
-- The emphasis on unrestricted multi-year support versus project-specific control resonates with SuperBenefit's understanding that effective coordination requires operational autonomy for small teams pursuing long-term work, not short-term accountability to shifting external priorities—suggesting that DAO funding primitives should enable sustained general support rather than only rewarding discrete deliverables.
+- The emphasis on unrestricted multi-year support versus project-specific control resonates with SuperBenefit's understanding that effective [coordination](tags/coordination.md) requires operational autonomy for small teams pursuing long-term work, not short-term accountability to shifting external priorities—suggesting that DAO funding [primitives](tags/primitives.md) should enable sustained general support rather than only rewarding discrete deliverables.
 
 - Trust-based philanthropy's commitment to soliciting and acting on grantee feedback provides model for how SuperBenefit can ensure that coordination tools genuinely serve community needs rather than imposing predetermined structures—the framework demonstrates that redistributing power requires not just different mechanisms but ongoing willingness to change practices based on input from those with less structural power.
+
+---
+
+## Related Concepts
+
+- Power - Distribution and transformation in funding relationships
+- [Governance](tags/governance.md) - Decision-making in philanthropic contexts
+- Community - Leadership and self-determination
+- Coordination - Mechanisms for resource distribution
+- [Grants](tags/grants.md) - Funding approaches and practices

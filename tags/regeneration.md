@@ -54,7 +54,7 @@ This dimension includes practices that foster ecological consciousness, systems 
 ## Related Concepts
 
 - **[Sustainability](tags/sustainability.md)**: The foundation upon which regeneration builds, focusing on maintaining rather than enhancing systems
-- **[ReFi](tags/refi.md)**: The application of regenerative principles to financial systems using Web3 technologies
+- **ReFi**: The application of regenerative principles to financial systems using Web3 technologies
 - **[Systems](tags/systems.md)**: The holistic perspective necessary for effective regenerative design and practice
 - **[Community](tags/community.md)**: A primary scale and context for regenerative development
 - **[Purpose](tags/purpose.md)**: The guiding direction that informs regenerative interventions

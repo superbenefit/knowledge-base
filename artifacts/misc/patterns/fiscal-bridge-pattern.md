@@ -286,3 +286,13 @@ ICS pioneered this pattern as fiscal sponsor for the Reimagining Power Project:
 - High reputational risk
 - Immediate financial pressure
 
+
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Web3 organizations bridging to traditional finance
+- [Coordination](tags/coordination.md) - Bridging traditional and Web3 ecosystems
+- [Governance](tags/governance.md) - Regulatory compliance and decision-making
+- [Community Governance](artifacts/patterns/community-governance.md) - Multi-stakeholder coordination
+- [Primitives](tags/primitives.md) - Web3 building blocks for fiscal operations
