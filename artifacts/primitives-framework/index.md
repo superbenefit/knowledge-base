@@ -63,7 +63,7 @@ Choose your path based on where you are:
 The framework is built on two complementary elements:
 
 **[Dimensional Lenses](primitives-framework-concepts.md#dimensional-lense)** - Three perspectives for assessing organizational context:
-- **Phase:** Developmental stage (Conversation → Formation → Organization → Coordination → Completion)
+- **Phase:** Developmental stage (Conversation → Formation → Organization → Iteration → Completion)
 - **Scale:** Size and complexity (Collaboration < 10 → Coordination 10-150 → Constituency 100s+ → Network)
 - **State:** Documentation of Purpose, Practice, and Progress
 
@@ -110,7 +110,7 @@ The framework guides you through a three-phase process:
 ### Dimensional Lenses
 
 - **[Group Phase](group-phase/)** - Five developmental stages and their characteristics
-  - Conversation, Formation, Organization, Coordination, Completion
+  - Conversation, Formation, Organization, Iteration, Completion
 - **[Group Scale](group-scale/)** - Four scales and appropriate coordination mechanisms
   - Collaboration (< 10), Coordination (10-150), Constituency (100s+), Network
 
