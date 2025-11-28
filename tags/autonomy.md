@@ -8,9 +8,9 @@ aliases:
 publish: "true"
 ---
 
-_The capacity of individuals, groups, or systems to self-govern, make independent decisions, and act according to their own principles and judgments while remaining accountable for outcomes and participating in larger coordination frameworks._
+_The capacity of individuals, groups, or systems to self-govern, make independent decisions, and act according to their own principles and judgments while remaining accountable for outcomes and participating in larger [coordination](coordination.md) frameworks._
 
-Autonomy represents a fundamental quality in decentralized systems, balancing independence with interdependence. Unlike complete independence, which suggests isolation, autonomy acknowledges the context of relationships and networks within which self-determination occurs. In organizational and social contexts, autonomy enables distributed decision-making that can respond to local conditions while maintaining alignment with broader purposes and values.
+[Autonomy](autonomy.md) represents a fundamental quality in [decentralized](decentralization.md) systems, balancing independence with interdependence. Unlike complete independence, which suggests isolation, autonomy acknowledges the context of relationships and networks within which self-determination occurs. In organizational and social contexts, autonomy enables distributed [decision-making](decision-making.md) that can respond to local conditions while maintaining alignment with broader purposes and [values](values.md).
 
 The concept bridges individual agency with collective coordination, creating systems that can harness diverse perspectives and contextual intelligence without requiring top-down control. This quality is essential for creating resilient, adaptive organizations capable of responding to complexity and change while preserving coherence and purpose alignment.
 
@@ -20,9 +20,9 @@ The concept bridges individual agency with collective coordination, creating sys
 
 ### Autonomy in Decentralized Organizations
 
-In DAOs and other decentralized organizations, autonomy refers to the ability of individual contributors and teams to make decisions and take actions without requiring approval from a hierarchical management structure. This operational freedom is balanced through alignment mechanisms like shared purpose, transparent agreements, and distributed governance protocols rather than command-and-control directives.
+In [DAOs](daos.md) and other decentralized organizations, autonomy refers to the ability of individual contributors and teams to make decisions and take actions without requiring approval from a hierarchical management structure. This operational freedom is balanced through alignment mechanisms like shared purpose, transparent agreements, and distributed [governance](governance.md) protocols rather than command-and-control directives.
 
-As described in the DAO Primitives framework, DAOs function as "purpose-aligned networks of small autonomous teams" where each unit maintains decision-making independence while coordinating with others toward shared goals. This creates organizations that can simultaneously achieve focus through small team collaboration while leveraging network-scale coordination.
+As described in the [DAO Primitives framework](../artifacts/guides/dao-primitives-framework/index.md), DAOs function as "purpose-aligned networks of small autonomous teams" where each unit maintains decision-making independence while coordinating with others toward shared goals. This creates organizations that can simultaneously achieve focus through small team collaboration while leveraging network-scale coordination.
 
 ### Autonomy in Cell-Based Structures
 
@@ -30,11 +30,11 @@ Within the Cell working group pattern, autonomy is a defining characteristic tha
 
 This approach creates "networked autonomy" where Cells can make independent decisions about how to achieve their purpose while coordinating with other Cells through transparent state documentation and formal relationships. As described in the Cell working group documentation, this balanced approach "helps realize the benefits of decentralized organization while mitigating common failure modes."
 
-### Autonomy in Community Governance
+### Autonomy in [Community](community.md) Governance
 
-In the context of localism and community self-determination, autonomy refers to the capacity of communities to govern their own resources, infrastructure, and development according to local needs and values. This concept appears in both localism and cosmolocalism, where it represents a core quality of resilient community systems.
+In the context of localism and community self-determination, autonomy refers to the capacity of community to govern their own resources, infrastructure, and development according to local needs and values. This concept appears in both localism and cosmolocalism, where it represents a core quality of resilient community systems.
 
-Community autonomy is enhanced rather than diminished by appropriate connections to broader networks. As noted in the cosmolocalism tag, these approaches combine "resilient localized production with access to global knowledge commons and coordination protocols," enabling communities to "maintain autonomy while benefiting from global networks."
+Community autonomy is enhanced rather than diminished by appropriate connections to broader networks. As noted in the cosmolocalism tag, these approaches combine "resilient localized production with access to global knowledge commons and coordination protocols," enabling community to "maintain autonomy while benefiting from global networks."
 
 ### Autonomy in Technology and Privacy
 

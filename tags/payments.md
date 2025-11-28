@@ -11,11 +11,11 @@ publish: "true"
 type: tag
 ---
 
-_Payments are structured transfers of value between parties that enable resource allocation, compensation for contributions, and facilitation of exchange, forming the foundation of economic coordination in both traditional and decentralized systems._
+_Payments are structured transfers of value between parties that enable resource allocation, compensation for contributions, and facilitation of exchange, forming the foundation of economic [coordination](coordination.md) in both traditional and [decentralized](decentralization.md) systems._
 
 Payments represent a fundamental coordination mechanism that allows resources to flow between individuals, organizations, and systems. They serve as the practical implementation of value exchange, translating abstract worth into concrete transfers that participants can rely upon. While traditionally mediated through centralized financial institutions, emerging technologies have created new possibilities for more direct, transparent, and programmable payment systems.
 
-In decentralized contexts, payments take on additional dimensions beyond simple value transfer, becoming tools for incentive alignment, reputation building, and governance participation. The architecture of payment systems—including who can participate, how transfers are verified, and what conditions can be attached—fundamentally shapes power dynamics, inclusion, and opportunity within economic networks.
+In decentralized contexts, payments take on additional dimensions beyond simple value transfer, becoming tools for incentive alignment, reputation building, and [governance](governance.md) [participation](participation.md). The architecture of payment systems—including who can participate, how transfers are verified, and what conditions can be attached—fundamentally shapes [power](power.md) dynamics, inclusion, and opportunity within economic networks.
 
 ---
 
@@ -25,11 +25,11 @@ In decentralized contexts, payments take on additional dimensions beyond simple 
 
 In conventional financial systems, payments typically involve the transfer of fiat currency through regulated intermediaries like banks, payment processors, or money transfer services. These systems rely on centralized infrastructure, identity verification, and permissioned access, creating both security and barriers to entry. Traditional payment rails provide reliability and recourse but often exclude individuals without formal banking relationships and impose significant friction for cross-border transactions.
 
-These systems prioritize compliance, risk management, and service provider profitability, often at the expense of accessibility, privacy, and user autonomy. The resulting infrastructure creates systematic exclusion for underbanked populations and reinforces existing power imbalances in the global financial system.
+These systems prioritize compliance, risk management, and service provider profitability, often at the expense of accessibility, privacy, and user [autonomy](autonomy.md). The resulting infrastructure creates systematic exclusion for underbanked populations and reinforces existing power imbalances in the global financial system.
 
 ### Payments in Web3
 
-In web3 contexts, payments leverage blockchain technology to enable trustless, borderless, and programmable value transfer. These systems operate on open protocols that allow anyone with internet access to participate without requiring approval from centralized gatekeepers. The mechanisms include:
+In web3 contexts, payments leverage [blockchain](blockchain.md) technology to enable trustless, borderless, and programmable value transfer. These systems operate on open protocols that allow anyone with internet access to participate without requiring approval from centralized gatekeepers. The mechanisms include:
 
 - **Cryptocurrency Transfers**: Direct peer-to-peer payments using native blockchain assets
 - **Smart Contract Payments**: Programmable transfers with conditional logic and automated execution
@@ -37,9 +37,9 @@ In web3 contexts, payments leverage blockchain technology to enable trustless, b
 - **Cross-Chain Payments**: Interoperable transfers between different blockchain networks
 - **Layer 2 Solutions**: Scaling technologies that enable higher transaction throughput with lower fees
 
-Blockchain-based payments provide transparency, traceability, and immutability, creating verifiable records of resource flows. This infrastructure enables communities to develop novel economic models with reduced reliance on traditional financial intermediaries while potentially addressing issues of accountability that plague conventional funding channels.
+Blockchain-based payments provide [transparency](transparency.md), traceability, and immutability, creating verifiable records of resource flows. This infrastructure enables [community](community.md) to develop novel economic models with reduced reliance on traditional financial intermediaries while potentially addressing issues of accountability that plague conventional funding channels.
 
-### Payments in DAOs and Decentralized Organizations
+### Payments in [DAOs](daos.md) and Decentralized Organizations
 
 Within Decentralized Autonomous Organizations, payments serve multiple functions beyond simple value transfer:
 
@@ -48,7 +48,7 @@ Within Decentralized Autonomous Organizations, payments serve multiple functions
 - **Governance Incentives**: Aligning stakeholder interests through economic participation
 - **Protocol Rewards**: Automated distribution of value to participants who support network functions
 
-As described in the DAO Primitives framework, these payment mechanisms form part of the coordination infrastructure that allows decentralized teams to work together effectively without traditional managerial hierarchies. Effective payment systems create clear connections between contribution and compensation while maintaining flexibility for different types of value creation.
+As described in the [DAO Primitives framework](../artifacts/guides/dao-primitives-framework/index.md), these payment mechanisms form part of the coordination infrastructure that allows decentralized teams to work together effectively without traditional managerial hierarchies. Effective payment systems create clear connections between contribution and compensation while maintaining flexibility for different types of value creation.
 
 ### Payments in Social Impact
 
@@ -71,7 +71,7 @@ Emerging regenerative finance frameworks use payment mechanisms to address syste
 - **Community Currencies**: Local payment networks that strengthen regional economic resilience
 - **Commons Funding**: Mechanisms that direct resources toward shared infrastructure and public goods
 
-By reimagining how payments function, these systems attempt to align economic activity with broader social and environmental well-being rather than extracting value from communities and ecosystems.
+By reimagining how payments function, these systems attempt to align economic activity with broader social and environmental well-being rather than extracting value from community and ecosystems.
 
 ## Related Concepts
 

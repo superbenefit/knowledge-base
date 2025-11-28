@@ -20,9 +20,9 @@ Feminist Finance offers comprehensive resource hub and framework for understandi
 
 ### Key Highlights
 
-- **Care-Centered Economics**: Feminist Finance foregrounds social reproduction—the labor of sustaining human life through care, education, community-building—as foundation of all economic activity. This inverts conventional economics that treats care as externality, showing how financial systems depend on unpaid feminized labor while systematically devaluing it, creating alternative frameworks that center rather than marginalize care.
+- **Care-Centered Economics**: Feminist Finance foregrounds social reproduction—the labor of sustaining human life through care, education, [community](tags/community.md)-building—as foundation of all economic activity. This inverts conventional economics that treats care as externality, showing how financial systems depend on unpaid feminized labor while systematically devaluing it, creating alternative frameworks that center rather than marginalize care.
 
-- **Patriarchal Finance Critique**: The resources examine how financial systems embody patriarchal values: prioritizing individual accumulation over collective wellbeing, rewarding competition over cooperation, separating "productive" wage labor from "unproductive" care work, and extracting value from feminized and racialized labor while concentrating wealth among privileged men—revealing finance as gendered power system, not neutral mechanism.
+- **Patriarchal Finance Critique**: The resources examine how financial systems embody patriarchal values: prioritizing individual accumulation over collective wellbeing, rewarding competition over cooperation, separating "productive" wage labor from "unproductive" care work, and extracting value from feminized and racialized labor while concentrating wealth among privileged men—revealing finance as gendered [power](tags/power.md) system, not neutral mechanism.
 
 - **Alternative Financial Models**: Feminist Finance documents practical alternatives from community investment funds to rotating savings circles to platform cooperatives that redistribute financial power, showing how finance can serve community wealth-building and mutual support rather than extracting toward distant investors.
 
@@ -42,7 +42,7 @@ Feminist economics enables transformative approaches across financial contexts:
 
 - Policy advocates can draw on feminist economics when arguing for universal care infrastructure, showing how public investment in care creates economic foundation rather than drain, and how conventional GDP growth that depends on unpaid care labor fundamentally miscounts economic value
 
-- DAO designers can apply care-centered frameworks when creating tokenomics and governance systems, questioning whether coordination mechanisms reward care work, community-building, and relationship maintenance or only value easily quantifiable outputs while extracting from invisible labor
+- DAO designers can apply care-centered frameworks when creating tokenomics and [governance](tags/governance.md) systems, questioning whether [coordination](tags/coordination.md) mechanisms reward care work, community-building, and relationship maintenance or only value easily quantifiable outputs while extracting from invisible labor
 
 - Philanthropic organizations can use feminist finance principles to transform grantmaking, supporting care workers and social reproduction rather than privileging projects that fit conventional economic metrics, and redistributing decision-making power to communities providing care
 
@@ -55,3 +55,13 @@ Feminist economics enables transformative approaches across financial contexts:
 - The intersectional analysis provides framework for SuperBenefit's power-aware approach, showing how extraction operates through interlocking systems of patriarchy, colonialism, and racial capitalism—suggesting that genuinely regenerative coordination must address gender, race, and decolonization together rather than treating equity as separate concern to be added after technical design.
 
 - Feminist finance's emphasis on transformation over reform resonates with SuperBenefit's commitment to alternatives beyond platform capitalism, validating the conviction that Web3 coordination cannot merely redistribute who benefits from extraction but must fundamentally reorganize around care, interdependence, and collective flourishing rather than individual accumulation.
+
+---
+
+## Related Concepts
+
+- [ReFi](tags/refi.md) - Regenerative finance and alternative economics
+- [Coordination](tags/coordination.md) - Mechanisms for resource allocation
+- [Community](tags/community.md) - Local and regional organizing
+- [Sustainability](tags/sustainability.md) - Ecological and social resilience
+- [Governance](tags/[governance](tags/governance.md).md) - Decision-making about resource distribution

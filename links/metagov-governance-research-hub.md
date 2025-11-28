@@ -19,19 +19,19 @@ tags:
   - governance-tools
 ---
 
-Metagov stands as the preeminent interdisciplinary research hub for online governance, bringing together computer scientists, political theorists, economists, and practitioners to advance both theoretical understanding and practical tools for collective decision-making. Founded by leading researchers including Joshua Tan, Nathan Schneider, and Amy X. Zhang, the project bridges academic rigor with hands-on development, creating both scholarly publications and open-source governance infrastructure. Metagov's work spans DAOs, platform cooperatives, online communities, and civic tech, offering frameworks, tools, and research that ground governance innovation in evidence rather than speculation—making it essential reference for anyone building or studying decentralized coordination systems.
+Metagov stands as the preeminent interdisciplinary research hub for online [governance](tags/governance.md), bringing together computer scientists, political theorists, economists, and practitioners to advance both theoretical understanding and practical tools for collective [decision-making](tags/decision-making.md). Founded by leading researchers including Joshua Tan, Nathan Schneider, and Amy X. Zhang, the project bridges academic rigor with hands-on development, creating both scholarly publications and open-source governance infrastructure. Metagov's work spans [DAOs](tags/daos.md), platform cooperatives, online [community](tags/community.md), and civic tech, offering frameworks, tools, and research that ground governance innovation in evidence rather than speculation—making it essential reference for anyone building or studying [decentralized](tags/decentralization.md) [coordination](tags/coordination.md) systems.
 
 ### Key Highlights
 
-- **Interdisciplinary Governance Research**: Metagov synthesizes insights from computer science, political science, economics, law, and anthropology to understand governance as complex socio-technical challenge. This integration overcomes limitations of single-discipline approaches that miss how technical design, power dynamics, and collective behavior interact.
+- **Interdisciplinary Governance Research**: Metagov synthesizes insights from computer science, political science, economics, law, and anthropology to understand governance as complex socio-technical challenge. This integration overcomes limitations of single-discipline approaches that miss how technical design, [power](tags/power.md) dynamics, and collective behavior interact.
 
-- **Governance Standards and Interoperability**: The organization develops open standards for governance tools, enabling interoperability across platforms so communities can combine different decision-making mechanisms rather than being locked into single systems. This "governance OS" vision treats democratic processes as composable infrastructure.
+- **Governance Standards and Interoperability**: The organization develops open standards for governance tools, enabling interoperability across platforms so community can combine different decision-making mechanisms rather than being locked into single systems. This "governance OS" vision treats democratic processes as composable infrastructure.
 
-- **Empirical Governance Research**: Unlike speculative governance discourse, Metagov conducts systematic empirical studies of how online communities actually govern themselves, documenting what works, what fails, and under which conditions—building evidence base for institutional design choices.
+- **Empirical Governance Research**: Unlike speculative governance discourse, Metagov conducts systematic empirical studies of how online community actually govern themselves, documenting what works, what fails, and under which conditions—building evidence base for institutional design choices.
 
 - **Practical Tools and Frameworks**: The project creates open-source governance tools including PolicyKit (modular governance for online communities), govbase (database of governance systems), and frameworks like "design patterns for decentralized organizations" that practitioners can implement immediately.
 
-- **Democratic Legitimacy**: Metagov explicitly addresses how online governance can achieve democratic legitimacy—meaningful participation, accountability, transparency—rather than assuming technical decentralization automatically produces democracy. This focus on substance over form challenges superficial decentralization.
+- **Democratic Legitimacy**: Metagov explicitly addresses how online governance can achieve democratic legitimacy—meaningful [participation](tags/participation.md), accountability, [transparency](tags/transparency.md)—rather than assuming technical decentralization automatically produces democracy. This focus on substance over form challenges superficial decentralization.
 
 - **Cross-Platform Governance**: The work explores how governance can operate across multiple platforms and communities rather than within single silos, developing frameworks for federated decision-making and inter-community coordination that mirror real-world polycentricity.
 
@@ -59,8 +59,18 @@ The combination of tools, research, and frameworks makes Metagov immediately val
 
 ### Connection With SuperBenefit
 
-- Metagov's interdisciplinary governance research provides scholarly foundation for SuperBenefit's DAO primitives work, offering empirical evidence about what coordination mechanisms actually work rather than theoretical speculation—the systematic documentation of governance patterns across platforms enables evaluating design choices based on documented successes and failures instead of reinventing from first principles.
+- Metagov's interdisciplinary governance research provides scholarly foundation for SuperBenefit's DAO [primitives](tags/primitives.md) work, offering empirical evidence about what coordination mechanisms actually work rather than theoretical speculation—the systematic documentation of governance patterns across platforms enables evaluating design choices based on documented successes and failures instead of reinventing from first principles.
 
 - The emphasis on governance standards and composable tools directly aligns with SuperBenefit's pattern-based approach, showing how reusable coordination primitives can enable communities to combine different mechanisms based on context rather than being locked into monolithic governance systems—Metagov's "governance OS" vision mirrors SuperBenefit's commitment to adaptable infrastructure over prescriptive frameworks.
 
-- Metagov's focus on democratic legitimacy through meaningful participation and accountability grounds SuperBenefit's understanding that technical decentralization doesn't automatically produce democratic outcomes—coordination systems must be designed for genuine power distribution, not just assumed to be democratic because they use blockchain.
+- Metagov's focus on democratic legitimacy through meaningful participation and accountability grounds SuperBenefit's understanding that technical decentralization doesn't automatically produce democratic outcomes—coordination systems must be designed for genuine power distribution, not just assumed to be democratic because they use [blockchain](tags/blockchain.md).
+
+---
+
+## Related Concepts
+
+- [Governance](tags/governance.md) - Research focus and tool development area
+- [DAOs](tags/daos.md) - Organizations studied and supported by Metagov
+- [Coordination](tags/coordination.md) - Collective decision-making mechanisms researched
+- [Frameworks](tags/frameworks.md) - Design patterns and standards developed
+- [DAO Primitives Framework](notes/dao-primitives/index.md) - Informed by Metagov research

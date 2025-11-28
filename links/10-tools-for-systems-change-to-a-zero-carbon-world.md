@@ -21,13 +21,13 @@ tags:
 - **Iceberg Model**: This fundamental systems thinking tool reveals the deeper structures beneath visible events, highlighting how patterns, systemic structures, and mental models must be addressed for genuine transformation rather than merely responding to surface-level symptoms.
 - **Three Horizons Framework**: A method for conceptualizing transformation as the interaction between the declining first horizon (business-as-usual), the emerging third horizon (the sustainable future), and the transitional second horizon (innovation and adaptation). This approach helps balance immediate needs with long-term vision.
 - **Transformative Scenarios**: The toolkit presents approaches for developing narratives about possible futures that challenge assumptions and create shared understanding among diverse stakeholders, moving beyond prediction to actively shaping desirable outcomes.
-- **Power & Systems Mapping**: Practical approaches for visualizing system dynamics and power relationships, revealing hidden connections, feedback loops, and leverage points that might otherwise remain invisible to change-makers.
+- **[Power](tags/power.md) & Systems Mapping**: Practical approaches for visualizing system dynamics and power relationships, revealing hidden connections, feedback loops, and leverage points that might otherwise remain invisible to change-makers.
 
 ### Practical Applications
 
 These tools can be applied in various contexts to:
 
-- Help communities diagnose root causes of sustainability challenges rather than merely addressing symptoms
+- Help [community](tags/community.md) diagnose root causes of sustainability challenges rather than merely addressing symptoms
 - Guide organizations in developing strategic interventions that account for system dynamics and potential unintended consequences
 - Facilitate multi-stakeholder dialogues that build shared understanding across different perspectives and interests
 - Identify leverage points where relatively small interventions might catalyze system-wide change
@@ -45,3 +45,11 @@ The tools are designed to be accessible to non-specialists while still providing
 ---
 
 ![](attachments/10-tools-for-systems-change-to-a-zero-carbon-world.pdf)
+---
+
+## Related Concepts
+
+- [Coordination](tags/coordination.md) - Systems change requires coordination
+- [Governance](tags/governance.md) - Decision-making for systems transformation
+- [DAOs](tags/daos.md) - Organizational forms for collective action
+- [Teams](tags/teams.md) - Groups working on systems change

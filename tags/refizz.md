@@ -17,7 +17,7 @@ _Refizz is the deliberate process of iterating on and improving existing content
 
 In collaborative knowledge environments, refizzing serves as a vital practice that transforms initial drafts or complex ideas into more refined, accessible, and impactful resources. Unlike simple editing which focuses primarily on correctness and style, refizzing involves a more holistic transformation that considers the end user's needs, the broader context, and the ultimate purpose of the information. This practice acknowledges that knowledge creation is iterative and that initial documentation often benefits from focused refinement to reach its full potential.
 
-The concept embodies the spirit of continuous improvement that characterizes effective knowledge communities. By normalizing and celebrating the refizzing process, organizations create a culture where ideas are allowed to evolve through collaboration rather than emerging fully-formed. This approach reduces barriers to initial contribution while ensuring that collective intelligence can be applied to enhance and clarify information over time, resulting in knowledge assets that benefit from diverse perspectives and experiences.
+The concept embodies the spirit of continuous improvement that characterizes effective knowledge [community](community.md). By normalizing and celebrating the refizzing process, organizations create a culture where ideas are allowed to evolve through collaboration rather than emerging fully-formed. This approach reduces barriers to initial contribution while ensuring that collective intelligence can be applied to enhance and clarify information over time, resulting in knowledge assets that benefit from diverse perspectives and experiences.
 
 ---
 
@@ -31,13 +31,13 @@ Knowledge workers use refizzing to transform initial brain dumps, meeting notes,
 
 ### Refizz in Collaborative Documentation
 
-Within collaborative teams and communities, refizzing serves as a community practice where members improve each other's contributions without diminishing the value of initial documentation efforts. This collaborative approach to refinement allows specialists to contribute domain expertise while enabling others to enhance how that information is structured and presented.
+Within collaborative teams and community, refizzing serves as a community practice where members improve each other's contributions without diminishing the value of initial documentation efforts. This collaborative approach to refinement allows specialists to contribute domain expertise while enabling others to enhance how that information is structured and presented.
 
 As seen in the SuperBenefit community's practices, members explicitly "do a refizz" on documents, reports, and knowledge assets to simplify concepts, improve clarity, and ensure information serves its intended purpose. This normalized practice creates psychological safety around sharing early-stage work with the understanding that collective refizzing will enhance rather than replace individual contributions.
 
 ### Refizz in DAO Operations
 
-In decentralized autonomous organization (DAO) contexts, refizzing plays a particularly important role in governance documentation and proposal development. As DAOs operate through distributed decision-making processes, clear documentation becomes essential for informed participation.
+In [decentralized](decentralization.md) autonomous organization (DAO) contexts, refizzing plays a particularly important role in [governance](governance.md) documentation and proposal development. As [DAOs](daos.md) operate through distributed [decision-making](decision-making.md) processes, clear documentation becomes essential for informed [participation](participation.md).
 
 Refizzing governance documents, proposals, and technical specifications helps ensure that diverse stakeholders with varying levels of context can meaningfully engage with important decisions. The practice supports more inclusive governance by transforming specialist knowledge into formats accessible to the broader community while maintaining accuracy and depth.
 

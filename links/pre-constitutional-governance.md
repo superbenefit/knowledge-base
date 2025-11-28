@@ -23,7 +23,7 @@ phase:
   - formation
 ---
 
-This article introduces a foundational framework for groups moving from unstructured beginnings to formal governance. It emphasizes the importance of transparent, well-documented decisions to ensure legitimacy and reduce ambiguities that could impact future operations. It also provides a flexible, platform-independent template to help establish essential governance procedures as a stable starting point.
+This article introduces a foundational framework for groups moving from unstructured beginnings to formal [governance](tags/governance.md). It emphasizes the importance of transparent, well-documented decisions to ensure legitimacy and reduce ambiguities that could [impact](tags/impact.md) future operations. It also provides a flexible, platform-independent template to help establish essential governance procedures as a stable starting point.
 
 ### Sumamry
 
@@ -34,7 +34,7 @@ Some key points include:
 #### Initial Consensus Challenges
 Explores the difficulties unstructured groups face in establishing consensus on basic decisions due to the lack of formal procedures.
 
-#### Transparency for Legitimacy
+#### [Transparency](tags/transparency.md) for Legitimacy
 Highlights the importance of making early decisions transparent and well-documented to establish legitimacy and build trust within the organization.
 
 #### Risks of Informal Governance
@@ -58,7 +58,7 @@ The article proposes a framework similar to this
   *Individuals approved to submit proposals, such as core team members.*
 
 - **Vote-Authorized Person**  
-  *Individuals permitted to vote on proposals, like community participants.*
+  *Individuals permitted to vote on proposals, like [community](tags/community.md) participants.*
 
 - **Designated Drafting Platform**  
   *The specified platform used for drafting and editing proposals, e.g., Google Docs.*
@@ -123,3 +123,12 @@ The article proposes a framework similar to this
 
 - **Revised Proposals**  
   *If a proposal is rejected, it can be modified and submitted for a new vote.*
+---
+
+## Related Concepts
+
+- [Governance](tags/governance.md) - Decision-making frameworks
+- [DAOs](tags/daos.md) - Organizations exploring these governance models
+- [Community Governance](artifacts/patterns/community-governance.md) - Constituency-scale governance patterns
+- [Coordination](tags/coordination.md) - Collective coordination mechanisms
+- [Primitives](tags/primitives.md) - Building blocks for governance systems

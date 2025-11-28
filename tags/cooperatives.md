@@ -13,11 +13,11 @@ aliases:
 publish: true
 ---
 
-_A cooperative is an autonomous association of persons who voluntarily unite to meet their common economic, social, and cultural needs and aspirations through a jointly owned and democratically controlled enterprise, operating according to internationally recognized principles of member ownership, democratic governance, and equitable distribution of benefits._
+_A cooperative is an autonomous association of persons who voluntarily unite to meet their common economic, social, and cultural needs and aspirations through a jointly owned and democratically controlled enterprise, operating according to internationally recognized principles of member ownership, democratic [governance](governance.md), and equitable distribution of benefits._
 
-Cooperatives represent a fundamentally different approach to enterprise ownership and governance than conventional businesses. Unlike investor-owned firms that concentrate control and direct benefits primarily to external shareholders, cooperatives distribute both ownership and decision-making power across their membership, who may be workers, consumers, producers, or other stakeholders directly engaged with the enterprise. This structure creates organizations inherently oriented toward serving member needs rather than maximizing financial returns for investors, establishing operational accountability to the people most affected by the enterprise's activities.
+Cooperatives represent a fundamentally different approach to enterprise ownership and governance than conventional businesses. Unlike investor-owned firms that concentrate control and direct benefits primarily to external shareholders, cooperatives distribute both ownership and [decision-making](decision-making.md) [power](power.md) across their membership, who may be workers, consumers, producers, or other stakeholders directly engaged with the enterprise. This structure creates organizations inherently oriented toward serving member needs rather than maximizing financial returns for investors, establishing operational accountability to the people most affected by the enterprise's activities.
 
-In practice, cooperatives operationalize their principles through specific governance mechanisms, including one-member-one-vote democratic control, transparent decision-making processes, limits on external capital influence, and equitable distribution of surpluses. These structures create enterprises capable of balancing economic viability with social purpose, addressing market failures where conventional firms fall short, and building resilient community wealth. While cooperative principles remain consistent across contexts, cooperatives manifest in diverse forms—from small worker-owned businesses to large agricultural producer co-ops to community-owned utilities—each adapting the model to specific member needs and conditions.
+In practice, cooperatives operationalize their principles through specific governance mechanisms, including one-member-one-vote democratic control, transparent decision-making processes, limits on external capital influence, and equitable distribution of surpluses. These structures create enterprises capable of balancing economic viability with social purpose, addressing market failures where conventional firms fall short, and building resilient [community](community.md) wealth. While cooperative principles remain consistent across contexts, cooperatives manifest in diverse forms—from small worker-owned businesses to large agricultural producer co-ops to community-owned utilities—each adapting the model to specific member needs and conditions.
 
 ---
 
@@ -37,7 +37,7 @@ These cooperatives implement democratic governance through membership systems th
 
 ### Producer Cooperatives
 
-Producer cooperatives unite individual producers—such as farmers, artisans, or independent professionals—who collectively own enterprises for processing, marketing, or distributing their products. This model creates economies of scale and market access while preserving individual autonomy.
+Producer cooperatives unite individual producers—such as farmers, artisans, or independent professionals—who collectively own enterprises for processing, marketing, or distributing their products. This model creates economies of scale and market access while preserving individual [autonomy](autonomy.md).
 
 These cooperatives typically allocate voting rights and distribute benefits based on member patronage, creating proportional influence while maintaining democratic principles. They are particularly common in agriculture, enabling family farms to access processing facilities, distribution networks, and marketing capabilities that would be inaccessible to individual producers.
 
@@ -45,17 +45,17 @@ These cooperatives typically allocate voting rights and distribute benefits base
 
 Platform cooperatives apply cooperative principles to digital platforms, creating alternatives to venture capital-funded platform companies. These enterprises develop technologies owned and controlled by the users, workers, and other stakeholders who depend on and contribute value to the platform.
 
-This model addresses critiques of the dominant platform economy by ensuring value flows to the communities that generate it rather than being extracted by external investors. Platform cooperatives use blockchain and Web3 technologies to enable transparent governance and value distribution, creating digital commons that serve community needs while maintaining technical innovation.
+This model addresses critiques of the dominant platform economy by ensuring value flows to the community that generate it rather than being extracted by external investors. Platform cooperatives use [blockchain](blockchain.md) and Web3 technologies to enable transparent governance and value distribution, creating digital commons that serve community needs while maintaining technical innovation.
 
 ## Cooperatives and Web3
 
-The convergence of cooperative principles with Web3 technologies creates possibilities for reinventing economic relationships in digital space. Blockchain provides technical infrastructure for cooperative principles like democratic control and economic participation, while smart contracts can encode operational rules and automate processes like profit distribution according to democratically established parameters.
+The convergence of cooperative principles with Web3 technologies creates possibilities for reinventing economic relationships in digital space. Blockchain provides technical infrastructure for cooperative principles like democratic control and economic [participation](participation.md), while smart contracts can encode operational rules and automate processes like profit distribution according to democratically established parameters.
 
-Web3 technologies enable cooperatives to overcome geographic limitations, creating global networks united by shared purpose rather than location. These systems can incorporate both formal membership and more permeable participation structures, using reputation systems to distribute governance rights and economic benefits across diverse contributor communities.
+Web3 technologies enable cooperatives to overcome geographic limitations, creating global networks united by shared purpose rather than location. These systems can incorporate both formal membership and more permeable participation structures, using reputation systems to distribute governance rights and economic benefits across diverse contributor community.
 
-## Cooperatives and DAOs
+## Cooperatives and [DAOs](daos.md)
 
-Cooperatives and Decentralized Autonomous Organizations (DAOs) represent distinct but convergent approaches to democratic ownership and governance. While traditional cooperatives operate through legally recognized structures within national jurisdictions, DAOs implement similar principles through blockchain-based smart contracts and token governance, often operating across jurisdictional boundaries.
+Cooperatives and [Decentralized](decentralization.md) Autonomous Organizations (DAOs) represent distinct but convergent approaches to democratic ownership and governance. While traditional cooperatives operate through legally recognized structures within national jurisdictions, DAOs implement similar principles through blockchain-based smart contracts and token governance, often operating across jurisdictional boundaries.
 
 Key differences include cooperatives' emphasis on face-to-face relationships and one-member-one-vote principles versus DAOs' capacity for coordinating globally distributed participants, often through token-weighted voting. Cooperatives benefit from established legal frameworks but face capital constraints, while DAOs enable rapid capital formation through tokenization but operate in evolving regulatory environments.
 

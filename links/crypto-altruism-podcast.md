@@ -15,13 +15,13 @@ tags:
   - impact-interviews
 ---
 
-Crypto Altruism Podcast provides extensive documentation of blockchain social impact through interviews with practitioners, researchers, and community leaders using crypto technologies for humanitarian, environmental, and social justice purposes. The podcast explores diverse applications from refugee financial inclusion to environmental conservation funding to transparent charitable giving, showing how blockchain mechanisms serve real social needs beyond financial speculation. Rather than uncritical celebration or categorical dismissal, the podcast offers nuanced examination of both genuine innovations and persistent challenges in applying decentralized technologies to complex social problems. This creates accessible resource for understanding crypto social impact landscape through practitioner voices.
+Crypto Altruism Podcast provides extensive documentation of [blockchain](tags/blockchain.md) social [impact](tags/impact.md) through interviews with practitioners, researchers, and [community](tags/community.md) leaders using crypto technologies for humanitarian, environmental, and social justice purposes. The podcast explores diverse applications from refugee financial inclusion to environmental conservation funding to transparent charitable giving, showing how blockchain mechanisms serve real social needs beyond financial speculation. Rather than uncritical celebration or categorical dismissal, the podcast offers nuanced examination of both genuine innovations and persistent challenges in applying [decentralized](tags/decentralization.md) technologies to complex social problems. This creates accessible resource for understanding crypto social impact landscape through practitioner voices.
 
 ### Key Highlights
 
 - **Practitioner Perspectives**: The podcast centers voices of those actually implementing blockchain for social impact, providing ground-level insights about what works, what challenges emerge, and how technologies serve or complicate community needs.
 
-- **Diverse Applications**: Episodes span humanitarian aid, environmental conservation, financial inclusion, supply chain transparency, charitable giving, and other impact domains—showing breadth of crypto social applications beyond single use case.
+- **Diverse Applications**: Episodes span humanitarian aid, environmental conservation, financial inclusion, supply chain [transparency](tags/transparency.md), charitable giving, and other impact domains—showing breadth of crypto social applications beyond single use case.
 
 - **Critical Examination**: Rather than promotional content, the podcast explores both successes and failures, persistent barriers and genuine innovations—offering honest assessment valuable for learning rather than marketing.
 
@@ -47,8 +47,18 @@ This podcast enables crypto social impact learning:
 
 ### Connection With SuperBenefit
 
-- Crypto Altruism Podcast's documentation of diverse blockchain social impact applications provides examples for SuperBenefit to understand how coordination primitives serve varied missions beyond generic DAO use cases—showing that effective tools should accommodate different organizational needs from humanitarian aid to environmental conservation to community organizing.
+- Crypto Altruism Podcast's documentation of diverse blockchain social impact applications provides examples for SuperBenefit to understand how [coordination](tags/coordination.md) [primitives](tags/primitives.md) serve varied missions beyond generic DAO use cases—showing that effective tools should accommodate different organizational needs from humanitarian aid to environmental conservation to community organizing.
 
-- The podcast's critical examination balancing successes with failures resonates with SuperBenefit's commitment to honest assessment rather than promotional hype, demonstrating that genuinely serving communities requires acknowledging both innovations and persistent challenges instead of amplifying only positive examples that could mislead practitioners.
+- The podcast's critical examination balancing successes with failures resonates with SuperBenefit's commitment to honest assessment rather than promotional hype, demonstrating that genuinely serving community requires acknowledging both innovations and persistent challenges instead of amplifying only positive examples that could mislead practitioners.
 
 - Crypto Altruism's practitioner-centered approach validates SuperBenefit's conviction that coordination primitive development should center community voices and ground-level implementation experience rather than only technical builders' perspectives—showing that effective tools emerge from dialogue with those using them for actual social impact work.
+
+---
+
+## Related Concepts
+
+- [Impact](tags/impact.md) - Social and environmental outcomes explored
+- [DAOs](tags/daos.md) - Organizations creating collective impact
+- [Coordination](tags/coordination.md) - Mechanisms enabling impact work
+- [ReFi](tags/refi.md) - Regenerative finance approaches
+- [Public Goods](tags/public-goods.md) - Collective benefit creation

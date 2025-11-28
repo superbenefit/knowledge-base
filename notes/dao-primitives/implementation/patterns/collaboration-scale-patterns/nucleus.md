@@ -92,25 +92,25 @@ Here are some guidelines for creating an effective team/group nucleus:
 
 ---
 
+## Implementation in Patterns
+
+The nucleus primitive is implemented in several patterns:
+
+- **[Cell State](artifacts/patterns/cell-state.md)** - Uses nucleus as the foundational primitive for capturing and managing group state in cells
+- **[Cell Working Group](artifacts/patterns/cell.md)** - Cells use nucleus (through Cell State) to document their purpose, practice, and progress
+
+---
+
+## Related Concepts
+
+- [Teams](tags/teams.md) - Small autonomous groups that use nucleus to document their state
+- [Coordination](tags/coordination.md) - Nucleus enables coordination by providing transparent group state
+- [Governance](tags/governance.md) - State documentation supports governance practices
+- [Cell State](artifacts/patterns/cell-state.md) - The pattern that implements nucleus for cells
+- [Group State](artifacts/guides/dao-primitives-framework/group-state.md) - Framework concept that nucleus embodies
+
+---
+
 ## Reviews and Case Studies
 
-  [OpenCivics Collaborative Initiative – Specification Template](https://github.com/superbenefit/knowledge-base/blob/main/links/OpenCivics%20Collaborative%20Initiative%20%E2%80%93%20Specification%20Template.md)
-
-[state](notes/rpp/rpp-working-docs/state.md)
-
-State - pattern (to be created)
-
----
-
-## Additional Resources
-
-
----
-
-description
-
-%% Introduce your note here. %%
-
----
-
-%% Write the body of your note here %%
+[OpenCivics Collaborative Initiative – Specification Template](https://github.com/superbenefit/knowledge-base/blob/main/links/OpenCivics%20Collaborative%20Initiative%20%E2%80%93%20Specification%20Template.md)

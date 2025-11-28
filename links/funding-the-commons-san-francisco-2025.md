@@ -1,6 +1,6 @@
 ---
 title: Funding the Commons - San Francisco 2025
-description: Major public goods funding initiative and conference bringing together researchers, practitioners, and funders exploring mechanisms for sustaining commons through novel funding approaches including retroactive rewards and quadratic mechanisms.
+description: Major [public goods](tags/public-goods.md) funding initiative and conference bringing together researchers, practitioners, and funders exploring mechanisms for sustaining commons through novel funding approaches including retroactive rewards and quadratic mechanisms.
 publish: true
 type: conference-initiative
 source: https://www.fundingthecommons.io/sf-2025
@@ -15,7 +15,7 @@ tags:
   - retroactive-funding
 ---
 
-Funding the Commons represents major initiative addressing chronic underfunding of public goods through research, experimentation, and community-building around novel funding mechanisms. The San Francisco 2025 conference and broader initiative bring together diverse stakeholders—from crypto developers to traditional funders to academic researchers—exploring how retroactive rewards, quadratic funding, impact certificates, and other approaches can sustain commons that conventional markets systematically undervalue. Rather than accepting that public goods require perpetual philanthropy or government funding, the initiative explores mechanisms creating sustainable support for open-source software, research, environmental restoration, and knowledge commons that benefit all while belonging to none.
+Funding the Commons represents major initiative addressing chronic underfunding of [public goods](tags/public-goods.md) through research, experimentation, and [community](tags/community.md)-building around novel funding mechanisms. The San Francisco 2025 conference and broader initiative bring together diverse stakeholders—from crypto developers to traditional funders to academic researchers—exploring how retroactive rewards, quadratic funding, [impact](tags/impact.md) certificates, and other approaches can sustain commons that conventional markets systematically undervalue. Rather than accepting that public goods require perpetual philanthropy or government funding, the initiative explores mechanisms creating sustainable support for open-source software, research, environmental restoration, and knowledge commons that benefit all while belonging to none.
 
 ### Key Highlights
 
@@ -25,7 +25,7 @@ Funding the Commons represents major initiative addressing chronic underfunding 
 
 - **Mechanism Experimentation**: The conference and associated work document real-world experiments with retroactive funding, quadratic mechanisms, impact certificates, and other approaches—providing empirical grounding rather than only theoretical speculation.
 
-- **Research-Practice Integration**: The initiative combines academic research on commons governance with practitioner knowledge about actual implementation challenges, creating dialogue between theoretical frameworks and operational realities.
+- **Research-Practice Integration**: The initiative combines academic research on commons [governance](tags/governance.md) with practitioner knowledge about actual implementation challenges, creating dialogue between theoretical frameworks and operational realities.
 
 - **Community Building**: Beyond individual events, Funding the Commons cultivates ongoing community of those working on public goods sustainability, creating networks for knowledge sharing and collaboration across organizations and geographies.
 
@@ -51,4 +51,14 @@ This initiative enables public goods funding advancement:
 
 - The initiative's cross-sector approach validates SuperBenefit's conviction that learning should span traditional and blockchain contexts rather than treating Web3 as isolated domain—showing that effective commons funding draws on governance patterns, economic frameworks, and practical knowledge across philanthropic, policy, and crypto-native approaches.
 
-- Funding the Commons' integration of research with practice provides model for how SuperBenefit can ensure coordination primitives emerge from systematic study of what works rather than theoretical ideals—demonstrating that genuine innovation requires dialogue between academic frameworks and operational implementation challenges.
+- Funding the Commons' integration of research with practice provides model for how SuperBenefit can ensure [coordination](tags/coordination.md) primitives emerge from systematic study of what works rather than theoretical ideals—demonstrating that genuine innovation requires dialogue between academic frameworks and operational implementation challenges.
+
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Organizations and communities discussed
+- [Coordination](tags/[coordination](tags/coordination.md).md) - Mechanisms for collective action
+- [Governance](tags/[governance](tags/governance.md).md) - Decision-making in funding contexts
+- [Public Goods](tags/public-goods.md) - Commons funding approaches
+- [Impact](tags/[impact](tags/impact.md).md) - Outcomes and value creation

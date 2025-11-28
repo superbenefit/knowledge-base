@@ -31,17 +31,17 @@ The [dao-primitives-concepts](artifacts/dao-primitives-framework/dao-primitives-
 3. **Constituency Scale**: Large communities of hundreds to thousands of stakeholders engaging through representative mechanisms, network governance, and shared infrastructure. These groups make fundamental direction-setting decisions and steward collective resources.
     
 
-As Building DAOs as scalable networks explains, effective decentralized organizations design appropriate governance and coordination mechanisms for each scale, creating harmonious systems that "leverage mechanisms that derive collective intelligence from the three different scales that a DAO network operates across."
+As [Building DAOs as scalable networks](../artifacts/articles/network-evolution/Building DAOs as scalable networks.md) explains, effective decentralized organizations design appropriate governance and coordination mechanisms for each scale, creating harmonious systems that "leverage mechanisms that derive collective intelligence from the three different scales that a DAO network operates across."
 
 ### Groups in the Cell Model
 
-The Cell model, described in DAOs - From fractal primitives to network scale, views groups as the fundamental building blocks of network organizations. Each cell represents an autonomous group that maintains its internal coherence while connecting to others through transparent agreements and shared purpose.
+The Cell model, described in [DAOs - From fractal primitives to network scale](../artifacts/articles/network-evolution/DAOs - From fractal primitives to network scale..md), views groups as the fundamental building blocks of network organizations. Each cell represents an autonomous group that maintains its internal coherence while connecting to others through transparent agreements and shared purpose.
 
 This model enables what the framework calls "DAOs as fractal networks of connected cells" where small autonomous teams self-organize around opportunities while remaining aligned with network-wide direction. The relationship between cells is neither hierarchical nor completely independent, but rather based on mutual agreements that establish how groups will coordinate while preserving their autonomy.
 
 ### Groups in Developmental Phases
 
-Groups evolve through distinct developmental phases as they mature, each characterized by different priorities, activities, and coordination mechanisms. The DAO Primitives Framework identifies four key phases:
+Groups evolve through distinct developmental phases as they mature, each characterized by different priorities, activities, and coordination mechanisms. The [DAO Primitives framework](../artifacts/guides/dao-primitives-framework/index.md) identifies four key phases:
 
 1. **Conversation Phase**: Exploratory dialogue focused on building relationships, establishing shared context, and identifying potential areas for collaboration.
     

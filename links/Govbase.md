@@ -7,7 +7,16 @@ tags:
 publish: "true"
 ---
 
-A [warehouse of datasets](https://airtable.com/appx3e9Przn9iprkU/shrgnUrj0dqzZDsOd/tblXLaQeoKygb4ais/viw3rNQQfK1S6ipfe) related to online [community governance](artifacts/dao-primitives-framework/patterns/community-governance.md), by [Metagov](links/Metagov.md).
+A [warehouse of datasets](https://airtable.com/appx3e9Przn9iprkU/shrgnUrj0dqzZDsOd/tblXLaQeoKygb4ais/viw3rNQQfK1S6ipfe) related to online [community [governance](tags/governance.md)](artifacts/patterns/[community](tags/community.md)-governance.md), by [Metagov](links/Metagov.md).
 
 ---
 
+
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Decentralized organizations this resource discusses
+- [Governance](tags/governance.md) - Decision-making frameworks and practices
+- [Coordination](tags/coordination.md) - Mechanisms for collective action
+- [Primitives](tags/primitives.md) - Building blocks for decentralized organization

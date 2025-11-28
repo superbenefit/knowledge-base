@@ -15,7 +15,7 @@ tags:
   - financial-reform
 ---
 
-Club of Rome's Changing Finance report provides comprehensive analysis of how financial systems must transform to enable ecological sustainability and social equity, showing that current finance structures drive extraction incompatible with planetary boundaries and collective wellbeing. The report examines how growth imperatives, short-term profit maximization, and shareholder primacy embedded in contemporary finance systematically reward environmental destruction and social exploitation while punishing regenerative practices. Rather than incremental reform, the analysis calls for fundamental restructuring of financial incentives, governance, and purpose—showing what alternative finance oriented toward long-term sustainability and community benefit would require. This provides theoretical grounding and policy recommendations for financial transformation.
+Club of Rome's Changing Finance report provides comprehensive analysis of how financial systems must transform to enable ecological sustainability and social equity, showing that current finance structures drive extraction incompatible with planetary boundaries and collective wellbeing. The report examines how growth imperatives, short-term profit maximization, and shareholder primacy embedded in contemporary finance systematically reward environmental destruction and social exploitation while punishing regenerative practices. Rather than incremental reform, the analysis calls for fundamental restructuring of financial incentives, [governance](tags/governance.md), and purpose—showing what alternative finance oriented toward long-term sustainability and [community](tags/community.md) benefit would require. This provides theoretical grounding and policy recommendations for financial transformation.
 
 ### Key Highlights
 
@@ -47,8 +47,18 @@ This report enables financial system transformation:
 
 ### Connection With SuperBenefit
 
-- Club of Rome's analysis of how financial structures drive extraction provides context for SuperBenefit's regenerative economics work, showing that genuinely transformative coordination requires addressing systemic financial incentives rewarding growth and short-term profit over collective wellbeing and ecological sustainability—suggesting that DAO economics should be evaluated for whether they reproduce extractive imperatives or enable alternatives.
+- Club of Rome's analysis of how financial structures drive extraction provides context for SuperBenefit's regenerative economics work, showing that genuinely transformative [coordination](tags/coordination.md) requires addressing systemic financial incentives rewarding growth and short-term profit over collective wellbeing and ecological sustainability—suggesting that DAO economics should be evaluated for whether they reproduce extractive imperatives or enable alternatives.
 
 - The report's emphasis on stakeholder governance beyond shareholder primacy resonates with SuperBenefit's exploration of multi-stakeholder coordination, demonstrating that regenerative economics requires governance including diverse affected parties rather than only capital owners—validating that DAO primitives should enable participation beyond token holdings.
 
 - Club of Rome's systems perspective validates SuperBenefit's understanding that coordination transformation connects with broader systems change, showing that financial alternatives alone prove insufficient if governance, culture, and economic logics maintain extraction—suggesting that effective primitives should address systemic dynamics not just isolated mechanisms.
+
+---
+
+## Related Concepts
+
+- [ReFi](tags/refi.md) - Regenerative finance and alternative economics
+- [Coordination](tags/[coordination](tags/coordination.md).md) - Mechanisms for resource allocation
+- [Community](tags/[community](tags/community.md).md) - Local and regional organizing
+- [Sustainability](tags/sustainability.md) - Ecological and social resilience
+- [Governance](tags/governance.md) - Decision-making about resource distribution

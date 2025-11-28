@@ -15,7 +15,7 @@ tags:
   - value-diversity
 ---
 
-Society's framework explores how DAOs can build internal economic systems that value diverse contributions and create sustainable coordination through reciprocal exchange beyond simple token-weighted voting. Many DAOs struggle with contributor compensation, relying either on ad-hoc payments or rigid token distributions that fail to recognize ongoing value creation. The framework shows how internal economies can reward participation, knowledge sharing, community building, and governance engagement—creating economic infrastructure that sustains coordination rather than extracting toward passive token holders. By developing internal value exchange systems, DAOs can recognize contributions that conventional markets undervalue while building reciprocal relationships that strengthen community bonds.
+Society's framework explores how [DAOs](tags/daos.md) can build internal economic systems that value diverse contributions and create sustainable [coordination](tags/coordination.md) through reciprocal exchange beyond simple token-weighted voting. Many DAOs struggle with contributor compensation, relying either on ad-hoc payments or rigid token distributions that fail to recognize ongoing value creation. The framework shows how internal economies can reward [participation](tags/participation.md), knowledge sharing, [community](tags/community.md) building, and [governance](tags/governance.md) engagement—creating economic infrastructure that sustains coordination rather than extracting toward passive token holders. By developing internal value exchange systems, DAOs can recognize contributions that conventional markets undervalue while building reciprocal relationships that strengthen community bonds.
 
 ### Key Highlights
 
@@ -37,7 +37,7 @@ This framework enables sustainable DAO economies:
 
 - DAOs can implement contribution recognition systems valuing diverse participation beyond token holdings, creating internal economies that compensate community building, governance engagement, and knowledge sharing rather than only financialized deliverables
 
-- Communities can develop reciprocal exchange mechanisms enabling contributors to sustain participation through internal value creation, reducing dependence on external funding or individual wealth enabling unpaid coordination work
+- community can develop reciprocal exchange mechanisms enabling contributors to sustain participation through internal value creation, reducing dependence on external funding or individual wealth enabling unpaid coordination work
 
 - Protocol governance can explore reputation systems balancing token holdings with demonstrated contribution, ensuring that influence reflects ongoing participation rather than only capital ownership accumulated at launch
 
@@ -47,8 +47,18 @@ This framework enables sustainable DAO economies:
 
 ### Connection With SuperBenefit
 
-- Society's emphasis on internal economies valuing diverse contributions validates SuperBenefit's conviction that coordination systems should recognize community building, relationship work, and governance participation often invisible in token-weighted economics—demonstrating that DAO primitives should enable communities to define and reward value beyond easily tokenized deliverables or capital investment.
+- Society's emphasis on internal economies valuing diverse contributions validates SuperBenefit's conviction that coordination systems should recognize community building, relationship work, and governance participation often invisible in token-weighted economics—demonstrating that DAO [primitives](tags/primitives.md) should enable community to define and reward value beyond easily tokenized deliverables or capital investment.
 
 - The framework's focus on reciprocal exchange rather than extractive transactions resonates with SuperBenefit's regenerative economics emphasis, showing how internal economies can strengthen community bonds through mutual obligation instead of treating all value exchange as opportunities for individual accumulation—suggesting that sustainable coordination requires economic infrastructure building relationship alongside distributing resources.
 
 - Society's distinction between internal economies and speculative tokenomics provides framework for SuperBenefit to design contribution recognition avoiding financialization that rewards trading over participation—showing that effective value systems should serve community sustainability rather than creating markets where extractive speculation dominates genuine contribution.
+
+---
+
+## Related Concepts
+
+- [Roles](tags/roles.md) - Organizational structures and membership
+- [Governance](tags/governance.md) - Decision-making frameworks
+- [DAOs](tags/daos.md) - Decentralized organizations explored
+- [Community](tags/community.md) - Social structures and participation
+- [Coordination](tags/coordination.md) - Mechanisms for organizing work

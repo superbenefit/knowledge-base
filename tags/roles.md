@@ -10,9 +10,9 @@ aliases:
 publish: "true"
 ---
 
-_Roles are defined sets of responsibilities, permissions, and accountabilities assigned to individuals or entities within a system, enabling specialized contributions while creating clear interfaces for coordination across decentralized networks._
+_Roles are defined sets of responsibilities, permissions, and accountabilities assigned to individuals or entities within a system, enabling specialized contributions while creating clear interfaces for [coordination](coordination.md) across [decentralized](decentralization.md) networks._
 
-Roles serve as fundamental coordination mechanisms in decentralized systems, creating clarity about expected contributions without requiring hierarchical management. Unlike traditional job descriptions that often focus on compliance with predetermined processes, roles in DAOs and web3 organizations typically emphasize outcomes and boundaries while leaving space for autonomy in implementation. This balance between clarity and flexibility allows for specialized contributions while maintaining coherence across distributed networks.
+Roles serve as fundamental coordination mechanisms in decentralized systems, creating clarity about expected contributions without requiring hierarchical management. Unlike traditional job descriptions that often focus on compliance with predetermined processes, roles in [DAOs](daos.md) and web3 organizations typically emphasize outcomes and boundaries while leaving space for [autonomy](autonomy.md) in implementation. This balance between clarity and flexibility allows for specialized contributions while maintaining coherence across distributed networks.
 
 In the context of decentralized coordination, well-designed roles create "minimum viable structure" - providing enough definition to enable effective collaboration without imposing unnecessary rigidity. They establish clear interfaces between contributors, clarifying who is responsible for what without prescribing exactly how those responsibilities must be fulfilled. This approach supports both individual agency and system-wide alignment, allowing complex organizations to function without centralized control.
 
@@ -20,15 +20,15 @@ In the context of decentralized coordination, well-designed roles create "minimu
 
 ## Uses of "Roles"
 
-### Roles in DAO Governance
+### Roles in DAO [Governance](governance.md)
 
-In DAO governance systems, roles provide specialized functions that distribute decision-making authority and operational responsibilities across the network. Rather than concentrating power in management hierarchies, DAOs typically implement constellations of roles with specific domains of authority and accountability.
+In DAO governance systems, roles provide specialized functions that distribute [decision-making](decision-making.md) authority and operational responsibilities across the network. Rather than concentrating [power](power.md) in management hierarchies, DAOs typically implement constellations of roles with specific domains of authority and accountability.
 
 These governance roles might include treasury signers who manage collective resources, facilitators who guide decision processes, delegates who represent stakeholder interests, or specialized domain experts who provide input on technical decisions. As described in various governance artifacts, these roles often operate within multi-scale systems where different responsibilities are handled at the appropriate level of the organization.
 
 ### Roles in Cell-Based Organizations
 
-Within cell-based organizational models like those described in the DAO Primitives Framework, roles "contain and manage specific responsibilities and sets of permissions." In these systems, cells (small autonomous teams) define internal roles that handle specialized functions while maintaining clear interfaces with other cells in the network.
+Within cell-based organizational models like those described in the [DAO Primitives framework](../artifacts/guides/dao-primitives-framework/index.md), roles "contain and manage specific responsibilities and sets of permissions." In these systems, cells (small autonomous teams) define internal roles that handle specialized functions while maintaining clear interfaces with other cells in the network.
 
 As noted in papers like "Building DAOs as scalable networks," these roles enable autonomous teams to coordinate effectively by creating transparent agreements about who is responsible for what. Cell documentation typically includes explicit role definitions as part of their state, making these agreements visible to both team members and external stakeholders.
 

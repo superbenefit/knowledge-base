@@ -25,13 +25,13 @@ phase:
   - formation
 ---
 
-[Anticapture](https://spengrah.mirror.xyz/f6bZ6cPxJpP-4K_NB7JcjbU0XblJcaf7kVLD75dOYRQ) is a framework for designing decentralized governance systems that resist monopolization and corruption by distributing decision-making power across autonomous agents.
+[Anticapture](https://spengrah.mirror.xyz/f6bZ6cPxJpP-4K_NB7JcjbU0XblJcaf7kVLD75dOYRQ) is a framework for designing [decentralized](tags/decentralization.md) [governance](tags/governance.md) systems that resist monopolization and corruption by distributing [decision-making](tags/decision-making.md) [power](tags/power.md) across autonomous agents.
 
 ---
 
 ## Summary
 
-Anticapture is designed to combat *governance capture*, where individuals or groups monopolize shared resources for selfish gain. Traditional governance relies on hierarchical trust models, which are vulnerable to corruption. In contrast, Anticapture aims to develop capture-resistant governance by decentralizing decision-making and execution of actions. By distributing power and using cryptographic protections, this model creates resilient governance systems, ideal for DAOs and decentralized communities.
+Anticapture is designed to combat *governance capture*, where individuals or groups monopolize shared resources for selfish gain. Traditional governance relies on hierarchical trust models, which are vulnerable to corruption. In contrast, Anticapture aims to develop capture-resistant governance by decentralizing decision-making and execution of actions. By distributing power and using cryptographic protections, this model creates resilient governance systems, ideal for [DAOs](tags/daos.md) and decentralized [community](tags/community.md).
 
 ### Key Elements of the Framework
 
@@ -43,7 +43,7 @@ Anticapture is designed to combat *governance capture*, where individuals or gro
 The Anticapture framework’s structure revolves around four key phases that work together to create resilient and decentralized governance. Here's a detailed breakdown of each phase:
 
 #### 1. **Propose**
-This phase involves introducing an idea or action for the community to consider. The proposal can be made by any agent within the network, but this process must be designed to prevent dominance by any one party. Mechanisms for limiting who can propose, or ensuring broad input from the community, help prevent capture at this stage. Transparency and accessibility are emphasized here to ensure everyone can participate in governance. #proposals 
+This phase involves introducing an idea or action for the community to consider. The proposal can be made by any agent within the network, but this process must be designed to prevent dominance by any one party. Mechanisms for limiting who can propose, or ensuring broad input from the community, help prevent capture at this stage. [Transparency](tags/transparency.md) and accessibility are emphasized here to ensure everyone can participate in governance. #proposals 
 
 #### 2. **Decide**
 Once a proposal is made, the network must decide whether to move forward. The decision-making process can vary in complexity—from simple majority voting to more sophisticated consensus mechanisms. The Anticapture framework focuses on ensuring that the decision phase is decentralized and fair. It prevents manipulation by diversifying decision power among many agents, minimizing the risk of capture. Key features of this phase include quorum rules, anonymous voting, and weighted decision-making based on contribution or reputation. #decisions 
@@ -52,7 +52,7 @@ Once a proposal is made, the network must decide whether to move forward. The de
 In this phase, the approved proposal is carried out. Anticapture focuses heavily on ensuring that the execution of decisions is decentralized. This means no single agent or small group can monopolize the execution process. The framework proposes dividing responsibilities across different agents and ensuring autonomous execution mechanisms (like smart contracts in DAOs) to reduce reliance on any individual. Decentralizing execution protects the system from internal capture by preventing any agent from sabotaging or altering the proposal’s implementation. #execution 
 
 #### 4. **Evaluate**
-After execution, the final phase is evaluation, where the impact of the decision is reviewed. This phase is vital for accountability and ensuring continuous improvement of the governance system. Feedback loops, public reporting, and transparent audits of actions are used to hold agents accountable and ensure that the community can assess whether the executed actions aligned with the proposal’s goals. Evaluation also allows the community to identify areas of vulnerability to future capture and improve processes for the next governance cycle. #evaluation
+After execution, the final phase is evaluation, where the [impact](tags/impact.md) of the decision is reviewed. This phase is vital for accountability and ensuring continuous improvement of the governance system. Feedback loops, public reporting, and transparent audits of actions are used to hold agents accountable and ensure that the community can assess whether the executed actions aligned with the proposal’s goals. Evaluation also allows the community to identify areas of vulnerability to future capture and improve processes for the next governance cycle. #evaluation
 
 #### Implementing Anticapture
 
@@ -83,15 +83,15 @@ Constrained by the realities of the world of atoms, the safest way to manage res
 
 Each of those governance systems are in turn forced to place shared resources in the custody of a few, creating opportunities for bad actors to capture an organization’s shared resources for selfish wants, or worse, to capture the very governance mechanisms designed to prevent resource capture in the first place.
 
-This model of “security” by hierarchies of concentrated power has long been the status quo. While it has enabled organizations to help create the modern world of relative luxury in which we live, it leaves a lot to be desired. If humanity is to solve challenges like climate change and public goods infrastructure, we must come up with methods of managing shared resources with significantly lower risk of capture.
+This model of “security” by hierarchies of concentrated power has long been the status quo. While it has enabled organizations to help create the modern world of relative luxury in which we live, it leaves a lot to be desired. If humanity is to solve challenges like climate change and [public goods](tags/public-goods.md) infrastructure, we must come up with methods of managing shared resources with significantly lower risk of capture.
 
 Recently, there has been a breakthrough. Blockchains and smart contracts have revealed a new trust model for governance over shared resources that relies instead on a combination of cryptography and wide distribution of power. This model makes possible a new category of governance, called capture-resistant governance.
 
-**The promise of capture-resistant governance is managing shared resources in a way that prevents capture of those resources by bad actors.** In so doing, it also unlocks a new frontier of what is possible together. The amazing fluidity, flexibility, and adaptability exhibited by early web3-native communities is testament to what’s possible when our governance structures avoid capture of shared resources without the rigidity of traditional approaches. ^f53fa2
+**The promise of capture-resistant governance is managing shared resources in a way that prevents capture of those resources by bad actors.** In so doing, it also unlocks a new frontier of what is possible together. The amazing fluidity, flexibility, and adaptability exhibited by early web3-native community is testament to what’s possible when our governance structures avoid capture of shared resources without the rigidity of traditional approaches. ^f53fa2
 
 This article introduces _Anticapture_, a framework for understanding capture-resistant governance. _Anticapture_ seeks to understand the fundamentals of capture-resistant governance by examining how organizations – modeled as _networks_ of _agents_ – take _actions_ to manage _resources_ in service of their objectives.
 
-By the time you’re finished reading, you’ll be equipped with the beginnings of a taxonomy and a set of terminology to use in the context of DAOs, decentralized communities, and capture-resistant governance.
+By the time you’re finished reading, you’ll be equipped with the beginnings of a taxonomy and a set of terminology to use in the context of DAOs, decentralized community, and capture-resistant governance.
 
 This article begins by defining the key components of the _Anticapture_ framework, and then puts it to the test to answer one foundational question:
 
@@ -133,7 +133,7 @@ Several examples of resources, by categories in the Anticapture framework.
 
 Like agents and (as we’ll see in the next section) actions, the _Anticapture_ framework treats resources as recursive concepts. Agents can be networks of agents, and every action by a given agent is composed of smaller actions by sub-agents. Similarly, agents often use one resource to deploy a second resource with the goal of impacting a third resource.
 
-The first level of resource in the previous sentence is often a coordination mechanism or governance structure. While in everyday discourse these aren’t often considered resources at all, the _Anticapture_ framework treats them as such because actions taken by agents can impact them, and they can be captured.
+The first level of resource in the previous sentence is often a [coordination](tags/coordination.md) mechanism or governance structure. While in everyday discourse these aren’t often considered resources at all, the _Anticapture_ framework treats them as such because actions taken by agents can impact them, and they can be captured.
 
 While potentially daunting at first, this approach provides a simple way to model what can be complex dynamics, thereby laying the groundwork for both formal analysis and concise terminology.
 
@@ -166,7 +166,7 @@ Note that while an agent can capture a shared resource by accumulating either fu
 
 The agent’s agenda is set in the Propose phase. What problems should the agent attempt to solve? Which choices should the agent consider?
 
-Participation in the Propose phase within a network spans from **centralized** to **decentralized**, describing how widely distributed the power to add options to the network’s agenda is.
+[Participation](tags/participation.md) in the Propose phase within a network spans from **centralized** to **decentralized**, describing how widely distributed the power to add options to the network’s agenda is.
 
 In networks where the agenda is informal and doesn’t define which actions can be executed, the power to propose is influential rather than fundamental. Proposals don’t impact these networks’ shared resources, so the risk of capture is low and a degree of centralization is acceptable.
 
@@ -214,7 +214,7 @@ Most traditional organizations rely on rules and regulations imposed by a higher
 
 Agents analyze the impact of executed actions in the Evaluate phase. This evaluation often becomes an input into the Propose phase for subsequent actions, initiating new action cycles.
 
-Participation in the Evaluate phase spans from **centralized** to **decentralized**. The degree of decentralization is often determined by the transparency of the network’s operations. If the network is organized on a public blockchain and communicates in public, even external agents can participate in evaluating its actions.
+Participation in the Evaluate phase spans from **centralized** to **decentralized**. The degree of decentralization is often determined by the transparency of the network’s operations. If the network is organized on a public [blockchain](tags/blockchain.md) and communicates in public, even external agents can participate in evaluating its actions.
 
 Evaluation is informational in nature and does not itself impact shared resources, so participants may wield influence but not fundamental power. While a decentralized Evaluate phase is often valuable, it is not a strict requirement for effective capture-resistant governance.
 
@@ -271,3 +271,11 @@ Until then, good luck resisting capture!
 1. “Private” in this context refers to the general concept of power and control described here, not to the specific exercise of power in the form of access control or obfuscation (as in “privacy”).
 2. Claims on such resources, however, can be shared.
 3. Social dynamics and reputation can mediate these effects, but only partially and under certain conditions, such as when executives have public reputations to uphold.
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Decentralized organizations this resource discusses
+- [Governance](tags/governance.md) - Decision-making frameworks and practices
+- [Coordination](tags/coordination.md) - Mechanisms for collective action
+- [Primitives](tags/primitives.md) - Building blocks for decentralized organization

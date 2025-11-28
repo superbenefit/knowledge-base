@@ -15,7 +15,7 @@ tags:
   - economic-transformation
 ---
 
-Noema's exploration of Silvio Gesell's demurrage currency concept—money that loses value over time unless circulated—challenges fundamental assumptions about wealth accumulation and monetary systems. The essay examines how currency design choices shape economic behavior, showing that money's current form enabling indefinite accumulation and passive return through interest represents political choice rather than natural law. Demurrage currency inverts these assumptions: rather than rewarding hoarding, the system incentivizes circulation and productive use. The piece connects historical experiments with contemporary possibilities including digital currencies, showing how alternative monetary designs could reduce inequality, discourage speculation, and align economic incentives with community wellbeing rather than individual wealth maximization.
+Noema's exploration of Silvio Gesell's demurrage currency concept—money that loses value over time unless circulated—challenges fundamental assumptions about wealth accumulation and monetary systems. The essay examines how currency design choices shape economic behavior, showing that money's current form enabling indefinite accumulation and passive return through interest represents political choice rather than natural law. Demurrage currency inverts these assumptions: rather than rewarding hoarding, the system incentivizes circulation and productive use. The piece connects historical experiments with contemporary possibilities including digital currencies, showing how alternative monetary designs could reduce inequality, discourage speculation, and align economic incentives with [community](tags/community.md) wellbeing rather than individual wealth maximization.
 
 ### Key Highlights
 
@@ -47,8 +47,18 @@ This framework enables monetary system reimagination:
 
 ### Connection With SuperBenefit
 
-- Noema's exploration of demurrage currency challenges SuperBenefit to interrogate token design assumptions in DAO coordination, showing how seemingly technical choices about value stability and accumulation encode political decisions about wealth distribution and power—demonstrating that coordination primitives should enable communities to experiment with diverse economic logics including circulation incentives rather than defaulting to conventional monetary mechanics that privilege holders over contributors.
+- Noema's exploration of demurrage currency challenges SuperBenefit to interrogate token design assumptions in DAO [coordination](tags/coordination.md), showing how seemingly technical choices about value stability and accumulation encode political decisions about wealth distribution and power—demonstrating that coordination primitives should enable communities to experiment with diverse economic logics including circulation incentives rather than defaulting to conventional monetary mechanics that privilege holders over contributors.
 
 - The emphasis on how monetary design shapes behavior resonates with SuperBenefit's understanding that coordination primitives aren't neutral infrastructure but actively shape participation patterns and power distribution, validating the conviction that effective tools should make these political choices explicit rather than hiding them in technical implementation that appears inevitable.
 
 - Gesell's framework connecting individual incentives with collective wellbeing through system design provides model for SuperBenefit's primitive development, illustrating how coordination tools can align personal benefit with community health through structural mechanisms rather than requiring altruism or moral appeals—showing that genuinely regenerative economics emerges from designing systems where circulation and contribution generate more value than accumulation and extraction.
+
+---
+
+## Related Concepts
+
+- [Sustainability](tags/[sustainability](tags/sustainability.md).md) - Ecological approaches to technology
+- [Coordination](tags/coordination.md) - Alternative organizing mechanisms
+- [Community](tags/[community](tags/community.md).md) - Digital and local organizing
+- [Regeneration](tags/regeneration.md) - Restorative systems design
+- [Governance](tags/[governance](tags/governance.md).md) - Democratic technology frameworks

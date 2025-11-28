@@ -15,7 +15,7 @@ tags:
   - technical-governance
 ---
 
-The BlockchainGov Knowledge Base assembles specialized resources on blockchain governance—how decentralized networks coordinate protocol upgrades, parameter adjustments, and community decisions through on-chain voting, off-chain coordination, or hybrid mechanisms. The collection distinguishes blockchain-level governance (protocol changes, network parameters) from organizational governance (DAO decision-making), focusing specifically on technical coordination challenges when thousands of nodes must align on software versions, consensus rules, and economic parameters without central authority. The knowledge base aggregates protocol documentation, governance mechanism analysis, case studies from major blockchain networks, and research on coordination challenges including voter participation, plutocracy risks, and upgrade coordination. This specialized focus complements broader DAO resources by examining governance layer often invisible to application developers yet fundamental to decentralized system sustainability.
+The BlockchainGov Knowledge Base assembles specialized resources on [blockchain](tags/blockchain.md) [governance](tags/governance.md)—how [decentralized networks](tags/networks.md) coordinate [protocol](tags/protocols.md) upgrades, parameter adjustments, and community [decisions](tags/decisions.md) through on-chain voting, off-chain [coordination](tags/coordination.md), or hybrid mechanisms. The collection distinguishes blockchain-level governance (protocol changes, network parameters) from organizational governance ([DAO](tags/daos.md) decision-making), focusing specifically on technical coordination challenges when thousands of nodes must align on software versions, [consensus](tags/consensus.md) rules, and economic parameters without central authority. The knowledge base aggregates protocol documentation, governance mechanism analysis, case studies from major blockchain networks, and research on coordination challenges including voter participation, plutocracy risks, and upgrade coordination. This specialized focus complements broader DAO resources by examining governance layer often invisible to application developers yet fundamental to decentralized system sustainability.
 
 ### Key Highlights
 
@@ -27,7 +27,7 @@ The BlockchainGov Knowledge Base assembles specialized resources on blockchain g
 
 - **Coordination Challenge Analysis**: Coverage addresses persistent blockchain governance challenges including low voter participation, token-weighted plutocracy, coordination attacks, and legitimacy questions around protocol changes.
 
-- **Technical and Social Integration**: Knowledge base examines how blockchain governance integrates technical mechanisms (code, voting contracts) with social processes (discussion forums, core developer influence, community norms).
+- **Technical and Social Integration**: Knowledge base examines how blockchain governance integrates technical mechanisms (code, voting contracts) with social processes (discussion forums, core developer influence, [community](tags/community.md) norms).
 
 - **Specialized Niche**: By focusing specifically on protocol-level governance, resource fills gap between general DAO materials and blockchain technical documentation, addressing governance layer critical to network sustainability.
 
@@ -47,6 +47,16 @@ This knowledge base enables protocol governance understanding:
 
 ### Connection With SuperBenefit
 
-- BlockchainGov Knowledge Base's protocol governance focus illustrates how coordination challenges exist at multiple scales—not just organizational (DAO) but also infrastructural (blockchain network)—validating SuperBenefit's systems perspective recognizing that coordination primitives depend on underlying technical governance of networks they're built on, demonstrating that effective tools for decentralized organization require understanding how infrastructure layer itself coordinates changes, showing that "governance" spans from application-level decision-making down through protocol parameters to base-layer consensus.
+- BlockchainGov Knowledge Base's protocol governance focus illustrates how coordination challenges exist at multiple [scales](tags/scale.md)—not just organizational (DAO) but also infrastructural (blockchain network)—validating SuperBenefit's systems perspective recognizing that coordination [primitives](tags/primitives.md) depend on underlying technical governance of networks they're built on, demonstrating that effective tools for [decentralized](tags/decentralization.md) organization require understanding how infrastructure layer itself coordinates changes, showing that "governance" spans from application-level decision-making down through protocol parameters to base-layer consensus.
 
-- The knowledge base's examination of blockchain governance challenges including voter apathy, plutocracy, and legitimacy questions offers cautionary lessons for SuperBenefit's primitive development, showing that technical voting mechanisms alone don't ensure legitimate collective decision-making—blockchain governance struggles with same participation and power concentration problems DAOs face, illustrating that coordination tools require more than technically functional voting infrastructure but need deliberation support, participation incentives, and power-balancing mechanisms that go beyond on-chain transaction execution.
+- The knowledge base's examination of blockchain governance challenges including voter apathy, plutocracy, and legitimacy questions offers cautionary lessons for SuperBenefit's primitive development, showing that technical voting mechanisms alone don't ensure legitimate collective decision-making—blockchain governance struggles with same participation and [power](tags/power.md) concentration problems DAOs face, illustrating that coordination tools require more than technically functional voting infrastructure but need deliberation support, participation incentives, and power-balancing mechanisms that go beyond on-chain transaction execution.
+
+---
+
+## Related Concepts
+
+- [Governance](tags/governance.md) - Core focus of the knowledge base
+- [DAOs](tags/daos.md) - Primary organizational form explored
+- [Blockchain](tags/blockchain.md) - Technological foundation for governance systems
+- [Frameworks](tags/frameworks.md) - Organizational structures documented
+- [Coordination](tags/coordination.md) - Mechanisms explored across resources

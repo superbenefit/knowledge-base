@@ -1,6 +1,6 @@
 ---
 title: Positive Sum Worlds - Remaking Public Goods
-description: Other Internet research on reimagining public goods through crypto-economic mechanisms that create positive-sum dynamics, expanding collective capacity rather than zero-sum competition.
+description: Other Internet research on reimagining [public goods](tags/public-goods.md) through crypto-economic mechanisms that create positive-sum dynamics, expanding collective capacity rather than zero-sum competition.
 publish: true
 type: research-report
 source: https://otherinter.net/research/positive-sum-worlds/
@@ -10,17 +10,17 @@ tags:
   - public-goods
   - positive-sum
   - crypto-economics
-  - coordination-mechanisms
+  - [coordination](tags/coordination.md)-mechanisms
   - collective-action
   - regenerative-economics
   - other-internet
 ---
 
-This Other Internet research report explores how crypto-economic mechanisms can create genuinely positive-sum dynamics for public goods—situations where collective benefit grows rather than being divided among competitors. The work examines funding mechanisms, coordination tools, and incentive structures that expand what's possible through cooperation rather than merely redistributing fixed resources. Unlike zero-sum economics that treats gains for some as losses for others, or win-win rhetoric that obscures power dynamics, the analysis shows how careful mechanism design can create conditions where contributing to collective benefit genuinely serves individual interest—addressing the fundamental challenge of sustaining public goods without extraction or coercion.
+This Other Internet research report explores how crypto-economic mechanisms can create genuinely positive-sum dynamics for [public goods](tags/public-goods.md)—situations where collective benefit grows rather than being divided among competitors. The work examines funding mechanisms, [coordination](tags/coordination.md) tools, and incentive structures that expand what's possible through cooperation rather than merely redistributing fixed resources. Unlike zero-sum economics that treats gains for some as losses for others, or win-win rhetoric that obscures power dynamics, the analysis shows how careful mechanism design can create conditions where contributing to collective benefit genuinely serves individual interest—addressing the fundamental challenge of sustaining public goods without extraction or coercion.
 
 ### Key Highlights
 
-- **Positive-Sum Mechanism Design**: The report details how specific crypto-economic mechanisms (quadratic funding, retroactive public goods funding, impact certificates) mathematically create positive-sum dynamics by rewarding collective benefit rather than individual accumulation, showing why these approaches differ fundamentally from traditional markets.
+- **Positive-Sum Mechanism Design**: The report details how specific crypto-economic mechanisms (quadratic funding, retroactive public goods funding, [impact](tags/impact.md) certificates) mathematically create positive-sum dynamics by rewarding collective benefit rather than individual accumulation, showing why these approaches differ fundamentally from traditional markets.
 
 - **Public Goods Reinvention**: Rather than treating public goods as economic problem requiring state provision or philanthropy, the work shows how programmable incentives can make public goods creation attractive to rational actors—not through altruism but through mechanisms where contribution yields personal benefit aligned with collective gain.
 
@@ -38,7 +38,7 @@ This Other Internet research report explores how crypto-economic mechanisms can 
 
 This framework enables regenerative system design across contexts:
 
-- Public goods projects can adopt mechanisms the report documents—quadratic funding for community resource allocation, retroactive funding for proven impact, impact certificates for sustainability—creating sustainable funding without relying on continuous philanthropy or state support
+- Public goods projects can adopt mechanisms the report documents—quadratic funding for [community](tags/community.md) resource allocation, retroactive funding for proven impact, impact certificates for sustainability—creating sustainable funding without relying on continuous philanthropy or state support
 
 - DAO treasuries can implement positive-sum funding mechanisms to support ecosystem development, using quadratic or retroactive approaches that reward broadly beneficial work rather than concentrating resources on profit-maximizing projects
 
@@ -61,3 +61,13 @@ The combination of theoretical rigor and documented implementation makes the fra
 - Other Internet's analysis of real-world implementations including Gitcoin Grants and Optimism's RetroPGF demonstrates that positive-sum public goods funding works at meaningful scale, validating SuperBenefit's conviction that crypto-economic mechanisms can serve regenerative outcomes when properly designed—providing proof points beyond theoretical advocacy that alternative funding approaches can deploy significant capital toward collective benefit.
 
 - The emphasis on making impact legible through attestations and reputation systems informs SuperBenefit's thinking about how to recognize diverse forms of value creation beyond financial metrics, showing how mechanisms can reward social capital, knowledge sharing, and ecosystem building that conventional markets ignore.
+
+---
+
+## Related Concepts
+
+- [Public Goods](tags/public-goods.md) - Collective benefit funding explored
+- [Impact](tags/impact.md) - Outcomes and measurement approaches
+- [Coordination](tags/[coordination](tags/coordination.md).md) - Mechanisms for collective action
+- [DAOs](tags/daos.md) - Organizations funding and creating impact
+- [Grants](tags/grants.md) - Funding mechanisms discussed

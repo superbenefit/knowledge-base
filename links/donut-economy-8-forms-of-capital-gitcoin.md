@@ -1,6 +1,6 @@
 ---
 title: Donut Economy x 8 Forms of Capital - Gitcoin Integration
-description: Comprehensive integration of Kate Raworth's Donut Economics model with the 8 Forms of Capital framework, applied to decentralized coordination and regenerative economics in the Gitcoin context.
+description: Comprehensive integration of Kate Raworth's Donut Economics model with the 8 Forms of Capital framework, applied to decentralized [coordination](tags/coordination.md) and regenerative economics in the Gitcoin context.
 publish: true
 type: framework
 source: https://gov.gitcoin.co/t/the-donut-economy-x-8-forms-of-capital/10079
@@ -17,11 +17,11 @@ tags:
   - alternative-economics
 ---
 
-This Gitcoin governance forum post represents a sophisticated synthesis of two complementary regenerative economics frameworks: Kate Raworth's Donut Economics (balancing planetary boundaries with social foundations) and the 8 Forms of Capital model (recognizing wealth beyond financial metrics). The integration shows how decentralized organizations can operationalize regenerative principles by tracking value creation across multiple capitals (living, social, material, financial, intellectual, experiential, spiritual, cultural) while respecting ecological limits and ensuring social wellbeing. This framework challenges both extractive capitalism's narrow focus on financial returns and naive Web3 economics that ignore ecological impacts, offering practical tools for building genuinely regenerative coordination systems.
+This Gitcoin [governance](tags/governance.md) forum post represents a sophisticated synthesis of two complementary regenerative economics frameworks: Kate Raworth's Donut Economics (balancing planetary boundaries with social foundations) and the 8 Forms of Capital model (recognizing wealth beyond financial metrics). The integration shows how decentralized organizations can operationalize regenerative principles by tracking value creation across multiple capitals (living, social, material, financial, intellectual, experiential, spiritual, cultural) while respecting ecological limits and ensuring social wellbeing. This framework challenges both extractive capitalism's narrow focus on financial returns and naive Web3 economics that ignore ecological impacts, offering practical tools for building genuinely regenerative [coordination](tags/coordination.md) systems.
 
 ### Key Highlights
 
-- **Donut Economics Integration**: The framework applies Raworth's "safe and just space for humanity" model—operating within planetary boundaries (ecological ceiling) while meeting everyone's needs (social foundation)—to DAO governance and public goods funding, showing how decentralized systems can embed sustainability constraints and equity commitments at protocol level.
+- **Donut Economics Integration**: The framework applies Raworth's "safe and just space for humanity" model—operating within planetary boundaries (ecological ceiling) while meeting everyone's needs (social foundation)—to DAO governance and public goods funding, showing how decentralized systems can embed [sustainability](tags/sustainability.md) constraints and equity commitments at protocol level.
 
 - **8 Forms of Capital Expanded**: The post details how wealth manifests across eight interdependent forms: Living Capital (ecological systems), Social Capital (relationships/networks), Material Capital (infrastructure/tools), Financial Capital (money/tokens), Intellectual Capital (knowledge/IP), Experiential Capital (skills/wisdom), Spiritual Capital (meaning/purpose), Cultural Capital (traditions/values)—providing language for value creation that markets ignore.
 
@@ -29,7 +29,7 @@ This Gitcoin governance forum post represents a sophisticated synthesis of two c
 
 - **Regenerative vs. Extractive Clarity**: The integration makes explicit the difference between regenerative approaches (that enhance multiple capitals and stay within planetary boundaries) and extractive ones (that deplete living, social, or cultural capital to maximize financial returns). This provides clear criteria for evaluating whether Web3 projects serve collective flourishing or individual accumulation.
 
-- **Gitcoin Application**: The post shows how Gitcoin's quadratic funding mechanism can allocate resources based on holistic capital creation rather than pure financial ROI, directing funding toward projects that build commons, enhance ecosystems, and strengthen community even when profit potential is low.
+- **Gitcoin Application**: The post shows how Gitcoin's quadratic funding mechanism can allocate resources based on holistic capital creation rather than pure financial ROI, directing funding toward projects that build [commons](tags/commons.md), enhance ecosystems, and strengthen [community](tags/community.md) even when profit potential is low.
 
 - **Operationalizing Planetary Boundaries**: The framework addresses how DAOs can respect ecological limits through carbon accounting, energy efficiency, and supporting regenerative land use—moving beyond treating sustainability as external constraint to embedding it in coordination protocols.
 
@@ -62,3 +62,13 @@ The framework's combination of theoretical rigor and practical applicability mak
 - Donut economics' dual commitment to planetary boundaries (ecological ceiling) and social foundations (meeting basic needs) challenges SuperBenefit to ensure that regenerative systems don't just reduce harm but actively operate within ecological limits while guaranteeing wellbeing—moving beyond sustainability rhetoric to concrete constraints and positive commitments that must be embedded at protocol level.
 
 - Gitcoin's implementation of this integrated framework demonstrates that alternative economics can work at meaningful scale with real capital deployed, providing evidence for SuperBenefit's conviction that quadratic funding and public goods mechanisms can reward community benefit over individual accumulation when properly designed.
+
+---
+
+## Related Concepts
+
+- [Commons](tags/[commons](tags/commons.md).md) - Shared resources and [governance](tags/governance.md) approaches
+- [Governance](tags/[governance](tags/governance.md).md) - Decision-making for collective resources
+- [Coordination](tags/coordination.md) - Mechanisms for managing shared resources
+- [Sustainability](tags/sustainability.md) - Long-term resource stewardship
+- [Community](tags/[community](tags/community.md).md) - Groups managing [commons](tags/commons.md) together

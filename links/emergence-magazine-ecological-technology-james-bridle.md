@@ -19,7 +19,7 @@ y-and-ecology
   - regenerative-design
 ---
 
-This Emergence Magazine interview with James Bridle—artist, writer, and author of "Ways of Being" and "New Dark Age"—offers a profound meditation on what technology might become when designed from ecological rather than industrial principles. Bridle argues for technology as relationship, entanglement, and mutual transformation between human and more-than-human worlds, challenging the extractive separation between "nature" and "culture" that shapes contemporary tech. The conversation weaves together Bridle's artistic practice, indigenous knowledge systems, mycorrhizal networks, and speculative design to envision technologies that acknowledge interdependence rather than asserting dominance—offering rare depth in thinking beyond sustainability toward genuinely ecological approaches.
+This Emergence Magazine interview with James Bridle—artist, writer, and author of "Ways of Being" and "New Dark Age"—offers a profound meditation on what technology might become when designed from ecological rather than industrial principles. Bridle argues for technology as relationship, entanglement, and mutual transformation between human and more-than-human worlds, challenging the extractive separation between "nature" and "culture" that shapes contemporary tech. The conversation weaves together Bridle's artistic practice, indigenous knowledge systems, mycorrhizal networks, and speculative design to envision technologies that acknowledge interdependence rather than asserting dominance—offering rare depth in thinking beyond [sustainability](tags/sustainability.md) toward genuinely ecological approaches.
 
 ### Key Highlights
 
@@ -59,8 +59,18 @@ The interview's value lies in expanding imaginative possibilities rather than pr
 
 ### Connection With SuperBenefit
 
-- Bridle's ecological technology framework challenges SuperBenefit to ensure regenerative approaches engage relationship with the more-than-human world rather than merely optimizing extractive systems—suggesting that genuinely regenerative coordination must acknowledge interdependence with living systems and bioregional contexts, not just reduce carbon footprints or improve social equity within fundamentally extractive structures.
+- Bridle's ecological technology framework challenges SuperBenefit to ensure regenerative approaches engage relationship with the more-than-human world rather than merely optimizing extractive systems—suggesting that genuinely regenerative [coordination](tags/coordination.md) must acknowledge interdependence with living systems and bioregional contexts, not just reduce carbon footprints or improve social equity within fundamentally extractive structures.
 
 - The emphasis on different temporalities and slowness offers critical counterpoint to Web3's speed obsessions, resonating with SuperBenefit's experience that trust-building and relationship work in experiments like AIFS required patience across seasons and cycles rather than rapid iteration toward predetermined outcomes—some coordination emerges through attention and care rather than efficiency optimization.
 
 - Bridle's respect for indigenous technological traditions as sophisticated multi-generational practices grounds SuperBenefit's decolonial commitments, showing why indigenous knowledge must fundamentally inform regenerative design rather than being consulted as validation for predetermined Western approaches.
+
+---
+
+## Related Concepts
+
+- [Sustainability](tags/[sustainability](tags/sustainability.md).md) - Ecological approaches to technology
+- [Coordination](tags/[coordination](tags/coordination.md).md) - Alternative organizing mechanisms
+- [Community](tags/[community](tags/community.md).md) - Digital and local organizing
+- [Regeneration](tags/regeneration.md) - Restorative systems design
+- [Governance](tags/[governance](tags/governance.md).md) - Democratic technology frameworks

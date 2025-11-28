@@ -15,7 +15,7 @@ tags:
   - scholarly-work
 ---
 
-The DAO Research Collective maintains curated repository of academic research, empirical studies, and analytical work on DAO governance and coordination, addressing gap between promotional Web3 discourse and rigorous examination of how decentralized organizations actually function. The collection spans peer-reviewed papers, working studies, case analyses, and theoretical frameworks from researchers across disciplines including organization science, political economy, law, and information systems. Rather than advocating particular DAO models, the repository presents evidence-based analysis examining governance mechanisms, coordination challenges, participation patterns, and organizational outcomes. The collaborative curation approach draws on multiple researchers' expertise to identify quality scholarship, making academic DAO literature more accessible to practitioners, policymakers, and educators who might otherwise struggle to find rigorous analysis amid promotional content dominating Web3 discourse.
+The DAO Research Collective maintains curated repository of academic research, empirical studies, and analytical work on [DAO](tags/daos.md) [governance](tags/governance.md) and [coordination](tags/coordination.md), addressing gap between promotional Web3 discourse and rigorous examination of how decentralized organizations actually function. The collection spans peer-reviewed papers, working studies, case analyses, and theoretical [frameworks](tags/frameworks.md) from researchers across disciplines including organization science, political economy, law, and information systems. Rather than advocating particular DAO models, the repository presents evidence-based analysis examining governance mechanisms, coordination challenges, participation patterns, and organizational outcomes. The collaborative curation approach draws on multiple researchers' expertise to identify quality scholarship, making academic DAO literature more accessible to practitioners, policymakers, and educators who might otherwise struggle to find rigorous analysis amid promotional content dominating Web3 discourse.
 
 ### Key Highlights
 
@@ -35,7 +35,7 @@ The DAO Research Collective maintains curated repository of academic research, e
 
 This repository enables research-informed practice:
 
-- DAO governance designers can ground decisions in empirical research examining what mechanisms actually work in practice, moving beyond anecdotal examples or speculative claims about governance innovations
+- DAO governance designers can ground [decisions](tags/decisions.md) in empirical research examining what mechanisms actually work in practice, moving beyond anecdotal examples or speculative claims about governance innovations
 
 - Academic researchers studying decentralized organizations can use repository as literature review starting point, accessing curated scholarship across disciplines rather than searching multiple databases and venues
 
@@ -47,6 +47,15 @@ This repository enables research-informed practice:
 
 ### Connection With SuperBenefit
 
-- DAO Research Collective's curation of scholarly work validates SuperBenefit's commitment to evidence-based primitive development rather than building tools based on speculative claims or promotional narratives, demonstrating that genuinely serving communities requires grounding governance innovation in research examining what actually works in practice—though SuperBenefit's inclusion of practitioner knowledge and lived experience alongside academic research offers important complement to scholarly focus, showing that effective coordination tools require integrating multiple knowledge sources including communities' own expertise about their needs.
+- DAO Research Collective's curation of scholarly work validates SuperBenefit's commitment to evidence-based [primitive](tags/primitives.md) development rather than building tools based on speculative claims or promotional narratives, demonstrating that genuinely serving [communities](tags/community.md) requires grounding governance innovation in research examining what actually works in practice—though SuperBenefit's inclusion of practitioner knowledge and lived experience alongside academic research offers important complement to scholarly focus, showing that effective coordination tools require integrating multiple knowledge sources including communities' own expertise about their needs.
 
-- The repository's multidisciplinary approach resonates with SuperBenefit's recognition that DAO governance challenges span technical, social, legal, and economic dimensions requiring insights from diverse fields, illustrating that coordination primitives can't be designed from single disciplinary perspective—showing that effective tools emerge from synthesis across organization science, political economy, cultural analysis, and technical infrastructure rather than treating governance as purely technical problem or purely social challenge divorced from material constraints and power dynamics.
+- The repository's multidisciplinary approach resonates with SuperBenefit's recognition that DAO governance challenges span technical, social, legal, and economic dimensions requiring insights from diverse fields, illustrating that coordination primitives can't be designed from single disciplinary perspective—showing that effective tools emerge from synthesis across organization science, political economy, cultural analysis, and technical infrastructure rather than treating governance as purely technical problem or purely social challenge divorced from material constraints and [power](tags/power.md) dynamics.
+
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Primary research subject
+- [Governance](tags/governance.md) - Decision-making systems studied
+- [Coordination](tags/coordination.md) - Collective action mechanisms examined
+- [Frameworks](tags/frameworks.md) - Organizational structures analyzed

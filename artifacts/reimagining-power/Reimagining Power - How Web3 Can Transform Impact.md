@@ -109,3 +109,12 @@ The time for incremental change has passed. The time for bold, systemic transfor
 * **Example**: An impact investment fund may have an investment committee composed of a few individuals who make all major decisions about which projects to fund.    
 
 * **Web3 Solution**: Web3 offers a tags/governance.md model through the use of Decentralized Autonomous Organizations (tags/daos.md). In a DAO, decision-making power can be distributed among a broader group of stakeholders, including community members, social entrepreneurs, and smaller investors. This artifacts/patterns/community-governance.md allows for more inclusive and equitable decision-making processes, ensuring that diverse voices are heard and that decisions better reflect the needs and priorities of artifacts/guides/dao-primitives-framework/dao-primitives-implemention/implementation-guide-multi-stakeholder-governance.md. Token-based voting systems can be implemented to allow participants to vote on investment decisions, governance policies, and fund allocations, creating a more transparent and accountable decision-making process.
+---
+
+## Related Concepts
+
+- [Power](tags/power.md) - Transformation and redistribution through Web3
+- [Impact](tags/impact.md) - Social and environmental outcomes
+- [DAOs](tags/daos.md) - Organizations reimagining power structures
+- [Governance](tags/governance.md) - Decision-making that enables power shifts
+- [Reimagining Power Project](notes/rpp/index.md) - SuperBenefit's power transformation work

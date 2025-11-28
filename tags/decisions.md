@@ -10,11 +10,11 @@ aliases:
 publish: "true"
 ---
 
-_Decisions are the transformative points where potential becomes direction through the selection of specific courses of action from available alternatives, enabling coordinated progress while reflecting underlying values, power structures, and governance principles._
+_Decisions are the transformative points where potential becomes direction through the selection of specific courses of action from available alternatives, enabling coordinated progress while reflecting underlying [values](values.md), [power](power.md) structures, and [governance](governance.md) principles._
 
-Decision-making lies at the heart of all organizational systems, determining how resources are allocated, strategies are formed, and collective action is coordinated. The mechanisms through which decisions are made fundamentally shape an organization's ability to respond to challenges, innovate, and align with its purpose. Traditional systems have often concentrated decision-making authority in hierarchical structures, while decentralized approaches distribute this power across networks of autonomous agents operating within shared frameworks.
+[Decision-making](decision-making.md) lies at the heart of all organizational systems, determining how resources are allocated, strategies are formed, and collective action is coordinated. The mechanisms through which decisions are made fundamentally shape an organization's ability to respond to challenges, innovate, and align with its purpose. Traditional systems have often concentrated decision-making authority in hierarchical structures, while [decentralized](decentralization.md) approaches distribute this power across networks of autonomous agents operating within shared frameworks.
 
-In the context of decentralized organizations, decisions take on additional dimensions of complexity and opportunity. When properly designed, decentralized decision-making systems can harness collective intelligence, increase responsiveness to changing conditions, and create more equitable participation in governance. However, they also introduce challenges around coordination, accountability, and effectiveness that require thoughtful design of decision protocols, processes, and supporting infrastructure.
+In the context of decentralized organizations, decisions take on additional dimensions of complexity and opportunity. When properly designed, decentralized decision-making systems can harness collective intelligence, increase responsiveness to changing conditions, and create more equitable [participation](participation.md) in governance. However, they also introduce challenges around [coordination](coordination.md), accountability, and effectiveness that require thoughtful design of decision protocols, processes, and supporting infrastructure.
 
 ---
 
@@ -22,11 +22,11 @@ In the context of decentralized organizations, decisions take on additional dime
 
 ### Decisions in DAO Governance
 
-In DAO contexts, decision-making encompasses both the technical mechanisms (voting systems, proposal processes) and social practices that enable collective action. Unlike traditional organizations that rely on authority-based decision hierarchies, DAOs experiment with various approaches to distributing decision rights while maintaining coordination.
+In DAO contexts, decision-making encompasses both the technical mechanisms (voting systems, proposal processes) and social practices that enable collective action. Unlike traditional organizations that rely on authority-based decision hierarchies, [DAOs](daos.md) experiment with various approaches to distributing decision rights while maintaining coordination.
 
 As described in Building DAOs as scalable networks, effective DAO governance often employs a two-house model separating different types of decisions:
 
-1. **Community Governance decisions** focus on long-term direction, purpose alignment, and treasury management at constituency scale
+1. **[Community](community.md) Governance decisions** focus on long-term direction, purpose alignment, and treasury management at constituency scale
 2. **Operational Governance decisions** address day-to-day implementation, project management, and tactical choices at coordination scale
 
 This separation allows for appropriate decision processes at different scales and timeframes while preserving overall alignment.
@@ -41,7 +41,7 @@ The Decider protocol illustrates this approach, providing a structured process f
 
 Such protocols establish clear social agreements about how groups will navigate choices together, creating predictable patterns that reduce coordination costs.
 
-### Decisions in Consensus vs. Consent Frameworks
+### Decisions in [Consensus](consensus.md) vs. Consent Frameworks
 
 Decision-making approaches vary significantly in how they define agreement. Two prominent approaches in decentralized systems are:
 

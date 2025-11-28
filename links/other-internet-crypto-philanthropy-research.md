@@ -1,6 +1,6 @@
 ---
 title: Aping into Progress - Crypto Philanthropy Deep Dive
-description: Other Internet comprehensive research report examining crypto philanthropy landscape, mechanisms, and whether blockchain-based giving serves social impact better than traditional philanthropy or reproduces extraction with new technology.
+description: Other Internet comprehensive research report examining crypto philanthropy landscape, mechanisms, and whether blockchain-based giving serves social [impact](tags/impact.md) better than traditional philanthropy or reproduces extraction with new technology.
 publish: true
 type: research-report
 source: https://otherinter.net/research/crypto-philanthropy/
@@ -9,13 +9,13 @@ author:
 tags:
   - crypto-philanthropy
   - blockchain-giving
-  - impact-research
+  - [impact](tags/impact.md)-research
   - other-internet
   - philanthropic-mechanisms
-  - social-impact
+  - social-[impact](tags/impact.md)
 ---
 
-Other Internet's comprehensive crypto philanthropy report provides rigorous analysis of how blockchain technologies reshape charitable giving, examining whether crypto-native mechanisms genuinely improve upon traditional philanthropy or merely create new branding for old extractive patterns. The research documents diverse approaches from retroactive public goods funding to impact DAOs to quadratic funding, analyzing strengths and limitations with both enthusiasm for innovation and critical examination of hype. Rather than celebrating all crypto giving as inherently better or dismissing it as speculation with progressive aesthetics, Other Internet offers nuanced assessment grounded in empirical study of actual implementations, showing where blockchain mechanisms address real philanthropic challenges and where they introduce new problems while claiming transformation.
+Other Internet's comprehensive crypto philanthropy report provides rigorous analysis of how blockchain technologies reshape charitable giving, examining whether crypto-native mechanisms genuinely improve upon traditional philanthropy or merely create new branding for old extractive patterns. The research documents diverse approaches from retroactive [public goods](tags/public-goods.md) funding to [impact](tags/impact.md) [DAOs](tags/daos.md) to quadratic funding, analyzing strengths and limitations with both enthusiasm for innovation and critical examination of hype. Rather than celebrating all crypto giving as inherently better or dismissing it as speculation with progressive aesthetics, Other Internet offers nuanced assessment grounded in empirical study of actual implementations, showing where blockchain mechanisms address real philanthropic challenges and where they introduce new problems while claiming transformation.
 
 ### Key Highlights
 
@@ -23,7 +23,7 @@ Other Internet's comprehensive crypto philanthropy report provides rigorous anal
 
 - **Mechanism Analysis**: Other Internet examines how specific crypto mechanisms address traditional philanthropy problems—retroactive funding's focus on proven impact versus speculative proposals, quadratic funding's resistance to plutocratic control, on-chain transparency versus donor privacy, programmable distribution versus discretionary grantmaking.
 
-- **Power Dynamics**: The research critically examines whether crypto philanthropy redistributes power from wealthy donors to communities or merely changes who extracts value while maintaining fundamental dynamics where capital controls priorities—showing that decentralized mechanisms alone don't guarantee democratic outcomes.
+- **Power Dynamics**: The research critically examines whether crypto philanthropy redistributes power from wealthy donors to [communities](tags/community.md) or merely changes who extracts value while maintaining fundamental dynamics where capital controls priorities—showing that decentralized mechanisms alone don't guarantee democratic outcomes.
 
 - **Scale and Capital Flows**: The report documents actual capital deployed through crypto philanthropy versus hype, showing where meaningful funding flows to public goods and where announcement exceeds implementation—providing reality check on claims about crypto transforming charitable giving.
 
@@ -49,6 +49,16 @@ This research enables informed crypto philanthropy engagement:
 
 - Other Internet's rigorous mechanism analysis provides framework for SuperBenefit to evaluate crypto-economic approaches critically rather than assuming blockchain automatically serves regenerative goals—demonstrating that genuine assessment requires examining actual power distribution, capital flows, and community impact rather than accepting self-descriptions about decentralization.
 
-- The research's comparative analysis of traditional, trust-based, and crypto philanthropy resonates with SuperBenefit's understanding that alternative coordination mechanisms should be judged against both conventional systems and other progressive approaches—not just whether crypto improves on corporate platforms but whether it serves communities better than trust-based, participatory, or commons-oriented alternatives.
+- The research's comparative analysis of traditional, trust-based, and crypto philanthropy resonates with SuperBenefit's understanding that alternative [coordination](tags/coordination.md) mechanisms should be judged against both conventional systems and other progressive approaches—not just whether crypto improves on corporate platforms but whether it serves communities better than trust-based, participatory, or commons-oriented alternatives.
 
 - Other Internet's documentation of crypto philanthropy's actual scale versus hype validates SuperBenefit's commitment to honest assessment of what Web3 accomplishes in practice—showing that transformative claims should be verified through systematic study of implementations rather than amplifying announcements that promise more than they deliver.
+
+---
+
+## Related Concepts
+
+- [Public Goods](tags/public-goods.md) - Collective benefit funding explored
+- [Impact](tags/impact.md) - Outcomes and measurement approaches
+- [Coordination](tags/[coordination](tags/coordination.md).md) - Mechanisms for collective action
+- [DAOs](tags/daos.md) - Organizations funding and creating impact
+- [Grants](tags/grants.md) - Funding mechanisms discussed

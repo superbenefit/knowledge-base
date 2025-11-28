@@ -151,3 +151,13 @@ All In For Sport conducted six Gatherings from November 2024 to February 2025, c
 - **Unconferences**: Fully emergent but may lack structure for cross-sector bridging
 - **Focus Groups**: Extract knowledge rather than building relationships
 - **Design Sprints**: Outcome-focused, may not allow time for relationship building
+
+---
+
+## Related Concepts
+
+- [Coordination](tags/coordination.md) - Mechanisms for aligning diverse stakeholders
+- [Community Governance](artifacts/patterns/community-governance.md) - Constituency-scale engagement
+- [Teams](tags/teams.md) - Small groups that form through gatherings
+- [DAOs](tags/daos.md) - Organizations using gatherings for cross-sector bridging
+- [Collaboration](tags/collaboration.md) - Co-creation enabled by gatherings

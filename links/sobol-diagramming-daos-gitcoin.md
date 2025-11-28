@@ -15,7 +15,7 @@ tags:
   - visual-thinking
 ---
 
-Sobol's "Diagramming DAOs" analysis uses visual organizational mapping to examine Gitcoin DAO's structure, revealing coordination patterns, workstream relationships, and governance architecture through diagrams rather than text descriptions alone. The case study demonstrates how visualization tools enable understanding complex decentralized organizations where traditional org charts fail—DAOs often have overlapping teams, fluid membership, multiple governance layers, and emergent structures that resist simple hierarchy diagrams. Sobol's mapping approach shows contributor connections, funding flows, decision authority, and information pathways, making implicit coordination patterns explicit and surfacing potential bottlenecks or gaps. The analysis illustrates both Gitcoin's sophisticated organizational design and the value of visual thinking for DAO participants, researchers, and designers trying to understand how decentralized coordination actually functions beyond aspirational descriptions.
+Sobol's "Diagramming [DAOs](tags/daos.md)" analysis uses visual organizational mapping to examine Gitcoin DAO's structure, revealing [coordination](tags/coordination.md) patterns, workstream relationships, and [governance](tags/governance.md) architecture through diagrams rather than text descriptions alone. The case study demonstrates how visualization tools enable understanding complex [decentralized](tags/decentralization.md) organizations where traditional org charts fail—DAOs often have overlapping teams, fluid membership, multiple governance layers, and emergent structures that resist simple hierarchy diagrams. Sobol's mapping approach shows contributor connections, funding flows, decision authority, and information pathways, making implicit coordination patterns explicit and surfacing potential bottlenecks or gaps. The analysis illustrates both Gitcoin's sophisticated organizational design and the value of visual thinking for DAO participants, researchers, and designers trying to understand how decentralized coordination actually functions beyond aspirational descriptions.
 
 ### Key Highlights
 
@@ -50,3 +50,13 @@ This approach enables DAO analysis and design:
 - Sobol's visual mapping methodology validates SuperBenefit's conviction that understanding coordination requires multiple representational modes beyond text, demonstrating that diagrams reveal organizational patterns invisible in written documentation—though effective visualization should serve communities' sense-making needs rather than primarily supporting external analysis, suggesting SuperBenefit's primitive development might integrate visual coordination mapping as participatory practice enabling DAOs to collectively understand and deliberately shape their own structures rather than having external analysts diagram them.
 
 - The Gitcoin case study's exposure of complex multi-layer DAO architecture resonates with SuperBenefit's recognition that mature decentralized coordination involves sophisticated governance patterns beyond simple voting mechanisms, illustrating that effective coordination primitives must support various organizational scales and interacting systems rather than assuming DAOs remain simple flat structures—showing that building tools for genuine decentralization requires accommodating complexity and emergent coordination patterns that develop as communities grow and differentiate.
+
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Organizations using these platforms and tools
+- [Coordination](tags/coordination.md) - Mechanisms for organizing work
+- [Governance](tags/governance.md) - Decision-making frameworks
+- [Community](tags/community.md) - Networks and collaborative structures
+- [Primitives](tags/primitives.md) - Building blocks for coordination tools

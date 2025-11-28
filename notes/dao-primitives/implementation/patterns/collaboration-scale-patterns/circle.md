@@ -124,21 +124,34 @@ In sociocracy, circles typically contain the following set of roles:
 
 ---
 
+## Implementation in Patterns
+
+The circle primitive is used in several patterns for structuring autonomous teams:
+
+- **[Cell State](artifacts/patterns/cell-state.md)** - Uses circle as a primitive for defining team structure and governance
+- **[Cell Working Group](artifacts/patterns/cell.md)** - Cells can adopt circle (sociocratic) structure for their internal organization
+- **[Operational Governance](artifacts/patterns/operational-governance.md)** - Uses sociocratic circle structures for coordinating cells
+
+---
+
+## Related Concepts
+
+- [Teams](tags/teams.md) - Circles are a specific type of autonomous team structure
+- [Governance](tags/governance.md) - Circles use consent-based governance principles
+- [Coordination](tags/coordination.md) - Circles coordinate through double-linking and transparent domains
+- [Primitives](tags/primitives.md) - Circle is a foundational organizational primitive
+- [Cell State](artifacts/patterns/cell-state.md) - Pattern for documenting circle structure and agreements
+
+---
+
 ## Reviews and Case Studies
 
-    DAO Insights: Your DAO’s experiences, including challenges and benefits.
-    Real-World Examples: Stories of successful implementation, with an emphasis on social impact.
+DAO Insights: Your DAO's experiences, including challenges and benefits.
+Real-World Examples: Stories of successful implementation, with an emphasis on social impact.
 
 ---
 
 ## Additional Resources
 
 - [Sociocracy for All](https://www.sociocracyforall.org/)
-
-- [A practical Guide to Sociocracy](https://example.com)
-
-%% Introduce your note here. %%
-
----
-
-%% Write the body of your note here %%
+- [Sociocracy 3.0 Circle Pattern](https://patterns.sociocracy30.org/circle.html)

@@ -10,11 +10,11 @@ tags:
   - actions
 ---
 
-*Self-governance refers to the capacity for groups, communities, or organizations to organize themselves, make collective decisions, and manage their affairs autonomously without relying on external authorities or centralized control structures. This involves establishing internal mechanisms for decision-making, resource allocation, and conflict resolution that enable collective action while preserving individual autonomy.*
+*Self-[governance](governance.md) refers to the capacity for groups, [community](community.md), or organizations to organize themselves, make collective decisions, and manage their affairs autonomously without relying on external authorities or centralized control structures. This involves establishing internal mechanisms for [decision-making](decision-making.md), resource allocation, and conflict resolution that enable collective action while preserving individual [autonomy](autonomy.md).*
 
-Self-governance represents a fundamental aspiration of decentralized systems, where participants develop the capabilities and institutions necessary to coordinate collective action without external oversight or hierarchical management. In Web3 and cooperative contexts, self-governance manifests through technological and social mechanisms that enable democratic participation, transparent decision-making, and accountable resource management.
+Self-governance represents a fundamental aspiration of [decentralized](decentralization.md) systems, where participants develop the capabilities and institutions necessary to coordinate collective action without external oversight or hierarchical management. In Web3 and cooperative contexts, self-governance manifests through technological and social mechanisms that enable democratic [participation](participation.md), transparent decision-making, and accountable resource management.
 
-The effectiveness of self-governance depends on creating appropriate institutional frameworks, shared protocols, and cultural practices that balance individual autonomy with collective coordination. This makes self-governance particularly relevant to DAOs, cooperatives, and community-led initiatives that seek to maintain democratic control while achieving meaningful collective outcomes.
+The effectiveness of self-governance depends on creating appropriate institutional frameworks, shared protocols, and cultural practices that balance individual autonomy with collective [coordination](coordination.md). This makes self-governance particularly relevant to [DAOs](daos.md), cooperatives, and community-led initiatives that seek to maintain democratic control while achieving meaningful collective outcomes.
 
 ---
 
@@ -22,7 +22,7 @@ The effectiveness of self-governance depends on creating appropriate institution
 
 ### Self-governance in Decentralized Autonomous Organizations
 
-DAOs exemplify self-governance through blockchain-based systems where "members decide the direction of the organization and govern how it is run" without traditional hierarchical management. These organizations use smart contracts and token-based voting to enable "bottom-up management" where "decision-making abilities" are distributed among participants rather than concentrated in centralized leadership.
+DAOs exemplify self-governance through [blockchain](blockchain.md)-based systems where "members decide the direction of the organization and govern how it is run" without traditional hierarchical management. These organizations use smart contracts and token-based voting to enable "bottom-up management" where "decision-making abilities" are distributed among participants rather than concentrated in centralized leadership.
 
 DAO self-governance typically involves proposal submission, community deliberation, and token-weighted voting that automatically executes decisions through smart contracts. This creates transparent, participatory governance systems where community members can "vote on initiatives for the entity" while maintaining accountability through blockchain-recorded decisions and programmable resource allocation.
 
@@ -36,7 +36,7 @@ Cooperative self-governance operates through member assemblies, elected boards, 
 
 Community organizing and mutual aid networks demonstrate self-governance through grassroots coordination systems that enable collective response to local challenges without external intervention. These networks develop autonomous capacity for resource sharing, decision-making, and collective action that emerges from participant relationships and shared practices.
 
-Community self-governance often involves consensus-building processes, distributed leadership roles, and flexible coordination mechanisms that adapt to changing conditions while maintaining community autonomy. This creates resilient networks capable of self-organization and collective response that operates independently of formal institutions or external funding dependencies.
+Community self-governance often involves [consensus](consensus.md)-building processes, distributed leadership roles, and flexible coordination mechanisms that adapt to changing conditions while maintaining community autonomy. This creates resilient networks capable of self-organization and collective response that operates independently of formal institutions or external funding dependencies.
 
 ## Related Concepts
 

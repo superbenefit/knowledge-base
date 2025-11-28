@@ -1,6 +1,6 @@
 ---
 title: Collectively Intelligent Sustainable Common Future
-description: Comprehensive Demos Helsinki report examining how collective intelligence, digital democracy, and participatory governance can address sustainability challenges through regenerative approaches to decision-making.
+description: Comprehensive Demos Helsinki report examining how collective intelligence, digital democracy, and participatory [governance](tags/governance.md) can address [sustainability](tags/sustainability.md) challenges through regenerative approaches to decision-making.
 publish: true
 type: research-report
 source: https://demoshelsinki.fi/julkaisut/collectively-intelligent-sustainable-common-future/
@@ -9,15 +9,15 @@ author:
 tags:
   - collective-intelligence
   - digital-democracy
-  - sustainability
-  - participatory-governance
+  - [sustainability](tags/sustainability.md)
+  - participatory-[governance](tags/governance.md)
   - regenerative-futures
-  - commons
+  - [commons](tags/commons.md)
   - climate-action
   - democratic-innovation
 ---
 
-This comprehensive research report from Demos Helsinki, an independent Nordic think tank, explores how collective intelligence approaches can enable communities to navigate complex sustainability transitions. The work synthesizes insights from digital democracy experiments, participatory governance innovations, and collective intelligence research to propose frameworks for decision-making that harness diverse knowledge and perspectives. Unlike techno-solutionist climate reports, this analysis grounds technological possibilities in democratic values and regenerative principles, showing how AI, digital platforms, and participatory processes can serve collective wisdom rather than replace human judgment or concentrate power.
+This comprehensive research report from Demos Helsinki, an independent Nordic think tank, explores how collective intelligence approaches can enable [communities](tags/community.md) to navigate complex [sustainability](tags/sustainability.md) transitions. The work synthesizes insights from digital democracy experiments, participatory [governance](tags/governance.md) innovations, and collective intelligence research to propose frameworks for decision-making that harness diverse knowledge and perspectives. Unlike techno-solutionist climate reports, this analysis grounds technological possibilities in democratic values and regenerative principles, showing how AI, digital platforms, and participatory processes can serve collective wisdom rather than replace human judgment or concentrate [power](tags/power.md).
 
 ### Key Highlights
 
@@ -31,7 +31,7 @@ This comprehensive research report from Demos Helsinki, an independent Nordic th
 
 - **Power and Participation**: Unlike naive participatory rhetoric, the report addresses power dynamics explicitly, examining how digital democracy tools can either amplify marginalized voices or reproduce existing hierarchies depending on design choices and implementation contexts.
 
-- **Scalability and Subsidiarity**: The work explores how collective intelligence can operate across scales from local communities to planetary governance, using subsidiarity principles that delegate decisions to appropriate levels while maintaining coordination across nested systems.
+- **Scalability and Subsidiarity**: The work explores how collective intelligence can operate across scales from local communities to planetary governance, using subsidiarity principles that delegate decisions to appropriate levels while maintaining [coordination](tags/coordination.md) across nested systems.
 
 - **AI for Collective Not Corporate Intelligence**: The report envisions AI systems designed to augment collective sensemaking and democratic deliberation rather than replace human judgment or optimize for corporate profit, showing how the same technologies can serve radically different purposes depending on governance choices.
 
@@ -62,3 +62,13 @@ The comprehensive nature of the report provides both conceptual frameworks and p
 - The emphasis on subsidiarity and nested governance provides theoretical grounding for SuperBenefit's approach to small autonomous teams coordinating across scales, showing how local operational autonomy within cells can coexist with collective strategic stewardship without requiring centralized control—the Demos Helsinki research demonstrates this works for sustainability challenges just as SuperBenefit applies it to organizational coordination.
 
 - Challenges SuperBenefit to ensure that AI and digital tools genuinely augment collective wisdom rather than concentrating decision-making power, resonating with the commitment to technology that enhances rather than replaces human relationship and judgment in governance processes.
+
+---
+
+## Related Concepts
+
+- [Community](tags/[community](tags/community.md).md) - Collective organizing and mutual support
+- [Coordination](tags/[coordination](tags/coordination.md).md) - Mechanisms for collective action
+- [Mutual Aid](tags/mutual-aid.md) - Solidarity-based resource sharing
+- [Sustainability](tags/sustainability.md) - Regenerative approaches to organizing
+- [Power](tags/power.md) - Distribution and transformation dynamics

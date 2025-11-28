@@ -1,6 +1,6 @@
 ---
 title: Equity Matrix - Vancouver Foundation
-description: Practical tool from Vancouver Foundation distinguishing organizations that serve equity-denied communities from those led by affected communities, emphasizing proximity to issue and self-determination in funding decisions.
+description: Practical tool from Vancouver Foundation distinguishing organizations that serve equity-denied [communities](tags/community.md) from those led by affected [communities](tags/community.md), emphasizing proximity to issue and self-determination in funding decisions.
 publish: true
 type: framework-tool
 source: https://www.vancouverfoundation.ca/wp-content/uploads/2022/08/RR-Fund-Equity-Matrix.pdf
@@ -9,17 +9,17 @@ author:
 tags:
   - equity-matrix
   - vancouver-foundation
-  - community-leadership
+  - [community](tags/community.md)-leadership
   - proximity
   - funding-framework
   - self-determination
 ---
 
-Vancouver Foundation's Equity Matrix provides practical tool for funders to distinguish organizations serving equity-denied communities from those actually led by affected communities, addressing how well-intentioned funding often supports service providers rather than community self-determination. The matrix creates clear framework examining organizational leadership, decision-making power, and proximity to issues—recognizing that genuine equity requires resources flowing to communities defining their own solutions not professionals providing services to passive beneficiaries. Adapted from indigenous-led work, the tool embeds self-determination and community authority as foundational rather than optional considerations in equity funding.
+Vancouver Foundation's Equity Matrix provides practical tool for funders to distinguish organizations serving equity-denied [communities](tags/community.md) from those actually led by affected communities, addressing how well-intentioned funding often supports service providers rather than community self-determination. The matrix creates clear framework examining organizational leadership, decision-making [power](tags/power.md), and proximity to issues—recognizing that genuine equity requires resources flowing to communities defining their own solutions not professionals providing services to passive beneficiaries. Adapted from indigenous-led work, the tool embeds self-determination and community authority as foundational rather than optional considerations in equity funding.
 
 ### Key Highlights
 
-- **Leadership Distinction**: The matrix distinguishes serving communities from being led by communities—organizations can provide good services without redistributing power, while community-led initiatives center affected people in governance and decision-making.
+- **Leadership Distinction**: The matrix distinguishes serving communities from being led by communities—organizations can provide good services without redistributing power, while community-led initiatives center affected people in [governance](tags/governance.md) and decision-making.
 
 - **Proximity as Criterion**: Vancouver Foundation emphasizes proximity to issue—those experiencing inequity understand problems and solutions better than distant experts—making proximity fundamental equity consideration not peripheral add-on.
 
@@ -47,8 +47,18 @@ This matrix enables equity-centered funding:
 
 ### Connection With SuperBenefit
 
-- Vancouver Foundation's emphasis on community leadership versus service provision provides framework for SuperBenefit to evaluate whether coordination primitives enable genuine community self-determination or merely improve service delivery within unchanged power structures—showing that effective DAO governance requires centering those affected by decisions not just efficient implementation.
+- Vancouver Foundation's emphasis on community leadership versus service provision provides framework for SuperBenefit to evaluate whether [coordination](tags/coordination.md) primitives enable genuine community self-determination or merely improve service delivery within unchanged power structures—showing that effective DAO governance requires centering those affected by decisions not just efficient implementation.
 
 - The matrix's focus on proximity validates SuperBenefit's conviction that those experiencing challenges understand solutions better than distant experts, suggesting that coordination tools should amplify community wisdom rather than imposing predetermined frameworks claiming universal applicability—demonstrating that effective primitives enable communities to define their own coordination approaches.
 
 - Vancouver Foundation's indigenous attribution models how SuperBenefit should acknowledge knowledge sources and compensate wisdom-holders rather than appropriating frameworks without credit—showing that genuinely regenerative development requires honoring intellectual sovereignty and providing meaningful acknowledgment beyond nominal citation.
+
+---
+
+## Related Concepts
+
+- [Power](tags/power.md) - Dynamics in funding and resource distribution
+- [Community](tags/community.md) - Organizations and movements being funded
+- [Coordination](tags/[coordination](tags/coordination.md).md) - Mechanisms for collective resource allocation
+- [Impact](tags/[impact](tags/impact.md).md) - Outcomes and effectiveness measures
+- [Governance](tags/[governance](tags/governance.md).md) - Decision-making in funding contexts

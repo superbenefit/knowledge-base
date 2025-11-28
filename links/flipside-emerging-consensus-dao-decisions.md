@@ -15,7 +15,7 @@ tags:
   - participation-balance
 ---
 
-Flipside's emerging consensus framework addresses DAO governance challenge of balancing comprehensive participation with timely decision-making. Traditional consensus processes ensure broad input but can create gridlock when decisions require extensive deliberation, while rushed votes exclude those who need time to understand proposals. Emerging consensus enables action based on developing agreement among engaged participants while maintaining legitimacy through transparency and objection mechanisms. The framework shows how DAOs can move forward when consensus emerges among those actively participating rather than waiting for universal agreement or forcing premature votes, creating space for both swift execution and meaningful deliberation.
+Flipside's emerging consensus framework addresses [DAO](tags/daos.md) [governance](tags/governance.md) challenge of balancing comprehensive participation with timely decision-making. Traditional consensus processes ensure broad input but can create gridlock when decisions require extensive deliberation, while rushed votes exclude those who need time to understand proposals. Emerging consensus enables action based on developing agreement among engaged participants while maintaining legitimacy through transparency and objection mechanisms. The framework shows how DAOs can move forward when consensus emerges among those actively participating rather than waiting for universal agreement or forcing premature votes, creating space for both swift execution and meaningful deliberation.
 
 ### Key Highlights
 
@@ -52,3 +52,13 @@ Emerging consensus enables balanced DAO governance:
 - The recognition that different decisions warrant different participation levels resonates with SuperBenefit's understanding that coordination tools should enable graduated governance rather than forcing all choices through identical processes—suggesting that DAO primitives should support lightweight consensus for routine operations while enabling comprehensive deliberation for strategic decisions.
 
 - Flipside's emphasis on objection mechanisms rather than universal approval validates SuperBenefit's conviction that legitimate coordination doesn't require everyone actively participating in every decision but does require ensuring those with substantive concerns can voice opposition—showing that effective governance balances efficiency with genuine opportunity for meaningful input.
+
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Organizations navigating governance challenges
+- [Governance](tags/governance.md) - Decision-making systems explored
+- [Coordination](tags/coordination.md) - Mechanisms for collective action
+- [Decentralization](tags/decentralization.md) - Core principle examined
+- [Consensus](tags/consensus.md) - Decision-making processes

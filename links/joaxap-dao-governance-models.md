@@ -15,7 +15,7 @@ tags:
   - educational-overview
 ---
 
-joaxap's "DAO Governance Models 101" provides accessible educational overview of major governance approaches used in decentralized organizations, explaining voting mechanisms, delegation systems, multi-sig management, and decision-making structures without requiring technical blockchain expertise. The resource helps newcomers understand governance options including token voting, conviction voting, quadratic voting, liquid democracy, multi-signature wallets, and hybrid approaches, examining trade-offs around participation requirements, plutocracy risks, decision speed, and security considerations. Rather than prescribing optimal governance model, the educational approach helps readers understand how different mechanisms function, what challenges they address, and what new problems they might create—building governance literacy that enables informed participation and critical evaluation of coordination systems. This introductory framing serves audiences exploring DAO participation or considering decentralized governance for their communities without overwhelming them with technical implementation details.
+joaxap's "[DAO](tags/daos.md) [Governance](tags/governance.md) Models 101" provides accessible educational overview of major governance approaches used in decentralized organizations, explaining voting mechanisms, delegation systems, multi-sig management, and [decision-making](tags/decisions.md) structures without requiring technical [blockchain](tags/blockchain.md) expertise. The resource helps newcomers understand governance options including token voting, conviction voting, quadratic voting, liquid democracy, multi-signature wallets, and hybrid approaches, examining trade-offs around participation requirements, plutocracy risks, decision speed, and security considerations. Rather than prescribing optimal governance model, the educational approach helps readers understand how different mechanisms function, what challenges they address, and what new problems they might create—building governance literacy that enables informed participation and critical evaluation of [coordination](tags/coordination.md) systems. This introductory framing serves audiences exploring DAO participation or considering [decentralized](tags/decentralization.md) governance for their [communities](tags/community.md) without overwhelming them with technical implementation details.
 
 ### Key Highlights
 
@@ -43,10 +43,20 @@ This educational resource enables informed governance engagement:
 
 - DAO members can share resource with new participants during onboarding, building shared governance literacy that enables more informed participation and deliberation about coordination structure changes
 
-- Critical observers can use overview's trade-off analysis as starting point for deeper examination of governance mechanisms' power dynamics and participation challenges beyond promotional DAO discourse
+- Critical observers can use overview's trade-off analysis as starting point for deeper examination of governance mechanisms' [power](tags/power.md) dynamics and participation challenges beyond promotional DAO discourse
 
 ### Connection With SuperBenefit
 
-- joaxap's accessible governance education validates SuperBenefit's commitment to building coordination literacy rather than assuming communities automatically understand complex mechanisms, demonstrating that genuinely serving diverse audiences requires clear explanations of governance options and trade-offs accessible beyond crypto-native technical communities—showing that effective primitive development must integrate with educational resources helping people understand what coordination tools actually do, what power dynamics they create, and what participation patterns they enable or constrain, not just providing technically functional mechanisms without supporting informed community decision-making about appropriate governance approaches.
+- joaxap's accessible governance education validates SuperBenefit's commitment to building coordination literacy rather than assuming communities automatically understand complex mechanisms, demonstrating that genuinely serving diverse audiences requires clear explanations of governance options and trade-offs accessible beyond crypto-native technical communities—showing that effective [primitive](tags/primitives.md) development must integrate with educational resources helping people understand what coordination tools actually do, what power dynamics they create, and what participation patterns they enable or constrain, not just providing technically functional mechanisms without supporting informed community decision-making about appropriate governance approaches.
 
 - The resource's mechanism comparison without prescribing optimal approaches resonates with SuperBenefit's context-sensitive guidance helping communities choose coordination patterns fitting their needs rather than promoting universal solutions, illustrating that building governance literacy means helping people understand trade-offs and make informed decisions about what mechanisms serve their values and contexts—demonstrating that effective support for decentralized coordination requires not just developing primitives but cultivating capacity for communities to critically evaluate governance options and deliberately design coordination systems serving their purposes rather than adopting default mechanisms because they lack knowledge to assess alternatives.
+
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Organizations using these approaches
+- [Governance](tags/governance.md) - Decision-making frameworks explored
+- [Coordination](tags/coordination.md) - Collective action mechanisms
+- [DAO Primitives Framework](notes/dao-primitives/index.md) - SuperBenefit's pattern-based approach
+- [Frameworks](tags/frameworks.md) - Organizational structures analyzed

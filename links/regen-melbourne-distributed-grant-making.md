@@ -1,9 +1,9 @@
 ---
 title: Enabling a Thriving Civic Life - Regen Melbourne Distributed Grant Making
-description: Regen Melbourne report documenting participatory grant-making experiment using Wellbeing Protocol (Hum app) to enable distributed funding decisions, showing how digital tools can support community-led resource allocation beyond traditional philanthropy.
+description: Regen Melbourne report documenting participatory grant-making experiment using Wellbeing Protocol (Hum app) to enable distributed funding decisions, showing how digital tools can support [community](tags/community.md)-led resource allocation beyond traditional philanthropy.
 publish: true
 type: research-report
-source: https://www.regen.melbourne/news/new-urban-governance-first-report
+source: https://www.regen.melbourne/news/new-urban-[governance](tags/governance.md)-first-report
 author:
   - Regen Melbourne
 tags:
@@ -11,15 +11,15 @@ tags:
   - distributed-grant-making
   - wellbeing-protocol
   - participatory-funding
-  - urban-governance
+  - urban-[governance](tags/governance.md)
   - civic-technology
 ---
 
-Regen Melbourne's report documents participatory grant-making experiment using the Wellbeing Protocol (Hum app) to enable distributed funding decisions, demonstrating how digital coordination tools can support community-led resource allocation. The trial engaged diverse Melbourne residents in collective decision-making about funding local initiatives, testing whether participatory digital platforms could enhance civic engagement beyond traditional philanthropy's top-down expert models. Rather than treating technology as neutral infrastructure, the report examines how specific design choices—voting mechanisms, information presentation, facilitation approaches—shape who participates and what gets funded. This creates valuable documentation of digital participatory funding implementation, including both successes and persistent challenges around inclusion, deliberation quality, and decision legitimacy.
+Regen Melbourne's report documents participatory grant-making experiment using the Wellbeing Protocol (Hum app) to enable distributed funding decisions, demonstrating how digital [coordination](tags/coordination.md) tools can support [community](tags/community.md)-led resource allocation. The trial engaged diverse Melbourne residents in collective decision-making about funding local initiatives, testing whether participatory digital platforms could enhance civic engagement beyond traditional philanthropy's top-down expert models. Rather than treating technology as neutral infrastructure, the report examines how specific design choices—voting mechanisms, information presentation, facilitation approaches—shape who participates and what gets funded. This creates valuable documentation of digital participatory funding implementation, including both successes and persistent challenges around inclusion, deliberation quality, and decision legitimacy.
 
 ### Key Highlights
 
-- **Participatory Funding Practice**: The report documents actual implementation of distributed grant-making with real participants and funding decisions, providing concrete evidence of participatory mechanisms in urban governance context beyond theoretical frameworks.
+- **Participatory Funding Practice**: The report documents actual implementation of distributed grant-making with real participants and funding decisions, providing concrete evidence of participatory mechanisms in urban [governance](tags/governance.md) context beyond theoretical frameworks.
 
 - **Wellbeing Protocol Integration**: Regen Melbourne used the Hum app implementing Wellbeing Protocol to structure participation, demonstrating how purpose-built digital tools can support collective resource allocation processes.
 
@@ -52,3 +52,13 @@ This documentation enables participatory funding learning:
 - The report's honest assessment of both achievements and persistent challenges validates SuperBenefit's commitment to realistic evaluation of coordination tools, showing that genuinely serving communities requires acknowledging barriers around digital access, deliberation quality, and decision authority rather than treating participation technology as automatic solution to funding democracy deficits.
 
 - Documentation of how Wellbeing Protocol design choices affected outcomes provides lessons for SuperBenefit's primitive development, illustrating how seemingly technical decisions about voting mechanisms or information architecture shape who participates and what gets funded—demonstrating that coordination tools unavoidably encode political choices about voice, authority, and value that should be made explicit rather than buried in technical implementation.
+
+---
+
+## Related Concepts
+
+- [ReFi](tags/refi.md) - Regenerative finance and alternative economics
+- [Coordination](tags/coordination.md) - Mechanisms for resource allocation
+- [Community](tags/[community](tags/community.md).md) - Local and regional organizing
+- [Sustainability](tags/sustainability.md) - Ecological and social resilience
+- [Governance](tags/governance.md) - Decision-making about resource distribution

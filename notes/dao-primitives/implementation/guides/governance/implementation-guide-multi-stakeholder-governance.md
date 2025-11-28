@@ -529,3 +529,16 @@ The separation between stakeholder guidance and operational execution is central
 
 
 
+
+---
+
+## Related Concepts
+
+- [Multi-Stakeholder Governance](artifacts/patterns/community-governance.md) - Pattern for community-level governance
+- [Operational Governance](artifacts/patterns/operational-governance.md) - Day-to-day execution within stakeholder-set boundaries
+- [Cell](artifacts/patterns/cell.md) - Small autonomous teams that form operational structure
+- [Governance](tags/governance.md) - Decision-making frameworks and processes
+- [Coordination](tags/coordination.md) - Mechanisms for aligning stakeholder and operational activities
+- [DAOs](tags/daos.md) - Organizations using multi-stakeholder governance
+- [Primitives](tags/primitives.md) - Building blocks for governance systems
+- [Teams](tags/teams.md) - Stakeholder groups and operational cells

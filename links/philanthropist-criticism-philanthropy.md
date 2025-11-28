@@ -1,6 +1,6 @@
 ---
 title: The Philanthropist - Criticism is Good for Philanthropy, If Done Well
-description: Article examining role of critical analysis in improving philanthropic practice, arguing that constructive criticism strengthens sector by exposing power imbalances and effectiveness gaps while exploring how philanthropy can create cultures welcoming accountability rather than defensiveness.
+description: Article examining role of critical analysis in improving philanthropic practice, arguing that constructive criticism strengthens sector by exposing [power](tags/power.md) imbalances and effectiveness gaps while exploring how philanthropy can create cultures welcoming accountability rather than defensiveness.
 publish: true
 type: essay
 source: https://thephilanthropist.ca/2023/12/criticism-is-good-for-philanthropy-if-done-well/
@@ -9,13 +9,13 @@ author:
 tags:
   - philanthropy-critique
   - accountability
-  - power-dynamics
+  - [power](tags/power.md)-dynamics
   - philanthropic-practice
   - constructive-criticism
   - sector-improvement
 ---
 
-This essay in The Philanthropist journal argues that critical analysis strengthens philanthropic practice by exposing power imbalances, questioning effectiveness assumptions, and surfacing unintended harms—yet acknowledges that criticism often triggers defensiveness rather than learning in sector accustomed to positive public narrative. The piece examines what makes criticism constructive versus destructive, exploring how critics can center community voices, ground analysis in evidence, and offer pathways forward rather than only highlighting failures. Simultaneously, the article challenges funders to cultivate cultures welcoming accountability, recognizing that defensive responses to criticism protect organizational comfort over genuine commitment to communities served. The analysis connects to broader conversations about philanthropic power, community agency, and how resource distribution systems can genuinely support rather than control social change efforts.
+This essay in The Philanthropist journal argues that critical analysis strengthens philanthropic practice by exposing [power](tags/power.md) imbalances, questioning effectiveness assumptions, and surfacing unintended harms—yet acknowledges that criticism often triggers defensiveness rather than learning in sector accustomed to positive public narrative. The piece examines what makes criticism constructive versus destructive, exploring how critics can center [community](tags/community.md) voices, ground analysis in evidence, and offer pathways forward rather than only highlighting failures. Simultaneously, the article challenges funders to cultivate cultures welcoming accountability, recognizing that defensive responses to criticism protect organizational comfort over genuine commitment to communities served. The analysis connects to broader conversations about philanthropic power, community agency, and how resource distribution systems can genuinely support rather than control social change efforts.
 
 ### Key Highlights
 
@@ -37,7 +37,7 @@ This framework enables accountability culture:
 
 - Philanthropic organizations can use article's principles to create cultures welcoming criticism, establishing feedback mechanisms that genuinely seek community input rather than performing accountability while resisting change
 
-- Grant-making DAOs can apply analysis to their own governance, recognizing how funding power creates imbalances even in "decentralized" systems and building accountability structures that protect critics from retaliation
+- Grant-making DAOs can apply analysis to their own [governance](tags/governance.md), recognizing how funding power creates imbalances even in "decentralized" systems and building accountability structures that protect critics from retaliation
 
 - Critics of philanthropic and funding systems can reference constructive criticism principles, strengthening analyses by centering community voices, offering alternatives, and grounding arguments in evidence beyond anecdotal frustrations
 
@@ -47,6 +47,16 @@ This framework enables accountability culture:
 
 ### Connection With SuperBenefit
 
-- The article's analysis of how philanthropic power imbalances suppress criticism validates SuperBenefit's attention to power dynamics in funding systems, demonstrating that even decentralized funding mechanisms face similar challenges if token-weighted governance or financial gatekeeping creates dependencies preventing honest feedback—showing that genuinely accountable coordination primitives must protect critics from retaliation and center community voices in evaluation, not just technically distribute decision-making while maintaining structural power imbalances through different mechanisms.
+- The article's analysis of how philanthropic power imbalances suppress criticism validates SuperBenefit's attention to power dynamics in funding systems, demonstrating that even decentralized funding mechanisms face similar challenges if token-weighted governance or financial gatekeeping creates dependencies preventing honest feedback—showing that genuinely accountable [coordination](tags/coordination.md) primitives must protect critics from retaliation and center community voices in evaluation, not just technically distribute decision-making while maintaining structural power imbalances through different mechanisms.
 
 - The emphasis on how defensive organizational cultures resist learning from criticism resonates with SuperBenefit's commitment to reflective practice and adaptive governance, illustrating that effective coordination tools should enable communities to surface critiques, examine failures, and adjust practices based on feedback rather than optimizing for positive narratives that protect organizational comfort over genuine service to communities—demonstrating that regenerative governance requires cultural capacity for self-examination alongside technical coordination infrastructure.
+
+---
+
+## Related Concepts
+
+- [Power](tags/power.md) - Dynamics in funding and resource distribution
+- [Community](tags/community.md) - Organizations and movements being funded
+- [Coordination](tags/[coordination](tags/coordination.md).md) - Mechanisms for collective resource allocation
+- [Impact](tags/[impact](tags/impact.md).md) - Outcomes and effectiveness measures
+- [Governance](tags/governance.md) - Decision-making in funding contexts

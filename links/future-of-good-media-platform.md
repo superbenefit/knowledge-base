@@ -15,7 +15,7 @@ tags:
   - sector-analysis
 ---
 
-Future of Good serves as Canadian media platform focused on social impact sector, providing journalism covering nonprofit innovations, social enterprise developments, philanthropic trends, and community-led change initiatives. Rather than treating social impact as niche specialty, the platform positions changemakers and their work as central to addressing societal challenges, offering both news reporting and practical resources. Coverage spans funding models, organizational practices, policy developments, and community organizing, with particular attention to Canadian context while connecting to global movements. The platform combines traditional journalism with community features including resource directories, event listings, and practitioner networking, serving as hub for social sector practitioners seeking both information about field developments and actionable guidance for their work. This positions Future of Good at intersection of impact journalism and sector infrastructure building.
+Future of Good serves as Canadian media platform focused on social impact sector, providing journalism covering nonprofit innovations, social enterprise developments, philanthropic trends, and [community](tags/community.md)-led change initiatives. Rather than treating social impact as niche specialty, the platform positions changemakers and their work as central to addressing societal challenges, offering both news reporting and practical resources. Coverage spans funding models, organizational practices, policy developments, and community [organizing](tags/organizing.md), with particular attention to Canadian context while connecting to global movements. The platform combines traditional journalism with community features including resource directories, event listings, and practitioner networking, serving as hub for social sector practitioners seeking both information about field developments and actionable guidance for their work. This positions Future of Good at intersection of impact journalism and sector infrastructure building.
 
 ### Key Highlights
 
@@ -37,7 +37,7 @@ This platform enables sector connection and learning:
 
 - Canadian nonprofit practitioners can stay informed about sector developments, funding opportunities, policy changes, and organizational innovations relevant to their work, accessing consolidated coverage rather than monitoring multiple scattered sources
 
-- Social impact organizations exploring new models can reference Future of Good's coverage of innovation approaches including earned revenue, participatory governance, community ownership, and collaborative structures, learning from peer examples
+- Social impact organizations exploring new models can reference Future of Good's coverage of innovation approaches including earned revenue, participatory [governance](tags/governance.md), community ownership, and collaborative structures, learning from peer examples
 
 - Funders and philanthropists can understand nonprofit sector perspective on funding practices, learning how grant-making approaches affect organizations and what changes practitioners advocate for in philanthropic models
 
@@ -50,3 +50,13 @@ This platform enables sector connection and learning:
 - Future of Good's integration of journalism with practical resources demonstrates how information platforms can serve changemakers not just by documenting developments but by supporting practice, validating SuperBenefit's knowledge garden approach that combines analysis with actionable guidance—though SuperBenefit's more explicitly values-driven curation and systems-level frameworks offer important complement to Future of Good's journalistic model, showing different approaches to supporting social impact practitioners through curated knowledge and shared resources.
 
 - The platform's cross-sector coverage bridging traditional nonprofits, social enterprises, community organizing, and emerging models resonates with SuperBenefit's recognition that social change happens through diverse approaches requiring understanding connections and shared challenges across organizational forms, illustrating that effective support for changemakers means spanning conventional sector boundaries rather than privileging particular organizational models or change strategies as exclusively legitimate paths to impact.
+
+---
+
+## Related Concepts
+
+- [Community](tags/community.md) - Local and network organizing
+- [Coordination](tags/coordination.md) - Mechanisms for collective action
+- [Governance](tags/governance.md) - Decision-making and leadership frameworks
+- [Culture](tags/culture.md) - Values and practices shaping coordination
+- [Sustainability](tags/sustainability.md) - Regenerative community approaches

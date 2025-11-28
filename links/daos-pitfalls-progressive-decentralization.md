@@ -15,7 +15,7 @@ tags:
   - decentralization
 ---
 
-This Gardens analysis provides critical examination of "progressive decentralization"—the common pattern where DAOs launch with centralized founder control, promising to gradually distribute power over time. While presented as pragmatic path from startup to true decentralization, the article reveals how this approach often becomes permanent excuse for maintaining founder privilege while claiming DAO status. Gardens explores how progressive decentralization rhetoric lets founders retain control while enjoying DAO branding benefits, how promised timelines slip indefinitely, and how early power concentration creates structural barriers to genuine redistribution. The critique doesn't argue all DAOs must launch fully decentralized, but demands honesty about power dynamics and concrete mechanisms ensuring promised transitions actually occur rather than progressive decentralization becoming permanent centralization with decentralized aesthetics.
+This Gardens analysis provides critical examination of "progressive [decentralization](tags/decentralization.md)"—the common pattern where [DAOs](tags/daos.md) launch with centralized founder control, promising to gradually distribute [power](tags/power.md) over time. While presented as pragmatic path from startup to true decentralization, the article reveals how this approach often becomes permanent excuse for maintaining founder privilege while claiming DAO status. Gardens explores how progressive decentralization rhetoric lets founders retain control while enjoying DAO branding benefits, how promised timelines slip indefinitely, and how early power concentration creates structural barriers to genuine redistribution. The critique doesn't argue all DAOs must launch fully decentralized, but demands honesty about power dynamics and concrete mechanisms ensuring promised transitions actually occur rather than progressive decentralization becoming permanent centralization with decentralized aesthetics.
 
 ### Key Highlights
 
@@ -23,17 +23,17 @@ This Gardens analysis provides critical examination of "progressive decentraliza
 
 - **Structural Lock-In**: Gardens examines how early centralization creates path dependencies making later decentralization difficult—founders accumulate tokens, control key infrastructure, shape culture and norms, and build institutional knowledge that becomes practically irreplaceable even if formally power could transfer.
 
-- **Governance Theater**: The piece identifies pattern where DAOs create participation appearance through votes on minor decisions while founders retain control over fundamental choices, giving community sense of voice without actual power redistribution that would threaten founder interests.
+- **Governance Theater**: The piece identifies pattern where DAOs create participation appearance through votes on minor [decisions](tags/decisions.md) while founders retain control over fundamental choices, giving [community](tags/community.md) sense of voice without actual power redistribution that would threaten founder interests.
 
 - **Concrete Transition Mechanisms**: Rather than rejecting staged approaches entirely, Gardens argues for binding commitments with specific triggers, timelines, and verification—showing difference between genuine transition plans and vague promises used to delay power-sharing indefinitely.
 
-- **Who Benefits**: The analysis asks whose interests progressive decentralization serves, revealing how founders enjoy both startup agility and DAO community benefits without accountability constraints of either traditional incorporation or genuine distributed governance.
+- **Who Benefits**: The analysis asks whose interests progressive decentralization serves, revealing how founders enjoy both startup agility and DAO community benefits without accountability constraints of either traditional incorporation or genuine distributed [governance](tags/governance.md).
 
 ### Practical Applications
 
 This critique enables more honest DAO governance evaluation:
 
-- DAO participants can use Gardens' framework to evaluate whether "progressive decentralization" represents genuine transition plan or indefinite deferral, demanding concrete timelines, triggers, and mechanisms rather than accepting vague promises
+- DAO participants can use Gardens' [framework](tags/frameworks.md) to evaluate whether "progressive decentralization" represents genuine transition plan or indefinite deferral, demanding concrete timelines, triggers, and mechanisms rather than accepting vague promises
 
 - Founders can apply the analysis when designing launch governance, creating binding commitments to power redistribution with verification mechanisms rather than assuming good intentions suffice for eventual decentralization
 
@@ -45,8 +45,18 @@ This critique enables more honest DAO governance evaluation:
 
 ### Connection With SuperBenefit
 
-- Gardens' critique of progressive decentralization as excuse for founder control challenges SuperBenefit to examine how DAO primitives can create enforceable power redistribution rather than merely enabling promises that founders can indefinitely defer—suggesting that coordination tools should include mechanisms ensuring transitions actually occur if genuine decentralization is goal.
+- Gardens' critique of progressive decentralization as excuse for founder control challenges SuperBenefit to examine how DAO [primitives](tags/primitives.md) can create enforceable power redistribution rather than merely enabling promises that founders can indefinitely defer—suggesting that [coordination](tags/coordination.md) tools should include mechanisms ensuring transitions actually occur if genuine decentralization is goal.
 
 - The analysis of governance theater—participation in marginal decisions while founders retain fundamental control—resonates with SuperBenefit's understanding that meaningful governance requires distributing power over consequential choices, not just creating appearance of participation through votes on implementation details.
 
 - Gardens' demand for concrete transition mechanisms validates SuperBenefit's emphasis on power-aware design, showing that genuine decentralization requires intentional structures preventing power concentration rather than assuming founders will voluntarily redistribute control once projects succeed and they've accumulated tokens, knowledge, and institutional position that would be sacrificed through actual power-sharing.
+
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Organizations navigating governance challenges
+- [Governance](tags/governance.md) - Decision-making systems explored
+- [Coordination](tags/coordination.md) - Mechanisms for collective action
+- [Decentralization](tags/decentralization.md) - Core principle examined
+- [Consensus](tags/consensus.md) - Decision-making processes

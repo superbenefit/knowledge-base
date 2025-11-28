@@ -43,3 +43,12 @@ In this context, power is viewed as a systemic property that needs fundamental r
 4. New ownership models and economic systems that create more balanced stakeholder relationships
 
 Unlike approaches that view power primarily as individual agency within existing systems, the Reimagining Power project focuses on transforming the underlying structures and mechanisms that create and maintain systemic power imbalances across global social, economic, and governance systems.
+---
+
+## Related Concepts
+
+- [Governance](tags/governance.md) - Distribution of decision-making power
+- [DAOs](tags/daos.md) - Organizations reimagining power structures
+- [Decentralization](tags/decentralization.md) - Power distribution approaches
+- [Community Governance](artifacts/patterns/community-governance.md) - Shared power patterns
+- [Autonomy](tags/autonomy.md) - Self-directed power

@@ -8,7 +8,7 @@ tags:
 publish: true
 ---
 
-The **Collaborative Initiative Specification Template 2.0** provides a structured framework for organizing and executing collaborative projects. It includes key sections like the project’s purpose, scope, stakeholders, governance models, decision-making processes, and success metrics. The template emphasizes clarity and accountability, ensuring that all participants understand their roles and contributions while promoting transparent and decentralized collaboration.
+The **Collaborative Initiative Specification Template 2.0** provides a structured framework for organizing and executing collaborative projects. It includes key sections like the project’s purpose, scope, stakeholders, [governance](tags/governance.md) models, [decision-making](tags/decision-making.md) processes, and success metrics. The template emphasizes clarity and accountability, ensuring that all participants understand their roles and contributions while promoting transparent and [decentralized](tags/decentralization.md) collaboration.
 
 This concept is similar to the SuperBenefit meme of group state.
 
@@ -16,11 +16,11 @@ This concept is similar to the SuperBenefit meme of group state.
 
 # Collaborative Initiative Proposal Template
 
-*The purpose of this proposal template is to provision a minimum viable coordination scaffolding for ephemeral collaborative groups who seek to align efforts towards a mutually consented and aspired collective action. The Context templates encourages collaborative initiatives to consider their alignment around a shared systemic outcome. The Agreements templates encourage consensual fields of peer accountability and collective intelligence that can function as a coherent stigmergic swarm of shared agency.*
+*The purpose of this proposal template is to provision a minimum viable [coordination](tags/coordination.md) scaffolding for ephemeral collaborative groups who seek to align efforts towards a mutually consented and aspired collective action. The Context templates encourages collaborative initiatives to consider their alignment around a shared systemic outcome. The Agreements templates encourage consensual fields of peer accountability and collective intelligence that can function as a coherent stigmergic swarm of shared agency.*
 
 *This template is offered free and open-source while simultaneously serving as an open protocol for the OpenCivics Consortium Initiatives Program. It is intended to function best with support from the OpenCivics Knowledge Commons and Open Protocol Library which offer modular components that can be utilized to operationalize each field of agreement.*
 
-*Within the OpenCivics Network, Collaborative Initiatives are autonomous DAOs which may elect to enter into a fiscal hosting relationship with the OpenCivics Foundation should they be deemed within the scope of tax deductible activities for which the OpenCivics Foundation maintains a fiduciary and reporting responsibility.* 
+*Within the OpenCivics Network, Collaborative Initiatives are autonomous [DAOs](tags/daos.md) which may elect to enter into a fiscal hosting relationship with the OpenCivics Foundation should they be deemed within the scope of tax deductible activities for which the OpenCivics Foundation maintains a fiduciary and reporting responsibility.* 
 
 *Learn more about [Collaborative Initiatives](#).*
 
@@ -168,7 +168,7 @@ Conception is the initial phase of generating and formulating new ideas, visions
 
 ### **Gestation**
 
-Gestation is the period during which ideas, plans, or initiatives are developed, refined, and prepared for implementation. This stage involves nurturing, organizing, and iterating on the initial concept, ensuring it matures and evolves into a viable and actionable form that can contribute effectively to the social ecology. The gestation process involves further sensemaking and mapping of community needs, testing the hypothesis of the initial conception period, and developing the internal membranes, roles, and flows necessary for the organism to begin to fulfill its ecological purpose. As roles are defined and additional agents are included in the development process, governance mechanisms are needed to support initial decision making processes and establish the nested functions and flows that will support the organism in achieving its purpose as it matures.
+Gestation is the period during which ideas, plans, or initiatives are developed, refined, and prepared for implementation. This stage involves nurturing, organizing, and iterating on the initial concept, ensuring it matures and evolves into a viable and actionable form that can contribute effectively to the social ecology. The gestation process involves further sensemaking and mapping of [community](tags/community.md) needs, testing the hypothesis of the initial conception period, and developing the internal membranes, roles, and flows necessary for the organism to begin to fulfill its ecological purpose. As roles are defined and additional agents are included in the development process, governance mechanisms are needed to support initial decision making processes and establish the nested functions and flows that will support the organism in achieving its purpose as it matures.
 
 ### **Maturation**
 
@@ -177,3 +177,11 @@ Maturation is the phase of development in which the social organism is fully ful
 ### **Decomposition**
 
 Once the social organism has reached the peak of its maturity, it begins the process of decomposition and death. This phase of the lifecycle is focused on integrating the evolutionary learnings of the dying generation into the core DNA of the rising one. The decomposition process includes contributing the constituent parts of the organism back to the commons where they can be re-composed into new life as well as the evolutionary process of maintaining whatever aspect of the organism’s iterative experimentation was life-affirming. This process of natural selection, applied to social organisms, supports the ongoing evolutionary feedback process of iterative development, improvement, and refinement.
+---
+
+## Related Concepts
+
+- [Governance](tags/governance.md) - Decision-making frameworks
+- [DAOs](tags/daos.md) - Decentralized organizations
+- [Primitives](tags/primitives.md) - Building blocks for organization
+- [Coordination](tags/coordination.md) - Collective action mechanisms

@@ -24,3 +24,12 @@ You get a decentralized autonomous organization. And a starling murmuration. The
 *Murmurations have no social hierarchy or leader – yet they move collectively in unison, gathering together to share information. The beautiful diversity shared between DAOs and starlings proves that their variations makes them stronger than their strongest members, and more unique in their collective individuality.*
 
 This is the first video of a three part-series that compares DAOs to nature, because what better way to describe the straightforward spontaneity of a community, than to compare it to the physical phonomena that does it best?
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Organizations with emergent coordination
+- [Emergence](tags/emergence.md) - Self-organizing patterns without central control
+- [Coordination](tags/coordination.md) - Distributed coordination mechanisms
+- [Networks](tags/networks.md) - Swarm-like organizational structures
+- [Metaphors](tags/metaphors.md) - Understanding DAOs through natural phenomena

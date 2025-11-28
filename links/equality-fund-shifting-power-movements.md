@@ -1,21 +1,21 @@
 ---
 title: Shifting Power to Catalyze Movements - Equality Fund Framework
-description: Power-shifting and movement-building framework from Equality Fund exploring how funders can genuinely redistribute power to catalyze social movements rather than controlling movement direction through philanthropic capital.
+description: Power-shifting and movement-building framework from Equality Fund exploring how funders can genuinely redistribute [power](tags/power.md) to catalyze social movements rather than controlling movement direction through philanthropic capital.
 publish: true
 type: framework
-source: https://equalityfund.ca/learn/shifting-power-to-catalyze-movements/
+source: https://equalityfund.ca/learn/shifting-[power](tags/power.md)-to-catalyze-movements/
 author:
   - Equality Fund
 tags:
-  - power-shifting
+  - [power](tags/power.md)-shifting
   - movement-building
   - feminist-philanthropy
-  - power-redistribution
+  - [power](tags/power.md)-redistribution
   - social-movements
   - equality-fund
 ---
 
-Equality Fund's framework articulates how funders can shift power to movement actors rather than consolidating control through philanthropic resources. Moving beyond charity models where funders determine priorities and measure success, the framework explores how to redistribute decision-making, resources, and legitimacy to communities leading social change. This requires funders to release control, trust movement wisdom, provide flexible long-term support, and use power intentionally to open doors and shift systems rather than directing how movements operate. The work addresses uncomfortable reality that traditional philanthropy concentrates power with wealthy elites while claiming to serve social justice, offering alternative practices that genuinely support movement autonomy and self-determination.
+Equality Fund's framework articulates how funders can shift [power](tags/power.md) to movement actors rather than consolidating control through philanthropic resources. Moving beyond charity models where funders determine priorities and measure success, the framework explores how to redistribute decision-making, resources, and legitimacy to [communities](tags/community.md) leading social change. This requires funders to release control, trust movement wisdom, provide flexible long-term support, and use power intentionally to open doors and shift systems rather than directing how movements operate. The work addresses uncomfortable reality that traditional philanthropy concentrates power with wealthy elites while claiming to serve social justice, offering alternative practices that genuinely support movement autonomy and self-determination.
 
 ### Key Highlights
 
@@ -25,11 +25,11 @@ al**: The framework centers power analysis in philanthropy, recognizing that res
 
 - **Releasing Control**: Equality Fund articulates concrete practices for funders to release control—unrestricted multi-year funding, trusting movement strategy, accepting that success may not align with funder expectations, and recognizing that movements understand their contexts better than distant philanthropists.
 
-- **Redistributing Decision-Making**: Beyond individual grant decisions, the framework explores how to redistribute power over funding priorities, allocation processes, and success metrics—bringing movement actors into governance roles that shape philanthropic strategy rather than merely receiving predetermined grants.
+- **Redistributing Decision-Making**: Beyond individual grant decisions, the framework explores how to redistribute power over funding priorities, allocation processes, and success metrics—bringing movement actors into [governance](tags/governance.md) roles that shape philanthropic strategy rather than merely receiving predetermined [grants](tags/grants.md).
 
 - **Using Funder Power Intentionally**: Rather than pretending funders don't have power, Equality Fund shows how to use philanthropic influence intentionally to shift systems—opening access, amplifying movement voices, challenging other funders, and leveraging institutional credibility in service of movement-defined goals.
 
-- **Movement-Centered Metrics**: The work challenges conventional impact measurement, showing how funder-defined metrics can undermine movement autonomy by forcing translation of complex social change into simplified quantifiable outcomes that serve funder accountability rather than movement learning.
+- **Movement-Centered Metrics**: The work challenges conventional [impact](tags/impact.md) measurement, showing how funder-defined metrics can undermine movement autonomy by forcing translation of complex social change into simplified quantifiable outcomes that serve funder accountability rather than movement learning.
 
 - **Sustained Investment**: Shifting power requires long-term commitment rather than short-term project funding, recognizing that movement-building happens across years and decades while traditional philanthropy optimizes for annual reporting cycles incompatible with sustained social change.
 
@@ -51,6 +51,16 @@ This framework enables power-shifting philanthropic practice:
 
 - Equality Fund's power-shifting framework directly challenges SuperBenefit to examine how DAO treasuries and funding mechanisms actually redistribute decision-making power rather than merely changing who holds tokens—revealing that genuine power redistribution requires not just different allocation mechanisms but willingness to release funder control and trust community wisdom about priorities.
 
-- The emphasis on movement-centered metrics rather than funder-defined success measures resonates with SuperBenefit's understanding that coordination tools should enable communities to define thriving on their own terms instead of imposing predetermined outcomes that serve external accountability but may undermine community autonomy and learning.
+- The emphasis on movement-centered metrics rather than funder-defined success measures resonates with SuperBenefit's understanding that [coordination](tags/coordination.md) tools should enable communities to define thriving on their own terms instead of imposing predetermined outcomes that serve external accountability but may undermine community autonomy and learning.
 
 - Equality Fund's call for sustained long-term investment validates SuperBenefit's conviction that effective coordination requires patience and multi-year commitment rather than optimizing for transaction speed—showing that genuine relationship-building and power redistribution happen across years, not through rapid iteration that extracts short-term value while undermining sustained community capacity.
+
+---
+
+## Related Concepts
+
+- [Power](tags/power.md) - Distribution and transformation in funding relationships
+- [Governance](tags/[governance](tags/governance.md).md) - Decision-making in philanthropic contexts
+- [Community](tags/[community](tags/community.md).md) - Leadership and self-determination
+- [Coordination](tags/[coordination](tags/coordination.md).md) - Mechanisms for resource distribution
+- [Grants](tags/[grants](tags/grants.md).md) - Funding approaches and practices

@@ -1,21 +1,21 @@
 ---
 title: Community Land Trusts in Canada
-description: Network documenting Canadian community land trusts (CLTs) implementing commons-based land governance where communities collectively own land while individuals hold buildings, removing land from speculative markets to ensure permanent affordability.
+description: Network documenting Canadian [community](tags/community.md) land trusts (CLTs) implementing [commons](tags/commons.md)-based land [governance](tags/governance.md) where [communities](tags/community.md) collectively own land while individuals hold buildings, removing land from speculative markets to ensure permanent affordability.
 publish: true
 type: network-resource
 source: https://www.communityland.ca/canadian-clts/
 author:
   - Community Land Trust Network
 tags:
-  - community-land-trusts
-  - commons-governance
+  - [community](tags/community.md)-land-trusts
+  - [commons](tags/commons.md)-[governance](tags/governance.md)
   - affordable-housing
   - land-stewardship
   - canada
   - cooperative-ownership
 ---
 
-This resource documents Canadian community land trust movement implementing commons-based land governance as alternative to private property and speculative real estate markets. CLTs separate land ownership (held by community trust) from building ownership (held by individuals or cooperatives), removing land from commodity markets while enabling affordable housing and community control. The trust holds land in perpetuity for community benefit, leasing to residents at affordable rates with resale restrictions preventing speculative profit. This creates permanent affordability rather than temporary subsidies, demonstrates commons governance at community scale, and shows how collective land stewardship can serve housing justice and community stability against displacement pressures.
+This resource documents Canadian [community](tags/community.md) land trust movement implementing [commons](tags/commons.md)-based land [governance](tags/governance.md) as alternative to private property and speculative real estate markets. CLTs separate land ownership (held by community trust) from building ownership (held by individuals or cooperatives), removing land from commodity markets while enabling affordable housing and community control. The trust holds land in perpetuity for community benefit, leasing to residents at affordable rates with resale restrictions preventing speculative profit. This creates permanent affordability rather than temporary subsidies, demonstrates commons governance at community scale, and shows how collective land stewardship can serve housing justice and community stability against displacement pressures.
 
 ### Key Highlights
 
@@ -47,8 +47,18 @@ CLT model enables commons land governance:
 
 ### Connection With SuperBenefit
 
-- Canadian CLTs demonstrate how commons governance operates at community scale for essential resources, providing proven model for SuperBenefit's exploration of coordination primitives serving collective stewardship—showing that participatory governance of shared resources works in practice when structured around clear membership, collective benefit, and long-term orientation rather than short-term individual gain.
+- Canadian CLTs demonstrate how commons governance operates at community scale for essential resources, providing proven model for SuperBenefit's exploration of [coordination](tags/coordination.md) primitives serving collective stewardship—showing that participatory governance of shared resources works in practice when structured around clear membership, collective benefit, and long-term orientation rather than short-term individual gain.
 
 - The CLT emphasis on permanent affordability through removing resources from speculative markets resonates with SuperBenefit's regenerative economics focus, demonstrating that genuine alternatives to extraction require structural changes preventing commodification rather than temporary interventions within market logics—suggesting that effective coordination should create commons rather than merely redistributing who profits from extraction.
 
 - CLT network's documentation of functioning examples validates SuperBenefit's pattern-based approach learning from proven implementations, showing that coordination primitive development should draw on decades of commons governance experience rather than assuming blockchain represents entirely novel coordination requiring design from first principles—commons patterns work across contexts when adapted appropriately.
+
+---
+
+## Related Concepts
+
+- [Community](tags/community.md) - Collective organizing and mutual support
+- [Coordination](tags/[coordination](tags/coordination.md).md) - Mechanisms for collective action
+- [Mutual Aid](tags/mutual-aid.md) - Solidarity-based resource sharing
+- [Sustainability](tags/[sustainability](tags/sustainability.md).md) - Regenerative approaches to organizing
+- [Power](tags/[power](tags/power.md).md) - Distribution and transformation dynamics

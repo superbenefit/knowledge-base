@@ -234,3 +234,13 @@ Glo Dollar represents blockchain-themed traditional finance rather than transfor
 - Bennett: [Only 50% of self-identified ReFi projects demonstrate genuine regenerative alignment](https://www.frontiersin.org/journals/blockchain/articles/10.3389/fbloc.2025.1564083/full)
 - Schletz et al.: [Gap between regenerative rhetoric and implementation](https://www.frontiersin.org/journals/blockchain/articles/10.3389/fbloc.2023.1165133/full), power asymmetries persist despite decentralization claims
 - [CoinGecko: Understanding Risk of Rebase Tokens](https://www.coingecko.com/learn/understanding-risk-of-rebase-tokens-through-smart-contract-analysis)
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Organizations using tokenized funding
+- [Primitives](tags/primitives.md) - Smart contract primitives for funding mechanisms
+- [Governance](tags/governance.md) - Community governance of tokenized funds
+- [Coordination](tags/coordination.md) - Transparent coordination through onchain funding
+- [Fiscal Bridge Pattern](artifacts/patterns/fiscal-bridge-pattern.md) - Connecting traditional and tokenized funding
+- [DeFi](tags/defi.md) - Decentralized finance primitives for yield generation

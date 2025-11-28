@@ -14,21 +14,21 @@ tags:
   - coordination
 ---
 
-The Blockchain Governance Toolkit provides a structured yet flexible approach to designing governance systems for blockchain networks. Created by BlockchainGov, this "cookbook" offers developers and community leaders a framework for creating governance structures that balance competing priorities while maintaining resilience and adaptability. Rather than prescribing one-size-fits-all solutions, the toolkit embraces the inherent trade-offs in governance design and provides modular components that can be combined based on context-specific needs.
+The [Blockchain](tags/blockchain.md) [Governance](tags/governance.md) Toolkit provides a structured yet flexible approach to designing governance systems for blockchain networks. Created by BlockchainGov, this "cookbook" offers developers and [community](tags/community.md) leaders a framework for creating governance structures that balance competing priorities while maintaining resilience and adaptability. Rather than prescribing one-size-fits-all solutions, the toolkit embraces the inherent trade-offs in governance design and provides modular components that can be combined based on context-specific needs.
 
 ### Framework Elements
 
 The toolkit is organized around several key components:
 
 **1. Governance Trade-offs (Flavors)**: Blockchain governance involves trade-offs across three dimensions:
-- **Expediency vs. Participation**: Balancing between fast, cost-effective decisions made by a select few versus more inclusive decision-making involving a broader group of stakeholders
+- **Expediency vs. [Participation](tags/participation.md)**: Balancing between fast, cost-effective decisions made by a select few versus more inclusive [decision-making](tags/decision-making.md) involving a broader group of stakeholders
 - **Immutability vs. Adaptability**: Weighing permanent governance rules versus flexible rules that can change in response to internal and external developments
 - **Determinism vs. Discretion**: Choosing between hard-coded, self-executing on-chain rules and more discretionary, human-driven governance processes
 
-**2. Governance Primitives (Ingredients)**: Building blocks that vary in scale and composability, including multi-signature councils, token-weighted voting, proof-of-personhood protocols, and quadratic voting.
+**2. Governance [Primitives](tags/primitives.md) (Ingredients)**: Building blocks that vary in scale and composability, including multi-signature councils, token-weighted voting, proof-of-personhood protocols, and quadratic voting.
 
 **3. Safeguards**: Essential counterbalances that ensure resilience:
-- For Expediency: Recall mechanisms, slashing, and power checks
+- For Expediency: Recall mechanisms, slashing, and [power](tags/power.md) checks
 - For Participation: Whitelisting and decay functions  
 - For Immutability: Exit, hard forking, and exception states
 - For Adaptability: Formal blockchain constitutions
@@ -50,8 +50,8 @@ The toolkit is organized around several key components:
 
 The toolkit can be applied across various blockchain contexts to:
 
-- Design new governance systems for emerging L1/L2 networks that balance decentralization with operational efficiency
-- Evolve governance for existing DAOs and protocols facing coordination challenges at scale
+- Design new governance systems for emerging L1/L2 networks that balance [decentralization](tags/decentralization.md) with operational efficiency
+- Evolve governance for existing [DAOs](tags/daos.md) and protocols facing [coordination](tags/coordination.md) challenges at scale
 - Create specialized governance mechanisms for specific functions like treasury management, dispute resolution, or protocol upgrades
 - Implement graduated safeguards that grow more robust as the value secured by a protocol increases
 - Develop cross-chain governance mechanisms that enable coordination between interconnected protocols
@@ -72,3 +72,11 @@ The toolkit advocates for governance systems customized to fit specific project 
 ---
 
 ![](attachments/PL_Toolkit_Report_v7.pdf)
+---
+
+## Related Concepts
+
+- [Governance](tags/governance.md) - Decision-making frameworks
+- [DAOs](tags/daos.md) - Decentralized organizations
+- [Primitives](tags/primitives.md) - Building blocks for organization
+- [Coordination](tags/coordination.md) - Collective action mechanisms

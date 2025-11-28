@@ -1,6 +1,6 @@
 ---
 title: Hats Modules - A New Era for Programmable Organizations
-description: Hats Protocol modular system enabling programmable organizational structures through composable primitives that organizations can combine to create custom authority, accountability, and coordination mechanisms.
+description: Hats Protocol modular system enabling programmable organizational structures through composable [primitives](tags/primitives.md) that organizations can combine to create custom authority, accountability, and [coordination](tags/coordination.md) mechanisms.
 publish: true
 type: protocol-framework
 source: https://hats.mirror.xyz/xAk_yb7dDL1OLBx8nq47Ni7V1SuiC6L6B-49u7vz520
@@ -9,13 +9,13 @@ author:
 tags:
   - hats-modules
   - programmable-organizations
-  - modular-primitives
+  - modular-[primitives](tags/primitives.md)
   - organizational-composability
   - hats-protocol
   - dao-infrastructure
 ---
 
-Hats Modules extends the Hats Protocol by providing modular organizational primitives that communities can compose to create custom governance structures. Rather than choosing between predetermined organizational templates, the modules system enables building coordination infrastructure from composable components—eligibility modules determining who can wear hats, toggle modules controlling when hats are active, accountability modules enforcing responsibilities. This composability allows organizations to construct governance fitting their specific needs by combining primitives rather than accepting one-size-fits-all solutions. The modular approach recognizes that effective organization emerges from contextual assembly of coordination mechanisms rather than universal best practices.
+Hats Modules extends the Hats Protocol by providing modular organizational [primitives](tags/primitives.md) that communities can compose to create custom [governance](tags/governance.md) structures. Rather than choosing between predetermined organizational templates, the modules system enables building [coordination](tags/coordination.md) infrastructure from composable components—eligibility modules determining who can wear hats, toggle modules controlling when hats are active, accountability modules enforcing responsibilities. This composability allows organizations to construct governance fitting their specific needs by combining primitives rather than accepting one-size-fits-all solutions. The modular approach recognizes that effective organization emerges from contextual assembly of coordination mechanisms rather than universal best practices.
 
 ### Key Highlights
 
@@ -23,7 +23,7 @@ Hats Modules extends the Hats Protocol by providing modular organizational primi
 
 - **Composable Infrastructure**: Organizations can combine multiple modules to create sophisticated coordination mechanisms, stacking eligibility requirements, accountability checks, and permission controls rather than being limited to simple role assignments.
 
-- **Programmable Accountability**: Modules enable automated enforcement of organizational commitments—roles can require proof of contribution, expire without renewal, or trigger based on onchain events—creating technical accountability without manual governance overhead.
+- **Programmable Accountability**: Modules enable automated enforcement of organizational commitments—[roles](tags/roles.md) can require proof of contribution, expire without renewal, or trigger based on onchain events—creating technical accountability without manual governance overhead.
 
 - **Extensible System**: The modules architecture allows developers to create new primitives addressing emerging coordination needs, ensuring the system can evolve rather than being limited to initially imagined use cases.
 
@@ -35,7 +35,7 @@ Hats Modules extends the Hats Protocol by providing modular organizational primi
 
 Hats Modules enables custom organizational design:
 
-- DAOs can compose modules to create sophisticated contributor recognition systems—requiring proof of work for role eligibility, setting automatic expiration for inactive contributors, and granting permissions based on demonstrated expertise rather than token holdings
+- [DAOs](tags/daos.md) can compose modules to create sophisticated contributor recognition systems—requiring proof of work for role eligibility, setting automatic expiration for inactive contributors, and granting permissions based on demonstrated expertise rather than token holdings
 
 - Multi-signature setups can use modules to implement conditional access controls, enabling treasury permissions that require multiple eligibility criteria or activate only during specific conditions rather than static keyholder lists
 
@@ -52,3 +52,13 @@ Hats Modules enables custom organizational design:
 - The emphasis on programmable accountability validates SuperBenefit's understanding that technical mechanisms should handle routine enforcement enabling collective attention to focus on complex judgment requiring human deliberation—suggesting coordination tools should automate clear accountability while preserving participatory decision-making for nuanced situations.
 
 - Hats' modular architecture enabling extension through new primitives demonstrates how SuperBenefit can ensure coordination infrastructure evolves with emerging needs rather than locking communities into founding capabilities—showing that effective systems should welcome developer contributions expanding possibilities while maintaining coherent composability.
+
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Organizations using these tools and approaches
+- [Coordination](tags/coordination.md) - Mechanisms for organizing work
+- [Roles](tags/[roles](tags/roles.md).md) - Authority and responsibility structures
+- [Governance](tags/governance.md) - Decision-making frameworks
+- [Primitives](tags/primitives.md) - Building blocks for organization

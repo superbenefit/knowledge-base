@@ -12,10 +12,10 @@ tags:
   - systems-change
   - multi-level-perspective
   - transition-theory
-  - sustainability-transitions
+  - [sustainability](tags/sustainability.md)-transitions
 ---
 
-Wikipedia's technological transitions article synthesizes established academic framework for understanding how large-scale socio-technical systems—energy, transportation, food, communication—undergo fundamental transformations. The multi-level perspective (MLP) developed by Frank Geels and colleagues explains transitions through interactions across three levels: protected niches where radical innovations develop; established socio-technical regimes with locked-in technologies, institutions, and practices; and landscape-level external pressures creating openings for change. Rather than treating innovation as purely technical process or assuming new technologies automatically replace old ones, the framework shows how transitions require alignment across technical, institutional, cultural, and economic dimensions while navigating resistance from regime incumbents. The sustainability transitions variant specifically examines how societies can deliberately guide transitions toward environmental and social goals rather than leaving change to market forces alone.
+Wikipedia's technological transitions article synthesizes established academic framework for understanding how large-scale socio-technical systems—energy, transportation, food, communication—undergo fundamental transformations. The multi-level perspective (MLP) developed by Frank Geels and colleagues explains transitions through interactions across three levels: protected niches where radical innovations develop; established socio-technical regimes with locked-in technologies, institutions, and practices; and landscape-level external pressures creating openings for change. Rather than treating innovation as purely technical process or assuming new technologies automatically replace old ones, the framework shows how transitions require alignment across technical, institutional, cultural, and economic dimensions while navigating resistance from regime incumbents. The [sustainability](tags/sustainability.md) transitions variant specifically examines how societies can deliberately guide transitions toward environmental and social goals rather than leaving change to market forces alone.
 
 ### Key Highlights
 
@@ -27,7 +27,7 @@ Wikipedia's technological transitions article synthesizes established academic f
 
 - **Strategic Niche Management**: Coverage includes how protected spaces enable radical innovations to develop without immediate regime competition, showing importance of incubation and experimentation for alternatives that initially can't compete with optimized incumbent systems.
 
-- **Sustainability Transitions**: Specific focus on how societies can deliberately guide transitions toward environmental and social sustainability rather than assuming market-driven change addresses ecological crises, exploring governance and policy roles in transition pathways.
+- **Sustainability Transitions**: Specific focus on how societies can deliberately guide transitions toward environmental and social sustainability rather than assuming market-driven change addresses ecological crises, exploring [governance](tags/governance.md) and policy roles in transition pathways.
 
 - **Academic Foundation**: As Wikipedia synthesis of transition studies literature, article provides accessible entry to established academic field with substantial empirical research across sectors and geographies.
 
@@ -39,7 +39,7 @@ This framework enables transition-oriented practice:
 
 - Policy designers can apply strategic niche management principles to create protected spaces for alternative systems to develop, recognizing that sustainability transitions require deliberate support not just removal of obstacles to market competition
 
-- DAO and Web3 builders can situate their governance innovations within technological transitions framework, understanding their projects as niche experiments challenging established organizational regimes while facing landscape pressures for alternative coordination
+- DAO and Web3 builders can situate their governance innovations within technological transitions framework, understanding their projects as niche experiments challenging established organizational regimes while facing landscape pressures for alternative [coordination](tags/coordination.md)
 
 - Funders supporting systems change can use transition theory to evaluate where investments can most effectively support transformation—whether in niche development, regime destabilization, or landscape-level advocacy creating openings for change
 
@@ -50,3 +50,13 @@ This framework enables transition-oriented practice:
 - Technological transitions framework validates SuperBenefit's systems-level perspective on coordination innovation, demonstrating that effective primitives can't be designed as isolated technical solutions but must account for how governance mechanisms interact with institutional contexts, cultural practices, and economic structures that constitute socio-technical regimes—showing that moving from niche DAO experiments to genuine transformation of organizational coordination requires strategic attention to regime resistance and deliberate creation of conditions enabling alternative systems to develop and scale.
 
 - The emphasis on how established regimes resist change through technical lock-in, institutional inertia, and cultural assumptions resonates with SuperBenefit's analysis of power dynamics in coordination systems, illustrating that designing regenerative governance tools requires understanding and actively working to overcome incumbent organizational models' structural advantages rather than assuming better mechanisms automatically spread—demonstrating need for strategic niche management, coalition building, and policy advocacy beyond pure technology development.
+
+---
+
+## Related Concepts
+
+- [Sustainability](tags/sustainability.md) - Ecological approaches to technology
+- [Coordination](tags/coordination.md) - Alternative organizing mechanisms
+- [Community](tags/[community](tags/community.md).md) - Digital and local organizing
+- [Regeneration](tags/regeneration.md) - Restorative systems design
+- [Governance](tags/governance.md) - Democratic technology frameworks

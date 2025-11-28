@@ -11,11 +11,11 @@ aliases:
 publish: "true"
 ---
 
-_Non-Fungible Tokens (NFTs) are unique, indivisible digital assets recorded on a blockchain that enable verifiable ownership and provenance of digital or physical items, creating new possibilities for representation, governance, and value exchange in decentralized systems._
+_Non-Fungible Tokens (NFTs) are unique, indivisible digital assets recorded on a [blockchain](blockchain.md) that enable verifiable ownership and provenance of digital or physical items, creating new possibilities for representation, [governance](governance.md), and value exchange in [decentralized](decentralization.md) systems._
 
-Unlike fungible tokens (where each unit is identical and interchangeable, like cryptocurrencies), NFTs contain distinct properties that make each token unique and non-interchangeable. This uniqueness enables NFTs to represent ownership of specific items—from digital art and virtual land to governance rights and real-world assets. By providing cryptographic proof of authenticity and ownership history, NFTs transform how we establish provenance, transfer rights, and build community around shared assets in digital environments.
+Unlike fungible tokens (where each unit is identical and interchangeable, like cryptocurrencies), NFTs contain distinct properties that make each token unique and non-interchangeable. This uniqueness enables NFTs to represent ownership of specific items—from digital art and virtual land to governance rights and real-world assets. By providing cryptographic proof of authenticity and ownership history, NFTs transform how we establish provenance, transfer rights, and build [community](community.md) around shared assets in digital environments.
 
-Beyond their initial popularization as digital collectibles, NFTs have evolved into sophisticated coordination tools that enable new forms of collective organization, decentralized governance, and resource management. Their programmable nature allows communities to encode rights, responsibilities, and relationships directly into digital assets, creating dynamic systems for participation that extend far beyond simple ownership claims.
+Beyond their initial popularization as digital collectibles, NFTs have evolved into sophisticated [coordination](coordination.md) tools that enable new forms of collective organization, decentralized governance, and resource management. Their programmable nature allows community to encode rights, responsibilities, and relationships directly into digital assets, creating dynamic systems for [participation](participation.md) that extend far beyond simple ownership claims.
 
 ---
 
@@ -23,7 +23,7 @@ Beyond their initial popularization as digital collectibles, NFTs have evolved i
 
 ### NFTs in Digital Commons and Community Governance
 
-In decentralized communities and DAOs, NFTs function as governance instruments that enable participation, representation, and coordinated resource management. By encoding access rights, voting power, or contribution history within tokens, communities can create governance systems with transparent rules and verifiable membership.
+In decentralized community and [DAOs](daos.md), NFTs function as governance instruments that enable participation, representation, and coordinated resource management. By encoding access rights, voting [power](power.md), or contribution history within tokens, community can create governance systems with transparent rules and verifiable membership.
 
 NFTs can represent:
 

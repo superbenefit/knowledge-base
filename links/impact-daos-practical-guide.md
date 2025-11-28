@@ -15,7 +15,7 @@ tags:
   - governance-setup
 ---
 
-The Impact DAOs guide provides comprehensive practical resource for social impact organizations exploring or implementing DAO structures, offering accessible documentation spanning governance setup, legal formation, treasury management, contributor coordination, and community building specifically for mission-driven projects. Rather than generic DAO resources often focused on financial applications and speculation, this guide centers needs of organizations pursuing social benefit, public goods, environmental stewardship, and community empowerment through decentralized coordination. Coverage includes comparing governance mechanisms for different organizational contexts, navigating legal structures across jurisdictions, managing multi-stakeholder participation, measuring impact alongside financial sustainability, and maintaining values alignment as organizations scale. The practical orientation provides actionable guidance for implementers rather than theoretical frameworks, recognizing that impact organizations need concrete pathways for adopting decentralized coordination without requiring deep technical expertise or extensive resources.
+The Impact DAOs guide provides comprehensive practical resource for social [impact](tags/impact.md) organizations exploring or implementing [DAO](tags/daos.md) structures, offering accessible documentation spanning [governance](tags/governance.md) setup, legal formation, [treasury](tags/treasury.md) management, contributor [coordination](tags/coordination.md), and [community](tags/community.md) building specifically for mission-driven projects. Rather than generic DAO resources often focused on financial applications and speculation, this guide centers needs of organizations pursuing social benefit, [public goods](tags/public-goods.md), environmental stewardship, and community empowerment through [decentralized](tags/decentralization.md) coordination. Coverage includes comparing governance mechanisms for different organizational contexts, navigating legal structures across jurisdictions, managing multi-stakeholder participation, measuring impact alongside financial sustainability, and maintaining values alignment as organizations [scale](tags/scale.md). The practical orientation provides actionable guidance for implementers rather than theoretical [frameworks](tags/frameworks.md), recognizing that impact organizations need concrete pathways for adopting decentralized coordination without requiring deep technical expertise or extensive resources.
 
 ### Key Highlights
 
@@ -23,7 +23,7 @@ The Impact DAOs guide provides comprehensive practical resource for social impac
 
 - **Comprehensive Implementation Coverage**: Documentation spans governance mechanism selection, legal structure formation, treasury management, contributor coordination, and impact measurement—addressing full implementation lifecycle beyond isolated topics.
 
-- **Accessible Documentation**: Rather than assuming technical blockchain expertise, guide provides clear explanations accessible to social impact practitioners, nonprofit leaders, and community organizers exploring decentralized coordination.
+- **Accessible Documentation**: Rather than assuming technical [blockchain](tags/blockchain.md) expertise, guide provides clear explanations accessible to social impact practitioners, nonprofit leaders, and community organizers exploring decentralized coordination.
 
 - **Contextual Governance Guidance**: Rather than prescribing universal DAO structure, guide helps organizations evaluate governance options based on mission, stakeholder composition, regulatory context, and organizational capacity.
 
@@ -37,7 +37,7 @@ This guide enables impact DAO implementation:
 
 - Social impact organizations can use comprehensive resource when exploring DAO structures, accessing practical implementation guidance spanning legal, governance, operational, and impact dimensions without requiring extensive technical expertise
 
-- Nonprofit leaders can evaluate whether decentralized coordination aligns with organizational mission and capacity, understanding governance options and implementation requirements for informed decision-making
+- Nonprofit leaders can evaluate whether decentralized coordination aligns with organizational mission and capacity, understanding governance options and implementation requirements for informed [decision-making](tags/decisions.md)
 
 - Community organizers can reference multi-stakeholder coordination approaches when designing governance including beneficiaries and community members alongside funders and volunteers, moving beyond token-holder-only models
 
@@ -47,6 +47,16 @@ This guide enables impact DAO implementation:
 
 ### Connection With SuperBenefit
 
-- Impact DAOs guide's mission-driven focus validates SuperBenefit's commitment to coordination primitives serving social benefit and regenerative purposes beyond financial applications, demonstrating need for governance resources specifically addressing impact organization contexts rather than assuming coordination mechanisms transfer unchanged from DeFi to social impact—showing that genuinely serving mission-driven communities requires understanding their distinct needs including multi-stakeholder participation, impact measurement integration, and values alignment maintenance that generic DAO tooling often overlooks in favor of token-holder governance optimized for financial returns.
+- Impact DAOs guide's mission-driven focus validates SuperBenefit's commitment to coordination [primitives](tags/primitives.md) serving social benefit and [regenerative](tags/regeneration.md) purposes beyond financial applications, demonstrating need for governance resources specifically addressing impact organization contexts rather than assuming coordination mechanisms transfer unchanged from DeFi to social impact—showing that genuinely serving mission-driven communities requires understanding their distinct needs including multi-stakeholder participation, impact measurement integration, and values alignment maintenance that generic DAO tooling often overlooks in favor of token-holder governance optimized for financial returns.
 
-- The guide's accessible practical documentation resonates with SuperBenefit's commitment to actionable guidance supporting implementation rather than purely theoretical frameworks, illustrating that effective support for communities adopting decentralized coordination requires comprehensive resources addressing full organizational lifecycle from legal formation through governance operation to impact evaluation—demonstrating that primitive development should integrate with broader ecosystem of practical resources enabling organizations to actually implement coordination innovations rather than leaving communities to bridge gap between abstract mechanism design and operational reality requiring expertise across legal, technical, social, and mission-specific dimensions.
+- The guide's accessible practical documentation resonates with SuperBenefit's commitment to actionable guidance supporting implementation rather than purely theoretical frameworks, illustrating that effective support for communities adopting decentralized coordination requires comprehensive resources addressing full organizational lifecycle from legal formation through governance operation to impact evaluation—demonstrating that primitive development should integrate with broader [ecosystem](tags/ecosystems.md) of practical resources enabling organizations to actually implement coordination innovations rather than leaving communities to bridge gap between abstract mechanism design and operational reality requiring expertise across legal, technical, social, and mission-specific dimensions.
+
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Organizations using these approaches
+- [Governance](tags/governance.md) - Decision-making frameworks explored
+- [Coordination](tags/coordination.md) - Collective action mechanisms
+- [DAO Primitives Framework](notes/dao-primitives/index.md) - SuperBenefit's pattern-based approach
+- [Frameworks](tags/frameworks.md) - Organizational structures analyzed

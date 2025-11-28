@@ -1,6 +1,6 @@
 ---
 title: Churchill Fellowship Report - Transforming Philanthropy
-description: Comprehensive research report from Churchill Fellowship examining philanthropic transformation globally, documenting trust-based approaches, participatory grantmaking, and power-shifting practices that redistribute decision-making from funders to communities.
+description: Comprehensive research report from Churchill Fellowship examining philanthropic transformation globally, documenting trust-based approaches, participatory grantmaking, and [power](tags/power.md)-shifting practices that redistribute decision-making from funders to [communities](tags/community.md).
 publish: true
 type: research-report
 source: https://whyphilanthropymatters.com/wp-content/uploads/2024/01/TRANSFORMING-PHILANTHROPY-CHURCHILL-FELLOWSHIP-REPORT.pdf
@@ -11,11 +11,11 @@ tags:
   - churchill-fellowship
   - trust-based-philanthropy
   - participatory-grantmaking
-  - power-shifting
+  - [power](tags/power.md)-shifting
   - funding-reform
 ---
 
-Churchill Fellowship's comprehensive report documents philanthropic transformation globally, examining how funders shift power to communities through trust-based approaches, participatory grantmaking, and structural reforms. The research spans diverse contexts from community foundations to international development to social justice funding, identifying patterns in how philanthropic power can be redistributed rather than maintained through charitable giving. Rather than accepting traditional philanthropy's concentration of decision-making with wealthy donors, the report shows concrete alternatives where communities determine priorities, control resources, and define success on their own terms. This provides evidence base and practical frameworks for funders seeking genuine transformation beyond incremental reform.
+Churchill Fellowship's comprehensive report documents philanthropic transformation globally, examining how funders shift [power](tags/power.md) to [communities](tags/community.md) through trust-based approaches, participatory grantmaking, and structural reforms. The research spans diverse contexts from community foundations to international development to social justice funding, identifying patterns in how philanthropic power can be redistributed rather than maintained through charitable giving. Rather than accepting traditional philanthropy's concentration of decision-making with wealthy donors, the report shows concrete alternatives where communities determine priorities, control resources, and define success on their own terms. This provides evidence base and practical frameworks for funders seeking genuine transformation beyond incremental reform.
 
 ### Key Highlights
 
@@ -47,8 +47,18 @@ This report enables philanthropic transformation:
 
 ### Connection With SuperBenefit
 
-- Churchill Fellowship's documentation of participatory grantmaking globally provides evidence for SuperBenefit's exploration of collective funding allocation, showing that communities making resource decisions together produces better outcomes than individual funder choices—demonstrating that DAO treasury governance should enable genuine participatory allocation not just token-weighted voting that reproduces plutocracy.
+- Churchill Fellowship's documentation of participatory grantmaking globally provides evidence for SuperBenefit's exploration of collective funding allocation, showing that communities making resource decisions together produces better outcomes than individual funder choices—demonstrating that DAO treasury [governance](tags/governance.md) should enable genuine participatory allocation not just token-weighted voting that reproduces plutocracy.
 
-- The report's emphasis on power analysis rather than merely improved practices resonates with SuperBenefit's power-aware approach, showing that effective transformation requires examining and redistributing decision-making authority not just optimizing existing philanthropic structures—suggesting that coordination primitives should be evaluated for whether they genuinely shift power or merely change implementation details.
+- The report's emphasis on power analysis rather than merely improved practices resonates with SuperBenefit's power-aware approach, showing that effective transformation requires examining and redistributing decision-making authority not just optimizing existing philanthropic structures—suggesting that [coordination](tags/coordination.md) primitives should be evaluated for whether they genuinely shift power or merely change implementation details.
 
 - Churchill Fellowship's global documentation validates SuperBenefit's pattern-based learning across contexts, demonstrating that coordination primitive development should draw on proven approaches from diverse philanthropic, community, and governance traditions rather than assuming Web3 represents entirely novel coordination requiring design without reference to existing successful patterns.
+
+---
+
+## Related Concepts
+
+- [Power](tags/power.md) - Distribution and transformation in funding relationships
+- [Governance](tags/[governance](tags/governance.md).md) - Decision-making in philanthropic contexts
+- [Community](tags/[community](tags/community.md).md) - Leadership and self-determination
+- [Coordination](tags/[coordination](tags/coordination.md).md) - Mechanisms for resource distribution
+- [Grants](tags/[grants](tags/grants.md).md) - Funding approaches and practices

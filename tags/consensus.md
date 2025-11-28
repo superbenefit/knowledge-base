@@ -17,3 +17,12 @@ This is a definition of "consensus" as it is used in Consensus Based Decision-ma
 Consensus is a decision-making approach that requires all participants to actively agree with and support a proposal before it can move forward. Unlike [consent](tags/consent.md) based decision-making, which focuses on the absence of objections, consensus seeks explicit agreement and shared understanding from every stakeholder, often through discussion and modification of proposals until universal acceptance is achieved.
 
 Link: [Consensus decision-making](https://en.wikipedia.org/wiki/Consensus_decision-making)
+---
+
+## Related Concepts
+
+- [Consent](tags/consent.md) - Related decision-making approach
+- [Governance](tags/governance.md) - Decision-making frameworks
+- [Decisions](tags/decisions.md) - Outcomes of consensus processes
+- [Coordination](tags/coordination.md) - Collective agreement mechanisms
+- [Teams](tags/teams.md) - Groups using consensus
