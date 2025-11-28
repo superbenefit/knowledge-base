@@ -33,7 +33,7 @@ The shift from traditional teams to decentralized autonomous teams represents a 
 - Make independent decisions within their domain of responsibility
 - Coordinate horizontally with other teams through clear interfaces
 
-This autonomy combined with transparent coordination enables what [DAOs aren't things... they are flows](../artifacts/articles/network-evolution/DAOs aren't things... they are flows..md) describes as "purpose-aligned networks" that can scale both efficiency and innovation simultaneously.
+This autonomy combined with transparent coordination enables what [DAOs aren't things... they are flows](../artifacts/dao-primitives-framework/network-evolution/DAOs aren't things... they are flows..md) describes as "purpose-aligned networks" that can scale both efficiency and innovation simultaneously.
 
 ---
 

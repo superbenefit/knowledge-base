@@ -52,7 +52,7 @@ The [DAO Primitives framework](../artifacts/guides/dao-primitives-framework/inde
 
 In [Community Governance](artifacts/dao-primitives-framework/patterns/community-governance.md), "community" refers to the broad base of stakeholders who participate in governing a network's overarching purpose and direction. This constituency-scale governance operates through deliberative mechanisms like conviction voting and makes long-term decisions about network direction and treasury allocation.
 
-As described in [Building DAOs as scalable networks](../artifacts/articles/network-evolution/Building DAOs as scalable networks.md), community governance "safeguards the purpose of the network" and includes a diverse set of stakeholders: "Cell contributors, founders, partners (sponsors, funders etc), as well as others that have a stake in the purpose of the network but may not be contributing directly to its operations."
+As described in [Building DAOs as scalable networks](../artifacts/dao-primitives-framework/network-evolution/Building DAOs as scalable networks.md), community governance "safeguards the purpose of the network" and includes a diverse set of stakeholders: "Cell contributors, founders, partners (sponsors, funders etc), as well as others that have a stake in the purpose of the network but may not be contributing directly to its operations."
 
 ### Community in Group Development
 

@@ -134,9 +134,9 @@ You have a system that can tags/scale.md collective intelligence in a way that: 
 
 ### Article Series
 
-- Previous: artifacts/articles/network-evolution/DAOs%20-%20From%20fractal%20primitives%20to%20network%20scale..md
+- Previous: artifacts/dao-primitives-framework/network-evolution/DAOs%20-%20From%20fractal%20primitives%20to%20network%20scale..md
     
-- Next: artifacts/articles/network-evolution/Building%20DAOs%20as%20scalable%20networks.md
+- Next: artifacts/dao-primitives-framework/network-evolution/Building%20DAOs%20as%20scalable%20networks.md
 ---
 
 ## Related Concepts

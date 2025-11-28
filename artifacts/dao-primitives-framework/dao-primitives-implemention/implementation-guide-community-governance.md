@@ -231,7 +231,7 @@ For each high-level goal, identify concrete requirements across these dimensions
     - Reputation/legitimacy
     - Knowledge/information
 5. **Technical Considerations**: What technical factors shape the implementation options?
-    - [On-chain vs. off-chain](artifacts/articles/network-evolution/Building DAOs as scalable networks.md#community-governance) processes
+    - [On-chain vs. off-chain](artifacts/dao-primitives-framework/network-evolution/Building DAOs as scalable networks.md#community-governance) processes
     - Available tooling
     - Technical capabilities of participants
     - Integration requirements
@@ -246,7 +246,7 @@ With clear purpose, goals, and requirements established, you can now design your
 
 Review common community governance patterns and select one or more that best match your requirements:
 
-1. **[Token-based governance](artifacts/articles/network-evolution/Building DAOs as scalable networks.md#community-governance)**
+1. **[Token-based governance](artifacts/dao-primitives-framework/network-evolution/Building DAOs as scalable networks.md#community-governance)**
     - Description: Voting power distributed according to token holdings
     - Best For: Communities with clear tokenomic models, financial resource allocation
     - Key Primitives: Governance tokens, voting mechanisms, proposal systems
@@ -464,7 +464,7 @@ Depending on your community's technical context, governance implementation may i
 
 #### Technical Considerations
 
-1. **[On-chain vs. off-chain governance](artifacts/articles/network-evolution/Building DAOs as scalable networks.md#community-governance)**
+1. **[On-chain vs. off-chain governance](artifacts/dao-primitives-framework/network-evolution/Building DAOs as scalable networks.md#community-governance)**
     - Consider the larger design of your governance
     - Determine which governance elements require blockchain properties and which can be better done off-chain
     - Consider speed and costs involved in using on-chain tools
@@ -473,7 +473,7 @@ Depending on your community's technical context, governance implementation may i
     - Governance platforms (Snapshot, Tally, Commonwealth, etc.)
     - Communication tools (Discord, Discourse, Telegram, etc.)
     - Documentation systems (Charmverse, Notion, GitHub, etc.)
-    - Voting mechanisms ([token-based governance](artifacts/articles/network-evolution/Building DAOs as scalable networks.md#community-governance), [quadratic voting](artifacts/articles/governance-for-better-futures/Governance for better futures - Meta-governance.md#quadratic-voting), reputation-based, etc.)
+    - Voting mechanisms ([token-based governance](artifacts/dao-primitives-framework/network-evolution/Building DAOs as scalable networks.md#community-governance), [quadratic voting](artifacts/articles/governance-for-better-futures/Governance for better futures - Meta-governance.md#quadratic-voting), reputation-based, etc.)
 3. **Implementation Approach**
     - Start with minimum viable governance tools as required by the phase of development
     - Create clear user guides, videos and other resources to support accessibility for all community members

@@ -29,7 +29,7 @@ This framework treats purpose as a dynamic navigational tool rather than a stati
 
 In Web3 governance systems, purpose functions as the cornerstone for legitimate decision-making. As described in Governance for better futures, effective governance frameworks are designed to "safeguard the purpose of the network" while enabling flexibility in implementation. This approach creates a two-house governance structure where Community Governance focuses on long-term purpose alignment, while Operational Governance enables adaptive execution.
 
-The emphasis on purpose-based governance represents a fundamental shift from traditional approaches that prioritize compliance with predetermined rules. Instead, as noted in [Minimum Viable Permissionless-ness](../artifacts/articles/network-evolution/Minimum Viable Permissionless-ness.md), Web3 systems evaluate decisions based on whether they advance the network's purpose, with governance serving as a mechanism to "avoid capture and remain alive and relevant."
+The emphasis on purpose-based governance represents a fundamental shift from traditional approaches that prioritize compliance with predetermined rules. Instead, as noted in [Minimum Viable Permissionless-ness](../artifacts/dao-primitives-framework/network-evolution/Minimum Viable Permissionless-ness.md), Web3 systems evaluate decisions based on whether they advance the network's purpose, with governance serving as a mechanism to "avoid capture and remain alive and relevant."
 
 ### Purpose in Coordination Systems
 

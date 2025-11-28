@@ -23,26 +23,26 @@ In the context of decentralized systems, networks provide the underlying infrast
 
 ### Networks in DAO Ecosystems
 
-In the DAO context, networks represent a fundamental shift in how we conceptualize organizations. Rather than viewing DAOs as discrete entities similar to companies, they can be understood as "centerless networks with coordinated flows of resources" that enable more dynamic, adaptive coordination. As described in [DAOs aren't things... they are flows](../artifacts/articles/network-evolution/DAOs aren't things... they are flows..md), DAOs function as "network economies" rather than traditional business models.
+In the DAO context, networks represent a fundamental shift in how we conceptualize organizations. Rather than viewing DAOs as discrete entities similar to companies, they can be understood as "centerless networks with coordinated flows of resources" that enable more dynamic, adaptive coordination. As described in [DAOs aren't things... they are flows](../artifacts/dao-primitives-framework/network-evolution/DAOs aren't things... they are flows..md), DAOs function as "network economies" rather than traditional business models.
 
 These DAO networks consist of interconnected cells (small autonomous teams) that self-organize around shared purpose while maintaining their independence. The network provides infrastructure for these cells to discover each other, share resources, and align activities through transparent protocols rather than management hierarchies. This fractal structure allows DAOs to scale both operational efficiency and creative innovation simultaneously.
 
 ### Networks as Scaling Systems
 
-Networks enable distinctive scaling properties that differ significantly from traditional organizational models. As explored in [Scale and the levers that provide DAOs their power](../artifacts/articles/network-evolution/Scale and the levers that provide DAOs their power.md), networks can exhibit both:
+Networks enable distinctive scaling properties that differ significantly from traditional organizational models. As explored in [Scale and the levers that provide DAOs their power](../artifacts/dao-primitives-framework/network-evolution/Scale and the levers that provide DAOs their power.md), networks can exhibit both:
 
 1. **Sub-linear scaling** through fractal hierarchies that create increasing efficiency as the network grows (similar to biological systems and infrastructure networks)
     
 2. **Super-linear scaling** through social connectivity that generates increasing innovation, creativity, and adaptation as the network expands (similar to cities and other social systems)
     
 
-This dual scaling capacity allows networks to become more efficient while simultaneously becoming more innovative and adaptive - a combination that traditional hierarchical organizations struggle to achieve. As [Building DAOs as scalable networks](../artifacts/articles/network-evolution/Building DAOs as scalable networks.md) describes, this enables DAOs to "leverage both Dynamic-One and Dynamic-Two" scaling systems simultaneously.
+This dual scaling capacity allows networks to become more efficient while simultaneously becoming more innovative and adaptive - a combination that traditional hierarchical organizations struggle to achieve. As [Building DAOs as scalable networks](../artifacts/dao-primitives-framework/network-evolution/Building DAOs as scalable networks.md) describes, this enables DAOs to "leverage both Dynamic-One and Dynamic-Two" scaling systems simultaneously.
 
 ### Networks as Coordination Mechanisms
 
 Networks function as coordination mechanisms that align autonomous actions without requiring centralized control. Through transparent state documentation, shared agreements, and real-time information flows, networks enable participants to make contextually appropriate decisions while maintaining overall coherence.
 
-The concept of [Minimum Viable Permissionless-ness](../artifacts/articles/network-evolution/Minimum Viable Permissionless-ness.md) illustrates how networks coordinate through access rights rather than management hierarchies. By enabling permissionless access to work, collaboration, and proposal mechanisms, networks create the conditions for distributed decision-making where "strategy emerges autonomously" from the collective intelligence of participants rather than being dictated from the top.
+The concept of [Minimum Viable Permissionless-ness](../artifacts/dao-primitives-framework/network-evolution/Minimum Viable Permissionless-ness.md) illustrates how networks coordinate through access rights rather than management hierarchies. By enabling permissionless access to work, collaboration, and proposal mechanisms, networks create the conditions for distributed decision-making where "strategy emerges autonomously" from the collective intelligence of participants rather than being dictated from the top.
 
 ### Networks in Social Impact
 

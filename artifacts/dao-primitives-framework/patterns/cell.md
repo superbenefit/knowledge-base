@@ -43,7 +43,7 @@ Working groups, described as "Cells" are the fundamental operational entities wi
 The Cell pattern serves as a foundational structure that integrates other organizational primitives and coordination practices to create an effective functional unit. This composition enables both internal self-management and external coordination within DAOs and other onchain organizations.
 
 
-A Cell can be composed into a spectrum of different forms based on the complexity and needs of the organization. See [DAOs - From fractal primitives to network scale.](artifacts/articles/network-evolution/DAOs - From fractal primitives to network scale..md)
+A Cell can be composed into a spectrum of different forms based on the complexity and needs of the organization. See [DAOs - From fractal primitives to network scale.](artifacts/dao-primitives-framework/network-evolution/DAOs - From fractal primitives to network scale..md)
 
 ### When to use a Cell
 Use the Cell pattern to design ways for small groups of people to collaborate in a coherent way. 

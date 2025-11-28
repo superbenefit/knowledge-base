@@ -178,33 +178,33 @@ This section provides both theoretical foundations and empirical evidence from r
 This article series develops the theoretical foundations of the DAO Primitives framework, exploring how DAOs function as networked systems rather than traditional organizations. The articles build on each other to present a comprehensive vision of scalable, permissionless coordination.
 
 **Series Index** ✅ Published
-- Path: `artifacts/articles/network-evolution/index.md`
+- Path: `artifacts/dao-primitives-framework/network-evolution/index.md`
 - 6 published articles exploring DAOs as networked systems
 - By Rowan Yeoman with community contributions
 
 **Article 1: DAOs aren't things... they are flows** ✅
-- Path: `artifacts/articles/network-evolution/daos-arent-things-they-are-flows.md`
+- Path: `artifacts/dao-primitives-framework/network-evolution/daos-arent-things-they-are-flows.md`
 - Foundational: DAOs as "centerless networks with coordinated flows"
 - Introduces: Fractal DAO design, "DAO" as verb (DAOing)
 
 **Article 2: Scale and the levers that provide DAOs their power** ✅
-- Path: `artifacts/articles/network-evolution/scale-and-the-levers-that-provide-daos-their-power.md`
+- Path: `artifacts/dao-primitives-framework/network-evolution/scale-and-the-levers-that-provide-daos-their-power.md`
 - Explores: Sub-linear scaling (efficiency) vs super-linear scaling (innovation)
 - Draws on: Geoffrey West's scaling laws
 - Positions: DAOs as network economies like cities
 
 **Article 3: DAOs - From fractal primitives to network scale** ✅
-- Path: `artifacts/articles/network-evolution/daos-from-fractal-primitives-to-network-scale.md`
+- Path: `artifacts/dao-primitives-framework/network-evolution/daos-from-fractal-primitives-to-network-scale.md`
 - Introduces: Cells as fractal network building blocks
 - Explains: Scaling hierarchies (operations) vs creative networks (innovation)
 
 **Article 4: Minimum Viable Permissionless-ness** ✅
-- Path: `artifacts/articles/network-evolution/minimum-viable-permissionless-ness.md`
+- Path: `artifacts/dao-primitives-framework/network-evolution/minimum-viable-permissionless-ness.md`
 - Defines three essential features: freedom to work, ability to attract others, right to propose
 - Distinguishes: Permissionless access vs resource access
 
 **Article 5: Building DAOs as scalable networks** ✅
-- Path: `artifacts/articles/network-evolution/building-daos-as-scalable-networks.md`
+- Path: `artifacts/dao-primitives-framework/network-evolution/building-daos-as-scalable-networks.md`
 - Proposes: Two-house governance (Community + Operational)
 - Covers: Two-stage evolution including UNA legal structure
 

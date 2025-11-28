@@ -61,7 +61,7 @@ In the Cell working group pattern, eligibility for different roles is documented
 - **Attestations**: Verification or endorsements from existing participants
 - **Time commitment**: Availability requirements for consistent participation
 
-As noted in [Minimum Viable Permissionless-ness](../artifacts/articles/network-evolution/Minimum Viable Permissionless-ness.md), effective decentralized organizations balance permissionless access to the network with appropriate eligibility criteria for resource allocation and decision-making authority.
+As noted in [Minimum Viable Permissionless-ness](../artifacts/dao-primitives-framework/network-evolution/Minimum Viable Permissionless-ness.md), effective decentralized organizations balance permissionless access to the network with appropriate eligibility criteria for resource allocation and decision-making authority.
 
 ## Related Concepts
 

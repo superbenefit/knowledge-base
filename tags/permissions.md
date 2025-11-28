@@ -26,7 +26,7 @@ In complex coordination systems, permissions operate at multiple levels simultan
 
 In the [DAO Primitives framework](../artifacts/guides/dao-primitives-framework/index.md), permissions function as a core mechanism for coordinating autonomous teams (Cells) within a larger network. The framework treats permissions not as static assignments but as relational agreements between network participants that determine how resources, decisions, and responsibilities are distributed across the system.
 
-As [DAOs](daos.md) scale through fractal structures of interconnected Cells, permissions enable what [Minimum Viable Permissionless-ness](../artifacts/articles/network-evolution/Minimum Viable Permissionless-ness.md) describes as "permissionless access to the network" while still providing necessary constraints on resource allocation. This distinction is crucial - while anyone can see opportunities and start working, permissions govern who can access treasuries, make binding decisions, or modify shared infrastructure.
+As [DAOs](daos.md) scale through fractal structures of interconnected Cells, permissions enable what [Minimum Viable Permissionless-ness](../artifacts/dao-primitives-framework/network-evolution/Minimum Viable Permissionless-ness.md) describes as "permissionless access to the network" while still providing necessary constraints on resource allocation. This distinction is crucial - while anyone can see opportunities and start working, permissions govern who can access treasuries, make binding decisions, or modify shared infrastructure.
 
 This approach creates what might be called "calibrated permissioning" - deliberately designing where authority lies to achieve appropriate decentralization without sacrificing coordination capacity or security.
 

@@ -436,7 +436,7 @@ Depending on your organization's technical context, governance implementation ma
    - Governance platforms (Snapshot, Tally, Commonwealth, etc.)
    - Communication tools (Discord, Discourse, Telegram, etc.)
    - Documentation systems (Charmverse, Notion, GitHub, etc.)
-   - Voting mechanisms ([token-based governance](artifacts/articles/network-evolution/Building DAOs as scalable networks.md#community-governance), [quadratic voting](artifacts/articles/governance-for-better-futures/Governance for better futures - Meta-governance.md#quadratic-voting), reputation-based, etc.)
+   - Voting mechanisms ([token-based governance](artifacts/dao-primitives-framework/network-evolution/Building DAOs as scalable networks.md#community-governance), [quadratic voting](artifacts/articles/governance-for-better-futures/Governance for better futures - Meta-governance.md#quadratic-voting), reputation-based, etc.)
 
 3. **Implementation Approach**
    - Start with minimum viable governance tools as required by the [phase](tags/groups.md#groups-in-developmental-phases) of development

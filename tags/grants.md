@@ -37,7 +37,7 @@ As noted in notes/links/to-review/A Pocket Guide to DAO Frameworks, many of the 
 
 ### To Fund Autonomous Teams in Scalable Networks
 
-In the scalable network model described in artifacts/articles/network-evolution 1/[Building DAOs as scalable networks](../artifacts/articles/network-evolution/Building DAOs as scalable networks.md), grants are essential for resourcing the small, autonomous teams ([Cells](drafts/test-resources/test-pattern.md)) that perform the network's work. Rather than receiving a salary from a central authority, Cells or individuals can submit proposals to the DAO's governance bodies to receive grants for specific projects. This model also supports innovative funding mechanisms like retroactive public goods funding, a type of grant that rewards past work that has proven valuable to the network, thereby incentivizing permissionless innovation.
+In the scalable network model described in [Building DAOs as scalable networks](../artifacts/dao-primitives-framework/network-evolution/Building DAOs as scalable networks.md), grants are essential for resourcing the small, autonomous teams ([Cells](drafts/test-resources/test-pattern.md)) that perform the network's work. Rather than receiving a salary from a central authority, Cells or individuals can submit proposals to the DAO's governance bodies to receive grants for specific projects. This model also supports innovative funding mechanisms like retroactive public goods funding, a type of grant that rewards past work that has proven valuable to the network, thereby incentivizing permissionless innovation.
 
 ## Related Concepts
 

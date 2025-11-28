@@ -145,7 +145,7 @@ _We are learning as these experiments evolve and are deeply appreciative of the 
 
 ### Article Series
 
-- Previous: [Minimum Viable Permissionless-ness](artifacts/articles/network-evolution/Minimum Viable Permissionless-ness.md)
+- Previous: [Minimum Viable Permissionless-ness](artifacts/dao-primitives-framework/network-evolution/Minimum Viable Permissionless-ness.md)
     
 - Next: …coming soon…
 

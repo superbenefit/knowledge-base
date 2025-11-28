@@ -39,7 +39,7 @@ Transparency in DAO contexts typically manifests through:
 
 In resource allocation and coordination, transparency enables participants to understand how collective assets are being used, creating the accountability necessary for sustainable stewardship. This visibility applies not only to financial resources but also to attention, contribution recognition, and decision rights.
 
-As noted in [Minimum Viable Permissionless-ness](../artifacts/articles/network-evolution/Minimum Viable Permissionless-ness.md), transparency in resource allocation allows talent to "flow toward opportunity and act on it," creating emergent strategy through visible signals rather than centralized planning. When resource flows and allocation criteria are transparent, participants can make informed decisions about where to direct their efforts, creating more efficient and responsive systems.
+As noted in [Minimum Viable Permissionless-ness](../artifacts/dao-primitives-framework/network-evolution/Minimum Viable Permissionless-ness.md), transparency in resource allocation allows talent to "flow toward opportunity and act on it," creating emergent strategy through visible signals rather than centralized planning. When resource flows and allocation criteria are transparent, participants can make informed decisions about where to direct their efforts, creating more efficient and responsive systems.
 
 ### Transparency in Cell-Based Organizations
 
