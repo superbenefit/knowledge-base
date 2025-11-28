@@ -8,7 +8,7 @@ This directory houses the Primitives Framework - a systematic approach to design
 
 **New to the framework?** Read [Framework Concepts](primitives-framework-concepts.md) to understand core ideas
 **Ready to design?** See [Group Facilitation Guide](group-facilitation.md) for the Discovery → Design → Implementation process
-**Looking for patterns?** Browse the [tags directory](../../tags/) for all organizational patterns and concepts
+**Looking for patterns?** Browse the [tags directory](tags/) for all organizational patterns and concepts
 
 **Quick links:** [DAOs](tags/daos.md) · [Cells](tags/cells.md) · [Roles](tags/roles.md) · [Tasks](tags/tasks.md)
 
@@ -20,7 +20,7 @@ The framework provides two complementary tools for organizational design:
 
 How to understand where your organization is:
 
-* **[Phase](group-phase/index.md):** The developmental stage your group is in - Conversation, Formation, Organization, Coordination, or Completion. Different phases need different tools and practices.
+* **[Phase](group-phase/index.md):** The developmental stage your group is in - Conversation, Formation, Organization, Iteration, or Completion. Different phases need different tools and practices.
 
 * **[Scale](group-scale/index.md):** The size and complexity of your group - Collaboration (<10), Coordination (10-150), Constituency (100s+), or Network (inter-organizational). Different scales require different coordination strategies.
 
@@ -30,7 +30,7 @@ How to understand where your organization is:
 
 What to build with:
 
-* **Organizational Patterns:** The four fundamental structures - [DAOs](tags/daos.md), [Cells](tags/cells.md), [Roles](tags/roles.md), and [Tasks](tags/tasks.md) - that can be combined to create tailored governance and operational systems. These are organizational patterns (what you design), distinct from technical primitives (how you implement using smart contracts, tokens, governance protocols). See [tags/](../../tags/) for all patterns.
+* **Organizational Patterns:** The four fundamental structures - [DAOs](tags/daos.md), [Cells](tags/cells.md), [Roles](tags/roles.md), and [Tasks](tags/tasks.md) - that can be combined to create tailored governance and operational systems. These are organizational patterns (what you design), distinct from technical primitives (how you implement using smart contracts, tokens, governance protocols). See [tags/](tags/) for all patterns.
 
 ---
 
@@ -55,12 +55,12 @@ See the [Group Facilitation Guide](group-facilitation.md) for detailed guidance 
 
 ### Dimensional Lenses
 
-* **[group-phase/](group-phase/)** - Five phases: Conversation, Formation, Organization, Coordination, Completion
+* **[group-phase/](group-phase/)** - Five phases: Conversation, Formation, Organization, Iteration, Completion
 * **[group-scale/](group-scale/)** - Four scales: Collaboration, Coordination, Constituency, Network
 
 ### Organizational Patterns
 
-* **Organizational Patterns** - See [tags/](../../tags/) for DAOs, Cells, Roles, Tasks, plus coordination patterns like group-state, community-governance, operational-governance
+* **Organizational Patterns** - See [tags/](tags/) for DAOs, Cells, Roles, Tasks, plus coordination patterns like group-state, community-governance, operational-governance
 
 ### Implementation Resources
 
