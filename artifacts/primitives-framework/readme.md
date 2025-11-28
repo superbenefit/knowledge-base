@@ -8,9 +8,9 @@ This directory houses the Primitives Framework - a systematic approach to design
 
 **New to the framework?** Read [Framework Concepts](primitives-framework-concepts.md) to understand core ideas
 **Ready to design?** See [Group Facilitation Guide](group-facilitation.md) for the Discovery → Design → Implementation process
-**Looking for patterns?** Browse the [Patterns Directory](patterns/) for organizational building blocks
+**Looking for patterns?** Browse the [tags directory](../../tags/) for all organizational patterns and concepts
 
-**Quick links:** [DAOs](patterns/daos.md) · [Cells](tags/cells.md) · [Roles](patterns/roles.md) · [Tasks](patterns/tasks.md)
+**Quick links:** [DAOs](tags/daos.md) · [Cells](tags/cells.md) · [Roles](tags/roles.md) · [Tasks](tags/tasks.md)
 
 ## Understanding Organizational Context
 
@@ -30,7 +30,7 @@ How to understand where your organization is:
 
 What to build with:
 
-* **[Organizational Patterns](patterns/):** The four fundamental structures - DAOs, Cells, Roles, and Tasks - that can be combined to create tailored governance and operational systems. These are organizational patterns (what you design), distinct from technical primitives (how you implement using smart contracts, tokens, governance protocols).
+* **Organizational Patterns:** The four fundamental structures - [DAOs](tags/daos.md), [Cells](tags/cells.md), [Roles](tags/roles.md), and [Tasks](tags/tasks.md) - that can be combined to create tailored governance and operational systems. These are organizational patterns (what you design), distinct from technical primitives (how you implement using smart contracts, tokens, governance protocols). See [tags/](../../tags/) for all patterns.
 
 ---
 
@@ -60,7 +60,7 @@ See the [Group Facilitation Guide](group-facilitation.md) for detailed guidance 
 
 ### Organizational Patterns
 
-* **[patterns/](patterns/)** - DAOs, Cells, Roles, Tasks, plus coordination patterns like group-state, community-governance, operational-governance
+* **Organizational Patterns** - See [tags/](../../tags/) for DAOs, Cells, Roles, Tasks, plus coordination patterns like group-state, community-governance, operational-governance
 
 ### Implementation Resources
 
