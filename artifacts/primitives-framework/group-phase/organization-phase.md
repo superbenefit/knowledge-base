@@ -32,6 +32,10 @@ The Organization phase is complete when the structure outlined in the group's [g
 - **Process Maturity:** Well-defined workflows for core activities that balance consistency with appropriate flexibility.
 - **External Interface Mechanisms:** Clear protocols for how the group interacts with other groups, [community](tags/community.md) [governance](tags/governance.md), and external stakeholders.
 
+---
+
+## Functional Elements
+
 ### Activities
 
 Activities revolve around implementing the [governance](tags/governance.md) and operational design proposed in the group's [group-state](tags/group-state.md) documentation and approved by the [community](tags/community.md) or governance system proposal process used.

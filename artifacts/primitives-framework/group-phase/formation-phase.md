@@ -32,6 +32,8 @@ When the formation phase is complete, a group is ready to move on to the [organi
 - **Minimal Role Definition:** Core roles and responsibilities emerge and are assigned, though these remain somewhat fluid and may evolve substantially.
 - **Team Formation:** The self-selected group solidifies into an identifiable team with shared commitments, moving beyond loose association.
 
+---
+
 ## Functional Elements
 
 ### Activities
