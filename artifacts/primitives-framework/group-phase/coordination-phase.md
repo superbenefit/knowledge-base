@@ -33,7 +33,7 @@ When the Coordination phase is complete, a group may either evolve into a [gover
 
 ### Activities
 
-The activities of a Coordination phase group are outlined in their [group state](artifacts/primitives-framework/patterns/group-state.md) documentation. Broadly these include:
+The activities of a Coordination phase group are outlined in their [group state](tags/group-state.md) documentation. Broadly these include:
 
 - **Internal [Governance](tags/governance.md):** Execution of the group's ongoing governance structure and [practices](tags/practices.md). Including keeping group state documentation up to date and accessible to participants in the [network](tags/networks.md).
 - **Network [Governance](tags/governance.md):** Participating in external decentralized governance processes within coordinating [networks](tags/networks.md).
@@ -42,7 +42,7 @@ The activities of a Coordination phase group are outlined in their [group state]
 - **External Partnerships:** Establishing and executing on partnerships with other autonomous entities in the decentralized [network](tags/networks.md) or other stakeholders from outside the network.
 - **Impact Measurement:** Tracking and communicating the outcomes and value created by the group's activities.
 - **Feedback Integration:** Systematically gathering and responding to feedback from users, stakeholders, and [network](tags/networks.md) participants.
-- **Knowledge Sharing:** Documenting and sharing learnings, tools, and approaches that could benefit others in the [network](tags/networks.md). Including consistently updating and sharing its [group state](artifacts/primitives-framework/patterns/group-state.md) documentation.
+- **Knowledge Sharing:** Documenting and sharing learnings, tools, and approaches that could benefit others in the [network](tags/networks.md). Including consistently updating and sharing its [group state](tags/group-state.md) documentation.
 
 ### Navigating Challenges
 
@@ -68,7 +68,7 @@ A coordination phase group may be ready to evolve to a new form or enter complet
 
 ### State Documentation
 
-During the Coordination Phase, the group's [group state](artifacts/primitives-framework/patterns/group-state.md) documentation is the critical interface between the group and the [network](tags/networks.md) it inhabits. It contains the [agreements](tags/agreements.md) between the group and other coordinating entities, as well as references to web3 tooling and onchain information that allows for effective decentralized [coordination](tags/coordination.md) between the group and its network.
+During the Coordination Phase, the group's [group state](tags/group-state.md) documentation is the critical interface between the group and the [network](tags/networks.md) it inhabits. It contains the [agreements](tags/agreements.md) between the group and other coordinating entities, as well as references to web3 tooling and onchain information that allows for effective decentralized [coordination](tags/coordination.md) between the group and its network.
 
 At coordination phase, if a group fails to maintain their state documentation, or to communicate it clearly and transparently, this should be a red flag for any entity or [network](tags/networks.md) coordinating with the group.
 

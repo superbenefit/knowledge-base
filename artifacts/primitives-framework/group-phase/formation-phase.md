@@ -27,7 +27,7 @@ When the formation phase is complete, a group is ready to move on to the [organi
 - **Purpose Definition:** The group works from the clear, specific purpose statement that emerged in the [conversation-phase](artifacts/primitives-framework/group-phase/conversation-phase.md) phase. This defines its reason for existence and intended contribution to the broader network.
 - **Structured Decision-Making:** Simple but formal [decision](tags/decisions.md) processes begin to replace purely informal consensus, enabling clearer accountability and execution.
 - **Initial Agreements:** Members make explicit commitments about participation, contributions, and shared expectations, establishing the basis for mutual accountability.
-- **Lightweight Documentation:** The group develops basic documentation of its purpose, practices, and progress through an initial [cell state](artifacts/primitives-framework/patterns/cell-state.md) or nucleus document.
+- **Lightweight Documentation:** The group develops basic documentation of its purpose, practices, and progress through an initial [cell state](tags/cell-state.md) or nucleus document.
 - **Resource Planning:** Initial budgets, timelines, and [resource](tags/resources.md) needs are identified and documented to support formal proposals for funding or support.
 - **Minimal Role Definition:** Core roles and responsibilities emerge and are assigned, though these remain somewhat fluid and may evolve substantially.
 - **Team Formation:** The self-selected group solidifies into an identifiable team with shared commitments, moving beyond loose association.
@@ -43,7 +43,7 @@ When the formation phase is complete, a group is ready to move on to the [organi
 - **Integration Planning:** Establishing how the group will connect and [coordinate](tags/coordination.md) with the broader [network](tags/networks.md) or [community](tags/community.md).
 - **[Governance](tags/governance.md) & Operational Design:** Designing the governance and operational structure that will be implemented in the [organization-phase](artifacts/primitives-framework/group-phase/organization-phase.md) phase.
 - **Proposal Development:** Creating formal proposals to seek [community](tags/community.md) endorsement, funding, or permission when needed to formally instantiate the group.
-- **Initial State Documentation:** Documenting the group's proposed purpose, practices, and plans in a [group-state](artifacts/primitives-framework/patterns/group-state.md) document. This outlines vision and practical implementation of the group.
+- **Initial State Documentation:** Documenting the group's proposed purpose, practices, and plans in a [group-state](tags/group-state.md) document. This outlines vision and practical implementation of the group.
 
 ### Challenges
 
@@ -63,7 +63,7 @@ A formation phase group may be ready to evolve to a more structured [organizatio
 - The group has begun execution of initial activities and can demonstrate progress.
 - There is a need for more sophisticated coordination mechanisms to manage increasing complexity.
 - Initial community support and [resources](tags/resources.md) have been secured via a proposal or similar.
-- The group's [group state](artifacts/primitives-framework/patterns/group-state.md) document is sufficiently developed to outline the structure to be implemented in the organization phase.
+- The group's [group state](tags/group-state.md) document is sufficiently developed to outline the structure to be implemented in the organization phase.
 
 ---
 
@@ -71,7 +71,7 @@ A formation phase group may be ready to evolve to a more structured [organizatio
 
 ### State Documentation
 
-Creating a lightweight but clear [group state](artifacts/primitives-framework/patterns/group-state.md) document is a critical practice during the Formation Phase.
+Creating a lightweight but clear [group state](tags/group-state.md) document is a critical practice during the Formation Phase.
 
 The development of the group state document helps the group to get clear and precise about the group's goals and how it is planning to achieve them. It also communicates this to others in the community or operational network, forming the basis for a proposal or other mechanism for community or operational endorsement, funding, partnership, etc.
 
@@ -111,7 +111,7 @@ Proposal development can center around the group state document outlined above, 
 ### Support Resources
 
 - **Governance Design Support:** Accessing specific guidance and [resources](tags/resources.md) for [governance](tags/governance.md) design can save a lot of time and result in better overall governance design. This knowledge garden has a wealth of resources to support this work including governance patterns, frameworks, guides, and case studies.
-- **Group Facilitation:** Accessing governance facilitation support can assist with helping the group to get to agreement on exactly how they want to define the group's [group state](artifacts/primitives-framework/patterns/group-state.md) and which [governance](tags/governance.md) [primitives](tags/primitives.md) and [practices](tags/practices.md) the group wants to adopt.
+- **Group Facilitation:** Accessing governance facilitation support can assist with helping the group to get to agreement on exactly how they want to define the group's [group state](tags/group-state.md) and which [governance](tags/governance.md) [primitives](tags/primitives.md) and [practices](tags/practices.md) the group wants to adopt.
 - **Technical Support:** Once the fundamentals of the group's governance design are established, sourcing specific support to select the right technical tools to implement it is hugely beneficial.
 
 ## Success Indicators

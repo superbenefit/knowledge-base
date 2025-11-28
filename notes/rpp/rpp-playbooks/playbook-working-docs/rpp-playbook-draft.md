@@ -107,7 +107,7 @@ In nonprofit contexts, community governance transforms traditional board-centric
 
 **First step**: Map your current governance decisions into two categories: those affecting mission/values (strategic) versus those affecting daily operations (tactical). Survey stakeholders about which decisions they want voice in—you'll likely find they care most about strategic direction, not operational details.
 
-**Link to full pattern**: [community-governance](artifacts/primitives-framework/patterns/community-governance.md)
+**Link to full pattern**: [community-governance](tags/community-governance.md)
 
 #### Operational Governance
 
@@ -123,7 +123,7 @@ _Note: Cells are autonomous teams with defined scope operating within shared org
 
 **First step**: Identify your most frustrated program team—the one constantly waiting for approvals. Define clear boundaries (budget, scope, values alignment) within which they can make all decisions without seeking permission. Start with a 3-month experiment to build confidence on both sides.
 
-**Link to full pattern**: [operational-governance](artifacts/primitives-framework/patterns/operational-governance.md)
+**Link to full pattern**: [operational-governance](tags/operational-governance.md)
 
 ### Pattern Group B: Building Participation Infrastructure
 
@@ -398,8 +398,8 @@ Equality Fund's discoveries challenged core RPP assumptions about blockchain's p
 
 ### Patterns
 
-- [Community Governance](artifacts/primitives-framework/patterns/community-governance.md) - Collective stewardship through constituency-scale decision making
-- [Operational Governance](artifacts/primitives-framework/patterns/operational-governance.md) - Sociocratic coordination of autonomous teams
+- [Community Governance](tags/community-governance.md) - Collective stewardship through constituency-scale decision making
+- [Operational Governance](tags/operational-governance.md) - Sociocratic coordination of autonomous teams
 - [Gatherings](artifacts/misc/patterns/gatherings.md) - Structured spaces for cross-sector relationship building
 - [Token-based Governance](notes/rpp/rpp-working-docs/token-based-governance.md) - Digital voting systems for transparent decision-making
 - [Privacy Payments](notes/rpp/rpp-working-docs/privacy-payments.md) - Protection for sensitive financial transactions

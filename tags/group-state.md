@@ -52,7 +52,7 @@ Group state is also fractal, with [Roles](tags/roles.md) and [Tasks](tags/tasks.
 
 ### Group State Patterns
 
-- [artifacts/primitives-framework/patterns/cell-state](artifacts/primitives-framework/patterns/cell-state.md)
+- [tags/cell-state](tags/cell-state.md)
 - [dao-state](notes/dao-primitives/implementation/patterns/dao-patterns/dao-state.md)
 - [group-state-template](notes/dao-primitives/resources/templates/group-state-template.md)
 

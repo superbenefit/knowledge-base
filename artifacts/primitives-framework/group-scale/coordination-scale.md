@@ -42,7 +42,7 @@ While [collaboration-scale](artifacts/primitives-framework/group-scale/collabora
 - **Communication Platforms:** Platforms for facilitating communication and collaboration among teams including gauging sentiment from across the wider group.
 - **[Governance](tags/governance.md) Structures:** Formal governance tooling to guide [decision-making](tags/decisions.md) and ensure accountability.
 - **Onchain Tools:** Where practical, onchain tools allow for [coordination](tags/coordination.md) without centralization of authority.
-- **Group State**: Using onchain trust mechanisms that connect back to [group state](artifacts/primitives-framework/patterns/group-state.md) documentation allow groups to participate in coordination scale structures without overwhelming the coordination overhead.
+- **Group State**: Using onchain trust mechanisms that connect back to [group state](tags/group-state.md) documentation allow groups to participate in coordination scale structures without overwhelming the coordination overhead.
 - **Reporting Mechanisms:** Mechanisms for reporting [progress](tags/progress.md) and impact allow for coordination scale structures to manage and allocate [resources](tags/resources.md) effectively.
 - **Project Management Software:** Tools for managing [tasks](tags/tasks.md), tracking progress, and coordinating activities across multiple teams.
 

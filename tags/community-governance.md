@@ -99,7 +99,7 @@ Community governance draws from diverse traditions including commons management,
 Foundational frameworks include Ostrom's work on commons governance principles, sociocracy and consent-based decision systems, platform cooperativism governance models, and DAO governance experiments. Each contributes insights while synthesis creates new possibilities.
 
 Related patterns that complement community governance:
-- **[Operational Governance](artifacts/primitives-framework/patterns/operational-governance.md)**: Execution frameworks operating within community-set boundaries
+- **[Operational Governance](tags/operational-governance.md)**: Execution frameworks operating within community-set boundaries
 - **Participatory governance**: Deep involvement of affected communities in decisions
 - **[Coordi-nations](tags/coordi-nations.md)**: Network-scale coordination maintaining local autonomy
 - **[Token based governance](notes/rpp/rpp-working-docs/token-based-governance.md)**: Digital tools enabling scaled participation

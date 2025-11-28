@@ -55,10 +55,10 @@ See the [sense-making-facilitation-tools](notes/dao-primitives/implementation/gu
 
 ### Collaboration Scale Patterns
 
-- [artifacts/primitives-framework/patterns/cell-state](artifacts/primitives-framework/patterns/cell-state.md) 
+- [tags/cell-state](tags/cell-state.md) 
 - [artifacts/primitives-framework/patterns/cell](artifacts/primitives-framework/patterns/cell.md) 
-- [artifacts/primitives-framework/patterns/decider-protocol](artifacts/primitives-framework/patterns/decider-protocol.md)
-- [cells](artifacts/primitives-framework/patterns/cells.md)
+- [tags/decider-protocol](tags/decider-protocol.md)
+- [cells](tags/cells.md)
 
 ---
 

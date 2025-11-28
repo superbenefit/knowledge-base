@@ -29,7 +29,7 @@ _A pattern for creating and managing group state for purpose aligned networks of
 
 ## Problem / Solution Context
 
-This pattern is designed to be used in the creation of [cells](artifacts/primitives-framework/patterns/cells.md) as [collaboration](artifacts/primitives-framework/group-scale/collaboration-scale.md) scale teams as described in the [DAO Primitives Framework](artifacts/primitives-framework/primitives-framework-concepts.md)
+This pattern is designed to be used in the creation of [cells](tags/cells.md) as [collaboration](artifacts/primitives-framework/group-scale/collaboration-scale.md) scale teams as described in the [DAO Primitives Framework](artifacts/primitives-framework/primitives-framework-concepts.md)
 
 Capturing and maintaining a cell's state is fundamental to enabling both autonomous operation and effective network coordination within DAOs. A clear and consistent cell state document serves as a living state that enables the cell to maintain coherence while evolving and provides transparency for network-level coordination. Without documented state, Cells risk falling into internal dysfunction and lack of effectiveness. They also fail to fully leverage the value of coordination and efficient resource and information flows across the network.
 
@@ -123,7 +123,7 @@ The tools and practices by which the team achieves and demonstrates progress. Th
 
 **Internal collaboration** - developing and maintaining a well defined group-state causes a team to reach agreement on important aspects of the groups purpose, goals and strategy, as well as internal processes for decision-making, resource allocation, compensation etc. This intentional alignment enhances the team's capability to navigate complex challenges while maintaining coherent action toward shared objectives.
 
-**External coordination** - the group-state nucleus document allows coordinating entities (other Cells, partners, [community governance](artifacts/primitives-framework/patterns/community-governance.md) etc) to easily understand what a Cell is trying to achieve, how it is operating internally and what work it is doing. This allows these external entities to make informed decisions about resource allocation and partnership opportunities based on the effectiveness and trustworthiness of the Cell.
+**External coordination** - the group-state nucleus document allows coordinating entities (other Cells, partners, [community governance](tags/community-governance.md) etc) to easily understand what a Cell is trying to achieve, how it is operating internally and what work it is doing. This allows these external entities to make informed decisions about resource allocation and partnership opportunities based on the effectiveness and trustworthiness of the Cell.
 
 **Network scale transparency and intelligence** - A larger network view and collective intelligence can emerge based on Cells utilizing a consistent interoperable schema and tooling for group state.
 

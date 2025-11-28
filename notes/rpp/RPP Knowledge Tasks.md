@@ -28,7 +28,7 @@ kanban-plugin: board
 	- [cell](artifacts/primitives-framework/patterns/cell.md)
 - [ ] Create Circle Primitive circle
 - [ ] Create Decider Primitive 
-	- [decider-protocol](artifacts/primitives-framework/patterns/decider-protocol.md)
+	- [decider-protocol](tags/decider-protocol.md)
 - [ ] Create Nucleus Primitive
 	- [nucleus](notes/dao-primitives/implementation/patterns/collaboration-scale-patterns/nucleus.md)
 - [ ] Create Group State Pattern

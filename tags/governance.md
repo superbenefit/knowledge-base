@@ -14,11 +14,11 @@ Decentralized governance in the context of Web3 and [DAOs](tags/daos.md) refers 
 
 ## Types of Governance
 
-### [Community Governance](artifacts/primitives-framework/patterns/community-governance.md)
+### [Community Governance](tags/community-governance.md)
 
 Operates at Constituency Scale to safeguard and evolve the network's overarching purpose. Community governance includes a broad base of stakeholders who may not be directly involved in operations but are aligned with the network's purpose. It uses slower, more deliberative mechanisms like conviction voting and optimistic governance to make long-term decisions about network direction and treasury allocation.
 
-### [Operational Governance](artifacts/primitives-framework/patterns/operational-governance.md)
+### [Operational Governance](tags/operational-governance.md)
 
 Functions at Coordination Scale to enable effective day-to-day operations and resource allocation. Built on sociocratic structures where Cells (small autonomous teams) coordinate their activities. Operational governance provides the flexibility and autonomy needed for teams to execute effectively while maintaining coordination across the network.
 

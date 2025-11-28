@@ -10,7 +10,7 @@ This directory houses the Primitives Framework - a systematic approach to design
 **Ready to design?** See [Group Facilitation Guide](group-facilitation.md) for the Discovery → Design → Implementation process
 **Looking for patterns?** Browse the [Patterns Directory](patterns/) for organizational building blocks
 
-**Quick links:** [DAOs](patterns/daos.md) · [Cells](patterns/cells.md) · [Roles](patterns/roles.md) · [Tasks](patterns/tasks.md)
+**Quick links:** [DAOs](patterns/daos.md) · [Cells](tags/cells.md) · [Roles](patterns/roles.md) · [Tasks](patterns/tasks.md)
 
 ## Understanding Organizational Context
 
@@ -24,7 +24,7 @@ How to understand where your organization is:
 
 * **[Scale](group-scale/index.md):** The size and complexity of your group - Collaboration (<10), Coordination (10-150), Constituency (100s+), or Network (inter-organizational). Different scales require different coordination strategies.
 
-* **[State](patterns/group-state.md):** Documentation of Purpose, Practice, and Progress that enables transparent coordination. Understanding and documenting your organizational state is crucial for decentralized operations.
+* **[State](tags/group-state.md):** Documentation of Purpose, Practice, and Progress that enables transparent coordination. Understanding and documenting your organizational state is crucial for decentralized operations.
 
 ### 2. Organizational Patterns (Building Blocks)
 

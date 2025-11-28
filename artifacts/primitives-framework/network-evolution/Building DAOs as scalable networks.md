@@ -11,7 +11,7 @@ type: link
 banner: "![[attachments/bH7p-1_vNGvLV7-2SOx4S.png]]"
 ---
 
-The article "Building DAOs as Scalable Networks" explores how decentralized autonomous organizations ([DAOs](tags/daos.md)) can scale by structuring smaller autonomous units called "Cells" within a broader governance system. It proposes a two-house model of governance — [Community Governance](artifacts/primitives-framework/patterns/community-governance.md) to safeguard the network's purpose and [Operational Governance](artifacts/primitives-framework/patterns/operational-governance.md) to allow flexibility and innovation. This approach enhances collaboration and coordination while ensuring long-term [purpose](tags/purpose.md) alignment, enabling DAOs to influence larger systems effectively.
+The article "Building DAOs as Scalable Networks" explores how decentralized autonomous organizations ([DAOs](tags/daos.md)) can scale by structuring smaller autonomous units called "Cells" within a broader governance system. It proposes a two-house model of governance — [Community Governance](tags/community-governance.md) to safeguard the network's purpose and [Operational Governance](tags/operational-governance.md) to allow flexibility and innovation. This approach enhances collaboration and coordination while ensuring long-term [purpose](tags/purpose.md) alignment, enabling DAOs to influence larger systems effectively.
 
 For more details, read the full article [here](https://superbenefit.mirror.xyz/Gx_rXSPOyt2sydHwlStfbrgVqYt6P3k5huT3xyZAolo).
 
@@ -94,7 +94,7 @@ Evolving past early decision-making to a scalable governance structure.
 
 As more working groups (Cells) are created, Governance splits into two different houses – Community Governance & Operational Governance.
 
-1. **[Community Governance](artifacts/primitives-framework/patterns/community-governance.md)** - safeguards the purpose of the network
+1. **[Community Governance](tags/community-governance.md)** - safeguards the purpose of the network
     
 2. **[Operational Governance](artifacts/primitives-framework/dao-primitives-implementation/implementation-guide-operational-governance.md)** - gives flexibility, autonomy and modern incentive design to produce innovation and scale
     

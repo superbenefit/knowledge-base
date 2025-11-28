@@ -75,7 +75,7 @@ Most contexts require organizations operate at multiple scales simultaneously, w
 Learn more about [Group Scale](artifacts/primitives-framework/group-scale/index.md)
 
 
-### 3\. [Group State](artifacts/primitives-framework/patterns/group-state.md)
+### 3\. [Group State](tags/group-state.md)
 
 Group State focuses on how having a transparent organizational state for each entity in a network, enables effective coordination in decentralized systems. For groups to interact effectively without centralized control, they need clear interfaces that make them interoperable and universally addressable.
 
@@ -87,7 +87,7 @@ In the DAO primitives framework Group state consists of three core components:
 
 This state documentation serves as a "public interface" that enables both internal coherence and external coordination. It allows groups to have an existence that is both independent from the larger network and integrated into it through agreements with other entities.
 
-Learn more about [Group State](artifacts/primitives-framework/patterns/group-state.md)
+Learn more about [Group State](tags/group-state.md)
 
 
 ## Organizational Patterns
@@ -108,7 +108,7 @@ At the highest level, three foundational organizational primitives:
 Although the above conceptual framework could be used to design a wide range of different governance and operational structures, the Primitives Framework leans heavily on the following 4 organizational patterns:
 
 1. **[DAOs](artifacts/primitives-framework/patterns/daos.md)**: Purpose-aligned networks of small autonomous teams
-2. **[Cells](artifacts/primitives-framework/patterns/cells.md)**: Teams of fewer than 10 people collaborating on specific ongoing activities
+2. **[Cells](tags/cells.md)**: Teams of fewer than 10 people collaborating on specific ongoing activities
 3. **[Roles](artifacts/primitives-framework/patterns/roles.md)**: Sets of responsibilities, permissions, and accountabilities held by individuals or entities
 4. **[Tasks](artifacts/primitives-framework/patterns/tasks.md)**: Defined pieces of work with clear deliverables delivered by individuals or entities
 
