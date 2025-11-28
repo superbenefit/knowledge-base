@@ -44,7 +44,7 @@ Choose your path based on where you are:
 
 **Ready to design governance?** Follow the [Group Facilitation Guide](group-facilitation.md) through Discovery → Design → Implementation.
 
-**Need specific patterns?** Browse the [tags directory](../../tags/) for organizational patterns and concepts.
+**Need specific patterns?** Browse the [tags directory](tags/) for organizational patterns and concepts.
 
 **Looking for examples?** See the [RPP Governance Case Study](rpp-governance-case-study.md) for a real-world implementation.
 
@@ -116,7 +116,7 @@ The framework guides you through a three-phase process:
 
 ### Organizational Patterns
 
-All patterns are documented in the [tags directory](../../tags/):
+All patterns are documented in the [tags directory](tags/):
 - **Organizational patterns**: [DAOs](tags/daos.md), [Cells](tags/cells.md), [Roles](tags/roles.md), [Tasks](tags/tasks.md)
 - **Coordination patterns**: [Group State](tags/group-state.md), [Community Governance](tags/community-governance.md), [Operational Governance](tags/operational-governance.md)
 - **Cell patterns**: [Cell State](tags/cell-state.md), [Decider Protocol](tags/decider.md)
