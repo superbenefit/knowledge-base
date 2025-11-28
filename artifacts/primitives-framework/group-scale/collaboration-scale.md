@@ -57,7 +57,7 @@ See the [sense-making-facilitation-tools](notes/dao-primitives/implementation/gu
 
 - [tags/cell-state](tags/cell-state.md)
 - [tags/cells](tags/cells.md)
-- [tags/decider-protocol](tags/decider-protocol.md)
+- [tags/decider](tags/decider.md)
 
 ---
 

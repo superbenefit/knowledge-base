@@ -392,7 +392,7 @@ In the final implementation phase, establish:
 3. Establish regular governance review and improvement cycles
 4. Create specialized governance working groups as needed
 
-#### Coordination Phase
+#### Iteration Phase
 
 In this formal phase, focus on:
 
@@ -497,7 +497,7 @@ Rather than launching all governance components simultaneously, consider a phase
 1. [Conversation Phase](tags/groups.md#groups-in-developmental-phases)
 2. [Formation Phase](tags/groups.md#groups-in-developmental-phases)
 3. [Organisation Phase](tags/groups.md#groups-in-developmental-phases)
-4. [Coordination Phase](tags/groups.md#groups-in-developmental-phases)
+4. [Iteration Phase](tags/groups.md#groups-in-developmental-phases)
 
 For each phase, establish clear:
 

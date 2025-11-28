@@ -14,14 +14,11 @@ tags:
 
 The Primitives Framework provides a systematic approach to designing and implementing decentralized organizations as purpose-aligned networks. Building on the overview provided in the [DAO Primitives Project](notes/dao-primitives/index.md), this framework offers a deeper exploration of the key concepts, dimensions, and components that enable effective decentralized coordination.
 
-
 The DAO Primitives Project provides a framework, conceptual tools, and practical patterns for building **[purpose](tags/purpose.md)-aligned networks of small autonomous [teams](tags/teams.md)** that can scale effectively while maintaining coordination, adaptability, and emergent collective intelligence.
 
 Our current organizational models were optimized for an era of industrial production and hierarchical management, creating structures that excel at efficiency but struggle with complexity, adaptability, and equitable value distribution. [Decentralized organizations](tags/decentralization.md) offer transformative alternatives through their core properties: distributed authority that prevents power concentration, permissionless innovation that unlocks collective intelligence, transparent operations that build trust, and aligned incentives that share value with all contributors. 
 
 As our societal challenges grow increasingly complex and interconnected—from climate change to economic inequality—we need [coordination](tags/coordination.md) systems that can harness diverse perspectives, adapt quickly to emerging conditions, and align human activity with regenerative outcomes. 
-
-Traditional corporations, governments, and NGOs, designed for stability in predictable environments, often lack the responsiveness and diversity of intelligence needed to address systemic challenges. [Decentralized organizations](tags/decentralization.md) provide a fundamental reimagining of how humans [coordinate](tags/coordination.md) to create value, enabling more resilient, adaptive, and equitable systems capable of navigating the complexity of our modern world while distributing benefits more widely across society.
 
 We developed the DAO Primitives project around **[purpose](tags/purpose.md)-aligned networks of small autonomous [teams](tags/teams.md)** as a conceptual starting point for designing decentralized organizations. The DAO primitives allow communities of all kinds to build their own purpose aligned networks that can act in deliberate coherent ways to create better futures for everyone who participates in them.
 
@@ -54,7 +51,7 @@ The framework identifies five key phases:
 - **[Conversation Phase](artifacts/primitives-framework/group-phase/conversation-phase.md)**: Initial exploration and idea generation focus on open dialogue, relationship building, and establishing shared vision before formal structures emerge
 - **[Formation Phase](artifacts/primitives-framework/group-phase/formation-phase.md)**: Establishing basic structure and roles with minimal formality, emphasizing trust-building and defining initial procedures for group operation
 - **[Organization Phase](artifacts/primitives-framework/group-phase/organization-phase.md)**: Implementing formal structures, defined processes, and governance mechanisms to create sustainable and scalable organizational systems
-- **[Coordination Phase](artifacts/primitives-framework/group-phase/coordination-phase.md)**: Integrating with broader networks and collaborating with other groups, shifting focus from internal organization to external relationships
+- **[Iteration Phase](artifacts/primitives-framework/group-phase/iteration-phase.md)**: Ongoing execution and evolution, with groups operating at full capacity while iterating and improving based on feedback
 - **[Completion Phase](artifacts/primitives-framework/group-phase/completion-phase.md)**: Concluding initiatives, capturing learnings, and transitioning resources when projects or groups reach their natural conclusion
 
 Learn more about [Group Phase](artifacts/primitives-framework/group-phase/index.md)

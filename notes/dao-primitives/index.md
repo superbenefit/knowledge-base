@@ -53,7 +53,7 @@ Human systems function differently at different scales. Each scale requires diff
 - **Conversation Phase**
 - **Formation Phase**
 - **Organisation Phase**
-- **Coordination Phase**
+- **Iteration Phase**
 - **Completion**
 
 

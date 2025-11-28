@@ -238,7 +238,7 @@ Follow the [index](artifacts/primitives-framework/group-phase/index.md) model to
 - **Conversation Phase**: Informal gathering of ideas and intentions
 - **Formation Phase**: Basic [agreements](tags/agreements.md) and initial structures
 - **Organization Phase**: Formalized systems and processes
-- **Coordination Phase**: Ongoing operations and evolution
+- **Iteration Phase**: Ongoing operations and evolution
 - **Completion Phase**: Winding down unneeded groups
 
 For larger, more complex groups, different parts of the [governance](tags/governance.md) and operational structure may exist at different phases simultaneously as the system evolves. Single groups typically exist within one phase at a time, allowing for more straightforward implementation sequencing.
@@ -251,7 +251,7 @@ Similarly, follow the group-scale model to ensure the implementation plan addres
 
 Anchor the development of the [governance](tags/governance.md) system to the evolution of group-state documentation for each entity in the system. For DAO development, begin with sketching a high-level version of the DAO state appropriate to the formation phase. This can provide essential infrastructure like proposal processes and [treasury](tags/treasury.md) management that enable [community](tags/community.md) stakeholders to provide mandates for ongoing governance development and [resource](tags/resources.md) allocation.
 
-For single teams, implementing governance can proceed much more rapidly. If requirements are clear, a completed group-state can be produced quickly, allowing teams to move from formation through organization to coordination phase in short timeframes.
+For single teams, implementing governance can proceed much more rapidly. If requirements are clear, a completed group-state can be produced quickly, allowing teams to move from formation through organization to iteration phase in short timeframes.
 
 #### Implementation Guides
 

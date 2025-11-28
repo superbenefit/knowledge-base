@@ -368,7 +368,7 @@ In this [phase](tags/groups.md#groups-in-developmental-phases), focus on:
 3. Establish regular governance review and improvement cycles
 4. Create specialized governance working groups as needed
 
-#### Coordination Phase
+#### Iteration Phase
 
 In the final implementation [phase](tags/groups.md#groups-in-developmental-phases), establish:
 

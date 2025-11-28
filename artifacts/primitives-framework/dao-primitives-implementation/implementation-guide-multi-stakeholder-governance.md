@@ -433,7 +433,7 @@ Use the [group phase framework](tags/groups.md#groups-in-developmental-phases) t
 1. [Conversation Phase](tags/groups.md#groups-in-developmental-phases)
 2. [Formation Phase](tags/groups.md#groups-in-developmental-phases)
 3. [Organization Phase](tags/groups.md#groups-in-developmental-phases)
-4. [Coordination Phase](tags/groups.md#groups-in-developmental-phases)
+4. [Iteration Phase](tags/groups.md#groups-in-developmental-phases)
 
 #### Activity: Phased Implementation Strategy
 

@@ -53,7 +53,7 @@ Activities revolve around implementing the [governance](tags/governance.md) and 
 
 ### Signs of Readiness for Evolution
 
-An organization phase group may be ready to evolve to the ongoing [coordination phase](artifacts/primitives-framework/group-phase/coordination-phase.md) when:
+An organization phase group may be ready to evolve to the ongoing [iteration phase](artifacts/primitives-framework/group-phase/iteration-phase.md) when:
 
 - [Governance](tags/governance.md) and operational systems, designed in the Formation phase, are implemented and functioning effectively with minimal friction
 - [Roles](tags/roles.md) are clearly defined and resourced

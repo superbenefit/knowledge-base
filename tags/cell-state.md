@@ -62,7 +62,7 @@ The cell state document can serve 5 different purposes depending on the [phase](
 1. As a collaborative document to start to gather thoughts and intentions for the group in the [conversation](artifacts/primitives-framework/group-phase/conversation-phase.md) phase
 2. As a proposal template for a formal proposal to approve the establishment of the team in the [formation](artifacts/primitives-framework/group-phase/formation-phase.md)
 3. As the structure within which to develop and record the team's specific agreements and plans during [organization](artifacts/primitives-framework/group-phase/organization-phase.md) phase
-4. As the capture of the ongoing evolving current state of the operating group. Visible, public (to the extent that this is practical) interface for those coordinating with the group through [coordination](artifacts/primitives-framework/group-phase/coordination-phase.md)phase
+4. As the capture of the ongoing evolving current state of the operating group. Visible, public (to the extent that this is practical) interface for those coordinating with the group through [coordination](artifacts/primitives-framework/group-phase/iteration-phase.md)phase
 5. As the final record that archives what the group has achieved and who contributed to these achievements through[completion](artifacts/primitives-framework/group-phase/completion-phase.md) phase
 
 ## Components of group state

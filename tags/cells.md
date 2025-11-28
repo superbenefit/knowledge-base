@@ -84,7 +84,7 @@ See [Group State Pattern](tags/group-state.md) for detailed guidance on state do
 
 ## Phase & Scale Considerations
 
-**Phase Evolution**: Cells typically begin in Conversation Phase (exploring possibilities), evolve through Formation Phase (establishing structure), mature in Organization Phase (operating effectively), and integrate in Coordination Phase (connecting with broader networks). They may also reach Completion Phase when their purpose is fulfilled.
+**Phase Evolution**: Cells typically begin in Conversation Phase (exploring possibilities), evolve through Formation Phase (establishing structure), mature in Organization Phase (operating effectively), and integrate in Iteration Phase (ongoing execution and evolution). They may also reach Completion Phase when their purpose is fulfilled.
 
 **Collaboration Scale Focus**: Cells are specifically designed for collaboration scale of 10 or fewer people (typically 3-8 people) where coordination can happen through direct relationships and shared context. This scale enables the high-bandwidth interaction necessary for effective autonomous operation.
 

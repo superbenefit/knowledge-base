@@ -1,12 +1,12 @@
 ---
-title: Coordination Phase
+title: Iteration Phase
 description: "The mature stage of group development where a fully established group executes effectively on its purpose, maximizing impact through coordinated action with others in the network."
 author: yeoro.eth
 tags:
   - framework
   - group-phase
 aliases:
-  - "#coordination"
+  - "#iteration"
 type: note
 publish: "true"
 ---
@@ -14,11 +14,11 @@ publish: "true"
 
 ---
 
-The Coordination Phase represents the mature [index](artifacts/primitives-framework/group-phase/index.md) where [groups](tags/groups.md) transition from establishing their structures and processes in the [organization phase](artifacts/primitives-framework/group-phase/organization-phase.md) to focused execution on their [purpose](tags/purpose.md) and goals. In this phase, a group leverages its fully implemented operational capabilities and [governance](tags/governance.md) systems to deliver maximum value and impact. The emphasis shifts from internal development to effective delivery, with [coordination](tags/coordination.md) becoming a key mechanism for accessing necessary [resources](tags/resources.md), capabilities, and support from the broader [network](tags/networks.md) or ecosystem.
+The Iteration Phase represents the mature [index](artifacts/primitives-framework/group-phase/index.md) where [groups](tags/groups.md) transition from establishing their structures and processes in the [organization phase](artifacts/primitives-framework/group-phase/organization-phase.md) to focused execution on their [purpose](tags/purpose.md) and goals. In this phase, a group leverages its fully implemented operational capabilities and [governance](tags/governance.md) systems to deliver maximum value and impact. The emphasis shifts from internal development to effective delivery, with [coordination](tags/coordination.md) becoming a key mechanism for accessing necessary [resources](tags/resources.md), capabilities, and support from the broader [network](tags/networks.md) or ecosystem.
 
-The coordination phase is where a group, as an autonomous (or semi-autonomous) entity, both leverages and contributes to the power and collective intelligence of the decentralized [network](tags/networks.md) it inhabits (or in the case of a DAO, is creating).
+The iteration phase is where a group, as an autonomous (or semi-autonomous) entity, both leverages and contributes to the power and collective intelligence of the decentralized [network](tags/networks.md) it inhabits (or in the case of a DAO, is creating).
 
-When the Coordination phase is complete, a group may either evolve into a [governance](tags/governance.md) or operational structure or enter a [completion phase](artifacts/primitives-framework/group-phase/completion-phase.md) as its [purpose](tags/purpose.md) is fulfilled.
+When the Iteration phase is complete, a group may either evolve into a [governance](tags/governance.md) or operational structure or enter a [completion phase](artifacts/primitives-framework/group-phase/completion-phase.md) as its [purpose](tags/purpose.md) is fulfilled.
 
 ## Key Characteristics
 
@@ -33,7 +33,7 @@ When the Coordination phase is complete, a group may either evolve into a [gover
 
 ### Activities
 
-The activities of a Coordination phase group are outlined in their [group state](tags/group-state.md) documentation. Broadly these include:
+The activities of an Iteration phase group are outlined in their [group state](tags/group-state.md) documentation. Broadly these include:
 
 - **Internal [Governance](tags/governance.md):** Execution of the group's ongoing governance structure and [practices](tags/practices.md). Including keeping group state documentation up to date and accessible to participants in the [network](tags/networks.md).
 - **Network [Governance](tags/governance.md):** Participating in external decentralized governance processes within coordinating [networks](tags/networks.md).
@@ -54,7 +54,7 @@ The activities of a Coordination phase group are outlined in their [group state]
 
 ### Signs of Readiness for Evolution
 
-A coordination phase group may be ready to evolve to a new form or enter completion when:
+An iteration phase group may be ready to evolve to a new form or enter completion when:
 
 - The group's [purpose](tags/purpose.md) has been substantially fulfilled or has evolved significantly
 - The operational context has changed in ways that require fundamental restructuring
@@ -68,9 +68,9 @@ A coordination phase group may be ready to evolve to a new form or enter complet
 
 ### State Documentation
 
-During the Coordination Phase, the group's [group state](tags/group-state.md) documentation is the critical interface between the group and the [network](tags/networks.md) it inhabits. It contains the [agreements](tags/agreements.md) between the group and other coordinating entities, as well as references to web3 tooling and onchain information that allows for effective decentralized [coordination](tags/coordination.md) between the group and its network.
+During the Iteration Phase, the group's [group state](tags/group-state.md) documentation is the critical interface between the group and the [network](tags/networks.md) it inhabits. It contains the [agreements](tags/agreements.md) between the group and other coordinating entities, as well as references to web3 tooling and onchain information that allows for effective decentralized [coordination](tags/coordination.md) between the group and its network.
 
-At coordination phase, if a group fails to maintain their state documentation, or to communicate it clearly and transparently, this should be a red flag for any entity or [network](tags/networks.md) coordinating with the group.
+At iteration phase, if a group fails to maintain their state documentation, or to communicate it clearly and transparently, this should be a red flag for any entity or [network](tags/networks.md) coordinating with the group.
 
 **[Purpose](tags/purpose.md) Elements:**
 
@@ -97,17 +97,17 @@ At coordination phase, if a group fails to maintain their state documentation, o
 
 ### Technical Implementation
 
-Coordination Phase groups typically employ various technical tools to support execution and [coordination](tags/coordination.md). At this phase these should, where practical, be onchain tools. This promotes the decentralized properties that are designed into the group's [governance](tags/governance.md). Using onchain tools is especially important for:
+Iteration Phase groups typically employ various technical tools to support execution and [coordination](tags/coordination.md). At this phase these should, where practical, be onchain tools. This promotes the decentralized properties that are designed into the group's [governance](tags/governance.md). Using onchain tools is especially important for:
 
 - Governing the group's [treasury](tags/treasury.md) and allocation of [resources](tags/resources.md).
 - Managing changes in the overall [governance](tags/governance.md) structure of the group, i.e., who has [decision-making](tags/decisions.md) authorities.
 - Information for external stakeholders. [Coordination](tags/coordination.md) partners need to have trust in the group's processes at a glance.
 
-There is always a balance to be struck between the flexibility of a lightweight minimal organizational structure, and the need for solid tools, [practices](tags/practices.md), processes, and policies to support a group to function successfully. At coordination phase, the group should have its structure fully implemented with technical tooling, in line with what it needs to deliver on its stated [governance](tags/governance.md) and operational design.
+There is always a balance to be struck between the flexibility of a lightweight minimal organizational structure, and the need for solid tools, [practices](tags/practices.md), processes, and policies to support a group to function successfully. At iteration phase, the group should have its structure fully implemented with technical tooling, in line with what it needs to deliver on its stated [governance](tags/governance.md) and operational design.
 
 ## Success Indicators
 
-A coordination phase has been successful when:
+An iteration phase has been successful when:
 
 - **[Purpose](tags/purpose.md) Advancement:** The group consistently delivers outcomes that meaningfully advance its purpose
 - **[Resource](tags/resources.md) Effectiveness:** Available resources are deployed efficiently to create maximum impact
@@ -118,7 +118,7 @@ A coordination phase has been successful when:
 - **Adaptive Capacity:** The group effectively executes on retrospectives and other feedback processes, and translates insights generated through these processes into changes in the governance and operational structure of the group
 - **Documented Impact:** Clear evidence demonstrates the value and outcomes created by the group's activities
 
-The coordination phase represents the period when a group's full potential is realized through effective execution on its [purpose](tags/purpose.md). To do this, it effectively coordinates with the decentralized [networks](tags/networks.md) it inhabits.
+The iteration phase represents the period when a group's full potential is realized through effective execution on its [purpose](tags/purpose.md). To do this, it effectively coordinates with the decentralized [networks](tags/networks.md) it inhabits.
 
 When successful, the group creates tangible value for itself and for the broader [networks](tags/networks.md) while building a foundation for sustainable impact and evolution.
 
