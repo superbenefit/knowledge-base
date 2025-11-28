@@ -1,6 +1,6 @@
 ---
 title: Impact DAO Media - Comprehensive DAO Database and Analysis
-description: Impact DAO Media maintains comprehensive database tracking DAO landscape with [governance](tags/governance.md) focus, providing structured data on organizational models, voting mechanisms, treasury management, and participation patterns across hundreds of decentralized organizations.
+description: Impact DAO Media maintains comprehensive database tracking DAO landscape with governance focus, providing structured data on organizational models, voting mechanisms, treasury management, and participation patterns across hundreds of decentralized organizations.
 publish: true
 type: database
 source: https://daos.paradigm.xyz/
@@ -9,10 +9,10 @@ author:
 tags:
   - dao-database
   - dao-landscape
-  - [governance](tags/governance.md)-tracking
+  - governance-tracking
   - organizational-data
   - dao-analytics
-  - [impact](tags/impact.md)-daos
+  - impact-daos
 ---
 
 Impact DAO Media's database provides comprehensive tracking of DAO landscape, cataloging hundreds of decentralized organizations with structured data on [governance](tags/governance.md) mechanisms, treasury sizes, member participation, voting patterns, and organizational focus areas. The database serves as research infrastructure for understanding DAO ecosystem empirically rather than through anecdotes or promotional claims, enabling analysis of governance patterns, participation trends, and organizational evolution across projects. By maintaining standardized data structure across diverse [DAOs](tags/daos.md), the platform supports comparative research examining which [coordination](tags/coordination.md) approaches work in different contexts, how governance evolves over time, and where persistent challenges emerge. The database emphasizes [impact](tags/impact.md)-focused DAOs working on [public goods](tags/public-goods.md), social benefit, and regenerative projects, providing particular value for communities interested in decentralized coordination beyond purely financial applications.
@@ -55,8 +55,8 @@ This database enables research and informed practice:
 
 ## Related Concepts
 
-- [DAOs](tags/daos.md) - Organizations using these tools and approaches
-- [Coordination](tags/coordination.md) - Mechanisms for organizing work
+- DAOs - Organizations using these tools and approaches
+- Coordination - Mechanisms for organizing work
 - [Roles](tags/roles.md) - Authority and responsibility structures
-- [Governance](tags/governance.md) - Decision-making frameworks
+- Governance - Decision-making frameworks
 - [Primitives](tags/primitives.md) - Building blocks for organization

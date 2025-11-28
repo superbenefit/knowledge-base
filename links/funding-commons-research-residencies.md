@@ -1,6 +1,6 @@
 ---
 title: Funding the Commons - Past Research Residencies
-description: Documentation of Funding the Commons research residencies bringing scholars and practitioners together for intensive study of [public goods](tags/public-goods.md) funding mechanisms, creating knowledge production bridging academic research with implementation practice.
+description: Documentation of Funding the Commons research residencies bringing scholars and practitioners together for intensive study of public goods funding mechanisms, creating knowledge production bridging academic research with implementation practice.
 publish: true
 type: residency-program
 source: https://www.fundingthecommons.io/residencies
@@ -58,7 +58,7 @@ This residency model enables collaborative knowledge production:
 ## Related Concepts
 
 - [DAOs](tags/daos.md) - Organizations and communities discussed
-- [Coordination](tags/[coordination](tags/coordination.md).md) - Mechanisms for collective action
-- [Governance](tags/[governance](tags/governance.md).md) - Decision-making in funding contexts
-- [Public Goods](tags/public-goods.md) - Commons funding approaches
-- [Impact](tags/[impact](tags/impact.md).md) - Outcomes and value creation
+- Coordination - Mechanisms for collective action
+- Governance - Decision-making in funding contexts
+- Public Goods - Commons funding approaches
+- [Impact](tags/impact.md) - Outcomes and value creation

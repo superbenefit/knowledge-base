@@ -87,6 +87,6 @@ Distributed social coordination often involves creating frameworks that enable a
 - [Distributed and decentralized systems explained | LinkedIn](https://www.linkedin.com/pulse/distributed-decentralized-systems-explained-sameh-farouk) - Clear explanations with control plane and data plane analogies
 
 **SuperBenefit Context:**
-- [decentralization](tags/decentralization.md) - Related concept focusing on power and authority distribution
+- decentralization - Related concept focusing on power and authority distribution
 - tags/cooperative - Examples of distributed ownership and benefit-sharing models
 - notes/solidarity-draft - Discussion of distributed coordination in Web3 systems

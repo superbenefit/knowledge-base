@@ -1,17 +1,17 @@
 ---
 title: Open Space for Network Structure Proposals - Regen Coordination
-description: Regen Coordination open participatory process for [communities](tags/community.md) to share and discuss proposals about network structure and [governance](tags/governance.md), demonstrating commitment to emergent [coordination](tags/coordination.md) design through collective deliberation.
+description: Regen Coordination open participatory process for communities to share and discuss proposals about network structure and governance, demonstrating commitment to emergent coordination design through collective deliberation.
 publish: true
 type: participatory-process
 source: https://hub.regencoordination.xyz/t/open-space-to-share-proposals-for-network-structure-strategy/258
 author:
   - Regen Coordination
 tags:
-  - regen-[coordination](tags/coordination.md)
+  - regen-coordination
   - participatory-design
   - network-structure
   - open-space
-  - emergent-[governance](tags/governance.md)
+  - emergent-governance
   - collective-deliberation
 ---
 
@@ -55,8 +55,8 @@ This participatory design approach enables emergent coordination:
 
 ## Related Concepts
 
-- [Coordination](tags/coordination.md) - Mechanisms for collective decision-making
-- [Governance](tags/governance.md) - Democratic and participatory frameworks
-- [Community](tags/community.md) - Network organizing and collaboration
-- [Power](tags/[power](tags/power.md).md) - Distribution and relational dynamics
-- [Sustainability](tags/[sustainability](tags/sustainability.md).md) - Regenerative coordination approaches
+- Coordination - Mechanisms for collective decision-making
+- Governance - Democratic and participatory frameworks
+- Community - Network organizing and collaboration
+- [Power](tags/power.md) - Distribution and relational dynamics
+- [Sustainability](tags/sustainability.md) - Regenerative coordination approaches

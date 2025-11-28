@@ -61,5 +61,5 @@ These distributed resource systems demonstrate how P2P principles can create abu
 
 **SuperBenefit Context:**
 - tags/cooperative - Member-to-member resource sharing and democratic participation principles
-- [networks](tags/networks.md) - Decentralized network coordination and peer-based organizing
-- [mutual-aid](tags/mutual-aid.md) - Direct resource sharing and community support systems
+- networks - Decentralized network coordination and peer-based organizing
+- mutual-aid - Direct resource sharing and community support systems

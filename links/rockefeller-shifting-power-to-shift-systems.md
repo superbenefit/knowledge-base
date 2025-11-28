@@ -1,18 +1,18 @@
 ---
 title: Shifting Power to Shift Systems - Rockefeller Report
-description: Rockefeller Philanthropy Advisors comprehensive framework on [power](tags/power.md) equity in philanthropy and systems change, showing how redistributing [power](tags/power.md) from funders to [communities](tags/community.md) catalyzes transformation while maintaining concentration prevents genuine change.
+description: Rockefeller Philanthropy Advisors comprehensive framework on power equity in philanthropy and systems change, showing how redistributing power from funders to communities catalyzes transformation while maintaining concentration prevents genuine change.
 publish: true
 type: research-report
 source: https://www.rockpa.org/wp-content/uploads/2023/02/Power-Equity-Summary-Report-2.pdf
 author:
   - Rockefeller Philanthropy Advisors
 tags:
-  - [power](tags/power.md)-equity
+  - power-equity
   - rockefeller
   - systems-change
-  - philanthropic-[power](tags/power.md)
+  - philanthropic-power
   - transformation
-  - [power](tags/power.md)-redistribution
+  - power-redistribution
 ---
 
 Rockefeller Philanthropy Advisors' comprehensive report examines [power](tags/power.md) as central to both philanthropic practice and systems transformation, showing that addressing power dynamics isn't optional add-on but fundamental requirement for genuine change. The framework demonstrates how traditional philanthropy consolidates power with wealthy donors while claiming to serve marginalized [communities](tags/community.md), undermining transformation goals. Rather than incremental improvements to extractive structures, the report calls for fundamental power redistribution from funders to communities—participatory allocation, community leadership, structural change enabling rather than controlling transformation. This provides rigorous analysis and practical frameworks for funders serious about catalyzing systems change through power equity.
@@ -57,8 +57,8 @@ This framework enables power-shifting philanthropy:
 
 ## Related Concepts
 
-- [Power](tags/power.md) - Distribution and transformation in funding relationships
-- [Governance](tags/[governance](tags/governance.md).md) - Decision-making in philanthropic contexts
-- [Community](tags/community.md) - Leadership and self-determination
-- [Coordination](tags/[coordination](tags/coordination.md).md) - Mechanisms for resource distribution
-- [Grants](tags/[grants](tags/grants.md).md) - Funding approaches and practices
+- Power - Distribution and transformation in funding relationships
+- Governance - Decision-making in philanthropic contexts
+- Community - Leadership and self-determination
+- Coordination - Mechanisms for resource distribution
+- [Grants](tags/grants.md) - Funding approaches and practices

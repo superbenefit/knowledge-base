@@ -1,6 +1,6 @@
 ---
 title: Cabin - Network City Building Regenerative Communities
-description: Cabin DAO pioneers network city model connecting physical neighborhoods through shared values and [decentralized](tags/decentralization.md) [governance](tags/governance.md), demonstrating how DAO [coordination](tags/coordination.md) structures can support regenerative place-based communities beyond purely digital organization.
+description: Cabin DAO pioneers network city model connecting physical neighborhoods through shared values and decentralized governance, demonstrating how DAO coordination structures can support regenerative place-based communities beyond purely digital organization.
 publish: true
 type: organization
 source: https://www.cabin.city/census
@@ -54,7 +54,7 @@ This model enables network city experimentation:
 ## Related Concepts
 
 - [DAOs](tags/daos.md) - Organizations using these platforms and tools
-- [Coordination](tags/coordination.md) - Mechanisms for organizing work
-- [Governance](tags/governance.md) - Decision-making frameworks
-- [Community](tags/community.md) - Networks and collaborative structures
+- Coordination - Mechanisms for organizing work
+- Governance - Decision-making frameworks
+- Community - Networks and collaborative structures
 - [Primitives](tags/primitives.md) - Building blocks for coordination tools

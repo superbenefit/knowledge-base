@@ -18,6 +18,6 @@ In the [DAO Primitives framework](../artifacts/guides/dao-primitives-framework/i
 
 ## Related Concepts
 
-- [Cell](artifacts/patterns/cell.md) - Temporary working groups
+- Cell - Temporary working groups
 - [Teams](tags/teams.md) - Short-term teams
 - [Coordination](tags/coordination.md) - Coordinating temporary groups

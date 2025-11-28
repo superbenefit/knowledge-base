@@ -54,4 +54,4 @@ The article argues that DAOs, when properly designed, can uniquely combine both 
 
 - Scale and the levers that provide DAOs their power: Explores fundamental scaling dynamics in organizational systems
 - Building DAOs as scalable networks: Proposes multi-scale governance approaches for decentralized organizations
-- [dao-primitives-concepts](artifacts/dao-primitives-framework/dao-primitives-concepts.md): Provides detailed analysis of different group scales and their characteristics
+- dao-primitives-concepts: Provides detailed analysis of different group scales and their characteristics

@@ -45,7 +45,7 @@ A specific implementation example is Boulder Regen Hub's local market network, w
 
 ## Related Concepts
 
-- [Coordination](tags/coordination.md) - Local and network-scale coordination
+- Coordination - Local and network-scale coordination
 - [DAOs](tags/daos.md) - Decentralized organizational forms
 - [Governance](tags/governance.md) - Community and network governance
 - [Knowledge Gardens](artifacts/patterns/knowledge-gardens.md) - Decentralized knowledge creation

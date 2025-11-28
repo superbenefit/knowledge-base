@@ -71,4 +71,4 @@ These innovations frequently combine traditional community knowledge with new te
 **SuperBenefit Context:**
 - notes/solidarity-draft - Examples of emergence in coordination systems within decentralized networks
 - tags/cooperative - Emergence in democratic governance and collective economic capabilities in cooperative organization
-- [networks](tags/networks.md) - Network-based systems where emergence occurs through participant interactions
+- networks - Network-based systems where emergence occurs through participant interactions

@@ -1,6 +1,6 @@
 ---
 title: We Need To Rewild The Internet - Noema Magazine
-description: Noema article applying ecological restoration metaphor to internet infrastructure, arguing that current platform monoculture requires rewilding through [decentralization](tags/decentralization.md), interoperability, and biodiversity rather than continued consolidation.
+description: Noema article applying ecological restoration metaphor to internet infrastructure, arguing that current platform monoculture requires rewilding through decentralization, interoperability, and biodiversity rather than continued consolidation.
 publish: true
 type: essay
 source: https://www.noemamag.com/we-need-to-rewild-the-internet/?utm_source=premiumnewsletter&utm_medium=email
@@ -12,7 +12,7 @@ tags:
   - platform-monopoly
   - digital-commons
   - ecological-metaphor
-  - [decentralization](tags/decentralization.md)
+  - decentralization
 ---
 
 Noema's powerful essay applies ecological rewilding principles to internet infrastructure, showing how current platform monoculture mirrors agricultural monocultures vulnerable to collapse. Just as industrial farming creates fragile ecosystems dependent on chemical inputs, platform monopolies create brittle internet infrastructure where single points of failure threaten entire digital ecosystems. Rewilding requires restoring biodiversity—multiple protocols, federated platforms, interoperable services—creating resilient internet ecosystems that can withstand disruption. The essay shows how [decentralization](tags/decentralization.md), commons [governance](tags/governance.md), and protocol diversity constitute digital rewilding, offering regenerative alternative to extractive platform capitalism that concentrates power while creating systemic fragility.
@@ -57,8 +57,8 @@ This framework enables regenerative internet development:
 
 ## Related Concepts
 
-- [Sustainability](tags/[sustainability](tags/sustainability.md).md) - Ecological approaches to technology
-- [Coordination](tags/coordination.md) - Alternative organizing mechanisms
-- [Community](tags/[community](tags/community.md).md) - Digital and local organizing
+- [Sustainability](tags/sustainability.md) - Ecological approaches to technology
+- Coordination - Alternative organizing mechanisms
+- [Community](tags/community.md) - Digital and local organizing
 - [Regeneration](tags/regeneration.md) - Restorative systems design
-- [Governance](tags/[governance](tags/governance.md).md) - Democratic technology frameworks
+- Governance - Democratic technology frameworks

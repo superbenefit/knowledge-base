@@ -57,8 +57,8 @@ Emerging consensus enables balanced DAO governance:
 
 ## Related Concepts
 
-- [DAOs](tags/daos.md) - Organizations navigating governance challenges
-- [Governance](tags/governance.md) - Decision-making systems explored
+- DAOs - Organizations navigating governance challenges
+- Governance - Decision-making systems explored
 - [Coordination](tags/coordination.md) - Mechanisms for collective action
 - [Decentralization](tags/decentralization.md) - Core principle examined
 - [Consensus](tags/consensus.md) - Decision-making processes

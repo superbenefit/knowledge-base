@@ -48,8 +48,8 @@ His approach is particularly valuable for groups that want to move beyond theore
 
 ## Related Concepts
 
-- [Coordination](tags/coordination.md) - Mechanisms for decentralized organizing
-- [Governance](tags/governance.md) - Decision-making in decentralized contexts
-- [DAOs](tags/daos.md) - Organizations using these organizing approaches
+- Coordination - Mechanisms for decentralized organizing
+- Governance - Decision-making in decentralized contexts
+- DAOs - Organizations using these organizing approaches
 - [Teams](tags/teams.md) - Small groups coordinating decentrally
-- [Collaboration](tags/collaboration.md) - Collective work patterns
+- Collaboration - Collective work patterns

@@ -1,13 +1,13 @@
 ---
 title: a16z Guide to DeSci - Decentralized Science Overview
-description: Andreessen Horowitz comprehensive guide to [decentralized](tags/decentralization.md) science (DeSci) movement using [blockchain](tags/blockchain.md) tools to address research funding, peer review, and data sharing challenges, examining how Web3 approaches could transform scientific knowledge production beyond current institutional models.
+description: Andreessen Horowitz comprehensive guide to decentralized science (DeSci) movement using blockchain tools to address research funding, peer review, and data sharing challenges, examining how Web3 approaches could transform scientific knowledge production beyond current institutional models.
 publish: true
 type: guide
-source: https://future.a16z.com/what-is-[decentralized](tags/decentralization.md)-science-aka-desci/
+source: https://future.a16z.com/what-is-decentralized-science-aka-desci/
 author:
   - a16z (Andreessen Horowitz)
 tags:
-  - [decentralized](tags/decentralization.md)-science
+  - decentralized-science
   - desci
   - research-funding
   - peer-review
@@ -55,8 +55,8 @@ This guide enables DeSci exploration and engagement:
 
 ## Related Concepts
 
-- [Decentralization](tags/[decentralization](tags/decentralization.md).md) - Distributed systems and [governance](tags/governance.md)
-- [Blockchain](tags/blockchain.md) - Technology enabling decentralized coordination
-- [Coordination](tags/coordination.md) - Mechanisms for collective action
-- [Governance](tags/[governance](tags/governance.md).md) - Decision-making in digital contexts
-- [DAOs](tags/daos.md) - Decentralized organizations using these technologies
+- Decentralization - Distributed systems and governance
+- Blockchain - Technology enabling decentralized coordination
+- Coordination - Mechanisms for collective action
+- Governance - Decision-making in digital contexts
+- DAOs - Decentralized organizations using these technologies

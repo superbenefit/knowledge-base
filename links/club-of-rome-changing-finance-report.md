@@ -58,7 +58,7 @@ This report enables financial system transformation:
 ## Related Concepts
 
 - [ReFi](tags/refi.md) - Regenerative finance and alternative economics
-- [Coordination](tags/[coordination](tags/coordination.md).md) - Mechanisms for resource allocation
-- [Community](tags/[community](tags/community.md).md) - Local and regional organizing
+- Coordination - Mechanisms for resource allocation
+- Community - Local and regional organizing
 - [Sustainability](tags/sustainability.md) - Ecological and social resilience
-- [Governance](tags/governance.md) - Decision-making about resource distribution
+- Governance - Decision-making about resource distribution

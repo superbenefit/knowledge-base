@@ -41,8 +41,8 @@ In the scalable network model described in artifacts/articles/network-evolution 
 
 ## Related Concepts
 
-- [Treasury](tags/treasury.md): The collective pool of assets from which grants are funded.
-- [Governance](tags/governance.md): The decision-making process through which grant proposals are reviewed and approved.
-- [DAOs](tags/daos.md): The organizations that operate grants programs to achieve their goals.
-- [Resources](tags/resources.md): Grants are the mechanism for allocating a DAO's financial resources to contributors.
-- [Cells](drafts/test-resources/test-pattern.md): The autonomous teams and working groups that are often the recipients of grants.
+- Treasury: The collective pool of assets from which grants are funded.
+- Governance: The decision-making process through which grant proposals are reviewed and approved.
+- DAOs: The organizations that operate grants programs to achieve their goals.
+- Resources: Grants are the mechanism for allocating a DAO's financial resources to contributors.
+- Cells: The autonomous teams and working groups that are often the recipients of grants.

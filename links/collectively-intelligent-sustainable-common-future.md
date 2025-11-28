@@ -1,6 +1,6 @@
 ---
 title: Collectively Intelligent Sustainable Common Future
-description: Comprehensive Demos Helsinki report examining how collective intelligence, digital democracy, and participatory [governance](tags/governance.md) can address [sustainability](tags/sustainability.md) challenges through regenerative approaches to decision-making.
+description: Comprehensive Demos Helsinki report examining how collective intelligence, digital democracy, and participatory governance can address sustainability challenges through regenerative approaches to decision-making.
 publish: true
 type: research-report
 source: https://demoshelsinki.fi/julkaisut/collectively-intelligent-sustainable-common-future/
@@ -9,10 +9,10 @@ author:
 tags:
   - collective-intelligence
   - digital-democracy
-  - [sustainability](tags/sustainability.md)
-  - participatory-[governance](tags/governance.md)
+  - sustainability
+  - participatory-governance
   - regenerative-futures
-  - [commons](tags/commons.md)
+  - commons
   - climate-action
   - democratic-innovation
 ---
@@ -67,8 +67,8 @@ The comprehensive nature of the report provides both conceptual frameworks and p
 
 ## Related Concepts
 
-- [Community](tags/[community](tags/community.md).md) - Collective organizing and mutual support
-- [Coordination](tags/[coordination](tags/coordination.md).md) - Mechanisms for collective action
+- Community - Collective organizing and mutual support
+- Coordination - Mechanisms for collective action
 - [Mutual Aid](tags/mutual-aid.md) - Solidarity-based resource sharing
-- [Sustainability](tags/sustainability.md) - Regenerative approaches to organizing
-- [Power](tags/power.md) - Distribution and transformation dynamics
+- Sustainability - Regenerative approaches to organizing
+- Power - Distribution and transformation dynamics

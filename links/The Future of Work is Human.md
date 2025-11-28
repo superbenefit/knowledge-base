@@ -45,7 +45,7 @@ The material is particularly relevant for knowledge-intensive organizations wher
 
 ## Related Concepts
 
-- [Governance](tags/governance.md) - Decision-making frameworks
+- Governance - Decision-making frameworks
 - [DAOs](tags/daos.md) - Decentralized organizations
 - [Primitives](tags/primitives.md) - Building blocks for organization
-- [Coordination](tags/coordination.md) - Collective action mechanisms
+- Coordination - Collective action mechanisms

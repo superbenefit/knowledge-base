@@ -1,6 +1,6 @@
 ---
 title: Govbase - Online Governance Projects Database
-description: Metagov comprehensive database documenting online governance systems across platforms, communities, and protocols, providing searchable repository of [coordination](tags/coordination.md) mechanisms for research and design inspiration.
+description: Metagov comprehensive database documenting online governance systems across platforms, communities, and protocols, providing searchable repository of coordination mechanisms for research and design inspiration.
 publish: true
 type: database-resource
 source: https://govbase.metagov.org/
@@ -57,8 +57,8 @@ Govbase enables evidence-based governance design:
 
 ## Related Concepts
 
-- [DAOs](tags/daos.md) - Organizations navigating governance challenges
+- DAOs - Organizations navigating governance challenges
 - [Governance](tags/governance.md) - Decision-making systems explored
-- [Coordination](tags/coordination.md) - Mechanisms for collective action
+- Coordination - Mechanisms for collective action
 - [Decentralization](tags/decentralization.md) - Core principle examined
 - [Consensus](tags/consensus.md) - Decision-making processes

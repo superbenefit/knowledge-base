@@ -55,8 +55,8 @@ This approach enables DAO analysis and design:
 
 ## Related Concepts
 
-- [DAOs](tags/daos.md) - Organizations using these platforms and tools
-- [Coordination](tags/coordination.md) - Mechanisms for organizing work
-- [Governance](tags/governance.md) - Decision-making frameworks
+- DAOs - Organizations using these platforms and tools
+- Coordination - Mechanisms for organizing work
+- Governance - Decision-making frameworks
 - [Community](tags/community.md) - Networks and collaborative structures
 - [Primitives](tags/primitives.md) - Building blocks for coordination tools

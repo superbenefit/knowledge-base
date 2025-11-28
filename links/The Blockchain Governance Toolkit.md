@@ -76,7 +76,7 @@ The toolkit advocates for governance systems customized to fit specific project 
 
 ## Related Concepts
 
-- [Governance](tags/governance.md) - Decision-making frameworks
-- [DAOs](tags/daos.md) - Decentralized organizations
-- [Primitives](tags/primitives.md) - Building blocks for organization
-- [Coordination](tags/coordination.md) - Collective action mechanisms
+- Governance - Decision-making frameworks
+- DAOs - Decentralized organizations
+- Primitives - Building blocks for organization
+- Coordination - Collective action mechanisms

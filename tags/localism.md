@@ -49,7 +49,7 @@ The key innovation is the ability to choose the optimal scale for different acti
 
 ## Related Concepts
 
-- [Cosmolocalism](tags/cosmolocalism.md) - Global-local bridging
+- Cosmolocalism - Global-local bridging
 - [Local Nodes](tags/local-nodes.md) - Local organizational units
 - [Networks](tags/networks.md) - Networked local groups
 - [Coordination](tags/coordination.md) - Local-global coordination

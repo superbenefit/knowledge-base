@@ -181,7 +181,7 @@ Once the social organism has reached the peak of its maturity, it begins the pro
 
 ## Related Concepts
 
-- [Governance](tags/governance.md) - Decision-making frameworks
-- [DAOs](tags/daos.md) - Decentralized organizations
+- Governance - Decision-making frameworks
+- DAOs - Decentralized organizations
 - [Primitives](tags/primitives.md) - Building blocks for organization
-- [Coordination](tags/coordination.md) - Collective action mechanisms
+- Coordination - Collective action mechanisms

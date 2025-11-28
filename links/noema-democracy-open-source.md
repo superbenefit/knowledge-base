@@ -1,6 +1,6 @@
 ---
 title: Tomorrow's Democracy Is Open Source - Noema Magazine
-description: Noema essay arguing for treating democracy like open-source software—participatory, iterative, collaborative—showing how digital [governance](tags/governance.md) as commons enables continuous democratic innovation rather than static institutional forms.
+description: Noema essay arguing for treating democracy like open-source software—participatory, iterative, collaborative—showing how digital governance as commons enables continuous democratic innovation rather than static institutional forms.
 publish: true
 type: essay
 source: https://www.noemamag.com/tomorrows-democracy-is-open-source
@@ -9,10 +9,10 @@ author:
 tags:
   - open-source-democracy
   - noema
-  - digital-[governance](tags/governance.md)
+  - digital-governance
   - participatory-systems
   - democratic-innovation
-  - [governance](tags/governance.md)-commons
+  - governance-commons
 ---
 
 Noema's essay reimagines democracy through open-source software metaphor, showing how participatory development, iterative improvement, and collaborative [governance](tags/governance.md) could transform democratic practice. Just as open-source communities continuously improve code through diverse contributor collaboration, democratic systems could evolve through participatory experimentation rather than remaining locked in 18th-century institutional forms. The article explores how treating governance as commons enabling collective innovation—forking experiments, sharing improvements, adapting to contexts—creates living democracy continuously renewed rather than static structures defending against change.
@@ -57,8 +57,8 @@ This framework enables democratic innovation:
 
 ## Related Concepts
 
-- [Decentralization](tags/[decentralization](tags/decentralization.md).md) - Distributed systems and governance
-- [Blockchain](tags/[blockchain](tags/blockchain.md).md) - Technology enabling [decentralized](tags/decentralization.md) coordination
-- [Coordination](tags/coordination.md) - Mechanisms for collective action
-- [Governance](tags/governance.md) - Decision-making in digital contexts
+- [Decentralization](tags/decentralization.md) - Distributed systems and governance
+- [Blockchain](tags/blockchain.md) - Technology enabling decentralized coordination
+- Coordination - Mechanisms for collective action
+- Governance - Decision-making in digital contexts
 - [DAOs](tags/daos.md) - Decentralized organizations using these technologies

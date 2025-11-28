@@ -1,6 +1,6 @@
 ---
 title: RadicalxChange - Democratic Transformation Organization
-description: Core organization advancing democratic transformation through resilient decentralization, plural publics, and collective agency, providing research, tools, and [community](tags/community.md) for systemic transition beyond extractive markets and authoritarian states.
+description: Core organization advancing democratic transformation through resilient decentralization, plural publics, and collective agency, providing research, tools, and community for systemic transition beyond extractive markets and authoritarian states.
 publish: true
 type: organization
 source: https://www.radicalxchange.org/#
@@ -57,8 +57,8 @@ RxC enables democratic transformation practice:
 
 ## Related Concepts
 
-- [Coordination](tags/[coordination](tags/coordination.md).md) - Mechanisms for collective decision-making
-- [Governance](tags/[governance](tags/governance.md).md) - Democratic and participatory frameworks
-- [Community](tags/[community](tags/community.md).md) - Network organizing and collaboration
-- [Power](tags/[power](tags/power.md).md) - Distribution and relational dynamics
-- [Sustainability](tags/[sustainability](tags/sustainability.md).md) - Regenerative coordination approaches
+- Coordination - Mechanisms for collective decision-making
+- Governance - Democratic and participatory frameworks
+- Community - Network organizing and collaboration
+- Power - Distribution and relational dynamics
+- [Sustainability](tags/sustainability.md) - Regenerative coordination approaches

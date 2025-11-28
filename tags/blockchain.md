@@ -8,7 +8,7 @@ aliases:
 publish: "true"
 ---
 
-A [blockchain](blockchain.md) is a type of distributed database system for managing information that can reduce the need for central authorities or trusted intermediaries to oversee interactions and make sure the network rules are being followed. This enables participants to engage in peer-to-peer data and value transfers, and potentially, to contribute to the design, functioning, and management of the network – i.e. to build networks based on [multi-stakeholder [governance](governance.md)](https://app.charmverse.io/superbenefit/multi-stakeholder-governance-topic-9333924420657016). Blockchains are a subset of distributed ledger technologies (DLT)—ie. all blockchains are distributed ledgers, but not all distributed ledgers are blockchains. 
+A [blockchain](blockchain.md) is a type of distributed database system for managing information that can reduce the need for central authorities or trusted intermediaries to oversee interactions and make sure the network rules are being followed. This enables participants to engage in peer-to-peer data and value transfers, and potentially, to contribute to the design, functioning, and management of the network – i.e. to build networks based on [multi-stakeholder governance](https://app.charmverse.io/superbenefit/multi-stakeholder-governance-topic-9333924420657016). Blockchains are a subset of distributed ledger technologies (DLT)—ie. all blockchains are distributed ledgers, but not all distributed ledgers are blockchains. 
 
 ![](https://s3.amazonaws.com/charm.public/user-content/5e11b90e-6728-4be9-be4f-a540138316ff/5767b83f-94fc-4a12-8517-144fa1b3bb4d/3c7ef267-5c1c-4cc1-b951-d9355f1709c6.png)
 

@@ -50,7 +50,7 @@ Notes which represent #primitives are indicated using the tools/types/primitive 
 
 ## Related Concepts
 
-- [DAO Primitives Project](notes/dao-primitives/index.md) - Framework for building purpose-aligned networks using organizational primitives
+- DAO Primitives Project - Framework for building purpose-aligned networks using organizational primitives
 - [Patterns](artifacts/patterns/index.md) - Reusable solutions built from combining primitives
 - [Coordination](tags/coordination.md) - The fundamental challenge that primitives help address
 - [Protocols](tags/protocols.md) - Standardized rules that enable primitives to work together

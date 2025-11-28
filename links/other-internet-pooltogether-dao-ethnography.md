@@ -1,6 +1,6 @@
 ---
 title: PoolTogether - Vibes, Labor, Constituencies (DAO Ethnography)
-description: Other Internet in-depth ethnographic case study of PoolTogether DAO examining how [community](tags/community.md) vibes, contributor labor, and stakeholder constituencies shape [governance](tags/governance.md) reality beyond token-weighted voting mechanisms.
+description: Other Internet in-depth ethnographic case study of PoolTogether DAO examining how community vibes, contributor labor, and stakeholder constituencies shape governance reality beyond token-weighted voting mechanisms.
 publish: true
 type: ethnography
 source: https://otherinter.net/research/pooltogether-offchain-report/
@@ -10,9 +10,9 @@ tags:
   - dao-ethnography
   - pooltogether
   - other-internet
-  - [community](tags/community.md)-vibes
+  - community-vibes
   - contributor-labor
-  - [governance](tags/governance.md)-reality
+  - governance-reality
 ---
 
 Other Internet's ethnographic study of PoolTogether DAO provides rare in-depth examination of how [DAOs](tags/daos.md) actually function beyond [governance](tags/governance.md) mechanisms visible onchain. Rather than analyzing token distributions or vote outcomes, the research explores [community](tags/community.md) vibes, contributor labor dynamics, and stakeholder constituencies—the social infrastructure that shapes governance reality often invisible in protocol analysis. The ethnography documents how informal norms, relationship networks, communication patterns, and labor expectations create actual [coordination](tags/coordination.md) while formal voting mechanisms provide legitimacy. This work challenges assumptions that governance happens primarily through onchain votes, showing how much DAO function depends on offchain social dynamics that token-weighted systems don't capture.
@@ -57,8 +57,8 @@ This ethnography enables power-aware DAO understanding:
 
 ## Related Concepts
 
-- [DAOs](tags/daos.md) - Organizations and communities discussed
-- [Coordination](tags/coordination.md) - Mechanisms for collective action
-- [Governance](tags/governance.md) - Decision-making in funding contexts
+- DAOs - Organizations and communities discussed
+- Coordination - Mechanisms for collective action
+- Governance - Decision-making in funding contexts
 - [Public Goods](tags/public-goods.md) - Commons funding approaches
-- [Impact](tags/[impact](tags/impact.md).md) - Outcomes and value creation
+- [Impact](tags/impact.md) - Outcomes and value creation

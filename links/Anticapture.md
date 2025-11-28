@@ -275,7 +275,7 @@ Until then, good luck resisting capture!
 
 ## Related Concepts
 
-- [DAOs](tags/daos.md) - Decentralized organizations this resource discusses
-- [Governance](tags/governance.md) - Decision-making frameworks and practices
-- [Coordination](tags/coordination.md) - Mechanisms for collective action
+- DAOs - Decentralized organizations this resource discusses
+- Governance - Decision-making frameworks and practices
+- Coordination - Mechanisms for collective action
 - [Primitives](tags/primitives.md) - Building blocks for decentralized organization

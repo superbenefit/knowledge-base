@@ -1,6 +1,6 @@
 ---
 title: Hats Modules - A New Era for Programmable Organizations
-description: Hats Protocol modular system enabling programmable organizational structures through composable [primitives](tags/primitives.md) that organizations can combine to create custom authority, accountability, and [coordination](tags/coordination.md) mechanisms.
+description: Hats Protocol modular system enabling programmable organizational structures through composable primitives that organizations can combine to create custom authority, accountability, and coordination mechanisms.
 publish: true
 type: protocol-framework
 source: https://hats.mirror.xyz/xAk_yb7dDL1OLBx8nq47Ni7V1SuiC6L6B-49u7vz520
@@ -9,7 +9,7 @@ author:
 tags:
   - hats-modules
   - programmable-organizations
-  - modular-[primitives](tags/primitives.md)
+  - modular-primitives
   - organizational-composability
   - hats-protocol
   - dao-infrastructure
@@ -57,8 +57,8 @@ Hats Modules enables custom organizational design:
 
 ## Related Concepts
 
-- [DAOs](tags/daos.md) - Organizations using these tools and approaches
-- [Coordination](tags/coordination.md) - Mechanisms for organizing work
-- [Roles](tags/[roles](tags/roles.md).md) - Authority and responsibility structures
-- [Governance](tags/governance.md) - Decision-making frameworks
-- [Primitives](tags/primitives.md) - Building blocks for organization
+- DAOs - Organizations using these tools and approaches
+- Coordination - Mechanisms for organizing work
+- Roles - Authority and responsibility structures
+- Governance - Decision-making frameworks
+- Primitives - Building blocks for organization

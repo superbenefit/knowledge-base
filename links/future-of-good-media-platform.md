@@ -55,8 +55,8 @@ This platform enables sector connection and learning:
 
 ## Related Concepts
 
-- [Community](tags/community.md) - Local and network organizing
+- Community - Local and network organizing
 - [Coordination](tags/coordination.md) - Mechanisms for collective action
-- [Governance](tags/governance.md) - Decision-making and leadership frameworks
+- Governance - Decision-making and leadership frameworks
 - [Culture](tags/culture.md) - Values and practices shaping coordination
 - [Sustainability](tags/sustainability.md) - Regenerative community approaches

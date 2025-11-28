@@ -61,7 +61,7 @@ Feminist economics enables transformative approaches across financial contexts:
 ## Related Concepts
 
 - [ReFi](tags/refi.md) - Regenerative finance and alternative economics
-- [Coordination](tags/coordination.md) - Mechanisms for resource allocation
-- [Community](tags/community.md) - Local and regional organizing
+- Coordination - Mechanisms for resource allocation
+- Community - Local and regional organizing
 - [Sustainability](tags/sustainability.md) - Ecological and social resilience
-- [Governance](tags/[governance](tags/governance.md).md) - Decision-making about resource distribution
+- Governance - Decision-making about resource distribution

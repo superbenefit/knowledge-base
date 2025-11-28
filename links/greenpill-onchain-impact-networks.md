@@ -57,8 +57,8 @@ This framework enables onchain regenerative coordination:
 
 ## Related Concepts
 
-- [Impact](tags/impact.md) - Social and environmental outcomes explored
+- Impact - Social and environmental outcomes explored
 - [DAOs](tags/daos.md) - Organizations creating collective impact
-- [Coordination](tags/coordination.md) - Mechanisms enabling impact work
+- Coordination - Mechanisms enabling impact work
 - [ReFi](tags/refi.md) - Regenerative finance approaches
 - [Public Goods](tags/public-goods.md) - Collective benefit creation

@@ -41,12 +41,12 @@ The treasury is the primary [shared resource](tags/resources.md) that a DAO's [g
 
 ## Related Concepts
 
-- [Governance](tags/governance.md): The set of processes used to manage and allocate the treasury's assets.
+- Governance: The set of processes used to manage and allocate the treasury's assets.
 - [DAOs](tags/daos.md): The organizations that collectively own and are powered by a treasury.
-- [Resources](tags/resources.md): The treasury is the primary financial resource pool for a DAO.
+- Resources: The treasury is the primary financial resource pool for a DAO.
 - [Wallets](tags/wallets.md): The treasury itself is often a multi-signature wallet or smart contract, and members use their personal wallets to vote on its use.
 <<<<<<< HEAD
-- [Cells](drafts/test-resources/test-pattern.md): The autonomous operational units often funded by the DAO's treasury to perform work.
+- Cells: The autonomous operational units often funded by the DAO's treasury to perform work.
 - [A Pocket Guide to DAO Frameworks](drafts/trash/A Pocket Guide to DAO Frameworks.md): An overview of technical systems that define how a treasury can be managed.
 =======
 - Cells: The autonomous operational units often funded by the DAO's treasury to perform work.

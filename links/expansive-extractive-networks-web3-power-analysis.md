@@ -1,6 +1,6 @@
 ---
 title: Expansive and Extractive Networks of Web3 - Critical Power Analysis
-description: Academic paper providing critical [power](tags/power.md)-aware analysis of Web3 systems, examining how decentralized technologies can either expand collective capacity or concentrate extractive [power](tags/power.md) in new forms.
+description: Academic paper providing critical power-aware analysis of Web3 systems, examining how decentralized technologies can either expand collective capacity or concentrate extractive power in new forms.
 publish: true
 type: academic-article
 source: https://journals.sagepub.com/doi/10.1177/20539517231159629
@@ -8,12 +8,12 @@ author:
   - Academic Researchers (Sage Journals)
 tags:
   - web3-critique
-  - [power](tags/power.md)-analysis
+  - power-analysis
   - extractive-systems
   - expansive-networks
   - decentralization
   - critical-tech-studies
-  - blockchain-[governance](tags/governance.md)
+  - blockchain-governance
 ---
 
 This peer-reviewed academic article provides rigorous critical analysis of how Web3 technologies embody competing logics: expansive networks that genuinely distribute [power](tags/power.md) and enable collective capacity, versus extractive networks that concentrate wealth and control through new mechanisms while claiming decentralization. Published in a leading interdisciplinary journal, the work applies political economy frameworks and power analysis to examine whether and how blockchain systems challenge or reproduce hierarchies. Rather than celebratory or dismissive, the analysis offers nuanced tools for distinguishing genuinely transformative decentralized approaches from those that merely transfer extraction to new elites—essential reading for anyone seeking to build or evaluate regenerative Web3 systems.
@@ -68,8 +68,8 @@ The rigorous scholarly approach provides credibility when challenging dominant W
 
 ## Related Concepts
 
-- [Coordination](tags/[coordination](tags/coordination.md).md) - Mechanisms for collective decision-making
-- [Governance](tags/governance.md) - Democratic and participatory frameworks
-- [Community](tags/[community](tags/community.md).md) - Network organizing and collaboration
-- [Power](tags/power.md) - Distribution and relational dynamics
-- [Sustainability](tags/[sustainability](tags/sustainability.md).md) - Regenerative [coordination](tags/coordination.md) approaches
+- Coordination - Mechanisms for collective decision-making
+- Governance - Democratic and participatory frameworks
+- Community - Network organizing and collaboration
+- Power - Distribution and relational dynamics
+- [Sustainability](tags/sustainability.md) - Regenerative coordination approaches

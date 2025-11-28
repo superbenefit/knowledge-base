@@ -1,6 +1,6 @@
 ---
 title: BioFi Cultivator - Bioregional Finance Framework
-description: BioFi framework for bioregional finance connecting ecological restoration with regenerative economic systems, showing how place-based financial mechanisms can fund watershed health, biodiversity, and [community](tags/community.md) wellbeing within specific bioregions.
+description: BioFi framework for bioregional finance connecting ecological restoration with regenerative economic systems, showing how place-based financial mechanisms can fund watershed health, biodiversity, and community wellbeing within specific bioregions.
 publish: true
 type: framework
 source: https://www.biofi.earth/biofi-cultivator
@@ -58,7 +58,7 @@ This framework enables bioregional economic development:
 ## Related Concepts
 
 - [ReFi](tags/refi.md) - Regenerative finance and alternative economics
-- [Coordination](tags/coordination.md) - Mechanisms for resource allocation
-- [Community](tags/[community](tags/community.md).md) - Local and regional organizing
+- Coordination - Mechanisms for resource allocation
+- Community - Local and regional organizing
 - [Sustainability](tags/sustainability.md) - Ecological and social resilience
-- [Governance](tags/[governance](tags/governance.md).md) - Decision-making about resource distribution
+- Governance - Decision-making about resource distribution

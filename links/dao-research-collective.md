@@ -55,7 +55,7 @@ This repository enables research-informed practice:
 
 ## Related Concepts
 
-- [DAOs](tags/daos.md) - Primary research subject
-- [Governance](tags/governance.md) - Decision-making systems studied
-- [Coordination](tags/coordination.md) - Collective action mechanisms examined
-- [Frameworks](tags/frameworks.md) - Organizational structures analyzed
+- DAOs - Primary research subject
+- Governance - Decision-making systems studied
+- Coordination - Collective action mechanisms examined
+- Frameworks - Organizational structures analyzed

@@ -55,8 +55,8 @@ This guide enables impact DAO implementation:
 
 ## Related Concepts
 
-- [DAOs](tags/daos.md) - Organizations using these approaches
-- [Governance](tags/governance.md) - Decision-making frameworks explored
-- [Coordination](tags/coordination.md) - Collective action mechanisms
+- DAOs - Organizations using these approaches
+- Governance - Decision-making frameworks explored
+- Coordination - Collective action mechanisms
 - [DAO Primitives Framework](notes/dao-primitives/index.md) - SuperBenefit's pattern-based approach
-- [Frameworks](tags/frameworks.md) - Organizational structures analyzed
+- Frameworks - Organizational structures analyzed

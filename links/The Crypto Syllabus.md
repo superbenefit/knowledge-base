@@ -46,7 +46,7 @@ The syllabus is particularly valuable for those involved in web3 social impact i
 
 ## Related Concepts
 
-- [Governance](tags/governance.md) - Decision-making frameworks
+- Governance - Decision-making frameworks
 - [DAOs](tags/daos.md) - Decentralized organizations
 - [Primitives](tags/primitives.md) - Building blocks for organization
 - [Coordination](tags/coordination.md) - Collective action mechanisms

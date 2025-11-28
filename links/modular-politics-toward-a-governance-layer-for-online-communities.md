@@ -68,8 +68,8 @@ The framework is particularly valuable for communities that need to adapt their 
 
 ## Related Concepts
 
-- [Governance](tags/governance.md) - Decision-making frameworks
+- Governance - Decision-making frameworks
 - [DAOs](tags/daos.md) - Organizations exploring these governance models
 - [Community Governance](artifacts/patterns/community-governance.md) - Constituency-scale governance patterns
 - [Coordination](tags/coordination.md) - Collective coordination mechanisms
-- [Primitives](tags/primitives.md) - Building blocks for governance systems
+- Primitives - Building blocks for governance systems

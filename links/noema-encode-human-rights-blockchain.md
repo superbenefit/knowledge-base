@@ -1,14 +1,14 @@
 ---
 title: How We Can Encode Human Rights In The Blockchain
-description: Nathan Schneider for Noema exploring how human rights protections could be embedded in [blockchain](tags/blockchain.md) protocols themselves, moving beyond crypto's "censorship resistance" default to encode rights protecting people from harm while enabling [coordination](tags/coordination.md).
+description: Nathan Schneider for Noema exploring how human rights protections could be embedded in blockchain protocols themselves, moving beyond crypto's "censorship resistance" default to encode rights protecting people from harm while enabling coordination.
 publish: true
 type: essay
-source: https://www.noemamag.com/how-we-can-encode-human-rights-in-the-[blockchain](tags/blockchain.md)
+source: https://www.noemamag.com/how-we-can-encode-human-rights-in-the-blockchain
 author:
   - Nathan Schneider
 tags:
   - human-rights
-  - [blockchain](tags/blockchain.md)-protocols
+  - blockchain-protocols
   - noema
   - nathan-schneider
   - protocol-design
@@ -57,8 +57,8 @@ This vision enables rights-aware protocol development:
 
 ## Related Concepts
 
-- [Decentralization](tags/[decentralization](tags/decentralization.md).md) - Distributed systems and governance
-- [Blockchain](tags/blockchain.md) - Technology enabling [decentralized](tags/decentralization.md) coordination
-- [Coordination](tags/coordination.md) - Mechanisms for collective action
-- [Governance](tags/governance.md) - Decision-making in digital contexts
+- Decentralization - Distributed systems and governance
+- Blockchain - Technology enabling decentralized coordination
+- Coordination - Mechanisms for collective action
+- Governance - Decision-making in digital contexts
 - [DAOs](tags/daos.md) - Decentralized organizations using these technologies

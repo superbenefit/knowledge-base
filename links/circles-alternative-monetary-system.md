@@ -50,6 +50,6 @@ The system provides particular value for communities seeking to build economic a
 
 - [Primitives](tags/primitives.md) - Building blocks for alternative systems
 - [DAOs](tags/daos.md) - Organizations implementing these mechanisms
-- [Governance](tags/governance.md) - Community governance of resources
-- [Coordination](tags/coordination.md) - Mechanisms for resource allocation
+- Governance - Community governance of resources
+- Coordination - Mechanisms for resource allocation
 - [DeFi](tags/defi.md) - Decentralized finance primitives

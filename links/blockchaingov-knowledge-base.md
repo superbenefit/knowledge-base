@@ -55,8 +55,8 @@ This knowledge base enables protocol governance understanding:
 
 ## Related Concepts
 
-- [Governance](tags/governance.md) - Core focus of the knowledge base
-- [DAOs](tags/daos.md) - Primary organizational form explored
-- [Blockchain](tags/blockchain.md) - Technological foundation for governance systems
+- Governance - Core focus of the knowledge base
+- DAOs - Primary organizational form explored
+- Blockchain - Technological foundation for governance systems
 - [Frameworks](tags/frameworks.md) - Organizational structures documented
-- [Coordination](tags/coordination.md) - Mechanisms explored across resources
+- Coordination - Mechanisms explored across resources

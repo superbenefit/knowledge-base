@@ -61,5 +61,5 @@ Community self-governance often involves [consensus](consensus.md)-building proc
 
 **SuperBenefit Context:**
 - tags/cooperative - Democratic governance and member control in cooperative organization
-- [decentralization](tags/decentralization.md) - Distribution of authority enabling community self-governance
+- decentralization - Distribution of authority enabling community self-governance
 - notes/solidarity-draft - Decentralized coordination systems supporting autonomous collective action

@@ -1,19 +1,19 @@
 ---
 title: Hats Protocol - Structure Without Capture
-description: Anti-capture [governance](tags/governance.md) framework and protocol providing organizational structure that prevents power concentration through revocable delegated authority, enabling accountability without centralized control.
+description: Anti-capture governance framework and protocol providing organizational structure that prevents power concentration through revocable delegated authority, enabling accountability without centralized control.
 publish: true
 type: protocol-framework
 source: https://hats.mirror.xyz/sZjE4zm3jwV9pwUoiqkfbQzabTlWYcdTQqN46iiLkyw
 author:
   - Hats Protocol
 tags:
-  - [governance](tags/governance.md)-protocol
+  - governance-protocol
   - anti-capture
   - delegated-authority
   - accountability
   - hats-protocol
   - organizational-structure
-  - dao-[governance](tags/governance.md)
+  - dao-governance
 ---
 
 Hats Protocol offers [governance](tags/governance.md) framework explicitly designed to prevent organizational capture—where those with temporary authority consolidate permanent power. The protocol enables organizations to delegate specific permissions and responsibilities to individuals or groups ("wearing hats") while maintaining ability to revoke those [roles](tags/roles.md) if accountability breaks down. This addresses fundamental DAO governance challenge: how to enable effective [coordination](tags/coordination.md) through delegated authority without creating permanent power concentration that transforms distributed organizations into oligarchies controlled by early contributors or largest token holders. Hats creates flexible role structures that can adapt as organizations evolve, ensuring that authority remains accountable to broader [community](tags/community.md) rather than becoming entrenched privilege.
@@ -58,8 +58,8 @@ Hats Protocol enables anti-capture organizational design across contexts:
 
 ## Related Concepts
 
-- [DAOs](tags/daos.md) - Organizations using these tools and approaches
-- [Coordination](tags/coordination.md) - Mechanisms for organizing work
-- [Roles](tags/roles.md) - Authority and responsibility structures
-- [Governance](tags/governance.md) - Decision-making frameworks
-- [Primitives](tags/[primitives](tags/primitives.md).md) - Building blocks for organization
+- DAOs - Organizations using these tools and approaches
+- Coordination - Mechanisms for organizing work
+- Roles - Authority and responsibility structures
+- Governance - Decision-making frameworks
+- Primitives - Building blocks for organization

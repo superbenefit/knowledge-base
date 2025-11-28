@@ -1,6 +1,6 @@
 ---
 title: Forefront - Tokenized Communities Analysis
-description: Forefront's analysis of tokenized [community](tags/community.md) [coordination](tags/coordination.md) examining how shared tokens enable new membership models, incentive alignment, and collective resource management, while critically assessing risks of financialization and speculation overwhelming [community](tags/community.md) purpose.
+description: Forefront's analysis of tokenized community coordination examining how shared tokens enable new membership models, incentive alignment, and collective resource management, while critically assessing risks of financialization and speculation overwhelming community purpose.
 publish: true
 type: analysis
 source: https://forefront.mirror.xyz/LCPVlxuOHJ2yCHvL5hJ9ErCwjwvJ2-Fk1lnOyHviIPc
@@ -8,10 +8,10 @@ author:
   - Forefront
 tags:
   - tokenized-communities
-  - [community](tags/community.md)-tokens
+  - community-tokens
   - incentive-design
   - token-economics
-  - [community](tags/community.md)-[coordination](tags/coordination.md)
+  - community-coordination
   - financialization-risks
 ---
 
@@ -56,7 +56,7 @@ This analysis enables informed tokenization decisions:
 ## Related Concepts
 
 - [DAOs](tags/daos.md) - Organizations and communities discussed
-- [Governance](tags/[governance](tags/governance.md).md) - Decision-making frameworks explored
-- [Coordination](tags/coordination.md) - Mechanisms for collective action
+- Governance - Decision-making frameworks explored
+- Coordination - Mechanisms for collective action
 - [Communities](tags/community.md) - Social structures and dynamics
 - [Frameworks](tags/frameworks.md) - Organizational approaches and toolkits

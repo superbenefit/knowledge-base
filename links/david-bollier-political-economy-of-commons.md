@@ -1,17 +1,17 @@
 ---
 title: The Political Economy of the Commons - David Bollier Interview
-description: Comprehensive interview with [commons](tags/commons.md) scholar David Bollier exploring [commons](tags/commons.md)-based economics, alternatives to capitalism, and how shared resource [governance](tags/governance.md) challenges scarcity mindsets and market fundamentalism.
+description: Comprehensive interview with commons scholar David Bollier exploring commons-based economics, alternatives to capitalism, and how shared resource governance challenges scarcity mindsets and market fundamentalism.
 publish: true
 type: interview
-source: https://david-bollier.medium.com/the-political-economy-of-the-[commons](tags/commons.md)-an-interview-with-me-e8c8bc95daa5
+source: https://david-bollier.medium.com/the-political-economy-of-the-commons-an-interview-with-me-e8c8bc95daa5
 author:
   - David Bollier
 tags:
-  - [commons](tags/commons.md)
+  - commons
   - political-economy
   - david-bollier
   - alternative-economics
-  - [commons](tags/commons.md)-[governance](tags/governance.md)
+  - commons-governance
   - post-capitalism
   - shared-resources
 ---
@@ -61,7 +61,7 @@ Bollier's framework enables commons-based approaches across contexts:
 ## Related Concepts
 
 - [Commons](tags/commons.md) - Shared resources and governance approaches
-- [Governance](tags/governance.md) - Decision-making for collective resources
-- [Coordination](tags/coordination.md) - Mechanisms for managing shared resources
-- [Sustainability](tags/[sustainability](tags/sustainability.md).md) - Long-term resource stewardship
-- [Community](tags/[community](tags/community.md).md) - Groups managing commons together
+- Governance - Decision-making for collective resources
+- Coordination - Mechanisms for managing shared resources
+- [Sustainability](tags/sustainability.md) - Long-term resource stewardship
+- Community - Groups managing commons together

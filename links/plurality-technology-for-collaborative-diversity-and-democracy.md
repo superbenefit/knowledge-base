@@ -1,6 +1,6 @@
 ---
 title: Plurality - Technology for Collaborative Diversity and Democracy
-description: Comprehensive open-source book by Glen Weyl, Audrey Tang, and contributors exploring pluralistic democracy, digital [governance](tags/governance.md), and technology for collaborative diversity across difference.
+description: Comprehensive open-source book by Glen Weyl, Audrey Tang, and contributors exploring pluralistic democracy, digital governance, and technology for collaborative diversity across difference.
 publish: true
 type: book
 source: https://www.radicalxchange.org/media/blog/plurality-technology-for-collaborative-diversity-and-democracy/
@@ -11,7 +11,7 @@ author:
 tags:
   - plurality
   - democratic-innovation
-  - digital-[governance](tags/governance.md)
+  - digital-governance
   - collective-intelligence
   - taiwan-digital-democracy
   - collaborative-diversity
@@ -68,8 +68,8 @@ The book's open-source nature and multilingual translations enable global adapta
 
 ## Related Concepts
 
-- [Coordination](tags/[coordination](tags/coordination.md).md) - Mechanisms for collective decision-making
-- [Governance](tags/governance.md) - Democratic and participatory frameworks
-- [Community](tags/[community](tags/community.md).md) - Network organizing and collaboration
-- [Power](tags/[power](tags/power.md).md) - Distribution and relational dynamics
-- [Sustainability](tags/[sustainability](tags/sustainability.md).md) - Regenerative [coordination](tags/coordination.md) approaches
+- Coordination - Mechanisms for collective decision-making
+- Governance - Democratic and participatory frameworks
+- Community - Network organizing and collaboration
+- [Power](tags/power.md) - Distribution and relational dynamics
+- [Sustainability](tags/sustainability.md) - Regenerative coordination approaches

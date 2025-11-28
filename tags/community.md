@@ -46,7 +46,7 @@ Unlike traditional user bases or audiences, web3 communities exercise direct inf
 
 Communities can function as coordination mechanisms for autonomous teams and resource flows. In this context, a community provides the shared context, values, and communication channels necessary for decentralized entities to align their actions without centralized control.
 
-The [[DAO Primitives framework](../artifacts/guides/dao-primitives-framework/index.md)](notes/dao-primitives/index.md) describes how "purpose-aligned networks of small autonomous teams" can coordinate effectively through community-level agreements and shared infrastructure, creating systems that "outperform traditional organizations" while directing "performance towards building a better and more sustainable world."
+The [DAO Primitives framework](../artifacts/guides/dao-primitives-framework/index.md) describes how "purpose-aligned networks of small autonomous teams" can coordinate effectively through community-level agreements and shared infrastructure, creating systems that "outperform traditional organizations" while directing "performance towards building a better and more sustainable world."
 
 ### Community as Governance Constituency
 

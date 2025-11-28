@@ -1,18 +1,18 @@
 ---
 title: ICDevs DAO - Internet Computer Developer Community
-description: Developer-focused DAO for the Internet Computer ecosystem providing bounty systems, transparent [governance](tags/governance.md), and open-source development [coordination](tags/coordination.md) for Internet Computer protocol advancement.
+description: Developer-focused DAO for the Internet Computer ecosystem providing bounty systems, transparent governance, and open-source development coordination for Internet Computer protocol advancement.
 publish: true
-type: dao-[community](tags/community.md)
+type: dao-community
 source: https://dfinity.icdevs.org/
 author:
   - ICDevs DAO
 tags:
-  - dao-[governance](tags/governance.md)
+  - dao-governance
   - internet-computer
-  - developer-[community](tags/community.md)
+  - developer-community
   - bounty-systems
   - open-source
-  - transparent-[governance](tags/governance.md)
+  - transparent-governance
   - dfinity
 ---
 
@@ -56,8 +56,8 @@ This DAO model enables implementation across technical communities:
 
 ## Related Concepts
 
-- [DAOs](tags/daos.md) - Organizations and communities discussed
-- [Governance](tags/governance.md) - Decision-making frameworks explored
-- [Coordination](tags/coordination.md) - Mechanisms for collective action
-- [Communities](tags/community.md) - Social structures and dynamics
+- DAOs - Organizations and communities discussed
+- Governance - Decision-making frameworks explored
+- Coordination - Mechanisms for collective action
+- Communities - Social structures and dynamics
 - [Frameworks](tags/frameworks.md) - Organizational approaches and toolkits

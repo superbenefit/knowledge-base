@@ -1,6 +1,6 @@
 ---
 title: Churchill Fellowship Report - Transforming Philanthropy
-description: Comprehensive research report from Churchill Fellowship examining philanthropic transformation globally, documenting trust-based approaches, participatory grantmaking, and [power](tags/power.md)-shifting practices that redistribute decision-making from funders to [communities](tags/community.md).
+description: Comprehensive research report from Churchill Fellowship examining philanthropic transformation globally, documenting trust-based approaches, participatory grantmaking, and power-shifting practices that redistribute decision-making from funders to communities.
 publish: true
 type: research-report
 source: https://whyphilanthropymatters.com/wp-content/uploads/2024/01/TRANSFORMING-PHILANTHROPY-CHURCHILL-FELLOWSHIP-REPORT.pdf
@@ -11,7 +11,7 @@ tags:
   - churchill-fellowship
   - trust-based-philanthropy
   - participatory-grantmaking
-  - [power](tags/power.md)-shifting
+  - power-shifting
   - funding-reform
 ---
 
@@ -57,8 +57,8 @@ This report enables philanthropic transformation:
 
 ## Related Concepts
 
-- [Power](tags/power.md) - Distribution and transformation in funding relationships
-- [Governance](tags/[governance](tags/governance.md).md) - Decision-making in philanthropic contexts
-- [Community](tags/[community](tags/community.md).md) - Leadership and self-determination
-- [Coordination](tags/[coordination](tags/coordination.md).md) - Mechanisms for resource distribution
-- [Grants](tags/[grants](tags/grants.md).md) - Funding approaches and practices
+- Power - Distribution and transformation in funding relationships
+- Governance - Decision-making in philanthropic contexts
+- Community - Leadership and self-determination
+- Coordination - Mechanisms for resource distribution
+- [Grants](tags/grants.md) - Funding approaches and practices

@@ -51,6 +51,6 @@ The wiki is particularly valuable for its documentation of real-world case studi
 
 - [Coordination](tags/coordination.md) - Local and network-scale coordination
 - [DAOs](tags/daos.md) - Decentralized organizational forms
-- [Governance](tags/governance.md) - Community and network governance
+- Governance - Community and network governance
 - [Knowledge Gardens](artifacts/patterns/knowledge-gardens.md) - Decentralized knowledge creation
 - [Primitives](tags/primitives.md) - Building blocks for local networks

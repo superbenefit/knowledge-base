@@ -1,6 +1,6 @@
 ---
 title: Operator - Protocol-First DAO Strategy Framework
-description: Strategic framework for [DAOs](tags/daos.md) built around protocols rather than organizations, examining how protocol-first approach shifts [governance](tags/governance.md) priorities toward long-term infrastructure resilience, minimal viable [governance](tags/governance.md), and credible neutrality over operational decision-making and organizational growth.
+description: Strategic framework for DAOs built around protocols rather than organizations, examining how protocol-first approach shifts governance priorities toward long-term infrastructure resilience, minimal viable governance, and credible neutrality over operational decision-making and organizational growth.
 publish: true
 type: strategic-framework
 source: https://operator.mirror.xyz/MBNHkLf0s-NPRty1gAsf1OrJji28JL3DfDCC7tACBW4
@@ -9,10 +9,10 @@ author:
 tags:
   - protocol-first-strategy
   - dao-strategy
-  - minimal-[governance](tags/governance.md)
+  - minimal-governance
   - credible-neutrality
   - infrastructure-focus
-  - protocol-[governance](tags/governance.md)
+  - protocol-governance
 ---
 
 Operator's protocol-first DAO strategy framework distinguishes [DAOs](tags/daos.md) governing protocols (infrastructure layer) from those operating as organizations (application layer), arguing these require fundamentally different [governance](tags/governance.md) approaches. Protocol-first DAOs prioritize long-term infrastructure resilience, credible neutrality, and minimal viable governance over active operational decision-making characteristic of organizational DAOs. The framework examines implications including conservative parameter changes, emphasis on stability over innovation, stakeholder neutrality versus mission-driven advocacy, and governance ossification as feature rather than bug. Rather than prescribing single approach, the analysis helps DAOs clarify whether they're building protocols or organizations, recognizing this distinction shapes appropriate governance structures, [community](tags/community.md) expectations, and success metrics—with many DAOs struggling because they conflate these different strategic contexts requiring incompatible governance patterns.
@@ -55,8 +55,8 @@ This framework enables strategic governance alignment:
 
 ## Related Concepts
 
-- [DAOs](tags/daos.md) - Organizations and communities discussed
-- [Governance](tags/governance.md) - Decision-making frameworks explored
-- [Coordination](tags/coordination.md) - Mechanisms for collective action
-- [Communities](tags/[community](tags/community.md).md) - Social structures and dynamics
+- DAOs - Organizations and communities discussed
+- Governance - Decision-making frameworks explored
+- Coordination - Mechanisms for collective action
+- Communities - Social structures and dynamics
 - [Frameworks](tags/frameworks.md) - Organizational approaches and toolkits

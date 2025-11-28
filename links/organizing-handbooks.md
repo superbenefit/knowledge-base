@@ -23,7 +23,7 @@ The _Handbook of Handbooks for Decentralised Organising_ is a curated compendium
 
 Compiled by Richard Bartlett, a co-founder of Enspiral and advocate of decentralized methods, this resource acts as both a reference and an invitation for collaboration. It includes handbooks from diverse fields, showcasing practical approaches to [decision-making](tags/decision-making.md), facilitation, and [governance](tags/governance.md) in flat organizational structures.
 
-For more information, check out Patterns for [Decentralized [Organizing](tags/organizing.md)](https://leanpub.com/patterns-for-decentralised-organising/).
+For more information, check out Patterns for [Decentralized Organizing](https://leanpub.com/patterns-for-decentralised-organising/).
 
 ### Key Highlights:
 
@@ -145,7 +145,7 @@ The article is presented as an interactive HackMD page, offering links to handbo
 51. [Future Togetherness Handbook](https://humansystems.co/) – Practices for community resilience and collaboration.
 52. Reinvent Organization Map – Assessment tool for teal organizations.
 53. [Planet Centric Design Toolkit](https://planetscentrix.com/) – Tools for creating responsible and sustainable products.
-54. [Community Building Canvas](https://[community](tags/community.md)-canvas.org/) – Resource for designing community-oriented organizations.
+54. Community Building Canvas – Resource for designing community-oriented organizations.
 
 ### More Community-Focused Resources
 
@@ -176,7 +176,7 @@ The article is presented as an interactive HackMD page, offering links to handbo
 25. [The Essentials of Theory U](https://www.presencing.org/) – Otto Scharmer’s guide to transformational leadership.
 26. [It’s Vacant, Take It!](https://homesnotjails.org/) – Zine offering guidance for squatting and community reclaiming.
 27. [How to Organize a Pirate Kindergarten](https://piratekindergarten.net/) – Manual for collective parenting and care.
-28. [Patterns for Cooperative [Networks](tags/networks.md)](https://cooppatterns.net/) – Frameworks for association structures.
+28. [Patterns for Cooperative Networks](https://cooppatterns.net/) – Frameworks for association structures.
 29. [P2P Foundation Wiki](https://wiki.p2pfoundation.net/) – Repository of peer-to-peer practices.
 30. [Nesta Collective Intelligence Design Playbook](https://www.nesta.org.uk/toolkit/collective-intelligence-design-playbook/) – Methods for leveraging people, data, and technology.
 31. [Recipes for Wellbeing](https://recipesforwellbeing.org/) – Collection of practices for cultivating individual and team wellbeing.
@@ -211,8 +211,8 @@ The article is presented as an interactive HackMD page, offering links to handbo
 
 ## Related Concepts
 
-- [Coordination](tags/coordination.md) - Mechanisms for decentralized organizing
-- [Governance](tags/governance.md) - Decision-making in decentralized contexts
+- Coordination - Mechanisms for decentralized organizing
+- Governance - Decision-making in decentralized contexts
 - [DAOs](tags/daos.md) - Organizations using these organizing approaches
 - [Teams](tags/teams.md) - Small groups coordinating decentrally
-- [Collaboration](tags/collaboration.md) - Collective work patterns
+- Collaboration - Collective work patterns

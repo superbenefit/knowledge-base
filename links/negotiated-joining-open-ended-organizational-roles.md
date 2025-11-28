@@ -59,6 +59,6 @@ This research enables adaptive role construction:
 
 - [Roles](tags/roles.md) - Organizational structures and membership
 - [Governance](tags/governance.md) - Decision-making frameworks
-- [DAOs](tags/daos.md) - Decentralized organizations explored
-- [Community](tags/community.md) - Social structures and participation
-- [Coordination](tags/coordination.md) - Mechanisms for organizing work
+- DAOs - Decentralized organizations explored
+- Community - Social structures and participation
+- Coordination - Mechanisms for organizing work

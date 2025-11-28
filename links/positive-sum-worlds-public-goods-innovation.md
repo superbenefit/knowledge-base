@@ -1,6 +1,6 @@
 ---
 title: Positive Sum Worlds - Remaking Public Goods
-description: Other Internet research on reimagining [public goods](tags/public-goods.md) through crypto-economic mechanisms that create positive-sum dynamics, expanding collective capacity rather than zero-sum competition.
+description: Other Internet research on reimagining public goods through crypto-economic mechanisms that create positive-sum dynamics, expanding collective capacity rather than zero-sum competition.
 publish: true
 type: research-report
 source: https://otherinter.net/research/positive-sum-worlds/
@@ -10,7 +10,7 @@ tags:
   - public-goods
   - positive-sum
   - crypto-economics
-  - [coordination](tags/coordination.md)-mechanisms
+  - coordination-mechanisms
   - collective-action
   - regenerative-economics
   - other-internet
@@ -66,8 +66,8 @@ The combination of theoretical rigor and documented implementation makes the fra
 
 ## Related Concepts
 
-- [Public Goods](tags/public-goods.md) - Collective benefit funding explored
-- [Impact](tags/impact.md) - Outcomes and measurement approaches
-- [Coordination](tags/[coordination](tags/coordination.md).md) - Mechanisms for collective action
+- Public Goods - Collective benefit funding explored
+- Impact - Outcomes and measurement approaches
+- Coordination - Mechanisms for collective action
 - [DAOs](tags/daos.md) - Organizations funding and creating impact
 - [Grants](tags/grants.md) - Funding mechanisms discussed

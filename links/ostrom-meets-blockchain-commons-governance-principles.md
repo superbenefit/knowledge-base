@@ -1,6 +1,6 @@
 ---
 title: When Ostrom Meets Blockchain - Commons Governance Meets Decentralized Systems
-description: Rigorous academic analysis applying Elinor Ostrom's Nobel Prize-winning [commons](tags/commons.md) [governance](tags/governance.md) principles to blockchain systems, examining how decentralized protocols can avoid the tragedy of the [commons](tags/commons.md).
+description: Rigorous academic analysis applying Elinor Ostrom's Nobel Prize-winning commons governance principles to blockchain systems, examining how decentralized protocols can avoid the tragedy of the commons.
 publish: true
 type: academic-article
 source: https://journals.sagepub.com/doi/10.1177/21582440211002526
@@ -8,13 +8,13 @@ author:
   - Academic Researchers (Sage Journals)
 tags:
   - ostrom
-  - [commons](tags/commons.md)-[governance](tags/governance.md)
+  - commons-governance
   - blockchain
   - common-pool-resources
-  - decentralized-[governance](tags/governance.md)
+  - decentralized-governance
   - collective-action
   - institutional-design
-  - tragedy-of-the-[commons](tags/commons.md)
+  - tragedy-of-the-commons
 ---
 
 This peer-reviewed academic article represents a rigorous application of Elinor Ostrom's groundbreaking work on [commons](tags/commons.md) [governance](tags/governance.md) to blockchain and decentralized systems. Ostrom won the Nobel Prize in Economics for demonstrating that [communities](tags/community.md) can successfully self-govern common-pool resources without privatization or state control, contradicting the "tragedy of the commons" narrative. This article examines how her empirically-derived design principles for successful commons institutions map onto blockchain protocols, offering scholarly analysis of whether and how decentralized systems can enable collective stewardship of shared resources at scale without central authority.
@@ -65,8 +65,8 @@ The article's scholarly rigor and connection to established commons theory provi
 
 ## Related Concepts
 
-- [Commons](tags/commons.md) - Shared resources and governance approaches
-- [Governance](tags/governance.md) - Decision-making for collective resources
-- [Coordination](tags/[coordination](tags/coordination.md).md) - Mechanisms for managing shared resources
-- [Sustainability](tags/[sustainability](tags/sustainability.md).md) - Long-term resource stewardship
-- [Community](tags/[community](tags/community.md).md) - Groups managing commons together
+- Commons - Shared resources and governance approaches
+- Governance - Decision-making for collective resources
+- Coordination - Mechanisms for managing shared resources
+- [Sustainability](tags/sustainability.md) - Long-term resource stewardship
+- Community - Groups managing commons together

@@ -1,6 +1,6 @@
 ---
 title: Donut Economy x 8 Forms of Capital - Gitcoin Integration
-description: Comprehensive integration of Kate Raworth's Donut Economics model with the 8 Forms of Capital framework, applied to decentralized [coordination](tags/coordination.md) and regenerative economics in the Gitcoin context.
+description: Comprehensive integration of Kate Raworth's Donut Economics model with the 8 Forms of Capital framework, applied to decentralized coordination and regenerative economics in the Gitcoin context.
 publish: true
 type: framework
 source: https://gov.gitcoin.co/t/the-donut-economy-x-8-forms-of-capital/10079
@@ -67,8 +67,8 @@ The framework's combination of theoretical rigor and practical applicability mak
 
 ## Related Concepts
 
-- [Commons](tags/[commons](tags/commons.md).md) - Shared resources and [governance](tags/governance.md) approaches
-- [Governance](tags/[governance](tags/governance.md).md) - Decision-making for collective resources
-- [Coordination](tags/coordination.md) - Mechanisms for managing shared resources
-- [Sustainability](tags/sustainability.md) - Long-term resource stewardship
-- [Community](tags/[community](tags/community.md).md) - Groups managing [commons](tags/commons.md) together
+- Commons - Shared resources and governance approaches
+- Governance - Decision-making for collective resources
+- Coordination - Mechanisms for managing shared resources
+- Sustainability - Long-term resource stewardship
+- Community - Groups managing commons together

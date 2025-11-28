@@ -1,6 +1,6 @@
 ---
 title: Embodied Economics - What Economists Can Learn from Starlings
-description: Embodied Economics essay examining what murmuration behavior teaches about [coordination](tags/coordination.md) without central control, challenging economic assumptions about markets and hierarchies while exploring how ecological patterns inform alternative economic thinking grounded in embodied intelligence.
+description: Embodied Economics essay examining what murmuration behavior teaches about coordination without central control, challenging economic assumptions about markets and hierarchies while exploring how ecological patterns inform alternative economic thinking grounded in embodied intelligence.
 publish: true
 type: essay
 source: https://embodied-economics.ghost.io/starlings/
@@ -10,7 +10,7 @@ tags:
   - embodied-economics
   - ecological-thinking
   - murmuration
-  - distributed-[coordination](tags/coordination.md)
+  - distributed-coordination
   - alternative-economics
   - complexity-science
 ---
@@ -53,8 +53,8 @@ This framework enables ecological economic thinking:
 
 ## Related Concepts
 
-- [Community](tags/[community](tags/community.md).md) - Collective organizing and mutual support
-- [Coordination](tags/coordination.md) - Mechanisms for collective action
+- Community - Collective organizing and mutual support
+- Coordination - Mechanisms for collective action
 - [Mutual Aid](tags/mutual-aid.md) - Solidarity-based resource sharing
-- [Sustainability](tags/[sustainability](tags/sustainability.md).md) - Regenerative approaches to organizing
-- [Power](tags/[power](tags/power.md).md) - Distribution and transformation dynamics
+- [Sustainability](tags/sustainability.md) - Regenerative approaches to organizing
+- [Power](tags/power.md) - Distribution and transformation dynamics

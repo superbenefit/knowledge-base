@@ -60,8 +60,8 @@ Trust-based principles enable transformative grantmaking across funding contexts
 
 ## Related Concepts
 
-- [Power](tags/power.md) - Distribution and transformation in funding relationships
+- Power - Distribution and transformation in funding relationships
 - [Governance](tags/governance.md) - Decision-making in philanthropic contexts
-- [Community](tags/community.md) - Leadership and self-determination
-- [Coordination](tags/coordination.md) - Mechanisms for resource distribution
+- Community - Leadership and self-determination
+- Coordination - Mechanisms for resource distribution
 - [Grants](tags/grants.md) - Funding approaches and practices

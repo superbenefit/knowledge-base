@@ -68,8 +68,8 @@ The essay's power lies in its capacity to trouble comfortable assumptions rather
 
 ## Related Concepts
 
-- [Power](tags/[power](tags/power.md).md) - Dynamics in funding and resource distribution
-- [Community](tags/[community](tags/community.md).md) - Organizations and movements being funded
-- [Coordination](tags/[coordination](tags/coordination.md).md) - Mechanisms for collective resource allocation
-- [Impact](tags/[impact](tags/impact.md).md) - Outcomes and effectiveness measures
-- [Governance](tags/[governance](tags/governance.md).md) - Decision-making in funding contexts
+- Power - Dynamics in funding and resource distribution
+- Community - Organizations and movements being funded
+- Coordination - Mechanisms for collective resource allocation
+- [Impact](tags/impact.md) - Outcomes and effectiveness measures
+- [Governance](tags/governance.md) - Decision-making in funding contexts

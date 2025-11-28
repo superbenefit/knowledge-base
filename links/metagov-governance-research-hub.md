@@ -69,8 +69,8 @@ The combination of tools, research, and frameworks makes Metagov immediately val
 
 ## Related Concepts
 
-- [Governance](tags/governance.md) - Research focus and tool development area
-- [DAOs](tags/daos.md) - Organizations studied and supported by Metagov
-- [Coordination](tags/coordination.md) - Collective decision-making mechanisms researched
+- Governance - Research focus and tool development area
+- DAOs - Organizations studied and supported by Metagov
+- Coordination - Collective decision-making mechanisms researched
 - [Frameworks](tags/frameworks.md) - Design patterns and standards developed
 - [DAO Primitives Framework](notes/dao-primitives/index.md) - Informed by Metagov research

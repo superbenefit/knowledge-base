@@ -69,8 +69,8 @@ The interview's value lies in expanding imaginative possibilities rather than pr
 
 ## Related Concepts
 
-- [Sustainability](tags/[sustainability](tags/sustainability.md).md) - Ecological approaches to technology
-- [Coordination](tags/[coordination](tags/coordination.md).md) - Alternative organizing mechanisms
-- [Community](tags/[community](tags/community.md).md) - Digital and local organizing
+- Sustainability - Ecological approaches to technology
+- Coordination - Alternative organizing mechanisms
+- [Community](tags/community.md) - Digital and local organizing
 - [Regeneration](tags/regeneration.md) - Restorative systems design
-- [Governance](tags/[governance](tags/governance.md).md) - Democratic technology frameworks
+- [Governance](tags/governance.md) - Democratic technology frameworks

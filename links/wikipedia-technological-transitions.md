@@ -12,7 +12,7 @@ tags:
   - systems-change
   - multi-level-perspective
   - transition-theory
-  - [sustainability](tags/sustainability.md)-transitions
+  - sustainability-transitions
 ---
 
 Wikipedia's technological transitions article synthesizes established academic framework for understanding how large-scale socio-technical systems—energy, transportation, food, communication—undergo fundamental transformations. The multi-level perspective (MLP) developed by Frank Geels and colleagues explains transitions through interactions across three levels: protected niches where radical innovations develop; established socio-technical regimes with locked-in technologies, institutions, and practices; and landscape-level external pressures creating openings for change. Rather than treating innovation as purely technical process or assuming new technologies automatically replace old ones, the framework shows how transitions require alignment across technical, institutional, cultural, and economic dimensions while navigating resistance from regime incumbents. The [sustainability](tags/sustainability.md) transitions variant specifically examines how societies can deliberately guide transitions toward environmental and social goals rather than leaving change to market forces alone.
@@ -55,8 +55,8 @@ This framework enables transition-oriented practice:
 
 ## Related Concepts
 
-- [Sustainability](tags/sustainability.md) - Ecological approaches to technology
-- [Coordination](tags/coordination.md) - Alternative organizing mechanisms
-- [Community](tags/[community](tags/community.md).md) - Digital and local organizing
+- Sustainability - Ecological approaches to technology
+- Coordination - Alternative organizing mechanisms
+- [Community](tags/community.md) - Digital and local organizing
 - [Regeneration](tags/regeneration.md) - Restorative systems design
-- [Governance](tags/governance.md) - Democratic technology frameworks
+- Governance - Democratic technology frameworks

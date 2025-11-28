@@ -62,8 +62,8 @@ Community practices create the conditions for trust, reciprocity, and collective
 
 - **[Agreements](tags/agreements.md)**: Formal commitments that establish shared expectations, with practices often emerging from agreements
 - **[Protocols](tags/protocols.md)**: Standardized rules that govern interactions, which practices often implement
-- **[Purpose](tags/purpose.md)**: The guiding goal that practices help realize
-- **[Progress](tags/progress.md)**: Systems for tracking and demonstrating advancement, which practices support
+- **Purpose**: The guiding goal that practices help realize
+- **Progress**: Systems for tracking and demonstrating advancement, which practices support
 - **[Roles](tags/roles.md)**: Defined responsibilities that practices help coordinate
 - **[Tasks](tags/tasks.md)**: Specific actions guided by established practices
 - **[Governance](tags/governance.md)**: Systems for collective decision-making that incorporate various practices

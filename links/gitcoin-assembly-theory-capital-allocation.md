@@ -1,6 +1,6 @@
 ---
 title: Assembly Theory x Onchain Capital Allocation
-description: Gitcoin framework integrating assembly theory from complexity science with onchain capital allocation design, offering novel theoretical approach to understanding and improving how [DAOs](tags/daos.md) distribute resources.
+description: Gitcoin framework integrating assembly theory from complexity science with onchain capital allocation design, offering novel theoretical approach to understanding and improving how DAOs distribute resources.
 publish: true
 type: framework
 source: https://gov.gitcoin.co/t/assembly-theory-x-onchain-capital-allocation-a-powerful-approach-to-allo-design-space-exploration/19729
@@ -58,7 +58,7 @@ This theoretical framework enables principled allocation design:
 ## Related Concepts
 
 - [Public Goods](tags/public-goods.md) - Collective benefit funding explored
-- [Impact](tags/[impact](tags/impact.md).md) - Outcomes and measurement approaches
-- [Coordination](tags/[coordination](tags/coordination.md).md) - Mechanisms for collective action
-- [DAOs](tags/daos.md) - Organizations funding and creating [impact](tags/impact.md)
+- Impact - Outcomes and measurement approaches
+- Coordination - Mechanisms for collective action
+- DAOs - Organizations funding and creating impact
 - [Grants](tags/grants.md) - Funding mechanisms discussed

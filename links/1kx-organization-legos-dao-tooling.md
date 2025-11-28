@@ -55,8 +55,8 @@ This analysis enables informed tooling decisions:
 
 ## Related Concepts
 
-- [DAOs](tags/daos.md) - Organizations that use these modular tooling components
-- [Governance](tags/governance.md) - Decision-making systems implemented through DAO tools
-- [Coordination](tags/coordination.md) - Core challenge that DAO tooling addresses
-- [Primitives](tags/primitives.md) - Building blocks that compose into DAO infrastructure
+- DAOs - Organizations that use these modular tooling components
+- Governance - Decision-making systems implemented through DAO tools
+- Coordination - Core challenge that DAO tooling addresses
+- Primitives - Building blocks that compose into DAO infrastructure
 - [DAO Primitives Framework](notes/dao-primitives/index.md) - SuperBenefit's approach to composable coordination

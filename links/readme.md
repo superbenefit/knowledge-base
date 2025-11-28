@@ -20,8 +20,8 @@ To contribute to the Web3 Library:
 
 ## Key Resources
 
-*   **Link Template:** [tools/templates/Link Template.md](tools/templates/layouts/link.md) - Use this template to create new link files.
-*   **Contribution Guidelines:** [CONTRIBUTING.md](CONTRIBUTING.md) - Review our overall contribution process.
+*   **Link Template:** tools/templates/Link Template.md - Use this template to create new link files.
+*   **Contribution Guidelines:** CONTRIBUTING.md - Review our overall contribution process.
 
 ---
 

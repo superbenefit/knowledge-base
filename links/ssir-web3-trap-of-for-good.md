@@ -1,6 +1,6 @@
 ---
 title: Web3 and the Trap of 'For Good'
-description: Stanford Social Innovation Review critical [power](tags/power.md)-aware analysis examining how "Web3 for good" rhetoric can obscure extraction and [power](tags/power.md) concentration while claiming social benefit, offering framework for distinguishing genuine [impact](tags/impact.md) from progressive branding.
+description: Stanford Social Innovation Review critical power-aware analysis examining how "Web3 for good" rhetoric can obscure extraction and power concentration while claiming social benefit, offering framework for distinguishing genuine impact from progressive branding.
 publish: true
 type: analysis
 source: https://ssir.org/articles/entry/web3_and_the_trap_of_for_good?utm_source=substack&utm_medium=email
@@ -10,8 +10,8 @@ tags:
   - web3-critique
   - ssir
   - for-good-trap
-  - [power](tags/power.md)-analysis
-  - [impact](tags/impact.md)-washing
+  - power-analysis
+  - impact-washing
   - social-innovation
 ---
 
@@ -58,7 +58,7 @@ This framework enables critical Web3 evaluation:
 ## Related Concepts
 
 - [ReFi](tags/refi.md) - Regenerative finance and alternative economics
-- [Coordination](tags/[coordination](tags/coordination.md).md) - Mechanisms for resource allocation
-- [Community](tags/community.md) - Local and regional organizing
+- Coordination - Mechanisms for resource allocation
+- Community - Local and regional organizing
 - [Sustainability](tags/sustainability.md) - Ecological and social resilience
-- [Governance](tags/[governance](tags/governance.md).md) - Decision-making about resource distribution
+- Governance - Decision-making about resource distribution

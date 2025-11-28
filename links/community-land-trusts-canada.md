@@ -1,14 +1,14 @@
 ---
 title: Community Land Trusts in Canada
-description: Network documenting Canadian [community](tags/community.md) land trusts (CLTs) implementing [commons](tags/commons.md)-based land [governance](tags/governance.md) where [communities](tags/community.md) collectively own land while individuals hold buildings, removing land from speculative markets to ensure permanent affordability.
+description: Network documenting Canadian community land trusts (CLTs) implementing commons-based land governance where communities collectively own land while individuals hold buildings, removing land from speculative markets to ensure permanent affordability.
 publish: true
 type: network-resource
 source: https://www.communityland.ca/canadian-clts/
 author:
   - Community Land Trust Network
 tags:
-  - [community](tags/community.md)-land-trusts
-  - [commons](tags/commons.md)-[governance](tags/governance.md)
+  - community-land-trusts
+  - commons-governance
   - affordable-housing
   - land-stewardship
   - canada
@@ -57,8 +57,8 @@ CLT model enables commons land governance:
 
 ## Related Concepts
 
-- [Community](tags/community.md) - Collective organizing and mutual support
-- [Coordination](tags/[coordination](tags/coordination.md).md) - Mechanisms for collective action
+- Community - Collective organizing and mutual support
+- Coordination - Mechanisms for collective action
 - [Mutual Aid](tags/mutual-aid.md) - Solidarity-based resource sharing
-- [Sustainability](tags/[sustainability](tags/sustainability.md).md) - Regenerative approaches to organizing
-- [Power](tags/[power](tags/power.md).md) - Distribution and transformation dynamics
+- [Sustainability](tags/sustainability.md) - Regenerative approaches to organizing
+- [Power](tags/power.md) - Distribution and transformation dynamics

@@ -60,7 +60,7 @@ This framework enables transformative urban governance:
 ## Related Concepts
 
 - [Roles](tags/roles.md) - Organizational structures and membership
-- [Governance](tags/governance.md) - Decision-making frameworks
+- Governance - Decision-making frameworks
 - [DAOs](tags/daos.md) - Decentralized organizations explored
-- [Community](tags/community.md) - Social structures and participation
-- [Coordination](tags/coordination.md) - Mechanisms for organizing work
+- Community - Social structures and participation
+- Coordination - Mechanisms for organizing work

@@ -48,7 +48,7 @@ Unlike approaches that view power primarily as individual agency within existing
 ## Related Concepts
 
 - [Governance](tags/governance.md) - Distribution of decision-making power
-- [DAOs](tags/daos.md) - Organizations reimagining power structures
-- [Decentralization](tags/decentralization.md) - Power distribution approaches
+- DAOs - Organizations reimagining power structures
+- Decentralization - Power distribution approaches
 - [Community Governance](artifacts/patterns/community-governance.md) - Shared power patterns
 - [Autonomy](tags/autonomy.md) - Self-directed power

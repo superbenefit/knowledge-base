@@ -15,7 +15,7 @@ aliases:
 
 ## Related Concepts
 
-- [Roles](tags/roles.md) - Assigned responsibilities for tasks
+- Roles - Assigned responsibilities for tasks
 - [Cell](artifacts/patterns/cell.md) - Teams managing tasks
 - [Progress](tags/progress.md) - Tracking task completion
 - [Teams](tags/teams.md) - Groups executing tasks

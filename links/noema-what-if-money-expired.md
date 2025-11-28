@@ -57,8 +57,8 @@ This framework enables monetary system reimagination:
 
 ## Related Concepts
 
-- [Sustainability](tags/[sustainability](tags/sustainability.md).md) - Ecological approaches to technology
-- [Coordination](tags/coordination.md) - Alternative organizing mechanisms
-- [Community](tags/[community](tags/community.md).md) - Digital and local organizing
+- [Sustainability](tags/sustainability.md) - Ecological approaches to technology
+- Coordination - Alternative organizing mechanisms
+- Community - Digital and local organizing
 - [Regeneration](tags/regeneration.md) - Restorative systems design
-- [Governance](tags/[governance](tags/governance.md).md) - Democratic technology frameworks
+- [Governance](tags/governance.md) - Democratic technology frameworks

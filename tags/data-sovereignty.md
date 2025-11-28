@@ -73,10 +73,10 @@ These governance approaches connect to broader [decentralization](tags/decentral
 
 ## Related Concepts
 
-- **[Privacy](tags/privacy.md)**: Data sovereignty enables privacy by giving individuals and communities control over information disclosure
-- **[Autonomy](tags/autonomy.md)**: Data sovereignty represents a specific application of autonomy in the digital realm
-- **[Decentralization](tags/decentralization.md)**: Distributed systems can enable data sovereignty by preventing centralized control
-- **[Semiotic Bridging](tags/semiotic-bridging.md)**: Enables communities to share knowledge while maintaining control over their information
+- **Privacy**: Data sovereignty enables privacy by giving individuals and communities control over information disclosure
+- **Autonomy**: Data sovereignty represents a specific application of autonomy in the digital realm
+- **Decentralization**: Distributed systems can enable data sovereignty by preventing centralized control
+- **Semiotic Bridging**: Enables communities to share knowledge while maintaining control over their information
 - **[Governance](tags/governance.md)**: Frameworks that determine how data sovereignty principles are implemented and enforced
 - **[Community](tags/community.md)**: Often serves as a key unit of data governance between individual and institutional scales
 - **[Localism](tags/localism.md)**: Connects to data sovereignty through emphasis on local determination and control

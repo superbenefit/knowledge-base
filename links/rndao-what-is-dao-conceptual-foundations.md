@@ -57,8 +57,8 @@ This conceptual work enables clearer DAO discourse:
 
 ## Related Concepts
 
-- [DAOs](tags/daos.md) - Organizations examined conceptually
-- [Governance](tags/governance.md) - Decision-making systems discussed
-- [Coordination](tags/coordination.md) - Mechanisms for collective action
-- [Decentralization](tags/decentralization.md) - Foundational principle analyzed
+- DAOs - Organizations examined conceptually
+- Governance - Decision-making systems discussed
+- Coordination - Mechanisms for collective action
+- Decentralization - Foundational principle analyzed
 - [DAO Primitives Framework](notes/dao-primitives/index.md) - Practical framework complement

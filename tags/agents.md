@@ -78,7 +78,7 @@ This approach represents a fundamentally different relationship with technologyâ
 
 - [Actions](tags/actions.md): The processes or events initiated by agents that result in change
 - [Roles](tags/roles.md): Defined responsibilities that structure how agents participate in systems
-- [Permissions](tags/permissions.md): Controls that determine what actions agents can take
-- [Autonomy](tags/autonomy.md): The capacity of agents to operate independently
+- Permissions: Controls that determine what actions agents can take
+- Autonomy: The capacity of agents to operate independently
 - [Delegation](tags/delegation.md): The process of transferring authority between agents
-- [Decisions](tags/decisions.md): The choices agents make that determine outcomes
+- Decisions: The choices agents make that determine outcomes

@@ -73,5 +73,5 @@ In technological contexts relevant to Web3 and decentralized systems, fractal ar
 
 **SuperBenefit Context:**
 - tags/cooperative - Examples of self-similar organizational patterns across scales
-- [governance](tags/governance.md) - Recursive governance structures and democratic participation
+- governance - Recursive governance structures and democratic participation
 - notes/solidarity-draft - Distributed coordination systems with self-similar solidarity patterns

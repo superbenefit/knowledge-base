@@ -17,7 +17,7 @@ In the context of Web3 and [decentralized](tags/decentralization.md) organizatio
 
 ## Teams in Decentralized Organizations
 
-The [[DAO Primitives framework](../artifacts/guides/dao-primitives-framework/index.md)](notes/dao-primitives/index.md) uses the term **[Cells](artifacts/guides/dao-primitives-framework/group-primitives/cells.md)** to describe small autonomous teams that function as the basic organizational units within DAO networks. These teams typically consist of 3-8 people (fewer than 10) who work together at what the framework calls "collaboration scale" - where high-bandwidth, synchronous communication enables effective self-[governance](tags/governance.md) and adaptive problem-solving.
+The [DAO Primitives framework](../artifacts/guides/dao-primitives-framework/index.md) uses the term **[Cells](artifacts/guides/dao-primitives-framework/group-primitives/cells.md)** to describe small autonomous teams that function as the basic organizational units within DAO networks. These teams typically consist of 3-8 people (fewer than 10) who work together at what the framework calls "collaboration scale" - where high-bandwidth, synchronous communication enables effective self-[governance](tags/governance.md) and adaptive problem-solving.
 
 The shift from traditional teams to decentralized autonomous teams represents a fundamental change in how groups coordinate:
 
@@ -33,15 +33,15 @@ The shift from traditional teams to decentralized autonomous teams represents a 
 - Make independent decisions within their domain of responsibility
 - Coordinate horizontally with other teams through clear interfaces
 
-This autonomy combined with transparent coordination enables what [[DAOs aren't things... they are flows](../artifacts/articles/network-evolution/DAOs aren't things... they are flows..md)](artifacts/articles/network-evolution/DAOs aren't things... they are flows..md) describes as "purpose-aligned networks" that can scale both efficiency and innovation simultaneously.
+This autonomy combined with transparent coordination enables what [DAOs aren't things... they are flows](../artifacts/articles/network-evolution/DAOs aren't things... they are flows..md) describes as "purpose-aligned networks" that can scale both efficiency and innovation simultaneously.
 
 ---
 
 ## Related Concepts
 
-- [Cells](artifacts/guides/dao-primitives-framework/group-primitives/cells.md) - The DAO Primitives term for small autonomous teams
-- [Coordination](tags/coordination.md) - The mechanisms through which teams align their activities
+- Cells - The DAO Primitives term for small autonomous teams
+- Coordination - The mechanisms through which teams align their activities
 - [Collaboration](tags/collaboration.md) - The scale and nature of teamwork
-- [Governance](tags/governance.md) - How teams make decisions and establish practices
+- Governance - How teams make decisions and establish practices
 - [Autonomy](tags/autonomy.md) - The self-direction capacity that defines decentralized teams
 - [DAOs](tags/daos.md) - The network context within which autonomous teams operate

@@ -1,19 +1,19 @@
 ---
 title: Regen Coordination x Institute for Community Sustainability
-description: Regenerative [coordination](tags/coordination.md) partnership case study documenting collaboration between regen [coordination](tags/coordination.md) practitioners and [community](tags/community.md) [sustainability](tags/sustainability.md) researchers, demonstrating practical application of regenerative principles to [community](tags/community.md) development.
+description: Regenerative coordination partnership case study documenting collaboration between regen coordination practitioners and community sustainability researchers, demonstrating practical application of regenerative principles to community development.
 publish: true
 type: case-study
-source: https://gap.karmahq.xyz/project/the-institute-for-[community](tags/community.md)-[sustainability](tags/sustainability.md)/?invite-code=0xb6a78a16348df33a938a89d9e966b7fd2564980fa3bece327fd1d99c2ecda3b5
+source: https://gap.karmahq.xyz/project/the-institute-for-community-sustainability/?invite-code=0xb6a78a16348df33a938a89d9e966b7fd2564980fa3bece327fd1d99c2ecda3b5
 author:
   - Regen Coordination
   - Institute for Community Sustainability
 tags:
-  - regenerative-[coordination](tags/coordination.md)
-  - [community](tags/community.md)-[sustainability](tags/sustainability.md)
+  - regenerative-coordination
+  - community-sustainability
   - partnership-model
   - case-study
   - regen-economics
-  - collaborative-[governance](tags/governance.md)
+  - collaborative-governance
 ---
 
 This case study documents partnership between regenerative [coordination](tags/coordination.md) practitioners and the Institute for Community Sustainability, showing how regen principles apply to [community](tags/community.md) development beyond purely environmental or blockchain contexts. The collaboration demonstrates practical integration of regenerative economics, participatory [governance](tags/governance.md), and community-led [sustainability](tags/sustainability.md) initiatives—bridging academic research with grassroots practice while centering local knowledge and self-determination. Rather than imposing predetermined frameworks, the partnership creates space for communities to define sustainability on their own terms while providing coordination tools, research support, and connections to broader regenerative movements. The work shows how regenerative approaches can strengthen community capacity without extracting value toward external actors or requiring communities to adopt specific technological solutions.
@@ -56,8 +56,8 @@ This partnership model enables regenerative community development:
 
 ## Related Concepts
 
-- [Coordination](tags/coordination.md) - Mechanisms for collective decision-making
-- [Governance](tags/governance.md) - Democratic and participatory frameworks
-- [Community](tags/community.md) - Network organizing and collaboration
-- [Power](tags/[power](tags/power.md).md) - Distribution and relational dynamics
-- [Sustainability](tags/sustainability.md) - Regenerative coordination approaches
+- Coordination - Mechanisms for collective decision-making
+- Governance - Democratic and participatory frameworks
+- Community - Network organizing and collaboration
+- Power - Distribution and relational dynamics
+- Sustainability - Regenerative coordination approaches

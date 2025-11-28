@@ -21,7 +21,7 @@ Link: [Consensus decision-making](https://en.wikipedia.org/wiki/Consensus_decisi
 
 ## Related Concepts
 
-- [Consent](tags/consent.md) - Related decision-making approach
+- Consent - Related decision-making approach
 - [Governance](tags/governance.md) - Decision-making frameworks
 - [Decisions](tags/decisions.md) - Outcomes of consensus processes
 - [Coordination](tags/coordination.md) - Collective agreement mechanisms

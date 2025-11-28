@@ -55,8 +55,8 @@ This collection enables DAO learning and reference:
 
 ## Related Concepts
 
-- [DAOs](tags/daos.md) - Organizations discussed throughout the canon
-- [Governance](tags/governance.md) - Decision-making frameworks explored in the collection
-- [Frameworks](tags/frameworks.md) - Organizational structures and approaches covered
-- [Coordination](tags/coordination.md) - Core challenge addressed by DAO mechanisms
+- DAOs - Organizations discussed throughout the canon
+- Governance - Decision-making frameworks explored in the collection
+- Frameworks - Organizational structures and approaches covered
+- Coordination - Core challenge addressed by DAO mechanisms
 - [Decentralization](tags/decentralization.md) - Foundational principle examined across resources

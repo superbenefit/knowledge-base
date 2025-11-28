@@ -75,8 +75,8 @@ The project's depth and rigor provides essential grounding for anyone serious ab
 
 ## Related Concepts
 
-- [Community](tags/[community](tags/community.md).md) - Collective organizing and mutual support
-- [Coordination](tags/[coordination](tags/coordination.md).md) - Mechanisms for collective action
+- [Community](tags/community.md) - Collective organizing and mutual support
+- Coordination - Mechanisms for collective action
 - [Mutual Aid](tags/mutual-aid.md) - Solidarity-based resource sharing
-- [Sustainability](tags/[sustainability](tags/sustainability.md).md) - Regenerative approaches to organizing
-- [Power](tags/[power](tags/power.md).md) - Distribution and transformation dynamics
+- [Sustainability](tags/sustainability.md) - Regenerative approaches to organizing
+- Power - Distribution and transformation dynamics

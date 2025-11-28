@@ -1,6 +1,6 @@
 ---
 title: Web3 - The Promise of a Denizens-Owned Internet
-description: FemWealth feminist critique examining Web3's promise of citizen/denizen ownership of internet infrastructure, analyzing power dynamics, inclusion challenges, and whether [decentralized](tags/decentralization.md) technologies can genuinely redistribute digital power.
+description: FemWealth feminist critique examining Web3's promise of citizen/denizen ownership of internet infrastructure, analyzing power dynamics, inclusion challenges, and whether decentralized technologies can genuinely redistribute digital power.
 publish: true
 type: analysis
 source: https://femwealth.substack.com/p/-web3-the-promise-of-a-denizens-owned
@@ -11,7 +11,7 @@ tags:
   - digital-ownership
   - power-dynamics
   - inclusion
-  - internet-[governance](tags/governance.md)
+  - internet-governance
   - citizen-ownership
 ---
 
@@ -55,8 +55,8 @@ This feminist critique enables power-aware Web3 engagement:
 
 ## Related Concepts
 
-- [Decentralization](tags/decentralization.md) - Distributed systems and governance
-- [Blockchain](tags/[blockchain](tags/blockchain.md).md) - Technology enabling decentralized [coordination](tags/coordination.md)
-- [Coordination](tags/[coordination](tags/coordination.md).md) - Mechanisms for collective action
-- [Governance](tags/governance.md) - Decision-making in digital contexts
+- Decentralization - Distributed systems and governance
+- Blockchain - Technology enabling decentralized coordination
+- Coordination - Mechanisms for collective action
+- Governance - Decision-making in digital contexts
 - [DAOs](tags/daos.md) - Decentralized organizations using these technologies

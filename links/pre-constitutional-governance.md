@@ -127,7 +127,7 @@ The article proposes a framework similar to this
 
 ## Related Concepts
 
-- [Governance](tags/governance.md) - Decision-making frameworks
+- Governance - Decision-making frameworks
 - [DAOs](tags/daos.md) - Organizations exploring these governance models
 - [Community Governance](artifacts/patterns/community-governance.md) - Constituency-scale governance patterns
 - [Coordination](tags/coordination.md) - Collective coordination mechanisms

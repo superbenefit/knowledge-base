@@ -1,6 +1,6 @@
 ---
 title: Anarchist Technologies - Mutual Aid and Cybernetics
-description: Rigorous academic analysis exploring how anarchist principles of [mutual aid](tags/mutual-aid.md), voluntary association, and anti-hierarchy can inform technological design, combining historical anarchist theory with contemporary cybernetics.
+description: Rigorous academic analysis exploring how anarchist principles of mutual aid, voluntary association, and anti-hierarchy can inform technological design, combining historical anarchist theory with contemporary cybernetics.
 publish: true
 type: academic-article
 source: https://journals.sagepub.com/doi/full/10.1177/13505084221090632
@@ -14,7 +14,7 @@ tags:
   - anti-hierarchy
   - voluntary-association
   - decentralized-systems
-  - [commons](tags/commons.md)-technology
+  - commons-technology
 ---
 
 This peer-reviewed academic article provides a deep theoretical analysis of how anarchist political philosophy—particularly principles of [mutual aid](tags/mutual-aid.md), voluntary association, and anti-hierarchical organization—can inform the design of technological systems. Published in a leading social science journal, the work bridges historical anarchist thought (Kropotkin, Bakunin) with contemporary cybernetics and systems thinking to argue for technological approaches that enable cooperation without coercion. The analysis challenges both Silicon Valley's libertarian individualism and state-centric tech regulation, offering a third path grounded in collective self-organization and mutual support networks that stands as a rigorous scholarly foundation for anyone exploring alternatives to extractive technology.
@@ -63,8 +63,8 @@ The academic rigor provides credibility when advocating for alternative technica
 
 ## Related Concepts
 
-- [Community](tags/[community](tags/community.md).md) - Collective organizing and mutual support
-- [Coordination](tags/coordination.md) - Mechanisms for collective action
-- [Mutual Aid](tags/mutual-aid.md) - Solidarity-based resource sharing
-- [Sustainability](tags/[sustainability](tags/sustainability.md).md) - Regenerative approaches to organizing
-- [Power](tags/[power](tags/power.md).md) - Distribution and transformation dynamics
+- Community - Collective organizing and mutual support
+- Coordination - Mechanisms for collective action
+- Mutual Aid - Solidarity-based resource sharing
+- [Sustainability](tags/sustainability.md) - Regenerative approaches to organizing
+- Power - Distribution and transformation dynamics

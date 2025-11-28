@@ -74,4 +74,4 @@ Polycentric commons governance often involves nested institutions where local re
 **SuperBenefit Context:**
 - [cooperatives](tags/cooperatives.md) - Examples of multi-stakeholder governance with multiple decision-making centers
 - [solidarity-economics](tags/solidarity-economics.md) - Decentralized coordination systems aligning individual and collective outcomes
-- [governance](tags/governance.md) - Multi-level governance approaches and democratic coordination mechanisms
+- governance - Multi-level governance approaches and democratic coordination mechanisms

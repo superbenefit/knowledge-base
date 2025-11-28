@@ -55,8 +55,8 @@ This framework enables narrative transformation work:
 
 ## Related Concepts
 
-- [Community](tags/community.md) - Local and network organizing
-- [Coordination](tags/coordination.md) - Mechanisms for collective action
-- [Governance](tags/governance.md) - Decision-making and leadership frameworks
+- Community - Local and network organizing
+- Coordination - Mechanisms for collective action
+- Governance - Decision-making and leadership frameworks
 - [Culture](tags/culture.md) - Values and practices shaping coordination
 - [Sustainability](tags/sustainability.md) - Regenerative community approaches

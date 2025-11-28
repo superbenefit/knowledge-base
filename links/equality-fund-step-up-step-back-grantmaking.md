@@ -1,16 +1,16 @@
 ---
 title: Step Up, Step Back - Reimagining Non-Competitive Grantmaking
-description: Equality Fund framework for feminist, [power](tags/power.md)-aware grantmaking that addresses how competitive funding processes harm movements through "Step Up, Step Back" participatory allocation where funded organizations determine distribution together.
+description: Equality Fund framework for feminist, power-aware grantmaking that addresses how competitive funding processes harm movements through "Step Up, Step Back" participatory allocation where funded organizations determine distribution together.
 publish: true
 type: framework
-source: https://equalityfund.ca/grantmaking/step-up-step-back-reimagining-non-competitive-grantmaking-in-[community](tags/community.md)/
+source: https://equalityfund.ca/grantmaking/step-up-step-back-reimagining-non-competitive-grantmaking-in-community/
 author:
   - Equality Fund
 tags:
   - feminist-grantmaking
   - participatory-funding
   - non-competitive-allocation
-  - [power](tags/power.md)-awareness
+  - power-awareness
   - movement-building
   - equality-fund
   - feminist-philanthropy
@@ -60,8 +60,8 @@ Step Up, Step Back enables movement-centered grantmaking across contexts:
 
 ## Related Concepts
 
-- [Power](tags/power.md) - Distribution and transformation in funding relationships
-- [Governance](tags/[governance](tags/governance.md).md) - Decision-making in philanthropic contexts
-- [Community](tags/[community](tags/community.md).md) - Leadership and self-determination
-- [Coordination](tags/[coordination](tags/coordination.md).md) - Mechanisms for resource distribution
-- [Grants](tags/[grants](tags/grants.md).md) - Funding approaches and practices
+- Power - Distribution and transformation in funding relationships
+- Governance - Decision-making in philanthropic contexts
+- Community - Leadership and self-determination
+- Coordination - Mechanisms for resource distribution
+- [Grants](tags/grants.md) - Funding approaches and practices

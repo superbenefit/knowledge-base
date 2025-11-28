@@ -51,6 +51,6 @@ The model provides a replicable framework for any organization seeking to align 
 
 - [Primitives](tags/primitives.md) - Building blocks for alternative systems
 - [DAOs](tags/daos.md) - Organizations implementing these mechanisms
-- [Governance](tags/governance.md) - Community governance of resources
+- Governance - Community governance of resources
 - [Coordination](tags/coordination.md) - Mechanisms for resource allocation
 - [DeFi](tags/defi.md) - Decentralized finance primitives
