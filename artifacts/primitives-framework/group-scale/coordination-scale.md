@@ -48,40 +48,7 @@ While [collaboration-scale](artifacts/primitives-framework/group-scale/collabora
 
 ### Coordination Scale Patterns
 
-dataviewjs
-
-```dataviewjs
-$= dv.list(
-    dv.pages()
-    .where(p => 
-        (p.type === "pattern" || (Array.isArray(p.type) && p.type.includes("pattern"))) &&
-        (p.scale === "coordination" || (Array.isArray(p.scale) && p.scale.includes("coordination"))) &&
-        !p.file.path.startsWith("tools/") &&
-        !p.file.path.startsWith("drafts/")
-    )
-    .map(p => `${p.title}`)
-)
-```
-
-
-
-```dataviewjs
-const ext = dv.pages('"tools/types"')
-  .where(t => t.file.frontmatter?.extends === "primitive")
-  .map(t => t.file.name);
-
-$= dv.list(
-  dv.pages()
-    .where(p =>
-      (p.type === "primitive" || (Array.isArray(p.type) && p.type.includes("primitive"))) &&
-      (p.scale && p.scale.some(s => s.includes("coordination"))) &&
-      (p.type.includes("primitive") || ext.some(n => p.type.toLowerCase().includes(n))) &&
-      !p.file.path.startsWith("tools/") &&
-      !p.file.path.startsWith("drafts/")
-    )
-    .map(p => `${p.title}`)
-);
-```
+Related patterns and resources for coordination scale organizations can be found in the [Pattern Library](notes/dao-primitives/implementation/patterns/index.md).
 
 ---
 

@@ -49,24 +49,12 @@ This scale is characterized by high levels of interdependence, complex communica
 
 ### Network Scale Patterns
 
-dataviewjs
-
-```dataviewjs
-$= dv.list(
-    dv.pages()
-    .where(p => 
-        (p.type === "pattern" || (Array.isArray(p.type) && p.type.includes("pattern"))) &&
-        (p.scale === "network" || (Array.isArray(p.scale) && p.scale.includes("network"))) &&
-        !p.file.path.startsWith("tools/") &&
-        !p.file.path.startsWith("drafts/")
-    )
-    .map(p => `${p.title}`)
-)
-```
+Related patterns and resources for network scale organizations:
 
 - [Bioregional Finance](notes/rpp/rpp-working-docs/biofi.md)
 - [Privacy-Preserving Crypto Payments](notes/rpp/rpp-working-docs/privacy-payments.md)
 - [Decentralized Social Finance](notes/rpp/rpp-working-docs/social-finance.md)
+- Additional patterns in the [Pattern Library](notes/dao-primitives/implementation/patterns/index.md)
 
 
 
