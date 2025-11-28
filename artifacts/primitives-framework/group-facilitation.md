@@ -192,10 +192,10 @@ The Primitives Framework provides four basic organizational patterns that offer 
 
 Using organizational patterns as building blocks:
 
-- **[DAOs](artifacts/primitives-framework/patterns/daos.md)**: Entity structure for purpose-aligned [networks](tags/networks.md)
+- **[DAOs](tags/daos.md)**: Entity structure for purpose-aligned [networks](tags/networks.md)
 - **[Cells](tags/cells.md)**: Entity structure for small autonomous teams
-- **[Roles](artifacts/primitives-framework/patterns/roles.md)**: Agreement pattern for ongoing [responsibilities](tags/responsibilities.md) and permissions
-- **[Tasks](artifacts/primitives-framework/patterns/tasks.md)**: Agreement pattern for specific work deliverables
+- **[Roles](tags/roles.md)**: Agreement pattern for ongoing [responsibilities](tags/responsibilities.md) and permissions
+- **[Tasks](tags/tasks.md)**: Agreement pattern for specific work deliverables
 
 > **Note**: These are organizational patterns (structural building blocks), distinct from technical primitives (implementation tools like smart contracts, tokens, governance protocols) that you'll select during implementation.
 

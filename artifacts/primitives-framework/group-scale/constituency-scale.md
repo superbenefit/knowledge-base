@@ -57,7 +57,7 @@ However, there is a necessary trade-off between scale and the complexity of deci
 - [group-state](tags/group-state.md)
 - [tags/community-governance](tags/community-governance.md)
 - [artifacts/primitives-framework/dao-primitives-implementation/implementation-guide-community-governance](artifacts/primitives-framework/dao-primitives-implementation/implementation-guide-community-governance.md)
-- [daos](artifacts/primitives-framework/patterns/daos.md)
+- [daos](tags/daos.md)
 
 ## Successful Constituency Scale Outcomes
 

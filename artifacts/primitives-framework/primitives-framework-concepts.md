@@ -107,10 +107,10 @@ At the highest level, three foundational organizational primitives:
 
 Although the above conceptual framework could be used to design a wide range of different governance and operational structures, the Primitives Framework leans heavily on the following 4 organizational patterns:
 
-1. **[DAOs](artifacts/primitives-framework/patterns/daos.md)**: Purpose-aligned networks of small autonomous teams
+1. **[DAOs](tags/daos.md)**: Purpose-aligned networks of small autonomous teams
 2. **[Cells](tags/cells.md)**: Teams of fewer than 10 people collaborating on specific ongoing activities
-3. **[Roles](artifacts/primitives-framework/patterns/roles.md)**: Sets of responsibilities, permissions, and accountabilities held by individuals or entities
-4. **[Tasks](artifacts/primitives-framework/patterns/tasks.md)**: Defined pieces of work with clear deliverables delivered by individuals or entities
+3. **[Roles](tags/roles.md)**: Sets of responsibilities, permissions, and accountabilities held by individuals or entities
+4. **[Tasks](tags/tasks.md)**: Defined pieces of work with clear deliverables delivered by individuals or entities
 
 These patterns can be combined in various ways to create organizational systems tailored to specific contexts and needs. Their power lies in their flexibility and composability while maintaining coherence that enables interoperability. When ready for implementation, these patterns are realized using technical primitives like smart contracts, governance protocols, and coordination tools.
 
