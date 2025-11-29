@@ -9,6 +9,8 @@ description: Syncs the sb-knowledge-base Obsidian vault to the knowledge-garden 
 
 This skill synchronizes content from **sb-knowledge-base** (Obsidian vault) to **knowledge-garden** (Quartz static site). The vault is the source of truth—all content reorganization should happen in Obsidian first, then sync to Quartz.
 
+**IMPORTANT**: Only files with `publish: true` in their frontmatter are synced. Files without this field or with `publish: false` are excluded from the knowledge garden.
+
 ## When to Use
 
 - After reorganizing content in Obsidian (artifacts, notes, links, tags, or types)
