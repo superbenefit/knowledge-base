@@ -156,7 +156,7 @@ For networks of organizations working together, the framework provides:
 
 A central goal of the framework is to enable emergent collective intelligence in decentralized networks through three key mechanisms:
 
-**Permissionless Network Access**: As outlined in [Minimum Viable Permissionless-ness](artifacts/articles/network-evolution/Minimum Viable Permissionless-ness.md), the framework emphasizes essential freedoms - the freedom to work on something without permission, the ability to attract collaborators, and the right to propose to the broader network. These freedoms enable knowledge from individuals working "close to reality" to influence strategy and resource allocation through decentralized governance rather than centralized decision-making.
+**Permissionless Network Access**: As outlined in [Minimum Viable Permissionless-ness](artifacts/primitives-framework/network-evolution/Minimum Viable Permissionless-ness.md), the framework emphasizes essential freedoms - the freedom to work on something without permission, the ability to attract collaborators, and the right to propose to the broader network. These freedoms enable knowledge from individuals working "close to reality" to influence strategy and resource allocation through decentralized governance rather than centralized decision-making.
 
 **Transparent State Documentation**: Clear documentation of group state (Purpose, Practice, Progress) creates the transparency needed for decentralized coordination. By making purpose, practices, and progress visible, organizations enable self-organization around emerging opportunities, autonomous yet aligned decision-making, and effective collaboration across teams and entities.
 

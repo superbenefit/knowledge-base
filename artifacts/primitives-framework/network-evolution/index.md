@@ -31,7 +31,7 @@ The articles suggest that DAOs might potentially combine aspects of both these s
 
 ### Cell-Based Organization
 
-"DAOs: From fractal primitives to network scale" introduces the concept of DAOs as networks of connected "cells" - autonomous teams that maintain independence while coordinating with a broader network. This approach has connections to the lexicon's discussions of [cells](notes/archive/clarity/Tags/cells.md) and how [groups](tags/groups.md) might function at different scales.
+"DAOs: From fractal primitives to network scale" introduces the concept of DAOs as networks of connected "cells" - autonomous teams that maintain independence while coordinating with a broader network. This approach has connections to the lexicon's discussions of [cells](tags/cells.md) and how [groups](tags/groups.md) might function at different scales.
 
 ### Access and Participation
 
@@ -56,7 +56,7 @@ This approach has connections to the lexicon's exploration of [governance](tags/
 
 The ideas presented in this series offer one perspective on how DAOs might be conceptualized and designed. They represent explorations rather than definitive solutions, and readers are encouraged to consider them alongside other approaches in the evolving DAO ecosystem.
 
-These articles connect to several ongoing discussions within the SuperBenefit knowledge base, including the [DAO Primitives Project](artifacts/primitives-framework/primitives-framework-concepts.md) and various governance explorations documented in the [Governance for better futures](artifacts/misc/articles/governance-for-better-futures/index.md) series.
+These articles connect to several ongoing discussions within the SuperBenefit knowledge base, including the [DAO Primitives Project](artifacts/primitives-framework/primitives-framework-concepts.md) and various governance explorations.
 
 For those interested in decentralized coordination, this series provides one framework among many for thinking about how DAOs might operate as network-based organizations.
 

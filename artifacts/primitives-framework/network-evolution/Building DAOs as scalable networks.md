@@ -27,7 +27,7 @@ The problem with this refocusing however, is that we can't escape the fact that 
 
 Over the past year at SuperBenefit we have been working on DAO governance design that is focused on redesigning both the small innovation units building in web3 and also the larger [networks](tags/networks.md) that they operate inside. The goal is to create DAOs as coherent wholes that are made up of networked smaller nodes formed into complex systems that can scale.
 
-We have been exploring [DAO primitives](tags/primitives.md), and have found unique and valuable territory in applying them at network scales. These primitive building blocks can allow the growth of DAOs as autonomous teams of people - working groups, pods, sub-DAOs (we refer to them as [Cells](notes/archive/clarity/Tags/cells.md) for the sake of the metaphor of evolving complex organisms), being coordinated as collectively intelligent purpose driven networks. This embraces the fact that small teams are the fundamental atomic unit of crypto/web3, but places them inside the larger context of purpose driven **network economies**. You can track this research through this series of articles:
+We have been exploring [DAO primitives](tags/primitives.md), and have found unique and valuable territory in applying them at network scales. These primitive building blocks can allow the growth of DAOs as autonomous teams of people - working groups, pods, sub-DAOs (we refer to them as [Cells](tags/cells.md) for the sake of the metaphor of evolving complex organisms), being coordinated as collectively intelligent purpose driven networks. This embraces the fact that small teams are the fundamental atomic unit of crypto/web3, but places them inside the larger context of purpose driven **network economies**. You can track this research through this series of articles:
 
 - **[DAOs aren't things they are flows](https://superbenefit.mirror.xyz/3-ESNDLcf44dZ6VteaqZSpQuTL0oouSxlLJwuAlcQ_s)**
     
@@ -145,6 +145,6 @@ _We are learning as these experiments evolve and are deeply appreciative of the 
 
 ### Article Series
 
-- Previous: [Minimum Viable Permissionless-ness](artifacts/articles/network-evolution/Minimum Viable Permissionless-ness.md)
+- Previous: [Minimum Viable Permissionless-ness](artifacts/primitives-framework/network-evolution/Minimum Viable Permissionless-ness.md)
     
 - Next: …coming soon…
