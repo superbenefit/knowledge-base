@@ -43,7 +43,7 @@ Cells are **small autonomous teams** of 10 or fewer people (typically 3-8 people
 
 ## Core Characteristics
 
-**Multi-Scale Operation**: Cells operate internally at [collaboration scale](artifacts/primitives-framework/group-scale/collaboration-scale.md) within their core team (high-bandwidth communication among fewer than 10 people) while simultaneously operating at [coordination scale](artifacts/primitives-framework/group-scale/coordination-scale.md) as they coordinate with contributors, partners, and the larger [DAO network](artifacts/primitives-framework/patterns/daos.md). This dual-scale capability enables both intimate collaboration and broader network coordination.
+**Multi-Scale Operation**: Cells operate internally at [collaboration scale](artifacts/primitives-framework/concepts/group-scale/collaboration-scale.md) within their core team (high-bandwidth communication among fewer than 10 people) while simultaneously operating at [coordination scale](artifacts/primitives-framework/concepts/group-scale/coordination-scale.md) as they coordinate with contributors, partners, and the larger [DAO network](artifacts/primitives-framework/patterns/daos.md). This dual-scale capability enables both intimate collaboration and broader network coordination.
 
 **Balanced Structure**: The Cell pattern provides a "balanced approach to structure" that helps "realize the benefits of decentralized organization while mitigating common failure modes." Unlike rigid hierarchies or completely unstructured groups, Cells offer sufficient organization to function effectively while maintaining the [autonomy](tags/autonomy.md) and adaptability that make decentralized coordination powerful.
 
@@ -102,7 +102,7 @@ See [Group State Pattern](tags/group-state.md) for detailed guidance on state do
 
 ## Implementation Patterns
 
-**Cell Formation Patterns**: The cell-working-group pattern identifies four primary ways new Cells form within [DAO networks](artifacts/primitives-framework/patterns/daos.md), each with different implications for how the Cell develops through the [group phases](artifacts/primitives-framework/group-phase/index.md):
+**Cell Formation Patterns**: The cell-working-group pattern identifies four primary ways new Cells form within [DAO networks](artifacts/primitives-framework/patterns/daos.md), each with different implications for how the Cell develops through the [group phases](artifacts/primitives-framework/concepts/group-phase/index.md):
 
 - **Operational Scaling**: An existing Cell creates a new Cell when operational needs extend beyond its current scope, either delegating to existing Cells or creating new ones to handle expanded [responsibilities](tags/responsibilities.md)
 - **Community Operationalization**: A community forms a Cell when it needs to execute on plans, such as when funding is approved for specific activities that require coordinated implementation
@@ -117,7 +117,7 @@ See [Group State Pattern](tags/group-state.md) for detailed guidance on state do
 
 **[State](tags/group-state.md) Implementation**: Cells use the [state](tags/group-state.md) pattern as their core structural foundation, working through and defining their [Purpose](tags/purpose.md), [Practice](tags/practices.md), and [Progress](tags/progress.md) to create the documentation that enables both internal self-management and external [coordination](tags/coordination.md) within the [DAO network](artifacts/primitives-framework/patterns/daos.md).
 
-**Phase-Adaptive Structure**: Because Cells can form through different pathways, they move through [development phases](artifacts/primitives-framework/group-phase/index.md) in varied ways. Cells created for specific operational functions may move quickly through [Conversation](artifacts/primitives-framework/group-phase/conversation-phase.md) and [Formation](artifacts/primitives-framework/group-phase/formation-phase.md) phases, while autonomous Cells emerging from community conversations may take longer to develop through these phases organically.
+**Phase-Adaptive Structure**: Because Cells can form through different pathways, they move through [development phases](artifacts/primitives-framework/concepts/group-phase/index.md) in varied ways. Cells created for specific operational functions may move quickly through [Conversation](artifacts/primitives-framework/concepts/group-phase/conversation-phase.md) and [Formation](artifacts/primitives-framework/concepts/group-phase/formation-phase.md) phases, while autonomous Cells emerging from community conversations may take longer to develop through these phases organically.
 
 ## Examples in Practice
 

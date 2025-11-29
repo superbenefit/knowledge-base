@@ -18,7 +18,7 @@ The Decider Protocol is a fast way of reaching agreement in a small team context
 ---
 ## What is the decider protocol
 
-The decider protocol creates a shared common standard for group decision-making that is designed to support [collaboration](artifacts/primitives-framework/group-scale/collaboration-scale.md) scale teams to make decisions in a way that:
+The decider protocol creates a shared common standard for group decision-making that is designed to support [collaboration](artifacts/primitives-framework/concepts/group-scale/collaboration-scale.md) scale teams to make decisions in a way that:
 1. Is fast and efficient 
 2. Protects against group anti-patterns that lead to poor decisions
 
@@ -29,7 +29,7 @@ This primitive is based on the [core protocols](https://mccarthyshow.com/protoco
 
 ## Why use the decider protocol 
 
-If you are a [collaboration](artifacts/primitives-framework/group-scale/collaboration-scale.md) scale team that needs to make decisions quickly, then the decider protocol could be a useful practice to implement. 
+If you are a [collaboration](artifacts/primitives-framework/concepts/group-scale/collaboration-scale.md) scale team that needs to make decisions quickly, then the decider protocol could be a useful practice to implement. 
 
 Benefits of the decider protocol are:
 1. Consistency - it gives members of a team a single reliable ritual for decision-making that can counteract the tendency for groups to evolve unbalanced decision-making patterns that preference the will of a minority of the group.  

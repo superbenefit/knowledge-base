@@ -20,9 +20,7 @@ In decentralized contexts, scale takes on particular importance as organizations
 
 ## Uses of "Scale"
 
-### Scale in the [DAO Primitives framework](../artifacts/guides/dao-primitives-framework/index.md)
-
-The [primitives-framework-concepts](artifacts/primitives-framework/primitives-framework-concepts.md) identifies three fundamental scales at which groups operate, each with distinct coordination patterns and governance requirements:
+### Scale in the [DAO Primitives framework](../[primitives-framework-concepts](artifacts/primitives-framework/concepts/primitives-framework-concepts.md)ts/primitives-framework/primitives-framework-concepts.md) identifies three fundamental scales at which groups operate, each with distinct coordination patterns and governance requirements:
 
 1. **Collaboration Scale**: Small teams of 3-8 people working closely together through high-bandwidth, synchronous interaction. At this scale, coordination happens primarily through direct relationships, shared context, and continuous communication. As the framework explains, these intimate groups enable "ongoing conversation, presence, trust and commitment" that create the foundation for effective collaboration without requiring formal governance structures.
     
@@ -48,11 +46,7 @@ The article argues that DAOs, when properly designed, can uniquely combine both 
 - **[Governance](tags/governance.md)**: The systems for decision-making appropriate to each scale
 - **[Networks](tags/networks.md)**: The interconnected relationships that span across scales
 - **Cells**: Autonomous teams that form the building blocks of multi-scale networks
-- **[Agreements](tags/agreements.md)**: The shared understandings that connect activities across scales
-
-## References and Resources
-
-- Scale and the levers that provide DAOs their power: Explores fundamental scaling dynamics in organizational systems
+- **[Agreements](tags/agreements.md)**: The shared understandings that connect activities across sca[index](artifacts/primitives-framework/concepts/index.md) fundamental scaling dynamics in organizational systems
 - Building DAOs as scalable networks: Proposes multi-scale governance approaches for decentralized organizations
 <<<<<<< HEAD
 - [primitives-framework-concepts](artifacts/primitives-framework/primitives-framework-concepts.md): Provides detailed analysis of different group scales and their characteristics
