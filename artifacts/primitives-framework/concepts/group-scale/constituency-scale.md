@@ -11,11 +11,11 @@ publish: "true"
 
 Constituency Scale represents a broad-based level of group organization, encompassing a large and diverse group of stakeholders who share a common interest or benefit from the organization's activities.
 
-Unlike the [collaboration-scale](artifacts/primitives-framework/group-scale/collaboration-scale.md) and [coordination-scale](artifacts/primitives-framework/group-scale/coordination-scale.md) scales, which focus on smaller, more tightly coupled [groups](tags/groups.md) and sets of groups, Constituency Scale emphasizes participation, representation, and collective [decision-making](tags/decisions.md) across a wider [community](tags/community.md). This can range into the millions for a democratic nation. But can also be relatively small numbers, for example a small DAO [network](tags/networks.md).
+Unlike the [collaboration-scale](artifacts/primitives-framework/concepts/group-scale/collaboration-scale.md) and [coordination-scale](artifacts/primitives-framework/concepts/group-scale/coordination-scale.md) scales, which focus on smaller, more tightly coupled [groups](tags/groups.md) and sets of groups, Constituency Scale emphasizes participation, representation, and collective [decision-making](tags/decisions.md) across a wider [community](tags/community.md). This can range into the millions for a democratic nation. But can also be relatively small numbers, for example a small DAO [network](tags/networks.md).
 
 This scale is often necessary when [decisions](tags/decisions.md) need to be made that affect a large and diverse population, requiring mechanisms for ensuring that the voices of all stakeholders are heard and considered.
 
-However, there is a necessary trade-off between scale and the complexity of decisions that it can handle. [Collaboration](artifacts/primitives-framework/group-scale/collaboration-scale.md) scale can handle complexity, nuance, tension, etc., [coordination-scale](artifacts/primitives-framework/group-scale/coordination-scale.md) scale is more constrained and only able to make more formal decisions (usually that have bubbled up as options from collaboration scale groups). Constituency scale is more constrained still. At large numbers, there is little scope for complex [decision-making](tags/decisions.md) and usually simple voting mechanisms are used.
+However, there is a necessary trade-off between scale and the complexity of decisions that it can handle. [Collaboration](artifacts/primitives-framework/concepts/group-scale/collaboration-scale.md) scale can handle complexity, nuance, tension, etc., [coordination-scale](artifacts/primitives-framework/concepts/group-scale/coordination-scale.md) scale is more constrained and only able to make more formal decisions (usually that have bubbled up as options from collaboration scale groups). Constituency scale is more constrained still. At large numbers, there is little scope for complex [decision-making](tags/decisions.md) and usually simple voting mechanisms are used.
 
 ## When This Scale Applies
 
@@ -52,7 +52,7 @@ This scale is appropriate for your organization when you observe:
 - **Representation:** Mechanisms for representing the interests of diverse constituents through collective [decision-making](tags/decisions.md), such as voting or delegating authority.
 - **[Governance](tags/governance.md) Structures:** Formal governance structures are necessary to manage the complexity of a large and diverse group.
 - **[Community](tags/community.md) Management:** Often a formal structure will play the role of enabling community engagement and participation in [governance](tags/governance.md) activities.
-- **Wrapping Smaller Scales**: Usually constituency scale [governance](tags/governance.md) will wrap smaller scale operational structures. For example, it will act as the [community](tags/community.md) governance wrapper that will support [coordination-scale](artifacts/primitives-framework/group-scale/coordination-scale.md) and [collaboration-scale](artifacts/primitives-framework/group-scale/collaboration-scale.md) scale operational groups.
+- **Wrapping Smaller Scales**: Usually constituency scale [governance](tags/governance.md) will wrap smaller scale operational structures. For example, it will act as the [community](tags/community.md) governance wrapper that will support [coordination-scale](artifacts/primitives-framework/concepts/group-scale/coordination-scale.md) and [collaboration-scale](artifacts/primitives-framework/concepts/group-scale/collaboration-scale.md) scale operational groups.
 - **Operational Functions**: In order to function, a constituency scale system needs some operational functions. There needs to be mechanisms to operationalize the [decisions](tags/decisions.md) made by the constituency scale governance, at a minimum to provide for the smooth functioning of the governance system itself.
 
 ### Challenges at the Constituency Scale
@@ -82,7 +82,7 @@ This scale is appropriate for your organization when you observe:
 - [dao-state](notes/dao-primitives/implementation/patterns/dao-patterns/dao-state.md)
 - [group-state](tags/group-state.md)
 - [tags/community-governance](tags/community-governance.md)
-- [artifacts/primitives-framework/dao-primitives-implementation/implementation-guide-community-governance](artifacts/primitives-framework/dao-primitives-implementation/implementation-guide-community-governance.md)
+- [artifacts/primitives-framework/implementation/implementation-guide-community-governance](artifacts/primitives-framework/implementation/implementation-guide-community-governance.md)
 - [daos](tags/daos.md)
 
 ## Successful Constituency Scale Outcomes

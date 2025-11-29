@@ -6,8 +6,8 @@ This directory houses the Primitives Framework - a systematic approach to design
 
 ## Start Here
 
-**New to the framework?** Read [Framework Concepts](primitives-framework-concepts.md) to understand core ideas
-**Ready to design?** See [Group Facilitation Guide](group-facilitation.md) for the Discovery → Design → Implementation process
+**New to the framework?** Read [Framework Concepts](artifacts/primitives-framework/concepts/index.md) to understand core ideas
+**Ready to design?** See [Group Facilitation Guide](artifacts/primitives-framework/implementation/group-facilitation.md) for the Discovery → Design → Implementation process
 **Looking for patterns?** Browse the [tags directory](tags/) for all organizational patterns and concepts
 
 **Quick links:** [DAOs](tags/daos.md) · [Cells](tags/cells.md) · [Roles](tags/roles.md) · [Tasks](tags/tasks.md)
@@ -20,9 +20,9 @@ The framework provides two complementary tools for organizational design:
 
 How to understand where your organization is:
 
-* **[Phase](group-phase/index.md):** The developmental stage your group is in - Conversation, Formation, Organization, Iteration, or Completion. Different phases need different tools and practices.
+* **[Phase](artifacts/primitives-framework/concepts/group-phase/index.md):** The developmental stage your group is in - Conversation, Formation, Organization, Iteration, or Completion. Different phases need different tools and practices.
 
-* **[Scale](group-scale/index.md):** The size and complexity of your group - Collaboration (<10), Coordination (10-150), Constituency (100s+), or Network (inter-organizational). Different scales require different coordination strategies.
+* **[Scale](artifacts/primitives-framework/concepts/group-scale/index.md):** The size and complexity of your group - Collaboration (<10), Coordination (10-150), Constituency (100s+), or Network (inter-organizational). Different scales require different coordination strategies.
 
 * **[State](tags/group-state.md):** Documentation of Purpose, Practice, and Progress that enables transparent coordination. Understanding and documenting your organizational state is crucial for decentralized operations.
 
@@ -42,7 +42,7 @@ The framework guides you through Discovery → Design → Implementation:
 2. **Design:** Select appropriate organizational patterns (DAOs, Cells, Roles, Tasks) and governance approaches based on discovery insights.
 3. **Implementation:** Deploy technical infrastructure using governance protocols, smart contracts, and coordination tools.
 
-See the [Group Facilitation Guide](group-facilitation.md) for detailed guidance on this process.
+See the [Group Facilitation Guide](artifacts/primitives-framework/implementation/group-facilitation.md) for detailed guidance on this process.
 
 ---
 
@@ -50,8 +50,8 @@ See the [Group Facilitation Guide](group-facilitation.md) for detailed guidance 
 
 ### Core Documentation
 
-* **[primitives-framework-concepts.md](primitives-framework-concepts.md)** - Conceptual foundations and framework overview
-* **[group-facilitation.md](group-facilitation.md)** - Complete facilitation guide for Discovery → Design → Implementation
+* **[primitives-framework-concepts.md](artifacts/primitives-framework/concepts/index.md)** - Conceptual foundations and framework overview
+* **[group-facilitation.md](artifacts/primitives-framework/implementation/group-facilitation.md)** - Complete facilitation guide for Discovery → Design → Implementation
 
 ### Dimensional Lenses
 
@@ -64,6 +64,6 @@ See the [Group Facilitation Guide](group-facilitation.md) for detailed guidance 
 
 ### Implementation Resources
 
-* **[dao-primitives-implementation/](dao-primitives-implementation/)** - Detailed implementation guides for different governance approaches
-* **[network-evolution/](network-evolution/)** - Articles on scaling and network dynamics
+* **[implementation/](implementation/)** - Detailed implementation guides for different governance approaches
+* **[articles/](articles/)** - Articles on scaling and network dynamics
 * **[rpp-governance-case-study.md](rpp-governance-case-study.md)** - Real-world implementation example

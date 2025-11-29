@@ -14,11 +14,11 @@ type: note
 
 
 
-The Formation Phase represents the critical transition from open exploration to structured commitment within decentralized networks. Following the ideation and relationship-building of the [Conversation Phase](artifacts/primitives-framework/group-phase/conversation-phase.md), groups in Formation begin establishing clear boundaries, formalizing [agreements](tags/agreements.md), and designing the structure needed for coordinated action. This phase transforms emerging potential into concrete design, creating the foundation for functional structure to be implemented.
+The Formation Phase represents the critical transition from open exploration to structured commitment within decentralized networks. Following the ideation and relationship-building of the [Conversation Phase](artifacts/primitives-framework/concepts/group-phase/conversation-phase.md), groups in Formation begin establishing clear boundaries, formalizing [agreements](tags/agreements.md), and designing the structure needed for coordinated action. This phase transforms emerging potential into concrete design, creating the foundation for functional structure to be implemented.
 
 The formation phase usually culminates in a proposal or some other ask from the community or governance structure that the group is forming within. This is in order to gain funding/[resources](tags/resources.md), partnerships, legitimacy, etc. to allow for the formal implementation of the group's structure in the Organization phase.
 
-When the formation phase is complete, a group is ready to move on to the [organization phase](artifacts/primitives-framework/group-phase/organization-phase.md).
+When the formation phase is complete, a group is ready to move on to the [organization phase](artifacts/primitives-framework/concepts/group-phase/organization-phase.md).
 
 ## When Your Organization is in This Phase
 
@@ -49,7 +49,7 @@ Your organization is likely in the Formation Phase if you observe:
 
 ## Key Characteristics
 
-- **Purpose Definition:** The group works from the clear, specific purpose statement that emerged in the [conversation-phase](artifacts/primitives-framework/group-phase/conversation-phase.md) phase. This defines its reason for existence and intended contribution to the broader network.
+- **Purpose Definition:** The group works from the clear, specific purpose statement that emerged in the [conversation-phase](artifacts/primitives-framework/concepts/group-phase/conversation-phase.md) phase. This defines its reason for existence and intended contribution to the broader network.
 - **Structured Decision-Making:** Simple but formal [decision](tags/decisions.md) processes begin to replace purely informal consensus, enabling clearer accountability and execution.
 - **Initial Agreements:** Members make explicit commitments about participation, contributions, and shared expectations, establishing the basis for mutual accountability.
 - **Lightweight Documentation:** The group develops basic documentation of its purpose, practices, and progress through an initial [cell state](tags/cell-state.md) or nucleus document.
@@ -68,7 +68,7 @@ Your organization is likely in the Formation Phase if you observe:
 - **Resource Mapping:** Identifying needed skills, knowledge, and [resources](tags/resources.md) for successful execution.
 - **Boundary Definition:** Clarifying what is and isn't within the group's scope and authority.
 - **Integration Planning:** Establishing how the group will connect and [coordinate](tags/coordination.md) with the broader [network](tags/networks.md) or [community](tags/community.md).
-- **[Governance](tags/governance.md) & Operational Design:** Designing the governance and operational structure that will be implemented in the [organization-phase](artifacts/primitives-framework/group-phase/organization-phase.md) phase.
+- **[Governance](tags/governance.md) & Operational Design:** Designing the governance and operational structure that will be implemented in the [organization-phase](artifacts/primitives-framework/concepts/group-phase/organization-phase.md) phase.
 - **Proposal Development:** Creating formal proposals to seek [community](tags/community.md) endorsement, funding, or permission when needed to formally instantiate the group.
 - **Initial State Documentation:** Documenting the group's proposed purpose, practices, and plans in a [group-state](tags/group-state.md) document. This outlines vision and practical implementation of the group.
 
@@ -82,7 +82,7 @@ Your organization is likely in the Formation Phase if you observe:
 
 ### Signs of Readiness for Evolution
 
-A formation phase group may be ready to evolve to a more structured [organization phase](artifacts/primitives-framework/group-phase/organization-phase.md) when:
+A formation phase group may be ready to evolve to a more structured [organization phase](artifacts/primitives-framework/concepts/group-phase/organization-phase.md) when:
 
 - A clear governance and operational structure has been defined and is ready to be implemented.
 - Key roles have been established and filled with committed individuals.

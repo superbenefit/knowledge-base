@@ -15,7 +15,7 @@ type: note
 
 
 
-The Organization Phase builds upon the [formation phase](artifacts/primitives-framework/group-phase/formation-phase.md), transitioning from a basic framework to a fully established, formal structure with defined processes and [governance](tags/governance.md) mechanisms. This phase is characterized by the implementation of the systems, procedures, and [decision-making](tags/decisions.md) frameworks that were designed in the Formation phase. Getting these up and running enables the group to operate efficiently, effectively, and with the necessary [transparency](tags/transparency.md) needed for the decentralized [network](tags/networks.md) that it is either establishing or operating inside.
+The Organization Phase builds upon the [formation phase](artifacts/primitives-framework/concepts/group-phase/formation-phase.md), transitioning from a basic framework to a fully established, formal structure with defined processes and [governance](tags/governance.md) mechanisms. This phase is characterized by the implementation of the systems, procedures, and [decision-making](tags/decisions.md) frameworks that were designed in the Formation phase. Getting these up and running enables the group to operate efficiently, effectively, and with the necessary [transparency](tags/transparency.md) needed for the decentralized [network](tags/networks.md) that it is either establishing or operating inside.
 
 The organization phase often follows a [community](tags/community.md) proposal at the culmination of the Formation phase, and much of its activities will be implementing the design that was laid out in this previous phase.
 
@@ -82,7 +82,7 @@ Activities revolve around implementing the [governance](tags/governance.md) and 
 
 ### Signs of Readiness for Evolution
 
-An organization phase group may be ready to evolve to the ongoing [iteration phase](artifacts/primitives-framework/group-phase/iteration-phase.md) when:
+An organization phase group may be ready to evolve to the ongoing [iteration phase](artifacts/primitives-framework/concepts/group-phase/iteration-phase.md) when:
 
 - [Governance](tags/governance.md) and operational systems, designed in the Formation phase, are implemented and functioning effectively with minimal friction
 - [Roles](tags/roles.md) are clearly defined and resourced

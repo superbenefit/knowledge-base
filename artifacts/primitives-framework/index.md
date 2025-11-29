@@ -36,13 +36,13 @@ Choose your path based on where you are:
 
 ### Learning the Framework
 
-**New to these concepts?** Start with [Framework Concepts](primitives-framework-concepts.md) to understand the core ideas, dimensional lenses, and organizational patterns.
+**New to these concepts?** Start with [Framework Concepts](artifacts/primitives-framework/concepts/index.md) to understand the core ideas, dimensional lenses, and organizational patterns.
 
 **Want the complete picture?** Read through the conceptual foundations, then explore the dimensional lenses (Phase, Scale, State) and organizational patterns (DAOs, Cells, Roles, Tasks).
 
 ### Designing an Organization
 
-**Ready to design governance?** Follow the [Group Facilitation Guide](group-facilitation.md) through Discovery → Design → Implementation.
+**Ready to design governance?** Follow the [Group Facilitation Guide](artifacts/primitives-framework/implementation/group-facilitation.md) through Discovery → Design → Implementation.
 
 **Need specific patterns?** Browse the [tags directory](tags/) for organizational patterns and concepts.
 
@@ -50,7 +50,7 @@ Choose your path based on where you are:
 
 ### Implementing Systems
 
-**Choosing governance approach?** Review the [implementation guides](dao-primitives-implementation/) for operational, community, and multi-stakeholder governance.
+**Choosing governance approach?** Review the [implementation guides](implementation/) for operational, community, and multi-stakeholder governance.
 
 **Need technical tools?** Implementation guides cover selecting and deploying governance protocols, smart contracts, and coordination infrastructure.
 
@@ -62,12 +62,12 @@ Choose your path based on where you are:
 
 The framework is built on two complementary elements:
 
-**[Dimensional Lenses](primitives-framework-concepts.md#dimensional-lense)** - Three perspectives for assessing organizational context:
+**[Dimensional Lenses](artifacts/primitives-framework/concepts/index.md#dimensional-lense)** - Three perspectives for assessing organizational context:
 - **Phase:** Developmental stage (Conversation → Formation → Organization → Iteration → Completion)
 - **Scale:** Size and complexity (Collaboration < 10 → Coordination 10-150 → Constituency 100s+ → Network)
 - **State:** Documentation of Purpose, Practice, and Progress
 
-**[Organizational Patterns](primitives-framework-concepts.md#organizational-patterns)** - Four fundamental building blocks:
+**[Organizational Patterns](artifacts/primitives-framework/concepts/index.md#organizational-patterns)** - Four fundamental building blocks:
 - **DAOs:** Purpose-aligned networks of small autonomous teams
 - **Cells:** Small autonomous teams (< 10 people) with networked autonomy
 - **Roles:** Sets of responsibilities, permissions, and accountabilities
@@ -103,8 +103,8 @@ The framework guides you through a three-phase process:
 
 ### Getting Started
 
-- **[Framework Concepts](primitives-framework-concepts.md)** - Core ideas, dimensional lenses, organizational patterns
-- **[Group Facilitation Guide](group-facilitation.md)** - Complete guide through Discovery → Design → Implementation
+- **[Framework Concepts](artifacts/primitives-framework/concepts/index.md)** - Core ideas, dimensional lenses, organizational patterns
+- **[Group Facilitation Guide](artifacts/primitives-framework/implementation/group-facilitation.md)** - Complete guide through Discovery → Design → Implementation
 - **[README](readme.md)** - Technical navigation and directory structure
 
 ### Dimensional Lenses
@@ -123,11 +123,11 @@ All patterns are documented in the [tags directory](tags/):
 
 ### Implementation Resources
 
-- **[Implementation Guides](dao-primitives-implementation/)** - Detailed guides for specific governance approaches
+- **[Implementation Guides](implementation/)** - Detailed guides for specific governance approaches
   - Operational Governance - internal execution and operations
   - Community Governance - broad stakeholder participation
   - Multi-Stakeholder Governance - diverse constituency coordination
-- **[Network Evolution](network-evolution/)** - Articles on scaling, network dynamics, and permissionless-ness
+- **[Articles](articles/)** - Articles on scaling, network dynamics, and permissionless-ness
 - **[Case Studies](rpp-governance-case-study.md)** - Real-world implementation examples
 
 ---

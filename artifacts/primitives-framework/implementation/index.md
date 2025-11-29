@@ -15,8 +15,8 @@ This folder contains guides and tools to be used when using the DAO primitives f
 ---
 ## Guides
 
-- [Community Governance](artifacts/primitives-framework/dao-primitives-implementation/implementation-guide-community-governance.md)
+- [Community Governance](artifacts/primitives-framework/implementation/implementation-guide-community-governance.md)
 
-- [Operational Governance](artifacts/primitives-framework/dao-primitives-implementation/implementation-guide-operational-governance.md)
+- [Operational Governance](artifacts/primitives-framework/implementation/implementation-guide-operational-governance.md)
 
-- [Multi-Stakeholder Governance](artifacts/primitives-framework/dao-primitives-implementation/implementation-guide-multi-stakeholder-governance.md)
+- [Multi-Stakeholder Governance](artifacts/primitives-framework/implementation/implementation-guide-multi-stakeholder-governance.md)

@@ -10,7 +10,7 @@ publish: "true"
 
 Network Scale represents the highest level of group organization within the DAO [primitives](tags/primitives.md) framework. It encompasses the relationships and connections between decentralized organizations, [communities](tags/community.md) as well as traditional organizations, as they coordinate to achieve impact using decentralized organizing patterns.
 
-Network scale spans and leverages the three other group scales ([collaboration-scale](artifacts/primitives-framework/group-scale/collaboration-scale.md), [coordination-scale](artifacts/primitives-framework/group-scale/coordination-scale.md), and [constituency-scale](artifacts/primitives-framework/group-scale/constituency-scale.md) scales).
+Network scale spans and leverages the three other group scales ([collaboration-scale](artifacts/primitives-framework/concepts/group-scale/collaboration-scale.md), [coordination-scale](artifacts/primitives-framework/concepts/group-scale/coordination-scale.md), and [constituency-scale](artifacts/primitives-framework/concepts/group-scale/constituency-scale.md) scales).
 
 This scale is characterized by high levels of interdependence, complex communication flows, and the need for robust mechanisms for [coordination](tags/coordination.md) and [governance](tags/governance.md) across multiple entities.
 
@@ -49,7 +49,7 @@ This scale is appropriate for your organization when you observe:
 - **Interconnected Organizations:** The Network Scale involves multiple organizations or [groups](tags/groups.md) working together, often with varying degrees of autonomy.
 - **Decentralized Organizing**: Seeks to create effective mechanisms for partnership by leveraging decentralized patterns of organizing.
 - **Shared or Complementary Goals:** Organizations within the [network](tags/networks.md) may share common goals or have complementary goals that contribute to a larger ecosystem.
-- **Multi-Scale:** The network is operationalized through interdependent entities that operate at different [group-scales](artifacts/primitives-framework/group-scale/index.md), in order to most effectively deliver on the goals of the network.
+- **Multi-Scale:** The network is operationalized through interdependent entities that operate at different [group-scales](artifacts/primitives-framework/concepts/group-scale/index.md), in order to most effectively deliver on the goals of the network.
 - **Complex Communication:** Communication flows are complex, requiring robust mechanisms for information sharing and [coordination](tags/coordination.md).
 - **Decentralized [Resource](tags/resources.md) Allocation:** [Governance](tags/governance.md) at multiple levels in the network allocates [resources](tags/resources.md) based on local knowledge and context.
 - **Adaptability:** The network must be adaptable to changing circumstances and the evolving needs of its constituent organizations.

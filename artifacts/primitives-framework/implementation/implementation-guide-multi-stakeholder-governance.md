@@ -25,15 +25,15 @@ type: guide
 
 [Crypto primitives](tags/primitives.md) give us the opportunity to fundamentally redesign organizational and financial models in ways that are better for individuals, communities and society. This opportunity to reimagine organizations brings with it complexity, as structures and practices that were once fixed become flexible and adaptable. As a result, we need to lean on primitives, and patterns for combining these primitives, that we can use to reliably produce organizational structures with the features we want.
 
-At SuperBenefit we have developed the [DAO primitives framework](artifacts/primitives-framework/primitives-framework-concepts.md) to provide a set of primitives and patterns with which these new organizational structures can be composed.
+At SuperBenefit we have developed the [DAO primitives framework](artifacts/primitives-framework/concepts/index.md) to provide a set of primitives and patterns with which these new organizational structures can be composed.
 
 We have identified and experimented with using the DAO primitives framework to produce governance systems based on 3 interlocking governance structures: [Community Governance](tags/governance.md), [Operational Governance](tags/governance.md) and [Multi-Stakeholder Governance](notes/dao-primitives/implementation/patterns/constituency-scale-patterns/multi-stakeholder-governance.md).
 
 Guides to setting up these 3 interlocking governance structures can be found here:
 
-- [Implementation-guide-operational-governance](artifacts/primitives-framework/dao-primitives-implementation/implementation-guide-operational-governance.md)
-- [Implementation-guide-multi-stakeholder-governance](artifacts/primitives-framework/dao-primitives-implementation/implementation-guide-multi-stakeholder-governance.md) (this guide)
-- [Implementation-guide-community-governance](artifacts/primitives-framework/dao-primitives-implementation/implementation-guide-community-governance.md)
+- [Implementation-guide-operational-governance](artifacts/primitives-framework/implementation/implementation-guide-operational-governance.md)
+- [Implementation-guide-multi-stakeholder-governance](artifacts/primitives-framework/implementation/implementation-guide-multi-stakeholder-governance.md) (this guide)
+- [Implementation-guide-community-governance](artifacts/primitives-framework/implementation/implementation-guide-community-governance.md)
 
 There are many different ways to think about how to implement effective multi-stakeholder governance. This approach is built around experiments that SuperBenefit has done in creating multi-stakeholder partnerships between web3 and non-web3 organizations to experiment on new governance structures and approaches.
 
@@ -41,7 +41,7 @@ This governance model creates a way for stakeholders to come together to support
 
 This implementation guide provides a comprehensive framework for designing, implementing, and evolving multi-stakeholder governance structures using the DAO primitives approach. By breaking down governance into fundamental building blocks (primitives), organizations can create customized, effective structures that align with their unique needs and values.
 
-_Note: this implementation guide follows the structure outlined in the DAO Primitives [group-facilitation](artifacts/primitives-framework/group-facilitation.md) process. It outlines specific steps for the Design and Implementation steps in this process for multi-stakeholder governance. It assumes that at least an early versions of community and operational governance has been implemented and the network is ready to commence with designing its multi-stakeholder governance structure._
+_Note: this implementation guide follows the structure outlined in the DAO Primitives [group-facilitation](artifacts/primitives-framework/implementation/group-facilitation.md) process. It outlines specific steps for the Design and Implementation steps in this process for multi-stakeholder governance. It assumes that at least an early versions of community and operational governance has been implemented and the network is ready to commence with designing its multi-stakeholder governance structure._
 
 ## Context & Orientation
 
@@ -57,7 +57,7 @@ This multi-stakeholder governance approach is appropriate when:
 - You want to experiment with more equitable, collaborative governance models
 
 **Scale Requirements:**
-- The initiative involves [network-scale](artifacts/primitives-framework/group-scale/network-scale.md) [coordination](tags/coordination.md) across organizations
+- The initiative involves [network-scale](artifacts/primitives-framework/concepts/group-scale/network-scale.md) [coordination](tags/coordination.md) across organizations
 - Multiple distinct stakeholder groups (funders, implementers, beneficiaries, partners) have legitimate interests
 - Partnership scope justifies formal governance structure but doesn't require full DAO complexity
 - Stakeholder group size allows for relationship-based trust alongside formal mechanisms (typically under 20 organizations)
@@ -102,7 +102,7 @@ Effective multi-stakeholder governance enables:
 This guide will help you:
 
 1. Understand the partnership model of multi-stakeholder governance
-2. Design a governance structure using the [DAO primitives framework](artifacts/primitives-framework/primitives-framework-concepts.md)
+2. Design a governance structure using the [DAO primitives framework](artifacts/primitives-framework/concepts/index.md)
 3. Implement appropriate governance processes and mechanisms
 4. Establish paths for evolution and adaptation
 
@@ -152,7 +152,7 @@ The following principles guide effective multi-stakeholder governance design:
 
 ## DAO Primitives Framework
 
-The [DAO primitives framework](artifacts/primitives-framework/primitives-framework-concepts.md) provides 4 fundamental building blocks for creating effective decentralized organizations:
+The [DAO primitives framework](artifacts/primitives-framework/concepts/index.md) provides 4 fundamental building blocks for creating effective decentralized organizations:
 
 1. **[DAOs](tags/daos.md)** - the larger constituency scale community container that the operational governance operates inside
 2. **[Cells](tags/roles.md)** - the basic operational unit in a DAO - a small autonomous team
@@ -182,7 +182,7 @@ To do this we compose together organizational infrastructures (social and techni
 
 ### Multi-Stakeholder Governance Overview: Three-Layer Structure
 
-Using the [DAO primitives framework](artifacts/primitives-framework/primitives-framework-concepts.md) to create a purpose aligned network of small autonomous teams, we utilize 3 distinct and interlocking systems of governance:
+Using the [DAO primitives framework](artifacts/primitives-framework/concepts/index.md) to create a purpose aligned network of small autonomous teams, we utilize 3 distinct and interlocking systems of governance:
 
 1. **[Community Governance](tags/governance.md#community-governanceartifactspatternscommunity-governancemd)**: [constituency scale](tags/groups.md#groups-at-different-scales) governance that guides and protects the network
 2. **[Operational Governance](tags/governance.md#operational-governanceartifactspatternsoperational-governancemd)**: [coordination and collaboration scale](tags/groups.md#groups-at-different-scales) governance that effectively executes on the purpose and goals of the community governance
@@ -449,11 +449,7 @@ If you are setting up multi-stakeholder governance inside an existing [DAO](tags
    - Governance platforms (Snapshot, Tally, Commonwealth, etc.)
    - Communication tools (Discord, Discourse, Telegram, etc.)
    - Documentation systems (Charmverse, Notion, GitHub, etc.)
-<<<<<<< HEAD:artifacts/primitives-framework/dao-primitives-implementation/implementation-guide-multi-stakeholder-governance.md
-   - Voting mechanisms ([token-based](artifacts/primitives-framework/network-evolution/Building DAOs as scalable networks.md#community-governance), quadratic, reputation-based, etc.)
-=======
-   - Voting mechanisms ([token-based](artifacts/dao-primitives-framework/network-evolution/Building DAOs as scalable networks.md#community-governance), [quadratic](artifacts/articles/governance-for-better-futures/Governance for better futures - Meta-governance.md#quadratic-voting), reputation-based, etc.)
->>>>>>> f0cebfda2a6f6cb818dc70d708ddc5b83bc34361:artifacts/dao-primitives-framework/dao-primitives-implemention/implementation-guide-multi-stakeholder-governance.md
+   - Voting mechanisms (token-based, quadratic, reputation-based, etc.)
 
 3. **Implementation Approach**
    - Start with minimum viable governance tools as required by the [phase](tags/groups.md#groups-in-developmental-phases) of development
@@ -543,7 +539,7 @@ For technical implementation assistance, SuperBenefit and our partner organizati
 
 ## Conclusion
 
-The partnership model of multi-stakeholder governance offers a powerful framework for balancing stakeholder stewardship with operational autonomy. By implementing this model using the [DAO primitives](artifacts/primitives-framework/primitives-framework-concepts.md) approach, you can create governance that is both robust and adaptable.
+The partnership model of multi-stakeholder governance offers a powerful framework for balancing stakeholder stewardship with operational autonomy. By implementing this model using the [DAO primitives](artifacts/primitives-framework/concepts/index.md) approach, you can create governance that is both robust and adaptable.
 
 Remember that governance is a journey rather than a destination. Start with clear purpose alignment and basic mechanisms, then evolve your approach based on real experience and feedback. The most effective governance emerges from thoughtful design followed by continuous learning and adaptation.
 

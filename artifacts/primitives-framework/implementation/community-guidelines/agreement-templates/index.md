@@ -13,7 +13,7 @@ This document specifies the structure for three templates that communities use t
 
 **Structure:**
 
-![[artifacts/primitives-framework/dao-primitives-implementation/community-guidelines/agreement-templates/code-of-conduct-template]]
+![[artifacts/primitives-framework/implementation/community-guidelines/agreement-templates/code-of-conduct-template]]
 
 **Template Notes:**
 
@@ -31,7 +31,7 @@ This document specifies the structure for three templates that communities use t
 **Structure:**
 
 
-![[artifacts/primitives-framework/dao-primitives-implementation/community-guidelines/agreement-templates/commitment-to-accountability-template]]
+![[artifacts/primitives-framework/implementation/community-guidelines/agreement-templates/commitment-to-accountability-template]]
 
 
 **Template Notes:**
@@ -50,7 +50,7 @@ This document specifies the structure for three templates that communities use t
 **Structure:**
 
 
-![[artifacts/primitives-framework/dao-primitives-implementation/community-guidelines/agreement-templates/conflict-response-plan-template]]
+![[artifacts/primitives-framework/implementation/community-guidelines/agreement-templates/conflict-response-plan-template]]
 
 
 **Template Notes:**

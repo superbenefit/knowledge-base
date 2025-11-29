@@ -56,7 +56,7 @@ This approach has connections to the lexicon's exploration of [governance](tags/
 
 The ideas presented in this series offer one perspective on how DAOs might be conceptualized and designed. They represent explorations rather than definitive solutions, and readers are encouraged to consider them alongside other approaches in the evolving DAO ecosystem.
 
-These articles connect to several ongoing discussions within the SuperBenefit knowledge base, including the [DAO Primitives Project](artifacts/primitives-framework/primitives-framework-concepts.md) and various governance explorations.
+These articles connect to several ongoing discussions within the SuperBenefit knowledge base, including the [DAO Primitives Project](artifacts/primitives-framework/concepts/index.md) and various governance explorations.
 
 For those interested in decentralized coordination, this series provides one framework among many for thinking about how DAOs might operate as network-based organizations.
 

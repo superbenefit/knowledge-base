@@ -1,5 +1,5 @@
 ---
-title: Primitives Framework
+title: DAO Primitives Conceptual Framework
 description: A comprehensive framework for designing decentralized organizations as networks of small autonomous teams
 publish: true
 type: guide
@@ -43,33 +43,33 @@ At its core, the Primitives Framework is built around two complementary elements
 Together, these elements provide a flexible yet coherent approach to designing decentralized organizations that can harness collective intelligence while maintaining purpose alignment across diverse and distributed teams.
 
 ## Dimensional Lense
-### 1\.  [Group Phase](artifacts/primitives-framework/group-phase/index.md)
+### 1\.  [Group Phase](artifacts/primitives-framework/concepts/group-phase/index.md)
 
 Group Phase recognizes that organizations evolve through distinct developmental stages, each with its own characteristics and needs. Understanding where a group is in its journey helps select appropriate tools, practices, and structures.
 
 The framework identifies five key phases:
-- **[Conversation Phase](artifacts/primitives-framework/group-phase/conversation-phase.md)**: Initial exploration and idea generation focus on open dialogue, relationship building, and establishing shared vision before formal structures emerge
-- **[Formation Phase](artifacts/primitives-framework/group-phase/formation-phase.md)**: Establishing basic structure and roles with minimal formality, emphasizing trust-building and defining initial procedures for group operation
-- **[Organization Phase](artifacts/primitives-framework/group-phase/organization-phase.md)**: Implementing formal structures, defined processes, and governance mechanisms to create sustainable and scalable organizational systems
-- **[Iteration Phase](artifacts/primitives-framework/group-phase/iteration-phase.md)**: Ongoing execution and evolution, with groups operating at full capacity while iterating and improving based on feedback
-- **[Completion Phase](artifacts/primitives-framework/group-phase/completion-phase.md)**: Concluding initiatives, capturing learnings, and transitioning resources when projects or groups reach their natural conclusion
+- **[Conversation Phase](artifacts/primitives-framework/concepts/group-phase/conversation-phase.md)**: Initial exploration and idea generation focus on open dialogue, relationship building, and establishing shared vision before formal structures emerge
+- **[Formation Phase](artifacts/primitives-framework/concepts/group-phase/formation-phase.md)**: Establishing basic structure and roles with minimal formality, emphasizing trust-building and defining initial procedures for group operation
+- **[Organization Phase](artifacts/primitives-framework/concepts/group-phase/organization-phase.md)**: Implementing formal structures, defined processes, and governance mechanisms to create sustainable and scalable organizational systems
+- **[Iteration Phase](artifacts/primitives-framework/concepts/group-phase/iteration-phase.md)**: Ongoing execution and evolution, with groups operating at full capacity while iterating and improving based on feedback
+- **[Completion Phase](artifacts/primitives-framework/concepts/group-phase/completion-phase.md)**: Concluding initiatives, capturing learnings, and transitioning resources when projects or groups reach their natural conclusion
 
-Learn more about [Group Phase](artifacts/primitives-framework/group-phase/index.md)
+Learn more about [Group Phase](artifacts/primitives-framework/concepts/group-phase/index.md)
 
 
-### 2\. [Group Scale](artifacts/primitives-framework/group-scale/index.md)
+### 2\. [Group Scale](artifacts/primitives-framework/concepts/group-scale/index.md)
 Group Scale acknowledges that the size and complexity of a group fundamentally affects how it functions. Different scales require different approaches to communication, decision-making, and coordination.
 
 The framework identifies four distinct scales:
 
-- **[Collaboration Scale](artifacts/primitives-framework/group-scale/collaboration-scale.md)** (sub 10 people): High-bandwidth, synchronous communication with direct relationships
-- **[Coordination Scale](artifacts/primitives-framework/group-scale/coordination-scale.md)** (10-150 people): Multiple teams or structured working relationships requiring explicit coordination mechanisms
-- **[Constituency Scale](artifacts/primitives-framework/group-scale/constituency-scale.md)** (100s +): Broader communities requiring large scale governance mechanisms
-- **[Network Scale](artifacts/primitives-framework/group-scale/network-scale.md)** Interconnected networks of organizations
+- **[Collaboration Scale](artifacts/primitives-framework/concepts/group-scale/collaboration-scale.md)** (sub 10 people): High-bandwidth, synchronous communication with direct relationships
+- **[Coordination Scale](artifacts/primitives-framework/concepts/group-scale/coordination-scale.md)** (10-150 people): Multiple teams or structured working relationships requiring explicit coordination mechanisms
+- **[Constituency Scale](artifacts/primitives-framework/concepts/group-scale/constituency-scale.md)** (100s +): Broader communities requiring large scale governance mechanisms
+- **[Network Scale](artifacts/primitives-framework/concepts/group-scale/network-scale.md)** Interconnected networks of organizations
 
 Most contexts require organizations operate at multiple scales simultaneously, with different functions happening at different scales. The DAO primitives framework helps design appropriate coordination mechanisms for each scale.
 
-Learn more about [Group Scale](artifacts/primitives-framework/group-scale/index.md)
+Learn more about [Group Scale](artifacts/primitives-framework/concepts/group-scale/index.md)
 
 
 ### 3\. [Group State](tags/group-state.md)
@@ -113,7 +113,7 @@ These patterns can be combined in various ways to create organizational systems 
 
 ## Group Facilitation
 
-The [Group Facilitation Guide](artifacts/primitives-framework/group-facilitation.md) provides a structured methodology for applying these concepts to real-world organizational challenges.
+The [Group Facilitation Guide](artifacts/primitives-framework/implementation/group-facilitation.md) provides a structured methodology for applying these concepts to real-world organizational challenges.
 
 The facilitation process typically involves:
 
@@ -156,7 +156,7 @@ For networks of organizations working together, the framework provides:
 
 A central goal of the framework is to enable emergent collective intelligence in decentralized networks through three key mechanisms:
 
-**Permissionless Network Access**: As outlined in [Minimum Viable Permissionless-ness](artifacts/primitives-framework/network-evolution/Minimum Viable Permissionless-ness.md), the framework emphasizes essential freedoms - the freedom to work on something without permission, the ability to attract collaborators, and the right to propose to the broader network. These freedoms enable knowledge from individuals working "close to reality" to influence strategy and resource allocation through decentralized governance rather than centralized decision-making.
+**Permissionless Network Access**: As outlined in [Minimum Viable Permissionless-ness](artifacts/primitives-framework/articles/Minimum Viable Permissionless-ness.md), the framework emphasizes essential freedoms - the freedom to work on something without permission, the ability to attract collaborators, and the right to propose to the broader network. These freedoms enable knowledge from individuals working "close to reality" to influence strategy and resource allocation through decentralized governance rather than centralized decision-making.
 
 **Transparent State Documentation**: Clear documentation of group state (Purpose, Practice, Progress) creates the transparency needed for decentralized coordination. By making purpose, practices, and progress visible, organizations enable self-organization around emerging opportunities, autonomous yet aligned decision-making, and effective collaboration across teams and entities.
 

@@ -14,11 +14,11 @@ publish: "true"
 
 ---
 
-The Iteration Phase represents the mature [index](artifacts/primitives-framework/group-phase/index.md) where [groups](tags/groups.md) transition from establishing their structures and processes in the [organization phase](artifacts/primitives-framework/group-phase/organization-phase.md) to focused execution on their [purpose](tags/purpose.md) and goals. In this phase, a group leverages its fully implemented operational capabilities and [governance](tags/governance.md) systems to deliver maximum value and impact. The emphasis shifts from internal development to effective delivery, with [coordination](tags/coordination.md) becoming a key mechanism for accessing necessary [resources](tags/resources.md), capabilities, and support from the broader [network](tags/networks.md) or ecosystem.
+The Iteration Phase represents the mature [index](artifacts/primitives-framework/concepts/group-phase/index.md) where [groups](tags/groups.md) transition from establishing their structures and processes in the [organization phase](artifacts/primitives-framework/concepts/group-phase/organization-phase.md) to focused execution on their [purpose](tags/purpose.md) and goals. In this phase, a group leverages its fully implemented operational capabilities and [governance](tags/governance.md) systems to deliver maximum value and impact. The emphasis shifts from internal development to effective delivery, with [coordination](tags/coordination.md) becoming a key mechanism for accessing necessary [resources](tags/resources.md), capabilities, and support from the broader [network](tags/networks.md) or ecosystem.
 
 The iteration phase is where a group, as an autonomous (or semi-autonomous) entity, both leverages and contributes to the power and collective intelligence of the decentralized [network](tags/networks.md) it inhabits (or in the case of a DAO, is creating).
 
-When the Iteration phase is complete, a group may either evolve into a [governance](tags/governance.md) or operational structure or enter a [completion phase](artifacts/primitives-framework/group-phase/completion-phase.md) as its [purpose](tags/purpose.md) is fulfilled.
+When the Iteration phase is complete, a group may either evolve into a [governance](tags/governance.md) or operational structure or enter a [completion phase](artifacts/primitives-framework/concepts/group-phase/completion-phase.md) as its [purpose](tags/purpose.md) is fulfilled.
 
 ## When Your Organization is in This Phase
 
@@ -43,7 +43,7 @@ Your organization is likely in the Iteration Phase if you observe:
 - Neglecting [network](tags/networks.md) relationships in favor of internal focus
 - Allowing documentation and [transparency](tags/transparency.md) to degrade over time
 - Losing sight of core [purpose](tags/purpose.md) as operations become routine
-- Failing to recognize when the group's [purpose](tags/purpose.md) has been fulfilled and [completion phase](artifacts/primitives-framework/group-phase/completion-phase.md) is appropriate
+- Failing to recognize when the group's [purpose](tags/purpose.md) has been fulfilled and [completion phase](artifacts/primitives-framework/concepts/group-phase/completion-phase.md) is appropriate
 
 ## Key Characteristics
 

@@ -14,11 +14,11 @@ type: note
 ---
 
 
-The Conversation Phase represents the foundational [group phase](artifacts/primitives-framework/group-phase/index.md) of development within decentralized [networks](tags/networks.md), characterized by open exploration, idea generation, and relationship building. During this phase, potential collaborators gather around areas of shared interest to explore possibilities before formal structures or commitments are established. The primary goal is to establish shared context, build relationships, and develop a collective vision that can inspire and guide future collaboration.
+The Conversation Phase represents the foundational [group phase](artifacts/primitives-framework/concepts/group-phase/index.md) of development within decentralized [networks](tags/networks.md), characterized by open exploration, idea generation, and relationship building. During this phase, potential collaborators gather around areas of shared interest to explore possibilities before formal structures or commitments are established. The primary goal is to establish shared context, build relationships, and develop a collective vision that can inspire and guide future collaboration.
 
 At a high level, the activities of a Conversation phase group can be described as "Discovery." This can often manifest as a formal discovery process resulting in a discovery report as an indicator that the group has completed the Conversation phase of its development.
 
-When the Conversation phase is complete, a group is ready to move on to the [Formation Phase](artifacts/primitives-framework/group-phase/formation-phase.md).
+When the Conversation phase is complete, a group is ready to move on to the [Formation Phase](artifacts/primitives-framework/concepts/group-phase/formation-phase.md).
 
 ## When Your Organization is in This Phase
 
@@ -76,7 +76,7 @@ Your organization is likely in the Conversation Phase if you observe:
 
 ### Signs of Readiness for Evolution
 
-A conversation phase group may be ready to evolve to a more structured [formation-phase](artifacts/primitives-framework/group-phase/formation-phase.md) phase when:
+A conversation phase group may be ready to evolve to a more structured [formation-phase](artifacts/primitives-framework/concepts/group-phase/formation-phase.md) phase when:
 
 - Clear energy and commitment emerge around specific, well-defined directions or ideas.
 - Participants express readiness to make concrete contributions toward shared goals.

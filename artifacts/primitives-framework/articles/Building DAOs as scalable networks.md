@@ -96,7 +96,7 @@ As more working groups (Cells) are created, Governance splits into two different
 
 1. **[Community Governance](tags/community-governance.md)** - safeguards the purpose of the network
     
-2. **[Operational Governance](artifacts/primitives-framework/dao-primitives-implementation/implementation-guide-operational-governance.md)** - gives flexibility, autonomy and modern incentive design to produce innovation and scale
+2. **[Operational Governance](artifacts/primitives-framework/implementation/implementation-guide-operational-governance.md)** - gives flexibility, autonomy and modern incentive design to produce innovation and scale
     
 
 ![](https://superbenefit.mirror.xyz/_next/image?url=https%3A%2F%2Fimages.mirror-media.xyz%2Fpublication-images%2Fe8XTKLhYwcB4nY9F6QxH4.png&w=3840&q=75)
@@ -119,9 +119,9 @@ In the early examples we are experimenting with, the design requires that if Com
 
 This system leverages mechanisms that derive collective intelligence from the three different scales that a DAO network operates across:
 
-1. **[Collaboration Scale](artifacts/primitives-framework/group-scale/collaboration-scale.md)** - Cells operating as high bandwidth small scale collaborative units that can think and move fast and are operating at the grassroots of the system.
-2. **[Coordination Scale](artifacts/primitives-framework/group-scale/coordination-scale.md)** - structures of Cells operating together in coordinating systems using [sociocratic governance](https://www.sociocracyforall.org/sociocracy/) to allocate resources and effectively create and implement strategies for the Cells to execute on (Operational Governance).
-3. **[Constituency Scale](artifacts/primitives-framework/group-scale/constituency-scale.md)** - participation of a broader constituency of stakeholders that safeguard and evolve the long-term purpose of the network (Community Governance).
+1. **[Collaboration Scale](artifacts/primitives-framework/concepts/group-scale/collaboration-scale.md)** - Cells operating as high bandwidth small scale collaborative units that can think and move fast and are operating at the grassroots of the system.
+2. **[Coordination Scale](artifacts/primitives-framework/concepts/group-scale/coordination-scale.md)** - structures of Cells operating together in coordinating systems using [sociocratic governance](https://www.sociocracyforall.org/sociocracy/) to allocate resources and effectively create and implement strategies for the Cells to execute on (Operational Governance).
+3. **[Constituency Scale](artifacts/primitives-framework/concepts/group-scale/constituency-scale.md)** - participation of a broader constituency of stakeholders that safeguard and evolve the long-term purpose of the network (Community Governance).
 
 ![](https://superbenefit.mirror.xyz/_next/image?url=https%3A%2F%2Fimages.mirror-media.xyz%2Fpublication-images%2FLHhCO36Aq6bN48886TQQA.png&w=3840&q=75)
 
@@ -145,12 +145,7 @@ _We are learning as these experiments evolve and are deeply appreciative of the 
 
 ### Article Series
 
-<<<<<<< HEAD:artifacts/primitives-framework/network-evolution/Building DAOs as scalable networks.md
-- Previous: [Minimum Viable Permissionless-ness](artifacts/primitives-framework/network-evolution/Minimum Viable Permissionless-ness.md)
-=======
-- Previous: [Minimum Viable Permissionless-ness](artifacts/dao-primitives-framework/network-evolution/Minimum Viable Permissionless-ness.md)
->>>>>>> f0cebfda2a6f6cb818dc70d708ddc5b83bc34361:artifacts/dao-primitives-framework/network-evolution/Building DAOs as scalable networks.md
-    
+- Previous: [Minimum Viable Permissionless-ness](artifacts/primitives-framework/articles/Minimum Viable Permissionless-ness.md)
 - Next: …coming soon…
 
 ---

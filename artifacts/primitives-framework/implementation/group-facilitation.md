@@ -182,7 +182,7 @@ Based on the articulated [purpose](tags/purpose.md) and mapped requirements, the
 
 The discovery phase should have surfaced key insights into what qualities the group wants from its governance approach—whether they prioritize maximally decentralized [decision-making](tags/decisions.md), trust and capture resistance, technical sophistication, or other values. These insights become crucial selection criteria when evaluating governance options.
 
-Review the [dao-primitives framework](artifacts/primitives-framework/primitives-framework-concepts.md) along with [index](notes/dao-primitives/implementation/patterns/index.md) and [index](notes/dao-primitives/implementation/case-studies/index.md) to guide the group toward settling on a governance approach that matches their outlined requirements rather than defaulting to popular or familiar options that may not fit their context.
+Review the [dao-primitives framework](artifacts/primitives-framework/concepts/index.md) along with [index](notes/dao-primitives/implementation/patterns/index.md) and [index](notes/dao-primitives/implementation/case-studies/index.md) to guide the group toward settling on a governance approach that matches their outlined requirements rather than defaulting to popular or familiar options that may not fit their context.
 
 #### 2. Entities and Agreements
 
@@ -233,7 +233,7 @@ The final component of the design phase involves creating a clear roadmap for im
 
 #### Group-Phase Considerations
 
-Follow the [index](artifacts/primitives-framework/group-phase/index.md) model to ensure implementation steps are appropriate for each phase of the group's evolution:
+Follow the [index](artifacts/primitives-framework/concepts/group-phase/index.md) model to ensure implementation steps are appropriate for each phase of the group's evolution:
 
 - **Conversation Phase**: Informal gathering of ideas and intentions
 - **Formation Phase**: Basic [agreements](tags/agreements.md) and initial structures
@@ -280,7 +280,7 @@ The implementation plan itself requires approval through appropriate [governance
 
 ### A. Framework Documentation
 
-- [Complete Framework Overview](artifacts/primitives-framework/primitives-framework-concepts.md)
+- [Complete Framework Overview](artifacts/primitives-framework/concepts/index.md)
 - [Implementation Resources](notes/dao-primitives/implementation/index.md)
 - [Case Studies](notes/dao-primitives/implementation/case-studies/index.md) for real-world examples
 

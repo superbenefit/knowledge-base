@@ -19,21 +19,21 @@ Crypto primitives make possible a fundamental shift in how communities organize,
 
 This implementation guide provides a comprehensive framework for designing, implementing, and evolving community governance structures using the DAO primitives approach. By breaking down governance into fundamental building blocks (primitives), communities can create customized, effective structures that align with their unique needs and values.
 
-At SuperBenefit we have developed the [DAO primitives framework](artifacts/primitives-framework/primitives-framework-concepts.md) to provide a set of primitives and patterns with which these new organizational structures can be composed.
+At SuperBenefit we have developed the [DAO primitives framework](artifacts/primitives-framework/concepts/index.md) to provide a set of primitives and patterns with which these new organizational structures can be composed.
 
 We have identified and experimented with using the DAO primitives framework to produce governance systems based on 3 interlocking governance structures: [Community Governance](tags/governance.md), [Operational Governance](tags/governance.md) and [Multi-Stakeholder Governance](notes/dao-primitives/implementation/patterns/constituency-scale-patterns/multi-stakeholder-governance.md).
 
 Guides to setting up these 3 interlocking governance structures can be found here:
 
-- [Implementation-guide-operational-governance](artifacts/primitives-framework/dao-primitives-implementation/implementation-guide-operational-governance.md)
-- [Implementation-guide-multi-stakeholder-governance](artifacts/primitives-framework/dao-primitives-implementation/implementation-guide-multi-stakeholder-governance.md)
-- [Implementation-guide-community-governance](artifacts/primitives-framework/dao-primitives-implementation/implementation-guide-community-governance.md) (this guide)
+- [Implementation-guide-operational-governance](artifacts/primitives-framework/implementation/implementation-guide-operational-governance.md)
+- [Implementation-guide-multi-stakeholder-governance](artifacts/primitives-framework/implementation/implementation-guide-multi-stakeholder-governance.md)
+- [Implementation-guide-community-governance](artifacts/primitives-framework/implementation/implementation-guide-community-governance.md) (this guide)
 
 This guide focuses on setting up a Community Governance structure, the highest level of governance in a decentralized network. You can do this as part of a three layered governance system as outlined above, or you could use this guide to design a community governance system to used with a completely different operational governance model.
 
 Creating a community governance structure is not a simple task. We recommend getting support from an experienced facilitator to help you through this process.
 
-_Note: this implementation guide follows the structure outlined in the DAO Primitives [group-facilitation](artifacts/primitives-framework/group-facilitation.md) process. It outlines specific steps for the Design and Implementation steps in this process. It assumes that an appropriate Discovery step has been completed and the network is ready to (and authorized to) design and implement a governance structure_
+_Note: this implementation guide follows the structure outlined in the DAO Primitives [group-facilitation](artifacts/primitives-framework/implementation/group-facilitation.md) process. It outlines specific steps for the Design and Implementation steps in this process. It assumes that an appropriate Discovery step has been completed and the network is ready to (and authorized to) design and implement a governance structure_
 
 ### Governance Transformation Opportunities
 
@@ -141,7 +141,7 @@ Prerequisites for effective use include:
 
 ### Fundamental Principles Informing This Approach
 
-The [DAO primitives framework](artifacts/primitives-framework/primitives-framework-concepts.md) is designed to allow us to compose governance systems that produce purpose-aligned networks of small autonomous teams with powerful organizational dynamics, making these networks effective in solving important problems.
+The [DAO primitives framework](artifacts/primitives-framework/concepts/index.md) is designed to allow us to compose governance systems that produce purpose-aligned networks of small autonomous teams with powerful organizational dynamics, making these networks effective in solving important problems.
 
 Key principles and concepts include: **Organizational Dynamics**
 
@@ -163,7 +163,7 @@ Key principles and concepts include: **Organizational Dynamics**
 
 ## DAO Primitives Framework
 
-The [DAO primitives framework](artifacts/primitives-framework/primitives-framework-concepts.md) provides 4 fundamental building blocks for creating effective decentralized organizations:
+The [DAO primitives framework](artifacts/primitives-framework/concepts/index.md) provides 4 fundamental building blocks for creating effective decentralized organizations:
 
 1. **[DAOs](tags/daos.md)** - the larger constituency scale community container that the operational governance operates inside
 2. **[Cells](tags/roles.md)** - the basic operational unit in a DAO - a small autonomous team
@@ -259,7 +259,7 @@ For each high-level goal, identify concrete requirements across these dimensions
     - Reputation/legitimacy
     - Knowledge/information
 5. **Technical Considerations**: What technical factors shape the implementation options?
-    - [On-chain vs. off-chain](artifacts/primitives-framework/network-evolution/Building DAOs as scalable networks.md#community-governance) processes
+    - On-chain vs. off-chain processes
     - Available tooling
     - Technical capabilities of participants
     - Integration requirements
@@ -274,7 +274,7 @@ With clear purpose, goals, and requirements established, you can now design your
 
 Review common community governance patterns and select one or more that best match your requirements:
 
-1. **[Token-based governance](artifacts/primitives-framework/network-evolution/Building DAOs as scalable networks.md#community-governance)**
+1. **Token-based governance**
     - Description: Voting power distributed according to token holdings
     - Best For: Communities with clear tokenomic models, financial resource allocation
     - Key Primitives: Governance tokens, voting mechanisms, proposal systems
@@ -492,7 +492,7 @@ Depending on your community's technical context, governance implementation may i
 
 #### Technical Considerations
 
-1. **[On-chain vs. off-chain governance](artifacts/primitives-framework/network-evolution/Building DAOs as scalable networks.md#community-governance)**
+1. **On-chain vs. off-chain governance**
     - Consider the larger design of your governance
     - Determine which governance elements require blockchain properties and which can be better done off-chain
     - Consider speed and costs involved in using on-chain tools
@@ -501,7 +501,7 @@ Depending on your community's technical context, governance implementation may i
     - Governance platforms (Snapshot, Tally, Commonwealth, etc.)
     - Communication tools (Discord, Discourse, Telegram, etc.)
     - Documentation systems (Charmverse, Notion, GitHub, etc.)
-    - Voting mechanisms ([token-based governance](artifacts/primitives-framework/network-evolution/Building DAOs as scalable networks.md#community-governance), quadratic voting, reputation-based, etc.)
+    - Voting mechanisms (token-based governance, quadratic voting, reputation-based, etc.)
 3. **Implementation Approach**
     - Start with minimum viable governance tools as required by the phase of development
     - Create clear user guides, videos and other resources to support accessibility for all community members
@@ -586,7 +586,7 @@ SuperBenefit and our partner organizations can connect you with technical suppor
 
 ## Conclusion
 
-Effective community governance is not a destination but a journey of continuous evolution and improvement. By thoughtfully applying the [DAO primitives framework](artifacts/primitives-framework/primitives-framework-concepts.md), communities can compose governance structures that are both robust and adaptable, capable of safeguarding purpose while enabling dynamic response to changing conditions.
+Effective community governance is not a destination but a journey of continuous evolution and improvement. By thoughtfully applying the [DAO primitives framework](artifacts/primitives-framework/concepts/index.md), communities can compose governance structures that are both robust and adaptable, capable of safeguarding purpose while enabling dynamic response to changing conditions.
 
 The key to successful web3 community governance design is first working to understand deeply the community's purpose and translating this into a governance design that can unleash the creative potential of the community to achieve this purpose.
 
