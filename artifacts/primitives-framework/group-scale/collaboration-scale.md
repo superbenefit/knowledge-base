@@ -22,6 +22,32 @@ The power of Collaboration Scale comes from its unique properties:
 
 While the exact upper limit of group size varies depending on the complexity of the task and the individuals involved, it generally remains under 10 individuals. Beyond this threshold, the challenges of maintaining ongoing shared sense-making become significantly more pronounced, necessitating a transition to more structured approaches at Coordination Scale or to produce other collaboration scale groups to work in parallel.
 
+## When This Scale Applies
+
+This scale is appropriate for your organization when you observe:
+
+**Size Indicators:**
+- Your group has 3-8 people working together on shared goals
+- Everyone can participate meaningfully in the same conversation
+- Direct relationships exist between all members
+
+**Coordination Needs:**
+- Work requires continuous collaboration and shared sense-making
+- Decisions benefit from everyone's input and perspective
+- Rapid adaptation and creative problem-solving are essential
+- High-context understanding enables efficient execution
+
+**Structural Implications:**
+- Minimal formal processes - trust and relationships provide coherence
+- Synchronous communication (regular calls, in-person work) is primary
+- Lightweight documentation captures essential [agreements](tags/agreements.md) only
+- Simple tools support collaboration without creating overhead (shared docs, basic multisigs)
+
+**When to Transition:**
+- Group size exceeds 8-10 people and communication becomes strained
+- Work can be divided into parallel streams that don't require continuous shared context
+- The scope expands to require multiple small teams [coordinating](tags/coordination.md) together
+
 ---
 
 ## Key Characteristics

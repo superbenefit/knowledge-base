@@ -14,6 +14,34 @@ Network scale spans and leverages the three other group scales ([collaboration-s
 
 This scale is characterized by high levels of interdependence, complex communication flows, and the need for robust mechanisms for [coordination](tags/coordination.md) and [governance](tags/governance.md) across multiple entities.
 
+## When This Scale Applies
+
+This scale is appropriate for your organization when you observe:
+
+**Size Indicators:**
+- Multiple independent organizations or DAOs need to coordinate
+- Partnerships span across different [communities](tags/community.md), networks, or ecosystems
+- No single entity can achieve goals alone - collaboration across organizations is essential
+
+**Coordination Needs:**
+- Shared or complementary goals require inter-organizational collaboration
+- [Resource](tags/resources.md) flows and [governance](tags/governance.md) must operate across organizational boundaries
+- Complex problems require coordinated action at multiple levels (collaboration, coordination, constituency scales)
+- Interoperability between different organizational systems and [practices](tags/practices.md) is necessary
+
+**Structural Implications:**
+- Shared platforms and infrastructure enable communication and collaboration
+- Network-level [governance](tags/governance.md) mechanisms coordinate [decision-making](tags/decisions.md) across organizations
+- Onchain protocols provide [transparency](tags/transparency.md) and trust for inter-organizational relationships
+- Clear [group-state](tags/group-state.md) documentation from all entities enables alignment and trust
+- Conflict resolution processes handle disagreements between autonomous organizations
+
+**Examples:**
+- Multi-stakeholder partnerships between DAOs and traditional organizations
+- Networks of DAOs coordinating around shared ecosystems or domains
+- Decentralized protocols with multiple governance entities
+- Cross-organization initiatives requiring federated coordination
+
 ---
 
 ## Key Characteristics

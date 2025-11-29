@@ -16,6 +16,33 @@ Coordination scale is too large to afford the nuanced sense-making, creativity, 
 
 While [collaboration-scale](artifacts/primitives-framework/group-scale/collaboration-scale.md) scale outlines small, high-context, high-trust group formation, coordination scale can leverage groups of a similar size as part of its operational structure. The difference here is that these groups will be more purely functional, efficiently delivering on known processes to achieve predictable results. Whereas a collaboration scale group will exhibit properties like autonomy, sense-making, creativity, and adaptability as a result of its less constrained design.
 
+## When This Scale Applies
+
+This scale is appropriate for your organization when you observe:
+
+**Size Indicators:**
+- Your organization has 10-150 people working toward shared goals
+- Multiple teams or working groups need to coordinate activities
+- Not everyone can maintain direct relationships with everyone else
+
+**Coordination Needs:**
+- Work requires multiple teams operating in parallel with interdependencies
+- Clear strategy and work breakdown allows delegation to smaller groups
+- More formal processes are needed to maintain alignment across teams
+- Resource allocation must be managed across multiple initiatives
+
+**Structural Implications:**
+- Formal [governance](tags/governance.md) structures guide [decision-making](tags/decisions.md) and accountability
+- Multiple teams (often [Cells](tags/cells.md)) with defined [roles](tags/roles.md) and [responsibilities](tags/responsibilities.md)
+- [Group state](tags/group-state.md) documentation provides [transparency](tags/transparency.md) across teams
+- Reporting mechanisms track [progress](tags/progress.md) and enable resource allocation
+- Communication platforms support asynchronous coordination alongside synchronous meetings
+
+**When to Transition:**
+- Growth beyond ~150 people makes coordination overhead unsustainable
+- Broader [community](tags/community.md) participation in [governance](tags/governance.md) becomes necessary
+- The need shifts from operational coordination to constituency-level governance
+
 ---
 
 ## Key Characteristics

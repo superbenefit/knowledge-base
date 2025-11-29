@@ -17,6 +17,32 @@ This scale is often necessary when [decisions](tags/decisions.md) need to be mad
 
 However, there is a necessary trade-off between scale and the complexity of decisions that it can handle. [Collaboration](artifacts/primitives-framework/group-scale/collaboration-scale.md) scale can handle complexity, nuance, tension, etc., [coordination-scale](artifacts/primitives-framework/group-scale/coordination-scale.md) scale is more constrained and only able to make more formal decisions (usually that have bubbled up as options from collaboration scale groups). Constituency scale is more constrained still. At large numbers, there is little scope for complex [decision-making](tags/decisions.md) and usually simple voting mechanisms are used.
 
+## When This Scale Applies
+
+This scale is appropriate for your organization when you observe:
+
+**Size Indicators:**
+- Your organization has 100s+ members in the broader [community](tags/community.md)
+- Stakeholders are diverse and geographically distributed
+- Not all members participate actively in operations, but should have voice in [governance](tags/governance.md)
+
+**Coordination Needs:**
+- Decisions affect a broad [community](tags/community.md) and require broad input
+- [Governance](tags/governance.md) needs to safeguard [purpose](tags/purpose.md) and guide long-term direction
+- Operational structures (coordination and collaboration scale) need oversight and legitimacy
+- Resource allocation decisions benefit from constituency-wide participation
+
+**Structural Implications:**
+- Formal voting systems enable broad participation in key [decisions](tags/decisions.md)
+- Delegation and representation mechanisms (councils, representatives) improve efficiency
+- [Transparency](tags/transparency.md) mechanisms (onchain tools, public forums) build trust
+- [Community](tags/community.md) management functions enable engagement and participation
+- Simplified [decision-making](tags/decisions.md) processes (yes/no votes rather than nuanced deliberation)
+
+**When to Transition:**
+- Scale grows to network level with multiple DAOs or organizations [coordinating](tags/coordination.md)
+- Governance becomes primarily about inter-organizational relationships rather than internal [community](tags/community.md) governance
+
 ---
 
 ## Key Characteristics
