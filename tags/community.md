@@ -50,13 +50,11 @@ The [DAO Primitives framework](../artifacts/guides/dao-primitives-framework/inde
 
 ### Community as Governance Constituency
 
-In [Community Governance](artifacts/dao-primitives-framework/patterns/community-governance.md), "community" refers to the broad base of stakeholders who participate in governing a network's overarching purpose and direction. This constituency-scale governance operates through deliberative mechanisms like conviction voting and makes long-term decisions about network direction and treasury allocation.
+In [Community Governance](tags/community-governance.md), "community" refers to the broad base of stakeholders who participate in governing a network's overarching purpose and direction. This constituency-scale governance operates through deliberative mechanisms like conviction voting and makes long-term decisions about network direction and treasury allocation.
 
-As described in [Building DAOs as scalable networks](../artifacts/dao-primitives-framework/network-evolution/Building DAOs as scalable networks.md), community governance "safeguards the purpose of the network" and includes a diverse set of stakeholders: "Cell contributors, founders, partners (sponsors, funders etc), as well as others that have a stake in the purpose of the network but may not be contributing directly to its operations."
+As described in [Building DAOs as scalable networks](../artifacts/dao-primitives-framework/network-evolution/Building DAOs as scalable networks.md), community governance "safeguards the purpose of the network" and includes a diverse set of stakeholders: "Cell contributors, founders, partners (sponsors, funders etc), as well as others that have a stake in the purpose of th[Conversation Phase](artifacts/primitives-framework/concepts/group-phase/conversation-phase.md)roup Development
 
-### Community in Group Development
-
-During the early [Conversation Phase](artifacts/dao-primitives-framework/group-phase/conversation-phase.md) of group development, community serves as the foundation for exploration and idea generation. This phase is characterized by "open exploration and idea generation" where "all perspectives are valued" to establish a shared vision and understanding.
+During the early [Conversation Phase](artifacts/primitives-framework/group-phase/conversation-phase.md) of group development, community serves as the foundation for exploration and idea generation. This phase is characterized by "open exploration and idea generation" where "all perspectives are valued" to establish a shared vision and understanding.
 
 The community at this stage focuses on relationship building, creating trust and rapport among members that will be essential for effective collaboration in later stages of development.
 ---

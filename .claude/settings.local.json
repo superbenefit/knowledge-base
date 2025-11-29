@@ -14,7 +14,10 @@
       "Bash(bash:*)",
       "Bash(git commit -m \"$(cat <<''EOF''\nPhase 4: Complete structural reorganization of DAO Primitives Framework\n\nReorganized all 35 files into 4-section hierarchy with automated link fixes.\n\nReorganization completed:\n- Created 4-section directory structure (1-4 prefixed for sequence)\n- Copied all 35 files to new locations via reorganize-copy.sh\n- Fixed all internal cross-references via fix-links.sh\n- Verified zero broken links via check-links.sh\n\nNew structure:\n- 1-framework-foundation/ - Core concepts (organizational elements, dimensional lenses)\n- 2-implementation/ - Practical guides (mapping, graphing, primitive selection)\n- 3-evidence/ - Case studies and articles\n- 4-reference/ - Quick guides, templates, integrations\n\nScripts created:\n- reorganize-copy.sh - File copying automation\n- fix-links.sh - Path reference updates\n- check-links.sh - Link validation\n\nProgress tracking updated:\n- current-phase.md - Phase 4 marked complete\n- completed.md - Phase 4 accomplishments documented\n\nFramework ready for editing and refinement.\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
       "Bash(git branch:*)",
-      "Bash(git checkout:*)"
+      "Bash(git checkout:*)",
+      "Bash(git commit:*)",
+      "Bash(xargs:*)",
+      "Bash(test:*)"
     ],
     "deny": [],
     "ask": []

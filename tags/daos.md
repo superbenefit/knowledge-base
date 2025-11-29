@@ -35,11 +35,18 @@ Many [blockchain](tags/blockchain.md) [protocols](tags/protocols.md) use DAOs to
 
 ### DAOs as Purpose-Aligned Networks
 
-As described in the [DAO Primitives Project](notes/dao-primitives/index.md), DAOs can be understood as "purpose-aligned networks of small autonomous teams" rather than discrete entities. This perspective views DAOs as fluid coordination systems where smaller groups (Cells) self-organize around a shared purpose while maintaining their autonomy. The network provides infrastructure for these groups to discover each other, share resources, and align activities toward common goals without requiring centralized direction.
+As described in the [Primitives Framework](artifacts/primitives-framework/index.md), DAOs can be understood as "purpose-aligned networks of small autonomous teams" that coordinate through transparent agreements, rather than hierarchical management structures. This perspective views DAOs as fluid coordination systems where smaller groups (Cells) self-organize around a shared purpose while maintaining their autonomy. The network provides infrastructure for these groups to discover each other, share resources, and align activities toward common goals without requiring centralized direction.
 
 As noted in [DAOs aren't things... they are flows](../artifacts/dao-primitives-framework/network-evolution/DAOs aren't things... they are flows..md):
 
 > "If we can shed this 'company as centralising entity' paradigm and instead see DAOs not as entities but as centerless networks with coordinated flows of resources, then a whole new way of looking at business and economics becomes possible."
+
+When implementing this pattern, DAOs:
+- Contain a network of groups operating at different phases and scales
+- Maintain coherence through shared purpose rather than central authority
+- Enable emergent collective intelligence through distributed authority
+- Document their state using the Purpose/Practice/Progress framework
+- Coordinate across multiple scales (collaboration → coordination → constituency → network)
 
 ### DAOs as Experimental Spaces
 
@@ -69,11 +76,44 @@ While implementations vary widely, most DAOs share several defining characterist
 
 7. **Multi-Scale Governance**: Different decision-making processes operate at different scales, from small autonomous teams to network-wide votes.
 
+## When to Use the DAO Pattern
+
+When implementing DAOs as purpose-aligned networks:
+
+**Use DAOs when:**
+- Coordinating multiple autonomous teams toward shared purpose
+- Need transparent governance across diverse stakeholders
+- Work spans multiple scales (collaboration → coordination → constituency)
+- Want to enable permissionless innovation within boundaries
+- Require trust-minimized coordination infrastructure
+
+**Don't use DAOs when:**
+- A single team can accomplish the purpose (simpler structures suffice)
+- Central coordination is more efficient and stakeholders accept it
+- Complexity and coordination overhead exceed benefits
+- Stakeholders lack capacity for participatory governance
+- Purpose and boundaries are too vague to guide autonomous teams
+
+**Common Anti-Patterns:**
+- Using DAO structure when simpler patterns would work
+- Creating DAO before clarity on purpose and community
+- Complex governance without actual decision-making needs
+- DAOs without clear purpose lose coherence quickly
+- Teams operating without effective DAO-level coordination
+
+See the [Primitives Framework](artifacts/primitives-framework/index.md) for detailed implementation guidance.
+
 ## Related Concepts
 
 - [Governance](tags/governance.md) - The frameworks and processes that guide decision-making in DAOs
+<<<<<<< HEAD
+- [Decentralization](tags/decentralization.md) - A key design principle in DAO structures
+=======
 - Decentralization - A key design principle in DAO structures
 - [Cells](artifacts/guides/dao-primitives-framework/group-primitives/cells.md) - Autonomous teams that form the building blocks of DAO networks
+>>>>>>> f0cebfda2a6f6cb818dc70d708ddc5b83bc34361
 - [Primitives](tags/primitives.md) - Fundamental components used to design and build DAO systems
 - [Consensus](tags/consensus.md) - Mechanisms for reaching agreement in distributed systems
 - [Consent](tags/consent.md) - Decision-making approaches based on absence of objection rather than unanimous agreement
+- [Coordination](tags/coordination.md) - The mechanisms through which DAO networks align activities
+- [Purpose](tags/purpose.md) - The shared vision that creates DAO network alignment

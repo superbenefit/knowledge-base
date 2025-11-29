@@ -11,9 +11,10 @@ This skill synchronizes content from **sb-knowledge-base** (Obsidian vault) to *
 
 ## When to Use
 
-- After reorganizing artifacts in Obsidian
-- After adding or editing content in the vault
+- After reorganizing content in Obsidian (artifacts, notes, links, tags, or types)
+- After adding or editing published content in the vault
 - When preparing to test a Quartz build with updated content
+- When type definitions have been updated in `tools/types/`
 
 ## Repository Structure
 
@@ -21,17 +22,22 @@ This skill synchronizes content from **sb-knowledge-base** (Obsidian vault) to *
 ```
 sb-knowledge-base/
 ├── artifacts/       ← Content to sync
-├── links/
-├── notes/
-├── tags/
+├── links/           ← Content to sync
+├── notes/           ← Content to sync
+├── tags/            ← Content to sync
 └── tools/
+    └── types/       ← Content to sync (only this subfolder)
 ```
 
 **knowledge-garden** (target):
 ```
 knowledge-garden/
 ├── content/
-│   └── artifacts/   ← Sync destination
+│   ├── artifacts/   ← Sync destination
+│   ├── links/       ← Sync destination
+│   ├── notes/       ← Sync destination
+│   ├── tags/        ← Sync destination
+│   └── types/       ← Sync destination (from tools/types)
 ├── quartz/
 └── quartz.config.ts
 ```
@@ -65,19 +71,55 @@ cd "$KB_REPO" && git status
 cd "$KG_REPO" && git status
 ```
 
-### 3. Sync Artifacts
+### 3. Sync Content
+
+Sync all content directories:
 
 ```bash
+# Sync artifacts
 rm -rf "$KG_REPO/content/artifacts"/*
 cp -r "$KB_REPO/artifacts"/* "$KG_REPO/content/artifacts"/
+
+# Sync notes
+rm -rf "$KG_REPO/content/notes"/*
+cp -r "$KB_REPO/notes"/* "$KG_REPO/content/notes"/
+
+# Sync links
+rm -rf "$KG_REPO/content/links"/*
+cp -r "$KB_REPO/links"/* "$KG_REPO/content/links"/
+
+# Sync tags
+rm -rf "$KG_REPO/content/tags"/*
+cp -r "$KB_REPO/tags"/* "$KG_REPO/content/tags"/
+
+# Sync types (from tools/types only)
+rm -rf "$KG_REPO/content/types"/*
+cp -r "$KB_REPO/tools/types"/* "$KG_REPO/content/types"/
 ```
 
 ### 4. Verify Sync
 
 ```bash
-# Compare file counts
+# Compare file counts for each content type
+echo "=== Artifacts ==="
 echo "Source:" && find "$KB_REPO/artifacts" -name "*.md" | wc -l
 echo "Target:" && find "$KG_REPO/content/artifacts" -name "*.md" | wc -l
+
+echo "=== Notes ==="
+echo "Source:" && find "$KB_REPO/notes" -name "*.md" | wc -l
+echo "Target:" && find "$KG_REPO/content/notes" -name "*.md" | wc -l
+
+echo "=== Links ==="
+echo "Source:" && find "$KB_REPO/links" -name "*.md" | wc -l
+echo "Target:" && find "$KG_REPO/content/links" -name "*.md" | wc -l
+
+echo "=== Tags ==="
+echo "Source:" && find "$KB_REPO/tags" -name "*.md" | wc -l
+echo "Target:" && find "$KG_REPO/content/tags" -name "*.md" | wc -l
+
+echo "=== Types ==="
+echo "Source:" && find "$KB_REPO/tools/types" -name "*.md" | wc -l
+echo "Target:" && find "$KG_REPO/content/types" -name "*.md" | wc -l
 ```
 
 ### 5. Test Build
@@ -87,13 +129,24 @@ cd "$KG_REPO"
 npx quartz build
 ```
 
-## Quick One-Liner
+## Quick Sync Commands
 
 For teammates who have both repos in the same parent directory:
 
 ```bash
 # From parent directory containing both repos
-rm -rf knowledge-garden/content/artifacts/* && cp -r sb-knowledge-base/artifacts/* knowledge-garden/content/artifacts/
+# Sync all content types
+rm -rf knowledge-garden/content/artifacts/* && cp -r sb-knowledge-base/artifacts/* knowledge-garden/content/artifacts/ && \
+rm -rf knowledge-garden/content/notes/* && cp -r sb-knowledge-base/notes/* knowledge-garden/content/notes/ && \
+rm -rf knowledge-garden/content/links/* && cp -r sb-knowledge-base/links/* knowledge-garden/content/links/ && \
+rm -rf knowledge-garden/content/tags/* && cp -r sb-knowledge-base/tags/* knowledge-garden/content/tags/ && \
+rm -rf knowledge-garden/content/types/* && cp -r sb-knowledge-base/tools/types/* knowledge-garden/content/types/
+```
+
+Or use the provided script:
+```bash
+# From sb-knowledge-base root
+./tools/workflows/syncing-content/sync-to-garden.sh
 ```
 
 ## Validation Checklist

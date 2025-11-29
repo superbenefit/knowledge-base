@@ -63,9 +63,43 @@ Here are some ways you can contribute:
 *   **Connect ideas:** Create links between related notes and artifacts to build a rich and interconnected web of knowledge.
 *   **Help others:** Welcome new contributors and help them find their way around the knowledge base.
 
+## ⚠️⚠️⚠️ CRITICAL: Link Strategy - MUST BE FOLLOWED AT ALL TIMES ⚠️⚠️⚠️
+
+This vault uses **ABSOLUTE MARKDOWN LINKS FROM VAULT ROOT** for ALL internal links. This is **NON-NEGOTIABLE**.
+
+### **REQUIRED FORMAT - The ONLY Acceptable Format**
+
+**Markdown links with absolute paths from vault root (NO leading slash):**
+
+```markdown
+[DAOs](tags/daos.md)                                                    ✅ CORRECT
+[Framework](artifacts/primitives-framework/primitives-framework-concepts.md)  ✅ CORRECT
+[Cells](tags/cells.md)                                                  ✅ CORRECT
+[Tools](tools/readme.md)                                                ✅ CORRECT
+```
+
+### **FORBIDDEN FORMATS - NEVER USE THESE**
+
+```markdown
+[[daos]]                           ❌ WIKILINK - ABSOLUTELY FORBIDDEN
+[[tags/daos]]                      ❌ WIKILINK WITH PATH - ABSOLUTELY FORBIDDEN
+[DAOs](../../tags/daos.md)         ❌ RELATIVE PATH - ABSOLUTELY FORBIDDEN
+[DAOs](/tags/daos.md)              ❌ LEADING SLASH - ABSOLUTELY FORBIDDEN
+```
+
+### **THE THREE IMMUTABLE RULES**
+
+1. **MARKDOWN LINKS ONLY**: Always use `[text](path)` syntax
+2. **ABSOLUTE PATHS ONLY**: Paths MUST start from vault root - `tags/file.md` or `artifacts/dir/file.md`
+3. **NO LEADING SLASHES**: Paths MUST NOT begin with `/`
+
+**WHY**: This strategy ensures links work both in Obsidian AND when content is published. Violations break published content. **NO EXCEPTIONS**.
+
+---
+
 ### Publishing & Syndication
 
-Select content from this knowledge base is published in the [SuperBenefit Knowledge Garden](https://github.com/superbenefit/knowledge-garden). 
+Select content from this knowledge base is published in the [SuperBenefit Knowledge Garden](https://github.com/superbenefit/knowledge-garden).
 
 Pages in the knowledge based with their `publish` property set to `true` may be imported to the knowledge garden and updated periodically. We're exploring [Plausibly Permanent Syndication](https://docs.google.com/presentation/d/1fptaoYuqcwp85jsrVrIaSbbQlTzjfu5LVZMdWtWClNo/) as a way to share published content with the universal knowledge commons.
 

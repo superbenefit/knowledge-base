@@ -13,7 +13,7 @@
     {
       "type": "folder",
       "id": "df91078d-cb7b-42f2-ba50-d1bbdecc981d",
-      "path": "artifacts/dao-primitives-framework",
+      "path": "artifacts/primitives-framework",
       "subFolders": false,
       "disableSync": true,
       "disableAutoCreate": true,

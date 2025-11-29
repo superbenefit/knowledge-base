@@ -22,7 +22,7 @@ In decentralized systems, groups function as both autonomous units and interconn
 
 ### Groups at Different Scales
 
-The [dao-primitives-concepts](artifacts/dao-primitives-framework/dao-primitives-concepts.md) identifies three fundamental scales at which groups operate within decentralized networks, each with distinct coordination mechanisms and dynamics:
+The [index](artifacts/primitives-framework/concepts/index.md) identifies three fundamental scales at which groups operate within decentralized networks, each with distinct coordination mechanisms and dynamics:
 
 1. **Collaboration Scale**: Small teams of 3-8 people engaging in high-bandwidth, synchronous interaction to accomplish specific tasks. These intimate groups enable deep trust, rapid iteration, and contextual learning.
     
@@ -49,7 +49,7 @@ Groups evolve through distinct developmental phases as they mature, each charact
     
 3. **Commitment Phase**: Development of formal agreements and governance mechanisms to sustain long-term engagement and resource allocation.
     
-4. **Coordination Phase**: Integration within broader networks through established protocols, enabling efficient coordination across multiple groups and contexts.
+4. **Iteration Phase**: Ongoing execution and evolution, operating at full capacity while iterating based on feedback and changing context.
     
 
 These phases represent a maturity model for group development rather than a strictly linear progression, with groups often cycling through different phases as they take on new challenges or integrate new members.

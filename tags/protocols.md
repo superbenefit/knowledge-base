@@ -47,7 +47,11 @@ Social protocols in DAOs include:
 - **Dispute resolution protocols** for addressing conflicts and disagreements
 - **Permission protocols** that define access rights and responsibilities
 
+<<<<<<< HEAD
+The [DAO Primitives Framework](artifacts/primitives-framework/concepts/index.md) describes these social protocols as essential components for scaling coordination across different organizational levels. By establishing clear patterns for interaction, DAO protocols enable both small team autonomy and network-scale collaboration, creating systems that can "evolve organically" while maintaining purpose alignment.
+=======
 The [DAO Primitives framework](../artifacts/guides/dao-primitives-framework/index.md) describes these social protocols as essential components for scaling coordination across different organizational levels. By establishing clear patterns for interaction, DAO protocols enable both small team autonomy and network-scale collaboration, creating systems that can "evolve organically" while maintaining purpose alignment.
+>>>>>>> f0cebfda2a6f6cb818dc70d708ddc5b83bc34361
 
 ### Open Protocols
 

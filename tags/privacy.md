@@ -52,7 +52,7 @@ Privacy is increasingly understood as both an individual right and a collective 
 - Privacy design requires consideration of power dynamics and potential harms
 - Technical solutions must be complemented by social agreements and practices
 
-This perspective shifts privacy from a purely individual concern to an essential component of [governance](tags/governance.md) and [coordination-scale](artifacts/dao-primitives-framework/group-scale/coordination-scale.md) in decentralized systems.
+This perspective shifts privacy from a purely individual concern to an essential component of [governance](tags/governance.md) and [coordination-scale](artifacts/primitives-framework/concepts/group-scale/coordination-scale.md) in decentralized systems.
 
 ## Related Concepts
 

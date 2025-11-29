@@ -7,7 +7,11 @@ tags:
 publish: "true"
 ---
 
+<<<<<<< HEAD
+A [warehouse of datasets](https://airtable.com/appx3e9Przn9iprkU/shrgnUrj0dqzZDsOd/tblXLaQeoKygb4ais/viw3rNQQfK1S6ipfe) related to online [community governance](tags/community-governance.md), by [Metagov](links/Metagov.md).
+=======
 A [warehouse of datasets](https://airtable.com/appx3e9Przn9iprkU/shrgnUrj0dqzZDsOd/tblXLaQeoKygb4ais/viw3rNQQfK1S6ipfe) related to online community governance, by [Metagov](links/Metagov.md).
+>>>>>>> f0cebfda2a6f6cb818dc70d708ddc5b83bc34361
 
 ---
 
