@@ -39,8 +39,8 @@ CLAUDE.md
 node_modules
 notes/rpp/rpp-archive/rpp-meetings/
 
-
-
+# Ignore Claude Code local settings
+.claude/settings.local.json
 
 # Ignore Smart Environment folder
 .smart-env.claude/
