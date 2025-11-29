@@ -82,6 +82,33 @@ Each section builds on the previous one, but you can also navigate directly to s
 
 ## Context & Orientation
 
+### When to Use This Approach
+
+This community governance approach is appropriate when:
+
+**Organizational Context:**
+- You're establishing or evolving governance for a decentralized [network](tags/networks.md) or [DAO](tags/daos.md)
+- You need governance mechanisms that safeguard [purpose](tags/purpose.md), guide long-term evolution, and enable broad stakeholder participation
+- Decision-making should be distributed rather than concentrated in a small group
+- You want to create legitimacy through inclusive, transparent processes
+
+**Scale Requirements:**
+- Your [community](tags/community.md) includes 100s+ members who should have voice in governance
+- Stakeholder base is diverse (contributors, users, funders, partners, etc.)
+- Not all members participate actively in operations, but major [decisions](tags/decisions.md) benefit from broad input
+- Scale has grown beyond what informal consensus or small-group decision-making can handle
+
+**Prerequisites:**
+- Clear articulation of [community](tags/community.md) [purpose](tags/purpose.md) and values
+- Commitment to participatory design and implementation processes
+- Willingness to evolve governance based on feedback and changing needs
+- Basic understanding of decentralized organizations and Web3 concepts
+
+**Best Used In Combination With:**
+- Operational governance (coordination-scale) for day-to-day execution and strategy implementation
+- Multi-stakeholder governance (network-scale) for partnerships with external organizations
+- Clear delineation between community stewardship and operational autonomy
+
 ### Problem Space This Governance Structure Addresses
 
 Community governance addresses several key challenges:

@@ -35,6 +35,33 @@ _Note: this implementation guide follows the structure outlined in the DAO Primi
 
 ## Context & Orientation
 
+### When to Use This Approach
+
+This operational governance approach is appropriate when:
+
+**Organizational Context:**
+- You're building a decentralized organization that needs to execute on strategy and deliver outcomes
+- A [community](tags/community.md) or constituency-level [governance](tags/governance.md) structure exists (or is being created) to define [purpose](tags/purpose.md) and high-level direction
+- You need operational autonomy for execution teams while maintaining alignment with broader goals
+- Traditional hierarchical management doesn't fit your values or organizational needs
+
+**Scale Requirements:**
+- Your operations involve 10-150 active contributors across multiple teams or [Cells](tags/cells.md)
+- Work requires [coordination](tags/coordination.md) across parallel streams that can't all operate independently
+- Operations are complex enough to benefit from specialized teams with defined [roles](tags/roles.md)
+- Scale is beyond what a single collaboration-scale team can handle
+
+**Prerequisites:**
+- Network [purpose](tags/purpose.md) and high-level goals are established (via community governance)
+- Stakeholders are committed to experimenting with decentralized operational patterns
+- Resources are available (or being sought) to support operational structure
+- Basic familiarity with web3 concepts and decentralized organizing principles
+
+**Best Used In Combination With:**
+- Community governance (constituency-scale) for purpose safeguarding and long-term direction
+- Multi-stakeholder governance (network-scale) when partnering across organizations
+- Clear separation between strategic oversight (community) and operational execution (this guide)
+
 ### Problem Space This Governance Structure Addresses
 
 Traditional operational structures tend to be created as rigid hierarchies that are "managed" on behalf of capital holders. This creates linear decision flows, rigid rule-sets and a strong focus on extracting more and more efficiency. As a result, traditional operational structures tend to become fixed and static, squandering the creativity and intelligence latent in the people they employ. This tendency coincides with a period of human history when complexity is exploding and we need to level up the level sophistication of our responses.

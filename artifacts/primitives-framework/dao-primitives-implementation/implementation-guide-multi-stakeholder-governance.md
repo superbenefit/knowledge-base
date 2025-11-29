@@ -45,6 +45,34 @@ _Note: this implementation guide follows the structure outlined in the DAO Primi
 
 ## Context & Orientation
 
+### When to Use This Approach
+
+This multi-stakeholder governance approach is appropriate when:
+
+**Organizational Context:**
+- Multiple organizations or stakeholder groups need to collaborate on a shared initiative
+- Traditional funding relationships create power imbalances you want to avoid
+- You need to balance stakeholder stewardship with operational team autonomy
+- Partnerships span traditional and Web3 organizations
+- You want to experiment with more equitable, collaborative governance models
+
+**Scale Requirements:**
+- The initiative involves [network-scale](artifacts/primitives-framework/group-scale/network-scale.md) [coordination](tags/coordination.md) across organizations
+- Multiple distinct stakeholder groups (funders, implementers, beneficiaries, partners) have legitimate interests
+- Partnership scope justifies formal governance structure but doesn't require full DAO complexity
+- Stakeholder group size allows for relationship-based trust alongside formal mechanisms (typically under 20 organizations)
+
+**Prerequisites:**
+- Shared [purpose](tags/purpose.md) or complementary goals unite stakeholders
+- Commitment from all parties to experiment with collaborative governance
+- Willingness to separate stewardship ([purpose](tags/purpose.md), resources) from execution (strategy, operations)
+- Basic familiarity with decentralized organizing concepts
+
+**Best Used In Combination With:**
+- Community governance within participating organizations
+- Operational governance for the execution team (Top Level Cell)
+- Clear [agreements](tags/agreements.md) about decision rights at each level (stakeholder group vs operational team)
+
 ### Problem Space This Governance Structure Addresses
 
 Traditional funding relationships create problematic power dynamics where funders (often inadvertently) exert excessive control over operational decisions while lacking the contextual understanding needed to make strategic decisions, resulting in misalignment, inefficiency, and limited innovation. These dynamics include:
