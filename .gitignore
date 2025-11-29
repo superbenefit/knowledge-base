@@ -8,6 +8,9 @@
 # ignore trash
 .trash/
 
+# ignore export
+.export/
+
 # ignore archive
 tools/archive/
 

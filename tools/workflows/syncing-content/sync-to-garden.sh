@@ -80,11 +80,8 @@ sync_content_type() {
         return 1
     fi
 
-    # Validate target exists
-    if [ ! -d "$target_dir" ]; then
-        echo "⚠ Warning: Target not found: $target_dir (skipping)"
-        return 1
-    fi
+    # Create target directory if it doesn't exist
+    mkdir -p "$target_dir"
 
     # Clear target directory
     rm -rf "$target_dir"/*
@@ -137,7 +134,7 @@ declare -A CONTENT_TYPES=(
     ["notes"]="notes"
     ["links"]="links"
     ["tags"]="tags"
-    ["tools/types"]="types"
+    ["tools/types"]="tools/types"
 )
 
 # Track totals
@@ -148,6 +145,26 @@ GRAND_SKIPPED_FILES=0
 # Sync each content type
 for SOURCE_PATH in "${!CONTENT_TYPES[@]}"; do
     TARGET_NAME="${CONTENT_TYPES[$SOURCE_PATH]}"
+
+    # Special handling for tools/types - sync all files without publish filter
+    if [ "$SOURCE_PATH" = "tools/types" ]; then
+        echo "--- Syncing $TARGET_NAME (all files, no publish filter) ---"
+        source_dir="$KB_REPO/$SOURCE_PATH"
+        target_dir="$KG_REPO/content/$TARGET_NAME"
+
+        if [ -d "$source_dir" ]; then
+            mkdir -p "$target_dir"
+            rm -rf "$target_dir"/*
+            cp -r "$source_dir"/* "$target_dir"/
+            types_count=$(find "$target_dir" -name "*.md" -type f | wc -l)
+            echo "Synced all $types_count type definition files"
+            echo ""
+        else
+            echo "⚠ Warning: Source not found: $source_dir (skipping)"
+            echo ""
+        fi
+        continue
+    fi
 
     # Sync and capture counts (last line of output)
     output=$(sync_content_type "$SOURCE_PATH" "$TARGET_NAME")
@@ -163,6 +180,16 @@ for SOURCE_PATH in "${!CONTENT_TYPES[@]}"; do
         fi
     fi
 done
+
+# Copy root index.md to content directory
+echo "--- Syncing root index.md ---"
+if [ -f "$KB_REPO/index.md" ]; then
+    cp "$KB_REPO/index.md" "$KG_REPO/content/index.md"
+    echo "✓ Copied root index.md"
+else
+    echo "⚠ Warning: Root index.md not found"
+fi
+echo ""
 
 # Overall summary
 echo "=== Sync Summary ==="
