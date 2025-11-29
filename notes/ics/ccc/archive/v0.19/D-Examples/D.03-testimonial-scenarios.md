@@ -10,7 +10,7 @@ tags:
 aliases:
   - Member Testimonials
   - Success Stories
-publish: "false"
+publish: false
 type: guide
 ---
 

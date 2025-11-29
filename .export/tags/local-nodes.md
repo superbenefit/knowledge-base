@@ -4,7 +4,7 @@ description: Distributed community anchors that bridge global protocols with loc
 harvester: heenal.eth
 tags:
   - patterns
-publish: "true"
+publish: true
 type: pattern
 ---
 # Local Nodes

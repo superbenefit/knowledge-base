@@ -6,7 +6,7 @@ tags:
   - patterns
   - governance
   - technical-design
-publish: "true"
+publish: true
 type: pattern
 protocols: 
 ---

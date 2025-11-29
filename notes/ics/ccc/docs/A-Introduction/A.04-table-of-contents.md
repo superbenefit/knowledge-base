@@ -10,7 +10,7 @@ tags:
 aliases:
   - C4 TOC
   - Community Connection & Commitment Commons Navigation
-publish: "false"
+publish: false
 type: note
 ---
 

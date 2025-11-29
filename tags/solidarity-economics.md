@@ -10,7 +10,7 @@ tags:
 aliases:
   - "#solidarity-economics"
   - "#social-solidarity-economy"
-publish: "true"
+publish: true
 ---
 
 _Solidarity economics is an alternative economic framework that prioritizes mutual support, democratic [participation](participation.md), and collective wellbeing over profit maximization, creating economic relationships based on cooperation, shared responsibility, and [community](community.md) control rather than individual competition and accumulation._

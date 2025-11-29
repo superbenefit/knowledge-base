@@ -6,7 +6,7 @@ tags:
   - agreements
 aliases:
   - "#practices"
-publish: "true"
+publish: true
 type: tag
 ---
 

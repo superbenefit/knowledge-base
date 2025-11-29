@@ -6,7 +6,7 @@ tags:
 - agreements 
 aliases:
 - "#culture"
-publish: "true"
+publish: true
 
 ---
 

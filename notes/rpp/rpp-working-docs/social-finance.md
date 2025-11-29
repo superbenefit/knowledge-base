@@ -5,7 +5,7 @@ tags:
   - patterns
 aliases:
   - "#SoFi"
-publish: "false"
+publish: false
 type: pattern
 studies: 
 primitives: 

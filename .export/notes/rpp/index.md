@@ -2,7 +2,7 @@
 type: index
 title: Reimagining Power Notes
 description: Notes and other documents from the Reimagining Power project at SuperBenefit
-publish: "true"
+publish: true
 harvester: 
 curator:
 ---

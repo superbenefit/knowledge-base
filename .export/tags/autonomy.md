@@ -5,7 +5,7 @@ tags:
   - values
 aliases:
   - "#autonomy"
-publish: "true"
+publish: true
 ---
 
 _The capacity of individuals, groups, or systems to self-govern, make independent decisions, and act according to their own principles and judgments while remaining accountable for outcomes and participating in larger coordination frameworks._

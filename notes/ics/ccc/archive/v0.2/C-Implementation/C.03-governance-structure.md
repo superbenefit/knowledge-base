@@ -11,7 +11,7 @@ tags:
 aliases:
   - C4 Governance
   - Stewardship Structure
-publish: "false"
+publish: false
 type: guide
 ---
 

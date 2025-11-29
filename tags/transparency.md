@@ -8,7 +8,7 @@ tags:
 - agreements
 aliases:
 - "#transparency"
-publish: "true"
+publish: true
 type: tag
 ---
 

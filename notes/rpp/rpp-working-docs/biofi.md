@@ -3,7 +3,7 @@ title: Bioregional Finance
 description: 
 harvester: 
 curator: 
-publish: "false"
+publish: false
 type: pattern
 aliases:
   - "#biofi"

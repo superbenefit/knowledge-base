@@ -8,7 +8,7 @@ author:
 tags:
   - daos
   - governance
-publish: "true"
+publish: true
 type: link
 banner: "![[attachments/qztS_khrW3sAN3MEOHtsz.png]]"
 ---

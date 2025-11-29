@@ -9,7 +9,7 @@ tags:
   - group-phase
 aliases:
   - completion-phase
-publish: "true"
+publish: true
 type: note
 ---
 

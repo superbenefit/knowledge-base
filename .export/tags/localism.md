@@ -3,7 +3,7 @@ title: Localism
 description: An approach to social, economic, and political organization that prioritizes local autonomy, resilience, and place-based solutions while maintaining beneficial connections to wider networks
 harvester:
   - rathermercurial.eth
-publish: "true"
+publish: true
 type: tag
 aliases:
   - "#localism"

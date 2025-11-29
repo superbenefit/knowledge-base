@@ -5,7 +5,7 @@ harvester: rathermercurial.eth
 tags:
 aliases:
   - "#actions"
-publish: "true"
+publish: true
 type: tag
 ---
 

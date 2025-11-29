@@ -6,7 +6,7 @@ tags:
 - agreements
 aliases:
 - "#vision"
-publish: "true"
+publish: true
 
 ---
 

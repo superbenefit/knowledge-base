@@ -4,7 +4,7 @@ description: The deliberate improvement or iteration of content, ideas, or docum
 harvester:
   - yeoro.eth
   - rathermercurial.eth
-publish: "true"
+publish: true
 type: tag
 tags:
   - practices

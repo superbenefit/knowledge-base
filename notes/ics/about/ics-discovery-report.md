@@ -8,7 +8,7 @@ tags:
   - discovery
 harvester: 
 curator: 
-publish: "false"
+publish: false
 type: note
 ---
 

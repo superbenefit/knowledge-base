@@ -1,7 +1,7 @@
 ---
 title: Lexicon
 description: Definitions for commonly-used terms and concepts at SuperBenefit
-publish: "true"
+publish: true
 type: index
 ---
 

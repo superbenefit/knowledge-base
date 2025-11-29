@@ -9,7 +9,7 @@ tags:
 aliases:
   - "#protodao"
   - "#proto-dao"
-publish: "true"
+publish: true
 ---
 
 _A ProtoDAO is an interim organizational structure that establishes [community](community.md)-driven [governance](governance.md) mechanisms during the transition from centralized project development to a fully [decentralized](decentralization.md) autonomous organization (DAO), serving as a foundational phase where governance frameworks, community engagement processes, and progressive decentralization practices are implemented and tested._

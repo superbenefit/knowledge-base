@@ -10,7 +10,7 @@ tags:
   - strategy
 harvester: 
 curator: 
-publish: "false"
+publish: false
 type: note
 ---
 

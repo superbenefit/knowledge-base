@@ -7,7 +7,7 @@ author:
   - SuperBenefit
 tags:
   - governance
-publish: "true"
+publish: true
 type: link
 ---
 

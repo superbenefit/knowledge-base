@@ -7,7 +7,7 @@ tags:
   - governance
 aliases:
   - "#agents"
-publish: "true"
+publish: true
 ---
 
 *Agents are autonomous individuals, entities, or systems that act or make decisions on behalf of themselves or others, exercising agency to influence outcomes through their actions and interactions within networks, organizations, and coordination systems.*

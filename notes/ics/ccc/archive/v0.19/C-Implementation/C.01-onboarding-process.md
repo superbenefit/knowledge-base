@@ -11,7 +11,7 @@ tags:
 aliases:
   - CE Onboarding
   - Community Exchange Membership
-publish: "false"
+publish: false
 type: guide
 ---
 

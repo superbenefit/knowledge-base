@@ -120,7 +120,7 @@ For each resource, please create a comprehensive entry following this format:
 ---
 title: [Resource Title]
 description: [Brief description - 1-2 sentences]
-publish: "true"
+publish: true
 type: [book/article/guide/pattern/framework/etc.]
 source: [URL]
 author:

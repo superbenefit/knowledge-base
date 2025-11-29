@@ -10,7 +10,7 @@ tags:
 aliases:
   - C4 Implementation Index
   - Implementation Documents Index
-publish: "false"
+publish: false
 type: index
 ---
 

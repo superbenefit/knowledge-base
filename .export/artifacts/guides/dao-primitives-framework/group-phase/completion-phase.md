@@ -7,7 +7,7 @@ tags:
 aliases:
   - completion-phase
 description: The final phase of group development focused on thoughtfully concluding a group's work, preserving its knowledge and achievements, and ensuring appropriate transitions of resources and responsibilities
-publish: "true"
+publish: true
 type: note
 ---
 

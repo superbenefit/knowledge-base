@@ -10,7 +10,7 @@ tags:
 aliases:
   - C4 Introduction Index
   - Introduction Documents Index
-publish: "false"
+publish: false
 type: index
 ---
 

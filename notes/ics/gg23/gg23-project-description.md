@@ -9,7 +9,7 @@ tags:
   - funding
 harvester: 
 curator: 
-publish: "false"
+publish: false
 type: note
 ---
 

@@ -7,7 +7,7 @@ tags:
 - coordination
 aliases:
 - "#scale"
-publish: "true"
+publish: true
 ---
 
 _Scale refers to the different levels of size, complexity, and coordination at which groups operate, each requiring distinct approaches to governance, decision-making, and collaboration to function effectively while maintaining purpose alignment._

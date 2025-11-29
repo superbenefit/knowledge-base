@@ -8,7 +8,7 @@ tags:
   - actions
 aliases:
   - "#attestations"
-publish: "true"
+publish: true
 ---
 
 _Attestations are cryptographically verified digital statements or claims that establish proof of specific facts, relationships, or properties, enabling trust and transparency in decentralized systems without requiring centralized authorities._

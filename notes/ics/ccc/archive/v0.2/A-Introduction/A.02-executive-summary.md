@@ -9,7 +9,7 @@ tags:
 aliases:
   - C4 Executive Summary
   - Community Connection & Commitment Commons Summary
-publish: "false"
+publish: false
 type: note
 ---
 

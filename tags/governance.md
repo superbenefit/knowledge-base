@@ -5,7 +5,7 @@ tags:
   - "functions"
 aliases:
   - "#governance"
-publish: "true"
+publish: true
 ---
 
 Decentralized governance in the context of Web3 and [DAOs](tags/daos.md) refers to the [decentralized](tags/decentralization.md), [blockchain](tags/blockchain.md)-based system where rules, [decisions](tags/decisions.md), and resource allocation are managed collectively by participants through transparent, automated mechanisms like smart contracts. Rather than concentrating decision-making power in a traditional hierarchy, decentralized governance distributes authority across different scales and functions of the organization.

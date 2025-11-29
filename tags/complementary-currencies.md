@@ -10,7 +10,7 @@ aliases:
   - "#complementary-currencies"
   - "#alternative-currencies"
   - "#community-currencies"
-publish: "false"
+publish: false
 ---
 
 _Complementary currencies are exchange systems that operate alongside conventional national currencies, designed to serve specific social, economic, or environmental objectives within [community](community.md), regions, or sectors, creating pathways for value exchange where conventional money is insufficient or misaligned with community needs and [values](values.md)._

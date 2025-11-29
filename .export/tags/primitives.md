@@ -1,6 +1,6 @@
 ---
 title: Primitives
-publish: "true"
+publish: true
 tags:
   - resources
 aliases:

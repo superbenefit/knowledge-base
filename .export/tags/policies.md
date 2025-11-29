@@ -7,7 +7,7 @@ tags:
   - mechanisms
 aliases:
   - "#policies"
-publish: "true"
+publish: true
 type: tag
 ---
 

@@ -6,7 +6,7 @@ tags:
   - experiments
 harvester:
 curator:
-publish: "false"
+publish: false
 type: note
 ---
 # Reimagining Power @ All In For Sport

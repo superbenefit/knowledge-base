@@ -11,7 +11,7 @@ tags:
 aliases:
   - CE Scaling Strategy
   - Growth Strategy
-publish: "false"
+publish: false
 type: note
 ---
 

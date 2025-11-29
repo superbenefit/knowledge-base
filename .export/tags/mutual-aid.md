@@ -8,7 +8,7 @@ tags:
   - values
 aliases:
   - "#mutual-aid"
-publish: "true"
+publish: true
 ---
 
 _Mutual aid refers to voluntary, reciprocal exchange of resources, care, and support among community members to meet collective needs, operating through horizontal relationships rather than hierarchical charity, and grounded in principles of solidarity, autonomy, and shared responsibility._

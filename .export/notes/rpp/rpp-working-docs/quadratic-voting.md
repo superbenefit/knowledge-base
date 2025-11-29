@@ -6,7 +6,7 @@ tags:
   - patterns
   - governance
   - public-goods
-publish: "true"
+publish: true
 type: pattern
 protocols: 
 ---

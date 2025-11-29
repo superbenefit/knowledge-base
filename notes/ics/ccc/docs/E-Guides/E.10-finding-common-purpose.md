@@ -10,7 +10,7 @@ tags:
 aliases:
   - Common Purpose Guide
   - Shared Purpose Discovery
-publish: "false"
+publish: false
 type: guide
 ---
 

@@ -11,7 +11,7 @@ tags:
 aliases:
   - CE Governance
   - Stewardship Structure
-publish: "false"
+publish: false
 type: guide
 ---
 

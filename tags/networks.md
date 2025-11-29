@@ -7,7 +7,7 @@ tags:
 - coordination 
 aliases:
 - "#networks" 
-publish: "true"
+publish: true
 
 ---
 

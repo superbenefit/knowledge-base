@@ -7,7 +7,7 @@ tags:
 - resources
 aliases:
 - "#roles"
-publish: "true"
+publish: true
 ---
 
 _Roles are defined sets of responsibilities, permissions, and accountabilities assigned to individuals or entities within a system, enabling specialized contributions while creating clear interfaces for coordination across decentralized networks._

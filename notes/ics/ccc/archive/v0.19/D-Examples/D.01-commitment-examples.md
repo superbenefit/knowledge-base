@@ -10,7 +10,7 @@ tags:
 aliases:
   - Commitment Catalog
   - Commitment Examples
-publish: "false"
+publish: false
 type: guide
 ---
 

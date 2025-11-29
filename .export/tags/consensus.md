@@ -3,7 +3,7 @@ title: Consensus
 description: Consensus, as it is used in Consensus based decision-making
 harvester:
   - yeoro.eth
-publish: "true"
+publish: true
 type: tag
 aliases:
   - "#consensus"

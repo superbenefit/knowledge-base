@@ -8,7 +8,7 @@ tags:
 aliases:
   - "#coordination"
 type: note
-publish: "true"
+publish: true
 ---
 
 # Coordination Phase

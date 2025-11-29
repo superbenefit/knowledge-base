@@ -1,7 +1,7 @@
 ---
 title: DAO Primitives Project
 description: A framework for building purpose-aligned networks of small autonomous teams that harness collective intelligence
-publish: "true"
+publish: true
 type: guide
 tags:
   - daos

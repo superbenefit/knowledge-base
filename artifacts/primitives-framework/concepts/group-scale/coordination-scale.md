@@ -5,7 +5,7 @@ tags:
   - dao-primitives
   - framework
 aliases: 
-publish: "true"
+publish: true
 ---
 
 Coordination Scale represents a larger level of group organization than [collaboration scale](artifacts/primitives-framework/concepts/group-scale/collaboration-scale.md). It involves larger [groups](tags/groups.md) or multiple groups working together towards a shared goal, requiring more sophisticated [coordination](tags/coordination.md) mechanisms and communication strategies.

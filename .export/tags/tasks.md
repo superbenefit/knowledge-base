@@ -1,6 +1,6 @@
 ---
 title: Tasks
-publish: "true"
+publish: true
 type: tag
 tags:
   - agreements

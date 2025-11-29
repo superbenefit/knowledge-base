@@ -9,7 +9,7 @@ tags:
 aliases:
   - C4 Cover Page
   - Community Connection & Commitment Commons Cover
-publish: "false"
+publish: false
 type: note
 ---
 

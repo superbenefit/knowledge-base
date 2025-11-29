@@ -6,7 +6,7 @@ tags:
 - resources 
 aliases:
 - "#frameworks" 
-publish: "true"
+publish: true
 ---
 
 _Frameworks are structured conceptual models that provide organizing principles, components, and relationships to guide understanding, decision-making, and implementation in complex domains, enabling consistent approaches to recurring challenges without rigid prescription._

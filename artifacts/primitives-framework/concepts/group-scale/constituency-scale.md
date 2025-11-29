@@ -5,7 +5,7 @@ tags:
   - dao-primitives
   - framework
 aliases:
-publish: "true"
+publish: true
 ---
 
 

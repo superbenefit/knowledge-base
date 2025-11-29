@@ -8,7 +8,7 @@ tags:
 - coordination
 aliases:
 - "#protocols"
-publish: "true"
+publish: true
 ---
 
 _Protocols are standardized sets of rules, procedures, and agreements that define how participants in a system interact, communicate, and exchange value, enabling consistent and predictable coordination without requiring central authority._

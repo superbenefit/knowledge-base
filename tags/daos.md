@@ -10,7 +10,7 @@ aliases:
   - "#daos"
   - "#dao"
   - dao
-publish: "true"
+publish: true
 ---
 
 *[Decentralized](tags/decentralization.md) [Autonomous](tags/autonomy.md) Organizations (DAOs) are blockchain-based coordination systems that enable groups to govern shared resources and make decisions collectively without centralized control, using transparent rules encoded in smart contracts to align incentives around common goals.*

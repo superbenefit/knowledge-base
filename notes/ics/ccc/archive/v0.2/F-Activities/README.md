@@ -10,7 +10,7 @@ tags:
 aliases:
   - CE Activities Directory
   - Activity Guides Overview
-publish: "false"
+publish: false
 type: reference
 ---
 

@@ -10,7 +10,7 @@ tags:
   - daos
   - governance
   - networks
-publish: "true"
+publish: true
 type: link
 banner: "![[attachments/CZkS0TIqq19IH8wIkdxbT.png]]"
 ---

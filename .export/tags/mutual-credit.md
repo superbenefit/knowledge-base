@@ -11,7 +11,7 @@ aliases:
   - "#mutual-credit"
   - "#credit-clearing"
   - "#multilateral-barter"
-publish: "true"
+publish: true
 ---
 
 _Mutual credit is an exchange system where currency is created at the time of transactions as corresponding credits and debits in participant accounts, enabling communities to facilitate trade and resource sharing without requiring external money supply, interest-bearing debt, or centralized banking infrastructure._

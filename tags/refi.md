@@ -9,7 +9,7 @@ tags:
 aliases:
   - "#refi"
   - "#regenerative-finance"
-publish: "false"
+publish: false
 ---
 
 _Regenerative Finance (ReFi) refers to [blockchain](blockchain.md)-based financial systems and applications designed to align economic incentives with environmental and social regeneration, creating mechanisms that reward positive impact while enabling [community](community.md) to directly fund, measure, and govern ecological restoration and social wellbeing._

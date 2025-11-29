@@ -6,7 +6,7 @@ tags:
   - resources
 aliases:
   - "#playbooks"
-publish: "true"
+publish: true
 ---
 
 *Playbooks are comprehensive, structured guides that provide practical frameworks and step-by-step instructions for implementing patterns, practices, and protocols in particular contexts.*

@@ -8,7 +8,7 @@ tags:
   - practices
 aliases:
   - "#solidarity"
-publish: "true"
+publish: true
 ---
 
 _Solidarity is a form of social unity where individuals recognize their interdependence and shared interests with others, creating bonds of mutual support and collective responsibility that transcend self-interest, enabling coordinated action for common purpose and wellbeing._

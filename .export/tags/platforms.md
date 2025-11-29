@@ -6,7 +6,7 @@ tags:
 - resources 
 aliases:
 - "#platforms" 
-publish: "true"
+publish: true
 ---
 
 _Platforms are infrastructure systems that enable coordination, interaction, and value exchange between participants through standardized interfaces, protocols, and governance mechanisms, creating environments where diverse activities, services, and communities can develop and thrive._ ^2f34bd

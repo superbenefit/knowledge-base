@@ -6,7 +6,7 @@ url:
 tags: 
 curator: 
 harvester: 
-publish: "false"
+publish: false
 type: resource
 functions: 
 qualities: 

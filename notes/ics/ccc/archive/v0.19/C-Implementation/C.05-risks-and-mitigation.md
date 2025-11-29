@@ -10,7 +10,7 @@ tags:
 aliases:
   - Risk Assessment
   - Risk Mitigation
-publish: "false"
+publish: false
 type: guide
 ---
 

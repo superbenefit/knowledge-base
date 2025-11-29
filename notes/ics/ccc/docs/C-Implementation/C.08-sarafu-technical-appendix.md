@@ -11,7 +11,7 @@ tags:
 aliases:
   - Sarafu Technical Details
   - Sarafu Limitations
-publish: "false"
+publish: false
 type: technical
 ---
 

@@ -11,7 +11,7 @@ tags:
 aliases:
   - Multiplier Effect
   - Economic Value Creation
-publish: "false"
+publish: false
 type: note
 ---
 

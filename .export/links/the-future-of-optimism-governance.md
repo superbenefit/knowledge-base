@@ -5,7 +5,7 @@ author: []
 type: Article
 tags:
   - governance
-publish: "true"
+publish: true
 ---
 
 In this article, Optimism details their future Governance plans. The Optimism Collective is governed by a two-house system. The Token House is made up of OP holders and their delegates, and the Citizen's House is a one-person-one-vote system based on reputation.

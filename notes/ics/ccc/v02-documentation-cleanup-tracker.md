@@ -10,7 +10,7 @@ tags:
 aliases:
   - Documentation Cleanup Tracker
   - CE Documentation Tasks
-publish: "false"
+publish: false
 type: project-tracker
 ---
 

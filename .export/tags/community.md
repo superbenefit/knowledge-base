@@ -3,7 +3,7 @@ title: Community
 description: A group of individuals connected through shared purpose, values, or interests who actively participate in coordination, governance, and resource allocation in decentralized systems.
 harvester: rathermercurial.eth
 curator: 
-publish: "true"
+publish: true
 type: tag
 aliases:
   - "#community"

@@ -10,7 +10,7 @@ aliases:
   - C4
   - CCCC
   - Community Connection & Commitment Commons Main
-publish: "false"
+publish: false
 type: note
 ---
 # Community Connection & Commitment Commons

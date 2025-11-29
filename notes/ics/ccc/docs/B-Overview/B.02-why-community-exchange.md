@@ -10,7 +10,7 @@ tags:
 aliases:
   - Community Exchange Purpose
   - Why CE Matters
-publish: "false"
+publish: false
 type: note
 ---
 

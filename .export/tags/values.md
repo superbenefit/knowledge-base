@@ -8,7 +8,7 @@ tags:
 aliases:
 - "#values"
 - "#qualities"
-publish: "true"
+publish: true
 type: tag
 ---
 

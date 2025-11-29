@@ -8,7 +8,7 @@ tags:
 aliases:
   - "#iteration"
 type: note
-publish: "true"
+publish: true
 ---
 
 

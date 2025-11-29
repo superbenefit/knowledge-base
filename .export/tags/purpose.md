@@ -6,7 +6,7 @@ tags:
 - agreements
 aliases:
 - "#purpose"
-publish: "true"
+publish: true
 ---
 
 _Purpose is the shared vision, mission, or fundamental reason for existence that provides direction, meaning, and coherence to collective endeavors, serving as the orienting force that guides decision-making and action without requiring centralized control._

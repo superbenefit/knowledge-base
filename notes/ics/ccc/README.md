@@ -10,7 +10,7 @@ tags:
 aliases:
   - CCC README
   - Community Exchange Guide
-publish: "false"
+publish: false
 type: readme
 ---
 

@@ -10,7 +10,7 @@ tags:
 aliases:
   - CE Visuals
   - Community Exchange Graphics
-publish: "false"
+publish: false
 type: note
 ---
 

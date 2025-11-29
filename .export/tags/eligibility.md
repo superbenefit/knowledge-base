@@ -3,7 +3,7 @@ title: Eligibility
 description: The criteria, conditions, or qualifications that determine whether an agent can participate in activities, access resources, or exercise rights within decentralized systems.
 harvester:
   - rathermercurial.eth
-publish: "true"
+publish: true
 type: tag
 aliases:
   - "#eligibility"

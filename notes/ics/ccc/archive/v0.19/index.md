@@ -9,7 +9,7 @@ tags:
 aliases:
   - CE v0.2
   - Community Exchange Version 2
-publish: "false"
+publish: false
 type: note
 ---
 

@@ -10,7 +10,7 @@ tags:
 aliases:
   - Adding Commitments Guide
   - Create Commitment
-publish: "false"
+publish: false
 type: guide
 ---
 

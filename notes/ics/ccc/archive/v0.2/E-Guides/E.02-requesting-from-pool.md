@@ -10,7 +10,7 @@ tags:
 aliases:
   - Request Guide
   - Requesting Services
-publish: "false"
+publish: false
 type: guide
 ---
 

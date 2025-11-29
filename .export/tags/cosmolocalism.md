@@ -3,7 +3,7 @@ title: Cosmolocal Coordination
 description: An approach combining local production and resilience with global knowledge sharing and coordination
 harvester:
   - rathermercurial.eth
-publish: "true"
+publish: true
 type: tag
 ---
 

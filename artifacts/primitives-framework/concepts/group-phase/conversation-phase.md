@@ -9,7 +9,7 @@ aliases:
   - conversation phase
   - ideation phase
   - exploration phase
-publish: "true"
+publish: true
 type: note
 ---
 

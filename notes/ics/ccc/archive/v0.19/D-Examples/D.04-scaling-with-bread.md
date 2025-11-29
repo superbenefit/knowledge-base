@@ -10,7 +10,7 @@ tags:
 aliases:
   - BREAD Integration Example
   - Scaling Scenario
-publish: "false"
+publish: false
 type: guide
 ---
 

@@ -10,7 +10,7 @@ tags:
 aliases:
   - User Guides
   - How-To Directory
-publish: "false"
+publish: false
 type: index
 ---
 

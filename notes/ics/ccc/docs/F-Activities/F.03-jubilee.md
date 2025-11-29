@@ -10,7 +10,7 @@ tags:
 aliases:
   - Annual Jubilee Guide
   - Community Jubilee
-publish: "false"
+publish: false
 type: activity
 ---
 

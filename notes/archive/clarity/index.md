@@ -6,7 +6,7 @@ author:
 tags: 
 harvester: 
 curator: 
-publish: "false"
+publish: false
 type: note
 --
 

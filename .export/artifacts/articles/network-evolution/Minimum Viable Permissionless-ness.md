@@ -8,7 +8,7 @@ tags:
   - daos
   - permissions
   - governance
-publish: "true"
+publish: true
 type: link
 banner: "![[attachments/w8Fm_EQb7jhvrd51VtE61.png]]"
 ---

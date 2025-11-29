@@ -11,7 +11,7 @@ tags:
 aliases:
   - CE Reference Directory
   - Reference Materials Overview
-publish: "false"
+publish: false
 type: reference
 ---
 

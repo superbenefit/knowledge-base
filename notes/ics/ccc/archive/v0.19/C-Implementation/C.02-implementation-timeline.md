@@ -11,7 +11,7 @@ tags:
 aliases:
   - CE Timeline
   - Implementation Schedule
-publish: "false"
+publish: false
 type: plan
 ---
 

@@ -7,7 +7,7 @@ tags:
   - agreements
 aliases:
   - "#responsibilities"
-publish: "true"
+publish: true
 type: tag
 ---
 

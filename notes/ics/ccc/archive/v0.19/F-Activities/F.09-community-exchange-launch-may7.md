@@ -10,7 +10,7 @@ tags:
 aliases:
   - C4 Launch Event
   - Launch Plan May 7
-publish: "false"
+publish: false
 type: plan
 ---
 

@@ -10,7 +10,7 @@ tags:
 aliases:
   - Steward Meetings
   - Steward Circle Guide
-publish: "false"
+publish: false
 type: activity
 ---
 

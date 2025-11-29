@@ -7,7 +7,7 @@ tags:
 - actions
 aliases:
 - "#payments"
-publish: "true"
+publish: true
 type: tag
 ---
 

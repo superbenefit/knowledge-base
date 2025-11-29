@@ -9,7 +9,7 @@ tags:
   - discord
   - harvesting
   - library
-publish: "false"
+publish: false
 type: guide
 ---
 

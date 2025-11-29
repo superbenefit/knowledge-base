@@ -5,7 +5,7 @@ harvester:
 tags: []
 aliases:
   - "#blockchain"
-publish: "true"
+publish: true
 ---
 
 A blockchain is a type of distributed database system for managing information that can reduce the need for central authorities or trusted intermediaries to oversee interactions and make sure the network rules are being followed. This enables participants to engage in peer-to-peer data and value transfers, and potentially, to contribute to the design, functioning, and management of the network – i.e. to build networks based on [multi-stakeholder governance](https://app.charmverse.io/superbenefit/multi-stakeholder-governance-topic-9333924420657016). Blockchains are a subset of distributed ledger technologies (DLT)—ie. all blockchains are distributed ledgers, but not all distributed ledgers are blockchains. 

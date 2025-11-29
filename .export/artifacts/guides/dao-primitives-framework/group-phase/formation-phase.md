@@ -8,7 +8,7 @@ tags:
   - group-phase
 aliases:
   - "#formation"
-publish: "true"
+publish: true
 type: note
 ---
 

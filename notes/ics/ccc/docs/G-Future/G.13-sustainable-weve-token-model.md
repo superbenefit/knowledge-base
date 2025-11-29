@@ -11,7 +11,7 @@ tags:
 aliases:
   - WEVE Token Economics
   - Sustainable Token Model
-publish: "false"
+publish: false
 type: note
 ---
 

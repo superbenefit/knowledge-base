@@ -7,7 +7,7 @@ tags:
   - mechanisms
 aliases:
   - "#agreements"
-publish: "true"
+publish: true
 ---
 
 _Agreements are formalized understandings or commitments between parties that establish shared expectations, terms, and parameters for interaction, resource allocation, and collective action, creating a foundation for coordination and accountability._

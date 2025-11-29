@@ -8,7 +8,7 @@ tags:
 aliases:
 - "#nfts"
 - "#nft" 
-publish: "true"
+publish: true
 ---
 
 _Non-Fungible Tokens (NFTs) are unique, indivisible digital assets recorded on a blockchain that enable verifiable ownership and provenance of digital or physical items, creating new possibilities for representation, governance, and value exchange in decentralized systems._

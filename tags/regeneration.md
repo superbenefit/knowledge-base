@@ -8,7 +8,7 @@ tags:
 aliases:
   - "#regeneration"
   - "#regenerative"
-publish: "true"
+publish: true
 ---
 
 _Regeneration refers to the active restoration and enhancement of ecological and social systems beyond mere sustainability, creating net-positive outcomes that build resilience, vitality, and the capacity for self-renewal while addressing root causes of degradation and inequity._

@@ -5,7 +5,7 @@ harvester: rathermercurial.eth
 tags: []
 aliases:
   - "#defi"
-publish: "true"
+publish: true
 type: tag
 ---
 

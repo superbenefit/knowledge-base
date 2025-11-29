@@ -5,7 +5,7 @@ tags:
   - dao-primitives
   - framework
 aliases: 
-publish: "true"
+publish: true
 ---
 
 Network Scale represents the highest level of group organization within the DAO [primitives](tags/primitives.md) framework. It encompasses the relationships and connections between decentralized organizations, [communities](tags/community.md) as well as traditional organizations, as they coordinate to achieve impact using decentralized organizing patterns.

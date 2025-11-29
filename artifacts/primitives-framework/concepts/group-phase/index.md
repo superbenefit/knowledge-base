@@ -5,7 +5,7 @@ tags:
   - framework
 aliases: 
 description: A framework outlining the five key phases of group evolution, tailored for DAO contexts.
-publish: "true"
+publish: true
 type: index, tag
 ---
 

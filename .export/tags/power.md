@@ -1,6 +1,6 @@
 ---
 title: Power
-publish: "true"
+publish: true
 type: tag
 harvester:
   - heenal.eth

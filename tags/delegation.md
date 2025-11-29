@@ -5,7 +5,7 @@ tags:
   - actions
 aliases:
   - "#delegation"
-publish: "true"
+publish: true
 ---
 
 In Web3 [governance](governance.md), delegation refers to the process where token holders transfer their voting [power](power.md) or [decision-making](decision-making.md) authority to a trusted representative, allowing more efficient [participation](participation.md) in [decentralized](decentralization.md) decision-making processes.

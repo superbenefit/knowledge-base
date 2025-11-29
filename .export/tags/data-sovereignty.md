@@ -7,7 +7,7 @@ tags:
   - governance
 aliases:
   - "#data-sovereignty"
-publish: "true"
+publish: true
 type: tag
 ---
 

@@ -10,7 +10,7 @@ tags:
 aliases:
   - Scaling Strategy Tracker
   - CE Scaling Tasks
-publish: "false"
+publish: false
 type: project-tracker
 ---
 

@@ -6,7 +6,7 @@ tags:
   - patterns
   - governance
   - tokenomics
-publish: "true"
+publish: true
 type: pattern
 protocols: 
 ---

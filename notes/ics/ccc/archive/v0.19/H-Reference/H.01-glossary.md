@@ -10,7 +10,7 @@ tags:
 aliases:
   - CE Glossary
   - Community Exchange Terms
-publish: "false"
+publish: false
 type: reference
 ---
 

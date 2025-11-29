@@ -9,7 +9,7 @@ tags:
 aliases:
   - organization phase
   - "#organization"
-publish: "true"
+publish: true
 type: note
 ---
 

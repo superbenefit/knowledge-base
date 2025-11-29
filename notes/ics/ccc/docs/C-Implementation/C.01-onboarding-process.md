@@ -11,7 +11,7 @@ tags:
 aliases:
   - C4 Onboarding
   - Community Connection & Commitment Commons Membership
-publish: "false"
+publish: false
 type: guide
 ---
 

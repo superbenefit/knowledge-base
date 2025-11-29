@@ -4,7 +4,7 @@ harvester:
 tags: []
 aliases:
   - "#resources"
-publish: "true"
+publish: true
 ---
 
 _Resources are assets, materials, or capabilities that enable action, including tangible elements like funds and equipment as well as intangible elements like knowledge, time, and attention, all of which can be allocated toward achieving specific goals and outcomes._ ^22f819

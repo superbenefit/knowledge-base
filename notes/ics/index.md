@@ -12,7 +12,7 @@ aliases:
   - The ICS
   - Reimagine Institute
   - Reimagine Institute for Community Sustainability
-publish: "true"
+publish: true
 type: entity
 ---
 

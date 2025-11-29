@@ -10,7 +10,7 @@ tags:
 aliases:
   - C4 User Guide
   - How to Use C4 Documentation
-publish: "false"
+publish: false
 type: note
 ---
 

@@ -12,7 +12,7 @@ tags:
 aliases:
   - IYF Meeting Notes
   - Fund Discussions
-publish: "false"
+publish: false
 type: note
 ---
 

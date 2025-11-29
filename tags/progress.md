@@ -5,7 +5,7 @@ tags:
   - agreements
 aliases:
   - "#progress"
-publish: "true"
+publish: true
 ---
 
 *Progress refers to the tracking, documentation, and demonstration of a group's activities, outputs, and achievements, enabling both internal accountability and external transparency regarding work completed and value created.*

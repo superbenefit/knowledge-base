@@ -10,7 +10,7 @@ tags:
 aliases:
   - Credit Flow Scenarios
   - Exchange Examples
-publish: "false"
+publish: false
 type: guide
 ---
 

@@ -7,7 +7,7 @@ tags:
 - values 
 aliases:
 - "#accountability"
-publish: "true"
+publish: true
 ---
 
 _Accountability refers to the obligation and capacity of individuals, groups, or systems to account for their actions, decisions, and commitments to stakeholders, creating the conditions for trust and effective coordination without requiring centralized authority._

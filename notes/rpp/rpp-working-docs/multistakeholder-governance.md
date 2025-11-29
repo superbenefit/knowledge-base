@@ -5,7 +5,7 @@ author: rathermercurial.eth
 tags: 
 harvester: 
 curator: 
-publish: "false"
+publish: false
 type: pattern
 ---
 

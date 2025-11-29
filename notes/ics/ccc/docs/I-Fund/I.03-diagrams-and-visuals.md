@@ -11,7 +11,7 @@ tags:
 aliases:
   - IYF Diagrams
   - Fund Visuals
-publish: "false"
+publish: false
 type: reference
 ---
 
