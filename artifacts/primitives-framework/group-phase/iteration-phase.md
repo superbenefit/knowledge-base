@@ -20,6 +20,31 @@ The iteration phase is where a group, as an autonomous (or semi-autonomous) enti
 
 When the Iteration phase is complete, a group may either evolve into a [governance](tags/governance.md) or operational structure or enter a [completion phase](artifacts/primitives-framework/group-phase/completion-phase.md) as its [purpose](tags/purpose.md) is fulfilled.
 
+## When Your Organization is in This Phase
+
+Your organization is likely in the Iteration Phase if you observe:
+
+**Indicators:**
+- All governance and operational systems are fully implemented and functioning
+- The group is executing its strategy and delivering concrete outcomes
+- Focus has shifted from building infrastructure to maximizing impact
+- The group is actively [coordinating](tags/coordination.md) with other entities in the [network](tags/networks.md)
+- Regular cycles of planning, execution, feedback, and evolution are established
+
+**Appropriate Structures:**
+- Mature [governance](tags/governance.md) processes that handle decisions efficiently
+- Well-maintained [group-state](tags/group-state.md) documentation that stays current
+- Established [coordination](tags/coordination.md) mechanisms with other [network](tags/networks.md) entities
+- Regular feedback and evolution cycles to improve systems and [practices](tags/practices.md)
+- Impact measurement and reporting mechanisms that demonstrate value
+
+**What to Avoid:**
+- Becoming rigid - continue evolving governance and operations as context changes
+- Neglecting [network](tags/networks.md) relationships in favor of internal focus
+- Allowing documentation and [transparency](tags/transparency.md) to degrade over time
+- Losing sight of core [purpose](tags/purpose.md) as operations become routine
+- Failing to recognize when the group's [purpose](tags/purpose.md) has been fulfilled and [completion phase](artifacts/primitives-framework/group-phase/completion-phase.md) is appropriate
+
 ## Key Characteristics
 
 - **Purpose-Driven Execution:** The group's activities are tightly aligned with its core [purpose](tags/purpose.md), with clear prioritization of high-impact initiatives that advance its goals.

@@ -20,6 +20,31 @@ The formation phase usually culminates in a proposal or some other ask from the 
 
 When the formation phase is complete, a group is ready to move on to the [organization phase](artifacts/primitives-framework/group-phase/organization-phase.md).
 
+## When Your Organization is in This Phase
+
+Your organization is likely in the Formation Phase if you observe:
+
+**Indicators:**
+- A core team has committed to working together on a specific shared [purpose](tags/purpose.md)
+- The group is designing formal structure but hasn't fully implemented it yet
+- Initial [agreements](tags/agreements.md) about roles, responsibilities, and ways of working are being documented
+- The group is preparing a proposal for resources, funding, or formal recognition
+- Simple decision-making processes are being tested but remain flexible
+
+**Appropriate Structures:**
+- Basic role assignments (even if informal) to clarify who does what
+- Lightweight [cell state](tags/cell-state.md) or nucleus document capturing purpose, practice, and initial plans
+- Simple proposal processes for making group [decisions](tags/decisions.md)
+- Initial coordination tools (shared documents, regular meetings, communication channels)
+- Draft governance and operational designs ready for implementation
+
+**What to Avoid:**
+- Over-engineering governance before testing basic operations
+- Requiring perfection in documentation or processes before moving forward
+- Creating complex hierarchies or rigid structures too early
+- Making commitments for resources not yet secured
+- Implementing technical systems before understanding actual coordination needs
+
 ---
 
 ## Key Characteristics

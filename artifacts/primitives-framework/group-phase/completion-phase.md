@@ -19,6 +19,31 @@ The Completion Phase marks the final [group phase](artifacts/primitives-framewor
 
 Every group consumes resources - whether that's team members' time, financial assets, or communication bandwidth. When a group's purpose is fulfilled, a clear process for winding down operations ensures these resources can be redirected where needed. Without such processes, organizations accumulate organizational debt, becoming rigid and inefficient. This directly undermines the flexible decision-making and resource allocation that these decentralized structures aim to achieve.
 
+## When Your Organization is in This Phase
+
+Your organization is likely in the Completion Phase if you observe:
+
+**Indicators:**
+- The group's core [purpose](tags/purpose.md) has been fulfilled or is no longer relevant
+- Resources are being consumed without proportional impact or value
+- Team members' energy and commitment are declining
+- The [network](tags/networks.md) context has changed such that the group's role is no longer needed
+- A deliberate decision has been made to wind down operations
+
+**Appropriate Structures:**
+- Clear closure timeline and plan communicated to the [network](tags/networks.md)
+- Documentation processes for capturing knowledge and learnings
+- Asset transition plan for [treasury](tags/treasury.md), tools, and other [resources](tags/resources.md)
+- Handover protocols for ongoing responsibilities
+- Celebration and recognition mechanisms for team contributions
+
+**What to Avoid:**
+- Letting groups fade away informally without proper closure
+- Hoarding [resources](tags/resources.md) that could serve new purposes elsewhere in the [network](tags/networks.md)
+- Losing valuable knowledge by not documenting learnings
+- Failing to communicate closure clearly to stakeholders
+- Rushing the process without honoring the group's contributions and relationships
+
 ## Key Characteristics
 
 - **Decision to Close:** This could be made by the team itself or by a coordinating entity in the structure that has responsibility for the team.

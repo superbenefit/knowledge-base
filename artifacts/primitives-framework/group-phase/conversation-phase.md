@@ -20,6 +20,29 @@ At a high level, the activities of a Conversation phase group can be described a
 
 When the Conversation phase is complete, a group is ready to move on to the [Formation Phase](artifacts/primitives-framework/group-phase/formation-phase.md).
 
+## When Your Organization is in This Phase
+
+Your organization is likely in the Conversation Phase if you observe:
+
+**Indicators:**
+- People are gathering around an idea or area of shared interest without formal structures
+- Conversations focus on "what if" possibilities rather than concrete execution plans
+- Participants are exploring whether they want to commit to working together
+- No formal roles, processes, or governance mechanisms have been established
+- Energy is focused on understanding the problem space and building relationships
+
+**Appropriate Structures:**
+- Informal discussion channels (Discord threads, regular calls, collaborative documents)
+- Lightweight documentation to capture emerging ideas and insights
+- Open invitation for anyone interested to participate in conversations
+- Minimal coordination overhead - flexibility over structure
+
+**What to Avoid:**
+- Creating formal governance structures before shared purpose is clear
+- Forcing premature [decisions](tags/decisions.md) about direction or commitments
+- Establishing rigid processes that constrain exploration and relationship building
+- Requiring significant resource commitments before trust and alignment are established
+
 ## Key Characteristics
 
 - **Shared Vision Formation:** Conversations gradually crystallize around a common understanding of [purpose](tags/purpose.md), creating the foundation for purpose alignment that will guide the group's evolution through subsequent phases.

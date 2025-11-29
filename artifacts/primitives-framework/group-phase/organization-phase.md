@@ -21,6 +21,31 @@ The organization phase often follows a [community](tags/community.md) proposal a
 
 The Organization phase is complete when the structure outlined in the group's [group-state](tags/group-state.md) documentation has been fully implemented, [roles](tags/roles.md) have been filled, and the group is executing on its goals.
 
+## When Your Organization is in This Phase
+
+Your organization is likely in the Organization Phase if you observe:
+
+**Indicators:**
+- The group has secured resources and approval to implement its designed structure
+- Formal [governance](tags/governance.md) systems are being put in place (voting, proposal processes, decision frameworks)
+- Technical infrastructure is being deployed (multisigs, tokens, coordination tools)
+- [Roles](tags/roles.md) are being filled and formalized with clear responsibilities
+- The group is transitioning from design to full operational execution
+
+**Appropriate Structures:**
+- Complete [group-state](tags/group-state.md) documentation covering purpose, [practices](tags/practices.md), and [progress](tags/progress.md)
+- Formal [decision-making](tags/decisions.md) processes for different types of decisions
+- [Treasury](tags/treasury.md) management systems with clear authorization and accountability
+- Technical governance and coordination tools (Safe multisigs, Snapshot voting, token systems)
+- Regular communication cadences and reporting mechanisms
+
+**What to Avoid:**
+- Treating implemented structures as permanent - maintain flexibility for evolution
+- Creating governance complexity beyond what the group's scale requires
+- Neglecting to document systems and processes as they're implemented
+- Moving too quickly without testing and learning from each new system
+- Over-relying on technical solutions before social [agreements](tags/agreements.md) are solid
+
 ## Key Characteristics
 
 - **[Governance](tags/governance.md) Implementation:** Detailed [decision-making](tags/decisions.md) frameworks and processes that enable efficient handling of different decision types and appropriate stakeholder involvement.
