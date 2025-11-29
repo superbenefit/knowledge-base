@@ -25,3 +25,12 @@ DAOs are more flexible in what they decide their purpose-emitting star to be, an
 *DAOs come in all kinds of shapes and forms, and they collectively represent different purposes, just like the stars and heavenly bodies that create a galaxy. They both manage to exist on their own, authentic, yet with a powerful enough purpose to ensure a framework to allow freedom for experimentation. Just like space, there are so many more discoveries left for us to make with DAOs.*
 
 This is the second video of a three part-series that compares DAOs to nature, because what better way to describe the straightforward spontaneity of a community, than to compare it to the physical phonomena that does it best?
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Organizations with orbital dynamics
+- [Networks](tags/networks.md) - Gravitational structures of coordination
+- [Scale](tags/scale.md) - Different orbital scales of organization
+- [Coordination](tags/coordination.md) - Forces binding organizational systems
+- [Metaphors](tags/metaphors.md) - Understanding DAOs through celestial systems

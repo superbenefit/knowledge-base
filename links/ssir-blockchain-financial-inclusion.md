@@ -15,7 +15,7 @@ tags:
   - critical-assessment
 ---
 
-SSIR's analysis provides balanced examination of blockchain for financial inclusion, exploring both genuine potential to serve unbanked populations and significant barriers preventing widespread adoption. The piece examines claims that decentralized finance democratizes access while acknowledging realities including technical complexity, transaction costs, regulatory uncertainty, and existing financial exclusion often reflecting systemic inequities that blockchain alone cannot address. Rather than celebrating or dismissing blockchain categorically, SSIR offers nuanced assessment identifying specific use cases where decentralized approaches genuinely improve financial access alongside contexts where traditional solutions prove more effective for serving excluded communities.
+SSIR's analysis provides balanced examination of blockchain for financial inclusion, exploring both genuine potential to serve unbanked populations and significant barriers preventing widespread adoption. The piece examines claims that decentralized finance democratizes access while acknowledging realities including technical complexity, transaction costs, regulatory uncertainty, and existing financial exclusion often reflecting systemic inequities that blockchain alone cannot address. Rather than celebrating or dismissing blockchain categorically, SSIR offers nuanced assessment identifying specific use cases where decentralized approaches genuinely improve financial access alongside contexts where traditional solutions prove more effective for serving excluded [communities](tags/community.md).
 
 ### Key Highlights
 
@@ -23,7 +23,7 @@ SSIR's analysis provides balanced examination of blockchain for financial inclus
 
 - **Persistent Barriers**: SSIR documents significant obstacles to blockchain financial inclusion including smartphone and internet requirements, technical literacy needs, transaction costs, volatility risks, and regulatory ambiguity that particularly affect excluded populations.
 
-- **Systemic Inequity**: The piece recognizes that financial exclusion often reflects deeper systemic inequities around poverty, discrimination, and power—showing that technical solutions alone cannot address structural barriers requiring policy and social change.
+- **Systemic Inequity**: The piece recognizes that financial exclusion often reflects deeper systemic inequities around poverty, discrimination, and [power](tags/power.md)—showing that technical solutions alone cannot address structural barriers requiring policy and social change.
 
 - **Comparative Assessment**: Rather than assuming blockchain superiority, SSIR compares decentralized approaches with alternative financial inclusion strategies including mobile money, microfinance, and community banking—assessing when each serves excluded populations effectively.
 
@@ -47,8 +47,18 @@ This analysis enables informed financial inclusion work:
 
 ### Connection With SuperBenefit
 
-- SSIR's balanced assessment of blockchain financial inclusion provides framework for SuperBenefit to evaluate DAO coordination claims realistically—showing that genuine analysis requires examining both possibilities and persistent barriers rather than assuming decentralization automatically serves equity goals, validating commitment to honest assessment over promotional hype.
+- SSIR's balanced assessment of blockchain financial inclusion provides framework for SuperBenefit to evaluate DAO [coordination](tags/coordination.md) claims realistically—showing that genuine analysis requires examining both possibilities and persistent barriers rather than assuming decentralization automatically serves equity goals, validating commitment to honest assessment over promotional hype.
 
 - The recognition that financial exclusion reflects systemic inequity beyond technical access resonates with SuperBenefit's power-aware approach, demonstrating that coordination tools cannot solve structural problems through mechanism design alone—suggesting that effective primitives must be accompanied by addressing power dynamics, resources, and systemic barriers that create exclusion.
 
 - SSIR's comparative analysis shows SuperBenefit should evaluate DAO coordination against alternative approaches not just traditional systems, asking whether decentralized mechanisms genuinely serve communities better than participatory, commons-based, or cooperative alternatives that may have lower barriers to meaningful participation.
+
+---
+
+## Related Concepts
+
+- Power - Dynamics in funding and resource distribution
+- Community - Organizations and movements being funded
+- Coordination - Mechanisms for collective resource allocation
+- [Impact](tags/impact.md) - Outcomes and effectiveness measures
+- [Governance](tags/governance.md) - Decision-making in funding contexts

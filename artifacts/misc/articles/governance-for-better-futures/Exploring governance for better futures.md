@@ -13,7 +13,7 @@ banner: "![[attachments/QZusNoUiQ8Z05UrfTw4fC.png]]"
 banner_y: 0.196
 ---
 
-**SuperBenefit DAO is convening a short series of Twitter Spaces** to explore how the nature of tags/governance.md is evolving, and to inquire into the governance we need to accelerate the arrival of better futures. We call this project _[Exploring governance for better futures](http://exploregov.xyz/)_.
+**SuperBenefit DAO is convening a short series of Twitter Spaces** to explore how the nature of [governance](tags/governance.md) is evolving, and to inquire into the governance we need to accelerate the arrival of better futures. We call this project _[Exploring governance for better futures](http://exploregov.xyz/)_.
 
 We are specifically interested in how Web3 technologies are enabling new models of governance towards these ends, and their potential to combine with existing practices, perspectives, and wisdom.
 
@@ -21,9 +21,9 @@ Beyond the governance of orgs, communities, and networks, we'll probe the notion
 
 ## Three conversations
 
-Over three conversations, we engaged with people who bring different and complementary perspectives to governance. This included experience and views from tags/daos.md, other tags/decentralization.md tags/networks.md, the co-operative movement, Indigenous cultures, purpose-led business, and civic and systems innovation.
+Over three conversations, we engaged with people who bring different and complementary perspectives to governance. This included experience and views from [DAOs](tags/daos.md), other [decentralized](tags/decentralization.md) [networks](tags/networks.md), the co-operative movement, Indigenous cultures, purpose-led business, and civic and systems innovation.
 
-We explored perspectives on the essential functions and attributes of governance, and the design implications for governance arrangements that seek to foster decentralisation, pluralism, and tags/regeneration.md.
+We explored perspectives on the essential functions and attributes of governance, and the design implications for governance arrangements that seek to foster decentralisation, pluralism, and [regeneration](tags/regeneration.md).
 
 Each of the conversations were framed around a question:
 
@@ -89,3 +89,12 @@ The conversations were be hosted by SuperBenefit, who are currently undertaking 
 Our intention is to harvest the learnings from across the three spaces and integrate them with independent research into governance models and practice in order to publish an article with our findings and to inform further conversations and explorations.
 
 We welcome collaborators! If you're interested in joining us in this project, reach out to [Heenal](https://twitter.com/heenalr) or [Michelle](https://twitter.com/ml_baldwin) on Twitter, or [join SuperBenefit's Discord](https://discord.gg/QFW7Wc7cgS).
+---
+
+## Related Concepts
+
+- [Governance](tags/governance.md) - Core focus of exploring better futures
+- [DAOs](tags/daos.md) - Organizations implementing new governance approaches
+- [Coordination](tags/coordination.md) - Mechanisms for collective decision-making
+- [Democracy](tags/democracy.md) - Principles for participatory governance
+- [Futures](tags/futures.md) - Aspirational directions for governance evolution

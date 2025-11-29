@@ -20,7 +20,7 @@ In decentralized systems, practices take on particular importance as they replac
 
 ## Uses of "Practices"
 
-### Practices in the DAO Primitives Framework
+### Practices in the [DAO Primitives framework](../artifacts/guides/dao-primitives-framework/index.md)
 
 Within the DAO Primitives Framework, "Practice" is one of three core dimensions of Group State (alongside [purpose](tags/purpose.md) and [progress](tags/progress.md)). It represents the agreed-upon methods and approaches that guide how a team works together and coordinates its activities.
 
@@ -62,8 +62,8 @@ Community practices create the conditions for trust, reciprocity, and collective
 
 - **[Agreements](tags/agreements.md)**: Formal commitments that establish shared expectations, with practices often emerging from agreements
 - **[Protocols](tags/protocols.md)**: Standardized rules that govern interactions, which practices often implement
-- **[Purpose](tags/purpose.md)**: The guiding goal that practices help realize
-- **[Progress](tags/progress.md)**: Systems for tracking and demonstrating advancement, which practices support
+- **Purpose**: The guiding goal that practices help realize
+- **Progress**: Systems for tracking and demonstrating advancement, which practices support
 - **[Roles](tags/roles.md)**: Defined responsibilities that practices help coordinate
 - **[Tasks](tags/tasks.md)**: Specific actions guided by established practices
 - **[Governance](tags/governance.md)**: Systems for collective decision-making that incorporate various practices

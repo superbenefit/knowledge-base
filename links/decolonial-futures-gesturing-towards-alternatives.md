@@ -27,7 +27,7 @@ Decolonial Futures represents one of the most comprehensive and philosophically 
 
 - **Metabolic Literacies**: Decolonial Futures emphasizes "metabolic literacies"—capacities to sense our participation in larger living systems and metabolize experiences of harm, complicity, and transformation. This body-based, relational approach counters the cerebral, individualist frameworks dominant in Western education and organizing.
 
-- **Radical Relationality**: The work explores relationality beyond liberal multiculturalism—acknowledging entanglement, complicity, and mutual implication rather than maintaining comfortable distance. This challenges both individualism and superficial solidarity, requiring ongoing work to address power differentials and colonial inheritances.
+- **Radical Relationality**: The work explores relationality beyond liberal multiculturalism—acknowledging entanglement, complicity, and mutual implication rather than maintaining comfortable distance. This challenges both individualism and superficial solidarity, requiring ongoing work to address [power](tags/power.md) differentials and colonial inheritances.
 
 - **Indigenous Resurgence**: Rather than treating indigenous knowledge as resource to extract, the project centers indigenous resurgence movements and emphasizes that decolonization means land back, sovereignty, and supporting indigenous self-determination rather than incorporating indigenous aesthetics into colonial institutions.
 
@@ -61,7 +61,7 @@ The project's depth and rigor provides essential grounding for anyone serious ab
 
 - **Beyond Progressive Inclusion**: Decolonial Futures' critique of soft reform challenges SuperBenefit to distinguish genuinely regenerative Web3 approaches from those that merely diversify who benefits from extraction, providing analytical tools for this critical evaluation.
 
-- **Metabolic Relationality**: The emphasis on embodied, land-based relationships informs SuperBenefit's understanding that regenerative coordination cannot be purely digital but must address relationship with place, bodies, and more-than-human world.
+- **Metabolic Relationality**: The emphasis on embodied, land-based relationships informs SuperBenefit's understanding that regenerative [coordination](tags/coordination.md) cannot be purely digital but must address relationship with place, bodies, and more-than-human world.
 
 - **Hospicing Extractive Systems**: The hospicing modernity framework supports SuperBenefit's work to develop alternatives to platform capitalism rather than reforming it, acknowledging that some systems cannot be made regenerative but must end with care.
 
@@ -70,3 +70,13 @@ The project's depth and rigor provides essential grounding for anyone serious ab
 - **Temporal Reorientation**: The critique of progress narratives and futurity challenges SuperBenefit to question Web3's innovation rhetoric, suggesting that regenerative approaches may require different relationships to time, ancestry, and emergence.
 
 - **Complicity and Accountability**: The work's emphasis on ongoing complicity in colonial systems—even while working for change—supports SuperBenefit's commitment to power-aware approaches that acknowledge how regenerative projects participate in and benefit from extraction even while seeking alternatives.
+
+---
+
+## Related Concepts
+
+- [Community](tags/community.md) - Collective organizing and mutual support
+- Coordination - Mechanisms for collective action
+- [Mutual Aid](tags/mutual-aid.md) - Solidarity-based resource sharing
+- [Sustainability](tags/sustainability.md) - Regenerative approaches to organizing
+- Power - Distribution and transformation dynamics

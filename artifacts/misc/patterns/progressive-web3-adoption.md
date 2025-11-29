@@ -351,3 +351,14 @@ CFC demonstrates network-level progressive adoption:
 - Document and celebrate
 
 **Key Message**: Progressive Web3 adoption isn't about revolutionary [transformation](tags/transformation.md)—it's about evolutionary growth that honors your organization's mission while opening new possibilities for impact.
+
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Web3 organizational forms nonprofits can adopt
+- [Governance](tags/governance.md) - Decentralized decision-making systems
+- [Primitives](tags/primitives.md) - Web3 building blocks for gradual adoption
+- [Coordination](tags/coordination.md) - Managing change across organizations
+- [Community Governance](artifacts/patterns/community-governance.md) - Participatory governance patterns
+- [Fiscal Bridge Pattern](artifacts/patterns/fiscal-bridge-pattern.md) - Bridging traditional and Web3 finance

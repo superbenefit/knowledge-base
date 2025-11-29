@@ -16,15 +16,15 @@ tags:
   - dfinity
 ---
 
-ICDevs DAO represents a developer-focused decentralized autonomous organization dedicated to advancing the Internet Computer ecosystem through transparent governance, bounty coordination, and open-source development. Operating on the Internet Computer protocol (developed by DFINITY Foundation), ICDevs creates infrastructure for coordinating technical contributions through bounty systems that reward developers for building tools, libraries, and documentation that strengthen the broader ecosystem. Unlike corporate-controlled development models, ICDevs distributes decision-making power among contributors and stakeholders, using on-chain governance to prioritize work, allocate resources, and recognize diverse forms of technical contribution beyond traditional employment structures.
+ICDevs DAO represents a developer-focused decentralized autonomous organization dedicated to advancing the Internet Computer ecosystem through transparent [governance](tags/governance.md), bounty [coordination](tags/coordination.md), and open-source development. Operating on the Internet Computer protocol (developed by DFINITY Foundation), ICDevs creates infrastructure for coordinating technical contributions through bounty systems that reward developers for building tools, libraries, and documentation that strengthen the broader ecosystem. Unlike corporate-controlled development models, ICDevs distributes decision-making power among contributors and stakeholders, using on-chain governance to prioritize work, allocate resources, and recognize diverse forms of technical contribution beyond traditional employment structures.
 
 ### Key Highlights
 
-- **Transparent Bounty Systems**: ICDevs operates public bounty programs where community members can propose, fund, and claim rewards for technical work ranging from smart contract libraries to developer tooling. This creates accessible pathways for developers to contribute meaningfully while earning compensation, without requiring traditional employment relationships or organizational gatekeeping.
+- **Transparent Bounty Systems**: ICDevs operates public bounty programs where [community](tags/community.md) members can propose, fund, and claim rewards for technical work ranging from smart contract libraries to developer tooling. This creates accessible pathways for developers to contribute meaningfully while earning compensation, without requiring traditional employment relationships or organizational gatekeeping.
 
 - **On-Chain Governance for Technical Priorities**: The DAO uses Internet Computer's native governance mechanisms to make collective decisions about which technical projects receive funding, how resources are allocated, and what priorities guide ecosystem development. This demonstrates how technical communities can coordinate through democratic processes rather than relying on centralized foundation or corporate control.
 
-- **Open-Source Development Coordination**: All work funded through ICDevs contributes to the Internet Computer commons—creating libraries, tools, and documentation available to all developers rather than proprietary products controlled by single entities. This exemplifies how DAOs can serve as coordination mechanisms for public goods creation in technical ecosystems.
+- **Open-Source Development Coordination**: All work funded through ICDevs contributes to the Internet Computer commons—creating libraries, tools, and documentation available to all developers rather than proprietary products controlled by single entities. This exemplifies how [DAOs](tags/daos.md) can serve as coordination mechanisms for public goods creation in technical ecosystems.
 
 - **Developer Community Building**: Beyond funding individual bounties, ICDevs cultivates community through forums, documentation, and shared governance participation. The DAO creates space for developers to connect, collaborate, and build shared technical infrastructure collectively, demonstrating how governance structures can serve community-building alongside resource allocation.
 
@@ -51,3 +51,13 @@ This DAO model enables implementation across technical communities:
 - The nested governance model—where ICDevs makes autonomous technical decisions while participating in broader Internet Computer governance—provides practical precedent for SuperBenefit's thinking about polycentric coordination, showing how small autonomous teams can maintain operational independence while engaging in collective stewardship at ecosystem level.
 
 - ICDevs' focus on public goods development through open-source bounties resonates with SuperBenefit's regenerative economics emphasis, demonstrating that DAOs can direct resources toward shared infrastructure and commons-building rather than exclusively funding projects with direct financial returns, creating value that benefits entire ecosystems rather than extracting toward token holders.
+
+---
+
+## Related Concepts
+
+- DAOs - Organizations and communities discussed
+- Governance - Decision-making frameworks explored
+- Coordination - Mechanisms for collective action
+- Communities - Social structures and dynamics
+- [Frameworks](tags/frameworks.md) - Organizational approaches and toolkits

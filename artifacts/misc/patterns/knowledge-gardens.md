@@ -330,3 +330,14 @@ Exploring knowledge gardens for place-based Web3 organizing, embodying [cosmoloc
 
 **Remember**: Knowledge gardens grow slowly but deeply. Like any garden, they require patience, care, and community commitment to flourish. The pattern's power lies not in the tools but in the collective cultivation practices that emerge around them.
 
+
+---
+
+## Related Concepts
+
+- [Coordination](tags/coordination.md) - Collective knowledge creation requires coordination
+- [DAOs](tags/daos.md) - Organizations creating knowledge gardens
+- [Governance](tags/governance.md) - Community stewardship of knowledge commons
+- [Teams](tags/teams.md) - Groups contributing to knowledge gardens
+- [Collaboration](tags/collaboration.md) - Collective intelligence through collaboration
+- [Primitives](tags/primitives.md) - Building blocks for decentralized knowledge systems

@@ -31,7 +31,7 @@ As highlighted in notes/links/to-review/A Pocket Guide to DAO Frameworks, differ
 
 ### As the Engine of Scalable Operations
 
-In scalable network models, as described in artifacts/articles/network-evolution 1/Building DAOs as scalable networks, the treasury is the critical resource that fuels the entire system. It is managed through a multi-layered governance approach:
+In scalable network models, as described in [Building DAOs as scalable networks](../artifacts/dao-primitives-framework/network-evolution/Building DAOs as scalable networks.md), the treasury is the critical resource that fuels the entire system. It is managed through a multi-layered governance approach:
 - **Community Governance** acts as a safeguard, holding ultimate authority by approving the overall operational budget from the main treasury. This ensures all operations remain aligned with the network's long-term purpose.
 - **Operational Governance**, carried out by coordinating [Cells](drafts/test-resources/test-pattern.md), then has the autonomy to allocate this budgeted capital to specific projects and contributors, enabling agility and innovation at the team scale.
 
@@ -41,14 +41,9 @@ The treasury is the primary [shared resource](tags/resources.md) that a DAO's [g
 
 ## Related Concepts
 
-- [Governance](tags/governance.md): The set of processes used to manage and allocate the treasury's assets.
+- Governance: The set of processes used to manage and allocate the treasury's assets.
 - [DAOs](tags/daos.md): The organizations that collectively own and are powered by a treasury.
-- [Resources](tags/resources.md): The treasury is the primary financial resource pool for a DAO.
+- Resources: The treasury is the primary financial resource pool for a DAO.
 - [Wallets](tags/wallets.md): The treasury itself is often a multi-signature wallet or smart contract, and members use their personal wallets to vote on its use.
-<<<<<<< HEAD
-- [Cells](drafts/test-resources/test-pattern.md): The autonomous operational units often funded by the DAO's treasury to perform work.
-- [A Pocket Guide to DAO Frameworks](drafts/trash/A Pocket Guide to DAO Frameworks.md): An overview of technical systems that define how a treasury can be managed.
-=======
 - Cells: The autonomous operational units often funded by the DAO's treasury to perform work.
-- notes/links/to-review/A Pocket Guide to DAO Frameworks: An overview of technical systems that define how a treasury can be managed.
->>>>>>> ed3965f10697610f55ce4cd0e9e9f7e5f60c486a
+- [A Pocket Guide to DAO Frameworks](../links/a-pocket-guide-to-dao-frameworks.md): An overview of technical systems that define how a treasury can be managed.

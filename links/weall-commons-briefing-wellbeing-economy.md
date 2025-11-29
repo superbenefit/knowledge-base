@@ -16,7 +16,7 @@ tags:
   - regenerative-economics
 ---
 
-This policy briefing from the Wellbeing Economy Alliance (WEAll) articulates how commons-based approaches to resource governance can serve collective wellbeing and ecological health rather than perpetuating extractive growth economics. WEAll—a global collaboration of organizations, alliances, and individuals working toward wellbeing economies—synthesizes commons theory, ecological economics, and practical governance examples to show why shared stewardship of resources offers viable alternative to both privatization and state control. The briefing makes accessible complex economic concepts, providing frameworks and case studies that policymakers, community organizers, and practitioners can use to advocate for and implement commons approaches in diverse contexts from local land trusts to digital platform governance.
+This policy briefing from the Wellbeing Economy Alliance (WEAll) articulates how [commons](tags/commons.md)-based approaches to resource [governance](tags/governance.md) can serve collective wellbeing and ecological health rather than perpetuating extractive growth economics. WEAll—a global collaboration of organizations, alliances, and individuals working toward wellbeing economies—synthesizes commons theory, ecological economics, and practical governance examples to show why shared stewardship of resources offers viable alternative to both privatization and state control. The briefing makes accessible complex economic concepts, providing frameworks and case studies that policymakers, [community](tags/community.md) organizers, and practitioners can use to advocate for and implement commons approaches in diverse contexts from local land trusts to digital platform governance.
 
 ### Key Highlights
 
@@ -26,7 +26,7 @@ This policy briefing from the Wellbeing Economy Alliance (WEAll) articulates how
 
 - **Against False Dichotomy**: The briefing explicitly counters the presumed choice between private property (leading to extraction) and state ownership (leading to inefficiency), showing how commons offer third way that combines distributed stewardship with collective accountability.
 
-- **Participatory Decision-Making**: The work emphasizes how commons require participatory governance where those affected by resource decisions have voice in management—demonstrating that economic democracy and ecological sustainability reinforce rather than conflict with each other.
+- **Participatory Decision-Making**: The work emphasizes how commons require participatory governance where those affected by resource decisions have voice in management—demonstrating that economic democracy and ecological [sustainability](tags/sustainability.md) reinforce rather than conflict with each other.
 
 - **Ecological Limits**: Drawing on ecological economics, the briefing frames commons as approach for living within planetary boundaries, showing how shared stewardship enables collective self-limitation where market competition drives overconsumption.
 
@@ -58,6 +58,16 @@ The policy-oriented framing makes the briefing particularly useful for advocacy 
 
 - WEAll's challenge to growth-at-all-costs economics provides essential framing for SuperBenefit's regenerative approach, showing why genuinely transformative Web3 systems must optimize for collective wellbeing and ecological health rather than merely decentralizing GDP growth models—the briefing demonstrates that commons governance can prioritize regeneration over extraction when properly structured.
 
-- The documented commons governance models across community land trusts, cooperative fisheries, and indigenous stewardship systems validate SuperBenefit's emphasis on shared resource management and community stewardship, offering proven precedents that DAO governance can learn from rather than assuming blockchain represents entirely novel coordination challenges.
+- The documented commons governance models across community land trusts, cooperative fisheries, and indigenous stewardship systems validate SuperBenefit's emphasis on shared resource management and community stewardship, offering proven precedents that DAO governance can learn from rather than assuming blockchain represents entirely novel [coordination](tags/coordination.md) challenges.
 
-- The briefing's articulation of commons as third way beyond private property and state control resonates with SuperBenefit's exploration of coordination systems that distribute power beyond traditional market/state dichotomies, showing how participatory resource governance can combine distributed stewardship with collective accountability—relevant to how DAOs can serve commons rather than reproducing corporate structures with tokens.
+- The briefing's articulation of commons as third way beyond private property and state control resonates with SuperBenefit's exploration of coordination systems that distribute [power](tags/power.md) beyond traditional market/state dichotomies, showing how participatory resource governance can combine distributed stewardship with collective accountability—relevant to how DAOs can serve commons rather than reproducing corporate structures with tokens.
+
+---
+
+## Related Concepts
+
+- Commons - Shared resources and governance approaches
+- Governance - Decision-making for collective resources
+- Coordination - Mechanisms for managing shared resources
+- Sustainability - Long-term resource stewardship
+- Community - Groups managing commons together

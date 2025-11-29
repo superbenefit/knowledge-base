@@ -15,7 +15,7 @@ tags:
   - coliving
 ---
 
-Cabin DAO represents practical experiment in using decentralized coordination tools to build "network city"—geographically distributed neighborhoods connected through shared regenerative values rather than proximity. The project coordinates physical infrastructure including coliving spaces, workshops, and community gathering places across multiple locations, using DAO governance structures to align members around place-making principles. Rather than treating decentralized organization as purely digital phenomenon, Cabin demonstrates how coordination primitives can support communities investing in land, buildings, and local ecosystems. The Census tool maps member locations and creates visibility into distributed network, showing how digital coordination enables physical community building that transcends traditional geographic constraints while maintaining bioregional rootedness.
+Cabin DAO represents practical experiment in using [decentralized](tags/decentralization.md) [coordination](tags/coordination.md) tools to build "network city"—geographically distributed neighborhoods connected through shared regenerative values rather than proximity. The project coordinates physical infrastructure including coliving spaces, workshops, and [community](tags/community.md) gathering places across multiple locations, using DAO [governance](tags/governance.md) structures to align members around place-making principles. Rather than treating decentralized organization as purely digital phenomenon, Cabin demonstrates how coordination primitives can support communities investing in land, buildings, and local ecosystems. The Census tool maps member locations and creates visibility into distributed network, showing how digital coordination enables physical community building that transcends traditional geographic constraints while maintaining bioregional rootedness.
 
 ### Key Highlights
 
@@ -48,3 +48,13 @@ This model enables network city experimentation:
 - Cabin's network city model challenges SuperBenefit to consider how coordination primitives enable not just digital collaboration but physical place-making and bioregional stewardship, demonstrating that effective tools for decentralized organization should support communities investing in land, buildings, and local ecosystems—showing that "decentralization" means more than software governance but includes regenerating physical spaces through distributed coordination.
 
 - The tension Cabin navigates between DAO coordination mechanisms and place-based community needs validates SuperBenefit's attention to social context in primitive design, illustrating that digital coordination tools must accommodate physical infrastructure management, local relationship building, and bioregional specificity rather than imposing standardized governance patterns that ignore material realities of land stewardship and neighborhood formation.
+
+---
+
+## Related Concepts
+
+- [DAOs](tags/daos.md) - Organizations using these platforms and tools
+- Coordination - Mechanisms for organizing work
+- Governance - Decision-making frameworks
+- Community - Networks and collaborative structures
+- [Primitives](tags/primitives.md) - Building blocks for coordination tools

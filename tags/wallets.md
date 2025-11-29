@@ -36,8 +36,8 @@ From a [resources](tags/resources.md) perspective, a non-custodial wallet gives 
 
 ## Related Concepts
 
-- [DAOs](tags/daos.md): Wallets are the essential interface for members to interact with and govern a DAO.
-- [Governance](tags/governance.md): Wallets are the tools used to execute governance rights, such as voting and creating proposals.
-- [Resources](tags/resources.md): A wallet holds the keys that grant control over an individual's on-chain resources.
+- DAOs: Wallets are the essential interface for members to interact with and govern a DAO.
+- Governance: Wallets are the tools used to execute governance rights, such as voting and creating proposals.
+- Resources: A wallet holds the keys that grant control over an individual's on-chain resources.
 - [Permissions](tags/permissions.md): A user's on-chain permissions are tied to their wallet, which holds the keys needed to perform authorized actions.
 - [Decentralization](tags/decentralization.md): Non-custodial wallets are a cornerstone of decentralization, giving users direct control over their assets and identity without relying on intermediaries.

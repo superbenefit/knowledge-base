@@ -15,7 +15,7 @@ tags:
   - social-innovation
 ---
 
-Stanford Social Innovation Review's critical analysis examines how "for good" rhetoric in Web3 can function as cover for extraction and power concentration rather than genuine social benefit. As blockchain projects increasingly claim impact missions, SSIR explores how progressive language about empowerment, decentralization, and community benefit can obscure who actually profits and whose interests systems serve. The piece provides framework for distinguishing projects genuinely redistributing power from those using social impact branding to legitimize wealth extraction, showing how to evaluate whether Web3 initiatives serve stated communities or primarily enrich founders and investors deploying progressive rhetoric for marketing purposes.
+Stanford Social Innovation Review's critical analysis examines how "for good" rhetoric in Web3 can function as cover for extraction and [power](tags/power.md) concentration rather than genuine social benefit. As blockchain projects increasingly claim [impact](tags/impact.md) missions, SSIR explores how progressive language about empowerment, decentralization, and [community](tags/community.md) benefit can obscure who actually profits and whose interests systems serve. The piece provides framework for distinguishing projects genuinely redistributing power from those using social impact branding to legitimize wealth extraction, showing how to evaluate whether Web3 initiatives serve stated communities or primarily enrich founders and investors deploying progressive rhetoric for marketing purposes.
 
 ### Key Highlights
 
@@ -27,7 +27,7 @@ Stanford Social Innovation Review's critical analysis examines how "for good" rh
 
 - **Community Versus Capital**: The analysis explores tension between serving community needs and providing investor returns, showing how projects claiming both often prioritize capital appreciation while using community benefit language to attract users whose activity generates value captured by token holders.
 
-- **Evaluation Criteria**: SSIR offers specific questions for assessing whether Web3 projects genuinely serve impact goals—who controls governance, how value distributes, whose problems are solved, what alternatives exist—enabling critical evaluation beyond self-descriptions.
+- **Evaluation Criteria**: SSIR offers specific questions for assessing whether Web3 projects genuinely serve impact goals—who controls [governance](tags/governance.md), how value distributes, whose problems are solved, what alternatives exist—enabling critical evaluation beyond self-descriptions.
 
 - **Structural Not Individual**: The critique focuses on systemic dynamics rather than individual bad actors, showing how even well-intentioned projects can reproduce extraction when structural incentives reward wealth concentration over community benefit.
 
@@ -47,8 +47,18 @@ This framework enables critical Web3 evaluation:
 
 ### Connection With SuperBenefit
 
-- SSIR's critique of "for good" as legitimacy strategy challenges SuperBenefit to continuously examine whether coordination primitives genuinely redistribute power or use progressive language to obscure concentration—demonstrating that power-aware analysis requires scrutinizing actual governance and value distribution rather than accepting stated commitments to regeneration without verifying implementation.
+- SSIR's critique of "for good" as legitimacy strategy challenges SuperBenefit to continuously examine whether [coordination](tags/coordination.md) primitives genuinely redistribute power or use progressive language to obscure concentration—demonstrating that power-aware analysis requires scrutinizing actual governance and value distribution rather than accepting stated commitments to regeneration without verifying implementation.
 
 - The framework for distinguishing genuine impact from washing provides tools for SuperBenefit to evaluate DAO mechanisms rigorously, asking whose wealth increases, who controls decisions, and whose labor is extracted rather than assuming decentralization automatically produces equitable outcomes—showing that effective assessment requires analyzing structural incentives alongside stated values.
 
 - SSIR's emphasis on structural dynamics over individual intentions resonates with SuperBenefit's understanding that regenerative coordination requires designing systems where incentives align with collective benefit rather than relying on good intentions within extractive structures—validating the conviction that genuine transformation demands changing structural dynamics, not just rhetoric or participant virtue.
+
+---
+
+## Related Concepts
+
+- [ReFi](tags/refi.md) - Regenerative finance and alternative economics
+- Coordination - Mechanisms for resource allocation
+- Community - Local and regional organizing
+- [Sustainability](tags/sustainability.md) - Ecological and social resilience
+- Governance - Decision-making about resource distribution

@@ -170,3 +170,11 @@ The Institute for Community Sustainability established London, Ontario's first G
 - "Regenerative Urban Development" - Pamela Mang & Ben Haggard
 - "The Transition Companion" - Rob Hopkins
 - "Governing the Commons" - Elinor Ostrom
+---
+
+## Related Concepts
+
+- [Networks](tags/networks.md) - Local nodes within networks
+- [Localism](tags/localism.md) - Local autonomy principles
+- [Coordination](tags/coordination.md) - Node coordination
+- [Teams](tags/teams.md) - Local working groups

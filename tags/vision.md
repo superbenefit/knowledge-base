@@ -10,17 +10,17 @@ publish: "true"
 
 ---
 
-_Vision is an aspirational, future-oriented description of the world an organization or community seeks to create, providing a compelling and concrete image that inspires action, guides strategy, and creates alignment across diverse participants._
+_Vision is an aspirational, future-oriented description of the world an organization or [community](community.md) seeks to create, providing a compelling and concrete image that inspires action, guides strategy, and creates alignment across diverse participants._
 
-Vision functions as a north star that orients collective effort toward a shared destination, making abstract purpose tangible and actionable. While purpose addresses the fundamental "why" behind collective action, vision articulates the specific "what" - the observable conditions and outcomes that will exist when purpose is realized. This clarity helps translate broad values and aspirations into strategic direction and practical decision-making.
+Vision functions as a north star that orients collective effort toward a shared destination, making abstract purpose tangible and actionable. While purpose addresses the fundamental "why" behind collective action, vision articulates the specific "what" - the observable conditions and outcomes that will exist when purpose is realized. This clarity helps translate broad [values](values.md) and aspirations into strategic direction and practical [decision-making](decision-making.md).
 
-In decentralized contexts, vision plays a crucial coordination role by creating coherence without requiring centralized control. When participants share a vivid, meaningful vision of success, they can make autonomous decisions that naturally align with collective aims. Effective visions balance aspiration with achievability, clarity with adaptability, and boldness with practical relevance to the organization's capabilities and context.
+In [decentralized](decentralization.md) contexts, vision plays a crucial [coordination](coordination.md) role by creating coherence without requiring centralized control. When participants share a vivid, meaningful vision of success, they can make autonomous decisions that naturally align with collective aims. Effective visions balance aspiration with achievability, clarity with adaptability, and boldness with practical relevance to the organization's capabilities and context.
 
 ---
 
 ## Uses of "Vision"
 
-### Vision in DAO Governance
+### Vision in DAO [Governance](governance.md)
 
 In DAO governance frameworks, vision provides the strategic direction that guides long-term decision-making. As explored in Governance for better futures, effective governance requires "metaframes" that help diverse stakeholders navigate complexity while maintaining direction. Vision serves this purpose by establishing a shared destination that governance mechanisms can protect and advance.
 
@@ -30,7 +30,7 @@ The relationship between vision and governance is bidirectional - vision guides 
 
 In decentralized coordination contexts, vision creates alignment without requiring command-and-control structures. When autonomous teams share a clear vision of success, they can self-organize effectively toward common goals while maintaining their independence and contextual responsiveness.
 
-As described in DAOs - From fractal primitives to network scale., this enables a network to "reorient itself organically" as participants flow toward the most promising opportunities for realizing the shared vision. Unlike traditional strategic planning that attempts to dictate specific paths, vision-based coordination allows multiple approaches to emerge and evolve based on learning and changing conditions.
+As described in [DAOs](daos.md) - From fractal [primitives](primitives.md) to network scale., this enables a network to "reorient itself organically" as participants flow toward the most promising opportunities for realizing the shared vision. Unlike traditional strategic planning that attempts to dictate specific paths, vision-based coordination allows multiple approaches to emerge and evolve based on learning and changing conditions.
 
 ### Vision in Social Impact
 

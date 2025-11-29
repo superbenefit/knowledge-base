@@ -423,7 +423,7 @@ If you are setting up multi-stakeholder governance inside an existing [DAO](tags
     - Governance platforms (Snapshot, Tally, Commonwealth, etc.)
     - Communication tools (Discord, Discourse, Telegram, etc.)
     - Documentation systems (Charmverse, Notion, GitHub, etc.)
-    - Voting mechanisms ([token-based](artifacts/articles/network-evolution/Building DAOs as scalable networks.md#community-governance), [quadratic](artifacts/articles/governance-for-better-futures/Governance for better futures - Meta-governance.md#quadratic-voting), reputation-based, etc.)
+    - Voting mechanisms ([token-based](artifacts/dao-primitives-framework/network-evolution/Building DAOs as scalable networks.md#community-governance), [quadratic](artifacts/articles/governance-for-better-futures/Governance for better futures - Meta-governance.md#quadratic-voting), reputation-based, etc.)
 3. **Implementation Approach**
     - Start with minimum viable governance tools as required by the [phase](tags/groups.md#groups-in-developmental-phases) of development
     - Create clear user guides, videos and other resources to support accessibility for all community members
@@ -529,3 +529,16 @@ The separation between stakeholder guidance and operational execution is central
 
 
 
+
+---
+
+## Related Concepts
+
+- [Multi-Stakeholder Governance](artifacts/patterns/community-governance.md) - Pattern for community-level governance
+- [Operational Governance](artifacts/patterns/operational-governance.md) - Day-to-day execution within stakeholder-set boundaries
+- [Cell](artifacts/patterns/cell.md) - Small autonomous teams that form operational structure
+- [Governance](tags/governance.md) - Decision-making frameworks and processes
+- [Coordination](tags/coordination.md) - Mechanisms for aligning stakeholder and operational activities
+- [DAOs](tags/daos.md) - Organizations using multi-stakeholder governance
+- [Primitives](tags/primitives.md) - Building blocks for governance systems
+- [Teams](tags/teams.md) - Stakeholder groups and operational cells

@@ -15,7 +15,7 @@ tags:
   - power-redistribution
 ---
 
-Rockefeller Philanthropy Advisors' comprehensive report examines power as central to both philanthropic practice and systems transformation, showing that addressing power dynamics isn't optional add-on but fundamental requirement for genuine change. The framework demonstrates how traditional philanthropy consolidates power with wealthy donors while claiming to serve marginalized communities, undermining transformation goals. Rather than incremental improvements to extractive structures, the report calls for fundamental power redistribution from funders to communities—participatory allocation, community leadership, structural change enabling rather than controlling transformation. This provides rigorous analysis and practical frameworks for funders serious about catalyzing systems change through power equity.
+Rockefeller Philanthropy Advisors' comprehensive report examines [power](tags/power.md) as central to both philanthropic practice and systems transformation, showing that addressing power dynamics isn't optional add-on but fundamental requirement for genuine change. The framework demonstrates how traditional philanthropy consolidates power with wealthy donors while claiming to serve marginalized [communities](tags/community.md), undermining transformation goals. Rather than incremental improvements to extractive structures, the report calls for fundamental power redistribution from funders to communities—participatory allocation, community leadership, structural change enabling rather than controlling transformation. This provides rigorous analysis and practical frameworks for funders serious about catalyzing systems change through power equity.
 
 ### Key Highlights
 
@@ -47,8 +47,18 @@ This framework enables power-shifting philanthropy:
 
 ### Connection With SuperBenefit
 
-- Rockefeller's emphasis on power as central to transformation resonates with SuperBenefit's power-aware approach to coordination primitives, showing that effective tools must address power dynamics rather than assuming technical mechanisms alone redistribute authority—suggesting that DAO governance requires explicit power analysis and redistribution design not just decentralized voting.
+- Rockefeller's emphasis on power as central to transformation resonates with SuperBenefit's power-aware approach to [coordination](tags/coordination.md) primitives, showing that effective tools must address power dynamics rather than assuming technical mechanisms alone redistribute authority—suggesting that DAO [governance](tags/governance.md) requires explicit power analysis and redistribution design not just decentralized voting.
 
 - The framework's call for community leadership rather than funder control validates SuperBenefit's conviction that coordination tools should enable community self-determination, demonstrating that genuinely empowering systems support communities defining their own priorities and solutions rather than imposing external frameworks claiming universal applicability.
 
 - Rockefeller's connection of power-shifting philanthropy with structural transformation validates SuperBenefit's understanding that coordination primitive development serves broader systems change—showing that funding mechanisms, governance structures, and economic systems interrelate rather than changing in isolation, requiring coordinated transformation addressing power across interconnected systems.
+
+---
+
+## Related Concepts
+
+- Power - Distribution and transformation in funding relationships
+- Governance - Decision-making in philanthropic contexts
+- Community - Leadership and self-determination
+- Coordination - Mechanisms for resource distribution
+- [Grants](tags/grants.md) - Funding approaches and practices

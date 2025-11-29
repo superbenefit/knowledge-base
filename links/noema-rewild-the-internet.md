@@ -15,7 +15,7 @@ tags:
   - decentralization
 ---
 
-Noema's powerful essay applies ecological rewilding principles to internet infrastructure, showing how current platform monoculture mirrors agricultural monocultures vulnerable to collapse. Just as industrial farming creates fragile ecosystems dependent on chemical inputs, platform monopolies create brittle internet infrastructure where single points of failure threaten entire digital ecosystems. Rewilding requires restoring biodiversity—multiple protocols, federated platforms, interoperable services—creating resilient internet ecosystems that can withstand disruption. The essay shows how decentralization, commons governance, and protocol diversity constitute digital rewilding, offering regenerative alternative to extractive platform capitalism that concentrates power while creating systemic fragility.
+Noema's powerful essay applies ecological rewilding principles to internet infrastructure, showing how current platform monoculture mirrors agricultural monocultures vulnerable to collapse. Just as industrial farming creates fragile ecosystems dependent on chemical inputs, platform monopolies create brittle internet infrastructure where single points of failure threaten entire digital ecosystems. Rewilding requires restoring biodiversity—multiple protocols, federated platforms, interoperable services—creating resilient internet ecosystems that can withstand disruption. The essay shows how [decentralization](tags/decentralization.md), commons [governance](tags/governance.md), and protocol diversity constitute digital rewilding, offering regenerative alternative to extractive platform capitalism that concentrates power while creating systemic fragility.
 
 ### Key Highlights
 
@@ -47,8 +47,18 @@ This framework enables regenerative internet development:
 
 ### Connection With SuperBenefit
 
-- Noema's rewilding metaphor provides powerful framework for SuperBenefit's regenerative approach, showing that genuinely transformative coordination infrastructure requires ecosystem biodiversity rather than monopolistic platforms—suggesting that DAO primitives should prioritize interoperability and federation over proprietary lock-in, creating resilient coordination ecosystems not single-platform dominance.
+- Noema's rewilding metaphor provides powerful framework for SuperBenefit's regenerative approach, showing that genuinely transformative [coordination](tags/coordination.md) infrastructure requires ecosystem biodiversity rather than monopolistic platforms—suggesting that DAO primitives should prioritize interoperability and federation over proprietary lock-in, creating resilient coordination ecosystems not single-platform dominance.
 
 - The article's emphasis on systemic transformation resonates with SuperBenefit's understanding that genuine alternatives require fundamental restructuring not incremental platform reform—validating that regenerative coordination demands building parallel infrastructure and changing incentive structures, not just redistributing ownership of extractive systems.
 
 - Rewilding's restoration of commons governance validates SuperBenefit's conviction that healthy internet requires participatory stewardship rather than corporate or state control alone—showing that coordination primitives should enable collective stewardship of shared infrastructure, creating digital commons that communities govern together.
+
+---
+
+## Related Concepts
+
+- [Sustainability](tags/sustainability.md) - Ecological approaches to technology
+- Coordination - Alternative organizing mechanisms
+- [Community](tags/community.md) - Digital and local organizing
+- [Regeneration](tags/regeneration.md) - Restorative systems design
+- Governance - Democratic technology frameworks

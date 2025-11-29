@@ -15,15 +15,15 @@ tags:
   - mission-alignment
 ---
 
-SSIR's ten nonprofit funding models framework provides systematic categorization of how organizations sustain themselves financially, from individual donations to government contracts to earned revenue. Rather than treating all funding as equivalent, the framework shows how different models create distinct organizational dynamics, require different capacities, and align differently with various missions. Understanding funding models enables nonprofits to make strategic choices about revenue sources rather than pursuing whatever funding appears available. The framework helps organizations assess which approaches fit their values, operational capabilities, and community relationships—recognizing that sustainable funding requires alignment between revenue sources and organizational identity.
+SSIR's ten nonprofit funding models framework provides systematic categorization of how organizations sustain themselves financially, from individual donations to government contracts to earned revenue. Rather than treating all funding as equivalent, the framework shows how different models create distinct organizational dynamics, require different capacities, and align differently with various missions. Understanding funding models enables nonprofits to make strategic choices about revenue sources rather than pursuing whatever funding appears available. The framework helps organizations assess which approaches fit their values, operational capabilities, and [community](tags/community.md) relationships—recognizing that sustainable funding requires alignment between revenue sources and organizational identity.
 
 ### Key Highlights
 
-- **Funding Model Categories**: SSIR identifies ten distinct approaches including individual donations, government grants, foundation support, corporate sponsorship, membership dues, fee-for-service, social enterprise, investment income—each with different implications for organizational governance and mission.
+- **Funding Model Categories**: SSIR identifies ten distinct approaches including individual donations, government [grants](tags/grants.md), foundation support, corporate sponsorship, membership dues, fee-for-service, social enterprise, investment income—each with different implications for organizational [governance](tags/governance.md) and mission.
 
 - **Strategic Alignment**: The framework emphasizes matching funding models to organizational mission and capabilities rather than pursuing all possible revenue sources, showing how wrong funding can undermine effectiveness even when providing resources.
 
-- **Organizational Implications**: Different funding models create different power dynamics—government contracts bring compliance requirements, foundation grants involve power imbalances, earned revenue creates market pressures—requiring organizations to assess which dynamics they can navigate while maintaining mission integrity.
+- **Organizational Implications**: Different funding models create different [power](tags/power.md) dynamics—government contracts bring compliance requirements, foundation grants involve power imbalances, earned revenue creates market pressures—requiring organizations to assess which dynamics they can navigate while maintaining mission integrity.
 
 - **Diversification Versus Focus**: SSIR explores tension between funding diversification reducing dependence on single source versus focus enabling deep relationships and aligned revenue, helping organizations decide when diversification strengthens versus fragments.
 
@@ -47,8 +47,18 @@ This framework enables strategic funding decisions:
 
 ### Connection With SuperBenefit
 
-- SSIR's framework for matching funding models to organizational mission provides tools for SuperBenefit to evaluate how different DAO funding mechanisms align with regenerative values—showing that coordination primitives should enable communities to choose revenue approaches serving their purposes rather than forcing all organizations through identical token economics or treasury models.
+- SSIR's framework for matching funding models to organizational mission provides tools for SuperBenefit to evaluate how different DAO funding mechanisms align with regenerative values—showing that [coordination](tags/coordination.md) primitives should enable communities to choose revenue approaches serving their purposes rather than forcing all organizations through identical token economics or treasury models.
 
 - The emphasis on understanding organizational implications of funding choices resonates with SuperBenefit's power-aware approach, demonstrating that revenue sources create dynamics affecting governance and decision-making—suggesting that DAO funding mechanisms should be evaluated for what power relationships they create not just what capital they provide.
 
 - SSIR's recognition that sustainable funding requires alignment between revenue and organizational identity validates SuperBenefit's conviction that coordination tools should serve community self-determination—showing that effective primitives enable organizations to sustain themselves through approaches reflecting their values rather than requiring compromise for financial viability.
+
+---
+
+## Related Concepts
+
+- Power - Dynamics in funding and resource distribution
+- Community - Organizations and movements being funded
+- Coordination - Mechanisms for collective resource allocation
+- [Impact](tags/impact.md) - Outcomes and effectiveness measures
+- Governance - Decision-making in funding contexts

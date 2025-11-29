@@ -112,3 +112,13 @@ For detailed guidance on implementing poetic harvesting in your organization or 
 - Griot and oral tradition practices for community memory
 - Graphic recording and visual harvesting approaches
 
+
+---
+
+## Related Concepts
+
+- [Gatherings](artifacts/patterns/gatherings.md) - Events where poetic harvesting creates shared meaning
+- [Coordination](tags/coordination.md) - Poetic harvesting supports collective sensemaking
+- [Community Governance](artifacts/patterns/community-governance.md) - Capturing community wisdom
+- [Collaboration](tags/collaboration.md) - Collective intelligence through conversation
+- [Teams](tags/teams.md) - Groups using harvesting to capture their work

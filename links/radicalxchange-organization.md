@@ -15,15 +15,15 @@ tags:
   - collective-agency
 ---
 
-RadicalxChange stands as foundational organization in democratic transformation and pluralistic coordination, developing mechanisms, research, and community for systemic transition beyond both extractive markets and authoritarian states. Co-founded by economist Glen Weyl, RxC advances quadratic voting, plural funding, data dignity, and other innovations showing how mechanism design can serve collective agency and democratic vitality. Rather than accepting dichotomy between free markets and state control, the organization articulates "third way" through plural publics where diverse communities govern shared resources cooperatively. RxC provides intellectual foundation, practical tools, and collaborative community for those building alternatives to extractive capitalism and authoritarian politics.
+RadicalxChange stands as foundational organization in democratic transformation and pluralistic [coordination](tags/coordination.md), developing mechanisms, research, and [community](tags/community.md) for systemic transition beyond both extractive markets and authoritarian states. Co-founded by economist Glen Weyl, RxC advances quadratic voting, plural funding, data dignity, and other innovations showing how mechanism design can serve collective agency and democratic vitality. Rather than accepting dichotomy between free markets and state control, the organization articulates "third way" through plural publics where diverse communities govern shared resources cooperatively. RxC provides intellectual foundation, practical tools, and collaborative community for those building alternatives to extractive capitalism and authoritarian politics.
 
 ### Key Highlights
 
-- **Democratic Mechanism Design**: RxC develops and studies governance mechanisms like quadratic voting and funding showing how mathematical innovation can serve democratic goals, moving beyond one-person-one-vote or one-dollar-one-vote limitations.
+- **Democratic Mechanism Design**: RxC develops and studies [governance](tags/governance.md) mechanisms like quadratic voting and funding showing how mathematical innovation can serve democratic goals, moving beyond one-person-one-vote or one-dollar-one-vote limitations.
 
 - **Plural Publics**: The organization articulates vision of "plurality"—recognizing and leveraging diversity rather than requiring consensus—showing how collaborative systems can harness difference instead of flattening into homogeneity.
 
-- **Data Dignity**: RxC advocates for data as labor deserving compensation and control rather than corporate or state property, showing how reclaiming data sovereignty could redistribute power currently concentrated with tech platforms.
+- **Data Dignity**: RxC advocates for data as labor deserving compensation and control rather than corporate or state property, showing how reclaiming data sovereignty could redistribute [power](tags/power.md) currently concentrated with tech platforms.
 
 - **Systemic Transition**: Rather than incremental reform, RadicalxChange pursues fundamental transformation of economic, political, and social systems toward democratic vitality and collective agency.
 
@@ -52,3 +52,13 @@ RxC enables democratic transformation practice:
 - The organization's "third way" beyond markets and states resonates with SuperBenefit's regenerative approach seeking alternatives to both platform capitalism and centralized control, validating conviction that decentralized coordination doesn't merely redistribute who benefits from extraction but can fundamentally transform economic and governance logics.
 
 - RxC's integration of rigorous research with practical tools provides model for SuperBenefit ensuring coordination primitives emerge from both theoretical grounding and implementation experience—showing that effective development requires dialogue between mechanism design innovation and community organizing practice, not just technical implementation or only academic speculation.
+
+---
+
+## Related Concepts
+
+- Coordination - Mechanisms for collective decision-making
+- Governance - Democratic and participatory frameworks
+- Community - Network organizing and collaboration
+- Power - Distribution and relational dynamics
+- [Sustainability](tags/sustainability.md) - Regenerative coordination approaches

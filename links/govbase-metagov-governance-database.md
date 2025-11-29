@@ -15,7 +15,7 @@ tags:
   - coordination-systems
 ---
 
-Govbase represents Metagov's systematic effort to document and analyze online governance systems across diverse platforms, protocols, and communities. The database catalogs governance mechanisms from DAOs to platform cooperatives to online communities, capturing information about decision-making processes, participation structures, proposal systems, and implementation patterns. Rather than theoretical speculation about governance possibilities, Govbase provides empirical foundation showing what coordination approaches actually exist, enabling researchers to study patterns across contexts and practitioners to learn from functioning systems. The searchable database makes governance knowledge accessible, supporting evidence-based design rather than reinventing coordination from first principles.
+Govbase represents Metagov's systematic effort to document and analyze online governance systems across diverse platforms, protocols, and communities. The database catalogs governance mechanisms from [DAOs](tags/daos.md) to platform cooperatives to online communities, capturing information about decision-making processes, participation structures, proposal systems, and implementation patterns. Rather than theoretical speculation about governance possibilities, Govbase provides empirical foundation showing what coordination approaches actually exist, enabling researchers to study patterns across contexts and practitioners to learn from functioning systems. The searchable database makes governance knowledge accessible, supporting evidence-based design rather than reinventing coordination from first principles.
 
 ### Key Highlights
 
@@ -43,7 +43,7 @@ Govbase enables evidence-based governance design:
 
 - Educators can use Govbase as teaching resource, showing students real examples of diverse governance approaches rather than only discussing theory or well-known cases
 
-- Platform developers can reference the database when designing governance features, understanding what coordination mechanisms communities actually use rather than building based on assumptions about what platforms should provide
+- Platform developers can reference the database when designing governance features, understanding what [coordination](tags/coordination.md) mechanisms communities actually use rather than building based on assumptions about what platforms should provide
 
 ### Connection With SuperBenefit
 
@@ -52,3 +52,13 @@ Govbase enables evidence-based governance design:
 - Metagov's commitment to making governance knowledge openly accessible resonates with SuperBenefit's emphasis on commons and shared infrastructure, demonstrating that coordination patterns should be public resources enabling collective learning rather than proprietary knowledge controlled by consulting firms or extracted through paywalled research.
 
 - The database's cross-domain coverage validates SuperBenefit's understanding that DAO coordination can learn from platform cooperatives, online communities, and civic tech—suggesting that effective primitives should draw on successful patterns wherever they appear rather than limiting design inspiration to crypto-native contexts.
+
+---
+
+## Related Concepts
+
+- DAOs - Organizations navigating governance challenges
+- [Governance](tags/governance.md) - Decision-making systems explored
+- Coordination - Mechanisms for collective action
+- [Decentralization](tags/decentralization.md) - Core principle examined
+- [Consensus](tags/consensus.md) - Decision-making processes

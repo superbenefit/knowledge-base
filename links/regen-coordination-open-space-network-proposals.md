@@ -15,7 +15,7 @@ tags:
   - collective-deliberation
 ---
 
-Regen Coordination's open space for network structure proposals exemplifies participatory approach to governance design where communities collectively explore organizational possibilities rather than accepting predetermined structures. The open forum invites diverse stakeholders to propose ideas about how regenerative networks should coordinate, make decisions, and distribute resources—creating space for emergence rather than implementing expert-designed systems. This process embodies regenerative values by treating coordination design itself as collective work requiring diverse perspectives, acknowledging that those participating in networks understand coordination needs better than external designers. The open space demonstrates how organizations can develop governance through ongoing dialogue rather than one-time founding decisions.
+Regen Coordination's open space for network structure proposals exemplifies participatory approach to [governance](tags/governance.md) design where [communities](tags/community.md) collectively explore organizational possibilities rather than accepting predetermined structures. The open forum invites diverse stakeholders to propose ideas about how regenerative networks should coordinate, make decisions, and distribute resources—creating space for emergence rather than implementing expert-designed systems. This process embodies regenerative values by treating [coordination](tags/coordination.md) design itself as collective work requiring diverse perspectives, acknowledging that those participating in networks understand coordination needs better than external designers. The open space demonstrates how organizations can develop governance through ongoing dialogue rather than one-time founding decisions.
 
 ### Key Highlights
 
@@ -50,3 +50,13 @@ This participatory design approach enables emergent coordination:
 - The commitment to emergent rather than imposed governance validates SuperBenefit's understanding that coordination tools should enable ongoing adaptation as communities learn what serves their needs, suggesting that DAO primitives should support iterative development rather than locking organizations into founding decisions that may not reflect community wisdom.
 
 - Regen Coordination's transparent public deliberation about structure provides model for how SuperBenefit can ensure that coordination primitive development reflects diverse community input rather than only technical implementers' perspectives, demonstrating that genuine participatory design requires creating accessible spaces for collective exploration of governance possibilities.
+
+---
+
+## Related Concepts
+
+- Coordination - Mechanisms for collective decision-making
+- Governance - Democratic and participatory frameworks
+- Community - Network organizing and collaboration
+- [Power](tags/power.md) - Distribution and relational dynamics
+- [Sustainability](tags/sustainability.md) - Regenerative coordination approaches

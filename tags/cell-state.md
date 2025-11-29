@@ -45,13 +45,15 @@ Note: It is still recommended that teams have access to skilled facilitation sup
 
 ## How the Cell State Pattern Works
 
-The Cell State Pattern captures a DAO Cell's dynamic state through three core dimensions:
+The Cell State Pattern captures a DAO Cell's dynamic state through three core dimensions using the **[nucleus](notes/dao-primitives/implementation/patterns/collaboration-scale-patterns/nucleus.md)** [primitive](tags/primitives.md) - a version-controlled document that tracks group state for both internal coherence and external [coordination](tags/coordination.md).
+
+When combined with the **[circle](notes/dao-primitives/implementation/patterns/collaboration-scale-patterns/circle.md)** primitive (sociocratic team structure), Cell State provides both the documentation framework (nucleus) and the organizational structure (circle) needed for autonomous [teams](tags/teams.md) to function effectively.
 
 **Purpose (Why)**
 The cell's vision, mission, and goals - defining its reason for existence and unique contribution to the network.
 
 **Practice (How)**
-The cell's operating model - including its practices, protocols, roles, and cultural norms for transforming purpose into action.
+The cell's operating model - including its practices, protocols, roles, and cultural norms for transforming purpose into action. This often incorporates circle structures with defined roles (facilitator, secretary, delegate, leader).
 
 **Progress (What)**
 The cell's actual achievements and impact - tracking initiatives, metrics, and value creation to enable accountability and adaptation.
@@ -195,3 +197,15 @@ AND (
     AND !contains(file.path, "drafts/")
 )
 ```
+
+---
+
+## Related Concepts
+
+- [Nucleus](notes/dao-primitives/implementation/patterns/collaboration-scale-patterns/nucleus.md) - The primitive for tracking group state that this pattern implements
+- [Circle](notes/dao-primitives/implementation/patterns/collaboration-scale-patterns/circle.md) - Sociocratic team structure primitive used in this pattern
+- [Cell Working Group](artifacts/patterns/cell.md) - The broader pattern for small autonomous teams that uses Cell State
+- [Primitives](tags/primitives.md) - Foundational building blocks combined in this pattern
+- [Teams](tags/teams.md) - Small autonomous groups that use this pattern for state documentation
+- [Coordination](tags/coordination.md) - Cell State enables coordination through transparent group state
+- [Governance](tags/governance.md) - State documentation supports governance practices

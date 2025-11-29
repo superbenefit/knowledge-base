@@ -17,7 +17,7 @@ tags:
   - tragedy-of-the-commons
 ---
 
-This peer-reviewed academic article represents a rigorous application of Elinor Ostrom's groundbreaking work on commons governance to blockchain and decentralized systems. Ostrom won the Nobel Prize in Economics for demonstrating that communities can successfully self-govern common-pool resources without privatization or state control, contradicting the "tragedy of the commons" narrative. This article examines how her empirically-derived design principles for successful commons institutions map onto blockchain protocols, offering scholarly analysis of whether and how decentralized systems can enable collective stewardship of shared resources at scale without central authority.
+This peer-reviewed academic article represents a rigorous application of Elinor Ostrom's groundbreaking work on [commons](tags/commons.md) [governance](tags/governance.md) to blockchain and decentralized systems. Ostrom won the Nobel Prize in Economics for demonstrating that [communities](tags/community.md) can successfully self-govern common-pool resources without privatization or state control, contradicting the "tragedy of the commons" narrative. This article examines how her empirically-derived design principles for successful commons institutions map onto blockchain protocols, offering scholarly analysis of whether and how decentralized systems can enable collective stewardship of shared resources at scale without central authority.
 
 ### Key Highlights
 
@@ -57,6 +57,16 @@ The article's scholarly rigor and connection to established commons theory provi
 
 - Ostrom's empirically-proven design principles for commons governance directly validate SuperBenefit's emphasis on bounded membership, participatory rule-making, and graduated accountability within small teams—providing Nobel Prize-winning evidence that community stewardship can outperform both markets and state control when properly structured.
 
-- The article's analysis of polycentricity offers theoretical grounding for SuperBenefit's multi-scale coordination approach, explaining why the RPP needed nested governance layers where operational decisions happen autonomously while strategic alignment occurs collectively, mirroring Ostrom's finding that successful commons govern at appropriate scales.
+- The article's analysis of polycentricity offers theoretical grounding for SuperBenefit's multi-scale [coordination](tags/coordination.md) approach, explaining why the RPP needed nested governance layers where operational decisions happen autonomously while strategic alignment occurs collectively, mirroring Ostrom's finding that successful commons govern at appropriate scales.
 
 - Demonstrates that "tragedy of the commons" is not inevitable but results from poor institutional design, supporting SuperBenefit's regenerative economics emphasis that shared resource governance can work when communities participate in creating rules rather than having allocations imposed externally.
+
+---
+
+## Related Concepts
+
+- Commons - Shared resources and governance approaches
+- Governance - Decision-making for collective resources
+- Coordination - Mechanisms for managing shared resources
+- [Sustainability](tags/sustainability.md) - Long-term resource stewardship
+- Community - Groups managing commons together

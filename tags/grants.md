@@ -37,12 +37,12 @@ As noted in notes/links/to-review/A Pocket Guide to DAO Frameworks, many of the 
 
 ### To Fund Autonomous Teams in Scalable Networks
 
-In the scalable network model described in artifacts/articles/network-evolution 1/Building DAOs as scalable networks, grants are essential for resourcing the small, autonomous teams ([Cells](drafts/test-resources/test-pattern.md)) that perform the network's work. Rather than receiving a salary from a central authority, Cells or individuals can submit proposals to the DAO's governance bodies to receive grants for specific projects. This model also supports innovative funding mechanisms like retroactive public goods funding, a type of grant that rewards past work that has proven valuable to the network, thereby incentivizing permissionless innovation.
+In the scalable network model described in [Building DAOs as scalable networks](../artifacts/dao-primitives-framework/network-evolution/Building DAOs as scalable networks.md), grants are essential for resourcing the small, autonomous teams ([Cells](drafts/test-resources/test-pattern.md)) that perform the network's work. Rather than receiving a salary from a central authority, Cells or individuals can submit proposals to the DAO's governance bodies to receive grants for specific projects. This model also supports innovative funding mechanisms like retroactive public goods funding, a type of grant that rewards past work that has proven valuable to the network, thereby incentivizing permissionless innovation.
 
 ## Related Concepts
 
-- [Treasury](tags/treasury.md): The collective pool of assets from which grants are funded.
-- [Governance](tags/governance.md): The decision-making process through which grant proposals are reviewed and approved.
-- [DAOs](tags/daos.md): The organizations that operate grants programs to achieve their goals.
-- [Resources](tags/resources.md): Grants are the mechanism for allocating a DAO's financial resources to contributors.
-- [Cells](drafts/test-resources/test-pattern.md): The autonomous teams and working groups that are often the recipients of grants.
+- Treasury: The collective pool of assets from which grants are funded.
+- Governance: The decision-making process through which grant proposals are reviewed and approved.
+- DAOs: The organizations that operate grants programs to achieve their goals.
+- Resources: Grants are the mechanism for allocating a DAO's financial resources to contributors.
+- Cells: The autonomous teams and working groups that are often the recipients of grants.

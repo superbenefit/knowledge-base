@@ -143,3 +143,13 @@ The team invites others exploring Web3 for social benefit to build on these insi
 
 _This progress report documents learnings through July 2025 in an ongoing experiment exploring [decentralized](tags/decentralization.md) [coordination](tags/coordination.md) patterns for social benefit. The work continues beyond this documentation period. We invite readers to adapt these insights for their own contexts and share their experiences to further collective learning._
 
+
+---
+
+## Related Concepts
+
+- [Case Studies](tags/case-studies.md) - Participatory funding experiment documentation
+- [Power](tags/power.md) - Redistribution through participatory processes
+- [Governance](tags/governance.md) - Decision-making in funding contexts
+- [Grants](tags/grants.md) - Funding mechanisms experimented with
+- [Coordination](tags/coordination.md) - Mechanisms for collective resource allocation

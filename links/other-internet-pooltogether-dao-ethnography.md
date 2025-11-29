@@ -15,7 +15,7 @@ tags:
   - governance-reality
 ---
 
-Other Internet's ethnographic study of PoolTogether DAO provides rare in-depth examination of how DAOs actually function beyond governance mechanisms visible onchain. Rather than analyzing token distributions or vote outcomes, the research explores community vibes, contributor labor dynamics, and stakeholder constituencies—the social infrastructure that shapes governance reality often invisible in protocol analysis. The ethnography documents how informal norms, relationship networks, communication patterns, and labor expectations create actual coordination while formal voting mechanisms provide legitimacy. This work challenges assumptions that governance happens primarily through onchain votes, showing how much DAO function depends on offchain social dynamics that token-weighted systems don't capture.
+Other Internet's ethnographic study of PoolTogether DAO provides rare in-depth examination of how [DAOs](tags/daos.md) actually function beyond [governance](tags/governance.md) mechanisms visible onchain. Rather than analyzing token distributions or vote outcomes, the research explores [community](tags/community.md) vibes, contributor labor dynamics, and stakeholder constituencies—the social infrastructure that shapes governance reality often invisible in protocol analysis. The ethnography documents how informal norms, relationship networks, communication patterns, and labor expectations create actual [coordination](tags/coordination.md) while formal voting mechanisms provide legitimacy. This work challenges assumptions that governance happens primarily through onchain votes, showing how much DAO function depends on offchain social dynamics that token-weighted systems don't capture.
 
 ### Key Highlights
 
@@ -52,3 +52,13 @@ This ethnography enables power-aware DAO understanding:
 - The documentation of invisible contributor labor resonates with SuperBenefit's understanding that coordination requires ongoing care work often uncompensated by token systems, challenging DAO primitives to value community building, conflict mediation, and knowledge work that makes governance possible but doesn't produce easily tokenized deliverables.
 
 - PoolTogether ethnography's revelation of stakeholder constituencies with distinct interests provides framework for SuperBenefit's power-aware approach, showing that technical decentralization doesn't eliminate political dynamics requiring navigation—suggesting that coordination primitives should acknowledge rather than obscure the stakeholder negotiation inherent in collective decision-making.
+
+---
+
+## Related Concepts
+
+- DAOs - Organizations and communities discussed
+- Coordination - Mechanisms for collective action
+- Governance - Decision-making in funding contexts
+- [Public Goods](tags/public-goods.md) - Commons funding approaches
+- [Impact](tags/impact.md) - Outcomes and value creation

@@ -25,7 +25,11 @@ Frameworks serve distinct yet complementary purposes across different domains: i
 
 In organizational contexts, frameworks provide structured approaches to governance, coordination, and development. They offer conceptual models for understanding key components and relationships in organizational systems, helping stakeholders visualize complex interactions and design coherent structures.
 
+<<<<<<< HEAD
 The [DAO Primitives Framework](artifacts/primitives-framework/primitives-framework-concepts.md) exemplifies this approach, providing foundational concepts and patterns for building decentralized organizations. As noted in the knowledge base, this framework explores how DAOs function as "purpose-aligned networks of small autonomous teams" and offers tools for facilitating group development across different phases and scales. This framework helps practitioners design organizations that balance autonomy with coordination, creating systems that can scale while maintaining alignment with core purpose.
+=======
+The [DAO Primitives framework](../artifacts/guides/dao-primitives-framework/index.md) exemplifies this approach, providing foundational concepts and patterns for building decentralized organizations. As noted in the knowledge base, this framework explores how DAOs function as "purpose-aligned networks of small autonomous teams" and offers tools for facilitating group development across different phases and scales. This framework helps practitioners design organizations that balance autonomy with coordination, creating systems that can scale while maintaining alignment with core purpose.
+>>>>>>> f0cebfda2a6f6cb818dc70d708ddc5b83bc34361
 
 ### Frameworks in Web3 Governance
 
@@ -54,7 +58,11 @@ The various frameworks discussed in the "Governance for better futures" series o
 
 Several key frameworks are documented and developed within the SuperBenefit ecosystem:
 
+<<<<<<< HEAD
 - **[DAO Primitives Framework](artifacts/primitives-framework/primitives-framework-concepts.md)**: A conceptual model for understanding and designing decentralized autonomous organizations
+=======
+- **[DAO Primitives Framework](artifacts/guides/dao-primitives-framework/index.md)**: A conceptual model for understanding and designing decentralized autonomous organizations
+>>>>>>> f0cebfda2a6f6cb818dc70d708ddc5b83bc34361
 - **Anticapture**: A framework for designing governance systems resistant to power concentration and exploitation
 - **[Modular Politics](drafts/trash/Modular Politics.md)**: An approach to governance that emphasizes composable, interchangeable components
 - **The Blockchain Governance Toolkit**: A resource for implementing effective governance in blockchain-based systems

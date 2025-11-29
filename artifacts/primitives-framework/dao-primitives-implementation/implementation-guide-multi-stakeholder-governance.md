@@ -449,7 +449,11 @@ If you are setting up multi-stakeholder governance inside an existing [DAO](tags
    - Governance platforms (Snapshot, Tally, Commonwealth, etc.)
    - Communication tools (Discord, Discourse, Telegram, etc.)
    - Documentation systems (Charmverse, Notion, GitHub, etc.)
+<<<<<<< HEAD:artifacts/primitives-framework/dao-primitives-implementation/implementation-guide-multi-stakeholder-governance.md
    - Voting mechanisms ([token-based](artifacts/primitives-framework/network-evolution/Building DAOs as scalable networks.md#community-governance), quadratic, reputation-based, etc.)
+=======
+   - Voting mechanisms ([token-based](artifacts/dao-primitives-framework/network-evolution/Building DAOs as scalable networks.md#community-governance), [quadratic](artifacts/articles/governance-for-better-futures/Governance for better futures - Meta-governance.md#quadratic-voting), reputation-based, etc.)
+>>>>>>> f0cebfda2a6f6cb818dc70d708ddc5b83bc34361:artifacts/dao-primitives-framework/dao-primitives-implemention/implementation-guide-multi-stakeholder-governance.md
 
 3. **Implementation Approach**
    - Start with minimum viable governance tools as required by the [phase](tags/groups.md#groups-in-developmental-phases) of development
@@ -544,3 +548,13 @@ The partnership model of multi-stakeholder governance offers a powerful framewor
 Remember that governance is a journey rather than a destination. Start with clear purpose alignment and basic mechanisms, then evolve your approach based on real experience and feedback. The most effective governance emerges from thoughtful design followed by continuous learning and adaptation.
 
 The separation between stakeholder guidance and operational execution is central to reimagining power within your organization. When implemented effectively, this model allows each group to contribute their unique value while respecting the autonomy and context of others.
+
+---
+
+## Related Concepts
+
+- [Governance](tags/governance.md) - Decision-making systems being implemented
+- [DAOs](tags/daos.md) - Organizations implementing these patterns
+- [Coordination](tags/coordination.md) - Mechanisms for implementing governance
+- [Primitives](tags/primitives.md) - Building blocks used in implementation
+- [DAO Primitives Framework](notes/dao-primitives/index.md) - Framework guiding implementation

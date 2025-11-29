@@ -24,7 +24,7 @@ Think of patterns as shortcuts to success. Instead of reinventing the wheel ever
 *   **Efficiency:** Patterns save time and effort by providing a ready-made solution.
 *   **Consistency:** Patterns ensure that solutions are implemented consistently across different projects and contexts.
 *   **Quality:** Patterns promote the use of proven and effective approaches.
-*   **Knowledge Sharing:** Patterns facilitate the sharing of knowledge and best practices within a community.
+*   **Knowledge Sharing:** Patterns facilitate the sharing of knowledge and best practices within a [community](community.md).
 
 ## Patterns in Action
 
@@ -32,11 +32,11 @@ Patterns can be applied to a wide range of challenges, such as:
 
 *   **Software Design:** Design patterns provide solutions for common software design problems.
 *   **Organizational Structure:** Organizational patterns offer guidance on building effective teams and organizations.
-*   **Community Governance:** Governance patterns provide frameworks for making decisions and managing resources in a decentralized community.
+*   **Community [Governance](governance.md):** Governance patterns provide frameworks for making decisions and managing resources in a [decentralized](decentralization.md) community.
 
 ## Patterns at SuperBenefit
 
-At SuperBenefit, we use patterns to capture and share our collective knowledge about building effective DAOs, Web3 projects, and social impact initiatives. Our patterns are designed to be:
+At SuperBenefit, we use patterns to capture and share our collective knowledge about building effective [DAOs](daos.md), Web3 projects, and social impact initiatives. Our patterns are designed to be:
 
 *   **Reusable:** They can be adapted and applied to a variety of projects and contexts.
 *   **Practical:** They provide clear and actionable guidance.
@@ -58,3 +58,11 @@ Whether you're building a DAO, a Web3 project, or a social impact initiative, pa
 *   **Share Your Knowledge:** Contribute your own patterns to help others solve problems more effectively.
 
 By embracing patterns, you can accelerate your progress, improve your results, and contribute to a more collaborative and innovative future.
+---
+
+## Related Concepts
+
+- [Primitives](tags/primitives.md) - Building blocks combined into patterns
+- [Playbooks](tags/playbooks.md) - Collections of patterns
+- [Practices](tags/practices.md) - Implemented patterns
+- [DAO Primitives Framework](notes/dao-primitives/index.md) - Framework using patterns

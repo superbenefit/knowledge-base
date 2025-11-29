@@ -17,13 +17,13 @@ tags:
   - commons-technology
 ---
 
-This peer-reviewed academic article provides a deep theoretical analysis of how anarchist political philosophy—particularly principles of mutual aid, voluntary association, and anti-hierarchical organization—can inform the design of technological systems. Published in a leading social science journal, the work bridges historical anarchist thought (Kropotkin, Bakunin) with contemporary cybernetics and systems thinking to argue for technological approaches that enable cooperation without coercion. The analysis challenges both Silicon Valley's libertarian individualism and state-centric tech regulation, offering a third path grounded in collective self-organization and mutual support networks that stands as a rigorous scholarly foundation for anyone exploring alternatives to extractive technology.
+This peer-reviewed academic article provides a deep theoretical analysis of how anarchist political philosophy—particularly principles of [mutual aid](tags/mutual-aid.md), voluntary association, and anti-hierarchical organization—can inform the design of technological systems. Published in a leading social science journal, the work bridges historical anarchist thought (Kropotkin, Bakunin) with contemporary cybernetics and systems thinking to argue for technological approaches that enable cooperation without coercion. The analysis challenges both Silicon Valley's libertarian individualism and state-centric tech regulation, offering a third path grounded in collective self-organization and mutual support networks that stands as a rigorous scholarly foundation for anyone exploring alternatives to extractive technology.
 
 ### Key Highlights
 
-- **Mutual Aid as Design Principle**: The article recovers Kropotkin's concept of mutual aid—cooperation for shared benefit without central authority—as a technical design principle. It shows how distributed systems can be architected around voluntary cooperation rather than market competition or state mandate, providing theoretical grounding for why commons-based peer production works.
+- **Mutual Aid as Design Principle**: The article recovers Kropotkin's concept of mutual aid—cooperation for shared benefit without central authority—as a technical design principle. It shows how distributed systems can be architected around voluntary cooperation rather than market competition or state mandate, providing theoretical grounding for why [commons](tags/commons.md)-based peer production works.
 
-- **Anti-Hierarchical System Architecture**: Drawing on anarchist organizational theory, the work explores how technical systems can distribute power horizontally through federated structures, consensus protocols, and rotating coordination roles. This goes beyond superficial decentralization to examine what genuine non-domination requires in system design.
+- **Anti-Hierarchical System Architecture**: Drawing on anarchist organizational theory, the work explores how technical systems can distribute [power](tags/power.md) horizontally through federated structures, consensus protocols, and rotating [coordination](tags/coordination.md) roles. This goes beyond superficial decentralization to examine what genuine non-domination requires in system design.
 
 - **Cybernetic Autonomy and Self-Organization**: The authors synthesize anarchist theory with cybernetics (Ashby, Beer) to analyze how complex systems can maintain order through self-organization rather than top-down control. This theoretical bridge shows why decentralized networks can coordinate effectively without central planning.
 
@@ -39,11 +39,11 @@ This theoretical framework can inform concrete technical development:
 
 - Protocol designers and developers can use anarchist principles as evaluation criteria for technical architectures, asking whether systems enable genuine voluntary association, horizontal coordination, and exit rights rather than merely claiming decentralization
 
-- DAO governance designers can draw on the article's analysis of federation, consensus, and rotating coordination to structure decision-making that avoids both plutocracy and rigid majoritarianism, implementing mechanisms that respect minority autonomy
+- DAO [governance](tags/governance.md) designers can draw on the article's analysis of federation, consensus, and rotating coordination to structure decision-making that avoids both plutocracy and rigid majoritarianism, implementing mechanisms that respect minority autonomy
 
 - Platform cooperative developers can apply mutual aid principles to design sharing economy alternatives where participants support each other directly rather than extracting value through intermediary platforms
 
-- Open source communities can use the framework to understand why successful FOSS projects often reflect anarchist organizational patterns (meritocracy critiques, consensus decision-making, forking rights) even when not explicitly political
+- Open source [communities](tags/community.md) can use the framework to understand why successful FOSS projects often reflect anarchist organizational patterns (meritocracy critiques, consensus decision-making, forking rights) even when not explicitly political
 
 - Critical technologists and researchers can employ the article's analytical tools to evaluate whether emerging technologies (blockchain, federated systems, mesh networks) genuinely distribute power or reproduce hierarchies in new forms
 
@@ -58,3 +58,13 @@ The academic rigor provides credibility when advocating for alternative technica
 - The synthesis of anarchist federation with cybernetic self-organization directly supports SuperBenefit's two-layer governance approach separating operational autonomy from collective stewardship, offering theoretical explanation for why this structure avoids both tyranny of structurelessness and centralized command that plague most organizational experiments.
 
 - Anarchist emphasis on genuine exit rights and forking aligns with SuperBenefit's commitment to pattern languages over prescriptive frameworks, recognizing that effective decentralized coordination requires communities to adapt and diverge based on context rather than implement universal solutions.
+
+---
+
+## Related Concepts
+
+- Community - Collective organizing and mutual support
+- Coordination - Mechanisms for collective action
+- Mutual Aid - Solidarity-based resource sharing
+- [Sustainability](tags/sustainability.md) - Regenerative approaches to organizing
+- Power - Distribution and transformation dynamics

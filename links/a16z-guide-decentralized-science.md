@@ -15,7 +15,7 @@ tags:
   - scientific-commons
 ---
 
-Andreessen Horowitz's DeSci guide introduces decentralized science movement seeking to reform scientific research through blockchain-enabled coordination mechanisms. The guide examines how current research system faces challenges around funding allocation (often captured by established institutions and conservative peer review), data accessibility (paywalls and proprietary databases), intellectual property restrictions, and reproducibility crises. DeSci proponents argue that Web3 tools—including decentralized research funding through DAOs, tokenized intellectual property, blockchain-based peer review, and public research data storage—could address these systemic issues by creating more open, transparent, and community-governed scientific infrastructure. While maintaining venture capital perspective that emphasizes innovation and disruption, the guide provides accessible overview of DeSci landscape including funding mechanisms, tooling projects, and early experiments in applying decentralized coordination to scientific knowledge production.
+Andreessen Horowitz's DeSci guide introduces decentralized science movement seeking to reform scientific research through [blockchain](tags/blockchain.md)-enabled [coordination](tags/coordination.md) mechanisms. The guide examines how current research system faces challenges around funding allocation (often captured by established institutions and conservative peer review), data accessibility (paywalls and proprietary databases), intellectual property restrictions, and reproducibility crises. DeSci proponents argue that Web3 tools—including decentralized research funding through [DAOs](tags/daos.md), tokenized intellectual property, blockchain-based peer review, and public research data storage—could address these systemic issues by creating more open, transparent, and [community](tags/community.md)-governed scientific infrastructure. While maintaining venture capital perspective that emphasizes innovation and disruption, the guide provides accessible overview of DeSci landscape including funding mechanisms, tooling projects, and early experiments in applying decentralized coordination to scientific knowledge production.
 
 ### Key Highlights
 
@@ -47,6 +47,16 @@ This guide enables DeSci exploration and engagement:
 
 ### Connection With SuperBenefit
 
-- a16z's DeSci guide demonstrates how decentralized coordination mechanisms can extend beyond organizational governance to knowledge production systems, validating SuperBenefit's vision that coordination primitives could enable communities to collectively steward not just organizational decisions but shared intellectual resources—though SuperBenefit's emphasis on regenerative principles and commons stewardship offers important complement to a16z's innovation framing, showing that scientific knowledge represents commons requiring care and protection from commodification rather than primarily representing market opportunity for disruption.
+- a16z's DeSci guide demonstrates how decentralized coordination mechanisms can extend beyond organizational [governance](tags/governance.md) to knowledge production systems, validating SuperBenefit's vision that coordination primitives could enable communities to collectively steward not just organizational decisions but shared intellectual resources—though SuperBenefit's emphasis on regenerative principles and commons stewardship offers important complement to a16z's innovation framing, showing that scientific knowledge represents commons requiring care and protection from commodification rather than primarily representing market opportunity for disruption.
 
-- The guide's attention to how current scientific institutions create gatekeeping and access barriers resonates with SuperBenefit's analysis of power concentration in coordination systems, illustrating that effective decentralized coordination tools should support genuinely open knowledge production rather than replacing institutional gatekeepers with token-holder gatekeeping or venture-backed platforms that maintain power asymmetries through different mechanisms while claiming decentralization.
+- The guide's attention to how current scientific institutions create gatekeeping and access barriers resonates with SuperBenefit's analysis of power concentration in coordination systems, illustrating that effective decentralized coordination tools should support genuinely open knowledge production rather than replacing institutional gatekeepers with token-holder gatekeeping or venture-backed platforms that maintain power asymmetries through different mechanisms while claiming [decentralization](tags/decentralization.md).
+
+---
+
+## Related Concepts
+
+- Decentralization - Distributed systems and governance
+- Blockchain - Technology enabling decentralized coordination
+- Coordination - Mechanisms for collective action
+- Governance - Decision-making in digital contexts
+- DAOs - Decentralized organizations using these technologies

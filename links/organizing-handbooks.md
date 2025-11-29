@@ -11,7 +11,7 @@ tags:
   - decentralization
 ---
 
-A comprehensive resource for decentralized organization, featuring a curated collection of handbooks, guides, and toolkits designed for non-hierarchical groups, social movements, and open-source projects. It serves as a living document that encourages collaboration and knowledge sharing.
+A comprehensive resource for [decentralized](tags/decentralization.md) organization, featuring a curated collection of handbooks, guides, and toolkits designed for non-hierarchical groups, [social movements](tags/social-movements.md), and open-source projects. It serves as a living document that encourages [collaboration](tags/collaboration.md) and knowledge sharing.
 
 https://hackmd.io/@yHk1snI9T9SNpiFu2o17oA/Skh_dXNbE
 
@@ -21,13 +21,13 @@ https://hackmd.io/@yHk1snI9T9SNpiFu2o17oA/Skh_dXNbE
 
 The _Handbook of Handbooks for Decentralised Organising_ is a curated compendium of resources tailored for groups and organizations adopting decentralized and non-hierarchical management structures. This document is particularly valuable for collectives, grassroots movements, cooperatives, open-source initiatives, and workplace environments aiming to function without a top-down management style.
 
-Compiled by Richard Bartlett, a co-founder of Enspiral and advocate of decentralized methods, this resource acts as both a reference and an invitation for collaboration. It includes handbooks from diverse fields, showcasing practical approaches to decision-making, facilitation, and governance in flat organizational structures.
+Compiled by Richard Bartlett, a co-founder of Enspiral and advocate of decentralized methods, this resource acts as both a reference and an invitation for collaboration. It includes handbooks from diverse fields, showcasing practical approaches to [decision-making](tags/decision-making.md), facilitation, and [governance](tags/governance.md) in flat organizational structures.
 
-For more information, check out [Patterns for Decentralized Organizing](https://leanpub.com/patterns-for-decentralised-organising/).
+For more information, check out Patterns for [Decentralized Organizing](https://leanpub.com/patterns-for-decentralised-organising/).
 
 ### Key Highlights:
 
-- **Living Document**: Open for community contributions, reflecting the decentralized ethos by allowing updates and shared insights.
+- **Living Document**: Open for [community](tags/community.md) contributions, reflecting the decentralized ethos by allowing updates and shared insights.
 - **Broad Applications**: Suitable for contexts ranging from **social movements**, **cooperatives**, **startups**, to large organizations transitioning to decentralized models.
 - **Accessibility**: All handbooks and tools are freely available for anyone to adapt and share.
 
@@ -61,13 +61,13 @@ The article is presented as an interactive HackMD page, offering links to handbo
 13. [How to Start a Tool Lending Library](https://sharestarter.org/) – Toolkit for creating lending libraries globally.
 14. [Transition Towns' Essential Guide](https://transitionnetwork.org/) – Multilingual resources for community transitions.
 15. [Valve Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf) – A guide from a software company operating without bosses.
-16. [Edgeryders Collaboration Principles](https://edgeryders.eu/) – Operational guidelines for a think tank and mutual aid network.
+16. Edgeryders [Collaboration Principles](https://edgeryders.eu/) – Operational guidelines for a think tank and mutual aid network.
 17. [The Borderland Processes](https://www.theborderland.se/) – Dream Prototyping and Advice Process for organizing collaborative events.
-18. [Outseta Operating Agreement](https://www.outseta.com/) – Public documentation of self-management practices in a SaaS company.
+18. [Outseta Operating Agreement](https://www.outseta.com/) – Public documentation of [self-management](tags/self-management.md) practices in a SaaS company.
 19. [350 Seattle Structure Resources](https://350seattle.org/) – Resources for campaigning organizations.
-20. [Open Coop Governance Model](https://opencoop.org/) – A governance model used by Guerilla Translation.
+20. Open Coop [Governance Model](https://opencoop.org/) – A governance model used by Guerilla Translation.
 21. [DisCO Co-op Manifesto](https://disco.coop/) – Detailed framework for distributed cooperative organizations.
-22. [Spotify Agile Model](https://engineering.atspotify.com/2020/03/27/scaling-agile-at-spotify/) – Explanation of their tribe and squad coordination.
+22. [Spotify Agile Model](https://engineering.atspotify.com/2020/03/27/scaling-agile-at-spotify/) – Explanation of their tribe and squad [coordination](tags/coordination.md).
 23. [Bridge Foundry Workshop Guides](https://bridgefoundry.org/) – Resources for organizing free programming workshops.
 24. [Camplight Internal Guidelines](https://camplight.net/) – Stories and policies from a digital cooperative.
 25. [Root Systems](https://www.rootsystems.nz/) – Tech consulting and software development within Enspiral.
@@ -81,7 +81,7 @@ The article is presented as an interactive HackMD page, offering links to handbo
 
 31. [Barcelona en Comú Guide](https://guia.barcelonaencomu.cat/) – A guide for grassroots political activism.
 32. [How We Organize the Allied Media Conference](https://alliedmedia.org/) – Methodology for decentralized conference organizing.
-33. [Repair Café Handbook](https://repaircafe.org/en/) – Instructions for setting up local repair communities.
+33. [Repair Café Handbook](https://repaircafe.org/en/) – Instructions for setting up local repair community.
 34. [TEDx Organizer's Guide](https://www.ted.com/participate/organize-a-local-tedx-event/tedx-organizer-guide) – Tools for TEDx event organizers.
 35. [Awesome Foundation Wiki](https://wiki.awesomefoundation.org/) – Resources for autonomous micro-granting groups.
 36. [Food Not Bombs Chapter Toolkit](http://www.foodnotbombs.net/) – Guidelines for decentralized food-sharing groups.
@@ -94,7 +94,7 @@ The article is presented as an interactive HackMD page, offering links to handbo
 
 1. [Better Work Together](https://betterworktogether.co/) – Stories and tools from Enspiral, a network of self-managing social enterprises.
 2. [The Toolbox Toolbox](https://toolboxtoolbox.com/) – Curated list of analogue and digital tools and methods from various organizations.
-3. [Re-humanizing the Workplace](https://chuckblakeman.com/re-humanizing-the-workplace/) – Explores distributed decision-making tools in the Participation Age by Chuck Blakeman.
+3. [Re-humanizing the Workplace](https://chuckblakeman.com/re-humanizing-the-workplace/) – Explores distributed decision-making tools in the [Participation](tags/participation.md) Age by Chuck Blakeman.
 4. [Reinventing Organizations](https://www.reinventingorganizations.com/) – Frederic Laloux’s influential book on operating without centralized management systems, with an accompanying [wiki](https://reinventingorganizationswiki.com/).
 5. [Insights for the Journey](https://www.reinventingorganizations.com/videos.html) – Video series complementing the _Reinventing Organizations_ book.
 6. [Rebuild: The Economy, Leadership, and You](https://rebuildthebook.com/) – Toolkit for better world-building, integrating economics, leadership, and developmental practices.
@@ -143,9 +143,9 @@ The article is presented as an interactive HackMD page, offering links to handbo
 49. [Turn the Ship Around!](https://davidmarquet.com/) – L. David Marquet’s book on servant leadership.
 50. [Peerdom Showcase](https://www.peerdom.com/) – Organizational design maps from transformational journeys.
 51. [Future Togetherness Handbook](https://humansystems.co/) – Practices for community resilience and collaboration.
-52. [Reinvent Organization Map](https://enliveningedge.org/tools-practices/) – Assessment tool for teal organizations.
+52. Reinvent Organization Map – Assessment tool for teal organizations.
 53. [Planet Centric Design Toolkit](https://planetscentrix.com/) – Tools for creating responsible and sustainable products.
-54. [Community Building Canvas](https://community-canvas.org/) – Resource for designing community-oriented organizations.
+54. Community Building Canvas – Resource for designing community-oriented organizations.
 
 ### More Community-Focused Resources
 
@@ -168,7 +168,7 @@ The article is presented as an interactive HackMD page, offering links to handbo
 17. [Sociocracy 3.0](https://sociocracy30.org/) – Open guide for consent-based, resilient organizations.
 18. [Distributed Organizing Guide](https://distributedorganizing.org/) – Toolkit for campaigners using distributed models.
 19. [Mobilisation Lab Resources](https://mobilisationlab.org/) – Online courses, articles, and guides for campaigners.
-20. [How to Welcome & Engage People in Community Spaces](https://dannyspitzberg.com/) – Advice by Danny Spitzberg on fostering inclusive communities.
+20. [How to Welcome & Engage People in Community Spaces](https://dannyspitzberg.com/) – Advice by Danny Spitzberg on fostering inclusive community.
 21. [Skessa Toolkit](https://skessa.org/) – Resources for diverse and inclusive organizations.
 22. [Art of Hosting](https://www.artofhosting.org/) – Practices for participatory leadership and hosting conversations.
 23. [The Viable System Model](https://en.wikipedia.org/wiki/Viable_system_model) – Framework for designing healthy business systems.
@@ -190,7 +190,7 @@ The article is presented as an interactive HackMD page, offering links to handbo
 2. [Sustainable Economies Law Center (SELC)](https://www.theselc.org/) – Resources for creating ethical and sustainable legal structures.
 3. [Purpose Economy Steward Ownership Model](https://purpose-economy.org/) – Stewardship ownership examples like Sharetribe.
 4. [FairShares Model](https://www.fairshares.coop/) – Articles on multi-stakeholder limited companies, co-ops, and associations.
-5. [FairShares Commons Extension](https://www.fairshares.coop/) – Expanded FairShares model for regenerative ecosystems.
+5. FairShares Commons Extension – Expanded FairShares model for regenerative ecosystems.
 
 ### Trainers
 
@@ -202,8 +202,17 @@ The article is presented as an interactive HackMD page, offering links to handbo
 6. [Organisational Misbehaviourists](https://www.organizationalmisbehaviorists.com/) – Trainers focusing on psychological safety and collective wisdom.
 7. [PowerLabs](https://powerlabs.io/) – Campaign training resources for grassroots groups.
 8. [RAD.cat (Research Action Design)](https://rad.cat/) – Uses community-led research and secure digital strategies for grassroots power.
-9. [NetChange](https://netchange.co/) – Trainers for distributed organizing campaigns.
+9. NetChange – Trainers for distributed organizing campaigns.
 10. [Tripod Training](https://tripodtraining.org/) – Support for groups through facilitation, mediation, and training.
 11. [Round Sky Solutions](https://roundskysolutions.com/) – Worker-owned co-op offering collaborative governance training.
 12. [Evolutesix](https://www.evolutesix.com/) – Programs for startups and established organizations deploying integrated legal and developmental practices.
 13. [Effective Collective](https://www.treegroup.info/) – Kavana Tree Bressen’s facilitation and training resources for horizontal power structures.
+---
+
+## Related Concepts
+
+- Coordination - Mechanisms for decentralized organizing
+- Governance - Decision-making in decentralized contexts
+- [DAOs](tags/daos.md) - Organizations using these organizing approaches
+- [Teams](tags/teams.md) - Small groups coordinating decentrally
+- Collaboration - Collective work patterns
