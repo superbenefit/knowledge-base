@@ -191,6 +191,19 @@ else
 fi
 echo ""
 
+# Copy attachments directory
+echo "--- Syncing attachments ---"
+if [ -d "$KB_REPO/attachments" ]; then
+    mkdir -p "$KG_REPO/content/attachments"
+    rm -rf "$KG_REPO/content/attachments"/*
+    cp -r "$KB_REPO/attachments"/* "$KG_REPO/content/attachments"/
+    attachment_count=$(find "$KG_REPO/content/attachments" -type f | wc -l)
+    echo "✓ Copied $attachment_count attachment files"
+else
+    echo "⚠ Warning: Attachments directory not found"
+fi
+echo ""
+
 # Overall summary
 echo "=== Sync Summary ==="
 echo "Total files scanned: $GRAND_TOTAL_FILES"

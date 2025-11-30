@@ -1,5 +1,3 @@
-# Conflict Transformation: Practical Guides
-
 Four one-page guides for navigating conflict in peer-to-peer community contexts. Use these alongside your Conflict Response Plan.
 
 ## The Guides

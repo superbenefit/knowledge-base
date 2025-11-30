@@ -10,8 +10,6 @@ tags:
   - coordination
 ---
 
-# Primitives Framework
-
 A systematic approach to designing decentralized organizations as purpose-aligned networks of small autonomous teams.
 
 ## What Is This Framework?

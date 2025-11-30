@@ -1,7 +1,7 @@
 ---
 title: Poetic Harvesting Implementation Guide
 description: Practical guidance for implementing poetic harvesting in organizations and communities
-url: 
+url:
 tags:
   - primitives
   - documentation
@@ -11,8 +11,6 @@ tags:
 publish: true
 type: guide
 ---
-
-# Poetic Harvesting Implementation Guide
 
 This guide provides practical implementation guidance for **[Poetic Harvesting](artifacts/patterns/poetic-harvesting.md)** - the practice of acting as sacred witness to collective conversations and reflecting wisdom back through spoken word poetry.
 
