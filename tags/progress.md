@@ -28,7 +28,7 @@ In agile methodologies and responsive systems, progress is tracked through more 
 
 ### Progress in [DAO Primitives framework](../artifacts/guides/dao-primitives-framework/index.md)
 
-In the [DAO Primitives Framework](tags/primitives.md), "Progress" is one of three core dimensions of [Group State](tags/group-state.md) (alongside [Purpose](tags/purpose.md) and [Practice](tags/practices.md)). It represents the tools and practices by which a team achieves and demonstrates its activities and outcomes, serving both internal and external coordination needs.
+In the [DAO Primitives Framework](tags/primitives.md), "Progress" is one of three core dimensions of [Group State](artifacts/primitives-framework/concepts/group-state.md) (alongside [Purpose](tags/purpose.md) and [Practice](tags/practices.md)). It represents the tools and practices by which a team achieves and demonstrates its activities and outcomes, serving both internal and external coordination needs.
 
 As a component of Group State, Progress includes:
 

@@ -22,7 +22,7 @@ How to understand where your organization is:
 
 * **[Scale](artifacts/primitives-framework/concepts/group-scale/index.md):** The size and complexity of your group - Collaboration (<10), Coordination (10-150), Constituency (100s+), or Network (inter-organizational). Different scales require different coordination strategies.
 
-* **[State](tags/group-state.md):** Documentation of Purpose, Practice, and Progress that enables transparent coordination. Understanding and documenting your organizational state is crucial for decentralized operations.
+* **[State](artifacts/primitives-framework/concepts/group-state.md):** Documentation of Purpose, Practice, and Progress that enables transparent coordination. Understanding and documenting your organizational state is crucial for decentralized operations.
 
 ### 2. Organizational Patterns (Building Blocks)
 
@@ -64,4 +64,4 @@ See the [Group Facilitation Guide](artifacts/primitives-framework/implementation
 
 * **[implementation/](implementation/)** - Detailed implementation guides for different governance approaches
 * **[articles/](articles/)** - Articles on scaling and network dynamics
-* **[rpp-governance-case-study.md](rpp-governance-case-study.md)** - Real-world implementation example
+* **[rpp-governance-case-study.md](artifacts/primitives-framework/studies/rpp-governance-case-study.md)** - Real-world implementation example

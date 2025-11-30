@@ -133,7 +133,7 @@ The organization's original NFT-focused governance structure proved inadequate f
 - Adoption of coordi-nations model - network of aligned communities rather than traditional hierarchical organization
 - Creation of [cells](tags/cells.md) structures enabling autonomous teams to pursue projects within mission boundaries
 
-The governance transformation established AIFS's evolution from attempting to be everything to everyone toward becoming coordination infrastructure that enables others. The [operational governance](tags/operational-governance.md) pattern allowed execution teams to move quickly on opportunities while the [community governance](tags/community-governance.md) pattern ensured mission alignment. This created the foundation for [Group State](tags/group-state.md)—shared understanding and context that enables collective decision-making.
+The governance transformation established AIFS's evolution from attempting to be everything to everyone toward becoming coordination infrastructure that enables others. The [operational governance](tags/operational-governance.md) pattern allowed execution teams to move quickly on opportunities while the [community governance](tags/community-governance.md) pattern ensured mission alignment. This created the foundation for [Group State](artifacts/primitives-framework/concepts/group-state.md)—shared understanding and context that enables collective decision-making.
 
 ### Partnership Development and Network Effects
 
@@ -166,7 +166,7 @@ Beyond facilitation and governance frameworks, Reimagining Power provided critic
 - Knowledge gathering tools for capturing insights during gatherings
 - Deployment of documentation systems to organize institutional knowledge from gatherings and governance discussions
 - Setup of day-to-day operational tools that reduced administrative overhead
-- Creation of systems for storing and retrieving project information across distributed team members, supporting [Group State](tags/group-state.md) maintenance
+- Creation of systems for storing and retrieving project information across distributed team members, supporting [Group State](artifacts/primitives-framework/concepts/group-state.md) maintenance
 
 These infrastructure improvements addressed a common challenge in DAOs: the gap between governance innovation and operational capability. While many DAOs focus on novel decision-making mechanisms, basic operational infrastructure often remains neglected. The support provided helped AIFS close this gap, enabling them to focus on coordination activities rather than technical maintenance.
 
@@ -210,7 +210,7 @@ Documentation from reflections and retrospectives identified several organizatio
 - Grassroots organizations moved from blockchain skepticism to identifying specific use cases
 - Both groups recognized need for ongoing translation and bridge-building
 
-**Governance improvements**: Implementation of [operational governance](tags/operational-governance.md) and [community governance](tags/community-governance.md) patterns resolved documented decision-making bottlenecks. Operational [cells](tags/cells.md) gained autonomy within mission boundaries while community stewardship protected core values. The emerging [Group State](tags/group-state.md) created shared context enabling collective alignment.
+**Governance improvements**: Implementation of [operational governance](tags/operational-governance.md) and [community governance](tags/community-governance.md) patterns resolved documented decision-making bottlenecks. Operational [cells](tags/cells.md) gained autonomy within mission boundaries while community stewardship protected core values. The emerging [Group State](artifacts/primitives-framework/concepts/group-state.md) created shared context enabling collective alignment.
 
 ### Pattern Analysis Through Coordi-nations Framework
 
@@ -304,7 +304,7 @@ Critical requirements for similar transformations emerged from the documentation
 
 ### Contributions to Coordi-nations Theory
 
-All In For Sport's journey provides rare empirical evidence for coordi-nations as a viable organizational form, while revealing implementation challenges that theory alone cannot address. The experiment validated key coordi-nations principles while demonstrating the value of specific governance patterns. The implementation of [operational governance](tags/operational-governance.md) and [community governance](tags/community-governance.md) patterns created necessary structural clarity. The [cells](tags/cells.md) pattern enabled autonomous action within aligned boundaries. The role of [Group State](tags/group-state.md) in maintaining collective coherence became evident through practice.
+All In For Sport's journey provides rare empirical evidence for coordi-nations as a viable organizational form, while revealing implementation challenges that theory alone cannot address. The experiment validated key coordi-nations principles while demonstrating the value of specific governance patterns. The implementation of [operational governance](tags/operational-governance.md) and [community governance](tags/community-governance.md) patterns created necessary structural clarity. The [cells](tags/cells.md) pattern enabled autonomous action within aligned boundaries. The role of [Group State](artifacts/primitives-framework/concepts/group-state.md) in maintaining collective coherence became evident through practice.
 
 The case contributes several insights to coordi-nations theory and practice. First, coordi-nations principles can emerge organically through experimentation rather than requiring top-down implementation of theoretical frameworks. Second, pattern integrity does enable non-hierarchical scaling, as demonstrated by the voluntary adoption of AIFS practices by partner organizations. Third, the symbiotic approach of working alongside existing institutions generates more sustainable value than exit-based strategies. However, the experiment also reveals that mutualist principles face severe constraints within capitalist funding structures that prioritize visible outputs over connective infrastructure.
 

@@ -72,7 +72,7 @@ Most contexts require organizations operate at multiple scales simultaneously, w
 Learn more about [Group Scale](artifacts/primitives-framework/concepts/group-scale/index.md)
 
 
-### 3\. [Group State](tags/group-state.md)
+### 3\. [Group State](artifacts/primitives-framework/concepts/group-state.md)
 
 Group State focuses on how having a transparent organizational state for each entity in a network, enables effective coordination in decentralized systems. For groups to interact effectively without centralized control, they need clear interfaces that make them interoperable and universally addressable.
 
@@ -84,7 +84,7 @@ In the DAO primitives framework Group state consists of three core components:
 
 This state documentation serves as a "public interface" that enables both internal coherence and external coordination. It allows groups to have an existence that is both independent from the larger network and integrated into it through agreements with other entities.
 
-Learn more about [Group State](tags/group-state.md)
+Learn more about [Group State](artifacts/primitives-framework/concepts/group-state.md)
 
 
 ## Organizational Patterns
@@ -150,7 +150,7 @@ For networks of organizations working together, the framework provides:
 - Shared language and concepts for designing collaborative structures
 - Interoperability standards that enable effective coordination
 - Scalable governance patterns for managing network-level decisions
-- See [RPP Governance Design Case Study](artifacts/primitives-framework/rpp-governance-case-study.md)
+- See [RPP Governance Design Case Study](artifacts/primitives-framework/studies/rpp-governance-case-study.md)
 
 ## Enabling Collective Intelligence
 

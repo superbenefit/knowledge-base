@@ -61,7 +61,7 @@ Group state is also fractal, with [Roles](tags/roles.md) and [Tasks](tags/tasks.
 
 ## Related Concepts
 
-- [Group State](tags/group-state.md) - Tracking and documenting team coordination
+- [Group State](artifacts/primitives-framework/concepts/group-state.md) - Tracking and documenting team coordination
 - [Teams](tags/teams.md) - Groups maintaining state documentation
 - [Coordination](tags/coordination.md) - Mechanisms requiring state tracking
 - [Governance](tags/governance.md) - Decision-making informed by group state

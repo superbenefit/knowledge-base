@@ -33,7 +33,7 @@ This scale is appropriate for your organization when you observe:
 - Shared platforms and infrastructure enable communication and collaboration
 - Network-level [governance](tags/governance.md) mechanisms coordinate [decision-making](tags/decisions.md) across organizations
 - Onchain protocols provide [transparency](tags/transparency.md) and trust for inter-organizational relationships
-- Clear [group-state](tags/group-state.md) documentation from all entities enables alignment and trust
+- Clear [group-state](artifacts/primitives-framework/concepts/group-state.md) documentation from all entities enables alignment and trust
 - Conflict resolution processes handle disagreements between autonomous organizations
 
 **Examples:**

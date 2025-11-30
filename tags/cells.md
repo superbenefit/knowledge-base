@@ -47,7 +47,7 @@ Cells are **small autonomous teams** of 10 or fewer people (typically 3-8 people
 
 **Balanced Structure**: The Cell pattern provides a "balanced approach to structure" that helps "realize the benefits of decentralized organization while mitigating common failure modes." Unlike rigid hierarchies or completely unstructured groups, Cells offer sufficient organization to function effectively while maintaining the [autonomy](tags/autonomy.md) and adaptability that make decentralized coordination powerful.
 
-**Clear Network Interfaces**: Cells establish "clear interfaces that enable trust-based [coordination](tags/coordination.md) between groups and individuals across a broader [DAO network](artifacts/primitives-framework/patterns/daos.md)." Through their [Cell State](tags/group-state.md) documentation, they create [transparency](tags/transparency.md) about their [Purpose](tags/purpose.md), [Practice](tags/practices.md), and [Progress](tags/progress.md), enabling other entities to understand and coordinate with them without requiring hierarchical oversight.
+**Clear Network Interfaces**: Cells establish "clear interfaces that enable trust-based [coordination](tags/coordination.md) between groups and individuals across a broader [DAO network](artifacts/primitives-framework/patterns/daos.md)." Through their [Cell State](artifacts/primitives-framework/concepts/group-state.md) documentation, they create [transparency](tags/transparency.md) about their [Purpose](tags/purpose.md), [Practice](tags/practices.md), and [Progress](tags/progress.md), enabling other entities to understand and coordinate with them without requiring hierarchical oversight.
 
 **Dynamic Autonomous Units**: Cells function as "dynamic, autonomous units, avoiding bureaucratic overhead while protecting against group dysfunction." With fewer than 10 people, they provide enough scaffolding to enable effective self-governance while maintaining the flexibility needed for complex, evolving contexts without falling victim to the [coordination](tags/coordination.md) failures common in unstructured groups.
 
@@ -78,9 +78,9 @@ Cells are **small autonomous teams** of 10 or fewer people (typically 3-8 people
 
 ## Cell State
 
-Cells document their state using the **[Purpose/Practice/Progress framework](tags/group-state.md)**: Purpose (why the Cell exists and what it aims to achieve), Practice (how decisions are made and work is coordinated), Progress (what's been accomplished and current status). This transparent documentation enables both internal coherence and external coordination across the network.
+Cells document their state using the **[Purpose/Practice/Progress framework](artifacts/primitives-framework/concepts/group-state.md)**: Purpose (why the Cell exists and what it aims to achieve), Practice (how decisions are made and work is coordinated), Progress (what's been accomplished and current status). This transparent documentation enables both internal coherence and external coordination across the network.
 
-See [Group State Pattern](tags/group-state.md) for detailed guidance on state documentation.
+See [Group State Pattern](artifacts/primitives-framework/concepts/group-state.md) for detailed guidance on state documentation.
 
 ## Phase & Scale Considerations
 
@@ -115,7 +115,7 @@ See [Group State Pattern](tags/group-state.md) for detailed guidance on state do
 - **Cell Coordination**: The Cell acts as a coordinating body for other Cells, creating or connecting with additional Cells to accomplish larger initiatives
 - **Contributor Coordination**: The Cell engages external contributors to execute work, often using [roles](artifacts/primitives-framework/patterns/roles.md) and [tasks](artifacts/primitives-framework/patterns/tasks.md) as coordination mechanisms
 
-**[State](tags/group-state.md) Implementation**: Cells use the [state](tags/group-state.md) pattern as their core structural foundation, working through and defining their [Purpose](tags/purpose.md), [Practice](tags/practices.md), and [Progress](tags/progress.md) to create the documentation that enables both internal self-management and external [coordination](tags/coordination.md) within the [DAO network](artifacts/primitives-framework/patterns/daos.md).
+**[State](artifacts/primitives-framework/concepts/group-state.md) Implementation**: Cells use the [state](artifacts/primitives-framework/concepts/group-state.md) pattern as their core structural foundation, working through and defining their [Purpose](tags/purpose.md), [Practice](tags/practices.md), and [Progress](tags/progress.md) to create the documentation that enables both internal self-management and external [coordination](tags/coordination.md) within the [DAO network](artifacts/primitives-framework/patterns/daos.md).
 
 **Phase-Adaptive Structure**: Because Cells can form through different pathways, they move through [development phases](artifacts/primitives-framework/concepts/group-phase/index.md) in varied ways. Cells created for specific operational functions may move quickly through [Conversation](artifacts/primitives-framework/concepts/group-phase/conversation-phase.md) and [Formation](artifacts/primitives-framework/concepts/group-phase/formation-phase.md) phases, while autonomous Cells emerging from community conversations may take longer to develop through these phases organically.
 
@@ -129,7 +129,7 @@ See [Group State Pattern](tags/group-state.md) for detailed guidance on state do
 
 **All in for Sport**: The DAO primitives framework has been applied to design the AIFS governance model and partnership with SuperBenefit. This governance model features a larger DAO (All in for Sport) which provides a community governance wrapper for an operational structure of coordinating Cells. More can be read about this example here: [index](notes/rpp/rpp-experiments/all-in-for-sport/index.md).
 
-**RPP Governance**: This project is a good example of a multi-stakeholder partnership within a community governance wrapper, utilizing a network of coordinating Cells to deliver the strategy and operations for a complex project. This shows how a network of autonomous Cells can be used to create a complex operations structure. See [artifacts/primitives-framework/rpp-governance-case-study](artifacts/primitives-framework/rpp-governance-case-study.md).
+**RPP Governance**: This project is a good example of a multi-stakeholder partnership within a community governance wrapper, utilizing a network of coordinating Cells to deliver the strategy and operations for a complex project. This shows how a network of autonomous Cells can be used to create a complex operations structure. See [artifacts/primitives-framework/studies/rpp-governance-case-study](artifacts/primitives-framework/studies/rpp-governance-case-study.md).
 
 ---
 
@@ -141,4 +141,4 @@ See [Group State Pattern](tags/group-state.md) for detailed guidance on state do
 - [Autonomy](tags/autonomy.md) - The self-governance capacity that defines Cell operation
 - [Coordination](tags/coordination.md) - The mechanisms through which Cells align with networks
 - [Scale](tags/scale.md) - The collaboration scale at which Cells operate
-- [Group State](tags/group-state.md) - The transparency framework that enables Cell coordination
+- [Group State](artifacts/primitives-framework/concepts/group-state.md) - The transparency framework that enables Cell coordination
