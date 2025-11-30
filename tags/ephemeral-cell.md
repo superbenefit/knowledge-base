@@ -10,11 +10,7 @@ tags:
   - cell
 ---
 
-<<<<<<< HEAD
-In the DAO Primitives framework, an **Ephemeral Cell** refers to a [Cell](artifacts/primitives-framework/patterns/cell.md) that is temporary by design, created to achieve a specific short-term goal or task, after which it dissolves or becomes inactive. Unlike other types of Cells, which are often built for long-term sustained operations, ephemeral Cells are focused on time-limited collaborations.
-=======
-In the [DAO Primitives framework](../artifacts/guides/dao-primitives-framework/index.md), an **Ephemeral Cell** refers to a [Cell](artifacts/patterns/cell.md) that is temporary by design, created to achieve a specific short-term goal or task, after which it dissolves or becomes inactive. Unlike other types of Cells, which are often built for long-term sustained operations, ephemeral Cells are focused on time-limited collaborations.
->>>>>>> f0cebfda2a6f6cb818dc70d708ddc5b83bc34361
+In the [DAO Primitives framework](artifacts/primitives-framework/index.md), an **Ephemeral Cell** refers to a [Cell](tags/cells.md) that is temporary by design, created to achieve a specific short-term goal or task, after which it dissolves or becomes inactive. Unlike other types of Cells, which are often built for long-term sustained operations, ephemeral Cells are focused on time-limited collaborations.
 
 ---
 
