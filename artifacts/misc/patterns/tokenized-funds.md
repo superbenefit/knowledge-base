@@ -3,7 +3,7 @@ title: Tokenized Funding Mechanisms
 description: Community-owned funding mechainsms where token smart contracts hold assets, earn revenue and distribute proceeds directly to designated recipients
 tags:
   - patterns
-publish: "true"
+publish: true
 type: pattern
 ---
 

@@ -14,7 +14,7 @@ tags:
 aliases:
 - IYF Impact Thesis
 - Fund Impact Options
-publish: 'false'
+publish: false
 ---
 
 # Impact Yield Fund Impact Thesis Options

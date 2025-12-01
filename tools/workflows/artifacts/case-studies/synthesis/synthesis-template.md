@@ -9,7 +9,7 @@ start_date:
 end_date: 
 harvester: 
 curator: 
-publish: "false"
+publish: false
 type: experiment-study
 case: 
 ---

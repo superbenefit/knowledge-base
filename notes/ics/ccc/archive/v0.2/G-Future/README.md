@@ -11,7 +11,7 @@ tags:
 aliases:
   - CE Future Directory
   - Future Development Overview
-publish: "false"
+publish: false
 type: reference
 ---
 

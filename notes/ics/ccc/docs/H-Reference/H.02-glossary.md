@@ -10,7 +10,7 @@ tags:
 aliases:
   - C4 Glossary
   - Community Connection & Commitment Commons Terms
-publish: "false"
+publish: false
 type: reference
 ---
 

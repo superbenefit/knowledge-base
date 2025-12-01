@@ -11,7 +11,7 @@ tags:
 aliases:
   - CE Conflict Resolution
   - Dispute Resolution Framework
-publish: "false"
+publish: false
 type: guide
 ---
 

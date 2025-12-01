@@ -7,7 +7,7 @@ tags:
   - functions
 aliases:
   - "#decisions"
-publish: "true"
+publish: true
 ---
 
 _Decisions are the transformative points where potential becomes direction through the selection of specific courses of action from available alternatives, enabling coordinated progress while reflecting underlying [values](values.md), [power](power.md) structures, and [governance](governance.md) principles._

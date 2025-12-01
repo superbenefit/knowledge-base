@@ -14,7 +14,7 @@ tags:
 aliases:
 - IYF Structure Options
 - Fund Structure Analysis
-publish: 'false'
+publish: false
 ---
 
 # Impact Yield Fund Structure Options

@@ -10,7 +10,7 @@ tags:
 aliases:
   - CE Overview
   - Community Exchange Introduction
-publish: "false"
+publish: false
 type: note
 ---
 

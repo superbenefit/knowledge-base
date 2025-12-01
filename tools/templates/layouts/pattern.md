@@ -4,7 +4,7 @@ description:
 url: 
 tags:
   - patterns
-publish: "false"
+publish: false
 type: pattern
 ---
 # <% tp.frontmatter.title || "Pattern Name" %>

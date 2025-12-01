@@ -11,7 +11,7 @@ tags:
 aliases:
   - C4 Conflict Resolution
   - Dispute Resolution Framework
-publish: "false"
+publish: false
 type: guide
 ---
 

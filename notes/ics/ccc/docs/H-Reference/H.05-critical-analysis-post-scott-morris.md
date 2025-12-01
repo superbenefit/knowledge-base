@@ -11,7 +11,7 @@ tags:
 aliases:
   - Scott Morris Feedback
   - CCC Critical Analysis
-publish: "false"
+publish: false
 type: analysis
 ---
 

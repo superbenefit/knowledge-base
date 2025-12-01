@@ -7,7 +7,7 @@ tags:
   - mechanisms
 aliases:
   - "#policies"
-publish: "true"
+publish: true
 type: tag
 ---
 
@@ -37,11 +37,7 @@ The distinction between "policies as code" and "policies as social agreements" r
 
 ### Policies in Cell-Based Organizations
 
-<<<<<<< HEAD
-In [cell-based organizational models](artifacts/primitives-framework/patterns/cell.md), policies operate at multiple scales. Each [Cell](artifacts/primitives-framework/patterns/cell.md) maintains internal policies aligned with its specific function, while network-level policies create coherence across the organization. This approach enables both local autonomy and system-wide coordination through a fractal structure of nested agreements. The [state](tags/cell-state.md) of each cell includes documentation of its operative policies, making these agreements transparent and accessible.
-=======
-In [cell-based organizational models](artifacts/patterns/cell.md), policies operate at multiple scales. Each Cell maintains internal policies aligned with its specific function, while network-level policies create coherence across the organization. This approach enables both local autonomy and system-wide coordination through a fractal structure of nested agreements. The [state](artifacts/patterns/cell-state.md) of each cell includes documentation of its operative policies, making these agreements transparent and accessible.
->>>>>>> f0cebfda2a6f6cb818dc70d708ddc5b83bc34361
+In [cell-based organizational models](tags/cells.md), policies operate at multiple scales. Each [Cell](tags/cells.md) maintains internal policies aligned with its specific function, while network-level policies create coherence across the organization. This approach enables both local autonomy and system-wide coordination through a fractal structure of nested agreements. The [state](tags/cell-state.md) of each cell includes documentation of its operative policies, making these agreements transparent and accessible.
 
 The primitive of [nucleus](notes/dao-primitives/implementation/patterns/collaboration-scale-patterns/nucleus.md) serves as a container for these policies, capturing decision-making frameworks, resource allocation rules, and operational guidelines. Through this structure, policies become part of the state documentation that enables both internal coherence within teams and external coordination across the network.
 ---

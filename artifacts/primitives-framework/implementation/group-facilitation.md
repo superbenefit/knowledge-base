@@ -199,7 +199,7 @@ Using organizational patterns as building blocks:
 
 > **Note**: These are organizational patterns (structural building blocks), distinct from technical primitives (implementation tools like smart contracts, tokens, governance protocols) that you'll select during implementation.
 
-The design process involves determining which combination of these patterns will best serve the group's requirements, then identifying specific approaches for how to compose them into functional structures. Examples of using these patterns to compose governance and operational models can be found in [index](notes/dao-primitives/implementation/case-studies/index.md), including case studies like [artifacts/primitives-framework/rpp-governance-case-study](artifacts/primitives-framework/rpp-governance-case-study.md).
+The design process involves determining which combination of these patterns will best serve the group's requirements, then identifying specific approaches for how to compose them into functional structures. Examples of using these patterns to compose governance and operational models can be found in [index](notes/dao-primitives/implementation/case-studies/index.md), including case studies like [artifacts/primitives-framework/studies/rpp-governance-case-study](artifacts/primitives-framework/studies/rpp-governance-case-study.md).
 
 #### 3. Pattern Selection
 

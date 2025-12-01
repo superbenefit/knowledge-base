@@ -11,7 +11,7 @@ tags:
 aliases:
   - How CE Works
   - Community Exchange Mechanics
-publish: "false"
+publish: false
 type: note
 ---
 

@@ -11,7 +11,7 @@ tags:
 aliases:
   - Connection Commons Guide
   - CC Program Guide
-publish: "false"
+publish: false
 type: activity
 ---
 

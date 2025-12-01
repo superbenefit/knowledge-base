@@ -11,7 +11,7 @@ tags:
 aliases:
   - CE Introduction
   - Community Exchange Overview
-publish: "false"
+publish: false
 type: note
 ---
 

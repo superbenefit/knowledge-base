@@ -10,7 +10,7 @@ tags:
 aliases:
   - CE Implementation Directory
   - Implementation Guides Overview
-publish: "false"
+publish: false
 type: reference
 ---
 

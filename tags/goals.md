@@ -6,7 +6,7 @@ tags:
 - agreements 
 aliases:
 - "#goals" 
-publish: "true"
+publish: true
 ---
 
 _Goals are collectively defined objectives that orient [decision-making](decision-making.md) and guide action toward specific, measurable outcomes while creating alignment between autonomous contributors and shared purpose._

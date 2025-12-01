@@ -5,7 +5,7 @@ tags:
   - primitives
 aliases:
   - "#modules"
-publish: "true"
+publish: true
 ---
 
 **Modules** are self-contained, interchangeable units or components that perform specific functions within a larger system, allowing for flexibility, customization, and scalability when building or modifying that system.

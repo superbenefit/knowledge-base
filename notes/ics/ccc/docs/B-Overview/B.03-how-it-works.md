@@ -12,7 +12,7 @@ tags:
 aliases:
   - How C4 Works
   - Community Connection & Commitment Commons Mechanics
-publish: "false"
+publish: false
 type: note
 ---
 

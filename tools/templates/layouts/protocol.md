@@ -4,7 +4,7 @@ description:
 url: 
 tags:
   - protocols
-publish: "false"
+publish: false
 type: protocol
 ---
 %% This template creates detailed operational mechanisms that define specific steps, roles, and interactions for consistent coordination. Use it to document standardized procedures that enable reliable coordination without central authority. Focus on operational specificity rather than conceptual frameworks. %%

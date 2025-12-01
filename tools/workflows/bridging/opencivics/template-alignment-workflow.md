@@ -70,7 +70,7 @@ description:
 url: 
 tags:
   - protocols
-publish: "false"
+publish: false
 type: protocol
 category: 
 ---
@@ -202,7 +202,7 @@ description:
 url: 
 tags:
   - patterns
-publish: "false"
+publish: false
 type: pattern
 protocols: # NEW: Link to supporting protocols
 ---
@@ -448,7 +448,7 @@ description:
 url: 
 tags:
   - protocols
-publish: "false"
+publish: false
 type: protocol
 category: 
 ---

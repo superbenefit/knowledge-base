@@ -10,7 +10,7 @@ tags:
 aliases:
   - CE Overview Index
   - Concept Documents Index
-publish: "false"
+publish: false
 type: index
 ---
 

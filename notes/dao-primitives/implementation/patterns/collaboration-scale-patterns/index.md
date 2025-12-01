@@ -2,7 +2,7 @@
 title: Cell Patterns
 description: Patterns related to implementing and managing Cells in DAO networks
 author: yeoro.eth
-publish: "false"
+publish: false
 type: index
 ---
 

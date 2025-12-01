@@ -6,7 +6,7 @@ tags:
   - functions
 aliases:
   - "#impact"
-publish: "true"
+publish: true
 ---
 
 *Impact refers to the measurable, positive change created through intentional interventions in social, environmental, and economic systems, with a focus on sustainable, equitable outcomes that address systemic challenges.*

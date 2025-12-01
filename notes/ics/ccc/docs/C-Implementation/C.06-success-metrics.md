@@ -10,7 +10,7 @@ tags:
 aliases:
   - Success Metrics
   - KPIs
-publish: "false"
+publish: false
 type: guide
 ---
 

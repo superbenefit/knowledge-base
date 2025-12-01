@@ -7,7 +7,7 @@ tags:
   - governance
   - efficiency
   - autonomy
-publish: "true"
+publish: true
 type: pattern
 protocols:
 ---

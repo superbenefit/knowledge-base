@@ -7,7 +7,7 @@ author:
 tags:
   - primitives
   - teams
-publish: "false"
+publish: false
 type: pattern
 functions:
   - governance

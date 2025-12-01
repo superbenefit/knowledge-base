@@ -10,7 +10,7 @@ tags:
 aliases:
   - Quarterly Review Guide
   - Community Celebration
-publish: "false"
+publish: false
 type: activity
 ---
 

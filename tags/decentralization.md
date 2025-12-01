@@ -6,7 +6,7 @@ tags:
   - values
 aliases:
   - "#decentralization"
-publish: "true"
+publish: true
 ---
 
 _Decentralization refers to the distribution of [power](power.md), [decision-making](decision-making.md), and control away from a central authority to multiple individuals or entities, allowing for more distributed and autonomous operations._

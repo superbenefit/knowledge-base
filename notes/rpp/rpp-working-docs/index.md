@@ -1,7 +1,7 @@
 ---
 title: Working drafts
 description: "This folder contains work-in-progress RPP knowledge resources"
-publish: "false"
+publish: false
 ---
 
 **This folder contains work-in-progress RPP knowledge resources.**

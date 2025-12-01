@@ -10,7 +10,7 @@ tags:
 aliases:
   - CE Principles
   - Community Exchange Values
-publish: "false"
+publish: false
 type: note
 ---
 

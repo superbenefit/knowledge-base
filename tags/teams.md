@@ -6,7 +6,7 @@ tags:
   - coordination
 aliases:
   - "#teams"
-publish: "true"
+publish: true
 ---
 
 Teams are self-managing, autonomous groups of individuals who collaborate to achieve shared goals through coordinated action and collective decision-making.

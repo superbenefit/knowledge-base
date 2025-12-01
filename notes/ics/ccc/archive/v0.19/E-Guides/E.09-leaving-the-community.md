@@ -9,7 +9,7 @@ tags:
 aliases:
   - Exit Process
   - Leaving CE
-publish: "false"
+publish: false
 type: guide
 ---
 

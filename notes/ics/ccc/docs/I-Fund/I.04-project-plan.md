@@ -11,7 +11,7 @@ tags:
 aliases:
   - IYF Project Plan
   - Fund Implementation Roadmap
-publish: "false"
+publish: false
 type: note
 ---
 

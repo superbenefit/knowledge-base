@@ -9,7 +9,7 @@ tags:
   - cell 
   - teams
   - group-state
-publish: "false"
+publish: false
 type: primitive
 functions:
   - governance

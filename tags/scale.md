@@ -7,7 +7,7 @@ tags:
 - coordination
 aliases:
 - "#scale"
-publish: "true"
+publish: true
 ---
 
 _Scale refers to the different levels of size, complexity, and coordination at which groups operate, each requiring distinct approaches to governance, decision-making, and collaboration to function effectively while maintaining purpose alignment._
@@ -48,8 +48,4 @@ The article argues that DAOs, when properly designed, can uniquely combine both 
 - **Cells**: Autonomous teams that form the building blocks of multi-scale networks
 - **[Agreements](tags/agreements.md)**: The shared understandings that connect activities across sca[index](artifacts/primitives-framework/concepts/index.md) fundamental scaling dynamics in organizational systems
 - Building DAOs as scalable networks: Proposes multi-scale governance approaches for decentralized organizations
-<<<<<<< HEAD
 - [primitives-framework-concepts](artifacts/primitives-framework/primitives-framework-concepts.md): Provides detailed analysis of different group scales and their characteristics
-=======
-- dao-primitives-concepts: Provides detailed analysis of different group scales and their characteristics
->>>>>>> f0cebfda2a6f6cb818dc70d708ddc5b83bc34361

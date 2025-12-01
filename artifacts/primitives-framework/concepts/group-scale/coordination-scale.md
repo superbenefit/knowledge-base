@@ -5,7 +5,7 @@ tags:
   - dao-primitives
   - framework
 aliases: 
-publish: "true"
+publish: true
 ---
 
 Coordination Scale represents a larger level of group organization than [collaboration scale](artifacts/primitives-framework/concepts/group-scale/collaboration-scale.md). It involves larger [groups](tags/groups.md) or multiple groups working together towards a shared goal, requiring more sophisticated [coordination](tags/coordination.md) mechanisms and communication strategies.
@@ -34,7 +34,7 @@ This scale is appropriate for your organization when you observe:
 **Structural Implications:**
 - Formal [governance](tags/governance.md) structures guide [decision-making](tags/decisions.md) and accountability
 - Multiple teams (often [Cells](tags/cells.md)) with defined [roles](tags/roles.md) and [responsibilities](tags/responsibilities.md)
-- [Group state](tags/group-state.md) documentation provides [transparency](tags/transparency.md) across teams
+- [Group state](artifacts/primitives-framework/concepts/group-state.md) documentation provides [transparency](tags/transparency.md) across teams
 - Reporting mechanisms track [progress](tags/progress.md) and enable resource allocation
 - Communication platforms support asynchronous coordination alongside synchronous meetings
 
@@ -69,7 +69,7 @@ This scale is appropriate for your organization when you observe:
 - **Communication Platforms:** Platforms for facilitating communication and collaboration among teams including gauging sentiment from across the wider group.
 - **[Governance](tags/governance.md) Structures:** Formal governance tooling to guide [decision-making](tags/decisions.md) and ensure accountability.
 - **Onchain Tools:** Where practical, onchain tools allow for [coordination](tags/coordination.md) without centralization of authority.
-- **Group State**: Using onchain trust mechanisms that connect back to [group state](tags/group-state.md) documentation allow groups to participate in coordination scale structures without overwhelming the coordination overhead.
+- **Group State**: Using onchain trust mechanisms that connect back to [group state](artifacts/primitives-framework/concepts/group-state.md) documentation allow groups to participate in coordination scale structures without overwhelming the coordination overhead.
 - **Reporting Mechanisms:** Mechanisms for reporting [progress](tags/progress.md) and impact allow for coordination scale structures to manage and allocate [resources](tags/resources.md) effectively.
 - **Project Management Software:** Tools for managing [tasks](tags/tasks.md), tracking progress, and coordinating activities across multiple teams.
 

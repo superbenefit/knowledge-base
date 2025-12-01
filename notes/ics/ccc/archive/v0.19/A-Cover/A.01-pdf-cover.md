@@ -9,7 +9,7 @@ tags:
 aliases:
   - CE Cover Page
   - Community Exchange Cover
-publish: "false"
+publish: false
 type: note
 ---
 

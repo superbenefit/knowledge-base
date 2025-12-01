@@ -4,7 +4,7 @@ description:
 url: 
 tags:
   - primitives
-publish: "false"
+publish: false
 type: primitive
 functions: 
 qualities: 

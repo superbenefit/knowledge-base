@@ -11,7 +11,7 @@ tags:
 aliases:
   - C4 Introduction
   - Community Connection & Commitment Commons Overview
-publish: "false"
+publish: false
 type: note
 ---
 

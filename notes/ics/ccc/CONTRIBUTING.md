@@ -10,7 +10,7 @@ tags:
 aliases:
   - C4 Contributing Guide
   - CCC Contributing Guidelines
-publish: "false"
+publish: false
 type: guide
 ---
 
@@ -36,7 +36,7 @@ tags:
 aliases:
   - Short Title
   - Alternative Name
-publish: "false"
+publish: false
 type: note
 ---
 ```

@@ -10,7 +10,7 @@ tags:
 aliases:
   - CE Examples Directory
   - Practical Examples Overview
-publish: "false"
+publish: false
 type: reference
 ---
 

@@ -7,7 +7,7 @@ tags:
 - resources
 aliases:
 - "#roles"
-publish: "true"
+publish: true
 ---
 
 _Roles are defined sets of responsibilities, permissions, and accountabilities assigned to individuals or entities within a system, enabling specialized contributions while creating clear interfaces for [coordination](coordination.md) across [decentralized](decentralization.md) networks._
@@ -28,11 +28,7 @@ These governance roles might include treasury signers who manage collective reso
 
 ### Roles in Cell-Based Organizations
 
-<<<<<<< HEAD
 Within cell-based organizational models like those described in the [Primitives Framework](artifacts/primitives-framework/index.md), roles function as **agreement patterns** that establish formalized commitments about responsibilities, permissions, and authorities between agents and entities in the network. In these systems, cells (small autonomous teams) define internal roles that handle specialized functions while maintaining clear interfaces with other cells in the network.
-=======
-Within cell-based organizational models like those described in the [DAO Primitives framework](../artifacts/guides/dao-primitives-framework/index.md), roles "contain and manage specific responsibilities and sets of permissions." In these systems, cells (small autonomous teams) define internal roles that handle specialized functions while maintaining clear interfaces with other cells in the network.
->>>>>>> f0cebfda2a6f6cb818dc70d708ddc5b83bc34361
 
 Roles serve as the relationship infrastructure that connects autonomous actors across DAO networks, enabling coordination and specialization for ongoing activities. As noted in papers like "Building DAOs as scalable networks," these roles enable autonomous teams to coordinate effectively by creating transparent agreements about who is responsible for what. Cell documentation typically includes explicit role definitions as part of their state, making these agreements visible to both team members and external stakeholders.
 

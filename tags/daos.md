@@ -10,7 +10,7 @@ aliases:
   - "#daos"
   - "#dao"
   - dao
-publish: "true"
+publish: true
 ---
 
 *[Decentralized](tags/decentralization.md) [Autonomous](tags/autonomy.md) Organizations (DAOs) are blockchain-based coordination systems that enable groups to govern shared resources and make decisions collectively without centralized control, using transparent rules encoded in smart contracts to align incentives around common goals.*
@@ -106,12 +106,8 @@ See the [Primitives Framework](artifacts/primitives-framework/index.md) for deta
 ## Related Concepts
 
 - [Governance](tags/governance.md) - The frameworks and processes that guide decision-making in DAOs
-<<<<<<< HEAD
 - [Decentralization](tags/decentralization.md) - A key design principle in DAO structures
-=======
-- Decentralization - A key design principle in DAO structures
-- [Cells](artifacts/guides/dao-primitives-framework/group-primitives/cells.md) - Autonomous teams that form the building blocks of DAO networks
->>>>>>> f0cebfda2a6f6cb818dc70d708ddc5b83bc34361
+- [Cells](tags/cells.md) - Autonomous teams that form the building blocks of DAO networks
 - [Primitives](tags/primitives.md) - Fundamental components used to design and build DAO systems
 - [Consensus](tags/consensus.md) - Mechanisms for reaching agreement in distributed systems
 - [Consent](tags/consent.md) - Decision-making approaches based on absence of objection rather than unanimous agreement

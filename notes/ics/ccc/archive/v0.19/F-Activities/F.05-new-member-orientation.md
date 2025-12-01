@@ -10,7 +10,7 @@ tags:
 aliases:
   - Member Orientation Guide
   - Onboarding Sessions
-publish: "false"
+publish: false
 type: activity
 ---
 

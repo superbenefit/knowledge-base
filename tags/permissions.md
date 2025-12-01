@@ -8,7 +8,7 @@ tags:
 - primitives 
 aliases:
 - "#permissions"
-publish: "true"
+publish: true
 type: tag
 ---
 

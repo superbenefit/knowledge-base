@@ -11,7 +11,7 @@ tags:
 aliases:
   - IYF Documentation
   - Impact Fund Overview
-publish: "false"
+publish: false
 type: reference
 ---
 

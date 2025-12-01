@@ -1,5 +1,3 @@
-# Artifacts Directory: Polished Knowledge
-
 This directory contains our polished, published content. See the [SuperBenefit Knowledge Base README](README.md) for a general overview of the project.
 
 ## Contributing Artifacts

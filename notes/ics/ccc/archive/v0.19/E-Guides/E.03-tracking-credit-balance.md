@@ -12,7 +12,7 @@ aliases:
   - Balance Tracking Guide
   - Voucher Monitoring
   - C4 Balance Tracking
-publish: "false"
+publish: false
 type: guide
 ---
 

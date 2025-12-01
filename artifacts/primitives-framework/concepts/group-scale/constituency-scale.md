@@ -5,7 +5,7 @@ tags:
   - dao-primitives
   - framework
 aliases:
-publish: "true"
+publish: true
 ---
 
 
@@ -80,7 +80,7 @@ This scale is appropriate for your organization when you observe:
 ### Constituency Scale Patterns
 
 - [dao-state](notes/dao-primitives/implementation/patterns/dao-patterns/dao-state.md)
-- [group-state](tags/group-state.md)
+- [group-state](artifacts/primitives-framework/concepts/group-state.md)
 - [tags/community-governance](tags/community-governance.md)
 - [artifacts/primitives-framework/implementation/implementation-guide-community-governance](artifacts/primitives-framework/implementation/implementation-guide-community-governance.md)
 - [daos](tags/daos.md)

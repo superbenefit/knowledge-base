@@ -1,7 +1,7 @@
 ---
 title: Privacy
 description: The safeguarding of personal, transactional, and organizational data to ensure autonomy, security, and ethical stewardship in digital ecosystems.
-publish: "true"
+publish: true
 type: tag
 aliases:
   - "#privacy"

@@ -4,6 +4,6 @@ description:
 date: 
 author: 
 tags: 
-publish: "false"
+publish: false
 type: note
 ---

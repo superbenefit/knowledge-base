@@ -6,6 +6,6 @@ tags:
   - playbooks
 harvester:
 curator:
-publish: "false"
+publish: false
 type: note
 ---

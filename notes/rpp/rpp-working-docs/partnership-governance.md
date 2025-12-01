@@ -6,7 +6,7 @@ tags:
   - patterns
 harvester: 
 curator: 
-publish: "false"
+publish: false
 type: pattern
 url: 
 studies: 

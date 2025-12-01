@@ -11,7 +11,7 @@ tags:
 aliases:
   - IYF
   - Impact Fund
-publish: "false"
+publish: false
 type: note
 ---
 

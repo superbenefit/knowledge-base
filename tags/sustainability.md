@@ -6,7 +6,7 @@ tags:
 - qualities 
 aliases:
 - "#sustainability"
-publish: "true"
+publish: true
 ---
 
 _Sustainability refers to the design and implementation of systems that balance environmental integrity, social equity, and economic viability to meet present needs without compromising future generations' ability to meet their own needs, particularly through [decentralized](decentralization.md) [coordination](coordination.md) mechanisms that enable regenerative rather than extractive relationships._

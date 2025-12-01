@@ -3,7 +3,7 @@ title: Authorities
 description: Entities, roles, or systems granted legitimate power to make decisions, validate actions, or enforce rules within decentralized networks and governance frameworks
 harvester:
   - rathermercurial.eth
-publish: "true"
+publish: true
 type: tag
 aliases:
   - "#authorities"

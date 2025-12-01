@@ -11,7 +11,7 @@ tags:
 aliases:
   - C4 Timeline
   - Implementation Schedule
-publish: "false"
+publish: false
 type: plan
 ---
 

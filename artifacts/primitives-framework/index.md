@@ -10,8 +10,6 @@ tags:
   - coordination
 ---
 
-# Primitives Framework
-
 A systematic approach to designing decentralized organizations as purpose-aligned networks of small autonomous teams.
 
 ## What Is This Framework?
@@ -46,7 +44,7 @@ Choose your path based on where you are:
 
 **Need specific patterns?** Browse the [tags directory](tags/) for organizational patterns and concepts.
 
-**Looking for examples?** See the [RPP Governance Case Study](rpp-governance-case-study.md) for a real-world implementation.
+**Looking for examples?** See the [RPP Governance Case Study](artifacts/primitives-framework/studies/rpp-governance-case-study.md) for a real-world implementation.
 
 ### Implementing Systems
 
@@ -118,7 +116,7 @@ The framework guides you through a three-phase process:
 
 All patterns are documented in the [tags directory](tags/):
 - **Organizational patterns**: [DAOs](tags/daos.md), [Cells](tags/cells.md), [Roles](tags/roles.md), [Tasks](tags/tasks.md)
-- **Coordination patterns**: [Group State](tags/group-state.md), [Community Governance](tags/community-governance.md), [Operational Governance](tags/operational-governance.md)
+- **Coordination patterns**: [Group State](artifacts/primitives-framework/concepts/group-state.md), [Community Governance](tags/community-governance.md), [Operational Governance](tags/operational-governance.md)
 - **Cell patterns**: [Cell State](tags/cell-state.md), [Decider Protocol](tags/decider.md)
 
 ### Implementation Resources
@@ -128,7 +126,7 @@ All patterns are documented in the [tags directory](tags/):
   - Community Governance - broad stakeholder participation
   - Multi-Stakeholder Governance - diverse constituency coordination
 - **[Articles](articles/)** - Articles on scaling, network dynamics, and permissionless-ness
-- **[Case Studies](rpp-governance-case-study.md)** - Real-world implementation examples
+- **[Case Studies](artifacts/primitives-framework/studies/rpp-governance-case-study.md)** - Real-world implementation examples
 
 ---
 

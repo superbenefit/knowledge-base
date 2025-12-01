@@ -6,7 +6,7 @@ tags:
   - patterns
   - governance
   - tooling
-publish: "true"
+publish: true
 type: pattern
 protocols: 
 ---

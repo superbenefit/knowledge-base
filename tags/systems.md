@@ -7,7 +7,7 @@ tags:
 - coordination
 aliases:
 - "#systems"
-publish: "true"
+publish: true
 ---
 
 _Systems are interconnected networks of components that work together through dynamic processes and relationships to achieve specific purposes, creating emergent behaviors and capabilities that transcend the sum of their individual parts._

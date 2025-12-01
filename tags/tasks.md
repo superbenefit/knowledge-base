@@ -1,7 +1,7 @@
 ---
 title: Tasks
 description: Specific, coordinated actions or duties assigned to roles or agents within decentralized systems
-publish: "true"
+publish: true
 type: tag
 tags:
   - agreements
@@ -12,7 +12,6 @@ aliases:
 
 **Tasks** are specific, coordinated actions or duties assigned to [roles](tags/roles.md) or [agents](tags/agents.md) within decentralized systems, driving the execution of processes and the achievement of collective goals in both social and technological coordination frameworks.
 
-<<<<<<< HEAD
 ## Tasks as Agreement Patterns
 
 Within the [Primitives Framework](artifacts/primitives-framework/index.md), Tasks function as **agreement patterns** that establish formalized commitments about specific actions, deliverables, and coordinated activities that need to be accomplished within DAO networks. They serve as the operational agreements that define **what** specific work needs to be accomplished, while Roles define **who** has the responsibility and authority to coordinate that work.
@@ -27,16 +26,5 @@ Tasks create the operational foundation for network activity by establishing cle
 - [Agreements](tags/agreements.md) - Formal or informal understandings that coordinate work
 - [Coordination](tags/coordination.md) - The mechanisms through which networks align activities
 - [Agents](tags/agents.md) - The individuals or entities that execute tasks
-
-=======
-
----
-
-## Related Concepts
-
-- Roles - Assigned responsibilities for tasks
-- [Cell](artifacts/patterns/cell.md) - Teams managing tasks
+- [Cells](tags/cells.md) - Teams managing tasks
 - [Progress](tags/progress.md) - Tracking task completion
-- [Teams](tags/teams.md) - Groups executing tasks
-- [Coordination](tags/coordination.md) - Aligning task execution
->>>>>>> f0cebfda2a6f6cb818dc70d708ddc5b83bc34361

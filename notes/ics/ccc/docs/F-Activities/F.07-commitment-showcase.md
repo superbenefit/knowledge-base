@@ -10,7 +10,7 @@ tags:
 aliases:
   - Showcase Guide
   - Commitment Presentations
-publish: "false"
+publish: false
 type: activity
 ---
 

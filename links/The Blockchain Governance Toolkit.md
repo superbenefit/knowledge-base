@@ -1,7 +1,7 @@
 ---
 title: The Blockchain Governance Toolkit
 description: A comprehensive framework for designing resilient and adaptive governance systems for blockchain networks, presented as a "cookbook" with modular components and balanced trade-offs.
-publish: "true"
+publish: true
 type: framework
 source: https://www.projectliberty.io/wp-content/uploads/2024/06/PL_Toolkit_Report_v7.pdf
 author:

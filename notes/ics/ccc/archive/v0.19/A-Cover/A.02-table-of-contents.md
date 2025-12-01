@@ -10,7 +10,7 @@ tags:
 aliases:
   - CE TOC
   - Community Exchange Navigation
-publish: "false"
+publish: false
 type: note
 ---
 

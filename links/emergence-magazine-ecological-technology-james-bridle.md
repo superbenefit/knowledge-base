@@ -11,9 +11,7 @@ tags:
   - ecological-technology
   - more-than-human
   - systems-thinking
-  - technolog
-
-y-and-ecology
+  - technology-and-ecology
   - james-bridle
   - alternative-technology
   - regenerative-design

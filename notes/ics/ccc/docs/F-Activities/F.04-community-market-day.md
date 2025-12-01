@@ -10,7 +10,7 @@ tags:
 aliases:
   - Market Day Guide
   - Community Market
-publish: "false"
+publish: false
 type: activity
 ---
 

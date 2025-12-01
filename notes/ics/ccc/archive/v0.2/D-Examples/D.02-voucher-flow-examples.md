@@ -10,7 +10,7 @@ tags:
 aliases:
   - C4 Voucher Flow Scenarios
   - Exchange Examples
-publish: "false"
+publish: false
 type: guide
 ---
 

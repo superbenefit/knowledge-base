@@ -9,7 +9,7 @@ tags:
 aliases:
   - C4 v0.2
   - Community Connection & Commitment Commons Version 2
-publish: "false"
+publish: false
 type: note
 ---
 

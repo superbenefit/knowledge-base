@@ -1,7 +1,7 @@
 ---
 title: Network Evolution - The DAO Reconceptualization Series
 description: 
-publish: "true"
+publish: true
 type: index
 ---
 

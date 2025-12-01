@@ -9,7 +9,7 @@ tags:
   - group-phase
 aliases:
   - completion-phase
-publish: "true"
+publish: true
 type: note
 ---
 
@@ -90,7 +90,7 @@ A completion phase is proceeding effectively when the activities listed above ha
 
 ### State Documentation
 
-During the Completion Phase, the [group state](tags/group-state.md) documentation evolves into its final form, serving as both a transition tool and a historical record:
+During the Completion Phase, the [group state](artifacts/primitives-framework/concepts/group-state.md) documentation evolves into its final form, serving as both a transition tool and a historical record:
 
 **Purpose Elements**:
 

@@ -1,7 +1,7 @@
 ---
 title: Retroactive Public Goods Funding
 description: A groundbreaking funding mechanism designed to create startup-style exits for public goods projects by rewarding demonstrated impact rather than predicted outcomes, addressing the fundamental challenge of sustaining open source development.
-publish: "true"
+publish: true
 type: framework
 source: https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c
 author:

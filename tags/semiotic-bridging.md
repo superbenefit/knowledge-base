@@ -3,7 +3,7 @@ title: Semiotic Bridging
 description: The practice of translating meaning systems between different communities and cultural contexts
 harvester:
   - rathermercurial.eth
-publish: "true"
+publish: true
 type: tag
 tags:
 ---

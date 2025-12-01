@@ -6,7 +6,7 @@ author:
 url: 
 tags:
   - patterns
-publish: "true"
+publish: true
 type: pattern
 studies: 
 primitives: 
