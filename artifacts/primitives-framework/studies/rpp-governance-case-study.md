@@ -66,7 +66,7 @@ Each stakeholder brought different perspectives, resources, and expectations to 
 
 ### Multi-Stakeholder Governance with DAO Primitives
 
-The governance design utilized SuperBenefit's [DAO Primitives framework](artifacts/primitives-framework/concepts/index.md), implementing a multi-stakeholder approach with distinct but interconnected governance layers:
+The governance design utilized SuperBenefit's [DAO Primitives framework](artifacts/primitives-framework/facilitation/concepts/concepts.md), implementing a multi-stakeholder approach with distinct but interconnected governance layers:
 
 1. **Community Governance** (Constituency Scale): SuperBenefit's broader community governance provided the outermost layer, offering oversight and purpose alignment while establishing boundaries for the project's autonomy.
 2. **Stakeholder Group** (Coordination Scale): Representatives from each stakeholder organization formed a collaborative forum for strategic direction, resource oversight, and cross-organizational alignment.
@@ -82,12 +82,12 @@ Each layer operated with appropriate decision-making mechanisms and authority sc
 
 ### Framework Components and Patterns Applied
 
-1. **Core Primitives**: Building blocks for organizational design:
+1. **Core Organizational Patterns**: Building blocks for organizational design:
     - **[Cells](tags/cells.md)**: Autonomous working groups with defined purpose, practices, and progress tracking
     - **[Roles](tags/roles.md)**: Clearly defined responsibilities and permissions
     - **[Tasks](tags/tasks.md)**: Discrete units of work with clear deliverables
     - **State Documentation**: Transparent recording of agreements, decisions, and progress
-2. **Patterns**: Reusable solutions for common governance challenges:
+2. **Governance Patterns**: Reusable solutions for common governance challenges:
     - **Cell Working Group Pattern**: Framework for autonomous team operation
     - **[Multi-Stakeholder Governance Pattern](notes/dao-primitives/implementation/patterns/constituency-scale-patterns/multi-stakeholder-governance.md)**: Balancing diverse stakeholder interests
     - **[Community Governance Pattern](notes/dao-primitives/implementation/patterns/constituency-scale-patterns/community-governance.md)**: Constituency-scale decision processes
@@ -269,7 +269,7 @@ While the model ultimately proved effective, several challenges emerged that pro
 
 ### Conclusion
 
-The RPP governance design demonstrates the potential of applying [DAO Primitives framework](artifacts/primitives-framework/concepts/index.md) to complex multi-stakeholder initiatives. By thoughtfully balancing stakeholder oversight with operational autonomy and deliberately designing for different scales of coordination, the model enabled effective collaboration across organizational boundaries while maintaining alignment with core purpose.
+The RPP governance design demonstrates the potential of applying [DAO Primitives framework](artifacts/primitives-framework/facilitation/concepts/concepts.md) to complex multi-stakeholder initiatives. By thoughtfully balancing stakeholder oversight with operational autonomy and deliberately designing for different scales of coordination, the model enabled effective collaboration across organizational boundaries while maintaining alignment with core purpose.
 
 There are of course improvements to make for future versions of this governance design. Many of the aspects of the project that were less than optimal reflect the fact that this project, as well as engaging in experiments, was in itself an experiment. Indeed the entire multi-stakeholder-governance model was experimental. Thus the learning outlined above will be used to inform the evolution of this model.
 
@@ -290,7 +290,7 @@ Here is an outline of how the governance structure of the RPP.
 - **Stages**: Implementation across Group Phases - Conversation, Formation, Organization, Coordination
 - **Primitives**: DAOs, [Cells](tags/cells.md), [Roles](tags/roles.md), [Tasks](tags/tasks.md)
 - **Patterns**: Cell Working Group, [Multi-stakeholder Governance](notes/dao-primitives/implementation/patterns/constituency-scale-patterns/multi-stakeholder-governance.md), [Community Governance](notes/dao-primitives/implementation/patterns/constituency-scale-patterns/community-governance.md)
-- Guides: [implementation-guide-multi-stakeholder-governance](artifacts/primitives-framework/implementation/implementation-guide-multi-stakeholder-governance.md)
+- Guides: [implementation-guide-multi-stakeholder-governance](artifacts/primitives-framework/guides/implementation/implementation-guide-multi-stakeholder-governance.md)
 
 ### Technical Components
 
