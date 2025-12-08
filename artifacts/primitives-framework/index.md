@@ -24,118 +24,48 @@ This systematic approach addresses a crucial challenge: how can decentralized ne
 
 ### Why did we make this?
 
-%% This section should just focus on the theoretical basis and rationale for the primitives framework, and the articles section where readers can dive deeper into our organizing approach. Links to relevant tag pages should be used to help readers understand jargon, etc %%
+The Primitives Framework emerged from SuperBenefit's practical work helping organizations navigate the transition to decentralized coordination. Traditional organizational models—optimized for industrial production and hierarchical management—excel at efficiency but struggle with the complexity, adaptability, and equitable value distribution that modern challenges demand. Meanwhile, the Web3 space offers an abundance of governance protocols and coordination tools, yet teams often face decision paralysis when trying to match tools to their specific context.
 
-- to help people understand how to learn about, evaluate and use DAO Primitives. 
-- to serve a gap in the web3 education space, around how to practically approach tooling adoption from a social impact and systems change lens.
-- to serve as a jumping off point to deeper learning and other helpful tools/frameworks
-- a non-prescriptive starting place for exploration, composed of modules which can slot into any project lifecycle.
+This framework bridges that gap by providing a systematic approach to tool evaluation and adoption through a social impact and systems change lens. Rather than prescribing specific solutions, it offers modular components that slot into any project lifecycle, helping you understand your organizational context ([phase](artifacts/primitives-framework/guides/discovery/group-phase/index.md), [scale](artifacts/primitives-framework/guides/discovery/group-scale/index.md), [values](artifacts/primitives-framework/guides/discovery/group-values.md)), select appropriate [patterns](tags/primitives.md), and implement [primitives](tags/primitives.md) that serve your needs.
+
+**Want to dive deeper into our organizing philosophy?** Explore our [article collection](artifacts/primitives-framework/articles/index.md) examining DAOs as networked systems, scaling dynamics, and governance approaches.
 
 #### Who Is This For?
 
-%% The content below isn't useful. Zoom out and just state the intended audience using a short paragraph%%
+This framework is designed for organizations at the intersection of social impact and decentralized technology—groups looking to adopt Web3 coordination tools, networks and funders experimenting with decentralized approaches to systems change, and capacity builders supporting communities through governance transitions. It's most valuable for teams navigating the "how" of practical implementation: you understand why decentralization matters, but need systematic guidance for translating purpose into practice.
 
-- Groups looking to adopt web3 and other decentralized coordination technologies
-- Networks, funders, capacity builders and other institutions looking to experiment with decentralized technologies for systems change.
-- 
-
-#### Who is this *not* for?
-
-- Organizations who don't need to adopt decentralized coordination tools
-- Organizations with a strong grasp of their group state and established practices for self-organizing onchain.
-- 
-
+If your organization already has a strong grasp of its group state and established practices for self-organizing onchain, you may find individual framework components useful as reference material, though the full discovery-through-implementation process may be more structured than you need.
 ---
 
-## Guides %% rename this %%
+## How to Use This Framework
 
-%% This section should simultaneously serve the dual purposes of: 1.) helping the reader to understand the contents and context of the /primitives-framework/guides directory as it relates to the practical application of the primitives framework and 2.) Conveying enough of the framework itself to give the reader a high-level understanding of how the framework is used and what its value is (such that a reader can tell whether it's even worth clicking on the links to read more) %%
+The framework guides you through three phases that mirror how decentralized organizations naturally evolve—from understanding your current reality, to designing your coordination systems, to implementing the tools that support your work.
 
-**Want to know more?** Check out the [Conceptual Framework](artifacts/primitives-framework/guides/concepts.md) to understand the core ideas, contextual dimensions, and organizational patterns.
-
-The framework guides you through a three-phase process:
-
-%% This "Discovery → Design → Implementation" track is described in the start here to match the current structure of the guides. %%
-
-- Document your organizational context and group state
-- Select design patterns and develop your organizational graph
-- Implement systems to serve your needs using primitives
-
-
-%% Reorganize lifecycle steps as anticapture cycles %%
-
-%% Use progressive disclosure here. instead of sub-headings for outcome, output, etc., these heading sections should just be one paragraph each under the appropriate lifecycle phase (design, implementation, etc.). Move extra details to the relevant index page for that directory %%
+**New to the framework?** Start with the [Conceptual Framework](artifacts/primitives-framework/guides/concepts.md) to understand core ideas, contextual lenses (phase, scale, values), and organizational patterns (DAOs, Cells, Roles, Tasks).
 
 ### Discovery
 
-%% discovery intro %%
+The discovery phase helps you map your organizational context—identifying distinct social groups (trust zones), assessing their current phase and scale, and documenting shared purpose alongside divergent perspectives. You'll produce a discovery report that captures stakeholder insights and, optionally, validated group state documentation expressing your organization's Purpose, Practice, and Progress.
 
-- Identify distinct social groups and assess their current phase, scale and values
-- Study their organizational context and stakeholder landscape.
-- Document shared understanding and divergent perspectives on group state
-- Produce (and optionally validate) a discovery report with insights and direction
+This phase is especially valuable for polycentric governance systems and complex multi-stakeholder environments where surfacing diverse perspectives early prevents misalignment later. The process adapts to your existing workflows—if you already have discovery practices, the framework simply provides additional parameters to capture.
 
-#### Output: Organizational Context
-
-Any discovery process should include gathering some detailed information on the problem you're trying to solve. Whatever your approach to discovery, we recommend that it includes some documentation on the state of the groups and communities your project will interact with. This is especially useful when creating polycentric governance systems and navigating complex environments.
-
-The discovery phase should produce (alongside any other Discovery outputs needed) some form of [Group State](artifacts/primitives-framework/guides/design/group-state.md) to use later in the design and planning stages. Other useful information to collect during discovery includes:
-
-- 
-- see [readme](artifacts/primitives-framework/guides/discovery/readme.md) for more useful discovery parameters
-
-#### Outcome
-
-Completion criteria
-- 
-
-Jumping off points:
-- ["Making DAOs Work" (introducing **the Trust Zones Framework**)](https://blog.hatsprotocol.xyz/making-daos-work)
-	- [Gardnr Trust Zone Builder](https://gardnr.hatsprotocol.xyz/thread/9e147f02-8826-482e-bb5c-5aabbaa5d435)
+**Explore**: [Discovery Guide](artifacts/primitives-framework/guides/discovery/index.md) | [Trust Zones Framework](https://blog.hatsprotocol.xyz/making-daos-work) | [Gardnr Trust Zone Builder](https://gardnr.hatsprotocol.xyz/thread/9e147f02-8826-482e-bb5c-5aabbaa5d435)
 
 ### Design
 
-%% this section should help the user represent their trust zones using an organizational graph %%
+Design translates your discovery insights into an organizational graph—a visual representation of how your trust zones connect through voluntary agreements. You'll evaluate and select organizational patterns (DAOs, Cells, Roles, Tasks) based on your contextual lenses (phase, scale, values), then compose them into governance and operational structures tailored to your needs.
 
+The output is an organizational graph that makes explicit which entities exist in your network, how authority flows between them, and what agreements govern their relationships. This becomes your blueprint for implementation, whether you're designing a simple single-team structure or a complex multi-stakeholder network.
 
-
-- Evaluate patterns based on chosen selection criteria and group context 
-- 
-- Select appropriate organizational patterns based on discovery insights
-- 
-
-#### Output: Organizational Graph
-
-
-#### Outcome
-
-Completion criteria
-- 
-
-Jumping Off Points:
-- [The Blockchain Governance Toolkit](links/The%20Blockchain%20Governance%20Toolkit.md) ([PL_Toolkit_Report_v7](attachments/PL_Toolkit_Report_v7.pdf)) 
-- 
+**Explore**: [Design Guide](artifacts/primitives-framework/guides/design/index.md) | [Blockchain Governance Toolkit](links/The%20Blockchain%20Governance%20Toolkit.md)
 
 ### Implementation
 
-%% This section should help the user choose and implement the appropriate organizing primitives for their scale, phase and values.  %%
+Implementation brings your organizational graph to life by selecting and deploying specific primitives—the technical tools, protocols, and practices that enable your designed structure to function. You'll choose governance protocols (voting systems, treasury management), coordination tools (communication platforms, project management), and operational practices (decision-making processes, resource allocation mechanisms) appropriate for your phase and scale.
 
-- Deploy technical infrastructure (governance protocols, coordination tools)
-- Establish operational systems and information flows
-- Launch with appropriate formality for current phase
-- Iterate and evolve based on feedback and changing context
+The framework provides implementation guides for common governance patterns including operational governance (day-to-day execution), community governance (constituency-scale decision-making), and multi-stakeholder governance (balancing diverse interests). Launch with appropriate formality for your current phase, then iterate based on feedback and evolving context.
 
-**Choosing governance approach?** Review the [implementation guides](implementation/) for operational, community, and multi-stakeholder governance.
-
-#### Output
-
-Completion criteria
-- 
-
-#### Outcome
-
-
-
+**Explore**: [Implementation Guides](artifacts/primitives-framework/guides/implementation/) | [Case Studies](artifacts/primitives-framework/studies/)
 ---
 
 ## Case Studies & Related Resources
