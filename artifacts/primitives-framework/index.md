@@ -35,13 +35,14 @@ This framework bridges that gap by providing a systematic approach to tool evalu
 This framework is designed for organizations at the intersection of social impact and decentralized technology—groups looking to adopt Web3 coordination tools, networks and funders experimenting with decentralized approaches to systems change, and capacity builders supporting communities through governance transitions. It's most valuable for teams navigating the "how" of practical implementation: you understand why decentralization matters, but need systematic guidance for translating purpose into practice.
 
 If your organization already has a strong grasp of its group state and established practices for self-organizing onchain, you may find individual framework components useful as reference material, though the full discovery-through-implementation process may be more structured than you need.
+
 ---
 
 ## How to Use This Framework
 
 The framework guides you through three phases that mirror how decentralized organizations naturally evolve—from understanding your current reality, to designing your coordination systems, to implementing the tools that support your work.
 
-**New to the framework?** Start with the [Conceptual Framework](artifacts/primitives-framework/guides/concepts.md) to understand core ideas, contextual lenses (phase, scale, values), and organizational patterns (DAOs, Cells, Roles, Tasks).
+**New to the framework?** Start with the [Conceptual Framework](artifacts/primitives-framework/guides/concepts.md) to understand core ideas, contextual lenses (phase, scale, values), and organizational patterns.
 
 ### Discovery
 
@@ -53,7 +54,7 @@ This phase is especially valuable for polycentric governance systems and complex
 
 ### Design
 
-Design translates your discovery insights into an organizational graph—a visual representation of how your trust zones connect through voluntary agreements. You'll evaluate and select organizational patterns (DAOs, Cells, Roles, Tasks) based on your contextual lenses (phase, scale, values), then compose them into governance and operational structures tailored to your needs.
+Design translates your discovery insights into an organizational graph—a visual representation of how your trust zones connect through voluntary agreements. You'll evaluate and select organizational patterns based on your contextual lenses (phase, scale, values), then compose them into governance and operational structures tailored to your needs.
 
 The output is an organizational graph that makes explicit which entities exist in your network, how authority flows between them, and what agreements govern their relationships. This becomes your blueprint for implementation, whether you're designing a simple single-team structure or a complex multi-stakeholder network.
 
@@ -66,6 +67,7 @@ Implementation brings your organizational graph to life by selecting and deployi
 The framework provides implementation guides for common governance patterns including operational governance (day-to-day execution), community governance (constituency-scale decision-making), and multi-stakeholder governance (balancing diverse interests). Launch with appropriate formality for your current phase, then iterate based on feedback and evolving context.
 
 **Explore**: [Implementation Guides](artifacts/primitives-framework/guides/implementation/) | [Case Studies](artifacts/primitives-framework/studies/)
+
 ---
 
 ## Case Studies & Related Resources
