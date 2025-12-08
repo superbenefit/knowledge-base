@@ -1,5 +1,5 @@
 ---
-title: Primitives Framework
+title: DAO Primitives Framework
 description: A systematic approach to designing decentralized organizations as purpose-aligned networks of small autonomous teams
 publish: true
 type: guide
@@ -10,160 +10,144 @@ tags:
   - coordination
 ---
 
-A systematic approach to designing decentralized organizations as purpose-aligned networks of small autonomous teams.
+A framework for building decentralized organizations as purpose-aligned networks of small autonomous teams.
 
 ## What Is This Framework?
 
-The Primitives Framework helps organizations design coordination systems that balance efficiency with innovation, autonomy with alignment, and flexibility with coherence. It provides **organizational patterns** (structural building blocks) and **dimensional lenses** (assessment tools) that can be combined to create governance and operational systems tailored to specific contexts.
+The Primitives Framework guides organizations through three essential phases for building decentralized coordination systems:
 
-The framework addresses a crucial challenge: how can decentralized networks scale while maintaining the responsiveness and adaptability needed for complex, evolving environments?
+1. **Discovery** — Identify your trust zones: the distinct social groups where collaboration naturally occurs, and understand their current phase, scale, and values
+2. **Design** — Network those trust zones together using voluntary agreements, making relationships explicit through an organizational graph
+3. **Implementation** — Choose and implement the appropriate organizing primitives (tools and protocols) for your specific context
 
-## Who Is This For?
+This systematic approach addresses a crucial challenge: how can decentralized networks scale while maintaining the responsiveness and adaptability needed for complex, evolving environments? The framework provides both contextual lenses for understanding your organizational reality and practical patterns for building coordination systems that balance efficiency with innovation, autonomy with alignment, and flexibility with coherence.
 
-**Organization Designers** working on DAO governance and decentralized coordination structures
+### Why did we make this?
 
-**Facilitators** helping groups establish or evolve their governance and operational systems
+%% This section should just focus on the theoretical basis and rationale for the primitives framework, and the articles section where readers can dive deeper into our organizing approach. Links to relevant tag pages should be used to help readers understand jargon, etc %%
 
-**Communities** transitioning from informal coordination to formal organizational structures
+- to help people understand how to learn about, evaluate and use DAO Primitives. 
+- to serve a gap in the web3 education space, around how to practically approach tooling adoption from a social impact and systems change lens.
+- to serve as a jumping off point to deeper learning and other helpful tools/frameworks
+- a non-prescriptive starting place for exploration, composed of modules which can slot into any project lifecycle.
 
-**Developers** implementing governance systems and coordination infrastructure
+#### Who Is This For?
 
-## Start Here
+%% The content below isn't useful. Zoom out and just state the intended audience using a short paragraph%%
 
-Choose your path based on where you are:
+- Groups looking to adopt web3 and other decentralized coordination technologies
+- Networks, funders, capacity builders and other institutions looking to experiment with decentralized technologies for systems change.
+- 
 
-### Learning the Framework
+#### Who is this *not* for?
 
-**New to these concepts?** Start with [Framework Concepts](artifacts/primitives-framework/concepts/index.md) to understand the core ideas, dimensional lenses, and organizational patterns.
-
-**Want the complete picture?** Read through the conceptual foundations, then explore the dimensional lenses (Phase, Scale, State) and organizational patterns (DAOs, Cells, Roles, Tasks).
-
-### Designing an Organization
-
-**Ready to design governance?** Follow the [Group Facilitation Guide](artifacts/primitives-framework/implementation/group-facilitation.md) through Discovery → Design → Implementation.
-
-**Need specific patterns?** Browse the [tags directory](tags/) for organizational patterns and concepts.
-
-**Looking for examples?** See the [RPP Governance Case Study](artifacts/primitives-framework/studies/rpp-governance-case-study.md) for a real-world implementation.
-
-### Implementing Systems
-
-**Choosing governance approach?** Review the [implementation guides](implementation/) for operational, community, and multi-stakeholder governance.
-
-**Need technical tools?** Implementation guides cover selecting and deploying governance protocols, smart contracts, and coordination infrastructure.
+- Organizations who don't need to adopt decentralized coordination tools
+- Organizations with a strong grasp of their group state and established practices for self-organizing onchain.
+- 
 
 ---
 
-## Framework Structure
+## Guides %% rename this %%
 
-### Core Concepts
+%% This section should simultaneously serve the dual purposes of: 1.) helping the reader to understand the contents and context of the /primitives-framework/guides directory as it relates to the practical application of the primitives framework and 2.) Conveying enough of the framework itself to give the reader a high-level understanding of how the framework is used and what its value is (such that a reader can tell whether it's even worth clicking on the links to read more) %%
 
-The framework is built on two complementary elements:
-
-**[Dimensional Lenses](artifacts/primitives-framework/concepts/index.md#dimensional-lense)** - Three perspectives for assessing organizational context:
-- **Phase:** Developmental stage (Conversation → Formation → Organization → Iteration → Completion)
-- **Scale:** Size and complexity (Collaboration < 10 → Coordination 10-150 → Constituency 100s+ → Network)
-- **State:** Documentation of Purpose, Practice, and Progress
-
-**[Organizational Patterns](artifacts/primitives-framework/concepts/index.md#organizational-patterns)** - Four fundamental building blocks:
-- **DAOs:** Purpose-aligned networks of small autonomous teams
-- **Cells:** Small autonomous teams (< 10 people) with networked autonomy
-- **Roles:** Sets of responsibilities, permissions, and accountabilities
-- **Tasks:** Defined work with clear deliverables
-
-> **Understanding "Primitives"**: The framework uses "patterns" to describe organizational structures (DAOs, Cells, Roles, Tasks) and reserves "primitives" for technical implementation tools (smart contracts, tokens, governance protocols). The framework helps you understand your organizational structure before selecting technical primitives to implement it.
-
-### Discovery → Design → Implementation
+**Want to know more?** Check out the [Conceptual Framework](artifacts/primitives-framework/guides/concepts.md) to understand the core ideas, contextual dimensions, and organizational patterns.
 
 The framework guides you through a three-phase process:
 
-**1. Discovery Phase**
-- Assess your group's current phase and scale
-- Map stakeholder landscape and organizational context
-- Document shared understanding and divergent perspectives
-- Produce discovery report with insights and direction
+%% This "Discovery → Design → Implementation" track is described in the start here to match the current structure of the guides. %%
 
-**2. Design Phase**
+- Document your organizational context and group state
+- Select design patterns and develop your organizational graph
+- Implement systems to serve your needs using primitives
+
+
+%% Reorganize lifecycle steps as anticapture cycles %%
+
+%% Use progressive disclosure here. instead of sub-headings for outcome, output, etc., these heading sections should just be one paragraph each under the appropriate lifecycle phase (design, implementation, etc.). Move extra details to the relevant index page for that directory %%
+
+### Discovery
+
+%% discovery intro %%
+
+- Identify distinct social groups and assess their current phase, scale and values
+- Study their organizational context and stakeholder landscape.
+- Document shared understanding and divergent perspectives on group state
+- Produce (and optionally validate) a discovery report with insights and direction
+
+#### Output: Organizational Context
+
+Any discovery process should include gathering some detailed information on the problem you're trying to solve. Whatever your approach to discovery, we recommend that it includes some documentation on the state of the groups and communities your project will interact with. This is especially useful when creating polycentric governance systems and navigating complex environments.
+
+The discovery phase should produce (alongside any other Discovery outputs needed) some form of [Group State](artifacts/primitives-framework/guides/design/group-state.md) to use later in the design and planning stages. Other useful information to collect during discovery includes:
+
+- 
+- see [readme](artifacts/primitives-framework/guides/discovery/readme.md) for more useful discovery parameters
+
+#### Outcome
+
+Completion criteria
+- 
+
+Jumping off points:
+- ["Making DAOs Work" (introducing **the Trust Zones Framework**)](https://blog.hatsprotocol.xyz/making-daos-work)
+	- [Gardnr Trust Zone Builder](https://gardnr.hatsprotocol.xyz/thread/9e147f02-8826-482e-bb5c-5aabbaa5d435)
+
+### Design
+
+%% this section should help the user represent their trust zones using an organizational graph %%
+
+
+
+- Evaluate patterns based on chosen selection criteria and group context 
+- 
 - Select appropriate organizational patterns based on discovery insights
-- Choose governance approach aligned with group values and needs
-- Compose patterns into functional governance and operational structures
-- Get stakeholder feedback and approval on design
+- 
 
-**3. Implementation Phase**
+#### Output: Organizational Graph
+
+
+#### Outcome
+
+Completion criteria
+- 
+
+Jumping Off Points:
+- [The Blockchain Governance Toolkit](links/The%20Blockchain%20Governance%20Toolkit.md) ([PL_Toolkit_Report_v7](attachments/PL_Toolkit_Report_v7.pdf)) 
+- 
+
+### Implementation
+
+%% This section should help the user choose and implement the appropriate organizing primitives for their scale, phase and values.  %%
+
 - Deploy technical infrastructure (governance protocols, coordination tools)
 - Establish operational systems and information flows
 - Launch with appropriate formality for current phase
 - Iterate and evolve based on feedback and changing context
 
----
+**Choosing governance approach?** Review the [implementation guides](implementation/) for operational, community, and multi-stakeholder governance.
 
-## Directory Guide
+#### Output
 
-### Getting Started
+Completion criteria
+- 
 
-- **[Framework Concepts](artifacts/primitives-framework/concepts/index.md)** - Core ideas, dimensional lenses, organizational patterns
-- **[Group Facilitation Guide](artifacts/primitives-framework/implementation/group-facilitation.md)** - Complete guide through Discovery → Design → Implementation
-- **[README](readme.md)** - Technical navigation and directory structure
+#### Outcome
 
-### Dimensional Lenses
 
-- **[Group Phase](group-phase/)** - Five developmental stages and their characteristics
-  - Conversation, Formation, Organization, Iteration, Completion
-- **[Group Scale](group-scale/)** - Four scales and appropriate coordination mechanisms
-  - Collaboration (< 10), Coordination (10-150), Constituency (100s+), Network
-
-### Organizational Patterns
-
-All patterns are documented in the [tags directory](tags/):
-- **Organizational patterns**: [DAOs](tags/daos.md), [Cells](tags/cells.md), [Roles](tags/roles.md), [Tasks](tags/tasks.md)
-- **Coordination patterns**: [Group State](artifacts/primitives-framework/concepts/group-state.md), [Community Governance](tags/community-governance.md), [Operational Governance](tags/operational-governance.md)
-- **Cell patterns**: [Cell State](tags/cell-state.md), [Decider Protocol](tags/decider.md)
-
-### Implementation Resources
-
-- **[Implementation Guides](implementation/)** - Detailed guides for specific governance approaches
-  - Operational Governance - internal execution and operations
-  - Community Governance - broad stakeholder participation
-  - Multi-Stakeholder Governance - diverse constituency coordination
-- **[Articles](articles/)** - Articles on scaling, network dynamics, and permissionless-ness
-- **[Case Studies](artifacts/primitives-framework/studies/rpp-governance-case-study.md)** - Real-world implementation examples
 
 ---
 
-## Key Principles
+## Case Studies & Related Resources
 
-**Flexible yet Coherent**: Patterns can be combined in various ways while maintaining interoperability and coherent structures.
+%% this needs improvement. %%
 
-**Context-Appropriate**: Different phases and scales require different tools, practices, and governance mechanisms.
+### Primitives Framework Case Studies
 
-**Transparent Coordination**: Clear documentation of group state (Purpose, Practice, Progress) enables decentralized coordination without hierarchical oversight.
+- [notes/dao-primitives/implementation/case-studies](notes/dao-primitives/implementation/case-studies)
 
-**Permissionless Innovation**: Design for the freedom to work autonomously, attract collaborators, and propose to the broader network.
+### References & Further Reading
 
-**Multi-Scale Governance**: Organizations operate at multiple scales simultaneously - design coordination mechanisms appropriate to each scale.
-
----
-
-## Framework Applications
-
-**New Organization Design** - Start from scratch with appropriate patterns for your phase and scale
-
-**Existing Organization Evolution** - Incrementally transition toward more decentralized models
-
-**Inter-Organizational Coordination** - Design collaborative structures between multiple organizations or DAOs
-
-**Network Governance** - Establish coordination systems for purpose-aligned networks
-
----
-
-## Related Resources
-
-**Notes Directory** - `notes/dao-primitives/` contains working documentation, additional patterns, and extended guides
-
-**Templates** - `notes/dao-primitives/resources/templates/` for group state and other documentation
-
-**Pattern Library** - `notes/dao-primitives/implementation/patterns/` for additional coordination patterns
-
----
-
-*The Primitives Framework is developed and maintained by SuperBenefit as part of the DAO Primitives Project.*
+- Greenpill works
+- DeFi, ReFi, BioFi, etc
+- Public Goods Funding
