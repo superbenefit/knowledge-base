@@ -70,16 +70,8 @@ The framework provides implementation guides for common governance patterns incl
 
 ---
 
-## Case Studies & Related Resources
+## Case Studies
 
-%% this needs improvement. %%
+See how the Primitives Framework has been applied in practice:
 
-### Primitives Framework Case Studies
-
-- [notes/dao-primitives/implementation/case-studies](notes/dao-primitives/implementation/case-studies)
-
-### References & Further Reading
-
-- Greenpill works
-- DeFi, ReFi, BioFi, etc
-- Public Goods Funding
+- [Regenerative Public Projects Governance Case Study](artifacts/primitives-framework/studies/rpp-governance-case-study.md) - Multi-layered governance design for a multi-stakeholder network supporting regenerative public goods projects

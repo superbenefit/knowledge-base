@@ -71,7 +71,9 @@ Learn more about [Group Phase](artifacts/primitives-framework/guides/discovery/g
 
 #### [Group Values](artifacts/primitives-framework/guides/discovery/group-values.md)
 
-%% describe group values here. Values are the priorities by which decisions will be made in situations involving challenging trade-offs between different qualities, like balancing inclusion and discretion in decision-making flows. The blockchain governance toolkit has good insights here. %%
+Group Values represents the priorities by which groups make decisions when navigating challenging trade-offs between different qualities. Every organization faces tensions—balancing inclusion with efficiency, transparency with privacy, autonomy with alignment. Values clarify which qualities take precedence when these tensions arise, helping groups make consistent decisions that reflect their core commitments rather than defaulting to expedience or individual preference.
+
+Understanding a group's values is essential for selecting appropriate governance patterns and primitives. A group that values radical transparency over operational efficiency will choose different coordination tools than one that prioritizes speed of execution. The [Blockchain Governance Toolkit](links/The%20Blockchain%20Governance%20Toolkit.md) provides helpful frameworks for articulating these values and understanding their implications for governance design.
 
 ### [Group State](artifacts/primitives-framework/guides/design/group-state.md)
 
@@ -112,14 +114,3 @@ Although the above conceptual framework could be used to design a wide range of 
 
 These patterns can be combined in various ways to create organizational systems tailored to specific contexts and needs. Their power lies in their flexibility and composability while maintaining coherence that enables interoperability. When ready for implementation, these patterns are realized using technical primitives like smart contracts, governance protocols, and coordination tools.
 
----
-
-## Further Exploration
-
-The framework is supported by a rich ecosystem of related resources:
-
-- The [Pattern Library](notes/dao-primitives/implementation/patterns/index.md) provides reusable solutions to common organizational challenges
-- The [Implementation](notes/dao-primitives/implementation/index.md) section offers practical guides and case studies
-- The [Resources](notes/dao-primitives/resources/index.md) section provides templates and tools for implementation
-
-Together, these resources form a comprehensive toolkit for designing, implementing, and evolving decentralized organizations that can effectively harness collective intelligence while maintaining purpose alignment.
