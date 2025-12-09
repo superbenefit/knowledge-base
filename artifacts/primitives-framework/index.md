@@ -20,7 +20,7 @@ The Primitives Framework guides organizations through three essential phases for
 2. **Design** — Network those trust zones together using voluntary agreements, making relationships explicit through an organizational graph
 3. **Implementation** — Choose and implement the appropriate organizing primitives (tools and protocols) for your specific context
 
-This systematic approach addresses a crucial challenge: how can decentralized networks scale while maintaining the responsiveness and adaptability needed for complex, evolving environments? The framework provides both contextual lenses for understanding your organizational reality and practical patterns for building coordination systems that balance efficiency with innovation, autonomy with alignment, and flexibility with coherence.
+This systematic approach addresses a crucial challenge: how can decentralized networks scale while maintaining the responsiveness and adaptability needed for complex, evolving environments? Contextual lenses help you understand your organizational reality, while practical patterns enable you to build coordination systems that balance efficiency with innovation, autonomy with alignment, and flexibility with coherence.
 
 ### Why did we make this?
 
