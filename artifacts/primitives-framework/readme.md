@@ -1,6 +1,6 @@
 *This directory helps bridge theory and practice by showing how organizational patterns and implementation tools apply in different organizational contexts.*
 
-This directory houses the Primitives Framework - a systematic approach to designing decentralized organizations as purpose-aligned networks of small autonomous teams through three phases: discovering trust zones, designing organizational graphs through voluntary agreements, and implementing appropriate primitives for specific context and scale.
+This directory houses the Primitives Framework - a systematic approach to designing decentralized organizations as purpose-aligned networks of small autonomous teams through three lifecycle stages: discovering social groups and their state, defining trust zones and composing governance structures, and creating organizational graphs while deploying primitives for specific context and scale.
 
 ## Key Principles
 

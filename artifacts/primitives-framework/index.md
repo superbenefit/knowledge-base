@@ -14,11 +14,11 @@ A framework for building decentralized organizations as purpose-aligned networks
 
 ## What Is This Framework?
 
-The Primitives Framework guides organizations through three essential phases for building decentralized coordination systems:
+Access framework resources organized by three lifecycle stages for building decentralized coordination systems:
 
-1. **Discovery** — Identify your trust zones: the distinct social groups where collaboration naturally occurs, and understand their current phase, scale, and values
-2. **Design** — Network those trust zones together using voluntary agreements, making relationships explicit through an organizational graph
-3. **Implementation** — Choose and implement the appropriate organizing primitives (tools and protocols) for your specific context
+1. **Discovery** — Identify social groups where collaboration naturally occurs, and discover their current phase, scale, values, and state
+2. **Design** — Define trust zones that social groups occupy, select organizational patterns, and compose governance and operational structures
+3. **Implementation** — Create the organizational graph by networking trust zones together, then deploy patterns and primitives for your specific context
 
 This systematic approach addresses a crucial challenge: how can decentralized networks scale while maintaining the responsiveness and adaptability needed for complex, evolving environments? Contextual lenses help you understand your organizational reality, while practical patterns enable you to build coordination systems that balance efficiency with innovation, autonomy with alignment, and flexibility with coherence.
 
@@ -46,21 +46,21 @@ Three phases mirror how decentralized organizations naturally evolve—from unde
 
 ### Discovery
 
-Begin by mapping your organizational context. Identify your [trust zones](https://blog.hatsprotocol.xyz/making-daos-work)—distinct social groups where collaboration naturally occurs. Assess each trust zone's current [phase](artifacts/primitives-framework/guides/discovery/group-phase/index.md) and [scale](artifacts/primitives-framework/guides/discovery/group-scale/index.md), and document both shared purpose and divergent perspectives on [values](artifacts/primitives-framework/guides/discovery/group-values.md). Produce a discovery report that captures stakeholder insights and, optionally, validated [group state](artifacts/primitives-framework/guides/design/group-state.md) documentation.
+Begin by mapping your organizational context. Identify distinct social groups where collaboration naturally occurs. Assess each group's current [phase](artifacts/primitives-framework/guides/discovery/group-phase/index.md), [scale](artifacts/primitives-framework/guides/discovery/group-scale/index.md), and [values](artifacts/primitives-framework/guides/discovery/group-values.md). Document both shared purpose and divergent perspectives. Produce a discovery report that captures stakeholder insights and, optionally, validated [group state](artifacts/primitives-framework/guides/design/group-state.md) documentation.
 
 This work is especially valuable for polycentric governance systems and complex multi-stakeholder environments, where surfacing diverse perspectives early prevents misalignment later. See the [Discovery Guide](artifacts/primitives-framework/guides/discovery/index.md) for detailed facilitation approaches, or use tools like [Gardnr's Trust Zone Builder](https://gardnr.hatsprotocol.xyz/thread/9e147f02-8826-482e-bb5c-5aabbaa5d435) to structure your discovery process.
 
 ### Design
 
-Translate your discovery insights into an [organizational graph](artifacts/primitives-framework/guides/design/index.md)—a visual representation of how your trust zones connect through voluntary agreements. Evaluate and select [organizational patterns](tags/primitives.md) based on your contextual lenses (phase, scale, values), then compose them into governance and operational structures tailored to your needs.
+Define [trust zones](https://blog.hatsprotocol.xyz/making-daos-work) that your discovered social groups occupy within the organization. Recognize that social groups and trust zones aren't one-to-one—groups may occupy multiple trust zones, and trust zones may include non-group agents. Evaluate and select [organizational patterns](tags/primitives.md) based on your contextual lenses (phase, scale, values), then compose them into governance and operational structures tailored to your needs.
 
-Your organizational graph makes explicit which entities exist in your network, how authority flows between them, and what agreements govern their relationships. This becomes your blueprint for implementation, whether you're designing a simple single-team structure or a complex multi-stakeholder network. See the [Design Guide](artifacts/primitives-framework/guides/design/index.md) for pattern selection frameworks, or explore the [Blockchain Governance Toolkit](links/The%20Blockchain%20Governance%20Toolkit.md) for values-based governance design approaches.
+See the [Design Guide](artifacts/primitives-framework/guides/design/index.md) for pattern selection frameworks and trust zone definition approaches, or explore the [Blockchain Governance Toolkit](links/The%20Blockchain%20Governance%20Toolkit.md) for values-based governance design.
 
 ### Implementation
 
-Bring your organizational graph to life by selecting and deploying specific [primitives](tags/primitives.md)—the technical tools, protocols, and practices that enable your designed structure to function. Choose governance protocols (voting systems, treasury management), coordination tools (communication platforms, project management), and operational practices (decision-making processes, resource allocation mechanisms) appropriate for your phase and scale.
+Create your organizational graph by networking trust zones together with their organizational structure and occupying agents. This graph makes explicit which entities exist in your network, how authority flows between them, and what agreements govern their relationships. Then deploy specific patterns and [primitives](tags/primitives.md)—the technical tools, protocols, and practices—for each trust zone.
 
-Common governance patterns include [operational governance](artifacts/primitives-framework/guides/implementation/implementation-guide-operational-governance.md) (day-to-day execution), [community governance](artifacts/primitives-framework/guides/implementation/implementation-guide-community-governance.md) (constituency-scale decision-making), and [multi-stakeholder governance](artifacts/primitives-framework/guides/implementation/implementation-guide-multi-stakeholder-governance.md) (balancing diverse interests). Launch with appropriate formality for your current phase, then iterate based on feedback and evolving context. See the [implementation guides](artifacts/primitives-framework/guides/implementation/) and [case studies](artifacts/primitives-framework/studies/) for specific examples.
+Select governance protocols (voting systems, treasury management), coordination tools (communication platforms, project management), and operational practices (decision-making processes, resource allocation mechanisms) appropriate for your phase and scale. Common governance patterns include [operational governance](artifacts/primitives-framework/guides/implementation/implementation-guide-operational-governance.md) (day-to-day execution), [community governance](artifacts/primitives-framework/guides/implementation/implementation-guide-community-governance.md) (constituency-scale decision-making), and [multi-stakeholder governance](artifacts/primitives-framework/guides/implementation/implementation-guide-multi-stakeholder-governance.md) (balancing diverse interests). Launch with appropriate formality for your current phase, then iterate based on feedback and evolving context. See the [implementation guides](artifacts/primitives-framework/guides/implementation/) and [case studies](artifacts/primitives-framework/studies/) for specific examples.
 
 ---
 
