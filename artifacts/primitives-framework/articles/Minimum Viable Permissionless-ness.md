@@ -128,7 +128,7 @@ Knowledge and insights from many individuals working "close to reality" become t
 
 - _**NB:**_ _I am aware the term "talent" may feel a bit loaded, but I am using it in a deliberate way to mean not just "people," but people who have specific skills and intentions that make them relevant to a particular context. Broadly "talent" is: individuals with skills, discernment and motivation._
 
-When "talent" is free to make choices and act based on motivation and discernment, it can flow toward opportunity and act on it. Then if "capital" is able to flow towards this "talent taking action", you have strategy and capital allocation done at [network scale](artifacts/primitives-framework/concepts/group-scale/network-scale.md), in real-time from the ground up.
+When "talent" is free to make choices and act based on motivation and discernment, it can flow toward opportunity and act on it. Then if "capital" is able to flow towards this "talent taking action", you have strategy and capital allocation done at [network scale](artifacts/primitives-framework/guides/discovery/group-scale/network-scale.md), in real-time from the ground up.
 
 You have a system that can [scale](/tags/scale.md) collective intelligence in a way that: (1) evolves to closely match the environment the system is operating in; (2) remains in alignment with the purpose and values of the broader network; and (3) is far more resistant to governance capture and attack than centralized systems.
 

@@ -41,17 +41,6 @@ Work through three phases in the facilitation flow:
 
 ---
 
----
-
-
----
-
-## IV. Implementation
-
-
-
----
-
 ## V. Resources for Ongoing Support
 
 ### A. Framework Documentation

@@ -23,3 +23,23 @@ This directory houses the Primitives Framework - a systematic approach to design
 **Inter-Organizational Coordination** - Design collaborative structures between multiple organizations or DAOs
 
 **Network Governance** - Establish coordination systems for purpose-aligned networks
+
+## References & Schemas
+
+
+
+### Other Frameworks
+
+While this framework is non-technical, it is also meant to lay practical groundwork for adoption of other, more technical frameworks and tools.
+
+- [The Blockchain Governance Toolkit](links/The%20Blockchain%20Governance%20Toolkit.md)
+- [Modular Politics](links/modular-politics-toward-a-governance-layer-for-online-communities.md)
+- 
+
+### Schemas in Use
+
+You don't need any particular schemas to use the Primitives Framework. Many useful schemas exist already to help you formalize your designs and standardize your data. We've found these ones useful when building this framework:
+
+- 
+
+For the purpose of organizing the contents of this framework in the knowledge garden, we use several templates and fileclasses available in our Obsidian and Quartz implementations. You can learn more about these in the [tools directory readme file](tools/readme.md).
