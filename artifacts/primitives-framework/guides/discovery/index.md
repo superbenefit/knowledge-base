@@ -3,24 +3,25 @@ title: DAO Primitives Discovery Guide
 description: Using the Primitives Framework in your discovery process
 ---
 
-The discovery phase of the Primitives Framework focuses on understanding your organizational context—mapping the distinct social groups (trust zones) where collaboration occurs, their developmental stage and scale, and the shared (or divergent) perspectives on purpose and practice. This guide provides structured approaches to group sense-making and contextual assessment that can enhance your existing discovery processes or serve as a standalone methodology if you're building one from scratch.
+Map your organizational context through group sense-making. Identify the distinct social groups (trust zones) where collaboration occurs, assess their developmental stage and scale, and surface shared or divergent perspectives on purpose and practice. Use these structured approaches to enhance existing discovery processes or build one from scratch.
 
-## Group Sense Making: The Foundation of Discovery
+## Group Sense Making
 
-The discovery process begins with a fundamental recognition: most [groups](tags/groups.md), whether they're nascent DAOs, established teams, or emerging [networks](tags/networks.md), operate with surprisingly little shared understanding of their own context. While groups often form around compelling high-level ideas or shared visions, the actual alignment around concrete intentions, operational realities, and stakeholder needs frequently remains unexplored territory.
+Transform individual perspectives into collective intelligence through structured sense-making. Most [groups](tags/groups.md)—whether nascent DAOs, established teams, or emerging [networks](tags/networks.md)—operate with limited shared understanding of their own context. Groups form around compelling visions but rarely explore alignment on concrete intentions, operational realities, and stakeholder needs.
 
-Group sense making serves as the cornerstone of effective [governance](tags/governance.md) design because it transforms individual perspectives into collective intelligence. This process is particularly crucial for decentralized organizations where traditional hierarchical structures cannot rely on top-down clarity to resolve ambiguity. Instead, the group itself must become the primary mechanism for developing shared understanding and surfacing areas of misalignment that could undermine future governance structures.
+Use sense-making to:
+- **Discover your context collaboratively**: Build [governance](tags/governance.md) on stakeholder needs rather than assumed consensus
+- **Create ongoing coherence**: Produce an artifact for evolving governance structures and impact models
 
-The sense making process serves two interconnected purposes:
+#### Mapping Stakeholder Landscapes
 
-- **Collective Discovery**: Enables the group to discover its own context collaboratively, which is essential because governance systems built on assumed consensus often fail to meet stakeholder needs
-- **Ongoing Coherence**: Provides an artifact that group members can use to build on the group's organizational development, such as evolving the governance structure and developing their impact model
 
-For larger groups and those encompassing multiple stakeholder contexts, the sense making process becomes even more involved. These environments contain diverse perspectives, competing incentives, and varying definitions of success that must be surfaced and integrated before effective [governance](tags/governance.md) can be designed.
 
-## Mapping Organizational Context and Stakeholder Landscapes
+> **Note**: Larger groups and multi-stakeholder contexts require more intensive sense-making to surface diverse perspectives, competing incentives, and varying success definitions before effective [governance](tags/governance.md) can be designed.
 
-The heart of group sense making involves systematically mapping the current organizational context, beginning with stakeholder perspectives on vision, [purpose](tags/purpose.md), and impact goals. This mapping process reveals not just what stakeholders want the group to achieve, but how they understand the group's role within larger systems and what success looks like from their vantage point.
+## Documenting Organizational Context
+
+Map organizational context systematically, beginning with stakeholder perspectives on vision, [purpose](tags/purpose.md), and impact goals. Identify not just what stakeholders want the group to achieve, but how they understand the group's role within larger systems and their definitions of success.
 
 ### Process Steps by Group Scale:
 
@@ -38,26 +39,24 @@ The heart of group sense making involves systematically mapping the current orga
 3. Iterate through multiple rounds of sense making
 4. Continue until authentic shared understanding emerges (not just superficial agreement)
 
-The sense making process often reveals early patterns that become crucial for design:
+Identify early patterns that become crucial for design:
 
 - **Stakeholder Relationships**: Who needs to coordinate with whom and how
 - **Value Flows**: How value creation and exchange naturally occurs within the [network](tags/networks.md)
 - **Power Dynamics**: Where influence and [decision-making](tags/decisions.md) authority currently reside
 - **Resource Dependencies**: What the group needs to function and where those [resources](tags/resources.md) come from
 
-Understanding these emergent patterns provides crucial input for the design phase, as [governance](tags/governance.md) structures must align with and support the natural dynamics of the network rather than imposing artificial constraints.
+> **Note**: Design [governance](tags/governance.md) structures that align with and support natural network dynamics rather than imposing artificial constraints. Draw upon sense-making tools and methodologies in [sense-making-facilitation-tools](notes/dao-primitives/implementation/guides/sense-making-facilitation-tools.md) for specific facilitation needs.
 
-Throughout this process, facilitators can draw upon various sense making tools and methodologies available in the [sense-making-facilitation-tools](notes/dao-primitives/implementation/guides/sense-making-facilitation-tools.md) for specific facilitation needs.
+## Producing Discovery Outputs
 
-## Producing Discovery Outputs: Reports and Proposals
-
-The discovery phase culminates in concrete outputs that capture insights and provide clear direction for next steps. These outputs serve as both culmination and foundation—capturing the collective intelligence generated through sense making while establishing the legitimacy and direction needed for [governance](tags/governance.md) design.
+Capture insights and provide clear direction through concrete outputs. These serve as both culmination and foundation—documenting collective intelligence from sense-making while establishing legitimacy for [governance](tags/governance.md) design.
 
 ### 1. Report your Discovery Findings
 
-If you're integrating the Primitives Framework into an existing discovery process, the key addition is documenting group state—a structured way to capture organizational context for each trust zone you've identified. This provides the foundation needed for effective design and implementation phases.
+Document group state for each identified trust zone—a structured capture of organizational context. This foundation enables effective design and implementation phases.
 
-For groups building a discovery process from scratch, a comprehensive discovery report typically includes:
+**For groups building from scratch**, include:
 
 - **Shared Understanding**: Clear articulation of agreed-upon [purpose](tags/purpose.md) and high-level goals
 - **Divergent Perspectives**: Honest acknowledgment of areas where different viewpoints persist

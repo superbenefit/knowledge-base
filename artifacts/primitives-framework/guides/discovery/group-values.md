@@ -1,77 +1,127 @@
 ---
-title: Values and Trade-Offs in Decentralized Organizing
-description: Crafting agreements on shared priorities for selecting tooling and practices
-publish: false
-type: index
+title: Group Values
+description: Identify shared priorities to guide trade-off decisions in decentralized organizing
+publish: true
+type: guide
+tags:
+  - values
+  - governance
+  - decision-making
+  - framework
 ---
 
-### Notes on requirements for the group-values document
+Identify the priorities that guide your group's trade-off decisions when navigating tensions between competing qualities. Values clarify which qualities take precedence when groups face inevitable conflicts—balancing inclusion with efficiency, transparency with privacy, autonomy with alignment.
 
-- Should use [group-state](artifacts/primitives-framework/guides/design/group-state.md) as structural reference
-- Should align with the [Conceptual Framework](artifacts/primitives-framework/facilitation/concepts/concepts.md), and should be functionally useful as part of the Primitives Framework (specifically as a contextual lens used for state consensus and tool selection)
-- Should help the reader understand how to identify the Values that matter for their development process.
-	- Should list common Values and trade-offs for groups to consider
-	- Should help readers craft even-over statements or or other value statements to record in their working agreements / group state
-	- Ideally should have clear hooks for tying into other complementary systems transformation and collaborative design practices the group may be using.
+## Values as a Contextual Lens
 
+Use Values alongside [Group Phase](artifacts/primitives-framework/guides/discovery/group-phase/index.md) and [Group Scale](artifacts/primitives-framework/guides/discovery/group-scale/index.md) to select appropriate organizational patterns and primitives. While Phase and Scale objectively define a group's developmental stage and size, Values signal the unique priorities that make each group a non-fungible social formation within the broader network.
 
+Values help answer: *When we face competing priorities, which quality takes precedence?*
 
-### Consider this meta-context:
+## Common Value Trade-Offs
 
-- Values have a subjective relationship to Qualities, which are used in our knowledge base metadata system to indicate common qualities of patterns and primitives. Groups *value* certain *qualities*. A group's Values are used to determine which (of those appropriate for their phase and scale) primitives are most likely to help them achieve their organizing goals.
-	- We don't refer to *qualities* as "properties", because "properties" is used for other things, like metadata keys and other software terms. *Qualities* is also more appropriate to our use case because *qualities* are non-exclusive qualitative labels, and not distinct quantifiable properties.
-	- *Qualities* in this knowledge base are "meta-tags". These are tags (formally defined using entries in the tags/ directory (lexicon)) which themselves have the tag #qualities applied to them in their frontmatter. Again, those requirements for a quality meta-tag:
-		1. A tag which has been added to the formal tag lexicon using an entry in the tags/ directory with a matching alias (such as #decentralization and [decentralization](tags/decentralization.md)), AND
-		2. Which also has the #qualities tag applied to its "tags" frontmatter property
-- Some Values cannot be simultaneously realized with the same intensity, requiring choices between different trade-offs. In these cases, *Values* can be expressed as even-over statements comparing two *qualities*.
-	- Example value statement: "We *value* **Expediency** *even over* **Participation**"
-		- Expediency and Participation are desired *Qualities*, and the *Value* statement prioritizes expediency over participation (but does not exclude participation as an important quality in doing so)
-- Where phase and scale are useful concepts for objectively defining a group as a discrete entity within the network, Values indicate the unique priorities and opinions of the group as a non-fungible social formation, and signal the alignment of the group within the broader network.
-- Values are strategic in nature, and can be expressions of the group's shared values and cultural norms. 
-	- Many groups cultivate values-based organizing practices based in a nuanced desire to use their organization as a facilitator of certain cultural norms, shared values and social purposes, - but struggle to attain those goals because their institutional environment enforces externally defined norms (like boilerplate agreement language, compliance requirements for grants, legal entities, etc.) which are contradictory to the liberatory purpose the organization originally had. DAO's allow us to custody the infrastructure and common resources our organization governs within bespoke, smart-contract-enforced systems that are resistant to these perverse external influences (and corrupt internal influences). Thus we gain resilience and security while also gaining the transparency and accountability affordances provided by the blockchain consensus layer.
-- From a developmental perspective, Group Values equate to "Flavors" in [The Blockchain Governance Toolkit](links/The%20Blockchain%20Governance%20Toolkit.md)
-	- Step 1 of the toolkit's method ("Pick your Flavors") is equivalent to the DAO Primitives Framework's suggestion of developing consensus around Group Values to aid in the selection of the appropriate primitives (which itself is done in this document).
-		- The Blockchain Governance Toolkit focuses just on picking preferred qualities, which is fine for some groups. The Primitives Framework adds the additional contextual lenses of Group Scale and Group Phase to form:
-			- 1.) framework for identifying and analyzing your existing social trust zones and their relationships to inform your organizational graph, and 
-			- 2.) a three-dimensional consideration matrix for the evaluation and selection of primitives, which are the tooling implementations used to augment and support the agents acting within the social graph. 
-				- While Phase and Scale help to inform what 
-		- In addition, the Primitives Framework introduces the concept of Group State. This is simply our recommendation that groups track the state of their protocols, practices and primitives in a human-readable manner. This is usually a document with pointers to authoritative information related to the purpose, practices and progress of the group, like its designated smart contracts, working agreements, policies, data sources (member lists, txn records, documentation, etc). 
-			- An example of group state could be a governance.md file in an open source project.
-			- Group state is also often reflected in documents like funding/grant applications, websites, and other public attestations. There's no one right way to express group state. We just recommend that groups have *some* way of agreeing to and expressing the state of their group in a way that's legible both internally and to their wider network.
-		- Note to Claude: Use these external references to create a holistic understanding of the developmental process a group (and/or its facilitator) will use when employing resources like the Primitives Framework alongside tools like the blockchain governance toolkit. Sensemaking and decisionmaking around governance and tool selection does require a real (though manageable) amount of work which carries risk of failure if not properly considered and executed. 
-			- As seen in the blockchain governance toolkit, developing consensus Values about shared practices and tooling is crucial for smooth decentralized organizing. Failure to establish these agreements early-on can lead to disruptive disagreements later on (turning simple self-governance tasks into drawn-out debates and other problems).
-				- a typical example of values-driven conflict is choosing a version-control platform, like GitHub, with significant trade-offs in terms of centralization and productivity. Without agreed upon Values, there's no clear way to navigate these decisions without lengthy debate or stepping back to revisit our Values and priorities before proceeding.
-			- To ensure we're always equipped with the basic social contract needed to self-organize effectively, we build consensus around our Values early on, and evolve them over time as needed.
-	- Quality Trade-offs in the toolkit:
-		- Expediency/Participation
-		- Immutability/Adaptability
-		- Determinism/Discretion
-		- 
-	- [Full pdf here](attachments/PL_Toolkit_Report_v7.pdf)
+Groups frequently encounter tensions between desirable qualities. Identify which trade-offs matter most for your context:
 
-content template:
+### Expediency vs. Participation
+**Expediency**: Move quickly, make decisions efficiently, minimize process overhead
+**Participation**: Include broad stakeholder input, ensure voices are heard, build legitimacy through involvement
 
-%% Be sure to customize headings %%
+*When to prioritize Expediency*: Small teams in early phases; time-sensitive decisions; operational execution
+*When to prioritize Participation*: Multi-stakeholder networks; constitutional decisions; community [governance](tags/governance.md)
 
-## Purpose & Context
+### Immutability vs. Adaptability
+**Immutability**: Lock in agreements, create stability, resist change
+**Adaptability**: Iterate quickly, respond to feedback, evolve practices
 
-%% Explain the purpose of this directory and its role in the broader knowledge base. What type of content belongs here? How does this content relate to the overall mission? Provide enough context for users to understand why this directory exists. %%
+*When to prioritize Immutability*: Foundational agreements; legal commitments; long-term resource allocation
+*When to prioritize Adaptability*: Experimental phases; rapidly changing environments; learning-focused initiatives
 
-## Content Organization
+### Determinism vs. Discretion
+**Determinism**: Codify rules explicitly, automate execution, reduce ambiguity
+**Discretion**: Enable human judgment, maintain flexibility, trust decision-makers
 
-%% Explain how content is organized within this directory. Are there sub-directories? What naming conventions or organizational principles are used? This helps users navigate and understand the structure. %%
+*When to prioritize Determinism*: Treasury management; permissionless access; trustless coordination
+*When to prioritize Discretion*: Complex decisions; nuanced situations; relationship-based coordination
 
-## Key Resources
+### Transparency vs. Privacy
+**Transparency**: Make information publicly visible, enable accountability, build trust through openness
+**Privacy**: Protect sensitive information, respect confidentiality, maintain strategic advantage
 
-%% List and briefly describe the most important or frequently accessed resources in this directory. This section provides quick access to essential content. %%
+*When to prioritize Transparency*: Public goods funding; [community](tags/community.md) governance; accountability mechanisms
+*When to prioritize Privacy*: Competitive environments; personal information; strategic planning
 
-- **[Resource Name](tools/templates/layouts/link.md)**: Brief description
-- **[Resource Name](tools/templates/layouts/link.md)**: Brief description
-- **[Resource Name](tools/templates/layouts/link.md)**: Brief description
+### Autonomy vs. Alignment
+**Autonomy**: Enable independent action, reduce coordination overhead, trust local decision-making
+**Alignment**: Ensure coherence, maintain shared direction, coordinate across boundaries
 
-## Related Directories
+*When to prioritize Autonomy*: [Cells](tags/cells.md) at collaboration scale; execution within clear mandates; innovation-focused work
+*When to prioritize Alignment*: Network-wide initiatives; resource allocation; [purpose](tags/purpose.md)-critical decisions
 
-%% Connect this directory to related areas of the knowledge base. This helps users see the broader context and navigate between related content areas. %%
+## Crafting Value Statements
 
-- **[Related Directory](path/to/related-directory)**: How it relates to this content
-- **[Related Directory](path/to/related-directory)**: How it relates to this content
+Express your group's priorities using "even-over" statements that acknowledge both qualities while clarifying precedence.
+
+**Format**: "We value **[Quality A]** *even over* **[Quality B]**"
+
+**Examples**:
+- "We value **Participation** even over **Expediency**" — signals commitment to inclusive processes despite slower decision-making
+- "We value **Adaptability** even over **Immutability**" — indicates willingness to iterate and evolve practices
+- "We value **Transparency** even over **Privacy**" — prioritizes openness and accountability
+- "We value **Autonomy** even over **Alignment**" — trusts teams to act independently within broad parameters
+
+> **Important**: "Even-over" statements don't exclude the secondary quality—they clarify priority when tensions arise. Both qualities remain important; the statement guides which takes precedence in conflict.
+
+## Integrating Values into Practice
+
+### During Discovery
+
+Document shared values and divergent perspectives in your discovery report. Surface where stakeholders agree on priorities and where tensions exist.
+
+### During Design
+
+Use values to select organizational patterns and governance approaches. A group valuing Participation over Expediency will choose different decision-making protocols than one prioritizing Expediency.
+
+### During Implementation
+
+Apply values when selecting [primitives](tags/primitives.md)—the technical tools and protocols that enable your designed structure. Values guide choices between:
+- Governance protocols (on-chain voting vs. off-chain deliberation)
+- Coordination tools (synchronous vs. asynchronous communication)
+- Decision-making processes (consensus vs. consent vs. voting)
+- Treasury management (multi-sig vs. programmable allocation)
+
+### Documenting in Group State
+
+Record agreed-upon values in your [group state](artifacts/primitives-framework/guides/design/group-state.md) documentation under **Practice** (how the group operates and makes decisions). Include:
+- Core value statements (even-over format)
+- Context for when each value takes priority
+- Examples of how values have guided past decisions
+- Process for evolving values over time
+
+> **Note**: Values are strategic and cultural. Many groups adopt values-based organizing to facilitate certain cultural norms and social purposes, but struggle when institutional environments enforce contradictory norms through boilerplate agreements or compliance requirements. Decentralized systems enable groups to custody infrastructure within bespoke, smart-contract-enforced systems resistant to these external influences.
+
+## Connection to Other Frameworks
+
+This approach to Values aligns with "Flavors" in [The Blockchain Governance Toolkit](links/The%20Blockchain%20Governance%20Toolkit.md). The Toolkit's Step 1 ("Pick your Flavors") focuses on preferred qualities. The Primitives Framework extends this by:
+
+1. **Adding contextual lenses**: Use Values alongside Phase and Scale for three-dimensional primitive evaluation
+2. **Emphasizing trade-offs**: Explicitly acknowledge tensions rather than just preferences
+3. **Integrating with group state**: Provide structured documentation approach for ongoing reference
+
+Use both frameworks together: the Toolkit's comprehensive quality exploration complements the Primitives Framework's implementation guidance.
+
+## Evolving Values Over Time
+
+Revisit values as your group develops:
+- **Formation → Organization phase**: Formalize implicit values as structures solidify
+- **Organization → Iteration phase**: Test whether stated values align with actual practice
+- **Scale transitions**: Reassess trade-offs when moving from collaboration to coordination to constituency scale
+- **Major decisions**: Use challenging choices to clarify or refine value priorities
+
+Values aren't fixed—they evolve as groups learn what matters most for their specific context and purpose.
+
+## Related Concepts
+
+- [Group Phase](artifacts/primitives-framework/guides/discovery/group-phase/index.md) - Developmental stage requiring different values emphasis
+- [Group Scale](artifacts/primitives-framework/guides/discovery/group-scale/index.md) - Size affecting which trade-offs matter most
+- [Group State](artifacts/primitives-framework/guides/design/group-state.md) - Documentation structure for recording values
+- [Governance](tags/governance.md) - Decision-making systems shaped by values
