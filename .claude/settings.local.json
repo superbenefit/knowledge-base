@@ -17,7 +17,9 @@
       "Bash(git checkout:*)",
       "Bash(git commit:*)",
       "Bash(xargs:*)",
-      "Bash(test:*)"
+      "Bash(test:*)",
+      "Bash(git rm:*)",
+      "Bash(git push:*)"
     ],
     "deny": [],
     "ask": []
