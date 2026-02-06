@@ -59,7 +59,7 @@ This primitive is designed to be unopinionated as to the specific make up a part
 9. Documentation systems - how the team will maintain and make accessible information that relates to the above agreements/commitments.
 
 **Technical implementation**
-In early [conversation-phase](artifacts/primitives-framework/concepts/group-phase/conversation-phase.md) and [formation-phase](artifacts/primitives-framework/concepts/group-phase/formation-phase.md) phases, a team's nucleus may be an informal emerging set of agreements. However as a team becomes established ( through [organization-phase](artifacts/primitives-framework/concepts/group-phase/organization-phase.md) and [iteration-phase](artifacts/primitives-framework/concepts/group-phase/iteration-phase.md) phases), ideally its nucleus should have several technical qualities:
+In early [conversation-phase](artifacts/primitives-framework/guides/discovery/group-phase/conversation-phase.md) and [formation-phase](artifacts/primitives-framework/guides/discovery/group-phase/formation-phase.md) phases, a team's nucleus may be an informal emerging set of agreements. However as a team becomes established ( through [organization-phase](artifacts/primitives-framework/guides/discovery/group-phase/organization-phase.md) and [iteration-phase](artifacts/primitives-framework/guides/discovery/group-phase/iteration-phase.md) phases), ideally its nucleus should have several technical qualities:
 1. Version controlled - an ability to track changes to the document across time
 2. Access controlled - an ability to limit editing access to the document to only authorized persons
 3. Accessibility - the document must be accessible to the members of community/network that the team is coordinating within

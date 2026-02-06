@@ -8,11 +8,8 @@ curator:
 publish: false
 type: note
 ---
-- self-custody
-- personhood
-- data sovereignty
 
----
+![Embedding digital rights into our digital systems](https://youtu.be/MnhHzOwRLoo?si=I-S7HL3Sh9CJfhUm)
 
 ## Related Concepts
 

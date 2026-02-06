@@ -2,8 +2,8 @@
 title: Decentralization
 description: The distribution of power, decision-making, and resources away from central authorities to networked participants, creating more resilient, transparent, and participatory systems
 harvester: rathermercurial.eth
-tags:
-  - values
+tags: 
+  - qualities
 aliases:
   - "#decentralization"
 publish: true
@@ -11,7 +11,7 @@ publish: true
 
 _Decentralization refers to the distribution of [power](power.md), [decision-making](decision-making.md), and control away from a central authority to multiple individuals or entities, allowing for more distributed and autonomous operations._
 
-[Decentralization](decentralization.md) represents a fundamental shift in how systems are organized and governed, moving from hierarchical, centralized structures toward networked, distributed arrangements. This organizational principle can be applied to technological systems (like blockchains), [governance](governance.md) structures (like [DAOs](daos.md)), and social [coordination](coordination.md) mechanisms. At its core, decentralization seeks to reduce single points of failure, minimize capture by concentrated interests, and enable greater [participation](participation.md) by diverse stakeholders.
+[Decentralization](decentralization.md) represents a fundamental shift in how systems are organized and governed, moving from hierarchical, centralized structures toward networked, distributed arrangements. This organizational principle can be applied to technological systems (like [blockchains](tags/blockchain.md)), [governance](governance.md) structures (like [DAOs](daos.md)), and social [coordination](coordination.md) mechanisms. At its core, decentralization seeks to reduce single points of failure, minimize capture by concentrated interests, and enable greater [participation](participation.md) by diverse stakeholders.
 
 The degree of decentralization exists on a spectrum rather than as a binary state. Systems can decentralize specific functions (like decision-making or resource allocation) while maintaining centralization in others. The effectiveness of decentralization depends heavily on context - what works for one system or [community](community.md) might be inappropriate for another. Well-designed decentralized systems carefully balance [autonomy](autonomy.md) with coordination, creating structures that enable individual freedom while maintaining coherent collective action.
 

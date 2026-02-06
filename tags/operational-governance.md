@@ -105,7 +105,7 @@ Related patterns supporting operational governance:
 - **[Groups](tags/groups.md)**: Autonomous units that form the building blocks of operational structures
 - **[Coordi-nations](tags/coordi-nations.md)**: Network-level coordination frameworks
 - **[Community governance](tags/community-governance.md)**: Strategic oversight complementing operational execution  
-- **[Group state](artifacts/primitives-framework/concepts/group-state.md)**: Transparency mechanisms enabling coordination
+- **[Group state](artifacts/primitives-framework/guides/design/group-state.md)**: Transparency mechanisms enabling coordination
 
 Practitioners should engage with emerging communities exploring operational innovation including Sociocracy for All providing governance training and resources, DAO operations working groups experimenting with coordination mechanisms, Platform Cooperativism Consortium documenting cooperative operations, and various Web3 projects pioneering on-chain operational infrastructure. As organizations seek alternatives to hierarchical management, operational governance provides pathways for maintaining effectiveness while distributing authority.
 

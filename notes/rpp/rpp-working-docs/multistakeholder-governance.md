@@ -9,7 +9,7 @@ publish: false
 type: pattern
 ---
 
-Multi-stakeholder [governance](tags/governance.md) enables purpose-aligned networks of stakeholders to [coordinate](artifacts/primitives-framework/concepts/group-scale/coordination-scale.md) around [shared resources](tags/resources.md) and [objectives](tags/goals.md) using decentralized infrastructure and open protocols.
+Multi-stakeholder [governance](tags/governance.md) enables purpose-aligned networks of stakeholders to [coordinate](artifacts/primitives-framework/guides/discovery/group-scale/coordination-scale.md) around [shared resources](tags/resources.md) and [objectives](tags/goals.md) using decentralized infrastructure and open protocols.
 
 related to:
 - [Community Governance](notes/rpp/rpp-working-docs/community-governance.md)

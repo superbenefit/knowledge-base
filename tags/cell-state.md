@@ -29,13 +29,13 @@ _A pattern for creating and managing group state for purpose aligned networks of
 
 ## Problem / Solution Context
 
-This pattern is designed to be used in the creation of [cells](tags/cells.md) as [collaboration](artifacts/primitives-framework/concepts/group-scale/collaboration-scale.md) scale teams as described in the [DAO Primitives Framework](artifacts/primitives-framework/concepts/index.md)
+This pattern is designed to be used in the creation of [cells](tags/cells.md) as [collaboration](artifacts/primitives-framework/guides/discovery/group-scale/collaboration-scale.md) scale teams as described in the [DAO Primitives Framework](artifacts/primitives-framework/facilitation/concepts/concepts.md)
 
 Capturing and maintaining a cell's state is fundamental to enabling both autonomous operation and effective network coordination within DAOs. A clear and consistent cell state document serves as a living state that enables the cell to maintain coherence while evolving and provides transparency for network-level coordination. Without documented state, Cells risk falling into internal dysfunction and lack of effectiveness. They also fail to fully leverage the value of coordination and efficient resource and information flows across the network.
 
 **The need for a consistent state template**
 
-Unless a team is highly skilled in organizational design, implementing the cell state primitive to create a useful group-state will be difficult and time consuming. On top of this, if teams are required to develop their own cell state document without additional supporting structure, there is a risk that there will not be enough consistency between the ways different teams document their state. This can prevent many of the interoperability benefits that the [DAO Primitives Framework](artifacts/primitives-framework/concepts/index.md) promises from being realized.
+Unless a team is highly skilled in organizational design, implementing the cell state primitive to create a useful group-state will be difficult and time consuming. On top of this, if teams are required to develop their own cell state document without additional supporting structure, there is a risk that there will not be enough consistency between the ways different teams document their state. This can prevent many of the interoperability benefits that the [DAO Primitives Framework](artifacts/primitives-framework/facilitation/concepts/concepts.md) promises from being realized.
 
 To prevent this from happening we have developed this pattern as a template for teams to develop a simple and consistent cell state document to capture their group-state.
 
@@ -59,13 +59,13 @@ The cell's operating model - including its practices, protocols, roles, and cult
 The cell's actual achievements and impact - tracking initiatives, metrics, and value creation to enable accountability and adaptation.
 
 **Phase**
-The cell state document can serve 5 different purposes depending on the [phase](artifacts/primitives-framework/concepts/group-phase/index.md) a group is at in its lifecycle:
+The cell state document can serve 5 different purposes depending on the [phase](artifacts/primitives-framework/guides/discovery/group-phase/index.md) a group is at in its lifecycle:
 
-1. As a collaborative document to start to gather thoughts and intentions for the group in the [conversation](artifacts/primitives-framework/concepts/group-phase/conversation-phase.md) phase
-2. As a proposal template for a formal proposal to approve the establishment of the team in the [formation](artifacts/primitives-framework/concepts/group-phase/formation-phase.md)
-3. As the structure within which to develop and record the team's specific agreements and plans during [organization](artifacts/primitives-framework/concepts/group-phase/organization-phase.md) phase
-4. As the capture of the ongoing evolving current state of the operating group. Visible, public (to the extent that this is practical) interface for those coordinating with the group through [coordination](artifacts/primitives-framework/concepts/group-phase/iteration-phase.md)phase
-5. As the final record that archives what the group has achieved and who contributed to these achievements through[completion](artifacts/primitives-framework/concepts/group-phase/completion-phase.md) phase
+1. As a collaborative document to start to gather thoughts and intentions for the group in the [conversation](artifacts/primitives-framework/guides/discovery/group-phase/conversation-phase.md) phase
+2. As a proposal template for a formal proposal to approve the establishment of the team in the [formation](artifacts/primitives-framework/guides/discovery/group-phase/formation-phase.md)
+3. As the structure within which to develop and record the team's specific agreements and plans during [organization](artifacts/primitives-framework/guides/discovery/group-phase/organization-phase.md) phase
+4. As the capture of the ongoing evolving current state of the operating group. Visible, public (to the extent that this is practical) interface for those coordinating with the group through [coordination](artifacts/primitives-framework/guides/discovery/group-phase/iteration-phase.md)phase
+5. As the final record that archives what the group has achieved and who contributed to these achievements through[completion](artifacts/primitives-framework/guides/discovery/group-phase/completion-phase.md) phase
 
 ## Components of group state
 
@@ -160,11 +160,11 @@ A careful balancing of the cost of creating and maintaining cell state vs the ga
 
 ### Template
 
-[Cell State Template](artifacts/primitives-framework/implementation/cell-state-template.md): Use this template as a starting point for designing an appropriate cell state document for a team. Select categories to include from the Components of Cell State section and base
+[Cell State Template](artifacts/primitives-framework/guides/design/cell-state-template.md): Use this template as a starting point for designing an appropriate cell state document for a team. Select categories to include from the Components of Cell State section and base
 
 There are several variables that will influence what and how much detail a team will choose to include in it's group state. These can include:
 
-- **Phase of development** - a Cell in an early [phase](artifacts/primitives-framework/concepts/group-phase/index.md) of development may require less specific detail, reflecting its lack of formal structure, compared to an mature operational Cell.
+- **Phase of development** - a Cell in an early [phase](artifacts/primitives-framework/guides/discovery/group-phase/index.md) of development may require less specific detail, reflecting its lack of formal structure, compared to an mature operational Cell.
 - **Responsibilities to outside entities** - Cells may require specific information to be included in their group-state based on agreements they have with entities they are coordinating with.
 - **Amount of resources managed** - a Cell with a large treasury would likely require more rigorous decision-making and treasury management practices to be included in its group-state
 
@@ -172,7 +172,7 @@ There are several variables that will influence what and how much detail a team 
 
 ### Technical implementation
 
-In the early phases of development of a Cell ([conversation-phase](artifacts/primitives-framework/concepts/group-phase/conversation-phase.md) & [formation-phase](artifacts/primitives-framework/concepts/group-phase/formation-phase.md)] phase) the Cell's state can stored informally in a simple document editor. However as the group implements its formal structure and agreements with other entities in the network, it enters the [organization-phase](artifacts/primitives-framework/concepts/group-phase/organization-phase.md) phase, and its cell state will need to be stored in a way that produces:
+In the early phases of development of a Cell ([conversation-phase](artifacts/primitives-framework/guides/discovery/group-phase/conversation-phase.md) & [formation-phase](artifacts/primitives-framework/guides/discovery/group-phase/formation-phase.md)] phase) the Cell's state can stored informally in a simple document editor. However as the group implements its formal structure and agreements with other entities in the network, it enters the [organization-phase](artifacts/primitives-framework/guides/discovery/group-phase/organization-phase.md) phase, and its cell state will need to be stored in a way that produces:
 
 - **Transparency** - the ability for others in the network to assess the groups state information
 - Trust - the ability for others to trust the provenance, accuracy and currency of information in **the** group's state

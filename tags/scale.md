@@ -46,6 +46,6 @@ The article argues that DAOs, when properly designed, can uniquely combine both 
 - **[Governance](tags/governance.md)**: The systems for decision-making appropriate to each scale
 - **[Networks](tags/networks.md)**: The interconnected relationships that span across scales
 - **Cells**: Autonomous teams that form the building blocks of multi-scale networks
-- **[Agreements](tags/agreements.md)**: The shared understandings that connect activities across sca[index](artifacts/primitives-framework/concepts/index.md) fundamental scaling dynamics in organizational systems
+- **[Agreements](tags/agreements.md)**: The shared understandings that connect activities across sca[concepts](artifacts/primitives-framework/facilitation/concepts/concepts.md) fundamental scaling dynamics in organizational systems
 - Building DAOs as scalable networks: Proposes multi-scale governance approaches for decentralized organizations
 - [primitives-framework-concepts](artifacts/primitives-framework/primitives-framework-concepts.md): Provides detailed analysis of different group scales and their characteristics
