@@ -1,6 +1,6 @@
 ---
-title: Group State
-description: A DAO primitives primitive for storing crucial information about a DAO, Cell, Role of Task.
+title: Tracking your Group's State
+description: Reaching consensus on the state of a decentralized group or other trust zone
 publish: true
 type: tag, pattern
 aliases:
@@ -61,7 +61,7 @@ Group state is also fractal, with [Roles](tags/roles.md) and [Tasks](tags/tasks.
 
 ## Related Concepts
 
-- [Group State](artifacts/primitives-framework/concepts/group-state.md) - Tracking and documenting team coordination
+- [Group State](artifacts/primitives-framework/guides/design/group-state.md) - Tracking and documenting team coordination
 - [Teams](tags/teams.md) - Groups maintaining state documentation
 - [Coordination](tags/coordination.md) - Mechanisms requiring state tracking
 - [Governance](tags/governance.md) - Decision-making informed by group state
