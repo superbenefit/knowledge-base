@@ -146,7 +146,7 @@ _We are learning as these experiments evolve and are deeply appreciative of the 
 ### Article Series
 
 - Previous: [Minimum Viable Permissionless-ness](artifacts/primitives-framework/articles/Minimum Viable Permissionless-ness.md)
-- Next: …coming soon…
+- Next: coming soon…
 
 ---
 
