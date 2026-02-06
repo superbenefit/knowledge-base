@@ -9,24 +9,7 @@
   "autoCreateForAttachmentFolder": false,
   "autoCreateForFiles": false,
   "enableCollapsing": false,
-  "excludeFolders": [
-    {
-      "type": "folder",
-      "id": "df91078d-cb7b-42f2-ba50-d1bbdecc981d",
-      "path": "artifacts/primitives-framework",
-      "subFolders": false,
-      "disableSync": true,
-      "disableAutoCreate": true,
-      "disableFolderNote": true,
-      "enableCollapsing": false,
-      "position": 0,
-      "excludeFromFolderOverview": false,
-      "string": "",
-      "hideInSettings": true,
-      "detached": true,
-      "detachedFilePath": "artifacts/dao-primitives-framework/index.md"
-    }
-  ],
+  "excludeFolders": [],
   "whitelistFolders": [],
   "showDeleteConfirmation": true,
   "underlineFolder": false,
