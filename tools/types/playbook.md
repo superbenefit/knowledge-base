@@ -5,20 +5,20 @@ icon: notebook-tabs
 tagNames:
   - playbooks
 filesPaths:
-  - artifacts/playbooks
-bookmarksGroups: 
-excludes: 
-extends: artifact
+  - data/resources/playbooks
+bookmarksGroups:
+excludes:
+extends: resource
 savedViews: []
-favoriteView: 
+favoriteView:
 fieldsOrder: []
-version: "2.6"
-fields: 
+version: "3.0"
+fields:
 ---
 The Playbook type provides comprehensive, actionable guidance for implementing specific processes or frameworks within decentralized organizations. Playbooks transform theoretical knowledge into practical, step-by-step instructions that practitioners can directly apply.
 
-Extending Artifact, Playbooks synthesize multiple patterns and primitives into cohesive implementation guides. These documents accommodate the detailed procedures, examples, troubleshooting sections, and comprehensive appendices needed for successful implementation.
+Extending Resource, Playbooks synthesize multiple patterns and primitives into cohesive implementation guides. These documents accommodate detailed procedures, examples, troubleshooting sections, and comprehensive appendices needed for successful implementation.
 
-Stored in `/artifacts/playbooks/` and automatically associated with content tagged "playbooks," these documents bridge the gap between understanding and action. While Patterns explain conceptual solutions, Playbooks provide the detailed roadmaps for implementation, including prerequisites, procedures, troubleshooting guides, and success metrics. They represent the practical wisdom gained from real-world application of organizational patterns.
+Located in `data/resources/playbooks/`, these documents bridge the gap between understanding and action. While Patterns explain conceptual solutions, Playbooks provide detailed roadmaps for implementation.
 
-**Template**: [playbook.md](tools/templates/layouts/playbook.md), [rpp-playbook.md](tools/templates/layouts/rpp-playbook.md)
+**Template**: [playbook.md](tools/templates/layouts/playbook.md)

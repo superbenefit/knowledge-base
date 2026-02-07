@@ -10,7 +10,7 @@ extends: reference
 savedViews: []
 favoriteView: 
 fieldsOrder: []
-version: "2.3"
+version: "3.0"
 ---
 The Index type provides directory-level navigation and orientation pages throughout the knowledge base. Index files serve as landing pages that help users understand the structure, purpose, and contents of each section.
 
