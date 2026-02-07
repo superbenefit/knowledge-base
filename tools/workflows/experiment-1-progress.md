@@ -89,7 +89,7 @@ participatory [decision-making](tags/decisions.md) processes...
 
 **Link Style**:
 - Inline links should read naturally, not interrupt flow
-- Brief descriptive text after link helps (e.g., "- [Governance](tags/governance.md) - Decision-making frameworks")
+- Brief descriptive text after link helps (e.g., "- [Governance](data/concepts/governance.md) - Decision-making frameworks")
 - Bold for new sections/concepts, links for references
 
 **Section Structure**:

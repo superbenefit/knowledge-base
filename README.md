@@ -34,10 +34,10 @@ Our [public knowledge garden](https://knowledge.superbenefit.org) shares curated
 ### Repository Structure
 
 *   **[Artifacts](/artifacts/readme.md)**: Published, refined content that represents our collective understanding. Contains finished research, documentation, and community-validated knowledge.
-*   **[Notes](/notes/readme.md)**: Working documents organized by project. This is where active development happens and where ideas mature through collaboration.
+*   **[Notes](docs/readme.md)**: Working documents organized by project. This is where active development happens and where ideas mature through collaboration.
 *   **[Drafts](/drafts/readme.md)**: Private workspace for developing thoughts and initial research. This is where new ideas begin before they're ready for wider collaboration.
-*   **[Links](/links/readme.md)**: External references and resources, enriched with community commentary and analysis.
-*   **[Tags](/tags/readme.md)**: Our shared vocabulary and conceptual framework, including term definitions and relationships.
+*   **[Links](data/links/readme.md)**: External references and resources, enriched with community commentary and analysis.
+*   **[Tags](data/concepts/readme.md)**: Our shared vocabulary and conceptual framework, including term definitions and relationships.
 *   **[Tools](/tools/readme.md)**: Knowledge management utilities, including:
     *   `templates/`: Standard document structures
     *   `types/`: Metadata schemas and definitions

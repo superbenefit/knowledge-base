@@ -33,7 +33,7 @@ This garden is organized into four main areas, each serving a distinct purpose. 
 *   **Purpose:** This section contains links to external resources that we find valuable and relevant to our work. It's a curated collection of articles, papers, and projects that inform our thinking.
 *   **Look Here For:** Referenced articles and papers, commentary and analysis on external resources, relevant external projects, and connections to related ideas.
 
-#### [Notes](notes/index.md): Works in Progress
+#### [Notes](docs/index.md): Works in Progress
 
 *   **Purpose:** This is our active workspace, where ideas are developed and refined. It contains project-specific documentation, research in progress, and materials from working groups.
 *   **Look Here For:** Project-specific documentation, research in progress, working group materials, and emerging concepts and patterns.

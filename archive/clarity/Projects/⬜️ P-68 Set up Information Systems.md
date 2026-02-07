@@ -1,0 +1,1 @@
+#[information squad](archive/clarity/Tags/information%20squad.md) 
