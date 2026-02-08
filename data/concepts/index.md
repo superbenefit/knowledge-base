@@ -1,5 +1,4 @@
 ---
-type: Lexicon
 title: concepts
 description: Definitions for commonly-used terms and concepts at SuperBenefit
 publish: true

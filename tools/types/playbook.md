@@ -13,7 +13,7 @@ savedViews: []
 favoriteView:
 fieldsOrder: []
 version: "3.0"
-fields:
+fields: []
 ---
 The Playbook type provides comprehensive, actionable guidance for implementing specific processes or frameworks within decentralized organizations. Playbooks transform theoretical knowledge into practical, step-by-step instructions that practitioners can directly apply.
 

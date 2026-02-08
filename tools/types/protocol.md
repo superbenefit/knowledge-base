@@ -13,6 +13,7 @@ savedViews: []
 favoriteView:
 fieldsOrder: []
 version: "3.0"
+fields: []
 ---
 The Protocol type documents formal procedures, standards, and specifications used within decentralized organizations. Protocols represent agreed-upon rules and processes that ensure consistent operation and coordination.
 
