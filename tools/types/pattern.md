@@ -11,9 +11,16 @@ excludes:
 extends: resource
 savedViews: []
 favoriteView:
-fieldsOrder: []
+fieldsOrder:
+  - questions01
 version: "3.0"
-fields: []
+fields:
+  - name: questions
+    type: MultiFile
+    options:
+      dvQueryString: dv.pages('"data/questions"')
+    path: ""
+    id: questions01
 ---
 The Pattern type documents reusable solutions to recurring challenges in decentralized organization design and governance. Patterns capture proven approaches that can be adapted across different contexts, building a library of organizational building blocks for the DAO ecosystem.
 

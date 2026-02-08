@@ -1,12 +1,10 @@
 ---
-title: 
-description: 
-author: 
-url: 
-tags: 
-curator: 
-harvester: 
-publish: 
+title:
+description:
+date: <% tp.date.now("YYYY-MM-DD") %>
+author:
+tags:
+publish: false
 type: playbook
 ---
 %% This template creates comprehensive, actionable guidance for implementing specific processes or methodologies within social purpose projects and organizations. Use it to combine multiple patterns and protocols into cohesive implementation guides with practical, step-by-step instructions, focusing on decentralized solutions. The structured format helps you create playbooks that bridge theory and practice with concrete examples and advice.

@@ -1,13 +1,13 @@
 ---
-title: # The primary name of the concept
-description: # A brief (1-2 sentence) definition that appears in previews
-harvester: # Your name or identifier if you're creating/maintaining this entry
-publish: false # Set to true when ready for publication
-type: tag # Usually "tag" for lexicon entries
-aliases:
-  - "#concept-name" # Always include hashtag version using kebab-case
-tags:
-  - "#concept-name" # Choose categories like: functions, qualities, resources, actions, agreements
+title:
+description:
+date: <% tp.date.now("YYYY-MM-DD") %>
+harvester:
+publish: false
+type: tag
+aliases: []
+tags: []
+questions: []
 ---
 %% This template creates an entry in the SuperBenefit lexicon - our shared vocabulary of concepts, terms, and ideas. Use it to document terminology used throughout the knowledge base, creating consistency and clarity in communication. The structured format guides you through defining the concept, explaining its context-specific uses, and connecting it to related concepts. %%
 
@@ -29,10 +29,6 @@ tags:
 
 %% If the concept has different meanings or applications in another context, explain them here. Focus on what makes this usage distinct while also noting connections to other contexts. %%
 
-## Related Concepts
+## Related Pages
 
-%% Create links to related concepts in the knowledge base. This section can be in paragraph form or a bulleted list. Explain the relationships between concepts (e.g., "Unlike [tags/another-concept](tags/another-concept), this concept..."). %%
-
-## References and Resources
-
-%% Optional: Include links to key resources, articles, or tools related to this concept. These can be both internal to the knowledge base and external sources. %%
+%% Curated links to related content: concepts, patterns, resources, external references. %%

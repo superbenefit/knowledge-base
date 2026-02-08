@@ -1,7 +1,7 @@
 ---
-title: 
-description: 
-url: 
+title:
+description:
+date: <% tp.date.now("YYYY-MM-DD") %>
 tags:
   - protocols
 publish: false
@@ -43,14 +43,6 @@ _<% tp.frontmatter.description || "A detailed operational mechanism that defines
 ### Success Indicators
 %% How to measure effective protocol implementation %%
 
-## References and Resources
+## Related Pages
 
-%% List relevant documentation, tools, templates, or training materials that support protocol implementation %%
-
-### Examples
-
-%% Provide concrete examples of this protocol in practice, showing how the operational mechanism functions in real contexts %%
-
-### Related Protocols
-
-%% Connect to other protocols that complement, depend on, or interface with this one %%
+%% Curated links to related content: protocols, patterns, examples, documentation. %%

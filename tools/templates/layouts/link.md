@@ -1,10 +1,11 @@
 ---
-title: 
-description: 
-publish: 
+title:
+description:
+date: <% tp.date.now("YYYY-MM-DD") %>
+publish: false
 type: link
-source: 
-author: 
+source:
+author:
 tags:
 ---
 %% This template creates an entry for referencing, analyzing, and contextualizing external resources. Use it to add articles, papers, videos, or other external content to the knowledge base with appropriate metadata and commentary. Link templates help maintain a curated library of valuable resources while connecting them to relevant concepts in our knowledge ecosystem. %%

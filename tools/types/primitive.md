@@ -13,6 +13,7 @@ savedViews: []
 favoriteView:
 fieldsOrder:
   - cat01
+  - questions01
 version: "3.0"
 fields:
   - name: category
@@ -20,6 +21,12 @@ fields:
     options: {}
     path: ""
     id: cat01
+  - name: questions
+    type: MultiFile
+    options:
+      dvQueryString: dv.pages('"data/questions"')
+    path: ""
+    id: questions01
 ---
 The Primitive type documents foundational building blocks for decentralized organization design. Primitives are the atomic units from which more complex patterns and systems are composed.
 

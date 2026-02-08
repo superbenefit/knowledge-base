@@ -1,11 +1,10 @@
 ---
-title: 
-description: 
-url: 
-author: 
-tags: 
-curator: 
-harvester: 
+title:
+description:
+date: <% tp.date.now("YYYY-MM-DD") %>
+url:
+author:
+tags:
 publish: false
 type: article
 ---

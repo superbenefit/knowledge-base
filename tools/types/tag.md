@@ -15,6 +15,7 @@ fieldsOrder:
   - related01
   - cat01
   - harvest01
+  - questions01
 version: "3.0"
 fields:
   - name: aliases
@@ -37,6 +38,12 @@ fields:
     options: {}
     path: ""
     id: harvest01
+  - name: questions
+    type: MultiFile
+    options:
+      dvQueryString: dv.pages('"data/questions"')
+    path: ""
+    id: questions01
 ---
 The Tag type defines entries in the SuperBenefit lexicon — the shared vocabulary that enables precise communication about complex organizational concepts. Tags establish common definitions, document etymology, and map relationships between terms.
 

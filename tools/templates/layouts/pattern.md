@@ -1,11 +1,12 @@
 ---
-title: 
-description: 
-url: 
+title:
+description:
+date: <% tp.date.now("YYYY-MM-DD") %>
 tags:
   - patterns
 publish: false
 type: pattern
+questions: []
 ---
 # <% tp.frontmatter.title || "Pattern Name" %>
 
@@ -39,6 +40,6 @@ _<% tp.frontmatter.description || "A conceptual framework that provides reusable
 
 ---
 
-## References
+## Related Pages
 
-%% Connect to complementary or contrasting patterns %%
+%% Curated links to related content: patterns, practices, studies, concepts. %%
