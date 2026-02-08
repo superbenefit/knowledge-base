@@ -14,6 +14,7 @@ fieldsOrder:
   - alias01
   - related01
   - cat01
+  - harvest01
 version: "3.0"
 fields:
   - name: aliases
@@ -31,6 +32,11 @@ fields:
     options: {}
     path: ""
     id: cat01
+  - name: harvester
+    type: Input
+    options: {}
+    path: ""
+    id: harvest01
 ---
 The Tag type defines entries in the SuperBenefit lexicon — the shared vocabulary that enables precise communication about complex organizational concepts. Tags establish common definitions, document etymology, and map relationships between terms.
 
