@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Exchange
 description: A working model for connecting curiosity and commitment in London through a community exchange system
 author: 

@@ -1,4 +1,5 @@
 ---
+group: dao-primitives
 title: DAOs - From fractal primitives to network scale.
 url: https://superbenefit.mirror.xyz/zyP-6GZQz-DWcdbAa-4sqRiY58P1WvYvIs_2zNa9oYo
 author:

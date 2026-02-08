@@ -1,7 +1,8 @@
 ---
+group: aifs
 tags:
   - meetings
-date: 15-01-2025
+date: 2025-01-15
 ---
 
 # Meeting Summary

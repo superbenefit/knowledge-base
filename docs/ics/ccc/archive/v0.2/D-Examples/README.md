@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Exchange Examples and Scenarios README
 description: Directory overview of concrete examples and scenarios demonstrating how the Community Exchange works in practice
 author: ICS Team

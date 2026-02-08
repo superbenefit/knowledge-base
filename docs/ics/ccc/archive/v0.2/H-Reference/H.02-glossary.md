@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Connection & Commitment Commons Glossary
 description: Comprehensive glossary of terms used throughout the Community Connection & Commitment Commons documentation, defining core concepts, protocol functions, and related economic concepts
 author: ICS Team

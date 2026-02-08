@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Connection & Commitment Commons Voucher Flow Examples
 description: Concrete scenarios illustrating how Commitment Vouchers flow through the Community Connection & Commitment Commons system in various exchange patterns
 author: ICS Team

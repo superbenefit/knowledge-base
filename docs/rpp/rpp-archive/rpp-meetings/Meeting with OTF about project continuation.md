@@ -1,4 +1,5 @@
 ---
+group: rpp
 See briefing note:
 Highlights:
   - Walkthrough of briefing materials, including onboarding systems, DAO primitives framework, governance documents, and the knowledge garden.

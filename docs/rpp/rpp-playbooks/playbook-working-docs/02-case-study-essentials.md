@@ -1,3 +1,7 @@
+---
+group: rpp
+---
+
 # Case Study Essentials
 
 ## All In For Sport (AIFS)

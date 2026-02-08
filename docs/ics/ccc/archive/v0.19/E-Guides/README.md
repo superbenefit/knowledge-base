@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Community Exchange: User Guides
 
 This directory contains step-by-step guides for using the Community Exchange system.

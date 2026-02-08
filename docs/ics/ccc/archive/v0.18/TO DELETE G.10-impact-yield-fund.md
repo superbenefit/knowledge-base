@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Impact Yield Fund
 
 ## Status: Placeholder Document

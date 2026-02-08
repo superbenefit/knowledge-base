@@ -1,7 +1,8 @@
 ---
+group: wp
 tags:
   - meetings
-date: 04-01-2024
+date: 2024-01-04
 ---
 
 > Notes for older meetings can be found on [Clarity](https://app.clarity.so/superbenefit/docs/749f1c75-344f-4b52-96b9-e0710d8112ae):

@@ -1,3 +1,7 @@
+---
+group: aifs
+---
+
 # All In For Sport DAO Salon Series - Final Retrospective
 
 This document captures the final retrospective of the AIFS DAO Salon Series using the Loved/Lacked/Learned/Longed For framework.

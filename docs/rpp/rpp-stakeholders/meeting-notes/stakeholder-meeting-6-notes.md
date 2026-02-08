@@ -1,3 +1,7 @@
+---
+group: rpp
+---
+
 The transcript of the meeting between the Reimagining Power Core Team and the Reimagining Power Stakeholder Group covers various topics, including updates on key deliverables, discussions on inequalities and financial coordination challenges, and proposals for onboarding. The group also shared personal highlights, discussed purpose and high-level goals, and provided a strategy update.
 
 Key points discussed include:

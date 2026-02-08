@@ -1,3 +1,7 @@
+---
+group: aifs
+---
+
 # Gatherings Sessions Strategy
 
 _This is a space to plan the vision for our sessions as well as to build out what each session will look like._

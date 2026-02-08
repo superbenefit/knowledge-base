@@ -1,4 +1,5 @@
 ---
+group: rpp
 
 # Meeting Agenda
 
@@ -122,7 +123,7 @@ Sue - example - FINI womens fund in south america. Funds get lost in banking fee
   - Payments for social impact paper translation
 
 tags: meetings
-date: 10-12-2024
+date: 2024-12-10
 ---
 
 # Decision Log

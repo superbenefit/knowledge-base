@@ -1,3 +1,7 @@
+---
+group: dao-primitives
+---
+
 ## Guide 1: Navigating Conflict Recognition and Discourse
 
 **For community members addressing commitment breaches directly**

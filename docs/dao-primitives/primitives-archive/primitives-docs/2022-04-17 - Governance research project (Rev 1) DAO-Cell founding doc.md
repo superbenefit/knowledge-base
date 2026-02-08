@@ -1,3 +1,7 @@
+---
+group: dao-primitives
+---
+
 #[governance research](archive/clarity/Tags/governance%20research.md) 
 
 

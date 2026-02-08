@@ -1,3 +1,7 @@
+---
+group: dao-primitives
+---
+
 ## Guide 2: Mediating Conflict
 
 **For community members facilitating when direct discourse hasn't worked**

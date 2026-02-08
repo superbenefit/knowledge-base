@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Cash Integration Pathways
 
 While the Community Exchange begins as a cashless system focused on mutual support through commitment pooling, thoughtful integration with the cash economy may become beneficial as the system matures. Here are potential pathways:

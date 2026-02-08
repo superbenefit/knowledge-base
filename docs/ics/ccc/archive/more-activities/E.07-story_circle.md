@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Story Circle
 
 ## Purpose

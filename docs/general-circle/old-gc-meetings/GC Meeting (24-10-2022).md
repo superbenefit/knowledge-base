@@ -1,7 +1,8 @@
 ---
+group: general-circle
 tags:
   - meetings
-date: 24-10-2022
+date: 2022-10-24
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 ## Attendees

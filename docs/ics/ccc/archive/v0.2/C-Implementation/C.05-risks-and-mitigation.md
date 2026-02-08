@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Connection & Commitment Commons Risks and Mitigation Strategies
 description: Comprehensive risk assessment and mitigation strategies for the Community Connection & Commitment Commons system, informed by global examples
 author: ICS Team

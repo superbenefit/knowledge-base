@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Community Exchange: Governance Structure
 
 This document outlines how decisions are made, who makes them, and the responsibilities of various roles within the Community Exchange system.

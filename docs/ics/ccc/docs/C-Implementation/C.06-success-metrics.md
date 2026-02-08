@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Connection & Commitment Commons Success Metrics
 description: Simple framework of five essential metrics to track the health and growth of the Community Connection & Commitment Commons system
 author: ICS Team

@@ -1,3 +1,7 @@
+---
+group: general-circle
+---
+
 #[264 Systems Transformation Project](264%20Systems%20Transformation%20Project) #[CCS Workshop](CCS%20Workshop) 
 @heenal @Nate @MBaldwin 
 ## Links & Resources

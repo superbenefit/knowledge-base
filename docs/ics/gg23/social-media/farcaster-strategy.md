@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Farcaster Strategy for GG23 Campaign
 
 ## Understanding Farcaster's Unique Advantages

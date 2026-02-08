@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Sarafu.Network Technical Appendix
 description: Technical considerations, limitations, and workarounds for using Sarafu.Network as the digital infrastructure for Community Exchange
 author: ICS Team

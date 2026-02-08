@@ -1,4 +1,5 @@
 ---
+group: aifs
 title: OTF Report for All In For Sport
 tags:
   - aifs

@@ -1,4 +1,5 @@
 ---
+group: dao-primitives
 title: Coordination Scale
 description: Characteristics and considerations for groups operating at the Coordination Scale
 tags:

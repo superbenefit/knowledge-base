@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # New Application Areas
 
 The Community Exchange model could expand to address specific community needs:

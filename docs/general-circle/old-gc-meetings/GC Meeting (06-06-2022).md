@@ -1,7 +1,8 @@
 ---
+group: general-circle
 tags:
   - meetings
-date: 06-06-2022
+date: 2022-06-06
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 # Week of June 6, 2022

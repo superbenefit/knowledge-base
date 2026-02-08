@@ -1,4 +1,5 @@
 ---
+group: ics
 title: How Community Exchange Works
 description: Detailed explanation of the two pathways - Connection Circles and Commitment Pool - and how they interact to create a regenerative exchange system
 author: ICS Team

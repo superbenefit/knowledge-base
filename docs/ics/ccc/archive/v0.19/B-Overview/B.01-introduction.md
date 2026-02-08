@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Exchange Introduction
 description: Introduction to the Community Exchange system combining Connection Circles and Commitment Pool to create a local economic network
 author: ICS Team

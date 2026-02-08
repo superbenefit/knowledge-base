@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Exchange Implementation Timeline
 description: Phased development plan for Community Exchange starting Q2 2025, including milestones and key performance indicators
 author: ICS Team

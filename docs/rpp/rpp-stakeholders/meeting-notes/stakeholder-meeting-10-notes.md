@@ -1,3 +1,7 @@
+---
+group: rpp
+---
+
 Overview
 The RPP Stakeholder Update Meeting, held via Zoom, began with welcoming new participant Julia and sharing summer highlights among attendees, followed by a recap of the previous meeting by Filsan. Rowan provided a strategy update detailing the restructuring of the core team and progress on four main work streams: onboarding, social impact, knowledge stewardship, and DAO primitives, including experiments on Calgary Parks, the Equality Fund, and sustainability. Shani reported on the All In For Sport initiative, noting the application to the IOC innovation hub and prospects for DAO-specific funding. Sue discussed challenges in the Equality Fund's participatory grant-making process and proposed a web3 technology experiment for reimagining grants. Heenal and Julia updated on their governance experiment aimed at aligning new governance systems with legal standards for Canadian non-profits, while playbook development was discussed to consolidate findings across projects. The meeting concluded with action items assigned to participants and a plan for scheduling the next meeting, leaving attendees enthusiastic for future collaborations.
 Notes

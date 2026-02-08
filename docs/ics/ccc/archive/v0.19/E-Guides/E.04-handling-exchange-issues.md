@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # How to Handle Exchange Issues
 
 In any community system, challenges occasionally arise. This guide provides step-by-step approaches for handling common exchange issues with clarity, respect, and fairness.

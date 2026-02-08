@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Community Exchange: Credit Flow Examples
 
 This document provides concrete examples of how credits flow through the Community Exchange system. These scenarios illustrate different patterns of exchange and show how members might use the system in practice.

@@ -1,4 +1,5 @@
 ---
+group: rpp
 
 > This blog post is heavily based on the Progress Update briefing note compiled for OTF:  
 

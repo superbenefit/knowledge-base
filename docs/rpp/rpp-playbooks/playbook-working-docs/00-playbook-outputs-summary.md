@@ -1,3 +1,7 @@
+---
+group: rpp
+---
+
 # Playbook Outputs Summary
 
 **Document**: 00-playbook-outputs-summary.md  

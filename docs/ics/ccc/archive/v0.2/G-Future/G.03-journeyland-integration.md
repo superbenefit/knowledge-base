@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Journeyland Community Gatherings Integration
 
 ## Overview

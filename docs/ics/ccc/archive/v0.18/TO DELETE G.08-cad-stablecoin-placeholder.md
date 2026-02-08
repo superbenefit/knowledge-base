@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # CAD Stablecoin Integration
 
 ## Status: Placeholder Document

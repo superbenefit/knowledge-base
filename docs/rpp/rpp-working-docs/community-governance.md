@@ -1,4 +1,5 @@
 ---
+group: rpp
 title: Community Governance
 description: A pattern for enabling collective stewardship and evolution of decentralized networks through community-driven decision making at constituency scale
 tags:

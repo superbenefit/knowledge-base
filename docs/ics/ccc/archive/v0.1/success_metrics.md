@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Community Exchange: Success Metrics and Evaluation Framework
 
 This document outlines how we'll measure the health, impact, and success of the Community Exchange. Clear metrics help us understand what's working, identify challenges, and make informed decisions as we grow.

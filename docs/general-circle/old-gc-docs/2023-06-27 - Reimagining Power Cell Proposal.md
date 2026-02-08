@@ -1,3 +1,7 @@
+---
+group: general-circle
+---
+
 #[governance proposals](archive/clarity/Tags/governance%20proposals.md) #[reimagining power](archive/clarity/Tags/reimagining%20power.md) #[Cell State (DRAFT) - Reimagining Power](Cell%20State%20(DRAFT)%20-%20Reimagining%20Power) 
 From @rathermercurial @Ananth @Rowan  
 

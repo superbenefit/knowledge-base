@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Newsletter Copy for GG23 Campaign
 
 ## Email Subject Lines

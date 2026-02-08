@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Sustainable WEVE Token Model
 description: A framework for creating a financially sustainable local community token system with incentives for circulation and mechanisms to maintain liquidity
 author: ICS Team

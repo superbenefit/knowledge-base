@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Considerations for Future Development
 
 As we explore these possibilities, we'll be guided by these principles:

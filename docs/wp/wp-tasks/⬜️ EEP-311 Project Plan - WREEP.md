@@ -1,4 +1,5 @@
 ---
+group: wp
 tags:
   - tasks
 ---

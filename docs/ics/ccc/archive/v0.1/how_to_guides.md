@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Community Exchange: How-To Guides
 
 This document provides step-by-step instructions for common actions within the Community Exchange system. These guides will help you navigate the system with confidence, whether you're offering services, requesting help, or managing your credits.

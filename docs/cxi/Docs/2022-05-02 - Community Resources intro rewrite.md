@@ -1,3 +1,7 @@
+---
+group: cxi
+---
+
 
 # Community Resources intro rewrite
 

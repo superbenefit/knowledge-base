@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Exchange Reference Materials README
 description: Directory overview of reference materials and frequently asked questions for the Community Exchange system
 author: ICS Team

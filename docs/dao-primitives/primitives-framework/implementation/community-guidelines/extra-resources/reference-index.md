@@ -1,3 +1,7 @@
+---
+group: dao-primitives
+---
+
 
 Curated resources for conflict transformation in peer-to-peer community contexts.
 

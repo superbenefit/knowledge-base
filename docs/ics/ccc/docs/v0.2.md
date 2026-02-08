@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Connection & Commitment Commons v0.2
 description: Main coordination file for Community Connection & Commitment Commons version 0.2, containing overview and navigation to all v0.2 documentation
 author: ICS Team

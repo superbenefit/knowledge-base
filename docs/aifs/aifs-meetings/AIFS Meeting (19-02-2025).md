@@ -1,7 +1,8 @@
 ---
+group: aifs
 tags:
   - meetings
-date: 19-02-2025
+date: 2025-02-19
 ---
 
 > This is the Meeting doc for Gathering #5 - this doc will be shared publicly once it has been populated. For the initial, internal planning task, please see  

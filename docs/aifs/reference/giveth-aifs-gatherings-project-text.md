@@ -1,3 +1,7 @@
+---
+group: aifs
+---
+
 # All In For Sport: Web3 & Impact Gatherings
 
 ## Project Description

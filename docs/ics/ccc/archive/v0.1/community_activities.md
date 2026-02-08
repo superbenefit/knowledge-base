@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Community Exchange: Activities and Events
 
 This document outlines a variety of activities and events that support the Community Exchange, helping to build relationships, facilitate exchanges, celebrate successes, and strengthen the system over time.

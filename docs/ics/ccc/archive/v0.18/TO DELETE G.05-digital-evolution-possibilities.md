@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Digital Evolution Possibilities
 
 As the Community Exchange grows, technological evolution can enhance functionality while preserving core values:

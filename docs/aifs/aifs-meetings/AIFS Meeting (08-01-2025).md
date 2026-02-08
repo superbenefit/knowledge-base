@@ -1,7 +1,8 @@
 ---
+group: aifs
 tags:
   - meetings
-date: 08-01-2025
+date: 2025-01-08
 ---
 
 Error generating markdown for this page

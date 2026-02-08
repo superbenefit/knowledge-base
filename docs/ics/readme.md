@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Institute for Community Sustainability (ICS)
 
 This directory contains notes and documentation related to the Institute for Community Sustainability (ICS) and its collaboration with SuperBenefit.

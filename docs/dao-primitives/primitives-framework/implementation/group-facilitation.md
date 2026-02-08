@@ -1,4 +1,5 @@
 ---
+group: dao-primitives
 title: Primitives Framework Group Facilitation Guide
 description: A guide for facilitators to navigate the Primitives Framework and work with groups to define purpose, design and implement governance and operational structures
 type: guide

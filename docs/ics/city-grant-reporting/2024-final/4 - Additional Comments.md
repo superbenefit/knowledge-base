@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Are there any additional comments you would like to make about your results?
 
 Throughout 2024, we've observed several noteworthy trends and outcomes from our waste reduction initiatives that extend beyond the quantitative metrics already reported.

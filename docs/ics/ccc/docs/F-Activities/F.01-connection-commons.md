@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Connection Commons Program Guide
 description: Guide for facilitating the Connection Commons program and its main activity, the Belonging Circle, where community members explore what they want to learn, teach, and share
 author: ICS Team

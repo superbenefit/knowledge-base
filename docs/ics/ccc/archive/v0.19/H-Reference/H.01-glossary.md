@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Exchange Glossary
 description: Comprehensive glossary of terms used throughout the Community Exchange documentation, defining core concepts, protocol functions, and related economic concepts
 author: ICS Team

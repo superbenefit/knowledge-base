@@ -1,3 +1,7 @@
+---
+group: aifs
+---
+
 # AIFS Gatherings Introduction
 
 ## Why are we doing these sessions?

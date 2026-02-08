@@ -1,3 +1,7 @@
+---
+group: aifs
+---
+
 # All In For Sport DAO Salon Series - Retro After Gathering 0
 
 This document captures the team's reflections and feedback after the initial gathering of the AIFS DAO Salon Series.

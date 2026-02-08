@@ -1,4 +1,5 @@
 ---
+group: dao-primitives
 title: Articles from the DAO Primitives team
 description: 
 publish: true

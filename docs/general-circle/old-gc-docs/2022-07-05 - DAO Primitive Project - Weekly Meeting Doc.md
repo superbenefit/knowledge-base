@@ -1,3 +1,7 @@
+---
+group: general-circle
+---
+
 #[dao primitives](archive/clarity/Tags/dao%20primitives.md) 
 
 

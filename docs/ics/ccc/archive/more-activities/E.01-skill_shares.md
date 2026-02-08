@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Seasonal Skill Shares
 
 ## Purpose

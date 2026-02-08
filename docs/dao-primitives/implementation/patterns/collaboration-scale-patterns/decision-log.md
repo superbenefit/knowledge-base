@@ -1,4 +1,5 @@
 ---
+group: dao-primitives
 title: Decision log
 description: 
 url: 

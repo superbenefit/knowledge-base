@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Annual Jubilee Activity Guide
 description: Guide for facilitating the annual community-wide celebration and debt clearing ceremony
 author: ICS Team

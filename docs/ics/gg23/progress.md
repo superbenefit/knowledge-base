@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # GG23 Campaign Progress Tracker
 
 Use this document to track campaign metrics and outreach efforts.

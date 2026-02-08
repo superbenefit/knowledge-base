@@ -1,7 +1,8 @@
 ---
+group: rpp
 tags:
   - meetings
-date: 06-03-2025
+date: 2025-03-06
 ---
 ---
 

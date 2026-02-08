@@ -1,4 +1,5 @@
 ---
+group: ics
 title: New Member Orientation Activity Guide
 description: Guide for facilitating cohort-based orientation sessions that introduce new members to the Community Exchange system
 author: ICS Team

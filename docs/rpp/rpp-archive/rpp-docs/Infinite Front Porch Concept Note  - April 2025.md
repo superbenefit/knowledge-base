@@ -1,3 +1,7 @@
+---
+group: rpp
+---
+
 # Infinite Front Porch - Concept Note
 
 ### **_Creating community-owned knowledge commons_**

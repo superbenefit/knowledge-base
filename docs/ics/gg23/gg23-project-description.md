@@ -1,4 +1,5 @@
 ---
+group: ics
 title: GG23 Project Description
 description: Gitcoin Grants 23 project description for Regen Coordination x Institute for Community Sustainability (ICS) partnership
 author: 

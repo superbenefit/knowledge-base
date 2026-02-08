@@ -1,6 +1,7 @@
 ---
+group: rpp
 tags:
   - meetings
-date: 18-11-2024
+date: 2024-11-18
 ---
 Error generating markdown for this page

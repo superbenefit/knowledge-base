@@ -1,4 +1,5 @@
 ---
+group: dao-primitives
 title: Group Phase
 tags:
   - dao-primitives

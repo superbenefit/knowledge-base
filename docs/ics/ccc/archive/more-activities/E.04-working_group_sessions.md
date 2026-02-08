@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Working Group Sessions
 
 ## Purpose

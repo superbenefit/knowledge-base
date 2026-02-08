@@ -1,4 +1,5 @@
 ---
+group: dao-primitives
 title: Primitives Framework
 description: A systematic approach to designing decentralized organizations as purpose-aligned networks of small autonomous teams
 publish: true

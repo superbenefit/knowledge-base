@@ -1,3 +1,7 @@
+---
+group: dao-primitives
+---
+
 # Sense-Making Facilitation Tools
 
 This document contains tools and frameworks that can be used to facilitate sense-making processes during discovery and design phases. These tools help groups develop deeper understanding of complex systems and networks and identify opportunities to design solutions. 

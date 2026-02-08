@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Community Exchange Activities
 
 ## Recent Updates (April 28, 2025)

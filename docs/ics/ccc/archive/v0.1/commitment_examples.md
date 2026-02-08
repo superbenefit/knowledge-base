@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Community Exchange: Commitment Examples
 
 This document provides a diverse catalog of possible commitments that members can offer to the Community Exchange. These examples are organized by category to inspire thinking about the many ways you can contribute to and benefit from the pool.

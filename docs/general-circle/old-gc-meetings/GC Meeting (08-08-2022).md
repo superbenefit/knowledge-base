@@ -1,7 +1,8 @@
 ---
+group: general-circle
 tags:
   - meetings
-date: 08-08-2022
+date: 2022-08-08
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 # Week of August 8, 2022

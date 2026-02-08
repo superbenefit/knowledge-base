@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Step 5 Completion Summary
 
 ## Review and Harmonization Complete

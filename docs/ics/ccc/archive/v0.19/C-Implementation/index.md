@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Community Exchange Implementation: Index
 
 This directory contains the practical documents that detail how to set up and operate the Community Exchange system.

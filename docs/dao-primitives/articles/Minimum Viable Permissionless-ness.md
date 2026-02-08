@@ -1,4 +1,5 @@
 ---
+group: dao-primitives
 title: Minimum Viable Permissionless-ness
 url: https://superbenefit.mirror.xyz/SKKglrTiDUh5nuZX0cPOmI0a2fXr7uEw03Y1qNUAQ90
 author:

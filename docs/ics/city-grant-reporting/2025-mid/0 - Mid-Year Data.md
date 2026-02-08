@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # City Grant Reporting - Mid-Year Data (2025)
 
 This document contains the data collected for the mid-year (January 1 - June 30, 2025) reporting for the City of London grant.

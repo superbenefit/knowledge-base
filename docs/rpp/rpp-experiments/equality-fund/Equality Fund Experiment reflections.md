@@ -1,3 +1,7 @@
+---
+group: rpp
+---
+
 # Reflection Exploration Guide
 
 This guide helps you capture learning from implementation experiences. Use it whenever you pause to reflect - after key events, at milestones, or when something surprising happens. The questions help surface insights while they're fresh.

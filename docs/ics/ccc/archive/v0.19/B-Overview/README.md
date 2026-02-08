@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Community Exchange: Overview Materials
 
 This directory contains the foundational documents that explain the Community Exchange concept, vision, and guiding principles.

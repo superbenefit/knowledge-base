@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Reimagine Co Newsletter: Support Our Sustainability Work in a New Way!
 
 ![Reimagine Co image]

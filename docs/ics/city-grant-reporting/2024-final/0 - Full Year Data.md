@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # City Grant Reporting - Full Year Data (2024)
 
 This document contains the data collected for the full year (2024) reporting for the City of London grant. This information should be used to complete the reporting form.

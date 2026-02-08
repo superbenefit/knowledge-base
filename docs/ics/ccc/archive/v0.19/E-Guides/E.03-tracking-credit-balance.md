@@ -1,4 +1,5 @@
 ---
+group: ics
 title: How to Track Your Voucher Balance
 description: Guide for monitoring commitment vouchers and transaction history within the Community Connection & Commitment Commons system
 author: ICS Team

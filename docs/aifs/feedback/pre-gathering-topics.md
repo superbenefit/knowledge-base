@@ -1,3 +1,7 @@
+---
+group: aifs
+---
+
 # All In For Sport DAO Salon Series - Pre-Gathering Topic Interests
 
 This document captures the topics, challenges, and interests shared by participants prior to the DAO Salon Series gatherings.

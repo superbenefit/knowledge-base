@@ -1,4 +1,5 @@
 ---
+group: aifs
 title: AIFS Gathering 3 - 22 Jan 25
 tags:
   - aifs

@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Exchange Table of Contents
 description: Comprehensive navigation for the Community Exchange documentation
 author: ICS Team

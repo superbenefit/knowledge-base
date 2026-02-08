@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Community Exchange: Visual Concept
 
 *Note: This document serves as a placeholder for visual diagrams that will be developed. The text below describes what these visuals will illustrate.*

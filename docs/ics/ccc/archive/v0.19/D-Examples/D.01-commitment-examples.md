@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Exchange Commitment Examples
 description: Comprehensive catalog of possible commitments members can offer, organized by category with suggested credit values
 author: ICS Team

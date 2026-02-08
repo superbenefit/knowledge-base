@@ -1,3 +1,7 @@
+---
+group: general-circle
+---
+
 #[superbenefit governance](archive/clarity/Tags/superbenefit%20governance.md) 
 June 20, 2022
 This is a draft for discussion by General Circle, based on:

@@ -1,7 +1,8 @@
 ---
+group: dao-primitives
 tags:
   - meetings
-date: 17-10-2023
+date: 2023-10-17
 source: "[2022-04-19 - Weekly Meeting Notes - DAO Primitives](notes/dao-primitives/primitives-archive/primitives-docs/2022-04-19%20-%20Weekly%20Meeting%20Notes%20-%20DAO%20Primitives.md)"
 ---
 

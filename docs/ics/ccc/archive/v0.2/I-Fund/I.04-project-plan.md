@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Impact Yield Fund Project Plan
 description: Implementation roadmap for the Impact Yield Fund project, including phases, workstreams, and next steps
 author: ICS Team

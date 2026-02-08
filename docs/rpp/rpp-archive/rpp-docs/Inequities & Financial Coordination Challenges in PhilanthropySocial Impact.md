@@ -1,3 +1,7 @@
+---
+group: rpp
+---
+
 (note from Heenal) Google Docs will be better for drafting the article because of its track changes/version control features:
 
 [https://docs.google.com/document/d/135hVvXIFUDCZramTzNpEu_6sCsOiop6jnOnmZDZjj3I/edit](https://docs.google.com/document/d/135hVvXIFUDCZramTzNpEu_6sCsOiop6jnOnmZDZjj3I/edit)

@@ -1,4 +1,5 @@
 ---
+group: rpp
 
 SummaryCheck-In Protocol and Emotional States:
     Discussion on the importance of the check-in protocol to express emotional states, which helps in creating psychological safety and managing emotions effectively within the group.
@@ -30,7 +31,7 @@ Rather suggested finalizing role descriptions before moving forward with other d
 There were discussions about using AI tools like chat GPT for processing meeting transcripts efficiently. Rather mentioned using a paid version of chat GPT which allowed extracting details from reference documents like chat transcripts attached during meetings.The conversation touched upon improving reporting processes by creating concise reports based on meeting notes through AI tools like chat GPT or other language processing tools available in order to track metrics effectively week-to-week.It was agreed upon that taking a transcript of conversations and creating summaries based on meeting notes would be an effective method moving forward. This approach aimed at providing clarity while tracking metrics effectively week-to-week.
 
 tags: meetings
-date: 13-08-2024
+date: 2024-08-13
 ---
 
 # Meeting Agenda

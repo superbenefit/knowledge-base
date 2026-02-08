@@ -1,3 +1,7 @@
+---
+group: rpp
+---
+
 > The document below is a draft "one pager" concept note. 
 >
 > See  for a more detailed project brief

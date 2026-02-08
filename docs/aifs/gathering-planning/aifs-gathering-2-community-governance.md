@@ -1,3 +1,7 @@
+---
+group: aifs
+---
+
 # AIFS Gathering #2: Community Governance
 
 ## Topic

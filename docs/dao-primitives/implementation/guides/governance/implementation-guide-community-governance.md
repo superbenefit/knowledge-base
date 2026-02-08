@@ -1,4 +1,5 @@
 ---
+group: dao-primitives
 title: Implementation Guide for Community Governance
 description: A framework for designing, implementing, and evolving community governance structures using the DAO primitives approach
 author:

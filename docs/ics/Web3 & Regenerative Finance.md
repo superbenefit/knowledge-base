@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Web3 & Regenerative Finance at ICS
 
 The Institute for Community Sustainability is exploring how web3 technologies and regenerative finance can enhance our community sustainability initiatives and secure their long-term resilience.

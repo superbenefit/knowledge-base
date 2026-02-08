@@ -1,7 +1,8 @@
 ---
+group: general-circle
 tags:
   - meetings
-date: 14-03-2022
+date: 2022-03-14
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 # Week of March 14, 2022

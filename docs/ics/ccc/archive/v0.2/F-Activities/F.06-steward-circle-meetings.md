@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Steward Circle Meetings Activity Guide
 description: Guide for conducting effective steward circle meetings to maintain system health and make governance decisions
 author: ICS Team

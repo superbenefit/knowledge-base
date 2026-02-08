@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Connection & Commitment Commons PDF Cover
 description: Cover page for the Community Connection & Commitment Commons documentation with overview and context
 author: ICS Team

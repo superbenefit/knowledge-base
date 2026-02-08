@@ -1,4 +1,5 @@
 ---
+group: rpp
 title: Token-Based Governance
 description: A governance framework where influence over decisions is allocated based on the quantity of a specific token a participant holds.
 url: 

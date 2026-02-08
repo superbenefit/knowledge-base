@@ -1,7 +1,8 @@
 ---
+group: aifs
 tags:
   - meetings
-date: 17-02-2025
+date: 2025-02-17
 ---
 
 We would like to continue our AIFS gatherings as a way to continue to engage our AIFS community

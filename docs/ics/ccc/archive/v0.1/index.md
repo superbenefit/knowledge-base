@@ -1,4 +1,5 @@
 ---
+group: ics
 title: title
 description: description
 author: 

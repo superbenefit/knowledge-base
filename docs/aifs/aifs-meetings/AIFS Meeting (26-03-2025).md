@@ -1,4 +1,5 @@
 ---
+group: aifs
 
 # Meeting Agenda
 
@@ -12,7 +13,7 @@
 
 - Chiliz opportunity
 
-date: 26-03-2025
+date: 2025-03-26
 ---
 
 # Action Items

@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Community Exchange: Conflict Resolution Process
 
 This document outlines how we'll address tensions, disagreements, and conflicts within the Community Exchange. A healthy community doesn't avoid conflict—it develops thoughtful practices for understanding differences, finding common ground, and strengthening relationships through challenge.

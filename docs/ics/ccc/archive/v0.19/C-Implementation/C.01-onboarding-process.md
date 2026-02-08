@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Exchange Onboarding Process
 description: Step-by-step guide for bringing new members into the Community Exchange through invitation-only seasonal cohorts
 author: ICS Team

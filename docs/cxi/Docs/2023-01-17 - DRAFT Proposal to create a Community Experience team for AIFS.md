@@ -1,3 +1,7 @@
+---
+group: cxi
+---
+
 
 references:
 - governance team: [https://app.clarity.so/allinforsport/work/GEN-14](https://app.clarity.so/allinforsport/work/GEN-14) 

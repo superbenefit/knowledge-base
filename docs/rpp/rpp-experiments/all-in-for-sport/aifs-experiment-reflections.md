@@ -1,3 +1,7 @@
+---
+group: rpp
+---
+
 # All In For Sport Experiment Reflections
 
 This reflection captures learning from the All In For Sport experiment within the Reimagining Power project, covering the gathering series and governance transformation activities that took place from late 2023 through mid-2024.

@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Quarterly Celebration & Review Activity Guide
 description: Guide for facilitating quarterly celebrations that recognize community achievements and review system health
 author: ICS Team

@@ -1,7 +1,8 @@
 ---
+group: dao-primitives
 tags:
   - meetings
-date: 12-12-2023
+date: 2023-12-12
 ---
 
 During the SuperBenefit DAO Primitives cell's weekly meeting on December 12, 2023, several updates and discussion items were covered. Approximately 1000 Energy was distributed to the WREEP core team, and AIFSIP-02 appeared to have met quorum, potentially needing one more vote. Rowan created a draft of primitives and a WREEP outline image, and SB onboarding notes were reviewed. Key discussion points included short-term action items for AIFSIP-02, exploring quests and incentive designs for WREEP, and establishing communication channels for stakeholders and the community. The team also discussed using Wonderverse for quests, including various engagement activities and feedback mechanisms for the Litepaper. Additionally, the meeting covered the use of Discord for stakeholder signaling and the integration of snapshot for community governance. Rowan was tasked with reviewing the WREEP project outline image, collecting information for engagement pathways, and discussing DAO primitives.

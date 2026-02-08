@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Educational Dimensions
 
 The Exchange could become a learning laboratory:

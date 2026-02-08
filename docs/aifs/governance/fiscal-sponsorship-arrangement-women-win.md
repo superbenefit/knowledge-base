@@ -1,3 +1,7 @@
+---
+group: aifs
+---
+
 # Fiscal Sponsorship Arrangement
 ## Unlocking Capital & Tech for Grassroots Sport Project
 

@@ -1,7 +1,8 @@
 ---
+group: general-circle
 tags:
   - meetings
-date: 12-09-2022
+date: 2022-09-12
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 # Week of September 12, 2022

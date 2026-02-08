@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Impact Yield Fund + Community Exchange
 ## Preserving Capital, Generating Continuous Impact
 

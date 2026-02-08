@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # ICS Website Analysis & Recommendations
 
 After reviewing the Institute for Community Sustainability website (communitysustainability.ca), here are observations and recommendations for improvement.

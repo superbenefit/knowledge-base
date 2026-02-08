@@ -1,3 +1,7 @@
+---
+group: rpp
+---
+
 # Implementation Patterns
 
 ## Core Pattern Cards for Nonprofit Transformation

@@ -1,6 +1,7 @@
 ---
+group: aifs
 tags:
   - meetings
-date: 30-09-2024
+date: 2024-09-30
 ---
 

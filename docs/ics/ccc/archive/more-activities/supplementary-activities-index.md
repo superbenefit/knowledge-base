@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Supplementary Community Exchange Activities
 
 This directory contains activities that enhance the Community Exchange system but are not essential to the core commitment pooling functionality. These activities can be introduced as the community matures and interest develops in specific types of engagement.

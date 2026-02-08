@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Why Community Exchange?
 description: The challenges and opportunities driving the need for Community Exchange, with a personal perspective from Heenal
 author: ICS Team

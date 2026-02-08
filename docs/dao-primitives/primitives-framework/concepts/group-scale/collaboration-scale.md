@@ -1,4 +1,5 @@
 ---
+group: dao-primitives
 title: Collaboration Scale
 description: Characteristics and considerations for groups operating at the Collaboration Scale.
 tags:

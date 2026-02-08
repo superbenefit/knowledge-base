@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Impact Yield Fund Impact Thesis Options
 type: note
 permalink: /users/heenal/documents/git-hub/knowledge-base/notes/ics/ccc/v0-2/i-fund/impact-yield-fund-impact-thesis-options

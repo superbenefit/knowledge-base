@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Twitter Threads for Transformative Impact Focus
 
 These threads emphasize the broader, systemic change potential of your work rather than just the immediate programs. They draw from your conversations with family and focus on Ethereum Localism and long-term transformation.

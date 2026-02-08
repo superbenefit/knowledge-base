@@ -1,4 +1,5 @@
 ---
+group: rpp
 - |-
   For the EF experiment we are keen to get the ball rolling on setting EF up with an on/off-ramp for Canadian based funds.
   In your experience is Newton still the best option?

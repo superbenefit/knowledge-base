@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Additional Strategic Tweets for GG23 Campaign
 
 ## RPP Update Tweets

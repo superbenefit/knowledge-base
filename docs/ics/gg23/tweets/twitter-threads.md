@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Twitter Thread Templates for GG23 Campaign
 
 ## Thread 1: Project Overview Thread OK

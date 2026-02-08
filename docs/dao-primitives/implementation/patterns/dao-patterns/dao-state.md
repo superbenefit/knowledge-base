@@ -1,4 +1,5 @@
 ---
+group: dao-primitives
 title: DAO State
 description: A patter for developing canonical state documentation for a DAO
 tags:

@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Exchange Visual Concepts
 description: Placeholder for visual diagrams and infographics to illustrate the Community Exchange system
 author: ICS Team

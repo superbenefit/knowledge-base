@@ -1,4 +1,5 @@
 ---
+group: dao-primitives
 title: Coordination Patterns
 description: Patterns related to coordination between teams and entities in decentralized networks
 author: yeoro.eth

@@ -1,4 +1,5 @@
 ---
+group: rpp
 
 # Meeting Agenda
 
@@ -79,7 +80,7 @@ Weekly meeting agenda & notes for the RPP OS Stewards
     -  
 
 tags: meetings
-date: 17-09-2024
+date: 2024-09-17
 ---
 
 # Decision Log

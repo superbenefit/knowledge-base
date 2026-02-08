@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Team Mobilization for GG23 Campaign
 
 This document provides templates and guidance for mobilizing your team members to amplify the campaign's reach.

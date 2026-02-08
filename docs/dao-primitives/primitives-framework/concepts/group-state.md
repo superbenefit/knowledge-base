@@ -1,4 +1,5 @@
 ---
+group: dao-primitives
 title: Group State
 description: A DAO primitives primitive for storing crucial information about a DAO, Cell, Role of Task.
 publish: true

@@ -1,4 +1,5 @@
 ---
+group: dao-primitives
 title: DAO Primitives Pattern Library
 description: A collection of implementation patterns for the DAO Primitives framework
 author: yeoro.eth

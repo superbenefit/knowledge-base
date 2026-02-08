@@ -1,7 +1,8 @@
 ---
+group: rpp
 tags:
   - meetings
-date: 23-11-2023
+date: 2023-11-23
 source: "[2023-08-08 - [TO MOVE](2023-08-08%20-%20[TO%20MOVE)"
 ---
 

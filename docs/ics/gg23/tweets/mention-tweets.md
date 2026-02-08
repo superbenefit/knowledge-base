@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Tweets Mentioning Other GG23 Projects
 
 Here are tweets that mention and support other projects in GG23, particularly those in the Regen Coordination round. These help build community and reciprocal support.

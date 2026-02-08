@@ -1,3 +1,7 @@
+---
+group: cxi
+---
+
 
 # May 2 CXI Meeting
 

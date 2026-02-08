@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Exchange Activities README
 description: Directory overview of activities for the Community Exchange system including regular gatherings and special events
 author: ICS Team

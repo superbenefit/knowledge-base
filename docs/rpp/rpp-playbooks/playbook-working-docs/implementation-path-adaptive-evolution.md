@@ -1,3 +1,7 @@
+---
+group: rpp
+---
+
 # Implementation Path: Adaptive Evolution
 
 ## Definition and Core Principles

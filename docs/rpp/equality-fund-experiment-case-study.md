@@ -1,4 +1,5 @@
 ---
+group: rpp
 title: Reimagining Power @ Equality Fund
 publish: true
 description: A case study exploring Web3 technologies for feminist grant-making through the Reimagining Power Project

@@ -1,3 +1,7 @@
+---
+group: rpp
+---
+
 Meeting Agenda and Initial Discussion
 
 Filsan outlined the agenda for the meeting, which included a brief conversation, updates from various projects, and open space for discussions.

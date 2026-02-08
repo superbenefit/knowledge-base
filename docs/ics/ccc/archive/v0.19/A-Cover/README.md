@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Community Exchange: Cover Documents
 
 This directory contains the cover materials and table of contents for the Community Exchange documentation.

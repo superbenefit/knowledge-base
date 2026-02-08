@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Neighbor-to-Neighbor Days
 
 ## Purpose

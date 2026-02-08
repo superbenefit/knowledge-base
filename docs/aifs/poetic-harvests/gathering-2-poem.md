@@ -1,4 +1,5 @@
 ---
+group: aifs
 title: AIFS Gathering 2 Poem
 tags:
   - aifs

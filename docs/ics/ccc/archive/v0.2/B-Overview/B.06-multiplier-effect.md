@@ -1,4 +1,5 @@
 ---
+group: ics
 title: The Multiplier Effect in Community Exchange Systems
 description: Explanation of how cash and commitments work together to create economic value beyond transaction fee savings
 author: ICS Team

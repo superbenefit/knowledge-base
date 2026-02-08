@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Future Voucher Flow Examples
 
 This document contains examples of potential future implementations of the Community Connection & Commitment Commons voucher flow system. These examples represent possibilities for expanding the system once the initial phase is well-established.

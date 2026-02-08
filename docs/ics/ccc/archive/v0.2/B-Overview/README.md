@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Exchange Overview Materials README
 description: Directory overview of foundational documents explaining the Community Exchange concept, vision, and guiding principles
 author: ICS Team

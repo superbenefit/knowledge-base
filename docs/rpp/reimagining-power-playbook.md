@@ -1,4 +1,5 @@
 ---
+group: rpp
 title: The Reimagining Power Playbook
 description: Insights from practical experimentation with decentralized coordination in a non-profit and social impact context
 author:

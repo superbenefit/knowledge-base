@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Artist Collective Collaboration
 
 ## Overview

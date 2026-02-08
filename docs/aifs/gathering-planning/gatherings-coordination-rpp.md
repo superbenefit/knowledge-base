@@ -1,3 +1,7 @@
+---
+group: aifs
+---
+
 # Gatherings Coordination - RPP
 
 _Coordination of Gatherings within the Reimagining Power project at SuperBenefit._

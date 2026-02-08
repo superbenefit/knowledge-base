@@ -1,4 +1,5 @@
 ---
+group: ics
 title: GG23 Shill Plan
 description: Promotion strategy for ICS in Gitcoin Grants Round 23
 author: 

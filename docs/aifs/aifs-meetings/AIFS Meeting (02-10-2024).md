@@ -1,7 +1,8 @@
 ---
+group: aifs
 tags:
   - meetings
-date: 02-10-2024
+date: 2024-10-02
 ---
 
 _Weekly check-in & co-working session of the Reimagining Power Core Team at SuperBenefit._

@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Community Exchange Future Development: Index
 
 This directory contains documents focused on the future growth, evolution, and expansion of the Community Exchange system.

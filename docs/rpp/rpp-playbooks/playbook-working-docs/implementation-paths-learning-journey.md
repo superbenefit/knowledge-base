@@ -1,3 +1,7 @@
+---
+group: rpp
+---
+
 # Implementation Paths: Deep Context for Playbook Development
 
 ## Path 1: Collaborative Learning Journey

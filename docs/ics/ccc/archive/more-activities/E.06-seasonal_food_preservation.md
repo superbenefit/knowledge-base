@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Seasonal Food Preservation
 
 ## Purpose

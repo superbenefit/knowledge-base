@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Exchange Member Stories
 description: Realistic testimonial scenarios illustrating diverse community member experiences and benefits from the Community Exchange system
 author: ICS Team

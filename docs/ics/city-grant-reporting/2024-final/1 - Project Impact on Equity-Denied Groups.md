@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # How has the project impacted the identified equity denied groups?
 
 Throughout 2024, our Waste Reduction Initiatives have made meaningful impacts on equity-denied groups through our accessible programming and community approach.

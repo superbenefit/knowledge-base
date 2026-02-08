@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # $MAPLE: The Canadian Regenerative Value Token
 
 ## Overview

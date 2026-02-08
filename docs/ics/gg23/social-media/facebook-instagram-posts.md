@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Social Media Posts for Facebook and Instagram
 
 These templates are designed for Facebook and Instagram, which allow for longer text and different audience engagement compared to Twitter/X.

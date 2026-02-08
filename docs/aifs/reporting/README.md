@@ -1,4 +1,5 @@
 ---
+group: aifs
 title: AIFS Reporting
 tags:
   - aifs

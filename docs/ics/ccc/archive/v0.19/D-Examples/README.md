@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Community Exchange: Examples and Scenarios
 
 This directory contains concrete examples and scenarios demonstrating how the Community Exchange works in practice.

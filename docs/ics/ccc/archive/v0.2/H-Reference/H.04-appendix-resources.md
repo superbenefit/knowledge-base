@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Community Exchange: Appendix and Resources
 
 This appendix provides additional resources, references, templates, and supplementary information to support the Community Exchange. These materials can deepen understanding, provide practical tools, and connect our work to the broader movement of community-based economic systems.

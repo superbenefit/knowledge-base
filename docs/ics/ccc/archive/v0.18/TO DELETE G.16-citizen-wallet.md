@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Citizen Wallet Integration
 
 ## Status: Placeholder Document

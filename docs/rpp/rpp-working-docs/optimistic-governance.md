@@ -1,4 +1,5 @@
 ---
+group: rpp
 title: Optimistic Governance
 description: A governance framework where proposals are approved by default unless a specific objection is raised within a set timeframe, prioritizing speed and autonomy.
 url:

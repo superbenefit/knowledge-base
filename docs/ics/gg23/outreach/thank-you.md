@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Thank You Messages for GG23 Contributors
 
 This document provides templates for thanking donors and supporters after the campaign closes.

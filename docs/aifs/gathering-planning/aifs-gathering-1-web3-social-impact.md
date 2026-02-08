@@ -1,3 +1,7 @@
+---
+group: aifs
+---
+
 # AIFS Gathering #1: Web3 & Social Impact
 
 ## Topic

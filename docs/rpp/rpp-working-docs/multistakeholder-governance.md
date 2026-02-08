@@ -1,4 +1,5 @@
 ---
+group: rpp
 title: Multi-Stakeholder Govenrance [OUTLINE]
 description: A pattern for coordinating diverse stakeholder groups in decentralized governance using web3 tools
 author: rathermercurial.eth

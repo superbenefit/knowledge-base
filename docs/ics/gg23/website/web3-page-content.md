@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # ICS Web3 Integration Page Content
 
 ## Web3 & Regenerative Finance at ICS

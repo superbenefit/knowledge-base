@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Exchange Principles and Values
 description: Core principles and values that guide the Community Exchange system, including foundational principles, operational values, and community agreements
 author: ICS Team

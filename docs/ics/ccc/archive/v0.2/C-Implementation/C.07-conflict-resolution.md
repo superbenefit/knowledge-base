@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Connection & Commitment Commons Conflict Resolution Process
 description: Framework for addressing tensions, disagreements, and conflicts within the Community Connection & Commitment Commons using a three-tier approach
 author: ICS Team

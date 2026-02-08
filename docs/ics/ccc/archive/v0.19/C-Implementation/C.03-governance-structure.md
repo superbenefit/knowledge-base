@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Exchange Governance Structure
 description: Framework for stewardship roles, decision-making processes, and community governance within the Community Exchange system
 author: ICS Team

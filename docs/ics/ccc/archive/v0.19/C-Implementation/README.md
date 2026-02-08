@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Community Exchange: Implementation Guide
 
 This directory contains practical guides for implementing the Community Exchange system.

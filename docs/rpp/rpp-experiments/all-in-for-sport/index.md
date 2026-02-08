@@ -1,4 +1,5 @@
 ---
+group: rpp
 title: Reimagining Power at All In For Sport
 description: Notes and other documents related to experiments with All In For Sport in the Reimagining Power project at SuperBenefit
 author:

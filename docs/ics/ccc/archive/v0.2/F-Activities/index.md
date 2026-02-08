@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Community Exchange Activities: Index
 
 This directory contains detailed information about the essential activities and events that directly support the Community Exchange commitment pooling system, helping to build relationships, facilitate exchanges, celebrate successes, and strengthen the system over time.

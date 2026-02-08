@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Connection & Commitment Commons Governance Structure
 description: Framework for stewardship roles, decision-making processes, and community governance within the Community Connection & Commitment Commons system
 author: ICS Team

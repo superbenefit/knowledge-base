@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Exchange Overview Index
 description: Index of foundational documents explaining the Community Exchange concept, vision, and guiding principles
 author: ICS Team

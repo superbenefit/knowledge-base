@@ -1,4 +1,5 @@
 ---
+group: dao-primitives
 title: Building DAOs as scalable networks
 url: https://superbenefit.mirror.xyz/Gx_rXSPOyt2sydHwlStfbrgVqYt6P3k5huT3xyZAolo
 author:

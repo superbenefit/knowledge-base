@@ -1,4 +1,5 @@
 ---
+group: rpp
 
 # Meeting Agenda
 
@@ -62,7 +63,7 @@ Weekly meeting agenda & notes for the RPP Operation & Strategy Stewards team.
   - 
 
 tags: meetings
-date: 19-11-2024
+date: 2024-11-19
 ---
 
 # Decision Log

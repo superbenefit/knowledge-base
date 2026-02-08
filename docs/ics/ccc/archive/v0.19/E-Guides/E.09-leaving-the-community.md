@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Leaving the Community Exchange
 description: Guide for members who need to leave the Community Exchange system
 author: ICS Team

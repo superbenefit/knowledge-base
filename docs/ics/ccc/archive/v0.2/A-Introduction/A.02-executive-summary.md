@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Connection & Commitment Commons - Executive Summary
 description: Executive summary of the Community Connection & Commitment Commons (C4) system and implementation plan
 author: ICS Team

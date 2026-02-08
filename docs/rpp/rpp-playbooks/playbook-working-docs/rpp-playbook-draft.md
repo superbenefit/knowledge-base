@@ -1,4 +1,5 @@
 ---
+group: rpp
 title: DAO Cell and Community Governance Playbook
 description: A practical guide for nonprofits implementing decentralized governance through autonomous cells and community participation
 author: 

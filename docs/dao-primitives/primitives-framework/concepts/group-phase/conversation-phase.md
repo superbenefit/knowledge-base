@@ -1,4 +1,5 @@
 ---
+group: dao-primitives
 title: Conversation Phase
 description: The initial phase of group development characterized by open exploration, relationship building, and vision formation that establishes the foundation for emergent collective action.
 author: 

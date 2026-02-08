@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Community Groups for GG23 Outreach
 
 This document lists the key community groups for campaign outreach, prioritized by relevance and potential impact.

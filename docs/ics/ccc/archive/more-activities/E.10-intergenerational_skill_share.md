@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Intergenerational Skill Share
 
 ## Purpose

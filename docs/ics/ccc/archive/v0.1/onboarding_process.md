@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Community Exchange: Onboarding Process
 
 This document outlines how new members join the Community Exchange, from invitation through full participation.

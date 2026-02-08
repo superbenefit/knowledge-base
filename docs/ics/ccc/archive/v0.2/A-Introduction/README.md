@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Exchange Cover Documents README
 description: Directory overview of cover materials and table of contents for the Community Exchange documentation
 author: ICS Team

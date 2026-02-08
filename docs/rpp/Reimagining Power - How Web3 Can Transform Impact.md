@@ -1,4 +1,5 @@
 ---
+group: rpp
 title: Reimagining Power - How Web3 Can Transform Impact
 description: Exploring how emerging web3 technologies can be leveraged to redistribute power, mobilize capital, and transform systems toward more equitable outcomes.
 tags:

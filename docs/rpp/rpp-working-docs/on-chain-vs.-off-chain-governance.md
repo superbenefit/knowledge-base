@@ -1,4 +1,5 @@
 ---
+group: rpp
 title: On-Chain vs. Off-Chain Governance
 description: A conceptual framework for deciding which governance activities should be recorded immutably on a blockchain and which can be managed through other means to balance programmatic execution, cost, and accessibility.
 url: 

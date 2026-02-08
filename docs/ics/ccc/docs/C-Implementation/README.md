@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Exchange Implementation Guide README
 description: Directory overview of practical guides for implementing the Community Exchange system including onboarding, governance, and technical aspects
 author: ICS Team

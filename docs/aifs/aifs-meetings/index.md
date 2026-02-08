@@ -1,4 +1,5 @@
 ---
+group: aifs
 tags:
   - meetings
 ---

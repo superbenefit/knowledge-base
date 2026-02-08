@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # How to Participate in the Connection Commons
 
 The Connection Commons is one of the three foundational programs within our community system. This guide will help you understand how to engage with this program, particularly through its main activity: the Belonging Circle.

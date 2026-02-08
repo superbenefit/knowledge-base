@@ -1,4 +1,5 @@
 ---
+group: ics
 title: ICS Experiment Scoping
 description: Scoping for the Institute for Community Sustainability's experiment within the Reimagining Power project at SuperBenefit
 author: 

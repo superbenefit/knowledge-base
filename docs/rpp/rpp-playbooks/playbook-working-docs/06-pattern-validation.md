@@ -1,3 +1,7 @@
+---
+group: rpp
+---
+
 # Pattern Validation Report
 
 **Document**: 06-pattern-validation.md  

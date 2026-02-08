@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # How has the project supported anti-racism anti-oppression, diversity, equity and inclusion?
 
 Our waste reduction initiatives have built inclusion and accessibility into their core design through several practical approaches that reduce barriers to participation for diverse community members.

@@ -1,3 +1,7 @@
+---
+group: aifs
+---
+
 # AIFS Gathering #3: Impact Measurement
 
 ## Topic

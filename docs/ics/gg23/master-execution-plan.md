@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # GG23 Campaign Master Execution Plan
 
 This document provides a comprehensive guide to executing your Gitcoin Grants Round 23 campaign for the Institute for Community Sustainability in the final days of the round.

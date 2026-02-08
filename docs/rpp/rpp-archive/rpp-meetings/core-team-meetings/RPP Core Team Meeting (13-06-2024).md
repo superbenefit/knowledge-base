@@ -1,4 +1,5 @@
 ---
+group: rpp
 
 # Check-In
 
@@ -43,7 +44,7 @@
  
 
 tags: meetings
-date: 13-06-2024
+date: 2024-06-13
 ---
 
 ## Progress Review

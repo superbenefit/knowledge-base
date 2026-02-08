@@ -1,4 +1,5 @@
 ---
+group: dao-primitives
 title: Code of Conduct Implementation Guide
 description:
 ---

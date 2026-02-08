@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Connection & Commitment Commons Onboarding Process
 description: Step-by-step guide for bringing new members into the Community Connection & Commitment Commons through invitation-only seasonal cohorts
 author: ICS Team

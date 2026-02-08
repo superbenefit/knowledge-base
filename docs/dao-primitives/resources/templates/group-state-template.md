@@ -1,4 +1,5 @@
 ---
+group: dao-primitives
 title: Group State Template
 description: description
 author: 

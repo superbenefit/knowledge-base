@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Connection & Commitment Commons
 description: Main overview file for the Community Connection & Commitment Commons (C4), providing navigation to all versions and key resources
 author: ICS Team

@@ -1,7 +1,8 @@
 ---
+group: general-circle
 tags:
   - meetings
-date: 04-07-2022
+date: 2022-07-04
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 # Week of July 4, 2022

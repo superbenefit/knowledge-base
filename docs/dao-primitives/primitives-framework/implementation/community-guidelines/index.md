@@ -1,4 +1,5 @@
 ---
+group: dao-primitives
 title: A Community Guidelines Framework
 description: A simple framework for creating community guidelines
 ---

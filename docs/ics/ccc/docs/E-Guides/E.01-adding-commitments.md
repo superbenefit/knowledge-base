@@ -1,4 +1,5 @@
 ---
+group: ics
 title: How to Add a Commitment to the Pool
 description: Step-by-step guide for creating and adding commitments to the Community Exchange pool
 author: ICS Team

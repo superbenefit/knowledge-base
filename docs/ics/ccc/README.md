@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Exchange Project README
 description: Main documentation and navigation guide for the Community Exchange project
 author: ICS Team

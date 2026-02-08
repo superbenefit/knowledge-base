@@ -1,3 +1,7 @@
+---
+group: general-circle
+---
+
 **Weekly meeting notes & agenda for the SuperBenefit General Circle.**
 
 ---

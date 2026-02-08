@@ -1,4 +1,5 @@
 ---
+group: rpp
 
 # Meeting Agenda
 
@@ -116,7 +117,7 @@ Check with Heenal on Future of Life grant response, a few projects have been dec
 
 [](https://s3.amazonaws.com/charm.public/user-content/4a8cde11-bb66-460c-8631-d3f9d688f723/d489a2d8-301a-4c5d-9a07-f85371c05ae1/17885a97-fc24-48da-80e1-7d8e48d79af4.png)
 tags: meetings
-date: 03-04-2025
+date: 2025-04-03
 ---
 
 # Decision Log

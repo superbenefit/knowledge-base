@@ -1,3 +1,7 @@
+---
+group: dao-primitives
+---
+
 ## Guide 3: Arbitrating Conflict
 
 **For community members making binding decisions when mediation fails**

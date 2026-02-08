@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # PDF Compilation Guide
 
 This document provides instructions for compiling all the Community Exchange markdown files into a cohesive PDF presentation.

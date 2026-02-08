@@ -1,7 +1,8 @@
 ---
+group: dao-primitives
 tags:
   - meetings
-date: 28-11-2023
+date: 2023-11-28
 ---
 
 ## Summary

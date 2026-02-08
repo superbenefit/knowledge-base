@@ -1,3 +1,7 @@
+---
+group: rpp
+---
+
 #[reimagining power](archive/clarity/Tags/reimagining%20power.md) 
 >THIS DOC IS NOW IN CHARMVERSE
 

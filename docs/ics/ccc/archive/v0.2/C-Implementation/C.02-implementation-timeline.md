@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Connection & Commitment Commons Implementation Timeline
 description: Phased development plan for Community Connection & Commitment Commons starting Q2 2025, including milestones and key performance indicators
 author: ICS Team

@@ -1,7 +1,8 @@
 ---
+group: aifs
 tags:
   - meetings
-date: 30-10-2024
+date: 2024-10-30
 ---
 
 _Weekly check-in & co-working session of the Community Experience Workstream at SuperBenefit._

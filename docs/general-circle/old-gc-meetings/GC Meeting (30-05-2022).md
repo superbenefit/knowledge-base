@@ -1,7 +1,8 @@
 ---
+group: general-circle
 tags:
   - meetings
-date: 30-05-2022
+date: 2022-05-30
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 # Week of May 30, 2022

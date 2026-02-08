@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Skill Share Webinars
 
 ## Purpose

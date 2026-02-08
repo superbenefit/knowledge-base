@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Exchange Credit Flow Examples
 description: Concrete scenarios illustrating how credits flow through the Community Exchange system in various exchange patterns
 author: ICS Team

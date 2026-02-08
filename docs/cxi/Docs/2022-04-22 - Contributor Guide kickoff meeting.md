@@ -1,3 +1,7 @@
+---
+group: cxi
+---
+
 #[superbenefit contributor guide - working draft](notes/archive/clarity/Tags/superbenefit contributor guide - working draft.md) #[community experience squad](notes/archive/clarity/Tags/community experience squad.md) #209 Proposal for Contributor Guide 
 
 ----------------------------------------------------------------------------------------------------------------

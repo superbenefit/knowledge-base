@@ -1,3 +1,7 @@
+---
+group: rpp
+---
+
 #[reimagining power](archive/clarity/Tags/reimagining%20power.md) #[287 Re-Storying Power Project](287%20Re-Storying%20Power%20Project) 
 >Doc pending transfer to Charmverse
 # November 22, 2023

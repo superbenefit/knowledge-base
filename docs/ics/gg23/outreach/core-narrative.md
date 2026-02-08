@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Core Narrative for GG23 Campaign
 
 This document provides a focused story and talking points about why this campaign matters. Use this to craft personal messages, social media posts, and community updates.

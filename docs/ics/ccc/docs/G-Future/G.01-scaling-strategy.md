@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Exchange Scaling Strategy
 description: Comprehensive strategy for growing the Community Exchange beyond the initial pilot group while maintaining trust, quality, and alignment with core values
 author: ICS Team

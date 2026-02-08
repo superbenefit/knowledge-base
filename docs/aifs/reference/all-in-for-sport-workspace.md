@@ -1,3 +1,7 @@
+---
+group: aifs
+---
+
 # All In For Sport Workspace
 
 _Collaborative workspace for All In For Sport's operations group._

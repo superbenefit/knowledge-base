@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Community Exchange: Future Possibilities
 
 This document explores potential future directions for the Community Exchange as it evolves and matures. While our initial focus is on building a strong foundation with a credit-based system, these possibilities represent pathways for growth, innovation, and deeper integration with the broader economy.

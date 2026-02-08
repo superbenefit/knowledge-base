@@ -1,3 +1,7 @@
+---
+group: aifs
+---
+
 # All In For Sport Consortium: Group State
 
 **Group Name:**

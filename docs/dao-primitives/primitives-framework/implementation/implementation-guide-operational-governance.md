@@ -1,4 +1,5 @@
 ---
+group: dao-primitives
 title: Implementation Guide for Operational Governance
 description: A framework for designing, implementing, and evolving operational governance structures using the DAO primitives approach
 author:

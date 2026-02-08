@@ -1,7 +1,8 @@
 ---
+group: wp
 tags:
   - meetings
-date: 13-11-2023
+date: 2023-11-13
 ---
 Weekly meeting agenda & notes for the WREEP web3 core team.
 

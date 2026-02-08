@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Community Exchange: Member Stories
 
 While our Community Exchange is just getting started, we can envision how it will impact different community members. These hypothetical testimonials represent the diverse ways people might engage with and benefit from the system.

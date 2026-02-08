@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Table of Contents
 
 ## Section 1: Core Conceptual Framework

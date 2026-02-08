@@ -1,4 +1,5 @@
 ---
+group: rpp
 
 # Meeting Agenda
 
@@ -94,7 +95,7 @@ Outline what is important about the crypto rails piece. This is not possible any
 [VKRF grant](https://static1.squarespace.com/static/6390dd77f81b020e2df52dcc/t/677c63a8d748d67cb77b7649/1736205224661/Call+for+Proposals+-+Spring+2025+-+Nature-Centric+Behavior+%5E0+Decision-Making.pdf)
 
 tags: meetings
-date: 28-01-2025
+date: 2025-01-28
 ---
 
 # Summary

@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Community Exchange: Reference Materials
 
 This directory contains reference materials and frequently asked questions for the Community Exchange system.

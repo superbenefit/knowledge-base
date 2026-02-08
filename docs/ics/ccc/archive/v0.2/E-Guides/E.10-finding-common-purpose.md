@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Finding Your Community's Common Purpose
 description: A guide for communities to discover and articulate their shared purpose within the Community Exchange system
 author: ICS Team

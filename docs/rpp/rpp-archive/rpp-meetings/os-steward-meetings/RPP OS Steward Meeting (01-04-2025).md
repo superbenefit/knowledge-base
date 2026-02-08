@@ -1,4 +1,5 @@
 ---
+group: rpp
 
 # Meeting Agenda
 
@@ -47,7 +48,7 @@ Weekly meeting agenda & notes for the RPP Operation & Strategy Stewards team.
   - How do we manage remaining funds for comp and expenses?
 
 tags: meetings
-date: 04-01-2025
+date: 2025-01-04
 ---
 
 # Decision Log

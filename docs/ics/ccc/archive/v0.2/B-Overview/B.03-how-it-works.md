@@ -1,4 +1,5 @@
 ---
+group: ics
 title: How Community Connection & Commitment Commons Works
 description: Detailed explanation of the three pathways - Belonging Commons, Connection Commons, and Commitment Commons - and how they interact to create a regenerative exchange system
 author: ICS Team

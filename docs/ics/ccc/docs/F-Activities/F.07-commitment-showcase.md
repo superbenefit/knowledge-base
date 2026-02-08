@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Commitment Showcase Activity Guide
 description: Guide for hosting monthly online showcases that highlight available commitments, demonstrate creative offerings, and explore emerging needs
 author: ICS Team

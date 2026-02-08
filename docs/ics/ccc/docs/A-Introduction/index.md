@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Connection & Commitment Commons Introduction Documents
 description: Index of introductory materials for the Community Connection & Commitment Commons (C4) documentation
 author: ICS Team

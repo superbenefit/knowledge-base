@@ -1,3 +1,7 @@
+---
+group: rpp
+---
+
 # Reimagining Power Project: Stakeholder Reflection Responses
 
 This document captures stakeholder feedback collected in July 2025 from participants in the Reimagining Power Project's stakeholder governance experiments.

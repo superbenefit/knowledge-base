@@ -1,4 +1,5 @@
 ---
+group: rpp
 
 # Meeting Agenda
 
@@ -37,7 +38,7 @@ Weekly meeting agenda & notes for the RPP Operation & Strategy Stewards team.
   - Importing Bio-Muni research (just released)
 
 tags: meetings
-date: 17-12-2024
+date: 2024-12-17
 ---
 
 # Summary

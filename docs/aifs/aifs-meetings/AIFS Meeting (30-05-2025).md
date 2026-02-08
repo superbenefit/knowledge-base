@@ -1,4 +1,5 @@
 ---
+group: aifs
 
 # Action Items
 
@@ -8,7 +9,7 @@
 
 - AIFS to submit proposal to Chiliz
 
-date: 30-05-2025
+date: 2025-05-30
 ---
 
 # Outline

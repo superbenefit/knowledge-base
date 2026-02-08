@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Impact Yield Fund Diagrams and Visuals
 description: Visual representations of the Impact Yield Fund concept and its relationships with components of the regenerative finance ecosystem
 author: ICS Team

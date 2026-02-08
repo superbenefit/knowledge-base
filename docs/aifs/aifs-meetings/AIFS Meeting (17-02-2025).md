@@ -1,7 +1,8 @@
 ---
+group: aifs
 tags:
   - meetings
-date: 17-02-2025
+date: 2025-02-17
 ---
 
 Goal is to set up a polished onboarding experience for those coming from the IOC Tech365 Explore Program.

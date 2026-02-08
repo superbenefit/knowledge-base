@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # How to Propose a Community Activity
 
 The Community Exchange thrives on member-initiated activities that build relationships, share skills, and strengthen our local economy. This guide walks you through the process of proposing and implementing a new community activity.

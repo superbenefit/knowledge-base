@@ -1,3 +1,7 @@
+---
+group: rpp
+---
+
 > This document has been superseded by the  
 
 **_This document (revised May 16, 2024) contains notes to review to onboard new stakeholders and contributors to the Reimagining Power Project._**

@@ -1,3 +1,7 @@
+---
+group: rpp
+---
+
 The meeting transcript from the Reimagining Power Project stakeholder group focuses on refining the project's governance, purpose, and high-level goals. The group discusses incorporating community values into the governance structure and how these values manifest across various scales of the project.
 
 The meeting covered several key topics:

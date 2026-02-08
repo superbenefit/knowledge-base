@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Impact Yield Fund
 description: Comprehensive overview of the Impact Yield Fund concept, purpose, and implementation strategy
 author: ICS Team

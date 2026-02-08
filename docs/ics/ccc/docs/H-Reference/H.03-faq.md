@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Community Connection & Commitment Commons: Frequently Asked Questions
 
 ## General Questions

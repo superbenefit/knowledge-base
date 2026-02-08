@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Reimagine Co Meal Vouchers System
 
 ## Overview

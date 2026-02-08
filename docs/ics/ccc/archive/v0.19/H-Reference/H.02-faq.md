@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Community Exchange: Frequently Asked Questions
 
 ## General Questions

@@ -1,4 +1,5 @@
 ---
+group: dao-primitives
 title: Implementation Guide for Multi-Stakeholder Governance
 description: A framework for designing, implementing, and evolving multi-stakeholder governance structures using the DAO primitives approach
 author:

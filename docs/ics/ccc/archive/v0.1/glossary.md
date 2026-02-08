@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Community Exchange: Glossary of Terms
 
 This glossary provides definitions for key terms used throughout the Community Exchange documentation. These definitions align with the framework described in "Grassroots Economics: Reflection and Practice" while adapting to our local context.

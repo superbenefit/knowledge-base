@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Exchange PDF Cover
 description: Cover page for the Community Exchange documentation with overview and context
 author: ICS Team

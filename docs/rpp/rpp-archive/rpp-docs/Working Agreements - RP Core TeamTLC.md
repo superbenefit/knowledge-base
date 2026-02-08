@@ -1,4 +1,5 @@
 ---
+group: rpp
 
 These working agreements are intended to clarify the culture and practices of the Reimagining Power cell. All working agreements currently in effect will be recorded here.
 

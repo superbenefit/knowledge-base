@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Impact Yield Fund: Discussion Paper Outline
 
 This document outlines the structure for a comprehensive discussion paper on the Impact Yield Fund concept. The paper is intended for executives at foundations and potential funding partners who are interested in innovative funding mechanisms with measurable impact.

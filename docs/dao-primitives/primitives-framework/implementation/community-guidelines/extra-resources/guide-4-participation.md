@@ -1,3 +1,7 @@
+---
+group: dao-primitives
+---
+
 ## Guide 4: Participating in Mediation and Arbitration
 
 **For community members whose conflict has moved beyond direct discourse**

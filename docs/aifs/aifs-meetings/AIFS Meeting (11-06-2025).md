@@ -1,10 +1,11 @@
 ---
+group: aifs
 
 # Meeting Agenda
 
 Weekly meeting for the AIFS team.
 
-date: 11-06-2025
+date: 2025-06-11
 ---
 
 # Action Items

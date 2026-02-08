@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Exchange Future Development README
 description: Directory overview of future possibilities and expansion strategies for the Community Exchange system
 author: ICS Team

@@ -1,3 +1,7 @@
+---
+group: aifs
+---
+
 # Community Gatherings
 
 *November 13, 2024 - March 12, 2025*  

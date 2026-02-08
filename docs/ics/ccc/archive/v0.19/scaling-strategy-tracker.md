@@ -1,4 +1,5 @@
 ---
+group: ics
 title: G.02 Scaling Strategy Task Tracker
 description: Task tracking document for updating the scaling strategy documentation with real-world opportunities and implementation pathways
 author: ICS Team

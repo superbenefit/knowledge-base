@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # ICS Newsletter: Help Us Build Bridges Between Community Sustainability and Web3
 
 ![ICS Logo or Repair Café image]

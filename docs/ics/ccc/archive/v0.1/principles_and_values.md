@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Community Exchange: Core Principles and Values
 
 The Community Exchange is built on a foundation of principles and values that guide our decisions, interactions, and evolution. These principles reflect both ancestral wisdom about resource sharing and contemporary understanding of resilient economic systems.

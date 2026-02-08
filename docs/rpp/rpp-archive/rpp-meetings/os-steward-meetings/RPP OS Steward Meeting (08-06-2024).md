@@ -1,4 +1,5 @@
 ---
+group: rpp
 
 # Meeting Agenda
 
@@ -108,7 +109,7 @@ Weekly meeting agenda & notes for the RPP core team.
   -  
 
 tags: meetings
-date: 08-06-2024
+date: 2024-06-08
 ---
 
 ## Summary

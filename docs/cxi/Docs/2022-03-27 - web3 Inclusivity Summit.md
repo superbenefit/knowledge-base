@@ -1,3 +1,7 @@
+---
+group: cxi
+---
+
 #[documents](archive/clarity/Tags/documents.md) 
 # **web3 Inclusivity Summit**
 

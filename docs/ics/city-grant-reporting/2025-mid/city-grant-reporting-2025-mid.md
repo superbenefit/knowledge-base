@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # City of London Grant - Mid-Year Report 2025
 
 **Organization:** The Reimagine Institute for Community Sustainability  

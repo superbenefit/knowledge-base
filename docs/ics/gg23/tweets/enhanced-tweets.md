@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Enhanced GG23 Tweets
 
 Based on the GG23 tweet examples and your request to include PayPal and wtfisqf.com links for non-web3 audiences, here are improved tweet templates for your campaign.

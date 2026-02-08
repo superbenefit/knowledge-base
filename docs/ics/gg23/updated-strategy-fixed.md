@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Updated GG23 Campaign Strategy - Additional Elements
 
 This document supplements the master execution plan with additional strategies and tactics based on your latest requests.

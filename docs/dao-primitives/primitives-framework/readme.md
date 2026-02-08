@@ -1,3 +1,7 @@
+---
+group: dao-primitives
+---
+
 *This directory helps bridge theory and practice by showing how organizational patterns and implementation tools apply in different organizational contexts.*
 
 This directory houses the Primitives Framework - a systematic approach to designing decentralized organizations as purpose-aligned networks of small autonomous teams. The framework guides you through phases and scales of organizational development while providing fundamental building blocks for governance and operational design.

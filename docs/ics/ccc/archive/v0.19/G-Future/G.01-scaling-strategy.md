@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Community Exchange: Scaling Strategy
 This document outlines how we plan to grow the Community Exchange beyond our initial pilot group, using a thoughtful approach that maintains trust, quality, and alignment with our values.
 

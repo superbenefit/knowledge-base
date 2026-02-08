@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Connection & Commitment Commons Key Terms
 description: Essential terms for the Community Connection & Commitment Commons project - streamlined list for quick reference
 author: ICS Team

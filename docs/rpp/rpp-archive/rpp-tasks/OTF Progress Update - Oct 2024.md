@@ -1,4 +1,5 @@
 ---
+group: rpp
 
 > This task contains the copy for the Progress Update briefing note to be sent to OTF in advance of this meeting:  
 >

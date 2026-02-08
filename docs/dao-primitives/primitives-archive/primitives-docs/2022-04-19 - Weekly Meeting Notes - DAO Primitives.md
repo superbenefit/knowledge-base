@@ -1,3 +1,7 @@
+---
+group: dao-primitives
+---
+
 #[dao primitives](archive/clarity/Tags/dao%20primitives.md) 
 >ℹ DAO Primitives Meeting Notes have moved to [Charmverse](https://app.charmverse.io/superbenefit/dao-primitives-weekly-meeting-11-28-23-481378320587434).
 ## 11/15/23

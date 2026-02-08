@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Scaling Community Exchange with $BREAD
 description: Example scenario showing how a local community pool evolves from simple exchanges to integrate with $BREAD reserve currency for broader connectivity
 author: ICS Team

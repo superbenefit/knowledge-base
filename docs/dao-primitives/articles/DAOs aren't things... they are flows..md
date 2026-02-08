@@ -1,4 +1,5 @@
 ---
+group: dao-primitives
 title: DAOs aren't things... they are flows.
 url: https://superbenefit.mirror.xyz/3-ESNDLcf44dZ6VteaqZSpQuTL0oouSxlLJwuAlcQ_s
 author:

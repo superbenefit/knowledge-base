@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # GG23 Campaign - ICS
 
 This directory contains all materials and resources for the Institute for Community Sustainability's Gitcoin Grants Round 23 (GG23) campaign.

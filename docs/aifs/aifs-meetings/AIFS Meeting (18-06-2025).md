@@ -1,4 +1,5 @@
 ---
+group: aifs
 
 # Meeting Agenda
 
@@ -22,7 +23,7 @@ _Weekly meeting agenda & notes for the AIFS community._
 
 - 
 
-date: 18-06-2025
+date: 2025-06-18
 ---
 
 # Decision Log

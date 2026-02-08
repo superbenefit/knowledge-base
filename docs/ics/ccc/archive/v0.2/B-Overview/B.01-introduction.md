@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Connection & Commitment Commons Introduction
 description: Introduction to the Community Connection & Commitment Commons system combining Connection Commons and Commitment Commons to create a local economic network
 author: ICS Team

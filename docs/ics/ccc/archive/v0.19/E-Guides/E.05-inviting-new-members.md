@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # How to Invite a New Member
 
 Bringing new members into our Community Exchange strengthens our network and expands the pool of skills and resources available to everyone. This guide explains the process for inviting others to join our community after your first three months of active participation.

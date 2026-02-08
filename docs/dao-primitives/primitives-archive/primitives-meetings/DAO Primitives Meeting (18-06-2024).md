@@ -1,7 +1,8 @@
 ---
+group: dao-primitives
 tags:
   - meetings
-date: 18-06-2024
+date: 2024-06-18
 ---
 **Weekly meeting notes & agenda for the SuperBenefit DAO Primitives cell.**
 

@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Connection & Commitment Commons Member Stories
 description: Realistic testimonial scenarios illustrating diverse community member experiences and benefits from the Community Connection & Commitment Commons system
 author: ICS Team

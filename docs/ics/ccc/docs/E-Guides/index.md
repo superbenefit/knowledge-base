@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Exchange How-To Guides Index
 description: Directory of practical guides for participants in the Community Exchange system
 author: ICS Team

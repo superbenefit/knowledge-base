@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Web3 & Regenerative Finance Page for ICS Website
 
 ## Page Title: Web3 for Community Sustainability

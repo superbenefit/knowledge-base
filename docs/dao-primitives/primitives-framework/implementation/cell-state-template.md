@@ -1,4 +1,5 @@
 ---
+group: dao-primitives
 title: Cell State Template
 description: A simple template for implementing a cell state
 tags:

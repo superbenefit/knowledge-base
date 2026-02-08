@@ -1,7 +1,8 @@
 ---
+group: aifs
 tags:
   - meetings
-date: 15-08-2024
+date: 2024-08-15
 ---
 
 _Meeting of the community experience cell at SuperBenefit and All In For Sport_

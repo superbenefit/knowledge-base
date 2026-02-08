@@ -1,4 +1,5 @@
 ---
+group: rpp
 title: Municipal MycoFi [OUTLINE]
 description: Mycelial design for regenerative finance systems
 harvester: 

@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Exchange User Guides README
 description: Directory overview of step-by-step guides for using the Community Exchange system
 author: ICS Team

@@ -1,3 +1,7 @@
+---
+group: rpp
+---
+
 # RPP Playbook Creation Execution Strategy
 
 This execution strategy transforms the context-driven playbook workflow into actionable phases for creating the "DAO Cell and Community Governance" playbook. Each phase is designed for execution in a new Claude chat session, with explicit instructions for comprehensive resource review, critical analysis, and high-quality output generation.

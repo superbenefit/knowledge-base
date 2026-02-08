@@ -1,4 +1,5 @@
 ---
+group: dao-primitives
 title: Circle
 description: Circle, a working group structure used in sociocracy.
 url: 

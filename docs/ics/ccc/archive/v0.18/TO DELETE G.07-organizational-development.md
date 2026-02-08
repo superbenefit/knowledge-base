@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Organizational Development
 
 As the system grows, governance and organizational structures may evolve:

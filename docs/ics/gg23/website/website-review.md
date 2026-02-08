@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Website Review and Recommendations
 
 After reviewing the ICS website (communitysustainability.ca), here are my observations and recommendations:

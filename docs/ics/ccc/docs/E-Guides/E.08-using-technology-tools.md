@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # How to Use the Technology Tools
 
 The Community Exchange uses technology tools to help track commitments, record exchanges, and manage credits. This guide explains both the initial Google Sheets system (Phase 1) and the more advanced Sarafu.Network system (Phase 2).

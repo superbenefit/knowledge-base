@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Institute for Community Sustainability
 description: A grassroots organization based in London, Ontario that bridges local sustainability work with global regenerative finance and web3 technologies
 author: 

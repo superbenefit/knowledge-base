@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Impact Yield Fund Meeting Notes
 description: Compilation of discussions related to the Impact Yield Fund across multiple meetings, highlighting key points and next steps
 author:

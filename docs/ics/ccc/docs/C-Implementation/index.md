@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Connection & Commitment Commons Implementation Index
 description: Index of practical documents detailing how to set up and operate the Community Connection & Commitment Commons system
 author: ICS Team

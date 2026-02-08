@@ -1,4 +1,5 @@
 ---
+group: rpp
 title: Governance Platforms
 description: A pattern for using dedicated software platforms that provide the infrastructure for discussion, proposal creation, and voting in decentralized organizations.
 url: 

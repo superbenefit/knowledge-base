@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Exchange Examples Index
 description: Directory of concrete examples illustrating Community Exchange concepts, implementation models, and use cases
 author: ICS Team

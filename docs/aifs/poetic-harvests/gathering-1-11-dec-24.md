@@ -1,4 +1,5 @@
 ---
+group: aifs
 title: AIFS Gathering 1 - 11 Dec 24
 tags:
   - aifs

@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Community Care Mobilization
 
 ## Purpose

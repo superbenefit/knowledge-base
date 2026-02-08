@@ -1,4 +1,5 @@
 ---
+group: rpp
 title: Burner Wallets
 description: Using disposable crypto addresses for privacy payments
 author:

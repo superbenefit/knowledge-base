@@ -1,4 +1,5 @@
 ---
+group: rpp
 title: Operational Govenance [OUTLINE]
 description: A pattern for enabling effective day-to-day operations and resource allocation through sociocratic coordination of autonomous teams
 author: rathermercurial.eth

@@ -1,7 +1,8 @@
 ---
+group: aifs
 tags:
   - meetings
-date: 17-02-2025
+date: 2025-02-17
 ---
 
 > Let's use this space to begin to have an outline for how AIFS could potentially assist the IOC in the distribution of funds for the Tech365 Explore program

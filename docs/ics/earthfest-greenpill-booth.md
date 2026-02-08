@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Greenpill London Booth at Earthfest 2025
 
 ## Overview

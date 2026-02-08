@@ -1,4 +1,5 @@
 ---
+group: dao-primitives
 title: DAO Primitives Implementation
 description: This folder contains guides and tools to be used when implementing the DAO primitives framework in governance design and implementation
 tags:

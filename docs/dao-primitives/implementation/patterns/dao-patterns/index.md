@@ -1,4 +1,5 @@
 ---
+group: dao-primitives
 title: DAO Patterns
 description: Patterns related to implementing and managing DAOs as networks of autonomous teams
 author: yeoro.eth

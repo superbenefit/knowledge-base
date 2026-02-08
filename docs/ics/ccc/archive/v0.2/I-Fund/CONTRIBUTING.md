@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Contribution Guidelines for Impact Yield Fund
 description: Guidelines and prompts for contributing to the Impact Yield Fund (IYF) documentation and development
 author: ICS Team

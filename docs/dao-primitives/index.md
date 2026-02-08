@@ -1,4 +1,5 @@
 ---
+group: dao-primitives
 title: DAO Primitives Project
 description: A framework for building purpose-aligned networks of small autonomous teams that harness collective intelligence
 publish: true

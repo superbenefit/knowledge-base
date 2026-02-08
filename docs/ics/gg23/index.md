@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # GG23 Campaign Strategy & Execution Plan
 
 ## Campaign Summary

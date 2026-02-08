@@ -1,4 +1,5 @@
 ---
+group: dao-primitives
 title: Formation Phase
 description: The developmental phase where groups begin to establish structure, initial agreements, and concrete initiatives after the exploratory Conversation phase.
 author:

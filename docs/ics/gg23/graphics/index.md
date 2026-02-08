@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # GG23 Campaign - Implementation Guide
 
 I've reviewed your GG23 shill plan and created a streamlined, focused strategy for the final three days of the campaign. Here's what you'll find in this vault directory:

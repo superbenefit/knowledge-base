@@ -1,4 +1,5 @@
 ---
+group: rpp
 title: Reimagining Participation Through Web3 Governance
 description: ICS experiments with decentralized governance tools, discovering that communities seek participation in decision-making rather than just new funding mechanisms
 author:

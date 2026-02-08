@@ -1,4 +1,5 @@
 ---
+group: rpp
 title: Privacy-Preserving Crypto Payments
 description: A pattern for implementing secure, private payment systems to support social impact projects in challenging environments
 author:

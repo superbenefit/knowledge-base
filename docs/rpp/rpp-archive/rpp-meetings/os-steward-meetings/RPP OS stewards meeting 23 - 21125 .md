@@ -1,4 +1,5 @@
 ---
+group: rpp
 
 # Meeting Agenda
 
@@ -62,7 +63,7 @@ Weekly meeting agenda & notes for the RPP Operation & Strategy Stewards team.
           - use language of incubators, innovation networks, etc from the startup/social enterprise space
 
 tags: meetings
-date: 02-11-2025
+date: 2025-11-02
 ---
 
 # Summary

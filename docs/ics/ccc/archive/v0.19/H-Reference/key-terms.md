@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Exchange Key Terms
 description: Essential terms for the Community Exchange project - streamlined list for quick reference
 author: ICS Team

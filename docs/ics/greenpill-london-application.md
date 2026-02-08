@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Green Pill London - New Chapter Application
 description: Application for establishing a Green Pill Network chapter in London, Ontario, Canada
 author: Heenal Rajani

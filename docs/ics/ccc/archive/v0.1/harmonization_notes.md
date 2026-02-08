@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Community Exchange: Harmonization Notes
 
 This document identifies inconsistencies, style variations, and terminology differences across all documents in the Community Exchange project. These notes will guide final edits to ensure a consistent, professional presentation.

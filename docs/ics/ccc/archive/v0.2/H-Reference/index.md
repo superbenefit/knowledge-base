@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Community Exchange Reference Materials: Index
 
 This directory contains supplementary reference materials to support the implementation and operation of the Community Exchange, including terminology explanations, common questions, and additional resources.

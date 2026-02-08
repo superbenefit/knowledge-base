@@ -1,4 +1,5 @@
 ---
+group: rpp
 
 > This template is designed to be used for external contributor task as well as for core team tasks. For a core team task (because of trust and high context) the task will be simple and fast to create, but if used for an external contributor it would likely contain a lot more detail.
 >

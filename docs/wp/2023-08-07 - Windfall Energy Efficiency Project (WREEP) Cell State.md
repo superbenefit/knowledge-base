@@ -1,3 +1,7 @@
+---
+group: wp
+---
+
 
 
 The cell state document is intended to serve as an up-to-date reference for information related to the agreements, operations and relationships of the Windfall Energy Efficiency Project (WREEP) Cell.

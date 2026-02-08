@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Virtual Connection Circles
 
 ## Purpose

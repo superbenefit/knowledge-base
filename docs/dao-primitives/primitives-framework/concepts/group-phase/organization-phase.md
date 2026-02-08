@@ -1,4 +1,5 @@
 ---
+group: dao-primitives
 title: Organization Phase
 description: The developmental phase where groups establish formalized structures, processes, and governance mechanisms to enable sustainable operations and effective coordination within the network.
 author:

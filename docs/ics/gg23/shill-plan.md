@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # GG23 Streamlined Shill Plan
 *A focused 3-day strategy for the final push*
 

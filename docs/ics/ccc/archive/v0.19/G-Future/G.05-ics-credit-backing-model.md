@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # ICS Voucher Backing Model
 
 ## Overview

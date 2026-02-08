@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Critical Analysis Post-Scott Morris Discussion
 description: Analysis of Community Connection & Commitment Commons implementation strategy based on insights from Scott Morris and team discussions
 author: ICS Team

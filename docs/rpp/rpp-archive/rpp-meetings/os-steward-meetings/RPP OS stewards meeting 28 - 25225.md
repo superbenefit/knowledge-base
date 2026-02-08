@@ -1,4 +1,5 @@
 ---
+group: rpp
 
 # Meeting Agenda
 
@@ -27,7 +28,7 @@ Weekly meeting agenda & notes for the RPP Operation & Strategy Stewards team.
   - Worth planning what we are going to do with the remaining funds
 
 tags: meetings
-date: 25-02-2025
+date: 2025-02-25
 ---
 
 # Summary

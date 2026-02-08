@@ -1,7 +1,8 @@
 ---
+group: rpp
 tags:
   - meetings
-date: 03-01-2025
+date: 2025-01-03
 ---
 _Weekly meeting of the Reimagining Power Core Team at SuperBenefit._
 

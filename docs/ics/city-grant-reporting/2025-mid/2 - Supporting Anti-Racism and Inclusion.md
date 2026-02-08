@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # How has the project supported anti-racism anti-oppression, diversity, equity and inclusion?
 
 *[350 words maximum]*

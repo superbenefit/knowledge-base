@@ -1,4 +1,5 @@
 ---
+group: dao-primitives
 title: Group Scale
 description: A framework outlining the four key scales of group organization, tailored for DAO contexts.
 tags:

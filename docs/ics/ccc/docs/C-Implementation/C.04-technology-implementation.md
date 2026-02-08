@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Connection & Commitment Commons Technology Implementation Plan
 description: Phased approach to implementing technology systems for the Community Connection & Commitment Commons, from Google Sheets to Sarafu.Network
 author: ICS Team

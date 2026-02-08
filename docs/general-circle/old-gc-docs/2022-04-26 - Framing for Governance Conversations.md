@@ -1,3 +1,7 @@
+---
+group: general-circle
+---
+
 #[governance conversations](archive/clarity/Tags/governance%20conversations.md) 
 
 

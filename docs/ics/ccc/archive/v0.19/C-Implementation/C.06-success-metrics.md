@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Exchange Success Metrics
 description: Simple framework of five essential metrics to track the health and growth of the Community Exchange system
 author: ICS Team

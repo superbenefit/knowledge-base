@@ -1,4 +1,5 @@
 ---
+group: aifs
 
 # Meeting Agenda
 
@@ -16,7 +17,7 @@ Weekly meeting agenda & notes for the WREEP web3 core team.
 
   -  
 
-date: 19-03-2025
+date: 2025-03-19
 ---
 
 # Decision Log

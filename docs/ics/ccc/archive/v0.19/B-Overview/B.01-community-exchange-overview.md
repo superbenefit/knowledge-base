@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Exchange Overview
 description: Comprehensive introduction to the Community Exchange system, explaining its core components, two pathways, and how it connects curiosity and commitment
 author: ICS Team

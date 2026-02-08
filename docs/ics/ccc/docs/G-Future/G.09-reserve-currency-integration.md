@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Reserve Currency Integration in Community Exchange
 
 ## Overview

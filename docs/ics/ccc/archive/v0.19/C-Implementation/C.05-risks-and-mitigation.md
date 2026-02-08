@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Exchange Risks and Mitigation Strategies
 description: Comprehensive risk assessment and mitigation strategies for the Community Exchange system, informed by global examples
 author: ICS Team

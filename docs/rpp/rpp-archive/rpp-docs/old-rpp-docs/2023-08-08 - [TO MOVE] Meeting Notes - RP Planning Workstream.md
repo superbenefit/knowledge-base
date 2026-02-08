@@ -1,3 +1,7 @@
+---
+group: rpp
+---
+
 #[reimagining power](archive/clarity/Tags/reimagining%20power.md) #[tactical meetings](archive/clarity/Tags/tactical%20meetings.md) 
 
 wWeekly meeting notes for the Reimagining Power planning workstream are recorded here.

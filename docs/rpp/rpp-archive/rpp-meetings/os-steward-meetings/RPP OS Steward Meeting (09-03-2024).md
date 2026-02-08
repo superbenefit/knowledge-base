@@ -1,7 +1,8 @@
 ---
+group: rpp
 tags:
   - meetings
-date: 09-03-2024
+date: 2024-03-09
 ---
 _5th weekly meeting of the Operations & Strategy Stewards for the Reimagining Power projects at SuperBenefit._
 

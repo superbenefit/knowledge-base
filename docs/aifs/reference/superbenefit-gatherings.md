@@ -1,3 +1,7 @@
+---
+group: aifs
+---
+
 # SuperBenefit Gatherings
 
 > SuperBenefit Salons have been **renamed** to "SuperBenefit Gatherings".

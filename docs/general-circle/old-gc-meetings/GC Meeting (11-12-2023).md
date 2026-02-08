@@ -1,6 +1,7 @@
 ---
+group: general-circle
 tags:
   - meetings
-date: 11-12-2023
+date: 2023-12-11
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 

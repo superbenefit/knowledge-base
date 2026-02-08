@@ -1,4 +1,5 @@
 ---
+group: rpp
 
 # Meeting Agenda
 
@@ -31,7 +32,7 @@ Weekly meeting agenda & notes for the RPP Operation & Strategy Stewards team.
   - ICS implementation plan
 
 tags: meetings
-date: 02-04-2025
+date: 2025-04-02
 ---
 
 # Decision Log

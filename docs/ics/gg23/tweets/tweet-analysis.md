@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # GG23 Tweet Analysis & Inspiration
 
 Based on observations of successful GG23 campaign tweets, here are the common patterns, styles, and approaches that tend to perform well:

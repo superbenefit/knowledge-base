@@ -1,4 +1,5 @@
 ---
+group: ics
 title: ICS Discovery Report
 description: Discovery notes and outline for the Institute for Community Sustainability's experiment within the Reimagining Power project
 author: 

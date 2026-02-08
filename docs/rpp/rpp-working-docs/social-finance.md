@@ -1,4 +1,5 @@
 ---
+group: rpp
 title: Decentralized Social Finance
 description: Decentralized funding mechanisms for social purposes
 tags:

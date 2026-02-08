@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Newcomer Welcome Dinners
 
 ## Purpose

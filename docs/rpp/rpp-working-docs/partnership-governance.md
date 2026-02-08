@@ -1,4 +1,5 @@
 ---
+group: rpp
 title: Partnership governance 
 description: A pattern for creating and governing something that requires its own dedicated governace oversight and guidence. Often used for collaborative projects that pull together multiple partners from outside of a DAO. 
 author: 

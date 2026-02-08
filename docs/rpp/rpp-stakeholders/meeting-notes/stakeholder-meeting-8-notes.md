@@ -1,3 +1,7 @@
+---
+group: rpp
+---
+
 Intros & Updates
 
 Workstreams and Budget Allocation: The core team is organized into workstreams, and a co-budgeting process was introduced. Budgets were distributed evenly among core team members, who then allocated these funds to various workstreams. This decentralized approach aims to facilitate smoother operations and accountability across different project areas.

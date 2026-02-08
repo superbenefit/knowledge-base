@@ -1,7 +1,8 @@
 ---
+group: general-circle
 tags:
   - meetings
-date: 24-01-2022
+date: 2022-01-24
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 # Week of January 24, 2022

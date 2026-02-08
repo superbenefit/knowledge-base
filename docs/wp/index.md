@@ -1,4 +1,5 @@
 ---
+group: wp
 title: 
 description: 
 author: 

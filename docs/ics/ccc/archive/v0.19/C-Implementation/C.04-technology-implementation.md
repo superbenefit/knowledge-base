@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Exchange Technology Implementation Plan
 description: Phased approach to implementing technology systems for the Community Exchange, from Google Sheets to Sarafu.Network
 author: ICS Team

@@ -1,4 +1,5 @@
 ---
+group: dao-primitives
 title: Network Scale
 description: Characteristics and considerations for groups operating at the Network Scale.
 tags:

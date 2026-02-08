@@ -1,4 +1,5 @@
 ---
+group: dao-primitives
 title: Reimagining Power Project Governance Design
 description: A case study examining how the DAO Primitives framework was applied to create an effective multi-stakeholder governance model for the Reimagining Power Project.
 author:

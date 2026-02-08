@@ -1,3 +1,7 @@
+---
+group: dao-primitives
+---
+
 #[[257 Proposal SBP8- DAO Primitive Project
 ]] 
 

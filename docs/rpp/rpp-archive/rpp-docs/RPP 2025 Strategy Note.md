@@ -1,3 +1,7 @@
+---
+group: rpp
+---
+
 _This document is designed to outline future plans for the Reimagining Power Project (RPP) as it approaches the completion of its first set of funding and deliverables. The RPP core team have engaged in a set of discussions about what the future shape of the project might look like._
 
 ## Context 

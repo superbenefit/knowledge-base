@@ -1,4 +1,5 @@
 ---
+group: aifs
 
 ## Attendees
 
@@ -28,7 +29,7 @@
 
   - ethereum localism
 
-date: 31-03-2025
+date: 2025-03-31
 ---
 
 ## Questions to Consider

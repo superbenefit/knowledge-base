@@ -1,3 +1,7 @@
+---
+group: rpp
+---
+
 _This is an example project brief for the infinite front porch collaboration, based on notes and conversations captured during meetings. It's just a working example of a project we could work on. Please edit it freely._
 
 ---

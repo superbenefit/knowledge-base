@@ -1,4 +1,5 @@
 ---
+group: ics
 title: ICS Experiment Implementation Plan
 description: Implementation plan for the Institute for Community Sustainability's experiment within the Reimagining Power project
 author: 

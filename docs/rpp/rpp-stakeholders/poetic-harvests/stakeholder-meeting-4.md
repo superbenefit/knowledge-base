@@ -1,3 +1,7 @@
+---
+group: rpp
+---
+
 Now we're done with our festive cheer
 Welcome to a new year
 As 2024 clicks into gear

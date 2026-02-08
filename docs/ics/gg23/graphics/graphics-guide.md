@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Simple Graphics for GG23 Campaign
 
 This document outlines simple graphics you can create or adapt for the campaign. Focus on creating 1-2 high-impact visuals rather than many different ones.

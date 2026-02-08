@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Priority Contacts for GG23 Campaign
 
 Use this document to organize your outreach strategy by prioritizing contacts based on their likelihood to support your campaign.

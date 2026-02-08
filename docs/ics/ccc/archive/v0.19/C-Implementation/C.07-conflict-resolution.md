@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Exchange Conflict Resolution Process
 description: Framework for addressing tensions, disagreements, and conflicts within the Community Exchange using a three-tier approach
 author: ICS Team

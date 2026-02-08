@@ -1,4 +1,5 @@
 ---
+group: rpp
 title: RPP Experiments
 description: Notes and other documents related to experiments in the Reimagining Power project
 tags:

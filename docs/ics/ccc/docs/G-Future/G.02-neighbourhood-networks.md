@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Neighbourhood Networks: Woodfield, Old East Village, and Old South
 
 ## Overview

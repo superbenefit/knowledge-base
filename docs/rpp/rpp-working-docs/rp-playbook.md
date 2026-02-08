@@ -1,4 +1,5 @@
 ---
+group: rpp
 title: Reimagining Power Playbook [DRAFT OUTLINE]
 description: Using decentralized technology to transform power systems in social impact & philanthropy
 author: Reimagining Power Project

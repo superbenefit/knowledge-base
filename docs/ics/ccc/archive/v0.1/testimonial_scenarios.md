@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Community Exchange: Member Stories
 
 These hypothetical testimonials illustrate how diverse community members might experience and benefit from the Community Exchange system. While fictional, they represent realistic scenarios based on experiences from similar systems around the world.

@@ -1,7 +1,8 @@
 ---
+group: wp
 tags:
   - meetings
-date: 11-09-2023
+date: 2023-09-11
 source: "[wp-clarity-meeting-notes](/notes/wp/wp-meetings/wp-clarity-meeting-notes.md)"
 ---
 

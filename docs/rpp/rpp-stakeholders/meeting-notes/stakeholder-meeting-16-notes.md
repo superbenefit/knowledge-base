@@ -1,3 +1,7 @@
+---
+group: rpp
+---
+
 Project Updates and Strategy
 
 The team provided updates on several key areas of the project, including experiments and playbooks.

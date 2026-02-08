@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Community Exchange: Technology Implementation Plan
 
 This document outlines our phased approach to implementing and transitioning technology systems for the Community Exchange.

@@ -1,3 +1,7 @@
+---
+group: rpp
+---
+
 #[reimagining power](archive/clarity/Tags/reimagining%20power.md) #[ontario trillium foundation](archive/clarity/Tags/ontario%20trillium%20foundation.md) 
 >**THIS DOC IS NOW IN CHARMVERSE
 **

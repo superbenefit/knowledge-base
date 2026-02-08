@@ -1,3 +1,7 @@
+---
+group: rpp
+---
+
 Ok stakeholder meeting 6, we're ready, steady
 To welcome Doug, you know most of us already
 This group to you is not a mystery

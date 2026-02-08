@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Core Tweet Templates for GG23 Campaign
 
 ## 1. Primary Ask Tweet

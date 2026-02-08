@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Connection & Commitment Commons Table of Contents
 description: Comprehensive navigation for the Community Connection & Commitment Commons documentation
 author: ICS Team

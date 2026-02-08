@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Community Exchange
 ## Connecting Curiosity and Commitment in London
 

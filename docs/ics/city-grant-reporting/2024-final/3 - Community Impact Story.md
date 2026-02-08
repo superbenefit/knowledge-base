@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Please share one story about how the funded project has made a difference in the community and/or people's lives
 
 At our November Repair Café, a family arrived with a cherished stuffed bunny clutching a tattered arm that was hanging on by a thread. The well-worn plush bunny belonged to a young child who watched anxiously as one of our fixers carefully examined the damage. While this may seem like a simple repair to some, the stuffed animal clearly held enormous emotional significance for the child, who remained close by throughout the entire process.

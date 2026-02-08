@@ -1,3 +1,7 @@
+---
+group: rpp
+---
+
 Welcome all, old and new
 I've had a great summer, how about you?
 

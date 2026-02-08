@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Impact Yield Fund
 description: Directory overview of planning materials for the Impact Yield Fund, which preserves capital while generating returns for investors and supporting community initiatives
 author: ICS Team

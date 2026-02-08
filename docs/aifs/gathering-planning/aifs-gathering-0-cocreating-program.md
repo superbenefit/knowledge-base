@@ -1,3 +1,7 @@
+---
+group: aifs
+---
+
 # AIFS Gathering #0: Co-creating the Program
 
 ## Topic

@@ -1,3 +1,7 @@
+---
+group: general-circle
+---
+
 #[web3 & social impact series](archive/clarity/Tags/web3%20&%20social%20impact%20series.md) 
 
 

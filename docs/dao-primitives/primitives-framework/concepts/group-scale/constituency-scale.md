@@ -1,4 +1,5 @@
 ---
+group: dao-primitives
 title: Constituency Scale
 description: Characteristics and considerations for groups operating at the Constituency Scale.
 tags:

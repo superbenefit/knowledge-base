@@ -1,7 +1,8 @@
 ---
+group: aifs
 tags:
   - meetings
-date: 21-10-2024
+date: 2024-10-21
 ---
 
 # Feedback from José:

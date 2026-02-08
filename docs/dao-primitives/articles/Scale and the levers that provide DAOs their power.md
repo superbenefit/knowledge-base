@@ -1,4 +1,5 @@
 ---
+group: dao-primitives
 title: Scale and the levers that provide DAOs their power
 url: https://superbenefit.mirror.xyz/unisNGUtHyRF7Zcp9CBbC-VhICOvVm0uzTFJUPX-Icg
 author:

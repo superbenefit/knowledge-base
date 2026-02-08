@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Connection & Commitment Commons Launch Event Plan - May 7, 2025
 description: Detailed planning guide for the inaugural Community Connection & Commitment Commons launch event, combining member orientation and connection activities
 author: ICS Team

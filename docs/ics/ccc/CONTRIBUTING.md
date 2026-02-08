@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Contribution Guidelines for Community Connection & Commitment Commons
 description: Comprehensive guide for contributing to the Community Connection & Commitment Commons (C4) documentation and codebase
 author: ICS Team

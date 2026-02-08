@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Repair Café
 
 ## Purpose

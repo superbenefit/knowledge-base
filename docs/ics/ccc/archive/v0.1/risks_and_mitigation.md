@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Community Exchange: Risks and Mitigation Strategies
 
 This document identifies potential risks to the Community Exchange system and outlines strategies to address them, informed by experiences from similar initiatives around the world.

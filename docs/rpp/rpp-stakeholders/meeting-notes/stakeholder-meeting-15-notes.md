@@ -1,3 +1,7 @@
+---
+group: rpp
+---
+
 Reimagining Power Project Updates
 
 Playbooks are progressing with an 'ephemeral cell' structure set up to fund a treasury and allocate tasks for authoring, serving as a prototype for simple but powerful crypto-based organizational structures.

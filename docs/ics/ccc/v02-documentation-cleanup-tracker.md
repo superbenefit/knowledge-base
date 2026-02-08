@@ -1,4 +1,5 @@
 ---
+group: ics
 title: v.02 Documentation Cleanup Task Tracker
 description: Task tracking document for cleaning up Community Exchange v0.2 documentation, including file naming standardization and index updates
 author: ICS Team

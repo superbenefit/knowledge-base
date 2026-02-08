@@ -1,4 +1,5 @@
 ---
+group: rpp
 title: Quadratic Voting
 description: A voting mechanism where participants pay for votes on a quadratic scale, designed to better reflect the intensity of individual preferences and mitigate the influence of large, dominant groups.
 url: 

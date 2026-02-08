@@ -1,4 +1,5 @@
 ---
+group: ics
 title: Community Market Day Activity Guide
 description: Guide for organizing community market events where members can exchange goods and showcase services using credits
 author: ICS Team

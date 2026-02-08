@@ -1,7 +1,8 @@
 ---
+group: rpp
 title: Reimagining Power @ All In For Sport
 description: A SuperBenefit Case Study in Decentralized Governance Transformation
-date: 18-07-2025
+date: 2025-07-18
 tags:
   - studies
 publish: true

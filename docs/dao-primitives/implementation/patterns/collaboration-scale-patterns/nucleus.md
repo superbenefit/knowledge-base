@@ -1,4 +1,5 @@
 ---
+group: dao-primitives
 title: Nucleus 
 description: The current result of tracking the state of a group in a public, version-controlled document
 url: 

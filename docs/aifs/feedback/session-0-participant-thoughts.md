@@ -1,3 +1,7 @@
+---
+group: aifs
+---
+
 # All In For Sport DAO Salon Series - Session 0 Participant Thoughts
 
 This document captures initial thoughts shared by participants at the beginning of Session 0 of the AIFS DAO Salon Series.

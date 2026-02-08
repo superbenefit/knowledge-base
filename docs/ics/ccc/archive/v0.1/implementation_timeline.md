@@ -1,3 +1,7 @@
+---
+group: ics
+---
+
 # Community Exchange: Implementation Timeline
 
 This document outlines the quarterly development plan for the Community Exchange, starting in Q2 2025.

@@ -1,4 +1,5 @@
 ---
+group: dao-primitives
 title: Iteration Phase
 description: "The mature stage of group development where a fully established group executes effectively on its purpose, maximizing impact through coordinated action with others in the network."
 author: yeoro.eth

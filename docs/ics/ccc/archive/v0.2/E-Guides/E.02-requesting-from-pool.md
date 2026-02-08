@@ -1,4 +1,5 @@
 ---
+group: ics
 title: How to Request Something from the Pool
 description: Step-by-step guide for finding and requesting goods or services from the Community Exchange pool
 author: ICS Team

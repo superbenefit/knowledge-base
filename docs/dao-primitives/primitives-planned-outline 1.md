@@ -1,3 +1,7 @@
+---
+group: dao-primitives
+---
+
 # DAO Primitives Content
 
 This outline catalogs the DAO Primitives framework—a systems-based approach for conceptualizing and implementing web3-enabled coordination in networked organizations. The framework distinguishes between **organizational elements** (conceptual entities and agreements like DAOs, Cells, Roles, and Tasks) and **DAO primitives** (technical implementation tools like Safe, Hats, Aragon, and Snapshot). It guides organizations through a progression from understanding their organizational territory, to mapping their structure qualitatively, to formalizing that structure as a digital twin (organizational graph) using appropriate DAO primitives.

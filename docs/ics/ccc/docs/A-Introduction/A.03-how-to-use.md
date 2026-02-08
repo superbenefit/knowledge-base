@@ -1,4 +1,5 @@
 ---
+group: ics
 title: How to Use the Community Connection & Commitment Commons Guide
 description: Instructions on navigating and using the C4 documentation
 author: ICS Team
