@@ -8,38 +8,27 @@ publish: false
 type: pattern
 questions: []
 ---
-# <% tp.frontmatter.title || "Pattern Name" %>
 
-_<% tp.frontmatter.description || "A conceptual framework that provides reusable solutions to common challenges in decentralized organization design and governance." %>_
+%% LEAD: In 2-3 sentences, name the pattern and its core insight. What recurring challenge does it address? What makes this solution reusable across contexts? Example: "The *Nucleus Pattern* addresses the challenge of bootstrapping decentralized organizations by starting with a small, high-trust core team that establishes culture and processes before expanding." %%
 
-## Context
+## The Pattern
 
-%% Describe the environments or situations where this pattern applies. Include types of organizations, networks, or communities that might benefit from this pattern, emphasizing the broader organizational context beyond specific operational procedures. %%
+### Context
 
----
+%% Describe the environments where this pattern applies. What types of organizations, what stages of development, what coordination challenges? Be specific enough that readers can recognize whether their situation fits. %%
 
-## Challenges
+### Problem
 
-%% Identify the specific organizational challenges this pattern addresses. Focus on systemic issues, coordination problems, or design challenges that require conceptual solutions rather than step-by-step procedures. %%
+%% Articulate the specific challenge this pattern addresses. What goes wrong without it? What tensions or trade-offs does it navigate? Frame the problem clearly so the solution makes sense. %%
 
----
+### Solution
 
-## Solution
+%% Explain the conceptual approach—the key principles, mechanisms, and components. This should be strategic, not procedural. Describe *what* to do and *why* it works, leaving *how* for implementation guides. %%
 
-%% Explain the conceptual approach this pattern provides. Describe the key principles, mechanisms, and components that make this pattern effective. This should be more strategic and less procedural than protocol documentation. %%
+### Implementation Considerations
 
----
-
-## Implementation Considerations
-
-%% Provide guidance for applying this pattern across different contexts: %%
-
-### Examples & Case Studies
-
-%% Provide examples showing this pattern's application across different contexts %%
-
----
+%% What should practitioners consider when applying this pattern? Variations for different contexts, common pitfalls, prerequisites, and adaptation guidelines. %%
 
 ## Related Pages
 
-%% Curated links to related content: patterns, practices, studies, concepts. %%
+%% Link to patterns that complement or contrast with this one, practices that embody it, studies that demonstrate it, and concepts it builds upon. %%

@@ -6,43 +6,35 @@ tags:
   - protocols
 publish: false
 type: protocol
+questions: []
 ---
-%% This template creates detailed operational mechanisms that define specific steps, roles, and interactions for consistent coordination. Use it to document standardized procedures that enable reliable coordination without central authority. Focus on operational specificity rather than conceptual frameworks. %%
 
-# <% tp.frontmatter.title || "Protocol Name" %>
+%% LEAD: In 2-3 sentences, name this protocol and describe what it enables. Protocols are detailed operational mechanisms defining specific steps, roles, and interactions for consistent coordination. Example: "The *Consent Decision Protocol* enables groups to make decisions efficiently by testing for objections rather than seeking full agreement." %%
 
-_<% tp.frontmatter.description || "A detailed operational mechanism that defines specific steps, roles, and interactions required to achieve consistent coordination outcomes." %>_
+## The Protocol
 
-## Context
+### Context
 
-%% Describe the coordination challenges this protocol addresses. Focus on the specific operational environment where standardized procedures are needed. Include types of organizations, teams, or networks that benefit from this operational consistency. %%
+%% Describe the coordination challenges this protocol addresses. What types of organizations, teams, or networks benefit from this standardized procedure? What goes wrong without it? %%
 
-## Operational Mechanism
+### Operational Mechanism
 
-%% Define the specific steps, procedures, and interactions that constitute this protocol. This is the core operational section that should include:
+%% Define the specific steps, procedures, and interactions that constitute this protocol:
 - Clear step-by-step procedures
-- Defined roles and responsibilities  
+- Defined roles and responsibilities
 - Required inputs and expected outputs
 - Decision points and criteria
 - Interaction patterns between participants %%
 
-## Implementation Considerations
+### Implementation Considerations
 
-### Technical Requirements
-%% Any tools, platforms, or technical infrastructure needed %%
-
-### Social Requirements  
-%% Communication patterns, training needs, cultural prerequisites %%
-
-### Integration Points
-%% How this protocol connects with other protocols or organizational systems %%
-
-### Adaptation Guidelines
-%% How the protocol can be customized while maintaining its core function %%
-
-### Success Indicators
-%% How to measure effective protocol implementation %%
+%% Guidance for putting this protocol into practice:
+- Technical requirements (tools, platforms, infrastructure)
+- Social requirements (communication patterns, training, cultural prerequisites)
+- Integration points (how it connects with other protocols or systems)
+- Adaptation guidelines (how to customize while maintaining core function)
+- Success indicators (how to measure effective implementation) %%
 
 ## Related Pages
 
-%% Curated links to related content: protocols, patterns, examples, documentation. %%
+%% Link to patterns this protocol embodies, other protocols it integrates with, groups that use it, and concepts it builds upon. %%
