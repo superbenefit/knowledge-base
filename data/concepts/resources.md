@@ -1,4 +1,5 @@
 ---
+type: tag
 title: Resources
 harvester: 
 tags: []

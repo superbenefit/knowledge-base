@@ -1,4 +1,5 @@
 ---
+type: tag
 title: Progress
 harvester: 
 tags:

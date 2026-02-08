@@ -1,4 +1,5 @@
 ---
+type: tag
 title: Attestations
 description: Verified digital statements that provide cryptographically secured proof of claims, relationships, or properties, enabling trusted information sharing without centralized authorities.
 harvester:

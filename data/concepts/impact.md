@@ -1,4 +1,5 @@
 ---
+type: tag
 title: Impact
 description: The measurable positive change created by intentional interventions in social, environmental, and economic systems through decentralized technologies and coordination.
 harvester: rathermercurial.eth

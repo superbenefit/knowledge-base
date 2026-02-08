@@ -1,4 +1,5 @@
 ---
+type: tag
 title: Groups
 description: Collections of individuals or entities that coordinate around shared purpose, practices, and activities across different scales within decentralized networks
 harvester: rathermercurial.eth

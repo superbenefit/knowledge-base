@@ -1,4 +1,5 @@
 ---
+type: tag
 title: Local-first
 description: A software development approach that prioritizes user data ownership and local device control while enabling collaboration, creating applications that function fully offline and give users sovereignty over their information
 harvester:

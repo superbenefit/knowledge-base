@@ -1,4 +1,5 @@
 ---
+type: tag
 title: Primitives
 publish: true
 tags:

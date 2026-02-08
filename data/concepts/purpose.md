@@ -1,4 +1,5 @@
 ---
+type: tag
 title: Purpose
 description: The guiding vision, mission, or fundamental reason for existence that orients collective action and decision-making in organizations and systems
 harvester: rathermercurial.eth 

@@ -1,4 +1,5 @@
 ---
+type: article
 title: "DAOs are like Water"
 source: "https://superbenefit.mirror.xyz/oIJltxjPCu2p01QzOP6OVd8KxYIcyXJJ1ByKKRRTVCM"
 author:

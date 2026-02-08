@@ -1,3 +1,10 @@
+---
+type: index
+title: Web3 Library - Contribution Guide
+description: Guide for contributing to the Web3 Library of external resources
+publish: false
+---
+
 This directory contains our curated collection of external resources and references that inform our research and knowledge development.
 
 ## Purpose

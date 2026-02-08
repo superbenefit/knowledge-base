@@ -1,4 +1,5 @@
 ---
+type: tag
 title: Networks
 description: Interconnected systems of agents, resources, and relationships that enable decentralized coordination, value flows, and collective intelligence across social and technological domains
 harvester: rathermercurial.eth

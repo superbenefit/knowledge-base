@@ -1,3 +1,10 @@
+---
+type: index
+title: SuperBenefit Lexicon - Contribution Guide
+description: Guide for contributing to the SuperBenefit Lexicon
+publish: false
+---
+
 # SuperBenefit Lexicon: Contribution Guide
 
 The SuperBenefit Lexicon serves as the foundation of our shared understanding about decentralized organizations (DAOs), self-governance, and social impact. It creates a common language that helps us communicate complex ideas with precision and clarity. Beyond simple definitions, our lexicon builds connections between concepts, revealing relationships and patterns that might otherwise remain hidden.

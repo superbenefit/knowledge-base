@@ -1,4 +1,5 @@
 ---
+type: tag
 title: Systems
 description: Complex, interconnected structures of components that work together to achieve specific purposes through coordinated interactions and processes
 harvester: rathermercurial.eth 

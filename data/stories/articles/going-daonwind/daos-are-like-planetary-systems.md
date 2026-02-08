@@ -4,7 +4,7 @@ source: https://superbenefit.mirror.xyz/BRRdW4JuQYiBGupJdPGYH2rabSBS1j3Y_CB_MIB5
 author:
   - Ayusha Mahajan
 publish: true
-date: 20-09-2022
+date: 2022-09-20
 tags:
   - daos
 type: article

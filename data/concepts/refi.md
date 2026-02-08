@@ -1,4 +1,5 @@
 ---
+type: tag
 title: Regenerative Finance (ReFi)
 description: A framework that applies blockchain and decentralized technologies to create financial systems that regenerate environmental and social value while delivering economic returns
 harvester: heenal.eth

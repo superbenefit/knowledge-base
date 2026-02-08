@@ -1,4 +1,5 @@
 ---
+type: tag
 title: Decentralized Governance
 harvester: 
 tags:

@@ -1,4 +1,5 @@
 ---
+type: tag
 title: Decisions & Decision-making
 description: The processes and structures through which individuals and groups evaluate options and determine courses of action within organization and governance systems
 harvester: rathermercurial.eth

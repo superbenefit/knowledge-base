@@ -1,4 +1,5 @@
 ---
+type: tag
 title: Complementary Currencies
 description: Alternative exchange systems designed to operate alongside conventional national currencies, serving specific social, economic, or environmental purposes within communities or sectors
 harvester: heenal
