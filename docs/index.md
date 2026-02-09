@@ -1,18 +1,16 @@
 ---
-title: Project Notes
-description: Explore our evolving thoughts and ideas on DAOs, Web3, and social impact.
+title: Working Documents
+description: Active research and project documentation from SuperBenefit working groups
 publish: true
 type: index
 ---
 
-Welcome to the Project Workspaces! This section offers a glimpse into the active development of our knowledge around decentralized organizations (DAOs), Web3 governance, and social impact initiatives.
+This section contains working documents organized by authoring group. Here you'll find active research, project documentation, and collaborative materials that are still being developed and refined.
 
-Think of this as our collaborative workshop, where ideas are shaped, connected, and refined.
+Each subdirectory represents a working group or project area within the SuperBenefit community. Ideas grow here through collaboration before maturing into structured records in our [Resources](data/resources/index.md) and [Lexicon](data/concepts/index.md).
 
-## What You'll Discover
+## What You'll Find
 
-Here, you'll find:
-
-*   **Evolving Ideas:** Notes that are actively being developed and refined, reflecting our current thinking on various topics.
-*   **Project-Specific Materials:** Content related to specific projects and initiatives within the SuperBenefit community.
-*   **Interconnected Knowledge:** Links between notes, as well as to external resources in our Web3 Library and definitions in our Lexicon.
+*   **Project Documentation:** Materials from specific initiatives and working groups
+*   **Research in Progress:** Ideas being actively developed and refined
+*   **Emerging Patterns:** Concepts that haven't yet been formalized into the resource library

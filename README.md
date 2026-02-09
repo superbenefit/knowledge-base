@@ -33,12 +33,17 @@ Our [public knowledge garden](https://knowledge.superbenefit.org) shares curated
 
 ### Repository Structure
 
-*   **[Artifacts](/artifacts/readme.md)**: Published, refined content that represents our collective understanding. Contains finished research, documentation, and community-validated knowledge.
-*   **[Notes](docs/readme.md)**: Working documents organized by project. This is where active development happens and where ideas mature through collaboration.
-*   **[Drafts](/drafts/readme.md)**: Private workspace for developing thoughts and initial research. This is where new ideas begin before they're ready for wider collaboration.
-*   **[Links](data/links/readme.md)**: External references and resources, enriched with community commentary and analysis.
-*   **[Tags](data/concepts/readme.md)**: Our shared vocabulary and conceptual framework, including term definitions and relationships.
-*   **[Tools](/tools/readme.md)**: Knowledge management utilities, including:
+The knowledge base uses a two-space model that separates working documents from structured records:
+
+*   **[Docs](docs/readme.md)**: Working documents organized by authoring group. This is where active development happens—ideas mature through collaboration before moving to data/.
+*   **[Data](data/readme.md)**: Structured records organized by content type:
+    *   `concepts/`: Our shared vocabulary and conceptual framework (lexicon)
+    *   `links/`: External references and resources
+    *   `resources/`: Patterns, practices, primitives, protocols, playbooks
+    *   `stories/`: Articles and case studies
+    *   `people/`, `groups/`, `projects/`: Entity records
+*   **[Drafts](drafts/readme.md)**: Private workspace for developing thoughts and initial research. This is where new ideas begin before they're ready for wider collaboration.
+*   **[Tools](tools/readme.md)**: Knowledge management utilities, including:
     *   `templates/`: Standard document structures
     *   `types/`: Metadata schemas and definitions
 *   **Attachments**: Media files, images, diagrams, and other supporting content used throughout the knowledge base.
@@ -47,14 +52,14 @@ Our [public knowledge garden](https://knowledge.superbenefit.org) shares curated
 
 Each directory contains two types of documentation to serve different audiences:
 
-*   **README Files (e.g., `artifacts/readme.md`):** These files are primarily for contributors and knowledge managers working directly with the repository. They provide information on the directory's purpose, how to contribute, and any specific guidelines for that area. They are "inner-facing" documentation.
-*   **Folder Notes (e.g., `artifacts/artifacts.md`):** These files are equivalent to index files and are published to the SuperBenefit Knowledge Garden to be displayed publicly. They provide an overview of the directory's content and guide readers on how to use and get the most value from the resources within. Folder notes always have the *same name as their parent directory* (e.g., the folder note for `/artifacts` is `/artifacts/artifacts.md`). They are "outward-facing" documentation.
+*   **README Files (e.g., `data/resources/readme.md`):** These files are primarily for contributors and knowledge managers working directly with the repository. They provide information on the directory's purpose, how to contribute, and any specific guidelines for that area. They are "inner-facing" documentation.
+*   **Index Files (e.g., `data/resources/index.md`):** These files are published to the SuperBenefit Knowledge Garden. They provide an overview of the directory's content and guide readers on how to navigate the resources within. They are "outward-facing" documentation.
 
 ---
 
 ## Contributing
 
-We welcome contributions to the SuperBenefit Knowledge Base! Please see [CONTRIBUTING.md](/CONTRIBUTING.md) for detailed guidelines on how to contribute.
+We welcome contributions to the SuperBenefit Knowledge Base! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines on how to contribute.
 
 Here are some ways you can contribute:
 
@@ -63,37 +68,20 @@ Here are some ways you can contribute:
 *   **Connect ideas:** Create links between related notes and artifacts to build a rich and interconnected web of knowledge.
 *   **Help others:** Welcome new contributors and help them find their way around the knowledge base.
 
-## ⚠️⚠️⚠️ CRITICAL: Link Strategy - MUST BE FOLLOWED AT ALL TIMES ⚠️⚠️⚠️
+## Link Format
 
-This vault uses **ABSOLUTE MARKDOWN LINKS FROM VAULT ROOT** for ALL internal links. This is **NON-NEGOTIABLE**.
+This vault uses markdown links with absolute paths from the vault root. This format ensures links work both in Obsidian and when content is published to the knowledge garden.
 
-### **REQUIRED FORMAT - The ONLY Acceptable Format**
-
-**Markdown links with absolute paths from vault root (NO leading slash):**
-
+**Correct format:**
 ```markdown
-[DAOs](tags/daos.md)                                                    ✅ CORRECT
-[Framework](artifacts/primitives-framework/primitives-framework-concepts.md)  ✅ CORRECT
-[Cells](tags/cells.md)                                                  ✅ CORRECT
-[Tools](tools/readme.md)                                                ✅ CORRECT
+[DAOs](data/concepts/daos.md)
+[Patterns](data/resources/patterns/index.md)
 ```
 
-### **FORBIDDEN FORMATS - NEVER USE THESE**
-
-```markdown
-[[daos]]                           ❌ WIKILINK - ABSOLUTELY FORBIDDEN
-[[tags/daos]]                      ❌ WIKILINK WITH PATH - ABSOLUTELY FORBIDDEN
-[DAOs](../../tags/daos.md)         ❌ RELATIVE PATH - ABSOLUTELY FORBIDDEN
-[DAOs](/tags/daos.md)              ❌ LEADING SLASH - ABSOLUTELY FORBIDDEN
-```
-
-### **THE THREE IMMUTABLE RULES**
-
-1. **MARKDOWN LINKS ONLY**: Always use `[text](path)` syntax
-2. **ABSOLUTE PATHS ONLY**: Paths MUST start from vault root - `tags/file.md` or `artifacts/dir/file.md`
-3. **NO LEADING SLASHES**: Paths MUST NOT begin with `/`
-
-**WHY**: This strategy ensures links work both in Obsidian AND when content is published. Violations break published content. **NO EXCEPTIONS**.
+**Do not use:**
+- Wikilinks (`[[page]]`) — not supported by publishing
+- Relative paths (`../../data/concepts/file.md`) — break when files move
+- Leading slashes (`/data/concepts/file.md`) — incompatible with static hosting
 
 ---
 
@@ -112,9 +100,9 @@ This system is designed to be adaptable. You can fork this repository to create 
 ## Additional Resources
 
 - Directory-specific guides in local readme files
-- Technical details in [tools](/tools/readme.md)
-- Templates for different content types in [tools/templates](/tools/templates/readme.md)
-- Metadata schemas in [tools/types](/tools/types/readme.md)
+- Technical details in [tools](tools/readme.md)
+- Templates for different content types in [tools/templates](tools/templates/readme.md)
+- Metadata schemas in [tools/types](tools/types/readme.md)
 
 For support:
 1. Check existing documentation

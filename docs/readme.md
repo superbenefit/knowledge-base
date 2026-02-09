@@ -1,32 +1,40 @@
-*Active research and project development space - where ideas evolve into artifacts.*
+# Docs Directory
 
-# Notes Directory
+The docs directory contains working documents organized by authoring group. This is one half of the knowledge base's two-space model—while `data/` maintains structured records by content type, `docs/` gives each working group freedom to organize their materials as they see fit.
 
-This directory serves as the active workspace for developing knowledge resources related to DAO organization.  Unlike the polished content in `/artifacts/`, this directory contains in-progress work and project-specific materials.  Knowledge typically flows from `/drafts/` to `/notes/`, then to `/artifacts/` after refinement and community validation.
+This is where active development happens. Project notes, research in progress, collaborative drafts, and materials that haven't yet been refined into formal records all live here. Ideas grow through natural cycles: starting as rough notes, developing through collaboration, and eventually maturing into polished content that may move to `data/` or be published directly.
 
----
+## Working Groups
 
-## Active Projects
+Each subdirectory represents a working group or project area:
 
-This directory currently focuses on three key areas:
+**dao-primitives/** contains research into the fundamental building blocks of decentralized organization—patterns, primitives, and frameworks for understanding how DAOs function. This includes the Primitives Framework and related conceptual work.
 
-* **DAO Primitives Project (`/primitives/`):** Research into the fundamental building blocks of DAO organization, including core concepts, frameworks for understanding context and application (phase, scale, state), and the relationships between primitives and patterns.  See the project's README for details.
+**rpp/** holds materials from the Regenerative Philanthropy Project, exploring how philanthropic practices can be transformed through decentralized governance and community ownership.
 
----
+**aifs/** contains work on the AI for Sustainability initiative, investigating how artificial intelligence can support social and environmental benefit.
+
+**cxi/** documents the Community Experience Initiative, focusing on how communities form, grow, and thrive in decentralized contexts.
+
+**ics/** holds Impact Certificate System research, exploring mechanisms for recognizing and rewarding positive impact.
+
+**general-circle/** contains governance materials for SuperBenefit's general operations and decision-making processes.
+
+**wp/** holds working papers—longer-form analysis and research that doesn't fit neatly into other categories.
+
+## Content Types in Docs
+
+Unlike `data/` where directory path determines content type, documents in `docs/` declare their type through frontmatter. A pattern can live anywhere in the docs tree as long as it has `type: pattern` in its YAML frontmatter. This flexibility lets groups organize their work however makes sense for their projects.
+
+When content reaches a state of completion and consensus, it may be moved to the appropriate `data/` subdirectory. A pattern document that started in `docs/dao-primitives/` might eventually move to `data/resources/patterns/` once it's been validated and refined. But this isn't required—content can be published directly from docs if that makes more sense for the material.
 
 ## Contributing
 
-The `/notes/` directory is the heart of our collaborative knowledge-building process. Your contributions here directly shape the development of our learning resources and help us refine our understanding of DAO organization.  By contributing, you're not just adding content; you're actively participating in the evolution of our collective knowledge and helping to create valuable resources for our stakeholders.
+To contribute to a working group's documentation:
 
-Here's how you can contribute:
+1. Review the existing content in the relevant subdirectory to understand current structure and conventions.
+2. Use templates from `tools/templates/layouts/` to ensure correct frontmatter and structure.
+3. Follow the metadata standards defined in `tools/types/` for your content type.
+4. Submit contributions through the process outlined in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-1. **Identify an Area of Focus:** Choose a project within the `/notes/` directory (e.g., DAO Primitives, Patterns, Playbooks) that aligns with your interests and expertise.
-
-2. **Review Existing Documentation:** Familiarize yourself with the existing content and structure within your chosen area.  This will help you identify gaps, inconsistencies, or areas for improvement.
-
-3. **Develop Your Contribution:** Use the appropriate templates from `/tools/templates/` and follow the metadata standards in `/tools/types/` to create your contribution.
-
-4. **Submit Your Contribution:**  Once your contribution is ready, follow the detailed guidelines in our [CONTRIBUTING.md](CONTRIBUTING.md) file to submit it for review and integration into the knowledge base.
-
-
-Your contributions are invaluable to our collective learning and the creation of high-quality resources.  We encourage you to participate actively in this process.
+Each working group may have additional conventions documented in their own readme or index files. When in doubt, look at existing content in that area to understand local patterns.

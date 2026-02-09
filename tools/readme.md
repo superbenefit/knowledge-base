@@ -14,52 +14,52 @@ Together, they form an ecosystem that supports the natural flow of knowledge fro
 
 ### Directory Structure
 
-The tools directory is organized into three main areas, each serving a distinct purpose in our workflow:
+The tools directory is organized into three main areas:
 
 ```
 tools/
-├── templates/     # Document templates for content creation
-├── types/         # Metadata type definitions (fileClasses)
+├── templates/
+│   └── layouts/   # Document templates (18 templates)
+├── types/         # Metadata type definitions (21 types)
 └── workflows/     # Structured processes for knowledge management
 ```
 
 ## Core Components
 
-### Templates (`templates/`)
+### Templates (`templates/layouts/`)
 
-Templates are like smart starting points for new documents. Instead of starting from scratch each time, templates provide you with the right structure and metadata fields based on what kind of content you're creating. Think of them as pre-formatted documents that help maintain consistency across our knowledge base.
+Templates are starting points for new documents. They provide the right structure and metadata fields based on what kind of content you're creating.
 
 Available templates include:
 
-- `Note Template.md` - For general notes
-- `Link Template.md` - For external resource documentation
-- `Pattern Template.md` - For documenting reusable solutions
-- `Tag Page Template.md` - For term definitions in our lexicon
-- `Study Template.md` - For case studies
-- `Playbook Template.md` - For comprehensive process documentation
+- `note.md` - Working documents and research notes
+- `pattern.md`, `practice.md`, `primitive.md`, `protocol.md`, `playbook.md` - Knowledge resources
+- `article.md`, `study.md`, `guide.md` - Narrative content
+- `concept.md`, `link.md`, `index.md`, `question.md` - Reference content
+- `person.md`, `group.md`, `project.md`, `place.md`, `gathering.md` - Entity profiles
 
-See the Templates Directory for complete documentation.
+See the [Templates readme](tools/templates/readme.md) for complete documentation.
 
 ### Types (`types/`)
 
-Types are the rules and structure that help organize our content. They define what information (metadata) should be included with different kinds of documents, making it easier to organize, find, and connect related content.
+Types define the metadata structure for different kinds of documents. They use Metadata Menu's fileClass system with inheritance.
 
-Our type system includes:
+The type hierarchy:
 
-- `note.md` - Basic note template
-- `link.md` - External reference documentation
-- `pattern.md` - Reusable solution documentation
-- `tag.md` - Term definition
-- `study.md` - Case study documentation
-- And several others for specialized content
+- **file** - Root type with core fields (title, description, date, publish, permalink, aliases, tags, relatesTo)
+- **resource** - Parent for patterns, practices, primitives, protocols, playbooks (adds url)
+- **story** - Parent for articles, studies, guides (adds author, url)
+- Direct file children: concept, link, person, group, project, place, gathering, question, index
 
-See the Types Directory for detailed information.
+See the [Types readme](tools/types/readme.md) for detailed information.
 
 ## Workflow Tools
 
 ### Workflows (`workflows/`)
 
-Workflows are structured processes for knowledge management tasks that ensure consistency and quality. They provide step-by-step guides for common activities, integrating tools and best practices. Our workflow collections include:
+**Workflows are currently kinda sloppy**
+
+Workflows are meant to be structured processes for knowledge management tasks that ensure consistency and quality. They're intended to provide step-by-step guides for common activities, integrating tools and best practices. Our workflow collections include:
 
 - **Lexicon Workflows** - Processes for creating and enhancing vocabulary entries
 - **Library Workflows** - Methods for evaluating and documenting external resources
@@ -82,7 +82,3 @@ For detailed plugin configuration, see the plugin documentation in your Obsidian
 - Complete types documentation
 - Contributing guidelines
 - [Obsidian documentation](https://help.obsidian.md/)
-
----
-
-_Remember: These tools are here to help, not hinder. If something isn't working for you, let's improve it together._
