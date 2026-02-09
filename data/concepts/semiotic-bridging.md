@@ -4,7 +4,7 @@ description: The practice of translating meaning systems between different commu
 harvester:
   - rathermercurial.eth
 publish: true
-type: tag
+type: concept
 tags:
 ---
 

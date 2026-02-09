@@ -3,7 +3,7 @@ title: a16z DAOs Canon - Comprehensive DAO Resource Collection
 description: Andreessen Horowitz curated collection of foundational DAO readings spanning governance, legal structures, tooling, and case studies, providing comprehensive entry point into decentralized organization literature from venture capital perspective emphasizing practical implementation.
 publish: true
 type: resource-collection
-source: https://future.a16z.com/dao-canon/
+url: https://future.a16z.com/dao-canon/
 author:
   - a16z (Andreessen Horowitz)
 tags:

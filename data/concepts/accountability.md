@@ -1,5 +1,5 @@
 ---
-type: tag
+type: concept
 title: Accountability 
 description: The obligation of individuals, groups, or systems to take responsibility for their actions, decisions, and commitments, enabling trust and effective coordination in decentralized networks. 
 harvester: rathermercurial.eth 

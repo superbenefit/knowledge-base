@@ -3,7 +3,7 @@ title: Expansive and Extractive Networks of Web3 - Critical Power Analysis
 description: Academic paper providing critical power-aware analysis of Web3 systems, examining how decentralized technologies can either expand collective capacity or concentrate extractive power in new forms.
 publish: true
 type: academic-article
-source: https://journals.sagepub.com/doi/10.1177/20539517231159629
+url: https://journals.sagepub.com/doi/10.1177/20539517231159629
 author:
   - Academic Researchers (Sage Journals)
 tags:

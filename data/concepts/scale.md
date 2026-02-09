@@ -1,5 +1,5 @@
 ---
-type: tag
+type: concept
 title: Scale
 description: The different levels of size, complexity, and coordination at which groups operate, each requiring distinct approaches to governance, decision-making, and collaboration 
 harvester: rathermercurial.eth 

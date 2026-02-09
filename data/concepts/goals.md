@@ -1,5 +1,5 @@
 ---
-type: tag
+type: concept
 title: Goals 
 description: Collectively defined objectives that orient decision-making and action toward specific, measurable outcomes while maintaining alignment with shared purpose.
 harvester: rathermercurial.eth

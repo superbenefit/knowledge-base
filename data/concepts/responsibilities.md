@@ -8,7 +8,7 @@ tags:
 aliases:
   - "#responsibilities"
 publish: true
-type: tag
+type: concept
 ---
 
 _Responsibilities are specific duties, obligations, and expected contributions that individuals, groups, or roles commit to fulfilling within an organization or network, creating clear accountability while enabling [decentralized](data/concepts/decentralization.md) [coordination](data/concepts/coordination.md) without hierarchical management._

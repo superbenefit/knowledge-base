@@ -3,7 +3,7 @@ title: ICDevs DAO - Internet Computer Developer Community
 description: Developer-focused DAO for the Internet Computer ecosystem providing bounty systems, transparent governance, and open-source development coordination for Internet Computer protocol advancement.
 publish: true
 type: dao-community
-source: https://dfinity.icdevs.org/
+url: https://dfinity.icdevs.org/
 author:
   - ICDevs DAO
 tags:

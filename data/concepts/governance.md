@@ -1,5 +1,5 @@
 ---
-type: tag
+type: concept
 title: Decentralized Governance
 harvester: 
 tags:

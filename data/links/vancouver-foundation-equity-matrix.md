@@ -3,7 +3,7 @@ title: Equity Matrix - Vancouver Foundation
 description: Practical tool from Vancouver Foundation distinguishing organizations that serve equity-denied communities from those led by affected communities, emphasizing proximity to issue and self-determination in funding decisions.
 publish: true
 type: framework-tool
-source: https://www.vancouverfoundation.ca/wp-content/uploads/2022/08/RR-Fund-Equity-Matrix.pdf
+url: https://www.vancouverfoundation.ca/wp-content/uploads/2022/08/RR-Fund-Equity-Matrix.pdf
 author:
   - Vancouver Foundation
 tags:

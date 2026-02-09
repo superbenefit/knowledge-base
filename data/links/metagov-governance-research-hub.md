@@ -3,7 +3,7 @@ title: Metagov - Governance Research and Development Hub
 description: Leading interdisciplinary research organization and resource hub dedicated to advancing online governance, institutional design, and collective decision-making across decentralized platforms and communities.
 publish: true
 type: resource-hub
-source: https://metagov.org/
+url: https://metagov.org/
 author:
   - Metagov
   - Joshua Tan

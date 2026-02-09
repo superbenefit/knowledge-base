@@ -3,7 +3,7 @@ title: Trust-Based Philanthropy - Transforming Power Dynamics in Funding
 description: Comprehensive framework and principles for trust-based philanthropy that addresses power imbalances in grantmaking through multi-year funding, flexible use of resources, and centering community leadership over funder control.
 publish: true
 type: framework
-source: https://trustbasedphilanthropy.org/
+url: https://trustbasedphilanthropy.org/
 author:
   - Trust-Based Philanthropy Project
 tags:

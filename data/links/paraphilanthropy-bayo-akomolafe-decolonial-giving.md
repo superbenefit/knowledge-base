@@ -3,7 +3,7 @@ title: Paraphilanthropy - Giving Money Its Freedom
 description: Bayo Akomolafe's radical decolonial critique of philanthropy, proposing "paraphilanthropy" as a practice of releasing money from extractive logics and reconnecting giving with fugitivity, land, and more-than-human kinship.
 publish: true
 type: essay
-source: https://www.bayoakomolafe.net/post/paraphilanthropy-giving-money-its-freedom-papers
+url: https://www.bayoakomolafe.net/post/paraphilanthropy-giving-money-its-freedom-papers
 author:
   - Bayo Akomolafe
 tags:

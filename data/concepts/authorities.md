@@ -4,7 +4,7 @@ description: Entities, roles, or systems granted legitimate power to make decisi
 harvester:
   - rathermercurial.eth
 publish: true
-type: tag
+type: concept
 aliases:
   - "#authorities"
 tags:

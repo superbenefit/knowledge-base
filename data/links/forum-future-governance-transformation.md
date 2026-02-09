@@ -3,7 +3,7 @@ title: Forum for the Future - Governance as Route to Transformation
 description: Forum for the Future analysis positioning governance reform as overlooked but essential pathway to systems transformation, examining how participatory governance, futures thinking, and regenerative principles can enable organizations to navigate complexity and contribute to broader societal change.
 publish: true
 type: strategic-analysis
-source: https://www.thefuturescentre.org/governance-the-overlooked-route-to-transformation-how-can-we-best-organise-for-change/
+url: https://www.thefuturescentre.org/governance-the-overlooked-route-to-transformation-how-can-we-best-organise-for-change/
 author:
   - Forum for the Future
 tags:

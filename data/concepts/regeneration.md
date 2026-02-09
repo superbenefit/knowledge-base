@@ -1,5 +1,5 @@
 ---
-type: tag
+type: concept
 title: Regeneration
 description: The active restoration and enhancement of social and ecological systems, going beyond sustainability to create net-positive outcomes that build resilience and vitality
 harvester: heenal.eth

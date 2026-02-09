@@ -1,5 +1,5 @@
 ---
-type: tag
+type: concept
 title: Frameworks
 description: Structured conceptual models that provide principles, components, and relationships for organizing thought and action in complex domains 
 harvester: rathermercurial.eth

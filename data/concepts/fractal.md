@@ -4,7 +4,7 @@ description: Self-similar patterns that repeat at different scales through recur
 harvester:
   - heenal.eth
 publish: true
-type: tag
+type: concept
 aliases:
   - "#fractal"
 tags:

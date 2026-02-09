@@ -3,7 +3,7 @@ title: 22 Top Web3 Social Impact Developments of 2022
 description: Crypto Altruism comprehensive year-in-review documenting significant Web3 social impact developments including humanitarian aid, environmental initiatives, financial inclusion projects, and governance experiments demonstrating blockchain applications beyond speculation.
 publish: true
 type: year-review
-source: https://www.cryptoaltruism.org/blog/22-of-the-top-web3-social-impact-developments-of-2022
+url: https://www.cryptoaltruism.org/blog/22-of-the-top-web3-social-impact-developments-of-2022
 author:
   - Crypto Altruism
 tags:

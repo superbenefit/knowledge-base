@@ -3,7 +3,7 @@ title: DAOstack - Holographic Consensus Governance Framework
 description: DAOstack develops holographic consensus mechanism addressing DAO scalability challenges by enabling collective attention focusing on most critical proposals through prediction markets and reputation-weighted prioritization, demonstrating sophisticated approach to governance at scale beyond simple voting.
 publish: true
 type: platform-framework
-source: https://daostack.io/
+url: https://daostack.io/
 author:
   - DAOstack
 tags:

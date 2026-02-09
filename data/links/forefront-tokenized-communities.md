@@ -3,7 +3,7 @@ title: Forefront - Tokenized Communities Analysis
 description: Forefront's analysis of tokenized community coordination examining how shared tokens enable new membership models, incentive alignment, and collective resource management, while critically assessing risks of financialization and speculation overwhelming community purpose.
 publish: true
 type: analysis
-source: https://forefront.mirror.xyz/LCPVlxuOHJ2yCHvL5hJ9ErCwjwvJ2-Fk1lnOyHviIPc
+url: https://forefront.mirror.xyz/LCPVlxuOHJ2yCHvL5hJ9ErCwjwvJ2-Fk1lnOyHviIPc
 author:
   - Forefront
 tags:

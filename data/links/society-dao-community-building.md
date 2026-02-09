@@ -3,7 +3,7 @@ title: Society - DAO and Community Building Analysis
 description: Society's exploration of how DAOs can support genuine community formation beyond transactional coordination, examining relationship-building, shared culture creation, and belonging that enables decentralized organizations to function as meaningful social groups rather than purely instrumental coordination mechanisms.
 publish: true
 type: essay
-source: https://society.mirror.xyz/diEjKIIbFNpxTsJEQYOJP79NF4SSAIGqbfNDU0pmN3g
+url: https://society.mirror.xyz/diEjKIIbFNpxTsJEQYOJP79NF4SSAIGqbfNDU0pmN3g
 author:
   - Society
 tags:

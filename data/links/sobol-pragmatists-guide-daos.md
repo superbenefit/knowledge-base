@@ -3,7 +3,7 @@ title: Sobol - The Pragmatist's Guide to DAOing
 description: Sobol's practical guide to DAO participation and coordination providing accessible introduction to decentralized organization beyond hype and technical jargon, offering concrete guidance for contributors navigating governance, communication, and collaboration challenges in emerging organizational structures.
 publish: true
 type: practical-guide
-source: https://mirror.xyz/media.sobol.eth/_qfTMgEws2OZOMBxj-Elz7A0lto2gyaHmAFv_gKLYBE
+url: https://mirror.xyz/media.sobol.eth/_qfTMgEws2OZOMBxj-Elz7A0lto2gyaHmAFv_gKLYBE
 author:
   - Sobol
 tags:

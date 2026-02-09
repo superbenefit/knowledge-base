@@ -2,7 +2,7 @@
 title: Ephemeral Cell
 description: A temporary Cell that is created to achieve a specific short-term goal
 publish: true
-type: tag
+type: concept
 aliases:
   - "#ephemeral-cell"
 tags:

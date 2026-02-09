@@ -3,7 +3,7 @@ title: Treasury
 description: A collectively managed, on-chain pool of digital assets that a DAO uses to fund operations, incentivize participation, and advance its shared purpose.
 harvester: lexicon-bot
 publish: true
-type: tag
+type: concept
 aliases:
   - "#treasury"
   - "#treasuries"

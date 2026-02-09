@@ -3,7 +3,7 @@ title: Positive Sum Worlds - Remaking Public Goods
 description: Other Internet research on reimagining public goods through crypto-economic mechanisms that create positive-sum dynamics, expanding collective capacity rather than zero-sum competition.
 publish: true
 type: research-report
-source: https://otherinter.net/research/positive-sum-worlds/
+url: https://otherinter.net/research/positive-sum-worlds/
 author:
   - Other Internet
 tags:

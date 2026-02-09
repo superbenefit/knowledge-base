@@ -3,7 +3,7 @@ title: Building an Economy Within a DAO
 description: Society framework for creating internal economic systems within DAOs that value diverse contributions, reward participation beyond token holdings, and build sustainable coordination through reciprocal exchange.
 publish: true
 type: framework
-source: https://society.mirror.xyz/B5ygLAJOcbI29x7vpNFBq3kmjDuvl6RW52oBuYKoBT0
+url: https://society.mirror.xyz/B5ygLAJOcbI29x7vpNFBq3kmjDuvl6RW52oBuYKoBT0
 author:
   - Society
 tags:

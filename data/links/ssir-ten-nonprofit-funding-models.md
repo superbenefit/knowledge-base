@@ -3,7 +3,7 @@ title: Ten Nonprofit Funding Models - SSIR Framework
 description: Stanford Social Innovation Review comprehensive framework categorizing nonprofit funding approaches, helping organizations understand which models align with their missions and operational needs rather than pursuing all funding sources indiscriminately.
 publish: true
 type: framework
-source: https://ssir.org/articles/entry/ten_nonprofit_funding_models
+url: https://ssir.org/articles/entry/ten_nonprofit_funding_models
 author:
   - Stanford Social Innovation Review
 tags:

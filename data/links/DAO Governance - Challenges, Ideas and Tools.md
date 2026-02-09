@@ -3,7 +3,7 @@ title: DAO Governance - Challenges, Ideas and Tools
 description: A comprehensive exploration of DAO governance challenges and innovations, offering practical frameworks and solutions for effective decentralized decision-making.
 publish: true
 type: article
-source: https://blog.tally.xyz/dao-governance-challenges-ideas-and-tools-1504fd82be24
+url: https://blog.tally.xyz/dao-governance-challenges-ideas-and-tools-1504fd82be24
 author:
   - Jan Otte
   - Simon Sällström

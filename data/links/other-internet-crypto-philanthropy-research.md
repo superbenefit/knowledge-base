@@ -3,7 +3,7 @@ title: Aping into Progress - Crypto Philanthropy Deep Dive
 description: Other Internet comprehensive research report examining crypto philanthropy landscape, mechanisms, and whether blockchain-based giving serves social impact better than traditional philanthropy or reproduces extraction with new technology.
 publish: true
 type: research-report
-source: https://otherinter.net/research/crypto-philanthropy/
+url: https://otherinter.net/research/crypto-philanthropy/
 author:
   - Other Internet
 tags:

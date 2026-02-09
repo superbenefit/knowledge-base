@@ -3,7 +3,7 @@ title: An Ecological Technology - James Bridle Interview
 description: Emergence Magazine interview with artist and technologist James Bridle exploring ecological, systemic approaches to technology that recognize interconnection with the more-than-human world.
 publish: true
 type: interview
-source: https://emergencemagazine.org/interview/an-ecological-technology/
+url: https://emergencemagazine.org/interview/an-ecological-technology/
 author:
   - James Bridle
   - Emergence Magazine

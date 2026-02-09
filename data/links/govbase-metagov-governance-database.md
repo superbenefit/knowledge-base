@@ -3,7 +3,7 @@ title: Govbase - Online Governance Projects Database
 description: Metagov comprehensive database documenting online governance systems across platforms, communities, and protocols, providing searchable repository of coordination mechanisms for research and design inspiration.
 publish: true
 type: database-resource
-source: https://govbase.metagov.org/
+url: https://govbase.metagov.org/
 author:
   - Metagov
 tags:

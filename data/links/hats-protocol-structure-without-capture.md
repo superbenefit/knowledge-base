@@ -3,7 +3,7 @@ title: Hats Protocol - Structure Without Capture
 description: Anti-capture governance framework and protocol providing organizational structure that prevents power concentration through revocable delegated authority, enabling accountability without centralized control.
 publish: true
 type: protocol-framework
-source: https://hats.mirror.xyz/sZjE4zm3jwV9pwUoiqkfbQzabTlWYcdTQqN46iiLkyw
+url: https://hats.mirror.xyz/sZjE4zm3jwV9pwUoiqkfbQzabTlWYcdTQqN46iiLkyw
 author:
   - Hats Protocol
 tags:

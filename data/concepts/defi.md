@@ -6,7 +6,7 @@ tags: []
 aliases:
   - "#defi"
 publish: true
-type: tag
+type: concept
 ---
 
 _A blockchain-based financial ecosystem that offers open, permissionless access to financial services like lending, borrowing, trading, and payments, enabling individuals to participate in the global economy without relying on traditional financial institutions._

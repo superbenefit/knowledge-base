@@ -1,5 +1,5 @@
 ---
-type: tag
+type: concept
 title: Non-Fungible Tokens (NFTs)
 description: Unique digital assets that enable verifiable ownership, authentication, and governance participation within decentralized systems
 harvester: rathermercurial.eth

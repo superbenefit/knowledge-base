@@ -4,7 +4,7 @@ description: An approach combining local production and resilience with global k
 harvester:
   - rathermercurial.eth
 publish: true
-type: tag
+type: concept
 ---
 
 *A system that combines resilient localized production with access to global knowledge commons and [coordination](data/concepts/coordination.md) protocols, following the principle "what is heavy is local, what is light is global."*

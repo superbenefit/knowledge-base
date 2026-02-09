@@ -1,5 +1,5 @@
 ---
-type: tag
+type: concept
 title: Blockchain
 harvester:
   - lyndonb.eth

@@ -3,7 +3,7 @@ title: Polycentric
 description: Governance systems with multiple autonomous decision-making centers operating at different scales with overlapping responsibilities, enabling both local autonomy and coordinated collective action
 harvester: heenal
 publish: true
-type: tag
+type: concept
 aliases:
   - "#polycentric"
 tags:

@@ -3,7 +3,7 @@ title: Wallets
 description: Digital tools used to manage cryptographic keys, which provide access to and control over on-chain assets and enable interaction with decentralized applications.
 harvester: lexicon-bot
 publish: true
-type: tag
+type: concept
 aliases:
   - "#wallets"
   - "#wallet"

@@ -3,7 +3,7 @@ title: Beyond DAOs - Design Decisions for Internet Organizations
 description: Metagov comprehensive framework examining governance design choices for internet-based organizations beyond DAO defaults, exploring diverse coordination models and when different structures serve different organizational needs.
 publish: true
 type: framework
-source: https://medium.com/metagov/beyond-daos-design-decisions-for-internet-organizations-5e5b21779104
+url: https://medium.com/metagov/beyond-daos-design-decisions-for-internet-organizations-5e5b21779104
 author:
   - Metagov
 tags:

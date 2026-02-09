@@ -4,7 +4,7 @@ description: A group of individuals connected through shared purpose, values, or
 harvester: rathermercurial.eth
 curator: 
 publish: true
-type: tag
+type: concept
 aliases:
   - "#community"
 tags:

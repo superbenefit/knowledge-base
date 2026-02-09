@@ -3,7 +3,7 @@ title: Planetary Infrastructure as Resistance - Solarpunk and Web3
 description: ZORA ZINE article connecting solarpunk aesthetics and values with regenerative Web3, showing how decentralized technologies can serve climate resilience and post-capitalist futures rather than merely speculative finance.
 publish: true
 type: essay
-source: https://zine.zora.co/solarpunk-web3-kareola
+url: https://zine.zora.co/solarpunk-web3-kareola
 author:
   - ZORA ZINE
 tags:

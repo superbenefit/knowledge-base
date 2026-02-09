@@ -1,5 +1,5 @@
 ---
-type: tag
+type: concept
 title: Coordination
 description: The processes, mechanisms, and systems that enable diverse agents to align their actions effectively toward shared goals without requiring centralized control
 harvester:

@@ -4,7 +4,7 @@ description: Consensus, as it is used in Consensus based decision-making
 harvester:
   - yeoro.eth
 publish: true
-type: tag
+type: concept
 aliases:
   - "#consensus"
 tags:

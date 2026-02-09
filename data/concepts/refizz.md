@@ -5,7 +5,7 @@ harvester:
   - yeoro.eth
   - rathermercurial.eth
 publish: true
-type: tag
+type: concept
 tags:
   - practices
   - actions

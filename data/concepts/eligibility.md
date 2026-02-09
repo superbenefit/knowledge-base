@@ -4,7 +4,7 @@ description: The criteria, conditions, or qualifications that determine whether 
 harvester:
   - rathermercurial.eth
 publish: true
-type: tag
+type: concept
 aliases:
   - "#eligibility"
 tags:

@@ -7,7 +7,7 @@ tags:
 aliases:
   - "#practices"
 publish: true
-type: tag
+type: concept
 ---
 
 *Practices are established methods, routines, and processes that guide individual and collective behavior, providing structured approaches to action, decision-making, and coordination that enable consistent and effective pursuit of shared goals.*

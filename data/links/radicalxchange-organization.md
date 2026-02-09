@@ -3,7 +3,7 @@ title: RadicalxChange - Democratic Transformation Organization
 description: Core organization advancing democratic transformation through resilient decentralization, plural publics, and collective agency, providing research, tools, and community for systemic transition beyond extractive markets and authoritarian states.
 publish: true
 type: organization
-source: https://www.radicalxchange.org/#
+url: https://www.radicalxchange.org/#
 author:
   - RadicalxChange
 tags:

@@ -3,7 +3,7 @@ title: Working Toward Financial Inclusion With Blockchain - SSIR
 description: Stanford Social Innovation Review analysis examining blockchain's potential for financial inclusion alongside persistent barriers, offering realistic assessment of where decentralized finance serves unbanked populations versus where hype exceeds reality.
 publish: true
 type: analysis
-source: https://ssir.org/articles/entry/working_toward_financial_inclusion_with_blockchain?utm_source=Enews&utm_medium=Email&utm_campaign=SSIR_Now
+url: https://ssir.org/articles/entry/working_toward_financial_inclusion_with_blockchain?utm_source=Enews&utm_medium=Email&utm_campaign=SSIR_Now
 author:
   - Stanford Social Innovation Review
 tags:

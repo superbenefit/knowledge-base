@@ -3,7 +3,7 @@ title: Enchanted Network - Working With Lore - The Future of Work
 description: Enchanted Network exploration reimagining work beyond capitalist employment paradigms, examining how alternative economic relationships, gift economies, and commons-based production can create livelihoods aligned with ecological regeneration and community wellbeing rather than extraction and accumulation.
 publish: true
 type: conceptual-framework
-source: https://enchanted.network/working-with-lore/the-future-of-work
+url: https://enchanted.network/working-with-lore/the-future-of-work
 author:
   - Enchanted Network
 tags:

@@ -1,5 +1,5 @@
 ---
-type: tag
+type: concept
 title: Solidarity Economics
 description: An alternative economic framework that prioritizes mutual support, democratic participation, and collective wellbeing over profit maximization, creating economic relationships based on cooperation and shared responsibility
 harvester: heenal.eth

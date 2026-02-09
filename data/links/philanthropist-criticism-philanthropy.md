@@ -3,7 +3,7 @@ title: The Philanthropist - Criticism is Good for Philanthropy, If Done Well
 description: Article examining role of critical analysis in improving philanthropic practice, arguing that constructive criticism strengthens sector by exposing power imbalances and effectiveness gaps while exploring how philanthropy can create cultures welcoming accountability rather than defensiveness.
 publish: true
 type: essay
-source: https://thephilanthropist.ca/2023/12/criticism-is-good-for-philanthropy-if-done-well/
+url: https://thephilanthropist.ca/2023/12/criticism-is-good-for-philanthropy-if-done-well/
 author:
   - The Philanthropist Journal
 tags:

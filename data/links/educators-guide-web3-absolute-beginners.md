@@ -3,7 +3,7 @@ title: Educator's Guide to Web3 for Absolute Beginners
 description: Comprehensive educational resource from EdTech Insiders providing accessible introduction to Web3 concepts, blockchain technology, and decentralized applications designed specifically for educators and learning contexts.
 publish: true
 type: educational-guide
-source: https://edtechinsiders.substack.com/p/educators-guide-to-web3-for-absolute
+url: https://edtechinsiders.substack.com/p/educators-guide-to-web3-for-absolute
 author:
   - EdTech Insiders
 tags:

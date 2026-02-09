@@ -3,7 +3,7 @@ title: Decolonial Futures - Gesturing Towards Alternatives to Modernity
 description: Foundational resource on decolonization, indigenous wisdom, and imagining alternatives to modernity, exploring how to disentangle from colonial systems and gesture towards different ways of being and knowing.
 publish: true
 type: resource-hub
-source: https://decolonialfutures.net/
+url: https://decolonialfutures.net/
 author:
   - Vanessa Andreotti
   - Sharon Stein

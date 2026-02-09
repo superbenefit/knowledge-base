@@ -2,7 +2,7 @@
 title: Privacy
 description: The safeguarding of personal, transactional, and organizational data to ensure autonomy, security, and ethical stewardship in digital ecosystems.
 publish: true
-type: tag
+type: concept
 aliases:
   - "#privacy"
 tags:

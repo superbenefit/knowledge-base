@@ -3,7 +3,7 @@ title: Modular Politics - Toward a Governance Layer for Online Communities
 description: A framework proposing modular, interoperable governance components that enable communities to build flexible and adaptable governance systems across digital platforms.
 publish: true
 type: framework
-source: https://arxiv.org/pdf/2005.13701.pdf
+url: https://arxiv.org/pdf/2005.13701.pdf
 author:
   - Nathan Schneider
   - Primavera De Filippi

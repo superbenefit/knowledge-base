@@ -3,7 +3,7 @@ title: Decentralised Tech & the Future of Organising
 description: A curated collection of web3 projects and initiatives with significant social impact potential, emphasizing practical applications beyond speculation and financial use cases.
 publish: true
 type: directory
-source: https://richdecibels.substack.com/p/9-decentralised-tech-and-the-future
+url: https://richdecibels.substack.com/p/9-decentralised-tech-and-the-future
 author:
   - Richard Bartlett
 tags:

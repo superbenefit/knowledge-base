@@ -3,7 +3,7 @@ title: WHAO - World Heritage Autonomous Organisation
 description: World Heritage Catalysis applying Ostrom's commons governance principles to DAOs in context of World Heritage sites, showing how polycentric coordination can serve cultural and ecological heritage through participatory blockchain governance.
 publish: true
 type: dao-project
-source: https://www.whcatalysis.org/whao
+url: https://www.whcatalysis.org/whao
 author:
   - World Heritage Catalysis
 tags:

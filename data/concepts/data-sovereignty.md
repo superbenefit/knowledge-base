@@ -8,7 +8,7 @@ tags:
 aliases:
   - "#data-sovereignty"
 publish: true
-type: tag
+type: concept
 ---
 
 *Data sovereignty refers to the right and capacity of individuals, communities, and governing bodies to maintain authority over their data, determining how it is collected, stored, processed, and shared while preserving autonomy and self-determination in an increasingly data-driven world.*

@@ -4,7 +4,7 @@ description: Reusable solutions for common challenges in organizations and syste
 harvester:
   - rathermercurial.eth
 publish: true
-type: tag
+type: concept
 aliases:
   - "#patterns"
 ---

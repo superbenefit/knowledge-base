@@ -3,7 +3,7 @@ title: DRC December Report - Liquid Democracy, Cooperative AI, Web3 Philanthropy
 description: Democracy Research Collective synthesis examining liquid democracy mechanisms, cooperative AI governance, and Web3 philanthropy innovations, providing research-grounded analysis of emerging democratic coordination approaches beyond conventional voting systems.
 publish: true
 type: research-report
-source: https://drc.beehiiv.com/p/drc-december-report
+url: https://drc.beehiiv.com/p/drc-december-report
 author:
   - Democracy Research Collective
 tags:

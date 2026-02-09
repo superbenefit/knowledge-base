@@ -3,7 +3,7 @@ title: Assembly Theory x Onchain Capital Allocation
 description: Gitcoin framework integrating assembly theory from complexity science with onchain capital allocation design, offering novel theoretical approach to understanding and improving how DAOs distribute resources.
 publish: true
 type: framework
-source: https://gov.gitcoin.co/t/assembly-theory-x-onchain-capital-allocation-a-powerful-approach-to-allo-design-space-exploration/19729
+url: https://gov.gitcoin.co/t/assembly-theory-x-onchain-capital-allocation-a-powerful-approach-to-allo-design-space-exploration/19729
 author:
   - Gitcoin Community
 tags:

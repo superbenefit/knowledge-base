@@ -1,5 +1,5 @@
 ---
-type: tag
+type: concept
 title: Mutualism
 description: An economic and social philosophy emphasizing voluntary cooperation, reciprocal exchange, and mutual aid as foundations for organizing economic relationships without exploitation or centralized authority
 harvester: heenal.eth

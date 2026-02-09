@@ -3,7 +3,7 @@ title: Automating Ostrom for Effective DAO Management
 description: Commons Stack framework applying Elinor Ostrom's Nobel Prize-winning commons governance principles to DAO design, showing how proven institutional patterns can inform blockchain coordination systems.
 publish: true
 type: framework
-source: https://medium.com/commonsstack/automating-ostrom-for-effective-dao-management-cfe7a7aea138
+url: https://medium.com/commonsstack/automating-ostrom-for-effective-dao-management-cfe7a7aea138
 author:
   - Commons Stack
 tags:

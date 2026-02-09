@@ -3,7 +3,7 @@ title: We Need To Rewild The Internet - Noema Magazine
 description: Noema article applying ecological restoration metaphor to internet infrastructure, arguing that current platform monoculture requires rewilding through decentralization, interoperability, and biodiversity rather than continued consolidation.
 publish: true
 type: essay
-source: https://www.noemamag.com/we-need-to-rewild-the-internet/?utm_source=premiumnewsletter&utm_medium=email
+url: https://www.noemamag.com/we-need-to-rewild-the-internet/?utm_source=premiumnewsletter&utm_medium=email
 author:
   - Noema Magazine
 tags:

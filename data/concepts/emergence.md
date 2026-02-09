@@ -4,7 +4,7 @@ description: The phenomenon where properties, behaviors, or outcomes arise from 
 harvester:
   - heenal.eth
 publish: true
-type: tag
+type: concept
 aliases:
   - "#emergence"
 tags:

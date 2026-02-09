@@ -9,7 +9,7 @@ tags:
 aliases:
 - "#transparency"
 publish: true
-type: tag
+type: concept
 ---
 
 *[Transparency](data/concepts/transparency.md) is the practice of making information, processes, and decisions visible and accessible to relevant stakeholders, enabling verification, accountability, and informed [participation](participation.md) in collective systems without requiring trust in centralized authorities.*

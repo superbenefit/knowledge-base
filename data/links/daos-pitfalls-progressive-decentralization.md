@@ -3,7 +3,7 @@ title: DAOs and the Pitfalls of Progressive Decentralization
 description: Critical governance analysis from Gardens examining how "progressive decentralization"—gradually distributing control over time—can serve as excuse for founder control rather than genuine power redistribution in DAO contexts.
 publish: true
 type: analysis
-source: https://gardens.substack.com/p/daos-and-the-pitfalls-of-progressive
+url: https://gardens.substack.com/p/daos-and-the-pitfalls-of-progressive
 author:
   - Gardens
 tags:

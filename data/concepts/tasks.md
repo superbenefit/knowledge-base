@@ -2,7 +2,7 @@
 title: Tasks
 description: Specific, coordinated actions or duties assigned to roles or agents within decentralized systems
 publish: true
-type: tag
+type: concept
 tags:
   - agreements
   - coordination

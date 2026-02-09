@@ -3,7 +3,7 @@ title: Crypto Altruism Podcast
 description: Comprehensive podcast resource documenting crypto for social impact initiatives, interviews with practitioners, and analysis of how blockchain technologies serve humanitarian, environmental, and social justice goals beyond financial speculation.
 publish: true
 type: podcast
-source: https://www.cryptoaltruism.org/podcast
+url: https://www.cryptoaltruism.org/podcast
 author:
   - Crypto Altruism
 tags:

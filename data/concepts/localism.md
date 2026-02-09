@@ -4,7 +4,7 @@ description: An approach to social, economic, and political organization that pr
 harvester:
   - rathermercurial.eth
 publish: true
-type: tag
+type: concept
 aliases:
   - "#localism"
   - "#local"

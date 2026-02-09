@@ -3,7 +3,7 @@ title: Funding the Commons - Past Research Residencies
 description: Documentation of Funding the Commons research residencies bringing scholars and practitioners together for intensive study of public goods funding mechanisms, creating knowledge production bridging academic research with implementation practice.
 publish: true
 type: residency-program
-source: https://www.fundingthecommons.io/residencies
+url: https://www.fundingthecommons.io/residencies
 author:
   - Funding the Commons
 tags:

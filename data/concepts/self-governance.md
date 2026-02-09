@@ -3,7 +3,7 @@ title: Self-governance
 description: The capacity for groups to organize, make decisions, and govern themselves autonomously without relying on external authorities or centralized control structures
 harvester: heenal.eth
 publish: true
-type: tag
+type: concept
 aliases:
   - "#self-governance"
 tags:

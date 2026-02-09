@@ -3,7 +3,7 @@ title: Cabin - Network City Building Regenerative Communities
 description: Cabin DAO pioneers network city model connecting physical neighborhoods through shared values and decentralized governance, demonstrating how DAO coordination structures can support regenerative place-based communities beyond purely digital organization.
 publish: true
 type: organization
-source: https://www.cabin.city/census
+url: https://www.cabin.city/census
 author:
   - Cabin DAO
 tags:

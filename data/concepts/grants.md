@@ -3,7 +3,7 @@ title: Grants
 description: Financial awards distributed from a DAO's treasury to fund projects, teams, and individuals whose work advances the organization's purpose, without the expectation of repayment.
 harvester: lexicon-bot
 publish: true
-type: tag
+type: concept
 aliases:
   - "#grants"
   - "#grant"

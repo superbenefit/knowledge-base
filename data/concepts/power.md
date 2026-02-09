@@ -1,7 +1,7 @@
 ---
 title: Power
 publish: true
-type: tag
+type: concept
 harvester:
   - heenal.eth
 tags:

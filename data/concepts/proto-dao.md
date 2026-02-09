@@ -1,5 +1,5 @@
 ---
-type: tag
+type: concept
 title: ProtoDAO
 description: An early-stage organizational form in the development of decentralized autonomous organizations that establishes community governance mechanisms while transitioning toward full decentralization
 harvester: heenal

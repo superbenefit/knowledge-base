@@ -3,7 +3,7 @@ title: Tomorrow's Democracy Is Open Source - Noema Magazine
 description: Noema essay arguing for treating democracy like open-source software—participatory, iterative, collaborative—showing how digital governance as commons enables continuous democratic innovation rather than static institutional forms.
 publish: true
 type: essay
-source: https://www.noemamag.com/tomorrows-democracy-is-open-source
+url: https://www.noemamag.com/tomorrows-democracy-is-open-source
 author:
   - Noema Magazine
 tags:

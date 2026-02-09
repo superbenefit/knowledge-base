@@ -3,7 +3,7 @@ title: joaxap - DAO Governance Models 101
 description: Educational overview of DAO governance approaches providing accessible introduction to voting mechanisms, delegation systems, multi-sig management, and decision-making structures, helping newcomers understand governance options and trade-offs without requiring technical expertise.
 publish: true
 type: educational-resource
-source: https://mirror.xyz/joaxap.eth/SBlRa5cehZx8ETMsTrbFpwRZ42zZaaxABsL5XSYJFn4
+url: https://mirror.xyz/joaxap.eth/SBlRa5cehZx8ETMsTrbFpwRZ42zZaaxABsL5XSYJFn4
 author:
   - joaxap
 tags:

@@ -3,7 +3,7 @@ title: Hypercerts - Impact Certificate Protocol
 description: Novel protocol for creating impact certificates that enable retroactive funding by making positive externalities trackable, tradeable, and rewardable through onchain credentials representing verifiable impact contributions.
 publish: true
 type: protocol
-source: https://hypercerts.org/
+url: https://hypercerts.org/
 author:
   - Hypercerts Foundation
 tags:

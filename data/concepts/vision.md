@@ -1,5 +1,5 @@
 ---
-type: tag
+type: concept
 title: Vision
 description: An aspirational description of the desired future state that an organization or community seeks to create through its collective efforts
 harvester: rathermercurial.eth

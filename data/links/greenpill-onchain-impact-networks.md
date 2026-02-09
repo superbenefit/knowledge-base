@@ -3,7 +3,7 @@ title: Onchain Impact Networks - GreenPill Framework
 description: GreenPill comprehensive framework for building onchain impact networks that coordinate regenerative action, align incentives with ecological and social benefit, and create infrastructure for measuring and rewarding positive externalities.
 publish: true
 type: framework
-source: https://greenpill.network/pdf/onchain-impact-networks.pdf
+url: https://greenpill.network/pdf/onchain-impact-networks.pdf
 author:
   - GreenPill Network
 tags:

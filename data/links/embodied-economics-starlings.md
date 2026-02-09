@@ -3,7 +3,7 @@ title: Embodied Economics - What Economists Can Learn from Starlings
 description: Embodied Economics essay examining what murmuration behavior teaches about coordination without central control, challenging economic assumptions about markets and hierarchies while exploring how ecological patterns inform alternative economic thinking grounded in embodied intelligence.
 publish: true
 type: essay
-source: https://embodied-economics.ghost.io/starlings/
+url: https://embodied-economics.ghost.io/starlings/
 author:
   - Embodied Economics
 tags:

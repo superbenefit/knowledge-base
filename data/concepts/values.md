@@ -9,7 +9,7 @@ aliases:
 - "#values"
 - "#qualities"
 publish: true
-type: tag
+type: concept
 ---
 
 _Values are core principles and desired characteristics that guide [decision-making](archive/clarity/Tags/decision-making.md), system design, and operations, embodying the aspirations and ethical commitments that shape how organizations and networks function and evolve._

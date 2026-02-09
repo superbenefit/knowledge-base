@@ -3,7 +3,7 @@ title: Operator - Protocol-First DAO Strategy Framework
 description: Strategic framework for DAOs built around protocols rather than organizations, examining how protocol-first approach shifts governance priorities toward long-term infrastructure resilience, minimal viable governance, and credible neutrality over operational decision-making and organizational growth.
 publish: true
 type: strategic-framework
-source: https://operator.mirror.xyz/MBNHkLf0s-NPRty1gAsf1OrJji28JL3DfDCC7tACBW4
+url: https://operator.mirror.xyz/MBNHkLf0s-NPRty1gAsf1OrJji28JL3DfDCC7tACBW4
 author:
   - Operator
 tags:

@@ -1,5 +1,5 @@
 ---
-type: tag
+type: concept
 title: Cooperative
 description: An autonomous association of persons united voluntarily to meet their common economic, social, and cultural needs through a jointly owned and democratically controlled enterprise
 harvester:

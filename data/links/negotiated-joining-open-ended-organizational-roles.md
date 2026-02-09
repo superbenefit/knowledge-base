@@ -3,7 +3,7 @@ title: Using Negotiated Joining to Construct Open-ended Roles
 description: Academic research examining how organizations construct flexible roles through negotiated joining processes where newcomers and existing members collectively define responsibilities rather than filling predetermined positions.
 publish: true
 type: academic-research
-source: https://journals.sagepub.com/doi/full/10.1177/0001839214557638
+url: https://journals.sagepub.com/doi/full/10.1177/0001839214557638
 author:
   - Academic Researchers
 tags:

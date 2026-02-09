@@ -3,7 +3,7 @@ title: Plurality - Technology for Collaborative Diversity and Democracy
 description: Comprehensive open-source book by Glen Weyl, Audrey Tang, and contributors exploring pluralistic democracy, digital governance, and technology for collaborative diversity across difference.
 publish: true
 type: book
-source: https://www.radicalxchange.org/media/blog/plurality-technology-for-collaborative-diversity-and-democracy/
+url: https://www.radicalxchange.org/media/blog/plurality-technology-for-collaborative-diversity-and-democracy/
 author:
   - E. Glen Weyl
   - Audrey Tang

@@ -1,5 +1,5 @@
 ---
-type: tag
+type: concept
 title: Solidarity
 description: A principle of unity and mutual support among individuals or groups based on shared interests, purposes, and responsibilities, which empowers collective action and reciprocal care beyond charity or philanthropy
 harvester: heenal.eth

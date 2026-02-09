@@ -3,7 +3,7 @@ title: Peer-to-peer
 description: A decentralized network architecture where participants act as both clients and servers, sharing resources and communicating directly without requiring centralized intermediaries or control structures
 harvester: heenal
 publish: false
-type: tag
+type: concept
 aliases:
   - "#peer-to-peer"
   - "#p2p"

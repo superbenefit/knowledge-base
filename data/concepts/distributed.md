@@ -4,7 +4,7 @@ description: An architectural arrangement where resources, components, or proces
 harvester:
   - heenal.eth
 publish: true
-type: tag
+type: concept
 aliases:
   - "#distributed"
 tags:

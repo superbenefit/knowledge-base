@@ -3,7 +3,7 @@ title: Ethereum Localism - Knowledge Garden and Movement
 description: An action-oriented research hub and community movement bridging digital blockchain innovation with real-world local impact through community-driven initiatives, tools, and educational resources that ground global technologies in local contexts.
 publish: true
 type: movement
-source: http://ethereumlocalism.xyz
+url: http://ethereumlocalism.xyz
 author:
   - Ethereum Localism Community
   - Ethereal Forest DAO

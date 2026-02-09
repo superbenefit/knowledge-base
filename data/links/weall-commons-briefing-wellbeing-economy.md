@@ -3,7 +3,7 @@ title: Commons Briefing - Wellbeing Economy Alliance
 description: WEAll briefing on commons-based approaches to economic transformation, exploring how shared resource governance can serve wellbeing rather than growth-at-all-costs economics.
 publish: true
 type: policy-briefing
-source: https://weall.org/wp-content/uploads/WEAllBriefing_Commons_IN_15November2021-1.pdf
+url: https://weall.org/wp-content/uploads/WEAllBriefing_Commons_IN_15November2021-1.pdf
 author:
   - Wellbeing Economy Alliance (WEAll)
 tags:

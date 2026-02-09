@@ -8,7 +8,7 @@ tags:
 aliases:
 - "#payments"
 publish: true
-type: tag
+type: concept
 ---
 
 _Payments are structured transfers of value between parties that enable resource allocation, compensation for contributions, and facilitation of exchange, forming the foundation of economic [coordination](data/concepts/coordination.md) in both traditional and [decentralized](data/concepts/decentralization.md) systems._

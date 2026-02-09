@@ -1,5 +1,5 @@
 ---
-type: tag
+type: concept
 title: Protocols
 description: Standardized sets of rules or procedures, both digital and social, that enable coordination, communication, and reliable interaction among participants in decentralized systems.
 harvester: rathermercurial.eth 

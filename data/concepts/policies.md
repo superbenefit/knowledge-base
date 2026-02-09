@@ -8,7 +8,7 @@ tags:
 aliases:
   - "#policies"
 publish: true
-type: tag
+type: concept
 ---
 
 *Policies are formalized rules, procedures, and guidelines that establish parameters for decision-making and behavior within organizations, enabling consistent governance, coordination, and alignment with shared purpose.*

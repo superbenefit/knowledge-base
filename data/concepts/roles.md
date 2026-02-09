@@ -1,5 +1,5 @@
 ---
-type: tag
+type: concept
 title: Roles
 description: Defined sets of responsibilities, permissions, and accountabilities that enable coordination and specialization within decentralized systems
 harvester: rathermercurial.eth

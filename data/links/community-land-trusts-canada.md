@@ -3,7 +3,7 @@ title: Community Land Trusts in Canada
 description: Network documenting Canadian community land trusts (CLTs) implementing commons-based land governance where communities collectively own land while individuals hold buildings, removing land from speculative markets to ensure permanent affordability.
 publish: true
 type: network-resource
-source: https://www.communityland.ca/canadian-clts/
+url: https://www.communityland.ca/canadian-clts/
 author:
   - Community Land Trust Network
 tags:

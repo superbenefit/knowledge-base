@@ -3,7 +3,7 @@ title: Impact DAOs - Practical Resource Guide
 description: Comprehensive practical guide for social impact organizations using DAO structures, providing accessible documentation on governance setup, legal considerations, treasury management, and community coordination for mission-driven decentralized organizations beyond purely financial applications.
 publish: true
 type: practical-guide
-source: https://docs.impactdaos.xyz/
+url: https://docs.impactdaos.xyz/
 author:
   - Impact DAO Contributors
 tags:

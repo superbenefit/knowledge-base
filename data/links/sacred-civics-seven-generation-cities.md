@@ -3,7 +3,7 @@ title: Sacred Civics - Building Seven Generation Cities
 description: Open access book exploring indigenous knowledge and seven-generation thinking in urban governance, showing how cities can integrate long-term ecological and social sustainability through participatory governance rooted in indigenous wisdom and systems transformation.
 publish: true
 type: academic-book
-source: https://www.taylorfrancis.com/books/oa-edit/10.4324/9781003199816/sacred-civics-jayne-engle-julian-agyeman-tanya-chung-tiam-fook
+url: https://www.taylorfrancis.com/books/oa-edit/10.4324/9781003199816/sacred-civics-jayne-engle-julian-agyeman-tanya-chung-tiam-fook
 author:
   - Jayne Engle
   - Julian Agyeman

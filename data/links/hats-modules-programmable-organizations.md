@@ -3,7 +3,7 @@ title: Hats Modules - A New Era for Programmable Organizations
 description: Hats Protocol modular system enabling programmable organizational structures through composable primitives that organizations can combine to create custom authority, accountability, and coordination mechanisms.
 publish: true
 type: protocol-framework
-source: https://hats.mirror.xyz/xAk_yb7dDL1OLBx8nq47Ni7V1SuiC6L6B-49u7vz520
+url: https://hats.mirror.xyz/xAk_yb7dDL1OLBx8nq47Ni7V1SuiC6L6B-49u7vz520
 author:
   - Hats Protocol
 tags:

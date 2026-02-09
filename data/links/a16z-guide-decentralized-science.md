@@ -3,7 +3,7 @@ title: a16z Guide to DeSci - Decentralized Science Overview
 description: Andreessen Horowitz comprehensive guide to decentralized science (DeSci) movement using blockchain tools to address research funding, peer review, and data sharing challenges, examining how Web3 approaches could transform scientific knowledge production beyond current institutional models.
 publish: true
 type: guide
-source: https://future.a16z.com/what-is-decentralized-science-aka-desci/
+url: https://future.a16z.com/what-is-decentralized-science-aka-desci/
 author:
   - a16z (Andreessen Horowitz)
 tags:

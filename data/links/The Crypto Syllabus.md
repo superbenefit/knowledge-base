@@ -3,7 +3,7 @@ title: The Crypto Syllabus
 description: A carefully curated educational resource that examines blockchain technologies, cryptocurrencies, and Web3 through critical interdisciplinary perspectives beyond typical techno-optimist narratives.
 publish: true
 type: syllabus
-source: https://the-crypto-syllabus.com/
+url: https://the-crypto-syllabus.com/
 author:
   - Evgeny Morozov
   - The Crypto Syllabus Team

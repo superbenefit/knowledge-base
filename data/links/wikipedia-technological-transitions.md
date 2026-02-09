@@ -3,7 +3,7 @@ title: Wikipedia - Technological Transitions and Socio-Technical Systems
 description: Wikipedia's comprehensive overview of technological transitions theory examining how large-scale socio-technical systems transform through multi-level interactions between niches, regimes, and landscapes, providing established framework for understanding systemic change beyond simplistic innovation narratives.
 publish: true
 type: reference
-source: https://en.wikipedia.org/wiki/Technological_transitions#Socio-technical_systems_and_transitions
+url: https://en.wikipedia.org/wiki/Technological_transitions#Socio-technical_systems_and_transitions
 author:
   - Wikipedia Contributors
 tags:

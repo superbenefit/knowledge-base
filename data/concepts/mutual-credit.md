@@ -1,5 +1,5 @@
 ---
-type: tag
+type: concept
 title: Mutual Credit
 description: Exchange systems where currency is created through transactions as corresponding credits and debits, enabling communities to facilitate trade without requiring external money supply or centralized banking infrastructure
 harvester: heenal.eth

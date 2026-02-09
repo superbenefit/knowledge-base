@@ -6,7 +6,7 @@ tags:
 aliases:
   - "#actions"
 publish: true
-type: tag
+type: concept
 ---
 
 *Actions are occurrences or processes initiated by individuals or systems that result in a change or impact on a given situation, environment, or system.* ^9a4c53

@@ -3,7 +3,7 @@ title: Community Building in DAOs
 description: A practical guide to fostering vibrant, engaged communities within decentralized autonomous organizations, addressing key challenges and opportunities in web3 community development.
 publish: true
 type: guide
-source: https://docs.google.com/document/d/1CDUF9AZo9o8s5w5ouzkL_E3c_8WGx23FUv6mjLhYRuY/mobilebasic
+url: https://docs.google.com/document/d/1CDUF9AZo9o8s5w5ouzkL_E3c_8WGx23FUv6mjLhYRuY/mobilebasic
 author:
   - rep3
   - DAO Community Builders

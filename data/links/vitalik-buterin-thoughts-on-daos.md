@@ -3,7 +3,7 @@ title: Vitalik Buterin - Thoughts on DAOs
 description: Ethereum co-founder Vitalik Buterin's comprehensive analysis of DAO governance examining fundamental challenges, mechanism limitations, and realistic assessment of what decentralized coordination can accomplish versus utopian promises.
 publish: true
 type: analysis
-source: https://vitalik.eth.limo/general/2022/09/20/daos.html
+url: https://vitalik.eth.limo/general/2022/09/20/daos.html
 author:
   - Vitalik Buterin
 tags:

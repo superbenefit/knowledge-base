@@ -1,5 +1,5 @@
 ---
-type: tag
+type: concept
 title: Playbooks
 description: Comprehensive, structured guides that provide practical frameworks and step-by-step instructions for implementing patterns, practices, and protocols in particular contexts.
 harvester: 

@@ -3,7 +3,7 @@ title: Introducing the Agreement Engine - Metagov
 description: Metagov protocol for creating enforceable community agreements through programmable contracts that encode collective commitments, enabling communities to formalize mutual obligations beyond informal norms or rigid smart contracts.
 publish: true
 type: protocol
-source: https://medium.com/metagov/introducing-the-agreement-engine-bf03b6d5c16c
+url: https://medium.com/metagov/introducing-the-agreement-engine-bf03b6d5c16c
 author:
   - Metagov
 tags:

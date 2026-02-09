@@ -3,7 +3,7 @@ title: Collectively Intelligent Sustainable Common Future
 description: Comprehensive Demos Helsinki report examining how collective intelligence, digital democracy, and participatory governance can address sustainability challenges through regenerative approaches to decision-making.
 publish: true
 type: research-report
-source: https://demoshelsinki.fi/julkaisut/collectively-intelligent-sustainable-common-future/
+url: https://demoshelsinki.fi/julkaisut/collectively-intelligent-sustainable-common-future/
 author:
   - Demos Helsinki
 tags:

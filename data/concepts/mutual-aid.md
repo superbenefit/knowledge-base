@@ -1,5 +1,5 @@
 ---
-type: tag
+type: concept
 title: Mutual Aid
 description: Collective coordination where communities share resources, skills, and care directly with one another to meet needs, build resilience, and create alternatives to hierarchical systems
 harvester: heenal.eth

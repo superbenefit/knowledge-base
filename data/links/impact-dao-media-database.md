@@ -3,7 +3,7 @@ title: Impact DAO Media - Comprehensive DAO Database and Analysis
 description: Impact DAO Media maintains comprehensive database tracking DAO landscape with governance focus, providing structured data on organizational models, voting mechanisms, treasury management, and participation patterns across hundreds of decentralized organizations.
 publish: true
 type: database
-source: https://daos.paradigm.xyz/
+url: https://daos.paradigm.xyz/
 author:
   - Impact DAO Media
 tags:

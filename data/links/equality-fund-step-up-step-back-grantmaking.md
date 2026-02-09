@@ -3,7 +3,7 @@ title: Step Up, Step Back - Reimagining Non-Competitive Grantmaking
 description: Equality Fund framework for feminist, power-aware grantmaking that addresses how competitive funding processes harm movements through "Step Up, Step Back" participatory allocation where funded organizations determine distribution together.
 publish: true
 type: framework
-source: https://equalityfund.ca/grantmaking/step-up-step-back-reimagining-non-competitive-grantmaking-in-community/
+url: https://equalityfund.ca/grantmaking/step-up-step-back-reimagining-non-competitive-grantmaking-in-community/
 author:
   - Equality Fund
 tags:

@@ -9,7 +9,7 @@ tags:
 aliases:
 - "#permissions"
 publish: true
-type: tag
+type: concept
 ---
 
 _Permissions are formalized rights and access controls that determine which agents can perform specific actions within a system, enabling secure [coordination](data/concepts/coordination.md) by balancing [autonomy](data/concepts/autonomy.md) with accountability across [decentralized](data/concepts/decentralization.md) networks._

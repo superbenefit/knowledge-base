@@ -3,7 +3,7 @@ title: 1kx - Organization Legos - The State of DAO Tooling
 description: 1kx Network comprehensive analysis of DAO tooling landscape examining governance platforms, treasury management, contributor coordination, and communication infrastructure, mapping composable organizational primitives emerging in Web3 ecosystem.
 publish: true
 type: research-report
-source: https://medium.com/1kxnetwork/organization-legos-the-state-of-dao-tooling-866b6879e93e
+url: https://medium.com/1kxnetwork/organization-legos-the-state-of-dao-tooling-866b6879e93e
 author:
   - 1kx Network
 tags:

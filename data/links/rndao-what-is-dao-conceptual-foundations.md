@@ -3,7 +3,7 @@ title: What is a DAO? - Conceptual Foundations by RnDAO
 description: RnDAO comprehensive conceptual analysis examining fundamental question of what constitutes a DAO, exploring boundaries, definitions, and core characteristics that distinguish decentralized autonomous organizations from other coordination forms.
 publish: true
 type: conceptual-analysis
-source: https://mirror.xyz/0x8B580433568E521ad351b92b98150c0C65ce69B7/1zGqbsh1YZNi3I9yvtk_2VMcpyg_dvHF1GlZ_LAO3p4
+url: https://mirror.xyz/0x8B580433568E521ad351b92b98150c0C65ce69B7/1zGqbsh1YZNi3I9yvtk_2VMcpyg_dvHF1GlZ_LAO3p4
 author:
   - RnDAO
 tags:

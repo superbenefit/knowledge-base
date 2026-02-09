@@ -3,7 +3,7 @@ title: The Handbook of Handbooks for Decentralised Organising
 description: A mega list of handbooks and toolkits for groups working without top-down management from social movements to workplaces open source for anyone to read, update, share
 publish: true
 type: link
-source: https://hackmd.io/@yHk1snI9T9SNpiFu2o17oA/Skh_dXNbE?type=view
+url: https://hackmd.io/@yHk1snI9T9SNpiFu2o17oA/Skh_dXNbE?type=view
 author:
   - Richard Bartlett
 tags:

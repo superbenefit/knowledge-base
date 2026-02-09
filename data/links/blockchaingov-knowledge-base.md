@@ -3,7 +3,7 @@ title: BlockchainGov Knowledge Base - Blockchain Governance Resource Directory
 description: Specialized knowledge base aggregating resources on blockchain governance systems, protocols, and mechanisms, providing structured access to documentation, research, and analysis on how decentralized networks coordinate upgrades, parameter changes, and community decisions.
 publish: true
 type: resource-directory
-source: https://early-venom-c6c.notion.site/BlockchainGov-Knowledge-Base-df40420e46574d1b8a6d49ec8286fa62
+url: https://early-venom-c6c.notion.site/BlockchainGov-Knowledge-Base-df40420e46574d1b8a6d49ec8286fa62
 author:
   - BlockchainGov
 tags:

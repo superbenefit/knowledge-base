@@ -3,7 +3,7 @@ title: The Political Economy of the Commons - David Bollier Interview
 description: Comprehensive interview with commons scholar David Bollier exploring commons-based economics, alternatives to capitalism, and how shared resource governance challenges scarcity mindsets and market fundamentalism.
 publish: true
 type: interview
-source: https://david-bollier.medium.com/the-political-economy-of-the-commons-an-interview-with-me-e8c8bc95daa5
+url: https://david-bollier.medium.com/the-political-economy-of-the-commons-an-interview-with-me-e8c8bc95daa5
 author:
   - David Bollier
 tags:
