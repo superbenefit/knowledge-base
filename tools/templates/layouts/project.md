@@ -1,36 +1,29 @@
 ---
 title:
 description:
-date: <% tp.date.now("YYYY-MM-DD") %>
+date:
 type: project
-slug:
+url:
 status: active
-lead: []
-contributors: []
-group:
-repository:
-homepage:
-startDate:
-endDate:
 publish: false
 ---
 
 %% LEAD: In 2-3 sentences, introduce this project—its aim and current status. Projects are time-bounded endeavors with specific deliverables, distinct from ongoing groups. %%
 
-## Project Details
+## About This Project
 
-### Goals
+### Purpose
 
-%% What is this project trying to produce or achieve? What are the concrete deliverables? What does "done" look like? %%
+%% What is this project trying to produce or achieve? What are the concrete deliverables? %%
 
-### Approach
+### Practices
 
-%% How is the project structured? What methodology guides the work? What key decisions have shaped the approach? %%
+%% How is the project structured? What methodology guides the work? %%
 
-### Current Status
+### Progress
 
 %% Where is the project now? What phase is it in? What's been accomplished? What's next? %%
 
 ## Related Pages
 
-%% Link to the group running this project, people involved, patterns being applied, and artifacts produced. %%
+%% Link to the group running this project, people involved, and artifacts produced. %%

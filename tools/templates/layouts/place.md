@@ -1,10 +1,9 @@
 ---
 title:
 description:
-date: <% tp.date.now("YYYY-MM-DD") %>
+date:
 type: place
 geo:
-containedIn:
 region:
 publish: false
 ---
@@ -13,13 +12,7 @@ publish: false
 
 ## About This Place
 
-### Geographic Context
-
-%% Describe the location—where it is, what bioregion it belongs to, relevant geographic features. Include political boundaries if relevant but prioritize ecological and cultural geography. %%
-
-### Significance
-
-%% Why does this place matter to the knowledge commons? What gatherings happen here? What groups are based here? What makes it distinctive for decentralized organizing or social impact work? %%
+%% Describe the location, its significance to the knowledge commons, and what makes it distinctive for decentralized organizing or social impact work. %%
 
 ## Related Pages
 

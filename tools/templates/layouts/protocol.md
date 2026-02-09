@@ -1,39 +1,18 @@
 ---
 title:
 description:
-date: <% tp.date.now("YYYY-MM-DD") %>
+date:
 tags:
   - protocols
 publish: false
 type: protocol
-questions: []
 ---
 
-%% LEAD: In 2-3 sentences, name this protocol and describe what it enables. Protocols are detailed operational mechanisms defining specific steps, roles, and interactions for consistent coordination. Example: "The *Consent Decision Protocol* enables groups to make decisions efficiently by testing for objections rather than seeking full agreement." %%
+%% LEAD: In 2-3 sentences, name this protocol and describe what it enables. Protocols are detailed operational mechanisms defining specific steps, roles, and interactions for consistent coordination. %%
 
 ## The Protocol
 
-### Context
-
-%% Describe the coordination challenges this protocol addresses. What types of organizations, teams, or networks benefit from this standardized procedure? What goes wrong without it? %%
-
-### Operational Mechanism
-
-%% Define the specific steps, procedures, and interactions that constitute this protocol:
-- Clear step-by-step procedures
-- Defined roles and responsibilities
-- Required inputs and expected outputs
-- Decision points and criteria
-- Interaction patterns between participants %%
-
-### Implementation Considerations
-
-%% Guidance for putting this protocol into practice:
-- Technical requirements (tools, platforms, infrastructure)
-- Social requirements (communication patterns, training, cultural prerequisites)
-- Integration points (how it connects with other protocols or systems)
-- Adaptation guidelines (how to customize while maintaining core function)
-- Success indicators (how to measure effective implementation) %%
+%% Define the specific steps, procedures, and interactions that constitute this protocol. Include context for when to use it and guidance for implementation. %%
 
 ## Related Pages
 

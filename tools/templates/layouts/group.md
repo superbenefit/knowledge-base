@@ -1,12 +1,10 @@
 ---
 title:
 description:
-date: <% tp.date.now("YYYY-MM-DD") %>
+date:
 type: group
-slug:
+url:
 members: []
-parent:
-homepage:
 publish: false
 ---
 
@@ -16,16 +14,16 @@ publish: false
 
 ### Purpose
 
-%% What is this group trying to accomplish? What mission or mandate guides its work? What would success look like? %%
+%% What is this group trying to accomplish? What mission or mandate guides its work? %%
 
-### Structure
+### Practices
 
-%% How does this group organize itself? What are its boundaries—who's in, who's out, how does one join? What governance mechanisms does it use? %%
+%% How does this group work together? What processes, rituals, or methods does it use? %%
 
-### Current Work
+### Progress
 
-%% What is this group actively working on? What projects, initiatives, or programs is it running? %%
+%% What has this group accomplished? What is it currently working on? What's next? %%
 
 ## Related Pages
 
-%% Link to member profiles, parent organizations, sibling groups, projects this group runs, and patterns it employs. %%
+%% Link to member profiles, parent organizations, sibling groups, and projects this group runs. %%

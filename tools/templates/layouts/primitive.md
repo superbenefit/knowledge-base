@@ -1,28 +1,18 @@
 ---
 title:
 description:
-date: <% tp.date.now("YYYY-MM-DD") %>
+date:
 type: primitive
-category:
-questions: []
+tags:
+  - primitives
 publish: false
 ---
 
-%% LEAD: In 2-3 sentences, name this primitive and its function. Primitives are atomic building blocks that combine into larger structures. Example: "A *multisig* is a primitive requiring multiple parties to authorize an action, providing shared custody without single points of failure." %%
+%% LEAD: In 2-3 sentences, name this primitive and its function. Primitives are atomic building blocks that combine into larger structures. %%
 
 ## The Primitive
 
-### Definition
-
-%% Precise explanation of what this primitive is and does. What's its core function? What problem does it solve at the most basic level? %%
-
-### How It Combines
-
-%% Primitives gain power through combination. What other primitives does this commonly combine with? What larger patterns or structures does it enable? %%
-
-### Implementations
-
-%% Concrete examples of this primitive in practice. What tools, protocols, or organizations use it? How do implementations vary? %%
+%% Explain what this primitive is, how it works, and what it enables when combined with other primitives. %%
 
 ## Related Pages
 

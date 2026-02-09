@@ -71,29 +71,64 @@ Each template implements one or more types defined in `/tools/types/`. The relat
 
 This separation of concerns means that when you use a template, you're automatically following the metadata requirements defined by its corresponding type.
 
+### Template Location
+
+All templates are located in `/tools/templates/layouts/`.
+
 ### Template to Type Mapping
 
 | Template | Type | Purpose |
 |----------|------|---------|
-| note.md | note | Basic research notes and concepts |
-| link.md | link | External resource documentation |
-| tag.md | tag | Lexicon entries for terminology |
-| pattern.md | pattern | Reusable organizational solutions |
-| playbook.md | playbook | Implementation guides |
-| study.md | study | Case studies of implementations |
+| note.md | file | Working documents and research notes |
+| article.md | article | Formal publications and essays |
+| concept.md | concept | Term definitions for the lexicon |
+| gathering.md | gathering | Events and meetings |
+| group.md | group | Organizations and collectives |
+| guide.md | guide | Tutorials and instructional content |
 | index.md | index | Directory overview pages |
+| link.md | link | External resource documentation |
+| pattern.md | pattern | Reusable organizational solutions |
+| person.md | person | Individual profiles |
+| place.md | place | Locations and bioregions |
+| playbook.md | playbook | Implementation guides |
+| practice.md | practice | Repeated activities and methods |
+| primitive.md | primitive | Atomic building blocks |
+| project.md | project | Time-bounded initiatives |
+| protocol.md | protocol | Formal procedures and standards |
+| question.md | question | Research questions |
+| study.md | study | Case studies of implementations |
 
 ## Choosing the Right Template
 
 Select the template that best matches the type of content you're creating:
 
+**Working Documents**
 - Use **note.md** for early-stage ideas and research that's still developing
-- Use **link.md** for documenting external resources with analysis and context
-- Use **tag.md** for defining terminology in our shared vocabulary
+
+**Knowledge Resources**
 - Use **pattern.md** for documenting reusable solutions to common challenges
+- Use **practice.md** for repeated activities that build capacity
+- Use **primitive.md** for atomic building blocks
+- Use **protocol.md** for formal procedures and standards
 - Use **playbook.md** for comprehensive implementation guides
+
+**Narrative Content**
+- Use **article.md** for formal publications and essays
 - Use **study.md** for case studies of real-world implementations
+- Use **guide.md** for tutorials and instructional content
+
+**Reference Content**
+- Use **concept.md** for defining terminology in our shared vocabulary
+- Use **link.md** for documenting external resources with analysis and context
 - Use **index.md** for directory overview pages
+- Use **question.md** for research questions to explore
+
+**Entity Profiles**
+- Use **person.md** for individual profiles
+- Use **group.md** for organizations, DAOs, and collectives
+- Use **project.md** for time-bounded initiatives
+- Use **place.md** for locations and bioregions
+- Use **gathering.md** for events and meetings
 
 When in doubt, start with the basic note template and refine your content as it develops.
 
