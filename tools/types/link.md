@@ -7,11 +7,12 @@ filesPaths:
   - data/links
 bookmarksGroups:
 excludes:
-extends: reference
+extends: file
 savedViews: []
 favoriteView:
 fieldsOrder:
   - url01
+  - linkType01
 version: "3.0"
 fields:
   - name: url
@@ -19,10 +20,15 @@ fields:
     options: {}
     path: ""
     id: url01
+  - name: linkType
+    type: Input
+    options: {}
+    path: ""
+    id: linkType01
 ---
 The Link type documents and contextualizes external resources relevant to the SuperBenefit knowledge base. Links go beyond simple bookmarking by adding analysis, commentary, and connections to internal knowledge.
 
-Located in `data/links/` to create a curated resource collection, Links extend the Reference type. Each link entry includes not just the URL and basic metadata, but also summaries, relevance explanations, and relationships to patterns, studies, or other content types.
+Located in `data/links/`, each link entry includes not just the URL and basic metadata, but also summaries, relevance explanations, and relationships to patterns, studies, or other content types.
 
 This type enables the curation of a living library that bridges internal knowledge development with the broader ecosystem of ideas.
 
