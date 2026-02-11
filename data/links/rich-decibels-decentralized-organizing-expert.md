@@ -2,21 +2,18 @@
 title: Rich Decibels - Decentralized Organizing Expert
 description: Personal resource hub of Richard D. Bartlett, co-founder of Loomio, Enspiral, and Microsolidarity, bridging community organizing traditions with decentralized governance innovations.
 publish: true
-type: resource-hub
+type: link
+linkType: directory
 url: http://richdecibels.com/
 author:
   - Richard D. Bartlett
 tags:
-  - decentralized-organizing
   - community-governance
-  - social-dynamics
-  - self-management
-  - cooperation
   - mutual-aid
-  - group-dynamics
+  - groups
 ---
 
-Rich Decibels represents a unique bridge between traditional [community](data/concepts/community.md) [organizing](tags/organizing.md) and emerging [decentralized](data/concepts/decentralization.md) [governance](data/concepts/governance.md) models. As co-founder of Loomio (collaborative [decision-making](archive/clarity/Tags/decision-making.md) software), Enspiral (a self-managing collective), Microsolidarity (mutual-aid community [networks](data/concepts/networks.md)), and The Hum (organizational design consultancy), Richard D. Bartlett has spent over a decade developing practical frameworks for non-hierarchical [coordination](data/concepts/coordination.md). His work stands out in the decentralized space for its emphasis on social dynamics and lived experience rather than purely technical solutions, offering seasoned wisdom about the human challenges that arise when groups attempt to organize without traditional power structures.
+Rich Decibels represents a unique bridge between traditional [community](data/concepts/community.md) [organizing](tags/organizing.md) and emerging [decentralized](data/concepts/decentralization.md) [governance](data/concepts/governance.md) models. As co-founder of Loomio (collaborative [decision-making](data/concepts/decisions.md) software), Enspiral (a self-managing collective), Microsolidarity (mutual-aid community [networks](data/concepts/networks.md)), and The Hum (organizational design consultancy), Richard D. Bartlett has spent over a decade developing practical frameworks for non-hierarchical [coordination](data/concepts/coordination.md). His work stands out in the decentralized space for its emphasis on social dynamics and lived experience rather than purely technical solutions, offering seasoned wisdom about the human challenges that arise when groups attempt to organize without traditional power structures.
 
 ### Key Highlights
 - **Practitioner-Researcher Integration**: Unlike purely academic or purely technical approaches, Rich combines hands-on experience building successful decentralized organizations (Enspiral, Loomio) with systematic pattern documentation, creating resources grounded in real-world implementation challenges and successes.

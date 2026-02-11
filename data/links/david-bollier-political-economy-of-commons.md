@@ -2,18 +2,14 @@
 title: The Political Economy of the Commons - David Bollier Interview
 description: Comprehensive interview with commons scholar David Bollier exploring commons-based economics, alternatives to capitalism, and how shared resource governance challenges scarcity mindsets and market fundamentalism.
 publish: true
-type: interview
+type: link
+linkType: interview
 url: https://david-bollier.medium.com/the-political-economy-of-the-commons-an-interview-with-me-e8c8bc95daa5
 author:
   - David Bollier
 tags:
-  - commons
-  - political-economy
-  - david-bollier
-  - alternative-economics
-  - commons-governance
-  - post-capitalism
-  - shared-resources
+  - governance
+  - resources
 ---
 
 This interview with David Bollier—author, activist, and leading commons scholar—offers accessible entry into the political economy of commons-based systems as alternatives to both market capitalism and state control. Bollier articulates how commons [governance](data/concepts/governance.md) transcends the presumed dichotomy between private property and public ownership, showing how [communities](data/concepts/community.md) worldwide manage shared resources through participatory stewardship that prioritizes collective wellbeing over individual accumulation. Rather than accepting scarcity as natural condition requiring competitive markets, Bollier demonstrates how commons create abundance through cooperation, challenging fundamental assumptions about human nature and economic organization. The interview synthesizes decades of commons research and practice into frameworks directly applicable to contemporary questions about digital governance, platform cooperatives, and regenerative economics.

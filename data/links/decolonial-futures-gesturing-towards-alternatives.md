@@ -2,7 +2,8 @@
 title: Decolonial Futures - Gesturing Towards Alternatives to Modernity
 description: Foundational resource on decolonization, indigenous wisdom, and imagining alternatives to modernity, exploring how to disentangle from colonial systems and gesture towards different ways of being and knowing.
 publish: true
-type: resource-hub
+type: link
+linkType: directory
 url: https://decolonialfutures.net/
 author:
   - Vanessa Andreotti
@@ -10,13 +11,7 @@ author:
   - Cash Ahenakew
   - Rene Suša
 tags:
-  - decolonial
-  - indigenous-wisdom
-  - alternatives-to-modernity
-  - colonial-systems
-  - metabolic-literacies
-  - hospicing-modernity
-  - radical-relationality
+  - systems
 ---
 
 Decolonial Futures represents one of the most comprehensive and philosophically rigorous resources for understanding decolonization not as inclusion within existing systems but as disentanglement from the violent assumptions of modernity itself. Created by an international collective of scholars, educators, and practitioners (including Vanessa Andreotti, Sharon Stein, Cash Ahenakew, Rene Suša), the project offers frameworks, tools, and provocations for interrogating how colonial logics shape everything from education to economics to relationships with land and each other. Rather than prescribing solutions, the work invites "gesturing towards" alternatives—acknowledging that genuinely decolonial futures cannot be known in advance but must emerge through difficult, transformative processes of unlearning and relearning.

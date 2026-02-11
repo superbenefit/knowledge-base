@@ -2,17 +2,15 @@
 title: Onchain Impact Networks - GreenPill Framework
 description: GreenPill comprehensive framework for building onchain impact networks that coordinate regenerative action, align incentives with ecological and social benefit, and create infrastructure for measuring and rewarding positive externalities.
 publish: true
-type: framework
+type: link
+linkType: pattern
 url: https://greenpill.network/pdf/onchain-impact-networks.pdf
 author:
   - GreenPill Network
 tags:
-  - impact-networks
-  - greenpill
-  - regenerative-coordination
-  - onchain-impact
-  - positive-externalities
-  - impact-measurement
+  - networks
+  - coordination
+  - impact
 ---
 
 GreenPill's onchain [impact](data/concepts/impact.md) networks [framework](data/concepts/frameworks.md) articulates how [blockchain](data/concepts/blockchain.md) [coordination](data/concepts/coordination.md) can serve ecological and social [regeneration](data/concepts/regeneration.md) through [networks](data/concepts/networks.md) that measure, verify, and reward positive externalities. Traditional economics treats environmental restoration and [community](data/concepts/community.md) benefit as "externalities" outside market calculation, systematically undervaluing regenerative work while rewarding extraction. The framework shows how onchain systems can make impact measurable and rewardable—creating incentives aligned with regeneration rather than extraction. Rather than assuming markets will address environmental and social harm, GreenPill demonstrates how to build coordination infrastructure that explicitly values and funds work creating ecological and community benefit, using blockchain mechanisms to coordinate action across organizations and geographies.

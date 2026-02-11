@@ -2,7 +2,8 @@
 title: DAO Governance - Challenges, Ideas and Tools
 description: A comprehensive exploration of DAO governance challenges and innovations, offering practical frameworks and solutions for effective decentralized decision-making.
 publish: true
-type: article
+type: link
+linkType: article
 url: https://blog.tally.xyz/dao-governance-challenges-ideas-and-tools-1504fd82be24
 author:
   - Jan Otte
@@ -12,15 +13,15 @@ tags:
   - governance
   - daos
   - coordination
-  - decision-making
+  - decisions
   - frameworks
 ---
 
-"DAO [Governance](data/concepts/governance.md) - Challenges, Ideas and Tools" provides a thoughtful analysis of the complex landscape of [decentralized](data/concepts/decentralization.md) governance. Written by the team at Tally, this resource balances theoretical understanding with practical guidance, examining both historical governance patterns and emerging innovations. The article addresses the fundamental tensions inherent in decentralized [decision-making](archive/clarity/Tags/decision-making.md) while offering concrete frameworks and tools that [community](data/concepts/community.md) can adapt to their specific contexts and needs.
+"DAO [Governance](data/concepts/governance.md) - Challenges, Ideas and Tools" provides a thoughtful analysis of the complex landscape of [decentralized](data/concepts/decentralization.md) governance. Written by the team at Tally, this resource balances theoretical understanding with practical guidance, examining both historical governance patterns and emerging innovations. The article addresses the fundamental tensions inherent in decentralized [decision-making](data/concepts/decisions.md) while offering concrete frameworks and tools that [community](data/concepts/community.md) can adapt to their specific contexts and needs.
 
 ### Key Highlights
 - **Historical Context**: The article traces the evolution of DAO governance from early experiments to contemporary approaches, identifying recurring patterns and persistent challenges that have shaped the field. This historical perspective helps readers understand why certain governance models have emerged and what problems they aim to solve.
-- **Governance Dilemmas**: The resource articulates fundamental tensions in DAO governance, including [participation](tags/participation.md) vs. efficiency, flexibility vs. stability, and inclusivity vs. expertise. Rather than offering simplistic solutions, it presents these as essential trade-offs that community must navigate according to their values and goals.
+- **Governance Dilemmas**: The resource articulates fundamental tensions in DAO governance, including [participation](data/concepts/participation.md) vs. efficiency, flexibility vs. stability, and inclusivity vs. expertise. Rather than offering simplistic solutions, it presents these as essential trade-offs that community must navigate according to their values and goals.
 - **Decision Domains Framework**: The article introduces a practical framework for distinguishing between different types of decisions (operational, tactical, strategic) and matching appropriate governance mechanisms to each domain. This helps [DAOs](data/concepts/daos.md) implement more nuanced governance rather than using one-size-fits-all approaches.
 - **Multidimensional Participation**: Moving beyond token-based voting, the resource explores multiple dimensions of participation including delegation, reputation systems, optimistic governance, and conviction voting. Each mechanism is presented with its strengths, limitations, and appropriate use cases.
 - **Evolutionary Approach**: The article advocates for an evolutionary view of governance, where systems mature alongside community rather than being fixed from inception. It offers practical guidance for how DAOs can implement progressive decentralization and adapt governance as they grow and their needs change.

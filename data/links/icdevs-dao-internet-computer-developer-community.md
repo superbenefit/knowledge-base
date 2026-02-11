@@ -2,18 +2,15 @@
 title: ICDevs DAO - Internet Computer Developer Community
 description: Developer-focused DAO for the Internet Computer ecosystem providing bounty systems, transparent governance, and open-source development coordination for Internet Computer protocol advancement.
 publish: true
-type: dao-community
+type: link
+linkType: group
 url: https://dfinity.icdevs.org/
 author:
   - ICDevs DAO
 tags:
-  - dao-governance
-  - internet-computer
-  - developer-community
-  - bounty-systems
-  - open-source
-  - transparent-governance
-  - dfinity
+  - governance
+  - community
+  - systems
 ---
 
 ICDevs DAO represents a developer-focused decentralized autonomous organization dedicated to advancing the Internet Computer ecosystem through transparent [governance](data/concepts/governance.md), bounty [coordination](data/concepts/coordination.md), and open-source development. Operating on the Internet Computer protocol (developed by DFINITY Foundation), ICDevs creates infrastructure for coordinating technical contributions through bounty systems that reward developers for building tools, libraries, and documentation that strengthen the broader ecosystem. Unlike corporate-controlled development models, ICDevs distributes decision-making power among contributors and stakeholders, using on-chain governance to prioritize work, allocate resources, and recognize diverse forms of technical contribution beyond traditional employment structures.

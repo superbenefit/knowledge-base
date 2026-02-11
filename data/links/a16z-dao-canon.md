@@ -2,17 +2,15 @@
 title: a16z DAOs Canon - Comprehensive DAO Resource Collection
 description: Andreessen Horowitz curated collection of foundational DAO readings spanning governance, legal structures, tooling, and case studies, providing comprehensive entry point into decentralized organization literature from venture capital perspective emphasizing practical implementation.
 publish: true
-type: resource-collection
+type: link
+linkType: directory
 url: https://future.a16z.com/dao-canon/
 author:
   - a16z (Andreessen Horowitz)
 tags:
-  - dao-resources
-  - governance-frameworks
-  - legal-structures
-  - dao-tooling
-  - web3-infrastructure
-  - curated-collection
+  - resources
+  - governance
+  - daos
 ---
 
 Andreessen Horowitz's "DAOs, A Canon" assembles comprehensive collection of readings on [decentralized autonomous organizations](data/concepts/daos.md), curated from venture capital firm's perspective on emerging organizational forms. The collection spans DAO [governance](data/concepts/governance.md) mechanisms, legal structure considerations, [coordination](data/concepts/coordination.md) tooling, [treasury](data/concepts/treasury.md) management, and case studies from established projects. Rather than advocating single DAO model, the canon presents diverse perspectives on how decentralized organizations function, what challenges they face, and what infrastructure supports them. The curation reflects a16z's position at intersection of technology investment and organizational innovation, providing practical resource for founders, developers, and governance designers building or participating in DAOs. While originating from venture capital context that some may view critically, the collection offers accessible aggregation of DAO literature that can serve various audiences navigating decentralized coordination.

@@ -2,19 +2,14 @@
 title: Retroactive Public Goods Funding
 description: A groundbreaking funding mechanism designed to create startup-style exits for public goods projects by rewarding demonstrated impact rather than predicted outcomes, addressing the fundamental challenge of sustaining open source development.
 publish: true
-type: framework
+type: link
+linkType: pattern
 url: https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c
 author:
   - Optimism
   - Vitalik Buterin
 tags:
-  - public-goods-funding
-  - retroqf
-  - impact-measurement
-  - optimism
-  - alternative-economics
-  - funding-mechanisms
-  - open-source
+  - impact
 ---
 
 This foundational article introduces Retroactive [Public Goods](tags/public-goods.md) Funding, a mechanism designed to solve the fundamental problem of funding public goods and open source projects. Written collaboratively by Optimism and Vitalik Buterin, the piece addresses why talented builders often abandon public good projects for profit-driven ventures despite genuine desire to maximize social benefit. By creating "exits" for public goods projects based on demonstrated [impact](data/concepts/impact.md) rather than business models, RetroQF aims to attract more resources and talent to projects that serve [community](data/concepts/community.md) benefit over individual wealth accumulation.
@@ -22,7 +17,7 @@ This foundational article introduces Retroactive [Public Goods](tags/public-good
 ### Key Highlights
 - **Core Innovation - Results Oracle**: The mechanism introduces a "Results Oracle" DAO that funds projects retroactively, rewarding those recognized as having already provided value. This approach leverages the principle that "it's easier to agree on what was useful than what will be useful," making impact assessment more objective and achievable than predictive funding.
 - **Creating Market Incentives for Public Goods**: By providing exits for public good projects, RetroQF creates backwards incentives that enable startup-style funding cycles. This allows public goods projects to attract upfront investment and competitive talent by offering potential returns based on demonstrated social impact rather than extractive business models.
-- **Project Token Innovation**: The framework includes the radical concept of "project tokens" that create prediction markets for Results Oracle funding. These tokens establish price floors based on oracle rewards, allowing projects to receive multiple funding rounds and enabling broader community [participation](tags/participation.md) in project success.
+- **Project Token Innovation**: The framework includes the radical concept of "project tokens" that create prediction markets for Results Oracle funding. These tokens establish price floors based on oracle rewards, allowing projects to receive multiple funding rounds and enabling broader community [participation](data/concepts/participation.md) in project success.
 - **Addressing the Nonprofit Funding Gap**: Unlike traditional grants or donations which provide insufficient runway for competitive salaries and team building, RetroQF offers a sustainable model where successful public goods projects can achieve meaningful financial exits, making them viable career paths for top talent.
 - **Implementation Commitment**: Optimism committed to directing all profits from sequencing operations (prior to [decentralization](data/concepts/decentralization.md)) to public goods funding experiments, demonstrating practical implementation rather than theoretical discussion.
 - **Multi-layered Ecosystem Design**: The framework acknowledges the need for supporting infrastructure including grants programs, token sales on exchanges, and quadratic funding to help bootstrap the ecosystem before RetroQF becomes self-sustaining.
@@ -43,7 +38,7 @@ The model provides a replicable framework for any organization seeking to align 
 
 - Directly demonstrates an alternative economic model that rewards community benefit over individual profit extraction, aligning with SuperBenefit's regenerative economics approach by creating sustainable funding for projects that serve collective rather than private interests.
 - Provides a practical implementation of impact-based resource allocation that SuperBenefit can reference for funding its own regenerative initiatives and community projects.
-- The Results Oracle concept resonates with SuperBenefit's emphasis on community stewardship and democratic [decision-making](archive/clarity/Tags/decision-making.md) about resource allocation, offering a technical framework for implementing collective [governance](data/concepts/governance.md) over funding decisions.
+- The Results Oracle concept resonates with SuperBenefit's emphasis on community stewardship and democratic [decision-making](data/concepts/decisions.md) about resource allocation, offering a technical framework for implementing collective [governance](data/concepts/governance.md) over funding decisions.
 - Addresses the challenge of sustaining regenerative projects by creating economic incentives that don't rely on extractive business models, supporting SuperBenefit's vision of viable alternatives to traditional capitalist structures.
 ---
 

@@ -2,12 +2,12 @@
 title: Decentralised Tech & the Future of Organising
 description: A curated collection of web3 projects and initiatives with significant social impact potential, emphasizing practical applications beyond speculation and financial use cases.
 publish: true
-type: directory
+type: link
+linkType: directory
 url: https://richdecibels.substack.com/p/9-decentralised-tech-and-the-future
 author:
   - Richard Bartlett
 tags:
-  - web3
   - coordination
   - decentralization
   - impact
@@ -18,7 +18,7 @@ tags:
 
 ### Key Highlights
 - **[Public Goods](tags/public-goods.md) Focus**: The resource emphasizes projects developing infrastructure for public goods funding, including Gitcoin's quadratic funding mechanism and Giveth's donation platform. This section demonstrates how web3 techniques can mobilize resources for shared needs that traditional markets and governments struggle to address.
-- **[Coordination](data/concepts/coordination.md) Tooling**: Bartlett highlights innovative approaches to collective [decision-making](archive/clarity/Tags/decision-making.md) and resource allocation, including conviction voting, optimistic [governance](data/concepts/governance.md), and sybil resistance mechanisms. These tools demonstrate web3's potential for enabling new forms of large-scale coordination that overcome traditional collective action problems.
+- **[Coordination](data/concepts/coordination.md) Tooling**: Bartlett highlights innovative approaches to collective [decision-making](data/concepts/decisions.md) and resource allocation, including conviction voting, optimistic [governance](data/concepts/governance.md), and sybil resistance mechanisms. These tools demonstrate web3's potential for enabling new forms of large-scale coordination that overcome traditional collective action problems.
 - **Practical Governance Experiments**: The directory presents real-world applications of novel governance mechanisms by initiatives like AraCred, SourceCred, and Coordinape that enable transparent, automated distribution of rewards and recognition within decentralized [community](data/concepts/community.md).
 - **Regenerative Economics**: The resource showcases projects building blockchain-based systems for environmental regeneration, including carbon markets, biodiversity credits, and land stewardship initiatives. These examples illustrate how tokenization and [transparency](data/concepts/transparency.md) can create new economic models aligned with ecological flourishing.
 - **Local-Global Bridges**: Bartlett highlights initiatives creating connections between digital protocols and place-based community, showing how web3 tools can support bioregional economies and local resilience while maintaining global knowledge sharing.

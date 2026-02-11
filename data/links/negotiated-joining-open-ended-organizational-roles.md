@@ -2,17 +2,13 @@
 title: Using Negotiated Joining to Construct Open-ended Roles
 description: Academic research examining how organizations construct flexible roles through negotiated joining processes where newcomers and existing members collectively define responsibilities rather than filling predetermined positions.
 publish: true
-type: academic-research
+type: link
+linkType: study
 url: https://journals.sagepub.com/doi/full/10.1177/0001839214557638
 author:
   - Academic Researchers
 tags:
-  - organizational-roles
-  - negotiated-joining
-  - role-construction
-  - organizational-design
-  - flexibility
-  - adaptive-structures
+  - roles
 ---
 
 This academic research explores how organizations create open-ended roles through negotiated joining—processes where newcomers and existing members collectively construct responsibilities rather than having individuals fill predefined positions. Traditional role theory assumes organizations have fixed positions that people occupy, but the research documents how many adaptive organizations create roles through ongoing negotiation between individual capabilities and organizational needs. This negotiated approach enables flexibility as contexts change, recognizing that effective roles emerge from dialogue between what people can contribute and what [community](data/concepts/community.md) require. The findings challenge assumptions that organizational clarity requires predetermined roles, showing how negotiated construction can provide both structure and adaptability.
@@ -27,7 +23,7 @@ This academic research explores how organizations create open-ended roles throug
 
 - **Organizational Flexibility**: The research demonstrates how negotiated role construction enables adaptive organizations to respond to changing environments, contrasting with bureaucratic structures where role rigidity prevents response to emerging challenges.
 
-- **[Power](data/concepts/power.md) and [Participation](tags/participation.md)**: The work examines how negotiated joining distributes power in role definition, showing potential for participatory construction while noting risks that negotiation could concentrate power with those comfortable advocating for themselves.
+- **[Power](data/concepts/power.md) and [Participation](data/concepts/participation.md)**: The work examines how negotiated joining distributes power in role definition, showing potential for participatory construction while noting risks that negotiation could concentrate power with those comfortable advocating for themselves.
 
 - **Implications for Distributed Organizations**: The findings apply particularly to networked and [decentralized](data/concepts/decentralization.md) contexts where traditional hierarchical role definition doesn't fit, suggesting that [DAOs](data/concepts/daos.md) and platform cooperatives might benefit from negotiated role construction.
 

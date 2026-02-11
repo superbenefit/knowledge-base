@@ -2,17 +2,14 @@
 title: Equity Matrix - Vancouver Foundation
 description: Practical tool from Vancouver Foundation distinguishing organizations that serve equity-denied communities from those led by affected communities, emphasizing proximity to issue and self-determination in funding decisions.
 publish: true
-type: framework-tool
+type: link
+linkType: pattern
 url: https://www.vancouverfoundation.ca/wp-content/uploads/2022/08/RR-Fund-Equity-Matrix.pdf
 author:
   - Vancouver Foundation
 tags:
-  - equity-matrix
-  - vancouver-foundation
-  - community-leadership
-  - proximity
-  - funding-framework
-  - self-determination
+  - community
+  - frameworks
 ---
 
 Vancouver Foundation's Equity Matrix provides practical tool for funders to distinguish organizations serving equity-denied [communities](data/concepts/community.md) from those actually led by affected communities, addressing how well-intentioned funding often supports service providers rather than community self-determination. The matrix creates clear framework examining organizational leadership, decision-making [power](data/concepts/power.md), and proximity to issues—recognizing that genuine equity requires resources flowing to communities defining their own solutions not professionals providing services to passive beneficiaries. Adapted from indigenous-led work, the tool embeds self-determination and community authority as foundational rather than optional considerations in equity funding.

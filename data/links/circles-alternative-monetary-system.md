@@ -2,18 +2,17 @@
 title: Circles - Alternative Monetary System
 description: A radical reimagining of money where each person issues their own currency instead of relying on central authorities, creating trust-based networks for direct peer-to-peer exchange without banks or governments.
 publish: true
-type: platform
+type: link
+linkType: platform
 url: https://aboutcircles.com/
 author:
   - Circles
 tags:
-  - alternative-currencies
-  - decentralized-money
-  - trust-networks
-  - peer-to-peer-exchange
-  - monetary-sovereignty
-  - community-economics
-  - radical-decentralization
+  - complementary-currencies
+  - networks
+  - peer-to-peer
+  - community
+  - decentralization
 ---
 
 Circles represents one of the most radical departures from traditional monetary systems ever implemented. Rather than relying on central banks, governments, or even [decentralized](data/concepts/decentralization.md) protocols to issue currency, Circles enables each individual to create their own personal currency at a rate of 1 CRC per hour. This fundamentally challenges the assumption that money must be issued by a central authority for everyone else to use, instead creating a system where monetary sovereignty belongs to individuals and [community](data/concepts/community.md). The platform operates through trust networks where people accept currencies from those they know personally, while enabling broader exchange through an emerging web of interconnected trust relationships.
@@ -32,7 +31,7 @@ Circles can be implemented across multiple community and economic contexts:
 
 - Local community seeking economic resilience can use Circles to create internal exchange systems that reduce dependence on external financial institutions while enabling mutual aid and resource sharing among neighbors and local businesses
 - Worker cooperatives and community organizations can implement group currencies to facilitate internal resource allocation and create shared economic infrastructure that operates independently of traditional banking systems
-- Bioregional networks can connect multiple local Circles to enable trade and resource sharing across geographic areas while maintaining local economic sovereignty and [decision-making](archive/clarity/Tags/decision-making.md) authority
+- Bioregional networks can connect multiple local Circles to enable trade and resource sharing across geographic areas while maintaining local economic sovereignty and [decision-making](data/concepts/decisions.md) authority
 - Alternative economic experiments like transition towns, ecovillages, and intentional communities can use Circles to operationalize gift economy principles while maintaining practical mechanisms for exchange and resource coordination
 - Social movements and mutual aid networks can create economic infrastructure that supports their organizing work without relying on extractive financial institutions or requiring complex legal structures for resource sharing
 

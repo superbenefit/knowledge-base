@@ -2,17 +2,14 @@
 title: Churchill Fellowship Report - Transforming Philanthropy
 description: Comprehensive research report from Churchill Fellowship examining philanthropic transformation globally, documenting trust-based approaches, participatory grantmaking, and power-shifting practices that redistribute decision-making from funders to communities.
 publish: true
-type: research-report
+type: link
+linkType: study
 url: https://whyphilanthropymatters.com/wp-content/uploads/2024/01/TRANSFORMING-PHILANTHROPY-CHURCHILL-FELLOWSHIP-REPORT.pdf
 author:
   - Churchill Fellowship
 tags:
-  - philanthropic-transformation
-  - churchill-fellowship
-  - trust-based-philanthropy
-  - participatory-grantmaking
-  - power-shifting
-  - funding-reform
+  - transformation
+  - power
 ---
 
 Churchill Fellowship's comprehensive report documents philanthropic transformation globally, examining how funders shift [power](data/concepts/power.md) to [communities](data/concepts/community.md) through trust-based approaches, participatory grantmaking, and structural reforms. The research spans diverse contexts from community foundations to international development to social justice funding, identifying patterns in how philanthropic power can be redistributed rather than maintained through charitable giving. Rather than accepting traditional philanthropy's concentration of decision-making with wealthy donors, the report shows concrete alternatives where communities determine priorities, control resources, and define success on their own terms. This provides evidence base and practical frameworks for funders seeking genuine transformation beyond incremental reform.

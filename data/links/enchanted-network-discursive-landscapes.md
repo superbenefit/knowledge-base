@@ -2,17 +2,14 @@
 title: Enchanted Network - Working With Lore - Discursive Landscapes
 description: Enchanted Network exploration of "discursive landscapes" as framework for understanding how language, narratives, and meaning-making shape collective reality and coordination possibilities, drawing on Indigenous wisdom traditions and complexity thinking to reimagine knowledge systems beyond Western rationalist paradigms.
 publish: true
-type: conceptual-framework
+type: link
+linkType: pattern
 url: https://enchanted.network/working-with-lore/discursive-landscapes
 author:
   - Enchanted Network
 tags:
-  - discursive-landscapes
-  - alternative-epistemology
-  - indigenous-wisdom
-  - language-and-meaning
-  - narrative-systems
-  - enchanted-network
+  - systems
+  - networks
 ---
 
 Enchanted Network's "Discursive Landscapes" framework examines how language patterns, narrative structures, and shared meaning-making constitute "landscapes" that shape what [community](data/concepts/community.md) can perceive, imagine, and coordinate around. Rather than treating discourse as simply describing reality, the framework positions language as actively constructing collective understanding and delimiting [coordination](data/concepts/coordination.md) possibilities—certain actions become thinkable or unthinkable based on available narratives and conceptual vocabularies. Drawing on Indigenous wisdom traditions emphasizing relationality and enchantment, the work challenges Western rationalist paradigms treating knowledge as objective information exchange, instead exploring how stories, metaphors, and collective sense-making create worlds. The framework offers tools for deliberately shifting discursive landscapes to enable regenerative coordination patterns currently rendered impossible by dominant narratives valorizing extraction, individualism, and mechanistic control.

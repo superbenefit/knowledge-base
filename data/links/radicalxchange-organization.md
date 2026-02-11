@@ -2,17 +2,13 @@
 title: RadicalxChange - Democratic Transformation Organization
 description: Core organization advancing democratic transformation through resilient decentralization, plural publics, and collective agency, providing research, tools, and community for systemic transition beyond extractive markets and authoritarian states.
 publish: true
-type: organization
+type: link
+linkType: group
 url: https://www.radicalxchange.org/#
 author:
   - RadicalxChange
 tags:
-  - radicalxchange
-  - democratic-transformation
-  - plural-publics
-  - systemic-transition
-  - mechanism-design
-  - collective-agency
+  - transformation
 ---
 
 RadicalxChange stands as foundational organization in democratic transformation and pluralistic [coordination](data/concepts/coordination.md), developing mechanisms, research, and [community](data/concepts/community.md) for systemic transition beyond both extractive markets and authoritarian states. Co-founded by economist Glen Weyl, RxC advances quadratic voting, plural funding, data dignity, and other innovations showing how mechanism design can serve collective agency and democratic vitality. Rather than accepting dichotomy between free markets and state control, the organization articulates "third way" through plural publics where diverse communities govern shared resources cooperatively. RxC provides intellectual foundation, practical tools, and collaborative community for those building alternatives to extractive capitalism and authoritarian politics.

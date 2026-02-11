@@ -2,23 +2,20 @@
 title: Ethereum Localism - Knowledge Garden and Movement
 description: An action-oriented research hub and community movement bridging digital blockchain innovation with real-world local impact through community-driven initiatives, tools, and educational resources that ground global technologies in local contexts.
 publish: true
-type: movement
+type: link
+linkType: group
 url: http://ethereumlocalism.xyz
 author:
   - Ethereum Localism Community
   - Ethereal Forest DAO
 tags:
-  - ethereum-localism
-  - local-resilience
-  - community-economics
-  - blockchain-localism
-  - digital-knowledge-garden
-  - quadratic-funding
-  - local-stablecoins
-  - decentralized-governance
+  - localism
+  - community
+  - blockchain
+  - governance
 ---
 
-Ethereum Localism represents a groundbreaking movement that bridges the global potential of blockchain technology with the grounded reality of local [community](data/concepts/community.md) needs and resilience. Operating as both a knowledge garden and action-oriented research hub, the project challenges the typical "move fast and break things" mentality of tech innovation by asking how digital tools can strengthen rather than disrupt local economic and social systems. The movement emphasizes that "what is heavy should be local, what is light should be global and shared," creating frameworks for community to leverage blockchain infrastructure while maintaining local autonomy and [decision-making](archive/clarity/Tags/decision-making.md) power.
+Ethereum Localism represents a groundbreaking movement that bridges the global potential of blockchain technology with the grounded reality of local [community](data/concepts/community.md) needs and resilience. Operating as both a knowledge garden and action-oriented research hub, the project challenges the typical "move fast and break things" mentality of tech innovation by asking how digital tools can strengthen rather than disrupt local economic and social systems. The movement emphasizes that "what is heavy should be local, what is light should be global and shared," creating frameworks for community to leverage blockchain infrastructure while maintaining local autonomy and [decision-making](data/concepts/decisions.md) power.
 
 ### Key Highlights
 
@@ -33,7 +30,7 @@ Ethereum Localism represents a groundbreaking movement that bridges the global p
 
 Ethereum Localism frameworks can be applied across diverse community contexts:
 
-- Municipal governments and civic organizations can implement quadratic funding mechanisms to enable democratic resource allocation for local projects while reducing bureaucratic overhead and increasing community [participation](tags/participation.md) in budget decisions
+- Municipal governments and civic organizations can implement quadratic funding mechanisms to enable democratic resource allocation for local projects while reducing bureaucratic overhead and increasing community [participation](data/concepts/participation.md) in budget decisions
 - Local economic development initiatives can create community-controlled stablecoins and local exchange systems that keep economic value circulating within regional networks rather than extracting wealth to distant financial centers
 - Cooperative networks and worker-owned businesses can use decentralized governance tools to coordinate across multiple locations while maintaining democratic decision-making processes and shared resource management
 - Bioregional organizations can implement blockchain-based supply chain tracking and resource [coordination](data/concepts/coordination.md) systems that support local food systems, renewable energy networks, and circular economy initiatives
@@ -54,5 +51,5 @@ The movement provides particular value for communities seeking to harness techno
 - Coordination - Local and network-scale coordination
 - [DAOs](data/concepts/daos.md) - Decentralized organizational forms
 - Governance - Community and network governance
-- [Knowledge Gardens](artifacts/patterns/knowledge-gardens.md) - Decentralized knowledge creation
+- [Knowledge Gardens](data/resources/patterns/knowledge-gardens.md) - Decentralized knowledge creation
 - [Primitives](data/concepts/primitives.md) - Building blocks for local networks

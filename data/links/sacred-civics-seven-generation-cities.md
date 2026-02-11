@@ -2,22 +2,20 @@
 title: Sacred Civics - Building Seven Generation Cities
 description: Open access book exploring indigenous knowledge and seven-generation thinking in urban governance, showing how cities can integrate long-term ecological and social sustainability through participatory governance rooted in indigenous wisdom and systems transformation.
 publish: true
-type: academic-book
+type: link
+linkType: book
 url: https://www.taylorfrancis.com/books/oa-edit/10.4324/9781003199816/sacred-civics-jayne-engle-julian-agyeman-tanya-chung-tiam-fook
 author:
   - Jayne Engle
   - Julian Agyeman
   - Tanya Chung-Tiam-Fook
 tags:
-  - indigenous-wisdom
-  - seven-generation-thinking
-  - urban-governance
-  - sacred-civics
-  - participatory-systems
-  - long-term-sustainability
+  - governance
+  - systems
+  - sustainability
 ---
 
-Sacred Civics explores how urban [governance](data/concepts/governance.md) can integrate indigenous seven-generation thinking—considering decisions' impacts seven generations forward—with participatory systems transformation. The open access book shows how cities can learn from indigenous wisdom about long-term ecological sustainability, reciprocal relationships, and collective [decision-making](archive/clarity/Tags/decision-making.md) that honors intergenerational responsibility. Rather than treating indigenous knowledge as historical artifact, the work demonstrates how these frameworks apply to contemporary urban challenges including climate adaptation, social equity, and participatory governance. The book bridges indigenous cosmologies with urban planning, showing how seven-generation perspectives transform priorities from short-term growth to sustainable flourishing across centuries.
+Sacred Civics explores how urban [governance](data/concepts/governance.md) can integrate indigenous seven-generation thinking—considering decisions' impacts seven generations forward—with participatory systems transformation. The open access book shows how cities can learn from indigenous wisdom about long-term ecological sustainability, reciprocal relationships, and collective [decision-making](data/concepts/decisions.md) that honors intergenerational responsibility. Rather than treating indigenous knowledge as historical artifact, the work demonstrates how these frameworks apply to contemporary urban challenges including climate adaptation, social equity, and participatory governance. The book bridges indigenous cosmologies with urban planning, showing how seven-generation perspectives transform priorities from short-term growth to sustainable flourishing across centuries.
 
 ### Key Highlights
 

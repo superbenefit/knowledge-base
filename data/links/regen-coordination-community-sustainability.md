@@ -2,18 +2,16 @@
 title: Regen Coordination x Institute for Community Sustainability
 description: Regenerative coordination partnership case study documenting collaboration between regen coordination practitioners and community sustainability researchers, demonstrating practical application of regenerative principles to community development.
 publish: true
-type: case-study
+type: link
+linkType: study
 url: https://gap.karmahq.xyz/project/the-institute-for-community-sustainability/?invite-code=0xb6a78a16348df33a938a89d9e966b7fd2564980fa3bece327fd1d99c2ecda3b5
 author:
   - Regen Coordination
   - Institute for Community Sustainability
 tags:
-  - regenerative-coordination
-  - community-sustainability
-  - partnership-model
-  - case-study
-  - regen-economics
-  - collaborative-governance
+  - coordination
+  - sustainability
+  - governance
 ---
 
 This case study documents partnership between regenerative [coordination](data/concepts/coordination.md) practitioners and the Institute for Community Sustainability, showing how regen principles apply to [community](data/concepts/community.md) development beyond purely environmental or blockchain contexts. The collaboration demonstrates practical integration of regenerative economics, participatory [governance](data/concepts/governance.md), and community-led [sustainability](data/concepts/sustainability.md) initiatives—bridging academic research with grassroots practice while centering local knowledge and self-determination. Rather than imposing predetermined frameworks, the partnership creates space for communities to define sustainability on their own terms while providing coordination tools, research support, and connections to broader regenerative movements. The work shows how regenerative approaches can strengthen community capacity without extracting value toward external actors or requiring communities to adopt specific technological solutions.

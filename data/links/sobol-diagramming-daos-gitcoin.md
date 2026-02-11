@@ -2,17 +2,14 @@
 title: Sobol - Diagramming DAOs - Gitcoin Visual Analysis
 description: Sobol's visual analysis of Gitcoin DAO structure using organizational mapping tools to reveal coordination patterns, contributor relationships, and governance architecture, demonstrating how visualization enables understanding complex decentralized organization beyond text descriptions.
 publish: true
-type: case-study
+type: link
+linkType: study
 url: https://mirror.xyz/media.sobol.eth/wX2TBIdTZTR0t7K5y2qzDIi-U15nfacBhItMIbaawBU
 author:
   - Sobol
 tags:
-  - organizational-visualization
-  - dao-mapping
-  - gitcoin
-  - organizational-structure
-  - coordination-analysis
-  - visual-thinking
+  - daos
+  - coordination
 ---
 
 Sobol's "Diagramming [DAOs](data/concepts/daos.md)" analysis uses visual organizational mapping to examine Gitcoin DAO's structure, revealing [coordination](data/concepts/coordination.md) patterns, workstream relationships, and [governance](data/concepts/governance.md) architecture through diagrams rather than text descriptions alone. The case study demonstrates how visualization tools enable understanding complex [decentralized](data/concepts/decentralization.md) organizations where traditional org charts fail—DAOs often have overlapping teams, fluid membership, multiple governance layers, and emergent structures that resist simple hierarchy diagrams. Sobol's mapping approach shows contributor connections, funding flows, decision authority, and information pathways, making implicit coordination patterns explicit and surfacing potential bottlenecks or gaps. The analysis illustrates both Gitcoin's sophisticated organizational design and the value of visual thinking for DAO participants, researchers, and designers trying to understand how decentralized coordination actually functions beyond aspirational descriptions.

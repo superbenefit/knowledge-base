@@ -2,17 +2,15 @@
 title: PoolTogether - Vibes, Labor, Constituencies (DAO Ethnography)
 description: Other Internet in-depth ethnographic case study of PoolTogether DAO examining how community vibes, contributor labor, and stakeholder constituencies shape governance reality beyond token-weighted voting mechanisms.
 publish: true
-type: ethnography
+type: link
+linkType: study
 url: https://otherinter.net/research/pooltogether-offchain-report/
 author:
   - Other Internet
 tags:
-  - dao-ethnography
-  - pooltogether
-  - other-internet
-  - community-vibes
-  - contributor-labor
-  - governance-reality
+  - daos
+  - community
+  - governance
 ---
 
 Other Internet's ethnographic study of PoolTogether DAO provides rare in-depth examination of how [DAOs](data/concepts/daos.md) actually function beyond [governance](data/concepts/governance.md) mechanisms visible onchain. Rather than analyzing token distributions or vote outcomes, the research explores [community](data/concepts/community.md) vibes, contributor labor dynamics, and stakeholder constituencies—the social infrastructure that shapes governance reality often invisible in protocol analysis. The ethnography documents how informal norms, relationship networks, communication patterns, and labor expectations create actual [coordination](data/concepts/coordination.md) while formal voting mechanisms provide legitimacy. This work challenges assumptions that governance happens primarily through onchain votes, showing how much DAO function depends on offchain social dynamics that token-weighted systems don't capture.

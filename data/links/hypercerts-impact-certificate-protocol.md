@@ -2,17 +2,13 @@
 title: Hypercerts - Impact Certificate Protocol
 description: Novel protocol for creating impact certificates that enable retroactive funding by making positive externalities trackable, tradeable, and rewardable through onchain credentials representing verifiable impact contributions.
 publish: true
-type: protocol
+type: link
+linkType: protocol
 url: https://hypercerts.org/
 author:
   - Hypercerts Foundation
 tags:
-  - impact-certificates
-  - retroactive-funding
-  - hypercerts
-  - impact-tracking
-  - positive-externalities
-  - public-goods-funding
+  - impact
 ---
 
 Hypercerts introduces protocol for [impact](data/concepts/impact.md) certificates—onchain credentials representing verifiable contributions to [public goods](tags/public-goods.md) and positive externalities. Traditional funding requires predicting impact before work happens, creating challenges for experimental or long-term projects where outcomes emerge over time. Hypercerts enables retroactive reward by creating tradeable certificates documenting who contributed to demonstrated impact, allowing funders to reward proven results rather than speculative proposals. The protocol addresses chronic underfunding of public goods by making impact trackable and rewardable—environmental restoration, open-source development, research, [community](data/concepts/community.md) organizing can receive compensation proportional to verified benefit created, not just initial investment secured.
@@ -43,7 +39,7 @@ Hypercerts enables impact-based funding across contexts:
 
 - Ecological restoration projects can use Hypercerts to track verified biodiversity enhancement or carbon sequestration, enabling reward from communities benefiting from environmental improvements
 
-- Open-source developers can mint certificates for library or tool contributions, documenting [participation](tags/participation.md) in public goods creation so retroactive funding can compensate work that conventional markets undervalue
+- Open-source developers can mint certificates for library or tool contributions, documenting [participation](data/concepts/participation.md) in public goods creation so retroactive funding can compensate work that conventional markets undervalue
 
 - Research communities can implement Hypercerts for scholarship enabling retroactive reward when discoveries prove valuable, addressing chronic underfunding of basic research with delayed or diffuse benefits
 

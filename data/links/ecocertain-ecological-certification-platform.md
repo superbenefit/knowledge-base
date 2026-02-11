@@ -2,17 +2,14 @@
 title: Ecocertain - Ecological Certification and Finance Platform
 description: Platform connecting ecological certification with finance mechanisms, enabling verified environmental benefit to generate economic value through certificates that funders and markets can reward, creating financial viability for regenerative land stewardship.
 publish: true
-type: platform
+type: link
+linkType: platform
 url: https://www.ecocertain.xyz/
 author:
   - Ecocertain
 tags:
-  - ecological-certification
-  - regenerative-finance
-  - ecocertain
-  - environmental-verification
-  - land-stewardship
-  - impact-certificates
+  - refi
+  - impact
 ---
 
 Ecocertain provides platform connecting ecological certification with finance, enabling verified environmental benefit—from soil carbon sequestration to biodiversity enhancement to water quality improvement—to generate economic value that rewards regenerative land stewardship. The platform addresses challenge that ecosystem health creates collective benefit but no direct revenue for stewards, making regenerative practices economically unviable compared to extraction despite superior long-term outcomes. By certifying ecological improvements and connecting them with funders willing to pay for verified environmental benefit, Ecocertain creates financial [sustainability](data/concepts/sustainability.md) for regeneration. This shows how certification infrastructure combined with impact-oriented finance can align economic incentives with ecosystem health.

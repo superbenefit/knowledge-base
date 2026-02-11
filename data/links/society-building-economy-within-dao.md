@@ -2,20 +2,17 @@
 title: Building an Economy Within a DAO
 description: Society framework for creating internal economic systems within DAOs that value diverse contributions, reward participation beyond token holdings, and build sustainable coordination through reciprocal exchange.
 publish: true
-type: framework
+type: link
+linkType: pattern
 url: https://society.mirror.xyz/B5ygLAJOcbI29x7vpNFBq3kmjDuvl6RW52oBuYKoBT0
 author:
   - Society
 tags:
-  - internal-economies
-  - dao-economics
-  - society
-  - contribution-recognition
-  - reciprocal-exchange
-  - value-diversity
+  - daos
+  - values
 ---
 
-Society's framework explores how [DAOs](data/concepts/daos.md) can build internal economic systems that value diverse contributions and create sustainable [coordination](data/concepts/coordination.md) through reciprocal exchange beyond simple token-weighted voting. Many DAOs struggle with contributor compensation, relying either on ad-hoc payments or rigid token distributions that fail to recognize ongoing value creation. The framework shows how internal economies can reward [participation](tags/participation.md), knowledge sharing, [community](data/concepts/community.md) building, and [governance](data/concepts/governance.md) engagement—creating economic infrastructure that sustains coordination rather than extracting toward passive token holders. By developing internal value exchange systems, DAOs can recognize contributions that conventional markets undervalue while building reciprocal relationships that strengthen community bonds.
+Society's framework explores how [DAOs](data/concepts/daos.md) can build internal economic systems that value diverse contributions and create sustainable [coordination](data/concepts/coordination.md) through reciprocal exchange beyond simple token-weighted voting. Many DAOs struggle with contributor compensation, relying either on ad-hoc payments or rigid token distributions that fail to recognize ongoing value creation. The framework shows how internal economies can reward [participation](data/concepts/participation.md), knowledge sharing, [community](data/concepts/community.md) building, and [governance](data/concepts/governance.md) engagement—creating economic infrastructure that sustains coordination rather than extracting toward passive token holders. By developing internal value exchange systems, DAOs can recognize contributions that conventional markets undervalue while building reciprocal relationships that strengthen community bonds.
 
 ### Key Highlights
 

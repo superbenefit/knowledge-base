@@ -2,17 +2,15 @@
 title: Changing Finance - Club of Rome Report
 description: Club of Rome comprehensive report examining financial system transformation necessary for ecological sustainability and social equity, showing how current finance drives extraction and what alternatives could enable regenerative economies.
 publish: true
-type: research-report
+type: link
+linkType: study
 url: https://www.clubofrome.org/wp-content/uploads/2023/10/Changing_Finance_2023-3.pdf
 author:
   - Club of Rome
 tags:
-  - financial-transformation
-  - club-of-rome
-  - regenerative-finance
-  - systems-change
-  - ecological-economics
-  - financial-reform
+  - transformation
+  - refi
+  - systems
 ---
 
 Club of Rome's Changing Finance report provides comprehensive analysis of how financial systems must transform to enable ecological sustainability and social equity, showing that current finance structures drive extraction incompatible with planetary boundaries and collective wellbeing. The report examines how growth imperatives, short-term profit maximization, and shareholder primacy embedded in contemporary finance systematically reward environmental destruction and social exploitation while punishing regenerative practices. Rather than incremental reform, the analysis calls for fundamental restructuring of financial incentives, [governance](data/concepts/governance.md), and purpose—showing what alternative finance oriented toward long-term sustainability and [community](data/concepts/community.md) benefit would require. This provides theoretical grounding and policy recommendations for financial transformation.

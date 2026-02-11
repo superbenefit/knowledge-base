@@ -2,17 +2,14 @@
 title: Tomorrow's Democracy Is Open Source - Noema Magazine
 description: Noema essay arguing for treating democracy like open-source software—participatory, iterative, collaborative—showing how digital governance as commons enables continuous democratic innovation rather than static institutional forms.
 publish: true
-type: essay
+type: link
+linkType: article
 url: https://www.noemamag.com/tomorrows-democracy-is-open-source
 author:
   - Noema Magazine
 tags:
-  - open-source-democracy
-  - noema
-  - digital-governance
-  - participatory-systems
-  - democratic-innovation
-  - governance-commons
+  - governance
+  - systems
 ---
 
 Noema's essay reimagines democracy through open-source software metaphor, showing how participatory development, iterative improvement, and collaborative [governance](data/concepts/governance.md) could transform democratic practice. Just as open-source communities continuously improve code through diverse contributor collaboration, democratic systems could evolve through participatory experimentation rather than remaining locked in 18th-century institutional forms. The article explores how treating governance as commons enabling collective innovation—forking experiments, sharing improvements, adapting to contexts—creates living democracy continuously renewed rather than static structures defending against change.

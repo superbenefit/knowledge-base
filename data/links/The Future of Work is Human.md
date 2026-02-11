@@ -2,13 +2,12 @@
 title: The Future of Work is Human
 description: An exploration of how evolving technologies and emerging organizational models are reshaping work to prioritize human connection, meaning, and flourishing over industrial efficiency.
 publish: true
-type: report
+type: link
+linkType: study
 url: https://enliveningedge.org/tools-practices/future-work-human/
 author:
   - Enlivening Edge
 tags:
-  - work
-  - organization
   - transformation
   - purpose
   - coordination
@@ -19,7 +18,7 @@ tags:
 ### Key Highlights
 - **Beyond Automation Narratives**: The resource challenges simplistic narratives about automation replacing human work, instead exploring how technology can augment distinctly human capacities for creativity, empathy, and complex problem-solving when thoughtfully integrated with human-centered practices.
 - **Purpose-Driven Organizations**: Central to the analysis is how purpose-alignment transforms organizational dynamics, shifting from extrinsic motivation to intrinsic engagement when work connects to meaningful [impact](data/concepts/impact.md) and authentic values. This creates fundamentally different coordination dynamics than traditional reward-based systems.
-- **Self-Management Practices**: The resource documents emerging self-management approaches that distribute authority and [decision-making](archive/clarity/Tags/decision-making.md) without creating chaos, showing how clarity of agreements and transparent processes can replace traditional command-and-control structures.
+- **Self-Management Practices**: The resource documents emerging self-management approaches that distribute authority and [decision-making](data/concepts/decisions.md) without creating chaos, showing how clarity of agreements and transparent processes can replace traditional command-and-control structures.
 - **Integrative Development**: Rather than separating personal growth from organizational effectiveness, the work explores how organizations that support holistic human development simultaneously enhance their adaptive capacity and innovation potential, creating reciprocal benefits.
 - **Practical Implementation Patterns**: Moving beyond abstract principles, the resource provides concrete practices, tools, and transition strategies for organizations moving toward more human-centered approaches, addressing common challenges and resistance points in transformation processes.
 

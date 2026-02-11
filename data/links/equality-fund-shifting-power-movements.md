@@ -2,17 +2,13 @@
 title: Shifting Power to Catalyze Movements - Equality Fund Framework
 description: Power-shifting and movement-building framework from Equality Fund exploring how funders can genuinely redistribute power to catalyze social movements rather than controlling movement direction through philanthropic capital.
 publish: true
-type: framework
+type: link
+linkType: pattern
 url: https://equalityfund.ca/learn/shifting-power-to-catalyze-movements/
 author:
   - Equality Fund
 tags:
-  - power-shifting
-  - movement-building
-  - feminist-philanthropy
-  - power-redistribution
-  - social-movements
-  - equality-fund
+  - power
 ---
 
 Equality Fund's framework articulates how funders can shift [power](data/concepts/power.md) to movement actors rather than consolidating control through philanthropic resources. Moving beyond charity models where funders determine priorities and measure success, the framework explores how to redistribute decision-making, resources, and legitimacy to [communities](data/concepts/community.md) leading social change. This requires funders to release control, trust movement wisdom, provide flexible long-term support, and use power intentionally to open doors and shift systems rather than directing how movements operate. The work addresses uncomfortable reality that traditional philanthropy concentrates power with wealthy elites while claiming to serve social justice, offering alternative practices that genuinely support movement autonomy and self-determination.

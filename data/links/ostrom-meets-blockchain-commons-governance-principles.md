@@ -2,19 +2,16 @@
 title: When Ostrom Meets Blockchain - Commons Governance Meets Decentralized Systems
 description: Rigorous academic analysis applying Elinor Ostrom's Nobel Prize-winning commons governance principles to blockchain systems, examining how decentralized protocols can avoid the tragedy of the commons.
 publish: true
-type: academic-article
+type: link
+linkType: study
 url: https://journals.sagepub.com/doi/10.1177/21582440211002526
 author:
   - Academic Researchers (Sage Journals)
 tags:
-  - ostrom
-  - commons-governance
+  - governance
   - blockchain
-  - common-pool-resources
-  - decentralized-governance
-  - collective-action
-  - institutional-design
-  - tragedy-of-the-commons
+  - resources
+  - actions
 ---
 
 This peer-reviewed academic article represents a rigorous application of Elinor Ostrom's groundbreaking work on [commons](tags/commons.md) [governance](data/concepts/governance.md) to blockchain and decentralized systems. Ostrom won the Nobel Prize in Economics for demonstrating that [communities](data/concepts/community.md) can successfully self-govern common-pool resources without privatization or state control, contradicting the "tragedy of the commons" narrative. This article examines how her empirically-derived design principles for successful commons institutions map onto blockchain protocols, offering scholarly analysis of whether and how decentralized systems can enable collective stewardship of shared resources at scale without central authority.

@@ -2,18 +2,17 @@
 title: Expansive and Extractive Networks of Web3 - Critical Power Analysis
 description: Academic paper providing critical power-aware analysis of Web3 systems, examining how decentralized technologies can either expand collective capacity or concentrate extractive power in new forms.
 publish: true
-type: academic-article
+type: link
+linkType: study
 url: https://journals.sagepub.com/doi/10.1177/20539517231159629
 author:
   - Academic Researchers (Sage Journals)
 tags:
-  - web3-critique
-  - power-analysis
-  - extractive-systems
-  - expansive-networks
+  - power
+  - systems
+  - networks
   - decentralization
-  - critical-tech-studies
-  - blockchain-governance
+  - governance
 ---
 
 This peer-reviewed academic article provides rigorous critical analysis of how Web3 technologies embody competing logics: expansive networks that genuinely distribute [power](data/concepts/power.md) and enable collective capacity, versus extractive networks that concentrate wealth and control through new mechanisms while claiming decentralization. Published in a leading interdisciplinary journal, the work applies political economy frameworks and power analysis to examine whether and how blockchain systems challenge or reproduce hierarchies. Rather than celebratory or dismissive, the analysis offers nuanced tools for distinguishing genuinely transformative decentralized approaches from those that merely transfer extraction to new elites—essential reading for anyone seeking to build or evaluate regenerative Web3 systems.

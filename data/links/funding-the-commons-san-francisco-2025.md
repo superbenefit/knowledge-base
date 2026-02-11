@@ -2,17 +2,13 @@
 title: Funding the Commons - San Francisco 2025
 description: Major public goods funding initiative and conference bringing together researchers, practitioners, and funders exploring mechanisms for sustaining commons through novel funding approaches including retroactive rewards and quadratic mechanisms.
 publish: true
-type: conference-initiative
+type: link
+linkType: gathering
 url: https://www.fundingthecommons.io/sf-2025
 author:
   - Funding the Commons
 tags:
-  - public-goods-funding
-  - funding-commons
-  - conference
-  - commons-sustainability
-  - funding-mechanisms
-  - retroactive-funding
+  - sustainability
 ---
 
 Funding the Commons represents major initiative addressing chronic underfunding of [public goods](tags/public-goods.md) through research, experimentation, and [community](data/concepts/community.md)-building around novel funding mechanisms. The San Francisco 2025 conference and broader initiative bring together diverse stakeholders—from crypto developers to traditional funders to academic researchers—exploring how retroactive rewards, quadratic funding, [impact](data/concepts/impact.md) certificates, and other approaches can sustain commons that conventional markets systematically undervalue. Rather than accepting that public goods require perpetual philanthropy or government funding, the initiative explores mechanisms creating sustainable support for open-source software, research, environmental restoration, and knowledge commons that benefit all while belonging to none.

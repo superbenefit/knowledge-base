@@ -2,17 +2,13 @@
 title: Funding the Commons - Past Research Residencies
 description: Documentation of Funding the Commons research residencies bringing scholars and practitioners together for intensive study of public goods funding mechanisms, creating knowledge production bridging academic research with implementation practice.
 publish: true
-type: residency-program
+type: link
+linkType: gathering
 url: https://www.fundingthecommons.io/residencies
 author:
   - Funding the Commons
 tags:
-  - research-residencies
-  - funding-commons
-  - public-goods-research
-  - academic-practice-bridge
-  - knowledge-production
-  - collaborative-research
+  - practices
 ---
 
 Funding the Commons research residencies create intensive collaborative environments where scholars and practitioners work together on [public goods](tags/public-goods.md) funding challenges, bridging academic frameworks with implementation knowledge. The residencies bring together diverse expertise—economists, [governance](data/concepts/governance.md) researchers, mechanism designers, crypto developers, nonprofit practitioners—enabling cross-pollination between theoretical analysis and operational realities. Rather than separated academic research and practitioner experimentation, the residencies create integrated knowledge production addressing both intellectual rigor and practical applicability. This model shows how collaborative research can advance public goods funding more effectively than isolated academic or practitioner work.

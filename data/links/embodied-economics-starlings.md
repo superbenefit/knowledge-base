@@ -2,17 +2,13 @@
 title: Embodied Economics - What Economists Can Learn from Starlings
 description: Embodied Economics essay examining what murmuration behavior teaches about coordination without central control, challenging economic assumptions about markets and hierarchies while exploring how ecological patterns inform alternative economic thinking grounded in embodied intelligence.
 publish: true
-type: essay
+type: link
+linkType: article
 url: https://embodied-economics.ghost.io/starlings/
 author:
   - Embodied Economics
 tags:
-  - embodied-economics
-  - ecological-thinking
-  - murmuration
-  - distributed-coordination
-  - alternative-economics
-  - complexity-science
+  - coordination
 ---
 
 This Embodied Economics essay uses starling murmuration—the mesmerizing coordinated flight patterns of thousands of birds moving as single organism—to challenge fundamental economic assumptions about how [coordination](data/concepts/coordination.md) happens. Rather than accepting that complex coordination requires either market price signals or hierarchical management, the essay examines how starlings achieve sophisticated collective behavior through simple local rules and embodied responses to immediate neighbors. Each bird follows basic principles about proximity and alignment without knowing the flock's overall pattern or following central direction, yet emergent coordination produces adaptive responses to threats and environmental changes. The essay argues that economics has systematically ignored embodied, ecological forms of coordination that don't fit market or hierarchy models, suggesting that genuinely alternative economic thinking requires learning from biological systems demonstrating coordination without commodification or control hierarchies.

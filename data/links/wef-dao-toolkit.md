@@ -2,17 +2,14 @@
 title: World Economic Forum - Decentralized Autonomous Organization Toolkit
 description: World Economic Forum comprehensive DAO toolkit covering operations, governance frameworks, legal structures, and implementation considerations from institutional perspective, providing accessible overview bridging traditional organizational understanding with decentralized coordination innovations.
 publish: true
-type: toolkit
+type: link
+linkType: guide
 url: https://www3.weforum.org/docs/WEF_Decentralized_Autonomous_Organization_Toolkit_2023.pdf
 author:
   - World Economic Forum
 tags:
-  - dao-toolkit
-  - institutional-perspective
-  - governance-frameworks
-  - legal-structures
-  - dao-operations
-  - wef
+  - daos
+  - governance
 ---
 
 The World Economic Forum's DAO Toolkit provides comprehensive overview of decentralized autonomous organizations from institutional perspective, covering [governance](data/concepts/governance.md) mechanisms, operational considerations, legal structures, and implementation pathways. Developed for traditional organizations, policymakers, and business leaders seeking to understand [DAOs](data/concepts/daos.md), the toolkit translates decentralized [coordination](data/concepts/coordination.md) concepts into language accessible to audiences unfamiliar with Web3 technical details and cultural context. Coverage spans DAO formation processes, voting mechanisms, treasury management, contributor coordination, regulatory compliance, and case studies from established projects. While reflecting WEF's institutional vantage point that some may view critically given its elite global governance positioning, the toolkit serves as bridge between conventional organizational understanding and emerging decentralized coordination approaches, potentially facilitating broader DAO adoption while raising questions about how institutional framings may domesticate or co-opt more radical decentralization visions.

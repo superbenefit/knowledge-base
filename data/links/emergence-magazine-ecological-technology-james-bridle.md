@@ -2,19 +2,14 @@
 title: An Ecological Technology - James Bridle Interview
 description: Emergence Magazine interview with artist and technologist James Bridle exploring ecological, systemic approaches to technology that recognize interconnection with the more-than-human world.
 publish: true
-type: interview
+type: link
+linkType: interview
 url: https://emergencemagazine.org/interview/an-ecological-technology/
 author:
   - James Bridle
   - Emergence Magazine
 tags:
-  - ecological-technology
-  - more-than-human
-  - systems-thinking
-  - technology-and-ecology
-  - james-bridle
-  - alternative-technology
-  - regenerative-design
+  - systems
 ---
 
 This Emergence Magazine interview with James Bridle—artist, writer, and author of "Ways of Being" and "New Dark Age"—offers a profound meditation on what technology might become when designed from ecological rather than industrial principles. Bridle argues for technology as relationship, entanglement, and mutual transformation between human and more-than-human worlds, challenging the extractive separation between "nature" and "culture" that shapes contemporary tech. The conversation weaves together Bridle's artistic practice, indigenous knowledge systems, mycorrhizal networks, and speculative design to envision technologies that acknowledge interdependence rather than asserting dominance—offering rare depth in thinking beyond [sustainability](data/concepts/sustainability.md) toward genuinely ecological approaches.

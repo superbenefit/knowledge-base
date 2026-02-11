@@ -2,7 +2,8 @@
 title: The Blockchain Governance Toolkit
 description: A comprehensive framework for designing resilient and adaptive governance systems for blockchain networks, presented as a "cookbook" with modular components and balanced trade-offs.
 publish: true
-type: framework
+type: link
+linkType: pattern
 url: https://www.projectliberty.io/wp-content/uploads/2024/06/PL_Toolkit_Report_v7.pdf
 author:
   - BlockchainGov
@@ -21,7 +22,7 @@ The [Blockchain](data/concepts/blockchain.md) [Governance](data/concepts/governa
 The toolkit is organized around several key components:
 
 **1. Governance Trade-offs (Flavors)**: Blockchain governance involves trade-offs across three dimensions:
-- **Expediency vs. [Participation](tags/participation.md)**: Balancing between fast, cost-effective decisions made by a select few versus more inclusive [decision-making](archive/clarity/Tags/decision-making.md) involving a broader group of stakeholders
+- **Expediency vs. [Participation](data/concepts/participation.md)**: Balancing between fast, cost-effective decisions made by a select few versus more inclusive [decision-making](data/concepts/decisions.md) involving a broader group of stakeholders
 - **Immutability vs. Adaptability**: Weighing permanent governance rules versus flexible rules that can change in response to internal and external developments
 - **Determinism vs. Discretion**: Choosing between hard-coded, self-executing on-chain rules and more discretionary, human-driven governance processes
 

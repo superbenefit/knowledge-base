@@ -2,17 +2,14 @@
 title: Forefront - Tokenized Communities Analysis
 description: Forefront's analysis of tokenized community coordination examining how shared tokens enable new membership models, incentive alignment, and collective resource management, while critically assessing risks of financialization and speculation overwhelming community purpose.
 publish: true
-type: analysis
+type: link
+linkType: study
 url: https://forefront.mirror.xyz/LCPVlxuOHJ2yCHvL5hJ9ErCwjwvJ2-Fk1lnOyHviIPc
 author:
   - Forefront
 tags:
-  - tokenized-communities
-  - community-tokens
-  - incentive-design
-  - token-economics
-  - community-coordination
-  - financialization-risks
+  - community
+  - coordination
 ---
 
 Forefront's analysis examines tokenized communities—groups coordinating through shared tokens that represent membership, [governance](data/concepts/governance.md) rights, and economic participation—exploring both possibilities and pitfalls of this emerging organizational model. The piece investigates how tokens can enable fluid membership, align incentives between contributors and communities, facilitate collective resource management, and create new sustainability models beyond traditional nonprofit or commercial structures. However, the analysis critically addresses risks including excessive financialization where speculation dominates purpose, token price volatility undermining stability, plutocratic governance concentrating power with largest holders, and regulatory uncertainty. Rather than uncritically promoting tokenization, Forefront provides nuanced perspective examining when tokens genuinely serve community [coordination](data/concepts/coordination.md) versus when they introduce problems exceeding benefits, offering frameworks for communities thoughtfully evaluating whether tokenization aligns with their values and needs.

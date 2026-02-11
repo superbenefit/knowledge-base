@@ -2,20 +2,16 @@
 title: Enchanted Network - Working With Lore - The Future of Work
 description: Enchanted Network exploration reimagining work beyond capitalist employment paradigms, examining how alternative economic relationships, gift economies, and commons-based production can create livelihoods aligned with ecological regeneration and community wellbeing rather than extraction and accumulation.
 publish: true
-type: conceptual-framework
+type: link
+linkType: pattern
 url: https://enchanted.network/working-with-lore/the-future-of-work
 author:
   - Enchanted Network
 tags:
-  - future-of-work
-  - alternative-economics
-  - gift-economy
-  - commons-production
-  - livelihood-design
-  - enchanted-network
+  - networks
 ---
 
-Enchanted Network's "Future of Work" exploration challenges fundamental assumptions about employment, productivity, and livelihood inherited from capitalist industrial paradigms, imagining work relationships aligned with ecological regeneration and [community](data/concepts/community.md) thriving rather than extraction and accumulation. Rather than accepting wage labor and employer-employee hierarchies as natural or inevitable, the piece examines alternative economic patterns including gift economies, commons-based peer production, care economies, and bioregional stewardship that enable meaningful contribution and sustainable livelihoods without requiring [participation](tags/participation.md) in extractive systems. The analysis draws on Indigenous economic traditions, feminist economics, and degrowth thinking to articulate work futures emphasizing relationships, reciprocity, and regeneration over productivity metrics and financial returns. This connects individual livelihood questions to broader transformation projects reimagining economic systems beyond capitalism's [organizing](tags/organizing.md) logics.
+Enchanted Network's "Future of Work" exploration challenges fundamental assumptions about employment, productivity, and livelihood inherited from capitalist industrial paradigms, imagining work relationships aligned with ecological regeneration and [community](data/concepts/community.md) thriving rather than extraction and accumulation. Rather than accepting wage labor and employer-employee hierarchies as natural or inevitable, the piece examines alternative economic patterns including gift economies, commons-based peer production, care economies, and bioregional stewardship that enable meaningful contribution and sustainable livelihoods without requiring [participation](data/concepts/participation.md) in extractive systems. The analysis draws on Indigenous economic traditions, feminist economics, and degrowth thinking to articulate work futures emphasizing relationships, reciprocity, and regeneration over productivity metrics and financial returns. This connects individual livelihood questions to broader transformation projects reimagining economic systems beyond capitalism's [organizing](tags/organizing.md) logics.
 
 ### Key Highlights
 

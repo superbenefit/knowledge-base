@@ -2,17 +2,15 @@
 title: Beyond DAOs - Design Decisions for Internet Organizations
 description: Metagov comprehensive framework examining governance design choices for internet-based organizations beyond DAO defaults, exploring diverse coordination models and when different structures serve different organizational needs.
 publish: true
-type: framework
+type: link
+linkType: pattern
 url: https://medium.com/metagov/beyond-daos-design-decisions-for-internet-organizations-5e5b21779104
 author:
   - Metagov
 tags:
-  - internet-organizations
-  - governance-design
-  - metagov
-  - organizational-models
-  - coordination-structures
-  - design-decisions
+  - governance
+  - coordination
+  - decisions
 ---
 
 This Metagov framework challenges the assumption that all internet organizations should adopt DAO structures, offering comprehensive analysis of governance design choices across coordination models. Rather than treating DAOs as universal solution, the work examines when token-weighted governance, representative democracy, liquid democracy, futarchy, or other mechanisms serve specific organizational needs and values. Metagov identifies key design dimensions—[decision-making](data/concepts/decisions.md) authority, membership boundaries, proposal processes, execution mechanisms—showing how different combinations create distinct governance systems with different tradeoffs. The framework enables organizations to make intentional design choices aligned with their goals rather than defaulting to popular patterns that may not fit their contexts.

@@ -2,19 +2,14 @@
 title: Anarchist Technologies - Mutual Aid and Cybernetics
 description: Rigorous academic analysis exploring how anarchist principles of mutual aid, voluntary association, and anti-hierarchy can inform technological design, combining historical anarchist theory with contemporary cybernetics.
 publish: true
-type: academic-article
+type: link
+linkType: study
 url: https://journals.sagepub.com/doi/full/10.1177/13505084221090632
 author:
   - Academic Researchers (Sage Journals)
 tags:
-  - anarchism
   - mutual-aid
-  - cybernetics
-  - alternative-technology
-  - anti-hierarchy
-  - voluntary-association
-  - decentralized-systems
-  - commons-technology
+  - systems
 ---
 
 This peer-reviewed academic article provides a deep theoretical analysis of how anarchist political philosophy—particularly principles of [mutual aid](data/concepts/mutual-aid.md), voluntary association, and anti-hierarchical organization—can inform the design of technological systems. Published in a leading social science journal, the work bridges historical anarchist thought (Kropotkin, Bakunin) with contemporary cybernetics and systems thinking to argue for technological approaches that enable cooperation without coercion. The analysis challenges both Silicon Valley's libertarian individualism and state-centric tech regulation, offering a third path grounded in collective self-organization and mutual support networks that stands as a rigorous scholarly foundation for anyone exploring alternatives to extractive technology.

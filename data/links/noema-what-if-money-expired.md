@@ -2,17 +2,13 @@
 title: What If Money Expired? - Noema Magazine on Demurrage Currency
 description: Noema exploration of Silvio Gesell's alternative currency concept where money loses value over time (demurrage), challenging assumptions about wealth accumulation and showing how monetary design choices shape economic behavior and power distribution.
 publish: true
-type: essay
+type: link
+linkType: article
 url: https://www.noemamag.com/what-if-money-expired
 author:
   - Noema Magazine
 tags:
-  - alternative-economics
-  - demurrage-currency
-  - silvio-gesell
-  - monetary-design
-  - noema
-  - economic-transformation
+  - transformation
 ---
 
 Noema's exploration of Silvio Gesell's demurrage currency concept—money that loses value over time unless circulated—challenges fundamental assumptions about wealth accumulation and monetary systems. The essay examines how currency design choices shape economic behavior, showing that money's current form enabling indefinite accumulation and passive return through interest represents political choice rather than natural law. Demurrage currency inverts these assumptions: rather than rewarding hoarding, the system incentivizes circulation and productive use. The piece connects historical experiments with contemporary possibilities including digital currencies, showing how alternative monetary designs could reduce inequality, discourage speculation, and align economic incentives with [community](data/concepts/community.md) wellbeing rather than individual wealth maximization.

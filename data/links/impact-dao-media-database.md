@@ -2,17 +2,15 @@
 title: Impact DAO Media - Comprehensive DAO Database and Analysis
 description: Impact DAO Media maintains comprehensive database tracking DAO landscape with governance focus, providing structured data on organizational models, voting mechanisms, treasury management, and participation patterns across hundreds of decentralized organizations.
 publish: true
-type: database
+type: link
+linkType: directory
 url: https://daos.paradigm.xyz/
 author:
   - Impact DAO Media
 tags:
-  - dao-database
-  - dao-landscape
-  - governance-tracking
-  - organizational-data
-  - dao-analytics
-  - impact-daos
+  - daos
+  - governance
+  - impact
 ---
 
 Impact DAO Media's database provides comprehensive tracking of DAO landscape, cataloging hundreds of decentralized organizations with structured data on [governance](data/concepts/governance.md) mechanisms, treasury sizes, member participation, voting patterns, and organizational focus areas. The database serves as research infrastructure for understanding DAO ecosystem empirically rather than through anecdotes or promotional claims, enabling analysis of governance patterns, participation trends, and organizational evolution across projects. By maintaining standardized data structure across diverse [DAOs](data/concepts/daos.md), the platform supports comparative research examining which [coordination](data/concepts/coordination.md) approaches work in different contexts, how governance evolves over time, and where persistent challenges emerge. The database emphasizes [impact](data/concepts/impact.md)-focused DAOs working on [public goods](tags/public-goods.md), social benefit, and regenerative projects, providing particular value for communities interested in decentralized coordination beyond purely financial applications.

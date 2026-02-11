@@ -2,17 +2,15 @@
 title: joaxap - DAO Governance Models 101
 description: Educational overview of DAO governance approaches providing accessible introduction to voting mechanisms, delegation systems, multi-sig management, and decision-making structures, helping newcomers understand governance options and trade-offs without requiring technical expertise.
 publish: true
-type: educational-resource
+type: link
+linkType: guide
 url: https://mirror.xyz/joaxap.eth/SBlRa5cehZx8ETMsTrbFpwRZ42zZaaxABsL5XSYJFn4
 author:
   - joaxap
 tags:
-  - governance-education
-  - dao-101
-  - voting-mechanisms
-  - delegation-systems
-  - governance-models
-  - educational-overview
+  - governance
+  - daos
+  - delegation
 ---
 
 joaxap's "[DAO](data/concepts/daos.md) [Governance](data/concepts/governance.md) Models 101" provides accessible educational overview of major governance approaches used in decentralized organizations, explaining voting mechanisms, delegation systems, multi-sig management, and [decision-making](data/concepts/decisions.md) structures without requiring technical [blockchain](data/concepts/blockchain.md) expertise. The resource helps newcomers understand governance options including token voting, conviction voting, quadratic voting, liquid democracy, multi-signature wallets, and hybrid approaches, examining trade-offs around participation requirements, plutocracy risks, decision speed, and security considerations. Rather than prescribing optimal governance model, the educational approach helps readers understand how different mechanisms function, what challenges they address, and what new problems they might create—building governance literacy that enables informed participation and critical evaluation of [coordination](data/concepts/coordination.md) systems. This introductory framing serves audiences exploring DAO participation or considering [decentralized](data/concepts/decentralization.md) governance for their [communities](data/concepts/community.md) without overwhelming them with technical implementation details.

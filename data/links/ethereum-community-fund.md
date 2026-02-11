@@ -2,17 +2,12 @@
 title: Ethereum Community Fund - Ecosystem Development Support
 description: Ethereum Community Fund supports ecosystem development and token engineering research through grants and resources, fostering innovation in Ethereum-based coordination tools, governance mechanisms, and public goods infrastructure serving broader Web3 ecosystem.
 publish: true
-type: funding-organization
+type: link
+linkType: group
 url: https://ecf.network/
 author:
   - Ethereum Community Fund
 tags:
-  - ecosystem-funding
-  - token-engineering
-  - ethereum-ecosystem
-  - research-support
-  - public-goods-funding
-  - web3-infrastructure
 ---
 
 The Ethereum Community Fund provides grants and support for ecosystem development projects advancing Ethereum network capabilities, [governance](data/concepts/governance.md) innovations, and [public goods](tags/public-goods.md) infrastructure. Rather than focusing exclusively on application-level development, ECF emphasizes foundational work including token engineering research, [coordination](data/concepts/coordination.md) mechanism design, governance tooling, and shared infrastructure benefiting broader ecosystem rather than individual commercial products. The fund supports both technical development and research examining how blockchain-based coordination can serve [community](data/concepts/community.md) benefit, public goods provision, and regenerative outcomes. This positions ECF at intersection of Ethereum technical infrastructure and social [impact](data/concepts/impact.md) applications, recognizing that effective decentralized coordination requires ongoing research, experimentation, and tool development beyond what market incentives alone will support—demonstrating role of community-directed funding in sustaining commons infrastructure and governance innovation serving ecosystem health.

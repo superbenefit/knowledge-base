@@ -3,11 +3,11 @@ title: The Handbook of Handbooks for Decentralised Organising
 description: A mega list of handbooks and toolkits for groups working without top-down management from social movements to workplaces open source for anyone to read, update, share
 publish: true
 type: link
+linkType: directory
 url: https://hackmd.io/@yHk1snI9T9SNpiFu2o17oA/Skh_dXNbE?type=view
 author:
   - Richard Bartlett
 tags:
-  - organization
   - decentralization
 ---
 
@@ -21,7 +21,7 @@ https://hackmd.io/@yHk1snI9T9SNpiFu2o17oA/Skh_dXNbE
 
 The _Handbook of Handbooks for Decentralised Organising_ is a curated compendium of resources tailored for groups and organizations adopting decentralized and non-hierarchical management structures. This document is particularly valuable for collectives, grassroots movements, cooperatives, open-source initiatives, and workplace environments aiming to function without a top-down management style.
 
-Compiled by Richard Bartlett, a co-founder of Enspiral and advocate of decentralized methods, this resource acts as both a reference and an invitation for collaboration. It includes handbooks from diverse fields, showcasing practical approaches to [decision-making](archive/clarity/Tags/decision-making.md), facilitation, and [governance](data/concepts/governance.md) in flat organizational structures.
+Compiled by Richard Bartlett, a co-founder of Enspiral and advocate of decentralized methods, this resource acts as both a reference and an invitation for collaboration. It includes handbooks from diverse fields, showcasing practical approaches to [decision-making](data/concepts/decisions.md), facilitation, and [governance](data/concepts/governance.md) in flat organizational structures.
 
 For more information, check out Patterns for [Decentralized Organizing](https://leanpub.com/patterns-for-decentralised-organising/).
 
@@ -94,7 +94,7 @@ The article is presented as an interactive HackMD page, offering links to handbo
 
 1. [Better Work Together](https://betterworktogether.co/) – Stories and tools from Enspiral, a network of self-managing social enterprises.
 2. [The Toolbox Toolbox](https://toolboxtoolbox.com/) – Curated list of analogue and digital tools and methods from various organizations.
-3. [Re-humanizing the Workplace](https://chuckblakeman.com/re-humanizing-the-workplace/) – Explores distributed decision-making tools in the [Participation](tags/participation.md) Age by Chuck Blakeman.
+3. [Re-humanizing the Workplace](https://chuckblakeman.com/re-humanizing-the-workplace/) – Explores distributed decision-making tools in the [Participation](data/concepts/participation.md) Age by Chuck Blakeman.
 4. [Reinventing Organizations](https://www.reinventingorganizations.com/) – Frederic Laloux’s influential book on operating without centralized management systems, with an accompanying [wiki](https://reinventingorganizationswiki.com/).
 5. [Insights for the Journey](https://www.reinventingorganizations.com/videos.html) – Video series complementing the _Reinventing Organizations_ book.
 6. [Rebuild: The Economy, Leadership, and You](https://rebuildthebook.com/) – Toolkit for better world-building, integrating economics, leadership, and developmental practices.

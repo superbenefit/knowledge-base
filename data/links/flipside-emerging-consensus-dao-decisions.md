@@ -2,17 +2,16 @@
 title: Emerging Consensus - Accelerating DAO Decision-Making
 description: Flipside practical framework for accelerating DAO decision-making through emerging consensus processes that enable action while maintaining legitimacy, balancing speed with participation and preventing gridlock.
 publish: true
-type: framework
+type: link
+linkType: pattern
 url: https://medium.com/flipside-governance/emerging-consensus-a-way-to-accelerate-decision-making-in-daos-c75aee6be87
 author:
   - Flipside Governance
 tags:
-  - emerging-consensus
-  - dao-decision-making
-  - flipside
-  - governance-efficiency
-  - consensus-processes
-  - participation-balance
+  - consensus
+  - decisions
+  - governance
+  - participation
 ---
 
 Flipside's emerging consensus framework addresses [DAO](data/concepts/daos.md) [governance](data/concepts/governance.md) challenge of balancing comprehensive participation with timely decision-making. Traditional consensus processes ensure broad input but can create gridlock when decisions require extensive deliberation, while rushed votes exclude those who need time to understand proposals. Emerging consensus enables action based on developing agreement among engaged participants while maintaining legitimacy through transparency and objection mechanisms. The framework shows how DAOs can move forward when consensus emerges among those actively participating rather than waiting for universal agreement or forcing premature votes, creating space for both swift execution and meaningful deliberation.

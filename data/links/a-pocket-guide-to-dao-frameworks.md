@@ -2,7 +2,8 @@
 title: A Pocket Guide to DAO Frameworks
 description: A concise exploration of the primary technical frameworks for building and operating DAOs, clarifying their distinct approaches to governance and coordination.
 publish: false
-type: guide
+type: link
+linkType: guide
 url: https://mirror.xyz/morereese.eth/85QxsC_e650TYvojH51GbLpo93hhAjBi1xJspiU25b0
 author:
   - MoreReese
@@ -19,7 +20,7 @@ tags:
 ### Key Highlights
 - **OpenZeppelin Governor**: The guide explains how this modular, security-focused framework (developed with Compound) powers many major DAOs through its flexible, customizable approach to on-chain governance. It emphasizes OpenZeppelin's strong security track record and adaptability to different governance requirements.
 - **Moloch Framework**: Described as a "minimum viable DAO," the Moloch framework is presented as a streamlined approach focused originally on grant distribution. The guide highlights its distinctive "Ragequit" mechanism that allows members to exit with their proportional share of treasury funds if they disagree with governance decisions.
-- **Aragon Framework**: The guide details how Aragon provides a comprehensive ecosystem for DAO creation and management, emphasizing its "Optimistic Governance" model that streamlines [decision-making](archive/clarity/Tags/decision-making.md) by assuming proposals pass unless challenged, and its extensive tooling for creating token-based governance systems.
+- **Aragon Framework**: The guide details how Aragon provides a comprehensive ecosystem for DAO creation and management, emphasizing its "Optimistic Governance" model that streamlines [decision-making](data/concepts/decisions.md) by assuming proposals pass unless challenged, and its extensive tooling for creating token-based governance systems.
 - **Framework Selection Considerations**: Rather than advocating for one solution, the guide presents a nuanced view of how factors like governance complexity, treasury size, security requirements, and [community](data/concepts/community.md) structure should inform framework selection, emphasizing that different DAOs have different optimal technical foundations.
 - **Governance Spectrum**: The guide places these frameworks along a spectrum from minimalist to comprehensive, and from deterministic to flexible governance, showing how technical choices reflect philosophical governance approaches.
 
@@ -37,7 +38,7 @@ The guide helps bridge the gap between governance theory and technical implement
 
 ### Connection With SuperBenefit
 
-- Clarifies how different technical infrastructures implement the building blocks of decentralized organization, evoking SuperBenefit's work on the [DAO Primitives framework](../artifacts/guides/dao-primitives-framework/index.md).
+- Clarifies how different technical infrastructures implement the building blocks of decentralized organization, evoking SuperBenefit's work on the [DAO Primitives framework](../docs/dao-primitives/primitives-framework/index.md).
 - The comparative approach aligns with SuperBenefit's pattern-based organizational design, recognizing that different contexts require different implementations of governance principles.
 - Helps bridge theory and practice by showing how conceptual frameworks can be implemented in real technical systems.
 ---

@@ -2,17 +2,15 @@
 title: Enabling a Thriving Civic Life - Regen Melbourne Distributed Grant Making
 description: Regen Melbourne report documenting participatory grant-making experiment using Wellbeing Protocol (Hum app) to enable distributed funding decisions, showing how digital tools can support community-led resource allocation beyond traditional philanthropy.
 publish: true
-type: research-report
+type: link
+linkType: study
 url: https://www.regen.melbourne/news/new-urban-governance-first-report
 author:
   - Regen Melbourne
 tags:
-  - regen-melbourne
-  - distributed-grant-making
-  - wellbeing-protocol
-  - participatory-funding
-  - urban-governance
-  - civic-technology
+  - distributed
+  - protocols
+  - governance
 ---
 
 Regen Melbourne's report documents participatory grant-making experiment using the Wellbeing Protocol (Hum app) to enable distributed funding decisions, demonstrating how digital [coordination](data/concepts/coordination.md) tools can support [community](data/concepts/community.md)-led resource allocation. The trial engaged diverse Melbourne residents in collective decision-making about funding local initiatives, testing whether participatory digital platforms could enhance civic engagement beyond traditional philanthropy's top-down expert models. Rather than treating technology as neutral infrastructure, the report examines how specific design choices—voting mechanisms, information presentation, facilitation approaches—shape who participates and what gets funded. This creates valuable documentation of digital participatory funding implementation, including both successes and persistent challenges around inclusion, deliberation quality, and decision legitimacy.

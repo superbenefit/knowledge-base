@@ -1,15 +1,15 @@
 ---
 type: link
+linkType: group
 title: OpenCivics Collaborative Initiative – Specification Template 2.0
 url: https://opencivics.notion.site/Collaborative-Initiative-Specification-Template-2-0-85394bd901684a3783b2a55dfa78ae88
 author:
   - OpenCivics
 tags:
-  - organization
 publish: true
 ---
 
-The **Collaborative Initiative Specification Template 2.0** provides a structured framework for organizing and executing collaborative projects. It includes key sections like the project’s purpose, scope, stakeholders, [governance](data/concepts/governance.md) models, [decision-making](archive/clarity/Tags/decision-making.md) processes, and success metrics. The template emphasizes clarity and accountability, ensuring that all participants understand their roles and contributions while promoting transparent and [decentralized](data/concepts/decentralization.md) collaboration.
+The **Collaborative Initiative Specification Template 2.0** provides a structured framework for organizing and executing collaborative projects. It includes key sections like the project’s purpose, scope, stakeholders, [governance](data/concepts/governance.md) models, [decision-making](data/concepts/decisions.md) processes, and success metrics. The template emphasizes clarity and accountability, ensuring that all participants understand their roles and contributions while promoting transparent and [decentralized](data/concepts/decentralization.md) collaboration.
 
 This concept is similar to the SuperBenefit meme of group state.
 

@@ -2,7 +2,8 @@
 title: Metagov - Governance Research and Development Hub
 description: Leading interdisciplinary research organization and resource hub dedicated to advancing online governance, institutional design, and collective decision-making across decentralized platforms and communities.
 publish: true
-type: resource-hub
+type: link
+linkType: directory
 url: https://metagov.org/
 author:
   - Metagov
@@ -10,16 +11,11 @@ author:
   - Nathan Schneider
   - Amy X. Zhang
 tags:
-  - governance-research
-  - metagov
-  - institutional-design
-  - online-governance
-  - collective-decision-making
-  - democratic-innovation
-  - governance-tools
+  - governance
+  - decisions
 ---
 
-Metagov stands as the preeminent interdisciplinary research hub for online [governance](data/concepts/governance.md), bringing together computer scientists, political theorists, economists, and practitioners to advance both theoretical understanding and practical tools for collective [decision-making](archive/clarity/Tags/decision-making.md). Founded by leading researchers including Joshua Tan, Nathan Schneider, and Amy X. Zhang, the project bridges academic rigor with hands-on development, creating both scholarly publications and open-source governance infrastructure. Metagov's work spans [DAOs](data/concepts/daos.md), platform cooperatives, online [community](data/concepts/community.md), and civic tech, offering frameworks, tools, and research that ground governance innovation in evidence rather than speculation—making it essential reference for anyone building or studying [decentralized](data/concepts/decentralization.md) [coordination](data/concepts/coordination.md) systems.
+Metagov stands as the preeminent interdisciplinary research hub for online [governance](data/concepts/governance.md), bringing together computer scientists, political theorists, economists, and practitioners to advance both theoretical understanding and practical tools for collective [decision-making](data/concepts/decisions.md). Founded by leading researchers including Joshua Tan, Nathan Schneider, and Amy X. Zhang, the project bridges academic rigor with hands-on development, creating both scholarly publications and open-source governance infrastructure. Metagov's work spans [DAOs](data/concepts/daos.md), platform cooperatives, online [community](data/concepts/community.md), and civic tech, offering frameworks, tools, and research that ground governance innovation in evidence rather than speculation—making it essential reference for anyone building or studying [decentralized](data/concepts/decentralization.md) [coordination](data/concepts/coordination.md) systems.
 
 ### Key Highlights
 
@@ -31,7 +27,7 @@ Metagov stands as the preeminent interdisciplinary research hub for online [gove
 
 - **Practical Tools and Frameworks**: The project creates open-source governance tools including PolicyKit (modular governance for online communities), govbase (database of governance systems), and frameworks like "design patterns for decentralized organizations" that practitioners can implement immediately.
 
-- **Democratic Legitimacy**: Metagov explicitly addresses how online governance can achieve democratic legitimacy—meaningful [participation](tags/participation.md), accountability, [transparency](data/concepts/transparency.md)—rather than assuming technical decentralization automatically produces democracy. This focus on substance over form challenges superficial decentralization.
+- **Democratic Legitimacy**: Metagov explicitly addresses how online governance can achieve democratic legitimacy—meaningful [participation](data/concepts/participation.md), accountability, [transparency](data/concepts/transparency.md)—rather than assuming technical decentralization automatically produces democracy. This focus on substance over form challenges superficial decentralization.
 
 - **Cross-Platform Governance**: The work explores how governance can operate across multiple platforms and communities rather than within single silos, developing frameworks for federated decision-making and inter-community coordination that mirror real-world polycentricity.
 

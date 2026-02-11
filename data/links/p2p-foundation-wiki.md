@@ -2,14 +2,13 @@
 title: P2P Foundation Wiki
 description: A comprehensive knowledge commons documenting peer-to-peer practices, theories, and projects across economic, political, and cultural domains.
 publish: true
-type: wiki
+type: link
+linkType: directory
 url: https://wiki.p2pfoundation.net/Main_Page
 author:
   - P2P Foundation
 tags:
-  - commons
   - peer-to-peer
-  - knowledge
   - coordination
   - decentralization
 ---
@@ -52,5 +51,5 @@ The wiki is particularly valuable for its documentation of real-world case studi
 - [Coordination](data/concepts/coordination.md) - Local and network-scale coordination
 - [DAOs](data/concepts/daos.md) - Decentralized organizational forms
 - Governance - Community and network governance
-- [Knowledge Gardens](artifacts/patterns/knowledge-gardens.md) - Decentralized knowledge creation
+- [Knowledge Gardens](data/resources/patterns/knowledge-gardens.md) - Decentralized knowledge creation
 - [Primitives](data/concepts/primitives.md) - Building blocks for local networks

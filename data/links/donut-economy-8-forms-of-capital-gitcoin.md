@@ -2,19 +2,12 @@
 title: Donut Economy x 8 Forms of Capital - Gitcoin Integration
 description: Comprehensive integration of Kate Raworth's Donut Economics model with the 8 Forms of Capital framework, applied to decentralized coordination and regenerative economics in the Gitcoin context.
 publish: true
-type: framework
+type: link
+linkType: pattern
 url: https://gov.gitcoin.co/t/the-donut-economy-x-8-forms-of-capital/10079
 author:
   - Gitcoin Community
 tags:
-  - donut-economics
-  - 8-forms-of-capital
-  - regenerative-economics
-  - gitcoin
-  - holistic-wealth
-  - planetary-boundaries
-  - social-foundation
-  - alternative-economics
 ---
 
 This Gitcoin [governance](data/concepts/governance.md) forum post represents a sophisticated synthesis of two complementary regenerative economics frameworks: Kate Raworth's Donut Economics (balancing planetary boundaries with social foundations) and the 8 Forms of Capital model (recognizing wealth beyond financial metrics). The integration shows how decentralized organizations can operationalize regenerative principles by tracking value creation across multiple capitals (living, social, material, financial, intellectual, experiential, spiritual, cultural) while respecting ecological limits and ensuring social wellbeing. This framework challenges both extractive capitalism's narrow focus on financial returns and naive Web3 economics that ignore ecological impacts, offering practical tools for building genuinely regenerative [coordination](data/concepts/coordination.md) systems.

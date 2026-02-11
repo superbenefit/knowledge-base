@@ -2,17 +2,15 @@
 title: DAO Research Collective - Curated DAO Governance Research Repository
 description: Collaborative initiative curating academic research, case studies, and analysis on DAO governance and coordination, providing centralized access to scholarly work examining decentralized organizations beyond promotional materials and speculative predictions.
 publish: true
-type: research-repository
+type: link
+linkType: directory
 url: https://daorescollective.xyz/
 author:
   - DAO Research Collective
 tags:
-  - dao-research
-  - governance-studies
-  - academic-resources
-  - research-curation
-  - evidence-based-analysis
-  - scholarly-work
+  - daos
+  - governance
+  - resources
 ---
 
 The DAO Research Collective maintains curated repository of academic research, empirical studies, and analytical work on [DAO](data/concepts/daos.md) [governance](data/concepts/governance.md) and [coordination](data/concepts/coordination.md), addressing gap between promotional Web3 discourse and rigorous examination of how decentralized organizations actually function. The collection spans peer-reviewed papers, working studies, case analyses, and theoretical [frameworks](data/concepts/frameworks.md) from researchers across disciplines including organization science, political economy, law, and information systems. Rather than advocating particular DAO models, the repository presents evidence-based analysis examining governance mechanisms, coordination challenges, participation patterns, and organizational outcomes. The collaborative curation approach draws on multiple researchers' expertise to identify quality scholarship, making academic DAO literature more accessible to practitioners, policymakers, and educators who might otherwise struggle to find rigorous analysis amid promotional content dominating Web3 discourse.

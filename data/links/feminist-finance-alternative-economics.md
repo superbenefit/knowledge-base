@@ -2,18 +2,12 @@
 title: Feminist Finance - Alternative Economics Beyond Patriarchy
 description: Resource hub exploring feminist economics and alternative finance that critiques patriarchal financial systems and proposes care-centered economic models prioritizing social reproduction and collective wellbeing over accumulation.
 publish: true
-type: resource-hub
+type: link
+linkType: directory
 url: https://feministfinance.net/
 author:
   - Feminist Finance Network
 tags:
-  - feminist-economics
-  - alternative-finance
-  - care-economy
-  - patriarchy-critique
-  - social-reproduction
-  - economic-justice
-  - gender-equity
 ---
 
 Feminist Finance offers comprehensive resource hub and framework for understanding how patriarchal values shape financial systems and imagining alternatives centered on care, social reproduction, and collective wellbeing. The project synthesizes feminist economics scholarship with practical finance alternatives, showing how current economic systems systematically undervalue care work, extract from feminized labor, and prioritize accumulation over human flourishing. Rather than merely advocating for women's inclusion in existing financial structures, Feminist Finance challenges the fundamental logic of finance capitalism—its growth imperative, its separation of economy from social reproduction, its valorization of competition over cooperation. The resources demonstrate how feminist analysis reveals hidden extractive dynamics in conventional finance while pointing toward economic models that center interdependence, care, and regeneration.

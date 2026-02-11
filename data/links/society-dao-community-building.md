@@ -2,17 +2,15 @@
 title: Society - DAO and Community Building Analysis
 description: Society's exploration of how DAOs can support genuine community formation beyond transactional coordination, examining relationship-building, shared culture creation, and belonging that enables decentralized organizations to function as meaningful social groups rather than purely instrumental coordination mechanisms.
 publish: true
-type: essay
+type: link
+linkType: article
 url: https://society.mirror.xyz/diEjKIIbFNpxTsJEQYOJP79NF4SSAIGqbfNDU0pmN3g
 author:
   - Society
 tags:
-  - community-building
-  - dao-culture
-  - social-cohesion
-  - relationship-building
-  - belonging
-  - dao-communities
+  - community
+  - culture
+  - daos
 ---
 
 Society's analysis examines how [DAOs](data/concepts/daos.md) can cultivate genuine [community](data/concepts/community.md)—shared culture, relationships, and belonging—beyond purely transactional [coordination](data/concepts/coordination.md) focused on [governance](data/concepts/governance.md) votes and treasury management. The piece argues that many DAOs struggle because they prioritize technical coordination mechanisms while neglecting social foundations that enable collective action, leading to organizations that function procedurally but lack cohesion, trust, and meaningful member engagement. Rather than treating community as automatic byproduct of [decentralized](data/concepts/decentralization.md) structure, the analysis explores intentional practices for building relationships, creating shared culture, fostering belonging, and maintaining social fabric that makes governance mechanisms actually functional. This includes examining rituals, storytelling, informal communication spaces, conflict navigation, and care practices that support community health. The work positions community-building as essential infrastructure for DAO success rather than optional cultural amenity separate from operational concerns.
@@ -43,13 +41,13 @@ This framework enables community-centered DAO design:
 
 - Governance designers can understand how social context shapes mechanism effectiveness, recognizing that same voting system functions differently in high-trust community with shared culture versus low-trust groups lacking relationships
 
-- Researchers studying DAO sustainability can examine community health indicators alongside governance [participation](tags/participation.md) metrics, understanding how social cohesion affects organizational resilience and member retention
+- Researchers studying DAO sustainability can examine community health indicators alongside governance [participation](data/concepts/participation.md) metrics, understanding how social cohesion affects organizational resilience and member retention
 
 ### Connection With SuperBenefit
 
 - Society's emphasis on community as essential DAO infrastructure validates SuperBenefit's conviction that coordination [primitives](data/concepts/primitives.md) must support social and relational dimensions of collective action not just technical voting and resource management, demonstrating that effective governance mechanisms require trust, shared meaning, and belonging foundations that can't be reduced to smart contract execution—showing that genuinely serving community means designing tools enabling not just procedural coordination but relationship-building, culture creation, and care practices that constitute communities as meaningful social groups beyond instrumental organizations.
 
-- The analysis challenges SuperBenefit to examine whether primitive development adequately addresses community formation or risks creating technically functional but socially hollow coordination infrastructure, illustrating that decentralized governance tools should facilitate rituals, storytelling, conflict navigation, and informal relationship-building that enable DAOs to function as actual communities rather than optimizing isolated mechanisms for voting and treasury management while neglecting social fabric that makes collective [decision-making](archive/clarity/Tags/decision-making.md) legitimate and sustainable when technical coordination alone proves insufficient for maintaining organizational coherence and member commitment over time.
+- The analysis challenges SuperBenefit to examine whether primitive development adequately addresses community formation or risks creating technically functional but socially hollow coordination infrastructure, illustrating that decentralized governance tools should facilitate rituals, storytelling, conflict navigation, and informal relationship-building that enable DAOs to function as actual communities rather than optimizing isolated mechanisms for voting and treasury management while neglecting social fabric that makes collective [decision-making](data/concepts/decisions.md) legitimate and sustainable when technical coordination alone proves insufficient for maintaining organizational coherence and member commitment over time.
 
 ---
 

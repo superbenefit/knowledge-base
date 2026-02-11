@@ -2,17 +2,14 @@
 title: BlockchainGov Knowledge Base - Blockchain Governance Resource Directory
 description: Specialized knowledge base aggregating resources on blockchain governance systems, protocols, and mechanisms, providing structured access to documentation, research, and analysis on how decentralized networks coordinate upgrades, parameter changes, and community decisions.
 publish: true
-type: resource-directory
+type: link
+linkType: directory
 url: https://early-venom-c6c.notion.site/BlockchainGov-Knowledge-Base-df40420e46574d1b8a6d49ec8286fa62
 author:
   - BlockchainGov
 tags:
-  - blockchain-governance
-  - protocol-governance
-  - on-chain-governance
-  - governance-mechanisms
-  - resource-directory
-  - technical-governance
+  - governance
+  - resources
 ---
 
 The BlockchainGov Knowledge Base assembles specialized resources on [blockchain](data/concepts/blockchain.md) [governance](data/concepts/governance.md)—how [decentralized networks](data/concepts/networks.md) coordinate [protocol](data/concepts/protocols.md) upgrades, parameter adjustments, and community [decisions](data/concepts/decisions.md) through on-chain voting, off-chain [coordination](data/concepts/coordination.md), or hybrid mechanisms. The collection distinguishes blockchain-level governance (protocol changes, network parameters) from organizational governance ([DAO](data/concepts/daos.md) decision-making), focusing specifically on technical coordination challenges when thousands of nodes must align on software versions, [consensus](data/concepts/consensus.md) rules, and economic parameters without central authority. The knowledge base aggregates protocol documentation, governance mechanism analysis, case studies from major blockchain networks, and research on coordination challenges including voter participation, plutocracy risks, and upgrade coordination. This specialized focus complements broader DAO resources by examining governance layer often invisible to application developers yet fundamental to decentralized system sustainability.

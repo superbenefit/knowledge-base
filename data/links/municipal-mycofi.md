@@ -2,22 +2,20 @@
 title: Municipal MycoFi
 description: A pattern for creating decentralized, mycelium-inspired financial systems that serve bioregional communities while maintaining connections to broader economic networks.
 publish: true
-type: pattern
+type: link
+linkType: practice
 url: https://superbenefit.org/notes/rpp/working-docs/municipal-mycofi.md
 author:
   - SuperBenefit
 tags:
-  - biofi
-  - bioregionalism
-  - finance
-  - regenerative
+  - regeneration
   - coordination
 ---
 
 Municipal MycoFi presents a comprehensive pattern for developing [decentralized](data/concepts/decentralization.md) financial [networks](data/concepts/networks.md) that serve bioregional [community](data/concepts/community.md) while maintaining beneficial connections to broader systems. Inspired by the structure and function of mycelial networks in nature, this pattern offers a decentralized alternative to traditional municipal finance that aligns economic flows with ecological boundaries and community needs. Municipal MycoFi represents a key implementation of bioregional finance principles, creating resilient economic infrastructure that operates at the scale of human community.
 
 ### Key Highlights
-- **Mycelial Design Principles**: The pattern adapts core characteristics of mycelial networks to financial system design, including distributed intelligence (decentralized [decision-making](archive/clarity/Tags/decision-making.md)), dynamic resource flows (needs-based allocation), redundant connections (multi-path transactions), and adaptive growth (organic system evolution based on demonstrated value).
+- **Mycelial Design Principles**: The pattern adapts core characteristics of mycelial networks to financial system design, including distributed intelligence (decentralized [decision-making](data/concepts/decisions.md)), dynamic resource flows (needs-based allocation), redundant connections (multi-path transactions), and adaptive growth (organic system evolution based on demonstrated value).
 - **Financial Facility Blueprint**: Municipal MycoFi implements a four-layered financial architecture consisting of a Bioregional Trust (foundational grant fund), Bioregional Venture Studio (organizational incubation), Bioregional Investment Company (integrated capital deployment), and Bioregional Bank (community-based lending and complementary currency issuance).
 - **Multi-Network Interoperability**: The pattern enables economic flows across multiple scales and systems, creating bridges between local economies and global capital while maintaining bioregional sovereignty. This allows community to benefit from global resources without becoming dependent on or captured by external capital.
 - **Decentralized Resource Distribution**: Municipal MycoFi uses distributed ledger technologies and smart contracts to enable transparent, democratic allocation of resources based on community priorities rather than centralized authority. Various decision mechanisms including quadratic funding, conviction voting, and liquid democracy can be implemented based on community context.
@@ -48,5 +46,5 @@ A specific implementation example is Boulder Regen Hub's local market network, w
 - Coordination - Local and network-scale coordination
 - [DAOs](data/concepts/daos.md) - Decentralized organizational forms
 - [Governance](data/concepts/governance.md) - Community and network governance
-- [Knowledge Gardens](artifacts/patterns/knowledge-gardens.md) - Decentralized knowledge creation
+- [Knowledge Gardens](data/resources/patterns/knowledge-gardens.md) - Decentralized knowledge creation
 - [Primitives](data/concepts/primitives.md) - Building blocks for local networks

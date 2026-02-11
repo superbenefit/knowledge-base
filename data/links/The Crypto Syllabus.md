@@ -2,17 +2,13 @@
 title: The Crypto Syllabus
 description: A carefully curated educational resource that examines blockchain technologies, cryptocurrencies, and Web3 through critical interdisciplinary perspectives beyond typical techno-optimist narratives.
 publish: true
-type: syllabus
+type: link
+linkType: book
 url: https://the-crypto-syllabus.com/
 author:
   - Evgeny Morozov
   - The Crypto Syllabus Team
 tags:
-  - education
-  - web3
-  - critique
-  - political-economy
-  - interdisciplinary
 ---
 
 The Crypto Syllabus offers a refreshingly critical and intellectually rigorous approach to understanding [blockchain](data/concepts/blockchain.md) technologies and their social, economic, and political implications. Created by a team led by technology critic Evgeny Morozov, this resource goes beyond technical explanations and investment advice to explore the philosophical foundations, [power](data/concepts/power.md) dynamics, and potential societal consequences of crypto adoption. Through curated reading lists, original interviews with diverse voices, and thematic explorations, The Crypto Syllabus provides an interdisciplinary framework for analyzing crypto phenomena from legal, historical, anthropological, and political-economic perspectives.

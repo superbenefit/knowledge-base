@@ -2,22 +2,15 @@
 title: Plurality - Technology for Collaborative Diversity and Democracy
 description: Comprehensive open-source book by Glen Weyl, Audrey Tang, and contributors exploring pluralistic democracy, digital governance, and technology for collaborative diversity across difference.
 publish: true
-type: book
+type: link
+linkType: book
 url: https://www.radicalxchange.org/media/blog/plurality-technology-for-collaborative-diversity-and-democracy/
 author:
   - E. Glen Weyl
   - Audrey Tang
   - RadicalxChange Foundation
 tags:
-  - plurality
-  - democratic-innovation
-  - digital-governance
-  - collective-intelligence
-  - taiwan-digital-democracy
-  - collaborative-diversity
-  - participatory-democracy
-  - quadratic-voting
-  - plural-public-goods
+  - governance
 ---
 
 Plurality represents one of the most comprehensive and ambitious attempts to articulate a vision for technology that enhances rather than undermines democracy. Written collaboratively by economist E. Glen Weyl, Taiwan's former Digital Minister Audrey Tang, and contributors from the RadicalxChange movement, this massive open-source book (over 200,000 characters) synthesizes theoretical frameworks, real-world implementations from Taiwan's digital democracy experiments, and practical pathways for building technology that harnesses diversity as strength rather than flattening it into algorithmic monoculture. The work stands out for grounding abstract democratic theory in actual [governance](data/concepts/governance.md) innovations—from vTaiwan's consensus-building platform to quadratic voting mechanisms—while offering a systemic alternative to both techno-authoritarianism and libertarian individualism.

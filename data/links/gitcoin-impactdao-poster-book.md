@@ -2,17 +2,13 @@
 title: The ImpactDAO Poster Book - Visual Educational Resource
 description: Gitcoin visual educational resource presenting impact DAO concepts through accessible poster format, making complex coordination mechanisms understandable through design-forward explanatory visuals.
 publish: true
-type: educational-resource
+type: link
+linkType: guide
 url: https://gov.gitcoin.co/t/the-impactdao-poster-book-is-here/10323
 author:
   - Gitcoin Community
 tags:
-  - impact-daos
-  - visual-education
-  - gitcoin
-  - educational-design
-  - poster-book
-  - accessible-learning
+  - impact
 ---
 
 Gitcoin's ImpactDAO Poster Book provides visual educational resource making [impact](data/concepts/impact.md) DAO concepts accessible through design-forward explanatory posters. Rather than dense text or technical documentation, the resource uses visual communication to explain how [DAOs](data/concepts/daos.md) can coordinate social and environmental impact work—funding mechanisms, [governance](data/concepts/governance.md) structures, impact measurement approaches. The poster format enables both comprehensive learning for dedicated study and quick reference for specific topics, recognizing different educational needs. By prioritizing visual accessibility, the resource welcomes broader audiences into understanding [coordination](data/concepts/coordination.md) mechanisms often explained through jargon excluding those without technical or crypto backgrounds.

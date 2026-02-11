@@ -2,17 +2,14 @@
 title: Web3 - The Promise of a Denizens-Owned Internet
 description: FemWealth feminist critique examining Web3's promise of citizen/denizen ownership of internet infrastructure, analyzing power dynamics, inclusion challenges, and whether decentralized technologies can genuinely redistribute digital power.
 publish: true
-type: analysis
+type: link
+linkType: study
 url: https://femwealth.substack.com/p/-web3-the-promise-of-a-denizens-owned
 author:
   - FemWealth
 tags:
-  - feminist-web3-critique
-  - digital-ownership
-  - power-dynamics
-  - inclusion
-  - internet-governance
-  - citizen-ownership
+  - power
+  - governance
 ---
 
 FemWealth's analysis applies feminist lens to Web3's promise of denizen-owned internet, critically examining whether [decentralized](data/concepts/decentralization.md) technologies can genuinely redistribute power or merely create new forms of exclusion under progressive rhetoric. The piece explores who actually benefits from "ownership" when participation requires technical knowledge, financial capital, and time that systematically exclude feminized and marginalized communities. Rather than dismissing Web3 entirely or celebrating it uncritically, FemWealth offers nuanced analysis of how gender, race, class, and geography shape who can access, influence, and benefit from supposedly decentralized systems—revealing how technical decentralization alone doesn't guarantee democratic outcomes if underlying power structures remain unaddressed.

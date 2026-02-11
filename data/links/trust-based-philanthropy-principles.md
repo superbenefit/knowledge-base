@@ -2,25 +2,22 @@
 title: Trust-Based Philanthropy - Transforming Power Dynamics in Funding
 description: Comprehensive framework and principles for trust-based philanthropy that addresses power imbalances in grantmaking through multi-year funding, flexible use of resources, and centering community leadership over funder control.
 publish: true
-type: framework
+type: link
+linkType: pattern
 url: https://trustbasedphilanthropy.org/
 author:
   - Trust-Based Philanthropy Project
 tags:
-  - philanthropy
-  - trust-based-grantmaking
-  - power-dynamics
-  - participatory-funding
-  - community-leadership
-  - funding-transformation
-  - grantmaking
+  - power
+  - community
+  - transformation
 ---
 
 The Trust-Based Philanthropy Project articulates comprehensive framework for transforming philanthropic practice by addressing the [power](data/concepts/power.md) imbalances inherent in traditional grantmaking. Rather than treating power disparities as unfortunate side effects of funding relationships, trust-based philanthropy recognizes how conventional practices—restrictive grants, burdensome reporting, short time horizons, funder-determined priorities—concentrate power with wealthy donors while extracting labor from [community](data/concepts/community.md) organizations. The framework proposes six core practices that redistribute power: multi-year unrestricted funding, streamlined applications, transparent responsive communication, soliciting and acting on feedback, offering support beyond money, and committing to equity and justice. These aren't merely procedural improvements but fundamental shifts that center grantee leadership, build genuine partnership, and acknowledge that those closest to issues understand solutions better than distant funders.
 
 ### Key Highlights
 
-- **Power-Aware Grantmaking**: Trust-based philanthropy explicitly names how traditional practices consolidate funder power—controlling how money is used, demanding extensive reporting to prove worthiness, changing priorities that force grantees to chase new funding, maintaining opacity about [decision-making](archive/clarity/Tags/decision-making.md). By surfacing these dynamics, the framework enables intentional power redistribution rather than perpetuating extraction through progressive rhetoric.
+- **Power-Aware Grantmaking**: Trust-based philanthropy explicitly names how traditional practices consolidate funder power—controlling how money is used, demanding extensive reporting to prove worthiness, changing priorities that force grantees to chase new funding, maintaining opacity about [decision-making](data/concepts/decisions.md). By surfacing these dynamics, the framework enables intentional power redistribution rather than perpetuating extraction through progressive rhetoric.
 
 - **Multi-Year Unrestricted Funding**: The project advocates for general operating support over extended periods rather than project-specific grants, recognizing that unrestricted multi-year commitments enable organizations to plan strategically, invest in staff and infrastructure, and respond to emergent community needs rather than contorting work to fit narrow funder priorities that shift unpredictably.
 

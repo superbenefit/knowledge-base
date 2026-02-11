@@ -2,17 +2,16 @@
 title: 1kx - Organization Legos - The State of DAO Tooling
 description: 1kx Network comprehensive analysis of DAO tooling landscape examining governance platforms, treasury management, contributor coordination, and communication infrastructure, mapping composable organizational primitives emerging in Web3 ecosystem.
 publish: true
-type: research-report
+type: link
+linkType: study
 url: https://medium.com/1kxnetwork/organization-legos-the-state-of-dao-tooling-866b6879e93e
 author:
   - 1kx Network
 tags:
-  - dao-tooling
-  - governance-platforms
-  - treasury-management
-  - contributor-coordination
-  - organizational-infrastructure
-  - web3-tooling
+  - daos
+  - governance
+  - treasury
+  - coordination
 ---
 
 1kx Network's "Organization Legos" report provides comprehensive mapping of [DAO](data/concepts/daos.md) tooling landscape, analyzing platforms and services enabling decentralized organization across [governance](data/concepts/governance.md), [treasury](data/concepts/treasury.md) management, contributor [coordination](data/concepts/coordination.md), and communication. The "legos" metaphor emphasizes composability—DAOs assemble organizational infrastructure from modular tools rather than adopting single integrated platform, creating customized coordination systems from interoperable [components](data/concepts/primitives.md). The analysis categorizes tooling by function (voting, payroll, documentation, token distribution) while examining trade-offs between flexibility and complexity in composable systems. Rather than prescribing ideal DAO stack, report documents diverse tooling approaches and helps practitioners navigate choices based on organizational needs. The venture capital perspective informs analysis with attention to product-market fit, user experience, and [ecosystem](tags/ecosystems.md) development, though may emphasize [scale](data/concepts/scale.md) and growth over other organizational values.

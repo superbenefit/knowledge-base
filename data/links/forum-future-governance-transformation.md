@@ -2,20 +2,18 @@
 title: Forum for the Future - Governance as Route to Transformation
 description: Forum for the Future analysis positioning governance reform as overlooked but essential pathway to systems transformation, examining how participatory governance, futures thinking, and regenerative principles can enable organizations to navigate complexity and contribute to broader societal change.
 publish: true
-type: strategic-analysis
+type: link
+linkType: study
 url: https://www.thefuturescentre.org/governance-the-overlooked-route-to-transformation-how-can-we-best-organise-for-change/
 author:
   - Forum for the Future
 tags:
-  - transformative-governance
-  - participatory-futures
-  - systems-change
-  - strategic-foresight
-  - regenerative-governance
-  - organizational-transformation
+  - governance
+  - systems
+  - transformation
 ---
 
-Forum for the Future's analysis argues that [governance](data/concepts/governance.md) transformation represents overlooked but essential pathway to broader systems change, examining how organizations can reform [decision-making](archive/clarity/Tags/decision-making.md) structures to become more adaptive, participatory, and regenerative. Rather than treating governance as administrative concern separate from mission and strategy, the piece positions governance as site where transformation either gets enabled or blocked—organizations claiming commitment to sustainability and justice while maintaining extractive hierarchical governance structures contradict their stated values. The analysis integrates strategic foresight methodologies, participatory futures approaches, and regenerative principles to imagine governance serving transformation, exploring how organizations can create decision structures supporting emergence, distributing power, centering affected [community](data/concepts/community.md), and navigating complexity rather than imposing control. This connects organizational governance innovation to broader movements for economic democracy, climate action, and social justice.
+Forum for the Future's analysis argues that [governance](data/concepts/governance.md) transformation represents overlooked but essential pathway to broader systems change, examining how organizations can reform [decision-making](data/concepts/decisions.md) structures to become more adaptive, participatory, and regenerative. Rather than treating governance as administrative concern separate from mission and strategy, the piece positions governance as site where transformation either gets enabled or blocked—organizations claiming commitment to sustainability and justice while maintaining extractive hierarchical governance structures contradict their stated values. The analysis integrates strategic foresight methodologies, participatory futures approaches, and regenerative principles to imagine governance serving transformation, exploring how organizations can create decision structures supporting emergence, distributing power, centering affected [community](data/concepts/community.md), and navigating complexity rather than imposing control. This connects organizational governance innovation to broader movements for economic democracy, climate action, and social justice.
 
 ### Key Highlights
 
@@ -47,7 +45,7 @@ This framework enables transformative governance design:
 
 ### Connection With SuperBenefit
 
-- Forum for the Future's positioning of governance as transformation site validates SuperBenefit's conviction that [coordination](data/concepts/coordination.md) [primitives](data/concepts/primitives.md) aren't neutral infrastructure but political tools that either enable or block regenerative change, demonstrating that effective governance mechanisms must align with values of [participation](tags/participation.md), emergence, and power distribution rather than optimizing efficiency within extractive organizational paradigms—showing that designing coordination tools requires examining what transformation they serve and whose agency they support or undermine through structural choices that appear technical but encode political commitments.
+- Forum for the Future's positioning of governance as transformation site validates SuperBenefit's conviction that [coordination](data/concepts/coordination.md) [primitives](data/concepts/primitives.md) aren't neutral infrastructure but political tools that either enable or block regenerative change, demonstrating that effective governance mechanisms must align with values of [participation](data/concepts/participation.md), emergence, and power distribution rather than optimizing efficiency within extractive organizational paradigms—showing that designing coordination tools requires examining what transformation they serve and whose agency they support or undermine through structural choices that appear technical but encode political commitments.
 
 - The analysis's integration of participatory futures, systems thinking, and regenerative principles resonates with SuperBenefit's multidisciplinary approach to coordination innovation, illustrating that effective governance design draws on diverse knowledge traditions including strategic foresight, complexity science, and ecological thinking rather than treating organizational decision-making as purely technical problem solved through mechanism design divorced from broader frameworks for navigating transformation, justice, and sustainability that shape what "good governance" actually means in practice.
 

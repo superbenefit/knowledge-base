@@ -2,17 +2,14 @@
 title: Sobol - The Pragmatist's Guide to DAOing
 description: Sobol's practical guide to DAO participation and coordination providing accessible introduction to decentralized organization beyond hype and technical jargon, offering concrete guidance for contributors navigating governance, communication, and collaboration challenges in emerging organizational structures.
 publish: true
-type: practical-guide
+type: link
+linkType: guide
 url: https://mirror.xyz/media.sobol.eth/_qfTMgEws2OZOMBxj-Elz7A0lto2gyaHmAFv_gKLYBE
 author:
   - Sobol
 tags:
-  - dao-participation
-  - practical-guidance
-  - contributor-experience
-  - dao-operations
-  - pragmatic-approach
-  - sobol
+  - participation
+  - daos
 ---
 
 Sobol's "Pragmatist's Guide to DAOing" provides accessible practical introduction to participating in and coordinating through [DAOs](data/concepts/daos.md), cutting through hype and technical complexity to offer concrete guidance for contributors navigating these emerging organizational forms. Rather than theoretical frameworks or aspirational visions, the guide addresses everyday challenges including understanding [governance](data/concepts/governance.md) processes, finding meaningful contribution opportunities, navigating communication tools, managing [coordination](data/concepts/coordination.md) across time zones and contexts, and building relationships in primarily digital environments. The pragmatic approach acknowledges that DAOs remain messy, experimental, and often frustrating organizational structures while providing actionable advice for making participation effective despite persistent challenges. This grounds DAO coordination in lived participant experience rather than idealized narratives, offering realistic perspective valuable for both new contributors and experienced practitioners seeking to improve organizational functioning.

@@ -2,17 +2,15 @@
 title: Shifting Power to Shift Systems - Rockefeller Report
 description: Rockefeller Philanthropy Advisors comprehensive framework on power equity in philanthropy and systems change, showing how redistributing power from funders to communities catalyzes transformation while maintaining concentration prevents genuine change.
 publish: true
-type: research-report
+type: link
+linkType: study
 url: https://www.rockpa.org/wp-content/uploads/2023/02/Power-Equity-Summary-Report-2.pdf
 author:
   - Rockefeller Philanthropy Advisors
 tags:
-  - power-equity
-  - rockefeller
-  - systems-change
-  - philanthropic-power
+  - power
+  - systems
   - transformation
-  - power-redistribution
 ---
 
 Rockefeller Philanthropy Advisors' comprehensive report examines [power](data/concepts/power.md) as central to both philanthropic practice and systems transformation, showing that addressing power dynamics isn't optional add-on but fundamental requirement for genuine change. The framework demonstrates how traditional philanthropy consolidates power with wealthy donors while claiming to serve marginalized [communities](data/concepts/community.md), undermining transformation goals. Rather than incremental improvements to extractive structures, the report calls for fundamental power redistribution from funders to communities—participatory allocation, community leadership, structural change enabling rather than controlling transformation. This provides rigorous analysis and practical frameworks for funders serious about catalyzing systems change through power equity.

@@ -2,17 +2,14 @@
 title: Educator's Guide to Web3 for Absolute Beginners
 description: Comprehensive educational resource from EdTech Insiders providing accessible introduction to Web3 concepts, blockchain technology, and decentralized applications designed specifically for educators and learning contexts.
 publish: true
-type: educational-guide
+type: link
+linkType: guide
 url: https://edtechinsiders.substack.com/p/educators-guide-to-web3-for-absolute
 author:
   - EdTech Insiders
 tags:
-  - web3-education
-  - blockchain-basics
-  - educational-technology
-  - beginners-guide
-  - learning-resources
-  - educator-resources
+  - blockchain
+  - resources
 ---
 
 This comprehensive guide from EdTech Insiders offers educators accessible entry point into Web3 concepts without requiring technical background or crypto expertise. Designed specifically for learning contexts, the resource explains [blockchain](data/concepts/blockchain.md) fundamentals, [decentralized](data/concepts/decentralization.md) applications, NFTs, [DAOs](data/concepts/daos.md), and Web3 values using educational frameworks and practical examples relevant to teaching environments. Rather than emphasizing financial speculation or technical implementation, the guide focuses on conceptual understanding and pedagogical applications—helping educators evaluate how decentralized technologies might serve educational goals, understand what students encounter in digital culture, and explore possibilities for learning communities. The resource addresses both potential benefits and legitimate concerns about Web3 in education, providing balanced perspective that respects educators' expertise while introducing genuinely novel technological approaches.

@@ -2,17 +2,14 @@
 title: Web3 and the Trap of 'For Good'
 description: Stanford Social Innovation Review critical power-aware analysis examining how "Web3 for good" rhetoric can obscure extraction and power concentration while claiming social benefit, offering framework for distinguishing genuine impact from progressive branding.
 publish: true
-type: analysis
+type: link
+linkType: study
 url: https://ssir.org/articles/entry/web3_and_the_trap_of_for_good?utm_source=substack&utm_medium=email
 author:
   - Stanford Social Innovation Review
 tags:
-  - web3-critique
-  - ssir
-  - for-good-trap
-  - power-analysis
-  - impact-washing
-  - social-innovation
+  - power
+  - impact
 ---
 
 Stanford Social Innovation Review's critical analysis examines how "for good" rhetoric in Web3 can function as cover for extraction and [power](data/concepts/power.md) concentration rather than genuine social benefit. As blockchain projects increasingly claim [impact](data/concepts/impact.md) missions, SSIR explores how progressive language about empowerment, decentralization, and [community](data/concepts/community.md) benefit can obscure who actually profits and whose interests systems serve. The piece provides framework for distinguishing projects genuinely redistributing power from those using social impact branding to legitimize wealth extraction, showing how to evaluate whether Web3 initiatives serve stated communities or primarily enrich founders and investors deploying progressive rhetoric for marketing purposes.

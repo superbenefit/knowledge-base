@@ -2,17 +2,14 @@
 title: Aping into Progress - Crypto Philanthropy Deep Dive
 description: Other Internet comprehensive research report examining crypto philanthropy landscape, mechanisms, and whether blockchain-based giving serves social impact better than traditional philanthropy or reproduces extraction with new technology.
 publish: true
-type: research-report
+type: link
+linkType: study
 url: https://otherinter.net/research/crypto-philanthropy/
 author:
   - Other Internet
 tags:
-  - crypto-philanthropy
-  - blockchain-giving
-  - impact-research
-  - other-internet
-  - philanthropic-mechanisms
-  - social-impact
+  - blockchain
+  - impact
 ---
 
 Other Internet's comprehensive crypto philanthropy report provides rigorous analysis of how blockchain technologies reshape charitable giving, examining whether crypto-native mechanisms genuinely improve upon traditional philanthropy or merely create new branding for old extractive patterns. The research documents diverse approaches from retroactive [public goods](tags/public-goods.md) funding to [impact](data/concepts/impact.md) [DAOs](data/concepts/daos.md) to quadratic funding, analyzing strengths and limitations with both enthusiasm for innovation and critical examination of hype. Rather than celebrating all crypto giving as inherently better or dismissing it as speculation with progressive aesthetics, Other Internet offers nuanced assessment grounded in empirical study of actual implementations, showing where blockchain mechanisms address real philanthropic challenges and where they introduce new problems while claiming transformation.

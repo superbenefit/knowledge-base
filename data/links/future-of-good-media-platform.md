@@ -2,17 +2,14 @@
 title: Future of Good - Media Platform for Social Impact Changemakers
 description: Canadian media platform providing journalism, analysis, and community resources for social sector practitioners, nonprofit leaders, and impact-focused organizations, bridging news coverage with practical resources for changemakers navigating sector challenges and innovations.
 publish: true
-type: media-platform
+type: link
+linkType: platform
 url: https://futureofgood.co/
 author:
   - Future of Good
 tags:
-  - social-impact-media
-  - nonprofit-sector
-  - changemaker-resources
-  - canadian-social-innovation
-  - impact-journalism
-  - sector-analysis
+  - impact
+  - resources
 ---
 
 Future of Good serves as Canadian media platform focused on social impact sector, providing journalism covering nonprofit innovations, social enterprise developments, philanthropic trends, and [community](data/concepts/community.md)-led change initiatives. Rather than treating social impact as niche specialty, the platform positions changemakers and their work as central to addressing societal challenges, offering both news reporting and practical resources. Coverage spans funding models, organizational practices, policy developments, and community [organizing](tags/organizing.md), with particular attention to Canadian context while connecting to global movements. The platform combines traditional journalism with community features including resource directories, event listings, and practitioner networking, serving as hub for social sector practitioners seeking both information about field developments and actionable guidance for their work. This positions Future of Good at intersection of impact journalism and sector infrastructure building.

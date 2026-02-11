@@ -2,20 +2,18 @@
 title: DRC December Report - Liquid Democracy, Cooperative AI, Web3 Philanthropy
 description: Democracy Research Collective synthesis examining liquid democracy mechanisms, cooperative AI governance, and Web3 philanthropy innovations, providing research-grounded analysis of emerging democratic coordination approaches beyond conventional voting systems.
 publish: true
-type: research-report
+type: link
+linkType: study
 url: https://drc.beehiiv.com/p/drc-december-report
 author:
   - Democracy Research Collective
 tags:
-  - liquid-democracy
-  - cooperative-ai
-  - web3-philanthropy
-  - democratic-governance
-  - research-synthesis
-  - delegation-mechanisms
+  - cooperatives
+  - governance
+  - delegation
 ---
 
-The Democracy Research Collective's December report synthesizes research on emerging democratic [coordination](data/concepts/coordination.md) mechanisms including liquid democracy (delegation-based voting), cooperative AI [governance](data/concepts/governance.md) approaches, and Web3 philanthropy innovations. Rather than treating these as separate domains, the report examines how technological developments enable new forms of collective [decision-making](archive/clarity/Tags/decision-making.md) that move beyond binary voting toward more nuanced [participation](tags/participation.md) patterns. The liquid democracy analysis explores delegation systems where participants can either vote directly or delegate authority to trusted representatives on specific issues, creating flexible governance that adapts to varying expertise and engagement levels. The cooperative AI section addresses how [community](data/concepts/community.md) can collectively govern algorithmic systems, while the Web3 philanthropy coverage examines [decentralized](data/concepts/decentralization.md) funding mechanisms. This research synthesis helps practitioners understand empirical evidence and theoretical foundations for governance innovations rather than relying on technological hype or untested assumptions.
+The Democracy Research Collective's December report synthesizes research on emerging democratic [coordination](data/concepts/coordination.md) mechanisms including liquid democracy (delegation-based voting), cooperative AI [governance](data/concepts/governance.md) approaches, and Web3 philanthropy innovations. Rather than treating these as separate domains, the report examines how technological developments enable new forms of collective [decision-making](data/concepts/decisions.md) that move beyond binary voting toward more nuanced [participation](data/concepts/participation.md) patterns. The liquid democracy analysis explores delegation systems where participants can either vote directly or delegate authority to trusted representatives on specific issues, creating flexible governance that adapts to varying expertise and engagement levels. The cooperative AI section addresses how [community](data/concepts/community.md) can collectively govern algorithmic systems, while the Web3 philanthropy coverage examines [decentralized](data/concepts/decentralization.md) funding mechanisms. This research synthesis helps practitioners understand empirical evidence and theoretical foundations for governance innovations rather than relying on technological hype or untested assumptions.
 
 ### Key Highlights
 

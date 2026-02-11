@@ -2,17 +2,14 @@
 title: How We Can Encode Human Rights In The Blockchain
 description: Nathan Schneider for Noema exploring how human rights protections could be embedded in blockchain protocols themselves, moving beyond crypto's "censorship resistance" default to encode rights protecting people from harm while enabling coordination.
 publish: true
-type: essay
+type: link
+linkType: article
 url: https://www.noemamag.com/how-we-can-encode-human-rights-in-the-blockchain
 author:
   - Nathan Schneider
 tags:
-  - human-rights
-  - blockchain-protocols
-  - noema
-  - nathan-schneider
-  - protocol-design
-  - rights-infrastructure
+  - blockchain
+  - protocols
 ---
 
 Nathan Schneider's provocative essay examines how [blockchain](data/concepts/blockchain.md) protocols could encode human rights protections rather than treating "censorship resistance" and "immutability" as sole values. While crypto evangelizes freedom from control, Schneider shows how this enables both liberation and atrocity—protocols that resist censorship equally serve human rights defenders and human traffickers. The essay explores how rights could be embedded in protocols themselves through mechanisms enabling intervention against genocide, environmental destruction, or exploitation without requiring state enforcement. This challenges assumptions that blockchains must be purely "neutral" showing how protocol design always embodies values—the question is whose values and through what [governance](data/concepts/governance.md).

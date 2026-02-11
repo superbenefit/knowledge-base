@@ -2,7 +2,8 @@
 title: Community Building in DAOs
 description: A practical guide to fostering vibrant, engaged communities within decentralized autonomous organizations, addressing key challenges and opportunities in web3 community development.
 publish: true
-type: guide
+type: link
+linkType: guide
 url: https://docs.google.com/document/d/1CDUF9AZo9o8s5w5ouzkL_E3c_8WGx23FUv6mjLhYRuY/mobilebasic
 author:
   - rep3
@@ -11,8 +12,6 @@ tags:
   - community
   - daos
   - coordination
-  - engagement
-  - onboarding
 ---
 
 "[Community](data/concepts/community.md) Building in [DAOs](data/concepts/daos.md)" provides a comprehensive roadmap for creating and sustaining thriving community within [decentralized](data/concepts/decentralization.md) organizations. Developed by rep3 in [collaboration](tags/collaboration.md) with experienced DAO community builders, this resource bridges theory and practice, addressing the unique challenges of fostering engagement and alignment in distributed, pseudonymous environments. The guide acknowledges that while tokenomics and [governance](data/concepts/governance.md) get significant attention in DAO design, the human elements of community development are equally crucial for long-term success and impact.
@@ -32,13 +31,13 @@ This resource offers immediate practical value for:
 - Community stewards working to increase engagement and distributed ownership
 - Governance designers aligning formal mechanisms with informal community dynamics
 - Working groups seeking to improve cross-team coordination and knowledge sharing
-- Contributors navigating the transition from traditional organizations to decentralized [participation](tags/participation.md)
+- Contributors navigating the transition from traditional organizations to decentralized [participation](data/concepts/participation.md)
 
 The guide is particularly valuable for its balance between high-level principles and concrete tactics, providing both conceptual frameworks and specific implementation suggestions. Rather than presenting a single model, it offers adaptive approaches that can be customized to different community contexts and stages of development.
 
 ### Relevance to SuperBenefit
 
-This resource directly supports SuperBenefit's work on what the [DAO Primitives framework](../artifacts/guides/dao-primitives-framework/index.md) identifies as the "collaboration phase" of group development - where informal coordination evolves into more structured patterns without losing community authenticity. The guide's focus on progressive engagement aligns with SuperBenefit's emphasis on creating multiple participation pathways rather than binary membership models.
+This resource directly supports SuperBenefit's work on what the [DAO Primitives framework](../docs/dao-primitives/primitives-framework/index.md) identifies as the "collaboration phase" of group development - where informal coordination evolves into more structured patterns without losing community authenticity. The guide's focus on progressive engagement aligns with SuperBenefit's emphasis on creating multiple participation pathways rather than binary membership models.
 
 Relating to the Reimagining Power Project, the guide offers practical approaches to implementing what SuperBenefit calls "community governance" - systems that enable broad participation in shaping collective direction while maintaining operational effectiveness. The emphasis on cultural development as complementary to formal governance mechanisms supports SuperBenefit's holistic approach to coordination.
 

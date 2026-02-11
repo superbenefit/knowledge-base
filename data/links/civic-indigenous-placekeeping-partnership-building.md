@@ -2,17 +2,13 @@
 title: Civic-Indigenous Placekeeping and Partnership Building Toolkit
 description: Comprehensive toolkit for building respectful partnerships between municipalities and Indigenous communities, grounded in reconciliation, land relationships, and indigenous-led placekeeping practices.
 publish: true
-type: toolkit
+type: link
+linkType: guide
 url: https://futurecitiescanada.ca/portal/resources/civic-indigenous-placekeeping-and-partnership-building-toolkit/
 author:
   - Future Cities Canada
 tags:
-  - indigenous-partnership
-  - placekeeping
-  - reconciliation
-  - civic-indigenous-relations
-  - land-relationships
-  - decolonial-practice
+  - practices
   - community-governance
 ---
 
@@ -38,7 +34,7 @@ This comprehensive toolkit from Future Cities Canada provides practical guidance
 
 This toolkit enables immediate implementation across civic contexts:
 
-- Municipal governments can use the frameworks to transform consultation processes into genuine partnership models that recognize indigenous sovereignty, redistribute [decision-making](archive/clarity/Tags/decision-making.md) power, and resource indigenous-led initiatives rather than merely gathering input
+- Municipal governments can use the frameworks to transform consultation processes into genuine partnership models that recognize indigenous sovereignty, redistribute [decision-making](data/concepts/decisions.md) power, and resource indigenous-led initiatives rather than merely gathering input
 
 - Urban planners and developers can apply placekeeping principles to development projects, centering relationship with land and indigenous stewardship knowledge rather than imposing settlement patterns that ignore thousands of years of care and relationship
 

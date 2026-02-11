@@ -2,7 +2,8 @@
 title: Modular Politics - Toward a Governance Layer for Online Communities
 description: A framework proposing modular, interoperable governance components that enable communities to build flexible and adaptable governance systems across digital platforms.
 publish: true
-type: framework
+type: link
+linkType: pattern
 url: https://arxiv.org/pdf/2005.13701.pdf
 author:
   - Nathan Schneider
@@ -14,7 +15,6 @@ tags:
   - governance
   - frameworks
   - decentralization
-  - metagovernance
   - coordination
 ---
 
@@ -70,6 +70,6 @@ The framework is particularly valuable for communities that need to adapt their 
 
 - Governance - Decision-making frameworks
 - [DAOs](data/concepts/daos.md) - Organizations exploring these governance models
-- [Community Governance](artifacts/patterns/community-governance.md) - Constituency-scale governance patterns
+- [Community Governance](data/resources/patterns/community-governance.md) - Constituency-scale governance patterns
 - [Coordination](data/concepts/coordination.md) - Collective coordination mechanisms
 - Primitives - Building blocks for governance systems

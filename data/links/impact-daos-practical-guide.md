@@ -2,17 +2,15 @@
 title: Impact DAOs - Practical Resource Guide
 description: Comprehensive practical guide for social impact organizations using DAO structures, providing accessible documentation on governance setup, legal considerations, treasury management, and community coordination for mission-driven decentralized organizations beyond purely financial applications.
 publish: true
-type: practical-guide
+type: link
+linkType: guide
 url: https://docs.impactdaos.xyz/
 author:
   - Impact DAO Contributors
 tags:
-  - impact-daos
-  - social-impact
-  - practical-documentation
-  - dao-implementation
-  - mission-driven-daos
-  - governance-setup
+  - impact
+  - daos
+  - governance
 ---
 
 The Impact DAOs guide provides comprehensive practical resource for social [impact](data/concepts/impact.md) organizations exploring or implementing [DAO](data/concepts/daos.md) structures, offering accessible documentation spanning [governance](data/concepts/governance.md) setup, legal formation, [treasury](data/concepts/treasury.md) management, contributor [coordination](data/concepts/coordination.md), and [community](data/concepts/community.md) building specifically for mission-driven projects. Rather than generic DAO resources often focused on financial applications and speculation, this guide centers needs of organizations pursuing social benefit, [public goods](tags/public-goods.md), environmental stewardship, and community empowerment through [decentralized](data/concepts/decentralization.md) coordination. Coverage includes comparing governance mechanisms for different organizational contexts, navigating legal structures across jurisdictions, managing multi-stakeholder participation, measuring impact alongside financial sustainability, and maintaining values alignment as organizations [scale](data/concepts/scale.md). The practical orientation provides actionable guidance for implementers rather than theoretical [frameworks](data/concepts/frameworks.md), recognizing that impact organizations need concrete pathways for adopting decentralized coordination without requiring deep technical expertise or extensive resources.

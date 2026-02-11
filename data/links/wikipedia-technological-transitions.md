@@ -2,17 +2,14 @@
 title: Wikipedia - Technological Transitions and Socio-Technical Systems
 description: Wikipedia's comprehensive overview of technological transitions theory examining how large-scale socio-technical systems transform through multi-level interactions between niches, regimes, and landscapes, providing established framework for understanding systemic change beyond simplistic innovation narratives.
 publish: true
-type: reference
+type: link
+linkType: directory
 url: https://en.wikipedia.org/wiki/Technological_transitions#Socio-technical_systems_and_transitions
 author:
   - Wikipedia Contributors
 tags:
-  - technological-transitions
-  - socio-technical-systems
-  - systems-change
-  - multi-level-perspective
-  - transition-theory
-  - sustainability-transitions
+  - systems
+  - sustainability
 ---
 
 Wikipedia's technological transitions article synthesizes established academic framework for understanding how large-scale socio-technical systems—energy, transportation, food, communication—undergo fundamental transformations. The multi-level perspective (MLP) developed by Frank Geels and colleagues explains transitions through interactions across three levels: protected niches where radical innovations develop; established socio-technical regimes with locked-in technologies, institutions, and practices; and landscape-level external pressures creating openings for change. Rather than treating innovation as purely technical process or assuming new technologies automatically replace old ones, the framework shows how transitions require alignment across technical, institutional, cultural, and economic dimensions while navigating resistance from regime incumbents. The [sustainability](data/concepts/sustainability.md) transitions variant specifically examines how societies can deliberately guide transitions toward environmental and social goals rather than leaving change to market forces alone.

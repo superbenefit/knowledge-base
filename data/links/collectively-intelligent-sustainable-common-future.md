@@ -2,19 +2,15 @@
 title: Collectively Intelligent Sustainable Common Future
 description: Comprehensive Demos Helsinki report examining how collective intelligence, digital democracy, and participatory governance can address sustainability challenges through regenerative approaches to decision-making.
 publish: true
-type: research-report
+type: link
+linkType: study
 url: https://demoshelsinki.fi/julkaisut/collectively-intelligent-sustainable-common-future/
 author:
   - Demos Helsinki
 tags:
-  - collective-intelligence
-  - digital-democracy
   - sustainability
   - participatory-governance
-  - regenerative-futures
-  - commons
-  - climate-action
-  - democratic-innovation
+  - actions
 ---
 
 This comprehensive research report from Demos Helsinki, an independent Nordic think tank, explores how collective intelligence approaches can enable [communities](data/concepts/community.md) to navigate complex [sustainability](data/concepts/sustainability.md) transitions. The work synthesizes insights from digital democracy experiments, participatory [governance](data/concepts/governance.md) innovations, and collective intelligence research to propose frameworks for decision-making that harness diverse knowledge and perspectives. Unlike techno-solutionist climate reports, this analysis grounds technological possibilities in democratic values and regenerative principles, showing how AI, digital platforms, and participatory processes can serve collective wisdom rather than replace human judgment or concentrate [power](data/concepts/power.md).
