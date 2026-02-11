@@ -1,3 +1,7 @@
+---
+publish: false
+---
+
 # Docs Directory
 
 The docs directory contains working documents organized by authoring group. This is one half of the knowledge base's two-space model—while `data/` maintains structured records by content type, `docs/` gives each working group freedom to organize their materials as they see fit.

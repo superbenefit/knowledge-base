@@ -15,9 +15,9 @@ Our [resource library](data/resources/index.md) contains reusable knowledge arti
 
 The [lexicon](data/concepts/index.md) defines our shared vocabulary—the terms and concepts that enable precise communication about complex organizational ideas. Each entry provides definition, context, and connections to related concepts.
 
-## Library
+## Links
 
-Our [curated library](data/links/index.md) contextualizes external resources that inform our work. Rather than simple bookmarks, each entry includes analysis and commentary that connects external ideas to our internal knowledge.
+Our [link library](data/links/index.md) contextualizes external resources that inform our work. Rather than simple bookmarks, each entry includes analysis and commentary that connects external ideas to our internal knowledge.
 
 ## Stories
 
