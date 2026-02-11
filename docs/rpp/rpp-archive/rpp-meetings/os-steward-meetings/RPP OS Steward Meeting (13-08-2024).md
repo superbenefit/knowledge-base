@@ -1,5 +1,6 @@
 ---
 group: rpp
+---
 
 SummaryCheck-In Protocol and Emotional States:
     Discussion on the importance of the check-in protocol to express emotional states, which helps in creating psychological safety and managing emotions effectively within the group.

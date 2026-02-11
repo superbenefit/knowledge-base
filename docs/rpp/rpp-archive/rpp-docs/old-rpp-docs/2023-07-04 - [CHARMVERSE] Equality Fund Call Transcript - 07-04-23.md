@@ -2,7 +2,7 @@
 group: rpp
 ---
 
-#[reimagining power](archive/clarity/Tags/reimagining%20power.md) #[equality fund](archive/clarity/Tags/equality%20fund.md) 
+#[reimagining power](docs/rpp/index.md) #equality fund 
 
 >THIS DOC IS NOW ON CHARMVERSE: [https://app.charmverse.io/superbenefit/equality-fund-call-transcript-4-7-23-4547316900937055](https://app.charmverse.io/superbenefit/equality-fund-call-transcript-4-7-23-4547316900937055) 
 

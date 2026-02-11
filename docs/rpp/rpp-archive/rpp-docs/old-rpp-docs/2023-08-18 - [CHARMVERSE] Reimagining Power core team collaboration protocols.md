@@ -2,7 +2,7 @@
 group: rpp
 ---
 
-#[reimagining power](archive/clarity/Tags/reimagining%20power.md) 
+#[reimagining power](docs/rpp/index.md) 
 >THIS DOC IS NOW IN CHARMVERSE
 
 Please use the Charmverse doc instead:

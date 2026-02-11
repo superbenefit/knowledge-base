@@ -24,8 +24,8 @@ source: "[2023-08-08 - [TO MOVE](2023-08-08%20-%20[TO%20MOVE)"
 		- rather will update the doc with everyone's feedback
 		- everyone is welcome to edit the doc
 		- what other terms would be useful to explain? **ping rather in chat with ideas**
-			- #[dao primitives](archive/clarity/Tags/dao%20primitives.md) 
-			- #[cells](archive/clarity/Tags/cells.md)
+			- #[dao primitives](docs/dao-primitives/index.md) 
+			- #[cells](data/resources/patterns/cells.md)
 			- GR-296 Group Scale - DAO Primitives
 	- @Aditi @Rowan  @Filsan met to discuss governance topics and field questions - Feels good
 - ## Agenda

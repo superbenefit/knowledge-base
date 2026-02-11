@@ -1,5 +1,6 @@
 ---
 group: rpp
+---
 
 # Meeting Agenda
 
@@ -83,7 +84,7 @@ Remaining work for RPP
 
 - Still waiting on Sue? - Can we jam with WW on their end of EF/WW experiment?
 
-- [BioFi pattern](https://github.com/superbenefit/knowledge-base/blob/main/artifacts/patterns/biofi.md) from Exeunt (rather)
+- [BioFi pattern](https://github.com/superbenefit/knowledge-base/blob/main/data/resources/patterns/index.md) from Exeunt (rather)
 
 tags: meetings
 date: 2025-02-18

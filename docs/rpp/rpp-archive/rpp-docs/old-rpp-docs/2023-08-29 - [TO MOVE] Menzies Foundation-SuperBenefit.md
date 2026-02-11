@@ -2,7 +2,7 @@
 group: rpp
 ---
 
-#[reimagining power](archive/clarity/Tags/reimagining%20power.md) 
+#[reimagining power](docs/rpp/index.md) 
 
 Feb 6, 2024
 Liz, Rowan, Michelle

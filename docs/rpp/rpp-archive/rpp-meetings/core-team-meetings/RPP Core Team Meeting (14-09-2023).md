@@ -17,8 +17,8 @@ source: "[2023-08-08 - [TO MOVE](2023-08-08%20-%20[TO%20MOVE)"
 	- @rathermercurial will share project home page next week.
 - ## Agenda
 	- @heenal created a list of terms to define / disambiguate
-		- [stakeholder](archive/clarity/Tags/stakeholder.md), Stakeholder Model, Web3 Stakeholder Modules - DAO Primitives , Stakeholder Group, #[Partnership Governance - Reimagining Power](Partnership%20Governance%20-%20Reimagining%20Power) 
-		- Operational GR-311 Cell Primitive - DAO Primitives,  Cell of Cells, [core team](archive/clarity/Tags/core%20team.md)
+		- stakeholder, Stakeholder Model, Web3 Stakeholder Modules - DAO Primitives , Stakeholder Group, #[Partnership Governance - Reimagining Power](Partnership%20Governance%20-%20Reimagining%20Power) 
+		- Operational GR-311 Cell Primitive - DAO Primitives,  Cell of Cells, core team
 	- Ideas about Cell formation from the DAO primitives meeting (Rowan)
 	- 
 - ## Longer items:

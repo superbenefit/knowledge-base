@@ -2,7 +2,7 @@
 group: rpp
 ---
 
-#[reimagining power](archive/clarity/Tags/reimagining%20power.md) #[ontario trillium foundation](archive/clarity/Tags/ontario%20trillium%20foundation.md) 
+#[reimagining power](docs/rpp/index.md) #ontario trillium foundation 
 >**THIS DOC IS NOW IN CHARMVERSE
 **
 Please use the Charmverse doc instead:

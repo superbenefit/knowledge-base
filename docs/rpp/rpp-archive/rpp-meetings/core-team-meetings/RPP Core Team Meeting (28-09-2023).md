@@ -72,7 +72,7 @@ source: "[2023-08-08 - [TO MOVE](2023-08-08%20-%20[TO%20MOVE)"
 		- @heenal & @Rowan  are going to work on the doc to make it more friendly
 		- @rathermercurial is working on a preamble/framing for the doc
 	- Menzies Foundation [https://app.clarity.so/superbenefit/docs/88344750-6c9f-4ece-9b4f-ffe0cb0a34a4](https://app.clarity.so/superbenefit/docs/88344750-6c9f-4ece-9b4f-ffe0cb0a34a4) 
-	- DAO #[community governance](archive/clarity/Tags/community%20governance.md) session with Indigenous Peoples Resilience Fund - Tues Sept 26 at 4pm ET
+	- DAO #[community governance](data/resources/patterns/community-governance.md) session with Indigenous Peoples Resilience Fund - Tues Sept 26 at 4pm ET
 	- Catamount Fellowship with AIFS and Reimagining Power Project
 		- Connection with IPRF work
 	- OTF
@@ -113,7 +113,7 @@ source: "[2023-08-08 - [TO MOVE](2023-08-08%20-%20[TO%20MOVE)"
 	- [x] Design or delegate #[Design Task Management and Compensation Framework - DAO Primitives (Old)](Design%20Task%20Management%20and%20Compensation%20Framework%20-%20DAO%20Primitives%20(Old)) 
 - ## Decisions log
 	- Decided to have a task to design a task management and compensation framework for the RPP
-	- Will request #[dao primitives](archive/clarity/Tags/dao%20primitives.md) team take on #[Design Task Management and Compensation Framework - DAO Primitives (Old)](Design%20Task%20Management%20and%20Compensation%20Framework%20-%20DAO%20Primitives%20(Old)) in cooperation with #[reimagining power](archive/clarity/Tags/reimagining%20power.md) 
+	- Will request #[dao primitives](docs/dao-primitives/index.md) team take on #[Design Task Management and Compensation Framework - DAO Primitives (Old)](Design%20Task%20Management%20and%20Compensation%20Framework%20-%20DAO%20Primitives%20(Old)) in cooperation with #[reimagining power](docs/rpp/index.md) 
 - ## Reflection  
 	- How have we approached reimagining power in this meeting?
 		- MB faciliation allows a different vibe and energy ✨
