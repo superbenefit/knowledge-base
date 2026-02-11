@@ -49,7 +49,7 @@ The challenge of maintaining both autonomy and alignment proves especially diffi
 
 Operational governance resolves the autonomy-alignment tension through sociocratic principles implemented via decentralized infrastructure. This approach creates clear protocols for [coordination](data/concepts/coordination.md) while preserving team independence in execution decisions.
 
-The pattern begins with defining clear domains of operational autonomy. Each team or [cell](artifacts/patterns/cell.md) receives explicit authority over specific activities, resources, or outcomes. These domains interconnect through defined interfaces rather than hierarchical reporting. A product development cell might have full autonomy over technical architecture decisions while coordinating with marketing cells through agreed release protocols. This clarity eliminates constant boundary negotiations while enabling independent operation. Many organizations adopt the [circle](docs/dao-primitives/implementation/patterns/collaboration-scale-patterns/circle.md) structure from sociocracy to define these team domains and relationships.
+The pattern begins with defining clear domains of operational autonomy. Each team or [cell](data/resources/patterns/cells.md) receives explicit authority over specific activities, resources, or outcomes. These domains interconnect through defined interfaces rather than hierarchical reporting. A product development cell might have full autonomy over technical architecture decisions while coordinating with marketing cells through agreed release protocols. This clarity eliminates constant boundary negotiations while enabling independent operation. Many organizations adopt the [circle](docs/dao-primitives/implementation/patterns/collaboration-scale-patterns/circle.md) structure from sociocracy to define these team domains and relationships.
 
 Resource allocation occurs through transparent, consent-based processes rather than competitive bidding or hierarchical distribution. Teams propose resource needs with clear justification linked to organizational objectives. Other affected teams can raise principled objections based on impact to their operations or overall organizational health. This sociocratic approach ensures decisions consider all stakeholder impacts while moving faster than consensus models requiring universal agreement.
 
@@ -103,8 +103,8 @@ Theoretical foundations include sociocratic governance principles emphasizing co
 
 Related patterns supporting operational governance:
 - **[Groups](data/concepts/groups.md)**: Autonomous units that form the building blocks of operational structures
-- **[Coordi-nations](data/concepts/coordi-nations.md)**: Network-level coordination frameworks
-- **[Community governance](data/concepts/community-governance.md)**: Strategic oversight complementing operational execution  
+- **[Coordi-nations](data/resources/patterns/coordi-nations.md)**: Network-level coordination frameworks
+- **[Community governance](data/resources/patterns/community-governance.md)**: Strategic oversight complementing operational execution  
 - **[Group state](docs/dao-primitives/primitives-framework/concepts/group-state.md)**: Transparency mechanisms enabling coordination
 
 Practitioners should engage with emerging communities exploring operational innovation including Sociocracy for All providing governance training and resources, DAO operations working groups experimenting with coordination mechanisms, Platform Cooperativism Consortium documenting cooperative operations, and various Web3 projects pioneering on-chain operational infrastructure. As organizations seek alternatives to hierarchical management, operational governance provides pathways for maintaining effectiveness while distributing authority.
@@ -132,10 +132,10 @@ The key learning was that operational governance tools must be enjoyable and acc
 
 ## Related Concepts
 
-- [Cell](artifacts/patterns/cell.md) - Small autonomous teams that form the operational units
+- [Cell](data/resources/patterns/cells.md) - Small autonomous teams that form the operational units
 - [Circle](docs/dao-primitives/implementation/patterns/collaboration-scale-patterns/circle.md) - Sociocratic team structure for operational governance
-- [Cell State](artifacts/patterns/cell-state.md) - Pattern for documenting team state to enable coordination
-- [Community Governance](artifacts/patterns/community-governance.md) - Strategic oversight complementing operational execution
+- [Cell State](data/resources/patterns/cell-state.md) - Pattern for documenting team state to enable coordination
+- [Community Governance](data/resources/patterns/community-governance.md) - Strategic oversight complementing operational execution
 - [Teams](data/concepts/teams.md) - Autonomous groups coordinating through operational governance
 - [Coordination](data/concepts/coordination.md) - Mechanisms for aligning team activities
 - [Governance](data/concepts/governance.md) - Decision-making frameworks for operations

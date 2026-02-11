@@ -106,7 +106,7 @@ The agreed proposal becomes a binding agreement for all participating team membe
 
 The decider primitive can be combined with:
 - [Decision-log](docs/dao-primitives/implementation/patterns/collaboration-scale-patterns/decision-log.md) - a formal log of decisions, ideally that provides some security and version control
-- [Cells](archive/clarity/Tags/cells.md) - the decider protocol is often the go-to tool for Cells to use for collaborative decision making
+- [Cells](data/resources/patterns/cells.md) - the decider protocol is often the go-to tool for Cells to use for collaborative decision making
 
 
 
@@ -117,7 +117,7 @@ The decider primitive can be combined with:
 
 - [Governance](data/concepts/governance.md) - Decision-making frameworks
 - [Teams](data/concepts/teams.md) - Small groups using decider protocol
-- [Cell](artifacts/patterns/cell.md) - Working groups that use this protocol
+- [Cell](data/resources/patterns/cells.md) - Working groups that use this protocol
 - [Coordination](data/concepts/coordination.md) - Efficient decision-making for alignment
 - [Consensus](data/concepts/consensus.md) - Related decision-making approach
 - [Consent](data/concepts/consent.md) - Decision-making based on absence of objection

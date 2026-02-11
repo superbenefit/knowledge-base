@@ -28,7 +28,7 @@ The credibility of self-reported impact data remains perpetually questionable. W
 
 Coordination challenges multiply when multiple organizations work toward related goals. Each maintains separate impact tracking systems with incompatible data structures. Funders cannot easily aggregate impact across their portfolios. community cannot see the cumulative effect of various initiatives in their area. Researchers struggle to identify patterns across interventions. The lack of interoperable impact data prevents systematic learning and improvement.
 
-Perhaps most critically, current systems fail to recognize impact creation as an ongoing process worthy of sustained support. Funding typically flows for activities rather than outcomes. Organizations that achieve significant impact may struggle to maintain operations because markets don't value social or environmental benefits. Communities that host interventions rarely benefit from the value their [participation](participation.md) creates. The absence of mechanisms to capture and share impact value perpetuates chronic under-resourcing of effective initiatives.
+Perhaps most critically, current systems fail to recognize impact creation as an ongoing process worthy of sustained support. Funding typically flows for activities rather than outcomes. Organizations that achieve significant impact may struggle to maintain operations because markets don't value social or environmental benefits. Communities that host interventions rarely benefit from the value their [participation](data/concepts/participation.md) creates. The absence of mechanisms to capture and share impact value perpetuates chronic under-resourcing of effective initiatives.
 
 ---
 

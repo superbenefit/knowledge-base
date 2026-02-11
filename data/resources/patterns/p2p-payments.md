@@ -37,7 +37,7 @@ The opacity of traditional systems creates additional trust and [coordination](d
 
 Peer to peer payments leverage blockchain infrastructure to enable direct value transfer between parties without traditional intermediaries. This approach transforms international transfers from opaque, multi-step processes into transparent, direct transactions that can be verified by all stakeholders.
 
-The pattern implementation begins with establishing blockchain wallets for participating parties. Unlike bank accounts requiring extensive documentation and approval processes, basic blockchain wallets can be created by anyone with internet access. This immediate accessibility opens [participation](participation.md) to previously excluded communities, though it also requires careful attention to security and user education.
+The pattern implementation begins with establishing blockchain wallets for participating parties. Unlike bank accounts requiring extensive documentation and approval processes, basic blockchain wallets can be created by anyone with internet access. This immediate accessibility opens [participation](data/concepts/participation.md) to previously excluded communities, though it also requires careful attention to security and user education.
 
 Value transfer occurs through blockchain networks using stablecoins—cryptocurrencies designed to maintain steady value relative to traditional currencies. Stablecoins eliminate the volatility concerns that make other cryptocurrencies unsuitable for grant-making. Transactions process in minutes rather than days, with fees typically under $1 regardless of transfer size. All participants can verify transaction completion and exact amounts received through public blockchain records.
 

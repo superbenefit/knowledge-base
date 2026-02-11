@@ -14,7 +14,7 @@ _A pattern for involving affected [community](data/concepts/community.md) in dec
 
 ## Context
 
-Participatory governance creates mechanisms for community directly affected by decisions to meaningfully influence those decisions. This pattern applies when traditional [decision-making](archive/clarity/Tags/decision-making.md) structures exclude or marginalize the voices of those most impacted by organizational choices, particularly in resource allocation, program design, and strategic direction.
+Participatory governance creates mechanisms for community directly affected by decisions to meaningfully influence those decisions. This pattern applies when traditional [decision-making](data/concepts/decisions.md) structures exclude or marginalize the voices of those most impacted by organizational choices, particularly in resource allocation, program design, and strategic direction.
 
 The pattern serves organizations working across [power](data/concepts/power.md) differentials—international funders supporting grassroots initiatives, government programs serving marginalized community, platforms coordinating distributed stakeholders, or any context where decision-makers are removed from decision consequences. Unlike consultation or feedback mechanisms, participatory governance grants real decision-making authority to affected communities.
 
@@ -24,7 +24,7 @@ Organizations implementing this pattern typically face situations where top-down
 
 ## Challenges
 
-Traditional governance structures systematically exclude affected communities from meaningful [participation](participation.md) in decisions. Funders design programs based on assumptions about community needs without involving those communities in priority setting. Government agencies implement policies affecting millions while consulting only technical experts and political appointees. Platform companies make choices impacting user livelihoods without user representation in governance. These exclusions perpetuate ineffective interventions and deepen mistrust between institutions and communities.
+Traditional governance structures systematically exclude affected communities from meaningful [participation](data/concepts/participation.md) in decisions. Funders design programs based on assumptions about community needs without involving those communities in priority setting. Government agencies implement policies affecting millions while consulting only technical experts and political appointees. Platform companies make choices impacting user livelihoods without user representation in governance. These exclusions perpetuate ineffective interventions and deepen mistrust between institutions and communities.
 
 Power imbalances create barriers even when organizations attempt inclusive processes. Community members may lack the time, resources, or confidence to participate alongside professional staff. Technical jargon and formal procedures intimidate those unfamiliar with organizational governance. Meeting schedules accommodate institutional rhythms rather than community availability. Token representation—one or two community members on large boards—creates appearance without meaningful influence. These surface-level inclusions often legitimate continued exclusion while exhausting the few community representatives involved.
 
@@ -130,6 +130,6 @@ Their Green Pill London chapter meetings evolved from information sharing to col
 ## Related Concepts
 
 - [Governance](data/concepts/governance.md) - Decision-making frameworks
-- [Community Governance](artifacts/patterns/community-governance.md) - Participatory patterns
+- [Community Governance](data/resources/patterns/community-governance.md) - Participatory patterns
 - [DAOs](data/concepts/daos.md) - Participatory organizations
 - [Coordination](data/concepts/coordination.md) - Participatory coordination

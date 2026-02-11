@@ -9,7 +9,8 @@ tags:
 curator:
   - rathermercurial.eth
 publish: false
-type: link, practice
+type: link
+linkType: practice
 functions:
   - governance
 qualities:
@@ -129,6 +130,6 @@ The article proposes a framework similar to this
 
 - Governance - Decision-making frameworks
 - [DAOs](data/concepts/daos.md) - Organizations exploring these governance models
-- [Community Governance](artifacts/patterns/community-governance.md) - Constituency-scale governance patterns
+- [Community Governance](data/resources/patterns/community-governance.md) - Constituency-scale governance patterns
 - [Coordination](data/concepts/coordination.md) - Collective coordination mechanisms
 - [Primitives](data/concepts/primitives.md) - Building blocks for governance systems

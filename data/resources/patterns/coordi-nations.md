@@ -136,7 +136,7 @@ The Green Pill Network demonstrates coordi-nations principles through its networ
 ## References
 
 ### Related Patterns
-- **[Cells](archive/clarity/Tags/cells.md)**: Autonomous teams form the operational units within coordi-nations, implementing the principle of distributed execution within aligned networks
+- **[Cells](data/resources/patterns/cells.md)**: Autonomous teams form the operational units within coordi-nations, implementing the principle of distributed execution within aligned networks
 - **local-nodes**: Physical and social bridges between global coordi-nation protocols and specific geographic communities
 - **Gatherings**: Structured spaces for building relationships and shared understanding across diverse communities within the coordi-nation
 - **Fractal Networks**: Self-similar organizational structures that enable coordi-nations to scale while maintaining coherence
@@ -153,7 +153,7 @@ The Green Pill Network demonstrates coordi-nations principles through its networ
 - **Pure Networks**: Lack coordination mechanisms for collective action and resource sharing
 
 ### Implementation Resources
-- SuperBenefit [DAO Primitives framework](../artifacts/guides/dao-primitives-framework/index.md) for governance structures
+- SuperBenefit [DAO Primitives framework](../docs/dao-primitives/primitives-framework/index.md) for governance structures
 - All In For Sport case study documentation
 - Blockchaingov research on coordi-nations implementation
 - "Overthrowing the Network State" podcast series

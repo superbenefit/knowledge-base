@@ -43,11 +43,11 @@ Cells are **small autonomous teams** of 10 or fewer people (typically 3-8 people
 
 ## Core Characteristics
 
-**Multi-Scale Operation**: Cells operate internally at [collaboration scale](docs/dao-primitives/primitives-framework/concepts/group-scale/collaboration-scale.md) within their core team (high-bandwidth communication among fewer than 10 people) while simultaneously operating at [coordination scale](docs/dao-primitives/primitives-framework/concepts/group-scale/coordination-scale.md) as they coordinate with contributors, partners, and the larger [DAO network](artifacts/primitives-framework/patterns/daos.md). This dual-scale capability enables both intimate collaboration and broader network coordination.
+**Multi-Scale Operation**: Cells operate internally at [collaboration scale](docs/dao-primitives/primitives-framework/concepts/group-scale/collaboration-scale.md) within their core team (high-bandwidth communication among fewer than 10 people) while simultaneously operating at [coordination scale](docs/dao-primitives/primitives-framework/concepts/group-scale/coordination-scale.md) as they coordinate with contributors, partners, and the larger [DAO network](data/concepts/daos.md). This dual-scale capability enables both intimate collaboration and broader network coordination.
 
 **Balanced Structure**: The Cell pattern provides a "balanced approach to structure" that helps "realize the benefits of decentralized organization while mitigating common failure modes." Unlike rigid hierarchies or completely unstructured groups, Cells offer sufficient organization to function effectively while maintaining the [autonomy](data/concepts/autonomy.md) and adaptability that make decentralized coordination powerful.
 
-**Clear Network Interfaces**: Cells establish "clear interfaces that enable trust-based [coordination](data/concepts/coordination.md) between groups and individuals across a broader [DAO network](artifacts/primitives-framework/patterns/daos.md)." Through their [Cell State](docs/dao-primitives/primitives-framework/concepts/group-state.md) documentation, they create [transparency](data/concepts/transparency.md) about their [Purpose](data/concepts/purpose.md), [Practice](data/concepts/practices.md), and [Progress](data/concepts/progress.md), enabling other entities to understand and coordinate with them without requiring hierarchical oversight.
+**Clear Network Interfaces**: Cells establish "clear interfaces that enable trust-based [coordination](data/concepts/coordination.md) between groups and individuals across a broader [DAO network](data/concepts/daos.md)." Through their [Cell State](docs/dao-primitives/primitives-framework/concepts/group-state.md) documentation, they create [transparency](data/concepts/transparency.md) about their [Purpose](data/concepts/purpose.md), [Practice](data/concepts/practices.md), and [Progress](data/concepts/progress.md), enabling other entities to understand and coordinate with them without requiring hierarchical oversight.
 
 **Dynamic Autonomous Units**: Cells function as "dynamic, autonomous units, avoiding bureaucratic overhead while protecting against group dysfunction." With fewer than 10 people, they provide enough scaffolding to enable effective self-governance while maintaining the flexibility needed for complex, evolving contexts without falling victim to the [coordination](data/concepts/coordination.md) failures common in unstructured groups.
 
@@ -102,20 +102,20 @@ See [Group State Pattern](docs/dao-primitives/primitives-framework/concepts/grou
 
 ## Implementation Patterns
 
-**Cell Formation Patterns**: The cell-working-group pattern identifies four primary ways new Cells form within [DAO networks](artifacts/primitives-framework/patterns/daos.md), each with different implications for how the Cell develops through the [group phases](docs/dao-primitives/primitives-framework/concepts/group-phase/index.md):
+**Cell Formation Patterns**: The cell-working-group pattern identifies four primary ways new Cells form within [DAO networks](data/concepts/daos.md), each with different implications for how the Cell develops through the [group phases](docs/dao-primitives/primitives-framework/concepts/group-phase/index.md):
 
 - **Operational Scaling**: An existing Cell creates a new Cell when operational needs extend beyond its current scope, either delegating to existing Cells or creating new ones to handle expanded [responsibilities](data/concepts/responsibilities.md)
 - **Community Operationalization**: A community forms a Cell when it needs to execute on plans, such as when funding is approved for specific activities that require coordinated implementation
 - **Partnership Implementation**: Cells form as collaborations when two entities want to work together on shared objectives
-- **Permissionless Formation**: Groups within a [DAO](artifacts/primitives-framework/patterns/daos.md) or network form Cells without requiring approval, demonstrating value through trusted [governance](data/concepts/governance.md) and effective execution
+- **Permissionless Formation**: Groups within a [DAO](data/concepts/daos.md) or network form Cells without requiring approval, demonstrating value through trusted [governance](data/concepts/governance.md) and effective execution
 
 **Operationalization Methods**: Cells implement their [purpose](data/concepts/purpose.md) through three primary operational approaches:
 
 - **Core Team Execution**: Members of the core team directly carry out the activities needed to achieve the Cell's objectives
 - **Cell Coordination**: The Cell acts as a coordinating body for other Cells, creating or connecting with additional Cells to accomplish larger initiatives
-- **Contributor Coordination**: The Cell engages external contributors to execute work, often using [roles](artifacts/primitives-framework/patterns/roles.md) and [tasks](artifacts/primitives-framework/patterns/tasks.md) as coordination mechanisms
+- **Contributor Coordination**: The Cell engages external contributors to execute work, often using [roles](data/concepts/roles.md) and [tasks](data/concepts/tasks.md) as coordination mechanisms
 
-**[State](docs/dao-primitives/primitives-framework/concepts/group-state.md) Implementation**: Cells use the [state](docs/dao-primitives/primitives-framework/concepts/group-state.md) pattern as their core structural foundation, working through and defining their [Purpose](data/concepts/purpose.md), [Practice](data/concepts/practices.md), and [Progress](data/concepts/progress.md) to create the documentation that enables both internal self-management and external [coordination](data/concepts/coordination.md) within the [DAO network](artifacts/primitives-framework/patterns/daos.md).
+**[State](docs/dao-primitives/primitives-framework/concepts/group-state.md) Implementation**: Cells use the [state](docs/dao-primitives/primitives-framework/concepts/group-state.md) pattern as their core structural foundation, working through and defining their [Purpose](data/concepts/purpose.md), [Practice](data/concepts/practices.md), and [Progress](data/concepts/progress.md) to create the documentation that enables both internal self-management and external [coordination](data/concepts/coordination.md) within the [DAO network](data/concepts/daos.md).
 
 **Phase-Adaptive Structure**: Because Cells can form through different pathways, they move through [development phases](docs/dao-primitives/primitives-framework/concepts/group-phase/index.md) in varied ways. Cells created for specific operational functions may move quickly through [Conversation](docs/dao-primitives/primitives-framework/concepts/group-phase/conversation-phase.md) and [Formation](docs/dao-primitives/primitives-framework/concepts/group-phase/formation-phase.md) phases, while autonomous Cells emerging from community conversations may take longer to develop through these phases organically.
 
@@ -135,9 +135,9 @@ See [Group State Pattern](docs/dao-primitives/primitives-framework/concepts/grou
 
 ## Related Concepts
 
-- [DAOs](artifacts/primitives-framework/patterns/daos.md) - The network context within which Cells operate
-- [Roles](artifacts/primitives-framework/patterns/roles.md) - Specialized functions within Cell structures
-- [Tasks](artifacts/primitives-framework/patterns/tasks.md) - Coordinated actions within and between Cells
+- [DAOs](data/concepts/daos.md) - The network context within which Cells operate
+- [Roles](data/concepts/roles.md) - Specialized functions within Cell structures
+- [Tasks](data/concepts/tasks.md) - Coordinated actions within and between Cells
 - [Autonomy](data/concepts/autonomy.md) - The self-governance capacity that defines Cell operation
 - [Coordination](data/concepts/coordination.md) - The mechanisms through which Cells align with networks
 - [Scale](data/concepts/scale.md) - The collaboration scale at which Cells operate

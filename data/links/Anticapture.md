@@ -11,7 +11,8 @@ tags:
 curator:
   - rathermercurial.eth
 publish: true
-type: link, practice
+type: link
+linkType: practice
 functions:
   - governance
 qualities: 
@@ -25,7 +26,7 @@ phase:
   - formation
 ---
 
-[Anticapture](https://spengrah.mirror.xyz/f6bZ6cPxJpP-4K_NB7JcjbU0XblJcaf7kVLD75dOYRQ) is a framework for designing [decentralized](data/concepts/decentralization.md) [governance](data/concepts/governance.md) systems that resist monopolization and corruption by distributing [decision-making](archive/clarity/Tags/decision-making.md) [power](data/concepts/power.md) across autonomous agents.
+[Anticapture](https://spengrah.mirror.xyz/f6bZ6cPxJpP-4K_NB7JcjbU0XblJcaf7kVLD75dOYRQ) is a framework for designing [decentralized](data/concepts/decentralization.md) [governance](data/concepts/governance.md) systems that resist monopolization and corruption by distributing [decision-making](data/concepts/decisions.md) [power](data/concepts/power.md) across autonomous agents.
 
 ---
 
@@ -166,7 +167,7 @@ Note that while an agent can capture a shared resource by accumulating either fu
 
 The agent’s agenda is set in the Propose phase. What problems should the agent attempt to solve? Which choices should the agent consider?
 
-[Participation](tags/participation.md) in the Propose phase within a network spans from **centralized** to **decentralized**, describing how widely distributed the power to add options to the network’s agenda is.
+[Participation](data/concepts/participation.md) in the Propose phase within a network spans from **centralized** to **decentralized**, describing how widely distributed the power to add options to the network’s agenda is.
 
 In networks where the agenda is informal and doesn’t define which actions can be executed, the power to propose is influential rather than fundamental. Proposals don’t impact these networks’ shared resources, so the risk of capture is low and a degree of centralization is acceptable.
 

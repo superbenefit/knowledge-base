@@ -25,9 +25,9 @@ We explored perspectives on the essential functions and attributes of governance
 
 Each of the conversations were framed around a question:
 
-- [Meta-governance](/artifacts/articles/governance-for-better-futures/Governance%20for%20better%20futures%20-%20Meta-governance.md) - what is it and what's its potential?
-- [DAO 2 DAO Co-operation](/artifacts/articles/governance-for-better-futures/Governance%20for%20better%20futures%20-%20DAO%202%20DAO%20Co-operation.md) - what are we seeing and learning from inter-DAO cooperation?
-- [New and Old](/artifacts/articles/governance-for-better-futures/Governance%20for%20better%20futures%20-%20New%20and%20Old.md) - what can Web3 learn from and contribute to existing governance perspectives and practices?
+- [Meta-governance](/data/links/governance-for-better-futures/Governance%20for%20better%20futures%20-%20Meta-governance.md) - what is it and what's its potential?
+- [DAO 2 DAO Co-operation](/data/links/governance-for-better-futures/Governance%20for%20better%20futures%20-%20DAO%202%20DAO%20Co-operation.md) - what are we seeing and learning from inter-DAO cooperation?
+- [New and Old](/data/links/governance-for-better-futures/Governance%20for%20better%20futures%20-%20New%20and%20Old.md) - what can Web3 learn from and contribute to existing governance perspectives and practices?
     
 All Twitter Spaces took place from 6:30 to 7:30 pm EST and were hosted on the [SuperBenefit Twitter account.](https://twitter.com/superbenefitdao)
 
