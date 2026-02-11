@@ -32,9 +32,9 @@ tags:
 ---
 %% This template creates a basic note for early-stage ideas and research. %%
 
-# <% tp.frontmatter.title || "Untitled Note" %>
+# Title
 
-_<% tp.frontmatter.description || "Brief description of this note's purpose." %>_
+_Brief description of this note's purpose._
 
 ## Key Points
 
@@ -132,27 +132,6 @@ Select the template that best matches the type of content you're creating:
 
 When in doubt, start with the basic note template and refine your content as it develops.
 
-## Templater Features
-
-Many of our templates incorporate the Templater plugin to provide dynamic content generation. Templater uses a special syntax with `<% %>` delimiters to insert dynamic content based on frontmatter fields, file properties, dates, and other variables.
-
-For example, this Templater expression in a template:
-
-```markdown
-# <% tp.frontmatter.title || "Untitled Document" %>
-```
-
-Will automatically insert the title from the frontmatter, or "Untitled Document" if no title is provided.
-
-Common Templater features in our templates include:
-
-- Automatically using frontmatter values in the document body
-- Providing sensible defaults for empty fields
-- Generating dates and other dynamic content
-- Creating links to related content
-
-If you're creating or modifying templates, we recommend reviewing our [Guide to Using Templater](tools/plugin-notes/templater/Guide%20to%20Using%20Templater.md) for detailed implementation guidelines.
-
 ## Best Practices for Template Usage
 
 ### Working with Template Comments
@@ -198,9 +177,8 @@ If you find yourself repeatedly creating a specific type of content that isn't w
 4. Add a descriptive comment immediately after the frontmatter explaining the template's purpose
 5. Design the document structure with appropriate headings and sections
 6. Include helpful comments to guide users on what to include in each section
-7. Incorporate Templater syntax for dynamic content where appropriate
-8. Test the template thoroughly by creating sample documents
-9. Update this readme to document the new template
+7. Test the template thoroughly by creating sample documents
+8. Update this readme to document the new template
 
 ## Naming Conventions
 
@@ -213,7 +191,6 @@ Template files follow these naming conventions:
 
 If you encounter issues with templates:
 
-- **Templater syntax errors:** Check the Templater console in Obsidian for error messages
 - **Missing metadata fields:** Verify that the template includes all required fields from its corresponding type
 - **Formatting issues:** Ensure that you're using standard markdown syntax
 - **Plugin conflicts:** Check for conflicts with other plugins that might affect template rendering

@@ -1,0 +1,70 @@
+name: Link Check
+
+on:
+  pull_request:
+    paths:
+      - '**.md'
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check internal markdown link targets
+        run: |
+          exit_code=0
+
+          # Find all markdown-style internal links: [text](path)
+          # Exclude external URLs (http/https), anchors-only (#), and mailto:
+          grep -rn --include='*.md' -oP '\[([^\]]*)\]\((?!https?://|#|mailto:)([^)#]+)' . | while IFS= read -r match; do
+            file=$(echo "$match" | cut -d: -f1)
+            line=$(echo "$match" | cut -d: -f2)
+            target=$(echo "$match" | sed 's/.*](//' | sed 's/[)].*//')
+
+            # URL-decode percent-encoded spaces
+            target=$(echo "$target" | sed 's/%20/ /g')
+
+            # Skip empty targets
+            [ -z "$target" ] && continue
+
+            # Resolve relative to the file's directory
+            dir=$(dirname "$file")
+            if [[ "$target" == /* ]]; then
+              resolved=".${target}"
+            else
+              resolved="${dir}/${target}"
+            fi
+
+            # Check with and without .md extension
+            if [ ! -e "$resolved" ] && [ ! -e "${resolved}.md" ] && [ ! -d "$resolved" ]; then
+              echo "::warning file=${file#./},line=${line}::Broken link target: ${target}"
+              exit_code=1
+            fi
+          done
+
+          # Also check wikilinks: [[target]]
+          grep -rn --include='*.md' -oP '\[\[([^\]|]+)' . | while IFS= read -r match; do
+            file=$(echo "$match" | cut -d: -f1)
+            line=$(echo "$match" | cut -d: -f2)
+            target=$(echo "$match" | sed 's/.*\[\[//')
+
+            [ -z "$target" ] && continue
+
+            # Search for exact filename match anywhere in the repo
+            found=$(find . -name "$(basename "$target").md" -o -name "$(basename "$target")" 2>/dev/null | head -1)
+            if [ -z "$found" ] && [ ! -e "./${target}" ] && [ ! -e "./${target}.md" ]; then
+              echo "::warning file=${file#./},line=${line}::Broken wikilink target: ${target}"
+              exit_code=1
+            fi
+          done
+
+          if [ "$exit_code" -ne 0 ]; then
+            echo ""
+            echo "::notice::Broken links found. See warnings above."
+          else
+            echo "All internal links are valid."
+          fi
+
+          # Report but don't fail the build — links are advisory
+          exit 0

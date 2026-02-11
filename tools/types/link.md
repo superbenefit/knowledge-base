@@ -32,4 +32,29 @@ Located in `data/links/`, each link entry includes not just the URL and basic me
 
 This type enables the curation of a living library that bridges internal knowledge development with the broader ecosystem of ideas.
 
+### linkType Controlled Vocabulary
+
+The `linkType` field classifies external resources using values aligned with the KB ontology:
+
+| linkType | Description |
+|----------|-------------|
+| article | Essays and written pieces |
+| study | Research reports, analyses, academic work, case studies |
+| guide | Guides, toolkits, educational resources |
+| pattern | Frameworks, conceptual models, specification templates |
+| practice | Practices, participatory processes |
+| protocol | Formal protocols |
+| directory | Resource collections, databases, wikis, reference hubs |
+| book | Books, syllabi |
+| platform | Digital platforms and tools |
+| group | Organizations, DAOs, movements, funding bodies |
+| gathering | Conferences, residency programs, events |
+| interview | Interviews |
+| podcast | Podcasts |
+| report | Reports, annual reviews |
+
+### Tags
+
+Link file tags should use concept slugs (matching `aliases` on concept pages) to connect resources to concepts through the tag system. Avoid descriptive compound tags that don't match existing concept pages.
+
 **Template**: [link.md](tools/templates/layouts/link.md)

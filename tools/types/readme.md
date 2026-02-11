@@ -67,7 +67,7 @@ All types inherit these fields from `file`:
 | **study** | story | data/stories/studies | studies | search | - |
 | **guide** | story | data/stories/guides | guides | book | - |
 | **concept** | file | data/concepts | (mapWithTag) | lightbulb | harvester |
-| **link** | file | data/links | - | link | url, linkType |
+| **link** | file | data/links | - | link | url, linkType (controlled vocabulary) |
 | **person** | file | data/people | - | user | groups |
 | **group** | file | data/groups | - | users | url, members |
 | **project** | file | data/projects | - | folder-kanban | url, status |

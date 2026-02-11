@@ -1,0 +1,66 @@
+name: Tag Check
+
+on:
+  pull_request:
+    paths:
+      - '**.md'
+
+jobs:
+  check-tags:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Flag new singleton tags and quoted duplicates
+        run: |
+          # Extract all tags from frontmatter across the repo
+          # Tags appear as YAML list items under a "tags:" key
+          extract_tags() {
+            find data docs -name '*.md' -not -path '*/archive/*' | while IFS= read -r file; do
+              awk '
+                /^---$/ { n++; next }
+                n >= 2 { exit }
+                n == 1 && /^tags:/ { intags=1; next }
+                n == 1 && intags && /^  - / { gsub(/^  - /, ""); gsub(/^"/, ""); gsub(/"$/, ""); gsub(/^\047/, ""); gsub(/\047$/, ""); print; next }
+                n == 1 && intags && !/^  / { intags=0 }
+              ' "$file"
+            done
+          }
+
+          echo "=== Checking for singleton tags ==="
+          singletons=$(extract_tags | sort | uniq -c | sort -rn | awk '$1 == 1 { print $2 }')
+
+          if [ -n "$singletons" ]; then
+            count=$(echo "$singletons" | wc -l)
+            echo "::warning::Found ${count} singleton tag(s) (used only once):"
+            echo "$singletons" | while IFS= read -r tag; do
+              echo "  - ${tag}"
+            done
+          else
+            echo "No singleton tags found."
+          fi
+
+          echo ""
+          echo "=== Checking for quoted/unquoted tag duplicates ==="
+          # Look for tags that exist in both quoted and unquoted forms
+          all_tags=$(extract_tags | sort -u)
+          dupes_found=0
+
+          echo "$all_tags" | while IFS= read -r tag; do
+            # Check if a quoted version also appears in raw frontmatter
+            quoted_double="\"${tag}\""
+            quoted_single="'${tag}'"
+            if echo "$all_tags" | grep -qxF "$quoted_double" || echo "$all_tags" | grep -qxF "$quoted_single"; then
+              echo "::warning::Tag appears in both quoted and unquoted forms: ${tag}"
+              dupes_found=1
+            fi
+          done
+
+          if [ "$dupes_found" -eq 0 ]; then
+            echo "No quoted/unquoted tag duplicates found."
+          fi
+
+          # Advisory — don't block the PR
+          exit 0
