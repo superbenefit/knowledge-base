@@ -1,7 +1,10 @@
 ---
 group: rpp
+type: note
+title: Playbooks Steward Rolecrafting
 tags:
   - playbooks
+publish: false
 ---
 
 ---

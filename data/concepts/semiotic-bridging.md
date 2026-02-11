@@ -5,6 +5,8 @@ harvester:
   - rathermercurial.eth
 publish: true
 type: concept
+aliases:
+  - "#semiotic-bridging"
 tags:
 ---
 
@@ -52,5 +54,5 @@ This approach liberates communities from the need to agree on shared data standa
 ## Related Concepts
 
 - [Coordination](data/concepts/coordination.md) - Bridging for coordination
-- [Gatherings](artifacts/patterns/gatherings.md) - Cross-sector bridging
+- [Gatherings](data/resources/patterns/gatherings.md) - Cross-sector bridging
 - [Community](data/concepts/community.md) - Bridging communities

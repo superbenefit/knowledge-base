@@ -1,7 +1,10 @@
 ---
 group: rpp
+type: note
+title: Equality Fund Experiment Mapping
 tags:
   - experiments
+publish: false
 ---
 
 ## Notes from call re: Women Win 3/4/25

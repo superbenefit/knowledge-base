@@ -1,7 +1,10 @@
 ---
 group: rpp
+type: note
+title: Experiment Discovery Call W Sue Snider (17524)
 tags:
   - experiments
+publish: false
 ---
 
 ## Summary

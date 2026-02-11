@@ -1,5 +1,6 @@
 ---
 group: ics
+publish: false
 ---
 
 # Greenpill London Booth at Earthfest 2025

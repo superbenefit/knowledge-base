@@ -1,5 +1,6 @@
 ---
 group: ics
+publish: false
 ---
 
 # Reserve Currency Integration in Community Exchange

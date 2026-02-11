@@ -3,10 +3,11 @@ group: general-circle
 tags:
   - meetings
 date: 2022-07-04
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 # Week of July 4, 2022
-#[tactical meetings](archive/clarity/Tags/tactical%20meetings.md) Template
+#tactical meetings Template
 ## Attendees
 - Ayusha, Heenal, Michael, Michelle, Rowan
 
@@ -19,7 +20,7 @@ date: 2022-07-04
 	- Last week:
 	- This week:
 	- Blockers:
-- Project name/link - #[dao primitives](archive/clarity/Tags/dao%20primitives.md) 
+- Project name/link - #[dao primitives](docs/dao-primitives/index.md) 
 	- Last week: 
 		- Proposal 
 		- Setting up team with Ananth and cell nucleus [https://app.clarity.so/superbenefit/notes/de8d2cdb-10da-4c55-90e2-c3afd0793827](https://app.clarity.so/superbenefit/notes/de8d2cdb-10da-4c55-90e2-c3afd0793827) 

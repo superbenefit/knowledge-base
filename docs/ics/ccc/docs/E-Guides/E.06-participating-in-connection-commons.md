@@ -1,5 +1,6 @@
 ---
 group: ics
+publish: false
 ---
 
 # How to Participate in the Connection Commons

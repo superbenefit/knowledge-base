@@ -1,5 +1,9 @@
 ---
 group: rpp
+type: note
+title: Women Win Experiment Discussion
+publish: false
+---
 
 # Women Win Experiment Discussion
 

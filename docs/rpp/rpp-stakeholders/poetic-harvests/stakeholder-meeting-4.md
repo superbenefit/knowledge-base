@@ -1,5 +1,8 @@
 ---
 group: rpp
+type: note
+title: Stakeholder Meeting 4
+publish: false
 ---
 
 Now we're done with our festive cheer

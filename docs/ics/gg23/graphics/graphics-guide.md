@@ -1,5 +1,6 @@
 ---
 group: ics
+publish: false
 ---
 
 # Simple Graphics for GG23 Campaign

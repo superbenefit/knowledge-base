@@ -1,5 +1,6 @@
 ---
 group: ics
+publish: false
 ---
 
 # Newsletter Copy for GG23 Campaign

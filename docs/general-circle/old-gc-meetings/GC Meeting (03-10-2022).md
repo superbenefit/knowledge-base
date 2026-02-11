@@ -3,6 +3,7 @@ group: general-circle
 tags:
   - meetings
 date: 2022-10-03
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 # Week of October 3, 2022
@@ -24,7 +25,7 @@ date: 2022-10-03
 	- Meeting next week:  October, 12 2022
 	- Michelle at Philanthropic Foundations of Canada conference and talking web3 & DAOs to all who will listen. NorthPine Foundation is here and convos with staff t
 - ⬜️ P-263 All In For Sport - Collaboration
-- Project name/link: #[proposal sbp11- dao systems transformation repository-library](archive/clarity/Tags/proposal%20sbp11-%20dao%20systems%20transformation%20repository-library.md) 
+- Project name/link: #proposal sbp11- dao systems transformation repository-library 
 	- Last week: 
 		- Peter Gulkha meeting about collaboration with Indigenous 
 		- proposal posted

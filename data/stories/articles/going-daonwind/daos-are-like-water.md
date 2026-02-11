@@ -6,7 +6,7 @@ author:
   - "Ayusha Mahajan"
 date: 2022-09-27
 tags:
-  - "daos"
+  - daos
 banner: "![[attachments/water-cover.png]]"
 publish: true
 ---

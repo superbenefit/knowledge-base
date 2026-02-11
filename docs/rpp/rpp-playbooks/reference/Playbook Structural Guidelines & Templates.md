@@ -1,7 +1,10 @@
 ---
 group: rpp
+type: note
+title: Playbook Structural Guidelines & Templates
 tags:
   - playbooks
+publish: false
 ---
 Instructions for understanding and creating playbook components for the Reimagining Power project  
 

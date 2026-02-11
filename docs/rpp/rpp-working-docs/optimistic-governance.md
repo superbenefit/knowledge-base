@@ -19,7 +19,7 @@ _A governance framework where proposals are approved by default unless a specifi
 
 ## Context
 
-This pattern is best applied in organizations where there is a clear separation between an empowered operational team and a higher-level stewardship or security body. It is ideal for organizations that want to move away from slow, bureaucratic, top-down decision-making and enable small, autonomous teams ([cells](archive/clarity/Tags/cells.md)) to act quickly. It thrives in environments with a high degree of trust and is perfectly suited for managing frequent, routine, or time-sensitive operational decisions that don't require the full consensus of the entire organization.
+This pattern is best applied in organizations where there is a clear separation between an empowered operational team and a higher-level stewardship or security body. It is ideal for organizations that want to move away from slow, bureaucratic, top-down decision-making and enable small, autonomous teams ([cells](data/resources/patterns/cells.md)) to act quickly. It thrives in environments with a high degree of trust and is perfectly suited for managing frequent, routine, or time-sensitive operational decisions that don't require the full consensus of the entire organization.
 
 ---
 

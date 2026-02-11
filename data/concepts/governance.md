@@ -3,7 +3,7 @@ type: concept
 title: Decentralized Governance
 harvester: 
 tags:
-  - "functions"
+  - functions
 aliases:
   - "#governance"
 publish: true
@@ -15,11 +15,11 @@ Decentralized governance in the context of Web3 and [DAOs](data/concepts/daos.md
 
 ## Types of Governance
 
-### [Community Governance](data/concepts/community-governance.md)
+### [Community Governance](data/resources/patterns/community-governance.md)
 
 Operates at Constituency Scale to safeguard and evolve the network's overarching purpose. Community governance includes a broad base of stakeholders who may not be directly involved in operations but are aligned with the network's purpose. It uses slower, more deliberative mechanisms like conviction voting and optimistic governance to make long-term decisions about network direction and treasury allocation.
 
-### [Operational Governance](data/concepts/operational-governance.md)
+### [Operational Governance](data/resources/patterns/operational-governance.md)
 
 Functions at Coordination Scale to enable effective day-to-day operations and resource allocation. Built on sociocratic structures where Cells (small autonomous teams) coordinate their activities. Operational governance provides the flexibility and autonomy needed for teams to execute effectively while maintaining coordination across the network.
 
@@ -39,11 +39,11 @@ Focuses on aligning key stakeholder interests and managing relationships between
 
 ### DAO Primitives Articles
 
-- [DAOs aren't things... they are flows](../artifacts/dao-primitives-framework/network-evolution/DAOs aren't things... they are flows..md)
-- [Scale and the levers that provide DAOs their power](../artifacts/dao-primitives-framework/network-evolution/Scale and the levers that provide DAOs their power.md)
-- [DAOs - From fractal primitives to network scale](../artifacts/dao-primitives-framework/network-evolution/DAOs - From fractal primitives to network scale..md)
-- [Minimum Viable Permissionless-ness](../artifacts/dao-primitives-framework/network-evolution/Minimum Viable Permissionless-ness.md)
-- [Building DAOs as scalable networks](../artifacts/dao-primitives-framework/network-evolution/Building DAOs as scalable networks.md)
+- [DAOs aren't things... they are flows](../docs/dao-primitives/articles/DAOs aren't things... they are flows..md)
+- [Scale and the levers that provide DAOs their power](../docs/dao-primitives/articles/Scale and the levers that provide DAOs their power.md)
+- [DAOs - From fractal primitives to network scale](../docs/dao-primitives/articles/DAOs - From fractal primitives to network scale..md)
+- [Minimum Viable Permissionless-ness](../docs/dao-primitives/articles/Minimum Viable Permissionless-ness.md)
+- [Building DAOs as scalable networks](../docs/dao-primitives/articles/Building DAOs as scalable networks.md)
 
 
 ## Governance Frameworks
@@ -55,8 +55,8 @@ Focuses on aligning key stakeholder interests and managing relationships between
 ## Related Concepts
 
 - DAOs - Organizations implementing decentralized governance
-- [Community Governance](artifacts/patterns/community-governance.md) - Constituency-scale governance patterns
-- [Operational Governance](artifacts/patterns/operational-governance.md) - Day-to-day execution governance
+- [Community Governance](data/resources/patterns/community-governance.md) - Constituency-scale governance patterns
+- [Operational Governance](data/resources/patterns/operational-governance.md) - Day-to-day execution governance
 - [Coordination](data/concepts/coordination.md) - Mechanisms governance enables
 - Decisions - Outputs of governance processes
 - [Teams](data/concepts/teams.md) - Groups governed by these frameworks

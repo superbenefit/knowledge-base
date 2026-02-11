@@ -3,10 +3,11 @@ group: general-circle
 tags:
   - meetings
 date: 2022-07-11
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 # Week of July 11, 2022
-#[tactical meetings](archive/clarity/Tags/tactical%20meetings.md) 
+#tactical meetings 
 
 ## Attendees
 - Ayusha, Heenal, Michael, Michelle, Rowan
@@ -16,7 +17,7 @@ date: 2022-07-11
 
 
 ## Projects
-- Project name/link: #[governance conversations](archive/clarity/Tags/governance%20conversations.md) 
+- Project name/link: #governance conversations 
 	- Last week:
 		- @AlexH writing wrap up reflection
 	- This week:

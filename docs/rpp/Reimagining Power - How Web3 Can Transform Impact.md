@@ -1,5 +1,6 @@
 ---
 group: rpp
+type: article
 title: Reimagining Power - How Web3 Can Transform Impact
 description: Exploring how emerging web3 technologies can be leveraged to redistribute power, mobilize capital, and transform systems toward more equitable outcomes.
 tags:
@@ -109,7 +110,7 @@ The time for incremental change has passed. The time for bold, systemic transfor
 
 * **Example**: An impact investment fund may have an investment committee composed of a few individuals who make all major decisions about which projects to fund.    
 
-* **Web3 Solution**: Web3 offers a [decentralized governance](data/concepts/governance.md) model through the use of Decentralized Autonomous Organizations ([DAOs](data/concepts/daos.md)). In a DAO, decision-making power can be distributed among a broader group of stakeholders, including community members, social entrepreneurs, and smaller investors. This [community governance](/artifacts/patterns/community-governance.md) approach allows for more inclusive and equitable decision-making processes, ensuring that diverse voices are heard and that decisions better reflect the needs and priorities of [diverse stakeholders](/artifacts/guides/dao-primitives-framework/dao-primitives-implemention/implementation-guide-multi-stakeholder-governance.md). Token-based voting systems can be implemented to allow participants to vote on investment decisions, governance policies, and fund allocations, creating a more transparent and accountable decision-making process.
+* **Web3 Solution**: Web3 offers a [decentralized governance](data/concepts/governance.md) model through the use of Decentralized Autonomous Organizations ([DAOs](data/concepts/daos.md)). In a DAO, decision-making power can be distributed among a broader group of stakeholders, including community members, social entrepreneurs, and smaller investors. This [community governance](/data/resources/patterns/community-governance.md) approach allows for more inclusive and equitable decision-making processes, ensuring that diverse voices are heard and that decisions better reflect the needs and priorities of [diverse stakeholders](/docs/dao-primitives/primitives-framework/implementation/implementation-guide-multi-stakeholder-governance.md). Token-based voting systems can be implemented to allow participants to vote on investment decisions, governance policies, and fund allocations, creating a more transparent and accountable decision-making process.
 ---
 
 ## Related Concepts

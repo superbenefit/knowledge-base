@@ -14,7 +14,7 @@ aliases:
 publish: true
 ---
 
-_Solidarity economics is an alternative economic framework that prioritizes mutual support, democratic [participation](participation.md), and collective wellbeing over profit maximization, creating economic relationships based on cooperation, shared responsibility, and [community](data/concepts/community.md) control rather than individual competition and accumulation._
+_Solidarity economics is an alternative economic framework that prioritizes mutual support, democratic [participation](data/concepts/participation.md), and collective wellbeing over profit maximization, creating economic relationships based on cooperation, shared responsibility, and [community](data/concepts/community.md) control rather than individual competition and accumulation._
 
 Solidarity economics emerged from social movements in Latin America and the Global South as a transformative approach to economic organization that explicitly challenges capitalist principles of individualism, profit, and private property. Unlike reforms that attempt to make capitalism more humane, solidarity economics seeks to create entirely different economic relationships based on [values](data/concepts/values.md) of cooperation, equity, and ecological sustainability. This framework recognizes existing practices of mutual aid, cooperatives, and community self-reliance as the foundation for building economic systems that serve human and ecological wellbeing rather than capital accumulation.
 
@@ -28,7 +28,7 @@ In practice, solidarity economics operates through interconnected networks of co
 
 Solidarity economics provides frameworks for community to develop economic self-determination through locally-controlled alternatives to corporate and state services. These include community-owned enterprises, local exchange systems, and mutual aid networks that keep resources circulating within community while building collective assets and capacity.
 
-Examples include community land trusts that remove land from speculation, worker cooperatives that distribute ownership and [decision-making](archive/clarity/Tags/decision-making.md) among employees, and mutual credit systems that create local currencies without interest. These institutions demonstrate how community can "redistribute [power](data/concepts/power.md) and resources to those who have been most harmed by white supremacy, settler colonialism, patriarchy, ableism, and capitalism" while meeting immediate material needs for housing, food, healthcare, and education.
+Examples include community land trusts that remove land from speculation, worker cooperatives that distribute ownership and [decision-making](data/concepts/decisions.md) among employees, and mutual credit systems that create local currencies without interest. These institutions demonstrate how community can "redistribute [power](data/concepts/power.md) and resources to those who have been most harmed by white supremacy, settler colonialism, patriarchy, ableism, and capitalism" while meeting immediate material needs for housing, food, healthcare, and education.
 
 ### Solidarity Economics and Web3 Systems
 

@@ -1,5 +1,8 @@
 ---
 group: rpp
+type: note
+title: Reimagining Power Project: Stakeholder Reflection Responses
+publish: false
 ---
 
 # Reimagining Power Project: Stakeholder Reflection Responses

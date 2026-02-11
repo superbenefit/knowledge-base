@@ -3,10 +3,11 @@ group: general-circle
 tags:
   - meetings
 date: 2022-05-09
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 # Week of May 9, 2022
-#[tactical meetings](archive/clarity/Tags/tactical%20meetings.md) Template
+#tactical meetings Template
 
 ## Checkin
 - How do you arrive?

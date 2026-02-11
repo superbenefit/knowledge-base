@@ -18,7 +18,7 @@ In the context of Web3 and [decentralized](data/concepts/decentralization.md) or
 
 ## Teams in Decentralized Organizations
 
-The [DAO Primitives framework](../artifacts/guides/dao-primitives-framework/index.md) uses the term **[Cells](artifacts/guides/dao-primitives-framework/group-primitives/cells.md)** to describe small autonomous teams that function as the basic organizational units within DAO networks. These teams typically consist of 3-8 people (fewer than 10) who work together at what the framework calls "collaboration scale" - where high-bandwidth, synchronous communication enables effective self-[governance](data/concepts/governance.md) and adaptive problem-solving.
+The [DAO Primitives framework](../docs/dao-primitives/primitives-framework/index.md) uses the term **[Cells](data/resources/patterns/cells.md)** to describe small autonomous teams that function as the basic organizational units within DAO networks. These teams typically consist of 3-8 people (fewer than 10) who work together at what the framework calls "collaboration scale" - where high-bandwidth, synchronous communication enables effective self-[governance](data/concepts/governance.md) and adaptive problem-solving.
 
 The shift from traditional teams to decentralized autonomous teams represents a fundamental change in how groups coordinate:
 
@@ -34,7 +34,7 @@ The shift from traditional teams to decentralized autonomous teams represents a 
 - Make independent decisions within their domain of responsibility
 - Coordinate horizontally with other teams through clear interfaces
 
-This autonomy combined with transparent coordination enables what [DAOs aren't things... they are flows](../artifacts/dao-primitives-framework/network-evolution/DAOs aren't things... they are flows..md) describes as "purpose-aligned networks" that can scale both efficiency and innovation simultaneously.
+This autonomy combined with transparent coordination enables what [DAOs aren't things... they are flows](../docs/dao-primitives/articles/DAOs aren't things... they are flows..md) describes as "purpose-aligned networks" that can scale both efficiency and innovation simultaneously.
 
 ---
 

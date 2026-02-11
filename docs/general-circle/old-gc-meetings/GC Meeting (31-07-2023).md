@@ -3,6 +3,7 @@ group: general-circle
 tags:
   - meetings
 date: 2023-07-31
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 ## Attendees
@@ -12,7 +13,7 @@ date: 2023-07-31
 - 
 
 ## Updates
-- #[reimagining power](archive/clarity/Tags/reimagining%20power.md) 
+- #[reimagining power](docs/rpp/index.md) 
 	- Initial cell setup underway
 	- How to decide who is a part of the team moving forwards?
 - #[P-261 Windfall - Residential Energy NFT](P-261%20Windfall%20-%20Residential%20Energy%20NFT)
@@ -29,7 +30,7 @@ date: 2023-07-31
 	- [Contribution register](https://app.clarity.so/superbenefit/docs/fa52b66f-0d5c-44a1-abae-9940bc13e9d5)
 		- Would it make sense to use a standard attestation for that? Nonstandard attestations generally aren't indexed and aren't likely to be in the future
 		- eg Govern
-- #[dao primitives](archive/clarity/Tags/dao%20primitives.md) 
+- #[dao primitives](docs/dao-primitives/index.md) 
 	- 
 
 ## Triage/Discussion 

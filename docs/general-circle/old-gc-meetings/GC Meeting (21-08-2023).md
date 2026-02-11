@@ -3,6 +3,7 @@ group: general-circle
 tags:
   - meetings
 date: 2023-08-21
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 # **Date 21 Aug 2023**
@@ -20,7 +21,7 @@ date: 2023-08-21
 	- #[P-264 Systems Transformation Project](P-264%20Systems%20Transformation%20Project) 
 		- Reflection stickies on Figjam board -> Sunsetting call tomorrow
 	- Bankers without Boundaries
-	- #[all in for sport](archive/clarity/Tags/all%20in%20for%20sport.md) 
+	- #all in for sport 
 		- Getting ready for 2nd crowdfund partnership this week with Fentwood Hoops
 		- Question around the [draft About page text](https://docs.google.com/document/d/1_EzTvNloWO6VTig76W7jMW9rp48-VVocYfbpStkrXUs/edit#heading=h.tmwqlrumbnzk) for the website: is it accessible? who is this aimed at, what are we trying to educate them on/convince them of?
 		- 

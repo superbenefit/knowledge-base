@@ -1,7 +1,10 @@
 ---
 group: rpp
+type: note
+title: Playbooks RPP
 tags:
   - playbooks
+publish: false
 ---
 
 This task is a work in progress

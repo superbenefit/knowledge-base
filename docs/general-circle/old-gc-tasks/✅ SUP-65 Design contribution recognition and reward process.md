@@ -2,6 +2,7 @@
 group: general-circle
 tags:
   - tasks
+publish: false
 ---
 Process Objectives
 - Ensure core contributors are able to surface their contributions
@@ -14,5 +15,5 @@ Process Flow
 		- the creation of SuperBenefit
 		- the work that led to completion of Revolution 0
 		- the support provided to you in your work
-	- Resulting allocation determines the allocation of the remaining 800,000 SPRB associated with rev0 contributors (see #[$sprb](archive/clarity/Tags/$sprb.md))
-- #[treasury squad](archive/clarity/Tags/treasury%20squad.md) submits a proposal to allocate the tokens based on the vote
+	- Resulting allocation determines the allocation of the remaining 800,000 SPRB associated with rev0 contributors (see #$sprb)
+- #treasury squad submits a proposal to allocate the tokens based on the vote

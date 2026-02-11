@@ -2,6 +2,7 @@
 group: general-circle
 tags:
   - tasks
+publish: false
 ---
 Attractors
 - informed by context map  (depth of exploration - We're Smart and Serious)

@@ -1,5 +1,8 @@
 ---
 group: dao-primitives
+type: index
+title: Reference Index
+publish: false
 ---
 
 

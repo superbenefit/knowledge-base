@@ -1,5 +1,6 @@
 ---
 group: ics
+publish: false
 ---
 
 # Community Groups for GG23 Outreach

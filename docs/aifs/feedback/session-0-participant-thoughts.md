@@ -1,5 +1,6 @@
 ---
 group: aifs
+publish: false
 ---
 
 # All In For Sport DAO Salon Series - Session 0 Participant Thoughts

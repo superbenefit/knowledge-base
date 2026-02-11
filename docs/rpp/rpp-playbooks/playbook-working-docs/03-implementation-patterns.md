@@ -1,5 +1,8 @@
 ---
 group: rpp
+type: note
+title: Implementation Patterns
+publish: false
 ---
 
 # Implementation Patterns
@@ -14,7 +17,7 @@ group: rpp
 
 **Case study example**: All In For Sport's AIFSIP-04 proposal created clear boundaries - community governance protects mission and values while operational cells execute autonomously. This resolved longstanding tensions and passed "without significant contention" because it addressed recognized needs.
 
-**Link to full pattern**: [community-governance](data/concepts/community-governance.md)
+**Link to full pattern**: [community-governance](data/resources/patterns/community-governance.md)
 
 ---
 
@@ -26,7 +29,7 @@ group: rpp
 
 **Case study example**: AIFS operational cells enabled the Tech365 coordination - managing 25 organizations across 16 countries without constant board approval. ICS's 4-person core team made all governance decisions autonomously, exceeding their participation goals.
 
-**Link to full pattern**: [operational-governance](data/concepts/operational-governance.md)
+**Link to full pattern**: [operational-governance](data/resources/patterns/operational-governance.md)
 
 ---
 
@@ -50,7 +53,7 @@ group: rpp
 
 **Case study example**: AIFS cells for events, partnerships, and Tech365 coordination operated independently while maintaining alignment. SuperBenefit's Community Experience, DAO Primitives, and Playbooks cells each advanced specific objectives autonomously.
 
-**Link to full pattern**: Referenced in operational governance - [operational-governance](data/concepts/operational-governance.md)
+**Link to full pattern**: Referenced in operational governance - [operational-governance](data/resources/patterns/operational-governance.md)
 
 ---
 

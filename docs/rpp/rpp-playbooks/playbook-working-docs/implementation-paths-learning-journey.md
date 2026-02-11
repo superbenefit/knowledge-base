@@ -1,5 +1,8 @@
 ---
 group: rpp
+type: note
+title: Implementation Paths: Deep Context for Playbook Development
+publish: false
 ---
 
 # Implementation Paths: Deep Context for Playbook Development

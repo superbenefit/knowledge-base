@@ -1,5 +1,8 @@
 ---
 group: rpp
+type: note
+title: SuperBenefit Pattern Library
+publish: false
 ---
 
 # SuperBenefit Pattern Library

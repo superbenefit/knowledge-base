@@ -2,6 +2,7 @@
 group: wp
 tags:
   - tasks
+publish: false
 ---
 ## Windfall Residential Energy Efficiency project
 ## Project Plan

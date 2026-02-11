@@ -1,7 +1,9 @@
 ---
 group: dao-primitives
+type: guide
 title: Conflict Response Plan Implementation Guide
 description:
+publish: false
 ---
 
 This guide provides instructions for implementing the five steps of a conflict response process. Use this alongside the Community Guidelines Framework to create your community's specific conflict response plan.

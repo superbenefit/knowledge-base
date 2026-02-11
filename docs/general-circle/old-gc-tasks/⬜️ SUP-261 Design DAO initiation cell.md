@@ -2,6 +2,7 @@
 group: general-circle
 tags:
   - tasks
+publish: false
 ---
 What is the minimum required coordination necessary for grantees to allocation $1M to the community for them to pursue systems transformation?
 **Potential Framework**

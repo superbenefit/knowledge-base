@@ -1,8 +1,9 @@
 ---
 group: general-circle
+publish: false
 ---
 
-#[dao primitives](archive/clarity/Tags/dao%20primitives.md) 
+#[dao primitives](docs/dao-primitives/index.md) 
 
 
 # Oct 25 2022

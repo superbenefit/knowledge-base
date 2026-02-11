@@ -33,47 +33,47 @@ ICS envisions resilient communities where sustainability practices are accessibl
 
 ### Repair Café
 A community-based initiative that brings together skilled volunteers and community members to repair household items that would otherwise be discarded. Beyond waste reduction, the Repair Café creates a space for knowledge exchange, skill development, and community building. These events transform the act of repair from an individual chore into a collective, empowering experience.
-      - **[v0.2](./ccc/archive/v0.2/v0.2.md)**
-        - **[A-Introduction](./ccc/archive/v0.2/A-Introduction/A-Introduction.md)**
-        - **[B-Overview](./ccc/archive/v0.2/B-Overview/B-Overview.md)**
-        - **[C-Implementation](./ccc/archive/v0.2/C-Implementation/C-Implementation.md)**
-        - **[D-Examples](./ccc/archive/v0.2/D-Examples/D-Examples.md)**
-        - **[E-Guides](./ccc/archive/v0.2/E-Guides/E-Guides.md)**
-        - **[F-Activities](./ccc/archive/v0.2/F-Activities/F-Activities.md)**
-        - **[G-Future](./ccc/archive/v0.2/G-Future/G-Future.md)**
-        - **[H-Reference](./ccc/archive/v0.2/H-Reference/H-Reference.md)**
-        - **[I-Fund](./ccc/archive/v0.2/I-Fund/I-Fund.md)**
-      - **[v0.18](./ccc/archive/v0.18/v0.18.md)**
-      - **[v0.19](./ccc/archive/v0.19/v0.19.md)**
-        - **[A-Cover](./ccc/archive/v0.19/A-Cover/A-Cover.md)**
-        - **[B-Overview](./ccc/archive/v0.19/B-Overview/B-Overview.md)**
-        - **[C-Implementation](./ccc/archive/v0.19/C-Implementation/C-Implementation.md)**
-        - **[D-Examples](./ccc/archive/v0.19/D-Examples/D-Examples.md)**
-        - **[E-Guides](./ccc/archive/v0.19/E-Guides/E-Guides.md)**
-        - **[F-Activities](./ccc/archive/v0.19/F-Activities/F-Activities.md)**
-        - **[G-Future](./ccc/archive/v0.19/G-Future/G-Future.md)**
-        - **[H-Reference](./ccc/archive/v0.19/H-Reference/H-Reference.md)**
-    - **[docs](./ccc/docs/docs.md)**
-      - **[A-Introduction](./ccc/docs/A-Introduction/A-Introduction.md)**
-      - **[B-Overview](./ccc/docs/B-Overview/B-Overview.md)**
-      - **[C-Implementation](./ccc/docs/C-Implementation/C-Implementation.md)**
-      - **[D-Examples](./ccc/docs/D-Examples/D-Examples.md)**
-      - **[E-Guides](./ccc/docs/E-Guides/E-Guides.md)**
-      - **[F-Activities](./ccc/docs/F-Activities/F-Activities.md)**
-      - **[G-Future](./ccc/docs/G-Future/G-Future.md)**
-      - **[H-Reference](./ccc/docs/H-Reference/H-Reference.md)**
-      - **[I-Fund](./ccc/docs/I-Fund/I-Fund.md)**
+      - **[v0.2](docs/ics/ccc/archive/v0.2/v0.2.md)**
+        - **[A-Introduction](docs/ics/ccc/archive/v0.2/A-Introduction/A-Introduction.md)**
+        - **[B-Overview](docs/ics/ccc/archive/v0.2/B-Overview/B-Overview.md)**
+        - **[C-Implementation](docs/ics/ccc/archive/v0.2/C-Implementation/C-Implementation.md)**
+        - **[D-Examples](docs/ics/ccc/archive/v0.2/D-Examples/D-Examples.md)**
+        - **[E-Guides](docs/ics/ccc/archive/v0.2/E-Guides/E-Guides.md)**
+        - **[F-Activities](docs/ics/ccc/archive/v0.2/F-Activities/F-Activities.md)**
+        - **[G-Future](docs/ics/ccc/archive/v0.2/G-Future/G-Future.md)**
+        - **[H-Reference](docs/ics/ccc/archive/v0.2/H-Reference/H-Reference.md)**
+        - **[I-Fund](docs/ics/ccc/archive/v0.2/I-Fund/I-Fund.md)**
+      - **[v0.18](docs/ics/ccc/archive/v0.18/v0.18.md)**
+      - **[v0.19](docs/ics/ccc/archive/v0.19/v0.19.md)**
+        - **[A-Cover](docs/ics/ccc/archive/v0.19/A-Cover/A-Cover.md)**
+        - **[B-Overview](docs/ics/ccc/archive/v0.19/B-Overview/B-Overview.md)**
+        - **[C-Implementation](docs/ics/ccc/archive/v0.19/C-Implementation/C-Implementation.md)**
+        - **[D-Examples](docs/ics/ccc/archive/v0.19/D-Examples/D-Examples.md)**
+        - **[E-Guides](docs/ics/ccc/archive/v0.19/E-Guides/E-Guides.md)**
+        - **[F-Activities](docs/ics/ccc/archive/v0.19/F-Activities/F-Activities.md)**
+        - **[G-Future](docs/ics/ccc/archive/v0.19/G-Future/G-Future.md)**
+        - **[H-Reference](docs/ics/ccc/archive/v0.19/H-Reference/H-Reference.md)**
+    - **[docs](docs/ics/ccc/docs/docs.md)**
+      - **[A-Introduction](docs/ics/ccc/docs/A-Introduction/A-Introduction.md)**
+      - **[B-Overview](docs/ics/ccc/docs/B-Overview/B-Overview.md)**
+      - **[C-Implementation](docs/ics/ccc/docs/C-Implementation/C-Implementation.md)**
+      - **[D-Examples](docs/ics/ccc/docs/D-Examples/D-Examples.md)**
+      - **[E-Guides](docs/ics/ccc/docs/E-Guides/E-Guides.md)**
+      - **[F-Activities](docs/ics/ccc/docs/F-Activities/F-Activities.md)**
+      - **[G-Future](docs/ics/ccc/docs/G-Future/G-Future.md)**
+      - **[H-Reference](docs/ics/ccc/docs/H-Reference/H-Reference.md)**
+      - **[I-Fund](docs/ics/ccc/docs/I-Fund/I-Fund.md)**
   - **city-grant-reporting**
     - **[index](docs/ics/city-grant-reporting/2024-final/index.md)**
     - **[index](docs/ics/city-grant-reporting/2025-mid/index.md)**
-  - **[gg23](./gg23/gg23.md)**
-    - **[graphics](./gg23/graphics/graphics.md)**
-    - **[newsletters](./gg23/newsletters/newsletters.md)**
-    - **[outreach](./gg23/outreach/outreach.md)**
-    - **[social-media](./gg23/social-media/social-media.md)**
-    - **[tweets](./gg23/tweets/tweets.md)**
-    - **[website](./gg23/website/website.md)**
-  - **[rpp-reporting](./rpp-reporting/rpp-reporting.md)**
+  - **[gg23](docs/ics/gg23/gg23.md)**
+    - **[graphics](docs/ics/gg23/graphics/graphics.md)**
+    - **[newsletters](docs/ics/gg23/newsletters/newsletters.md)**
+    - **[outreach](docs/ics/gg23/outreach/outreach.md)**
+    - **[social-media](docs/ics/gg23/social-media/social-media.md)**
+    - **[tweets](docs/ics/gg23/tweets/tweets.md)**
+    - **[website](docs/ics/gg23/website/website.md)**
+  - **[rpp-reporting](docs/ics/rpp-reporting/rpp-reporting.md)**
 
 
 ## History and Background

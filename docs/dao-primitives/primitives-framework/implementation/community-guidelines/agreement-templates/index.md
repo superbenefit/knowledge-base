@@ -1,7 +1,9 @@
 ---
 group: dao-primitives
+type: index
 title: Agreement Templates
 description:
+publish: false
 ---
 
 This document specifies the structure for three templates that communities use to implement their guidelines. Each template should be brief, scannable, and actionable.

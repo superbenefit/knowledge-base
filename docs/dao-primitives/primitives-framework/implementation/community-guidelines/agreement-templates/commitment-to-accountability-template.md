@@ -1,5 +1,8 @@
 ---
 group: dao-primitives
+type: guide
+title: Commitment To Accountability Template
+publish: false
 ---
 
 

@@ -53,7 +53,7 @@ This enables community to develop digital infrastructure that supports local org
 
 Local-first principles align closely with cosmolocal approaches that combine local autonomy with global knowledge sharing. Just as cosmolocalism advocates for "what is heavy is local, what is light is global," local-first software keeps data and processing local while enabling global coordination through open protocols and knowledge commons.
 
-This creates technological infrastructure that supports the localist principle of maintaining "sovereignty over local resources and [decision-making](archive/clarity/Tags/decision-making.md)" while "sharing knowledge and protocols globally through open systems." Local-first applications can enable community to "access global capital while preserving local control" by providing technological tools that support both local autonomy and broader network [participation](participation.md).
+This creates technological infrastructure that supports the localist principle of maintaining "sovereignty over local resources and [decision-making](data/concepts/decisions.md)" while "sharing knowledge and protocols globally through open systems." Local-first applications can enable community to "access global capital while preserving local control" by providing technological tools that support both local autonomy and broader network [participation](data/concepts/participation.md).
 
 ## Related Concepts
 

@@ -1,5 +1,6 @@
 ---
 group: ics
+publish: false
 ---
 
 # Core Narrative for GG23 Campaign

@@ -1,5 +1,6 @@
 ---
 group: ics
+publish: false
 ---
 
 # Community Connection & Commitment Commons: Frequently Asked Questions

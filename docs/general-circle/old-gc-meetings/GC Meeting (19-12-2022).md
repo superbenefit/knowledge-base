@@ -3,6 +3,7 @@ group: general-circle
 tags:
   - meetings
 date: 2022-12-19
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 ## Attendees
@@ -32,7 +33,7 @@ Passcode: B$$?pXJ4
 		- 
 	- Blockers:
 - #[P-261 Windfall - Residential Energy NFT](P-261%20Windfall%20-%20Residential%20Energy%20NFT) : government has delayed their decision until the new year.
-- Project name - #[dao primitives](archive/clarity/Tags/dao%20primitives.md) 
+- Project name - #[dao primitives](docs/dao-primitives/index.md) 
 	- Governance progress
 	- Gitcoin grants 
 	- Looking to get some scale to the team 

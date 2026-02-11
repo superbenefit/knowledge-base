@@ -25,7 +25,7 @@ tags:
 - ## Organization Phase
 	- 
 		- Deploying governance mechanisms defined in formation phase.
-		- Developing key #[index](artifacts/index.md) such as the group state
+		- Developing key #[index](data/resources/patterns/index.md) such as the group state
 		- Creating a process to join and leave the group.
 		- Creating a strategy to achieve the defined goals up to the first milestone
 		- Crafting roles necessary to achieve the above goals (lvl 2 branches)

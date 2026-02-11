@@ -2,8 +2,9 @@
 group: general-circle
 tags:
   - tasks
+publish: false
 ---
-**BLOCKED: Waiting on resolution of structure by **#[governance squad](archive/clarity/Tags/governance%20squad.md) 
+**BLOCKED: Waiting on resolution of structure by **#governance squad 
 # Proposed flow and structure.
 ## Flow
 1. Person joins Discord
@@ -17,11 +18,11 @@ tags:
 	- granted access to granted access to corresponding Guilds channels
 	- 
 4. Person interacts in community and guilds
-	- identified as potential #[contributor role](archive/clarity/Tags/contributor%20role.md) to a specific project
+	- identified as potential #contributor role to a specific project
 		- Lead role or project lead recruits person to contribute on a specific project or task, and asks to have contributor role assigned to that person through #request-access
 		- recruiter then becomes responsible for that person and their participation as a contributor
-		- person receives #[contributor role](archive/clarity/Tags/contributor%20role.md)  role and is able to see channels in projects section
-5. Person is appointed to a #[squad lead](archive/clarity/Tags/squad%20lead.md)
+		- person receives #contributor role  role and is able to see channels in projects section
+5. Person is appointed to a #squad lead
 	- granted 'Lead' role
 	- granted access to channels in general circle and operations sections.
 

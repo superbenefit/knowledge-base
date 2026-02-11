@@ -21,7 +21,7 @@ The form of agreements can vary widely - from informal social norms to detailed 
 
 ## Uses of "Agreements"
 
-### Agreements in [DAO Primitives framework](../artifacts/guides/dao-primitives-framework/index.md)
+### Agreements in [DAO Primitives framework](../docs/dao-primitives/primitives-framework/index.md)
 
 In the DAO [Primitives](data/concepts/primitives.md) Framework, agreements are considered one of three foundational organizational primitives alongside entities/groups and networks. They represent the commitments within and between entities that allow for coordination across different scales. The framework identifies several key types of agreements that form the basis of decentralized coordination:
 
@@ -33,7 +33,7 @@ Within this framework, specific organizational structures like Cells, Roles, and
 
 ### Agreements in Governance Systems
 
-In governance contexts, agreements establish the rules, processes, and boundaries for collective [decision-making](archive/clarity/Tags/decision-making.md). These can include:
+In governance contexts, agreements establish the rules, processes, and boundaries for collective [decision-making](data/concepts/decisions.md). These can include:
 
 - **Decision protocols**: Methods for reaching collective decisions such as consent-based or [consensus](data/concepts/consensus.md)-based processes
 - **Policies**: Formalized rules and guidelines that establish parameters for decision-making

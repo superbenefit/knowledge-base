@@ -23,7 +23,7 @@ In the context of decentralized coordination, well-designed roles create "minimu
 
 ### Roles in DAO [Governance](data/concepts/governance.md)
 
-In DAO governance systems, roles provide specialized functions that distribute [decision-making](archive/clarity/Tags/decision-making.md) authority and operational responsibilities across the network. Rather than concentrating [power](data/concepts/power.md) in management hierarchies, DAOs typically implement constellations of roles with specific domains of authority and accountability.
+In DAO governance systems, roles provide specialized functions that distribute [decision-making](data/concepts/decisions.md) authority and operational responsibilities across the network. Rather than concentrating [power](data/concepts/power.md) in management hierarchies, DAOs typically implement constellations of roles with specific domains of authority and accountability.
 
 These governance roles might include treasury signers who manage collective resources, facilitators who guide decision processes, delegates who represent stakeholder interests, or specialized domain experts who provide input on technical decisions. As described in various governance artifacts, these roles often operate within multi-scale systems where different responsibilities are handled at the appropriate level of the organization.
 

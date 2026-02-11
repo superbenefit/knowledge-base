@@ -1,5 +1,6 @@
 ---
 group: ics
+publish: false
 ---
 
 # How to Invite a New Member

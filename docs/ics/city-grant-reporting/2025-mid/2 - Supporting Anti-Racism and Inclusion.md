@@ -1,5 +1,6 @@
 ---
 group: ics
+publish: false
 ---
 
 # How has the project supported anti-racism anti-oppression, diversity, equity and inclusion?

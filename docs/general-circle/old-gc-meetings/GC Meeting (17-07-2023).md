@@ -3,6 +3,7 @@ group: general-circle
 tags:
   - meetings
 date: 2023-07-17
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 ## Attendees
@@ -21,7 +22,7 @@ date: 2023-07-17
 	- Olivia Chow - new mayor of Toronto - is very progressive and has been talking about solutions coming from the community
 	- could be a great opportunity for SB to roll out a bunch of different projects with the City of Toronto
 	- tell the story of how we are implementing these practical things **on the ground** AND with governments of all levels
-- #[reimagining power](archive/clarity/Tags/reimagining%20power.md) 
+- #[reimagining power](docs/rpp/index.md) 
 	- OTF meeting July 13th - they have follow-up questions for Equality Fund and Reimagine Institute. Hopefully these conversations with Tracey can happen this week.
 	- Funding Question - how can Reimagine Institute transfer funds to the project and receive documentation to satisfy their funder
 		- Idea: Have a proposal and on-chain payment

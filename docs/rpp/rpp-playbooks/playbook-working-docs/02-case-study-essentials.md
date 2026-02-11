@@ -1,5 +1,8 @@
 ---
 group: rpp
+type: note
+title: Case Study Essentials
+publish: false
 ---
 
 # Case Study Essentials

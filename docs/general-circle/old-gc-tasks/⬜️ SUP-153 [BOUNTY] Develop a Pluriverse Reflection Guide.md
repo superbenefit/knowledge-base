@@ -2,6 +2,7 @@
 group: general-circle
 tags:
   - tasks
+publish: false
 ---
 ## Background
 The Pluriverse artifact at pluriverse.world - and the movement that is gathering around it - represents an opportunity to shape the values of web3 and of future human society. The pluriverse text could be a great conversation/reflection prompt for a 30-60 minute session in any DAO/discord/group involved in web3. 
@@ -16,4 +17,4 @@ We can come up with a simple facilitation guide and worksheet help people host t
 - Estimated effort: 4-6 hours
 - Bounty Reward: 100 $SPRB
 - Due date: February 7, 2022
-- Reporting to @heenal as part of #[information squad](archive/clarity/Tags/information%20squad.md) 
+- Reporting to @heenal as part of #information squad 

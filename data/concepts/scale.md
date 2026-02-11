@@ -21,18 +21,18 @@ In decentralized contexts, scale takes on particular importance as organizations
 
 ## Uses of "Scale"
 
-### Scale in the [DAO Primitives framework](../[primitives-framework-concepts](artifacts/primitives-framework/concepts/primitives-framework-concepts.md)ts/primitives-framework/primitives-framework-concepts.md) identifies three fundamental scales at which groups operate, each with distinct coordination patterns and governance requirements:
+### Scale in the [DAO Primitives framework](../[primitives-framework-concepts](docs/dao-primitives/primitives-framework/concepts/index.md)ts/primitives-framework/primitives-framework-concepts.md) identifies three fundamental scales at which groups operate, each with distinct coordination patterns and governance requirements:
 
 1. **Collaboration Scale**: Small teams of 3-8 people working closely together through high-bandwidth, synchronous interaction. At this scale, coordination happens primarily through direct relationships, shared context, and continuous communication. As the framework explains, these intimate groups enable "ongoing conversation, presence, trust and commitment" that create the foundation for effective collaboration without requiring formal governance structures.
     
-2. **Coordination Scale**: Networks of 10-150 people coordinating across functions and teams. This scale corresponds roughly to Dunbar's Number - the cognitive limit to the number of people with whom one can maintain stable social relationships. At coordination scale, groups require more structured approaches including documented agreements, transparent progress tracking, and clear interfaces between teams. As described in [Building DAOs as scalable networks](../artifacts/dao-primitives-framework/network-evolution/Building DAOs as scalable networks.md), this often involves "sociocratic structures" where autonomous cells coordinate through defined protocols and regular touchpoints.
+2. **Coordination Scale**: Networks of 10-150 people coordinating across functions and teams. This scale corresponds roughly to Dunbar's Number - the cognitive limit to the number of people with whom one can maintain stable social relationships. At coordination scale, groups require more structured approaches including documented agreements, transparent progress tracking, and clear interfaces between teams. As described in [Building DAOs as scalable networks](../docs/dao-primitives/articles/Building DAOs as scalable networks.md), this often involves "sociocratic structures" where autonomous cells coordinate through defined protocols and regular touchpoints.
     
 3. **Constituency Scale**: Large communities of hundreds to thousands of stakeholders participating through representative mechanisms and broad participation frameworks. At this scale, direct coordination between all participants becomes impractical, requiring governance systems that can aggregate diverse perspectives into coherent decisions while maintaining legitimacy and inclusion. These systems often employ mechanisms like conviction voting, delegation, and optimistic governance to balance participation with efficiency.
     
 
 ### Scale and Scaling Dynamics
 
-In [Scale and the levers that provide DAOs their power](../artifacts/dao-primitives-framework/network-evolution/Scale and the levers that provide DAOs their power.md), two fundamental scaling dynamics are identified that shape how systems grow and evolve:
+In [Scale and the levers that provide DAOs their power](../docs/dao-primitives/articles/Scale and the levers that provide DAOs their power.md), two fundamental scaling dynamics are identified that shape how systems grow and evolve:
 
 1. **Sub-linear scaling** through fractal hierarchies creates increasing efficiency as networks grow. This pattern, observed in biological systems and infrastructure networks, enables what the article calls "Dynamic One" - the capacity to achieve economies of scale through structured organization. Traditional companies excel at this form of scaling through management hierarchies and standardized processes.
     
@@ -49,4 +49,4 @@ The article argues that DAOs, when properly designed, can uniquely combine both 
 - **Cells**: Autonomous teams that form the building blocks of multi-scale networks
 - **[Agreements](data/concepts/agreements.md)**: The shared understandings that connect activities across sca[index](docs/dao-primitives/primitives-framework/concepts/index.md) fundamental scaling dynamics in organizational systems
 - Building DAOs as scalable networks: Proposes multi-scale governance approaches for decentralized organizations
-- [primitives-framework-concepts](artifacts/primitives-framework/primitives-framework-concepts.md): Provides detailed analysis of different group scales and their characteristics
+- [primitives-framework-concepts](docs/dao-primitives/primitives-framework/concepts/index.md): Provides detailed analysis of different group scales and their characteristics

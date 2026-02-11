@@ -1,8 +1,9 @@
 ---
 group: general-circle
+publish: false
 ---
 
-#[governance conversations](archive/clarity/Tags/governance%20conversations.md) #[223 Proposal 4- Initiate the Governance Conversations project (Rev 1)](223%20Proposal%204-%20Initiate%20the%20Governance%20Conversations%20project%20(Rev%201)) 
+#governance conversations #[223 Proposal 4- Initiate the Governance Conversations project (Rev 1)](223%20Proposal%204-%20Initiate%20the%20Governance%20Conversations%20project%20(Rev%201)) 
 
 
 # Governance Conversations Project - 12 April 2022

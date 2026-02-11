@@ -3,6 +3,7 @@ group: general-circle
 tags:
   - meetings
 date: 2022-02-14
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 # Week of February 14, 2022
@@ -77,7 +78,7 @@ What's your capacity for SB in the coming week?
 	- #[157 Add mini community survey to Discord welcome message](157%20Add%20mini%20community%20survey%20to%20Discord%20welcome%20message)
 		- Might defer the survey in fact, but would still very much like to tweak the Onboarding flow before the crowdfund launch
 - Blockers:
-	- Need to connect with #[operations squad](archive/clarity/Tags/operations%20squad.md) re Discord flow. 
+	- Need to connect with #operations squad re Discord flow. 
 
 #[23 Community Experience Project](23%20Community%20Experience%20Project) @MBaldwin 
 - Last week: 
@@ -94,7 +95,7 @@ What's your capacity for SB in the coming week?
 - Blockers:
 	- Tech support for Townhall (music, recording) - can @Ryan  or Kai help?
 
-#[discovery and sense-making squad](archive/clarity/Tags/discovery%20and%20sense-making%20squad.md) @AlexH 
+#discovery and sense-making squad @AlexH 
 - Last week
 	- Final iteration of ToC 
 - This week

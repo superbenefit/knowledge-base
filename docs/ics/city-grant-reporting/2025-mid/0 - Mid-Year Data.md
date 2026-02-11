@@ -1,5 +1,6 @@
 ---
 group: ics
+publish: false
 ---
 
 # City Grant Reporting - Mid-Year Data (2025)

@@ -2,6 +2,7 @@
 group: general-circle
 tags:
   - tasks
+publish: false
 ---
 ## Session 1 planning
 - What is systems transformation?

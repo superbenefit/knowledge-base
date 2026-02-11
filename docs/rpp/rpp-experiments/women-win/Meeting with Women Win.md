@@ -1,8 +1,12 @@
 ---
 group: rpp
+type: note
+title: Meeting With Women Win
+publish: false
+---
+
 - Review [draft presentation](https://app.box.com/file/1806955955949) before Nicole presents it to leadership team
 - Discuss future collaboration and next steps
----
 
 # Decision Log
 

@@ -1,5 +1,8 @@
 ---
 group: rpp
+type: index
+title: Equality Fund
+publish: false
 ---
 
 # equality-fund
@@ -21,10 +24,10 @@ The Equality Fund is exploring innovative governance models for feminist funding
 - Ensuring diverse voices are heard and valued
 
 ## SuperBenefit Patterns Applied
-- [Participatory Governance](data/concepts/participatory-governance.md) for inclusive decision-making
+- [Participatory Governance](data/resources/patterns/participatory-governance.md) for inclusive decision-making
 - DisCo pattern for distributed cooperative structures
-- [Local Nodes](data/concepts/local-nodes.md) for regional representation
-- [Impact Attestations](data/concepts/impact-attestations.md) for tracking social outcomes
+- [Local Nodes](data/resources/patterns/local-nodes.md) for regional representation
+- [Impact Attestations](data/resources/patterns/impact-attestations.md) for tracking social outcomes
 
 ## Outcomes & Learnings
 - Successfully designed a multi-stakeholder governance model

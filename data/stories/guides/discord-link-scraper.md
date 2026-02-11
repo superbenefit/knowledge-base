@@ -474,7 +474,7 @@ if channel.name in target_channels:
 ## Related Concepts
 
 - [Tools](tags/tools.md) - Technical utilities for coordination work
-- [Discord](archive/clarity/Tags/discord.md) - Platform where links are scraped
+- Discord - Platform where links are scraped
 - [Documentation](tags/documentation.md) - Capturing community resources
 - [Community](data/concepts/community.md) - Context for tool usage
 - [Knowledge Management](tags/knowledge-management.md) - Organizing collected resources

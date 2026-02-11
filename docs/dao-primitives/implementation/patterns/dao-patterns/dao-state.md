@@ -141,9 +141,9 @@ AND (
 ## Related Concepts
 
 - [Governance](data/concepts/governance.md) - Decision-making frameworks that DAO State documents
-- [Cell State](artifacts/patterns/cell-state.md) - Pattern for documenting team state (similar approach at team scale)
+- [Cell State](data/resources/patterns/cell-state.md) - Pattern for documenting team state (similar approach at team scale)
 - [Nucleus](docs/dao-primitives/implementation/patterns/collaboration-scale-patterns/nucleus.md) - Primitive for state tracking at team level
 - [DAOs](data/concepts/daos.md) - Organizations that maintain DAO State
 - [Coordination](data/concepts/coordination.md) - DAO State enables coordination through transparency
-- [Community Governance](artifacts/patterns/community-governance.md) - Constituency-scale governance that DAO State supports
+- [Community Governance](data/resources/patterns/community-governance.md) - Constituency-scale governance that DAO State supports
 - [Primitives](data/concepts/primitives.md) - Building blocks for governance systems

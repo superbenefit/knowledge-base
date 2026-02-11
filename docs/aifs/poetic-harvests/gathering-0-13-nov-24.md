@@ -4,6 +4,7 @@ title: AIFS Gathering 0 - 13 Nov 24
 tags:
   - aifs
   - poetic-harvest
+publish: false
 ---
 
 # AIFS Gathering 0 - 13 Nov 24

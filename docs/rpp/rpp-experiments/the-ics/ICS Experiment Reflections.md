@@ -1,5 +1,8 @@
 ---
 group: rpp
+type: note
+title: ICS Experiment Reflection
+publish: false
 ---
 
 # ICS Experiment Reflection

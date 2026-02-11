@@ -1,5 +1,8 @@
 ---
 group: dao-primitives
+type: guide
+title: Conflict Response Plan Template
+publish: false
 ---
 
 

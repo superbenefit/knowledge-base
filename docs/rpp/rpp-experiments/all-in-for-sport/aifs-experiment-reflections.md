@@ -1,5 +1,8 @@
 ---
 group: rpp
+type: note
+title: All In For Sport Experiment Reflections
+publish: false
 ---
 
 # All In For Sport Experiment Reflections

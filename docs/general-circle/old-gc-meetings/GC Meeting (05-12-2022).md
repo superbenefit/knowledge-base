@@ -3,6 +3,7 @@ group: general-circle
 tags:
   - meetings
 date: 2022-12-05
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 ## Attendees
@@ -55,7 +56,7 @@ date: 2022-12-05
 			- Note to Northpine and OTF
 		- Blockers:
 			- How to support SuperBenefit contributors 
-	- Project - #[dao primitives](archive/clarity/Tags/dao%20primitives.md) 
+	- Project - #[dao primitives](docs/dao-primitives/index.md) 
 		- Governance design for AIFS coming together 
 			- Implementing the cell model in simple form
 			- Conversations with Gitcoin grants

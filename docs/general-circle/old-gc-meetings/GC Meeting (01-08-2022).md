@@ -3,10 +3,11 @@ group: general-circle
 tags:
   - meetings
 date: 2022-08-01
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 # Week of August 1, 2022
-#[tactical meetings](archive/clarity/Tags/tactical%20meetings.md) 
+#tactical meetings 
 
 ## Attendees
 - Ayusha, Heenal, Michael, Michelle, Rowan
@@ -16,7 +17,7 @@ date: 2022-08-01
 
 
 ## Projects
-- Project name/link - #[dao primitives](archive/clarity/Tags/dao%20primitives.md) 
+- Project name/link - #[dao primitives](docs/dao-primitives/index.md) 
 	- Last week: 
 		- Conversation with Catalyst 2030 group + follow up with Steve
 		- Research with Ananth continuing - [https://app.clarity.so/superbenefit/group/GR/notes](https://app.clarity.so/superbenefit/group/GR/notes) 
@@ -48,7 +49,7 @@ date: 2022-08-01
 	- This week: reinitiating getting this going
 - Other (Lewwwk)
 	- Building efficiency labelling NFT (residential)
-- Project name/link: #[governance conversations](archive/clarity/Tags/governance%20conversations.md) 
+- Project name/link: #governance conversations 
 	- Last week:
 		- token allocation draft
 		- email to contributors

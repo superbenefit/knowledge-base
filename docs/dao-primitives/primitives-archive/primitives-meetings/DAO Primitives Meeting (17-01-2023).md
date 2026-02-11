@@ -263,7 +263,7 @@ source: "[2022-04-19 - Weekly Meeting Notes - DAO Primitives](docs/dao-primitive
 	1. Review [cell founding doc](https://app.clarity.so/superbenefit/notes/ec753aec-320d-413a-9f80-39b9ca9fe064)
 	2. Review and approve setting up on multi-sig (Rowan)
 	3. ⬜️ SUP-240 Look into setting up a recurring weekly meeting template on Clarity
-	4. Connecting the dots with the #[governance conversations](archive/clarity/Tags/governance%20conversations.md) project (Heenal)
+	4. Connecting the dots with the #governance conversations project (Heenal)
 		- Rowan could be a part of the 3 panels
 		- Waiting for Alex to develop framing/invitation to see what points of connection there may between the projects
 	5. How to engage others in the project? (Michelle)

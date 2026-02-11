@@ -1,5 +1,8 @@
 ---
 group: rpp
+type: note
+title: Stakeholder Meeting 1 Notes
+publish: false
 ---
 
 Orgs are hamstrung

@@ -25,7 +25,7 @@ While "distributed" and "decentralized" are often used interchangeably, they add
 
 **Distributed** primarily concerns the **physical or logical arrangement** of resources, components, and processes. It addresses questions of location, resource allocation, and operational distribution: *Where* are things located? *How* are resources spread across participants? *What* capabilities exist at different nodes in the network?
 
-**Decentralized** primarily concerns the **control and authority structure** within systems. It addresses questions of [power](data/concepts/power.md), [decision-making](archive/clarity/Tags/decision-making.md), and [governance](data/concepts/governance.md): *Who* has authority to make decisions? *How* is control distributed or concentrated? *What* mechanisms exist for collective coordination without central control?
+**Decentralized** primarily concerns the **control and authority structure** within systems. It addresses questions of [power](data/concepts/power.md), [decision-making](data/concepts/decisions.md), and [governance](data/concepts/governance.md): *Who* has authority to make decisions? *How* is control distributed or concentrated? *What* mechanisms exist for collective coordination without central control?
 
 These concepts can be combined in various ways:
 

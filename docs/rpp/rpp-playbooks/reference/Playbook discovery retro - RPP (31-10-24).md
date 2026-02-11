@@ -1,7 +1,10 @@
 ---
 group: rpp
+type: note
+title: Playbook Discovery Retro RPP (31 10 24)
 tags:
   - playbooks
+publish: false
 ---
 # Meeting Agenda
 

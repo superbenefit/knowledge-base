@@ -18,6 +18,7 @@ Weekly meeting agenda & notes for the WREEP web3 core team.
   -  
 
 date: 2025-03-19
+publish: false
 ---
 
 # Decision Log

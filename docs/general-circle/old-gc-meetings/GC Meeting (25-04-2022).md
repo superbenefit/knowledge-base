@@ -3,10 +3,11 @@ group: general-circle
 tags:
   - meetings
 date: 2022-04-25
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 # Week of April 25, 2022
-#[tactical meetings](archive/clarity/Tags/tactical%20meetings.md) Template
+#tactical meetings Template
 
 ## Attendees
 @heenal @MBaldwin @Lewwwk @Rowan  
@@ -37,7 +38,7 @@ date: 2022-04-25
 	- in discussion with krause house on TOC collaboration proposal
 	- Pluriverse/SuperBenefit CCS session happening on Thursday: [https://bit.ly/ccszoom](https://bit.ly/ccszoom) - 12-2 pm EST
 		- "If you're not confused, you're not doing this right"
-- #[governance conversations](archive/clarity/Tags/governance%20conversations.md) (HR)
+- #governance conversations (HR)
 	- Last week: Developed framing for convos
 	- This week: Develop invitations
 - #[[BOUNTY]([BOUNTY) 

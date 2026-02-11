@@ -47,7 +47,7 @@ This operational governance approach is appropriate when:
 - Traditional hierarchical management doesn't fit your values or organizational needs
 
 **Scale Requirements:**
-- Your operations involve 10-150 active contributors across multiple teams or [Cells](data/concepts/cells.md)
+- Your operations involve 10-150 active contributors across multiple teams or [Cells](data/resources/patterns/cells.md)
 - Work requires [coordination](data/concepts/coordination.md) across parallel streams that can't all operate independently
 - Operations are complex enough to benefit from specialized teams with defined [roles](data/concepts/roles.md)
 - Scale is beyond what a single collaboration-scale team can handle
@@ -259,7 +259,7 @@ There are many ways that you can use the [DAO primitives](docs/dao-primitives/pr
    - Allow more or less autonomy based on specific operational needs
    - Balance unlocks the dynamics and system properties listed earlier
 
-See [index](artifacts/misc/patterns/index.md) for different approaches to building operational structures with the DAO Primitives.
+See [index](data/resources/patterns/index.md) for different approaches to building operational structures with the DAO Primitives.
 
 #### Activity: Community-Operational Boundary Design
 

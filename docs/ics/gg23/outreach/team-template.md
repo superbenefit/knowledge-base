@@ -1,5 +1,6 @@
 ---
 group: ics
+publish: false
 ---
 
 # Team Mobilization for GG23 Campaign

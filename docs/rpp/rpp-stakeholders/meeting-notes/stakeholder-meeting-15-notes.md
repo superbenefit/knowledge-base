@@ -1,5 +1,8 @@
 ---
 group: rpp
+type: note
+title: Stakeholder Meeting 15 Notes
+publish: false
 ---
 
 Reimagining Power Project Updates

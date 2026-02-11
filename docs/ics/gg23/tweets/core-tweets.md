@@ -1,5 +1,6 @@
 ---
 group: ics
+publish: false
 ---
 
 # Core Tweet Templates for GG23 Campaign

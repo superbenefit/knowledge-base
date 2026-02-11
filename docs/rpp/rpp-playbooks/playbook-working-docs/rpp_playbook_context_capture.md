@@ -1,7 +1,10 @@
 ---
 group: rpp
+type: note
+title: DAO Cell and Community Governance Playbook - Context Capture
 tags:
   - playbooks
+publish: false
 ---
 # DAO Cell and Community Governance Playbook - Context Capture
 

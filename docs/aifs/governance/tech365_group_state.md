@@ -1,5 +1,6 @@
 ---
 group: aifs
+publish: false
 ---
 
 # All In For Sport Consortium: Group State

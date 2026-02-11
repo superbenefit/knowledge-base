@@ -1,5 +1,8 @@
 ---
 group: rpp
+type: note
+title: Implementation Path: Adaptive Evolution
+publish: false
 ---
 
 # Implementation Path: Adaptive Evolution

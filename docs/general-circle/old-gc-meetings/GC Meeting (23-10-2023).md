@@ -3,6 +3,7 @@ group: general-circle
 tags:
   - meetings
 date: 2023-10-23
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 # 10/23/23
@@ -21,7 +22,7 @@ date: 2023-10-23
 		- will need resources from above (onboarding blockscience) to invite community
 		- next up is digging into community incentive model and rallying community grant fund
 	- Contracting just waiting for signify
-- #[community experience squad](archive/clarity/Tags/community%20experience%20squad.md) 
+- #community experience squad 
 	- Tidying up on Discord channels, welcome message, FAQ
 	- Conversation with Aditi, thinking about onboarding into the space and into SB.
 		- A podcast list could be helpful.

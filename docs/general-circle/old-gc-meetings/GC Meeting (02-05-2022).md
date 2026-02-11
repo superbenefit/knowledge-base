@@ -3,10 +3,11 @@ group: general-circle
 tags:
   - meetings
 date: 2022-05-02
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 # Week of May 2, 2022
-#[tactical meetings](archive/clarity/Tags/tactical%20meetings.md) Template
+#tactical meetings Template
 
 ## Attendees - @ayusha01 @MBaldwin @heenal @Lewwwk @Rowan  
 ## Checkin
@@ -36,7 +37,7 @@ date: 2022-05-02
 			- Refining research approach - 
 		- This week
 	- Blockers:
-- #[information squad](archive/clarity/Tags/information%20squad.md) 
+- #information squad 
 	- Last week:
 		- Fixed missing "medium" field in the web3 Library! Learned about Notion in the process :)
 		- Working on Krause House and Football XYZ Notion Dashboard

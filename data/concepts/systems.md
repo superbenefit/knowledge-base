@@ -29,7 +29,7 @@ As explored in Building [DAOs](data/concepts/daos.md) as scalable networks, effe
 
 ### Systems in Web3 and DAOs
 
-In the web3 context, systems often take the form of decentralized protocols and governance frameworks that enable coordination without centralized control. [DAOs aren't things... they are flows](../artifacts/dao-primitives-framework/network-evolution/DAOs aren't things... they are flows..md) reframes DAOs as "centerless networks with coordinated flows of resources" rather than traditional organizations, emphasizing their nature as complex adaptive systems.
+In the web3 context, systems often take the form of decentralized protocols and governance frameworks that enable coordination without centralized control. [DAOs aren't things... they are flows](../docs/dao-primitives/articles/DAOs aren't things... they are flows..md) reframes DAOs as "centerless networks with coordinated flows of resources" rather than traditional organizations, emphasizing their nature as complex adaptive systems.
 
 These decentralized systems harness both technical infrastructure (blockchains, smart contracts, token systems) and social coordination mechanisms to achieve both efficiency and innovation. As described in Scale and the levers that provide DAOs their [power](data/concepts/power.md), this enables them to function more like cities than companies - capable of simultaneously becoming more efficient through scaling infrastructure while generating increasing innovation through social network effects.
 

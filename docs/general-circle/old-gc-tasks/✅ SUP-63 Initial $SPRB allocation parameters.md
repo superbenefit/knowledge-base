@@ -2,13 +2,14 @@
 group: general-circle
 tags:
   - tasks
+publish: false
 ---
- #[SPRB](SPRB) will be an ERC20 governance token for the SuperBenefit DAO. It should enable the DAO to recognize contributions by allocating $SPRB and will be used in voting on #[governance proposals](archive/clarity/Tags/governance%20proposals.md). It should have an ample treasury that allows the DAO to continue rewarding new contributors, form partnerships, and whatever other arrangements might be necessary in the future.
+ #[SPRB](SPRB) will be an ERC20 governance token for the SuperBenefit DAO. It should enable the DAO to recognize contributions by allocating $SPRB and will be used in voting on #governance proposals. It should have an ample treasury that allows the DAO to continue rewarding new contributors, form partnerships, and whatever other arrangements might be necessary in the future.
 The initial allocation of 10,000,000 (fixed supply) is proposed as follows (note, the following allocations can be changed at any time prior to distribution of tokens from that allocation. These are just notional): 
 - 20% to initial contributors through Revolution 0 (covers effort through the crowdfund and launch of #[Membership NFT](Membership%20NFT))
 - Up to 10% to crowdfund and membership token contributions. This is set as a proportionately low number relative to the effort contributed by initial contributors.
-	- Note crowdfund proceeds are held in treasury. At this point, treasury will include $ETH and #[$sprb](/notes/archive/clarity/Tags/$sprb.md), both of which can be used to recognize contributions according to contributor needs and preferences.
-- 10% to Revolution 1 contributors (takes us through the #[SUPERB](SUPERB) launch). This reflects additional effort required to launch #[$superb](archive/clarity/Tags/$superb.md) and the Institutional NFT as well as support the ongoing activity of the #[squads](archive/clarity/Tags/squads.md). 
+	- Note crowdfund proceeds are held in treasury. At this point, treasury will include $ETH and #$sprb, both of which can be used to recognize contributions according to contributor needs and preferences.
+- 10% to Revolution 1 contributors (takes us through the #[SUPERB](SUPERB) launch). This reflects additional effort required to launch #$superb and the Institutional NFT as well as support the ongoing activity of the #squads. 
 - LAUNCH $SUPERB
 - Community Treasury (illustration purposes only - allocations TBD over time by community)
 	- Future contributions 25% 

@@ -2,6 +2,7 @@
 group: wp
 tags:
   - meetings
+publish: false
 ---
 
 
@@ -455,7 +456,7 @@ tags:
 	-  
 	- **Regrets:** 
 - ## **Updates**
-	- #[dao primitives](archive/clarity/Tags/dao%20primitives.md) will steward development of #[G-294 Internal Coordination Functions](G-294%20Internal%20Coordination%20Functions) for SB cells, including EEP
+	- #[dao primitives](docs/dao-primitives/index.md) will steward development of #[G-294 Internal Coordination Functions](G-294%20Internal%20Coordination%20Functions) for SB cells, including EEP
 	-  Key reputation metrics listed in Governance Implementations - EEP 
 	- GitHub org created here: [superbenefit/sourcecred (github.com)](https://github.com/superbenefit/sourcecred) 
 	- Agreement with BS in place. Windfall will contract with them directly. This leaves 20k to fund the project through SB

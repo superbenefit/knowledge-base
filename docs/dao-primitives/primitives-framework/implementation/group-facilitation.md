@@ -179,7 +179,7 @@ For small teams with a clear mandate, this requirements mapping can often be com
 
 #### 1. Choose a Governance Approach
 
-Based on the articulated [purpose](data/concepts/purpose.md) and mapped requirements, the design team must narrow in on a particular [governance](data/concepts/governance.md) approach from the many available options for decentralized governance. The [data/concepts/community-governance](data/concepts/community-governance.md) pattern outlines several approaches worth considering, but the choice will depend on multiple factors including the specific needs of the group, the nature of their work, and the structure and culture of existing [networks](data/concepts/networks.md) they coordinate with.
+Based on the articulated [purpose](data/concepts/purpose.md) and mapped requirements, the design team must narrow in on a particular [governance](data/concepts/governance.md) approach from the many available options for decentralized governance. The [Community Governance](data/resources/patterns/community-governance.md) pattern outlines several approaches worth considering, but the choice will depend on multiple factors including the specific needs of the group, the nature of their work, and the structure and culture of existing [networks](data/concepts/networks.md) they coordinate with.
 
 The discovery phase should have surfaced key insights into what qualities the group wants from its governance approach—whether they prioritize maximally decentralized [decision-making](data/concepts/decisions.md), trust and capture resistance, technical sophistication, or other values. These insights become crucial selection criteria when evaluating governance options.
 
@@ -194,7 +194,7 @@ The Primitives Framework provides four basic organizational patterns that offer 
 Using organizational patterns as building blocks:
 
 - **[DAOs](data/concepts/daos.md)**: Entity structure for purpose-aligned [networks](data/concepts/networks.md)
-- **[Cells](data/concepts/cells.md)**: Entity structure for small autonomous teams
+- **[Cells](data/resources/patterns/cells.md)**: Entity structure for small autonomous teams
 - **[Roles](data/concepts/roles.md)**: Agreement pattern for ongoing [responsibilities](data/concepts/responsibilities.md) and permissions
 - **[Tasks](data/concepts/tasks.md)**: Agreement pattern for specific work deliverables
 
@@ -288,7 +288,7 @@ The implementation plan itself requires approval through appropriate [governance
 ### B. Specific Implementation Support
 
 - Detailed implementation [docs/dao-primitives/implementation/guides/index](docs/dao-primitives/implementation/guides/index.md) for each governance type
-- Pattern Library for specific solutions -  [index](artifacts/misc/patterns/index.md)
+- Pattern Library for specific solutions -  [index](data/resources/patterns/index.md)
 - Templates and tools within the implementation guides
 - - Facilitation support through SuperBenefit network
 

@@ -116,9 +116,9 @@ The framework guides you through a three-phase process:
 ### Organizational Patterns
 
 All patterns are documented in the [tags directory](tags/):
-- **Organizational patterns**: [DAOs](data/concepts/daos.md), [Cells](data/concepts/cells.md), [Roles](data/concepts/roles.md), [Tasks](data/concepts/tasks.md)
-- **Coordination patterns**: [Group State](docs/dao-primitives/primitives-framework/concepts/group-state.md), [Community Governance](data/concepts/community-governance.md), [Operational Governance](data/concepts/operational-governance.md)
-- **Cell patterns**: [Cell State](data/concepts/cell-state.md), [Decider Protocol](data/concepts/decider.md)
+- **Organizational patterns**: [DAOs](data/concepts/daos.md), [Cells](data/resources/patterns/cells.md), [Roles](data/concepts/roles.md), [Tasks](data/concepts/tasks.md)
+- **Coordination patterns**: [Group State](docs/dao-primitives/primitives-framework/concepts/group-state.md), [Community Governance](data/resources/patterns/community-governance.md), [Operational Governance](data/resources/patterns/operational-governance.md)
+- **Cell patterns**: [Cell State](data/resources/patterns/cell-state.md), [Decider Protocol](data/resources/patterns/decider.md)
 
 ### Implementation Resources
 

@@ -2,6 +2,7 @@
 group: general-circle
 tags:
   - tasks
+publish: false
 ---
 ## Background
 "One of the most interesting and relevant topics in the web3 space right now is how systemic resilience and collective governance is emerging and being developed right now. Diving into this feels like a perfect way to kick off SuperBenefit's Revolution 1." @Lewwwk 

@@ -242,5 +242,5 @@ Glo Dollar represents blockchain-themed traditional finance rather than transfor
 - [Primitives](data/concepts/primitives.md) - Smart contract primitives for funding mechanisms
 - [Governance](data/concepts/governance.md) - Community governance of tokenized funds
 - [Coordination](data/concepts/coordination.md) - Transparent coordination through onchain funding
-- [Fiscal Bridge Pattern](artifacts/patterns/fiscal-bridge-pattern.md) - Connecting traditional and tokenized funding
+- [Fiscal Bridge Pattern](data/resources/patterns/fiscal-bridge-pattern.md) - Connecting traditional and tokenized funding
 - [DeFi](data/concepts/defi.md) - Decentralized finance primitives for yield generation

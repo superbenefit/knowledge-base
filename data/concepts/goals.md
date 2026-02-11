@@ -10,7 +10,7 @@ aliases:
 publish: true
 ---
 
-_Goals are collectively defined objectives that orient [decision-making](archive/clarity/Tags/decision-making.md) and guide action toward specific, measurable outcomes while creating alignment between autonomous contributors and shared purpose._
+_Goals are collectively defined objectives that orient [decision-making](data/concepts/decisions.md) and guide action toward specific, measurable outcomes while creating alignment between autonomous contributors and shared purpose._
 
 Goals serve as coordinating mechanisms in [decentralized](data/concepts/decentralization.md) systems, providing direction without requiring centralized control. Unlike rigid commands or instructions, goals establish what needs to be achieved while leaving space for creativity and contextual adaptation in how the objectives are met. This balance enables both alignment with collective purpose and [autonomy](data/concepts/autonomy.md) in execution, making goals particularly valuable in networks where direct supervision is neither possible nor desirable.
 

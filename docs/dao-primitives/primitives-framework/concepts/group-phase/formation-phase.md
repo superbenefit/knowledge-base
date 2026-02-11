@@ -34,7 +34,7 @@ Your organization is likely in the Formation Phase if you observe:
 
 **Appropriate Structures:**
 - Basic role assignments (even if informal) to clarify who does what
-- Lightweight [cell state](data/concepts/cell-state.md) or nucleus document capturing purpose, practice, and initial plans
+- Lightweight [cell state](data/resources/patterns/cell-state.md) or nucleus document capturing purpose, practice, and initial plans
 - Simple proposal processes for making group [decisions](data/concepts/decisions.md)
 - Initial coordination tools (shared documents, regular meetings, communication channels)
 - Draft governance and operational designs ready for implementation
@@ -53,7 +53,7 @@ Your organization is likely in the Formation Phase if you observe:
 - **Purpose Definition:** The group works from the clear, specific purpose statement that emerged in the [conversation-phase](docs/dao-primitives/primitives-framework/concepts/group-phase/conversation-phase.md) phase. This defines its reason for existence and intended contribution to the broader network.
 - **Structured Decision-Making:** Simple but formal [decision](data/concepts/decisions.md) processes begin to replace purely informal consensus, enabling clearer accountability and execution.
 - **Initial Agreements:** Members make explicit commitments about participation, contributions, and shared expectations, establishing the basis for mutual accountability.
-- **Lightweight Documentation:** The group develops basic documentation of its purpose, practices, and progress through an initial [cell state](data/concepts/cell-state.md) or nucleus document.
+- **Lightweight Documentation:** The group develops basic documentation of its purpose, practices, and progress through an initial [cell state](data/resources/patterns/cell-state.md) or nucleus document.
 - **Resource Planning:** Initial budgets, timelines, and [resource](data/concepts/resources.md) needs are identified and documented to support formal proposals for funding or support.
 - **Minimal Role Definition:** Core roles and responsibilities emerge and are assigned, though these remain somewhat fluid and may evolve substantially.
 - **Team Formation:** The self-selected group solidifies into an identifiable team with shared commitments, moving beyond loose association.

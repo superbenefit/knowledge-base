@@ -1,5 +1,6 @@
 ---
 group: ics
+publish: false
 ---
 
 # ICS Voucher Backing Model

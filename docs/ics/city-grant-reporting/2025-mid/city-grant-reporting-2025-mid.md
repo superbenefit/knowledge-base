@@ -1,5 +1,6 @@
 ---
 group: ics
+publish: false
 ---
 
 # City of London Grant - Mid-Year Report 2025

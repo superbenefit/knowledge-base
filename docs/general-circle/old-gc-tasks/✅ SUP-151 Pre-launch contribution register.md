@@ -2,18 +2,19 @@
 group: general-circle
 tags:
   - tasks
+publish: false
 ---
 
 
 # Purpose
-This document is an opportunity for #[squad lead](archive/clarity/Tags/squad%20lead.md) contributors to highlight their contributions, and those of others, in order for #[squad lead](archive/clarity/Tags/squad%20lead.md) contributors to capture a sense of relative contribution during Revolution 0. We will use [Coordinape](http://coordinape.com) to facilitate this process and use the results in determining all or part of the final allocation of the remaining 800k Rev 0 contribution allocation. 
+This document is an opportunity for #squad lead contributors to highlight their contributions, and those of others, in order for #squad lead contributors to capture a sense of relative contribution during Revolution 0. We will use [Coordinape](http://coordinape.com) to facilitate this process and use the results in determining all or part of the final allocation of the remaining 800k Rev 0 contribution allocation. 
 # Process
 1. Review the contributions noted so far.
 2. Under your name, make note of any contributions you think others might consider in your determining allocation. In particular, think of contributions you have made to:
 	- The origin and creation of SuperBenefit
-	- Realizing the objectives of #[revolution 0- foundations](archive/clarity/Tags/revolution%200-%20foundations.md) 
-	- Furthering the SuperBenefit #[ethos](archive/clarity/Tags/ethos.md).
-3.  Feel free to note contributions of others, including others who are not #[squad lead](archive/clarity/Tags/squad%20lead.md) but you would like to recognize.
+	- Realizing the objectives of #revolution 0- foundations 
+	- Furthering the SuperBenefit #ethos.
+3.  Feel free to note contributions of others, including others who are not #squad lead but you would like to recognize.
 4. Message Lewwwk when you have completed your first pass on this document.
 5. Lewwwk will notify everyone to take a final review before the contribution allocation event.
 
@@ -34,12 +35,12 @@ This document is an opportunity for #[squad lead](archive/clarity/Tags/squad%20l
 - Developed creative brief and worked with artist to deliver first NFT art
 
 ## Heenal
-- #[information squad](archive/clarity/Tags/information%20squad.md) lead and contributor to #[community experience squad](archive/clarity/Tags/community%20experience%20squad.md) 
+- #information squad lead and contributor to #community experience squad 
 - Contributed to Seed Club application
 - Developed web3 library (building on Michelle's groundwork)
 - Developed v2 Community Resources site and created content for it (building on Lewwwk's foundations)
 - Created CRM System on Notion
-- Created #[tooling](archive/clarity/Tags/tooling.md) Guide
+- Created #tooling Guide
 - Co-hosted welcome parties and town halls
 - Some 1:1 meetings with SB community
 - Facilitated weekly CXI Tactical Meetings 
@@ -56,13 +57,13 @@ This document is an opportunity for #[squad lead](archive/clarity/Tags/squad%20l
 - Contributed core concepts to Olympus and SeedClub accelerator applications
 - Setup Clarity and iterated structure
 - Lead on crowdfund project
-- Co-author and source for superbenefit #[ethos](archive/clarity/Tags/ethos.md) 
+- Co-author and source for superbenefit #ethos 
 - First draft, co-author of crowdfund post
-- Core contributor on NFT concepts including membership NFT and corporate NFT (#[nft series](archive/clarity/Tags/nft%20series.md))
-- Core architect on #[$sprb](archive/clarity/Tags/$sprb.md) and #[$superb](archive/clarity/Tags/$superb.md) strategies
+- Core contributor on NFT concepts including membership NFT and corporate NFT (#nft series)
+- Core architect on #$sprb and #$superb strategies
 - Primary relationship holder with key participants in web3 ecosystem
-- Created #[$sprb](archive/clarity/Tags/$sprb.md), multi-sig, snapshot.org
-- #[squad lead](archive/clarity/Tags/squad%20lead.md) #[treasury squad](archive/clarity/Tags/treasury%20squad.md) and #[general circle](archive/clarity/Tags/general%20circle.md) 
+- Created #$sprb, multi-sig, snapshot.org
+- #squad lead #treasury squad and #general circle 
 
 ## MBaldwin
 - Brought in Heenal
@@ -73,15 +74,15 @@ This document is an opportunity for #[squad lead](archive/clarity/Tags/squad%20l
 - Weekly updates
 - Promote and follow up with SB community to offer feedback on theory of change 
 - 1:1 meetings with SB community
-- #Community Experience Squad Lead and contributor to #[information squad](archive/clarity/Tags/information%20squad.md) 
+- #Community Experience Squad Lead and contributor to #information squad 
 
 ## Remarkk
 - Established #[7 Governance Implementation](7%20Governance%20Implementation) 
 
 ## Rowan
-- #[resource flow squad](archive/clarity/Tags/resource%20flow%20squad.md) lead 
-- #[discovery and sense-making squad](archive/clarity/Tags/discovery%20and%20sense-making%20squad.md) contributor 
-- #[governance squad](archive/clarity/Tags/governance%20squad.md) contributor
+- #resource flow squad lead 
+- #discovery and sense-making squad contributor 
+- #governance squad contributor
 - Developed resource flow strategy
 - Collaborated on TOC development 
 - Planned and facilitated some of the weekly tactical meetings

@@ -10,6 +10,7 @@ group: aifs
 - AIFS to submit proposal to Chiliz
 
 date: 2025-05-30
+publish: false
 ---
 
 # Outline

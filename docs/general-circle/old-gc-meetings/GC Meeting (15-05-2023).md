@@ -3,6 +3,7 @@ group: general-circle
 tags:
   - meetings
 date: 2023-05-15
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 ## Attendees
@@ -31,7 +32,7 @@ date: 2023-05-15
 		- Briefing concept note for OTF meeting
 	- Blockers:
 
-Project - #[dao primitives](archive/clarity/Tags/dao%20primitives.md) 
+Project - #[dao primitives](docs/dao-primitives/index.md) 
 - Last week: 
 	- Possible Alternative visual design for DAO primitive cell added to figma [https://www.figma.com/file/G77aOdrUeg6494UrGHs47C/AIFS-Governance-Design?type=whiteboard](https://www.figma.com/file/G77aOdrUeg6494UrGHs47C/AIFS-Governance-Design?type=whiteboard)  -
 - This week:

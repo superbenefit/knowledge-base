@@ -3,6 +3,7 @@ group: general-circle
 tags:
   - meetings
 date: 2022-11-28
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 ## Attendees
@@ -49,7 +50,7 @@ date: 2022-11-28
 			- resources allocate capital and harnesses network intelligence and what are other resources 
 		- Meeting scheduled with @Lewwwk & OTF for Dec 5
 	- Blockers:
-- Project name #[dao primitives](archive/clarity/Tags/dao%20primitives.md) 
+- Project name #[dao primitives](docs/dao-primitives/index.md) 
 	- Working on set up for AIFS
 	- Governance proposal live 
 	- Ready to go with basic governance set up

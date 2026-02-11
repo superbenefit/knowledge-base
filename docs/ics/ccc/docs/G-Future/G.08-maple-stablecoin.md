@@ -1,5 +1,6 @@
 ---
 group: ics
+publish: false
 ---
 
 # $MAPLE: The Canadian Regenerative Value Token

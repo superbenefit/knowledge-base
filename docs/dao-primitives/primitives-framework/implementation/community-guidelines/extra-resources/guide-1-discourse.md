@@ -1,5 +1,8 @@
 ---
 group: dao-primitives
+type: guide
+title: Guide 1 Discourse
+publish: false
 ---
 
 ## Guide 1: Navigating Conflict Recognition and Discourse

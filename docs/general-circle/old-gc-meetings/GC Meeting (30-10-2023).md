@@ -3,6 +3,7 @@ group: general-circle
 tags:
   - meetings
 date: 2023-10-30
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 # 10/30/23
@@ -24,7 +25,7 @@ date: 2023-10-30
 	- Menzies Foundation - Nov 13 meeting as follow up to proposal
 - #[P-261 Windfall - Residential Energy NFT](P-261%20Windfall%20-%20Residential%20Energy%20NFT)
 	- Tonight: signing NDA, scope approved, and issuing invoice
-- #[community experience squad](archive/clarity/Tags/community%20experience%20squad.md) 
+- #community experience squad 
 	- [Discussing Pace & Information Asymmetry meeting](https://app.charmverse.io/superbenefit/discussing-pace-information-superbenefit-1810674152890046) - rather organized a convo 
 	- MB follow up @moreReese for one to one
 	- Michelle doing Nov 24 presentation to Innovation Theatre to European social innovation orgs on Shaping Emerging Technologies for Better Futures: The role of social innovation and philanthropy

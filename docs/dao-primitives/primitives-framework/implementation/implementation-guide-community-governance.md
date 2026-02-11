@@ -317,7 +317,7 @@ Most effective governance systems combine elements from multiple patterns, creat
 
 Create a comprehensive document outlining your governance structure, including:
 
-1. **Selected Patterns**: Which governance patterns you've chosen to incorporate a. You can select defined patterns from the SuperBenefit Knowledge Garden here [index](artifacts/misc/patterns/index.md)
+1. **Selected Patterns**: Which governance patterns you've chosen to incorporate a. You can select defined patterns from the SuperBenefit Knowledge Garden here [index](data/resources/patterns/index.md)
 2. **Core Components**: The specific primitives that will form your governance system
 3. **Decision Processes**: How different types of decisions will flow through governance
 4. **[Roles](data/concepts/roles.md) and [Responsibilities](data/concepts/responsibilities.md)**: Key functions within the governance system

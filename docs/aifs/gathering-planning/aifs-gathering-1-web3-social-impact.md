@@ -1,5 +1,6 @@
 ---
 group: aifs
+publish: false
 ---
 
 # AIFS Gathering #1: Web3 & Social Impact

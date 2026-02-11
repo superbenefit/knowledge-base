@@ -1,5 +1,8 @@
 ---
 group: dao-primitives
+type: index
+title: Extra Resources
+publish: false
 ---
 
 Four one-page guides for navigating conflict in peer-to-peer community contexts. Use these alongside your Conflict Response Plan.

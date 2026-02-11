@@ -16,7 +16,7 @@ _Coordination refers to the processes, mechanisms, and systems that enable diver
 
 Coordination represents one of the fundamental challenges of human organization - how to enable multiple autonomous actors to work together effectively without sacrificing their independence or requiring hierarchical command structures. Unlike traditional management approaches that rely on authority and control, effective coordination in decentralized systems emerges from shared purpose, transparent communication, and mutual adjustment based on available information.
 
-In web3 and DAO contexts, coordination takes on particular importance as these systems explicitly aim to distribute agency and decision-making while maintaining collective effectiveness. This creates the need for coordination mechanisms that can operate across different scales and contexts, from small collaborative teams to global networks of thousands. When successful, these mechanisms enable what [Scale and the levers that provide DAOs their power](../artifacts/dao-primitives-framework/network-evolution/Scale and the levers that provide DAOs their power.md) describes as "collective intelligence" - systems that can sense opportunities, allocate resources, and adapt to changing conditions more effectively than any individual agent could achieve alone.
+In web3 and DAO contexts, coordination takes on particular importance as these systems explicitly aim to distribute agency and decision-making while maintaining collective effectiveness. This creates the need for coordination mechanisms that can operate across different scales and contexts, from small collaborative teams to global networks of thousands. When successful, these mechanisms enable what [Scale and the levers that provide DAOs their power](../docs/dao-primitives/articles/Scale and the levers that provide DAOs their power.md) describes as "collective intelligence" - systems that can sense opportunities, allocate resources, and adapt to changing conditions more effectively than any individual agent could achieve alone.
 
 ---
 
@@ -26,7 +26,7 @@ In web3 and DAO contexts, coordination takes on particular importance as these s
 
 In web3 contexts, coordination often relies on protocols - standardized systems of rules and procedures that enable predictable interactions between autonomous agents. These protocols may be implemented through social agreements, technical mechanisms like smart contracts, or combinations of both.
 
-As described in [DAOs - From fractal primitives to network scale](../artifacts/dao-primitives-framework/network-evolution/DAOs - From fractal primitives to network scale..md)., effective protocols enable coordination to scale by providing "[primitives](data/concepts/primitives.md)" - foundational building blocks that can be combined and recombined to address different coordination needs. This modular approach allows coordination mechanisms to evolve and adapt while maintaining interoperability across the network.
+As described in [DAOs - From fractal primitives to network scale](../docs/dao-primitives/articles/DAOs - From fractal primitives to network scale..md)., effective protocols enable coordination to scale by providing "[primitives](data/concepts/primitives.md)" - foundational building blocks that can be combined and recombined to address different coordination needs. This modular approach allows coordination mechanisms to evolve and adapt while maintaining interoperability across the network.
 
 ### Coordination in Multi-Stakeholder Systems
 

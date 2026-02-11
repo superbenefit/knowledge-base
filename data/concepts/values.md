@@ -12,7 +12,7 @@ publish: true
 type: concept
 ---
 
-_Values are core principles and desired characteristics that guide [decision-making](archive/clarity/Tags/decision-making.md), system design, and operations, embodying the aspirations and ethical commitments that shape how organizations and networks function and evolve._
+_Values are core principles and desired characteristics that guide [decision-making](data/concepts/decisions.md), system design, and operations, embodying the aspirations and ethical commitments that shape how organizations and networks function and evolve._
 
 [Values](data/concepts/values.md) serve as both normative guidance and practical design considerations in [decentralized](data/concepts/decentralization.md) systems. They represent the fundamental principles that [community](data/concepts/community.md) commit to upholding while also describing the desired qualities that systems should embody. Unlike rigid rules, values provide flexible orientation points that help navigate trade-offs and resolve conflicts when concrete decisions must be made in complex or ambiguous situations.
 
@@ -28,7 +28,7 @@ During the formation phase of [DAOs](data/concepts/daos.md) and decentralized or
 
 Values in DAO governance often include principles like [transparency](data/concepts/transparency.md), decentralization, inclusivity, and accountability. These serve as both aspirational goals and practical design considerations. For example, the value of decentralization might guide decisions about permission structures, while transparency values shape information sharing protocols and documentation practices.
 
-As described in the [DAO Primitives framework](../artifacts/guides/dao-primitives-framework/index.md), values influence how qualities like [autonomy](data/concepts/autonomy.md), privacy, and sustainability are operationalized in specific contexts. They help bridge between abstract principles and concrete implementation choices, allowing teams to maintain coherence while adapting to their unique circumstances.
+As described in the [DAO Primitives framework](../docs/dao-primitives/primitives-framework/index.md), values influence how qualities like [autonomy](data/concepts/autonomy.md), privacy, and sustainability are operationalized in specific contexts. They help bridge between abstract principles and concrete implementation choices, allowing teams to maintain coherence while adapting to their unique circumstances.
 
 ### Values in Systems Transformation
 
@@ -56,7 +56,7 @@ While each community develops its own unique value set, several core values freq
 - **Autonomy**: Enabling self-determination at individual and group levels
 - **Transparency**: Making processes, decisions, and information openly accessible
 - **Decentralization**: Distributing power, control, and resources rather than concentrating them
-- **Privacy**: Protecting sensitive information and enabling confidential [participation](participation.md)
+- **Privacy**: Protecting sensitive information and enabling confidential [participation](data/concepts/participation.md)
 - **Sustainability**: Creating systems that can maintain themselves over time without extraction
 - **Inclusivity**: Enabling diverse participation regardless of background or resources
 - **Adaptability**: Building systems that can evolve in response to changing conditions

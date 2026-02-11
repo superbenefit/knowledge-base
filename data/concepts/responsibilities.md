@@ -65,7 +65,7 @@ Effective multi-stakeholder systems distribute responsibilities in ways that:
 
 - Align with stakeholder expertise and capacity
 - Create appropriate checks and balances
-- Enable [participation](participation.md) from diverse perspectives
+- Enable [participation](data/concepts/participation.md) from diverse perspectives
 - Ensure those affected by decisions have appropriate voice
 
 These responsibility distributions are formalized through governance agreements that specify which stakeholder groups have what responsibilities in relation to different organizational functions and decisions.

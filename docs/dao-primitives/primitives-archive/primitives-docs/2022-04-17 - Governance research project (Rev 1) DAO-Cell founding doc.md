@@ -2,7 +2,7 @@
 group: dao-primitives
 ---
 
-#[governance research](archive/clarity/Tags/governance%20research.md) 
+#governance research 
 
 
 # Governance research project (Rev 1) DAO-Cell founding doc

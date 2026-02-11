@@ -3,10 +3,11 @@ group: general-circle
 tags:
   - meetings
 date: 2022-05-30
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 # Week of May 30, 2022
-#[tactical meetings](archive/clarity/Tags/tactical%20meetings.md) Template
+#tactical meetings Template
 ## Attendees
 - 
 
@@ -18,7 +19,7 @@ date: 2022-05-30
 	- Last week: 
 	- This week:
 	- Blockers:
-- Project name/link #[governance conversations](archive/clarity/Tags/governance%20conversations.md) 
+- Project name/link #governance conversations 
 	- Last week: 
 		- promotions of Governance Convos
 		- confirmation of speakers
@@ -28,7 +29,7 @@ date: 2022-05-30
 		- confirmation of speakers for June 16 & 30
 		- listened to Twitter Spaces to see flow and set up
 	- Blockers:
-- Project name/link: #[superbenefit contributor guide - working draft](archive/clarity/Tags/superbenefit%20contributor%20guide%20-%20working%20draft.md)  
+- Project name/link: #superbenefit contributor guide - working draft  
 	- Last week: 
 		- additions to contributor guide
 		- full review at meeting and divided up remainder of sections

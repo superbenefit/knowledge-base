@@ -3,6 +3,7 @@ group: general-circle
 tags:
   - meetings
 date: 2022-01-03
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 # Week of January 3, 2022

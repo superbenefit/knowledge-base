@@ -29,7 +29,7 @@ In the context of organization and systems design, *modules* are configurable, s
 
 Modules allow for flexibility in designing organizational processes by enabling users to select and arrange different components to meet their needs. These components can operate independently or in combination with others, facilitating customization and scalability. In decentralized systems, such as those found in Web3, modules support interoperability and portability, allowing governance tools to be shared across different platforms and adapted to new contexts efficiently.
 
-### Modules in the [DAO Primitives framework](../artifacts/guides/dao-primitives-framework/index.md)
+### Modules in the [DAO Primitives framework](../docs/dao-primitives/primitives-framework/index.md)
 
 Within the [DAO Primitives Framework](data/concepts/primitives.md), modules represent the technical implementations of patterns and primitives. They serve as building blocks that operationalize governance concepts, connecting abstract principles to functional systems. The framework uses modules as the practical tools through which primitives (core concepts) and patterns (reusable solutions) are deployed in actual DAO contexts.
 

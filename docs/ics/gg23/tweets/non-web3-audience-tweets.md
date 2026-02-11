@@ -1,5 +1,6 @@
 ---
 group: ics
+publish: false
 ---
 
 # Enhanced Tweets for Non-Web3 Audiences

@@ -1,5 +1,8 @@
 ---
 group: rpp
+type: note
+title: RPP Playbook Creation Execution Strategy
+publish: false
 ---
 
 # RPP Playbook Creation Execution Strategy
@@ -80,9 +83,9 @@ Execute Phase 1 of the RPP Playbook Creation Strategy: Context and Content Found
 MANDATORY INITIAL RETRIEVAL - You MUST retrieve and thoroughly analyze ALL of the following before proceeding:
 
 Case Studies:
-- artifacts/studies/experiments/aifs-experiment-case-study.md
-- artifacts/studies/experiments/ics-experiment-case-study.md
-- artifacts/studies/experiments/equality-fund-experiment-case-study.md
+- docs/rpp/aifs-experiment-case-study.md
+- docs/rpp/ics-experiment-case-study.md
+- docs/rpp/equality-fund-experiment-case-study.md
 
 Context Documents:
 - tools/templates/playbook.md
@@ -176,14 +179,14 @@ Phase 1 Outputs:
 - playbook-working-docs/03-implementation-patterns.md
 
 All Case Studies:
-- artifacts/studies/experiments/aifs-experiment-case-study.md
-- artifacts/studies/experiments/ics-experiment-case-study.md
-- artifacts/studies/experiments/equality-fund-experiment-case-study.md
+- docs/rpp/aifs-experiment-case-study.md
+- docs/rpp/ics-experiment-case-study.md
+- docs/rpp/equality-fund-experiment-case-study.md
 
 Core Patterns:
-- artifacts/patterns/community-governance.md
-- artifacts/patterns/operational-governance.md
-- artifacts/patterns/gatherings.md
+- data/resources/patterns/community-governance.md
+- data/resources/patterns/operational-governance.md
+- data/resources/patterns/gatherings.md
 - Review notes/dao-primitives/implementation/patterns/collaboration-scale-patterns/
 
 Template:

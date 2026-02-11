@@ -3,10 +3,11 @@ group: general-circle
 tags:
   - meetings
 date: 2022-04-11
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 # Week of April 11, 2022
-## #[tactical meetings](archive/clarity/Tags/tactical%20meetings.md) Template
+## #tactical meetings Template
 
 ## Attendees
 - @heenal @Lewwwk @MBaldwin @Rowan  
@@ -40,7 +41,7 @@ date: 2022-04-11
 		- More feedback and post to SB community
 	- Blockers:
 		- May split up creating guide vs posting, engaging 
-- #[community experience squad](archive/clarity/Tags/community%20experience%20squad.md) 
+- #community experience squad 
 	- Last week: 
 		- Met with Ash - connecting into governance research/conversations 
 		- Weekly Update

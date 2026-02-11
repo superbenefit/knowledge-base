@@ -2,6 +2,7 @@
 group: general-circle
 tags:
   - tasks
+publish: false
 ---
 ## Objective 
 Launch our first NFT series in order to:

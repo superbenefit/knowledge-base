@@ -2,6 +2,7 @@
 group: general-circle
 tags:
   - tasks
+publish: false
 ---
 ## Resources
 - Link: [Workshop and Elective overview](https://docs.google.com/document/d/1LrV9qFWpQA9qfHQSZN08RIWaoATnFg-eGSU9PeXGrvA/edit)

@@ -3,6 +3,7 @@ group: general-circle
 tags:
   - meetings
 date: 2023-08-28
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 # **Date 28 Aug 2023**
@@ -33,11 +34,11 @@ f) Economic & Financial.
 	- #[P-193 Community Experience- Revolution 1](P-193%20Community%20Experience-%20Revolution%201)
 		- How could we capture the learnings and story of SuperBenefit and Reimagining Power?
 			- Someone could go through Discord and note the highlights and decisions and how thinking has evolved
-			- Maybe we could revisit the #[superbenefit contributor guide - v1](archive/clarity/Tags/superbenefit%20contributor%20guide%20-%20v1.md)and incirporate some storytelling  
+			- Maybe we could revisit the #superbenefit contributor guide - v1and incirporate some storytelling  
 			- Maybe we could capture audio from (non confidential) GC & Cell meetings and transcribe them and summarize/analyze the summaries
 	- Bankers without Boundaries
 		- Looking for a European partner
-	- #[all in for sport](archive/clarity/Tags/all%20in%20for%20sport.md) 
+	- #all in for sport 
 		- Meeting with Indigenous People's Resilience Fund (Bruce Miller & Joe Plant) and keen to learn about community governance - next step meeting with governance cell/follow up with Telegram/Discord links
 			- Q: How to explain "community governance"?
 				- How is nature and indigenous wisdom the foundation of this

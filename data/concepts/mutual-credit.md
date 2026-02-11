@@ -53,11 +53,11 @@ These systems can integrate with other Web3 applications and [decentralized](dat
 
 Mutual credit systems build community resilience by creating economic infrastructure that communities can control and maintain independently of external financial institutions. During economic crises, natural disasters, or other disruptions to conventional financial systems, mutual credit networks can continue facilitating essential exchanges and maintaining community economic activity.
 
-These systems embody principles of economic democracy by giving communities direct control over their exchange mechanisms rather than depending on distant institutions with different priorities. Mutual credit creates pathways for communities to develop economic self-determination while maintaining connections to broader economic systems, enabling both local resilience and wider [participation](participation.md) as communities choose.
+These systems embody principles of economic democracy by giving communities direct control over their exchange mechanisms rather than depending on distant institutions with different priorities. Mutual credit creates pathways for communities to develop economic self-determination while maintaining connections to broader economic systems, enabling both local resilience and wider [participation](data/concepts/participation.md) as communities choose.
 
 ## Mutual Credit and Cooperative Economics
 
-Mutual credit systems align closely with cooperative principles of democratic ownership, participatory governance, and equitable distribution of benefits. Like cooperatives, mutual credit systems distribute both economic benefits and [decision-making](archive/clarity/Tags/decision-making.md) [power](data/concepts/power.md) across participants rather than concentrating them in external owners or centralized authorities.
+Mutual credit systems align closely with cooperative principles of democratic ownership, participatory governance, and equitable distribution of benefits. Like cooperatives, mutual credit systems distribute both economic benefits and [decision-making](data/concepts/decisions.md) [power](data/concepts/power.md) across participants rather than concentrating them in external owners or centralized authorities.
 
 The governance structures of mutual credit systems often mirror cooperative democracy, with participants collectively establishing rules, resolving disputes, and adapting system parameters through democratic processes. This alignment makes mutual credit systems natural complements to cooperative enterprises, creating broader ecosystems of cooperative economic relationships that can support each other during challenges and amplify collective impact.
 

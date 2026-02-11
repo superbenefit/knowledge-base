@@ -233,7 +233,7 @@ For each high-level goal, identify concrete requirements across these dimensions
     - Reputation/legitimacy
     - Knowledge/information
 5. **Technical Considerations**: What technical factors shape the implementation options?
-    - [On-chain vs. off-chain](artifacts/dao-primitives-framework/network-evolution/Building DAOs as scalable networks.md#community-governance) processes
+    - [On-chain vs. off-chain](docs/dao-primitives/articles/Building DAOs as scalable networks.md#community-governance) processes
     - Available tooling
     - Technical capabilities of participants
     - Integration requirements
@@ -248,7 +248,7 @@ With clear purpose, goals, and requirements established, you can now design your
 
 Review common community governance patterns and select one or more that best match your requirements:
 
-1. **[Token-based governance](artifacts/dao-primitives-framework/network-evolution/Building DAOs as scalable networks.md#community-governance)**
+1. **[Token-based governance](docs/dao-primitives/articles/Building DAOs as scalable networks.md#community-governance)**
     - Description: Voting power distributed according to token holdings
     - Best For: Communities with clear tokenomic models, financial resource allocation
     - Key Primitives: Governance tokens, voting mechanisms, proposal systems
@@ -281,7 +281,7 @@ Review common community governance patterns and select one or more that best mat
 7. **Quadratic Governance**
     - Description: Influence scales with square root of resource contribution
     - Best For: Balancing individual influence with collective preference
-    - Key Primitives: [quadratic voting](artifacts/articles/governance-for-better-futures/Governance for better futures - Meta-governance.md#quadratic-voting), funding mechanisms, identity verification
+    - Key Primitives: [quadratic voting](data/links/governance-for-better-futures/Governance for better futures - Meta-governance.md#quadratic-voting), funding mechanisms, identity verification
     - Considerations: Requires sybil resistance and clear participation guidelines
 
 Most effective governance systems combine elements from multiple patterns, creating hybrid approaches tailored to specific community needs.
@@ -290,7 +290,7 @@ Most effective governance systems combine elements from multiple patterns, creat
 
 Create a comprehensive document outlining your governance structure, including:
 
-1. **Selected Patterns**: Which governance patterns you've chosen to incorporate a. You can select defined patterns from the SuperBenefit Knowledge Garden here [index](artifacts/misc/patterns/index.md)
+1. **Selected Patterns**: Which governance patterns you've chosen to incorporate a. You can select defined patterns from the SuperBenefit Knowledge Garden here [index](data/resources/patterns/index.md)
 2. **Core Components**: The specific primitives that will form your governance system
 3. **Decision Processes**: How different types of decisions will flow through governance
 4. **[Roles](data/concepts/roles.md) and [Responsibilities](data/concepts/responsibilities.md)**: Key functions within the governance system
@@ -466,7 +466,7 @@ Depending on your community's technical context, governance implementation may i
 
 #### Technical Considerations
 
-1. **[On-chain vs. off-chain governance](artifacts/dao-primitives-framework/network-evolution/Building DAOs as scalable networks.md#community-governance)**
+1. **[On-chain vs. off-chain governance](docs/dao-primitives/articles/Building DAOs as scalable networks.md#community-governance)**
     - Consider the larger design of your governance
     - Determine which governance elements require blockchain properties and which can be better done off-chain
     - Consider speed and costs involved in using on-chain tools
@@ -475,7 +475,7 @@ Depending on your community's technical context, governance implementation may i
     - Governance platforms (Snapshot, Tally, Commonwealth, etc.)
     - Communication tools (Discord, Discourse, Telegram, etc.)
     - Documentation systems (Charmverse, Notion, GitHub, etc.)
-    - Voting mechanisms ([token-based governance](artifacts/dao-primitives-framework/network-evolution/Building DAOs as scalable networks.md#community-governance), [quadratic voting](artifacts/articles/governance-for-better-futures/Governance for better futures - Meta-governance.md#quadratic-voting), reputation-based, etc.)
+    - Voting mechanisms ([token-based governance](docs/dao-primitives/articles/Building DAOs as scalable networks.md#community-governance), [quadratic voting](data/links/governance-for-better-futures/Governance for better futures - Meta-governance.md#quadratic-voting), reputation-based, etc.)
 3. **Implementation Approach**
     - Start with minimum viable governance tools as required by the phase of development
     - Create clear user guides, videos and other resources to support accessibility for all community members
@@ -577,8 +577,8 @@ May your governance implementation create the conditions for your community to t
 
 ## Related Concepts
 
-- [Community Governance](artifacts/patterns/community-governance.md) - Pattern for constituency-scale governance
-- [Operational Governance](artifacts/patterns/operational-governance.md) - Execution within community-set boundaries
+- [Community Governance](data/resources/patterns/community-governance.md) - Pattern for constituency-scale governance
+- [Operational Governance](data/resources/patterns/operational-governance.md) - Execution within community-set boundaries
 - [Multi-Stakeholder Governance](docs/dao-primitives/implementation/guides/governance/implementation-guide-multi-stakeholder-governance.md) - Managing stakeholder relationships
 - [Governance](data/concepts/governance.md) - Decision-making frameworks
 - [DAOs](data/concepts/daos.md) - Organizations using community governance

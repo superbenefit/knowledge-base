@@ -1,5 +1,8 @@
 ---
 group: dao-primitives
+type: guide
+title: Guide 4 Participation
+publish: false
 ---
 
 ## Guide 4: Participating in Mediation and Arbitration

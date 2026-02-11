@@ -1,5 +1,8 @@
 ---
 group: rpp
+type: note
+title: Pattern Validation Report
+publish: false
 ---
 
 # Pattern Validation Report
@@ -17,7 +20,7 @@ This report validates the pattern references in the playbook against actual patt
 ### ✅ Confirmed Patterns
 
 #### 1. Community Governance
-- **Location**: `artifacts/patterns/community-governance.md`
+- **Location**: `data/resources/patterns/community-governance.md`
 - **Status**: ✅ Exists and matches
 - **Validation**: 
   - Pattern file exists at specified location
@@ -26,7 +29,7 @@ This report validates the pattern references in the playbook against actual patt
   - Implementation complexity and prerequisites accurately represented
 
 #### 2. Operational Governance
-- **Location**: `artifacts/patterns/operational-governance.md`
+- **Location**: `data/resources/patterns/operational-governance.md`
 - **Status**: ✅ Exists and matches
 - **Validation**:
   - Pattern file exists at specified location
@@ -53,7 +56,7 @@ This report validates the pattern references in the playbook against actual patt
   - Equality Fund's identification of this as essential is accurate
 
 #### 5. Gatherings
-- **Location**: `artifacts/patterns/gatherings.md`
+- **Location**: `data/resources/patterns/gatherings.md`
 - **Status**: ✅ Exists and matches
 - **Validation**:
   - Pattern file exists at specified location

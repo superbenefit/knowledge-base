@@ -3,6 +3,7 @@ group: general-circle
 tags:
   - meetings
 date: 2022-10-17
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 # Week of October 17, 2022
@@ -30,7 +31,7 @@ date: 2022-10-17
 		- 
 	- Blockers:
 		- Looking for a use case panelist for Digital Barriers Summit - so far Jason Shim, Ontario Science Centre; Leila Toplic, Nethope; Krista Pawley, Wavemakers - any connections to artist or climate DAO that would go beyond "impact' DAO and more systems transformation focused 
-- #[proposal sbp11- dao systems transformation repository-library](archive/clarity/Tags/proposal%20sbp11-%20dao%20systems%20transformation%20repository-library.md) 
+- #proposal sbp11- dao systems transformation repository-library 
 	- Last week:
 		- Meeting @Rowan  @heenal  @MBaldwin about DAO primitive cell as structure for the project
 		- Proposal and edits to Crypto Culture and Society outline for workshop and elective - [web3 for better futures: transforming systems, sectors and institutions ](https://docs.google.com/document/d/1LrV9qFWpQA9qfHQSZN08RIWaoATnFg-eGSU9PeXGrvA/edit)
@@ -57,7 +58,7 @@ date: 2022-10-17
 		- Review Discord channels permissions
 		- Add current projects to Notion
 	- Blockers:
-- #[dao primitives](archive/clarity/Tags/dao%20primitives.md) 
+- #[dao primitives](docs/dao-primitives/index.md) 
 	- AIFS 
 	- Repository project 
 - #[P-236 Krause House Collaboration](P-236%20Krause%20House%20Collaboration)

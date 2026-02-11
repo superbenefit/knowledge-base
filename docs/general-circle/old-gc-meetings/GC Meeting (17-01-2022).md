@@ -3,6 +3,7 @@ group: general-circle
 tags:
   - meetings
 date: 2022-01-17
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 # Week of January 17, 2022
@@ -75,14 +76,14 @@ What's your capacity for SB in the coming week?
 
 #[9 General Circle Lead invites individuals into Squad Lead roles](9%20General%20Circle%20Lead%20invites%20individuals%20into%20Squad%20Lead%20roles) 
 - Last week: 
-	- set up #[discovery and sense-making squad](archive/clarity/Tags/discovery%20and%20sense-making%20squad.md) squad
+	- set up #discovery and sense-making squad squad
 - This week:
 	- to finalize new squad addition (investment squad)
 
 ## Triage Items
 What tensions do you have that need resolution to move forward in your work?
 - I didn't have enough context to comment of the $SPRB token feedback (Rowan)
-	- @Rowan  would it be help to setup a call on this specifcally or is there some more context you could use in #[$sprb](archive/clarity/Tags/$sprb.md)
+	- @Rowan  would it be help to setup a call on this specifcally or is there some more context you could use in #$sprb
 	- I too felt that I don't know enough about other structures and felt that important to the transparency but trusted that you were holding values of SB
 	- ✅ SUP-115 SPRB Design Conversation
 - Discord video performance is often very bad. Can we fix it with boosts or should we switch to Zoom (at least for the welcome parties)? - boosted to next level, so will re-visit next week 

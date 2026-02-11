@@ -34,7 +34,7 @@ Unlike traditional organizations that often decay and die as their infrastructur
 
 ### Sustainability in [Community](data/concepts/community.md) Governance
 
-In community and network governance, sustainability focuses on creating [decision-making](archive/clarity/Tags/decision-making.md) processes that can balance immediate needs with long-term stewardship. This involves developing governance models that distribute power appropriately, create accountability for outcomes, and enable community to adapt to changing circumstances while maintaining core values.
+In community and network governance, sustainability focuses on creating [decision-making](data/concepts/decisions.md) processes that can balance immediate needs with long-term stewardship. This involves developing governance models that distribute power appropriately, create accountability for outcomes, and enable community to adapt to changing circumstances while maintaining core values.
 
 As explored in Governance for better futures - New and Old, sustainable governance approaches often draw from traditional wisdom and indigenous perspectives that emphasize intergenerational responsibility: "We descend from the earth and that's who we have to give back to because it will sustain us for the rest of our lives and future generations." These approaches prioritize relationships with place and community, seeing sustainability not as an abstract goal but as a lived practice of reciprocity and care.
 

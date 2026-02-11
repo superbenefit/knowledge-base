@@ -37,7 +37,7 @@ As seen in the SuperBenefit community's practices, members explicitly "do a refi
 
 ### Refizz in DAO Operations
 
-In [decentralized](data/concepts/decentralization.md) autonomous organization (DAO) contexts, refizzing plays a particularly important role in [governance](data/concepts/governance.md) documentation and proposal development. As [DAOs](data/concepts/daos.md) operate through distributed [decision-making](archive/clarity/Tags/decision-making.md) processes, clear documentation becomes essential for informed [participation](participation.md).
+In [decentralized](data/concepts/decentralization.md) autonomous organization (DAO) contexts, refizzing plays a particularly important role in [governance](data/concepts/governance.md) documentation and proposal development. As [DAOs](data/concepts/daos.md) operate through distributed [decision-making](data/concepts/decisions.md) processes, clear documentation becomes essential for informed [participation](data/concepts/participation.md).
 
 Refizzing governance documents, proposals, and technical specifications helps ensure that diverse stakeholders with varying levels of context can meaningfully engage with important decisions. The practice supports more inclusive governance by transforming specialist knowledge into formats accessible to the broader community while maintaining accuracy and depth.
 

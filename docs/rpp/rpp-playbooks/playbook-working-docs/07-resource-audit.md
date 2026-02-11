@@ -1,5 +1,8 @@
 ---
 group: rpp
+type: note
+title: Resource Link Audit Report
+publish: false
 ---
 
 # Resource Link Audit Report
@@ -119,8 +122,8 @@ Technical infrastructure tools now have verified URLs:
    ## Resource Directory
    
    ### Patterns (Standalone)
-   - Community Governance (/artifacts/patterns/community-governance.md)
-   - Operational Governance (/artifacts/patterns/operational-governance.md)
+   - Community Governance (/data/resources/patterns/community-governance.md)
+   - Operational Governance (/data/resources/patterns/operational-governance.md)
    ...
    
    ### Patterns (Tag Collections)  

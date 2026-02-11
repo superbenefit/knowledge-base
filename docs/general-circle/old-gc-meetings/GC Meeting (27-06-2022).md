@@ -3,10 +3,11 @@ group: general-circle
 tags:
   - meetings
 date: 2022-06-27
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 # Week of June 27, 2022
-#[tactical meetings](archive/clarity/Tags/tactical%20meetings.md) Template
+#tactical meetings Template
 ## Attendees
 - Ayusha, Heenal, Michael
 
@@ -41,7 +42,7 @@ date: 2022-06-27
 		- Governance Chat - @MBaldwin won't be there this week
 - SB Governance (Heenal)
 	- Last week:
-		- Drafted #[governance concept v2.1](archive/clarity/Tags/governance%20concept%20v2.1.md) and received feedback
+		- Drafted #governance concept v2.1 and received feedback
 		- Fist-to-five vote passed
 	- This week:
 		- Can we consider this to be officially adopted now? Is a Snapshot vote necessary?
@@ -66,7 +67,7 @@ date: 2022-06-27
 		- This could be a good bounty to post
 
 ## Triage
-- Can we consider #[governance concept v2.1](archive/clarity/Tags/governance%20concept%20v2.1.md) to be officially adopted now? Is a Snapshot vote necessary?
+- Can we consider #governance concept v2.1 to be officially adopted now? Is a Snapshot vote necessary?
 	- No vote needed at this stage
 - Twitter recordings - need verification code from Michael (Heenal)
 	- Got the code :)

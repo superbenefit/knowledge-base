@@ -4,6 +4,7 @@ title: AIFS Gathering 2 Poem
 tags:
   - aifs
   - poetic-harvest
+publish: false
 ---
 
 # AIFS Gathering 2 Poem

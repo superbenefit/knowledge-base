@@ -26,5 +26,5 @@ Tasks create the operational foundation for network activity by establishing cle
 - [Agreements](data/concepts/agreements.md) - Formal or informal understandings that coordinate work
 - [Coordination](data/concepts/coordination.md) - The mechanisms through which networks align activities
 - [Agents](data/concepts/agents.md) - The individuals or entities that execute tasks
-- [Cells](data/concepts/cells.md) - Teams managing tasks
+- [Cells](data/resources/patterns/cells.md) - Teams managing tasks
 - [Progress](data/concepts/progress.md) - Tracking task completion

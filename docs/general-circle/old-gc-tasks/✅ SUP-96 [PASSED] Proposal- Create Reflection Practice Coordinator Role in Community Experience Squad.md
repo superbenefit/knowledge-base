@@ -2,6 +2,7 @@
 group: general-circle
 tags:
   - tasks
+publish: false
 ---
 ## Background
 “Without inner change there can be no outer change. Without collective change, no change matters.”

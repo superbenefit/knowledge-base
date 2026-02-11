@@ -3,6 +3,7 @@ group: general-circle
 tags:
   - meetings
 date: 2022-03-14
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 # Week of March 14, 2022
@@ -56,7 +57,7 @@ Project name/link
 - This week:
 - Blockers:
 
-#[information squad](archive/clarity/Tags/information%20squad.md) (@heenal )
+#information squad (@heenal )
 - Last week:
 	- (from previous week) Updated Discord welcome/rules, start-here, branding; Tooling Guide on Clarity; FAQ
 	- CCS Semester II; working on co-ops pack

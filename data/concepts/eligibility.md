@@ -25,7 +25,7 @@ Well-designed eligibility systems balance inclusivity with protection against ex
 
 ### Eligibility in DAO Governance
 
-In DAO governance contexts, eligibility defines who can participate in various [decision-making](archive/clarity/Tags/decision-making.md) processes. These criteria help ensure that those with appropriate context, stake, or relevant experience can influence decisions while protecting against potential attacks or manipulation.
+In DAO governance contexts, eligibility defines who can participate in various [decision-making](data/concepts/decisions.md) processes. These criteria help ensure that those with appropriate context, stake, or relevant experience can influence decisions while protecting against potential attacks or manipulation.
 
 Common governance eligibility mechanisms include:
 
@@ -35,7 +35,7 @@ Common governance eligibility mechanisms include:
 - **Delegation qualification**: Establishing criteria for who can receive delegated voting [power](data/concepts/power.md)
 - **Committee membership**: Determining who can serve in specialized governance roles
 
-As discussed in Community Governance, effective governance often implements different eligibility requirements at different scales, with more stringent criteria for high-impact decisions and broader [participation](participation.md) for constituency-level direction setting.
+As discussed in Community Governance, effective governance often implements different eligibility requirements at different scales, with more stringent criteria for high-impact decisions and broader [participation](data/concepts/participation.md) for constituency-level direction setting.
 
 ### Eligibility in Resource Allocation
 
@@ -61,7 +61,7 @@ In the Cell working group pattern, eligibility for different roles is documented
 - **Attestations**: Verification or endorsements from existing participants
 - **Time commitment**: Availability requirements for consistent participation
 
-As noted in [Minimum Viable Permissionless-ness](../artifacts/dao-primitives-framework/network-evolution/Minimum Viable Permissionless-ness.md), effective decentralized organizations balance permissionless access to the network with appropriate eligibility criteria for resource allocation and decision-making authority.
+As noted in [Minimum Viable Permissionless-ness](../docs/dao-primitives/articles/Minimum Viable Permissionless-ness.md), effective decentralized organizations balance permissionless access to the network with appropriate eligibility criteria for resource allocation and decision-making authority.
 
 ## Related Concepts
 

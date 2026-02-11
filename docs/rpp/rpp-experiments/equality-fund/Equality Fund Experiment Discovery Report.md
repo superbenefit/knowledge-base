@@ -1,7 +1,10 @@
 ---
 group: rpp
+type: note
+title: Equality Fund Experiment Discovery Report
 tags:
   - experiments
+publish: false
 ---
 
 ---

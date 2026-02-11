@@ -3,6 +3,7 @@ group: general-circle
 tags:
   - meetings
 date: 2022-03-28
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 # Week of March 28, 2022
@@ -36,7 +37,7 @@ Opportunity for proponents to share and get feedback on active proposals.
 #[Proposal for Contributor Guide](Proposal%20for%20Contributor%20Guide) (Michelle)
 - Working on a proposal for a contribution guide for SuperBenefit with the support of Caryn Tan at Clarity that would both be of service to SB and would be open-sourced as a contribution to the ecosystem
 
-#[4 l's retrospective](archive/clarity/Tags/4%20l's%20retrospective.md) (Heenal)
+#4 l's retrospective (Heenal)
 - offering this exercise for GC members to complete asynchronously
 
 

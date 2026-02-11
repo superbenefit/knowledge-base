@@ -3,12 +3,13 @@ group: general-circle
 tags:
   - meetings
 date: 2022-02-28
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 
 
 # Week of February 28, 2022
-## #[tactical meetings](archive/clarity/Tags/tactical%20meetings.md) Template
+## #tactical meetings Template
 ## Attendees
 - @Lewwwk @Rowan  @heenal @MBaldwin @flashlight @Ryan  @remarkk 
 - Regrets: @AlexH 
@@ -101,7 +102,7 @@ What's our Crowdfund status?
 	- How to direct SB community to roles/guilds/invitations? (Michelle)
 	- Confirm availability for reflection session (Rowan)
 	- What projects are now complete? What are the projects that we're going to have moving forwards? (Mark)
-	- What is the #[$sprb](archive/clarity/Tags/$sprb.md) address so that I can see the tokens in Metamask? (Heenal)
+	- What is the #$sprb address so that I can see the tokens in Metamask? (Heenal)
 		- @Lewwwk  ? :) 0xfC3Ac26D9A4A00B2534298c933A84F54430B3850
 	- 
 	- Budget for each Squad for the next Revolution - not sure if we are ready to talk about this yet or if it's one for a future date (Heenal)

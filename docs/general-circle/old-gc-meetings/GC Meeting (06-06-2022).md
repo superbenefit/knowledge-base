@@ -3,10 +3,11 @@ group: general-circle
 tags:
   - meetings
 date: 2022-06-06
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 # Week of June 6, 2022
-#[tactical meetings](archive/clarity/Tags/tactical%20meetings.md) Template
+#tactical meetings Template
 
 ## Attendees
 - 
@@ -32,7 +33,7 @@ date: 2022-06-06
 - Project - #[Krause House Collaboration](Krause%20House%20Collaboration) 
 	- Last week: revised draft in Krause House format
 	- This week: clearing for posting to Krause House proposal intake
-- Project - #[superbenefit contributor guide - working draft](archive/clarity/Tags/superbenefit%20contributor%20guide%20-%20working%20draft.md) 
+- Project - #superbenefit contributor guide - working draft 
 	- Last week: 
 		- SB governance structure meeting
 		- Updates and meeting to guide
@@ -59,7 +60,7 @@ Twitter samples [https://docs.google.com/document/d/1COvx0YvoJ4kaBiwcOnNTG7v6dWv
 		- Promoting article from @Rowan  "Scale and the levers that provide DAOs their power" in other DAOs/Twitter
 	- This week: 
 		- Weekly Update
-- Project - #[governance conversations](archive/clarity/Tags/governance%20conversations.md) 
+- Project - #governance conversations 
 	- Last week: 
 		- Promotion and hosting of Convo 1 
 		- Draft notes by speaker and themes

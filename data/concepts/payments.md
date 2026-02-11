@@ -15,7 +15,7 @@ _Payments are structured transfers of value between parties that enable resource
 
 Payments represent a fundamental coordination mechanism that allows resources to flow between individuals, organizations, and systems. They serve as the practical implementation of value exchange, translating abstract worth into concrete transfers that participants can rely upon. While traditionally mediated through centralized financial institutions, emerging technologies have created new possibilities for more direct, transparent, and programmable payment systems.
 
-In decentralized contexts, payments take on additional dimensions beyond simple value transfer, becoming tools for incentive alignment, reputation building, and [governance](data/concepts/governance.md) [participation](participation.md). The architecture of payment systems—including who can participate, how transfers are verified, and what conditions can be attached—fundamentally shapes [power](data/concepts/power.md) dynamics, inclusion, and opportunity within economic networks.
+In decentralized contexts, payments take on additional dimensions beyond simple value transfer, becoming tools for incentive alignment, reputation building, and [governance](data/concepts/governance.md) [participation](data/concepts/participation.md). The architecture of payment systems—including who can participate, how transfers are verified, and what conditions can be attached—fundamentally shapes [power](data/concepts/power.md) dynamics, inclusion, and opportunity within economic networks.
 
 ---
 
@@ -48,7 +48,7 @@ Within Decentralized Autonomous Organizations, payments serve multiple functions
 - **Governance Incentives**: Aligning stakeholder interests through economic participation
 - **Protocol Rewards**: Automated distribution of value to participants who support network functions
 
-As described in the [DAO Primitives framework](../artifacts/guides/dao-primitives-framework/index.md), these payment mechanisms form part of the coordination infrastructure that allows decentralized teams to work together effectively without traditional managerial hierarchies. Effective payment systems create clear connections between contribution and compensation while maintaining flexibility for different types of value creation.
+As described in the [DAO Primitives framework](../docs/dao-primitives/primitives-framework/index.md), these payment mechanisms form part of the coordination infrastructure that allows decentralized teams to work together effectively without traditional managerial hierarchies. Effective payment systems create clear connections between contribution and compensation while maintaining flexibility for different types of value creation.
 
 ### Payments in Social Impact
 

@@ -1,5 +1,6 @@
 ---
 group: ics
+publish: false
 ---
 
 # Community Exchange Future Development: Index

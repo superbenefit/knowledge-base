@@ -12,7 +12,7 @@ publish: true
 
 _Platforms are infrastructure systems that enable [coordination](data/concepts/coordination.md), interaction, and value exchange between participants through standardized interfaces, protocols, and [governance](data/concepts/governance.md) mechanisms, creating environments where diverse activities, services, and [community](data/concepts/community.md) can develop and thrive._ ^2f34bd
 
-Platforms serve as foundational architecture upon which diverse applications, services, and coordination mechanisms can be built and operated. Unlike traditional siloed systems, effective platforms create generative environments where value creation extends beyond the platform provider to include an ecosystem of contributors, users, and complementary services. This multi-sided nature enables network effects where platforms become more valuable as [participation](participation.md) increases, creating powerful coordination advantages while also raising important questions about governance, incentive alignment, and [power](data/concepts/power.md) distribution.
+Platforms serve as foundational architecture upon which diverse applications, services, and coordination mechanisms can be built and operated. Unlike traditional siloed systems, effective platforms create generative environments where value creation extends beyond the platform provider to include an ecosystem of contributors, users, and complementary services. This multi-sided nature enables network effects where platforms become more valuable as [participation](data/concepts/participation.md) increases, creating powerful coordination advantages while also raising important questions about governance, incentive alignment, and [power](data/concepts/power.md) distribution.
 
 In the context of web3 and [decentralized](data/concepts/decentralization.md) systems, platforms take on new dimensions through their emphasis on open protocols, community ownership, programmable incentives, and transparent governance. These characteristics can transform traditional platform dynamics by distributing control more widely, reducing extraction by intermediaries, and creating infrastructure that better aligns with the interests of all participants rather than primarily benefiting platform operators.
 
@@ -30,9 +30,9 @@ Key examples include layer-1 blockchains like Ethereum that provide foundational
 
 In the context of Decentralized Autonomous Organizations, platforms provide the technical and social infrastructure for coordination across different scales and functions. They enable the creation and operation of governance processes, resource allocation mechanisms, and collaboration tools that allow [DAOs](data/concepts/daos.md) to function effectively without traditional hierarchical management.
 
-As described in Building DAOs as scalable networks, platforms support multicameral DAO governance by providing infrastructure for both community-level [decision-making](archive/clarity/Tags/decision-making.md) and operational coordination between working groups. These platforms combine technological components (like voting systems and treasury management tools) with social coordination mechanisms to enable effective decentralized action.
+As described in Building DAOs as scalable networks, platforms support multicameral DAO governance by providing infrastructure for both community-level [decision-making](data/concepts/decisions.md) and operational coordination between working groups. These platforms combine technological components (like voting systems and treasury management tools) with social coordination mechanisms to enable effective decentralized action.
 
-### Platforms in the [DAO Primitives framework](../artifacts/guides/dao-primitives-framework/index.md)
+### Platforms in the [DAO Primitives framework](../docs/dao-primitives/primitives-framework/index.md)
 
 In the DAO [Primitives](data/concepts/primitives.md) Framework, platforms represent one of the three core resource primitives alongside roles and resources. They provide the infrastructure that enables DAO operations, including tools for governance, communication, and coordination.
 

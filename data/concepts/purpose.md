@@ -10,7 +10,7 @@ aliases:
 publish: true
 ---
 
-_Purpose is the shared vision, mission, or fundamental reason for existence that provides direction, meaning, and coherence to collective endeavors, serving as the orienting force that guides [decision-making](archive/clarity/Tags/decision-making.md) and action without requiring centralized control._
+_Purpose is the shared vision, mission, or fundamental reason for existence that provides direction, meaning, and coherence to collective endeavors, serving as the orienting force that guides [decision-making](data/concepts/decisions.md) and action without requiring centralized control._
 
 Purpose sits at the heart of effective [coordination](data/concepts/coordination.md) in [decentralized](data/concepts/decentralization.md) systems, providing the gravitational center around which autonomous activities can align. Unlike traditional command structures that rely on hierarchical direction, purpose-driven systems enable coherent action through shared understanding of fundamental goals and [values](data/concepts/values.md). This approach creates the conditions for distributed decision-making while maintaining overall alignment across diverse participants and contexts.
 
@@ -20,7 +20,7 @@ In complex environments, purpose functions as both a strategic compass and an in
 
 ## Uses of "Purpose"
 
-### Purpose in [DAO Primitives framework](../artifacts/guides/dao-primitives-framework/index.md)
+### Purpose in [DAO Primitives framework](../docs/dao-primitives/primitives-framework/index.md)
 
 In the DAO [Primitives](data/concepts/primitives.md) Framework, purpose serves as one of three foundational dimensions of Group State, alongside Practice and Progress. It represents the "why" that animates an organization's existence and activities. As the framework explains, purpose encompasses the shared vision that "creates alignment in a self-organizing network," establishing the boundaries within which autonomous teams can operate effectively.
 
@@ -30,7 +30,7 @@ This framework treats purpose as a dynamic navigational tool rather than a stati
 
 In Web3 governance systems, purpose functions as the cornerstone for legitimate decision-making. As described in Governance for better futures, effective governance frameworks are designed to "safeguard the purpose of the network" while enabling flexibility in implementation. This approach creates a two-house governance structure where Community Governance focuses on long-term purpose alignment, while Operational Governance enables adaptive execution.
 
-The emphasis on purpose-based governance represents a fundamental shift from traditional approaches that prioritize compliance with predetermined rules. Instead, as noted in [Minimum Viable Permissionless-ness](../artifacts/dao-primitives-framework/network-evolution/Minimum Viable Permissionless-ness.md), Web3 systems evaluate decisions based on whether they advance the network's purpose, with governance serving as a mechanism to "avoid capture and remain alive and relevant."
+The emphasis on purpose-based governance represents a fundamental shift from traditional approaches that prioritize compliance with predetermined rules. Instead, as noted in [Minimum Viable Permissionless-ness](../docs/dao-primitives/articles/Minimum Viable Permissionless-ness.md), Web3 systems evaluate decisions based on whether they advance the network's purpose, with governance serving as a mechanism to "avoid capture and remain alive and relevant."
 
 ### Purpose in Coordination Systems
 

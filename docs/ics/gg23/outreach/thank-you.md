@@ -1,5 +1,6 @@
 ---
 group: ics
+publish: false
 ---
 
 # Thank You Messages for GG23 Contributors

@@ -1,5 +1,9 @@
 ---
 group: rpp
+type: note
+title: Meeting With Women Win & Equality Fund
+publish: false
+---
 
 # Meeting Agenda
 
@@ -11,7 +15,7 @@ group: rpp
 
   - Design of the grant disbursement mapping process
 
-    - What elements of the financial flow are we mapping? What information do we want to collect? 
+    - What elements of the financial flow are we mapping? What information do we want to collect?
 
     - Forward plan: Who is doing what and when?
 
@@ -24,8 +28,6 @@ group: rpp
     - Discussion of the design of the Web3 test (see questions emerging in our discussion document for reference)
 
       - Specifically, are we using a sandbox/testnet or could do very small transactions as a proof of concept?
-
----
 
 # Decision Log
 

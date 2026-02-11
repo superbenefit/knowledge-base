@@ -109,7 +109,7 @@ Perhaps this reframing will help keep us oriented towards coordinating value flo
 
 ### Article Series
 
-- Next: [Scale and the levers that provide DAOs their power](artifacts/primitives-framework/articles/Scale and the levers that provide DAOs their power.md)
+- Next: [Scale and the levers that provide DAOs their power](docs/dao-primitives/articles/Scale and the levers that provide DAOs their power.md)
 
 ---
 

@@ -3,6 +3,7 @@ group: general-circle
 tags:
   - meetings
 date: 2022-01-24
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 # Week of January 24, 2022
@@ -57,7 +58,7 @@ What's your capacity for SB in the coming week?
 
 #[9 General Circle Lead invites individuals into Squad Lead roles](9%20General%20Circle%20Lead%20invites%20individuals%20into%20Squad%20Lead%20roles) 
 - Last week
-	- Agreed on #[discovery and sense-making squad](archive/clarity/Tags/discovery%20and%20sense-making%20squad.md) and #[resource flow squad](archive/clarity/Tags/resource%20flow%20squad.md) 
+	- Agreed on #discovery and sense-making squad and #resource flow squad 
 - No further activity required
 
 #[140 Draw up high-level outline of the resource flow squad](140%20Draw%20up%20high-level%20outline%20of%20the%20resource%20flow%20squad) - @Rowan  
@@ -92,7 +93,7 @@ What's your capacity for SB in the coming week?
 	- Set up SuperBenefit Community Survey in Notion 
 	- CXI Tactical Meeting
 	- Set up [metrics tracking](https://www.notion.so/superbenefit/be8cc48814ad49508e0c6fe34d9ba4f9?v=5da1ddbdb1644c328b06666fa2e6840d)
-		- This will be easier when #[$sprb](archive/clarity/Tags/$sprb.md) is launched and we have bounties, as we'll be able to see who has received it
+		- This will be easier when #$sprb is launched and we have bounties, as we'll be able to see who has received it
 	- Attended Making Crypto Inclusive + web3 x social impact Twitter space
 	- Completed 5 interviews for Transformation Storytelling Fellow which will be focused on SB
 - This week:

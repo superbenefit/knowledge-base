@@ -2,6 +2,7 @@
 group: general-circle
 tags:
   - tasks
+publish: false
 ---
 ## Background
 A clear purpose, mission and values are important for SuperBenefit to scale as a DAO. If effective, they allow for collective action that is decentralized but consistent in it's aims, direction, and approach.
@@ -15,7 +16,7 @@ My rationale for adopting these as presented are:
 - The proposed ethos incorporates inputs and perspectives from the community as collected in the [Miro](https://miro.com/app/board/o9J_llbEduw=/?invite_link_id=232853217905) as our community has grown, and were co-authored with @remarkk and @flashlight.
 - While no version of these will be right for everyone, they reflect what's true for us for now.
 
-### Proposed [ethos](archive/clarity/Tags/ethos.md)
+### Proposed ethos
 **Purpose: **To embed universal abundance into the core infrastructure of the future.
 **Mission: **To develop the social and financial flywheels that enable invention, investment, and acceleration of our purpose.
 **Values:**

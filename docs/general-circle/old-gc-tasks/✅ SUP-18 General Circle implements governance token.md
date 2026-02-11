@@ -2,5 +2,6 @@
 group: general-circle
 tags:
   - tasks
+publish: false
 ---
-#[general circle](archive/clarity/Tags/general%20circle.md) 
+#general circle 

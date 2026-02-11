@@ -28,9 +28,9 @@ type: study
 
 ## Executive Summary
 
-The Institute for Community Sustainability implemented [Web3](archive/clarity/Tags/web3.md) governance infrastructure from January to July 2025 as part of SuperBenefit's Reimagining Power Project. 
+The Institute for Community Sustainability implemented Web3 governance infrastructure from January to July 2025 as part of SuperBenefit's Reimagining Power Project. 
 
-The experiment successfully established operational governance systems using token-based governance, multistakeholder governance patterns, and [DAOs](data/concepts/daos.md) structure, all managed through [roles](data/concepts/roles.md) implementation with Hats Protocol. Four core team members actively use these systems. ICS launched London's first [local nodes](data/concepts/local-nodes.md) implementation as a Green Pill Network chapter and achieved top 10% ranking in Gitcoin Grants Round 23.
+The experiment successfully established operational governance systems using token-based governance, multistakeholder governance patterns, and [DAOs](data/concepts/daos.md) structure, all managed through [roles](data/concepts/roles.md) implementation with Hats Protocol. Four core team members actively use these systems. ICS launched London's first [local nodes](data/resources/patterns/local-nodes.md) implementation as a Green Pill Network chapter and achieved top 10% ranking in Gitcoin Grants Round 23.
 
 Key learnings include the 6-18 month timeline required for meaningful Web3 adoption at community level, the importance of making tools enjoyable and accessible, and the value of responding to opportunities rather than forcing predetermined plans. The experiment continues with plans for public demonstrations and expanded education programs in fall 2025.
 
@@ -82,8 +82,8 @@ ICS implemented four interventions between January and July 2025, each designed 
 - **Multi-stakeholder governance**: Structures to include diverse participant voices
 - **DAOs**: Overall decentralized autonomous organization framework
 - **Roles**: Hats Protocol implementation for clear governance responsibilities
-- **[Impact Attestations](data/concepts/impact-attestations.md)**: Blockchain-based recording of social and environmental contributions to enable transparency and future funding
-- **[Local nodes](data/concepts/local-nodes.md)**: Green Pill Network chapter to connect local regenerative initiatives with global movement
+- **[Impact Attestations](data/resources/patterns/impact-attestations.md)**: Blockchain-based recording of social and environmental contributions to enable transparency and future funding
+- **[Local nodes](data/resources/patterns/local-nodes.md)**: Green Pill Network chapter to connect local regenerative initiatives with global movement
 - **Opportunistic Adoption**: Emergent pattern of flexible response to ecosystem opportunities
 
 ### Resource Mobilization
@@ -206,7 +206,7 @@ Through implementation, several replicable patterns emerged that other organizat
 - Result: Operational but limited to core team
 - Lesson: Social protocols more important than technical setup
 
-**[Local nodes](data/concepts/local-nodes.md) (Web3 Chapters)**
+**[Local nodes](data/resources/patterns/local-nodes.md) (Web3 Chapters)**
 - Process: Apply to global network, establish local governance, hold regular meetings
 - Frequency: Monthly gatherings with consistent small group
 - Focus: Building relationships over formal structure

@@ -1,8 +1,9 @@
 ---
 group: cxi
+publish: false
 ---
 
-#[superbenefit contributor guide - working draft](notes/archive/clarity/Tags/superbenefit contributor guide - working draft.md) #[community experience squad](notes/archive/clarity/Tags/community experience squad.md) #209 Proposal for Contributor Guide 
+#superbenefit contributor guide - working draft #community experience squad #209 Proposal for Contributor Guide 
 
 ----------------------------------------------------------------------------------------------------------------
   **April 22, 2022**

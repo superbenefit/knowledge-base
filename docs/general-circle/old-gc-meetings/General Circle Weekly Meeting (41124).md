@@ -1,5 +1,6 @@
 ---
 group: general-circle
+publish: false
 ---
 
 **Weekly meeting notes & agenda for the SuperBenefit General Circle.**

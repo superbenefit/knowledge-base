@@ -3,6 +3,7 @@ group: general-circle
 tags:
   - meetings
 date: 2023-11-20
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 ## Attendees
@@ -18,7 +19,7 @@ date: 2023-11-20
 - #[P-267 Initial Planning - Reimagining Power](P-267%20Initial%20Planning%20-%20Reimagining%20Power)
 	- Kind of a stakeholder meeting and added another meeting Nov 27th at 4pm ET. Tracey Robertson from OTF was ill so decided to hold on some parts of the agenda
 	- Menzies Foundation - Michelle to write up a note and proposal  - check in on focus and idea
-- #[community experience squad](archive/clarity/Tags/community%20experience%20squad.md) 
+- #community experience squad 
 	-  SuperBenefit DAO Timeline [https://www.canva.com/design/DAFxj-0t1gQ/8znUEX0z8oNiyIAlxA1fjw/edit](https://www.canva.com/design/DAFxj-0t1gQ/8znUEX0z8oNiyIAlxA1fjw/edit)  
 
 	- Rowan, rather and Michelle to be record Crypto Altruism podcast Nov 21 with Drew Simon

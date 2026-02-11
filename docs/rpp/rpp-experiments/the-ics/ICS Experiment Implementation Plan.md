@@ -1,7 +1,10 @@
 ---
 group: rpp
+type: note
+title: ICS Experiment Implementation Plan
 tags:
   - experiments
+publish: false
 ---
 .
 

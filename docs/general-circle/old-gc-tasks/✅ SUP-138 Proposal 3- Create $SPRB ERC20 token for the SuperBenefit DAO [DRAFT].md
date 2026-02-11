@@ -2,19 +2,20 @@
 group: general-circle
 tags:
   - tasks
+publish: false
 ---
 # Background
 SuperBenefit requires an ERC20 token to enable on-chain governance, recognize contributions, and facilitate partnerships.
 # Proposal
-As Lead of the #[treasury squad](archive/clarity/Tags/treasury%20squad.md) I, Lewwwk, propose that I take the action of creating the #[$sprb](archive/clarity/Tags/$sprb.md)  governance token through [coinvise.co](http://coinvise.co) with the following parameters:
+As Lead of the #treasury squad I, Lewwwk, propose that I take the action of creating the #$sprb  governance token through [coinvise.co](http://coinvise.co) with the following parameters:
 - 10,000,000 fixed supply
 - symbol: SPRB
 - name: SuperBenefit DAO
 - description: To facilitate development and governance of the SuperBenefit DAO and the pursuit of its ethos.
 
 The resulting tokens to be sent to a [gnosis-safe.io](https://gnosis-safe.io) multi-sig address created by Lewwwk with 5 signers (AlexH, Flashlight, Lewwwk, MBaldwin, Rowan) and 3 of 5 signing policy. 
-200,000 tokens will be immediately allocated evenly between existing #[general circle](archive/clarity/Tags/general%20circle.md) members (AlexH, Flashlight, Heenal, Lewwwk, MBaldwin, Remarkk, Rowan, RyanC).
-800,000 additional tokens will be distributed at a later date to pre-crowdfund contributors, based on an allocation to be determined by the #[general circle](archive/clarity/Tags/general%20circle.md). 
+200,000 tokens will be immediately allocated evenly between existing #general circle members (AlexH, Flashlight, Heenal, Lewwwk, MBaldwin, Remarkk, Rowan, RyanC).
+800,000 additional tokens will be distributed at a later date to pre-crowdfund contributors, based on an allocation to be determined by the #general circle. 
 2,000,000 tokens will also be bridged to Polygon ([guide here](https://coinvise.notion.site/BRIDGE-Bridging-tokens-to-Polygon-3f371c366d074a2f85e6b8dacd59e34e)) to enable cost-effective distributions to contributors during Revolution 1.
 # Decision
 This proposal will be introduced into discord #proposal-submission for "fist to five" consent. 

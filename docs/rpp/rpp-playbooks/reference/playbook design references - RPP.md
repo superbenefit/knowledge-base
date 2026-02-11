@@ -1,7 +1,10 @@
 ---
 group: rpp
+type: note
+title: Playbook Design References RPP
 tags:
   - playbooks
+publish: false
 ---
 
 ## 

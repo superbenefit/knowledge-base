@@ -6,6 +6,7 @@ group: aifs
 Weekly meeting for the AIFS team.
 
 date: 2025-06-11
+publish: false
 ---
 
 # Action Items

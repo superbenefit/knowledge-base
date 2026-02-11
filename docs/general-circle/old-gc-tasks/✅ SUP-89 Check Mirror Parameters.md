@@ -2,6 +2,7 @@
 group: general-circle
 tags:
   - tasks
+publish: false
 ---
 Cap of 20ETH raise unless we get a subdomain (this might not apply, i'll start making enquiries).
 @flashlight  Here are some more details on the actual implementation we'll be using on Mirror.

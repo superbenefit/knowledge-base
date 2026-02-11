@@ -11,8 +11,8 @@ source: "[2022-04-19 - Weekly Meeting Notes - DAO Primitives](docs/dao-primitive
 - ## Attendees
 	-  @Rowan  @Ananth @rathermercurial 
 - ## **Updates**
-	- #[reimagining power](archive/clarity/Tags/reimagining%20power.md) has requested #[dao primitives](archive/clarity/Tags/dao%20primitives.md) team take on #[Design Task Management and Compensation Framework - DAO Primitives (Old)](Design%20Task%20Management%20and%20Compensation%20Framework%20-%20DAO%20Primitives%20(Old)) in cooperation with #[reimagining power](archive/clarity/Tags/reimagining%20power.md) 
-	- #[energy efficiency project](archive/clarity/Tags/energy%20efficiency%20project.md) has requested #[dao primitives](archive/clarity/Tags/dao%20primitives.md) create cell incubation / stakeholder engagement / spin down/out function for sb
+	- #[reimagining power](docs/rpp/index.md) has requested #[dao primitives](docs/dao-primitives/index.md) team take on #[Design Task Management and Compensation Framework - DAO Primitives (Old)](Design%20Task%20Management%20and%20Compensation%20Framework%20-%20DAO%20Primitives%20(Old)) in cooperation with #[reimagining power](docs/rpp/index.md) 
+	- #energy efficiency project has requested #[dao primitives](docs/dao-primitives/index.md) create cell incubation / stakeholder engagement / spin down/out function for sb
 	- Sobol Labs
 - ## Discussion Topics
 	- On potential divergence in design ideas (rowan)

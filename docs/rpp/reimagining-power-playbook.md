@@ -122,7 +122,7 @@ In nonprofit contexts, community governance transforms traditional board-centric
 
 **First step**: Map your current governance decisions into two categories: those affecting mission/values (strategic) versus those affecting daily operations (tactical). Survey stakeholders about which decisions they want voice in - you'll likely find they care most about strategic direction, not operational details.
 
-**Link to full pattern**: [Community Governance](data/concepts/community-governance.md)
+**Link to full pattern**: [Community Governance](data/resources/patterns/community-governance.md)
 
 #### Operational Governance
 
@@ -138,7 +138,7 @@ For nonprofits drowning in approval processes, operational governance creates "d
 
 **First step**: Identify your most frustrated program team - the one constantly waiting for approvals. Define clear boundaries (budget, scope, values alignment) within which they can make all decisions without seeking permission. Start with a 3-month experiment to build confidence on both sides.
 
-**Link to full pattern**: [Operational Governance](data/concepts/operational-governance.md)
+**Link to full pattern**: [Operational Governance](data/resources/patterns/operational-governance.md)
 
 ### Pattern Group B: Building Participation Infrastructure
 
@@ -170,7 +170,7 @@ For international nonprofits, P2P payments promise reduced fees and faster trans
 
 **First step**: Before exploring blockchain payments, map your actual transaction costs and pain points at the most granular level - not country by country, but city by city, partner by partner. You may discover, like Equality Fund, that your assumed problems don't exist while real barriers lie elsewhere.
 
-**Related resources**: [P2P Payments](data/concepts/p2p-payments.md)
+**Related resources**: [P2P Payments](data/resources/patterns/p2p-payments.md)
 
 #### Privacy Payments
 
@@ -198,7 +198,7 @@ Traditional grantmaking treats recipients as beneficiaries rather than partners,
 
 **First step**: Start where you have most freedom - often program design rather than fund allocation. Create a formal advisory group of current recipients with real veto power over new program proposals. Document how this shifts power dynamics and use evidence to advocate for deeper governance changes.
 
-**Related resources**: [Participatory Governance](data/concepts/participatory-governance.md)
+**Related resources**: [Participatory Governance](data/resources/patterns/participatory-governance.md)
 
 ### Pattern Group C: Bridging Divides
 
@@ -222,7 +222,7 @@ Most nonprofit convenings reinforce existing divisions - technical people talk t
 
 #### Local Nodes
 
-[Coordi-nations](data/concepts/coordi-nations.md) are networks of aligned organizations sharing resources, governance practices, and collective action - examples include Green Pill Network for regenerative finance and Gitcoin's grants ecosystem.
+[Coordi-nations](data/resources/patterns/coordi-nations.md) are networks of aligned organizations sharing resources, governance practices, and collective action - examples include Green Pill Network for regenerative finance and Gitcoin's grants ecosystem.
 
 For isolated nonprofits, joining a coordi-nation provides instant connection to global movements while maintaining local autonomy. Rather than building everything alone, organizations tap into existing infrastructure, funding mechanisms, and peer communities. ICS discovered this was their breakthrough - not implementing web3 tools in isolation but finding their tribe within the regenerative finance movement.
 
@@ -232,7 +232,7 @@ For isolated nonprofits, joining a coordi-nation provides instant connection to 
 
 **First step**: Map your mission to existing web3 coordi-nations. Green Pill Network serves regenerative projects. [ReFi](data/concepts/refi.md) DAO connects climate initiatives. Gitcoin funds public goods. Research which networks have local chapters you could join or where you could pioneer the first node in your city. Apply with a clear value proposition of what you bring to the network, not just what you hope to receive.
 
-**Related resources**: [Local Nodes](data/concepts/local-nodes.md)
+**Related resources**: [Local Nodes](data/resources/patterns/local-nodes.md)
 
 ### Pattern Interactions and Dependencies
 
@@ -341,10 +341,10 @@ The key is honest assessment of your starting point. Pushing beyond organization
 
 The ICS and AIFS experiments leveraged the DAO Primitives Framework to help design and implement governance experiments and final structures. The framework contains a set of lenses through which to understand how governance structures can be composed to serve specific organizational needs across a series of different phases and scales. These lenses, along with implementation guides and governance patterns, provide a framework for creating small experiments that can evolve into sophisticated decentralized governance structures that can operate at scale.
 
-- [DAO Primitives Framework](/artifacts/guides/dao-primitives-framework/dao-primitives-framework.md)
-- [Community Governance Implementation Guide](/artifacts/guides/dao-primitives-framework/dao-primitives-implemention/implementation-guide-community-governance.md)
-- [Multi-stakeholder Governance Implementation Guide](/artifacts/guides/dao-primitives-framework/dao-primitives-implemention/implementation-guide-multi-stakeholder-governance.md)
-- [Operational Governance Implementation Guide](/artifacts/guides/dao-primitives-framework/dao-primitives-implemention/implementation-guide-operational-governance.md)
+- [DAO Primitives Framework](/docs/dao-primitives/primitives-framework/index.md)
+- [Community Governance Implementation Guide](/docs/dao-primitives/primitives-framework/implementation/implementation-guide-community-governance.md)
+- [Multi-stakeholder Governance Implementation Guide](/docs/dao-primitives/primitives-framework/implementation/implementation-guide-multi-stakeholder-governance.md)
+- [Operational Governance Implementation Guide](/docs/dao-primitives/primitives-framework/implementation/implementation-guide-operational-governance.md)
 
 ---
 
@@ -431,14 +431,14 @@ Equality Fund's discoveries challenged core RPP assumptions about blockchain's p
 
 ### Patterns
 
-- [Community Governance](data/concepts/community-governance.md) - Collective stewardship through constituency-scale decision making  
-- [Operational Governance](data/concepts/operational-governance.md) - Sociocratic coordination of autonomous teams  
+- [Community Governance](data/resources/patterns/community-governance.md) - Collective stewardship through constituency-scale decision making  
+- [Operational Governance](data/resources/patterns/operational-governance.md) - Sociocratic coordination of autonomous teams  
 - [Gatherings](data/resources/patterns/gatherings.md) - Structured spaces for cross-sector relationship building  
 - [Token-based Governance](docs/rpp/rpp-working-docs/token-based-governance.md) - Digital voting systems for transparent decision-making  
 - [Privacy Payments](docs/rpp/rpp-working-docs/privacy-payments.md) - Protection for sensitive financial transactions  
-- [Peer to Peer Payments](data/concepts/p2p-payments.md) - Direct fund transfers without intermediaries  
-- [Participatory Governance](data/concepts/participatory-governance.md) - Meaningful inclusion of affected communities  
-- [Local Nodes](data/concepts/local-nodes.md) - Connection points to global movements  
+- [Peer to Peer Payments](data/resources/patterns/p2p-payments.md) - Direct fund transfers without intermediaries  
+- [Participatory Governance](data/resources/patterns/participatory-governance.md) - Meaningful inclusion of affected communities  
+- [Local Nodes](data/resources/patterns/local-nodes.md) - Connection points to global movements  
 - [Knowledge Gardens](data/resources/patterns/knowledge-gardens.md) - Living documentation ecosystems
 
 ### Implementation Guides

@@ -1,5 +1,8 @@
 ---
 group: rpp
+type: note
+title: Stakeholder Meeting 8 Notes
+publish: false
 ---
 
 Intros & Updates

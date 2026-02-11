@@ -1,7 +1,10 @@
 ---
 group: rpp
+type: note
+title: Equality Fund Call Transcript 4723
 tags:
   - experiments
+publish: false
 ---
 
 RECORDING LINK [https://drive.google.com/file/d/1aWnqLW2OPHQ0ZZ0MWzxZlBrzBtWEwK9g/view?usp=sharing](https://drive.google.com/file/d/1aWnqLW2OPHQ0ZZ0MWzxZlBrzBtWEwK9g/view?usp=sharing)

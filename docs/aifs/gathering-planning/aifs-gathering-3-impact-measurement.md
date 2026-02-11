@@ -1,5 +1,6 @@
 ---
 group: aifs
+publish: false
 ---
 
 # AIFS Gathering #3: Impact Measurement

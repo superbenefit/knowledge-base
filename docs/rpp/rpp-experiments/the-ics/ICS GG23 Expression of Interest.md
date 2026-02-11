@@ -1,7 +1,10 @@
 ---
 group: rpp
+type: note
+title: ICS GG23 Expression Of Interest
 tags:
   - experiments
+publish: false
 ---
 .
 

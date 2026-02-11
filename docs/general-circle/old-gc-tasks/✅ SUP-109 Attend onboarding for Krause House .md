@@ -2,6 +2,7 @@
 group: general-circle
 tags:
   - tasks
+publish: false
 ---
 Used gather.town and sli.do
 No video, don’t even see people’s faces. No check-in, no member to member talk

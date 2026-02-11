@@ -1,5 +1,8 @@
 ---
 group: dao-primitives
+type: index
+title: Primitives Framework
+publish: false
 ---
 
 *This directory helps bridge theory and practice by showing how organizational patterns and implementation tools apply in different organizational contexts.*
@@ -12,7 +15,7 @@ This directory houses the Primitives Framework - a systematic approach to design
 **Ready to design?** See [Group Facilitation Guide](docs/dao-primitives/primitives-framework/implementation/group-facilitation.md) for the Discovery → Design → Implementation process
 **Looking for patterns?** Browse the [tags directory](tags/) for all organizational patterns and concepts
 
-**Quick links:** [DAOs](data/concepts/daos.md) · [Cells](data/concepts/cells.md) · [Roles](data/concepts/roles.md) · [Tasks](data/concepts/tasks.md)
+**Quick links:** [DAOs](data/concepts/daos.md) · [Cells](data/resources/patterns/cells.md) · [Roles](data/concepts/roles.md) · [Tasks](data/concepts/tasks.md)
 
 ## Understanding Organizational Context
 
@@ -32,7 +35,7 @@ How to understand where your organization is:
 
 What to build with:
 
-* **Organizational Patterns:** The four fundamental structures - [DAOs](data/concepts/daos.md), [Cells](data/concepts/cells.md), [Roles](data/concepts/roles.md), and [Tasks](data/concepts/tasks.md) - that can be combined to create tailored governance and operational systems. These are organizational patterns (what you design), distinct from technical primitives (how you implement using smart contracts, tokens, governance protocols). See [tags/](tags/) for all patterns.
+* **Organizational Patterns:** The four fundamental structures - [DAOs](data/concepts/daos.md), [Cells](data/resources/patterns/cells.md), [Roles](data/concepts/roles.md), and [Tasks](data/concepts/tasks.md) - that can be combined to create tailored governance and operational systems. These are organizational patterns (what you design), distinct from technical primitives (how you implement using smart contracts, tokens, governance protocols). See [tags/](tags/) for all patterns.
 
 ---
 

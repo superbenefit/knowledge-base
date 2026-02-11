@@ -1,5 +1,6 @@
 ---
 group: aifs
+publish: false
 ---
 
 _Weekly check-in & co-working session of the Community Experience Workstream at SuperBenefit._

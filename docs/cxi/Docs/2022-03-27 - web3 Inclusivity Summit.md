@@ -1,8 +1,9 @@
 ---
 group: cxi
+publish: false
 ---
 
-#[documents](archive/clarity/Tags/documents.md) 
+#documents 
 # **web3 Inclusivity Summit**
 
 When: Friday April 29th

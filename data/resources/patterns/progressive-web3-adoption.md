@@ -21,7 +21,7 @@ type: pattern
 ---
 
 
-_A staged approach for traditional nonprofits to gradually adopt [Web3](archive/clarity/Tags/web3.md) tools, building capacity and confidence while managing risk_
+_A staged approach for traditional nonprofits to gradually adopt Web3 tools, building capacity and confidence while managing risk_
 
 ## Context
 
@@ -317,7 +317,7 @@ CFC demonstrates network-level progressive adoption:
 
 ### Related Patterns
 - [Fiscal Bridge Pattern](data/resources/patterns/fiscal-bridge-pattern.md) - Complementary pattern for managing financial flows
-- [Community Governance Pattern](data/concepts/community-governance.md) - Next-stage pattern for distributed decision-making
+- [Community Governance Pattern](data/resources/patterns/community-governance.md) - Next-stage pattern for distributed decision-making
 
 ### Assessment Tools
 - Progressive Adoption Readiness Checklist
@@ -360,5 +360,5 @@ CFC demonstrates network-level progressive adoption:
 - [Governance](data/concepts/governance.md) - Decentralized decision-making systems
 - [Primitives](data/concepts/primitives.md) - Web3 building blocks for gradual adoption
 - [Coordination](data/concepts/coordination.md) - Managing change across organizations
-- [Community Governance](artifacts/patterns/community-governance.md) - Participatory governance patterns
-- [Fiscal Bridge Pattern](artifacts/patterns/fiscal-bridge-pattern.md) - Bridging traditional and Web3 finance
+- [Community Governance](data/resources/patterns/community-governance.md) - Participatory governance patterns
+- [Fiscal Bridge Pattern](data/resources/patterns/fiscal-bridge-pattern.md) - Bridging traditional and Web3 finance

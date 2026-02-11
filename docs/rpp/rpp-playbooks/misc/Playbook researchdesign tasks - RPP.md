@@ -1,7 +1,10 @@
 ---
 group: rpp
+type: note
+title: Playbook Researchdesign Tasks RPP
 tags:
   - playbooks
+publish: false
 ---
 
 For the purposes of developing playbooks as part of the RP project, we need to embark on several research and design tasks. This parent task will hold and manage these different research and design components of the playbooks project. 

@@ -12,7 +12,7 @@ publish: true
 type: concept
 ---
 
-*[Transparency](data/concepts/transparency.md) is the practice of making information, processes, and decisions visible and accessible to relevant stakeholders, enabling verification, accountability, and informed [participation](participation.md) in collective systems without requiring trust in centralized authorities.*
+*[Transparency](data/concepts/transparency.md) is the practice of making information, processes, and decisions visible and accessible to relevant stakeholders, enabling verification, accountability, and informed [participation](data/concepts/participation.md) in collective systems without requiring trust in centralized authorities.*
 
 Transparency serves as a foundational principle in [decentralized](data/concepts/decentralization.md) systems, creating the conditions for trust and effective [coordination](data/concepts/coordination.md) without relying on traditional hierarchical oversight. By making actions, decisions, and resource flows visible to all participants, transparent systems enable collective verification and accountability that would otherwise require trusted intermediaries. This visibility reduces information asymmetries that often lead to [power](data/concepts/power.md) imbalances, creating more equitable participation in [governance](data/concepts/governance.md) and resource allocation.
 
@@ -24,7 +24,7 @@ In web3 contexts, transparency takes on both technological and social dimensions
 
 ### Transparency in DAO Governance
 
-In decentralized autonomous organizations, transparency functions as a core governance principle that enables legitimate collective [decision-making](archive/clarity/Tags/decision-making.md). By making proposals, deliberations, and voting processes visible to all members, [DAOs](data/concepts/daos.md) create the conditions for informed participation and meaningful accountability.
+In decentralized autonomous organizations, transparency functions as a core governance principle that enables legitimate collective [decision-making](data/concepts/decisions.md). By making proposals, deliberations, and voting processes visible to all members, [DAOs](data/concepts/daos.md) create the conditions for informed participation and meaningful accountability.
 
 As described in Building DAOs as scalable networks, transparent governance processes allow [community](data/concepts/community.md) members to "step in and require changes" when operations become misaligned with shared purpose. This oversight capacity creates an essential safeguard against capture or corruption, particularly in two-house governance models where Community Governance must maintain visibility into Operational Governance activities.
 
@@ -39,11 +39,11 @@ Transparency in DAO contexts typically manifests through:
 
 In resource allocation and coordination, transparency enables participants to understand how collective assets are being used, creating the accountability necessary for sustainable stewardship. This visibility applies not only to financial resources but also to attention, contribution recognition, and decision rights.
 
-As noted in [Minimum Viable Permissionless-ness](../artifacts/dao-primitives-framework/network-evolution/Minimum Viable Permissionless-ness.md), transparency in resource allocation allows talent to "flow toward opportunity and act on it," creating emergent strategy through visible signals rather than centralized planning. When resource flows and allocation criteria are transparent, participants can make informed decisions about where to direct their efforts, creating more efficient and responsive systems.
+As noted in [Minimum Viable Permissionless-ness](../docs/dao-primitives/articles/Minimum Viable Permissionless-ness.md), transparency in resource allocation allows talent to "flow toward opportunity and act on it," creating emergent strategy through visible signals rather than centralized planning. When resource flows and allocation criteria are transparent, participants can make informed decisions about where to direct their efforts, creating more efficient and responsive systems.
 
 ### Transparency in Cell-Based Organizations
 
-Within the cellular organizational model described in the [DAO Primitives framework](../artifacts/guides/dao-primitives-framework/index.md), transparency functions as a coordination mechanism between autonomous teams. By documenting their "state" in transparent formats, cells enable other teams to understand their purpose, practices, and progress without requiring constant communication or oversight.
+Within the cellular organizational model described in the [DAO Primitives framework](../docs/dao-primitives/primitives-framework/index.md), transparency functions as a coordination mechanism between autonomous teams. By documenting their "state" in transparent formats, cells enable other teams to understand their purpose, practices, and progress without requiring constant communication or oversight.
 
 This transparent state documentation creates what the framework calls "clear interfaces that enable trust-based coordination between groups and individuals across a broader DAO network." Rather than depending on hierarchical reporting structures, cells coordinate through shared visibility into each other's work, allowing for efficient collaboration while maintaining [autonomy](data/concepts/autonomy.md).
 

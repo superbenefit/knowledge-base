@@ -1,5 +1,6 @@
 ---
 group: ics
+publish: false
 ---
 
 # Updated GG23 Campaign Strategy - Additional Elements

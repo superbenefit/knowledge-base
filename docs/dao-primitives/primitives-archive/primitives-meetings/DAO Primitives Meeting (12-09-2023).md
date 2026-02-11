@@ -13,7 +13,7 @@ source: "[2022-04-19 - Weekly Meeting Notes - DAO Primitives](docs/dao-primitive
 	- **Regrets:** 
 - ## **Updates** 
 	- 
-	- (rather) Added #[dao primitives](archive/clarity/Tags/dao%20primitives.md) tag and re-tagged all linked pages
+	- (rather) Added #[dao primitives](docs/dao-primitives/index.md) tag and re-tagged all linked pages
 	- (rather) Cleaned up tasks and flattened Patterns/Modules Hierarchy
 
 		- ⬜️ P-290 Patterns & Modules - DAO Primitives

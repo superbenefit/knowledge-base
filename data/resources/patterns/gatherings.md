@@ -131,8 +131,8 @@ All In For Sport conducted six Gatherings from November 2024 to February 2025, c
 ## References
 
 ### Related Patterns
-- **[Participatory Governance](data/concepts/participatory-governance.md)**: Gatherings incorporate participatory design principles but focus specifically on cross-sector bridge-building rather than design outcomes
-- **[Local Nodes](data/concepts/local-nodes.md)**: Gatherings often serve as activation mechanisms for Local Nodes, bringing together stakeholders who will sustain ongoing collaboration
+- **[Participatory Governance](data/resources/patterns/participatory-governance.md)**: Gatherings incorporate participatory design principles but focus specifically on cross-sector bridge-building rather than design outcomes
+- **[Local Nodes](data/resources/patterns/local-nodes.md)**: Gatherings often serve as activation mechanisms for Local Nodes, bringing together stakeholders who will sustain ongoing collaboration
 
 ### Theoretical Foundations
 - Contact theory and intergroup dialogue practices
@@ -157,7 +157,7 @@ All In For Sport conducted six Gatherings from November 2024 to February 2025, c
 ## Related Concepts
 
 - [Coordination](data/concepts/coordination.md) - Mechanisms for aligning diverse stakeholders
-- [Community Governance](artifacts/patterns/community-governance.md) - Constituency-scale engagement
+- [Community Governance](data/resources/patterns/community-governance.md) - Constituency-scale engagement
 - [Teams](data/concepts/teams.md) - Small groups that form through gatherings
 - [DAOs](data/concepts/daos.md) - Organizations using gatherings for cross-sector bridging
 - [Collaboration](tags/collaboration.md) - Co-creation enabled by gatherings

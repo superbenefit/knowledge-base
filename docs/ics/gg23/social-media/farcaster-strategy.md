@@ -1,5 +1,6 @@
 ---
 group: ics
+publish: false
 ---
 
 # Farcaster Strategy for GG23 Campaign

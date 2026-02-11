@@ -53,7 +53,7 @@ Group state is also fractal, with [Roles](data/concepts/roles.md) and [Tasks](da
 
 ### Group State Patterns
 
-- [data/concepts/cell-state](data/concepts/cell-state.md)
+- [Cell State](data/resources/patterns/cell-state.md)
 - [dao-state](docs/dao-primitives/implementation/patterns/dao-patterns/dao-state.md)
 - [group-state-template](docs/dao-primitives/resources/templates/group-state-template.md)
 
@@ -66,4 +66,4 @@ Group state is also fractal, with [Roles](data/concepts/roles.md) and [Tasks](da
 - [Teams](data/concepts/teams.md) - Groups maintaining state documentation
 - [Coordination](data/concepts/coordination.md) - Mechanisms requiring state tracking
 - [Governance](data/concepts/governance.md) - Decision-making informed by group state
-- [Cell State Pattern](artifacts/patterns/cell-state.md) - Pattern for implementing group state
+- [Cell State Pattern](data/resources/patterns/cell-state.md) - Pattern for implementing group state

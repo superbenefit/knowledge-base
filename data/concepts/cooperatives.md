@@ -9,6 +9,7 @@ tags:
   - governance
   - coordination
 aliases:
+  - "#cooperatives"
   - "#cooperative"
   - "#co-op"
 publish: true
@@ -16,7 +17,7 @@ publish: true
 
 _A cooperative is an autonomous association of persons who voluntarily unite to meet their common economic, social, and cultural needs and aspirations through a jointly owned and democratically controlled enterprise, operating according to internationally recognized principles of member ownership, democratic [governance](data/concepts/governance.md), and equitable distribution of benefits._
 
-Cooperatives represent a fundamentally different approach to enterprise ownership and governance than conventional businesses. Unlike investor-owned firms that concentrate control and direct benefits primarily to external shareholders, cooperatives distribute both ownership and [decision-making](archive/clarity/Tags/decision-making.md) [power](data/concepts/power.md) across their membership, who may be workers, consumers, producers, or other stakeholders directly engaged with the enterprise. This structure creates organizations inherently oriented toward serving member needs rather than maximizing financial returns for investors, establishing operational accountability to the people most affected by the enterprise's activities.
+Cooperatives represent a fundamentally different approach to enterprise ownership and governance than conventional businesses. Unlike investor-owned firms that concentrate control and direct benefits primarily to external shareholders, cooperatives distribute both ownership and [decision-making](data/concepts/decisions.md) [power](data/concepts/power.md) across their membership, who may be workers, consumers, producers, or other stakeholders directly engaged with the enterprise. This structure creates organizations inherently oriented toward serving member needs rather than maximizing financial returns for investors, establishing operational accountability to the people most affected by the enterprise's activities.
 
 In practice, cooperatives operationalize their principles through specific governance mechanisms, including one-member-one-vote democratic control, transparent decision-making processes, limits on external capital influence, and equitable distribution of surpluses. These structures create enterprises capable of balancing economic viability with social purpose, addressing market failures where conventional firms fall short, and building resilient [community](data/concepts/community.md) wealth. While cooperative principles remain consistent across contexts, cooperatives manifest in diverse forms—from small worker-owned businesses to large agricultural producer co-ops to community-owned utilities—each adapting the model to specific member needs and conditions.
 
@@ -50,7 +51,7 @@ This model addresses critiques of the dominant platform economy by ensuring valu
 
 ## Cooperatives and Web3
 
-The convergence of cooperative principles with Web3 technologies creates possibilities for reinventing economic relationships in digital space. Blockchain provides technical infrastructure for cooperative principles like democratic control and economic [participation](participation.md), while smart contracts can encode operational rules and automate processes like profit distribution according to democratically established parameters.
+The convergence of cooperative principles with Web3 technologies creates possibilities for reinventing economic relationships in digital space. Blockchain provides technical infrastructure for cooperative principles like democratic control and economic [participation](data/concepts/participation.md), while smart contracts can encode operational rules and automate processes like profit distribution according to democratically established parameters.
 
 Web3 technologies enable cooperatives to overcome geographic limitations, creating global networks united by shared purpose rather than location. These systems can incorporate both formal membership and more permeable participation structures, using reputation systems to distribute governance rights and economic benefits across diverse contributor community.
 

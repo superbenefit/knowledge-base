@@ -11,7 +11,7 @@ publish: true
 
 _The capacity of individuals, groups, or systems to self-govern, make independent decisions, and act according to their own principles and judgments while remaining accountable for outcomes and participating in larger [coordination](data/concepts/coordination.md) frameworks._
 
-[Autonomy](data/concepts/autonomy.md) represents a fundamental quality in [decentralized](data/concepts/decentralization.md) systems, balancing independence with interdependence. Unlike complete independence, which suggests isolation, autonomy acknowledges the context of relationships and networks within which self-determination occurs. In organizational and social contexts, autonomy enables distributed [decision-making](archive/clarity/Tags/decision-making.md) that can respond to local conditions while maintaining alignment with broader purposes and [values](data/concepts/values.md).
+[Autonomy](data/concepts/autonomy.md) represents a fundamental quality in [decentralized](data/concepts/decentralization.md) systems, balancing independence with interdependence. Unlike complete independence, which suggests isolation, autonomy acknowledges the context of relationships and networks within which self-determination occurs. In organizational and social contexts, autonomy enables distributed [decision-making](data/concepts/decisions.md) that can respond to local conditions while maintaining alignment with broader purposes and [values](data/concepts/values.md).
 
 The concept bridges individual agency with collective coordination, creating systems that can harness diverse perspectives and contextual intelligence without requiring top-down control. This quality is essential for creating resilient, adaptive organizations capable of responding to complexity and change while preserving coherence and purpose alignment.
 
@@ -23,7 +23,7 @@ The concept bridges individual agency with collective coordination, creating sys
 
 In [DAOs](data/concepts/daos.md) and other decentralized organizations, autonomy refers to the ability of individual contributors and teams to make decisions and take actions without requiring approval from a hierarchical management structure. This operational freedom is balanced through alignment mechanisms like shared purpose, transparent agreements, and distributed [governance](data/concepts/governance.md) protocols rather than command-and-control directives.
 
-As described in the [DAO Primitives framework](../artifacts/guides/dao-primitives-framework/index.md), DAOs function as "purpose-aligned networks of small autonomous teams" where each unit maintains decision-making independence while coordinating with others toward shared goals. This creates organizations that can simultaneously achieve focus through small team collaboration while leveraging network-scale coordination.
+As described in the [DAO Primitives framework](../docs/dao-primitives/primitives-framework/index.md), DAOs function as "purpose-aligned networks of small autonomous teams" where each unit maintains decision-making independence while coordinating with others toward shared goals. This creates organizations that can simultaneously achieve focus through small team collaboration while leveraging network-scale coordination.
 
 ### Autonomy in Cell-Based Structures
 
@@ -49,7 +49,7 @@ This connection is evident in patterns like Privacy-Preserving Crypto Payments, 
 - [Consent](data/concepts/consent.md): Autonomous decision-making often relies on consent-based processes, where actions proceed unless there are substantive objections
 - [Decisions](data/concepts/decisions.md): The capacity to make independent decisions is central to meaningful autonomy
 - [Permissions](data/concepts/permissions.md): Systems for managing access and authority create the boundaries within which autonomy operates
-- [Cell](artifacts/primitives-framework/patterns/cell.md): Autonomous teams operating within a purpose-aligned network
+- [Cell](data/resources/patterns/cells.md): Autonomous teams operating within a purpose-aligned network
 - Sovereignty: A related concept emphasizing self-governance and authority over defined domains
 
 ## References and Resources

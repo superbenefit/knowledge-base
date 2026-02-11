@@ -1,5 +1,8 @@
 ---
 group: rpp
+type: note
+title: Stakeholder Meeting 1
+publish: false
 ---
 
 Welcome! To the Reimagining Power Stakeholder Meeting  

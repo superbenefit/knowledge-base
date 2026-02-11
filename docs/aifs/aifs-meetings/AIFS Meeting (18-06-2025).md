@@ -24,6 +24,7 @@ _Weekly meeting agenda & notes for the AIFS community._
 - 
 
 date: 2025-06-18
+publish: false
 ---
 
 # Decision Log

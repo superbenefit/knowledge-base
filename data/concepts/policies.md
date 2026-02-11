@@ -37,7 +37,7 @@ The distinction between "policies as code" and "policies as social agreements" r
 
 ### Policies in Cell-Based Organizations
 
-In [cell-based organizational models](data/concepts/cells.md), policies operate at multiple scales. Each [Cell](data/concepts/cells.md) maintains internal policies aligned with its specific function, while network-level policies create coherence across the organization. This approach enables both local autonomy and system-wide coordination through a fractal structure of nested agreements. The [state](data/concepts/cell-state.md) of each cell includes documentation of its operative policies, making these agreements transparent and accessible.
+In [cell-based organizational models](data/resources/patterns/cells.md), policies operate at multiple scales. Each [Cell](data/resources/patterns/cells.md) maintains internal policies aligned with its specific function, while network-level policies create coherence across the organization. This approach enables both local autonomy and system-wide coordination through a fractal structure of nested agreements. The [state](data/resources/patterns/cell-state.md) of each cell includes documentation of its operative policies, making these agreements transparent and accessible.
 
 The primitive of [nucleus](docs/dao-primitives/implementation/patterns/collaboration-scale-patterns/nucleus.md) serves as a container for these policies, capturing decision-making frameworks, resource allocation rules, and operational guidelines. Through this structure, policies become part of the state documentation that enables both internal coherence within teams and external coordination across the network.
 ---

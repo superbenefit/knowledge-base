@@ -1,5 +1,6 @@
 ---
 group: aifs
+publish: false
 ---
 
 # AIFS Gathering #0: Co-creating the Program

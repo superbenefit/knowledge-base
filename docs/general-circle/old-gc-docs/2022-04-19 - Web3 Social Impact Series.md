@@ -1,13 +1,14 @@
 ---
 group: general-circle
+publish: false
 ---
 
-#[web3 & social impact series](archive/clarity/Tags/web3%20&%20social%20impact%20series.md) 
+#web3 & social impact series 
 
 
 
 
-#[196 Information Squad- Revolution 1](196%20Information%20Squad-%20Revolution%201) #[information squad](archive/clarity/Tags/information%20squad.md) #communication 
+#[196 Information Squad- Revolution 1](196%20Information%20Squad-%20Revolution%201) #information squad #communication 
 
 # **Web3 & Social Impact Series**
 

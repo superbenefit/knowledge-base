@@ -1,7 +1,10 @@
 ---
 group: rpp
+type: note
+title: ICS Discovery Report
 tags:
   - experiments
+publish: false
 ---
 _Discovery notes and outline for the Institute for Community Sustainability's experiment within the Reimagining Power project at SuperBenefit._
 

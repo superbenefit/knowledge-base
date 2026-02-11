@@ -16,7 +16,7 @@ Web3 systems introduce new paradigms for resource management through mechanisms 
 
 ## Uses of "Resources"
 
-### [DAO Primitives framework](../artifacts/guides/dao-primitives-framework/index.md)
+### [DAO Primitives framework](../docs/dao-primitives/primitives-framework/index.md)
 
 In the DAO Primitives Framework, resources are fundamental building blocks that enable coordinated action. They include financial assets (like treasury funds), technical infrastructure, community attention, and knowledge capabilities that DAOs can leverage to achieve their purpose. The framework emphasizes that effective resource allocation through transparent and participatory processes is essential for decentralized organizations to coordinate efficiently across different scales.
 

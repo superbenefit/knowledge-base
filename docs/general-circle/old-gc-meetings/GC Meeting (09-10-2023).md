@@ -3,6 +3,7 @@ group: general-circle
 tags:
   - meetings
 date: 2023-10-09
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 ## 9/10/23

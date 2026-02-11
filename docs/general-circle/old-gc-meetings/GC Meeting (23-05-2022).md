@@ -3,10 +3,11 @@ group: general-circle
 tags:
   - meetings
 date: 2022-05-23
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 # Week of May 23, 2022
-#[tactical meetings](archive/clarity/Tags/tactical%20meetings.md) Template
+#tactical meetings Template
 
 ## Attendees
 - 
@@ -23,14 +24,14 @@ date: 2022-05-23
 		- Incubator ideas - football.xyz
 	- This week:
 	- Blockers:
-- Project name/link - #[superbenefit contributor guide - working draft](archive/clarity/Tags/superbenefit%20contributor%20guide%20-%20working%20draft.md) 
+- Project name/link - #superbenefit contributor guide - working draft 
 	- Last week: 
 		- Added some content and questions
 	- This week:
 		- Meeting with contributor guide team, set deadline
 	- Blockers:
 		- Set a deadline
-- #[governance conversations](archive/clarity/Tags/governance%20conversations.md) 
+- #governance conversations 
 	- Last week: 
 		- Confirmed panellists for Conversation 1
 		- Started tweeting & sharing in Discord servers
@@ -38,7 +39,7 @@ date: 2022-05-23
 		- Promote Conversation 1
 		- Secure panellists for Conversations 2 & 3
 	- Blockers:
-- Project name/link - #[superbenefit contributor guide - working draft](archive/clarity/Tags/superbenefit%20contributor%20guide%20-%20working%20draft.md)#[233 [BOUNTY](233%20[BOUNTY)  
+- Project name/link - #superbenefit contributor guide - working draft#[233 [BOUNTY](233%20[BOUNTY)  
 	- Last week: 
 		- Feedback given 
 	- This week:
@@ -65,7 +66,7 @@ date: 2022-05-23
 	- Token wallets - please have a look - Any questions (Rowan)
 	- What is the WG11business...
 	- Governance structure conversation (Rowan)
-		- Heenal & Rowan to meet to prune/update #[superbenefit governance](archive/clarity/Tags/superbenefit%20governance.md) doc
+		- Heenal & Rowan to meet to prune/update #superbenefit governance doc
 	- [https://docs.google.com/document/d/1ShkU4lmrOHnffcFQE3bcKPU6L9NdPoYQAC9sRMK0mT8/edit?usp=sharing](https://docs.google.com/document/d/1ShkU4lmrOHnffcFQE3bcKPU6L9NdPoYQAC9sRMK0mT8/edit?usp=sharing) 
 
 ## Checkout

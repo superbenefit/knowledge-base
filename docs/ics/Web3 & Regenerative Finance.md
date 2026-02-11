@@ -1,5 +1,6 @@
 ---
 group: ics
+publish: false
 ---
 
 # Web3 & Regenerative Finance at ICS

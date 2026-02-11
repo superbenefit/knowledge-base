@@ -1,5 +1,6 @@
 ---
 group: aifs
+publish: false
 ---
 
 # AIFS Gathering #2: Community Governance

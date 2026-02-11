@@ -2,6 +2,7 @@
 group: general-circle
 tags:
   - tasks
+publish: false
 ---
 ## Background
 - s
@@ -16,4 +17,4 @@ tags:
 - Estimated effort: 2-3 hours
 - Bounty Reward: 50 $SPRB (tbc)
 - Due date: February 18, 2022
-- Reporting to @heenal <lead> as part of #[information squad](archive/clarity/Tags/information%20squad.md) 
+- Reporting to @heenal <lead> as part of #information squad 

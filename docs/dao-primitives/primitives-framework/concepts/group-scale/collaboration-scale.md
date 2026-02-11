@@ -1,5 +1,6 @@
 ---
 group: dao-primitives
+type: note
 title: Collaboration Scale
 description: Characteristics and considerations for groups operating at the Collaboration Scale.
 tags:
@@ -82,9 +83,9 @@ See the [sense-making-facilitation-tools](docs/dao-primitives/implementation/gui
 
 ### Collaboration Scale Patterns
 
-- [data/concepts/cell-state](data/concepts/cell-state.md)
-- [data/concepts/cells](data/concepts/cells.md)
-- [data/concepts/decider](data/concepts/decider.md)
+- [Cell State](data/resources/patterns/cell-state.md)
+- [Cells](data/resources/patterns/cells.md)
+- [Decider](data/resources/patterns/decider.md)
 
 ---
 

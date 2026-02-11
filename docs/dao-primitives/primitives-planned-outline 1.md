@@ -1,5 +1,8 @@
 ---
 group: dao-primitives
+type: note
+title: DAO Primitives Content
+publish: false
 ---
 
 # DAO Primitives Content
@@ -47,7 +50,7 @@ These three conceptual lenses help you understand and design organizations by ex
 - Guides selection of appropriate governance and coordination mechanisms
 
 **Group State** ✅ Published
-- Path: `artifacts/guides/dao-primitives-framework/group-state.md`
+- Path: `docs/dao-primitives/primitives-framework/concepts/group-state.md`
 - Purpose/Practice/Progress structure for organizational identity and coherence
 - Provides template for documenting organizational information
 
@@ -220,7 +223,7 @@ This article series develops the theoretical foundations of the DAO Primitives f
 These case studies document real implementations of the DAO Primitives framework across different contexts and organizational types. They show how the concepts translate into practice, reveal emergent patterns, and highlight both successes and ongoing challenges.
 
 **All In For Sport (AIFS)** ✅ Published
-- Path: `artifacts/studies/experiments/aifs-experiment-case-study.md`
+- Path: `docs/rpp/aifs-experiment-case-study.md`
 - Context: NFT project → coordi-nation via RPP (Aug 2024 - Mar 2025)
 - Scale: 111 participants across gatherings series
 - Demonstrates: Cell entities, operational/community governance, Group State as organizational graph
@@ -228,7 +231,7 @@ These case studies document real implementations of the DAO Primitives framework
 - Challenges: Sustainable funding for coordination work
 
 **Institute for Community Sustainability (ICS)** ✅ Published
-- Path: `artifacts/studies/experiments/ics-experiment-case-study.md`
+- Path: `docs/rpp/ics-experiment-case-study.md`
 - Context: London Ontario nonprofit, Jan-July 2025
 - Demonstrates: Token-based governance, multistakeholder patterns, DAO entities, role agreements, local nodes
 - Findings: 6-18 month adoption timeline, importance of enjoyment/accessibility

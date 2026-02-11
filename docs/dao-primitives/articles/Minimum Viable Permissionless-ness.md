@@ -22,7 +22,7 @@ As we wrote in our recent article [DAOs: From Fractal Primitives to Network Scal
 
 This is what sets DAOs apart from businesses and other organizations. Traditionally we work on the notion that the smartest people sit at the top of an organization. They filter all of the information from across the whole org and then come up with a strategy that is sent down the chain of command to be implemented by the "little people" at the coal face.
 
-But DAOs **—** as fractal networks of [cells](data/concepts/cells.md) **—** have the ability to self-organize around the best opportunities emerging across the system in real-time. This dynamic, occurring constantly across the whole network, causes the system to become "intelligent". It can prioritize opportunities, allocate [resources](data/concepts/resources.md), make strategic [decisions](data/concepts/decisions.md), change its shape and change its direction. It can do all of this traditional "strategy" much more effectively than a traditional organization can. Furthermore it can do it organically and from the bottom up in a deeply decentralized way.
+But DAOs **—** as fractal networks of [cells](data/resources/patterns/cells.md) **—** have the ability to self-organize around the best opportunities emerging across the system in real-time. This dynamic, occurring constantly across the whole network, causes the system to become "intelligent". It can prioritize opportunities, allocate [resources](data/concepts/resources.md), make strategic [decisions](data/concepts/decisions.md), change its shape and change its direction. It can do all of this traditional "strategy" much more effectively than a traditional organization can. Furthermore it can do it organically and from the bottom up in a deeply decentralized way.
 
 Central to harnessing this decentralized collective intelligence in DAOs is the concept of "Permissionless-ness". The concept of "permissionless access" gets thrown around a lot in DAO-land but mostly as an ideal or an aspiration, and usually not in a very principled way.
 
@@ -135,8 +135,8 @@ You have a system that can [scale](data/concepts/scale.md) collective intelligen
 
 ### Article Series
 
-- Previous: [DAOs - From fractal primitives to network scale](artifacts/primitives-framework/articles/DAOs - From fractal primitives to network scale..md)
-- Next: [Building DAOs as scalable networks](artifacts/primitives-framework/articles/Building DAOs as scalable networks.md)
+- Previous: [DAOs - From fractal primitives to network scale](docs/dao-primitives/articles/DAOs - From fractal primitives to network scale..md)
+- Next: [Building DAOs as scalable networks](docs/dao-primitives/articles/Building DAOs as scalable networks.md)
 
 ---
 

@@ -2,6 +2,7 @@
 group: general-circle
 tags:
   - tasks
+publish: false
 ---
 Community members should be given 24 hours to reflect and contribute to the mission vision and values in Miro.
 - [ ] @Lewwwk will announce in the project channel, doing a quick loom of the existing miro.

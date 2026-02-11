@@ -3,6 +3,7 @@ group: general-circle
 tags:
   - meetings
 date: 2023-04-03
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 ## Attendees
@@ -17,7 +18,7 @@ date: 2023-04-03
 	- Last week: 
 	- This week:
 	- Blockers:
-- Project - #[dao primitives](archive/clarity/Tags/dao%20primitives.md) 
+- Project - #[dao primitives](docs/dao-primitives/index.md) 
 	- Last week: 
 		- AIFS Developments 
 		- Putting a post together

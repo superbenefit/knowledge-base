@@ -3,6 +3,7 @@ group: general-circle
 tags:
   - meetings
 date: 2022-02-07
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 # Week of February 7, 2022
@@ -85,9 +86,9 @@ What's your capacity for SB in the coming week?
 	- Remove blocker from refactoring of Guilds (since Guilds do not play a role in Governance)
 	- ✅ SUP-169 Activate Discord channel refactor 
 - Blocker:
-	- sub-task for launch of Governance token shared with #[treasury squad](archive/clarity/Tags/treasury%20squad.md) 
+	- sub-task for launch of Governance token shared with #treasury squad 
 
-#[resource flow squad](archive/clarity/Tags/resource%20flow%20squad.md) 
+#resource flow squad 
 - Last week
 	- Refine resource flow squad outline
 	- Develop first cut design of first expedition for RF
@@ -155,10 +156,10 @@ Culture and Communications Squad
 		- ToC is going to a proposal
 		- $SPRB design is going to proposal
 - Squad role specs incomplete or need for clarification - @remarkk 
-	- [#[operations squad](/notes/archive/clarity/Tags/operations%20squad.md)](https://app.clarity.so/superbenefit/pages/4adc5a52-2d1e-45fd-918d-ada1ce7fd3c0) - @Ryan  @Lewwwk 
-	- #[product development squad](archive/clarity/Tags/product%20development%20squad.md) - @Ryan  @Lewwwk 
-	- #[treasury squad](archive/clarity/Tags/treasury%20squad.md) and #[resource flow squad](archive/clarity/Tags/resource%20flow%20squad.md) - overlap? - @Lewwwk @Rowan  
-	- #[community experience squad](archive/clarity/Tags/community%20experience%20squad.md) and Culture and Communications Squad - overlap? - @MBaldwin @flashlight 
+	- [#operations squad](https://app.clarity.so/superbenefit/pages/4adc5a52-2d1e-45fd-918d-ada1ce7fd3c0) - @Ryan  @Lewwwk 
+	- #product development squad - @Ryan  @Lewwwk 
+	- #treasury squad and #resource flow squad - overlap? - @Lewwwk @Rowan  
+	- #community experience squad and Culture and Communications Squad - overlap? - @MBaldwin @flashlight 
 - Bounty Governance - @remarkk 
 	- We have one active bounty. How was it created and funded? Who decides?
 	- **ACTION:** @Lewwwk and @remarkk to work on a solution for this.

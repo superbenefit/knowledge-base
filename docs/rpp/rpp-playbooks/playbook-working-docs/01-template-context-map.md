@@ -1,5 +1,8 @@
 ---
 group: rpp
+type: note
+title: Playbook Template-Context Mapping
+publish: false
 ---
 
 # Playbook Template-Context Mapping

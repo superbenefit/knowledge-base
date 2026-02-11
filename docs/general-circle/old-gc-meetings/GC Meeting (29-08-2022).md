@@ -3,10 +3,11 @@ group: general-circle
 tags:
   - meetings
 date: 2022-08-29
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 # Week of August 29, 2022
-#[tactical meetings](archive/clarity/Tags/tactical%20meetings.md) 
+#tactical meetings 
 ## Attendees
 - Michelle, Ayusha, Michael, Rowan 
 

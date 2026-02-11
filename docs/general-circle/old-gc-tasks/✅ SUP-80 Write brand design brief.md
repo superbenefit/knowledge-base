@@ -2,6 +2,7 @@
 group: general-circle
 tags:
   - tasks
+publish: false
 ---
 Make better faster. SuperBenefit is a DAO accelerating a better future.
 Our purpose is to embed _universal abundance*_ into the core infrastructure of the future. Every couple of generations new societal infrastructure systems appear that our societies run on. The internet is the most recent example. The values that were baked into the infrastructure of the original internet shaped the systems build on top, and allowed for massive concentration of power. We believe that blockchain is the next infrastructure revolution, and that this is a moment to accomplish exponential change. By building better values into the core infrastructure, we can shape all the systems built atop it.

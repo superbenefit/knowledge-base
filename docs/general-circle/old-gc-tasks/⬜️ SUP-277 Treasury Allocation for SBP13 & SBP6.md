@@ -2,6 +2,7 @@
 group: general-circle
 tags:
   - tasks
+publish: false
 ---
 Requirements:
 - Allocate a total of 100,000 $SPRB from from the SuperBenefit treasury to the corresponding cells/projects/teams:

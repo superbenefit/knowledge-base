@@ -3,6 +3,7 @@ group: general-circle
 tags:
   - meetings
 date: 2023-02-06
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 ## Attendees
@@ -36,7 +37,7 @@ Njoki also met with Sharlene Ghandi at Future of Good and may collaborate on pie
 		- 
 	- This week:
 	- Blockers:
-- #[dao primitives](archive/clarity/Tags/dao%20primitives.md) 
+- #[dao primitives](docs/dao-primitives/index.md) 
 	- Last weej
 		- Lots of good things happening
 	- This week:
@@ -52,11 +53,11 @@ _What tensions do you have that need resolution to move forward in your work?_
 
 Rough numbers for $SPRB
 - #[P-264 Systems Transformation Project](P-264%20Systems%20Transformation%20Project) (20k already) (25%) 45k
-- #[dao primitives](archive/clarity/Tags/dao%20primitives.md)  (10k already) (45%) 55k
--  #[general circle](archive/clarity/Tags/general%20circle.md) 10% 10k
+- #[dao primitives](docs/dao-primitives/index.md)  (10k already) (45%) 55k
+-  #general circle 10% 10k
 - Transformation mapping (5k already) (10%) 15k
 - #[P-193 Community Experience- Revolution 1](P-193%20Community%20Experience-%20Revolution%201) (10%) 10k
 
 Rough stablecoin allocation (USDC) (50% up front)
 - #[P-264 Systems Transformation Project](P-264%20Systems%20Transformation%20Project) - 3k
-- #[dao primitives](archive/clarity/Tags/dao%20primitives.md)  - 6k
+- #[dao primitives](docs/dao-primitives/index.md)  - 6k

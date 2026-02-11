@@ -2,6 +2,7 @@
 group: general-circle
 tags:
   - tasks
+publish: false
 ---
 Following the crowdfund launch, it is incumbent upon us to review the Onboarding Flow to ensure that newcomers to SB's Discord server can quickly get an overview of SB's goals and current status, and can understand how to engage and "what to do next". 
 Below we review the current onboarding flow, its challenges, and some possible solutions.

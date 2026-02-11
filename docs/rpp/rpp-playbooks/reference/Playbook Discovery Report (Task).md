@@ -1,7 +1,10 @@
 ---
 group: rpp
+type: note
+title: Playbook Discovery Report (task)
 tags:
   - playbooks
+publish: false
 ---
 > .
 

@@ -15,7 +15,7 @@ tags:
 
 P2P architecture fundamentally differs from traditional client-server models by eliminating central points of control and distributing both resources and authority across network participants. This creates systems that are "equally privileged, equipotent participants" where [coordination](data/concepts/coordination.md) emerges through direct peer interaction rather than hierarchical management.
 
-In the context of decentralized organizations and social coordination, P2P principles extend beyond technical networks to describe organizational models where participants engage directly with each other as equals, sharing resources and [decision-making](archive/clarity/Tags/decision-making.md) authority without centralized gatekeepers. This makes P2P particularly relevant to cooperative organization, [community](data/concepts/community.md) networks, and Web3 systems that prioritize democratic [participation](participation.md) and distributed coordination.
+In the context of decentralized organizations and social coordination, P2P principles extend beyond technical networks to describe organizational models where participants engage directly with each other as equals, sharing resources and [decision-making](data/concepts/decisions.md) authority without centralized gatekeepers. This makes P2P particularly relevant to cooperative organization, [community](data/concepts/community.md) networks, and Web3 systems that prioritize democratic [participation](data/concepts/participation.md) and distributed coordination.
 
 ---
 

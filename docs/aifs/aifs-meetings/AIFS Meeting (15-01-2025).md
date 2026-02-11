@@ -3,6 +3,7 @@ group: aifs
 tags:
   - meetings
 date: 2025-01-15
+publish: false
 ---
 
 # Meeting Summary

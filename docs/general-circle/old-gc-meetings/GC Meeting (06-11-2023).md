@@ -3,6 +3,7 @@ group: general-circle
 tags:
   - meetings
 date: 2023-11-06
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 ## Attendees
@@ -28,7 +29,7 @@ date: 2023-11-06
 	- Expecting first payment this week.
 	- Stakeholder engagement beginning in next couple of weeks
 	- Introductory blog post - targeting end of next week
-- #[community experience squad](archive/clarity/Tags/community%20experience%20squad.md) 
+- #community experience squad 
 	- Welcoming new folks - let's make sure we are collaborating
 
 ## Discussion topics

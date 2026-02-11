@@ -4,6 +4,7 @@ title: AIFS Gathering 3 - 22 Jan 25
 tags:
   - aifs
   - poetic-harvest
+publish: false
 ---
 
 # AIFS Gathering 3 - 22 Jan 25

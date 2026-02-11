@@ -34,7 +34,7 @@ Technical protocols in web3 include:
 - **Identity protocols** for verifying and managing digital identities
 - **Financial protocols** (DeFi) for lending, trading, and other financial interactions
 
-Unlike traditional software systems, the open and permissionless nature of blockchain protocols enables global networks of participants to coordinate without central authorities. As noted in the [Minimum Viable Permissionless-ness](../artifacts/dao-primitives-framework/network-evolution/Minimum Viable Permissionless-ness.md) article, these systems create "the ability for anyone anywhere to contribute creatively to a system" by establishing clear rules that maintain network integrity while enabling permissionless participation.
+Unlike traditional software systems, the open and permissionless nature of blockchain protocols enables global networks of participants to coordinate without central authorities. As noted in the [Minimum Viable Permissionless-ness](../docs/dao-primitives/articles/Minimum Viable Permissionless-ness.md) article, these systems create "the ability for anyone anywhere to contribute creatively to a system" by establishing clear rules that maintain network integrity while enabling permissionless participation.
 
 ### Social Protocols in DAOs
 

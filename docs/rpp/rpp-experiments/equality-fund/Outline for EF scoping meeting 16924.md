@@ -1,7 +1,10 @@
 ---
 group: rpp
+type: note
+title: Outline For EF Scoping Meeting 16924
 tags:
   - experiments
+publish: false
 ---
 
 **Context:**

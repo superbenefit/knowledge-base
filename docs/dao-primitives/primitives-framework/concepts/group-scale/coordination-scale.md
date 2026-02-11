@@ -1,5 +1,6 @@
 ---
 group: dao-primitives
+type: note
 title: Coordination Scale
 description: Characteristics and considerations for groups operating at the Coordination Scale
 tags:
@@ -34,7 +35,7 @@ This scale is appropriate for your organization when you observe:
 
 **Structural Implications:**
 - Formal [governance](data/concepts/governance.md) structures guide [decision-making](data/concepts/decisions.md) and accountability
-- Multiple teams (often [Cells](data/concepts/cells.md)) with defined [roles](data/concepts/roles.md) and [responsibilities](data/concepts/responsibilities.md)
+- Multiple teams (often [Cells](data/resources/patterns/cells.md)) with defined [roles](data/concepts/roles.md) and [responsibilities](data/concepts/responsibilities.md)
 - [Group state](docs/dao-primitives/primitives-framework/concepts/group-state.md) documentation provides [transparency](data/concepts/transparency.md) across teams
 - Reporting mechanisms track [progress](data/concepts/progress.md) and enable resource allocation
 - Communication platforms support asynchronous coordination alongside synchronous meetings

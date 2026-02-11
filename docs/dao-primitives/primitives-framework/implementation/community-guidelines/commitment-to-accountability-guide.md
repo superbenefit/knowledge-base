@@ -1,7 +1,9 @@
 ---
 group: dao-primitives
+type: guide
 title: Commitment to Accountability Implementation Guide
 description:
+publish: false
 ---
 
 Your Commitment to Accountability defines how community members interact day-to-day. These are shared behavioral expectations that all members commit to -- the culture you're actively building together.

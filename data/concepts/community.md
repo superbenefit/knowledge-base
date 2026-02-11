@@ -46,22 +46,22 @@ Unlike traditional user bases or audiences, web3 communities exercise direct inf
 
 Communities can function as coordination mechanisms for autonomous teams and resource flows. In this context, a community provides the shared context, values, and communication channels necessary for decentralized entities to align their actions without centralized control.
 
-The [DAO Primitives framework](../artifacts/guides/dao-primitives-framework/index.md) describes how "purpose-aligned networks of small autonomous teams" can coordinate effectively through community-level agreements and shared infrastructure, creating systems that "outperform traditional organizations" while directing "performance towards building a better and more sustainable world."
+The [DAO Primitives framework](../docs/dao-primitives/primitives-framework/index.md) describes how "purpose-aligned networks of small autonomous teams" can coordinate effectively through community-level agreements and shared infrastructure, creating systems that "outperform traditional organizations" while directing "performance towards building a better and more sustainable world."
 
 ### Community as Governance Constituency
 
-In [Community Governance](data/concepts/community-governance.md), "community" refers to the broad base of stakeholders who participate in governing a network's overarching purpose and direction. This constituency-scale governance operates through deliberative mechanisms like conviction voting and makes long-term decisions about network direction and treasury allocation.
+In [Community Governance](data/resources/patterns/community-governance.md), "community" refers to the broad base of stakeholders who participate in governing a network's overarching purpose and direction. This constituency-scale governance operates through deliberative mechanisms like conviction voting and makes long-term decisions about network direction and treasury allocation.
 
-As described in [Building DAOs as scalable networks](../artifacts/dao-primitives-framework/network-evolution/Building DAOs as scalable networks.md), community governance "safeguards the purpose of the network" and includes a diverse set of stakeholders: "Cell contributors, founders, partners (sponsors, funders etc), as well as others that have a stake in the purpose of th[Conversation Phase](docs/dao-primitives/primitives-framework/concepts/group-phase/conversation-phase.md)roup Development
+As described in [Building DAOs as scalable networks](../docs/dao-primitives/articles/Building DAOs as scalable networks.md), community governance "safeguards the purpose of the network" and includes a diverse set of stakeholders: "Cell contributors, founders, partners (sponsors, funders etc), as well as others that have a stake in the purpose of th[Conversation Phase](docs/dao-primitives/primitives-framework/concepts/group-phase/conversation-phase.md)roup Development
 
-During the early [Conversation Phase](artifacts/primitives-framework/group-phase/conversation-phase.md) of group development, community serves as the foundation for exploration and idea generation. This phase is characterized by "open exploration and idea generation" where "all perspectives are valued" to establish a shared vision and understanding.
+During the early [Conversation Phase](docs/dao-primitives/primitives-framework/concepts/group-phase/conversation-phase.md) of group development, community serves as the foundation for exploration and idea generation. This phase is characterized by "open exploration and idea generation" where "all perspectives are valued" to establish a shared vision and understanding.
 
 The community at this stage focuses on relationship building, creating trust and rapport among members that will be essential for effective collaboration in later stages of development.
 ---
 
 ## Related Concepts
 
-- [Community Governance](artifacts/patterns/community-governance.md) - Patterns for community stewardship
+- [Community Governance](data/resources/patterns/community-governance.md) - Patterns for community stewardship
 - [DAOs](data/concepts/daos.md) - Decentralized community organizations
 - [Coordination](data/concepts/coordination.md) - Community coordination mechanisms
 - [Teams](data/concepts/teams.md) - Small groups within communities

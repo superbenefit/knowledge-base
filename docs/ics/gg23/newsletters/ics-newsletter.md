@@ -1,5 +1,6 @@
 ---
 group: ics
+publish: false
 ---
 
 # ICS Newsletter: Help Us Build Bridges Between Community Sustainability and Web3

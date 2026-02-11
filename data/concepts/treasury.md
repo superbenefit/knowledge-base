@@ -8,9 +8,9 @@ aliases:
   - "#treasury"
   - "#treasuries"
 tags:
-  - "resources"
-  - "governance"
-  - "daos"
+  - resources
+  - governance
+  - daos
 ---
 
 *In the context of a DAO, a treasury is a collectively-owned and governed pool of on-chain assets, managed through smart contracts, which serves as the primary financial resource for funding operations, rewarding contributors, and achieving the organization's purpose.*
@@ -31,7 +31,7 @@ As highlighted in notes/links/to-review/A Pocket Guide to DAO Frameworks, differ
 
 ### As the Engine of Scalable Operations
 
-In scalable network models, as described in [Building DAOs as scalable networks](../artifacts/dao-primitives-framework/network-evolution/Building DAOs as scalable networks.md), the treasury is the critical resource that fuels the entire system. It is managed through a multi-layered governance approach:
+In scalable network models, as described in [Building DAOs as scalable networks](../docs/dao-primitives/articles/Building DAOs as scalable networks.md), the treasury is the critical resource that fuels the entire system. It is managed through a multi-layered governance approach:
 - **Community Governance** acts as a safeguard, holding ultimate authority by approving the overall operational budget from the main treasury. This ensures all operations remain aligned with the network's long-term purpose.
 - **Operational Governance**, carried out by coordinating [Cells](drafts/test-resources/test-pattern.md), then has the autonomy to allocate this budgeted capital to specific projects and contributors, enabling agility and innovation at the team scale.
 

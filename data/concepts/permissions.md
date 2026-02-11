@@ -24,9 +24,9 @@ In complex coordination systems, permissions operate at multiple levels simultan
 
 ### Permissions in DAO [Primitives](data/concepts/primitives.md)
 
-In the [DAO Primitives framework](../artifacts/guides/dao-primitives-framework/index.md), permissions function as a core mechanism for coordinating autonomous teams (Cells) within a larger network. The framework treats permissions not as static assignments but as relational agreements between network participants that determine how resources, decisions, and responsibilities are distributed across the system.
+In the [DAO Primitives framework](../docs/dao-primitives/primitives-framework/index.md), permissions function as a core mechanism for coordinating autonomous teams (Cells) within a larger network. The framework treats permissions not as static assignments but as relational agreements between network participants that determine how resources, decisions, and responsibilities are distributed across the system.
 
-As [DAOs](data/concepts/daos.md) scale through fractal structures of interconnected Cells, permissions enable what [Minimum Viable Permissionless-ness](../artifacts/dao-primitives-framework/network-evolution/Minimum Viable Permissionless-ness.md) describes as "permissionless access to the network" while still providing necessary constraints on resource allocation. This distinction is crucial - while anyone can see opportunities and start working, permissions govern who can access treasuries, make binding decisions, or modify shared infrastructure.
+As [DAOs](data/concepts/daos.md) scale through fractal structures of interconnected Cells, permissions enable what [Minimum Viable Permissionless-ness](../docs/dao-primitives/articles/Minimum Viable Permissionless-ness.md) describes as "permissionless access to the network" while still providing necessary constraints on resource allocation. This distinction is crucial - while anyone can see opportunities and start working, permissions govern who can access treasuries, make binding decisions, or modify shared infrastructure.
 
 This approach creates what might be called "calibrated permissioning" - deliberately designing where authority lies to achieve appropriate decentralization without sacrificing coordination capacity or security.
 
@@ -45,11 +45,11 @@ Technical implementations include:
 
 ### Permissions in Governance Systems
 
-In governance contexts, permissions define who can participate in different aspects of [decision-making](archive/clarity/Tags/decision-making.md) and under what conditions. This includes rights to create proposals, vote on decisions, delegate authority, or implement approved changes.
+In governance contexts, permissions define who can participate in different aspects of [decision-making](data/concepts/decisions.md) and under what conditions. This includes rights to create proposals, vote on decisions, delegate authority, or implement approved changes.
 
 Permissions in governance typically operate across multiple scales, with different decision types requiring different permission structures. As described in Building DAOs as scalable networks, a two-house governance structure might separate permission systems:
 
-- **[Community](data/concepts/community.md) Governance** permissions focus on long-term, high-stakes decisions about purpose and treasury management, often requiring broader stakeholder [participation](participation.md)
+- **[Community](data/concepts/community.md) Governance** permissions focus on long-term, high-stakes decisions about purpose and treasury management, often requiring broader stakeholder [participation](data/concepts/participation.md)
 - **Operational Governance** permissions address day-to-day implementation and tactical decisions, distributed across autonomous teams in a sociocratic structure
 
 This multi-scale approach allows permissions to be calibrated to the specific nature and impact of different decision types.

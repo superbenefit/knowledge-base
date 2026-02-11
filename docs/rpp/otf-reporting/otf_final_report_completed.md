@@ -1,5 +1,8 @@
 ---
 group: rpp
+type: note
+title: OTF Final Report - Web3 and System Transformation Partnership
+publish: false
 ---
 
 # OTF Final Report - Web3 and System Transformation Partnership

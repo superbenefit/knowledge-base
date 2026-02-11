@@ -294,5 +294,5 @@ ICS pioneered this pattern as fiscal sponsor for the Reimagining Power Project:
 - [DAOs](data/concepts/daos.md) - Web3 organizations bridging to traditional finance
 - [Coordination](data/concepts/coordination.md) - Bridging traditional and Web3 ecosystems
 - [Governance](data/concepts/governance.md) - Regulatory compliance and decision-making
-- [Community Governance](artifacts/patterns/community-governance.md) - Multi-stakeholder coordination
+- [Community Governance](data/resources/patterns/community-governance.md) - Multi-stakeholder coordination
 - [Primitives](data/concepts/primitives.md) - Web3 building blocks for fiscal operations

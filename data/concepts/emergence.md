@@ -23,13 +23,13 @@ Understanding emergence is crucial for designing and supporting decentralized sy
 
 ### Emergence in Decentralized Network Coordination
 
-In Web3 and DAO contexts, emergence in coordination describes how collective [decision-making](archive/clarity/Tags/decision-making.md) and resource allocation capabilities arise from individual participant interactions within shared governance frameworks. These systems create "mechanisms for resource pooling, risk distribution, and collective governance without requiring centralized control," where network-level coordination emerges from autonomous individual contributions and interactions.
+In Web3 and DAO contexts, emergence in coordination describes how collective [decision-making](data/concepts/decisions.md) and resource allocation capabilities arise from individual participant interactions within shared governance frameworks. These systems create "mechanisms for resource pooling, risk distribution, and collective governance without requiring centralized control," where network-level coordination emerges from autonomous individual contributions and interactions.
 
 [Blockchain](data/concepts/blockchain.md) protocols exemplify emergence in coordination where individual validators, users, and developers create system-wide security, [consensus](data/concepts/consensus.md), and functionality through their independent actions within shared protocols. The robust operation of decentralized networks emerges from distributed individual choices rather than centralized planning, creating resilient systems that adapt and evolve through participant interactions rather than hierarchical management.
 
 ### Emergence in Cooperative Organization
 
-In cooperative contexts, emergence appears when individual member [participation](participation.md) creates collective capabilities for democratic governance, economic coordination, and shared value creation that exceed what members could achieve independently. Multi-stakeholder cooperatives demonstrate emergence through how "diverse stakeholder interests within their governance structure" create organizational capabilities for addressing complex challenges that individual stakeholders cannot solve alone.
+In cooperative contexts, emergence appears when individual member [participation](data/concepts/participation.md) creates collective capabilities for democratic governance, economic coordination, and shared value creation that exceed what members could achieve independently. Multi-stakeholder cooperatives demonstrate emergence through how "diverse stakeholder interests within their governance structure" create organizational capabilities for addressing complex challenges that individual stakeholders cannot solve alone.
 
 These capabilities often include adaptive governance processes, innovative resource allocation mechanisms, and collective learning systems that arise from member interactions rather than predetermined organizational design. The cooperative's ability to balance diverse interests while maintaining democratic control emerges from ongoing member participation and relationship-building rather than top-down management structures.
 

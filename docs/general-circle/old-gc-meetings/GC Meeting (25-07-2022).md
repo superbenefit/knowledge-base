@@ -3,10 +3,11 @@ group: general-circle
 tags:
   - meetings
 date: 2022-07-25
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 # Week of July 25, 2022
-#[tactical meetings](archive/clarity/Tags/tactical%20meetings.md) 
+#tactical meetings 
 
 ## Attendees
 - 
@@ -26,7 +27,7 @@ date: 2022-07-25
 	- This week:
 		- 
 	- Blockers:
-- Project name/link: #[governance conversations](archive/clarity/Tags/governance%20conversations.md) 
+- Project name/link: #governance conversations 
 	- Last week:
 		- @AlexH completed blog for conversation 3 of series -Governance for better futures Insights from conversation #3: 'New and Old'  [https://superbenefit.mirror.xyz/uf-c2rynYK0ODKQmJGLj5tc8TU4_V1L76Lbp_71Sh3s](https://superbenefit.mirror.xyz/uf-c2rynYK0ODKQmJGLj5tc8TU4_V1L76Lbp_71Sh3s) 
 		- 

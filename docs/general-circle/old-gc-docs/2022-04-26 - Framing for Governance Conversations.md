@@ -1,8 +1,9 @@
 ---
 group: general-circle
+publish: false
 ---
 
-#[governance conversations](archive/clarity/Tags/governance%20conversations.md) 
+#governance conversations 
 
 
 

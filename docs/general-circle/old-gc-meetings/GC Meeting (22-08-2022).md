@@ -3,10 +3,11 @@ group: general-circle
 tags:
   - meetings
 date: 2022-08-22
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 # Week of August 22, 2022
-#[tactical meetings](archive/clarity/Tags/tactical%20meetings.md) 
+#tactical meetings 
 ## Attendees
 - 
 
@@ -19,7 +20,7 @@ date: 2022-08-22
 	- Last week:
 	- This week:
 	- Blockers:
-- #[dao primitives](archive/clarity/Tags/dao%20primitives.md) 
+- #[dao primitives](docs/dao-primitives/index.md) 
 	- Next post ready, 
 	- UN project kicking off, 
 	- Primitive research testing Sobol 

@@ -1,7 +1,9 @@
 ---
 group: dao-primitives
+type: index
 title: A Community Guidelines Framework
 description: A simple framework for creating community guidelines
+publish: false
 ---
 
 This framework helps communities create three types of agreements: safety boundaries, behavioral expectations, and conflict response processes.

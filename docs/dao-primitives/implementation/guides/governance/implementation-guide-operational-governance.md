@@ -233,7 +233,7 @@ There are many ways that you can use the [DAO primitives](docs/dao-primitives/pr
     - Allow more or less autonomy based on specific operational needs
     - Balance unlocks the dynamics and system properties listed earlier
 
-See [index](artifacts/misc/patterns/index.md) for different approaches to building operational structures with the DAO Primitives.
+See [index](data/resources/patterns/index.md) for different approaches to building operational structures with the DAO Primitives.
 
 #### Activity: Community-Operational Boundary Design
 
@@ -438,7 +438,7 @@ Depending on your organization's technical context, governance implementation ma
     - Governance platforms (Snapshot, Tally, Commonwealth, etc.)
     - Communication tools (Discord, Discourse, Telegram, etc.)
     - Documentation systems (Charmverse, Notion, GitHub, etc.)
-    - Voting mechanisms ([token-based governance](artifacts/dao-primitives-framework/network-evolution/Building DAOs as scalable networks.md#community-governance), [quadratic voting](artifacts/articles/governance-for-better-futures/Governance for better futures - Meta-governance.md), reputation-based, etc.)
+    - Voting mechanisms ([token-based governance](docs/dao-primitives/articles/Building DAOs as scalable networks.md#community-governance), [quadratic voting](data/links/governance-for-better-futures/Governance for better futures - Meta-governance.md), reputation-based, etc.)
 3. **Implementation Approach**
     - Start with minimum viable governance tools as required by the [phase](data/concepts/groups.md#groups-in-developmental-phases) of development
     - Create clear user guides, videos and other resources to support accessibility for all community members

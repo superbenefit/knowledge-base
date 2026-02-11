@@ -1,5 +1,8 @@
 ---
 group: rpp
+type: note
+title: Stakeholder Meeting 11
+publish: false
 ---
 
 Welcome to stakeholder meeting number 11

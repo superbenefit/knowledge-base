@@ -1,5 +1,6 @@
 ---
 group: ics
+publish: false
 ---
 
 # City Grant Reporting - Full Year Data (2024)

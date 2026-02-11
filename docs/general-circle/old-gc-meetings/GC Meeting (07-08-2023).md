@@ -3,6 +3,7 @@ group: general-circle
 tags:
   - meetings
 date: 2023-08-07
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 ## Attendees
@@ -14,7 +15,7 @@ date: 2023-08-07
 - 
 
 ## Updates
-- #[reimagining power](archive/clarity/Tags/reimagining%20power.md) 
+- #[reimagining power](docs/rpp/index.md) 
 	- Launch call tomorrow
 	- Designing initial cell setup
 		- thinking about cell membership - not permissionless, since cells are autonomous

@@ -31,10 +31,10 @@ Write **natural, flowing connections** that explain how the resource aligns with
 > Ostrom's empirically-proven design principles for commons governance directly validate SuperBenefit's emphasis on bounded membership, participatory rule-making, and graduated accountability within small teams—providing Nobel Prize-winning evidence that community stewardship can outperform both markets and state control when properly structured.
 
 ❌ **BAD** (Too mechanical, forced links):
-> **Quadratic Mechanisms in Community Governance**: The book's detailed treatment of quadratic funding directly informed SuperBenefit's implementation of [Community Governance](data/concepts/community-governance.md) patterns, particularly how the RPP (Reimagining Power Project) could allocate resources...
+> **Quadratic Mechanisms in Community Governance**: The book's detailed treatment of quadratic funding directly informed SuperBenefit's implementation of [Community Governance](data/resources/patterns/community-governance.md) patterns, particularly how the RPP (Reimagining Power Project) could allocate resources...
 
 ❌ **BAD** (Too many pattern links crammed in):
-> **Mutual Aid in Cell Design**: The article's analysis of mutual aid as organizational principle validates SuperBenefit's [Cell](artifacts/primitives-framework/patterns/cell.md) pattern where small autonomous teams (<10 people) practice horizontal coordination without hierarchy—the AIFS experiment demonstrated this when Web3 developers and sports organizers supported each other's work voluntarily rather than through managerial control, as documented in [AIFS Case Study](docs/rpp/aifs-experiment-case-study.md).
+> **Mutual Aid in Cell Design**: The article's analysis of mutual aid as organizational principle validates SuperBenefit's [Cell](data/resources/patterns/cells.md) pattern where small autonomous teams (<10 people) practice horizontal coordination without hierarchy—the AIFS experiment demonstrated this when Web3 developers and sports organizers supported each other's work voluntarily rather than through managerial control, as documented in [AIFS Case Study](docs/rpp/aifs-experiment-case-study.md).
 
 ### Key SuperBenefit Elements to Reference
 

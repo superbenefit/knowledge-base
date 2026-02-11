@@ -2,6 +2,7 @@
 group: general-circle
 tags:
   - tasks
+publish: false
 ---
 Agenda:
 - Review overall Squad resourcing and readiness

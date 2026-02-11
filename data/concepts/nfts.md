@@ -16,7 +16,7 @@ _Non-Fungible Tokens (NFTs) are unique, indivisible digital assets recorded on a
 
 Unlike fungible tokens (where each unit is identical and interchangeable, like cryptocurrencies), NFTs contain distinct properties that make each token unique and non-interchangeable. This uniqueness enables NFTs to represent ownership of specific items—from digital art and virtual land to governance rights and real-world assets. By providing cryptographic proof of authenticity and ownership history, NFTs transform how we establish provenance, transfer rights, and build [community](data/concepts/community.md) around shared assets in digital environments.
 
-Beyond their initial popularization as digital collectibles, NFTs have evolved into sophisticated [coordination](data/concepts/coordination.md) tools that enable new forms of collective organization, decentralized governance, and resource management. Their programmable nature allows community to encode rights, responsibilities, and relationships directly into digital assets, creating dynamic systems for [participation](participation.md) that extend far beyond simple ownership claims.
+Beyond their initial popularization as digital collectibles, NFTs have evolved into sophisticated [coordination](data/concepts/coordination.md) tools that enable new forms of collective organization, decentralized governance, and resource management. Their programmable nature allows community to encode rights, responsibilities, and relationships directly into digital assets, creating dynamic systems for [participation](data/concepts/participation.md) that extend far beyond simple ownership claims.
 
 ---
 

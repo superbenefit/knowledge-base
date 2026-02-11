@@ -1,5 +1,8 @@
 ---
 group: rpp
+type: index
+title: The ICS
+publish: false
 ---
 
 # ics
@@ -23,7 +26,7 @@ ICS (Invisible Care Squad) is pioneering cooperative models for mutual aid that 
 ## SuperBenefit Patterns Applied
 - Token-based governance for member participation
 - Privacy payments patterns for sensitive support
-- [Peer to peer payments](data/concepts/p2p-payments.md) for direct mutual aid
+- [Peer to peer payments](data/resources/patterns/p2p-payments.md) for direct mutual aid
 - [Multistakeholder governance](docs/rpp/rpp-working-docs/multistakeholder-governance.md) for community decisions
 
 ## Innovations

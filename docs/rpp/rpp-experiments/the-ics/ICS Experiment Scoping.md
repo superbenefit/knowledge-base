@@ -1,7 +1,10 @@
 ---
 group: rpp
+type: note
+title: ICS Experiment Scoping
 tags:
   - experiments
+publish: false
 ---
 _Scoping for the Institute for Community Sustainability's experiment within the Reimagining Power project at SuperBenefit._
 

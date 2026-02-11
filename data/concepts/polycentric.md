@@ -10,7 +10,7 @@ tags:
   - qualities
 ---
 
-*Polycentric refers to [governance](data/concepts/governance.md) systems characterized by multiple autonomous [decision-making](archive/clarity/Tags/decision-making.md) centers that operate at different scales and domains with overlapping areas of responsibility. These centers both compete and cooperate within shared institutional frameworks, creating adaptive governance that balances local [autonomy](data/concepts/autonomy.md) with coordinated collective action.*
+*Polycentric refers to [governance](data/concepts/governance.md) systems characterized by multiple autonomous [decision-making](data/concepts/decisions.md) centers that operate at different scales and domains with overlapping areas of responsibility. These centers both compete and cooperate within shared institutional frameworks, creating adaptive governance that balances local [autonomy](data/concepts/autonomy.md) with coordinated collective action.*
 
 Polycentric governance, developed by Nobel laureate Elinor Ostrom and Vincent Ostrom, describes complex governance arrangements where "many centers of decision-making authority are needed to cover the full range of governance tasks." Unlike purely centralized systems (with single decision-making centers) or fully [decentralized](data/concepts/decentralization.md) systems (with completely autonomous units), polycentric systems create nested, overlapping arrangements that can operate effectively at multiple scales simultaneously.
 
@@ -28,7 +28,7 @@ Each stakeholder group operates as a semi-autonomous decision-making center with
 
 ### Polycentric Networks in Decentralized Organizations
 
-In Web3 and DAO contexts, polycentric governance appears in network structures where multiple autonomous organizations coordinate through shared protocols and collective decision-making processes. These networks enable "decentralized coordination systems that align individual [participation](participation.md) with collective outcomes" while preserving organizational autonomy and local decision-making capacity within each participating entity.
+In Web3 and DAO contexts, polycentric governance appears in network structures where multiple autonomous organizations coordinate through shared protocols and collective decision-making processes. These networks enable "decentralized coordination systems that align individual [participation](data/concepts/participation.md) with collective outcomes" while preserving organizational autonomy and local decision-making capacity within each participating entity.
 
 Platform cooperatives and DAO federations often implement polycentric structures where individual cooperative or DAO entities maintain autonomous governance over their internal affairs while participating in network-level coordination for shared infrastructure, resource allocation, and collective purpose. This creates resilient networks that can adapt to local conditions while maintaining coordination across geographic and organizational boundaries.
 

@@ -27,7 +27,7 @@ Unlike traditional Environmental, Social, and [Governance](data/concepts/governa
 
 In environmental contexts, ReFi creates mechanisms to value and trade previously unrecognized ecological assets and services. These markets enable direct funding of environmental regeneration while creating financial incentives for conservation and restoration.
 
-Key applications include tokenized carbon credits that create more transparent, accessible markets for verified emissions reductions; biodiversity credits that reward protection of ecosystems and species; and tokenized natural assets that enable fractional ownership and stewardship of land, forests, and watersheds. By bringing environmental assets onto blockchain systems, ReFi increases [transparency](data/concepts/transparency.md), reduces intermediaries, and enables broader [participation](participation.md) in environmental markets that were previously accessible only to large institutions.
+Key applications include tokenized carbon credits that create more transparent, accessible markets for verified emissions reductions; biodiversity credits that reward protection of ecosystems and species; and tokenized natural assets that enable fractional ownership and stewardship of land, forests, and watersheds. By bringing environmental assets onto blockchain systems, ReFi increases [transparency](data/concepts/transparency.md), reduces intermediaries, and enables broader [participation](data/concepts/participation.md) in environmental markets that were previously accessible only to large institutions.
 
 ### ReFi in Community Economics
 
@@ -37,7 +37,7 @@ Local implementations include community currencies that keep value circulating w
 
 ### ReFi in Decentralized Governance
 
-ReFi governance systems distribute [decision-making](archive/clarity/Tags/decision-making.md) [power](data/concepts/power.md) about resource allocation to stakeholders directly affected by those decisions. This approach balances traditional financial returns with environmental and social impact metrics when determining how capital flows.
+ReFi governance systems distribute [decision-making](data/concepts/decisions.md) [power](data/concepts/power.md) about resource allocation to stakeholders directly affected by those decisions. This approach balances traditional financial returns with environmental and social impact metrics when determining how capital flows.
 
 Impact [DAOs](data/concepts/daos.md) (Decentralized Autonomous Organizations) exemplify this approach, creating transparent governance frameworks where communities can collectively allocate resources toward regenerative projects. These structures enable participatory budgeting, quadratic funding, and other decision-making mechanisms that value diverse perspectives and long-term outcomes rather than concentrating power with the largest capital holders.
 

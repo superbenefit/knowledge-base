@@ -1,5 +1,6 @@
 ---
 group: ics
+publish: false
 ---
 
 # Please share one story about how the funded project has made a difference in the community and/or people's lives

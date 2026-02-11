@@ -1,5 +1,8 @@
 ---
 group: rpp
+type: note
+title: Stakeholder Meeting 6
+publish: false
 ---
 
 Ok stakeholder meeting 6, we're ready, steady

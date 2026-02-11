@@ -2,6 +2,7 @@
 group: general-circle
 tags:
   - tasks
+publish: false
 ---
 ✅ SUP-56 Format for Tactical Meetings drafted and shared
 ✅ SUP-57 First Tactical Meeting scheduled

@@ -1,5 +1,8 @@
 ---
 group: rpp
+type: note
+title: All In For Sport Discovery Report
+publish: false
 ---
 
 # All In For Sport Discovery Report

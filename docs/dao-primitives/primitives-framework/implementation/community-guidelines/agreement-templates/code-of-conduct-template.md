@@ -1,5 +1,8 @@
 ---
 group: dao-primitives
+type: guide
+title: Code Of Conduct Template
+publish: false
 ---
 
 

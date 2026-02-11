@@ -97,8 +97,8 @@ Here are some guidelines for creating an effective team/group nucleus:
 
 The nucleus primitive is implemented in several patterns:
 
-- **[Cell State](artifacts/patterns/cell-state.md)** - Uses nucleus as the foundational primitive for capturing and managing group state in cells
-- **[Cell Working Group](artifacts/patterns/cell.md)** - Cells use nucleus (through Cell State) to document their purpose, practice, and progress
+- **[Cell State](data/resources/patterns/cell-state.md)** - Uses nucleus as the foundational primitive for capturing and managing group state in cells
+- **[Cell Working Group](data/resources/patterns/cells.md)** - Cells use nucleus (through Cell State) to document their purpose, practice, and progress
 
 ---
 
@@ -107,8 +107,8 @@ The nucleus primitive is implemented in several patterns:
 - [Teams](data/concepts/teams.md) - Small autonomous groups that use nucleus to document their state
 - [Coordination](data/concepts/coordination.md) - Nucleus enables coordination by providing transparent group state
 - [Governance](data/concepts/governance.md) - State documentation supports governance practices
-- [Cell State](artifacts/patterns/cell-state.md) - The pattern that implements nucleus for cells
-- [Group State](artifacts/guides/dao-primitives-framework/group-state.md) - Framework concept that nucleus embodies
+- [Cell State](data/resources/patterns/cell-state.md) - The pattern that implements nucleus for cells
+- [Group State](docs/dao-primitives/primitives-framework/concepts/group-state.md) - Framework concept that nucleus embodies
 
 ---
 

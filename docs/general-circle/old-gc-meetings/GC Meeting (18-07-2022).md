@@ -3,10 +3,11 @@ group: general-circle
 tags:
   - meetings
 date: 2022-07-18
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 # Week of July 18, 2022
-#[tactical meetings](archive/clarity/Tags/tactical%20meetings.md) 
+#tactical meetings 
 
 ## Attendees
 - Heenal, Rowan
@@ -21,7 +22,7 @@ date: 2022-07-18
 	- Last week:
 	- This week:
 	- Blockers:
-- #[governance conversations](archive/clarity/Tags/governance%20conversations.md) @heenal 
+- #governance conversations @heenal 
 	- Last week:
 		- Edited 3 Twitter Space recordings, uploaded to AWS (via Notion), added links to Mirror post
 	- This week:
@@ -49,7 +50,7 @@ date: 2022-07-18
 		- promote governance series final blog
 		- follow up Northpine Foundation
 	- Blockers:
-- Project name/link: #[superbenefit contributor guide - v1](archive/clarity/Tags/superbenefit%20contributor%20guide%20-%20v1.md) 
+- Project name/link: #superbenefit contributor guide - v1 
 	- Last week:
 		- started token distribution document
 		- in weekly update

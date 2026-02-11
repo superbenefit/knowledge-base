@@ -3,10 +3,11 @@ group: general-circle
 tags:
   - meetings
 date: 2022-05-16
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 # Week of May 16, 2022
-#[tactical meetings](archive/clarity/Tags/tactical%20meetings.md) Template
+#tactical meetings Template
 
 ## Attendees
 - Ayusha, Heenal, Michael, Michelle, Rowan
@@ -27,7 +28,7 @@ Project name/link #[239 Governance research project (Rev 1) DAO-Cell founding do
 	- Rowan's post review and editing
 - Blockers:
 
-Project name/link #[superbenefit contributor guide - working draft](archive/clarity/Tags/superbenefit%20contributor%20guide%20-%20working%20draft.md) 
+Project name/link #superbenefit contributor guide - working draft 
 - Last week:
 	- Outline completed
 - This week:
@@ -35,7 +36,7 @@ Project name/link #[superbenefit contributor guide - working draft](archive/clar
 - Blockers:
 	- Governance structure - @heenal will talk with @Rowan  about governance, & discord flow
 
-Project name/link #[governance conversations](archive/clarity/Tags/governance%20conversations.md) 
+Project name/link #governance conversations 
 - Last week:
 	- Confirmed themes for each conversation
 	- Bryan Petes confirmed

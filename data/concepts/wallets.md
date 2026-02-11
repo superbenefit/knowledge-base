@@ -8,8 +8,8 @@ aliases:
   - "#wallets"
   - "#wallet"
 tags:
-  - "resources"
-  - "tools"
+  - resources
+  - tools
 ---
 
 *A digital wallet in the Web3 context is a software or hardware interface that allows users to manage their cryptographic key pairs, sign transactions, and interact with blockchain networks. It acts as a primary tool for identity, asset management, and participation in decentralized systems like DAOs.*

@@ -30,11 +30,11 @@ Organizations can be understood as networks of coordinated actions that allow di
 In decentralized autonomous organizations, actions manifest through multiple mechanisms:
 
 - **On-chain actions**: Transactions, votes, and interactions with smart contracts that are cryptographically verified and permanently recorded on the blockchain
-- **Coordination actions**: Communications, decisions, and agreements that coordinate activity across autonomous teams or [cells](artifacts/primitives-framework/patterns/cell.md)
+- **Coordination actions**: Communications, decisions, and agreements that coordinate activity across autonomous teams or [cells](data/resources/patterns/cells.md)
 - **Contributory actions**: Tasks and deliverables created by community members that advance the DAO's purpose
 - **Governance actions**: Processes like proposals, voting, and [delegation](data/concepts/delegation.md) that shape the direction and rules of the organization
 
-What distinguishes actions in DAOs is their permissionless nature combined with transparent accountability. As noted in [Minimum Viable Permissionless-ness](../artifacts/dao-primitives-framework/network-evolution/Minimum Viable Permissionless-ness.md), the ability for participants to take autonomous action without prior approval—while still being accountable to the network—is fundamental to generating decentralized intelligence.
+What distinguishes actions in DAOs is their permissionless nature combined with transparent accountability. As noted in [Minimum Viable Permissionless-ness](../docs/dao-primitives/articles/Minimum Viable Permissionless-ness.md), the ability for participants to take autonomous action without prior approval—while still being accountable to the network—is fundamental to generating decentralized intelligence.
 
 ### Actions in Social Impact
 

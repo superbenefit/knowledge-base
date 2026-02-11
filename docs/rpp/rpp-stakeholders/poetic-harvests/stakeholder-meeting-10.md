@@ -1,5 +1,8 @@
 ---
 group: rpp
+type: note
+title: Stakeholder Meeting 10
+publish: false
 ---
 
 Welcome all, old and new

@@ -4,6 +4,7 @@ title: AIFS Gathering 5 - 19 Feb 25
 tags:
   - aifs
   - poetic-harvest
+publish: false
 ---
 
 # AIFS Gathering 5 - 19 Feb 25

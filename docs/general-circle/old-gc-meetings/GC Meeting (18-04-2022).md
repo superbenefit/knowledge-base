@@ -3,12 +3,13 @@ group: general-circle
 tags:
   - meetings
 date: 2022-04-18
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 
 
 # Week of April 18, 2022
-#[tactical meetings](archive/clarity/Tags/tactical%20meetings.md) Template
+#tactical meetings Template
 
 ## Attendees
 @Lewwwk @heenal @Ryan  @Rowan  
@@ -40,7 +41,7 @@ date: 2022-04-18
 	- Kick off meeting with Caryn Tan, Seedisburser, Heenal, MBaldwin this week for project scope and next steps
 - #[229 Develop Bounty for someone to run our Twitter ](229%20Develop%20Bounty%20for%20someone%20to%20run%20our%20Twitter%20) 
 	- Bounty posted for Twitter Style Guide for 1000 $SPRB on help wanted with April 21 to express interest
-- #[community experience squad](archive/clarity/Tags/community%20experience%20squad.md) & #[information squad](archive/clarity/Tags/information%20squad.md) 
+- #community experience squad & #information squad 
 	- 1:1 Meeting with Seedisburser
 	- Draft weekly update
 	- Draft article inspired by learning from SuperBenefit DAO that will be part of National Observer and Mirror post [https://docs.google.com/document/d/1E3aAPiEsq-hyOs8TwfQFxZOezWO5nRlgQVCi8REnZwU/edit#](https://docs.google.com/document/d/1E3aAPiEsq-hyOs8TwfQFxZOezWO5nRlgQVCi8REnZwU/edit#) 

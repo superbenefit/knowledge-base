@@ -12,7 +12,7 @@ tags:
   - decisions
 ---
 
-This is a definition of "consent" as the core principle in Consent Based [Decision-making](archive/clarity/Tags/decision-making.md).
+This is a definition of "consent" as the core principle in Consent Based [Decision-making](data/concepts/decisions.md).
 
 Consent is a principle where a proposal or action can proceed when no participant raises a reasoned, substantial objection that the proposal would harm the organization's ability to achieve its purpose or prevent a member from fulfilling their role. Unlike [consensus](data/concepts/consensus.md) which requires active agreement from all parties, consent focuses on the absence of valid objections. This enables more efficient decision-making while still protecting against harmful changes and maintaining alignment with organizational goals.
 

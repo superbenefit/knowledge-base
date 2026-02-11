@@ -1,5 +1,8 @@
 ---
 group: dao-primitives
+type: guide
+title: Guide 3 Arbitration
+publish: false
 ---
 
 ## Guide 3: Arbitrating Conflict

@@ -1,5 +1,8 @@
 ---
 group: rpp
+type: note
+title: Reflection Exploration Guide
+publish: false
 ---
 
 # Reflection Exploration Guide

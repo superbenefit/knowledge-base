@@ -1,7 +1,10 @@
 ---
 group: rpp
+type: note
+title: Playbook Task (template)
 tags:
   - playbooks
+publish: false
 ---
 
 # Purpose

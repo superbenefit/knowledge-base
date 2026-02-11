@@ -2,6 +2,7 @@
 group: general-circle
 tags:
   - tasks
+publish: false
 ---
 Here's the allocation result from the coordinape process. 
 Personal reflection:

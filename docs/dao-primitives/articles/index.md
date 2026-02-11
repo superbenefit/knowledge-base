@@ -32,7 +32,7 @@ The articles suggest that DAOs might potentially combine aspects of both these s
 
 ### Cell-Based Organization
 
-"DAOs: From fractal primitives to network scale" introduces the concept of DAOs as networks of connected "cells" - autonomous teams that maintain independence while coordinating with a broader network. This approach has connections to the lexicon's discussions of [cells](data/concepts/cells.md) and how [groups](data/concepts/groups.md) might function at different scales.
+"DAOs: From fractal primitives to network scale" introduces the concept of DAOs as networks of connected "cells" - autonomous teams that maintain independence while coordinating with a broader network. This approach has connections to the lexicon's discussions of [cells](data/resources/patterns/cells.md) and how [groups](data/concepts/groups.md) might function at different scales.
 
 ### Access and Participation
 

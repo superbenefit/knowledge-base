@@ -1,5 +1,8 @@
 ---
 group: dao-primitives
+type: guide
+title: Guide 2 Mediation
+publish: false
 ---
 
 ## Guide 2: Mediating Conflict

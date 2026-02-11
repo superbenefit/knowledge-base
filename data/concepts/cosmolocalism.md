@@ -5,6 +5,8 @@ harvester:
   - rathermercurial.eth
 publish: true
 type: concept
+aliases:
+  - "#cosmolocalism"
 ---
 
 *A system that combines resilient localized production with access to global knowledge commons and [coordination](data/concepts/coordination.md) protocols, following the principle "what is heavy is local, what is light is global."*
@@ -48,4 +50,4 @@ The key innovation in web3 implementations is the creation of technical infrastr
 - [Localism](data/concepts/localism.md) - Local production and governance
 - [Networks](data/concepts/networks.md) - Global knowledge networks
 - [Coordination](data/concepts/coordination.md) - Cross-scale coordination
-- [Knowledge Gardens](artifacts/patterns/knowledge-gardens.md) - Distributed knowledge
+- [Knowledge Gardens](data/resources/patterns/knowledge-gardens.md) - Distributed knowledge

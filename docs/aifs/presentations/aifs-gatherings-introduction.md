@@ -1,5 +1,6 @@
 ---
 group: aifs
+publish: false
 ---
 
 # AIFS Gatherings Introduction

@@ -3,6 +3,7 @@ group: general-circle
 tags:
   - meetings
 date: 2022-01-10
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 # Week of January 10, 2022
@@ -85,7 +86,7 @@ date: 2022-01-10
 	- Blockers:
 		- Waiting for Discord guild/channel refactor
 		- Confirmation on Contributor onboarding process
-- #[theory of change](archive/clarity/Tags/theory%20of%20change.md) 
+- #theory of change 
 	- v1 versions of ToC angles uploaded on Miro with navigation 
 	- GC working session on ToC to be scheduled in the next week
 	- Next:
@@ -127,9 +128,9 @@ date: 2022-01-10
 - Metrics - remarkk
 - Miro account structure - remarkk
 - Tell me again, what are the various tokens in train? (Alex)
-	- #[$sprb](archive/clarity/Tags/$sprb.md) (governance) and #[$superb](archive/clarity/Tags/$superb.md) (meta currency / ohm fork) TBD if sprb gets replaced by superb, or may be useful to have both. 
+	- #$sprb (governance) and #$superb (meta currency / ohm fork) TBD if sprb gets replaced by superb, or may be useful to have both. 
 - Michael is the "$SPRB governance token" the full OHM fork? (Rowan)
-	- No, the governance token #[$sprb](archive/clarity/Tags/$sprb.md) - the ohm fork will be #[$superb](archive/clarity/Tags/$superb.md) 
+	- No, the governance token #$sprb - the ohm fork will be #$superb 
 - Discord Boost - for better tech experience in video chat for Town Hall and larger events- MB can go ahead and purchase a boost level package if any suggestions based on experience  (MB)
 	- ✅ SUP-104 @Lewwwk to Boost the account
 - Will someone help Peter and Alex create a project
@@ -137,14 +138,14 @@ date: 2022-01-10
 - Scheduling ToC working session (Alex)
 	- @AlexH Doodle poll int he channel
 - Confirm the process to onboard a Contributor - Heenal
-	- @heenal Use #[squad-proposals](archive/clarity/Tags/squad-proposals.md) and the related squad tag: e.g. #[community experience squad](archive/clarity/Tags/community%20experience%20squad.md) 
+	- @heenal Use #squad-proposals and the related squad tag: e.g. #community experience squad 
 - how are we making decisions about art and design? - Peter
 	- @flashlight Can decide how to decide. Engage advice as he sees fit.
 - Scarcity vs abundance and ownership - what can we invert - limits on tokens, currency, timing. out, limits on NFTs (MB) and opportunity for deeper discussions
-	- the #[Membership NFT](Membership%20NFT)  will be unlimited and free to mint, #[$sprb](archive/clarity/Tags/$sprb.md)  will be free to earn through contributions as approved, #[$superb](archive/clarity/Tags/$superb.md) will be very cheap to buy (like Klima) -ok thx will keep chatting things out with Heenal Michelle I had some thoughts about this since we chatted earlier! ;)
+	- the #[Membership NFT](Membership%20NFT)  will be unlimited and free to mint, #$sprb  will be free to earn through contributions as approved, #$superb will be very cheap to buy (like Klima) -ok thx will keep chatting things out with Heenal Michelle I had some thoughts about this since we chatted earlier! ;)
 - Timeline for Revolution 0 and Revolution 1 - Heenal
-	- note: shifting language to 'revolutions' :) and want to orient around major outcomes that take us to a new level of momentum or scale. so for rev 0, maybe the crowdfund? and for rev 1 the launch of #[$superb](archive/clarity/Tags/$superb.md) ?
-- #[nft series](archive/clarity/Tags/nft%20series.md) <- is where I'm starting to outline the different NFT series and possibilities.
+	- note: shifting language to 'revolutions' :) and want to orient around major outcomes that take us to a new level of momentum or scale. so for rev 0, maybe the crowdfund? and for rev 1 the launch of #$superb ?
+- #nft series <- is where I'm starting to outline the different NFT series and possibilities.
 - ✅ SUP-107 @Lewwwk Finalize Lead Roles for Alex and Rowan
 
 

@@ -1,7 +1,10 @@
 ---
 group: rpp
+type: note
+title: Initial Playbook Visioning Session RPP
 tags:
   - playbooks
+publish: false
 ---
 _Playbook strategy and visioning session for the Reimagining Power project at SuperBenefit._
 

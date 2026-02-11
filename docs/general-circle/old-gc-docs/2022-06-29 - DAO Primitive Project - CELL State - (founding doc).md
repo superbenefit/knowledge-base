@@ -1,8 +1,9 @@
 ---
 group: general-circle
+publish: false
 ---
 
-#[drafts/sb-clarity/Tags/nucleus](drafts/sb-clarity/Tags/nucleus) #[dao primitives](archive/clarity/Tags/dao%20primitives.md) 
+#[drafts/sb-clarity/Tags/nucleus](drafts/sb-clarity/Tags/nucleus) #[dao primitives](docs/dao-primitives/index.md) 
 
 
 ## Purpose & Insight

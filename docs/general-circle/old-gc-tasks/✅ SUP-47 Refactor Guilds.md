@@ -2,6 +2,7 @@
 group: general-circle
 tags:
   - tasks
+publish: false
 ---
 # What are guilds?
 - Guilds are groups formed around skills or specific types of contribution that we currently need.

@@ -3,6 +3,7 @@ group: general-circle
 tags:
   - meetings
 date: 2022-01-31
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 # Week of January 31, 2022
@@ -61,20 +62,20 @@ How are you arriving?
 	- Last week:
 		- GC meeting, CXI Tactical meeting, ToC meeting, Welcome Party, web3 library meeting, verses meeting,  Storytelling meeting, CXI General Meeting, meeting with BPetes
 		- Support Verses DAO
-		- #[storytelling](archive/clarity/Tags/storytelling.md) planning
+		- #storytelling planning
 		- Tidy up Clarity
-		- #[tooling](archive/clarity/Tags/tooling.md) Guide v0.1 
+		- #tooling Guide v0.1 
 		- Drafted: #[153 [BOUNTY](153%20[BOUNTY) 
 		- Got Discord admin access
 	- This week:
 		- Update Getting Started page on Notion (Jai)
-		- Publish more #[bounties](archive/clarity/Tags/bounties.md)
+		- Publish more #bounties
 		- Update Discord rules/welcome message
 		- #[Update Discord welcome message](Update%20Discord%20welcome%20message) 
 		- Start 4-week crypto course
 		- Upon completion of Discord channel/guides refactor: Update Discord messages and Notion site
 		- Other things that come up ;)
-- #[$sprb](archive/clarity/Tags/$sprb.md)
+- #$sprb
 	- #[45 Launch $SPRB Governance Token](45%20Launch%20$SPRB%20Governance%20Token) 
 		- Last week: Discussion on multisig
 		- This week: #[137 Create SB Multisig](137%20Create%20SB%20Multisig), #[138 Proposal 3- Create $SPRB ERC20 token for the SuperBenefit DAO [DRAFT](138%20Proposal%203-%20Create%20$SPRB%20ERC20%20token%20for%20the%20SuperBenefit%20DAO%20[DRAFT)] 
@@ -84,17 +85,17 @@ How are you arriving?
 - #[74 Crowdfund - "Hello World"](74%20Crowdfund%20-%20"Hello%20World") 
 	- Blocked on equity inclusion
 	- This week: tbd
-- #[theory of change](archive/clarity/Tags/theory%20of%20change.md) #toc
+- #theory of change #toc
 	- Feedback to be reviewed and incorporated into final iteration at end of week
 	- Initial thinking on map making has been shared for comment - will progress further and repost in a new project after ToC is wrapped
 - #[7 Governance Implementation](7%20Governance%20Implementation) 
 	- Need to reopen our v0 governance concept with new findings
-- #[resource flow squad](archive/clarity/Tags/resource%20flow%20squad.md) 
+- #resource flow squad 
 	- first draft of layout of outline shared with feedback collected
 	- working with Alex on map making to integrate that into the Resource Flow
 
 ## Triage Items
-- Lewwwk: Still learning how to collaborate in this context and would appreciate #[index](docs/aifs/feedback/index.md) from #[squad lead](archive/clarity/Tags/squad%20lead.md)s when it comes up.
+- Lewwwk: Still learning how to collaborate in this context and would appreciate #[index](docs/aifs/feedback/index.md) from #squad leads when it comes up.
 	- **ACTION:** Please use #[index](docs/aifs/feedback/index.md) protocol and give Michael feedback.
 - Flashlight - need help recruiting graphic designers and writers.
 	- The Storytelling Fellow could potentially help in both regards. @MBaldwin & @heenal are interviewing 2 candidates tomorrow (2nd interview)

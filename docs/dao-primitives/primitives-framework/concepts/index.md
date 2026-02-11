@@ -106,7 +106,7 @@ At the highest level, three foundational organizational primitives:
 Although the above conceptual framework could be used to design a wide range of different governance and operational structures, the Primitives Framework leans heavily on the following 4 organizational patterns:
 
 1. **[DAOs](data/concepts/daos.md)**: Purpose-aligned networks of small autonomous teams
-2. **[Cells](data/concepts/cells.md)**: Teams of fewer than 10 people collaborating on specific ongoing activities
+2. **[Cells](data/resources/patterns/cells.md)**: Teams of fewer than 10 people collaborating on specific ongoing activities
 3. **[Roles](data/concepts/roles.md)**: Sets of responsibilities, permissions, and accountabilities held by individuals or entities
 4. **[Tasks](data/concepts/tasks.md)**: Defined pieces of work with clear deliverables delivered by individuals or entities
 
@@ -157,7 +157,7 @@ For networks of organizations working together, the framework provides:
 
 A central goal of the framework is to enable emergent collective intelligence in decentralized networks through three key mechanisms:
 
-**Permissionless Network Access**: As outlined in [Minimum Viable Permissionless-ness](artifacts/primitives-framework/articles/Minimum Viable Permissionless-ness.md), the framework emphasizes essential freedoms - the freedom to work on something without permission, the ability to attract collaborators, and the right to propose to the broader network. These freedoms enable knowledge from individuals working "close to reality" to influence strategy and resource allocation through decentralized governance rather than centralized decision-making.
+**Permissionless Network Access**: As outlined in [Minimum Viable Permissionless-ness](docs/dao-primitives/articles/Minimum Viable Permissionless-ness.md), the framework emphasizes essential freedoms - the freedom to work on something without permission, the ability to attract collaborators, and the right to propose to the broader network. These freedoms enable knowledge from individuals working "close to reality" to influence strategy and resource allocation through decentralized governance rather than centralized decision-making.
 
 **Transparent State Documentation**: Clear documentation of group state (Purpose, Practice, Progress) creates the transparency needed for decentralized coordination. By making purpose, practices, and progress visible, organizations enable self-organization around emerging opportunities, autonomous yet aligned decision-making, and effective collaboration across teams and entities.
 

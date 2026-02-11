@@ -1,5 +1,8 @@
 ---
 group: dao-primitives
+type: guide
+title: Sense-Making Facilitation Tools
+publish: false
 ---
 
 # Sense-Making Facilitation Tools

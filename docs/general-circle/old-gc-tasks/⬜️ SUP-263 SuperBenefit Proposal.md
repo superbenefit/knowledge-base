@@ -2,6 +2,7 @@
 group: general-circle
 tags:
   - tasks
+publish: false
 ---
 # KrauseHouse Collaboration Proposal
 [Krause House](http://krausehouse.club) is a DAO that formed around the mission to buy an NBA team. As it has progressed, [it has realized that it's work is aligned with bringing forth the future of sport](https://krausehouse.mirror.xyz/IZm6c5XN58msf_f-UVPmOWLTJfSUwSuB80j8mYjfBZA). 

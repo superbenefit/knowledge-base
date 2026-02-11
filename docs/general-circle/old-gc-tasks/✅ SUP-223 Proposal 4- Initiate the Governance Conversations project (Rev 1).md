@@ -2,10 +2,11 @@
 group: general-circle
 tags:
   - tasks
+publish: false
 ---
 ## Background
 "One of the most interesting and relevant topics in the web3 space right now is how systemic resilience and collective governance is emerging and being developed right now. Diving into this feels like a perfect way to kick off SuperBenefit's Revolution 1." ~ Lewwwk
-Working in parallel with #[222 Proposal for Governance Research Project (Rev1)](222%20Proposal%20for%20Governance%20Research%20Project%20(Rev1)), this [governance conversations](archive/clarity/Tags/governance%20conversations.md) project proposes to hold a series of public events featuring broad exploratory conversations with people active in web3 governance, as well as with people practising governance innovation outside of web3, including but not limited to people active in the fields of Indigenous governance, co-operatives, holacracy, sociocracy, self-managed organizations, and anticipatory governance.
+Working in parallel with #[222 Proposal for Governance Research Project (Rev1)](222%20Proposal%20for%20Governance%20Research%20Project%20(Rev1)), this governance conversations project proposes to hold a series of public events featuring broad exploratory conversations with people active in web3 governance, as well as with people practising governance innovation outside of web3, including but not limited to people active in the fields of Indigenous governance, co-operatives, holacracy, sociocracy, self-managed organizations, and anticipatory governance.
 The events will be held as Twitter Spaces, with the days and times to be determined by the project team. We will start with a pilot series of 3 Twitter Spaces and then assess whether and how to continue.
 _See [Project Notes](https://app.clarity.so/superbenefit/notes/4fd0bfcc-aed9-4c72-8c30-df8101220a05) for potential speakers, timeline, format and themes._
 ## Roles

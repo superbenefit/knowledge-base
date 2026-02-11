@@ -13,15 +13,15 @@ source: "[2022-04-19 - Weekly Meeting Notes - DAO Primitives](docs/dao-primitive
 	- **Regrets:** 
 - ## **Updates**
 	- Rowan had convo with Filsan and Aditi re: governance design. 
-	- rather - #[stakeholder governance](archive/clarity/Tags/stakeholder%20governance.md) doc created. Do we need this for #[community governance](archive/clarity/Tags/community%20governance.md) and #[operational governance](archive/clarity/Tags/operational%20governance.md) as well?
+	- rather - #[stakeholder governance](data/resources/patterns/participatory-governance.md) doc created. Do we need this for #[community governance](data/resources/patterns/community-governance.md) and #[operational governance](data/resources/patterns/operational-governance.md) as well?
 	- rather - Generic group phase checklist created at #[GR-299 Group Phase - DAO Primitives](GR-299%20Group%20Phase%20-%20DAO%20Primitives) for ideation through organization phases.
 		- Longer than I thought it would be. Does this need to be adjusted before moving forward?
 - ## Discussion Topics
 	- 
 	- Feedback from last RP meeting:
 		- Context needed around terminology, especially as names and definitions evolve. 
-			- #[stakeholder](archive/clarity/Tags/stakeholder.md) #[stakeholder governance](archive/clarity/Tags/stakeholder%20governance.md) #[community governance](archive/clarity/Tags/community%20governance.md)  #[dao primitives](archive/clarity/Tags/dao%20primitives.md) 
-			- #[governance](data/concepts/governance.md) #[reimagining power](archive/clarity/Tags/reimagining%20power.md) #[operational governance](archive/clarity/Tags/operational%20governance.md) #[web3](archive/clarity/Tags/web3.md) #[governance](data/concepts/governance.md) 
+			- #stakeholder #[stakeholder governance](data/resources/patterns/participatory-governance.md) #[community governance](data/resources/patterns/community-governance.md)  #[dao primitives](docs/dao-primitives/index.md) 
+			- #[governance](data/concepts/governance.md) #[reimagining power](docs/rpp/index.md) #[operational governance](data/resources/patterns/operational-governance.md) #web3 #[governance](data/concepts/governance.md) 
 		- Assistance needed in onboarding, context gathering, other help to be empowered to contribute. Knowledge gaps and difficulty keeping up with meetings/conversations is challenging.
 		- Greater focus on facilitating communication & relationships is needed, along with hands-on assistance needed to help SHG participants onboard to tooling like Discord, Figma, etc. 
 			- How do we integrate this into the web3 onboarding workflow for stakeholders? - rather

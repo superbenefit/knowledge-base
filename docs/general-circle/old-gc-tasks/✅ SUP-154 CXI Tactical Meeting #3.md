@@ -2,6 +2,7 @@
 group: general-circle
 tags:
   - tasks
+publish: false
 ---
 ## Attendees
 - Michelle, Daniel, Jai, Heenal
@@ -48,7 +49,7 @@ tags:
 	- Day/Time of future meetings
 	- Tensions about how things are progressing with the project
 		- We're pushing an elephant :) 
-- Review #[cxi agenda](archive/clarity/Tags/cxi%20agenda.md) and triage items for future conversations
+- Review #cxi agenda and triage items for future conversations
 - 
 
 ## Checkout

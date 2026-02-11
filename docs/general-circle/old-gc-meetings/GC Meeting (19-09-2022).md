@@ -3,10 +3,11 @@ group: general-circle
 tags:
   - meetings
 date: 2022-09-19
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 # Week of September 19, 2022
-#[tactical meetings](archive/clarity/Tags/tactical%20meetings.md) 
+#tactical meetings 
 ## Attendees
 - @heenal @Lewwwk @MBaldwin @Rowan  
 
@@ -33,7 +34,7 @@ date: 2022-09-19
 			- [https://app.clarity.so/rathermercurial/notes/4ce021bb-6a01-4c3d-882c-3b03aaa3469f](https://app.clarity.so/rathermercurial/notes/4ce021bb-6a01-4c3d-882c-3b03aaa3469f) 
 	- This week:
 		- Attending Elevate Festival with Women & Web3
-		- #[proposal sbp11- dao systems transformation repository-library](archive/clarity/Tags/proposal%20sbp11-%20dao%20systems%20transformation%20repository-library.md) to be shared in Discord in proposal development
+		- #proposal sbp11- dao systems transformation repository-library to be shared in Discord in proposal development
 		- DAO as nature video 2 posted Sept 20 by @ayusha01 on Mirror
 	- Blockers:
 - #[P-236 Krause House Collaboration](P-236%20Krause%20House%20Collaboration)

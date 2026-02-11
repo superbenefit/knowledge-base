@@ -1,7 +1,10 @@
 ---
 group: rpp
+type: note
+title: Experiment Facilitation Framework RPP
 tags:
   - experiments
+publish: false
 ---
 ## Purpose 
 

@@ -1,5 +1,6 @@
 ---
 group: general-circle
+publish: false
 ---
 
 #[264 Systems Transformation Project](264%20Systems%20Transformation%20Project) 
@@ -1120,7 +1121,7 @@ Next Steps:
 		- review previous workshop and meeting notes
 		- reflection
 		- working on frameworks & looking at DAO's
-	- January 16 8 pm EST - present an update to SuperBenefit #[general circle](archive/clarity/Tags/general%20circle.md) meeting 
+	- January 16 8 pm EST - present an update to SuperBenefit #general circle meeting 
 - Open questions:
 	- Which DAOs to choose for our deep dive?
 	- How could we monetize this work in the short-term?
@@ -1189,7 +1190,7 @@ not stuck with asking for permission or a case for the system to transform, don'
 transformative - something that is transformation can be around boundaries 
 DAO's can do many things in parallel. the DAO isn't transforming a system, it's entering a system that's transforming and hosting and inviting innovative activity
 
-TEST - this is a test paragraph #[microblog](archive/clarity/Tags/microblog.md) 
+TEST - this is a test paragraph #microblog 
 # November 15, 2022
 Attendees: @MBaldwin @Nate @Peter Gulka @heenal 
 ## Agenda:

@@ -1,5 +1,6 @@
 ---
 group: ics
+publish: false
 ---
 
 # Priority Contacts for GG23 Campaign

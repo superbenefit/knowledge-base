@@ -1,5 +1,6 @@
 ---
 group: dao-primitives
+type: note
 title: Constituency Scale
 description: Characteristics and considerations for groups operating at the Constituency Scale.
 tags:
@@ -82,7 +83,7 @@ This scale is appropriate for your organization when you observe:
 
 - [dao-state](docs/dao-primitives/implementation/patterns/dao-patterns/dao-state.md)
 - [group-state](docs/dao-primitives/primitives-framework/concepts/group-state.md)
-- [data/concepts/community-governance](data/concepts/community-governance.md)
+- [Community Governance](data/resources/patterns/community-governance.md)
 - [docs/dao-primitives/primitives-framework/implementation/implementation-guide-community-governance](docs/dao-primitives/primitives-framework/implementation/implementation-guide-community-governance.md)
 - [daos](data/concepts/daos.md)
 

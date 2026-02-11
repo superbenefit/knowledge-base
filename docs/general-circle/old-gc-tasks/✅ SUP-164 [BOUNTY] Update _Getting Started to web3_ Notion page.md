@@ -2,6 +2,7 @@
 group: general-circle
 tags:
   - tasks
+publish: false
 ---
 ## Background
 - The current "Getting started with web3" page on SuperBenefit's Community Resources Notion site feels incomplete and needs to be reworked
@@ -27,5 +28,5 @@ tags:
 - Estimated effort: 4-6 hours
 - Bounty Reward: y $SPRB
 - Due date: February 19, 2022
-- Reporting to @heenal as part of #[information squad](archive/clarity/Tags/information%20squad.md) 
+- Reporting to @heenal as part of #information squad 
 

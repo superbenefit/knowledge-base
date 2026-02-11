@@ -1,5 +1,6 @@
 ---
 group: aifs
+publish: false
 ---
 
 # All In For Sport DAO Salon Series - Pre-Gathering Topic Interests

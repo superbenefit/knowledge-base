@@ -1,7 +1,10 @@
 ---
 group: rpp
+type: note
+title: Final Playbook Reflections & Context
 tags:
   - playbooks
+publish: false
 ---
 ## Playbook Context Braindump
 

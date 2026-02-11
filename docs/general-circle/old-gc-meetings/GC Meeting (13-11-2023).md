@@ -3,6 +3,7 @@ group: general-circle
 tags:
   - meetings
 date: 2023-11-13
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 ## Attendees
@@ -31,7 +32,7 @@ date: 2023-11-13
 		- update on meeting 
 	- Restorying Power - meeting this Thurs - working through visual
 	- Stakeholder meetings coming up on Nov 20 and Dec 11
-- #[community experience squad](archive/clarity/Tags/community%20experience%20squad.md) 
+- #community experience squad 
 	- Weekly/Bi-weekly Newsletter - in progress
 - Rev 1 - initial allocation proposal
 	- being executed now

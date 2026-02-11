@@ -1,5 +1,6 @@
 ---
 group: ics
+publish: false
 ---
 
 # Citizen Wallet Integration with Community Exchange (CCC)

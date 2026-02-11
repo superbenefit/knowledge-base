@@ -1,8 +1,9 @@
 ---
 group: general-circle
+publish: false
 ---
 
-#[superbenefit contributor guide - working draft](archive/clarity/Tags/superbenefit%20contributor%20guide%20-%20working%20draft.md) 
+#superbenefit contributor guide - working draft 
 
 
 # Contributor Guide - meeting notes May 27, 2022

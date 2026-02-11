@@ -3,10 +3,11 @@ group: general-circle
 tags:
   - meetings
 date: 2022-06-13
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 # Week of June 13, 2022
-#[tactical meetings](archive/clarity/Tags/tactical%20meetings.md) Template
+#tactical meetings Template
 ## Attendees
 Heenal, Michael, Michelle, Rowan
 
@@ -25,14 +26,14 @@ Heenal, Michael, Michelle, Rowan
 		- 
 	- Blockers:
 		- 
-- Project name/link: #[superbenefit contributor guide - working draft](archive/clarity/Tags/superbenefit%20contributor%20guide%20-%20working%20draft.md) 
+- Project name/link: #superbenefit contributor guide - working draft 
 	- Last week:
 		- Updating contributor guide
 	- This week:
 		- Finalize contributor guide
 	- Blockers:
 		- Governance structure- it will come
-- Project name/link: #[governance conversations](archive/clarity/Tags/governance%20conversations.md) 
+- Project name/link: #governance conversations 
 	- Last week:
 		- Promo of Convo 2 and engagement of speakers
 	- This week:

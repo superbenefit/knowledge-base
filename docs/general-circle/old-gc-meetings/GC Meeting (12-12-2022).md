@@ -3,6 +3,7 @@ group: general-circle
 tags:
   - meetings
 date: 2022-12-12
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 ## Attendees

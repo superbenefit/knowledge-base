@@ -84,7 +84,7 @@ Each layer operated with appropriate decision-making mechanisms and authority sc
 ### Framework Components and Patterns Applied
 
 1. **Core Primitives**: Building blocks for organizational design:
-    - **[Cells](data/concepts/cells.md)**: Autonomous working groups with defined purpose, practices, and progress tracking
+    - **[Cells](data/resources/patterns/cells.md)**: Autonomous working groups with defined purpose, practices, and progress tracking
     - **[Roles](data/concepts/roles.md)**: Clearly defined responsibilities and permissions
     - **[Tasks](data/concepts/tasks.md)**: Discrete units of work with clear deliverables
     - **State Documentation**: Transparent recording of agreements, decisions, and progress
@@ -289,7 +289,7 @@ Here is an outline of how the governance structure of the RPP.
 
 - **Scales**: Collaboration, Coordination, Constituency scales
 - **Stages**: Implementation across Group Phases - Conversation, Formation, Organization, Coordination
-- **Primitives**: DAOs, [Cells](data/concepts/cells.md), [Roles](data/concepts/roles.md), [Tasks](data/concepts/tasks.md)
+- **Primitives**: DAOs, [Cells](data/resources/patterns/cells.md), [Roles](data/concepts/roles.md), [Tasks](data/concepts/tasks.md)
 - **Patterns**: Cell Working Group, [Multi-stakeholder Governance](docs/dao-primitives/implementation/patterns/constituency-scale-patterns/multi-stakeholder-governance.md), [Community Governance](docs/dao-primitives/implementation/patterns/constituency-scale-patterns/community-governance.md)
 - Guides: [implementation-guide-multi-stakeholder-governance](docs/dao-primitives/primitives-framework/implementation/implementation-guide-multi-stakeholder-governance.md)
 

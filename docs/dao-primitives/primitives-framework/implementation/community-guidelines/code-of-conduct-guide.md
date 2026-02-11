@@ -1,7 +1,9 @@
 ---
 group: dao-primitives
+type: guide
 title: Code of Conduct Implementation Guide
 description:
+publish: false
 ---
 
 Your Code of Conduct defines non-negotiable safety boundaries. Break these rules and you must leave immediately. That's the only thing this document does.

@@ -3,6 +3,7 @@ group: general-circle
 tags:
   - meetings
 date: 2023-01-16
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 ## Attendees
@@ -43,7 +44,7 @@ date: 2023-01-16
 	- Blockers:
 - #[P-236 Krause House Collaboration](P-236%20Krause%20House%20Collaboration)
 	- Looking for visual designer
-- #[dao primitives](archive/clarity/Tags/dao%20primitives.md) 
+- #[dao primitives](docs/dao-primitives/index.md) 
 	- Implementing governance - itching to get things launched. looking forward to getting governance state live and badging live, then voting mechanism and financial mechanism so that we can start rewarding people with future benefits
 	- Wonderverse, gitcoin conversations
 - Conversation with Impact DAO

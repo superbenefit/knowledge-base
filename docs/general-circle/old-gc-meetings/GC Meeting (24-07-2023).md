@@ -3,6 +3,7 @@ group: general-circle
 tags:
   - meetings
 date: 2023-07-24
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 ## Attendees
@@ -36,7 +37,7 @@ date: 2023-07-24
 	- Providing letter of support with following language: 
 
 	- >... individual contributors to SuperBenefit are committed to providing in-kind services in the amount of $10,000 through discounts to approved proposals (work done for the project).
-- #[community experience squad](archive/clarity/Tags/community%20experience%20squad.md) 
+- #community experience squad 
 	- 
 - #[P-264 Systems Transformation Project](P-264%20Systems%20Transformation%20Project) 
 	- Looking to sunset this cell - meeting next Tuesday 4 pm EST
@@ -44,7 +45,7 @@ date: 2023-07-24
 			- SEE HERE for draft agenda: [https://app.clarity.so/superbenefit/docs/3e76c16f-6d6d-4674-b558-aab592fed709](https://app.clarity.so/superbenefit/docs/3e76c16f-6d6d-4674-b558-aab592fed709) 
 			- @Aditi can help with packaging up the materials we've developed and telling the story of the project
 				- what do we want to put into the cell state that tells the story of the cell? this is where collective intelligence can be drawn from, work can be recognized, etc
-- #[dao primitives](archive/clarity/Tags/dao%20primitives.md) 
+- #[dao primitives](docs/dao-primitives/index.md) 
 	- Update on neighbourhood retrofit project - hit a speed bump but continuing positively  
 
 ## Triage/Discussion 

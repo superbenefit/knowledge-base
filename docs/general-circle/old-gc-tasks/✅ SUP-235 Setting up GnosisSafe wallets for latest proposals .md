@@ -2,6 +2,7 @@
 group: general-circle
 tags:
   - tasks
+publish: false
 ---
 - [ ] Make video the set up of a basic multi-sig so that members of the core team can do their own in future
 - [ ] Sketch out outline of steps to set up multi-sig wallet

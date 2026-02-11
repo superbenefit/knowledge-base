@@ -3,6 +3,7 @@ group: general-circle
 tags:
   - meetings
 date: 2022-09-26
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 # Week of September 26, 2022
@@ -18,7 +19,7 @@ date: 2022-09-26
 	- Last week:
 	- This week:
 	- Blockers:
-- Project name/link #[proposal sbp11- dao systems transformation repository-library](archive/clarity/Tags/proposal%20sbp11-%20dao%20systems%20transformation%20repository-library.md) 
+- Project name/link #proposal sbp11- dao systems transformation repository-library 
 	- Last week: 
 		- input from SuperBenefit community on proposal
 	- This week:
@@ -26,7 +27,7 @@ date: 2022-09-26
 		- Proposal on Snapshot for voting 
 	- Blockers:
 		- Considering funding proposal for $50K to pay for the framework creation and research as seems beyond what can ask of contributors without any fiat currency. Thoughts?
-- Project name/link - #[dao primitives](archive/clarity/Tags/dao%20primitives.md) 
+- Project name/link - #[dao primitives](docs/dao-primitives/index.md) 
 	- Last week: Working with rathermecurial on Conflict management in DAOs 
 	- This week: Pushing forward the group collaboration work
 	- Blockers:

@@ -1,5 +1,6 @@
 ---
 group: ics
+publish: false
 ---
 
 # GG23 Campaign - Implementation Guide

@@ -1,5 +1,6 @@
 ---
 group: ics
+publish: false
 ---
 
 # Artist Collective Collaboration

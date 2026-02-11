@@ -1,5 +1,6 @@
 ---
 group: ics
+publish: false
 ---
 
 # ICS Web3 Integration Page Content

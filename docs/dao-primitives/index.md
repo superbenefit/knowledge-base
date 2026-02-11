@@ -87,8 +87,8 @@ Reusable solutions to common [coordination](data/concepts/coordination.md) chall
 
 ### 3. [Implementation](docs/dao-primitives/implementation/index.md)
 Practical tools, processes, and guides for putting the primitives approach into practice, including:
-- [Case Studies](notes/dao-primitives/implementation/case-studies)
-- [Guides](notes/dao-primitives/implementation/guides)
+- [Case Studies](docs/dao-primitives/implementation/case-studies)
+- [Guides](docs/dao-primitives/implementation/guides)
 
 
 ## Network Evolution Series

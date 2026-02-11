@@ -1,5 +1,6 @@
 ---
 group: ics
+publish: false
 ---
 
 # How has the project impacted the identified equity denied groups?

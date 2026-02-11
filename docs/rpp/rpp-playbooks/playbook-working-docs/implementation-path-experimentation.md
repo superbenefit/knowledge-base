@@ -1,5 +1,8 @@
 ---
 group: rpp
+type: note
+title: Implementation Path: Experimentation
+publish: false
 ---
 
 # Implementation Path: Experimentation

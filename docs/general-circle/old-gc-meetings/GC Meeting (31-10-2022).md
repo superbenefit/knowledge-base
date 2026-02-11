@@ -3,6 +3,7 @@ group: general-circle
 tags:
   - meetings
 date: 2022-10-31
+publish: false
 ---
 #[index](docs/general-circle/old-gc-meetings/index.md) 
 ## Attendees
@@ -49,7 +50,7 @@ Project name/link #[P-264 Systems Transformation Project](P-264%20Systems%20Tran
 		- #[SUP-268 Create a new Figjam board ](SUP-268%20Create%20a%20new%20Figjam%20board%20) 
 		- Draft Tooling section of #[drafts/sb-clarity/Tags/nucleus](drafts/sb-clarity/Tags/nucleus)
 
-Project name/link - #[dao primitives](archive/clarity/Tags/dao%20primitives.md) 
+Project name/link - #[dao primitives](docs/dao-primitives/index.md) 
 - Last week: 
 	- Proposals in for AIFS
 	- Governance design for AIFS

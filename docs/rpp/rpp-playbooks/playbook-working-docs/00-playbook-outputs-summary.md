@@ -1,5 +1,8 @@
 ---
 group: rpp
+type: note
+title: Playbook Outputs Summary
+publish: false
 ---
 
 # Playbook Outputs Summary

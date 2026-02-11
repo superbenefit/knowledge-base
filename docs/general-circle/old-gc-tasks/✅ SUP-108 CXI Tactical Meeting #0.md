@@ -2,6 +2,7 @@
 group: general-circle
 tags:
   - tasks
+publish: false
 ---
 Town Hall Debrief
 - people showed up, attendance was 25, met our goal
