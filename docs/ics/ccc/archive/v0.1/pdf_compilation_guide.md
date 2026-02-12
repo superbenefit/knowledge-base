@@ -70,7 +70,7 @@ For a more professional PDF with proper styling:
 ---
 title: "Community Exchange: Connecting Curiosity and Commitment in London"
 author: "Institute for Community Sustainability"
-date: "April 2025"
+date: 2025-04-01
 toc: true
 toc-depth: 2
 numbersections: true

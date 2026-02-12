@@ -9,6 +9,7 @@ tags:
   - governance
 publish: true
 type: link
+linkType: article
 banner: "![[attachments/QZusNoUiQ8Z05UrfTw4fC.png]]"
 banner_y: 0.196
 ---

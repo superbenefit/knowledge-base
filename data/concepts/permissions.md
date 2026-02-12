@@ -5,7 +5,7 @@ harvester: rathermercurial.eth
 tags:
 - governance
 - functions
-- primitives 
+- primitives
 aliases:
 - "#permissions"
 publish: true

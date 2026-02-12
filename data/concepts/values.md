@@ -4,7 +4,7 @@ description: Core principles and desired characteristics that guide decision-mak
 harvester: rathermercurial.eth
 tags:
 - governance
-- agreements 
+- agreements
 aliases:
 - "#values"
 - "#qualities"

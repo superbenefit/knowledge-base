@@ -4,7 +4,7 @@ title: Goals
 description: Collectively defined objectives that orient decision-making and action toward specific, measurable outcomes while maintaining alignment with shared purpose.
 harvester: rathermercurial.eth
 tags:
-- agreements 
+- agreements
 aliases:
 - "#goals" 
 publish: true

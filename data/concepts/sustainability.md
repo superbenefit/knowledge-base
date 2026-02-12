@@ -4,7 +4,7 @@ title: Sustainability
 description: Practices and systems that balance environmental, social, and economic dimensions to ensure long-term viability and regeneration in decentralized networks and beyond
 harvester: heenal.eth
 tags:
-- qualities 
+- qualities
 aliases:
 - "#sustainability"
 publish: true

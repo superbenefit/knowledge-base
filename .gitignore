@@ -45,5 +45,8 @@ notes/rpp/rpp-archive/rpp-meetings/
 
 
 
+# Ignore scratch/temp files
+tmp/
+
 # Ignore Smart Environment folder
 .smart-env.claude/

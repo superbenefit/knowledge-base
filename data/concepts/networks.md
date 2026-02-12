@@ -5,7 +5,7 @@ description: Interconnected systems of agents, resources, and relationships that
 harvester: rathermercurial.eth
 tags:
 - primitives
-- coordination 
+- coordination
 aliases:
 - "#networks" 
 publish: true

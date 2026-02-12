@@ -9,6 +9,7 @@ tags:
   - daos
 publish: true
 type: link
+linkType: article
 banner: "![[attachments/dNKWBMZBfnL6Jb1BRGpQo.jpeg]]"
 ---
 

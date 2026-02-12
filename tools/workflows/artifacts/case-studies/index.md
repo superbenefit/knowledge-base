@@ -24,7 +24,7 @@ Traditional documentation often asks for the same information multiple times in 
 
 The framework offers four interconnected phases. While presented in a logical sequence, real work rarely follows straight lines. Start wherever makes sense for your current situation.
 
-### [[tools/workflows/artifacts/case-studies/discovery/index|Discovery]] - Understanding Context
+### [Discovery](tools/workflows/artifacts/case-studies/discovery/index.md) - Understanding Context
 *Where are we starting from?*
 
 Discovery helps you understand the organizational landscape - not just structures and processes, but the human dynamics, challenges, and possibilities that make each situation unique. This phase creates the foundation for everything that follows.
@@ -33,7 +33,7 @@ Discovery helps you understand the organizational landscape - not just structure
 
 **You'll create:** A Discovery Report that tells the organization's story in a way that feels true to those living it
 
-### [[tools/workflows/artifacts/case-studies/intervention/index|Intervention]] - Exploring Possibilities  
+### [Intervention](tools/workflows/artifacts/case-studies/intervention/index.md) - Exploring Possibilities
 *What might we try?*
 
 Intervention transforms Discovery insights into strategic possibilities. Rather than prescribing solutions, this phase maps multiple pathways forward, helping organizations see their options and make informed choices.
@@ -42,7 +42,7 @@ Intervention transforms Discovery insights into strategic possibilities. Rather 
 
 **You'll create:** An Intervention Map showing genuine alternatives with clear trade-offs
 
-### [[tools/workflows/artifacts/case-studies/reflection/index|Reflection]] - Capturing Learning
+### [Reflection](tools/workflows/artifacts/case-studies/reflection/index.md) - Capturing Learning
 *What are we discovering?*
 
 Reflection happens throughout your work - after key events, when surprises occur, or at natural pause points. This phase captures learning while it's fresh, building wisdom from experience.
@@ -51,7 +51,7 @@ Reflection happens throughout your work - after key events, when surprises occur
 
 **You'll create:** Reflection Documents that honestly capture learning as it emerges
 
-### [[tools/workflows/artifacts/case-studies/synthesis/index|Synthesis]] - Sharing Wisdom
+### [Synthesis](tools/workflows/artifacts/case-studies/synthesis/index.md) - Sharing Wisdom
 *What does it all mean?*
 
 Synthesis weaves together insights from all phases into a coherent story of transformation. This creates documentation that serves both immediate stakeholders and contributes to collective wisdom.
@@ -83,7 +83,7 @@ Each phase has its own overview explaining principles, common patterns, and what
 ## Getting Started
 
 ### First Steps
-1. **Orient yourself** - Read the [[readme|main README]] to understand the framework's philosophy
+1. **Orient yourself** - Read the [main README](readme.md) to understand the framework's philosophy
 2. **Start where you are** - Choose the phase that matches your current work
 3. **Explore the tools** - Each phase's README explains available resources
 4. **Begin capturing** - Use worksheets to guide initial exploration
@@ -91,16 +91,16 @@ Each phase has its own overview explaining principles, common patterns, and what
 ### Choosing Your Path
 
 **If you're just beginning to understand a situation:**
-Start with [[tools/workflows/artifacts/case-studies/discovery/index|Discovery]] to build foundational understanding
+Start with [Discovery](tools/workflows/artifacts/case-studies/discovery/index.md) to build foundational understanding
 
 **If you're in the middle of trying something new:**
-Jump to [[tools/workflows/artifacts/case-studies/reflection/index|Reflection]] to capture emerging insights
+Jump to [Reflection](tools/workflows/artifacts/case-studies/reflection/index.md) to capture emerging insights
 
 **If you're designing interventions:**
-Use [[tools/workflows/artifacts/case-studies/intervention/index|Intervention]] to map possibilities
+Use [Intervention](tools/workflows/artifacts/case-studies/intervention/index.md) to map possibilities
 
 **If you're ready to share your story:**
-Move to [[tools/workflows/artifacts/case-studies/synthesis/index|Synthesis]] to create your case study
+Move to [Synthesis](tools/workflows/artifacts/case-studies/synthesis/index.md) to create your case study
 
 ### Working Principles
 
@@ -116,7 +116,7 @@ Move to [[tools/workflows/artifacts/case-studies/synthesis/index|Synthesis]] to 
 
 The framework is designed so insights naturally build across phases. Discovery findings inform intervention design. Intervention plans provide context for reflection. Reflections accumulate into synthesis. This flow eliminates redundancy while building comprehensive understanding.
 
-For detailed information about how knowledge moves between phases, see [[experiment-information-flow|Information Flow]].
+For detailed information about how knowledge moves between phases, see [Information Flow](experiment-information-flow.md).
 
 ## Remember
 
@@ -126,4 +126,4 @@ Your experiments in organizational change and collaborative transformation gener
 
 ---
 
-*Ready to begin? Choose a phase above or explore the [[readme|framework overview]] for deeper understanding of the progressive documentation approach.*
+*Ready to begin? Choose a phase above or explore the [framework overview](readme.md) for deeper understanding of the progressive documentation approach.*

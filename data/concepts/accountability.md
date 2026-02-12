@@ -5,7 +5,7 @@ description: The obligation of individuals, groups, or systems to take responsib
 harvester: rathermercurial.eth 
 tags:
 - governance
-- values 
+- values
 aliases:
 - "#accountability"
 publish: true

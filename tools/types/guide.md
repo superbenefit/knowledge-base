@@ -12,6 +12,7 @@ extends: story
 savedViews: []
 favoriteView:
 fieldsOrder: []
+fields: []
 version: "3.0"
 ---
 The Guide type provides instructional content that teaches specific skills, concepts, or tools relevant to the DAO ecosystem. Guides focus on education and capability building, helping community members develop competencies needed for effective participation.

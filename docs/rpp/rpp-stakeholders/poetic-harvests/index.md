@@ -1,9 +1,8 @@
 ---
 group: rpp
 title: 
-description: 
-date: 
-author: 
+description:
+author:
 tags: 
 publish: false
 type: note

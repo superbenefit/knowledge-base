@@ -20,10 +20,10 @@ Good reflection documentation acknowledges emotion alongside analysis. Change wo
 - **Look for patterns** - What keeps showing up across experiences?
 
 ## Contents
-- [[readme]] - Technical overview and information flow
-- [[reflection-worksheet]] - Questions to explore
-- [[reflection-template]] - Document structure
-- [[reflection-workflow]] - How to create it
+- [readme](readme.md) - Technical overview and information flow
+- [reflection-worksheet](reflection-worksheet.md) - Questions to explore
+- [reflection-template](reflection-template.md) - Document structure
+- [reflection-workflow](reflection-workflow.md) - How to create it
 
 ## Getting Started
 Use the worksheet to capture insights as they emerge, then the workflow to create reflection documents at natural pause points.

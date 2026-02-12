@@ -20,10 +20,10 @@ These documents work best when they include enough context for outsiders to unde
 - **Stay grounded** - Focus on how things actually work, not how they should work
 
 ## Contents
-- [[readme]] - Technical overview and information flow
-- [[discovery-worksheet]] - Questions to explore
-- [[discovery-template]] - Document structure
-- [[discovery-workflow]] - How to create it
+- [readme](readme.md) - Technical overview and information flow
+- [discovery-worksheet](discovery-worksheet.md) - Questions to explore
+- [discovery-template](discovery-template.md) - Document structure
+- [discovery-workflow](discovery-workflow.md) - How to create it
 
 ## Getting Started
 Begin with the worksheet to gather insights through conversations, then use the workflow to transform them into a Discovery Report that tells your organization's unique story.

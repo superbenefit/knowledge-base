@@ -20,10 +20,10 @@ Effective intervention documentation connects each possibility back to specific 
 - **Consider all stakeholders** - What works for some might challenge others
 
 ## Contents
-- [[readme]] - Technical overview and information flow
-- [[intervention-worksheet]] - Questions to explore
-- [[intervention-template]] - Document structure
-- [[intervention-workflow]] - How to create it
+- [readme](readme.md) - Technical overview and information flow
+- [intervention-worksheet](intervention-worksheet.md) - Questions to explore
+- [intervention-template](intervention-template.md) - Document structure
+- [intervention-workflow](intervention-workflow.md) - How to create it
 
 ## Getting Started
 Review your Discovery Report, then use the worksheet to explore intervention possibilities and the workflow to create your Intervention Map.

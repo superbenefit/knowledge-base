@@ -7,7 +7,7 @@
   "isAutosuggestEnabled": true,
   "fileClassAlias": "type",
   "settingsVersion": "5.0",
-  "globalFileClass": "note",
+  "globalFileClass": "file",
   "firstDayOfWeek": 1,
   "enableLinks": true,
   "enableTabHeader": true,

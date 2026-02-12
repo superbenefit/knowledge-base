@@ -4,7 +4,7 @@ title: Platforms
 description: Infrastructure systems that enable coordination, value exchange, and service delivery through standardized interfaces and protocols
 harvester: rathermercurial.eth
 tags:
-- resources 
+- resources
 aliases:
 - "#platforms" 
 publish: true

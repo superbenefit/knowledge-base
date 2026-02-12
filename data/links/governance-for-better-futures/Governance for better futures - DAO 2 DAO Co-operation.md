@@ -8,6 +8,7 @@ tags:
   - daos
 publish: true
 type: link
+linkType: article
 banner: "![[attachments/zenGd_02dGdVDJ581M_9A.jpeg]]"
 banner_y: 0.468
 ---

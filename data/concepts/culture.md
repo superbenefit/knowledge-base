@@ -4,7 +4,7 @@ title: Culture
 description: The shared patterns of beliefs, behaviors, and practices that emerge from and shape interactions within communities and organizations 
 harvester: rathermercurial.eth 
 tags:
-- agreements 
+- agreements
 aliases:
 - "#culture"
 publish: true
