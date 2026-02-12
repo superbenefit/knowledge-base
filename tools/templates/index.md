@@ -9,31 +9,62 @@ type: index
 
 This directory contains template files used to create new documents with consistent structure and metadata. Templates help streamline the content creation process while ensuring all documents follow our established standards and workflows.
 
+## Template Location
+
+All templates are in the `layouts/` subdirectory.
+
 ## Template Categories
 
-Our templates are organized by content type, aligned with our type system:
+### Working Documents
+- **note.md** - Research notes and early-stage ideas
 
-- **Note Template** - For research notes and early-stage ideas
-- **Link Template** - For external resource documentation
-- **Tag Template** - For lexicon entries defining terminology
-- **Pattern Template** - For documenting reusable organizational solutions
-- **Playbook Template** - For comprehensive implementation guides
-- **Study Template** - For case studies of real-world implementations
-- **Index Template** - For directory overview pages
+### Knowledge Resources
+- **pattern.md** - Reusable organizational solutions
+- **practice.md** - Repeated activities and methods
+- **primitive.md** - Atomic building blocks
+- **protocol.md** - Formal procedures and standards
+- **playbook.md** - Comprehensive implementation guides
+
+### Narrative Content
+- **article.md** - Formal publications and essays
+- **study.md** - Case studies of real-world implementations
+- **guide.md** - Tutorials and instructional content
+
+### Reference Content
+- **concept.md** - Lexicon entries defining terminology
+- **link.md** - External resource documentation
+- **index.md** - Directory overview pages
+- **question.md** - Research questions to explore
+
+### Entity Profiles
+- **person.md** - Individual profiles
+- **group.md** - Organizations, DAOs, and collectives
+- **project.md** - Time-bounded initiatives
+- **place.md** - Locations and bioregions
+- **gathering.md** - Events and meetings
 
 ## Choosing the Right Template
 
-Select the template that best matches what you're trying to create:
-
-| If you want to... | Use this template |
-|-------------------|-------------------|
-| Document early research or ideas | **Note Template** |
-| Add an external resource to the library | **Link Template** |
-| Define terminology for our shared vocabulary | **Tag Template** |
-| Document a reusable organizational solution | **Pattern Template** |
-| Create a comprehensive implementation guide | **Playbook Template** |
-| Document a real-world implementation | **Study Template** |
-| Create a directory overview | **Index Template** |
+| If you want to... | Use |
+|-------------------|-----|
+| Document early research or ideas | note.md |
+| Document a reusable solution | pattern.md |
+| Document a repeated activity | practice.md |
+| Document a building block | primitive.md |
+| Document a formal procedure | protocol.md |
+| Create an implementation guide | playbook.md |
+| Write a formal publication | article.md |
+| Document a real-world case | study.md |
+| Create a tutorial | guide.md |
+| Define terminology | concept.md |
+| Add an external resource | link.md |
+| Create a directory overview | index.md |
+| Capture a research question | question.md |
+| Create a person profile | person.md |
+| Document an organization | group.md |
+| Document a project | project.md |
+| Document a location | place.md |
+| Document an event | gathering.md |
 
 ## Using Templates in Obsidian
 

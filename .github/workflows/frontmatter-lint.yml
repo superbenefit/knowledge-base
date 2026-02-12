@@ -1,0 +1,58 @@
+name: Frontmatter Lint
+
+on:
+  pull_request:
+    paths:
+      - 'data/**.md'
+      - 'docs/**.md'
+
+jobs:
+  lint-frontmatter:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check required frontmatter fields
+        run: |
+          errors=0
+
+          # Check data/ and docs/ markdown files (skip archive/, tools/, .github/)
+          find data docs -name '*.md' -not -path '*/archive/*' | while IFS= read -r file; do
+            # Extract frontmatter (between first --- and second ---)
+            frontmatter=$(awk '/^---$/{n++; next} n==1{print} n>=2{exit}' "$file")
+
+            # Skip files without frontmatter
+            [ -z "$frontmatter" ] && continue
+
+            missing=""
+
+            # Check for type field
+            if ! echo "$frontmatter" | grep -qP '^type:\s*\S'; then
+              missing="${missing} type"
+            fi
+
+            # Check for title field
+            if ! echo "$frontmatter" | grep -qP '^title:\s*\S'; then
+              missing="${missing} title"
+            fi
+
+            # Check for publish field
+            if ! echo "$frontmatter" | grep -qP '^publish:\s*\S'; then
+              missing="${missing} publish"
+            fi
+
+            if [ -n "$missing" ]; then
+              echo "::warning file=${file}::Missing required frontmatter:${missing}"
+              errors=$((errors + 1))
+            fi
+          done
+
+          if [ "$errors" -gt 0 ]; then
+            echo ""
+            echo "::notice::${errors} file(s) with missing frontmatter fields. See warnings above."
+          else
+            echo "All checked files have required frontmatter fields."
+          fi
+
+          # Advisory — don't block the PR
+          exit 0

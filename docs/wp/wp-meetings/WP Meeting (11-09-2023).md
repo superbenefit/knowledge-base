@@ -1,0 +1,17 @@
+---
+group: wp
+tags:
+  - meetings
+date: 2023-09-11
+source: "[wp-clarity-meeting-notes](/notes/wp/wp-meetings/wp-clarity-meeting-notes.md)"
+publish: false
+---
+
+# WP Meeting - 9/11/23
+
+- ### Attendees: 
+- @Lewwwk @Ananth @Rowan  @rathermercurial 
+
+### Discussion Topics:
+- Review Cell State (Rowan) 
+	- [https://app.clarity.so/superbenefit/docs/52bd9983-0df3-434d-b6fa-3f50fcb65e04](https://app.clarity.so/superbenefit/docs/52bd9983-0df3-434d-b6fa-3f50fcb65e04)

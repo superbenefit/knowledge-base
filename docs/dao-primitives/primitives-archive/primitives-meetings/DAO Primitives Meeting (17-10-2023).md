@@ -1,0 +1,30 @@
+---
+group: dao-primitives
+tags:
+  - meetings
+date: 2023-10-17
+source: "[2022-04-19 - Weekly Meeting Notes - DAO Primitives](notes/dao-primitives/primitives-archive/primitives-docs/2022-04-19%20-%20Weekly%20Meeting%20Notes%20-%20DAO%20Primitives.md)"
+---
+
+# DAO Primitives Meeting - 10/17/23
+
+- ## Attendees
+
+
+- ## Updates
+	-  rather/rowan discussion about design
+	- Plans for RPP team meeting
+	- Ananth joining the GC?
+- ## Discussion topics
+	- Rowan (for rather) - Merging the WREEP core team and WREEP roles
+	- Rowan - Discuss and decide on Sobol layout
+	- Rowan - Review any prep for BS meeting on Thursday
+	- Rowan - Defining and refining the actual Cell Primitive
+
+
+- ## Decisions
+
+
+- ## Action items
+	- roll up hats trees - ananth
+		- change collabland with new ids

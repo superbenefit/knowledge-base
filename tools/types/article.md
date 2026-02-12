@@ -1,22 +1,23 @@
 ---
 limit: 40
 mapWithTag: false
-icon: notepad-text
-tagNames: 
+icon: newspaper
+tagNames:
 filesPaths:
-  - artifacts/articles
-bookmarksGroups: 
-excludes: 
-extends: artifact
+  - data/stories/articles
+bookmarksGroups:
+excludes:
+extends: story
 savedViews: []
-favoriteView: 
+favoriteView:
 fieldsOrder: []
-version: "2.1"
+version: "3.0"
+fields: []
 ---
 The Article type represents formal publications, essays, and in-depth analyses on topics relevant to decentralized organizations. Articles provide space for thought leadership, theoretical exploration, and comprehensive treatment of complex topics.
 
-Extending Artifact, Articles accommodate longer-form content that develops arguments, presents research, or offers perspectives. Content may originate on external platforms like Mirror.xyz or be native to the knowledge base. The `/artifacts/articles/` directory houses these more formal writings.
+Extending Story, Articles inherit author and url fields. Content may originate on external platforms or be native to the knowledge base.
 
-Articles differ from other artifact types by emphasizing narrative and argumentation over structured frameworks (patterns) or procedures (playbooks). They contribute to discourse, challenge assumptions, and explore implications, serving as a bridge between the SuperBenefit knowledge base and broader Web3 conversations.
+Located in `data/stories/articles/`, articles emphasize narrative and argumentation over structured frameworks (patterns) or procedures (playbooks).
 
 **Template**: [article.md](tools/templates/layouts/article.md)

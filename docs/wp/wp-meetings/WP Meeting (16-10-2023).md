@@ -1,0 +1,70 @@
+---
+group: wp
+tags:
+  - meetings
+date: 2023-10-16
+source: "[wp-clarity-meeting-notes](/notes/wp/wp-meetings/wp-clarity-meeting-notes.md)"
+publish: false
+---
+
+# WP Meeting - **10/16/23**
+
+- ## Attendees
+	-  
+	- **Regrets:** 
+- ## **Updates**
+	- @Ananth set up [SB Hats Tree (#30 on Optimism)](https://app.hatsprotocol.xyz/trees/10/30)
+	- @rathermercurial set up [Token Gates](https://cc.collab.land/dashboard/874697948838101092/tgrs), [Community Role Logic](https://cc.collab.land/dashboard/874697948838101092/role-composition), (preliminary) [Onboarding Flows](https://mee6.xyz/en/dashboard/874697948838101092/automations), [Sobol Team Map](https://sobol.io/d/superbenefit/team/VKJgLwRWQN/overview)
+	- @rathermercurial set up docs repo in GitHub & GitBook. Waiting on more info on BlockSci's approach/preferences before configuring community health files
+		- [GitHub Repo](https://github.com/superbenefit/WREEP-docs), [GitBook Edit Page](https://app.gitbook.com/o/q4gQGqoLDMSfeK1Ur4jL/s/Hqn2HJt3kMFOCpAff1rC/), [GitBook Front-End (temp)](https://superbenefit.gitbook.io/wreep-community-docs/), [wreep.docs.superbenefit.org](https://wreep.docs.superbenefit.org)
+	- NDA - when it's finished we'll add it to the wreep core cell and attestation 
+- ## Discussion Topics
+	- 
+	- rather - GitHub organization. Unified or multiple repos for litepaper, docs, etc.? (this affects Community Health file placement)
+	- Rowan - **Planning** 
+		- **Mapping stakeholders **
+			- Pilot SHG - orgs and people who need to be included? Who is mapping these and where? - 
+			- Windfall/Brent is holding this and is mapping the SHG and making introductions. BS will choose who they want to speak with. Brent will make the introduction. 
+			- Customer interviews list for BS - these will take a month
+			- **Plan for engagement with wider group. **
+				- Brent will make contact with Pilot SHG members and onboarding them to the project?
+				- The we will manage the onboarding flow to the comms and feedback channels
+				- When BS have an initial grounding doc (landscape of the existing state and problems) we will bring in the broader SHG we will push go on onboarding the stakeholders 
+				- BS's initial grounding doc - when it's starting to take shape we will move it gitbook or something else and open up for comment and discussion in discord. 
+					- Set up an ongoing conviction signalling mechanism to capture - 
+					- Ongoing discussion - use discord threads. 
+					- Post up litepaper drafts 
+					- Confidentiality/NDA - not needed as they will only see public information - perhaps use chatham house rules in a code of conduct and setting the tone for the group
+					- Onboarding of SHG
+						- Perhaps 20 folks 
+						- Self service wallet set up - e.g rainbow
+						- Put together simple instructions on how to get a wallet. Include a link to a 1on 1 to get help if they need it. 
+						- Set up a wreep only notifications page so that people don't get overwhelmed by the discord
+						- Do other paring down of the SB discord work
+						- Put something in the "choose a role" channel for what channels people want to see 
+						- Design the language for setting the tone/context for the group. 
+						- Put together a simple code of conduct that includes Chatham House rules
+						- Include the ability for people to post anon. Set up the channel invite for people to be able to sign up with an eth address only, so they can register an anon account. 
+						- Have a person/s who can support the right kinds of conversations in the channel
+				- Formal temp checks at draft and final
+					- ~Telescope bot (suggested by BS)~
+					- Snapshot for temp checks
+						- Check with BS if they want to break the drafts into pieces to temp check it. (discuss this with BS at this week's meeting)
+						- Perhaps use multiple ingoing snapshots that cover different pieces and then people change their votes over time
+						- Try to reward people with tokens for regularly updating their votes on snapshot
+						- Ananth to check if it is possible to capture data from snapshot on changing votes - through flipside (this looks possible)
+				- Perhaps use Lore for the community group management
+		- **Setting up Project Stewardship Group**
+			- Have the weekly meeting serve as the PSG meeting as well. The PSG can figure out its own communication separately.  
+	- 
+	- ### Topics for next week
+		- 
+- ## Decisions log
+	- 
+- ## Action Items
+	- [ ] Michael to send an invoice from Possibillian to Windfall in line with the payment schedule shared as part of the scoping doc
+	- [ ] Ananth to set up a WREEP safe on optimism and add to the Cell state doc [https://app.clarity.so/superbenefit/docs/52bd9983-0df3-434d-b6fa-3f50fcb65e04](https://app.clarity.so/superbenefit/docs/52bd9983-0df3-434d-b6fa-3f50fcb65e04) 
+	- [ ] Ananth to check if it is possible to capture data from snapshot on changing votes
+	- [ ] For next meeting - have onboarding ready for the PSG on thursday 
+	- [ ] Rowan - clean up notes for planning 
+	- [ ] Ananth to check if it is possible to capture data from snapshot on changing votes - through flipside (this looks possible)

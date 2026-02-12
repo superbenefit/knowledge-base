@@ -32,9 +32,9 @@ tags:
 ---
 %% This template creates a basic note for early-stage ideas and research. %%
 
-# <% tp.frontmatter.title || "Untitled Note" %>
+# Title
 
-_<% tp.frontmatter.description || "Brief description of this note's purpose." %>_
+_Brief description of this note's purpose._
 
 ## Key Points
 
@@ -71,52 +71,66 @@ Each template implements one or more types defined in `/tools/types/`. The relat
 
 This separation of concerns means that when you use a template, you're automatically following the metadata requirements defined by its corresponding type.
 
+### Template Location
+
+All templates are located in `/tools/templates/layouts/`.
+
 ### Template to Type Mapping
 
 | Template | Type | Purpose |
 |----------|------|---------|
-| note.md | note | Basic research notes and concepts |
-| link.md | link | External resource documentation |
-| tag.md | tag | Lexicon entries for terminology |
-| pattern.md | pattern | Reusable organizational solutions |
-| playbook.md | playbook | Implementation guides |
-| study.md | study | Case studies of implementations |
+| note.md | file | Working documents and research notes |
+| article.md | article | Formal publications and essays |
+| concept.md | concept | Term definitions for the lexicon |
+| gathering.md | gathering | Events and meetings |
+| group.md | group | Organizations and collectives |
+| guide.md | guide | Tutorials and instructional content |
 | index.md | index | Directory overview pages |
+| link.md | link | External resource documentation |
+| pattern.md | pattern | Reusable organizational solutions |
+| person.md | person | Individual profiles |
+| place.md | place | Locations and bioregions |
+| playbook.md | playbook | Implementation guides |
+| practice.md | practice | Repeated activities and methods |
+| primitive.md | primitive | Atomic building blocks |
+| project.md | project | Time-bounded initiatives |
+| protocol.md | protocol | Formal procedures and standards |
+| question.md | question | Research questions |
+| study.md | study | Case studies of implementations |
 
 ## Choosing the Right Template
 
 Select the template that best matches the type of content you're creating:
 
+**Working Documents**
 - Use **note.md** for early-stage ideas and research that's still developing
-- Use **link.md** for documenting external resources with analysis and context
-- Use **tag.md** for defining terminology in our shared vocabulary
+
+**Knowledge Resources**
 - Use **pattern.md** for documenting reusable solutions to common challenges
+- Use **practice.md** for repeated activities that build capacity
+- Use **primitive.md** for atomic building blocks
+- Use **protocol.md** for formal procedures and standards
 - Use **playbook.md** for comprehensive implementation guides
+
+**Narrative Content**
+- Use **article.md** for formal publications and essays
 - Use **study.md** for case studies of real-world implementations
+- Use **guide.md** for tutorials and instructional content
+
+**Reference Content**
+- Use **concept.md** for defining terminology in our shared vocabulary
+- Use **link.md** for documenting external resources with analysis and context
 - Use **index.md** for directory overview pages
+- Use **question.md** for research questions to explore
+
+**Entity Profiles**
+- Use **person.md** for individual profiles
+- Use **group.md** for organizations, DAOs, and collectives
+- Use **project.md** for time-bounded initiatives
+- Use **place.md** for locations and bioregions
+- Use **gathering.md** for events and meetings
 
 When in doubt, start with the basic note template and refine your content as it develops.
-
-## Templater Features
-
-Many of our templates incorporate the Templater plugin to provide dynamic content generation. Templater uses a special syntax with `<% %>` delimiters to insert dynamic content based on frontmatter fields, file properties, dates, and other variables.
-
-For example, this Templater expression in a template:
-
-```markdown
-# <% tp.frontmatter.title || "Untitled Document" %>
-```
-
-Will automatically insert the title from the frontmatter, or "Untitled Document" if no title is provided.
-
-Common Templater features in our templates include:
-
-- Automatically using frontmatter values in the document body
-- Providing sensible defaults for empty fields
-- Generating dates and other dynamic content
-- Creating links to related content
-
-If you're creating or modifying templates, we recommend reviewing our [Guide to Using Templater](tools/plugin-notes/templater/Guide%20to%20Using%20Templater.md) for detailed implementation guidelines.
 
 ## Best Practices for Template Usage
 
@@ -163,9 +177,8 @@ If you find yourself repeatedly creating a specific type of content that isn't w
 4. Add a descriptive comment immediately after the frontmatter explaining the template's purpose
 5. Design the document structure with appropriate headings and sections
 6. Include helpful comments to guide users on what to include in each section
-7. Incorporate Templater syntax for dynamic content where appropriate
-8. Test the template thoroughly by creating sample documents
-9. Update this readme to document the new template
+7. Test the template thoroughly by creating sample documents
+8. Update this readme to document the new template
 
 ## Naming Conventions
 
@@ -178,7 +191,6 @@ Template files follow these naming conventions:
 
 If you encounter issues with templates:
 
-- **Templater syntax errors:** Check the Templater console in Obsidian for error messages
 - **Missing metadata fields:** Verify that the template includes all required fields from its corresponding type
 - **Formatting issues:** Ensure that you're using standard markdown syntax
 - **Plugin conflicts:** Check for conflicts with other plugins that might affect template rendering

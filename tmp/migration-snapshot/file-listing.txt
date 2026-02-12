@@ -1,0 +1,2606 @@
+./.enveloppe/concepts.md
+./.enveloppe/publish-test/content/artifacts/patterns/progressive-web3-adoption.md
+./.enveloppe/publish-test/content/artifacts/playbooks/rpp-playbook.md
+./.enveloppe/publish-test/content/artifacts/studies/experiments/index.md
+./.enveloppe/publish-test/content/artifacts/studies/projects/rpp-governance-case-study.md
+./.enveloppe/publish-test/content/links/the-future-of-optimism-governance.md
+./.enveloppe/publish-test/content/notes/dao-primitives/implementation/guides/governance/implementation-guide-operational-governance.md
+./.enveloppe/publish-test/content/notes/dao-primitives/implementation/patterns/dao-patterns/dao-state.md
+./.enveloppe/publish-test/content/notes/dao-primitives/index.md
+./.enveloppe/publish-test/content/notes/ics/index.md
+./.enveloppe/publish-test/content/notes/rpp/rpp-working-docs/token-based-governance.md
+./.enveloppe/publish-test/content/tags/wallets.md
+./.trash/concepts/concepts.md
+./.trash/dao-primitives-framework/dao-primitives-concepts.md
+./.trash/dao-primitives-framework/patterns/cell.md
+./.trash/dao-primitives-framework/readme.md
+./.trash/discovery.md
+./.trash/example-guidelines/sacred-nine/code-of-conduct.md
+./.trash/example-guidelines/sacred-nine/commitment-to-accountability.md
+./.trash/example-guidelines/sacred-nine/conflict-response-plan.md
+./.trash/group-preferences.md
+./.trash/implementation/index.md
+./.trash/index.md
+./agents.md
+./artifacts/index.md
+./artifacts/misc/articles/going-daonwind/daos-are-like-planetary-systems.md
+./artifacts/misc/articles/going-daonwind/daos-are-like-starling-murmurations.md
+./artifacts/misc/articles/going-daonwind/daos-are-like-water.md
+./artifacts/misc/articles/going-daonwind/index.md.md
+./artifacts/misc/articles/governance-for-better-futures/Exploring governance for better futures.md
+./artifacts/misc/articles/governance-for-better-futures/Governance for better futures - DAO 2 DAO Co-operation.md
+./artifacts/misc/articles/governance-for-better-futures/Governance for better futures - Meta-governance.md
+./artifacts/misc/articles/governance-for-better-futures/Governance for better futures - New and Old.md
+./artifacts/misc/articles/governance-for-better-futures/index.md
+./artifacts/misc/articles/index.md
+./artifacts/misc/guides/discord-link-scraper.md
+./artifacts/misc/guides/index.md
+./artifacts/misc/guides/poetic-harvesting-guide.md
+./artifacts/misc/patterns/fiscal-bridge-pattern.md
+./artifacts/misc/patterns/gatherings.md
+./artifacts/misc/patterns/index.md
+./artifacts/misc/patterns/knowledge-gardens.md
+./artifacts/misc/patterns/poetic-harvesting.md
+./artifacts/misc/patterns/progressive-web3-adoption.md
+./artifacts/misc/patterns/tokenized-funds.md
+./artifacts/misc/playbooks/index.md
+./artifacts/misc/stories/index.md
+./artifacts/primitives-framework/articles/Building DAOs as scalable networks.md
+./artifacts/primitives-framework/articles/DAOs - From fractal primitives to network scale..md
+./artifacts/primitives-framework/articles/DAOs aren't things... they are flows..md
+./artifacts/primitives-framework/articles/index.md
+./artifacts/primitives-framework/articles/Minimum Viable Permissionless-ness.md
+./artifacts/primitives-framework/articles/Scale and the levers that provide DAOs their power.md
+./artifacts/primitives-framework/concepts/group-phase/completion-phase.md
+./artifacts/primitives-framework/concepts/group-phase/conversation-phase.md
+./artifacts/primitives-framework/concepts/group-phase/formation-phase.md
+./artifacts/primitives-framework/concepts/group-phase/index.md
+./artifacts/primitives-framework/concepts/group-phase/iteration-phase.md
+./artifacts/primitives-framework/concepts/group-phase/organization-phase.md
+./artifacts/primitives-framework/concepts/group-scale/collaboration-scale.md
+./artifacts/primitives-framework/concepts/group-scale/constituency-scale.md
+./artifacts/primitives-framework/concepts/group-scale/coordination-scale.md
+./artifacts/primitives-framework/concepts/group-scale/index.md
+./artifacts/primitives-framework/concepts/group-scale/network-scale.md
+./artifacts/primitives-framework/concepts/group-state.md
+./artifacts/primitives-framework/concepts/index.md
+./artifacts/primitives-framework/implementation/cell-state-template.md
+./artifacts/primitives-framework/implementation/community-guidelines/agreement-templates/code-of-conduct-template.md
+./artifacts/primitives-framework/implementation/community-guidelines/agreement-templates/commitment-to-accountability-template.md
+./artifacts/primitives-framework/implementation/community-guidelines/agreement-templates/conflict-response-plan-template.md
+./artifacts/primitives-framework/implementation/community-guidelines/agreement-templates/index.md
+./artifacts/primitives-framework/implementation/community-guidelines/code-of-conduct-guide.md
+./artifacts/primitives-framework/implementation/community-guidelines/commitment-to-accountability-guide.md
+./artifacts/primitives-framework/implementation/community-guidelines/conflict-response-plan-guide.md
+./artifacts/primitives-framework/implementation/community-guidelines/extra-resources/guide-1-discourse.md
+./artifacts/primitives-framework/implementation/community-guidelines/extra-resources/guide-2-mediation.md
+./artifacts/primitives-framework/implementation/community-guidelines/extra-resources/guide-3-arbitration.md
+./artifacts/primitives-framework/implementation/community-guidelines/extra-resources/guide-4-participation.md
+./artifacts/primitives-framework/implementation/community-guidelines/extra-resources/README.md
+./artifacts/primitives-framework/implementation/community-guidelines/extra-resources/reference-index.md
+./artifacts/primitives-framework/implementation/community-guidelines/index.md
+./artifacts/primitives-framework/implementation/group-facilitation.md
+./artifacts/primitives-framework/implementation/implementation-guide-community-governance.md
+./artifacts/primitives-framework/implementation/implementation-guide-multi-stakeholder-governance.md
+./artifacts/primitives-framework/implementation/implementation-guide-operational-governance.md
+./artifacts/primitives-framework/implementation/index.md
+./artifacts/primitives-framework/index.md
+./artifacts/primitives-framework/readme.md
+./artifacts/primitives-framework/studies/rpp-governance-case-study.md
+./artifacts/readme.md
+./artifacts/reimagining-power/aifs-experiment-case-study.md
+./artifacts/reimagining-power/equality-fund-experiment-case-study.md
+./artifacts/reimagining-power/ics-experiment-case-study.md
+./artifacts/reimagining-power/index.md
+./artifacts/reimagining-power/Reimagining Power - How Web3 Can Transform Impact.md
+./artifacts/reimagining-power/rpp-playbook.md
+./attachments/web3-discovery-process.md
+./CONTRIBUTING.md
+./drafts/ai-proposal.md
+./drafts/ai-tools.md
+./drafts/artifact-test.md
+./drafts/community-guidelines/agreement-templates/code-of-conduct-template.md
+./drafts/community-guidelines/agreement-templates/commitment-to-accountability-template.md
+./drafts/community-guidelines/agreement-templates/conflict-response-plan-template.md
+./drafts/community-guidelines/agreement-templates/index.md
+./drafts/community-guidelines/code-of-conduct.md
+./drafts/community-guidelines/commitment-to-accountability.md
+./drafts/community-guidelines/conflict-response-plan.md
+./drafts/community-guidelines/extra-resources/guide-1-discourse.md
+./drafts/community-guidelines/extra-resources/guide-2-mediation.md
+./drafts/community-guidelines/extra-resources/guide-3-arbitration.md
+./drafts/community-guidelines/extra-resources/guide-4-participation.md
+./drafts/community-guidelines/extra-resources/README.md
+./drafts/community-guidelines/extra-resources/reference-index.md
+./drafts/community-guidelines/index.md
+./drafts/deAI Tools Overview.md
+./drafts/enveloppe-bug.md
+./drafts/Equality Fund Scoping Call 16924 (Confidential).md
+./drafts/experiment-documentation-framework.md
+./drafts/export/export-architecture-v6.md
+./drafts/export/export-specification.md
+./drafts/gs notes.md
+./drafts/hats-protocol.md
+./drafts/ifp-nodes.md
+./drafts/index.md
+./drafts/index-prompt.md
+./drafts/kb-structure-report.md
+./drafts/link-fix/00-vault-link-analysis-report.md
+./drafts/link-fix/01-plugin-settings.md
+./drafts/link-fix/03-link-inventory-summary.md
+./drafts/link-fix/04-leading-slash-analysis.md
+./drafts/link-fix/05-pre-processing-test-results.md
+./drafts/link-fix/06-phase-1-summary.md
+./drafts/link-fix/07-processing-order.md
+./drafts/link-fix/08-progress-dashboard.md
+./drafts/link-fix/09-conversion-workflows.md
+./drafts/link-fix/100-SOLUTION-HERE.md
+./drafts/link-fix/10-high-risk-files.md
+./drafts/link-fix/11-phase-2-summary.md
+./drafts/link-fix/12-slash-removal-execution-summary.md
+./drafts/link-fix/13-slash-removal-validation.md
+./drafts/link-fix/14-phase-3-summary.md
+./drafts/link-fix/15-phase-4-batch-plan.md
+./drafts/link-fix/16-remaining-link-issues.md
+./drafts/link-fix/17-phase-4-cleanup-templates.md
+./drafts/link-fix/18-phase-4-batch-processing-status.md
+./drafts/link-fix/19-phase-4-session-summary.md
+./drafts/link-fix/20-phase-4-complete-summary.md
+./drafts/link-fix/21-phase-5-start.md
+./drafts/link-fix/22-phase-5-complete-summary.md
+./drafts/link-fix/23-phase-6-complete-summary.md
+./drafts/link-fix/24-project-complete-final-summary.md
+./drafts/link-fix/25-sidequest-summary.md
+./drafts/link-fix/26-final-action-plan.md
+./drafts/link-fix/27-final-status-report.md
+./drafts/link-fix/28-final-checklist.md
+./drafts/link-fix/29-session-summary.md
+./drafts/link-fix/30-final-action-steps.md
+./drafts/link-fix/31-phase-7-context-review.md
+./drafts/link-fix/32-final-vault-validation.md
+./drafts/link-fix/33-leading-slash-removal-report.md
+./drafts/link-fix/34-social-media-links-fix.md
+./drafts/link-fix/35-wikilink-analysis-report.md
+./drafts/link-fix/36-relative-path-fix-report.md
+./drafts/link-fix/37-broken-links-analysis.md
+./drafts/link-fix/38-url-encoded-fix-report.md
+./drafts/link-fix/39-final-wikilinks-fix-report.md
+./drafts/link-fix/40-active-broken-links-analysis.md
+./drafts/link-fix/41-broken-link-removal-report.md
+./drafts/link-fix/42-comprehensive-link-analysis.md
+./drafts/link-fix/42-fixable-links-report.md
+./drafts/link-fix/43-link-type-gap-analysis.md
+./drafts/link-fix/45-edge-cases-found.md
+./drafts/link-fix/46-phase-2.3a-summary.md
+./drafts/link-fix/50-plugin-test-results.md
+./drafts/link-fix/51-manual-fixes-required.md
+./drafts/link-fix/52-phase-2-3b-summary.md
+./drafts/link-fix/56-phase-2-3c-summary.md
+./drafts/link-fix/57-pre-conversion-checklist.md
+./drafts/link-fix/60-enhanced-rollback-procedures.md
+./drafts/link-fix/61-rollback-test-results.md
+./drafts/link-fix/62-phase-2-3d-summary.md
+./drafts/link-fix/63-link-standards-guide.md
+./drafts/link-fix/64-integrated-link-inventory.md
+./drafts/link-fix/65-quick-reference-guide.md
+./drafts/link-fix/66-phase-2-3-complete.md
+./drafts/link-fix/67-phase-2-3e-summary.md
+./drafts/link-fix/68-validation-execution-guide.md
+./drafts/link-fix/69-comprehensive-validation-strategy.md
+./drafts/link-fix/70-fragment-validation.md
+./drafts/link-fix/71-cross-reference-validation.md
+./drafts/link-fix/72-historical-comparison.md
+./drafts/link-fix/73-edge-case-validation.md
+./drafts/link-fix/75-fragment-fix-report.md
+./drafts/link-fix/77-fragment-fix-guide.md
+./drafts/link-fix/78-fragment-fix-ready.md
+./drafts/link-fix/79-manual-fragment-fix-guide.md
+./drafts/link-fix/80-project-status.md
+./drafts/link-fix/81-validation-fix-index.md
+./drafts/link-fix/82-quick-action-guide.md
+./drafts/link-fix/83-copy-paste-fixes.md
+./drafts/link-fix/84-why-fragments-matter.md
+./drafts/link-fix/85-validation-template-reference.md
+./drafts/link-fix/86-current-status-final-push.md
+./drafts/link-fix/87-todays-journey-summary.md
+./drafts/link-fix/88-project-closeout-checklist.md
+./drafts/link-fix/89-just-do-it-now.md
+./drafts/link-fix/90-document-map.md
+./drafts/link-fix/91-final-summary.md
+./drafts/link-fix/92-direct-edit-prompt.md
+./drafts/link-fix/93-enhanced-direct-edit-prompt.md
+./drafts/link-fix/94-precise-direct-edit-prompt.md
+./drafts/link-fix/95-ultra-precise-edit-prompt.md
+./drafts/link-fix/96-final-copy-paste-prompt.md
+./drafts/link-fix/97-ready-to-go.md
+./drafts/link-fix/98-simplest-path.md
+./drafts/link-fix/99-COPY-THIS-PROMPT.md
+./drafts/link-fix/fix-code-blocks-manual.md
+./drafts/link-fix/link-fix-templates/T01-Link-Inventory-Analyzer.md
+./drafts/link-fix/link-fix-templates/T02-Leading-Slash-Analyzer.md
+./drafts/link-fix/link-fix-templates/T02-Leading-Slash-Analyzer-v2.md
+./drafts/link-fix/link-fix-templates/T03-Remove-Leading-Slashes.md
+./drafts/link-fix/link-fix-templates/T03-Remove-Leading-Slashes-v2.md
+./drafts/link-fix/link-fix-templates/T04-Find-Problem-Links.md
+./drafts/link-fix/link-fix-templates/T04-Fix-All-Remaining-Artifacts.md
+./drafts/link-fix/link-fix-templates/T04-Fix-Artifact-Links.md
+./drafts/link-fix/link-fix-templates/T05-Comprehensive-Link-Analyzer.md
+./drafts/link-fix/link-fix-templates/T05-Comprehensive-Link-Analyzer-v2.md
+./drafts/link-fix/link-fix-templates/T05-Fix-Root-Files.md
+./drafts/link-fix/link-fix-templates/T05-Fix-Tags-Links.md
+./drafts/link-fix/link-fix-templates/T05-Scan-Reference-Content.md
+./drafts/link-fix/link-fix-templates/T05-Ultra-Simple-Analyzer.md
+./drafts/link-fix/link-fix-templates/T06-Fix-Notes-Links.md
+./drafts/link-fix/link-fix-templates/T06-Protect-Code-Blocks.md
+./drafts/link-fix/link-fix-templates/T06-Scan-Notes-Directory.md
+./drafts/link-fix/link-fix-templates/T07-Fix-Embeds.md
+./drafts/link-fix/link-fix-templates/T07-Fix-Links-Directory.md
+./drafts/link-fix/link-fix-templates/T07-Scan-Links-Directory.md
+./drafts/link-fix/link-fix-templates/T08-Resolve-Relative-Paths.md
+./drafts/link-fix/link-fix-templates/T09-Post-Conversion-Validator.md
+./drafts/link-fix/link-fix-templates/T10-Conversion-Progress-Validator.md
+./drafts/link-fix/link-fix-templates/T11-Complete-Vault-Audit.md
+./drafts/link-fix/link-fix-templates/T12-Final-Vault-Validation.md
+./drafts/link-fix/link-fix-templates/T13-Fragment-Link-Validator.md
+./drafts/link-fix/link-fix-templates/T13-Remove-Leading-Slashes.md
+./drafts/link-fix/link-fix-templates/T14-Cross-Reference-Validator.md
+./drafts/link-fix/link-fix-templates/T15-Historical-Comparison-Validator.md
+./drafts/link-fix/link-fix-templates/T16-Edge-Case-Pattern-Validator.md
+./drafts/link-fix/link-fix-templates/T17-Fragment-Link-Fixer.md
+./drafts/link-fix/link-fix-templates/T18-Fragment-Fix-Rollback.md
+./drafts/link-fix/link-normalization-plan-v2.md
+./drafts/link-fix/phase-2.1-analysis-fix-prompt.md
+./drafts/link-fix/phase-2.2-progress-review-prompt.md
+./drafts/link-fix/phase-2.3a-link-analysis.md
+./drafts/link-fix/phase-2.3-enhancement-plan.md
+./drafts/link-fix/phase-2-start-prompt.md
+./drafts/link-fix/phase-3-start-prompt.md
+./drafts/link-fix/phase-4-start-prompt.md
+./drafts/link-fix/phase-6-start-prompt.md
+./drafts/link-fix/phase-7-start-prompt.md
+./drafts/link-fix/plugin-tests/00-test-instructions.md
+./drafts/link-fix/plugin-tests/47-test-all-link-types.md
+./drafts/link-fix/plugin-tests/48-test-edge-cases.md
+./drafts/link-fix/plugin-tests/49-test-mixed-formats.md
+./drafts/link-fix/plugin-tests/backups/47-test-all-link-types-BACKUP.md
+./drafts/link-fix/plugin-tests/backups/48-test-edge-cases-BACKUP.md
+./drafts/link-fix/plugin-tests/backups/49-test-mixed-formats-BACKUP.md
+./drafts/link-fix/plugin-tests/backups/index.md
+./drafts/link-fix/plugin-tests/index.md
+./drafts/link-fix/R01-Link-Inventory-Analyzer.md.md
+./drafts/link-fix/R02-Leading-Slash-Analyzer.md
+./drafts/link-fix/R03.1-Remove-Leading-Slashes-dry-run-test.md
+./drafts/link-fix/R03.2-Remove-Leading-Slashes-single-file.md
+./drafts/link-fix/R03.3-Remove-Leading-Slashes-single-file-mixed.md
+./drafts/link-fix/R03.4-Remove-Leading-Slashes-v2.md
+./drafts/link-fix/R04-Find-Problem-Links.md
+./drafts/link-fix/R04-Fix-All-Remaining-Artifacts.md
+./drafts/link-fix/R05-enhanced-analysis.md
+./drafts/link-fix/R05-Fix-Root-Files.md
+./drafts/link-fix/R05-Fix-Tags-Links.md
+./drafts/link-fix/R05-Scan-Reference-Content.md
+./drafts/link-fix/R06-Fix-Notes-Links.md
+./drafts/link-fix/R06-Protect-Code-Blocks.md
+./drafts/link-fix/R06-Scan-Notes-Directory.md
+./drafts/link-fix/R07-Fix-Embeds.md
+./drafts/link-fix/R07-Scan-Links-Directory 1.md
+./drafts/link-fix/R07-Scan-Links-Directory.md
+./drafts/link-fix/R11-Complete-Vault-Audit.md
+./drafts/link-fix/R11-Complete-Vault-Audit-v2.md
+./drafts/link-fix/R12-Final-Vault-Validation.md
+./drafts/link-fix/R12-Final-Vault-Validation-v2.md
+./drafts/link-fix/R12-Final-Vault-Validation-v3.md
+./drafts/link-fix/R12-Final-Vault-Validation-v4.md
+./drafts/link-fix/R13-Remove-Leading-Slashes.md
+./drafts/link-fix/R14-Fix-Social-Media-Links.md
+./drafts/link-fix/R15-Analyze-Remaining-Wikilinks.md
+./drafts/link-fix/R16-Fix-Relative-Paths.md
+./drafts/link-fix/R17-Analyze-Broken-Links.md
+./drafts/link-fix/R18-Fix-URL-Encoded-Spaces.md
+./drafts/link-fix/R19-Fix-Final-Wikilinks.md
+./drafts/link-fix/R20-Analyze-Active-Broken-Links.md
+./drafts/link-fix/R20-temp-analysis.md
+./drafts/link-fix/R21-Remove-Broken-Links.md
+./drafts/link-fix/R22-Check-Fixable-Links.md
+./drafts/link-fix/T13-Fragment-Link-Validator 1.md
+./drafts/link-fix/T17-Fragment-Link-Fixer 1.md
+./drafts/link-fix/test-samples/test-markdown-links.md
+./drafts/link-fix/test-samples/test-mixed.md
+./drafts/link-fix/test-samples/test-wikilinks.md
+./drafts/link-fix/YOUR-SOLUTION.md
+./drafts/null-assets.md
+./drafts/null-fund.md
+./drafts/OpenCivics-Wiki/About OpenCivics/About Concepts.md
+./drafts/OpenCivics-Wiki/About OpenCivics/About Framework.md
+./drafts/OpenCivics-Wiki/About OpenCivics/About Membership.md
+./drafts/OpenCivics-Wiki/About OpenCivics/About Network.md
+./drafts/OpenCivics-Wiki/About OpenCivics/About Thesis.md
+./drafts/OpenCivics-Wiki/About OpenCivics/About Wiki.md
+./drafts/OpenCivics-Wiki/Meta/Inbox/! Open Civic Innovation Framework Whitepaper.md
+./drafts/OpenCivics-Wiki/Meta/Inbox/!! Open Civic Innovation Framework Whitepaper 1.md
+./drafts/OpenCivics-Wiki/Meta/Inbox/BACKUP_Open Civic Innovation Framework Whitepaper 1.md
+./drafts/OpenCivics-Wiki/Meta/Inbox/Collaboratory.Earth.md
+./drafts/OpenCivics-Wiki/Meta/Inbox/DRAFT NEW DRAFT.md
+./drafts/OpenCivics-Wiki/Meta/Inbox/DRAFT WHITEPAPER OUTLINE.md
+./drafts/OpenCivics-Wiki/Meta/Inbox/emphemerization.md
+./drafts/OpenCivics-Wiki/Meta/Inbox/Enabling Structures.md
+./drafts/OpenCivics-Wiki/Meta/Inbox/Extras.md
+./drafts/OpenCivics-Wiki/Meta/Inbox/living systems princi....md
+./drafts/OpenCivics-Wiki/Meta/Inbox/Membership Criteria.md
+./drafts/OpenCivics-Wiki/Meta/Inbox/OLD Theory of Changes.md
+./drafts/OpenCivics-Wiki/Meta/Inbox/Organizing Structures.md
+./drafts/OpenCivics-Wiki/Meta/Inbox/Principles.md
+./drafts/OpenCivics-Wiki/Meta/Inbox/Public.md
+./drafts/OpenCivics-Wiki/Meta/Inbox/Quote 1.md
+./drafts/OpenCivics-Wiki/Meta/Inbox/Quote 2.md
+./drafts/OpenCivics-Wiki/Meta/Inbox/Regenerating What's Been Lost.md
+./drafts/OpenCivics-Wiki/Meta/Inbox/Spencer Cavanaugh.md
+./drafts/OpenCivics-Wiki/Meta/Inbox/Transpolitical Solidarity.md
+./drafts/OpenCivics-Wiki/Meta/Templates/1 Note.md
+./drafts/OpenCivics-Wiki/Meta/Templates/2 Definition.md
+./drafts/OpenCivics-Wiki/Open Civic Innovation Framework/Background and Rationale.md
+./drafts/OpenCivics-Wiki/Open Civic Innovation Framework/Design Philosophy.md
+./drafts/OpenCivics-Wiki/Open Civic Innovation Framework/Design Practice.md
+./drafts/OpenCivics-Wiki/Open Civic Innovation Framework/Evaluation and Improvement.md
+./drafts/OpenCivics-Wiki/Open Civic Innovation Framework/Executive Summary.md
+./drafts/OpenCivics-Wiki/Open Civic Innovation Framework/Framework Architecture.md
+./drafts/OpenCivics-Wiki/Open Civic Innovation Framework/Framework Fundamentals.md
+./drafts/OpenCivics-Wiki/Open Civic Innovation Framework/Framework In Use.md
+./drafts/OpenCivics-Wiki/Open Civic Innovation Framework/Full Framework.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Adaptations.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Assembly Protocol.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Civic Innovation.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Civilizational Pillars.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Design Principles.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/agent centric.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/attractor.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/bioregion.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/capitalism.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/choice.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/civic culture.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/civic innovation.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/civic protocols.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/civic stacks.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/civic steward.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/civic systems.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/civic utilities.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/civic virtue.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/civics.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/commons.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/composable.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/decentralized vs distributed.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/dual power.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/emergent.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/emphemeralization.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/existential risk.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/exponential feedback loops.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/game theory.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/holon.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/imagination activism.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/inclusive.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/interbeing.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/interoperable.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/islands of coherance.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/islands of coherence.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/living systems principles.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/metacrisis.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/modular.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/multi-polar traps.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/natural.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/network effects.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/ontological shift.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/ontology.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/open civic culture.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/open civic innovation.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/open civic protocols.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/open civic systems.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/open civic utilities.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/open civics.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/OpenCivics Network.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/overtone window.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/participatory design.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/peer-to-peer.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/pluralism.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/polycentric.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/post-capitalist.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/post-tragic.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/protopia.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/quality of life.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/regenerative.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/regulatory capture.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/regulatory power.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/resilience.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/self-organization.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/social organisms.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/stigmergic.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/stigmergy.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/sumak kawsay.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/superoganism.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/superorganism.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/synergy.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/system equilibrium.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/system failure modes.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/systemic failure modes.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/systems thinkers.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/systems thinking.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/third attractor.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/tragedy of the commons.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/trimtab.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/ubuntu.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/vitality.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/whole systems design.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Glossary/zero sum.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Knowledge Commoning.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Knowledge Commons.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Living Systems Grammar.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Non-Rivalrous Coordination.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Open Civic Innovation.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Open Civic Stacks.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Open Protocols.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Outcomes.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Participatory Activities.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Participatory Design Process.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Personal Ethics.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Practice Ethics.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Practice Infrastructure.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Progressive Protocolization.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Protocol Pattern Language.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Social Organism Ontology.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Synarchy - The Nature Of Open Civic Systems.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/System Design Ethics.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/The Nature Of Protocols - The Protocols Of Nature.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/The Role of Blockchain - P2P Cybernetics.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Theory of Change.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Transitional Civilizational Adaptations.md
+./drafts/OpenCivics-Wiki/OpenCivics Concepts/Vision & Values.md
+./drafts/OpenCivics-Wiki/OpenCivics Network/Consortium/About Consortium.md
+./drafts/OpenCivics-Wiki/OpenCivics Network/Consortium/Consortium Protocols.md
+./drafts/OpenCivics-Wiki/OpenCivics Network/Foundation/About Foundation.md
+./drafts/OpenCivics-Wiki/OpenCivics Network/Foundation/Foundation Protocols.md
+./drafts/OpenCivics-Wiki/OpenCivics Network/Labs/About Labs.md
+./drafts/OpenCivics-Wiki/OpenCivics Network/Membership/About Membership.md
+./drafts/OpenCivics-Wiki/OpenCivics Network/Membership/Application Guide.md
+./drafts/OpenCivics-Wiki/OpenCivics Network/Membership/Ethical Standards.md
+./drafts/OpenCivics-Wiki/OpenCivics Network/Membership/Membership Roles.md
+./drafts/OpenCivics-Wiki/OpenCivics Network/Network/About Network.md
+./drafts/OpenCivics-Wiki/OpenCivics Network/Network/Constitution.md
+./drafts/OpenCivics-Wiki/OpenCivics Network/Network/Network Pledge.md
+./drafts/OpenCivics-Wiki/OpenCivics Network/Network/Vision and Mission.md
+./drafts/OpenCivics-Wiki/OpenCivics Thesis/Acknowledgements.md
+./drafts/OpenCivics-Wiki/OpenCivics Thesis/Citations.md
+./drafts/OpenCivics-Wiki/OpenCivics Thesis/Full Thesis.md
+./drafts/OpenCivics-Wiki/OpenCivics Thesis/In Us We Trust.md
+./drafts/OpenCivics-Wiki/OpenCivics Thesis/Open Civic Culture.md
+./drafts/OpenCivics-Wiki/OpenCivics Thesis/Open Civic Systems.md
+./drafts/OpenCivics-Wiki/OpenCivics Thesis/Our Choice.md
+./drafts/OpenCivics-Wiki/OpenCivics Thesis/Our Critical Path.md
+./drafts/OpenCivics-Wiki/OpenCivics Thesis/Thesis PDF.md
+./drafts/OpenCivics-Wiki/Updates/2023 Retrospective.md
+./drafts/OpenCivics-Wiki/Updates/2024 Roadmap.md
+./drafts/operating-agreement.md
+./drafts/parallelization-prompts.md
+./drafts/participatory budgeting.md
+./drafts/patterns-pattern.md
+./drafts/pdf-old/01-discovery-duplicate.md
+./drafts/pdf-old/02-intervention-old.md
+./drafts/pdf-old/03-reflection-duplicate.md
+./drafts/pdf-old/04-synthesis-old.md
+./drafts/pdf-old/index.md
+./drafts/pdf-old/intervention-placeholder-template.md
+./drafts/pdf-old/old-original-structure/discovery/discovery-process-workflow.md
+./drafts/pdf-old/old-original-structure/discovery/discovery-report-template.md
+./drafts/pdf-old/old-original-structure/discovery/index.md
+./drafts/pdf-old/old-original-structure/index.md
+./drafts/pdf-old/old-original-structure/intervention/index.md
+./drafts/pdf-old/old-original-structure/intervention/intervention-development-framework.md
+./drafts/pdf-old/old-original-structure/intervention/intervention-mapping-template.md
+./drafts/pdf-old/old-original-structure/New folder.md
+./drafts/pdf-old/old-original-structure/old.md
+./drafts/pdf-old/old-original-structure/reflection/implementation-retrospective-template.md
+./drafts/pdf-old/old-original-structure/reflection/implementation-retrospective-workflow.md
+./drafts/pdf-old/old-original-structure/reflection/index.md
+./drafts/pdf-old/old-original-structure/reflection/intervention_retrospective_worksheet.md
+./drafts/pdf-old/old-original-structure/synthesis/case-study-synthesis-workflow.md
+./drafts/pdf-old/old-original-structure/synthesis/case-study-workflows-readme.md
+./drafts/pdf-old/old-original-structure/synthesis/index.md
+./drafts/pdf-old/old-original-structure/synthesis/workflows-overview.md
+./drafts/pdf-old/old-original-structure/synthesis/workflows-readme.md
+./drafts/pdf-old/readme 1.md
+./drafts/pdf-old/readme.md
+./drafts/playbooks-playbook.md
+./drafts/primitives-improvements/archive/primitives-initial-index.md
+./drafts/primitives-improvements/framework-notes.md
+./drafts/primitives-improvements/primitives-improvement-plan.md
+./drafts/primitives-improvements/primitives-planned-outline.md
+./drafts/quadratic funding.md
+./drafts/readme.md
+./drafts/reflection-documentation-workflow.md
+./drafts/Reflections on the Discovery Process.md
+./drafts/sb-website-specification notes.md
+./drafts/temp/continuation-prompt.md
+./drafts/temp/editorial-consistency-continuation.md
+./drafts/temp/skipped-files.md
+./drafts/temp/test-write.md
+./drafts/test-resources/index.md
+./drafts/test-resources/test-module.md
+./drafts/test-resources/test-pattern.md
+./drafts/test-resources/test-playbook.md
+./drafts/test-resources/test-practice.md
+./drafts/test-resources/test-primitive.md
+./drafts/test-resources/test-protocol.md
+./drafts/test-resources/test-study.md
+./drafts/trash/10 tools for a zero carbon world.md
+./drafts/trash/10 tools for systems change to a zero carbon world.md
+./drafts/trash/A Pocket Guide to DAO Frameworks 2.md
+./drafts/trash/A Pocket Guide to DAO Frameworks.md
+./drafts/trash/Community Building in DAOs.md
+./drafts/trash/DAO Governance - Challenges Ideas and Tools copy.md
+./drafts/trash/DAO Governance - Challenges Ideas and Tools.md
+./drafts/trash/DAOs & Creators - Resources to Get Started Today.md
+./drafts/trash/Decentralised Tech & the Future of Organising 2.md
+./drafts/trash/index.md
+./drafts/trash/Local Nodes.md
+./drafts/trash/Modular Politics - Toward a Governance Layer for Online Communities.md
+./drafts/trash/Modular Politics.md
+./drafts/trash/Municipal MycoFi.md
+./drafts/trash/P2P Foundation Wiki 2.md
+./drafts/trash/P2P Foundation Wiki.md
+./drafts/trash/Pre-Constitutional Governance.md
+./drafts/trash/The Blockchain Governance Toolkit 2.md
+./index.md
+./links/10-tools-for-systems-change-to-a-zero-carbon-world.md
+./links/1kx-organization-legos-dao-tooling.md
+./links/a16z-dao-canon.md
+./links/a16z-guide-decentralized-science.md
+./links/anarchist-technologies-mutual-aid-and-cybernetics.md
+./links/Anticapture.md
+./links/a-pocket-guide-to-dao-frameworks.md
+./links/biofi-cultivator-bioregional-finance.md
+./links/blockchaingov-knowledge-base.md
+./links/cabin-dao-network-city.md
+./links/churchill-fellowship-transforming-philanthropy.md
+./links/circles-alternative-monetary-system.md
+./links/civic-indigenous-placekeeping-partnership-building.md
+./links/club-of-rome-changing-finance-report.md
+./links/collectively-intelligent-sustainable-common-future.md
+./links/commons-stack-automating-ostrom-dao-management.md
+./links/community-building-in-daos.md
+./links/community-land-trusts-canada.md
+./links/crypto-altruism-podcast.md
+./links/crypto-altruism-web3-social-impact-2022.md
+./links/DAO Governance - Challenges, Ideas and Tools.md
+./links/dao-research-collective.md
+./links/daos-pitfalls-progressive-decentralization.md
+./links/daostack-holographic-consensus.md
+./links/DAOstar.md
+./links/david-bollier-political-economy-of-commons.md
+./links/Decentralised Tech & the Future of Organising.md
+./links/decolonial-futures-gesturing-towards-alternatives.md
+./links/donut-economy-8-forms-of-capital-gitcoin.md
+./links/drc-december-report-liquid-democracy.md
+./links/ecocertain-ecological-certification-platform.md
+./links/educators-guide-web3-absolute-beginners.md
+./links/embodied-economics-starlings.md
+./links/emergence-magazine-ecological-technology-james-bridle.md
+./links/enchanted-network-discursive-landscapes.md
+./links/enchanted-network-future-of-work.md
+./links/equality-fund-shifting-power-movements.md
+./links/equality-fund-step-up-step-back-grantmaking.md
+./links/ethereum-community-fund.md
+./links/ethereum-localism.md
+./links/ethereum-localism-knowledge-garden-movement.md
+./links/expansive-extractive-networks-web3-power-analysis.md
+./links/feminist-finance-alternative-economics.md
+./links/femwealth-web3-denizens-owned-internet.md
+./links/flipside-emerging-consensus-dao-decisions.md
+./links/forefront-tokenized-communities.md
+./links/forum-future-governance-transformation.md
+./links/funding-commons-research-residencies.md
+./links/funding-the-commons-san-francisco-2025.md
+./links/future-of-good-media-platform.md
+./links/gitcoin-assembly-theory-capital-allocation.md
+./links/gitcoin-impactdao-poster-book.md
+./links/Govbase.md
+./links/govbase-metagov-governance-database.md
+./links/greenpill-onchain-impact-networks.md
+./links/hats-modules-programmable-organizations.md
+./links/hats-protocol-structure-without-capture.md
+./links/hypercerts-impact-certificate-protocol.md
+./links/icdevs-dao-internet-computer-developer-community.md
+./links/impact-dao-media-database.md
+./links/impact-daos-practical-guide.md
+./links/index.md
+./links/joaxap-dao-governance-models.md
+./links/Metagov.md
+./links/metagov-agreement-engine-community-contracts.md
+./links/metagov-beyond-daos-design-decisions.md
+./links/metagov-governance-research-hub.md
+./links/modular-politics-toward-a-governance-layer-for-online-communities.md
+./links/municipal-mycofi.md
+./links/negotiated-joining-open-ended-organizational-roles.md
+./links/noema-democracy-open-source.md
+./links/noema-encode-human-rights-blockchain.md
+./links/noema-rewild-the-internet.md
+./links/noema-what-if-money-expired.md
+./links/OpenCivics Collaborative Initiative – Specification Template.md
+./links/operator-protocol-first-dao-strategy.md
+./links/organizing-handbooks.md
+./links/ostrom-meets-blockchain-commons-governance-principles.md
+./links/other-internet-crypto-philanthropy-research.md
+./links/other-internet-pooltogether-dao-ethnography.md
+./links/p2p-foundation-wiki.md
+./links/paraphilanthropy-bayo-akomolafe-decolonial-giving.md
+./links/philanthropist-criticism-philanthropy.md
+./links/plurality-technology-for-collaborative-diversity-and-democracy.md
+./links/positive-sum-worlds-public-goods-innovation.md
+./links/pre-constitutional-governance.md
+./links/radicalxchange-organization.md
+./links/readme.md
+./links/regen-coordination-community-sustainability.md
+./links/regen-coordination-open-space-network-proposals.md
+./links/regen-melbourne-distributed-grant-making.md
+./links/retroactive-public-goods-funding.md
+./links/rich-decibels-decentralized-organizing-expert.md
+./links/rndao-what-is-dao-conceptual-foundations.md
+./links/rockefeller-shifting-power-to-shift-systems.md
+./links/sacred-civics-seven-generation-cities.md
+./links/sobol-diagramming-daos-gitcoin.md
+./links/sobol-pragmatists-guide-daos.md
+./links/society-building-economy-within-dao.md
+./links/society-dao-community-building.md
+./links/ssir-blockchain-financial-inclusion.md
+./links/ssir-ten-nonprofit-funding-models.md
+./links/ssir-web3-trap-of-for-good.md
+./links/The Blockchain Governance Toolkit.md
+./links/The Crypto Syllabus.md
+./links/The Future of Work is Human.md
+./links/The Handbook of Handbooks for Decentralised Organising.md
+./links/trust-based-philanthropy-principles.md
+./links/vancouver-foundation-equity-matrix.md
+./links/vitalik-buterin-thoughts-on-daos.md
+./links/weall-commons-briefing-wellbeing-economy.md
+./links/wef-dao-toolkit.md
+./links/whao-world-heritage-dao.md
+./links/wikipedia-technological-transitions.md
+./links/zora-solarpunk-web3.md
+./notes/aifs/.deleted-aifs-salon-series-feedback.md
+./notes/aifs/aifs-meetings/AIFS Gathering.md
+./notes/aifs/aifs-meetings/AIFS Meeting (02-10-2024).md
+./notes/aifs/aifs-meetings/AIFS Meeting (05-02-2025).md
+./notes/aifs/aifs-meetings/AIFS Meeting (05-09-2024).md
+./notes/aifs/aifs-meetings/AIFS Meeting (08-01-2025).md
+./notes/aifs/aifs-meetings/AIFS Meeting (09-10-2024).md
+./notes/aifs/aifs-meetings/AIFS Meeting (11-06-2025).md
+./notes/aifs/aifs-meetings/AIFS Meeting (11-12-2024).md
+./notes/aifs/aifs-meetings/AIFS Meeting (13-11-2024).md
+./notes/aifs/aifs-meetings/AIFS Meeting (15-01-2025).md
+./notes/aifs/aifs-meetings/AIFS Meeting (15-08-2024).md
+./notes/aifs/aifs-meetings/AIFS Meeting (15-10-2024).md
+./notes/aifs/aifs-meetings/AIFS Meeting (16-10-2024).md
+./notes/aifs/aifs-meetings/AIFS Meeting (17-02-2025) - Future of Gatherings.md
+./notes/aifs/aifs-meetings/AIFS Meeting (17-02-2025) - IOC Explore 365.md
+./notes/aifs/aifs-meetings/AIFS Meeting (17-02-2025).md
+./notes/aifs/aifs-meetings/AIFS Meeting (18-06-2025).md
+./notes/aifs/aifs-meetings/AIFS Meeting (19-02-2025).md
+./notes/aifs/aifs-meetings/AIFS Meeting (19-03-2025).md
+./notes/aifs/aifs-meetings/AIFS Meeting (20-11-2024).md
+./notes/aifs/aifs-meetings/AIFS Meeting (21-10-2024).md
+./notes/aifs/aifs-meetings/AIFS Meeting (22-01-2025).md
+./notes/aifs/aifs-meetings/AIFS Meeting (23-10-2024).md
+./notes/aifs/aifs-meetings/AIFS Meeting (25-09-2024).md
+./notes/aifs/aifs-meetings/AIFS Meeting (25-11-2024).md
+./notes/aifs/aifs-meetings/AIFS Meeting (26-03-2025).md
+./notes/aifs/aifs-meetings/AIFS Meeting (30-05-2025).md
+./notes/aifs/aifs-meetings/AIFS Meeting (30-09-2024).md
+./notes/aifs/aifs-meetings/AIFS Meeting (30-10-2024).md
+./notes/aifs/aifs-meetings/AIFS Meeting (31-03-2025).md
+./notes/aifs/aifs-meetings/Community Experience Weekly Sync.md
+./notes/aifs/aifs-meetings/index.md
+./notes/aifs/feedback/final-retro.md
+./notes/aifs/feedback/index.md
+./notes/aifs/feedback/pre-gathering-topics.md
+./notes/aifs/feedback/retro-after-gathering-0.md
+./notes/aifs/feedback/session-0-participant-thoughts.md
+./notes/aifs/gathering-planning/aifs-gathering-0-cocreating-program.md
+./notes/aifs/gathering-planning/aifs-gathering-1-web3-social-impact.md
+./notes/aifs/gathering-planning/aifs-gathering-2-community-governance.md
+./notes/aifs/gathering-planning/aifs-gathering-3-impact-measurement.md
+./notes/aifs/gathering-planning/gatherings-coordination-rpp.md
+./notes/aifs/gathering-planning/gatherings-sessions-strategy.md
+./notes/aifs/gathering-planning/index.md
+./notes/aifs/governance/fiscal-sponsorship-arrangement-women-win.md
+./notes/aifs/governance/tech365_group_state.md
+./notes/aifs/index.md
+./notes/aifs/poetic-harvests/gathering-0-13-nov-24.md
+./notes/aifs/poetic-harvests/gathering-1-11-dec-24.md
+./notes/aifs/poetic-harvests/gathering-2-poem.md
+./notes/aifs/poetic-harvests/gathering-3-22-jan-25.md
+./notes/aifs/poetic-harvests/gathering-4-5-feb-25.md
+./notes/aifs/poetic-harvests/gathering-5-19-feb-25.md
+./notes/aifs/poetic-harvests/index.md
+./notes/aifs/poetic-harvests/README.md
+./notes/aifs/presentations/aifs-gatherings-introduction.md
+./notes/aifs/presentations/index.md
+./notes/aifs/reference/all-in-for-sport-workspace.md
+./notes/aifs/reference/community-gatherings-overview.md
+./notes/aifs/reference/giveth-aifs-gatherings-project-text.md
+./notes/aifs/reference/index.md
+./notes/aifs/reference/superbenefit-gatherings.md
+./notes/aifs/reporting/evaluation-next-steps-report.md
+./notes/aifs/reporting/index.md
+./notes/aifs/reporting/otf-report.md
+./notes/aifs/reporting/README.md
+./notes/archive/charmverse/index.md
+./notes/archive/clarity/Goals/⬜️ G-199 Intervention 1- Mapping pathways to the future.md
+./notes/archive/clarity/Goals/⬜️ G-200 Intervention 2- Building Capacity and Interdependence Through Governance.md
+./notes/archive/clarity/Goals/⬜️ G-201 Intervention 4- A Metacurrency for Metagovernance, Values and Acceleration_.md
+./notes/archive/clarity/Goals/⬜️ G-202 Intervention 5- A Commitment to Bridging Old Into Better_.md
+./notes/archive/clarity/Goals/⬜️ G-203 Intervention 6- The Look, Feel, and Story of a Better Future._.md
+./notes/archive/clarity/Goals/⬜️ G-204 Intervention 3- Creating a Soul-Bound Portal to a Better Future.md
+./notes/archive/clarity/Goals/⬜️ G-269 SuperBenefit Playbooks.md
+./notes/archive/clarity/Goals/⬜️ G-272 Revolution 2 Update.md
+./notes/archive/clarity/Goals/⬜️ G-291 Telling SuperBenefit's Story.md
+./notes/archive/clarity/Goals/⬜️ G-292 Community Coordination Protocol.md
+./notes/archive/clarity/Goals/⬜️ G-294 Internal Coordination Functions.md
+./notes/archive/clarity/Goals/index.md
+./notes/archive/clarity/index.md
+./notes/archive/clarity/Projects/⬜️ P-101 Branding & brand guidelines.md
+./notes/archive/clarity/Projects/⬜️ P-106 Theory of change - Map #1.md
+./notes/archive/clarity/Projects/⬜️ P-193 Community Experience- Revolution 1.md
+./notes/archive/clarity/Projects/⬜️ P-196 Information Squad- Revolution 1.md
+./notes/archive/clarity/Projects/⬜️ P-23 Community Experience Project.md
+./notes/archive/clarity/Projects/⬜️ P-236 Krause House Collaboration.md
+./notes/archive/clarity/Projects/⬜️ P-257 DAO Primitives Framework.md
+./notes/archive/clarity/Projects/⬜️ P-260 TrustDAO - Child Welfare, Canada.md
+./notes/archive/clarity/Projects/⬜️ P-261 Windfall - Residential Energy NFT.md
+./notes/archive/clarity/Projects/⬜️ P-263 All In For Sport - Collaboration.md
+./notes/archive/clarity/Projects/⬜️ P-264 Systems Transformation Project.md
+./notes/archive/clarity/Projects/⬜️ P-265 microblog.md
+./notes/archive/clarity/Projects/⬜️ P-267 Initial Planning - Reimagining Power.md
+./notes/archive/clarity/Projects/⬜️ P-273 SB Governance Design - SuperBenefit.md
+./notes/archive/clarity/Projects/⬜️ P-274 Tooling & Policy Cleanup - SuperBenefit.md
+./notes/archive/clarity/Projects/⬜️ P-287 Re-Storying Power Project.md
+./notes/archive/clarity/Projects/⬜️ P-289 Squad & Cell Facilitation - SuperBenefit.md
+./notes/archive/clarity/Projects/⬜️ P-290 Patterns & Modules - DAO Primitives.md
+./notes/archive/clarity/Projects/⬜️ P-296 Contributor Onboarding - SuperBenefit.md
+./notes/archive/clarity/Projects/⬜️ P-297 Information Management - SuperBenefit.md
+./notes/archive/clarity/Projects/⬜️ P-298 Participant Onboarding - WREEP.md
+./notes/archive/clarity/Projects/⬜️ P-68 Set up Information Systems.md
+./notes/archive/clarity/Projects/✅ P-179 Resource Flow strategy .md
+./notes/archive/clarity/Projects/✅ P-230 Proposal - Establish a monthly budget for internal SuperBenefit activities (Rev1).md
+./notes/archive/clarity/Projects/✅ P-231 Proposal  - Establish a budget to fund bounties for Rev 1 .md
+./notes/archive/clarity/Projects/✅ P-31 v0 - Mission, Vision, Values.md
+./notes/archive/clarity/Projects/✅ P-40 Membership NFT.md
+./notes/archive/clarity/Projects/✅ P-45 Launch $SPRB Governance Token.md
+./notes/archive/clarity/Projects/✅ P-46 Contribution recognition and rewards event.md
+./notes/archive/clarity/Projects/✅ P-7 Governance Implementation.md
+./notes/archive/clarity/Projects/✅ P-74 Crowdfund - _Hello World_.md
+./notes/archive/clarity/Projects/✅ P-79 SuperBenefit Identity and Brand Guidelines.md
+./notes/archive/clarity/Projects/index.md
+./notes/archive/clarity/README.md
+./notes/archive/clarity/sb-archive-search-plan.md
+./notes/archive/clarity/Tags/$sprb.md
+./notes/archive/clarity/Tags/$superb.md
+./notes/archive/clarity/Tags/4 l's retrospective.md
+./notes/archive/clarity/Tags/a commitment to bridging old into better.md
+./notes/archive/clarity/Tags/a metacurrency for metagovernance, values and acceleration.md
+./notes/archive/clarity/Tags/all in for sport.md
+./notes/archive/clarity/Tags/artifacts.md
+./notes/archive/clarity/Tags/bounties.md
+./notes/archive/clarity/Tags/building capacity and interdependence through governance.md
+./notes/archive/clarity/Tags/cells.md
+./notes/archive/clarity/Tags/clarity.md
+./notes/archive/clarity/Tags/community experience squad.md
+./notes/archive/clarity/Tags/community governance.md
+./notes/archive/clarity/Tags/community.md
+./notes/archive/clarity/Tags/constituency scale.md
+./notes/archive/clarity/Tags/contributor role.md
+./notes/archive/clarity/Tags/contributor voting.md
+./notes/archive/clarity/Tags/coordination.md
+./notes/archive/clarity/Tags/core team.md
+./notes/archive/clarity/Tags/creating a soul-bound portal to a better future.md
+./notes/archive/clarity/Tags/crm system.md
+./notes/archive/clarity/Tags/cxi agenda.md
+./notes/archive/clarity/Tags/dao administration.md
+./notes/archive/clarity/Tags/dao primitives.md
+./notes/archive/clarity/Tags/decision-making.md
+./notes/archive/clarity/Tags/discord channels & descriptions.md
+./notes/archive/clarity/Tags/discord.md
+./notes/archive/clarity/Tags/discovery and sense-making squad.md
+./notes/archive/clarity/Tags/documents.md
+./notes/archive/clarity/Tags/energy efficiency project.md
+./notes/archive/clarity/Tags/entity thinking.md
+./notes/archive/clarity/Tags/equality fund.md
+./notes/archive/clarity/Tags/equity.md
+./notes/archive/clarity/Tags/ethos.md
+./notes/archive/clarity/Tags/events.md
+./notes/archive/clarity/Tags/facilitator.md
+./notes/archive/clarity/Tags/faq.md
+./notes/archive/clarity/Tags/feedback.md
+./notes/archive/clarity/Tags/general circle.md
+./notes/archive/clarity/Tags/getting started with clarity.md
+./notes/archive/clarity/Tags/goals.md
+./notes/archive/clarity/Tags/governance concept v2.1.md
+./notes/archive/clarity/Tags/governance conversations.md
+./notes/archive/clarity/Tags/governance proposals.md
+./notes/archive/clarity/Tags/governance research.md
+./notes/archive/clarity/Tags/governance squad.md
+./notes/archive/clarity/Tags/governance.md
+./notes/archive/clarity/Tags/index.md
+./notes/archive/clarity/Tags/information squad.md
+./notes/archive/clarity/Tags/interventions.md
+./notes/archive/clarity/Tags/key concepts.md
+./notes/archive/clarity/Tags/krause house.md
+./notes/archive/clarity/Tags/language.md
+./notes/archive/clarity/Tags/mapping pathways to the future.md
+./notes/archive/clarity/Tags/meetings.md
+./notes/archive/clarity/Tags/member experience.md
+./notes/archive/clarity/Tags/microblog.md
+./notes/archive/clarity/Tags/mission.md
+./notes/archive/clarity/Tags/navigating ways of working.md
+./notes/archive/clarity/Tags/newsletter updates.md
+./notes/archive/clarity/Tags/nft series.md
+./notes/archive/clarity/Tags/nft-project.md
+./notes/archive/clarity/Tags/nucleus.md
+./notes/archive/clarity/Tags/ohm fork.md
+./notes/archive/clarity/Tags/onboarding.md
+./notes/archive/clarity/Tags/ontario trillium foundation.md
+./notes/archive/clarity/Tags/operational governance.md
+./notes/archive/clarity/Tags/operations squad.md
+./notes/archive/clarity/Tags/operations.md
+./notes/archive/clarity/Tags/participatory grantmaking.md
+./notes/archive/clarity/Tags/partnership governance.md
+./notes/archive/clarity/Tags/partnerships.md
+./notes/archive/clarity/Tags/product development squad.md
+./notes/archive/clarity/Tags/projects.md
+./notes/archive/clarity/Tags/proposal sbp11- dao systems transformation repository-library.md
+./notes/archive/clarity/Tags/proposal sbp9- conflict of interest  - draft.md
+./notes/archive/clarity/Tags/proposals.md
+./notes/archive/clarity/Tags/purpose.md
+./notes/archive/clarity/Tags/question of the day.md
+./notes/archive/clarity/Tags/quests.md
+./notes/archive/clarity/Tags/rebel alliance.md
+./notes/archive/clarity/Tags/recruitment.md
+./notes/archive/clarity/Tags/reflection.md
+./notes/archive/clarity/Tags/reimagine institute.md
+./notes/archive/clarity/Tags/reimagining power.md
+./notes/archive/clarity/Tags/research.md
+./notes/archive/clarity/Tags/resource flow squad.md
+./notes/archive/clarity/Tags/revolution 0- foundations.md
+./notes/archive/clarity/Tags/revolution 1- genesis.md
+./notes/archive/clarity/Tags/revolutions.md
+./notes/archive/clarity/Tags/roleadviceprocess.md
+./notes/archive/clarity/Tags/roles.md
+./notes/archive/clarity/Tags/secretary.md
+./notes/archive/clarity/Tags/squad lead.md
+./notes/archive/clarity/Tags/squad updates.md
+./notes/archive/clarity/Tags/squad-proposals.md
+./notes/archive/clarity/Tags/squads.md
+./notes/archive/clarity/Tags/stakeholder governance.md
+./notes/archive/clarity/Tags/stakeholder.md
+./notes/archive/clarity/Tags/start here 👋.md
+./notes/archive/clarity/Tags/story.md
+./notes/archive/clarity/Tags/storytelling.md
+./notes/archive/clarity/Tags/superbenefit community.md
+./notes/archive/clarity/Tags/superbenefit contributor guide - v1.md
+./notes/archive/clarity/Tags/superbenefit contributor guide - working draft.md
+./notes/archive/clarity/Tags/superbenefit governance.md
+./notes/archive/clarity/Tags/superbenefit.md
+./notes/archive/clarity/Tags/systems transformation.md
+./notes/archive/clarity/Tags/tactical meetings.md
+./notes/archive/clarity/Tags/tasks.md
+./notes/archive/clarity/Tags/templates.md
+./notes/archive/clarity/Tags/tension.md
+./notes/archive/clarity/Tags/the look, feel, and story of a better future.md
+./notes/archive/clarity/Tags/theory of change.md
+./notes/archive/clarity/Tags/token distribution contributor guide.md
+./notes/archive/clarity/Tags/tooling.md
+./notes/archive/clarity/Tags/townhall.md
+./notes/archive/clarity/Tags/treasury squad.md
+./notes/archive/clarity/Tags/treasury.md
+./notes/archive/clarity/Tags/web3 & social impact series.md
+./notes/archive/clarity/Tags/web3 adventure tour.md
+./notes/archive/clarity/Tags/web3 library.md
+./notes/archive/clarity/Tags/web3.md
+./notes/archive/clarity/Tags/weeklys.md
+./notes/archive/clarity/Tags/welcome party.md
+./notes/archive/index.md
+./notes/cxi/Docs/2022-03-15 at 01-20 AM.md
+./notes/cxi/Docs/2022-03-15 at 02-53 PM.md
+./notes/cxi/Docs/2022-03-21 at 04-00 PM.md
+./notes/cxi/Docs/2022-03-27 - web3 Inclusivity Summit.md
+./notes/cxi/Docs/2022-03-31 at 01-32 PM.md
+./notes/cxi/Docs/2022-04-04 at 04-10 PM.md
+./notes/cxi/Docs/2022-04-11 at 04-07 PM.md
+./notes/cxi/Docs/2022-04-18 - April 18 CXI Meeting.md
+./notes/cxi/Docs/2022-04-22 - Contributor Guide kickoff meeting.md
+./notes/cxi/Docs/2022-05-02 - Community Resources intro rewrite.md
+./notes/cxi/Docs/2022-05-02 - Gnosis Safe for Governance Conversations Project.md
+./notes/cxi/Docs/2022-05-02 - May 2 CXI Meeting.md
+./notes/cxi/Docs/2022-05-09 - May 9, 2022.md
+./notes/cxi/Docs/2022-05-20 - Twitter Style Guide.md
+./notes/cxi/Docs/2023-01-17 - DRAFT Proposal to create a Community Experience team for AIFS.md
+./notes/cxi/Docs/2023-10-11 - CX Meeting 11 Oct 2023.md
+./notes/cxi/Docs/index.md
+./notes/cxi/index.md
+./notes/cxi/Tasks/⬜️ CXI-300 Pace & Information Discussion Agenda.md
+./notes/cxi/Tasks/index.md
+./notes/dao-primitives/implementation/case-studies/index.md
+./notes/dao-primitives/implementation/guides/governance/implementation-guide-community-governance.md
+./notes/dao-primitives/implementation/guides/governance/implementation-guide-multi-stakeholder-governance.md
+./notes/dao-primitives/implementation/guides/governance/implementation-guide-operational-governance.md
+./notes/dao-primitives/implementation/guides/governance/index.md
+./notes/dao-primitives/implementation/guides/index.md
+./notes/dao-primitives/implementation/guides/sense-making-facilitation-tools.md
+./notes/dao-primitives/implementation/index.md
+./notes/dao-primitives/implementation/patterns/collaboration-scale-patterns/circle.md
+./notes/dao-primitives/implementation/patterns/collaboration-scale-patterns/decision-log.md
+./notes/dao-primitives/implementation/patterns/collaboration-scale-patterns/index.md
+./notes/dao-primitives/implementation/patterns/collaboration-scale-patterns/nucleus.md
+./notes/dao-primitives/implementation/patterns/constituency-scale-patterns/community-governance.md
+./notes/dao-primitives/implementation/patterns/constituency-scale-patterns/index.md
+./notes/dao-primitives/implementation/patterns/constituency-scale-patterns/multi-stakeholder-governance.md
+./notes/dao-primitives/implementation/patterns/coordination-scale-patterns/index.md
+./notes/dao-primitives/implementation/patterns/dao-patterns/dao-state.md
+./notes/dao-primitives/implementation/patterns/dao-patterns/index.md
+./notes/dao-primitives/implementation/patterns/index.md
+./notes/dao-primitives/implementation/patterns/network-scale-patterns/index.md
+./notes/dao-primitives/index.md
+./notes/dao-primitives/primitives-archive/index.md
+./notes/dao-primitives/primitives-archive/primitives-docs/2022-04-17 - Governance research project (Rev 1) DAO-Cell founding doc.md
+./notes/dao-primitives/primitives-archive/primitives-docs/2022-04-19 - Weekly Meeting Notes - DAO Primitives.md
+./notes/dao-primitives/primitives-archive/primitives-docs/2022-04-19 at 11-39 PM.md
+./notes/dao-primitives/primitives-archive/primitives-docs/2022-05-31 - Token allocation.md
+./notes/dao-primitives/primitives-archive/primitives-docs/2022-07-12 - Notes on Orca Protocol and Juicebox.md
+./notes/dao-primitives/primitives-archive/primitives-docs/2022-07-17 - Rowan's notes on Coinvise & Hypha .md
+./notes/dao-primitives/primitives-archive/primitives-docs/2022-07-19 - Notes on DAOhaus and Govrn.md
+./notes/dao-primitives/primitives-archive/primitives-docs/2022-08-02 - Notes on JokeDAO and Coordinape.md
+./notes/dao-primitives/primitives-archive/primitives-docs/2022-08-09 - Notes on Colony and Lobby.md
+./notes/dao-primitives/primitives-archive/primitives-docs/2022-09-13 - Rewarding Contribution Agreement for DAO Primitive Project CELL.md
+./notes/dao-primitives/primitives-archive/primitives-docs/index.md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (01-25-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (02-06-2024).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (03-05-2024).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (03-07-2024).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (04-02-2024).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (04-04-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (04-09-2024).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (05-02-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (05-07-2024).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (06-04-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (06-04-2024).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (06-06-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (07-02-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (07-02-2024).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (07-03-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (07-09-2024).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (08-01-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (08-08-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (09-01-2024).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (09-04-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (09-05-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (10-03-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (10-10-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (11-04-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (11-06-2024).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (11-07-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (12-03-2024).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (12-09-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (12-12-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (13-02-2024).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (13-06-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (14-02-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (14-03-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (14-05-2024).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (15-08-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (15-11-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (16-01-2024).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (16-05-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (16-07-2024).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (17-01-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (17-10-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (18-06-2024).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (18-07-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (19-09-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (19-12-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (20-02-2024).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (20-06-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (21-03-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (21-05-2024).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (21-11-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (22-02-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (22-08-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (23-01-2024).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (23-05-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (23-07-2024).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (24-10-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (25-01-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (25-04-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (25-06-2024).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (25-07-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (26-03-2024).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (26-09-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (27-02-2024).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (27-06-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (28-02-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (28-03-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (28-05-2024).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (28-11-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (29-08-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (30-01-2024).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (30-05-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (31-01-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Meeting (31-10-2023).md
+./notes/dao-primitives/primitives-archive/primitives-meetings/DAO Primitives Weekly Meeting Template.md
+./notes/dao-primitives/primitives-archive/primitives-meetings/index.md
+./notes/dao-primitives/primitives-archive/primitives-meetings/Primitives Docs Work Session.md
+./notes/dao-primitives/primitives-archive/primitives-tasks/⬜️ GR-299 Group Phase - DAO Primitives.md
+./notes/dao-primitives/primitives-archive/primitives-tasks/⬜️ GR-309 Partnership Governance - Reimagining Power.md
+./notes/dao-primitives/primitives-archive/primitives-tasks/index.md
+./notes/dao-primitives/primitives-planned-outline 1.md
+./notes/dao-primitives/resources/index.md
+./notes/dao-primitives/resources/templates/group-state-template.md
+./notes/dao-primitives/resources/templates/index.md
+./notes/general-circle/index.md
+./notes/general-circle/old-gc-docs/2021-12-12 at 07-17 PM.md
+./notes/general-circle/old-gc-docs/2021-12-14 at 02-15 AM.md
+./notes/general-circle/old-gc-docs/2021-12-14 at 02-53 PM.md
+./notes/general-circle/old-gc-docs/2021-12-14 at 04-02 AM.md
+./notes/general-circle/old-gc-docs/2021-12-14 at 04-54 PM.md
+./notes/general-circle/old-gc-docs/2021-12-14 at 05-00 PM.md
+./notes/general-circle/old-gc-docs/2021-12-14 at 05-35 AM.md
+./notes/general-circle/old-gc-docs/2021-12-15 at 02-06 AM.md
+./notes/general-circle/old-gc-docs/2021-12-15 at 03-15 PM.md
+./notes/general-circle/old-gc-docs/2021-12-15 at 03-17 PM.md
+./notes/general-circle/old-gc-docs/2021-12-15 at 05-20 PM.md
+./notes/general-circle/old-gc-docs/2021-12-16 at 01-07 AM.md
+./notes/general-circle/old-gc-docs/2021-12-16 at 02-59 AM.md
+./notes/general-circle/old-gc-docs/2021-12-17 at 08-46 PM.md
+./notes/general-circle/old-gc-docs/2021-12-18 at 01-45 PM.md
+./notes/general-circle/old-gc-docs/2021-12-19 at 03-59 PM.md
+./notes/general-circle/old-gc-docs/2021-12-22 at 07-18 PM.md
+./notes/general-circle/old-gc-docs/2021-12-26 at 08-00 PM.md
+./notes/general-circle/old-gc-docs/2021-12-27 at 06-30 PM.md
+./notes/general-circle/old-gc-docs/2021-12-29 at 04-28 PM.md
+./notes/general-circle/old-gc-docs/2021-12-30 at 04-09 PM.md
+./notes/general-circle/old-gc-docs/2021-12-31 at 04-10 PM.md
+./notes/general-circle/old-gc-docs/2022-01-01 at 06-15 PM.md
+./notes/general-circle/old-gc-docs/2022-01-01 at 10-03 PM.md
+./notes/general-circle/old-gc-docs/2022-01-02 at 04-11 PM.md
+./notes/general-circle/old-gc-docs/2022-01-03 at 06-08 PM.md
+./notes/general-circle/old-gc-docs/2022-01-03 at 06-43 PM.md
+./notes/general-circle/old-gc-docs/2022-01-04 at 02-45 PM.md
+./notes/general-circle/old-gc-docs/2022-01-09 at 10-16 PM.md
+./notes/general-circle/old-gc-docs/2022-01-11 at 02-01 PM.md
+./notes/general-circle/old-gc-docs/2022-01-15 at 05-21 PM.md
+./notes/general-circle/old-gc-docs/2022-01-19 at 01-02 AM.md
+./notes/general-circle/old-gc-docs/2022-01-21 at 02-58 PM.md
+./notes/general-circle/old-gc-docs/2022-01-23 at 02-52 PM.md
+./notes/general-circle/old-gc-docs/2022-01-25 at 07-34 PM.md
+./notes/general-circle/old-gc-docs/2022-01-26 at 05-03 PM.md
+./notes/general-circle/old-gc-docs/2022-01-26 at 11-47 AM.md
+./notes/general-circle/old-gc-docs/2022-01-26 at 11-51 AM.md
+./notes/general-circle/old-gc-docs/2022-01-27 at 02-05 AM.md
+./notes/general-circle/old-gc-docs/2022-01-28 at 05-30 PM.md
+./notes/general-circle/old-gc-docs/2022-01-30 at 12-21 PM.md
+./notes/general-circle/old-gc-docs/2022-02-02 at 10-57 PM.md
+./notes/general-circle/old-gc-docs/2022-02-02 at 12-33 PM.md
+./notes/general-circle/old-gc-docs/2022-02-03 at 11-15 PM.md
+./notes/general-circle/old-gc-docs/2022-02-21 at 08-52 PM.md
+./notes/general-circle/old-gc-docs/2022-02-21 at 08-56 PM.md
+./notes/general-circle/old-gc-docs/2022-02-22 at 12-40 AM.md
+./notes/general-circle/old-gc-docs/2022-03-08 at 02-11 AM.md
+./notes/general-circle/old-gc-docs/2022-03-08 at 08-14 PM.md
+./notes/general-circle/old-gc-docs/2022-03-14 at 04-14 PM.md
+./notes/general-circle/old-gc-docs/2022-03-20 at 11-27 PM.md
+./notes/general-circle/old-gc-docs/2022-03-21 - Notes - Governance Conversations.md
+./notes/general-circle/old-gc-docs/2022-04-12 - Governance Conversations Project - 12 April 2022.md
+./notes/general-circle/old-gc-docs/2022-04-19 - Web3 Social Impact Series.md
+./notes/general-circle/old-gc-docs/2022-04-22 at 12-39 AM.md
+./notes/general-circle/old-gc-docs/2022-04-26 - Framing for Governance Conversations.md
+./notes/general-circle/old-gc-docs/2022-04-26 - Meeting Notes - 26 April 2022.md
+./notes/general-circle/old-gc-docs/2022-05-17 - Contributor Guide - meeting notes May 27, 2022.md
+./notes/general-circle/old-gc-docs/2022-05-17 at 08-52 PM.md
+./notes/general-circle/old-gc-docs/2022-05-31 - SB Governance Musings - June 2022.md
+./notes/general-circle/old-gc-docs/2022-06-20 - SB Draft governance concept v2.md
+./notes/general-circle/old-gc-docs/2022-06-29 - DAO Primitive Project - CELL State - (founding doc).md
+./notes/general-circle/old-gc-docs/2022-07-05 - DAO Primitive Project - Weekly Meeting Doc.md
+./notes/general-circle/old-gc-docs/2022-10-17 - Systems Transformation Repository-Library - CELL Nucleus.md
+./notes/general-circle/old-gc-docs/2022-10-18 - Systems Transformation Project Meeting - October 17, 2022.md
+./notes/general-circle/old-gc-docs/2022-10-28 - CCS Workshop & Elective planning meeting - Oct 28, 2022.md
+./notes/general-circle/old-gc-docs/2022-10-28 - Systems Transformation Project Meetings .md
+./notes/general-circle/old-gc-docs/2022-11-14 - Potential things to add to governance in the future.md
+./notes/general-circle/old-gc-docs/2022-11-29 - test doc.md
+./notes/general-circle/old-gc-docs/2023-01-09 - Systems Transformation Framework Template.md
+./notes/general-circle/old-gc-docs/2023-04-03 - Contribution Register & Coordinape Process for Systems Transformation Project.md
+./notes/general-circle/old-gc-docs/2023-06-27 - Reimagining Power Cell Proposal.md
+./notes/general-circle/old-gc-docs/2023-07-24 - Systems Transformation Project wrap-up.md
+./notes/general-circle/old-gc-docs/2023-08-07 - SPB15 - Establish an initial Cell to work on the Windfall NFT Project .md
+./notes/general-circle/old-gc-docs/2023-08-07 - Windfall NFT Project Cell State.md
+./notes/general-circle/old-gc-docs/index.md
+./notes/general-circle/old-gc-meetings/GC Meeting (01-01-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (01-04-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (01-05-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (01-08-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (02-01-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (02-05-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (02-06-2025).md
+./notes/general-circle/old-gc-meetings/GC Meeting (02-09-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (02-10-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (03-01-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (03-02-2025).md
+./notes/general-circle/old-gc-meetings/GC Meeting (03-03-2025).md
+./notes/general-circle/old-gc-meetings/GC Meeting (03-04-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (03-06-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (03-07-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (03-10-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (04-03-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (04-04-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (04-07-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (04-09-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (04-11-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (04-12-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (05-02-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (05-06-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (05-08-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (05-09-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (05-12-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (06-01-2025).md
+./notes/general-circle/old-gc-meetings/GC Meeting (06-02-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (06-03-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (06-05-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (06-06-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (06-11-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (07-02-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (07-03-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (07-04-2025).md
+./notes/general-circle/old-gc-meetings/GC Meeting (07-08-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (07-10-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (07-11-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (08-01-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (08-05-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (08-08-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (09-01-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (09-05-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (09-06-2025).md
+./notes/general-circle/old-gc-meetings/GC Meeting (09-09-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (09-10-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (09-12-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (10-01-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (10-02-2025).md
+./notes/general-circle/old-gc-meetings/GC Meeting (10-04-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (10-06-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (10-07-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (10-10-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (11-03-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (11-04-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (11-07-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (11-09-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (11-11-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (11-12-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (12-02-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (12-04-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (12-05-2025).md
+./notes/general-circle/old-gc-meetings/GC Meeting (12-06-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (12-09-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (12-11-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (12-12-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (13-01-2025).md
+./notes/general-circle/old-gc-meetings/GC Meeting (13-02-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (13-03-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (13-05-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (13-06-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (13-11-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (13-12-2021).md
+./notes/general-circle/old-gc-meetings/GC Meeting (14-02-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (14-03-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (14-04-2025).md
+./notes/general-circle/old-gc-meetings/GC Meeting (14-08-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (14-10-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (14-11-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (15-01-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (15-04-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (15-05-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (15-07-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (15-08-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (16-01-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (16-05-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (16-06-2025).md
+./notes/general-circle/old-gc-meetings/GC Meeting (16-09-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (16-10-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (17-01-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (17-02-2025).md
+./notes/general-circle/old-gc-meetings/GC Meeting (17-03-2025).md
+./notes/general-circle/old-gc-meetings/GC Meeting (17-04-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (17-06-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (17-07-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (17-10-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (18-03-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (18-04-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (18-07-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (18-09-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (18-11-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (18-12-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (19-02-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (19-05-2025).md
+./notes/general-circle/old-gc-meetings/GC Meeting (19-06-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (19-08-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (19-09-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (19-12-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (20-02-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (20-03-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (20-05-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (20-06-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (20-11-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (20-12-2021).md
+./notes/general-circle/old-gc-meetings/GC Meeting (21-02-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (21-02-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (21-03-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (21-08-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (21-10-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (21-11-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (22-01-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (22-04-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (22-05-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (22-08-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (23-01-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (23-05-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (23-06-2025).md
+./notes/general-circle/old-gc-meetings/GC Meeting (23-09-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (23-10-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (24-01-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (24-02-2025).md
+./notes/general-circle/old-gc-meetings/GC Meeting (24-03-2025).md
+./notes/general-circle/old-gc-meetings/GC Meeting (24-04-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (24-06-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (24-07-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (24-10-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (25-03-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (25-04-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (25-07-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (25-09-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (25-12-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (26-02-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (26-05-2025).md
+./notes/general-circle/old-gc-meetings/GC Meeting (26-06-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (26-08-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (26-09-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (26-12-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (27-01-2025).md
+./notes/general-circle/old-gc-meetings/GC Meeting (27-02-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (27-03-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (27-05-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (27-06-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (27-11-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (27-12-2021).md
+./notes/general-circle/old-gc-meetings/GC Meeting (28-02-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (28-03-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (28-04-2025).md
+./notes/general-circle/old-gc-meetings/GC Meeting (28-08-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (28-10-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (28-11-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (29-01-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (29-04-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (29-05-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (29-07-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (29-08-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (30-01-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (30-05-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (30-06-2025).md
+./notes/general-circle/old-gc-meetings/GC Meeting (30-09-2024).md
+./notes/general-circle/old-gc-meetings/GC Meeting (30-10-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (31-01-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (31-03-2025).md
+./notes/general-circle/old-gc-meetings/GC Meeting (31-07-2023).md
+./notes/general-circle/old-gc-meetings/GC Meeting (31-10-2022).md
+./notes/general-circle/old-gc-meetings/GC Meeting (31-10-2025).md
+./notes/general-circle/old-gc-meetings/GC Weekly Meeting (15724).md
+./notes/general-circle/old-gc-meetings/GC Weekly Meeting (9924).md
+./notes/general-circle/old-gc-meetings/GC weekly meeting 19824.md
+./notes/general-circle/old-gc-meetings/GC weekly meeting 24624.md
+./notes/general-circle/old-gc-meetings/GC weekly meeting 91224.md
+./notes/general-circle/old-gc-meetings/General Circle Meeting (112723).md
+./notes/general-circle/old-gc-meetings/General Circle Meeting 181223.md
+./notes/general-circle/old-gc-meetings/General Circle Meeting 8124.md
+./notes/general-circle/old-gc-meetings/General Circle Weekly 22424.md
+./notes/general-circle/old-gc-meetings/General Circle Weekly Meeting (10624).md
+./notes/general-circle/old-gc-meetings/General Circle Weekly Meeting (112023).md
+./notes/general-circle/old-gc-meetings/General Circle Weekly Meeting (12224).md
+./notes/general-circle/old-gc-meetings/General Circle Weekly Meeting (141024).md
+./notes/general-circle/old-gc-meetings/General Circle Weekly Meeting (19224).md
+./notes/general-circle/old-gc-meetings/General Circle Weekly Meeting (20524).md
+./notes/general-circle/old-gc-meetings/General Circle Weekly Meeting (26224).md
+./notes/general-circle/old-gc-meetings/General Circle Weekly Meeting (27524).md
+./notes/general-circle/old-gc-meetings/General Circle Weekly Meeting (281024).md
+./notes/general-circle/old-gc-meetings/General Circle Weekly Meeting (29424).md
+./notes/general-circle/old-gc-meetings/General Circle Weekly Meeting (41124).md
+./notes/general-circle/old-gc-meetings/General Circle Weekly Meeting (61724).md
+./notes/general-circle/old-gc-meetings/General Circle Weekly Meeting 15124.md
+./notes/general-circle/old-gc-meetings/General Circle weekly meeting 18324.md
+./notes/general-circle/old-gc-meetings/General Circle Weekly Meeting 22124.md
+./notes/general-circle/old-gc-meetings/General Circle weekly meeting 25324.md
+./notes/general-circle/old-gc-meetings/General Circle Weekly Meeting 29124.md
+./notes/general-circle/old-gc-meetings/General Circle Weekly Meeting 5224.md
+./notes/general-circle/old-gc-meetings/index.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-102 Help Peter create a project.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-103 find 3 identity designers.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-121 Develop & Publish CXI Bounties.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-123 Brainstorm Question of the Day ideas.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-139 [BOUNTY] Provide a summary of approaches to rewarding past contributors.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-143 Connect with @lewwwk to capture the SB genesis story .md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-147 Collaborate with CCS on web3 impact library.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-153 [BOUNTY] Develop a Pluriverse Reflection Guide.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-157 Add mini community survey to Discord welcome message.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-158 [BOUNTY] SuperBenefit Origin Story Artifact.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-159 Publish a specific ask (_Time to get involved, your help is needed to share the news of our public launch_) .md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-160 Publish communication strategy, key dates, and link to copy deck and-or post content directly .md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-165 [BOUNTY] Discord -_ notion web3 library bot .md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-167 Proposal to adopt ToC.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-170 Last call for feedback on the ToC .md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-173 Governance & Treasury get together to figure out a process for bounties and budget allocation .md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-175  SuperBenefit AMA Plan-Agenda.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-178 Develop hello world intro video.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-181 [BOUNTY] Revamp Notion Getting Started page.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-183 Develop launch invitation and process.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-186 Create a set of steps for multisig holders to follow to create, approve or reject a wallet transaction. .md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-191 Review Discord Onboarding Flow.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-195 Set up calendly and include in Discord.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-197 Update Rules screen on Discord .md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-207 Find SB Community on Twitter & Engage.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-208 1-1 Meetings - Set Up Calendly.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-209 Proposal for Contributor Guide.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-210 Weekly Update - March 9, 2022.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-219 #187 Create a set of steps for multisig signers to follow .md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-220 Curate the metagovernance pieces into the web3 library .md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-221 Create appropriate category-ies in web3 library and make video to show process for adding items to library .md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-224 Apply for metagov.org funding for research project .md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-227 Project - governance design experiment #1.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-229 Develop Bounty for someone to run our Twitter .md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-233 [BOUNTY] Twitter Style Guide.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-234 [BOUNTY] Twitter Content Creator & Engagement.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-237 Give Ryan access to DNS controls.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-238 Craft v1 invitation + guiding questions (for panel + audience) .md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-240 Look into setting up a recurring weekly meeting template on Clarity.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-242 Discuss how we are going to reward ourselves and other contributors (Rowan).md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-246 [BOUNTY] Distribute some $SPRB to the Discord community.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-255 SuperBenefit Consulting Design.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-256 SuperBenefit Consulting Design .md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-257 Proposal SBP8- DAO Primitive Project_.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-258 We can post this and the contributor guide and be open to feedback and review again at the end of Rev 1 .md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-261 Design DAO initiation cell.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-262 Conflict of Interest (COI) Proposal.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-263 SuperBenefit Proposal.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-264 Draft Proposal -  for grant application with Windfall.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-265 CCS Workshop.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-266 Create a Mirror post .md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-267 Find a cool graphic that captures what we are trying to do.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-268 Create a new Figjam board .md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-270 Contact Forefront to see if they are open to collaborating .md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-271 Explore different tooling possibilities .md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-273 Synthesize the Purpose of the Project .md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-274 Sessions 1 Planning & Agenda.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-275 SBP12- Design resourcing for the Future of Sport Roadmapping Project.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-276 SBP13 - Allocating SPRB & USDC to projects to fund interim Rev 1 contributor rewards .md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-277 Treasury Allocation for SBP13 & SBP6.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-279 Bring a project team to talk through the design - block off a couple of hours for a working session. .md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-280 Michelle talk to OTF about funds flowing through Reimagine Institute .md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-281 Propose final allocation of tokens for Systems Transformation Project.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-288 Clarity Update.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-42 NFT Top patron rewards design (issued on close of genesis period).md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-43 Community spaces ready for NFT Drop .md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-44 Communications prep for NFT Drop.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-51 Review Member Archetype Table.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-67 Pre-launch strategy.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-76 Reach out to DAO Community Experience Leads to garner learning.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-77 Build Community Relationships _.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-78 Spec Ember NFT.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-81 Write Discord channel descriptions.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-83 Recruit designer.md
+./notes/general-circle/old-gc-tasks/⬜️ SUP-99 Create Tooling Process Guide.md
+./notes/general-circle/old-gc-tasks/✅ SUP-10 General Circle convenes its first Tactical Meeting.md
+./notes/general-circle/old-gc-tasks/✅ SUP-100 Set up metrics tracking in Notion.md
+./notes/general-circle/old-gc-tasks/✅ SUP-104 @Lewwwk to Boost the account.md
+./notes/general-circle/old-gc-tasks/✅ SUP-107 @Lewwwk Finalize Lead Roles for Alex and Rowan.md
+./notes/general-circle/old-gc-tasks/✅ SUP-108 CXI Tactical Meeting #0.md
+./notes/general-circle/old-gc-tasks/✅ SUP-109 Attend onboarding for Krause House .md
+./notes/general-circle/old-gc-tasks/✅ SUP-11 Squads convene their own Tactical Meetings .md
+./notes/general-circle/old-gc-tasks/✅ SUP-110 Note to General Circle on process for adding new articles to web3 library .md
+./notes/general-circle/old-gc-tasks/✅ SUP-111 Delete web3 library content .md
+./notes/general-circle/old-gc-tasks/✅ SUP-113 Connect with people following up from Town Hall.md
+./notes/general-circle/old-gc-tasks/✅ SUP-114 Send survey with ToC .md
+./notes/general-circle/old-gc-tasks/✅ SUP-115 SPRB Design Conversation.md
+./notes/general-circle/old-gc-tasks/✅ SUP-117 community has ability to make changes to this distribution so start with this straw dog, get started .md
+./notes/general-circle/old-gc-tasks/✅ SUP-118 add assumptions for percentage allocation to demonstrate embedding SB values e.g. allocation of $ crowdfund in relation to contributors.md
+./notes/general-circle/old-gc-tasks/✅ SUP-119 Weekly Update (Jan 18).md
+./notes/general-circle/old-gc-tasks/✅ SUP-12 General Circle convenes its second Tactical Meeting.md
+./notes/general-circle/old-gc-tasks/✅ SUP-120 [DRAFT] Proposal to create new roles in the Community Experience Squad.md
+./notes/general-circle/old-gc-tasks/✅ SUP-122 CXI Tactical Meeting #1.md
+./notes/general-circle/old-gc-tasks/✅ SUP-124 Update learning pathways page on Notion .md
+./notes/general-circle/old-gc-tasks/✅ SUP-125 Weekly Update - Feb 1.md
+./notes/general-circle/old-gc-tasks/✅ SUP-126 Announcement in Discord about ToC Feedback Process.md
+./notes/general-circle/old-gc-tasks/✅ SUP-127 ToC Announcement in Discord-Reminder of Review Session.md
+./notes/general-circle/old-gc-tasks/✅ SUP-128 Reminder ToC Feedback in Discord.md
+./notes/general-circle/old-gc-tasks/✅ SUP-129 Compile ToC Feedback .md
+./notes/general-circle/old-gc-tasks/✅ SUP-13 Squads and General Circle do their work.md
+./notes/general-circle/old-gc-tasks/✅ SUP-135 Launch Strategy.md
+./notes/general-circle/old-gc-tasks/✅ SUP-136 Write crowdfund post.md
+./notes/general-circle/old-gc-tasks/✅ SUP-137 Create SB Multisig.md
+./notes/general-circle/old-gc-tasks/✅ SUP-138 Proposal 3- Create $SPRB ERC20 token for the SuperBenefit DAO [DRAFT].md
+./notes/general-circle/old-gc-tasks/✅ SUP-14 General Circle develops a governance token concept ($SPRB).md
+./notes/general-circle/old-gc-tasks/✅ SUP-140 Draw up high-level outline of the resource flow squad.md
+./notes/general-circle/old-gc-tasks/✅ SUP-141 CXI Tactical Meeting #2.md
+./notes/general-circle/old-gc-tasks/✅ SUP-142 test reward.md
+./notes/general-circle/old-gc-tasks/✅ SUP-144 Q- should web3 be capitalized sometimes, always, never_ .md
+./notes/general-circle/old-gc-tasks/✅ SUP-145 guide page needs to be populated with articles widget .md
+./notes/general-circle/old-gc-tasks/✅ SUP-149 Tidy up CXI Resources on Clarity.md
+./notes/general-circle/old-gc-tasks/✅ SUP-15 General Circle shares and tests the governance token concept for Contributors.md
+./notes/general-circle/old-gc-tasks/✅ SUP-150 Pre-share post with web3 influencers.md
+./notes/general-circle/old-gc-tasks/✅ SUP-151 Pre-launch contribution register.md
+./notes/general-circle/old-gc-tasks/✅ SUP-152 Update Discord welcome message.md
+./notes/general-circle/old-gc-tasks/✅ SUP-154 CXI Tactical Meeting #3.md
+./notes/general-circle/old-gc-tasks/✅ SUP-155 Point people to the Impact tag in the web3 library - post in Discord .md
+./notes/general-circle/old-gc-tasks/✅ SUP-156 Post about NAS Academy course .md
+./notes/general-circle/old-gc-tasks/✅ SUP-161 Publish _how to setup a wallet_ content .md
+./notes/general-circle/old-gc-tasks/✅ SUP-162 CXI Tactical Meeting #4.md
+./notes/general-circle/old-gc-tasks/✅ SUP-163 Mini-Review of Governance conducted and recommendations shared.md
+./notes/general-circle/old-gc-tasks/✅ SUP-164 [BOUNTY] Update _Getting Started to web3_ Notion page.md
+./notes/general-circle/old-gc-tasks/✅ SUP-166 Design first expedition. Frame up how to do a first run through of a surfacing, selection and allocation process.md
+./notes/general-circle/old-gc-tasks/✅ SUP-168 Wrap ToC project.md
+./notes/general-circle/old-gc-tasks/✅ SUP-169 Activate Discord channel refactor .md
+./notes/general-circle/old-gc-tasks/✅ SUP-171 Set up new thread and project on landscaping and sense-making design .md
+./notes/general-circle/old-gc-tasks/✅ SUP-172 Publish call for contributions to identity design project in communication guild .md
+./notes/general-circle/old-gc-tasks/✅ SUP-174 Follow up with Peter to make an introduction to Ayusha .md
+./notes/general-circle/old-gc-tasks/✅ SUP-176 SuperBenefit Townhall & Agenda.md
+./notes/general-circle/old-gc-tasks/✅ SUP-177 Weekly Update Feb 22.md
+./notes/general-circle/old-gc-tasks/✅ SUP-18 General Circle implements governance token.md
+./notes/general-circle/old-gc-tasks/✅ SUP-182 CXI Tactical Meeting #5.md
+./notes/general-circle/old-gc-tasks/✅ SUP-184 Publish Role Advice Process.md
+./notes/general-circle/old-gc-tasks/✅ SUP-185 Add section on how to purchase a NFT on Mirror to the Community Resources site .md
+./notes/general-circle/old-gc-tasks/✅ SUP-187 Steps for multisig signers to follow.md
+./notes/general-circle/old-gc-tasks/✅ SUP-188 25,000 to each of the 8 circle leads.md
+./notes/general-circle/old-gc-tasks/✅ SUP-190 2,000,000 back to the originating SB address (so that they can be bridged to Polygon for Rev 1 contributions via Coinvise).md
+./notes/general-circle/old-gc-tasks/✅ SUP-194 CXI Tactical Meeting #6.md
+./notes/general-circle/old-gc-tasks/✅ SUP-198 SBP2- [Treasury] Reimbursement of Revolution 0 Expense.md
+./notes/general-circle/old-gc-tasks/✅ SUP-20 Streamline permissions management and requests process.md
+./notes/general-circle/old-gc-tasks/✅ SUP-21 Refactor discord channels for clarity.md
+./notes/general-circle/old-gc-tasks/✅ SUP-217 MB follow up with Caryn Tan .md
+./notes/general-circle/old-gc-tasks/✅ SUP-218 Reach out to Sarah Drinkwater to see if she can bring in folks from Mobius and for a general chat .md
+./notes/general-circle/old-gc-tasks/✅ SUP-222 Proposal for Governance Research Project (Rev1).md
+./notes/general-circle/old-gc-tasks/✅ SUP-223 Proposal 4- Initiate the Governance Conversations project (Rev 1).md
+./notes/general-circle/old-gc-tasks/✅ SUP-225 Set up Miro as working space .md
+./notes/general-circle/old-gc-tasks/✅ SUP-226 Post this proposal in proposal-development channel .md
+./notes/general-circle/old-gc-tasks/✅ SUP-228 Set up gnosis safe wallet for project .md
+./notes/general-circle/old-gc-tasks/✅ SUP-232 Think about writing an article about _entity thinking_ .md
+./notes/general-circle/old-gc-tasks/✅ SUP-235 Setting up GnosisSafe wallets for latest proposals .md
+./notes/general-circle/old-gc-tasks/✅ SUP-239 Governance research project (Rev 1) DAO-Cell founding doc.md
+./notes/general-circle/old-gc-tasks/✅ SUP-241 Sketch out the meta governance categories listed in the miro board .md
+./notes/general-circle/old-gc-tasks/✅ SUP-243 Reach out to ananth.eth from rabbithole .md
+./notes/general-circle/old-gc-tasks/✅ SUP-244 Reach out to cpoetter from rabbithole .md
+./notes/general-circle/old-gc-tasks/✅ SUP-245 Draw up outline of steps to set up a multi-sig wallet for SB projects.md
+./notes/general-circle/old-gc-tasks/✅ SUP-248 Test member onboarding into clarity.md
+./notes/general-circle/old-gc-tasks/✅ SUP-249 Coordinape Allocation Reflection.md
+./notes/general-circle/old-gc-tasks/✅ SUP-251 Update introduction-invitation on the Community Resources site .md
+./notes/general-circle/old-gc-tasks/✅ SUP-252 Tidy up Clarity Tasks & Projects .md
+./notes/general-circle/old-gc-tasks/✅ SUP-253 Give Discord contributor role to seeddisburser, caryn, curiousath, ash, ayusha, steve wadell, michael redhead champagne... who else__ .md
+./notes/general-circle/old-gc-tasks/✅ SUP-254 Twitter List - Folks with adjacent interest.md
+./notes/general-circle/old-gc-tasks/✅ SUP-26 Set Up DAO Contributor Tracking on Notion.md
+./notes/general-circle/old-gc-tasks/✅ SUP-269 Ask Taryn if she can take notes.md
+./notes/general-circle/old-gc-tasks/✅ SUP-27 Outreach to existing SB Community .md
+./notes/general-circle/old-gc-tasks/✅ SUP-272 Think about tooling and create a Figjam board .md
+./notes/general-circle/old-gc-tasks/✅ SUP-28 Plan for Safe Space & Verification.md
+./notes/general-circle/old-gc-tasks/✅ SUP-29 Create # learn-101 resources channel.md
+./notes/general-circle/old-gc-tasks/✅ SUP-32 Invite the community to revisit and contribute to the existing Mission, Vision, Values work in Miro.md
+./notes/general-circle/old-gc-tasks/✅ SUP-33 @Lewwwk to publish and propose v0 Mission, Vision, Values..md
+./notes/general-circle/old-gc-tasks/✅ SUP-34 Develop Community Hosting & Onboarding Plan.md
+./notes/general-circle/old-gc-tasks/✅ SUP-38 Update Roles and #role-selection channel.md
+./notes/general-circle/old-gc-tasks/✅ SUP-4 Edit start here channels.md
+./notes/general-circle/old-gc-tasks/✅ SUP-47 Refactor Guilds.md
+./notes/general-circle/old-gc-tasks/✅ SUP-48 Draft Survey (similar to SeedClub).md
+./notes/general-circle/old-gc-tasks/✅ SUP-49 Weekly Update (Jan 4).md
+./notes/general-circle/old-gc-tasks/✅ SUP-5 Tidy up Notion web3 library.md
+./notes/general-circle/old-gc-tasks/✅ SUP-50 Weekly Update (Jan 11) & Share for Townhall.md
+./notes/general-circle/old-gc-tasks/✅ SUP-53 Proposal 1- Initiate Governance with @Lewwwk as General Circle Lead.md
+./notes/general-circle/old-gc-tasks/✅ SUP-54 Proposal 2- Adopt the SuperBenefit Ethos.md
+./notes/general-circle/old-gc-tasks/✅ SUP-55 Proposal 0- v1 SuperBenefit DAO Governance Model.md
+./notes/general-circle/old-gc-tasks/✅ SUP-56 Format for Tactical Meetings drafted and shared.md
+./notes/general-circle/old-gc-tasks/✅ SUP-57 First Tactical Meeting scheduled.md
+./notes/general-circle/old-gc-tasks/✅ SUP-58 Notes template for meeting capture by Secretary drafted and shared.md
+./notes/general-circle/old-gc-tasks/✅ SUP-6 Takeaway Tour - include web3 resources.md
+./notes/general-circle/old-gc-tasks/✅ SUP-60 Draft Season 0 Roadmap.md
+./notes/general-circle/old-gc-tasks/✅ SUP-63 Initial $SPRB allocation parameters.md
+./notes/general-circle/old-gc-tasks/✅ SUP-64 [DRAFT] Proposal to execute contributor airdrop.md
+./notes/general-circle/old-gc-tasks/✅ SUP-65 Design contribution recognition and reward process.md
+./notes/general-circle/old-gc-tasks/✅ SUP-66 Run contribution recognition event.md
+./notes/general-circle/old-gc-tasks/✅ SUP-69 Set up CRM system.md
+./notes/general-circle/old-gc-tasks/✅ SUP-70 Complete FAQ.md
+./notes/general-circle/old-gc-tasks/✅ SUP-71 Update Community Resources Notion site.md
+./notes/general-circle/old-gc-tasks/✅ SUP-72 Meet with leads to discuss their needs.md
+./notes/general-circle/old-gc-tasks/✅ SUP-75 Recruitment Messaging.md
+./notes/general-circle/old-gc-tasks/✅ SUP-8 Appoint the General Circle Lead.md
+./notes/general-circle/old-gc-tasks/✅ SUP-80 Write brand design brief.md
+./notes/general-circle/old-gc-tasks/✅ SUP-82 Scope out what a map might look like.md
+./notes/general-circle/old-gc-tasks/✅ SUP-84 Crowdfund NFT.md
+./notes/general-circle/old-gc-tasks/✅ SUP-85 come up with a name for this thing.md
+./notes/general-circle/old-gc-tasks/✅ SUP-86 write a design brief for this thing.md
+./notes/general-circle/old-gc-tasks/✅ SUP-87 find a designer for the origin NFT.md
+./notes/general-circle/old-gc-tasks/✅ SUP-88 Write copy for NFT.md
+./notes/general-circle/old-gc-tasks/✅ SUP-89 Check Mirror Parameters.md
+./notes/general-circle/old-gc-tasks/✅ SUP-9 General Circle Lead invites individuals into Squad Lead roles.md
+./notes/general-circle/old-gc-tasks/✅ SUP-90 Outline Treasury Strategy.md
+./notes/general-circle/old-gc-tasks/✅ SUP-91 Create and deploy ERC20 SPRB contract.md
+./notes/general-circle/old-gc-tasks/✅ SUP-92 Clarify Discord Roles and Flow.md
+./notes/general-circle/old-gc-tasks/✅ SUP-95 Create Tooling Guide.md
+./notes/general-circle/old-gc-tasks/✅ SUP-96 [PASSED] Proposal- Create Reflection Practice Coordinator Role in Community Experience Squad.md
+./notes/general-circle/old-gc-tasks/index.md
+./notes/ics/about/ics-business-description.md
+./notes/ics/about/ics-community-exchange.md
+./notes/ics/about/ics-discovery-report.md
+./notes/ics/about/ics-experiment-scoping.md
+./notes/ics/about/ics-implementation-plan.md
+./notes/ics/about/index.md
+./notes/ics/ccc/archive/index.md
+./notes/ics/ccc/archive/more-activities/E.01-skill_shares.md
+./notes/ics/ccc/archive/more-activities/E.02-repair_cafe.md
+./notes/ics/ccc/archive/more-activities/E.03-neighbor_to_neighbor_days.md
+./notes/ics/ccc/archive/more-activities/E.04-working_group_sessions.md
+./notes/ics/ccc/archive/more-activities/E.05-skill_development_workshops.md
+./notes/ics/ccc/archive/more-activities/E.06-seasonal_food_preservation.md
+./notes/ics/ccc/archive/more-activities/E.07-story_circle.md
+./notes/ics/ccc/archive/more-activities/E.08-newcomer_welcome_dinners.md
+./notes/ics/ccc/archive/more-activities/E.09-community_care_mobilization.md
+./notes/ics/ccc/archive/more-activities/E.10-intergenerational_skill_share.md
+./notes/ics/ccc/archive/more-activities/E.11-virtual_connection_circles.md
+./notes/ics/ccc/archive/more-activities/E.12-skill_share_webinars.md
+./notes/ics/ccc/archive/more-activities/index.md
+./notes/ics/ccc/archive/more-activities/old-README.md
+./notes/ics/ccc/archive/more-activities/supplementary-activities-index.md
+./notes/ics/ccc/archive/untitled folder.md
+./notes/ics/ccc/archive/v0.1/appendix_resources.md
+./notes/ics/ccc/archive/v0.1/commitment_examples.md
+./notes/ics/ccc/archive/v0.1/community_activities.md
+./notes/ics/ccc/archive/v0.1/community_exchange_overview.md
+./notes/ics/ccc/archive/v0.1/conflict_resolution.md
+./notes/ics/ccc/archive/v0.1/credit_flow_examples.md
+./notes/ics/ccc/archive/v0.1/faq.md
+./notes/ics/ccc/archive/v0.1/future_possibilities.md
+./notes/ics/ccc/archive/v0.1/glossary.md
+./notes/ics/ccc/archive/v0.1/governance_structure.md
+./notes/ics/ccc/archive/v0.1/harmonization_notes.md
+./notes/ics/ccc/archive/v0.1/how_to_guides.md
+./notes/ics/ccc/archive/v0.1/implementation_timeline.md
+./notes/ics/ccc/archive/v0.1/index.md
+./notes/ics/ccc/archive/v0.1/member_testimonials.md
+./notes/ics/ccc/archive/v0.1/onboarding_process.md
+./notes/ics/ccc/archive/v0.1/pdf_compilation_guide.md
+./notes/ics/ccc/archive/v0.1/pdf_cover.md
+./notes/ics/ccc/archive/v0.1/principles_and_values.md
+./notes/ics/ccc/archive/v0.1/risks_and_mitigation.md
+./notes/ics/ccc/archive/v0.1/scaling_strategy.md
+./notes/ics/ccc/archive/v0.1/step5_completion_summary.md
+./notes/ics/ccc/archive/v0.1/success_metrics.md
+./notes/ics/ccc/archive/v0.1/table_of_contents.md
+./notes/ics/ccc/archive/v0.1/technology_implementation.md
+./notes/ics/ccc/archive/v0.1/testimonial_scenarios.md
+./notes/ics/ccc/archive/v0.1/untitled folder.md
+./notes/ics/ccc/archive/v0.1/v.md
+./notes/ics/ccc/archive/v0.1/v0.1-master_index.md
+./notes/ics/ccc/archive/v0.1/visual_concept.md
+./notes/ics/ccc/archive/v0.18/impact-yield-fund-proposal.md
+./notes/ics/ccc/archive/v0.18/index.md
+./notes/ics/ccc/archive/v0.18/TO DELETE G.03-future-possibilities.md
+./notes/ics/ccc/archive/v0.18/TO DELETE G.04-cash-integration-pathways.md
+./notes/ics/ccc/archive/v0.18/TO DELETE G.05-digital-evolution-possibilities.md
+./notes/ics/ccc/archive/v0.18/TO DELETE G.06-integration-with-broader-economic-systems.md
+./notes/ics/ccc/archive/v0.18/TO DELETE G.07-organizational-development.md
+./notes/ics/ccc/archive/v0.18/TO DELETE G.08-cad-stablecoin-placeholder.md
+./notes/ics/ccc/archive/v0.18/TO DELETE G.08-new-application-areas.md
+./notes/ics/ccc/archive/v0.18/TO DELETE G.09-educational-dimensions.md
+./notes/ics/ccc/archive/v0.18/TO DELETE G.10-considerations-for-future-development.md
+./notes/ics/ccc/archive/v0.18/TO DELETE G.10-impact-yield-fund.md
+./notes/ics/ccc/archive/v0.18/TO DELETE G.12-citizen-wallet-integration.md
+./notes/ics/ccc/archive/v0.18/TO DELETE G.12-citizen-wallet-integration-revised.md
+./notes/ics/ccc/archive/v0.18/TO DELETE G.16-citizen-wallet.md
+./notes/ics/ccc/archive/v0.18/v0.19.md
+./notes/ics/ccc/archive/v0.18/v0.2-master-index.md
+./notes/ics/ccc/archive/v0.19/A-Cover/A.01-pdf-cover.md
+./notes/ics/ccc/archive/v0.19/A-Cover/A.02-table-of-contents.md
+./notes/ics/ccc/archive/v0.19/A-Cover/index.md
+./notes/ics/ccc/archive/v0.19/A-Cover/README.md
+./notes/ics/ccc/archive/v0.19/B-Overview/B.01-community-exchange-overview.md
+./notes/ics/ccc/archive/v0.19/B-Overview/B.01-community-exchange-overview-BACKUP.md
+./notes/ics/ccc/archive/v0.19/B-Overview/B.01-introduction.md
+./notes/ics/ccc/archive/v0.19/B-Overview/B.02-why-community-exchange.md
+./notes/ics/ccc/archive/v0.19/B-Overview/B.03-how-it-works.md
+./notes/ics/ccc/archive/v0.19/B-Overview/B.04-visual-concept.md
+./notes/ics/ccc/archive/v0.19/B-Overview/B.05-principles-and-values.md
+./notes/ics/ccc/archive/v0.19/B-Overview/index.md
+./notes/ics/ccc/archive/v0.19/B-Overview/README.md
+./notes/ics/ccc/archive/v0.19/C-Implementation/C.01-onboarding-process.md
+./notes/ics/ccc/archive/v0.19/C-Implementation/C.02-implementation-timeline.md
+./notes/ics/ccc/archive/v0.19/C-Implementation/C.03-governance-structure.md
+./notes/ics/ccc/archive/v0.19/C-Implementation/C.04-technology-implementation.md
+./notes/ics/ccc/archive/v0.19/C-Implementation/C.05-risks-and-mitigation.md
+./notes/ics/ccc/archive/v0.19/C-Implementation/C.06-success-metrics.md
+./notes/ics/ccc/archive/v0.19/C-Implementation/C.07-conflict-resolution.md
+./notes/ics/ccc/archive/v0.19/C-Implementation/C.08-sarafu-technical-appendix.md
+./notes/ics/ccc/archive/v0.19/C-Implementation/index.md
+./notes/ics/ccc/archive/v0.19/C-Implementation/README.md
+./notes/ics/ccc/archive/v0.19/D-Examples/D.01-commitment-examples.md
+./notes/ics/ccc/archive/v0.19/D-Examples/D.02-credit-flow-examples.md
+./notes/ics/ccc/archive/v0.19/D-Examples/D.03-testimonial-scenarios.md
+./notes/ics/ccc/archive/v0.19/D-Examples/D.04-scaling-with-bread.md
+./notes/ics/ccc/archive/v0.19/D-Examples/index.md
+./notes/ics/ccc/archive/v0.19/D-Examples/README.md
+./notes/ics/ccc/archive/v0.19/E-Guides/E.01-adding-commitments.md
+./notes/ics/ccc/archive/v0.19/E-Guides/E.02-requesting-from-pool.md
+./notes/ics/ccc/archive/v0.19/E-Guides/E.03-tracking-credit-balance.md
+./notes/ics/ccc/archive/v0.19/E-Guides/E.04-handling-exchange-issues.md
+./notes/ics/ccc/archive/v0.19/E-Guides/E.05-inviting-new-members.md
+./notes/ics/ccc/archive/v0.19/E-Guides/E.06-participating-in-connection-circles.md
+./notes/ics/ccc/archive/v0.19/E-Guides/E.07-proposing-community-activities.md
+./notes/ics/ccc/archive/v0.19/E-Guides/E.08-using-technology-tools.md
+./notes/ics/ccc/archive/v0.19/E-Guides/E.09-leaving-the-community.md
+./notes/ics/ccc/archive/v0.19/E-Guides/E.10-finding-common-purpose.md
+./notes/ics/ccc/archive/v0.19/E-Guides/index.md
+./notes/ics/ccc/archive/v0.19/E-Guides/README.md
+./notes/ics/ccc/archive/v0.19/F-Activities/F.01-connection-circles.md
+./notes/ics/ccc/archive/v0.19/F-Activities/F.02-celebrations-and-reviews.md
+./notes/ics/ccc/archive/v0.19/F-Activities/F.03-jubilee.md
+./notes/ics/ccc/archive/v0.19/F-Activities/F.04-community-market-day.md
+./notes/ics/ccc/archive/v0.19/F-Activities/F.05-new-member-orientation.md
+./notes/ics/ccc/archive/v0.19/F-Activities/F.06-steward-circle-meetings.md
+./notes/ics/ccc/archive/v0.19/F-Activities/F.07-commitment-showcase.md
+./notes/ics/ccc/archive/v0.19/F-Activities/F.09-community-exchange-launch-may7.md
+./notes/ics/ccc/archive/v0.19/F-Activities/index.md
+./notes/ics/ccc/archive/v0.19/F-Activities/README.md
+./notes/ics/ccc/archive/v0.19/G-Future/G.01-scaling-strategy.md
+./notes/ics/ccc/archive/v0.19/G-Future/G.02-neighbourhood-networks.md
+./notes/ics/ccc/archive/v0.19/G-Future/G.03-journeyland-integration.md
+./notes/ics/ccc/archive/v0.19/G-Future/G.04-artist-collective-collaboration.md
+./notes/ics/ccc/archive/v0.19/G-Future/G.05-ics-credit-backing-model.md
+./notes/ics/ccc/archive/v0.19/G-Future/G.06-reimagine-meal-credits-system.md
+./notes/ics/ccc/archive/v0.19/G-Future/G.07-citizen-wallet-integration.md
+./notes/ics/ccc/archive/v0.19/G-Future/G.08-maple-stablecoin.md
+./notes/ics/ccc/archive/v0.19/G-Future/G.09-reserve-currency-integration.md
+./notes/ics/ccc/archive/v0.19/G-Future/G.10-pool-federation-model.md
+./notes/ics/ccc/archive/v0.19/G-Future/G.11-impact-yield-fund.md
+./notes/ics/ccc/archive/v0.19/G-Future/G.12-future-credit-flow-examples.md
+./notes/ics/ccc/archive/v0.19/G-Future/index.md
+./notes/ics/ccc/archive/v0.19/G-Future/README.md
+./notes/ics/ccc/archive/v0.19/H-Reference/H.01-glossary.md
+./notes/ics/ccc/archive/v0.19/H-Reference/H.02-faq.md
+./notes/ics/ccc/archive/v0.19/H-Reference/H.03-appendix-resources.md
+./notes/ics/ccc/archive/v0.19/H-Reference/index.md
+./notes/ics/ccc/archive/v0.19/H-Reference/key-terms.md
+./notes/ics/ccc/archive/v0.19/H-Reference/README.md
+./notes/ics/ccc/archive/v0.19/index.md
+./notes/ics/ccc/archive/v0.19/scaling-strategy-tracker.md
+./notes/ics/ccc/archive/v0.2/A-Introduction/A.01-cover-page.md
+./notes/ics/ccc/archive/v0.2/A-Introduction/A.02-executive-summary.md
+./notes/ics/ccc/archive/v0.2/A-Introduction/A.03-how-to-use.md
+./notes/ics/ccc/archive/v0.2/A-Introduction/A.04-table-of-contents.md
+./notes/ics/ccc/archive/v0.2/A-Introduction/index.md
+./notes/ics/ccc/archive/v0.2/A-Introduction/README.md
+./notes/ics/ccc/archive/v0.2/B-Overview/B.01-introduction.md
+./notes/ics/ccc/archive/v0.2/B-Overview/B.02-why-community-exchange.md
+./notes/ics/ccc/archive/v0.2/B-Overview/B.03-how-it-works.md
+./notes/ics/ccc/archive/v0.2/B-Overview/B.04-visual-concept.md
+./notes/ics/ccc/archive/v0.2/B-Overview/B.05-principles-and-values.md
+./notes/ics/ccc/archive/v0.2/B-Overview/B.06-multiplier-effect.md
+./notes/ics/ccc/archive/v0.2/B-Overview/index.md
+./notes/ics/ccc/archive/v0.2/B-Overview/README.md
+./notes/ics/ccc/archive/v0.2/C-Implementation/C.01-onboarding-process.md
+./notes/ics/ccc/archive/v0.2/C-Implementation/C.02-implementation-timeline.md
+./notes/ics/ccc/archive/v0.2/C-Implementation/C.03-governance-structure.md
+./notes/ics/ccc/archive/v0.2/C-Implementation/C.04-technology-implementation.md
+./notes/ics/ccc/archive/v0.2/C-Implementation/C.05-risks-and-mitigation.md
+./notes/ics/ccc/archive/v0.2/C-Implementation/C.06-success-metrics.md
+./notes/ics/ccc/archive/v0.2/C-Implementation/C.07-conflict-resolution.md
+./notes/ics/ccc/archive/v0.2/C-Implementation/C.08-sarafu-technical-appendix.md
+./notes/ics/ccc/archive/v0.2/C-Implementation/index.md
+./notes/ics/ccc/archive/v0.2/C-Implementation/README.md
+./notes/ics/ccc/archive/v0.2/D-Examples/D.01-commitment-examples.md
+./notes/ics/ccc/archive/v0.2/D-Examples/D.02-voucher-flow-examples.md
+./notes/ics/ccc/archive/v0.2/D-Examples/D.03-testimonial-scenarios.md
+./notes/ics/ccc/archive/v0.2/D-Examples/D.04-scaling-with-bread.md
+./notes/ics/ccc/archive/v0.2/D-Examples/index.md
+./notes/ics/ccc/archive/v0.2/D-Examples/README.md
+./notes/ics/ccc/archive/v0.2/E-Guides/E.01-adding-commitments.md
+./notes/ics/ccc/archive/v0.2/E-Guides/E.02-requesting-from-pool.md
+./notes/ics/ccc/archive/v0.2/E-Guides/E.03-tracking-voucher-balance.md
+./notes/ics/ccc/archive/v0.2/E-Guides/E.04-handling-exchange-issues.md
+./notes/ics/ccc/archive/v0.2/E-Guides/E.05-inviting-new-members.md
+./notes/ics/ccc/archive/v0.2/E-Guides/E.06-participating-in-connection-commons.md
+./notes/ics/ccc/archive/v0.2/E-Guides/E.07-proposing-community-activities.md
+./notes/ics/ccc/archive/v0.2/E-Guides/E.08-using-technology-tools.md
+./notes/ics/ccc/archive/v0.2/E-Guides/E.09-leaving-the-community.md
+./notes/ics/ccc/archive/v0.2/E-Guides/E.10-finding-common-purpose.md
+./notes/ics/ccc/archive/v0.2/E-Guides/index.md
+./notes/ics/ccc/archive/v0.2/E-Guides/README.md
+./notes/ics/ccc/archive/v0.2/F-Activities/F.01-connection-commons.md
+./notes/ics/ccc/archive/v0.2/F-Activities/F.02-celebrations-and-reviews.md
+./notes/ics/ccc/archive/v0.2/F-Activities/F.03-jubilee.md
+./notes/ics/ccc/archive/v0.2/F-Activities/F.04-community-market-day.md
+./notes/ics/ccc/archive/v0.2/F-Activities/F.05-new-member-orientation.md
+./notes/ics/ccc/archive/v0.2/F-Activities/F.06-steward-circle-meetings.md
+./notes/ics/ccc/archive/v0.2/F-Activities/F.07-commitment-showcase.md
+./notes/ics/ccc/archive/v0.2/F-Activities/F.08-community-connection-commons-launch-may7.md
+./notes/ics/ccc/archive/v0.2/F-Activities/index.md
+./notes/ics/ccc/archive/v0.2/F-Activities/README.md
+./notes/ics/ccc/archive/v0.2/G-Future/G.01-scaling-strategy.md
+./notes/ics/ccc/archive/v0.2/G-Future/G.02-neighbourhood-networks.md
+./notes/ics/ccc/archive/v0.2/G-Future/G.03-journeyland-integration.md
+./notes/ics/ccc/archive/v0.2/G-Future/G.04-artist-collective-collaboration.md
+./notes/ics/ccc/archive/v0.2/G-Future/G.05-ics-voucher-backing-model.md
+./notes/ics/ccc/archive/v0.2/G-Future/G.06-reimagine-meal-vouchers-system.md
+./notes/ics/ccc/archive/v0.2/G-Future/G.07-citizen-wallet-integration.md
+./notes/ics/ccc/archive/v0.2/G-Future/G.08-maple-stablecoin.md
+./notes/ics/ccc/archive/v0.2/G-Future/G.09-reserve-currency-integration.md
+./notes/ics/ccc/archive/v0.2/G-Future/G.10-pool-ecosystem-model.md
+./notes/ics/ccc/archive/v0.2/G-Future/G.11-impact-yield-fund.md
+./notes/ics/ccc/archive/v0.2/G-Future/G.12-future-voucher-flow-examples.md
+./notes/ics/ccc/archive/v0.2/G-Future/G.13-sustainable-weve-token-model.md
+./notes/ics/ccc/archive/v0.2/G-Future/index.md
+./notes/ics/ccc/archive/v0.2/G-Future/README.md
+./notes/ics/ccc/archive/v0.2/H-Reference/H.01-key-terms.md
+./notes/ics/ccc/archive/v0.2/H-Reference/H.02-glossary.md
+./notes/ics/ccc/archive/v0.2/H-Reference/H.03-faq.md
+./notes/ics/ccc/archive/v0.2/H-Reference/H.04-appendix-resources.md
+./notes/ics/ccc/archive/v0.2/H-Reference/H.05-critical-analysis-post-scott-morris.md
+./notes/ics/ccc/archive/v0.2/H-Reference/index.md
+./notes/ics/ccc/archive/v0.2/H-Reference/README.md
+./notes/ics/ccc/archive/v0.2/I-Fund/CONTRIBUTING.md
+./notes/ics/ccc/archive/v0.2/I-Fund/I.00-overview.md
+./notes/ics/ccc/archive/v0.2/I-Fund/I.01-impact-yield-fund-concept.md
+./notes/ics/ccc/archive/v0.2/I-Fund/I.02-meeting-notes.md
+./notes/ics/ccc/archive/v0.2/I-Fund/I.03-diagrams-and-visuals.md
+./notes/ics/ccc/archive/v0.2/I-Fund/I.04-project-plan.md
+./notes/ics/ccc/archive/v0.2/I-Fund/I.05-discussion-paper-outline.md
+./notes/ics/ccc/archive/v0.2/I-Fund/I-Fund-README.md
+./notes/ics/ccc/archive/v0.2/I-Fund/Impact Yield Fund Impact Thesis Options.md
+./notes/ics/ccc/archive/v0.2/I-Fund/Impact Yield Fund Structure Options.md
+./notes/ics/ccc/archive/v0.2/I-Fund/index.md
+./notes/ics/ccc/archive/v0.2/I-Fund/README.md
+./notes/ics/ccc/archive/v0.2/index.md
+./notes/ics/ccc/CONTRIBUTING.md
+./notes/ics/ccc/docs/A-Introduction/A.01-cover-page.md
+./notes/ics/ccc/docs/A-Introduction/A.02-executive-summary.md
+./notes/ics/ccc/docs/A-Introduction/A.03-how-to-use.md
+./notes/ics/ccc/docs/A-Introduction/A.04-table-of-contents.md
+./notes/ics/ccc/docs/A-Introduction/index.md
+./notes/ics/ccc/docs/A-Introduction/README.md
+./notes/ics/ccc/docs/B-Overview/B.01-introduction.md
+./notes/ics/ccc/docs/B-Overview/B.02-why-community-exchange.md
+./notes/ics/ccc/docs/B-Overview/B.03-how-it-works.md
+./notes/ics/ccc/docs/B-Overview/B.04-visual-concept.md
+./notes/ics/ccc/docs/B-Overview/B.05-principles-and-values.md
+./notes/ics/ccc/docs/B-Overview/B.06-multiplier-effect.md
+./notes/ics/ccc/docs/B-Overview/index.md
+./notes/ics/ccc/docs/B-Overview/README.md
+./notes/ics/ccc/docs/C-Implementation/C.01-onboarding-process.md
+./notes/ics/ccc/docs/C-Implementation/C.02-implementation-timeline.md
+./notes/ics/ccc/docs/C-Implementation/C.03-governance-structure.md
+./notes/ics/ccc/docs/C-Implementation/C.04-technology-implementation.md
+./notes/ics/ccc/docs/C-Implementation/C.05-risks-and-mitigation.md
+./notes/ics/ccc/docs/C-Implementation/C.06-success-metrics.md
+./notes/ics/ccc/docs/C-Implementation/C.07-conflict-resolution.md
+./notes/ics/ccc/docs/C-Implementation/C.08-sarafu-technical-appendix.md
+./notes/ics/ccc/docs/C-Implementation/index.md
+./notes/ics/ccc/docs/C-Implementation/README.md
+./notes/ics/ccc/docs/D-Examples/D.01-commitment-examples.md
+./notes/ics/ccc/docs/D-Examples/D.02-voucher-flow-examples.md
+./notes/ics/ccc/docs/D-Examples/D.03-testimonial-scenarios.md
+./notes/ics/ccc/docs/D-Examples/D.04-scaling-with-bread.md
+./notes/ics/ccc/docs/D-Examples/index.md
+./notes/ics/ccc/docs/D-Examples/README.md
+./notes/ics/ccc/docs/E-Guides/E.01-adding-commitments.md
+./notes/ics/ccc/docs/E-Guides/E.02-requesting-from-pool.md
+./notes/ics/ccc/docs/E-Guides/E.03-tracking-voucher-balance.md
+./notes/ics/ccc/docs/E-Guides/E.04-handling-exchange-issues.md
+./notes/ics/ccc/docs/E-Guides/E.05-inviting-new-members.md
+./notes/ics/ccc/docs/E-Guides/E.06-participating-in-connection-commons.md
+./notes/ics/ccc/docs/E-Guides/E.07-proposing-community-activities.md
+./notes/ics/ccc/docs/E-Guides/E.08-using-technology-tools.md
+./notes/ics/ccc/docs/E-Guides/E.09-leaving-the-community.md
+./notes/ics/ccc/docs/E-Guides/E.10-finding-common-purpose.md
+./notes/ics/ccc/docs/E-Guides/index.md
+./notes/ics/ccc/docs/E-Guides/README.md
+./notes/ics/ccc/docs/F-Activities/F.01-connection-commons.md
+./notes/ics/ccc/docs/F-Activities/F.02-celebrations-and-reviews.md
+./notes/ics/ccc/docs/F-Activities/F.03-jubilee.md
+./notes/ics/ccc/docs/F-Activities/F.04-community-market-day.md
+./notes/ics/ccc/docs/F-Activities/F.05-new-member-orientation.md
+./notes/ics/ccc/docs/F-Activities/F.06-steward-circle-meetings.md
+./notes/ics/ccc/docs/F-Activities/F.07-commitment-showcase.md
+./notes/ics/ccc/docs/F-Activities/F.08-community-connection-commons-launch-may7.md
+./notes/ics/ccc/docs/F-Activities/index.md
+./notes/ics/ccc/docs/F-Activities/README.md
+./notes/ics/ccc/docs/G-Future/G.01-scaling-strategy.md
+./notes/ics/ccc/docs/G-Future/G.02-neighbourhood-networks.md
+./notes/ics/ccc/docs/G-Future/G.03-journeyland-integration.md
+./notes/ics/ccc/docs/G-Future/G.04-artist-collective-collaboration.md
+./notes/ics/ccc/docs/G-Future/G.05-ics-voucher-backing-model.md
+./notes/ics/ccc/docs/G-Future/G.06-reimagine-meal-vouchers-system.md
+./notes/ics/ccc/docs/G-Future/G.07-citizen-wallet-integration.md
+./notes/ics/ccc/docs/G-Future/G.08-maple-stablecoin.md
+./notes/ics/ccc/docs/G-Future/G.09-reserve-currency-integration.md
+./notes/ics/ccc/docs/G-Future/G.10-pool-ecosystem-model.md
+./notes/ics/ccc/docs/G-Future/G.11-impact-yield-fund.md
+./notes/ics/ccc/docs/G-Future/G.12-future-voucher-flow-examples.md
+./notes/ics/ccc/docs/G-Future/G.13-sustainable-weve-token-model.md
+./notes/ics/ccc/docs/G-Future/index.md
+./notes/ics/ccc/docs/G-Future/README.md
+./notes/ics/ccc/docs/H-Reference/H.01-key-terms.md
+./notes/ics/ccc/docs/H-Reference/H.02-glossary.md
+./notes/ics/ccc/docs/H-Reference/H.03-faq.md
+./notes/ics/ccc/docs/H-Reference/H.04-appendix-resources.md
+./notes/ics/ccc/docs/H-Reference/H.05-critical-analysis-post-scott-morris.md
+./notes/ics/ccc/docs/H-Reference/index.md
+./notes/ics/ccc/docs/H-Reference/README.md
+./notes/ics/ccc/docs/I-Fund/CONTRIBUTING.md
+./notes/ics/ccc/docs/I-Fund/I.00-overview.md
+./notes/ics/ccc/docs/I-Fund/I.01-impact-yield-fund-concept.md
+./notes/ics/ccc/docs/I-Fund/I.02-meeting-notes.md
+./notes/ics/ccc/docs/I-Fund/I.03-diagrams-and-visuals.md
+./notes/ics/ccc/docs/I-Fund/I.04-project-plan.md
+./notes/ics/ccc/docs/I-Fund/I.05-discussion-paper-outline.md
+./notes/ics/ccc/docs/I-Fund/I-Fund-README.md
+./notes/ics/ccc/docs/I-Fund/Impact Yield Fund Impact Thesis Options.md
+./notes/ics/ccc/docs/I-Fund/Impact Yield Fund Structure Options.md
+./notes/ics/ccc/docs/I-Fund/index.md
+./notes/ics/ccc/docs/I-Fund/README.md
+./notes/ics/ccc/docs/index.md
+./notes/ics/ccc/docs/v0.2 copy.md
+./notes/ics/ccc/docs/v0.2.md
+./notes/ics/ccc/index.md
+./notes/ics/ccc/README.md
+./notes/ics/ccc/v02-documentation-cleanup-tracker.md
+./notes/ics/city-grant-reporting/2024-final/0 - Full Year Data.md
+./notes/ics/city-grant-reporting/2024-final/1 - Project Impact on Equity-Denied Groups.md
+./notes/ics/city-grant-reporting/2024-final/2 - Supporting Anti-Racism and Inclusion.md
+./notes/ics/city-grant-reporting/2024-final/3 - Community Impact Story.md
+./notes/ics/city-grant-reporting/2024-final/4 - Additional Comments.md
+./notes/ics/city-grant-reporting/2024-final/city-grant-reporting.md
+./notes/ics/city-grant-reporting/2024-final/index.md
+./notes/ics/city-grant-reporting/2025-mid/0 - Mid-Year Data.md
+./notes/ics/city-grant-reporting/2025-mid/1 - Project Impact on Equity-Denied Groups.md
+./notes/ics/city-grant-reporting/2025-mid/2 - Supporting Anti-Racism and Inclusion.md
+./notes/ics/city-grant-reporting/2025-mid/3 - Community Impact Story.md
+./notes/ics/city-grant-reporting/2025-mid/4 - Additional Comments.md
+./notes/ics/city-grant-reporting/2025-mid/city-grant-reporting-2025-mid.md
+./notes/ics/city-grant-reporting/2025-mid/index.md
+./notes/ics/city-grant-reporting/2025-mid/questions-1-4-DRAFT.md
+./notes/ics/city-grant-reporting/index.md
+./notes/ics/earthfest-greenpill-booth.md
+./notes/ics/gg23/gg23-project-description.md
+./notes/ics/gg23/gg23-shill-plan.md
+./notes/ics/gg23/graphics/graphics-guide.md
+./notes/ics/gg23/graphics/index.md
+./notes/ics/gg23/index.md
+./notes/ics/gg23/master-execution-plan.md
+./notes/ics/gg23/newsletters/ics-newsletter.md
+./notes/ics/gg23/newsletters/index.md
+./notes/ics/gg23/newsletters/reimagine-newsletter.md
+./notes/ics/gg23/outreach/community-groups.md
+./notes/ics/gg23/outreach/core-narrative.md
+./notes/ics/gg23/outreach/index.md
+./notes/ics/gg23/outreach/newsletter-copy.md
+./notes/ics/gg23/outreach/newsletter-copy-updated.md
+./notes/ics/gg23/outreach/outreach-templates.md
+./notes/ics/gg23/outreach/personal-templates.md
+./notes/ics/gg23/outreach/priority-contacts.md
+./notes/ics/gg23/outreach/team-template.md
+./notes/ics/gg23/outreach/thank-you.md
+./notes/ics/gg23/progress.md
+./notes/ics/gg23/readme.md
+./notes/ics/gg23/shill-plan.md
+./notes/ics/gg23/social-media/facebook-instagram-posts.md
+./notes/ics/gg23/social-media/farcaster-strategy.md
+./notes/ics/gg23/social-media/index.md
+./notes/ics/gg23/tweets/additional-strategic-tweets.md
+./notes/ics/gg23/tweets/core-tweets.md
+./notes/ics/gg23/tweets/enhanced-tweets.md
+./notes/ics/gg23/tweets/index.md
+./notes/ics/gg23/tweets/mention-tweets.md
+./notes/ics/gg23/tweets/non-web3-audience-tweets.md
+./notes/ics/gg23/tweets/transformative-impact-threads.md
+./notes/ics/gg23/tweets/tweet-analysis.md
+./notes/ics/gg23/tweets/twitter-threads.md
+./notes/ics/gg23/updated-strategy.md
+./notes/ics/gg23/updated-strategy-fixed.md
+./notes/ics/gg23/website/index.md
+./notes/ics/gg23/website/web3-page.md
+./notes/ics/gg23/website/web3-page-content.md
+./notes/ics/gg23/website/web3-page-updated.md
+./notes/ics/gg23/website/website-analysis.md
+./notes/ics/gg23/website/website-review.md
+./notes/ics/greenpill-london-application.md
+./notes/ics/index.md
+./notes/ics/readme.md
+./notes/ics/rpp-reporting/continuation-prompt.md
+./notes/ics/rpp-reporting/ics-experiment-reflection-draft.md
+./notes/ics/rpp-reporting/index.md
+./notes/ics/Web3 & Regenerative Finance.md
+./notes/index.md
+./notes/readme.md
+./notes/rpp/index.md
+./notes/rpp/otf-reporting/index.md
+./notes/rpp/otf-reporting/OTF Final Report - Full Story Version.md
+./notes/rpp/otf-reporting/OTF Report Questions and Requirements.md
+./notes/rpp/otf-reporting/OTF Report Working Document.md
+./notes/rpp/otf-reporting/otf_final_report_completed.md
+./notes/rpp/RPP Knowledge Tasks.md
+./notes/rpp/rpp-archive/index.md
+./notes/rpp/rpp-archive/rpp-docs/Cell State - Reimagining Power TLC.md
+./notes/rpp/rpp-archive/rpp-docs/Draft Menzies Foundation Partnership Agreement.md
+./notes/rpp/rpp-archive/rpp-docs/Email for 1st PartnerStakeholder Meeting.md
+./notes/rpp/rpp-archive/rpp-docs/Funders to the RPP.md
+./notes/rpp/rpp-archive/rpp-docs/index.md
+./notes/rpp/rpp-archive/rpp-docs/Inequities & Financial Coordination Challenges in PhilanthropySocial Impact.md
+./notes/rpp/rpp-archive/rpp-docs/Infinite Front Porch Concept Note  - April 2025.md
+./notes/rpp/rpp-archive/rpp-docs/Infinite Front Porch Concept Note .md
+./notes/rpp/rpp-archive/rpp-docs/old-rpp-docs/2023-07-04 - [CHARMVERSE] Equality Fund Call Transcript - 07-04-23.md
+./notes/rpp/rpp-archive/rpp-docs/old-rpp-docs/2023-07-05 - [CHARMVERSE] OTF Funding Notes.md
+./notes/rpp/rpp-archive/rpp-docs/old-rpp-docs/2023-08-08 - [TO MOVE] Meeting Notes - RP Planning Workstream.md
+./notes/rpp/rpp-archive/rpp-docs/old-rpp-docs/2023-08-18 - [CHARMVERSE] Reimagining Power core team collaboration protocols.md
+./notes/rpp/rpp-archive/rpp-docs/old-rpp-docs/2023-08-29 - [TO MOVE] Menzies Foundation-SuperBenefit.md
+./notes/rpp/rpp-archive/rpp-docs/old-rpp-docs/2023-09-22 - [TO MOVE] Restorying Power Meetings.md
+./notes/rpp/rpp-archive/rpp-docs/old-rpp-docs/2023-09-25 - [CHARMVERSE] Funding Contributors to RPP.md
+./notes/rpp/rpp-archive/rpp-docs/old-rpp-docs/2023-10-02 - [CHARMVERSE] Draft Email Partner-Stakeholder Meeting.md
+./notes/rpp/rpp-archive/rpp-docs/old-rpp-docs/2023-10-20 - [CHARMVERSE] Inequities & Financial Coordination Challenges in Philanthropy-Charity.md
+./notes/rpp/rpp-archive/rpp-docs/old-rpp-docs/index.md
+./notes/rpp/rpp-archive/rpp-docs/OTF Funding Notes.md
+./notes/rpp/rpp-archive/rpp-docs/OTF Partnership Agreement (final, signed).md
+./notes/rpp/rpp-archive/rpp-docs/Partnership Summary & Annual Updates (from OTF).md
+./notes/rpp/rpp-archive/rpp-docs/Project Brief - Infinite Front Porch (Example).md
+./notes/rpp/rpp-archive/rpp-docs/RP _Weaver_ (project manager) Role Notes.md
+./notes/rpp/rpp-archive/rpp-docs/RPP 2025 Strategy Note.md
+./notes/rpp/rpp-archive/rpp-docs/RPP core team collaboration protocols.md
+./notes/rpp/rpp-archive/rpp-docs/RPP Discord Channel & Token Gate Notes.md
+./notes/rpp/rpp-archive/rpp-docs/RPP Onboarding Checklist.md
+./notes/rpp/rpp-archive/rpp-docs/RPP Progress Report.md
+./notes/rpp/rpp-archive/rpp-docs/Salon Application for PFC Conference.md
+./notes/rpp/rpp-archive/rpp-docs/Untitled.md
+./notes/rpp/rpp-archive/rpp-docs/web3 x capital Projects.md
+./notes/rpp/rpp-archive/rpp-docs/Working Agreements - RP Core TeamTLC.md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/index.md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP core team catch up on progress.md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (01-04-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (01-09-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (02-03-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (02-06-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (02-06-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (03-01-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (03-06-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (03-07-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (04-03-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (04-04-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (05-01-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (05-02-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (05-08-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (05-09-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (05-12-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (06-05-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (06-06-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (07-04-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (07-11-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (08-01-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (08-08-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (09-05-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (09-07-2023).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (10-03-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (10-05-2023).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (10-10-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (11-02-2023).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (11-04-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (11-09-2023).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (12-10-2023).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (12-12-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (13-02-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (13-03-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (13-06-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (14-03-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (14-09-2023).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (14-11-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (15-05-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (15-08-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (16-01-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (16-05-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (16-11-2023).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (17-01-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (17-04-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (17-08-2023).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (17-10-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (18-04-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (18-07-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (19-06-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (19-09-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (19-10-2023).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (19-12-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (21-03-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (21-11-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (23-01-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (23-05-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (23-11-2023).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (24-04-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (24-08-2023).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (24-10-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (25-02-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (25-03-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (25-04-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (25-07-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (26-01-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (26-09-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (26-10-2023).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (27-02-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (27-03-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (27-06-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (28-02-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (28-09-2023).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (28-11-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (29-01-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (29-05-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (29-08-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (31-08-2023).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Core Team Meeting (31-10-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/core-team-meetings/RPP Weekly Core Team Meeting Template.md
+./notes/rpp/rpp-archive/rpp-meetings/index.md
+./notes/rpp/rpp-archive/rpp-meetings/Meeting with Newton.md
+./notes/rpp/rpp-archive/rpp-meetings/Meeting with OTF about project continuation.md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/index.md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (01-04-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (01-09-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (01-12-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (02-08-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (03-04-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (03-12-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (05-11-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (06-01-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (06-03-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (06-05-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (07-01-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (08-04-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (08-06-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (08-10-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (09-03-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (10-01-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (10-12-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (11-03-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (12-11-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (13-05-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (13-08-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (15-04-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (15-10-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (17-06-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (17-09-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (17-12-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (18-03-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (19-11-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (20-05-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (22-04-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (22-10-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (24-06-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (24-09-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (25-03-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (26-11-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (27-05-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (27-08-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (29-04-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (29-10-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Steward Meeting (31-12-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS stewards meeting 22 - 14125 .md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS stewards meeting 23 - 21125 .md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS stewards meeting 24 - 28125.md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS stewards meeting 25 - 4225.md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS stewards meeting 28 - 25225.md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS Stewards Meeting.md
+./notes/rpp/rpp-archive/rpp-meetings/os-steward-meetings/RPP OS stewards weekly meeting 27 - 18225.md
+./notes/rpp/rpp-archive/rpp-meetings/RPP Meeting (22-08-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/RPP Social Impact & Onboarding Bi-Weekly .md
+./notes/rpp/rpp-archive/rpp-meetings/RPP Social Impact & Onboarding Bi-Weekly.md
+./notes/rpp/rpp-archive/rpp-meetings/stakeholder-meetings/index.md
+./notes/rpp/rpp-archive/rpp-meetings/stakeholder-meetings/RPP Stakeholder Meeting (02-03-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/stakeholder-meetings/RPP Stakeholder Meeting (02-12-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/stakeholder-meetings/RPP Stakeholder Meeting (03-03-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/stakeholder-meetings/RPP Stakeholder Meeting (03-04-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/stakeholder-meetings/RPP Stakeholder Meeting (04-07-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/stakeholder-meetings/RPP Stakeholder Meeting (05-05-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/stakeholder-meetings/RPP Stakeholder Meeting (17-06-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/stakeholder-meetings/RPP Stakeholder Meeting (18-11-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/stakeholder-meetings/RPP Stakeholder Meeting (19-08-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/stakeholder-meetings/RPP Stakeholder Meeting (21-10-2024).md
+./notes/rpp/rpp-archive/rpp-meetings/stakeholder-meetings/RPP Stakeholder Meeting (31-01-2025).md
+./notes/rpp/rpp-archive/rpp-meetings/stakeholder-meetings/RPP Stakeholder Meeting.md
+./notes/rpp/rpp-archive/rpp-tasks/(Working draft)Equality Fund Experiment Discovery Report .md
+./notes/rpp/rpp-archive/rpp-tasks/Add Harvests from Stakeholder Meetings to Artifacts.md
+./notes/rpp/rpp-archive/rpp-tasks/Add Onboarding Artifact.md
+./notes/rpp/rpp-archive/rpp-tasks/AIFS Experiment Reflections.md
+./notes/rpp/rpp-archive/rpp-tasks/AIFS Gathering #0_ Co-creating the Program (task).md
+./notes/rpp/rpp-archive/rpp-tasks/AIFS Gathering #1_ Web3 & Social Impact (task).md
+./notes/rpp/rpp-archive/rpp-tasks/AIFS Gathering #2_ Community Governance (task).md
+./notes/rpp/rpp-archive/rpp-tasks/AIFS Gathering #3_ Impact Measurement (task).md
+./notes/rpp/rpp-archive/rpp-tasks/AIFS Gathering #4_ AI (task).md
+./notes/rpp/rpp-archive/rpp-tasks/AIFS Gathering #5_ Transforming Capital (task).md
+./notes/rpp/rpp-archive/rpp-tasks/AIFS Gatherings Budget.md
+./notes/rpp/rpp-archive/rpp-tasks/Application for Octant Epoch 7 - Climate Round.md
+./notes/rpp/rpp-archive/rpp-tasks/Blockchain4good speaker application.md
+./notes/rpp/rpp-archive/rpp-tasks/Community Governance Playbook - RPP.md
+./notes/rpp/rpp-archive/rpp-tasks/Community Weaver Rolecrafting.md
+./notes/rpp/rpp-archive/rpp-tasks/Complete DAO primitive docs in the knowledge base.md
+./notes/rpp/rpp-archive/rpp-tasks/Confirm Scoping for EF Experiment.md
+./notes/rpp/rpp-archive/rpp-tasks/Connect with Golem Foundation about potential support for Gatherings.md
+./notes/rpp/rpp-archive/rpp-tasks/Convergence of AI & Web3 .md
+./notes/rpp/rpp-archive/rpp-tasks/Core Team Collaboration - RPP.md
+./notes/rpp/rpp-archive/rpp-tasks/Create a set of visuals and templates for playbooks publication (RPP).md
+./notes/rpp/rpp-archive/rpp-tasks/Create Cell State doc for ICS.md
+./notes/rpp/rpp-archive/rpp-tasks/Create Implementation Guide_ Setting up a _Cell_ Based Operational Governance Structure Using the DAO Primitives.md
+./notes/rpp/rpp-archive/rpp-tasks/Create Implementation Guide_ Setting up Community a Governance Structure Using the DAO Primitives Framework.md
+./notes/rpp/rpp-archive/rpp-tasks/Create one-page overview of challenges & potential solutionsexperiments.md
+./notes/rpp/rpp-archive/rpp-tasks/DAO Cell Playbook - RPP.md
+./notes/rpp/rpp-archive/rpp-tasks/DAO Primitives Workstream Planning.md
+./notes/rpp/rpp-archive/rpp-tasks/Design POAPs for Gatherings.md
+./notes/rpp/rpp-archive/rpp-tasks/Develop ideas for RPP future opportunities (RPP Core team).md
+./notes/rpp/rpp-archive/rpp-tasks/Develop Purpose and Goals for Playbooks - RPP.md
+./notes/rpp/rpp-archive/rpp-tasks/Evaluation & Reporting - RPP.md
+./notes/rpp/rpp-archive/rpp-tasks/Experiment Retrospective Worksheet.md
+./notes/rpp/rpp-archive/rpp-tasks/Experiment retrospectives.md
+./notes/rpp/rpp-archive/rpp-tasks/Feedback mechanism.md
+./notes/rpp/rpp-archive/rpp-tasks/First Draft of DAO Primitives Documentation (Task).md
+./notes/rpp/rpp-archive/rpp-tasks/Future Of Life Institute grant.md
+./notes/rpp/rpp-archive/rpp-tasks/Gathering Planning Task.md
+./notes/rpp/rpp-archive/rpp-tasks/Gatherings Coordination - RPP.md
+./notes/rpp/rpp-archive/rpp-tasks/Gatherings Evaluation & Next Steps Report.md
+./notes/rpp/rpp-archive/rpp-tasks/Gatherings one-pager.md
+./notes/rpp/rpp-archive/rpp-tasks/Gatherings Reporting for OTF.md
+./notes/rpp/rpp-archive/rpp-tasks/Gatherings Steward Rolecrafting.md
+./notes/rpp/rpp-archive/rpp-tasks/Green Pill London - New Chapter Application.md
+./notes/rpp/rpp-archive/rpp-tasks/index.md
+./notes/rpp/rpp-archive/rpp-tasks/Integrate ICS into SuperBenefit's on-chain accounting.md
+./notes/rpp/rpp-archive/rpp-tasks/Karma GAP_ Add ICS Milestones, Deliverables & Metrics.md
+./notes/rpp/rpp-archive/rpp-tasks/Knowledge Curation - RPP.md
+./notes/rpp/rpp-archive/rpp-tasks/Knowledge Stewardship Workstream Planning.md
+./notes/rpp/rpp-archive/rpp-tasks/Make banner image for social impact paper.md
+./notes/rpp/rpp-archive/rpp-tasks/Map ICS governance structure.md
+./notes/rpp/rpp-archive/rpp-tasks/Media Coordination - RPP.md
+./notes/rpp/rpp-archive/rpp-tasks/Media Manager Rolecrafting.md
+./notes/rpp/rpp-archive/rpp-tasks/Metrics Tracking.md
+./notes/rpp/rpp-archive/rpp-tasks/Migrate & Update Task Mgmt Info.md
+./notes/rpp/rpp-archive/rpp-tasks/Migrate & Update web3 Library (Task).md
+./notes/rpp/rpp-archive/rpp-tasks/Migrate Clarity Tags to Charmverse (Task).md
+./notes/rpp/rpp-archive/rpp-tasks/Mint Hypercerts & Attestations.md
+./notes/rpp/rpp-archive/rpp-tasks/Mirror Blog - RPP Progress Update - Oct 2024.md
+./notes/rpp/rpp-archive/rpp-tasks/O&S Progress Report Week 10.md
+./notes/rpp/rpp-archive/rpp-tasks/O&S Progress Report Week 11.md
+./notes/rpp/rpp-archive/rpp-tasks/O&S Progress Report Week 12.md
+./notes/rpp/rpp-archive/rpp-tasks/O&S Progress Report Week 13.md
+./notes/rpp/rpp-archive/rpp-tasks/O&S Progress Report Week 3.md
+./notes/rpp/rpp-archive/rpp-tasks/O&S Progress Report Week 4.md
+./notes/rpp/rpp-archive/rpp-tasks/O&S Progress Report Week 5.md
+./notes/rpp/rpp-archive/rpp-tasks/O&S Progress Report Week 6.md
+./notes/rpp/rpp-archive/rpp-tasks/O&S Progress Report Week 7.md
+./notes/rpp/rpp-archive/rpp-tasks/O&S Progress Report Week 8.md
+./notes/rpp/rpp-archive/rpp-tasks/O&S Progress Report Week 9.md
+./notes/rpp/rpp-archive/rpp-tasks/O&S Progress Report Weeks 1-2.md
+./notes/rpp/rpp-archive/rpp-tasks/Onboarding - RPP.md
+./notes/rpp/rpp-archive/rpp-tasks/Onboarding BorrowLucid.md
+./notes/rpp/rpp-archive/rpp-tasks/Onboarding Buddy Rolecrafting.md
+./notes/rpp/rpp-archive/rpp-tasks/Onboarding Checklist for New Contributors.md
+./notes/rpp/rpp-archive/rpp-tasks/Onboarding Colleen Tomlinson.md
+./notes/rpp/rpp-archive/rpp-tasks/Onboarding Flow.md
+./notes/rpp/rpp-archive/rpp-tasks/Onboarding Guide.md
+./notes/rpp/rpp-archive/rpp-tasks/Onboarding Jose Cabrera.md
+./notes/rpp/rpp-archive/rpp-tasks/Onboarding Julia Hammer.md
+./notes/rpp/rpp-archive/rpp-tasks/Onboarding Workstream Planning.md
+./notes/rpp/rpp-archive/rpp-tasks/Operations & Strategy Stewardship - RPP.md
+./notes/rpp/rpp-archive/rpp-tasks/OTF Annual Update Review.md
+./notes/rpp/rpp-archive/rpp-tasks/OTF Conversation about project continuation.md
+./notes/rpp/rpp-archive/rpp-tasks/OTF Progress Update - Oct 2024.md
+./notes/rpp/rpp-archive/rpp-tasks/Outstanding Tasks May 2025.md
+./notes/rpp/rpp-archive/rpp-tasks/Plan Onboarding Workshop.md
+./notes/rpp/rpp-archive/rpp-tasks/Populate Key Lexicon Entries (Task).md
+./notes/rpp/rpp-archive/rpp-tasks/Prep OTF Meeting & Progress Report.md
+./notes/rpp/rpp-archive/rpp-tasks/Proposal to create an ephemeral Cell for playbook contributor collaboration .md
+./notes/rpp/rpp-archive/rpp-tasks/Publish Social impact paper to paragraph.md
+./notes/rpp/rpp-archive/rpp-tasks/Reference knowledge for playbooks.md
+./notes/rpp/rpp-archive/rpp-tasks/Reschedule RPP Stakeholder Agenda Prep .md
+./notes/rpp/rpp-archive/rpp-tasks/Review multisig signers and possibly increase number of signers.md
+./notes/rpp/rpp-archive/rpp-tasks/Rolecrafting & Contributor Engagement - RPP.md
+./notes/rpp/rpp-archive/rpp-tasks/RPP Code of Conduct.md
+./notes/rpp/rpp-archive/rpp-tasks/RPP Contributor Rolecrafting.md
+./notes/rpp/rpp-archive/rpp-tasks/RPP Experiment Discovery (TEMPLATE) (Draft).md
+./notes/rpp/rpp-archive/rpp-tasks/RPP Rolecrafting Task (TEMPLATE).md
+./notes/rpp/rpp-archive/rpp-tasks/RPP Stakholder meeting reschedule.md
+./notes/rpp/rpp-archive/rpp-tasks/rpp-old-tasks/⬜️ POW-270 Multisig - Reimagining Power.md
+./notes/rpp/rpp-archive/rpp-tasks/rpp-old-tasks/⬜️ POW-272 Cell State (DRAFT) - Reimagining Power.md
+./notes/rpp/rpp-archive/rpp-tasks/rpp-old-tasks/⬜️ POW-274 Working Agreements (DRAFT) - Reimagining Power.md
+./notes/rpp/rpp-archive/rpp-tasks/rpp-old-tasks/⬜️ POW-275 Project Planning - Reimagining Power.md
+./notes/rpp/rpp-archive/rpp-tasks/rpp-old-tasks/⬜️ POW-276 Cell Setup - Reimagining Power.md
+./notes/rpp/rpp-archive/rpp-tasks/rpp-old-tasks/⬜️ POW-277 Stakeholder Engagement - Reimagining Power.md
+./notes/rpp/rpp-archive/rpp-tasks/rpp-old-tasks/⬜️ POW-292 Design Task Management and Compensation Framework - DAO Primitives (Old).md
+./notes/rpp/rpp-archive/rpp-tasks/rpp-old-tasks/✅ POW-268 Clarity Workspace - Reimagining Power.md
+./notes/rpp/rpp-archive/rpp-tasks/rpp-old-tasks/✅ POW-288 Retroactive Funding for Pre-Proposal Planning Period.md
+./notes/rpp/rpp-archive/rpp-tasks/rpp-old-tasks/index.md
+./notes/rpp/rpp-archive/rpp-tasks/SalonsGatherings Scoping (Task).md
+./notes/rpp/rpp-archive/rpp-tasks/SB Onboarding Scoping & Documentation.md
+./notes/rpp/rpp-archive/rpp-tasks/Set up paragraph.xyz account.md
+./notes/rpp/rpp-archive/rpp-tasks/Social Finance Pattern.md
+./notes/rpp/rpp-archive/rpp-tasks/Social Impact Paper - review Manuela's section .md
+./notes/rpp/rpp-archive/rpp-tasks/Social Impact Paper - RPP.md
+./notes/rpp/rpp-archive/rpp-tasks/Social Impact Workstream Planning.md
+./notes/rpp/rpp-archive/rpp-tasks/Starling Centre Panel - Expression Of Interest.md
+./notes/rpp/rpp-archive/rpp-tasks/Storytelling of the Stakeholder Group Journey.md
+./notes/rpp/rpp-archive/rpp-tasks/SuperBenefit Content Audit (June 2024).md
+./notes/rpp/rpp-archive/rpp-tasks/Translate Social Impact Paper into Spanish.md
+./notes/rpp/rpp-archive/rpp-tasks/Untitled.md
+./notes/rpp/rpp-archive/rpp-tasks/Update & Review of Philanthropy Workstream Outline.md
+./notes/rpp/rpp-archive/rpp-tasks/Update & Review Social Impact Paper.md
+./notes/rpp/rpp-archive/rpp-tasks/Update Community Knowledge Resources (Task).md
+./notes/rpp/rpp-archive/rpp-tasks/Update info hub (Task).md
+./notes/rpp/rpp-archive/rpp-tasks/Update Operational Knowledge Resources (Task).md
+./notes/rpp/rpp-archive/rpp-tasks/web3forgood AIFS Community Project Spotlight.md
+./notes/rpp/rpp-experiments/all-in-for-sport/aifs-case-study-draft.md
+./notes/rpp/rpp-experiments/all-in-for-sport/aifs-discovery-report.md
+./notes/rpp/rpp-experiments/all-in-for-sport/aifs-experiment-reflections.md
+./notes/rpp/rpp-experiments/all-in-for-sport/aifs-intervention-map.md
+./notes/rpp/rpp-experiments/all-in-for-sport/index.md
+./notes/rpp/rpp-experiments/equality-fund/Equality Fund Call Transcript 4723.md
+./notes/rpp/rpp-experiments/equality-fund/Equality Fund Experiment Discovery Report.md
+./notes/rpp/rpp-experiments/equality-fund/Equality Fund Experiment Mapping.md
+./notes/rpp/rpp-experiments/equality-fund/Equality Fund Experiment reflections.md
+./notes/rpp/rpp-experiments/equality-fund/Experiment Discovery Call w Sue Snider (17524).md
+./notes/rpp/rpp-experiments/equality-fund/index.md
+./notes/rpp/rpp-experiments/equality-fund/Meeting with Women Win & Equality Fund.md
+./notes/rpp/rpp-experiments/equality-fund/Outline for EF scoping meeting 16924.md
+./notes/rpp/rpp-experiments/Experiment Coordination - RPP.md
+./notes/rpp/rpp-experiments/Experiment Facilitation Framework - RPP.md
+./notes/rpp/rpp-experiments/index.md
+./notes/rpp/rpp-experiments/the-ics/ICS Discovery Report.md
+./notes/rpp/rpp-experiments/the-ics/ICS Experiment Implementation Plan.md
+./notes/rpp/rpp-experiments/the-ics/ICS Experiment Reflections.md
+./notes/rpp/rpp-experiments/the-ics/ICS Experiment Scoping.md
+./notes/rpp/rpp-experiments/the-ics/ICS Experiment Sensemaking Call.md
+./notes/rpp/rpp-experiments/the-ics/ICS GG23 Expression of Interest.md
+./notes/rpp/rpp-experiments/the-ics/ICS-Experiment-Case-Study.md
+./notes/rpp/rpp-experiments/the-ics/index.md
+./notes/rpp/rpp-experiments/women-win/index.md
+./notes/rpp/rpp-experiments/women-win/Meeting with Women Win & Equality Fund (copy).md
+./notes/rpp/rpp-experiments/women-win/Meeting with Women Win.md
+./notes/rpp/rpp-experiments/women-win/Women Win Experiment Discussion.md
+./notes/rpp/rpp-playbooks/index.md
+./notes/rpp/rpp-playbooks/misc/index.md
+./notes/rpp/rpp-playbooks/misc/Operational Plan for Playbooks project - RPP.md
+./notes/rpp/rpp-playbooks/misc/pattern-library-index.md
+./notes/rpp/rpp-playbooks/misc/Playbook researchdesign tasks - RPP.md
+./notes/rpp/rpp-playbooks/misc/Playbook task (template).md
+./notes/rpp/rpp-playbooks/misc/Playbooks Steward Rolecrafting.md
+./notes/rpp/rpp-playbooks/playbook-working-docs/00-playbook-outputs-summary.md
+./notes/rpp/rpp-playbooks/playbook-working-docs/01-template-context-map.md
+./notes/rpp/rpp-playbooks/playbook-working-docs/02-case-study-essentials.md
+./notes/rpp/rpp-playbooks/playbook-working-docs/03-implementation-patterns.md
+./notes/rpp/rpp-playbooks/playbook-working-docs/04-playbook-draft.md
+./notes/rpp/rpp-playbooks/playbook-working-docs/06-pattern-validation.md
+./notes/rpp/rpp-playbooks/playbook-working-docs/07-resource-audit.md
+./notes/rpp/rpp-playbooks/playbook-working-docs/implementation-path-adaptive-evolution.md
+./notes/rpp/rpp-playbooks/playbook-working-docs/implementation-path-experimentation.md
+./notes/rpp/rpp-playbooks/playbook-working-docs/implementation-paths-learning-journey.md
+./notes/rpp/rpp-playbooks/playbook-working-docs/index.md
+./notes/rpp/rpp-playbooks/playbook-working-docs/rpp_playbook_context_capture.md
+./notes/rpp/rpp-playbooks/playbook-working-docs/rpp-playbook-draft.md
+./notes/rpp/rpp-playbooks/playbook-working-docs/rpp-playbook-strategy.md
+./notes/rpp/rpp-playbooks/reference/Final Playbook Reflections & Context.md
+./notes/rpp/rpp-playbooks/reference/index.md
+./notes/rpp/rpp-playbooks/reference/Initial Playbook Visioning Session - RPP.md
+./notes/rpp/rpp-playbooks/reference/playbook design references - RPP.md
+./notes/rpp/rpp-playbooks/reference/Playbook Discovery Feedback.md
+./notes/rpp/rpp-playbooks/reference/Playbook Discovery Report (Task).md
+./notes/rpp/rpp-playbooks/reference/Playbook discovery retro - RPP (31-10-24).md
+./notes/rpp/rpp-playbooks/reference/Playbook Structural Guidelines & Templates.md
+./notes/rpp/rpp-playbooks/reference/Playbooks - RPP.md
+./notes/rpp/rpp-playbooks/reference/Reimagining Power Project - Stakeholder Reflection Responses.md
+./notes/rpp/rpp-stakeholders/index.md
+./notes/rpp/rpp-stakeholders/meeting-notes/index.md
+./notes/rpp/rpp-stakeholders/meeting-notes/stakeholder-meeting-10-notes.md
+./notes/rpp/rpp-stakeholders/meeting-notes/stakeholder-meeting-15-notes.md
+./notes/rpp/rpp-stakeholders/meeting-notes/stakeholder-meeting-16-notes.md
+./notes/rpp/rpp-stakeholders/meeting-notes/stakeholder-meeting-17-notes.md
+./notes/rpp/rpp-stakeholders/meeting-notes/stakeholder-meeting-18-notes.md
+./notes/rpp/rpp-stakeholders/meeting-notes/stakeholder-meeting-19-notes.md
+./notes/rpp/rpp-stakeholders/meeting-notes/stakeholder-meeting-1-notes.md
+./notes/rpp/rpp-stakeholders/meeting-notes/stakeholder-meeting-5-notes.md
+./notes/rpp/rpp-stakeholders/meeting-notes/stakeholder-meeting-6-notes.md
+./notes/rpp/rpp-stakeholders/meeting-notes/stakeholder-meeting-8-notes.md
+./notes/rpp/rpp-stakeholders/poetic-harvests/index.md
+./notes/rpp/rpp-stakeholders/poetic-harvests/stakeholder-meeting-1.md
+./notes/rpp/rpp-stakeholders/poetic-harvests/stakeholder-meeting-10.md
+./notes/rpp/rpp-stakeholders/poetic-harvests/stakeholder-meeting-11.md
+./notes/rpp/rpp-stakeholders/poetic-harvests/stakeholder-meeting-12.md
+./notes/rpp/rpp-stakeholders/poetic-harvests/stakeholder-meeting-15.md
+./notes/rpp/rpp-stakeholders/poetic-harvests/stakeholder-meeting-18.md
+./notes/rpp/rpp-stakeholders/poetic-harvests/stakeholder-meeting-19.md
+./notes/rpp/rpp-stakeholders/poetic-harvests/stakeholder-meeting-4.md
+./notes/rpp/rpp-stakeholders/poetic-harvests/stakeholder-meeting-5.md
+./notes/rpp/rpp-stakeholders/poetic-harvests/stakeholder-meeting-6.md
+./notes/rpp/rpp-working-docs/biofi.md
+./notes/rpp/rpp-working-docs/burner-wallets.md
+./notes/rpp/rpp-working-docs/community-governance.md
+./notes/rpp/rpp-working-docs/governance-platforms.md
+./notes/rpp/rpp-working-docs/index.md
+./notes/rpp/rpp-working-docs/multistakeholder-governance.md
+./notes/rpp/rpp-working-docs/municipal-mycofi.md
+./notes/rpp/rpp-working-docs/nucleus.md
+./notes/rpp/rpp-working-docs/on-chain-vs.-off-chain-governance.md
+./notes/rpp/rpp-working-docs/operational-governance.md
+./notes/rpp/rpp-working-docs/optimistic-governance.md
+./notes/rpp/rpp-working-docs/partnership-governance.md
+./notes/rpp/rpp-working-docs/privacy-payments.md
+./notes/rpp/rpp-working-docs/quadratic-voting.md
+./notes/rpp/rpp-working-docs/rp-playbook.md
+./notes/rpp/rpp-working-docs/social-finance.md
+./notes/rpp/rpp-working-docs/state.md
+./notes/rpp/rpp-working-docs/token-based-governance.md
+./notes/rpp/rpp-working-docs/zero-knowledge-transfers.md
+./notes/Untitled.md
+./notes/wp/2023-08-07 - Windfall Energy Efficiency Project (WREEP) Cell State.md
+./notes/wp/index.md
+./notes/wp/wp-meetings/index.md
+./notes/wp/wp-meetings/Windfall Protocol Wrap-Up Meeting.md
+./notes/wp/wp-meetings/WP Meeting (01-08-2024).md
+./notes/wp/wp-meetings/WP Meeting (02-05-2024).md
+./notes/wp/wp-meetings/WP Meeting (03-04-2024).md
+./notes/wp/wp-meetings/WP Meeting (04-01-2024).md
+./notes/wp/wp-meetings/WP Meeting (04-08-2024).md
+./notes/wp/wp-meetings/WP Meeting (05-02-2024).md
+./notes/wp/wp-meetings/WP Meeting (08-04-2023).md
+./notes/wp/wp-meetings/WP Meeting (10-02-2023).md
+./notes/wp/wp-meetings/WP Meeting (10-09-2023).md
+./notes/wp/wp-meetings/WP Meeting (11-06-2023).md
+./notes/wp/wp-meetings/WP Meeting (11-09-2023).md
+./notes/wp/wp-meetings/WP Meeting (11-13-2023).md
+./notes/wp/wp-meetings/WP Meeting (12-02-2024).md
+./notes/wp/wp-meetings/WP Meeting (12-11-2023).md
+./notes/wp/wp-meetings/WP Meeting (13-01-2024).md
+./notes/wp/wp-meetings/WP Meeting (13-11-2023).md
+./notes/wp/wp-meetings/WP Meeting (15-01-2024).md
+./notes/wp/wp-meetings/WP Meeting (16-10-2023).md
+./notes/wp/wp-meetings/WP Meeting (18-03-2024).md
+./notes/wp/wp-meetings/WP Meeting (18-09-2023).md
+./notes/wp/wp-meetings/WP Meeting (18-12-2023).md
+./notes/wp/wp-meetings/WP Meeting (19-02-2024).md
+./notes/wp/wp-meetings/WP Meeting (20-11-2023).md
+./notes/wp/wp-meetings/WP Meeting (22-01-2024).md
+./notes/wp/wp-meetings/WP Meeting (23-10-2023).md
+./notes/wp/wp-meetings/WP Meeting (24-01-2023).md
+./notes/wp/wp-meetings/WP Meeting (25-09-2023).md
+./notes/wp/wp-meetings/WP Meeting (26-02-2024).md
+./notes/wp/wp-meetings/WP Meeting (27-11-2023).md
+./notes/wp/wp-meetings/WP Meeting (29-01-2024).md
+./notes/wp/wp-meetings/WP Meeting (30-10-2023).md
+./notes/wp/wp-meetings/wp-clarity-meeting-notes.md
+./notes/wp/wp-tasks/⬜️ EEP-310 SuperBenefitDAO Scope of Work.md
+./notes/wp/wp-tasks/⬜️ EEP-311 Project Plan - WREEP.md
+./notes/wp/wp-tasks/index.md
+./README.md
+./tags/accountability.md
+./tags/actions.md
+./tags/agents.md
+./tags/agreements.md
+./tags/attestations.md
+./tags/authorities.md
+./tags/autonomy.md
+./tags/blockchain.md
+./tags/cells.md
+./tags/cell-state.md
+./tags/community.md
+./tags/community-governance.md
+./tags/complementary-currencies.md
+./tags/consensus.md
+./tags/consent.md
+./tags/cooperatives.md
+./tags/coordination.md
+./tags/coordi-nations.md
+./tags/cosmolocalism.md
+./tags/culture.md
+./tags/daos.md
+./tags/data-sovereignty.md
+./tags/decentralization.md
+./tags/decider.md
+./tags/decisions.md
+./tags/defi.md
+./tags/delegation.md
+./tags/digital-rights.md
+./tags/distributed.md
+./tags/eligibility.md
+./tags/emergence.md
+./tags/ephemeral-cell.md
+./tags/fractal.md
+./tags/frameworks.md
+./tags/goals.md
+./tags/governance.md
+./tags/grants.md
+./tags/groups.md
+./tags/impact.md
+./tags/impact-attestations.md
+./tags/index.md
+./tags/local-first.md
+./tags/localism.md
+./tags/local-nodes.md
+./tags/modules.md
+./tags/mutual-aid.md
+./tags/mutual-credit.md
+./tags/mutualism.md
+./tags/networks.md
+./tags/nfts.md
+./tags/operational-governance.md
+./tags/p2p-payments.md
+./tags/participatory-governance.md
+./tags/Patterns.md
+./tags/payments.md
+./tags/peer-to-peer.md
+./tags/permissions.md
+./tags/platforms.md
+./tags/playbooks.md
+./tags/policies.md
+./tags/polycentric.md
+./tags/power.md
+./tags/practices.md
+./tags/primitives.md
+./tags/privacy.md
+./tags/progress.md
+./tags/protocols.md
+./tags/proto-dao.md
+./tags/purpose.md
+./tags/readme.md
+./tags/refi.md
+./tags/refizz.md
+./tags/regeneration.md
+./tags/resources.md
+./tags/responsibilities.md
+./tags/roles.md
+./tags/scale.md
+./tags/self-governance.md
+./tags/semiotic-bridging.md
+./tags/solidarity.md
+./tags/solidarity-economics.md
+./tags/sustainability.md
+./tags/systems.md
+./tags/tasks.md
+./tags/teams.md
+./tags/transformation.md
+./tags/transparency.md
+./tags/treasury.md
+./tags/values.md
+./tags/vision.md
+./tags/wallets.md
+./tmp/migration-instructions.md
+./tmp/migration-plan.md
+./tmp/migration-snapshot/directory-counts.md
+./tmp/migration-snapshot/type-counts.md
+./tmp/ontology.md
+./tools/index.md
+./tools/plugin-notes/dataview/dataviewjs-reference.md
+./tools/plugin-notes/dataview/dataview-metadata.md
+./tools/plugin-notes/dataview/dataview-queries.md
+./tools/plugin-notes/dataview/index.md
+./tools/plugin-notes/dataview/resource-queries.md
+./tools/plugin-notes/index.md
+./tools/plugin-notes/metadata-menu/index.md
+./tools/plugin-notes/metadata-menu/metadata-menu-reference.md
+./tools/plugin-notes/templater/Guide to Using Templater.md
+./tools/plugin-notes/templater/index.md
+./tools/plugin-notes/templater/templater-reference.md
+./tools/readme.md
+./tools/templates/index.md
+./tools/templates/layouts/article.md
+./tools/templates/layouts/guide.md
+./tools/templates/layouts/index.md
+./tools/templates/layouts/library.md
+./tools/templates/layouts/link.md
+./tools/templates/layouts/note.md
+./tools/templates/layouts/pattern.md
+./tools/templates/layouts/playbook.md
+./tools/templates/layouts/protocol.md
+./tools/templates/layouts/rpp-playbook.md
+./tools/templates/layouts/study.md
+./tools/templates/layouts/tag.md
+./tools/templates/readme.md
+./tools/template-type-alignment.md
+./tools/types/article.md
+./tools/types/artifact.md
+./tools/types/guide.md
+./tools/types/index.md
+./tools/types/link.md
+./tools/types/note.md
+./tools/types/pattern.md
+./tools/types/playbook.md
+./tools/types/protocol.md
+./tools/types/readme.md
+./tools/types/reference.md
+./tools/types/release.md
+./tools/types/study.md
+./tools/types/tag.md
+./tools/workflows/artifacts/case-studies/discovery/discovery-template.md
+./tools/workflows/artifacts/case-studies/discovery/discovery-workflow.md
+./tools/workflows/artifacts/case-studies/discovery/discovery-worksheet.md
+./tools/workflows/artifacts/case-studies/discovery/index.md
+./tools/workflows/artifacts/case-studies/discovery/readme.md
+./tools/workflows/artifacts/case-studies/experiment-documentation-workflow.md
+./tools/workflows/artifacts/case-studies/experiment-information-flow.md
+./tools/workflows/artifacts/case-studies/index.md
+./tools/workflows/artifacts/case-studies/intervention/index.md
+./tools/workflows/artifacts/case-studies/intervention/intervention-template.md
+./tools/workflows/artifacts/case-studies/intervention/intervention-workflow.md
+./tools/workflows/artifacts/case-studies/intervention/intervention-worksheet.md
+./tools/workflows/artifacts/case-studies/intervention/readme.md
+./tools/workflows/artifacts/case-studies/readme.md
+./tools/workflows/artifacts/case-studies/reflection/index.md
+./tools/workflows/artifacts/case-studies/reflection/readme.md
+./tools/workflows/artifacts/case-studies/reflection/reflection-template.md
+./tools/workflows/artifacts/case-studies/reflection/reflection-workflow.md
+./tools/workflows/artifacts/case-studies/reflection/reflection-worksheet.md
+./tools/workflows/artifacts/case-studies/synthesis/index.md
+./tools/workflows/artifacts/case-studies/synthesis/readme.md
+./tools/workflows/artifacts/case-studies/synthesis/synthesis-template.md
+./tools/workflows/artifacts/case-studies/synthesis/synthesis-workflow.md
+./tools/workflows/artifacts/case-studies/synthesis/synthesis-worksheet.md
+./tools/workflows/artifacts/patterns/pattern-creation.md
+./tools/workflows/artifacts/patterns/pattern-update.md
+./tools/workflows/artifacts/patterns/readme.md
+./tools/workflows/artifacts/playbooks/playbook-context-artifact-template.md
+./tools/workflows/artifacts/playbooks/playbook-context-worksheet-template.md
+./tools/workflows/artifacts/playbooks/readme.md
+./tools/workflows/backlinking-strategy-plan.md
+./tools/workflows/bridging/opencivics/content-selection-workflow.md
+./tools/workflows/bridging/opencivics/opencivics-lexicon-bridging-plan.md
+./tools/workflows/bridging/opencivics/pattern-integration-workflow.md
+./tools/workflows/bridging/opencivics/playbook-integration-workflow.md
+./tools/workflows/bridging/opencivics/protocol-integration-workflow.md
+./tools/workflows/bridging/opencivics/readme.md
+./tools/workflows/bridging/opencivics/template-alignment-workflow.md
+./tools/workflows/bridging/opencivics/terminology-mapping.md
+./tools/workflows/bridging/readme.md
+./tools/workflows/experiment-1-mapping.md
+./tools/workflows/experiment-1-progress.md
+./tools/workflows/experiment-2-mapping.md
+./tools/workflows/experiment-2-progress.md
+./tools/workflows/full-rollout-plan.md
+./tools/workflows/lexicon/readme.md
+./tools/workflows/lexicon/tag-creation-workflow.md
+./tools/workflows/lexicon/tag-update-workflow.md
+./tools/workflows/library/current-status.md
+./tools/workflows/library/daily-checklist.md
+./tools/workflows/library/data/final-ready-to-write.md
+./tools/workflows/library/data/rejected-articles-log.md
+./tools/workflows/library/discord-candidates-evaluation.md
+./tools/workflows/library/discord-link-scraper-project-plan.md
+./tools/workflows/library/discord-mining-standalone-prompt.md
+./tools/workflows/library/discord-mining-workflow.md
+./tools/workflows/library/evaluation-template.md
+./tools/workflows/library/final-ready-to-write.md
+./tools/workflows/library/library-entry-connection-instructions.md
+./tools/workflows/library/link-analysis-usage-guide.md
+./tools/workflows/library/old/link-creation-workflow.md
+./tools/workflows/library/old/link-evaluation-workflow.md
+./tools/workflows/library/processing-status.md
+./tools/workflows/library/quick-reference.md
+./tools/workflows/library/readme.md
+./tools/workflows/library/ready-to-write.md
+./tools/workflows/library/rejected-articles-log.md
+./tools/workflows/library/rigorous-curation-strategy.md
+./tools/workflows/library/SETUP-GITHUB-ACTIONS.md
+./tools/workflows/library/start-link-analysis.md
+./tools/workflows/library/to-delete/daily-checklist.md
+./tools/workflows/library/to-delete/link-analysis-usage-guide.md
+./tools/workflows/library/to-delete/link-creation-workflow-duplicate.md
+./tools/workflows/library/to-delete/link-evaluation-workflow-duplicate.md
+./tools/workflows/library/to-delete/rigorous-curation-strategy.md
+./tools/workflows/library/to-delete/web3-library-workflow.md
+./tools/workflows/library/valuable-articles.md
+./tools/workflows/library/values-concerns.md
+./tools/workflows/library/web3-library-workflow.md
+./tools/workflows/library/web-scraping-method-reliability-guide.md
+./tools/workflows/readme.md
+./tools/workflows/rollout-complete-summary.md
+./tools/workflows/rollout-progress-summary.md
+./tools/workflows/start-link-analysis.md
+./tools/workflows/syncing-content/SKILL.md

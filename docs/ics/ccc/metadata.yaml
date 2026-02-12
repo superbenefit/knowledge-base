@@ -1,0 +1,23 @@
+---
+title: "Community Exchange: Connecting Curiosity and Commitment in London"
+author: "Institute for Community Sustainability"
+date: 2025-04-01
+subtitle: "A resource-sharing network inspired by ancient wisdom and modern collaboration"
+toc: true
+toc-depth: 2
+numbersections: true
+papersize: letter
+documentclass: report
+geometry: margin=1in
+links-as-notes: true
+colorlinks: true
+linkcolor: blue
+urlcolor: blue
+toccolor: blue
+header-includes:
+  - \usepackage{fancyhdr}
+  - \pagestyle{fancy}
+  - \fancyhead[LE,RO]{Community Exchange}
+  - \fancyfoot[CE,CO]{Institute for Community Sustainability}
+  - \fancyfoot[LE,RO]{\thepage}
+---

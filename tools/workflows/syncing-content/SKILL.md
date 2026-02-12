@@ -11,9 +11,11 @@ This skill synchronizes content from **sb-knowledge-base** (Obsidian vault) to *
 
 **IMPORTANT**: Only files with `publish: true` in their frontmatter are synced. Files without this field or with `publish: false` are excluded from the knowledge garden.
 
+> **Note:** The knowledge-garden target structure may need updates to match the new vault organization. Coordinate with the KG repository maintainers before running sync operations.
+
 ## When to Use
 
-- After reorganizing content in Obsidian (artifacts, notes, links, tags, or types)
+- After reorganizing content in Obsidian
 - After adding or editing published content in the vault
 - When preparing to test a Quartz build with updated content
 - When type definitions have been updated in `tools/types/`
@@ -23,23 +25,45 @@ This skill synchronizes content from **sb-knowledge-base** (Obsidian vault) to *
 **sb-knowledge-base** (source):
 ```
 sb-knowledge-base/
-├── artifacts/       ← Content to sync
-├── links/           ← Content to sync
-├── notes/           ← Content to sync
-├── tags/            ← Content to sync
+├── docs/                    ← Working documents by group
+│   ├── aifs/
+│   ├── dao-primitives/
+│   ├── rpp/
+│   └── ...
+├── data/                    ← Structured records by type
+│   ├── concepts/            ← Lexicon entries
+│   ├── links/               ← External resources
+│   ├── resources/
+│   │   ├── patterns/
+│   │   ├── practices/
+│   │   ├── primitives/
+│   │   ├── protocols/
+│   │   └── playbooks/
+│   ├── stories/
+│   │   ├── articles/
+│   │   └── studies/
+│   ├── questions/
+│   ├── people/
+│   ├── groups/
+│   ├── projects/
+│   ├── places/
+│   └── gatherings/
 └── tools/
-    └── types/       ← Content to sync (only this subfolder)
+    └── types/               ← FileClass definitions
 ```
 
 **knowledge-garden** (target):
 ```
 knowledge-garden/
 ├── content/
-│   ├── artifacts/   ← Sync destination
-│   ├── links/       ← Sync destination
-│   ├── notes/       ← Sync destination
-│   ├── tags/        ← Sync destination
-│   └── types/       ← Sync destination (from tools/types)
+│   ├── docs/                ← Sync from docs/
+│   ├── data/                ← Sync from data/
+│   │   ├── concepts/
+│   │   ├── links/
+│   │   ├── resources/
+│   │   ├── stories/
+│   │   └── ...
+│   └── types/               ← Sync from tools/types
 ├── quartz/
 └── quartz.config.ts
 ```
@@ -78,21 +102,13 @@ cd "$KG_REPO" && git status
 Sync all content directories:
 
 ```bash
-# Sync artifacts
-rm -rf "$KG_REPO/content/artifacts"/*
-cp -r "$KB_REPO/artifacts"/* "$KG_REPO/content/artifacts"/
+# Sync docs (working documents)
+rm -rf "$KG_REPO/content/docs"/*
+cp -r "$KB_REPO/docs"/* "$KG_REPO/content/docs"/
 
-# Sync notes
-rm -rf "$KG_REPO/content/notes"/*
-cp -r "$KB_REPO/notes"/* "$KG_REPO/content/notes"/
-
-# Sync links
-rm -rf "$KG_REPO/content/links"/*
-cp -r "$KB_REPO/links"/* "$KG_REPO/content/links"/
-
-# Sync tags
-rm -rf "$KG_REPO/content/tags"/*
-cp -r "$KB_REPO/tags"/* "$KG_REPO/content/tags"/
+# Sync data (structured records)
+rm -rf "$KG_REPO/content/data"/*
+cp -r "$KB_REPO/data"/* "$KG_REPO/content/data"/
 
 # Sync types (from tools/types only)
 rm -rf "$KG_REPO/content/types"/*
@@ -102,22 +118,14 @@ cp -r "$KB_REPO/tools/types"/* "$KG_REPO/content/types"/
 ### 4. Verify Sync
 
 ```bash
-# Compare file counts for each content type
-echo "=== Artifacts ==="
-echo "Source:" && find "$KB_REPO/artifacts" -name "*.md" | wc -l
-echo "Target:" && find "$KG_REPO/content/artifacts" -name "*.md" | wc -l
+# Compare file counts for each content area
+echo "=== Docs ==="
+echo "Source:" && find "$KB_REPO/docs" -name "*.md" | wc -l
+echo "Target:" && find "$KG_REPO/content/docs" -name "*.md" | wc -l
 
-echo "=== Notes ==="
-echo "Source:" && find "$KB_REPO/notes" -name "*.md" | wc -l
-echo "Target:" && find "$KG_REPO/content/notes" -name "*.md" | wc -l
-
-echo "=== Links ==="
-echo "Source:" && find "$KB_REPO/links" -name "*.md" | wc -l
-echo "Target:" && find "$KG_REPO/content/links" -name "*.md" | wc -l
-
-echo "=== Tags ==="
-echo "Source:" && find "$KB_REPO/tags" -name "*.md" | wc -l
-echo "Target:" && find "$KG_REPO/content/tags" -name "*.md" | wc -l
+echo "=== Data ==="
+echo "Source:" && find "$KB_REPO/data" -name "*.md" | wc -l
+echo "Target:" && find "$KG_REPO/content/data" -name "*.md" | wc -l
 
 echo "=== Types ==="
 echo "Source:" && find "$KB_REPO/tools/types" -name "*.md" | wc -l
@@ -137,11 +145,9 @@ For teammates who have both repos in the same parent directory:
 
 ```bash
 # From parent directory containing both repos
-# Sync all content types
-rm -rf knowledge-garden/content/artifacts/* && cp -r sb-knowledge-base/artifacts/* knowledge-garden/content/artifacts/ && \
-rm -rf knowledge-garden/content/notes/* && cp -r sb-knowledge-base/notes/* knowledge-garden/content/notes/ && \
-rm -rf knowledge-garden/content/links/* && cp -r sb-knowledge-base/links/* knowledge-garden/content/links/ && \
-rm -rf knowledge-garden/content/tags/* && cp -r sb-knowledge-base/tags/* knowledge-garden/content/tags/ && \
+# Sync all content
+rm -rf knowledge-garden/content/docs/* && cp -r sb-knowledge-base/docs/* knowledge-garden/content/docs/ && \
+rm -rf knowledge-garden/content/data/* && cp -r sb-knowledge-base/data/* knowledge-garden/content/data/ && \
 rm -rf knowledge-garden/content/types/* && cp -r sb-knowledge-base/tools/types/* knowledge-garden/content/types/
 ```
 
@@ -163,7 +169,7 @@ Or use the provided script:
 ## Troubleshooting
 
 ### Build fails with type errors
-The Quartz type definitions may not match the new content structure. Check `content/types/release.md` and `quartz/types/typeRegistry.ts`.
+The Quartz type definitions may not match the new content structure. Check `content/types/` and `quartz/types/typeRegistry.ts`.
 
 ### Missing files after sync
 Ensure you used `cp -r` (recursive) and included the trailing `/*` to copy contents, not the folder itself.

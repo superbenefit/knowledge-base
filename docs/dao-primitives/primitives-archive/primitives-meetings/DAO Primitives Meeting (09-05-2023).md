@@ -1,0 +1,20 @@
+---
+group: dao-primitives
+tags:
+  - meetings
+date: 2023-09-05
+source: "[2022-04-19 - Weekly Meeting Notes - DAO Primitives](notes/dao-primitives/primitives-archive/primitives-docs/2022-04-19%20-%20Weekly%20Meeting%20Notes%20-%20DAO%20Primitives.md)"
+---
+
+# DAO Primitives Meeting - **9/5/23**
+
+- ## Attendees:
+	- 
+- ## **Review of progress and readiness for:**
+	- 
+- ## Discussion Topics:
+	- Defining scope of DAO Primitives vs Reimagining Power in relation to coordination-scale goals (ie Playbooks)
+		- What R&D tasks can DAO Primitives abstract away from the RP project to narrow its scope?
+		- Which Coordination-Scale goal & Constituency-scale invitation does DAO Primitives fall under?
+- ### Topics for next week:
+	-

@@ -1,0 +1,2 @@
+Definition: a tension is the feeling a person gets when they sense a gap between what is and what could be. 
+Tensions can be addressed in #[tactical meetings](archive/clarity/Tags/tactical%20meetings.md), through #[governance proposals](archive/clarity/Tags/governance%20proposals.md) or in other contexts.

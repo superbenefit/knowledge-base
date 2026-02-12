@@ -1,0 +1,29 @@
+---
+group: rpp
+- |-
+  For the EF experiment we are keen to get the ball rolling on setting EF up with an on/off-ramp for Canadian based funds.
+  In your experience is Newton still the best option?
+  And if so what do you think the best way for us to get them set up would be? E.g is there a human there that you could connect us to to starting the conversation, find out all of the requirements etc in advance of getting EF folks taking action on this (which requires some more conversations).
+---
+
+# Meeting Summary
+
+> A video recording of this call is available if required. Just ask   :)
+
+- Bryan explained the onboarding process for the charity to open an account with Newton, including the paperwork and documentation required.
+
+- Bryan clarified that the charity can wire funds from their Canadian bank account to Newton, and Newton will convert the funds to USDC or other cryptocurrencies.
+
+- Bryan mentioned that Newton can process wire transfers on the same day if received before 3 PM Eastern Time, or the next business day if received after 3 PM.
+
+- Bryan stated that Newton can keep multiple wallet addresses on file for the charity across different blockchain networks, and the charity can switch wallet addresses periodically for security reasons.
+
+- Bryan explained that Newton charges a discounted trading fee of 0.7% for OTC trades, compared to 1-1.25% on the retail platform.
+
+- Bryan clarified that Newton quotes the exact amount of cryptocurrency the charity will receive, without any additional fees or charges.
+
+- Bryan emphasized the importance of the charity understanding the implications of self-custody and managing their own private keys.
+
+- Bryan and Heenal discussed the next steps, with Heenal indicating they would follow up with the charity and potentially schedule another call with Bryan in the next two months.
+
+Minutes📝 12:05 PM - firefox meeting January 21 Notes 🕞 Started at 12:05 PM on 21 Jan, lasted 13mCharity Documentation and OnboardingThe charity will need to provide documentation authorizing specific individuals to conduct transactions on their behalf.Extensive paperwork similar to individual onboarding will be required from the charity.Bryan, as the assigned representative, will expedite the process, treating it as a VIP account.Corporate Client Onboarding TimelineCorporate client onboarding can be completed in as little as two business days, depending on the client's ability to provide necessary documentation.Retail and OTC Onboarding ProcessesThe retail side onboarding for Newton is straightforward, while the OTC (Over-The-Counter) side has been further streamlined.The OTC onboarding process takes approximately 2-3 minutes, primarily involving setting up a self-custodial wallet address for transactions.Accommodating Urgency LevelsBryan can accommodate various levels of urgency, from setting up the account within a business week to providing information as needed for those exploring options.Wire Transfer ProcessThe charity, presumed to be a Canadian corporation, would initiate a wire transfer from a Canadian bank account bearing their name.Wire transfers received before 3 PM Eastern are typically processed the same day; those received after are processed the next business day.This process is significantly faster than the traditional retail platform, which takes 3-5 business days.Dedicated Support for CharityThe charity will have dedicated support and direct access to Bryan for any questions or concerns.Fund Conversion and Wallet ManagementUpon receiving funds, Newton can convert them to cryptocurrency (e.g., USDC) and send it to the charity's designated wallet address.Multiple wallet addresses across different blockchain networks can be kept on file for the charity.Wallet addresses can be easily changed or updated as needed, though each new address must be whitelisted by Newton.The charity can change their wallet address monthly for security and privacy reasons if desired.Newton can accommodate frequent changes in wallet addresses, presuming the charity is creating new addresses each time.USDC RecommendationUSDC is suggested as a more cost-effective and globally useful option compared to Canadian stablecoins, which may have limited liquidity and support.Trade Settlement ProcessNewton handles end-to-end trade settlement for clients.When settling a client's purchase, Newton always sends a small test amount first for confirmation.Newton typically processes two batches of transactions daily, at 11 AM and 3 PM Eastern, reconciling with liquidity providers.While most transactions are processed quickly, those executed late in the day may not be settled until the following business day.Newton's client guide states they have up to 24 hours for full settlement.OTC Desk Trading FeesNewton's OTC desk offers discounted trading fees compared to their retail platform.The retail platform typically charges a spread of 1-1.25% for major assets like Ethereum, Bitcoin, and USDC.OTC clients start with a reduced spread of 0.7%, saving 30-55 basis points per transaction.There are no additional costs beyond the discounted spread and the trade size minimum.Newton provides exact quotes and delivers the precise amount of cryptocurrency promised, without hidden fees or deductions.Client Education on Self-CustodyBryan emphasizes the importance of clients understanding self-custody and its implications.Clients should be aware of the responsibilities and risks associated with managing their own cryptocurrency keys.Newton hopes that clients, especially those new to the space, understand the implications of these transactions.Implementation TimelineThe charity is exploring options and is not on an urgent timeline.The goal is to implement the solution within the next two months.Bryan will follow up towards the end of February if he doesn't hear from the clients before then.The clients will keep Bryan updated on their progress and decision-making process.

@@ -5,21 +5,15 @@ Plugins used in this vault.
 
 ## Using Plugins
 
-%% Add instructions for using plugins here %%
-
-In most cases, changes to plugins and other Obsidian settings will not be 
+Plugins extend the functionality of Obsidian. This vault relies on a combination of core and community plugins to support content creation, metadata management, and querying. In most cases, changes to plugins and other Obsidian settings will not affect the underlying markdown files.
 
 ---
 
 ## Core Plugins
 
-Several core plugins are used to organize and edit the content of this vault. %% please improve this %%
+Several core plugins are used to organize and edit the content of this vault. These are built into Obsidian and can be toggled on or off in Settings > Core plugins.
 
-%% Add overview of core plugins and their purpose %%
-
-You can enable, disable, or replace core plugins to suit your workflow. 
-
-![[https://youtu.be/eOsL2eP-N6g]]
+You can enable, disable, or replace core plugins to suit your workflow.
 
 ### Core Plugins Currently In-Use
 
@@ -33,13 +27,9 @@ These core plugins are required for the basic functions of our vault. Disabling 
 
 ## Community Plugins
 
-Community plugins are used to extend Obsidian's functionality to enable new features.
+Community plugins are third-party extensions that add features beyond what Obsidian provides out of the box. They are installed via Settings > Community plugins.
 
-%% improve this section please  %%
-
-You can use community plugins to customize obsidian's features to suit your workflow. Here are some examples:
-
-![[https://youtu.be/3UMncGbocAU]]
+You can use community plugins to customize Obsidian's features to suit your workflow.
 
 ---
 
@@ -47,16 +37,16 @@ You can use community plugins to customize obsidian's features to suit your work
 
 These community plugins are required for the functionality of various features in this vault. Things will probably break if you disable these, but you can adjust some settings to suit your needs.
 
-%% Add intro here indicating why and how some plugins are required %%
+Each plugin below serves a specific role in the knowledge base workflow: Dataview powers dynamic queries, Templater handles template rendering, and Metadata Menu enforces consistent frontmatter schemas.
 
 ### Dataview
-We use dataview to query this vault's contents for creating custom views.
+We use Dataview to query this vault's contents for creating custom views.
 ![[tools/plugin-notes/dataview/index]]
 
 ### Templater
-We use templater to populate dynamic content within this vault. 
+We use Templater to populate dynamic content within this vault.
 ![[tools/plugin-notes/templater/index]]
 
 ### Metadata Menu
-We use Metadata Menu to standardize file metadata across the vault
+We use Metadata Menu to standardize file metadata across the vault.
 ![[tools/plugin-notes/metadata-menu/index]]

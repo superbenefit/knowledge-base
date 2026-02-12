@@ -20,10 +20,10 @@ Effective syntheses show change as it really happens - messy, non-linear, with s
 - **Show the journey** - How you got there matters as much as where you ended up
 
 ## Contents
-- [[readme]] - Technical overview and information flow
-- [[synthesis-worksheet]] - Questions to explore
-- [[synthesis-template]] - Document structure
-- [[synthesis-workflow]] - How to create it
+- [readme](readme.md) - Technical overview and information flow
+- [synthesis-worksheet](synthesis-worksheet.md) - Questions to explore
+- [synthesis-template](synthesis-template.md) - Document structure
+- [synthesis-workflow](synthesis-workflow.md) - How to create it
 
 ## Getting Started
 Gather your Discovery Report, Intervention Map, and Reflections, then use the worksheet and workflow to create your Case Study.

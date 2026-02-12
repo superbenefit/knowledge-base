@@ -2,9 +2,9 @@
   "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": true,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "path:notes/archive  ",
+      "query": "path:archive  ",
       "color": {
         "a": 1,
         "rgb": 8159619
@@ -67,6 +67,6 @@
   "repelStrength": 20,
   "linkStrength": 0.748394004282655,
   "linkDistance": 500,
-  "scale": 0.0078125,
+  "scale": 0.011311979752309721,
   "close": false
 }

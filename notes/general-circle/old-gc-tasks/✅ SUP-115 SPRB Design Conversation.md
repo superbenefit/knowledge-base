@@ -1,5 +1,0 @@
----
-tags:
-  - tasks
----
-(if necessary)
