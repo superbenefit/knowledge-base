@@ -12,7 +12,7 @@ tags:
   - governance
   - networks
 publish: true
-type: link
+type: article
 banner: "![[attachments/CZkS0TIqq19IH8wIkdxbT.png]]"
 ---
 

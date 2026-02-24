@@ -10,7 +10,7 @@ tags:
   - daos
   - governance
 publish: true
-type: link
+type: article
 banner: "![[attachments/qztS_khrW3sAN3MEOHtsz.png]]"
 ---
 

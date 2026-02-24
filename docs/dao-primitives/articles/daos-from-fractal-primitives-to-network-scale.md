@@ -11,7 +11,7 @@ tags:
   - permissions
   - governance
 publish: true
-type: link
+type: article
 banner: "![[attachments/FzK303B84CkXp5lxZT5Uq.png]]"
 ---
 
