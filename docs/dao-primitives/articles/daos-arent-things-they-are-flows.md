@@ -120,3 +120,4 @@ Perhaps this reframing will help keep us oriented towards coordinating value flo
 - [Governance](data/concepts/governance.md) - Coordination approaches for flowing networks
 - [Scale](data/concepts/scale.md) - Network dynamics across different scales
 - [Coordination](data/concepts/coordination.md) - Mechanisms for organizing network flows
+

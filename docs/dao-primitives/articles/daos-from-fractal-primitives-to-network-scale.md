@@ -170,3 +170,4 @@ The limited liability company primitive was able to produce the vastly complex g
 - [Scale](data/concepts/scale.md) - Fractal patterns across organizational scales
 - [Networks](data/concepts/networks.md) - Structure emerging from primitive composition
 - [DAO Primitives Framework](docs/dao-primitives/index.md) - Framework for composable coordination
+

@@ -147,3 +147,4 @@ You have a system that can [scale](data/concepts/scale.md) collective intelligen
 - [Decentralization](data/concepts/decentralization.md) - Tension between openness and coordination
 - [Coordination](data/concepts/coordination.md) - Mechanisms requiring varying permission levels
 - [Power](data/concepts/power.md) - Distribution through permissionless structures
+

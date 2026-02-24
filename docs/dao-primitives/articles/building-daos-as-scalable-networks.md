@@ -158,3 +158,4 @@ _We are learning as these experiments evolve and are deeply appreciative of the 
 - [Scale](data/concepts/scale.md) - Challenges and approaches to scaling
 - [Coordination](data/concepts/coordination.md) - Mechanisms enabling network scaling
 - [Governance](data/concepts/governance.md) - Decision-making at network scale
+

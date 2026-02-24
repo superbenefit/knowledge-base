@@ -128,3 +128,4 @@ And to do this DAOs have to be able to leverage **both** Dynamic-One **and** Dyn
 - [Power](data/concepts/power.md) - Leverage points in scaled coordination
 - [Networks](data/concepts/networks.md) - Structure enabling scale and power
 - [Governance](data/concepts/governance.md) - Decision-making at different scales
+
